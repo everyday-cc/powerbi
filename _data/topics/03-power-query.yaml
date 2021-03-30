@@ -1,0 +1,11 @@
+taxonomy: topic
+_id: power-query
+name: Power Query
+parent: Power BI
+keywords:
+  - power query
+  - powerquery
+hashtags:
+  - "#PowerQuery"
+services:
+  learning: https://everyday-cc.github.io/powerbi/api/learning/power-query/

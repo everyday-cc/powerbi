@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: power-bi-service
+name: Power BI Service
+shortname: Service
+parent: Power BI
+keywords:
+  - power bi service
+  - powerbi service
+hashtags:
+  - "#PowerBIService"
+services:
+  learning: https://everyday-cc.github.io/powerbi/api/learning/power-bi-service/
+  news: https://everyday-cc.github.io/powerbiower-bi-service/

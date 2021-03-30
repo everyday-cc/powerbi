@@ -1,0 +1,848 @@
+{
+  "title": "Functions",
+  "path": "_functions",
+  "page": 4,
+  "value": [
+    {
+      "path": "_functions/currentgroup.md",
+      "title": "CURRENTGROUP ( )",
+      "excerpt": "Returns a set of rows from the table argument of a GROUPBY expression that belong to the current row of the GROUPBY result.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/currentgroup/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/currentgroup-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/currentgroup-function-dax",
+      "name": "CURRENTGROUP ( )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/customdata.md",
+      "title": "CUSTOMDATA ()",
+      "excerpt": "Returns the content of the CustomData property in the connection string.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/customdata/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/customdata-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/customdata-function-dax",
+      "name": "CUSTOMDATA ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datatable.md",
+      "title": "DATATABLE (ColumnName1, DataType1, ColumnName2, DataType2..., {{Value1, Value2...}, {ValueN, ValueN+1...}...})",
+      "excerpt": "Provides a mechanism for declaring an inline set of data values.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/datatable/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datatable-function",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datatable-function",
+      "name": "DATATABLE (ColumnName1, DataType1, ColumnName2, DataType2..., {{Value1, Value2...}, {ValueN, ValueN+1...}...})",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/date.md",
+      "title": "DATE (<year>, <month>, <day>)",
+      "excerpt": "Returns the specified date in datetime format.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/date/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/date-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/date-function-dax",
+      "name": "DATE (<year>, <month>, <day>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/dateadd.md",
+      "title": "DATEADD (<dates>,<number_of_intervals>,<interval>)",
+      "excerpt": "Returns a table that contains a column of dates, shifted either forward or backward in time by the specified number of intervals from the dates in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/dateadd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/dateadd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/dateadd-function-dax",
+      "name": "DATEADD (<dates>,<number_of_intervals>,<interval>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datediff.md",
+      "title": "DATEDIFF (<start_date>, <end_date>, <interval>)",
+      "excerpt": "Returns the count of interval boundaries crossed between two dates.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/datediff/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datediff-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datediff-function-dax",
+      "name": "DATEDIFF (<start_date>, <end_date>, <interval>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datesbetween.md",
+      "title": "DATESBETWEEN (<dates>, <start_date>, <end_date>)",
+      "excerpt": "Returns a table that contains a column of dates that begins with a specified start date and continues until a specified end date.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/datesbetween/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datesbetween-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datesbetween-function-dax",
+      "name": "DATESBETWEEN (<dates>, <start_date>, <end_date>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datesinperiod.md",
+      "title": "DATESINPERIOD (<dates>, <start_date>, <number_of_intervals>, <interval>)",
+      "excerpt": "Returns a table that contains a column of dates that begins with a specified start date and continues for the specified number and type of date intervals.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/datesinperiod/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datesinperiod-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datesinperiod-function-dax",
+      "name": "DATESINPERIOD (<dates>, <start_date>, <number_of_intervals>, <interval>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datesmtd.md",
+      "title": "DATESMTD (<dates>)",
+      "excerpt": "Returns a table that contains a column of the dates for the month to date, in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/datesmtd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datesmtd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datesmtd-function-dax",
+      "name": "DATESMTD (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datesqtd.md",
+      "title": "DATESQTD (<dates>)",
+      "excerpt": "Returns a table that contains a column of the dates for the quarter to date, in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/datesqtd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datesqtd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datesqtd-function-dax",
+      "name": "DATESQTD (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datesytd.md",
+      "title": "DATESYTD (<dates> [,<year_end_date>])",
+      "excerpt": "Returns a table that contains a column of the dates for the year to date, in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/datesytd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datesytd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datesytd-function-dax",
+      "name": "DATESYTD (<dates> [,<year_end_date>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datevalue.md",
+      "title": "DATEVALUE (date_text)",
+      "excerpt": "Converts a date in text format to a date in datetime format.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/datevalue/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datevalue-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datevalue-function-dax",
+      "name": "DATEVALUE (date_text)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/day.md",
+      "title": "DAY (<date>)",
+      "excerpt": "Returns the day of the month, a number from 1 to 31.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/day/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/day-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/day-function-dax",
+      "name": "DAY (<date>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/db.md",
+      "title": "DB (<cost>, <salvage>, <life>, <period>[, <month>])",
+      "excerpt": "Returns the depreciation of an asset for a specified period using the fixed-declining balance method.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/db/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/db-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/db-function-dax",
+      "name": "DB (<cost>, <salvage>, <life>, <period>[, <month>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/ddb.md",
+      "title": "DDB (<cost>, <salvage>, <life>, <period>[, <factor>])",
+      "excerpt": "Returns the depreciation of an asset for a specified period using the double-declining balance method or some other method you specify.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/ddb/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/ddb-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/ddb-function-dax",
+      "name": "DDB (<cost>, <salvage>, <life>, <period>[, <factor>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/degrees.md",
+      "title": "DEGREES (angle)",
+      "excerpt": "Converts radians into degrees.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/degrees/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/degrees-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/degrees-function-dax",
+      "name": "DEGREES (angle)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/detailrows.md",
+      "title": "DETAILROWS([Measure])",
+      "excerpt": "Evaluates a Detail Rows Expression defined for a measure and returns the data.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/detailrows/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/detailrows-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/detailrows-function-dax",
+      "name": "DETAILROWS([Measure])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/disc.md",
+      "title": "DISC (<settlement>, <maturity>, <pr>, <redemption>[, <basis>])",
+      "excerpt": "Returns the discount rate for a security.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/disc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/disc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/disc-function-dax",
+      "name": "DISC (<settlement>, <maturity>, <pr>, <redemption>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/distinct-column.md",
+      "title": "DISTINCT (<column>)",
+      "excerpt": "Returns a one-column table that contains the distinct values from the specified column. In other words, duplicate values are removed and only unique values are returned.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/distinct-column/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/distinct-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/distinct-function-dax",
+      "name": "DISTINCT (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/distinct-table.md",
+      "title": "DISTINCT (<table>)",
+      "excerpt": "Returns a table by removing duplicate rows from another table or expression.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/distinct-table/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/distinct-table-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/distinct-table-function-dax",
+      "name": "DISTINCT (<table>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/distinctcount.md",
+      "title": "DISTINCTCOUNT (<column>)",
+      "excerpt": "Counts the number of distinct values in a column.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/distinctcount/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/distinctcount-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/distinctcount-function-dax",
+      "name": "DISTINCTCOUNT (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/distinctcountnoblank.md",
+      "title": "DISTINCTCOUNTNOBLANK (<column>)",
+      "excerpt": "Counts the number of distinct values in a column.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/distinctcountnoblank/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/distinctcountnoblank-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/distinctcountnoblank-function-dax",
+      "name": "DISTINCTCOUNTNOBLANK (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/divide.md",
+      "title": "DIVIDE (<numerator>, <denominator> [,<alternateresult>])",
+      "excerpt": "Performs division and returns alternate result or BLANK() on division by 0.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/divide/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/divide-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/divide-function-dax",
+      "name": "DIVIDE (<numerator>, <denominator> [,<alternateresult>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/dollarde.md",
+      "title": "DOLLARDE (<fractional_dollar>, <fraction>)",
+      "excerpt": "Converts a dollar price expressed as an integer part and a fraction part, such as 1.02, into a dollar price expressed as a decimal number. Fractional dollar numbers are sometimes used for security prices.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/dollarde/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/dollarde-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/dollarde-function-dax",
+      "name": "DOLLARDE (<fractional_dollar>, <fraction>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/dollarfr.md",
+      "title": "DOLLARFR (<decimal_dollar>, <fraction>)",
+      "excerpt": "Converts a dollar price expressed as a decimal number into a dollar price expressed as an integer part and a fraction part, such as 1.02. Fractional dollar numbers are sometimes used for security prices.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/dollarfr/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/dollarfr-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/dollarfr-function-dax",
+      "name": "DOLLARFR (<decimal_dollar>, <fraction>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/duration.md",
+      "title": "DURATION (<settlement>, <maturity>, <coupon>, <yld>, <frequency>[, <basis>])",
+      "excerpt": "Returns the Macauley duration for an assumed par value of \\$100. Duration is defined as the weighted average of the present value of cash flows, and is used as a measure of a bond price's response to changes in yield.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/duration/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/duration-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/duration-function-dax",
+      "name": "DURATION (<settlement>, <maturity>, <coupon>, <yld>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/earlier.md",
+      "title": "EARLIER (<column>, <number>)",
+      "excerpt": "Returns the current value of the specified column in an outer evaluation pass of the mentioned column.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/earlier/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/earlier-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/earlier-function-dax",
+      "name": "EARLIER (<column>, <number>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/earliest.md",
+      "title": "EARLIEST (<column>)",
+      "excerpt": "Returns the current value of the specified column in an outer evaluation pass of the specified column.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/earliest/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/earliest-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/earliest-function-dax",
+      "name": "EARLIEST (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/edate.md",
+      "title": "EDATE (<start_date>, <months>)",
+      "excerpt": "Returns the date that is the indicated number of months before or after the start date. Use EDATE to calculate maturity dates or due dates that fall on the same day of the month as the date of issue.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/edate/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/edate-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/edate-function-dax",
+      "name": "EDATE (<start_date>, <months>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/effect.md",
+      "title": "EFFECT (<nominal_rate>, <npery>)",
+      "excerpt": "Returns the effective annual interest rate, given the nominal annual interest rate and the number of compounding periods per year.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/effect/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/effect-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/effect-function-dax",
+      "name": "EFFECT (<nominal_rate>, <npery>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    }
+  ],
+  "nextPage": 5
+}

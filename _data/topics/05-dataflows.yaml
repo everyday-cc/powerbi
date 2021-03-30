@@ -1,0 +1,11 @@
+taxonomy: topic
+_id: dataflows
+name: Dataflows
+parent: Power BI
+keywords:
+  - dataflows
+hashtags:
+  - "#dataflows"
+services:
+  learning: https://everyday-cc.github.io/powerbi/api/learning/dataflows/
+  news: https://everyday-cc.github.io/powerbiataflows/

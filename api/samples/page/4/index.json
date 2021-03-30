@@ -1,0 +1,1571 @@
+{
+  "title": "Samples",
+  "path": "_samples",
+  "page": 4,
+  "value": [
+    {
+      "path": "_samples/powerbi-community-retail-data-stories.md",
+      "title": "Retail Data Stories",
+      "excerpt": "Here is a new take on delivering insights related to the Retail Industry, the base data taken for this dashboard is Obvience’s retail data (I have",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-retail-data-stories/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-retail-data-stories/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Retail-Data-Stories/m-p/811497",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "skappal7",
+            "type": "profile",
+            "name": "skappal7"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNTUxNGYyMzktNDk1MC00MmYyLWE2NWEtMGMxZDMwMjUxODdkIiwidCI6ImJiNDY2Y2JiLTYyMWMtNDkzYi04Mzc0LTZjOGYyNmRjNmExOCIsImMiOjEwfQ%3D%3D\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNTUxNGYyMzktNDk1MC00MmYyLWE2NWEtMGMxZDMwMjUxODdkIiwidCI6ImJiNDY2Y2JiLTYyMWMtNDkzYi04Mzc0LTZjOGYyNmRjNmExOCIsImMiOjEwfQ%3D%3D",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3051/3/Retail%20Datastorytelling%20Demo.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-10-07T02:08:00-07:00",
+      "heat": 52,
+      "tags": [
+        "Business"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3051/2/Merchandise%20Analysis%20Synoptic%20Panel.png",
+          "width": 1129,
+          "height": 659,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-the-best-solution-for-insurance-companies.md",
+      "title": "The best solution for insurance companies",
+      "excerpt": "Hi! This is a tool for underwriters and finance department. This helps very quickly to find out the minimum rate and the minimum insurance premium.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-the-best-solution-for-insurance-companies/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-the-best-solution-for-insurance-companies/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/The-best-solution-for-insurance-companies/m-p/409839",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "bysidby",
+            "type": "profile",
+            "name": "bysidby"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDQzYjg0OGItYjFjNC00OTE5LThhODAtOWVmZDdlYjJmYzM1IiwidCI6IjJkNzIwNGFjLWMxNDEtNDc3MC1iZGIxLTQ2ZDQ1OTQxNDYyYiIsImMiOjF9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZDQzYjg0OGItYjFjNC00OTE5LThhODAtOWVmZDdlYjJmYzM1IiwidCI6IjJkNzIwNGFjLWMxNDEtNDc3MC1iZGIxLTQ2ZDQ1OTQxNDYyYiIsImMiOjF9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1859/2/Motor_Insurance.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-05-02T20:45:00-07:00",
+      "heat": 52,
+      "tags": [
+        "Business",
+        "Technology",
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1859/1/END.jpg",
+          "width": 1920,
+          "height": 1080,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-whats-new-in-power-bi.md",
+      "title": "What's New in Power BI",
+      "excerpt": "What's New Power BI Updated Sept 18th 2018 With weekly and monthly releases, there are a lot of fantastic new features to explore in Power BI. I used",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-whats-new-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-whats-new-in-power-bi/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/What-s-New-in-Power-BI/m-p/100643",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "chass",
+            "type": "profile",
+            "name": "chass"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMGQ2MTFiNDgtMWIxNy00Y2IzLTg4NmEtNDAzNTQ4ODU0YmJjIiwidCI6ImZkMTI5OGJlLWMwOWYtNDM0OS05NmU4LWJkMDk3MjEwZTI3NCIsImMiOjF9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMGQ2MTFiNDgtMWIxNy00Y2IzLTg4NmEtNDAzNTQ4ODU0YmJjIiwidCI6ImZkMTI5OGJlLWMwOWYtNDM0OS05NmU4LWJkMDk3MjEwZTI3NCIsImMiOjF9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/486/12/What%20is%20new%20in%20Power%20BI.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2016-12-09T07:16:00-08:00",
+      "heat": 52,
+      "tags": [
+        "Business"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/486/1/prezzy.png",
+          "width": 833,
+          "height": 606,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-world-data-visualization-prize-submission.md",
+      "title": "World Data Visualization Prize Submission",
+      "excerpt": "I created this Power BI Report as part of the World Data Visualization Prize . The goal was to create an app-like interactive user experience that",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-world-data-visualization-prize-submission/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-world-data-visualization-prize-submission/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/World-Data-Visualization-Prize-Submission/m-p/615034",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "chamil",
+            "type": "profile",
+            "name": "chamil"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYzQyOTc3MDAtYjUxOC00ZTUyLWI3YzQtM2Y5Y2RiMDY1NWZjIiwidCI6ImVhYzJmZmU0LWNmYWQtNDI5MC1hNmYxLTRkMjlhNjZhODA0NCJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYzQyOTc3MDAtYjUxOC00ZTUyLWI3YzQtM2Y5Y2RiMDY1NWZjIiwidCI6ImVhYzJmZmU0LWNmYWQtNDI5MC1hNmYxLTRkMjlhNjZhODA0NCJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2466/2/World%20Data%20Visualization%20Prize%20Submission%20-%20Chris%20Hamill%201.2.19.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-02-01T01:57:00-08:00",
+      "heat": 52,
+      "tags": [
+        "Health",
+        "Education",
+        "Government",
+        "Lifestyle",
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2466/1/World%20Data%20snap.jpg",
+          "width": 1918,
+          "height": 1051,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-12-ways-to-see-trending-data-with-custom-power-bi-visuals.md",
+      "title": "12 ways to see trending data with custom Power BI visuals",
+      "excerpt": "English | Spanish (español) For full screen view click here: https://bit.ly/2xRqNti Para verlo en pantalla completa click aquí:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-12-ways-to-see-trending-data-with-custom-power-bi-visuals/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-12-ways-to-see-trending-data-with-custom-power-bi-visuals/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/12-ways-to-see-trending-data-with-custom-Power-BI-visuals/m-p/1084406",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "cabc_xlorla",
+            "type": "profile",
+            "name": "cabc_xlorla"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTc5Mzg2YzUtNGI1NS00ZGQ5LTgxMjItNGZiMjEwNzA1MzJjIiwidCI6IjEwZWM3OTJjLTU4NzctNGU1ZS05OGE5LTFiMWQ3YTNjM2RlYiIsImMiOjR9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZTc5Mzg2YzUtNGI1NS00ZGQ5LTgxMjItNGZiMjEwNzA1MzJjIiwidCI6IjEwZWM3OTJjLTU4NzctNGU1ZS05OGE5LTFiMWQ3YTNjM2RlYiIsImMiOjR9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3927/2/ways_to_show_data_v2.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-05-11T01:43:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Government",
+        "Business",
+        "Technology",
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3927/1/line%202.jpg",
+          "width": 1811,
+          "height": 1010,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-13-ways-to-see-trending-data-with-native-power-bi-visuals.md",
+      "title": "13 ways to see trending data with native Power BI visuals",
+      "excerpt": "English | Spanish (español) For full screen view click here: https://bit.ly/2SUp6Tb Para verlo en pantalla completa click aquí:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-13-ways-to-see-trending-data-with-native-power-bi-visuals/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-13-ways-to-see-trending-data-with-native-power-bi-visuals/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/13-ways-to-see-trending-data-with-native-Power-BI-visuals/m-p/1083280",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "cabc_xlorla",
+            "type": "profile",
+            "name": "cabc_xlorla"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzZkZjRlZWUtZWM3MC00OGRjLThmYTMtNzljN2UzYTQzMDNhIiwidCI6IjEwZWM3OTJjLTU4NzctNGU1ZS05OGE5LTFiMWQ3YTNjM2RlYiIsImMiOjR9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMzZkZjRlZWUtZWM3MC00OGRjLThmYTMtNzljN2UzYTQzMDNhIiwidCI6IjEwZWM3OTJjLTU4NzctNGU1ZS05OGE5LTFiMWQ3YTNjM2RlYiIsImMiOjR9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3921/2/ways_to_show_data.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-05-10T14:17:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Education",
+        "Business",
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3921/1/line.jpg",
+          "width": 1868,
+          "height": 1022,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-3-year-analysis-of-gartner-magic-quadrant-leaders-for-analytics-and-business-intelligence.md",
+      "title": "3 Year Analysis of Gartner Magic Quadrant Leaders for Analytics and Business Intelligence",
+      "excerpt": "With the recent release of Gartner's Magic Quadrant for Analytics and Business Intelligence , in which Microsoft is in the Leaders quadrant for the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-3-year-analysis-of-gartner-magic-quadrant-leaders-for-analytics-and-business-intelligence/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-3-year-analysis-of-gartner-magic-quadrant-leaders-for-analytics-and-business-intelligence/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/3-Year-Analysis-of-Gartner-Magic-Quadrant-Leaders-for-Analytics/m-p/623702",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Greg_Deckler",
+            "type": "profile",
+            "name": "Greg_Deckler"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmVjMzk2NTctN2FkZS00NzUzLThhMWUtZjZmODE5MDY4MWZjIiwidCI6IjRhMDQyNzQzLTM3M2EtNDNkMi04MjdiLTAwM2Y0YzdiYTFlNSIsImMiOjN9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNmVjMzk2NTctN2FkZS00NzUzLThhMWUtZjZmODE5MDY4MWZjIiwidCI6IjRhMDQyNzQzLTM3M2EtNDNkMi04MjdiLTAwM2Y0YzdiYTFlNSIsImMiOjN9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2486/9/Gartner3Year.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-02-14T02:25:00-08:00",
+      "heat": 51,
+      "tags": [
+        "Business"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2486/10/3YearAnalysisGartner.png",
+          "width": 2355,
+          "height": 1324,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-adult-social-care-for-welsh-local-authorities-5-year-trends.md",
+      "title": "Adult Social Care for Welsh Local Authorities - 5 year trends",
+      "excerpt": "This report describes 'delayed transfers of care' for adults, for all Welsh Local Authorities each month over the last 5 years; highlighting the top",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-adult-social-care-for-welsh-local-authorities-5-year-trends/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-adult-social-care-for-welsh-local-authorities-5-year-trends/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Adult-Social-Care-for-Welsh-Local-Authorities-5-year-trends/m-p/205238",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "SusieBentley",
+            "type": "profile",
+            "name": "SusieBentley"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmRlMWVkMzMtOGIzMi00ODMyLTkxZmEtOTViYmMwYWYwYzBiIiwidCI6IjJmYmQ1NGQwLTc3YTgtNGQyMy1hZTUxLWRiZmY5MTA0ZDY1YyIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNmRlMWVkMzMtOGIzMi00ODMyLTkxZmEtOTViYmMwYWYwYzBiIiwidCI6IjJmYmQ1NGQwLTc3YTgtNGQyMy1hZTUxLWRiZmY5MTA0ZDY1YyIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/931/2/Wales%20Delayed%20Transfers%20of%20Care.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-07-02T21:12:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Health",
+        "Lifestyle"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/931/1/Wales%20Delayed%20Transfers%20of%20Care%20PBI.PNG",
+          "width": 1319,
+          "height": 759,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-airbnb-berlin.md",
+      "title": "Airbnb Berlin",
+      "excerpt": "This report shows the airbnb locations , on the left side of report we have various filters to make our choosing accordingly. The report also shows",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-airbnb-berlin/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-airbnb-berlin/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Airbnb-Berlin/m-p/727596",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "SreeP",
+            "type": "profile",
+            "name": "SreeP"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMzU3YzE2OTItNWQzNy00YjI4LTk4NGUtOTdhZTM2NzMxNjE1IiwidCI6IjIzMWRkOWNkLWRkYzctNGZiYS1hZTc4LTlmNGFjM2M5MTJlNyIsImMiOjN9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMzU3YzE2OTItNWQzNy00YjI4LTk4NGUtOTdhZTM2NzMxNjE1IiwidCI6IjIzMWRkOWNkLWRkYzctNGZiYS1hZTc4LTlmNGFjM2M5MTJlNyIsImMiOjN9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2732/2/Airbnb.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-06-28T06:48:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Lifestyle"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2732/1/Airbnbsnapshot.png",
+          "width": 1325,
+          "height": 727,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-alarm-analysis-dashboard-design-insights.md",
+      "title": "Alarm Analysis Dashboard design insights",
+      "excerpt": "Description A&amp;E overview dashboard provides a quick snapshot of all relevant data with a process-control-engineer-centric view. It offers detailed",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-alarm-analysis-dashboard-design-insights/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-alarm-analysis-dashboard-design-insights/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Alarm-Analysis-Dashboard-design-insights/m-p/1091669",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "neil_varnas_IP",
+            "type": "profile",
+            "name": "neil_varnas_IP"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTU3ZjkzMWItMWQzMy00ODhhLTg0MmQtOTA4ZjU1ZDFhZjlmIiwidCI6IjJiZGIwNGVlLTAyYTUtNDYzMi04NGJiLTIxNDQzMTk5OTEzYiJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMTU3ZjkzMWItMWQzMy00ODhhLTg0MmQtOTA4ZjU1ZDFhZjlmIiwidCI6IjJiZGIwNGVlLTAyYTUtNDYzMi04NGJiLTIxNDQzMTk5OTEzYiJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3952/2/Industrial%20AppStore%20Dasboard%20-%20AA.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-05-14T23:53:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Government",
+        "Business",
+        "Technology",
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3952/1/AA%20dashboard%20insights%20-%20thumbnail.PNG",
+          "width": 957,
+          "height": 539,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-anime-rating.md",
+      "title": "Anime Rating",
+      "excerpt": "Inspired by the report: https://community.powerbi.com/t5/Data-Stories-Gallery/Anime-Analitycs/m-p/111203#M544 Created by @funichi, I have created",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-anime-rating/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-anime-rating/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Anime-Rating/m-p/252271",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Yana",
+            "type": "profile",
+            "name": "Yana"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiODg5ODc1YmUtYzM1ZC00MGZkLTlmYWEtZmJmMTc2OGY0OWMxIiwidCI6IjAyMTJmZDNkLWQ1ZGYtNGVkNy05NzYyLTQ5ZGRmZDQ1ZGM1MCIsImMiOjZ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiODg5ODc1YmUtYzM1ZC00MGZkLTlmYWEtZmJmMTc2OGY0OWMxIiwidCI6IjAyMTJmZDNkLWQ1ZGYtNGVkNy05NzYyLTQ5ZGRmZDQ1ZGM1MCIsImMiOjZ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1138/2/AnimeBasic.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-09-14T07:12:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Entertainment"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1138/1/Anime.PNG",
+          "width": 1472,
+          "height": 827,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-best-practices-for-designing-a-roprt.md",
+      "title": "Best Practices for Designing a Roprt",
+      "excerpt": "This report was created with a dataset from #MakeoverMonday to show the best practices for good design and the User Experience that I recently",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-best-practices-for-designing-a-roprt/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-best-practices-for-designing-a-roprt/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Best-Practices-for-Designing-a-Roprt/m-p/441350",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Chapin4u",
+            "type": "profile",
+            "name": "Chapin4u"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiM2FlYTcyZjUtMTU3Zi00YmVkLWFjMzUtMDU0MWY3NzNkYjI1IiwidCI6IjI1YTcyNjUyLWQ5ZDEtNGZiZC05NTQ0LTBhOGU1Yjc0MmM4MiIsImMiOjR9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiM2FlYTcyZjUtMTU3Zi00YmVkLWFjMzUtMDU0MWY3NzNkYjI1IiwidCI6IjI1YTcyNjUyLWQ5ZDEtNGZiZC05NTQ0LTBhOGU1Yjc0MmM4MiIsImMiOjR9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2008/2/Wine%20production.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-06-16T07:31:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Business"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2008/1/2018-06-16_11-12-09.jpg",
+          "width": 775,
+          "height": 454,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-commodity-correlation-double-helix.md",
+      "title": "Commodity Correlation \"Double Helix\"",
+      "excerpt": "Introduction Recently, I was paired with Austin-based Energy Consultant and Energy Complex journalist Dallas Salazar as part of the MVP Mentoring",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-commodity-correlation-double-helix/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-commodity-correlation-double-helix/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Commodity-Correlation-quot-Double-Helix-quot/m-p/135256",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Greg_Deckler",
+            "type": "profile",
+            "name": "Greg_Deckler"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjVhY2E1OTUtYTUzMi00MWViLThlNWYtNDA3MTY1ZDMyMTUzIiwidCI6IjRhMDQyNzQzLTM3M2EtNDNkMi04MjdiLTAwM2Y0YzdiYTFlNSIsImMiOjN9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNjVhY2E1OTUtYTUzMi00MWViLThlNWYtNDA3MTY1ZDMyMTUzIiwidCI6IjRhMDQyNzQzLTM3M2EtNDNkMi04MjdiLTAwM2Y0YzdiYTFlNSIsImMiOjN9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/686/2/Commodity%20Correlation%20-%20Final.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-03-01T04:55:00-08:00",
+      "heat": 51,
+      "tags": [
+        "Business",
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/686/1/CommodityCorrelation.png",
+          "width": 2317,
+          "height": 1342,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-corona-breakdown.md",
+      "title": "Corona Breakdown",
+      "excerpt": "Corona Virus Tracker is developed for tracking numbers of the virus spreading around the world. Please have a look &amp; spread awareness.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-corona-breakdown/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-corona-breakdown/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Corona-Breakdown/m-p/981346",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "bhagyesh007",
+            "type": "profile",
+            "name": "bhagyesh007"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjI3NjRkYTItMjljMC00MzBhLWE3MzktNzU2ZWE2YWY4ZTg0IiwidCI6Ijk2MWU2Y2Y4LTVkNDYtNGYzOS05NjA5LWMzZGYzOTk4Y2UwZiJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYjI3NjRkYTItMjljMC00MzBhLWE3MzktNzU2ZWE2YWY4ZTg0IiwidCI6Ijk2MWU2Y2Y4LTVkNDYtNGYzOS05NjA5LWMzZGYzOTk4Y2UwZiJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3527/2/Corona%20Vs.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-03-18T17:08:00-07:00",
+      "heat": 51,
+      "tags": [
+        "COVID-19",
+        "Education",
+        "Government",
+        "Entertainment",
+        "Business",
+        "Technology",
+        "Economics",
+        "Social Media"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3527/1/Corona%20Virus.PNG",
+          "width": 1757,
+          "height": 902,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-cortana-machine-learning-competition-womens-health-risk-assessment-power-bi-companion.md",
+      "title": "Cortana Machine Learning Competition - Womens Health Risk Assessment - Power BI Companion",
+      "excerpt": "Small companion for anyone participating in the Cortana Machine Learning competition - Women's Health Risk Assessment",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-cortana-machine-learning-competition-womens-health-risk-assessment-power-bi-companion/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-cortana-machine-learning-competition-womens-health-risk-assessment-power-bi-companion/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Cortana-Machine-Learning-Competition-Womens-Health-Risk/m-p/61588",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "rquintino",
+            "type": "profile",
+            "name": "rquintino"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTdiNzNjOTYtZDRiYS00NDRjLWE5ODAtMTdkYjVlYTI3Y2ZlIiwidCI6IjA5ZTI1MWRjLTVlODctNDhiZi1iNGQyLTcxYjAxYWRiOTg0YSIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMTdiNzNjOTYtZDRiYS00NDRjLWE5ODAtMTdkYjVlYTI3Y2ZlIiwidCI6IjA5ZTI1MWRjLTVlODctNDhiZi1iNGQyLTcxYjAxYWRiOTg0YSIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/246/5/Cortana%20Competition-Women&#39;s%20Health%20Risk%20Assessment.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2016-08-23T13:10:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Health",
+        "Technology"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/246/4/data%20stories%20thumbnail-2.png",
+          "width": 286,
+          "height": 191,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-covid-19-clinical-trials.md",
+      "title": "COVID-19 Clinical Trials",
+      "excerpt": "COVID-19 Clinical Trials Here is a simple dashboard with COVID-19 clinical trials pulled from ClinicalTrials.gov. ClinicalTrials.gov provides a REST",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-clinical-trials/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-clinical-trials/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Clinical-Trials/m-p/1045849",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "samsaeed",
+            "type": "profile",
+            "name": "samsaeed"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDc0ZmYzMWMtNDBmYi00N2ZhLTk2ZjYtM2U5ZGY4Y2JjYjkwIiwidCI6IjE0NmQ5YzY5LWEwNDMtNDlkMy1hNmVkLTVlYTNjYTBmOTA2MiIsImMiOjJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNDc0ZmYzMWMtNDBmYi00N2ZhLTk2ZjYtM2U5ZGY4Y2JjYjkwIiwidCI6IjE0NmQ5YzY5LWEwNDMtNDlkMy1hNmVkLTVlYTNjYTBmOTA2MiIsImMiOjJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3825/2/Clinical%20Trials.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-04-23T12:55:00-07:00",
+      "heat": 51,
+      "tags": [
+        "COVID-19",
+        "Health",
+        "Government"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3825/1/COVID-19%20Clinical%20Trials.png",
+          "width": 1721,
+          "height": 872,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-covid-19-for-chile-and-latinamerica.md",
+      "title": "COVID 19 FOR CHILE AND LATINAMERICA",
+      "excerpt": "Hemos desarrollado este reporte consultando las fuentes de GitHub puestas a disposicion por el Ministerio de Ciencias de Chile y el GitHub COVID-19",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-for-chile-and-latinamerica/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-for-chile-and-latinamerica/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-FOR-CHILE-AND-LATINAMERICA/m-p/1090182",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "waltercalcagno",
+            "type": "profile",
+            "name": "waltercalcagno"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDk1MzE4Y2YtMTZkMC00ZWRmLTkzNGQtMGE2ZWM3NTJmMGI1IiwidCI6IjU0Yzk5Mjg4LTU3MGYtNDM1Ny04ZWM1LTg2YmQxNzNhNDk2MCIsImMiOjR9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMDk1MzE4Y2YtMTZkMC00ZWRmLTkzNGQtMGE2ZWM3NTJmMGI1IiwidCI6IjU0Yzk5Mjg4LTU3MGYtNDM1Ny04ZWM1LTg2YmQxNzNhNDk2MCIsImMiOjR9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3944/2/COVID%20CL%20-%20LATAM.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-05-14T03:30:00-07:00",
+      "heat": 51,
+      "tags": [
+        "COVID-19"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3944/1/COVIDCLLATAM%20P2.png",
+          "width": 1606,
+          "height": 902,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-covid-19-global-report.md",
+      "title": "COVID-19 Global Report",
+      "excerpt": "This report uses data from John Hopkins University to analyze COVID-19 Trends. It looks at Confirmed Cases, Recoveries and Deaths in all countries,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-global-report/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-global-report/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Global-Report/m-p/994023",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "jeffpbi",
+            "type": "profile",
+            "name": "jeffpbi"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDRmOGMxYzItM2U1Mi00NThhLWFhYTgtMmI4NGYxZDgwNzlhIiwidCI6IjYzMDNjMTI1LWY2ZDUtNDc3ZC04ZTYwLWQ0MDQ0YmZhNTM3OSIsImMiOjZ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNDRmOGMxYzItM2U1Mi00NThhLWFhYTgtMmI4NGYxZDgwNzlhIiwidCI6IjYzMDNjMTI1LWY2ZDUtNDc3ZC04ZTYwLWQ0MDQ0YmZhNTM3OSIsImMiOjZ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3576/2/KenSci_Covid-19%20Daily%20Update.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-03-26T07:06:00-07:00",
+      "heat": 51,
+      "tags": [
+        "COVID-19"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3576/1/Corona_Global_Report.PNG",
+          "width": 1242,
+          "height": 692,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-covid-19-report-germany-and-worldwide-with-different-data-sources.md",
+      "title": "#COVID-19 Report - Germany and worldwide with different data sources",
+      "excerpt": "Ever wondered how corona data differs among different data sources? Yet another (but our own) customized visualisation of corona infections in Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-report-germany-and-worldwide-with-different-data-sources/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-report-germany-and-worldwide-with-different-data-sources/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Report-Germany-and-worldwide-with-different-data/m-p/1009298",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "svwilder",
+            "type": "profile",
+            "name": "svwilder"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDFhODI3YTgtYTg2MC00MDYyLTkwNmItNzYxOTFjZGNiODBkIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZDFhODI3YTgtYTg2MC00MDYyLTkwNmItNzYxOTFjZGNiODBkIiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3686/2/COVID19-GermanyAndWorldwide.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-04-05T17:08:00-07:00",
+      "heat": 51,
+      "tags": [
+        "COVID-19",
+        "Health"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3686/1/thumbnail.png",
+          "width": 1593,
+          "height": 896,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-database-schema-mapping.md",
+      "title": "Database Schema Mapping",
+      "excerpt": "One of the easiest ways to map your database schema in Power BI. Really a helpful way to understand and visualize relationships between variuous",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-database-schema-mapping/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-database-schema-mapping/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Database-Schema-Mapping/m-p/843924",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "sunilboreddy",
+            "type": "profile",
+            "name": "sunilboreddy"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDc4NDJmOTktMDg3MS00ZjIxLWEzZWEtMDM2YTRmOTRkMWJiIiwidCI6IjNlMDlkOWNlLWIxYmYtNDRkYS05Y2Q4LTc1YzRhNTJhOGI0MSJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNDc4NDJmOTktMDg3MS00ZjIxLWEzZWEtMDM2YTRmOTRkMWJiIiwidCI6IjNlMDlkOWNlLWIxYmYtNDRkYS05Y2Q4LTc1YzRhNTJhOGI0MSJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3123/2/DatabaseSchemaMapping.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2019-11-12T01:24:00-08:00",
+      "heat": 51,
+      "tags": [
+        "Business"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3123/1/DatabaseSchemaMapping.png",
+          "width": 2560,
+          "height": 1036,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-datastory-valentines-day-gifts-trend-2010-2016.md",
+      "title": "DataStory Valentine's day gifts trend (2010-2016)",
+      "excerpt": "Solved: Discovery what is the main gifts offered over yeah for Valentine's Day, from 2010 to 2016. Power BI allows you to understand trends with data",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-datastory-valentines-day-gifts-trend-2010-2016/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-datastory-valentines-day-gifts-trend-2010-2016/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/DataStory-Valentine-s-day-gifts-trend-2010-2016/m-p/127774",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "letitbi",
+            "type": "profile",
+            "name": "letitbi"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZjlhYWE1YWEtODJiNC00NDU3LTgzNmYtOTBiNjFiMzUzZTA4IiwidCI6ImJkNGZjZDM3LWRmZmEtNDk0OC1iMjU4LWQ3ZjlhN2I1Y2IxYyIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZjlhYWE1YWEtODJiNC00NDU3LTgzNmYtOTBiNjFiMzUzZTA4IiwidCI6ImJkNGZjZDM3LWRmZmEtNDk0OC1iMjU4LWQ3ZjlhN2I1Y2IxYyIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/643/2/2017-W7-Valentines%20Day%20Spending.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-02-14T23:17:00-08:00",
+      "heat": 51,
+      "tags": [
+        "Lifestyle",
+        "Economics"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/643/1/pbi-valentine-thumbnail.jpg",
+          "width": 1454,
+          "height": 812,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-explore-city-of-london-data-feeds.md",
+      "title": "Explore City of London Data Feeds",
+      "excerpt": "The City of London provides a large set of data feeds at the London Datastore . This report shows a way to explore the data feeds that London",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-explore-city-of-london-data-feeds/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-explore-city-of-london-data-feeds/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Explore-City-of-London-Data-Feeds/m-p/45566",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "lukaszp",
+            "type": "profile",
+            "name": "lukaszp"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDBiMGQyYjQtZGI4My00ZGUzLWFjODYtZjQ3NjZlZDU0Nzg1IiwidCI6IjNlN2ZjNjM1LTkxOTAtNDFmMC04MDZiLWI4OWIwZmJkNzU5ZSIsImMiOjF9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNDBiMGQyYjQtZGI4My00ZGUzLWFjODYtZjQ3NjZlZDU0Nzg1IiwidCI6IjNlN2ZjNjM1LTkxOTAtNDFmMC04MDZiLWI4OWIwZmJkNzU5ZSIsImMiOjF9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/14/2/London%20Data%20Feeds%20Index%20(1).pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2016-06-24T09:03:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Health",
+        "Education",
+        "Business",
+        "Technology",
+        "Sports",
+        "Lifestyle",
+        "Economics",
+        "Social Media"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/14/1/_SAM2415.JPG",
+          "width": 6480,
+          "height": 4320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-exploring-top-chess-openings-in-power-bi.md",
+      "title": "Exploring Top Chess Openings in Power BI",
+      "excerpt": "Explore a few of the most popular chess openings through Power BI by using the What-If slicer. Simply move the slider from left to right to step",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-exploring-top-chess-openings-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-exploring-top-chess-openings-in-power-bi/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Exploring-Top-Chess-Openings-in-Power-BI/m-p/240955",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "SamLester",
+            "type": "profile",
+            "name": "SamLester"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmE5NDRkNDQtMTNmMi00NDVhLWI4ODYtZDQxZGQwMDkwNWI3IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiMmE5NDRkNDQtMTNmMi00NDVhLWI4ODYtZDQxZGQwMDkwNWI3IiwidCI6IjcyZjk4OGJmLTg2ZjEtNDFhZi05MWFiLTJkN2NkMDExZGI0NyIsImMiOjV9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1066/2/ChessOpenings.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2017-08-28T15:48:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Entertainment"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1066/1/QueensGambit_Screenshot.PNG",
+          "width": 1377,
+          "height": 793,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-fifa-world-cup-2018-explore-analyze-watch-in-power-bi.md",
+      "title": "FIFA World Cup 2018 - Explore, Analyze & Watch in Power BI",
+      "excerpt": "An attempt to use the features of Power BI to explore, analyze and watch the FIFA World Cup 2018. Experience the game and its analysis the way it",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-fifa-world-cup-2018-explore-analyze-watch-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-fifa-world-cup-2018-explore-analyze-watch-in-power-bi/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/FIFA-World-Cup-2018-Explore-Analyze-amp-Watch-in-Power-BI/m-p/460843",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "PaulnMartin",
+            "type": "profile",
+            "name": "PaulnMartin"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzM2MTg0NDEtZTdiYy00MTAwLTk1ZGItMDQ5YjA1MGE2ZTgyIiwidCI6IjE5NjMzNDc1LThlYzktNDRiYS1iMTViLTRhMDc3YzA4MTJkMSIsImMiOjEwfQ%3D%3D\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNzM2MTg0NDEtZTdiYy00MTAwLTk1ZGItMDQ5YjA1MGE2ZTgyIiwidCI6IjE5NjMzNDc1LThlYzktNDRiYS1iMTViLTRhMDc3YzA4MTJkMSIsImMiOjEwfQ%3D%3D",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2078/2/FIFA%20World%20Cup%202018%20-%20Paul%20%26%20Martin%20Consulting%20Group.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-07-11T20:35:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Entertainment",
+        "Sports"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/2078/1/FIFA2018.jpg",
+          "width": 1265,
+          "height": 729,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_samples/powerbi-community-fifa-world-cup-history.md",
+      "title": "Fifa World Cup History",
+      "excerpt": "I'm just excited to tell the fifa world cup history. Check the statistics while you watch the Rusia 2018 cup. This is a report containing the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-fifa-world-cup-history/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-fifa-world-cup-history/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Fifa-World-Cup-History/m-p/439983",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ibarrau",
+            "type": "profile",
+            "name": "ibarrau"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDVlMmQxOWYtZDk0NC00N2MzLWFjMTAtYjcyODBiYmMzNjY1IiwidCI6ImRjZmI2MzJhLWI4OTYtNDI4OC04NDEzLWVjOGQ5NTQxMDZlNiIsImMiOjR9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiZDVlMmQxOWYtZDk0NC00N2MzLWFjMTAtYjcyODBiYmMzNjY1IiwidCI6ImRjZmI2MzJhLWI4OTYtNDI4OC04NDEzLWVjOGQ5NTQxMDZlNiIsImMiOjR9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1999/2/Mudiales.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2018-06-14T01:11:00-07:00",
+      "heat": 51,
+      "tags": [
+        "Entertainment",
+        "Sports",
+        "Social Media"
+      ],
+      "images": [
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/1999/1/thumb.png",
+          "width": 947,
+          "height": 577,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    }
+  ],
+  "nextPage": 5
+}

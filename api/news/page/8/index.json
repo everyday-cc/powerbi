@@ -1,0 +1,1296 @@
+{
+  "page": 8,
+  "value": [
+    {
+      "path": "_news/2020-07-06-power-bi-community-posts-roundup-july-6-2020.md",
+      "title": "Power BI community posts... (Roundup | July 6, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  2 Minute Tuesday: https://guyinacu.be/userprincipalname Tech video: https://guyinacu.be/whatisrls  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-06-power-bi-community-posts-roundup-july-6-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-07-06-power-bi-community-posts-roundup-july-6-2020/",
+      "originalUrl": "https://youtube.com/watch?v=Nn_wjfH4pAU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nn_wjfH4pAU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Nn_wjfH4pAU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI community posts... (Roundup | July 6, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T08:00:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available.md",
+      "title": "New capabilities for the Power BI Snowflake connector are now generally available",
+      "excerpt": "Enhanced capabilities to the Snowflake connector for Power BI were added a while back, including support for Azure Active Directory authentication, and more. These are now generally available.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-06-29-new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-29-new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/",
+      "originalUrl": "https://www.neowin.net/news/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779296_powerbi2_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "New capabilities for the Power BI Snowflake connector are now generally available",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/",
+      "publishedDateTime": "2020-06-29T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-29-save-95-off-the-cost-of-this-data-analysis-with-excel-power-bi-bundle.md",
+      "title": "Save 95% off the cost of this Data Analysis with Excel + Power BI Bundle",
+      "excerpt": "Length of time users can access this course: lifetime Certification of completion included Updates included Redemption deadline: redeem your code within 30 days of purchase See all Online Courses ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-06-29-save-95-off-the-cost-of-this-data-analysis-with-excel-power-bi-bundle/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-29-save-95-off-the-cost-of-this-data-analysis-with-excel-power-bi-bundle/",
+      "originalUrl": "https://www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1593420028_product_40096_product_shot_wide_story.jpg",
+          "width": 760,
+          "height": 380,
+          "title": "Save 95% off the cost of this Data Analysis with Excel + Power BI Bundle",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle",
+      "publishedDateTime": "2020-06-29T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-24-learn-excel-and-power-bi-with-this-data-analysis-training.md",
+      "title": "Learn Excel and Power BI With This Data Analysis Training",
+      "excerpt": "PCMag readers can get lifetime access to the entire learning bundle for $24.99—down 95 percent from the original MSRP.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-06-24-learn-excel-and-power-bi-with-this-data-analysis-training/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-24-learn-excel-and-power-bi-with-this-data-analysis-training/",
+      "originalUrl": "https://www.pcmag.com/deals/learn-excel-and-power-bi-with-this-data-analysis-training",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/06fLShpQUIZJPhYUJBjjSmW-1.fit_lim.size_1200x630.v_1592901747.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": "Learn Excel and Power BI With This Data Analysis Training",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-22-what-to-focus-on-with-dax-and-more-roundup-june-22-2020.md",
+      "title": "What to FOCUS on with DAX and more... (Roundup | June 22, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup183 2 Minute Tuesday: https://guyinacu.be/datarefresh Adam's tech video: https://guyinacu.be/perfstart  🔴 Live Replay: https://guyinacu.be/live015  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-06-22-what-to-focus-on-with-dax-and-more-roundup-june-22-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-22-what-to-focus-on-with-dax-and-more-roundup-june-22-2020/",
+      "originalUrl": "https://youtube.com/watch?v=YvSuCayng30",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YvSuCayng30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YvSuCayng30/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "What to FOCUS on with DAX and more... (Roundup | June 22, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T08:00:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-power-bi-desktop-update-june-2020.md",
+      "title": "Power BI Desktop Update - June 2020",
+      "excerpt": "We have great updates this release! We're super excited to announce this month that several features are now generally available: automatic page refresh, the hierarchy slicer, the modern ribbon, and AI insights are now generally available. On top of this, we have several new features and updates that",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-06-18-power-bi-desktop-update-june-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-18-power-bi-desktop-update-june-2020/",
+      "originalUrl": "https://youtube.com/watch?v=WUo8TnHNHYM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WUo8TnHNHYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WUo8TnHNHYM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - June 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T10:24:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-06-17-get-the-2020-master-microsoft-excel-power-bi-certification-bundle-for-just-3499.md",
+      "title": "Get the 2020 Master Microsoft Excel & Power BI Certification Bundle for just $34.99",
+      "excerpt": "Become the data-driven hero companies need with 28 hours of training in data plotting, auto calculation, macros, visualization and more with today's highlighted deal. Get it via Neowin Deals!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-06-17-get-the-2020-master-microsoft-excel-power-bi-certification-bundle-for-just-3499/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-17-get-the-2020-master-microsoft-excel-power-bi-certification-bundle-for-just-3499/",
+      "originalUrl": "https://www.neowin.net/news/get-the-2020-master-microsoft-excel--power-bi-certification-bundle-for-just-3499",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1592381669_product_38938_product_shot_wide_story.jpg",
+          "width": 760,
+          "height": 380,
+          "title": "Get the 2020 Master Microsoft Excel & Power BI Certification Bundle for just $34.99",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/get-the-2020-master-microsoft-excel--power-bi-certification-bundle-for-just-3499/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-the-2020-master-microsoft-excel--power-bi-certification-bundle-for-just-3499/",
+      "publishedDateTime": "2020-06-17T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-power-bi-updates-dax-fusion-and-data-driven-subscriptions-roundup-june-15-2020.md",
+      "title": "Power BI updates, DAX Fusion, and data driven subscriptions (Roundup | June 15, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup182 2 Minute Tuesday: https://guyinacu.be/askquestions Patrick's tech video: https://guyinacu.be/blankslicer Adam's tech video: https://guyinacu.be/workspaceroadmap  🔴 Live Replay with Marco Russo:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-06-15-power-bi-updates-dax-fusion-and-data-driven-subscriptions-roundup-june-15-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-15-power-bi-updates-dax-fusion-and-data-driven-subscriptions-roundup-june-15-2020/",
+      "originalUrl": "https://youtube.com/watch?v=-7Wk8FPz7es",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-7Wk8FPz7es\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-7Wk8FPz7es/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI updates, DAX Fusion, and data driven subscriptions (Roundup | June 15, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T08:00:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_news/2020-06-11-announcing-power-bi-data-protection-ga-and-introducing-new-capabilities.md",
+      "title": "Announcing Power BI data protection GA and introducing new capabilities",
+      "excerpt": "Last fall we introduced industry-leading Power BI data protection capabilities in public preview. Today we’re happy to announce these capabilities are generally available (GA), along with new and exciting capabilities we’re announcing in this space!\r\nPower BI helps organizations empower everyone to make",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-06-11-announcing-power-bi-data-protection-ga-and-introducing-new-capabilities/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-11-announcing-power-bi-data-protection-ga-and-introducing-new-capabilities/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-data-protection-ga-and-introducing-new-capabilities/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s6DWF2lENs8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": "Announcing Power BI data protection GA and introducing new capabilities",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-11T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-06-10-power-bi-for-ios-gets-updated-with-dark-mode-support.md",
+      "title": "Power BI for iOS gets updated with dark mode support",
+      "excerpt": "The Power BI app for iOS has received a new update. The latest update adds support for dark mode to the app. Earlier, Microsoft noted that it will add dark mode to Power BI mobile apps in June 2020.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-06-10-power-bi-for-ios-gets-updated-with-dark-mode-support/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-10-power-bi-for-ios-gets-updated-with-dark-mode-support/",
+      "originalUrl": "https://www.neowin.net/news/power-bi-for-ios-gets-updated-with-dark-mode-support",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779301_powerbi1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "Power BI for iOS gets updated with dark mode support",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/power-bi-for-ios-gets-updated-with-dark-mode-support/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-for-ios-gets-updated-with-dark-mode-support/",
+      "publishedDateTime": "2020-06-10T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-learn-todays-top-data-analysis-tools-microsoft-excel-and-power-bi-with-this-35-bundle.md",
+      "title": "Learn Today's Top Data Analysis Tools, Microsoft Excel, and Power BI with This $35 Bundle",
+      "excerpt": "The 2020 Master Microsoft Excel & Power BI Certification Bundle will teach you what you need to know. This nine-course bundle will get you up to speed on some of today's top data analysis tools ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-06-08-learn-todays-top-data-analysis-tools-microsoft-excel-and-power-bi-with-this-35-bundle/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-08-learn-todays-top-data-analysis-tools-microsoft-excel-and-power-bi-with-this-35-bundle/",
+      "originalUrl": "https://www.entrepreneur.com/article/351506",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1591317005-Ent-PowerBIandExcel.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": "Learn Today's Top Data Analysis Tools, Microsoft Excel, and Power BI with This $35 Bundle",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/351506",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/351506",
+      "publishedDateTime": "2020-06-08T09:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-08-power-bi-quizzes-data-masking-and-more-roundup-june-8-2020.md",
+      "title": "Power BI quizzes, data masking and more... (Roundup | June 8, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup181 2 Minute Tuesday: https://guyinacu.be/dataflowstricks Patrick's tech video: https://guyinacu.be/synapse Adam's tech video: https://guyinacu.be/pipelines  🔴 Live replay: https://guyinacu.be/live013",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-06-08-power-bi-quizzes-data-masking-and-more-roundup-june-8-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-08-power-bi-quizzes-data-masking-and-more-roundup-june-8-2020/",
+      "originalUrl": "https://youtube.com/watch?v=876kLN_vBJE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/876kLN_vBJE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/876kLN_vBJE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI quizzes, data masking and more... (Roundup | June 8, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-08T08:00:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020.md",
+      "title": "Power BI Workspace Roadmap, DirectQuery dataflows and more... (Roundup | June 1, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last roundup: https://guyinacu.be/roundup180 2 Minute Tuesday: https://guyinacu.be/animatedvisuals  🔴 Live Stream Replay: https://guyinacu.be/live012  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020/",
+      "originalUrl": "https://youtube.com/watch?v=f1XqbeOSWyg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f1XqbeOSWyg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/f1XqbeOSWyg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Workspace Roadmap, DirectQuery dataflows and more... (Roundup | June 1, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T08:00:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Service",
+        "Dataflows"
+      ]
+    },
+    {
+      "path": "_news/2020-05-25-best-and-worst-features-on-the-power-bi-desktop-update-may-2020.md",
+      "title": "Best and worst features on the Power BI Desktop update May 2020",
+      "excerpt": "It is power week! So I am going to review the new released features of the Power BI desktop update. Which ones do you like/ dislike and why?  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-05-25-best-and-worst-features-on-the-power-bi-desktop-update-may-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-05-25-best-and-worst-features-on-the-power-bi-desktop-update-may-2020/",
+      "originalUrl": "https://youtube.com/watch?v=2JOq-GQx2g8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2JOq-GQx2g8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2JOq-GQx2g8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-25T05:27:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-05-22-power-bi-desktop-update-may-2020.md",
+      "title": "Power BI Desktop Update - May 2020",
+      "excerpt": "We have lots of great updates this release! We’re super excited to announce this month that both the decomposition tree and drill through button actions are now generally available. On top of this, we have several new features and updates that will really enrich your reporting: curate featured tables",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-05-22-power-bi-desktop-update-may-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-05-22-power-bi-desktop-update-may-2020/",
+      "originalUrl": "https://youtube.com/watch?v=JtuHIslowxk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JtuHIslowxk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JtuHIslowxk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - May 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-22T12:24:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-05-18-lots-of-power-bi-community-posts-roundup-may-18-2020.md",
+      "title": "Lots of Power BI community posts... (Roundup | May 18, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup179 2 Minute Tuesday: https://guyinacu.be/copyquery Patrick's tech video: https://guyinacu.be/datepicker Adam's tech video: https://guyinacu.be/matrixkpis  🔴 Live Replay: https://guyinacu.be/35WURjU",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-05-18-lots-of-power-bi-community-posts-roundup-may-18-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-05-18-lots-of-power-bi-community-posts-roundup-may-18-2020/",
+      "originalUrl": "https://youtube.com/watch?v=qaZkALLm3hE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qaZkALLm3hE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qaZkALLm3hE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Lots of Power BI community posts... (Roundup | May 18, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-18T08:00:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-11-power-bi-announcements-and-a-new-desktop-release-may-11-2020.md",
+      "title": "Power BI announcements and a new Desktop release... (May 11, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup178  🔴 MBAS Recap Live Stream Replay: https://guyinacu.be/mbas2020recap  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level?",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-05-11-power-bi-announcements-and-a-new-desktop-release-may-11-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-05-11-power-bi-announcements-and-a-new-desktop-release-may-11-2020/",
+      "originalUrl": "https://youtube.com/watch?v=RqUc3d-0WXY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RqUc3d-0WXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RqUc3d-0WXY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI announcements and a new Desktop release... (May 11, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-11T08:00:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-05-07-feature-summary-2-unannounced-ones-on-the-power-bi-desktop-update-april-2020.md",
+      "title": "Feature Summary + 2 unannounced ones 😎 on the Power BI Desktop Update April 2020",
+      "excerpt": "In todays power bi desktop update feature summary review for April 2020, we are going to go through the following topics:  Lasso select for visuals Shortcuts for grouping and ungrouping visuals Conditional formatting for totals and subtotals in power bi matrix i icon for properties in power query Personalize",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-05-07-feature-summary-2-unannounced-ones-on-the-power-bi-desktop-update-april-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-05-07-feature-summary-2-unannounced-ones-on-the-power-bi-desktop-update-april-2020/",
+      "originalUrl": "https://youtube.com/watch?v=db00gQgLwMU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/db00gQgLwMU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/db00gQgLwMU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-07T03:59:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-05-06-power-bi-desktop-update-april-2020.md",
+      "title": "Power BI Desktop Update - April 2020",
+      "excerpt": "We have a ton of great updates this release! We’re excited to announce a new visual personalization feature to allow your end-users to explore and personalize visuals all within the consumption view of a report! Also this month, if you’re interested in fast refresh scenarios, you will find these new",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-05-06-power-bi-desktop-update-april-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-05-06-power-bi-desktop-update-april-2020/",
+      "originalUrl": "https://youtube.com/watch?v=q2Hfn_Rhb3E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q2Hfn_Rhb3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q2Hfn_Rhb3E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - April 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-06T10:18:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-05-04-the-power-bi-release-train-has-departed-roundup-may-4-2020.md",
+      "title": "The Power BI release train has departed... (Roundup | May 4, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup177 2 Minute Tuesday: https://guyinacu.be/refreshmultipletables Adam's tech video: https://guyinacu.be/sqldirectquery  🔴 Live replay: https://guyinacu.be/may2020hangout  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-05-04-the-power-bi-release-train-has-departed-roundup-may-4-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-05-04-the-power-bi-release-train-has-departed-roundup-may-4-2020/",
+      "originalUrl": "https://youtube.com/watch?v=pVZ6hJP_gz0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pVZ6hJP_gz0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "The Power BI release train has departed... (Roundup | May 4, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-05-04T08:00:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-27-power-bi-case-studies-ai-for-health-and-more-roundup-april-27-2020.md",
+      "title": "Power BI case studies, AI for Health and more... (Roundup | April 27, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup176 2 Minute Tuesday: https://guyinacu.be/priad Patrick's tech video: https://guyinacu.be/modelviewtips Adam's tech video: https://guyinacu.be/9thingstoknow  🔴 Live replay: https://guyinacu.be/April2020Recap",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-04-27-power-bi-case-studies-ai-for-health-and-more-roundup-april-27-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-04-27-power-bi-case-studies-ai-for-health-and-more-roundup-april-27-2020/",
+      "originalUrl": "https://youtube.com/watch?v=dsi_6Ga5cAo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dsi_6Ga5cAo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI case studies, AI for Health and more... (Roundup | April 27, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-27T08:00:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-04-15-calculation-groups-translate-models-and-perspectives-coming-to-power-bi.md",
+      "title": "Calculation groups, translate models and perspectives coming to Power BI...",
+      "excerpt": "A lot of cool features are coming to power bi due to the new xmla implementation. In this video we discuss some of them:  Enhanced dataset metadata: https://docs.microsoft.com/en-gb/power-bi/desktop-enhanced-dataset-metadata Calculation groups in power bi: https://docs.microsoft.com/en-us/analysis-services/tabular-models/calculation-groups?view=power-bi-premium-current",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-04-15-calculation-groups-translate-models-and-perspectives-coming-to-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-04-15-calculation-groups-translate-models-and-perspectives-coming-to-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=runMPif7sTk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/runMPif7sTk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/runMPif7sTk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-15T04:49:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-03-12-power-bi-desktop-update-march-2020.md",
+      "title": "Power BI Desktop Update - March 2020",
+      "excerpt": "We're excited to be bringing you some top community asks this month, including multi-column sort and dual axis line chart! We're also releasing new button actions, a new DAX function, and improvements to the decomposition tree. And, of course, there are new visuals on AppSource and new template apps",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-03-12-power-bi-desktop-update-march-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-03-12-power-bi-desktop-update-march-2020/",
+      "originalUrl": "https://youtube.com/watch?v=DMjvJGGB_LQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DMjvJGGB_LQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DMjvJGGB_LQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - March 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-12T08:13:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_news/2020-03-09-mythbusting-microsoft-mcsa-certification-rumors-this-is-the-new-path-forward.md",
+      "title": "Mythbusting Microsoft MCSA certification rumors | THIS IS THE NEW PATH FORWARD",
+      "excerpt": "Let's bust some Microsoft MCSA certification myths and bring some clarity!!  Link ot the certification pages: https://docs.microsoft.com/en-us/learn/certifications/browse/ Link to DA-100 equivalent of 70-778 exam: https://docs.microsoft.com/en-us/learn/certifications/exams/da-100 Link to New Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-03-09-mythbusting-microsoft-mcsa-certification-rumors-this-is-the-new-path-forward/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-03-09-mythbusting-microsoft-mcsa-certification-rumors-this-is-the-new-path-forward/",
+      "originalUrl": "https://youtube.com/watch?v=xGIq_K7KWnA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xGIq_K7KWnA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xGIq_K7KWnA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T05:31:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-03-02-power-bi-exam-sql-and-microsoft-bi-certifications-retired-what-do-i-do-now.md",
+      "title": "Power BI exam, SQL  and Microsoft BI certifications retired | WHAT DO I DO NOW?",
+      "excerpt": "Microsoft retiring old certifications | What do I do know?  Have you heard that microsoft is retiring the SQL and BI certifications as well as the Power BI and Excel exams by June 30th, 2020?  In this video I will explain what is going on, answer the most common questions and showing a path forward in",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi020-03-02-power-bi-exam-sql-and-microsoft-bi-certifications-retired-what-do-i-do-now/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-03-02-power-bi-exam-sql-and-microsoft-bi-certifications-retired-what-do-i-do-now/",
+      "originalUrl": "https://youtube.com/watch?v=kfB8KM8FBjU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kfB8KM8FBjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kfB8KM8FBjU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-02T02:59:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbiges/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    }
+  ],
+  "nextPage": 9
+}

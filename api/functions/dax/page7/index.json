@@ -1,0 +1,848 @@
+{
+  "title": "Functions",
+  "path": "_functions",
+  "page": 7,
+  "value": [
+    {
+      "path": "_functions/ln.md",
+      "title": "LN (<number>)",
+      "excerpt": "Returns the natural logarithm of a number. Natural logarithms are based on the constant e (2.71828182845904).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/ln/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/ln-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/ln-function-dax",
+      "name": "LN (<number>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/log.md",
+      "title": "LOG (<number>,<base>)",
+      "excerpt": "Returns the logarithm of a number to the base you specify.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/log/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/log-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/log-function-dax",
+      "name": "LOG (<number>,<base>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/log10.md",
+      "title": "LOG10 (<number>)",
+      "excerpt": "Returns the base-10 logarithm of a number.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/log10/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/log10-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/log10-function-dax",
+      "name": "LOG10 (<number>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/lookupvalue.md",
+      "title": "LOOKUPVALUE (<result_columnName>,<search_columnName>,<search_value>[, <search2_columnName>, <search2_value>]…[, <alternateResult>])",
+      "excerpt": "Returns the value for the row that meets all criteria specified by search conditions. The function can apply one or more search conditions.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/lookupvalue/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/lookupvalue-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/lookupvalue-function-dax",
+      "name": "LOOKUPVALUE (<result_columnName>,<search_columnName>,<search_value>[, <search2_columnName>, <search2_value>]…[, <alternateResult>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/lower.md",
+      "title": "LOWER (<text>)",
+      "excerpt": "Converts all letters in a text string to lowercase.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/lower/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/lower-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/lower-function-dax",
+      "name": "LOWER (<text>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/max.md",
+      "title": "MAX (<column>)",
+      "excerpt": "Returns the largest value in a column, or between two scalar expressions.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/max/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/max-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/max-function-dax",
+      "name": "MAX (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/maxa.md",
+      "title": "MAXA (<column>)",
+      "excerpt": "Returns the largest value in a column.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/maxa/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/maxa-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/maxa-function-dax",
+      "name": "MAXA (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/maxx.md",
+      "title": "MAXX (<table>,<expression>)",
+      "excerpt": "Evaluates an expression for each row of a table and returns the largest value.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/maxx/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/maxx-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/maxx-function-dax",
+      "name": "MAXX (<table>,<expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/mduration.md",
+      "title": "MDURATION (<settlement>, <maturity>, <coupon>, <yld>, <frequency>[, <basis>])",
+      "excerpt": "Returns the modified Macauley duration for a security with an assumed par value of \\$100.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/mduration/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/mduration-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/mduration-function-dax",
+      "name": "MDURATION (<settlement>, <maturity>, <coupon>, <yld>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/median.md",
+      "title": "MEDIAN (<column>)",
+      "excerpt": "Returns the median of numbers in a column.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/median/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/median-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/median-function-dax",
+      "name": "MEDIAN (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/medianx.md",
+      "title": "MEDIANX (<table>, <expression>)",
+      "excerpt": "Returns the median number of an expression evaluated for each row in a table.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/medianx/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/medianx-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/medianx-function-dax",
+      "name": "MEDIANX (<table>, <expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/mid.md",
+      "title": "MID (<text>, <start_num>, <num_chars>)",
+      "excerpt": "Returns a string of characters from the middle of a text string, given a starting position and length.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/mid/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/mid-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/mid-function-dax",
+      "name": "MID (<text>, <start_num>, <num_chars>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/min.md",
+      "title": "MIN (<column>)",
+      "excerpt": "Returns the smallest value in a column, or between two scalar expressions.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/min/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/min-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/min-function-dax",
+      "name": "MIN (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/mina.md",
+      "title": "MINA (<column>)",
+      "excerpt": "Returns the smallest value in a column.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/mina/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/mina-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/mina-function-dax",
+      "name": "MINA (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/minute.md",
+      "title": "MINUTE (<datetime>)",
+      "excerpt": "Returns the minute as a number from 0 to 59, given a date and time value.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/minute/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/minute-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/minute-function-dax",
+      "name": "MINUTE (<datetime>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/minx.md",
+      "title": "MINX (<table>, < expression>)",
+      "excerpt": "Returns the smallest value that results from evaluating an expression for each row of a table.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/minx/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/minx-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/minx-function-dax",
+      "name": "MINX (<table>, < expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/month.md",
+      "title": "MONTH (<datetime>)",
+      "excerpt": "Returns the month as a number from 1 (January) to 12 (December).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/month/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/month-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/month-function-dax",
+      "name": "MONTH (<datetime>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/mround.md",
+      "title": "MROUND (<number>, <multiple>)",
+      "excerpt": "Returns a number rounded to the desired multiple.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/mround/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/mround-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/mround-function-dax",
+      "name": "MROUND (<number>, <multiple>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/naturalinnerjoin.md",
+      "title": "NATURALINNERJOIN (<leftJoinTable>, <rightJoinTable>)",
+      "excerpt": "Performs an inner join of a table with another table. The tables are joined on common columns (by name) in the two tables. If the two tables have no common column names, an error is returned.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/naturalinnerjoin/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/naturalinnerjoin-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/naturalinnerjoin-function-dax",
+      "name": "NATURALINNERJOIN (<leftJoinTable>, <rightJoinTable>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/naturalleftouterjoin.md",
+      "title": "NATURALLEFTOUTERJOIN (<leftJoinTable>, <rightJoinTable>)",
+      "excerpt": "Performs an inner join of a table with another table. The tables are joined on common columns (by name) in the two tables. If the two tables have no common column names, an error is returned.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/naturalleftouterjoin/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/naturalleftouterjoin-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/naturalleftouterjoin-function-dax",
+      "name": "NATURALLEFTOUTERJOIN (<leftJoinTable>, <rightJoinTable>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/nextday.md",
+      "title": "NEXTDAY (<dates>)",
+      "excerpt": "Returns a table that contains a column of all dates from the next day, based on the first date specified in the dates column in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/nextday/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/nextday-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/nextday-function-dax",
+      "name": "NEXTDAY (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/nextmonth.md",
+      "title": "NEXTMONTH (<dates>)",
+      "excerpt": "Returns a table that contains a column of all dates from the next month, based on the first date in the dates column in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/nextmonth/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/nextmonth-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/nextmonth-function-dax",
+      "name": "NEXTMONTH (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/nextquarter.md",
+      "title": "NEXTQUARTER (<dates>)",
+      "excerpt": "Returns a table that contains a column of all dates in the next quarter, based on the first date specified in the dates column, in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/nextquarter/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/nextquarter-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/nextquarter-function-dax",
+      "name": "NEXTQUARTER (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/nextyear.md",
+      "title": "NEXTYEAR (<dates>[,<year_end_date>])",
+      "excerpt": "Returns a table that contains a column of all dates in the next year, based on the first date in the dates column, in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/nextyear/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/nextyear-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/nextyear-function-dax",
+      "name": "NEXTYEAR (<dates>[,<year_end_date>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/nominal.md",
+      "title": "NOMINAL (<effect_rate>, <npery>)",
+      "excerpt": "Returns the nominal annual interest rate, given the effective rate and the number of compounding periods per year.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/nominal/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/nominal-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/nominal-function-dax",
+      "name": "NOMINAL (<effect_rate>, <npery>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/nonvisual.md",
+      "title": "NONVISUAL(<expression>)",
+      "excerpt": "Marks a value filter in a SUMMARIZECOLUMNS expression as non-visual. This function can only be used within a SUMMARIZECOLUMNS expression.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/nonvisual/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/nonvisual-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/nonvisual-function-dax",
+      "name": "NONVISUAL(<expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/normdist.md",
+      "title": "NORM.DIST (X, Mean, Standard_dev, Cumulative)",
+      "excerpt": "Returns the normal distribution for the specified mean and standard deviation.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/normdist/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/norm-dist-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/norm-dist-dax",
+      "name": "NORM.DIST (X, Mean, Standard_dev, Cumulative)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/norminv.md",
+      "title": "NORM.INV (Probability, Mean, Standard_dev)",
+      "excerpt": "The inverse of the normal cumulative distribution for the specified mean and standard deviation.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/norminv/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/norm-inv-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/norm-inv-dax",
+      "name": "NORM.INV (Probability, Mean, Standard_dev)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/normsdist.md",
+      "title": "NORM.S.DIST (Z, Cumulative)",
+      "excerpt": "Returns the standard normal distribution (has a mean of zero and a standard deviation of one).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/normsdist/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/norm-s-dist-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/norm-s-dist-dax",
+      "name": "NORM.S.DIST (Z, Cumulative)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/normsinv.md",
+      "title": "NORM.S.INV (Probability)",
+      "excerpt": "Returns the inverse of the standard normal cumulative distribution. The distribution has a mean of zero and a standard deviation of one.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/normsinv/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/norm-s-inv-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/norm-s-inv-dax",
+      "name": "NORM.S.INV (Probability)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    }
+  ],
+  "nextPage": 8
+}

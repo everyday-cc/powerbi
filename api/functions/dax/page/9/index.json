@@ -1,0 +1,848 @@
+{
+  "title": "Functions",
+  "path": "_functions",
+  "page": 9,
+  "value": [
+    {
+      "path": "_functions/previousquarter.md",
+      "title": "PREVIOUSQUARTER (<dates>)",
+      "excerpt": "Returns a table that contains a column of all dates from the previous quarter, based on the first date in the dates column, in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/previousquarter/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/previousquarter-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/previousquarter-function-dax",
+      "name": "PREVIOUSQUARTER (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/previousyear.md",
+      "title": "PREVIOUSYEAR (<dates>[,<year_end_date>])",
+      "excerpt": "Returns a table that contains a column of all dates from the previous year, given the last date in the dates column, in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/previousyear/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/previousyear-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/previousyear-function-dax",
+      "name": "PREVIOUSYEAR (<dates>[,<year_end_date>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/price.md",
+      "title": "PRICE (<settlement>, <maturity>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
+      "excerpt": "Returns the price per \\$100 face value of a security that pays periodic interest.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/price/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/price-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/price-function-dax",
+      "name": "PRICE (<settlement>, <maturity>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/pricedisc.md",
+      "title": "PRICEDISC (<settlement>, <maturity>, <discount>, <redemption>[, <basis>])",
+      "excerpt": "Returns the price per \\$100 face value of a discounted security.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/pricedisc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pricedisc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pricedisc-function-dax",
+      "name": "PRICEDISC (<settlement>, <maturity>, <discount>, <redemption>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/pricemat.md",
+      "title": "PRICEMAT (<settlement>, <maturity>, <issue>, <rate>, <yld>[, <basis>])",
+      "excerpt": "Returns the price per \\$100 face value of a security that pays interest at maturity.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/pricemat/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pricemat-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pricemat-function-dax",
+      "name": "PRICEMAT (<settlement>, <maturity>, <issue>, <rate>, <yld>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/product.md",
+      "title": "PRODUCT (<column>)",
+      "excerpt": "Returns the product of the numbers in a column.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/product/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/product-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/product-function-dax",
+      "name": "PRODUCT (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/productx.md",
+      "title": "PRODUCTX (<table>, <expression>)",
+      "excerpt": "Returns the product of an expression evaluated for each row in a table.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/productx/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/productx-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/productx-function-dax",
+      "name": "PRODUCTX (<table>, <expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/pv.md",
+      "title": "PV (<rate>, <nper>, <pmt>[, <fv>[, <type>]])",
+      "excerpt": "Calculates the present value of a loan or an investment, based on a constant interest rate. You can use PV with either periodic, constant payments (such as a mortgage or other loan), and/or a future value that's your investment goal.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/pv/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pv-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pv-function-dax",
+      "name": "PV (<rate>, <nper>, <pmt>[, <fv>[, <type>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/quarter.md",
+      "title": "QUARTER (<date>)",
+      "excerpt": "Returns the quarter as a number from 1 (January – March) to 4 (October – December).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/quarter/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/quarter-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/quarter-function-dax",
+      "name": "QUARTER (<date>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/quotient.md",
+      "title": "QUOTIENT (<numerator>, <denominator>)",
+      "excerpt": "Performs division and returns only the integer portion of the division result. Use this function when you want to discard the remainder of division.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/quotient/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/quotient-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/quotient-function-dax",
+      "name": "QUOTIENT (<numerator>, <denominator>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/radians.md",
+      "title": "RADIANS (angle)",
+      "excerpt": "Converts degrees to radians.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/radians/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/radians-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/radians-function-dax",
+      "name": "RADIANS (angle)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/rand.md",
+      "title": "RAND ()",
+      "excerpt": "Returns a random number greater than or equal to 0 and less than 1, evenly distributed. The number that is returned changes each time the cell containing this function is recalculated.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/rand/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rand-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rand-function-dax",
+      "name": "RAND ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/randbetween.md",
+      "title": "RANDBETWEEN (<bottom>,<top>)",
+      "excerpt": "Returns a random number in the range between two numbers you specify.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/randbetween/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/randbetween-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/randbetween-function-dax",
+      "name": "RANDBETWEEN (<bottom>,<top>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/rankeq.md",
+      "title": "RANK.EQ (<value>, <columnName>[, <order>])",
+      "excerpt": "Returns the ranking of a number in a list of numbers.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/rankeq/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rank-eq-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rank-eq-function-dax",
+      "name": "RANK.EQ (<value>, <columnName>[, <order>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/rankx.md",
+      "title": "RANKX (<table>, <expression>[, <value>[, <order>[, <ties>]]])",
+      "excerpt": "Returns the ranking of a number in a list of numbers for each row in the table argument.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/rankx/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rankx-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rankx-function-dax",
+      "name": "RANKX (<table>, <expression>[, <value>[, <order>[, <ties>]]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/rate.md",
+      "title": "RATE (<nper>, <pmt>, <pv>[, <fv>[, <type>[, <guess>]]])",
+      "excerpt": "Returns the interest rate per period of an annuity. RATE is calculated by iteration and can have zero or more solutions. If the successive results of RATE do not converge to within 0.0000001 after 20 iterations, an error is returned.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/rate/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rate-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rate-function-dax",
+      "name": "RATE (<nper>, <pmt>, <pv>[, <fv>[, <type>[, <guess>]]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/received.md",
+      "title": "RECEIVED (<settlement>, <maturity>, <investment>, <discount>[, <basis>])",
+      "excerpt": "Returns the amount received at maturity for a fully invested security.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/received/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/received-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/received-function-dax",
+      "name": "RECEIVED (<settlement>, <maturity>, <investment>, <discount>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/relatedtable.md",
+      "title": "RELATEDTABLE (<tableName>)",
+      "excerpt": "Evaluates a table expression in a context modified by the given filters.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/relatedtable/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/relatedtable-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/relatedtable-function-dax",
+      "name": "RELATEDTABLE (<tableName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/removefilters.md",
+      "title": "REMOVEFILTERS ([<table> | <column>[, <column>[, <column>[,…]]]])",
+      "excerpt": "Clear filters from the specified tables or columns.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/removefilters/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/removefilters-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/removefilters-function-dax",
+      "name": "REMOVEFILTERS ([<table> | <column>[, <column>[, <column>[,…]]]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/replace.md",
+      "title": "REPLACE (<old_text>, <start_num>, <num_chars>, <new_text>)",
+      "excerpt": "REPLACE replaces part of a text string, based on the number of characters you specify, with a different text string.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/replace/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/replace-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/replace-function-dax",
+      "name": "REPLACE (<old_text>, <start_num>, <num_chars>, <new_text>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/rept.md",
+      "title": "REPT (<text>, <num_times>)",
+      "excerpt": "Repeats text a given number of times. Use REPT to fill a cell with a number of instances of a text string.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/rept/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rept-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rept-function-dax",
+      "name": "REPT (<text>, <num_times>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/right.md",
+      "title": "RIGHT (<text>, <num_chars>)",
+      "excerpt": "RIGHT returns the last character or characters in a text string, based on the number of characters you specify.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/right/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/right-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/right-function-dax",
+      "name": "RIGHT (<text>, <num_chars>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/rollup.md",
+      "title": "ROLLUP ( <groupBy_columnName> [, <groupBy_columnName> [, … ] ] )",
+      "excerpt": "Modifies the behavior of the SUMMARIZE function by adding rollup rows to the result on columns defined by the groupBy_columnName parameter. This function can only be used within a SUMMARIZE expression.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/rollup/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rollup-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rollup-function-dax",
+      "name": "ROLLUP ( <groupBy_columnName> [, <groupBy_columnName> [, … ] ] )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/rollupaddissubtotal.md",
+      "title": "ROLLUPADDISSUBTOTAL ( [<grandtotalFilter>], <groupBy_columnName>, <name> [, [<groupLevelFilter>] [, <groupBy_columnName>, <name> [, [<groupLevelFilter>] [, … ] ] ] ] )",
+      "excerpt": "Modifies the behavior of the SUMMARIZECOLUMNS function by adding rollup/subtotal rows to the result based on the groupBy_columnName columns. This function can only be used within a SUMMARIZECOLUMNS expression.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/rollupaddissubtotal/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rollupaddissubtotal-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rollupaddissubtotal-function-dax",
+      "name": "ROLLUPADDISSUBTOTAL ( [<grandtotalFilter>], <groupBy_columnName>, <name> [, [<groupLevelFilter>] [, <groupBy_columnName>, <name> [, [<groupLevelFilter>] [, … ] ] ] ] )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/rollupgroup.md",
+      "title": "ROLLUPGROUP ( <groupBy_columnName> [, <groupBy_columnName> [, … ] ] )",
+      "excerpt": "Modifies the behavior of the SUMMARIZE and SUMMARIZECOLUMNS functions by adding rollup rows to the result on columns defined by the the groupBy_columnName parameter. This function can only be used within a SUMMARIZE or SUMMARIZECOLUMNS expression.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/rollupgroup/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rollupgroup-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rollupgroup-function-dax",
+      "name": "ROLLUPGROUP ( <groupBy_columnName> [, <groupBy_columnName> [, … ] ] )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/rollupissubtotal.md",
+      "title": "ROLLUPISSUBTOTAL ( [<grandTotalFilter>], <groupBy_columnName>, <isSubtotal_columnName> [, [<groupLevelFilter>] [, <groupBy_columnName>, <isSubtotal_columnName> [, [<groupLevelFilter>] [, … ] ] ] ] )",
+      "excerpt": "Pairs rollup groups with the column added by ROLLUPADDISSUBTOTAL. This function can only be used within an ADDMISSINGITEMS expression.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/rollupissubtotal/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rollupissubtotal-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rollupissubtotal-function-dax",
+      "name": "ROLLUPISSUBTOTAL ( [<grandTotalFilter>], <groupBy_columnName>, <isSubtotal_columnName> [, [<groupLevelFilter>] [, <groupBy_columnName>, <isSubtotal_columnName> [, [<groupLevelFilter>] [, … ] ] ] ] )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/round.md",
+      "title": "ROUND (<number>, <num_digits>)",
+      "excerpt": "Rounds a number to the specified number of digits.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/round/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/round-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/round-function-dax",
+      "name": "ROUND (<number>, <num_digits>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/rounddown.md",
+      "title": "ROUNDDOWN (<number>, <num_digits>)",
+      "excerpt": "Rounds a number down, toward zero.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/rounddown/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/rounddown-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/rounddown-function-dax",
+      "name": "ROUNDDOWN (<number>, <num_digits>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/roundup.md",
+      "title": "ROUNDUP (<number>, <num_digits>)",
+      "excerpt": "Rounds a number up, away from 0 (zero).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/roundup/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/roundup-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/roundup-function-dax",
+      "name": "ROUNDUP (<number>, <num_digits>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/row-function.md",
+      "title": "ROW (<name>, <expression>[[,<name>, <expression>]…])",
+      "excerpt": "Returns a table with a single row containing values that result from the expressions given to each column.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/row-function/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/row-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/row-function-dax",
+      "name": "ROW (<name>, <expression>[[,<name>, <expression>]…])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    }
+  ],
+  "nextPage": 10
+}

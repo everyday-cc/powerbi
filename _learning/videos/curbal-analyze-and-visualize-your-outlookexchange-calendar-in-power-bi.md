@@ -1,0 +1,32 @@
+---
+title: "Analyze and visualize your Outlook/Exchange calendar in Power BI"
+excerpt: "Where is your time going? Do you feel that you are having too many meetings and not enough time to get your work done? Do you want to check if your gut-feeling is correct?  In todays video I will show you how to import your calendar from Outlook into Power BI and show you one way to visualize it.  Link"
+originalUrl: https://youtube.com/watch?v=zXJphXou0TE
+type: video
+price: Free
+length: PT9M9S
+publishedDateTime: 2020-06-15T14:08:08Z
+heat: 51
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zXJphXou0TE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Curbal
+  domain: curbal.com
+  images:
+    - url: https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+
+images:
+  - url: https://i.ytimg.com/vi/zXJphXou0TE/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "h/Sc9CV+g1+C2gBbkvdt1oJIkMOfyExH/K0ESDNbRwCwRogJ4OF6pC0hYsF03sofoJL8OCl8qu2Q44sM5GZA7brJ4Pc2NMCQEm1YWADCmtefPhAgkna9muWDQpfMAmKV26BwCSNPQqMzB1ufzoSXeFE8iCbD3HhdaSyvXc0RZ7VzJja+cyfrq1gCSt/DuFdRXtlHRlwHUy2FSfJePjhwf+GvgOyApd+J3GU7wZwCBjxjSPqcsMFiyzadATRIFlbky9l6qvgrH2lPV4NvIkhxXniR1vsF+VAEf9L7v+6h51Uu4R/mbcgHVtvY/vN5tSFvqjcTlUk5btPu89qK0BEvy4tUK2p7nsq6DI9RQaaXv9C+KGkeuZj5qw2bU7aRO+/8fOZKC5kdZ/52eSi6DRq/EP68wZoaa2hyhyI/syqXeNo=;LwAMaOZc0xJxzoYtCvJfoA=="
+---
+

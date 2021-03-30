@@ -1,0 +1,708 @@
+{
+  "title": "Functions",
+  "path": "_functions",
+  "page": 4,
+  "value": [
+    {
+      "path": "_functions/countax.md",
+      "title": "COUNTAX (<table>,<expression>)",
+      "excerpt": "The COUNTAX function counts nonblank results when evaluating the result of an expression over a table. That is, it works just like the COUNTA function, but is used to iterate through the rows in a table and count rows where the specified expressions results in a non-blank result.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/countax/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/countax-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/countax-function-dax",
+      "name": "COUNTAX (<table>,<expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/countblank.md",
+      "title": "COUNTBLANK (<column>)",
+      "excerpt": "Counts the number of blank cells in a column.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/countblank/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/countblank-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/countblank-function-dax",
+      "name": "COUNTBLANK (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/countrows.md",
+      "title": "COUNTROWS (<table>)",
+      "excerpt": "The COUNTROWS function counts the number of rows in the specified table, or in a table defined by an expression.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/countrows/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/countrows-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/countrows-function-dax",
+      "name": "COUNTROWS (<table>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/countx.md",
+      "title": "COUNTX (<table>,<expression>)",
+      "excerpt": "Counts the number of rows that contain a non-blank value or an expression that evaluates to a non-blank value, when evaluating an expression over a table.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/countx/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/countx-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/countx-function-dax",
+      "name": "COUNTX (<table>,<expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/coupdaybs.md",
+      "title": "COUPDAYBS (<settlement>, <maturity>, <frequency>[, <basis>])",
+      "excerpt": "Returns the number of days from the beginning of a coupon period until its settlement date.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/coupdaybs/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/coupdaybs-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/coupdaybs-function-dax",
+      "name": "COUPDAYBS (<settlement>, <maturity>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/coupdays.md",
+      "title": "COUPDAYS (<settlement>, <maturity>, <frequency>[, <basis>])",
+      "excerpt": "Returns the number of days in the coupon period that contains the settlement date.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/coupdays/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/coupdays-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/coupdays-function-dax",
+      "name": "COUPDAYS (<settlement>, <maturity>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/coupdaysnc.md",
+      "title": "COUPDAYSNC (<settlement>, <maturity>, <frequency>[, <basis>])",
+      "excerpt": "Returns the number of days from the settlement date to the next coupon date.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/coupdaysnc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/coupdaysnc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/coupdaysnc-function-dax",
+      "name": "COUPDAYSNC (<settlement>, <maturity>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/coupncd.md",
+      "title": "COUPNCD (<settlement>, <maturity>, <frequency>[, <basis>])",
+      "excerpt": "Returns the next coupon date after the settlement date.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/coupncd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/coupncd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/coupncd-function-dax",
+      "name": "COUPNCD (<settlement>, <maturity>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/coupnum.md",
+      "title": "COUPNUM (<settlement>, <maturity>, <frequency>[, <basis>])",
+      "excerpt": "Returns the number of coupons payable between the settlement date and maturity date, rounded up to the nearest whole coupon.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/coupnum/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/coupnum-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/coupnum-function-dax",
+      "name": "COUPNUM (<settlement>, <maturity>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/couppcd.md",
+      "title": "COUPPCD (<settlement>, <maturity>, <frequency>[, <basis>])",
+      "excerpt": "Returns the previous coupon date before the settlement date.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/couppcd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/couppcd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/couppcd-function-dax",
+      "name": "COUPPCD (<settlement>, <maturity>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/crossfilter.md",
+      "title": "CROSSFILTER (<columnName1>, <columnName2>, <direction>)",
+      "excerpt": "Specifies the cross-filtering direction to be used in a calculation for a relationship that exists between two columns.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/crossfilter/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/crossfilter-function",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/crossfilter-function",
+      "name": "CROSSFILTER (<columnName1>, <columnName2>, <direction>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/crossjoin.md",
+      "title": "CROSSJOIN (<table>, <table>[, <table>]…)",
+      "excerpt": "Returns a table that contains the Cartesian product of all rows from all tables in the arguments. The columns in the new table are all the columns in all the argument tables.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/crossjoin/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/crossjoin-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/crossjoin-function-dax",
+      "name": "CROSSJOIN (<table>, <table>[, <table>]…)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/cumipmt.md",
+      "title": "CUMIPMT (<rate>, <nper>, <pv>, <start_period>, <end_period>, <type>)",
+      "excerpt": "Returns the cumulative interest paid on a loan between start_period and end_period.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/cumipmt/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/cumipmt-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/cumipmt-function-dax",
+      "name": "CUMIPMT (<rate>, <nper>, <pv>, <start_period>, <end_period>, <type>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/cumprinc.md",
+      "title": "CUMPRINC (<rate>, <nper>, <pv>, <start_period>, <end_period>, <type>)",
+      "excerpt": "Returns the cumulative principal paid on a loan between start_period and end_period.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/cumprinc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/cumprinc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/cumprinc-function-dax",
+      "name": "CUMPRINC (<rate>, <nper>, <pv>, <start_period>, <end_period>, <type>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/currency.md",
+      "title": "CURRENCY (<value>)",
+      "excerpt": "Evaluates the argument and returns the result as currency data type.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/currency/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/currency-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/currency-function-dax",
+      "name": "CURRENCY (<value>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/currentgroup.md",
+      "title": "CURRENTGROUP ( )",
+      "excerpt": "Returns a set of rows from the table argument of a GROUPBY expression that belong to the current row of the GROUPBY result.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/currentgroup/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/currentgroup-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/currentgroup-function-dax",
+      "name": "CURRENTGROUP ( )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/customdata.md",
+      "title": "CUSTOMDATA ()",
+      "excerpt": "Returns the content of the CustomData property in the connection string.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/customdata/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/customdata-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/customdata-function-dax",
+      "name": "CUSTOMDATA ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datatable.md",
+      "title": "DATATABLE (ColumnName1, DataType1, ColumnName2, DataType2..., {{Value1, Value2...}, {ValueN, ValueN+1...}...})",
+      "excerpt": "Provides a mechanism for declaring an inline set of data values.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/datatable/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datatable-function",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datatable-function",
+      "name": "DATATABLE (ColumnName1, DataType1, ColumnName2, DataType2..., {{Value1, Value2...}, {ValueN, ValueN+1...}...})",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/date.md",
+      "title": "DATE (<year>, <month>, <day>)",
+      "excerpt": "Returns the specified date in datetime format.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/date/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/date-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/date-function-dax",
+      "name": "DATE (<year>, <month>, <day>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/dateadd.md",
+      "title": "DATEADD (<dates>,<number_of_intervals>,<interval>)",
+      "excerpt": "Returns a table that contains a column of dates, shifted either forward or backward in time by the specified number of intervals from the dates in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/dateadd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/dateadd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/dateadd-function-dax",
+      "name": "DATEADD (<dates>,<number_of_intervals>,<interval>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datediff.md",
+      "title": "DATEDIFF (<start_date>, <end_date>, <interval>)",
+      "excerpt": "Returns the count of interval boundaries crossed between two dates.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/datediff/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datediff-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datediff-function-dax",
+      "name": "DATEDIFF (<start_date>, <end_date>, <interval>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datesbetween.md",
+      "title": "DATESBETWEEN (<dates>, <start_date>, <end_date>)",
+      "excerpt": "Returns a table that contains a column of dates that begins with a specified start date and continues until a specified end date.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/datesbetween/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datesbetween-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datesbetween-function-dax",
+      "name": "DATESBETWEEN (<dates>, <start_date>, <end_date>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datesinperiod.md",
+      "title": "DATESINPERIOD (<dates>, <start_date>, <number_of_intervals>, <interval>)",
+      "excerpt": "Returns a table that contains a column of dates that begins with a specified start date and continues for the specified number and type of date intervals.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/datesinperiod/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datesinperiod-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datesinperiod-function-dax",
+      "name": "DATESINPERIOD (<dates>, <start_date>, <number_of_intervals>, <interval>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datesmtd.md",
+      "title": "DATESMTD (<dates>)",
+      "excerpt": "Returns a table that contains a column of the dates for the month to date, in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/datesmtd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datesmtd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datesmtd-function-dax",
+      "name": "DATESMTD (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datesqtd.md",
+      "title": "DATESQTD (<dates>)",
+      "excerpt": "Returns a table that contains a column of the dates for the quarter to date, in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/datesqtd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datesqtd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datesqtd-function-dax",
+      "name": "DATESQTD (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    }
+  ],
+  "nextPage": 5
+}

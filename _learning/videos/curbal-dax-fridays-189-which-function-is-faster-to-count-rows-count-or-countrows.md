@@ -1,0 +1,33 @@
+---
+title: "DAX Fridays #189: Which function is faster to count rows: COUNT OR COUNTROWS?"
+excerpt: "Which DAX function will count the rows of a table faster: COUNT or COUNTROWS?  Lets find out shall we?  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1"
+originalUrl: https://youtube.com/watch?v=6kBI7AHnMd0
+type: video
+price: Free
+length: PT7M4S
+publishedDateTime: 2020-10-21T11:42:41Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6kBI7AHnMd0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Curbal
+  domain: curbal.com
+  images:
+    - url: https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+  - DAX
+
+images:
+  - url: https://i.ytimg.com/vi/6kBI7AHnMd0/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "VJacYdfvaxfD8YWpmQd78hCV55oX5de5EZxrPLwl539hpkMWz19BGF5qJXpjfB0GEM7vag21FEJIBzrNSop4PcfAoQBhO5xXJSRyDkt1enWMew5CJSLDrbwEqgHN9aYGCHXyHXD/nsC9Mf12h5ep2BtA6P++OGV4vy5CWnCuNZbj5WOGecIypViptWBZoyTSe0ySKIkbdtNZu27BJMhIQfxsHy8lzREXTpBjSXk1/etEhO3sM6RcI07xdzQSiB0z+7t+/9TiD0PQ7kltxzHRgD8vZ3xQntCGugolpLvdWWbSh8DPfeXJLIQa3eBkhR25bs3EvDNMy/TR5XLHiOtLSHFQrWvAVeptjkH2SomxUc66EVjKVKd1c5C08NIUBrOHqCIa0Sk+GAB6jPToLs8gmOYdTIPYkMo+AO3nI2Licyg=;pMXN1CjiQqpqRG7VV1XgMQ=="
+---
+

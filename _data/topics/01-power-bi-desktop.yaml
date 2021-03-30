@@ -1,0 +1,13 @@
+taxonomy: topic
+_id: power-bi-desktop
+name: Power BI Desktop
+shortname: Desktop
+parent: Power BI
+keywords:
+  - power bi desktop
+  - powerbi desktop
+hashtags:
+  - "#PowerBIDesktop"
+services:
+  learning: https://everyday-cc.github.io/powerbi/api/learning/power-bi-desktop/
+  news: https://everyday-cc.github.io/powerbi/api/news/power-bi-desktop/

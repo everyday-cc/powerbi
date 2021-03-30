@@ -1,0 +1,848 @@
+{
+  "title": "Functions",
+  "path": "_functions",
+  "page": 5,
+  "value": [
+    {
+      "path": "_functions/endofmonth.md",
+      "title": "ENDOFMONTH (<dates>)",
+      "excerpt": "Returns the last date of the month in the current context for the specified column of dates.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/endofmonth/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/endofmonth-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/endofmonth-function-dax",
+      "name": "ENDOFMONTH (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/endofquarter.md",
+      "title": "ENDOFQUARTER (<dates>)",
+      "excerpt": "Returns the last date of the quarter in the current context for the specified column of dates.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/endofquarter/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/endofquarter-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/endofquarter-function-dax",
+      "name": "ENDOFQUARTER (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/endofyear.md",
+      "title": "ENDOFYEAR (<dates> [,<year_end_date>])",
+      "excerpt": "Returns the last date of the year in the current context for the specified column of dates.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/endofyear/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/endofyear-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/endofyear-function-dax",
+      "name": "ENDOFYEAR (<dates> [,<year_end_date>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/eomonth.md",
+      "title": "EOMONTH (<start_date>, <months>)",
+      "excerpt": "Returns the date in datetime format of the last day of the month, before or after a specified number of months. Use EOMONTH to calculate maturity dates or due dates that fall on the last day of the month.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/eomonth/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/eomonth-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/eomonth-function-dax",
+      "name": "EOMONTH (<start_date>, <months>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/error.md",
+      "title": "ERROR (<text>)",
+      "excerpt": "Raises an error with an error message.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/error/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/error-function",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/error-function",
+      "name": "ERROR (<text>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/even.md",
+      "title": "EVEN (number)",
+      "excerpt": "Returns number rounded up to the nearest even integer. You can use this function for processing items that come in twos. For example, a packing crate accepts rows of one or two items. The crate is full when the number of items, rounded up to the nearest two, matches the crate's capacity.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/even/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/even-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/even-function-dax",
+      "name": "EVEN (number)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/exact.md",
+      "title": "EXACT (<text1>,<text2>)",
+      "excerpt": "Compares two text strings and returns TRUE if they are exactly the same, FALSE otherwise. EXACT is case-sensitive but ignores formatting differences. You can use EXACT to test text being entered into a document.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/exact/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/exact-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/exact-function-dax",
+      "name": "EXACT (<text1>,<text2>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/except.md",
+      "title": "EXCEPT (<table_expression1>, <table_expression2>",
+      "excerpt": "Returns the rows of one table which do not appear in another table.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/except/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/except-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/except-function-dax",
+      "name": "EXCEPT (<table_expression1>, <table_expression2>",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/exp.md",
+      "title": "EXP (<number>)",
+      "excerpt": "Returns e raised to the power of a given number. The constant e equals 2.71828182845904, the base of the natural logarithm.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/exp/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/exp-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/exp-function-dax",
+      "name": "EXP (<number>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/expondist.md",
+      "title": "EXPON.DIST (x,lambda,cumulative)",
+      "excerpt": "Returns the exponential distribution. Use EXPON.DIST to model the time between events, such as how long an automated bank teller takes to deliver cash. For example, you can use EXPON.DIST to determine the probability that the process takes at most 1 minute.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/expondist/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/expon-dist-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/expon-dist-function-dax",
+      "name": "EXPON.DIST (x,lambda,cumulative)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/fact.md",
+      "title": "FACT (<number>)",
+      "excerpt": "Returns the factorial of a number, equal to the series 1*2*3*...* , ending in the given number.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/fact/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/fact-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/fact-function-dax",
+      "name": "FACT (<number>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/false.md",
+      "title": "FALSE ()",
+      "excerpt": "Returns the logical value FALSE.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/false/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/false-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/false-function-dax",
+      "name": "FALSE ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/filter.md",
+      "title": "FILTER (<table>,<filter>)",
+      "excerpt": "Returns a table that represents a subset of another table or expression.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/filter/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/filter-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/filter-function-dax",
+      "name": "FILTER (<table>,<filter>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/filters.md",
+      "title": "FILTERS (<columnName>)",
+      "excerpt": "Returns the values that are directly applied as filters to columnName.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/filters/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/filters-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/filters-function-dax",
+      "name": "FILTERS (<columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/find.md",
+      "title": "FIND (<find_text>, <within_text>[, [<start_num>][, <NotFoundValue>]])",
+      "excerpt": "Returns the starting position of one text string within another text string. FIND is case-sensitive.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/find/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/find-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/find-function-dax",
+      "name": "FIND (<find_text>, <within_text>[, [<start_num>][, <NotFoundValue>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/firstdate.md",
+      "title": "FIRSTDATE (<dates>)",
+      "excerpt": "Returns the first date in the current context for the specified column of dates.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/firstdate/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/firstdate-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/firstdate-function-dax",
+      "name": "FIRSTDATE (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/firstnonblank.md",
+      "title": "FIRSTNONBLANK (<column>,<expression>)",
+      "excerpt": "Returns the first value in the column, column, filtered by the current context, where the expression is not blank.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/firstnonblank/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/firstnonblank-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/firstnonblank-function-dax",
+      "name": "FIRSTNONBLANK (<column>,<expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/fixed.md",
+      "title": "FIXED (<number>, <decimals>, <no_commas>)",
+      "excerpt": "Rounds a number to the specified number of decimals and returns the result as text. You can specify that the result be returned with or without commas.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/fixed/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/fixed-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/fixed-function-dax",
+      "name": "FIXED (<number>, <decimals>, <no_commas>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/floor.md",
+      "title": "FLOOR (<number>, <significance>)",
+      "excerpt": "Rounds a number down, toward zero, to the nearest multiple of significance.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/floor/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/floor-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/floor-function-dax",
+      "name": "FLOOR (<number>, <significance>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/format.md",
+      "title": "FORMAT (<value>, <format_string>)",
+      "excerpt": "Converts a value to text according to the specified format.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/format/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/format-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/format-function-dax",
+      "name": "FORMAT (<value>, <format_string>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/fv.md",
+      "title": "FV (<rate>, <nper>, <pmt>[, <pv>[, <type>]])",
+      "excerpt": "Calculates the future value of an investment based on a constant interest rate. You can use FV with either periodic, constant payments, and/or a single lump sum payment.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/fv/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/fv-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/fv-function-dax",
+      "name": "FV (<rate>, <nper>, <pmt>[, <pv>[, <type>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/gcd.md",
+      "title": "GCD (number1, [number2], ...)",
+      "excerpt": "Returns the greatest common divisor of two or more integers. The greatest common divisor is the largest integer that divides both number1 and number2 without a remainder.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/gcd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/gcd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/gcd-function-dax",
+      "name": "GCD (number1, [number2], ...)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/generate.md",
+      "title": "GENERATE (<table1>, <table2>)",
+      "excerpt": "Returns a table with the Cartesian product between each row in table1 and the table that results from evaluating table2 in the context of the current row from table1.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/generate/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/generate-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/generate-function-dax",
+      "name": "GENERATE (<table1>, <table2>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/generateall.md",
+      "title": "GENERATEALL (<table1>, <table2>)",
+      "excerpt": "Returns a table with the Cartesian product between each row in table1 and the table that results from evaluating table2 in the context of the current row from table1.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/generateall/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/generateall-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/generateall-function-dax",
+      "name": "GENERATEALL (<table1>, <table2>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/generateseries.md",
+      "title": "GENERATESERIES (<startValue>, <endValue>[, <incrementValue>])",
+      "excerpt": "Returns a single column table containing the values of an arithmetic series, that is, a sequence of values in which each differs from the preceding by a constant quantity. The name of the column returned is Value.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/generateseries/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/generateseries-function",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/generateseries-function",
+      "name": "GENERATESERIES (<startValue>, <endValue>[, <incrementValue>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/geomean.md",
+      "title": "GEOMEAN (<column>)",
+      "excerpt": "Returns the geometric mean of the numbers in a column.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/geomean/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/geomean-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/geomean-function-dax",
+      "name": "GEOMEAN (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/geomeanx.md",
+      "title": "GEOMEANX (<table>, <expression>)",
+      "excerpt": "Returns the geometric mean of an expression evaluated for each row in a table.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/geomeanx/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/geomeanx-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/geomeanx-function-dax",
+      "name": "GEOMEANX (<table>, <expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/groupby.md",
+      "title": "GROUPBY  (<table>, [<groupBy_columnName1>], [<name>, <expression>]… )",
+      "excerpt": "The GROUPBY function is similar to the SUMMARIZE function. However, GROUPBY does not do an implicit CALCULATE for any extension columns that it adds. GROUPBY permits a new function, CURRENTGROUP(), to be used inside aggregation functions in the extension columns that it adds. GROUPBY attempts to reuse the data that has been grouped making it highly performant.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/groupby/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/groupby-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/groupby-function-dax",
+      "name": "GROUPBY  (<table>, [<groupBy_columnName1>], [<name>, <expression>]… )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/hasonefilter.md",
+      "title": "HASONEFILTER (<columnName>)",
+      "excerpt": "Returns TRUE when the number of directly filtered values on columnName is one; otherwise returns FALSE.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/hasonefilter/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/hasonefilter-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/hasonefilter-function-dax",
+      "name": "HASONEFILTER (<columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/hasonevalue.md",
+      "title": "HASONEVALUE (<columnName>)",
+      "excerpt": "Returns TRUE when the context for columnName has been filtered down to one distinct value only. Otherwise is FALSE.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/hasonevalue/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/hasonevalue-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/hasonevalue-function-dax",
+      "name": "HASONEVALUE (<columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    }
+  ],
+  "nextPage": 6
+}

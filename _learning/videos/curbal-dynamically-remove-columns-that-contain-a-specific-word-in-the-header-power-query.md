@@ -1,0 +1,33 @@
+---
+title: "Dynamically remove columns that contain a specific word in the header - Power Query"
+excerpt: "It is very common when importing data from excel or pdfs that you get a lot of empty columns. In today's video I will show you how to remove those columns dynamically using power query.  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power"
+originalUrl: https://youtube.com/watch?v=PZKlcgCZX6w
+type: video
+price: Free
+length: PT2M58S
+publishedDateTime: 2020-05-04T09:26:00Z
+heat: 51
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PZKlcgCZX6w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Curbal
+  domain: curbal.com
+  images:
+    - url: https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+  - Power Query
+
+images:
+  - url: https://i.ytimg.com/vi/PZKlcgCZX6w/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "FUDUn2k7EQu3TLQg6Ta63p77U4uSX9xN2hbA4bq1zLpUGjlMESsOo91b+4rzg8IE31Nd7v4XZ1FLxAKlA1rBIWWXuSn/qsNB1YfcYAh/5OVGm78nUJgrJFytaVbAb2/+H+G/KyDOR5x2kBI2zhUK9JEZV79ArgODBSubmKINDksHYeLmC/7s2TIch7AWoAVhiNZ/Fc3//B+dorHaGr5jjZjDyuiUWLRb2Q7h32rV2BH1dMmbyfbX6JB+D6GpDWhaIDexZrHTzyrINQBRhQuiNEuH3cdR6QSPa2eu0zD1RYiUqi2+24yLJoF/UegSRS9SUx9pwc+c8JdQ9Vy2h79zRI+CfkXEL/qwAT6zTb9zhwMdyi2ktnD7k6BXZslUTXFlSZyQoSqC7GPoL15Uvz4yX60SE/qdplUanC9MNUecxlQ=;1mcJ6ro/GYaOsbIDB41JVA=="
+---
+

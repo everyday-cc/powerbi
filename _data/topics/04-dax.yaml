@@ -1,0 +1,11 @@
+taxonomy: topic
+_id: dax
+name: DAX
+parent: Power BI
+keywords:
+  - dax
+hashtags:
+  - "#DAX"
+services:
+  learning: https://everyday-cc.github.io/powerbi/api/learning/dax/
+  functions: https://everyday-cc.github.io/powerbions/dax/

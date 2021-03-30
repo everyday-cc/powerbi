@@ -1,0 +1,16 @@
+taxonomy: topic
+_id: power-bi
+name: Power BI
+keywords:
+  - power bi
+  - powerbi
+hashtags:
+  - "#powerbi"
+services:
+  learning: https://everyday-cc.github.io/powerbi/api/learning/
+  news: https://everyday-cc.github.io/powerbi/api/news/
+  samples: https://everyday-cc.github.io/powerbi/api/samples/
+  functions: https://everyday-cc.github.io/powerbi/api/functions/
+  people: https://everyday-cc.github.io/powerbi/api/people/
+  events: https://everyday-cc.github.io/powerbi/api/events/
+  newsletters: https://everyday-cc.github.io/powerbi/api/newsletters/

@@ -1,0 +1,33 @@
+---
+title: "Fixing Power BI Quick Measures - Time calculations"
+excerpt: "In this video, Patrick shows how you can fix quick measures that break when you use dates with time calculations.   Patrick referenced a blog from Kasper de Jong. You can find that here:  Use the Power BI quick calcs with your own date table https://www.kasperonbi.com/use-the-power-bi-quick-calcs-with-your-own-date-table/"
+originalUrl: https://youtube.com/watch?v=Ukj45pdTwYE
+type: video
+price: Free
+length: PT7M10S
+publishedDateTime: 2017-08-02T15:31:32Z
+heat: 50
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ukj45pdTwYE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Guy in a Cube
+  domain: guyinacube.com
+  images:
+    - url: https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+
+images:
+  - url: https://i.ytimg.com/vi/Ukj45pdTwYE/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+    title: "Fixing Power BI Quick Measures - Time calculations"
+
+secured: "X76XGRDtbcm+O3A7wfq61uXvIdTZ1QIuuqPwsQjh5muZ9VxzxHQxUF8RMpVeBYNxPHLCl03fKy0Jp7rscPhW9cIKLeuKmuJhEqYk6V/ksNWhrHm2SeXO4GVz3Yk89hi4n4PJquQZcmDAktcModLqWANjO6R8vdNK9esy/q8CHOpfDQQnDOkUy/9G58+nfndeREGlyWSefVNTrATHmQ0QXlQMCcEBU3H/b1eDi8/jm3eGmVqmfW1c4svnllE3uMro/mS+YbpeTu2mFSwXX52mEYjZbBMrLe1blgu2QU+GjLLTW3gCbj38XYpR5oj7zMM8DHBwQI4nTYrb3nnzOYtyMfxvp5aNzk7kQrP5cggmVIfMgfrsZwaN9nxdIBvuhF72iZn9ijb9co8zRWV+sUCLWJ0VRuZaqClUn5Eu2FGV93o=;MhOGe5ofvKfnEOInfx5PGg=="
+---
+

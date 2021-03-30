@@ -1,0 +1,848 @@
+{
+  "title": "Functions",
+  "path": "_functions",
+  "page": 8,
+  "value": [
+    {
+      "path": "_functions/not.md",
+      "title": "NOT (<logical>)",
+      "excerpt": "Changes FALSE to TRUE, or TRUE to FALSE.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/not/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/not-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/not-function-dax",
+      "name": "NOT (<logical>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/now.md",
+      "title": "NOW ()",
+      "excerpt": "Returns the current date and time in datetime format.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/now/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/now-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/now-function-dax",
+      "name": "NOW ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/nper.md",
+      "title": "NPER (<rate>, <pmt>, <pv>[, <fv>[, <type>]])",
+      "excerpt": "Returns the number of periods for an investment based on periodic, constant payments and a constant interest rate.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/nper/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/nper-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/nper-function-dax",
+      "name": "NPER (<rate>, <pmt>, <pv>[, <fv>[, <type>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/odd.md",
+      "title": "ODD (number)",
+      "excerpt": "Returns number rounded up to the nearest odd integer.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/odd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/odd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/odd-function-dax",
+      "name": "ODD (number)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/oddfprice.md",
+      "title": "ODDFPRICE (<settlement>, <maturity>, <issue>, <first_coupon>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
+      "excerpt": "Returns the price per \\$100 face value of a security having an odd (short or long) first period.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/oddfprice/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/oddfprice-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/oddfprice-function-dax",
+      "name": "ODDFPRICE (<settlement>, <maturity>, <issue>, <first_coupon>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/oddfyield.md",
+      "title": "ODDFYIELD (<settlement>, <maturity>, <issue>, <first_coupon>, <rate>, <pr>, <redemption>, <frequency>[, <basis>])",
+      "excerpt": "Returns the yield of a security that has an odd (short or long) first period.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/oddfyield/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/oddfyield-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/oddfyield-function-dax",
+      "name": "ODDFYIELD (<settlement>, <maturity>, <issue>, <first_coupon>, <rate>, <pr>, <redemption>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/oddlprice.md",
+      "title": "ODDLPRICE (<settlement>, <maturity>, <last_interest>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
+      "excerpt": "Returns the price per \\$100 face value of a security having an odd (short or long) last coupon period.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/oddlprice/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/oddlprice-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/oddlprice-function-dax",
+      "name": "ODDLPRICE (<settlement>, <maturity>, <last_interest>, <rate>, <yld>, <redemption>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/oddlyield.md",
+      "title": "ODDLYIELD (<settlement>, <maturity>, <last_interest>, <rate>, <pr>, <redemption>, <frequency>[, <basis>])",
+      "excerpt": "Returns the yield of a security that has an odd (short or long) last period.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/oddlyield/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/oddlyield-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/oddlyield-function-dax",
+      "name": "ODDLYIELD (<settlement>, <maturity>, <last_interest>, <rate>, <pr>, <redemption>, <frequency>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/openingbalancemonth.md",
+      "title": "OPENINGBALANCEMONTH (<expression>,<dates>[,<filter>])",
+      "excerpt": "Evaluates the expression at the first date of the month in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/openingbalancemonth/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/openingbalancemonth-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/openingbalancemonth-function-dax",
+      "name": "OPENINGBALANCEMONTH (<expression>,<dates>[,<filter>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/openingbalancequarter.md",
+      "title": "OPENINGBALANCEQUARTER (<expression>,<dates>[,<filter>])",
+      "excerpt": "Evaluates the expression at the first date of the quarter, in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/openingbalancequarter/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/openingbalancequarter-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/openingbalancequarter-function-dax",
+      "name": "OPENINGBALANCEQUARTER (<expression>,<dates>[,<filter>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/openingbalanceyear.md",
+      "title": "OPENINGBALANCEYEAR (<expression>,<dates>[,<filter>][,<year_end_date>])",
+      "excerpt": "Evaluates the expression at the first date of the year in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/openingbalanceyear/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/openingbalanceyear-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/openingbalanceyear-function-dax",
+      "name": "OPENINGBALANCEYEAR (<expression>,<dates>[,<filter>][,<year_end_date>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/or.md",
+      "title": "OR (<logical1>,<logical2>)",
+      "excerpt": "Checks whether one of the arguments is TRUE to return TRUE. The function returns FALSE if both arguments are FALSE.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/or/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/or-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/or-function-dax",
+      "name": "OR (<logical1>,<logical2>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/parallelperiod.md",
+      "title": "PARALLELPERIOD (<dates>,<number_of_intervals>,<interval>)",
+      "excerpt": "Returns a table that contains a column of dates that represents a period parallel to the dates in the specified dates column, in the current context, with the dates shifted a number of intervals either forward in time or back in time.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/parallelperiod/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/parallelperiod-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/parallelperiod-function-dax",
+      "name": "PARALLELPERIOD (<dates>,<number_of_intervals>,<interval>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/path.md",
+      "title": "PATH (<ID_columnName>, <parent_columnName>)",
+      "excerpt": "Returns a delimited text string with the identifiers of all the parents of the current identifier, starting with the oldest and continuing until current.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/path/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/path-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/path-function-dax",
+      "name": "PATH (<ID_columnName>, <parent_columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/pathcontains.md",
+      "title": "PATHCONTAINS (<path>, <item>)",
+      "excerpt": "Returns TRUE if the specified item exists within the specified path.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/pathcontains/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pathcontains-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pathcontains-function-dax",
+      "name": "PATHCONTAINS (<path>, <item>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/pathitem.md",
+      "title": "PATHITEM (<path>, <position>[, <type>])",
+      "excerpt": "Returns the item at the specified position from a string resulting from evaluation of a PATH function. Positions are counted from left to right.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/pathitem/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pathitem-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pathitem-function-dax",
+      "name": "PATHITEM (<path>, <position>[, <type>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/pathitemreverse.md",
+      "title": "PATHITEMREVERSE (<path>, <position>[, <type>])",
+      "excerpt": "Returns the item at the specified position from a string resulting from evaluation of a PATH function. Positions are counted backwards from right to left.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/pathitemreverse/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pathitemreverse-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pathitemreverse-function-dax",
+      "name": "PATHITEMREVERSE (<path>, <position>[, <type>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/pathlength.md",
+      "title": "PATHLENGTH (<path>)",
+      "excerpt": "Returns the number of parents to the specified item in a given PATH result, including self.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/pathlength/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pathlength-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pathlength-function-dax",
+      "name": "PATHLENGTH (<path>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/pduration.md",
+      "title": "PDURATION (<rate>, <pv>, <fv>)",
+      "excerpt": "Returns the number of periods required by an investment to reach a specified value.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/pduration/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pduration-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pduration-function-dax",
+      "name": "PDURATION (<rate>, <pv>, <fv>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/percentileexc.md",
+      "title": "PERCENTILE.EXC (<column>, <k>)",
+      "excerpt": "Returns the k-th percentile of values in a range, where k is in the range 0..1, exclusive.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/percentileexc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/percentile-exc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/percentile-exc-function-dax",
+      "name": "PERCENTILE.EXC (<column>, <k>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/percentileinc.md",
+      "title": "PERCENTILE.INC (<column>, <k>)",
+      "excerpt": "Returns the k-th percentile of values in a range, where k is in the range 0..1, inclusive.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/percentileinc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/percentile-inc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/percentile-inc-function-dax",
+      "name": "PERCENTILE.INC (<column>, <k>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/percentilexexc.md",
+      "title": "PERCENTILEX.EXC (<table>, <expression>, k)",
+      "excerpt": "Returns the percentile number of an expression evaluated for each row in a table.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/percentilexexc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/percentilex-exc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/percentilex-exc-function-dax",
+      "name": "PERCENTILEX.EXC (<table>, <expression>, k)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/percentilexinc.md",
+      "title": "PERCENTILEX.INC (<table>, <expression>;, k)",
+      "excerpt": "Returns the percentile number of an expression evaluated for each row in a table.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/percentilexinc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/percentilex-inc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/percentilex-inc-function-dax",
+      "name": "PERCENTILEX.INC (<table>, <expression>;, k)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/pi.md",
+      "title": "PI ()",
+      "excerpt": "Returns the value of Pi, 3.14159265358979, accurate to 15 digits.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/pi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pi-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pi-function-dax",
+      "name": "PI ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/pmt.md",
+      "title": "PMT (<rate>, <nper>, <pv>[, <fv>[, <type>]])",
+      "excerpt": "Calculates the payment for a loan based on constant payments and a constant interest rate.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/pmt/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pmt-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pmt-function-dax",
+      "name": "PMT (<rate>, <nper>, <pv>[, <fv>[, <type>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/poissondist.md",
+      "title": "POISSON.DIST (x,mean,cumulative)",
+      "excerpt": "Returns the Poisson distribution. A common application of the Poisson distribution is predicting the number of events over a specific time, such as the number of cars arriving at a toll plaza in 1 minute.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/poissondist/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/poisson-dist-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/poisson-dist-function-dax",
+      "name": "POISSON.DIST (x,mean,cumulative)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/power.md",
+      "title": "POWER (<number>, <power>)",
+      "excerpt": "Returns the result of a number raised to a power.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/power/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/power-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/power-function-dax",
+      "name": "POWER (<number>, <power>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/ppmt.md",
+      "title": "PPMT (<rate>, <per>, <nper>, <pv>[, <fv>[, <type>]])",
+      "excerpt": "Returns the payment on the principal for a given period for an investment based on periodic, constant payments and a constant interest rate.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/ppmt/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/ppmt-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/ppmt-function-dax",
+      "name": "PPMT (<rate>, <per>, <nper>, <pv>[, <fv>[, <type>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/previousday.md",
+      "title": "PREVIOUSDAY (<dates>)",
+      "excerpt": "Returns a table that contains a column of all dates representing the day that is previous to the first date in the dates column, in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/previousday/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/previousday-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/previousday-function-dax",
+      "name": "PREVIOUSDAY (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/previousmonth.md",
+      "title": "PREVIOUSMONTH (<dates>)",
+      "excerpt": "Returns a table that contains a column of all dates from the previous month, based on the first date in the dates column, in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/previousmonth/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/previousmonth-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/previousmonth-function-dax",
+      "name": "PREVIOUSMONTH (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    }
+  ],
+  "nextPage": 9
+}

@@ -1,0 +1,33 @@
+---
+title: "Power BI Paginated Reports: Data source, Dataset and parameters"
+excerpt: "Paginated reports in Power BI are now available. Patrick walks you through how to get started with a paginated report using Report Builder. In this video, he starts off with how to create an embedded data source, a dataset, and parameters.  To download Report Builder, check out this link: https://guyinacu.be/reportbuilder"
+originalUrl: https://youtube.com/watch?v=TEIdI5bFCSU
+type: video
+price: Free
+length: PT9M32S
+publishedDateTime: 2019-01-09T14:20:10Z
+heat: 55
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TEIdI5bFCSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Guy in a Cube
+  domain: guyinacube.com
+  images:
+    - url: https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+
+images:
+  - url: https://i.ytimg.com/vi/TEIdI5bFCSU/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+    title: "Power BI Paginated Reports: Data source, Dataset and parameters"
+
+secured: "YiWzmSl4PUdtj/Xzjfaaz22J/+SgrHmxdd6xv4QJ4621KrSRm2rdrbZsxKUWZi1CCphBQ14oS7Ejz1gMuDSfvVQkrE0roEOSZTaCbrEeMcBirV3VkQa4yQsGJG/mRk8j4SbLVLuhboJ28460TAH9zjZl+/FgIqBYVC4RSKW6m/3EWETDFYA9kOCibcjgg9xpT4gefVpSbjIcHtnjBdsSv27wldnsxoTWrIEu/C1bIxQCIsGUnOqC0TziMeki5puHs6jCimdzQ5WH110qPLsIO+4K5BmtHl26BgMWZa3yJbGoaWfvP6+NsZ9ilQo3bydZdeTmT75kDXH3ELdDMUg83tLPTLOwqwYBWpn359OCfuhECX+D5hyPXmaFR5C6P2eKL4hMKS5orozkgidzjkpJLWMN1VuEaGBq4i2X0PYkf9g=;ngAdIaP47IUgO47orXJryQ=="
+---
+

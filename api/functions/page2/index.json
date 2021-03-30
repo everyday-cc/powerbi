@@ -1,0 +1,708 @@
+{
+  "title": "Functions",
+  "path": "_functions",
+  "page": 2,
+  "value": [
+    {
+      "path": "_functions/all.md",
+      "title": "ALL ( [<table> | <column>[, <column>[, <column>[,…]]]] )",
+      "excerpt": "Returns all the rows in a table, or all the values in a column, ignoring any filters that might have been applied. This function is useful for clearing filters and creating calculations on all the rows in a table.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/all/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/all-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/all-function-dax",
+      "name": "ALL ( [<table> | <column>[, <column>[, <column>[,…]]]] )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/allcrossfiltered.md",
+      "title": "ALLCROSSFILTERED (<table>)",
+      "excerpt": "Clear all filters which are applied to a table.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/allcrossfiltered/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/allcrossfiltered-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/allcrossfiltered-function-dax",
+      "name": "ALLCROSSFILTERED (<table>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/allnoblankrow.md",
+      "title": "ALLNOBLANKROW ( {<table> | <column>[, <column>[, <column>[,…]]]} )",
+      "excerpt": "From the parent table of a relationship, returns all rows but the blank row, or all distinct values of a column but the blank row, and disregards any context filters that might exist.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/allnoblankrow/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/allnoblankrow-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/allnoblankrow-function-dax",
+      "name": "ALLNOBLANKROW ( {<table> | <column>[, <column>[, <column>[,…]]]} )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/amordegrc.md",
+      "title": "AMORDEGRC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
+      "excerpt": "Returns the depreciation for each accounting period. This function is provided for the French accounting system. If an asset is purchased in the middle of the accounting period, the prorated depreciation is taken into account. The function is similar to AMORLINC, except that a depreciation coefficient is applied in the calculation depending on the life of the assets.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/amordegrc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/amordegrc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/amordegrc-function-dax",
+      "name": "AMORDEGRC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/amorlinc.md",
+      "title": "AMORLINC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
+      "excerpt": "Returns the depreciation for each accounting period. This function is provided for the French accounting system. If an asset is purchased in the middle of the accounting period, the prorated depreciation is taken into account.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/amorlinc/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/amorlinc-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/amorlinc-function-dax",
+      "name": "AMORLINC (<cost>, <date_purchased>, <first_period>, <salvage>, <period>, <rate>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/and.md",
+      "title": "AND (<logical1>,<logical2>)",
+      "excerpt": "Checks whether both arguments are TRUE, and returns TRUE if both arguments are TRUE. Otherwise returns false.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/and/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/and-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/and-function-dax",
+      "name": "AND (<logical1>,<logical2>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/approximatedistinctcount.md",
+      "title": "APPROXIMATEDISTINCTCOUNT (<columnName>)",
+      "excerpt": "Returns the approximate number of rows that contain distinct values in a column. This function can query large amounts of data with potentially  better performance than DISTINCTCOUNT, with slight deviation from the exact result.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/approximatedistinctcount/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/approximate-distinctcount-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/approximate-distinctcount-function-dax",
+      "name": "APPROXIMATEDISTINCTCOUNT (<columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/asin.md",
+      "title": "ASIN (number)",
+      "excerpt": "Returns the arcsine, or inverse sine, of a number. The arcsine is the angle whose sine is number. The returned angle is given in radians in the range -pi/2 to pi/2.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/asin/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/asin-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/asin-function-dax",
+      "name": "ASIN (number)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/asinh.md",
+      "title": "ASINH (number)",
+      "excerpt": "Returns the inverse hyperbolic sine of a number. The inverse hyperbolic sine is the value whose hyperbolic sine is number, so ASINH(SINH(number)) equals number.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/asinh/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/asinh-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/asinh-function-dax",
+      "name": "ASINH (number)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/atan.md",
+      "title": "ATAN (number)",
+      "excerpt": "Returns the arctangent, or inverse tangent, of a number. The arctangent is the angle whose tangent is number. The returned angle is given in radians in the range -pi/2 to pi/2.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/atan/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/atan-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/atan-function-dax",
+      "name": "ATAN (number)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/atanh.md",
+      "title": "ATANH (number)",
+      "excerpt": "Returns the inverse hyperbolic tangent of a number. Number must be between -1 and 1 (excluding -1 and 1). The inverse hyperbolic tangent is the value whose hyperbolic tangent is number, so ATANH(TANH(number)) equals number.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/atanh/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/atanh-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/atanh-function-dax",
+      "name": "ATANH (number)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/average.md",
+      "title": "AVERAGE (<column>)",
+      "excerpt": "Returns the average (arithmetic mean) of all the numbers in a column.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/average/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/average-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/average-function-dax",
+      "name": "AVERAGE (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/averagea.md",
+      "title": "AVERAGEA (<column>)",
+      "excerpt": "Returns the average (arithmetic mean) of the values in a column. Handles text and non-numeric values.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/averagea/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/averagea-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/averagea-function-dax",
+      "name": "AVERAGEA (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/averagex.md",
+      "title": "AVERAGEX (<table>,<expression>)",
+      "excerpt": "Calculates the average (arithmetic mean) of a set of expressions evaluated over a table.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/averagex/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/averagex-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/averagex-function-dax",
+      "name": "AVERAGEX (<table>,<expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/betadist.md",
+      "title": "BETA.DIST (x,alpha,beta,cumulative,[A],[B])",
+      "excerpt": "Returns the beta distribution. The beta distribution is commonly used to study variation in the percentage of something across samples, such as the fraction of the day people spend watching television.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/betadist/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/beta-dist-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/beta-dist-function-dax",
+      "name": "BETA.DIST (x,alpha,beta,cumulative,[A],[B])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/betainv.md",
+      "title": "BETA.INV (probability,alpha,beta,[A],[B])",
+      "excerpt": "Returns the inverse of the beta cumulative probability density function (BETA.DIST).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/betainv/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/beta-inv-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/beta-inv-function-dax",
+      "name": "BETA.INV (probability,alpha,beta,[A],[B])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/blank.md",
+      "title": "BLANK ()",
+      "excerpt": "Returns a blank.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/blank/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/blank-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/blank-function-dax",
+      "name": "BLANK ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/calculate.md",
+      "title": "CALCULATE (<expression>[, <filter1> [, <filter2> [, …]]])",
+      "excerpt": "Evaluates an expression in a modified filter context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/calculate/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/calculate-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/calculate-function-dax",
+      "name": "CALCULATE (<expression>[, <filter1> [, <filter2> [, …]]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/calculatetable.md",
+      "title": "CALCULATETABLE (<expression>[, <filter1> [, <filter2> [, …]]])",
+      "excerpt": "Evaluates a table expression in a modified filter context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/calculatetable/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/calculatetable-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/calculatetable-function-dax",
+      "name": "CALCULATETABLE (<expression>[, <filter1> [, <filter2> [, …]]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/calendar.md",
+      "title": "CALENDAR (<start_date>, <end_date>)",
+      "excerpt": "Returns a table with a single column named \"Date\" that contains a contiguous set of dates. The range of dates is from the specified start date to the specified end date, inclusive of those two dates.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/calendar/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/calendar-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/calendar-function-dax",
+      "name": "CALENDAR (<start_date>, <end_date>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/calendarauto.md",
+      "title": "CALENDARAUTO ([fiscal_year_end_month])",
+      "excerpt": "Returns a table with a single column named \"Date\" that contains a contiguous set of dates. The range of dates is calculated automatically based on data in the model.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/calendarauto/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/calendarauto-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/calendarauto-function-dax",
+      "name": "CALENDARAUTO ([fiscal_year_end_month])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/ceiling.md",
+      "title": "CEILING (<number>, <significance>)",
+      "excerpt": "Rounds a number up, to the nearest integer or to the nearest multiple of significance.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/ceiling/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/ceiling-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/ceiling-function-dax",
+      "name": "CEILING (<number>, <significance>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/chisqdist.md",
+      "title": "CHISQ.DIST (<x>, <deg_freedom>, <cumulative>)",
+      "excerpt": "Returns the chi-squared distribution.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/chisqdist/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/chisq-dist-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/chisq-dist-function-dax",
+      "name": "CHISQ.DIST (<x>, <deg_freedom>, <cumulative>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/chisqdistrt.md",
+      "title": "CHISQ.DIST.RT (<x>, <deg_freedom>)",
+      "excerpt": "Returns the right-tailed probability of the chi-squared distribution.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/chisqdistrt/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/chisq-dist-rt-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/chisq-dist-rt-function-dax",
+      "name": "CHISQ.DIST.RT (<x>, <deg_freedom>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/chisqinv.md",
+      "title": "CHISQ.INV (probability,deg_freedom)",
+      "excerpt": "Returns the inverse of the left-tailed probability of the chi-squared distribution.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/chisqinv/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/chisq-inv-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/chisq-inv-function-dax",
+      "name": "CHISQ.INV (probability,deg_freedom)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    }
+  ],
+  "nextPage": 3
+}
