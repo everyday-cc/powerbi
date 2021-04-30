@@ -33,7 +33,7 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -57,7 +57,7 @@
       "path": "_news/2020-10-20-heads-up-the-new-look-of-the-power-bi-service-begins-rolling-out-soon.md",
       "title": "Heads up: The ‘new look’ of the Power BI service begins rolling out soon",
       "excerpt": "All the improvements of the ‘new look’, from navigation updates to the simplified action bar for reports and dashboards, begins rolling out next week and will be generally available to all tenants and users by early November. Thank you for your feedback during public preview as we made incremental updates",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi020-10-20-heads-up-the-new-look-of-the-power-bi-service-begins-rolling-out-soon/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-20-heads-up-the-new-look-of-the-power-bi-service-begins-rolling-out-soon/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/heads-up-the-new-look-of-the-power-bi-service-begins-rolling-out-soon/",
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/heads-up-the-new-look-of-the-power-bi-service-begins-rolling-out-soon/",
       "featuredContent": null,
@@ -85,7 +85,7 @@
         "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -109,7 +109,7 @@
       "path": "_news/2020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020.md",
       "title": "Power BI Workspace Roadmap, DirectQuery dataflows and more... (Roundup | June 1, 2020)",
       "excerpt": "Thanks for watching this week's Power BI news roundup!  Last roundup: https://guyinacu.be/roundup180 2 Minute Tuesday: https://guyinacu.be/animatedvisuals  🔴 Live Stream Replay: https://guyinacu.be/live012  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020/index.json",
       "webUrl": "https://everyday.cc/powerbi/news/2020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020/",
       "originalUrl": "https://youtube.com/watch?v=f1XqbeOSWyg",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f1XqbeOSWyg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
@@ -137,7 +137,7 @@
         "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -162,7 +162,7 @@
       "path": "_news/2018-11-07-news-on-export-to-powerpoint-in-power-bi-service-curbal-tech-news-nov-2018.md",
       "title": "News on export to PowerPoint in Power BI Service | Curbal Tech News - Nov 2018",
       "excerpt": "The Power BI team has announced that the ability to export your Power BI reports to PowerPoint is now generally available for customers and well as changed and added some functionality.  Checkout this CTN video to know what those changes and enhancements are.  SUBSCRIBE to learn more about Power BI:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi018-11-07-news-on-export-to-powerpoint-in-power-bi-service-curbal-tech-news-nov-2018/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-11-07-news-on-export-to-powerpoint-in-power-bi-service-curbal-tech-news-nov-2018/index.json",
       "webUrl": "https://everyday.cc/powerbi/news/2018-11-07-news-on-export-to-powerpoint-in-power-bi-service-curbal-tech-news-nov-2018/",
       "originalUrl": "https://youtube.com/watch?v=fW0zdq-5RM8",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fW0zdq-5RM8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
@@ -190,7 +190,7 @@
         "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
