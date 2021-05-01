@@ -4,7 +4,7 @@ excerpt: "✅ Subscribe and join me 🔴 LIVE, Fridays and ask any Power BI ques
 originalUrl: https://youtube.com/watch?v=McZEYps0OoY
 type: video
 price: Free
-length: PT2H16M3S
+length: PT2H16M4S
 publishedDateTime: 2018-02-05T00:33:40Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "l/auVpGd7Omj8NNqRtaGdMd1Lswsj27HLNimARFHQRUYzyrFmGftCsssYCnt7BLIY2nIlHoPyuMgX7lGlw3udq4I48MkwYRdyS2Sod3JZ649I9PctwBXEemtGAbbcEIKuUGr3f0ivlxeArAMZu3AwMWRBl1RWG5oR3z6yIavB1H2/DnyYgVNwVd+BTSu7nBb72PvF3Pc3o3Rs7Zp/Pbevpd8kO6Ckr+U8ejt9tYS86lbo0aUtTVpwGMOfx49ihH3rqz4+YtW+sJJPaJMlQcO2WunTQQBXve3JzlbPZxZxODEU7UlYB6Ts3M5s54ZYYbitjFnCPLNTLt8Et2WGrHfUvymnQHW5zvVcQYxVdJMKcrSaR1diSzf1g/88IaiS4+LywLsuH4ZHANtvzuKMClWpJfT/MDPkc8wczylhzPdB2I=;iOSCZSs2Cawn6qdev97FMA=="
+secured: "BthIl/mP/72zNF+B8ANc2yq4EsEFq996NsZvxl16Wt3ohOiiUVxakygPaXegclAiq8IUXX8R8p7r8tdRJGfCb5yx7kZ0pXLa3IhIENReGx9WeuIcbo3A2Zjde+o+mMKRWA1SPqODzj7GAk/HCzZmOx8v5ylEUkpCXDgSwVvYCN/W2eWYbjaIytjYJXjxxROly0nMdyBQ5Se3Kcy7Sx5qIu4e3VAJ4HARJCZBC00GMGDTqHcgakFEOqOAeqmTw2BYO7F9yc1fBOSrtnjRslvOHE4e4b/RUD25N0szkkPYd2BBcuq8f7fGMb7UMVIHtJXpauKE0KBNo6prTCjCbrHVztj1ec1sOLPUgb7fQ9s1YIyxAPwLvsLD1yANcZafV4vxtjxXSsZicuh0dHNib6ZpCPgINhXm6Win4bYDPXLi14s=;0Jxu7sLYDX1GxdIPX39/iQ=="
 ---
 

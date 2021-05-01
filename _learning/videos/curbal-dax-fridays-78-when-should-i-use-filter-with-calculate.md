@@ -4,9 +4,9 @@ excerpt: "When should you use the filter function with CALCULATE?  As you probab
 originalUrl: https://youtube.com/watch?v=ewjRItLlgG8
 type: video
 price: Free
-length: PT11M35S
+length: PT11M48S
 publishedDateTime: 2018-04-20T08:08:23Z
-heat: 63
+heat: 60
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ewjRItLlgG8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "rYiKRs7f+g5ijK3+IQlWmiEUKb5/AgxBaII4c4Qvy+H8ECSF5vQN2VvQr3R+QsVy3JtvDRt91OyVNgQh9KuSNnkyhfdZLUHSqePv+StU323oMwKwFI9tBwBK9RcYYU58B5j7bqKEjnihHVfN7xtM0Pb5EHUQZaN5+XOoX0qrLSYZWbcERpm1AjCtvWI40n7lFs+axn0xHkmMkQfpvCS8mIDvBeXqmno6jhByLMxKnwpcunygYoXJA8nao92O3P3iWNK8AIg1Vyin5Z4r16qOhg5Ex9q78sn9qajEaxT9ryhStaS9jfRAYQpfAn3ckzJ9+FiQ1v4VaQuBAhCrdjPFCZ2lcoh7/zMY4cNjacW+Jfr6TuN9cka+dmiPd4s61rkgvZfNNWHU3umqEtGyhcRLcESJTH8g4tO6gvcfQK7qgw0=;gZrsfsdnOxHjy8z1LsRobA=="
+secured: "U33HYSrCQQkcDISPEqNLDWln7N+DVx/93zjvpJfpuNUaIe+xP2ty1xLi9E7JNZwWjxg8VQOYhiLSTKb7eOJ1tLFmCirEV0kA66BwZPnOG0HOR1k67g/JGo2b5mOz0KaRko7ptPxeNX93ZSJlOJitReDWUp2Y6A8h0gS31iZD0DTLL54adtxkE0RVpwes8DOjGr/qrMqMncp8zmf/7QHuQxPWmfXLF23Htu4fgalU2CpqpA6b7ZZTF6wijtPHGnas93vTKs4VziNMOS07Z9wNEuv2YrkAmHznHT3S0orHgYPHk88AtQOFMhlxOtVnVhJvQvUrD4sav5ihJMjaVJHnFfsN0P+MiWVzOBwYMGsr9/LPSh+pvQinzoB/Inu+ffpHaPYSoP7r5Zt3h8hvgOspeDY4b2umPoWAo1GDumvQpq8=;KX/bZ297oFCCYleAXIt+eA=="
 ---
 

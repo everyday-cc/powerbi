@@ -4,7 +4,7 @@ excerpt: "Patrick shows how you can make one little change to your Power BI slic
 originalUrl: https://youtube.com/watch?v=Fs9TzNcni-A
 type: video
 price: Free
-length: PT3M26S
+length: PT3M25S
 publishedDateTime: 2019-10-22T12:06:16Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9cfSyHmmDjBWc2ss9mAUK62uYX5q84tEhBQ+aDZDJhQhE/Gvi0jJsX3GIt5zimL0H5efebxgv/7BxbuAwRkpTxnkCG9CTCKm5gMU4NopnXT6y0M5JcNAIcncOLetDW8cvHtcBw3m5qlukgOTyR2zrzJMZc/EPCIBPOlLPzwrgJ5dvTp0iVai+dKsppBSpkKvqw9LW3TH2XXiaR7PNHcFZvW46K7v5QOaziPtbNNBZv8k5XvLAHRSQv3QX1pP2ggRMzvKRj1Bqrg1IrhIU6EL3qFg+YiqpCiNgERraspcLuA/2A84wCYLCK8LYzP4AjVZ3nBbbxu+n2Aqq/2xj+gjnygzSrVqWeDILZSZMK7kjfjfz+ZuUB9/AUj2N6re511jCQ/+dQr5RKT3q28dTcuEIjLPXufuxQlZ1C9kFjOjnJA=;6g+LbOmlVglsnGMgGCLCTw=="
+secured: "PTFHbQUPV/XIiRfVSrgATILzLzZxXl48Gwn7crNlDlRe0tlaPz56dLwpmsUoyAPJBkhTw+C74Kw5DJ83LruXdOsMHAbWHN7avOJWwxB06rhTNIf91S9x3oAHWifa1sG81xD8xJDhnBln55a6BYqXgQCFLINzlixPGn3GOqkN6dyZw6Dsqn8RsFOjrr/8ZXFSz3yPF5eVwUGqLpotpX85xwKRZFLkOes72A68U+E0Di8ic4eg8wpnuWMAIcfa5EKy+AxhDr+N8INM0FqaGoCJhjhkoUe7O4GC4c4sER8SNuUjprChNnYRG3vS1NwD8J2qlglWxLEiw3T0UBZR5Lt81jGyv11RUw8nrXRJKrWb09DnmGku6Hh1EK5Wi1ATOWYbr16d85Tib7tKnoX5GzvKw9I+fWgDw45ia/bEqqTDYrM=;IYqJjlKHKccVQmkGXSsAbA=="
 ---
 
