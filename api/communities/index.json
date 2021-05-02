@@ -14,7 +14,7 @@
         "domain": "pbiusergroup.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/pbiusergroup.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/pbiusergroup.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -41,7 +41,7 @@
     {
       "path": "_communities/reddit-powerbi.md",
       "excerpt": "Everything you need to know about Power BI: news, resources, and a community of super users ready to answer questions!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbiities/reddit-powerbi/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/communities/reddit-powerbi/index.json",
       "webUrl": "https://www.reddit.com/r/PowerBI/",
       "originalUrl": "https://www.reddit.com/r/PowerBI/",
       "provider": {
@@ -49,7 +49,7 @@
         "domain": "reddit.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/reddit.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/reddit.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -76,7 +76,7 @@
     {
       "path": "_communities/facebook-groups-1640957022616078.md",
       "excerpt": "This group provided Microsoft Power BI plotform Free tutorials and Questions and Answers. If any real time issues",
-      "sourceUrl": "https://everyday-cc.github.io/powerbiities/facebook-groups-1640957022616078/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/communities/facebook-groups-1640957022616078/index.json",
       "webUrl": "https://www.facebook.com/groups/1640957022616078/",
       "originalUrl": "https://www.facebook.com/groups/1640957022616078/",
       "provider": {
@@ -84,7 +84,7 @@
         "domain": "facebook.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/facebook.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/facebook.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -111,7 +111,7 @@
     {
       "path": "_communities/powerbi-stackoverflow.md",
       "excerpt": "Stack Overflow is a question and answer site for professional and enthusiast programmers. Power BI has an active community in StackOverflow.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbiities/powerbi-stackoverflow/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/communities/powerbi-stackoverflow/index.json",
       "webUrl": "https://stackoverflow.com/questions/tagged/powerbi",
       "originalUrl": "https://stackoverflow.com/questions/tagged/powerbi",
       "provider": {
@@ -119,7 +119,7 @@
         "domain": "stackoverflow.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/stackoverflow.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/stackoverflow.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -146,7 +146,7 @@
     {
       "path": "_communities/facebook-groups-powerbi.md",
       "excerpt": "Official Facebook group for the Global Power BI User Group. Learn, share and grow with us in all things Microsoft Power BI!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbiities/facebook-groups-powerbi/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/communities/facebook-groups-powerbi/index.json",
       "webUrl": "https://www.facebook.com/groups/powerbi/",
       "originalUrl": "https://www.facebook.com/groups/powerbi/",
       "provider": {
@@ -154,7 +154,7 @@
         "domain": "facebook.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/facebook.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/facebook.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -181,7 +181,7 @@
     {
       "path": "_communities/microsoft-powerbi-forums.md",
       "excerpt": "These are the official Power BI forums by Microsoft",
-      "sourceUrl": "https://everyday-cc.github.io/powerbiities/microsoft-powerbi-forums/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/communities/microsoft-powerbi-forums/index.json",
       "webUrl": "https://community.powerbi.com/t5/Forums/ct-p/PBI_Comm_Forums",
       "originalUrl": "https://community.powerbi.com/t5/Forums/ct-p/PBI_Comm_Forums",
       "provider": {
@@ -189,7 +189,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
