@@ -4,7 +4,7 @@ excerpt: "Removes context filters from columns and rows in the current query, wh
 originalUrl: https://docs.microsoft.com/en-us/dax/allselected-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/allselected-function-dax
 type: article
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft

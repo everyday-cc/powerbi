@@ -4,62 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_functions/all.md",
-      "title": "ALL ( [<table> | <column>[, <column>[, <column>[,…]]]] )",
-      "excerpt": "Returns all the rows in a table, or all the values in a column, ignoring any filters that might have been applied. This function is useful for clearing filters and creating calculations on all the rows in a table.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/all/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/all-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/all-function-dax",
-      "name": "ALL ( [<table> | <column>[, <column>[, <column>[,…]]]] )",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/allcrossfiltered.md",
-      "title": "ALLCROSSFILTERED (<table>)",
-      "excerpt": "Clear all filters which are applied to a table.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/allcrossfiltered/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/allcrossfiltered-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/allcrossfiltered-function-dax",
-      "name": "ALLCROSSFILTERED (<table>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
       "path": "_functions/allnoblankrow.md",
       "title": "ALLNOBLANKROW ( {<table> | <column>[, <column>[, <column>[,…]]]} )",
       "excerpt": "From the parent table of a relationship, returns all rows but the blank row, or all distinct values of a column but the blank row, and disregards any context filters that might exist.",
@@ -67,6 +11,34 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/allnoblankrow-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/allnoblankrow-function-dax",
       "name": "ALLNOBLANKROW ( {<table> | <column>[, <column>[, <column>[,…]]]} )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/allselected.md",
+      "title": "ALLSELECTED ( [<tableName> | <columnName>[, <columnName>[, <columnName>[,…]]]] )",
+      "excerpt": "Removes context filters from columns and rows in the current query, while retaining all other context filters or explicit filters.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/allselected/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/allselected-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/allselected-function-dax",
+      "name": "ALLSELECTED ( [<tableName> | <columnName>[, <columnName>[, <columnName>[,…]]]] )",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -683,6 +655,34 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/chisq-inv-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/chisq-inv-function-dax",
       "name": "CHISQ.INV (probability,deg_freedom)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/chisqinvrt.md",
+      "title": "CHISQ.INV.RT (probability,deg_freedom)",
+      "excerpt": "Returns the inverse of the right-tailed probability of the chi-squared distribution.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/chisqinvrt/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/chisq-inv-rt-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/chisq-inv-rt-function-dax",
+      "name": "CHISQ.INV.RT (probability,deg_freedom)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

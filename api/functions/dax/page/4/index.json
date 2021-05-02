@@ -4,34 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_functions/currentgroup.md",
-      "title": "CURRENTGROUP ( )",
-      "excerpt": "Returns a set of rows from the table argument of a GROUPBY expression that belong to the current row of the GROUPBY result.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/currentgroup/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/currentgroup-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/currentgroup-function-dax",
-      "name": "CURRENTGROUP ( )",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
       "path": "_functions/customdata.md",
       "title": "CUSTOMDATA ()",
       "excerpt": "Returns the content of the CustomData property in the connection string.",
@@ -823,6 +795,34 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/effect-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/effect-function-dax",
       "name": "EFFECT (<nominal_rate>, <npery>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/endofmonth.md",
+      "title": "ENDOFMONTH (<dates>)",
+      "excerpt": "Returns the last date of the month in the current context for the specified column of dates.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/endofmonth/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/endofmonth-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/endofmonth-function-dax",
+      "name": "ENDOFMONTH (<dates>)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

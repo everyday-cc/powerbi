@@ -4,34 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_functions/and.md",
-      "title": "AND (<logical1>,<logical2>)",
-      "excerpt": "Checks whether both arguments are TRUE, and returns TRUE if both arguments are TRUE. Otherwise returns false.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/and/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/and-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/and-function-dax",
-      "name": "AND (<logical1>,<logical2>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
       "path": "_functions/approximatedistinctcount.md",
       "title": "APPROXIMATEDISTINCTCOUNT (<columnName>)",
       "excerpt": "Returns the approximate number of rows that contain distinct values in a column. This function can query large amounts of data with potentially  better performance than DISTINCTCOUNT, with slight deviation from the exact result.",
@@ -823,6 +795,34 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/concatenate-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/concatenate-function-dax",
       "name": "CONCATENATE (<text1>, <text2>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/concatenatex.md",
+      "title": "CONCATENATEX (<table>, <expression>, [delimiter])",
+      "excerpt": "Concatenates the result of an expression evaluated for each row in a table.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/concatenatex/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/concatenatex-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/concatenatex-function-dax",
+      "name": "CONCATENATEX (<table>, <expression>, [delimiter])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

@@ -15,13 +15,14 @@ provider:
 items:
   - and
   - coalesce
-  - "false"
+  - false
   - if
+  - ifeager
   - iferror
   - not
   - or
   - switch
-  - "true"
+  - true
 
 topics:
   - Power BI

@@ -4,6 +4,62 @@
   "page": 13,
   "value": [
     {
+      "path": "_functions/sumx.md",
+      "title": "SUMX (<table>, <expression>)",
+      "excerpt": "Returns the sum of an expression evaluated for each row in a table.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/sumx/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/sumx-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/sumx-function-dax",
+      "name": "SUMX (<table>, <expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/switch.md",
+      "title": "SWITCH (<expression>, <value>, <result>[, <value>, <result>]…[, <else>])",
+      "excerpt": "Evaluates an expression against a list of values and returns one of multiple possible result expressions.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/switch/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/switch-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/switch-function-dax",
+      "name": "SWITCH (<expression>, <value>, <result>[, <value>, <result>]…[, <else>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/syd.md",
       "title": "SYD (<cost>, <salvage>, <life>, <per>)",
       "excerpt": "Returns the sum-of-years' digits depreciation of an asset for a specified period.",
@@ -627,62 +683,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/trunc-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/trunc-function-dax",
       "name": "TRUNC (<number>,<num_digits>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/unichar.md",
-      "title": "UNICHAR (number)",
-      "excerpt": "Returns the Unicode character referenced by the numeric value.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/unichar/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/unichar-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/unichar-function-dax",
-      "name": "UNICHAR (number)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/unicode.md",
-      "title": "UNICODE ( <Text> )",
-      "excerpt": "Returns the number (code point) corresponding to the first character of the text.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/unicode/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/unicode-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/unicode-function-dax",
-      "name": "UNICODE ( <Text> )",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

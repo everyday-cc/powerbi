@@ -17,7 +17,7 @@ items:
   - acos
   - acosh
   - acot
-  - acot
+  - acoth
   - asin
   - asinh
   - atan

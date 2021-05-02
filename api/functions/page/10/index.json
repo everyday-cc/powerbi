@@ -4,6 +4,34 @@
   "page": 10,
   "value": [
     {
+      "path": "_functions/pathcontains.md",
+      "title": "PATHCONTAINS (<path>, <item>)",
+      "excerpt": "Returns TRUE if the specified item exists within the specified path.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/pathcontains/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/pathcontains-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/pathcontains-function-dax",
+      "name": "PATHCONTAINS (<path>, <item>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/pathitem.md",
       "title": "PATHITEM (<path>, <position>[, <type>])",
       "excerpt": "Returns the item at the specified position from a string resulting from evaluation of a PATH function. Positions are counted from left to right.",
@@ -655,34 +683,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/quarter-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/quarter-function-dax",
       "name": "QUARTER (<date>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/quotient.md",
-      "title": "QUOTIENT (<numerator>, <denominator>)",
-      "excerpt": "Performs division and returns only the integer portion of the division result. Use this function when you want to discard the remainder of division.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/quotient/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/quotient-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/quotient-function-dax",
-      "name": "QUOTIENT (<numerator>, <denominator>)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

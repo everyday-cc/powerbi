@@ -1,0 +1,35 @@
+{
+  "title": "Functions",
+  "path": "_functions",
+  "page": 15,
+  "value": [
+    {
+      "path": "_functions/yieldmat.md",
+      "title": "YIELDMAT (<settlement>, <maturity>, <issue>, <rate>, <pr>[, <basis>])",
+      "excerpt": "Returns the annual yield of a security that pays interest at maturity.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/yieldmat/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/yieldmat-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/yieldmat-function-dax",
+      "name": "YIELDMAT (<settlement>, <maturity>, <issue>, <rate>, <pr>[, <basis>])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    }
+  ]
+}

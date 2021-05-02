@@ -4,6 +4,34 @@
   "page": 8,
   "value": [
     {
+      "path": "_functions/normsinv.md",
+      "title": "NORM.S.INV (Probability)",
+      "excerpt": "Returns the inverse of the standard normal cumulative distribution. The distribution has a mean of zero and a standard deviation of one.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/normsinv/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/norm-s-inv-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/norm-s-inv-dax",
+      "name": "NORM.S.INV (Probability)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/not.md",
       "title": "NOT (<logical>)",
       "excerpt": "Changes FALSE to TRUE, or TRUE to FALSE.",
@@ -795,34 +823,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/previousday-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/previousday-function-dax",
       "name": "PREVIOUSDAY (<dates>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/previousmonth.md",
-      "title": "PREVIOUSMONTH (<dates>)",
-      "excerpt": "Returns a table that contains a column of all dates from the previous month, based on the first date in the dates column, in the current context.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/previousmonth/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/previousmonth-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/previousmonth-function-dax",
-      "name": "PREVIOUSMONTH (<dates>)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

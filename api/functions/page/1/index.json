@@ -294,7 +294,7 @@
             "Power BI",
             "DAX"
           ],
-          "heat": 51,
+          "heat": 50,
           "type": "article"
         },
         {
@@ -544,7 +544,7 @@
           "type": "article"
         }
       ],
-      "size": 9,
+      "size": 10,
       "heat": 160,
       "content": "\r\n",
       "type": "collection"
@@ -804,7 +804,7 @@
             "Power BI",
             "DAX"
           ],
-          "heat": 51,
+          "heat": 50,
           "type": "article"
         },
         {
@@ -994,118 +994,6 @@
       "type": "collection"
     },
     {
-      "path": "_functions/allselected.md",
-      "title": "ALLSELECTED ( [<tableName> | <columnName>[, <columnName>[, <columnName>[,…]]]] )",
-      "excerpt": "Removes context filters from columns and rows in the current query, while retaining all other context filters or explicit filters.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/allselected/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/allselected-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/allselected-function-dax",
-      "name": "ALLSELECTED ( [<tableName> | <columnName>[, <columnName>[, <columnName>[,…]]]] )",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/keepfilters.md",
-      "title": "KEEPFILTERS (<expression>)",
-      "excerpt": "Modifies how filters are applied while evaluating a CALCULATE or CALCULATETABLE function.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/keepfilters/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/keepfilters-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/keepfilters-function-dax",
-      "name": "KEEPFILTERS (<expression>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 52,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/allexcept.md",
-      "title": "ALLEXCEPT (<table>,<column>[,<column>[,…]])",
-      "excerpt": "Removes all context filters in the table except filters that have been applied to the specified columns.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/allexcept/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/allexcept-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/allexcept-function-dax",
-      "name": "ALLEXCEPT (<table>,<column>[,<column>[,…]])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/related.md",
-      "title": "RELATED (<column>)",
-      "excerpt": "Returns a related value from another table.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/related/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/related-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/related-function-dax",
-      "name": "RELATED (<column>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 51,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
       "path": "_functions/abs.md",
       "title": "ABS (<number>)",
       "excerpt": "Returns the absolute value of a number.",
@@ -1274,6 +1162,34 @@
       "type": "article"
     },
     {
+      "path": "_functions/acoth.md",
+      "title": "ACOTH(number)",
+      "excerpt": "Returns the inverse hyperbolic cotangent of a number.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/acoth/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/acoth-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/acoth-function-dax",
+      "name": "ACOTH(number)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/addcolumns.md",
       "title": "ADDCOLUMNS (<table>, <name>, <expression>[, <name>, <expression>]…)",
       "excerpt": "Adds calculated columns to the given table or table expression.",
@@ -1309,6 +1225,90 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/addmissingitems-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/addmissingitems-function-dax",
       "name": "ADDMISSINGITEMS (<showAllColumn>[, <showAllColumn>]…, <table>, <groupingColumn>[, <groupingColumn>]…[, filterTable]…)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/all.md",
+      "title": "ALL ( [<table> | <column>[, <column>[, <column>[,…]]]] )",
+      "excerpt": "Returns all the rows in a table, or all the values in a column, ignoring any filters that might have been applied. This function is useful for clearing filters and creating calculations on all the rows in a table.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/all/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/all-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/all-function-dax",
+      "name": "ALL ( [<table> | <column>[, <column>[, <column>[,…]]]] )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/allcrossfiltered.md",
+      "title": "ALLCROSSFILTERED (<table>)",
+      "excerpt": "Clear all filters which are applied to a table.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/allcrossfiltered/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/allcrossfiltered-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/allcrossfiltered-function-dax",
+      "name": "ALLCROSSFILTERED (<table>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/allexcept.md",
+      "title": "ALLEXCEPT (<table>,<column>[,<column>[,…]])",
+      "excerpt": "Removes all context filters in the table except filters that have been applied to the specified columns.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/allexcept/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/allexcept-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/allexcept-function-dax",
+      "name": "ALLEXCEPT (<table>,<column>[,<column>[,…]])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

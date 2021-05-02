@@ -4,34 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_functions/concatenatex.md",
-      "title": "CONCATENATEX (<table>, <expression>, [delimiter])",
-      "excerpt": "Concatenates the result of an expression evaluated for each row in a table.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/concatenatex/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/concatenatex-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/concatenatex-function-dax",
-      "name": "CONCATENATEX (<table>, <expression>, [delimiter])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
       "path": "_functions/confidencenorm.md",
       "title": "CONFIDENCE.NORM (alpha,standard_dev,size)",
       "excerpt": "The confidence interval is a range of values. Your sample mean, x, is at the center of this range and the range is x ± CONFIDENCE.NORM. For example, if x is the sample mean of delivery times for products ordered through the mail, x ± CONFIDENCE.NORM is a range of population means. For any population mean, μ0, in this range, the probability of obtaining a sample mean further from μ0 than x is greater than alpha; for any population mean, μ0, not in this range, the probability of obtaining a sample mean further from μ0 than x is less than alpha. In other words, assume that we use x, standard_dev, and size to construct a two-tailed test at significance level alpha of the hypothesis that the population mean is μ0. Then we will not reject that hypothesis if μ0 is in the confidence interval and will reject that hypothesis if μ0 is not in the confidence interval. The confidence interval does not allow us to infer that there is probability 1 – alpha that our next package will take a delivery time that is in the confidence interval.",
@@ -823,6 +795,34 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/currency-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/currency-function-dax",
       "name": "CURRENCY (<value>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/currentgroup.md",
+      "title": "CURRENTGROUP ( )",
+      "excerpt": "Returns a set of rows from the table argument of a GROUPBY expression that belong to the current row of the GROUPBY result.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/currentgroup/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/currentgroup-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/currentgroup-function-dax",
+      "name": "CURRENTGROUP ( )",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

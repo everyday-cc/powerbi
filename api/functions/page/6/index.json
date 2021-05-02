@@ -4,34 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_functions/even.md",
-      "title": "EVEN (number)",
-      "excerpt": "Returns number rounded up to the nearest even integer. You can use this function for processing items that come in twos. For example, a packing crate accepts rows of one or two items. The crate is full when the number of items, rounded up to the nearest two, matches the crate's capacity.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/even/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/even-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/even-function-dax",
-      "name": "EVEN (number)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
       "path": "_functions/exact.md",
       "title": "EXACT (<text1>,<text2>)",
       "excerpt": "Compares two text strings and returns TRUE if they are exactly the same, FALSE otherwise. EXACT is case-sensitive but ignores formatting differences. You can use EXACT to test text being entered into a document.",
@@ -683,6 +655,34 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/hasonevalue-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/hasonevalue-function-dax",
       "name": "HASONEVALUE (<columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/hour.md",
+      "title": "HOUR (<datetime>)",
+      "excerpt": "Returns the hour as a number from 0 (12:00 A.M.) to 23 (11:00 P.M.).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/hour/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/hour-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/hour-function-dax",
+      "name": "HOUR (<datetime>)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

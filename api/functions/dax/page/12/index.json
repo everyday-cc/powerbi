@@ -4,6 +4,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_functions/username.md",
+      "title": "USERNAME ()",
+      "excerpt": "Returns the domain name and username from the credentials given to the system at connection time.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/username/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/username-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/username-function-dax",
+      "name": "USERNAME ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/userobjectid.md",
+      "title": "USEROBJECTID ()",
+      "excerpt": "Returns the current user's Object ID from Azure AD or security identifier (SID).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/userobjectid/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/userobjectid-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/userobjectid-function-dax",
+      "name": "USEROBJECTID ()",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/userprincipalname.md",
       "title": "USERPRINCIPALNAME ()",
       "excerpt": "Returns the user principal name.",

@@ -4,6 +4,34 @@
   "page": 8,
   "value": [
     {
+      "path": "_functions/keepfilters.md",
+      "title": "KEEPFILTERS (<expression>)",
+      "excerpt": "Modifies how filters are applied while evaluating a CALCULATE or CALCULATETABLE function.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/keepfilters/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/keepfilters-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/keepfilters-function-dax",
+      "name": "KEEPFILTERS (<expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/lastdate.md",
       "title": "LASTDATE (<dates>)",
       "excerpt": "Returns the last date in the current context for the specified column of dates.",
@@ -655,34 +683,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/naturalinnerjoin-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/naturalinnerjoin-function-dax",
       "name": "NATURALINNERJOIN (<leftJoinTable>, <rightJoinTable>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/naturalleftouterjoin.md",
-      "title": "NATURALLEFTOUTERJOIN (<leftJoinTable>, <rightJoinTable>)",
-      "excerpt": "Performs an inner join of a table with another table. The tables are joined on common columns (by name) in the two tables. If the two tables have no common column names, an error is returned.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/naturalleftouterjoin/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/naturalleftouterjoin-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/naturalleftouterjoin-function-dax",
-      "name": "NATURALLEFTOUTERJOIN (<leftJoinTable>, <rightJoinTable>)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

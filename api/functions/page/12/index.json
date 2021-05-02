@@ -4,6 +4,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_functions/search.md",
+      "title": "SEARCH (<find_text>, <within_text>[, [<start_num>][, <NotFoundValue>]])",
+      "excerpt": "Returns the number of the character at which a specific character or text string is first found, reading left to right. Search is case-insensitive and accent sensitive.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/search/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/search-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/search-function-dax",
+      "name": "SEARCH (<find_text>, <within_text>[, [<start_num>][, <NotFoundValue>]])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/second.md",
+      "title": "SECOND (<time>)",
+      "excerpt": "Returns the seconds of a time value, as a number from 0 to 59.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/second/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/second-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/second-function-dax",
+      "name": "SECOND (<time>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/selectcolumns.md",
       "title": "SELECTCOLUMNS (<table>, <name>, <scalar_expression> [, <name>, <scalar_expression>]…)",
       "excerpt": "Adds calculated columns to the given table or table expression.",
@@ -627,62 +683,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/summarizecolumns-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/summarizecolumns-function-dax",
       "name": "SUMMARIZECOLUMNS (<groupBy_columnName> [, < groupBy_columnName >]…, [<filterTable>]…[, <name>, <expression>]…)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/sumx.md",
-      "title": "SUMX (<table>, <expression>)",
-      "excerpt": "Returns the sum of an expression evaluated for each row in a table.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/sumx/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/sumx-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/sumx-function-dax",
-      "name": "SUMX (<table>, <expression>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/switch.md",
-      "title": "SWITCH (<expression>, <value>, <result>[, <value>, <result>]…[, <else>])",
-      "excerpt": "Evaluates an expression against a list of values and returns one of multiple possible result expressions.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/switch/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/switch-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/switch-function-dax",
-      "name": "SWITCH (<expression>, <value>, <result>[, <value>, <result>]…[, <else>])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

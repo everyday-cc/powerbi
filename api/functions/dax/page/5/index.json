@@ -4,34 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_functions/endofmonth.md",
-      "title": "ENDOFMONTH (<dates>)",
-      "excerpt": "Returns the last date of the month in the current context for the specified column of dates.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/endofmonth/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/endofmonth-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/endofmonth-function-dax",
-      "name": "ENDOFMONTH (<dates>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
       "path": "_functions/endofquarter.md",
       "title": "ENDOFQUARTER (<dates>)",
       "excerpt": "Returns the last date of the quarter in the current context for the specified column of dates.",
@@ -823,6 +795,34 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/hasonevalue-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/hasonevalue-function-dax",
       "name": "HASONEVALUE (<columnName>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/hour.md",
+      "title": "HOUR (<datetime>)",
+      "excerpt": "Returns the hour as a number from 0 (12:00 A.M.) to 23 (11:00 P.M.).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/hour/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/hour-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/hour-function-dax",
+      "name": "HOUR (<datetime>)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

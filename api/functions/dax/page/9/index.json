@@ -4,6 +4,34 @@
   "page": 9,
   "value": [
     {
+      "path": "_functions/previousmonth.md",
+      "title": "PREVIOUSMONTH (<dates>)",
+      "excerpt": "Returns a table that contains a column of all dates from the previous month, based on the first date in the dates column, in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/previousmonth/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/previousmonth-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/previousmonth-function-dax",
+      "name": "PREVIOUSMONTH (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/previousquarter.md",
       "title": "PREVIOUSQUARTER (<dates>)",
       "excerpt": "Returns a table that contains a column of all dates from the previous quarter, based on the first date in the dates column, in the current context.",
@@ -480,6 +508,34 @@
       "type": "article"
     },
     {
+      "path": "_functions/related.md",
+      "title": "RELATED (<column>)",
+      "excerpt": "Returns a related value from another table.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/related/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/related-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/related-function-dax",
+      "name": "RELATED (<column>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/relatedtable.md",
       "title": "RELATEDTABLE (<tableName>)",
       "excerpt": "Evaluates a table expression in a context modified by the given filters.",
@@ -767,62 +823,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/rounddown-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/rounddown-function-dax",
       "name": "ROUNDDOWN (<number>, <num_digits>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/roundup.md",
-      "title": "ROUNDUP (<number>, <num_digits>)",
-      "excerpt": "Rounds a number up, away from 0 (zero).",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/roundup/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/roundup-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/roundup-function-dax",
-      "name": "ROUNDUP (<number>, <num_digits>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/row-function.md",
-      "title": "ROW (<name>, <expression>[[,<name>, <expression>]…])",
-      "excerpt": "Returns a table with a single row containing values that result from the expressions given to each column.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/row-function/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/row-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/row-function-dax",
-      "name": "ROW (<name>, <expression>[[,<name>, <expression>]…])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

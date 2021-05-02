@@ -4,13 +4,13 @@
   "page": 6,
   "value": [
     {
-      "path": "_functions/hour.md",
-      "title": "HOUR (<datetime>)",
-      "excerpt": "Returns the hour as a number from 0 (12:00 A.M.) to 23 (11:00 P.M.).",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/hour/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/hour-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/hour-function-dax",
-      "name": "HOUR (<datetime>)",
+      "path": "_functions/if.md",
+      "title": "IF (<logical_test>, <value_if_true>[, <value_if_false>])",
+      "excerpt": "Checks a condition, and returns one value when it's TRUE, otherwise it returns a second value.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/if/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/if-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/if-function-dax",
+      "name": "IF (<logical_test>, <value_if_true>[, <value_if_false>])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -32,13 +32,13 @@
       "type": "article"
     },
     {
-      "path": "_functions/if.md",
-      "title": "IF (<logical_test>, <value_if_true>[, <value_if_false>])",
-      "excerpt": "Checks a condition, and returns one value when it's TRUE, otherwise it returns a second value.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/if/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/if-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/if-function-dax",
-      "name": "IF (<logical_test>, <value_if_true>[, <value_if_false>])",
+      "path": "_functions/ifeager.md",
+      "title": "IF.EAGER(<logical_test>, <value_if_true>[, <value_if_false>])",
+      "excerpt": "Checks a condition, and returns one value when TRUE, otherwise it returns a second value. It uses an eager execution plan which always executes the branch expressions regardless of the condition expression.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/ifeager/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/if-eager-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/if-eager-function-dax",
+      "name": "IF.EAGER(<logical_test>, <value_if_true>[, <value_if_false>])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -704,6 +704,34 @@
       "type": "article"
     },
     {
+      "path": "_functions/keepfilters.md",
+      "title": "KEEPFILTERS (<expression>)",
+      "excerpt": "Modifies how filters are applied while evaluating a CALCULATE or CALCULATETABLE function.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/keepfilters/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/keepfilters-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/keepfilters-function-dax",
+      "name": "KEEPFILTERS (<expression>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/lastdate.md",
       "title": "LASTDATE (<dates>)",
       "excerpt": "Returns the last date in the current context for the specified column of dates.",
@@ -795,34 +823,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/left-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/left-function-dax",
       "name": "LEFT (<text>, <num_chars>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/len.md",
-      "title": "LEN (<text>)",
-      "excerpt": "Returns the number of characters in a text string.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/len/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/len-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/len-function-dax",
-      "name": "LEN (<text>)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

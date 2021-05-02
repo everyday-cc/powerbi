@@ -4,6 +4,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_functions/unichar.md",
+      "title": "UNICHAR (number)",
+      "excerpt": "Returns the Unicode character referenced by the numeric value.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/unichar/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/unichar-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/unichar-function-dax",
+      "name": "UNICHAR (number)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/unicode.md",
+      "title": "UNICODE ( <Text> )",
+      "excerpt": "Returns the number (code point) corresponding to the first character of the text.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/unicode/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/unicode-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/unicode-function-dax",
+      "name": "UNICODE ( <Text> )",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/union.md",
       "title": "UNION (<table_expression1>, <table_expression2> [,<table_expression>]…)",
       "excerpt": "Creates a union (join) table from a pair of tables.",
@@ -646,34 +702,7 @@
       "heat": 50,
       "content": "\r\n",
       "type": "article"
-    },
-    {
-      "path": "_functions/yieldmat.md",
-      "title": "YIELDMAT (<settlement>, <maturity>, <issue>, <rate>, <pr>[, <basis>])",
-      "excerpt": "Returns the annual yield of a security that pays interest at maturity.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/yieldmat/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/yieldmat-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/yieldmat-function-dax",
-      "name": "YIELDMAT (<settlement>, <maturity>, <issue>, <rate>, <pr>[, <basis>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
     }
-  ]
+  ],
+  "nextPage": 15
 }

@@ -4,6 +4,62 @@
   "page": 10,
   "value": [
     {
+      "path": "_functions/roundup.md",
+      "title": "ROUNDUP (<number>, <num_digits>)",
+      "excerpt": "Rounds a number up, away from 0 (zero).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/roundup/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/roundup-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/roundup-function-dax",
+      "name": "ROUNDUP (<number>, <num_digits>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/row-function.md",
+      "title": "ROW (<name>, <expression>[[,<name>, <expression>]…])",
+      "excerpt": "Returns a table with a single row containing values that result from the expressions given to each column.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/row-function/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/row-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/row-function-dax",
+      "name": "ROW (<name>, <expression>[[,<name>, <expression>]…])",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/rri.md",
       "title": "RRI (<nper>, <pv>, <fv>)",
       "excerpt": "Returns an equivalent interest rate for the growth of an investment.",
@@ -767,62 +823,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/summarizecolumns-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/summarizecolumns-function-dax",
       "name": "SUMMARIZECOLUMNS (<groupBy_columnName> [, < groupBy_columnName >]…, [<filterTable>]…[, <name>, <expression>]…)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/sumx.md",
-      "title": "SUMX (<table>, <expression>)",
-      "excerpt": "Returns the sum of an expression evaluated for each row in a table.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/sumx/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/sumx-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/sumx-function-dax",
-      "name": "SUMX (<table>, <expression>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/switch.md",
-      "title": "SWITCH (<expression>, <value>, <result>[, <value>, <result>]…[, <else>])",
-      "excerpt": "Evaluates an expression against a list of values and returns one of multiple possible result expressions.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/switch/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/switch-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/switch-function-dax",
-      "name": "SWITCH (<expression>, <value>, <result>[, <value>, <result>]…[, <else>])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

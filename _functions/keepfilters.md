@@ -4,7 +4,7 @@ excerpt: "Modifies how filters are applied while evaluating a CALCULATE or CALCU
 originalUrl: https://docs.microsoft.com/en-us/dax/keepfilters-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/keepfilters-function-dax
 type: article
-heat: 52
+heat: 50
 
 provider:
   name: Microsoft

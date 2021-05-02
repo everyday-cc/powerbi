@@ -4,7 +4,7 @@ excerpt: "Removes all context filters in the table except filters that have been
 originalUrl: https://docs.microsoft.com/en-us/dax/allexcept-function-dax
 webUrl: https://docs.microsoft.com/en-us/dax/allexcept-function-dax
 type: article
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft

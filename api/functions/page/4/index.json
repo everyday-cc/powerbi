@@ -4,34 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_functions/countax.md",
-      "title": "COUNTAX (<table>,<expression>)",
-      "excerpt": "The COUNTAX function counts nonblank results when evaluating the result of an expression over a table. That is, it works just like the COUNTA function, but is used to iterate through the rows in a table and count rows where the specified expressions results in a non-blank result.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/countax/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/countax-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/countax-function-dax",
-      "name": "COUNTAX (<table>,<expression>)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
       "path": "_functions/countblank.md",
       "title": "COUNTBLANK (<column>)",
       "excerpt": "Counts the number of blank cells in a column.",
@@ -683,6 +655,34 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/datesqtd-function-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/datesqtd-function-dax",
       "name": "DATESQTD (<dates>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/datesytd.md",
+      "title": "DATESYTD (<dates> [,<year_end_date>])",
+      "excerpt": "Returns a table that contains a column of the dates for the year to date, in the current context.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/datesytd/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/datesytd-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/datesytd-function-dax",
+      "name": "DATESYTD (<dates> [,<year_end_date>])",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

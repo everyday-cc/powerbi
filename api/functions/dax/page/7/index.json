@@ -4,6 +4,34 @@
   "page": 7,
   "value": [
     {
+      "path": "_functions/len.md",
+      "title": "LEN (<text>)",
+      "excerpt": "Returns the number of characters in a text string.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/len/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/len-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/len-function-dax",
+      "name": "LEN (<text>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
       "path": "_functions/ln.md",
       "title": "LN (<number>)",
       "excerpt": "Returns the natural logarithm of a number. Natural logarithms are based on the constant e (2.71828182845904).",
@@ -795,34 +823,6 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/norm-s-dist-dax",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/norm-s-dist-dax",
       "name": "NORM.S.DIST (Z, Cumulative)",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
-      "path": "_functions/normsinv.md",
-      "title": "NORM.S.INV (Probability)",
-      "excerpt": "Returns the inverse of the standard normal cumulative distribution. The distribution has a mean of zero and a standard deviation of one.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/normsinv/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/norm-s-inv-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/norm-s-inv-dax",
-      "name": "NORM.S.INV (Probability)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",

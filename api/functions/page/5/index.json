@@ -4,34 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_functions/datesytd.md",
-      "title": "DATESYTD (<dates> [,<year_end_date>])",
-      "excerpt": "Returns a table that contains a column of the dates for the year to date, in the current context.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/datesytd/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/dax/datesytd-function-dax",
-      "originalUrl": "https://docs.microsoft.com/en-us/dax/datesytd-function-dax",
-      "name": "DATESYTD (<dates> [,<year_end_date>])",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI",
-        "DAX"
-      ],
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article"
-    },
-    {
       "path": "_functions/datevalue.md",
       "title": "DATEVALUE (date_text)",
       "excerpt": "Converts a date in text format to a date in datetime format.",
@@ -683,6 +655,34 @@
       "webUrl": "https://docs.microsoft.com/en-us/dax/error-function",
       "originalUrl": "https://docs.microsoft.com/en-us/dax/error-function",
       "name": "ERROR (<text>)",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI",
+        "DAX"
+      ],
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article"
+    },
+    {
+      "path": "_functions/even.md",
+      "title": "EVEN (number)",
+      "excerpt": "Returns number rounded up to the nearest even integer. You can use this function for processing items that come in twos. For example, a packing crate accepts rows of one or two items. The crate is full when the number of items, rounded up to the nearest two, matches the crate's capacity.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/functions/even/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/dax/even-function-dax",
+      "originalUrl": "https://docs.microsoft.com/en-us/dax/even-function-dax",
+      "name": "EVEN (number)",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
