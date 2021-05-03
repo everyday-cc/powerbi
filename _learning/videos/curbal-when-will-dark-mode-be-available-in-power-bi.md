@@ -4,7 +4,7 @@ excerpt: "How do I activate Dark mode in Power BI? Short answer, you cant, but i
 originalUrl: https://youtube.com/watch?v=Ozj1INblVGQ
 type: video
 price: Free
-length: PT3M13S
+length: PT6M1S
 publishedDateTime: 2020-04-08T11:36:02Z
 heat: 51
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "K+6YgnKahDW7p+SbSF4XZV0pEgGNzb27qegmn5KqgQwTfjiRewtY4ihM3c4nXiNtTFH0E3iBnlL6rZPQ2E09KhzvqvM+ZNde0ktugDLVVCXP22vDrHXjpO9dRIVGV+Kyr+mteLZWoHVVupCykxzrhrIElxFQc+X1Ls069ONmzzQ5AhkTKBdPDCFAKU8/FMBdCdN2QgTXrmUJu0+yz6WDmsAM1T8zeAvUlMVm9kQcIGrnfTI4D1H5kFqRrtv5yADZtKaIb0YE+FOkhzsUop/tpA8JBwafNNKoIySMuS5nK/fhoPXVEm4TUjznNCJyB4Sx/Aw1tdtCkVY2oqFUnOZgfZlPphaH0ZM5zg689smGhIacH47nuu4w3weK0u/WcZo9PuyU23sGGM0iRB2UsB+bfMGKCwSdehSmW3R+IU0R59c=;8fGHemCBQxX0wpWHJmY6kQ=="
+secured: "fUrimiUU0d5/YZTmaE8lVFfS9xH5UVwcpkz+TZsIVUlf9OwCyoo2hoEhqF4bES1W0nzHd9P99tgBnKGl/tjQTT4fKLHqxhYdav8pEBolII8BeMBo3tfvZbZBS4lVbY0RQzdpXc29gb6rNWsTuXj4JBMX3Iw3sCMj2BPEGQCXnPDkeTj6PpJ3zf34FJYlrmZG/vpQ38MOIgl95Q5B9xzotIJ70hpLp6B3WYLYAo1S7IOGabaGLwBx6Vd3ODGsccpWPk0f/fTpn+UGS1gRkszVNWWNLhWaSklGRlrcwCq5kw6ANZ4dhIwVB+NmB2c4w1jHcBmvI0ho3ePF638r9AZepw/6GraM4OwRMox4Px8nPPi+nvd+hU+Rl0GxGr0HWJENwqaueJ0qNkDKDWg6x8hqqXRlCiA3HqyYiIoFNbc6ZS4=;W0o+wrn+vRqBXfhOXTq+7Q=="
 ---
 

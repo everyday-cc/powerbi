@@ -4,9 +4,9 @@ excerpt: "Have you ever tried to use a specific column, row or value in power qu
 originalUrl: https://youtube.com/watch?v=nEdxjL_hUe8
 type: video
 price: Free
-length: PT4M23S
+length: PT4M22S
 publishedDateTime: 2018-03-06T20:14:48Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nEdxjL_hUe8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "cQEBd9LtSTLPzCKccoLo7Q2/Jru620I2Wmve99l4GBbDXlqzrbEDlzYxuoxW1ABXnBVCH39+pkYf5ZABF+9hNuSDc7OxQhL5w386xPvzGzQQsxMaH5eHI9KIgWh5DhuhOHn5EHADpQGPtlo/zsIHzf+wAIMnSusHLgibsk6JskdyemyzCnFdTBfPZTh9EY4qRVHJ7a6znTv/s2ARgxkDOxVdzGWA5iIpDRQrQ0WdAzfLkWADzAPP/BY57DyZas7oLytyuZLnSYFxtMJ+HsBq0TOvq6EHlUMTX+3UTUNG3X9UMeh+RVbDoF1JtgFf9MD8Y4a1q+Li/f0PHzuTFgrRltjMuIFLJkWHdd8SXGr0p1BsyeEgESs4gHSO0hIxgVgYE9khx14XQes5JncOsI68Rle+8o4KkZ3gfG6xgkBY1jk=;lOBRG8EryVzRMFXDOtjiFw=="
+secured: "Bfhv571rw2wkuX1m+DYLeFDNZlJZfQp2f4M4ZMLkjj/1O8u58oD2JeFCGSbPUvfbbL6SRFW1ku05sunW6o89cELJ34/j5ttGBuch2swBzTnfo0U9JA3OjdMZNxh0llgaUlen6wfRD/+R1HEI0zCk1CzjBRjuBpKlixyRvv+72L1Q+puH6Zzx4fxQHjDgvMp94qWbLLboX3NNFWb4q5dtdufc7i4yD8D+N3lZbpvCryvB1aILYDZfGFMwd4aChkP7SJ8BCNAJk28ZAX9CcfJmafsALp39WanMMre9v9prkbjk9C/aW/McJEtFgPzIiw0mWrfex8EIVPYThf6Y+o7PWeWzu9JNyDjfCj8jwn8PngnyFAcD1O8KRlyU0Qj8KRl5n0Fkouep9tSWfUgxvEaaK/mN0OKloiR8dcwffq1y38A=;TkI+Tbz5zqV2HulepSjHYw=="
 ---
 

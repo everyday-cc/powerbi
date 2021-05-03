@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT15M50S
 publishedDateTime: 2017-06-08T20:30:51Z
-heat: 61
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iJfzfYt5Qws\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "sWPg7jN7xd00wXFFSSdfsBKDsRXW40h6+b7zse4G2ypsn+CQNlA+vIQzWZ5aJ/YYOBH0oJBPc6IAN7zRzxS8igd33l6iFyfUuNCATi3JkXsdCEwudQoTAPkxAhddagkuX6/9ZuksjKyxPFKip4qIiSuEfvQM/Z2ZzAwOuOES/VhV4R8EfZPTf+emZBLHgEHdxHwXwuyA1jD5juBtCswniKjUrPFomTj/OqFe1cKM8NtF1LWwtBYf7GqNJkio/naJsaZlIvEd1JgSopPunFgqo9BiRLSy1IW0nT180JUGtkBDfbRhYlqXjLKu+KvfuqV4LTDRp2Is/p+Mx6zVBcJihOV0EgL1iUqCMQfwcQwV3i/02tFoGcRSdsgEim92vyxzpWviNTQdLRcYr8VBhDK5rcDVgy1Eie9B9yxVvMqFb74=;03X7X6vo1SBZFq/do/EFGA=="
+secured: "UbfZao52evHmsKCot7qwEpns0RVOhKXScsu4cBJbrSDMlAoANZCaqVLTlpMI8pNDUeQ2nxCT6QFyG6wdMrxgPlBKml5EJCAMvg8RjyFAzEkF7Sc8a+bYapDrUZLLLTMhnMG+fjVIjowxiaATQ4gcCChEaK7fjm2xN440CCca5TY38s0wpBs1qSP2g4s9AHhCdwqRgS6+EoY/JR3mtWVSYPjF+SMPLaEOxNRSgR4+Y5QZqoTNN+N5B6CsolWemoUHpiWx4PUf+JNjdbt3NB3rj32PEGixmYC3yi9RdyfZ7pMxLVE7Wwv2OdqfXfnBB0Llj7/SaaRz5kg7psT0+gM8ZPbfB2GgaBR2CSXO7cuZ3xsLkh/5G4b2R9ckjPZr/Ii/vslovmRXuJwRwpvcCrROEfll+lGyvXSNFcHJOKsiMMg=;wyqtVHT0/33AmGP7660ivg=="
 ---
 

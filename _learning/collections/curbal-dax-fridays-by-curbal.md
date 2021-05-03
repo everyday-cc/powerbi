@@ -2,7 +2,7 @@
 title: "DAX Fridays by Curbal"
 excerpt: "Are you new to DAX or are you having problems with a specific DAX function? In this playlist, I cover a new DAX function every friday, so you and I can learn DAX in depth."
 type: collection
-heat: 67
+heat: 68
 
 provider:
   name: Curbal
@@ -228,6 +228,10 @@ items:
   - videos/curbal-dax-fridays-199-using-curly-brackets-in-dax-expressions
   - videos/curbal-dax-fridays-200-calculate-the-max-of-a-measure
   - videos/curbal-dax-fridays-201-how-to-create-virtual-tables-using-dax
+  - videos/curbal-dax-fridays-203-examples-of-max-calculations-of-groups-and-subgroups
+  - videos/curbal-dax-fridays-204-slice-by-the-results-of-a-measure
+  - videos/curbal-dax-fridays-205-find-values-missing-in-related-table
+  - videos/curbal-dax-fridays-206-9-dax-unwritten-rules-that-will-give-you-away-as-a-beginner-
 
 topics:
   - Power BI
