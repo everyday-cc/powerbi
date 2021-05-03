@@ -4,7 +4,7 @@ excerpt: "Media Overview Report dashboard template fetches all of your advertisi
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Web-Media-Overview-Report-Dashboard-Template/m-p/1382890
 type: download
 publishedDateTime: 2020-09-20T21:34:00Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNWYxOTE3YTEtYTg5Mi00MmUwLWIzNGItZTI4ZTUwZDdlMjJjIiwidCI6IjYyYjBiNjRjLTRiNWItNDU5OC04OGZlLTljYTIxNmM1NjdkMiIsImMiOjh9\"></iframe>"
 
@@ -33,6 +33,6 @@ topics:
 tags:
   - Business
 
-secured: "5pYz+eGSvcozpljFcb8PdPLCWDHDOQPfxkxkBFsgrgAZlLYkKjlh2IW4zU3LEko2ETyusHkRAqRaSr/Nj5cdISB1nz8Wj64sk+45Plefjg1DM3mapcvy5KgJz5la0chPRCJGkNAKsB8saa3EzG3psxGTrzy8muhbiuQ0A/ANx/eSCB6LuVUjC/reAaI8L/DNGbEOxnG5Xl5rObINQsj5z2uzyH9chITbCPaMQKqaPHwFab+uC3ZK6V/JTp90Fyyd/F1E6xjeeN3um53cRrKYHhmUvnqIrrZEd9DuZT8yLrLpcRlExoimOZyt5M09/e6HUQidGP8x7vgBDsB6MS0ltdINBnTe5y87IfWQstVHxsbJtOWBxgyNYZU1zyoFiF8Ji0HaS0ElbX9iuBehGHzZVHOD8M00kMdU+k+vAs7NORCmVbdGbnU0il/+SpFqgzo1;qIHX8qvAye2Rm1kPrQONEg=="
+secured: "oHTesBG+t4E5WkDm7C34fcehQEc8ruGUNlFVFj2M+0eZDCyj2c/fnBRXDpbtWLcJ4letpqfS+gFszjyyvY307cc//RmTRVfk7fEB/mbVplfr1bVTcBmH733ySVFfGSqCfCOD514l1APc5DFI1JVUIyZB2E8/byr0xcx8ENj0xah0upKq7IkcjHWFHwyqLNNW1cuzf4T8Sb9Q5t25O6vpj9yVgB4xT1NrIXf6lKF6p9jcfMfdgQ2mt/mPBfYDPr/5hLZE1o9qUy8HLvKc0AQ2fLJufwahQuJXER9zzfuKBtu3Ogb+Di8/mtdpiRB6ajFyMDtischJMn+EWALZa7em3aX8/Bb7J5MguAm361B3ykDDfRtmGLBIvZIBdj49it+zN1UQGqvZTAADeplcoy9mWmsMDLNYRMVeX+x4W4Eizi68EnlM8t/SgN0XucqyIGoA;qWU5a5xjQDta7riqlzuUMw=="
 ---
 

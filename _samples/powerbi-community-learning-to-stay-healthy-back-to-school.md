@@ -4,7 +4,7 @@ excerpt: "&amp;quot;A healthy diet leads to a healthy mind, and healthy minds le
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Learning-to-Stay-Healthy-Back-To-School/m-p/785922
 type: download
 publishedDateTime: 2019-09-06T09:51:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMDYyMjc2Y2ItOTU2NS00ZmQ2LTk0NzktNWNhN2JjNmNmYWU5IiwidCI6IjE5NjMzNDc1LThlYzktNDRiYS1iMTViLTRhMDc3YzA4MTJkMSIsImMiOjEwfQ%3D%3D\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 858
     isCached: true
 
-secured: "69ZMfEHuqIaCtMMaGfG9n3wExlMaKAvonTB+zpWb9fOuktHdci8Oan6dek2hSEMTC4MY/x60suqrQVZ5XDQj7Az1PMvK28XqDgICr6I8uymjcFobDY0N086wVju2U4JkG4jaxgYqF5OJYcBvyqClmrX/Iq2gBbJROPugBAIN2zQpxucX6lRvisj/Ke5uo89ZFMdiP+fzZTVe9yYTlYnfyX4nJ9cWvd27UEAGkpuiajPJoGpYPjRrdUCiQjfrY/SdEGhZKxlf1ZQ1xwUTckzjToutJEvpcEPLLWAUUXJSPOl4cN3tDKTlM6FKu1Mi1VQDTmSEoedt/3Ei3sXmOap2db0znTUL3Esq8+AgZcjJ23DlBVHGipQ7zBDteTnJqLjobdIndGr/yX56vXk4KZfavKoWRRSBpqQD/g6NG9VCXh+9Dk0+FBV1SXRyhRsOm9aD;0RTfORPaHoWasUpW29STug=="
+secured: "HJz0mXHmgEe9auYbLyK+AoSwC5qmFU39vM3Zig1PuqM1J+0ycBgAG0Ngj0jKqKIYctfy0ybjhLTLUYVT6zPduY6tGlTYhcLRplPufGwLJG0nUokBb2667oq3Bz6YlLAgjsl0SsG/zPRr9fdAG/bW6rcacmUBG223tLs44B1Obk7XLJ7XUZHSJm+dt2Q8WPzxJH8oyRbK3dgroV3mo3zUF7dP4dkhHSsD0yI21NC6QQaZYSwL9x98bzYRKqf9fCQbhxLhu8fCPdKkN5oIMC3kgsvoY0hiZrHK5jBNENza2dfCO752O0BYkOXD1U0CnhJSqXC3Dcx+N2z9TTy9Q29ta1Y28YgFylTcY23sFA/sA5gx5R40JJd0TR0GGAbziyzyImSIz8b9Q8SH9t0T7JJI7KNjTLIn+7KD1CC03fVH9c5V6YCQTRAJklcmXsHvb1+x;Vw+FKhaWiX980N9XchRnrg=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "COVID-19 Clinical Trials Here is a simple dashboard with COVID-19 clin
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Clinical-Trials/m-p/1045849
 type: download
 publishedDateTime: 2020-04-23T19:55:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDc0ZmYzMWMtNDBmYi00N2ZhLTk2ZjYtM2U5ZGY4Y2JjYjkwIiwidCI6IjE0NmQ5YzY5LWEwNDMtNDlkMy1hNmVkLTVlYTNjYTBmOTA2MiIsImMiOjJ9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 872
     isCached: true
 
-secured: "vHus/kM5RoOt9SIuXHGI02s762n87xtxwhB5Xqh3SGprsbpyuzRsNGkxK5PXRh670/UPZe1OGhmZ2TOzgo0rCqwbn5T2E+2l2CWWkA8Z7vqKJGaMs0mLcHJmuuQpWcRpF2+zyw3TNWkLlggjgwSzk/g7jj56G7/JpP0CzzRHMKdZkcVFs8YGTPUHHeHR8ZF7VOIW2Hoer+9dzHuC0WBcFFVwOFCMt5QlP1I/fBvDh8HFLkchmfHHIPhy4ebuQXRUzOH+bHChlBKcVgKNxfy+wDkl59FM1dSjh/XwTvRhIeM/iefjg7m0E56gMDJenLUhKsvMb+rzAQX5NfmFks9pI7suRWmwgKqJCC4TyElG7xGPhROySIlQYmXj75BHfaKXokxXPb8Y14WqG6X2PnDuEzgoC9p0szqU5CFtqV0occ7VhzeXI/i86GWcDtF2jjLI;I4MnNGiFxXnZZFHDQZ7Lxg=="
+secured: "fQ8+sYDYVCi1eaX10vvxMLZtzVOf14g5lWI17Y37Yo931KIbaEWRU49Op6sjMDYbWSaQ0j69bAXHFaF6fa9rFNstUAKyv9hMpcTkwaJdL5cD7rCv46xr24ch++S++YxJOz0Xz7zPtmGN0zXhd/AgChWczpA4SjAHIoqoyLHyt60s6GvuOp450Iv8VEqSSMLiaFXtUXxpj9zAZeierIMGwJTug8SyRkdWJZam44uwEL5er9cmTTt/VdaxvHXbv6nQMR+uc3/pwUNKO0JRuDmIjRnzlfX09iHwiN2reRjdb1Ro2zfWwx9GVOXg+vpX+y4xX+yjLRkVfuZvJ9FYVp8XGOe6c2rIh5d4uoFdMgE2mxuBxzeEVMUnEVvCNyjU/tNSqLl6XPgiUHAvHoNW1igY6ILT5njJGB31ikGm6bRf4XktsfiQHas/pfdTgLFxwFkT;UV4nVUj1aif80ukE5iNVdQ=="
 ---
 

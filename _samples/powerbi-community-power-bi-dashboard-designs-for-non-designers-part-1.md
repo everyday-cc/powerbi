@@ -4,7 +4,7 @@ excerpt: "This Neumorphic dashboard is completely designed in Power BI desktop w
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Power-BI-dashboard-designs-for-non-designers-Part-1/m-p/1317532
 type: download
 publishedDateTime: 2020-08-23T12:27:00Z
-heat: 56
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZmM3MjU5YTEtODIyOS00OTIwLTg5NDgtN2RiMzI4MmIxZDVhIiwidCI6Ijk3YTkyYjA0LTRjODctNDM0MS05YjA4LWQ4MDUxZWY4ZGNlMiIsImMiOjh9\"></iframe>"
 
@@ -35,6 +35,6 @@ tags:
   - Entertainment
   - Business
 
-secured: "GGdHghFh1fjyrrDkiIH+zcGBXkR6BEX+jOTLvF+Kq47/QtpHZ4izMjzYCoY5ShYZj0OGT/jM+jsy4qKMqve4X6t9UKT51XJHZtIPGOS3iFvol50OHNKA8vhdQf9D0YaF7CqzDh/54vefNwekW5gnhQyM2Kenrq28VPIboXUWlk5DSxZ1cKKVJTW6XwFkn7btPR1j+JYhL3N92WWW6REWcUYZ5F9b/thb4QSO7J7Eu6cgya2voXGunBO0jIJRdo5YFCwiKog/IX+SoZdJ60MsJ1Dzt1jJfENO/8+bWV3TJb0AUb9qAAOWiye3O8Av0BvUHmhu4+vgeaFAt+BB9H2kpSYPokfE/kV/pwlCf/noXcYJfwsxryPTNGuYsK9Hc5h1bW/Gmbhp7eA42ibYLcOBeP5FCIY4iZKvESOsRpSxWbEezt6kDrsr+zO2DTKfTH8q;8LUnSORcfvp85L9DUv0niQ=="
+secured: "uInCOSsUy1dj3Di06zaWXD7+hA8n299dsmSEWKe/AXqjU9hLqybosmsUCD4lyKl48/9Uf/8CRc1lOf/4qIj2JWuJVAkmI187YQ+DtuXEui51yxMY8Y4MiHbfBCpHpJbeViszRxxfUbCaEl2D8RvBkKhbruh+CiBGFYUA/ptqMMN9CLBnvDe76Nl2XVGu5zeIdc8pCI89DuscMTMjDMx+nx5zUtUv1ajia7zh0Xo6vwMnvObeB0pc5MXpmINx2Lw/P310pzLOt7HAt4Bu5e1cx3c0+vwWeP6ijzKwPf4RhJTeNE1FDi7B9x5LVFmUATI6yCe6iHZM2ldlL1VWf+WhY/qJofv7fqE141+aGg1BKff4i8qMMFLhIclVOFnB6Xx6u1I0haHq4yRPs5grDgaZm3GLgMJ5xyUn3EnuFMah0xiKiVO0Nmjgcvkr2530Admo;jrr9qIP2qjDVAkh8BiLM1Q=="
 ---
 

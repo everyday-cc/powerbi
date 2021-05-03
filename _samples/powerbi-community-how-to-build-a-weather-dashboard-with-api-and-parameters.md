@@ -4,7 +4,7 @@ excerpt: "Solved: Hi, just created this dashboard connecting local data and 2 AP
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/How-to-Build-a-Weather-Dashboard-with-API-and-Parameters/m-p/115356
 type: download
 publishedDateTime: 2017-01-18T08:44:00Z
-heat: 58
+heat: 62
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTM1ZTVlNjItNmRiNC00NjQzLTg2NWQtNDM1ZmYwYzM5YTllIiwidCI6ImQ1MWRlNTk2LTQ1YTAtNGFhNS1hMGQ4LTQ3ZDFjOTU4YWEzMiIsImMiOjh9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 841
     isCached: true
 
-secured: "fSuI2TAkDuTujd1tcWnOd3C1bbCRTA4VHs8dCvAPqFk0iZxSYbZYldpznD0uKlsJS4UwtCGlxq0ttERQNs8jWxoByEBm1CPOeUIJB1YH52Dir+I2N72EAJ1dWhRZGBTHZlRP2Mp1eKB92tW9SyI0qJ3ODL3Ml5knlBn70fztHVeVeWuT34HXNtHZ3299putIi0w2cvlhTP1nNvQuxW1VdwYMI6/ivSwd2VNrU1647t5J1OXF4a6FsLSRMPrgvQS9Pns72FuP/V/EsAUzWirk0Xhj4kLKOgk2kGy2/xKZovE/Zc1++cs6BWhnXC7tMG1W6kt5wSl1A8uDnmR60YOG7pc1iLiB3v2h6QRr8mU5fUxjtYj+6GQpYVUYxvyZ65G4doWYzERRh4oVVE5IrYr9WGwjZGCLDXC2lcDm3rgVYWYWwjr1EeUxyepoWTt47Xvx;tA8QsTKfkwg12uBlcfrq0g=="
+secured: "mwYJd8CvDjTzk1Mta0mH40BHAx87dvLV4NnvuecoYZI+V+bsd5o1cDjtiPSGimEd0RltCyKcka1CfBqDH2hQM2yql3nf49ghqtGdSuNlfVekKwa0yGMDKWWZ/T7Qs8IKM5J/V/OKYHk7ET7B7J3lqhBO+d9WE/iZWNtQj55btvh63EUUX9TmNpyoVKTAHk4+EuVnAKqOs0PaQilGH2s/WSpmjGDkvN12zhh099DlhA8onkiKjRGhWhI/iYPfOD9Xgio82+PJyExO6gcBcZvzbTUR84Hx1cUAJi6XHAXT/ewF3EvLPPwwU8HgenTIrAidCRag6TcUZBIy6LDQampExVMQ0k/iCL4agr2i8pbJk1o1iDATSXgOkWLh2ApBVEjXCI9NhFX0OvvBJLgbrRGScaE+cfIrAMBoagg4HfeR5pbdHADhXD42NluRfXnlUW/X;MJxuAt22Eiombd3PS1EHbA=="
 ---
 

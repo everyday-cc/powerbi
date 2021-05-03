@@ -4,7 +4,7 @@ excerpt: "The Microsoft Office team recently partnered with Levo, a network for 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Mastering-Your-Productivity-in-2017-Survey-by-Levo-and-Microsoft/m-p/115410
 type: download
 publishedDateTime: 2017-01-18T12:03:00Z
-heat: 60
+heat: 62
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZDZlYmM1ZTQtYTBkZi00OGYzLThiNmUtMDU5Nzc0NDVjNTIyIiwidCI6IjNkODE4OGM4LTc3NTgtNDYzYy1iYjNmLTBlMTYwZGUzMzYwZiIsImMiOjN9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 816
     isCached: true
 
-secured: "85fSdJ/KzV9k6UYWwNz/5c+C+nwpEuG1eaUrA6UZuZKZh1ChlAAohtmktw75adL8w216h6lQ64KYb+PicIQDD+fdp4NtsOiydLMQmAqes31cZxfpgX0uYvZttyNm7Rm8NJoy2skpGHqT0Zu2iTyjXEvpWs1XJvf5qFfqsS0yteB+OU27GvTmNzTIfLSYT+ebgYuwI6kJu32UJrDlXKa+Scu8z4h/hrA3rzjPGSyFSScWbOL52SD3CrsKQD4QNw69n6CCgLMAEBuZDpmyX0GBQzo+5dM9JO0dabhnxLLC13Tjly6/PEP2r65O6tz4IEWrgkdd1Z/L3o4hVLb/o7UWI0uo0mvmOYZN+6jnwpu9Y6Z/xDk2I5xWHr/Q4uwFq9OWd9cJmBnv+JZxXcwDiyWZxIInxy2nwMeoyHskQRq8msOSREE1cqv/Hxo3Nc0nPxQf;gXXR2nPQCGJOlkfqtJFTFQ=="
+secured: "wwulo1xMxXJQrXipgml75olZao/owVtkfr0J3f7jLZkBd5U9YrKQEuxm/KWLXg5a6FrYkCJq19yesFoNw+FzssZzHHBkxW15UL9jpWwCSw/dhCu6uozFFBXdf8x8o5HPr29r8xw00IYah90usrWMR2qOWe3meMe8jtgK32Ky3xSeTuC/B5h4mr+N96jfbiZLCM+GuWGD7pmmn4g4+WPINgbeHAtf5p3TCmUlKQUdvWoXY+Ew9CVO4LxoCtKcvlkn1Eszi+OFnnsS5ed7lw6xrHotE2bZIvo0ocpnb7zwXU+5LJ6j3edGV19I8zrZRDbO62imgQMKrsvKFs48ndj0tf1F8sJrgVDdhcSQYQPz2obGlLaku3aGwt79AHRyab7Rw9iujL0QNY/kdAwAUNKa/p6EbZP5QtQIRInQfsxirbAZEtQ6CsczOL0OX7U1t4Fx;aGCvq/ItOSAKRqji9cB+Fg=="
 ---
 

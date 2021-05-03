@@ -4,7 +4,7 @@ excerpt: "Hi All This dashboard is developed by 12 to 13 year old kids whose nam
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Study-of-Historical-Events-Back-to-School/m-p/786138
 type: download
 publishedDateTime: 2019-09-06T22:36:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDZkZTRmYTgtZWMwZi00MThmLWE5MTYtZjdjMTkzNjcwNDA2IiwidCI6IjY2NzI4MWJkLTM3MTYtNGNiNS05Yzg2LTYzMjZkOWEzODVlNCJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 808
     isCached: true
 
-secured: "dLhe+c0EYkeaYFOuZ8Nsp0jtWlv1X9sc5+zlTHjy8zWI9gt8Ao2WuFVygnrx2rGZCiMdtiEUYOhEsvcDLCbV0rizbfq6ADVd2UG9RU9QD8dydkQJV2Sry9rIiSuRUTzSFc8VIufnvHHKjpwR5ebXY9CaQ03a1cWCAuqRSq+JxGzessWhygCieyGViRy0o1zmgThQHomxhiBkKB38GsyKINWgf+HBtxpnlayRJv1PR2SMvsoaS93UzlYyRx/QHiTtHtraWuZdLjieg0PA3Eb0KOqE2yNuCDvoHXQUvXx9HjQ3+4GS9ORCpNrYCii2JawBLNSAx8GDoDNth9so5p3txR+3JVGyXmzRVuJEIaY+yqC3yHl13B6W/6CB2kkpOpycxu+j+dvCgYz6JTRBSJ7E1aX7e0rUHM4mly8f7ftFYpS2x63uXeYMp7lHDgPk1dx4;HxPW/ezZcR7F9nlFl5JAoA=="
+secured: "fnH430pNIgdHQAj807VICs3W9uswrQYJeYJviKGboDZ0QWsL0AZp4UF2T0lXaAqlXyuG6H+8KT0vmyhbwT1Gcd9x6ioKp4dBaM54C735VVKh0X7O16xgWcrcaZantyq9DA8t/3ftyNKusLDaAU26HzCb/L71J0ldFykUTVYEYWkV3i6fKXcs7h33nbBCUBEU0wz5bl7TUYK+ZsQVg3MGl9Jqvek33pf07FWWogqZiw5Kbdzt6tm3lkb5KQSrW7IybM5U/ok8g/ZLMSCbl/lY3mXyKalNAZvqvix8I3Z8J5Kc6xmmXvKeVTOYkwXTp5OV+uEj402jXPKQFHzO9FWTwlE4oj+6jWxmDlisx31rUiiDFGGXdHdaKX1VNABnA8C09r2ttvBrvDANuy1yyqeXOelVC7CVyHFE2tbJH2dcwzX+ptwoSVnvGzAdwfDsraxC;jpb4ROh37dOvAQ2YdKpWiw=="
 ---
 

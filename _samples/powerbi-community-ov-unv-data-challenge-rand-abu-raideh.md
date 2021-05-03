@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Rand Abu Raideh created a 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Rand-Abu-Raideh/m-p/1346852
 type: download
 publishedDateTime: 2020-09-04T02:07:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTBiY2I4MDUtODEyZC00Mjk1LWJjMmEtODFlZGE4NzI4YjMxIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9&amp;pageName=ReportSectioncec27ea74889827bcfd4\"></iframe>"
 
@@ -34,6 +34,6 @@ tags:
   - Education
   - Government
 
-secured: "tdJwYNfuWzIs5dD5zergWXmbGgyh4c8JPHrKG9zSaqzf6vXNVdzwQ4IwCD11m0FFUlDCGb4Bb9apI2JtVprcc5wSnbWaGr32jGNk+i8SNVZr1uXpk/HSAaT0xxzB1728XrukmEZlTLf9LTDx9xEa8OPW51Wu6/okvC4LV5Ky146h9Ib+YjJcUO++GH/LoMcGu7y4CfbJWEU+d/CzRggGzKeZhbP8kjCNTrlCWQjtEkbCGC/0+KvdZe1Ug8lvMaJPrkM8n6Ogg04PvEhm/yniYwepIkiPhvny0tcIaA0mFOAy6KTNRNHjn4aoXhEy0zdVQQ4+++guiyv4w/qIUBB538Mpiqq1b5KrocXfdyXBwfxB1PDfuKv/ZPXOtrCayfEX48hxSlUz0DwtjaQhRXoBluj/ThQ6Rz6xgclxcWCSuLa2YBLkXYZbeZpnMgSVfFr4;pKAKVU4xh8r154xPPoFvQQ=="
+secured: "F9JMOCv8UtwqyCz3AqRBa4Y5zGTr0T9wp4BsoeWfLrZeRKizkQeCifaPCp5YZJzJvDzY42XX/NaFKnm+6By94tTB/EbPLHVDQDZN5mLiGiWtwxXQVpqQCG77DUmaivU4QveTXCJnaiVozazT8TC0YotJcJo+GpLQxm6ZhjMIwLyMFejdpmUJ80LcVjsPVZ303X2EV+b8mdpRpp91W3+aV0qbrEkElaGMypu8Jn5Nmy0sFBtOIG+NuEKOAtRc6AXxJGbTeR3IAA2seayZvHDl/gvT1dL08nCBTei9j3bFDYi+4pMYMGKUGsclzBNSsAdgPu/D6gTfrBuyCvDZxRP9XcKTI5hUYIDb17TydzydIX1qpnMxUUL3f8hLmih8lX/ro/lmPIGi/QYAVn3Uw7eHtM8J2ckpzJse8F6bUajzHfsws8Th6pj0tl9j9Q8HPhLJ;PRbR6aL/ofY88TaGm9WSiw=="
 ---
 

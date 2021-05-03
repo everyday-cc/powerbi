@@ -4,7 +4,7 @@ excerpt: "This Sales Manager Scorecard allows you to stay up-to-date on your com
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Sales-Manager-Scorecard/m-p/53842
 type: download
 publishedDateTime: 2016-07-28T12:35:00Z
-heat: 55
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmY4OTZkYTUtYjFjOC00Nzk4LTllMWYtYTE4YjVjNzYwYTgxIiwidCI6ImU0OTdiODdkLTA2MmQtNDAzZS1iNWMxLTNlZGNhN2IzNTUwNyIsImMiOjN9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 494
     isCached: true
 
-secured: "hD1NaAKEm743oLEqU2+aF/+EzbKIPwCdhXFoT7u6+IWa5TIsClxJg534ABboGF/yqKv3BhtCoa7ozgATK7KB2wSVg1sE8DQfrhi1mUJdfZZPtAHssdqoqWCIuqBWdmJ1y7Hec4JBol3xnvZlTtxuFGYp+pR6D5PBng67PdfYYtw9Cta8uOspqOMNky2TMkB7+CDPiB4mG85zDERqJwgDcRY+FsM/nLZRymxZpTbdc+AK68HuG0U7lgp8Z65SHtQ/9ss4F55S12UulkmZSrP3F88/H9J0atA2eVDUG9nzfO0J0mQjY6r3Up13/cFD/CQo1l5pWFpjwedSVdThrt9yOpJymAGtpVcZQL8ONupfwc0SpKid+12/dtg8ApROn1qFLg6L3dEeuqmujPn9L7ZKcC9Ev8U8ckUTjyjsGEBhOHljiRFqWRjNbk1egLvccOnh;axubWAlhpmQTrp0QTLGirA=="
+secured: "iGsYPZ9ooQt793RjIS/v/DwbKM0hgD5IDGtPlP5KwtaSN8rZiRkwqpSEOsLE3URn7BZ6mnrigBpiUl5cq1F8gB3oiylY8Iti+nQHkXH7Yqo//vWl1CNILJP9VFfjnNhblhQQn+zIEaWe+pW/4KXT8/nmGeFg5nj5quyJyL8j5VcgK4S39esPcEtLZa4THXYIkF4nPIGL/35w3ubX02tzh/n22TNoBVP27YcKY07AH5/Waj1qAsYFFnjSFYfdLp1lBtTDtA5/QtIhQASpRrO5qaHzReOvF4445H0ZHWI8a6O31vYzM+EfWLzHSOhnh7kcKvuenKkEbpUnrFgPwVfDWKKQgSyvSQB5AuoM2hZFYyMx+WbI64/3l6sVN/C+O3mUODdZEzIn+0x72iMDlbpPYAZ5z4eK67KhhpPHSyruf0QNS0MvmxKx5Jua8HRPErW6;pchVtlAHe6e5YNP/MpCKBA=="
 ---
 

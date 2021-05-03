@@ -4,7 +4,7 @@ excerpt: "Hi everyone! I was thinking about how to participate in Back to school
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/DAX-in-Power-BI-Back-to-School/m-p/785063
 type: download
 publishedDateTime: 2019-09-05T15:59:00Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiN2NmNjI5NmEtMGUxZS00ZWRiLTlhZDgtMjU4NmFmNzkxMjI4IiwidCI6ImNhMWQwOGIwLTk1NDMtNGJkOS04NzE4LTQyYmVjZGRjNzc4NiIsImMiOjR9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1018
     isCached: true
 
-secured: "mkHTBu6W2ni1aiYUkRlEWTS4gx0thvdsmkyHgFEC9+9DeMW6NngqZVRe3S9aD89XjXj886WraQfC2I5A0bMnsQOAuuxlkMvaGFZJjWrYdiOVqAjkqjTW9u8y0OV1vWP03CPrjR94dNtUF4TQmEoJmq46cTh/O1K9kajAyLILHXiy/CyKQoL7pKjXcx/hkhqCcklvLDnqz3J8Q7rsI/yWMM/BPDeyEEVwgzGoCnMKu9A1qH1IDlrJ8nP3ejx7fFrzY2bTkHmTCBZVWFj1+9aREwEi+S9wZRVDLKETOBbAiJVqMhFdmVt3MWQhKu8AlamnoNM+AuMf/141OC7u0zYlf7TU9Se192VgN8ueNbWB9q7e8L89za13Mdi1cMZ7Lf5nkBz+SpH8IkNRi9LjKHxinqSKS1VpJblbALWAon4I6HGEJ3Uff35IzSWuB6RH2Abo;aIvwzwp073drXpO0gmBBLA=="
+secured: "0xdOwykc+kC7qS5R05bUTHvS9GXwXHQEqZHNZC/amTyKk+Qt7GoAVUO5damhaLMsrrLnhgiYEWwRRSU7FXBIAlet1uaU+InlmWjwwzebwAX69LBM/k22wdbPdLQ0xolUnWTtJmIsd3wZzbNEyCbAdeFLc4jKSRqAlP/LTAo9GhOQUj6BqrAeQydfiIGrvmI+fPiPoYCRcHvaZFuiVqLs00wpHEUEtbwjtvlrHutGgJubgo909iVKs6zHisQL5wqDR/J6sOu34BXgZZ7inxW2DSJ6RuKE3NCNGNZAvgioMaruOluUdNPg2kW/VKfxZMAMf872BRNZ1FTi6JCdOct3b6a2wqrl0IzhIKFjDGYX4EOsV5lPe8WKOeXXS77CkHFdXy0/rPUwLk6dF1dAhqzy6edBdcECGgivQT/GgbtF1rJATVKpgzI6inBKlcWrKua3;yR5gLGcs62Qq0wLJPlPObA=="
 ---
 

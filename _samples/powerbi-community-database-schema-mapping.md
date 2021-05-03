@@ -4,7 +4,7 @@ excerpt: "One of the easiest ways to map your database schema in Power BI. Reall
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Database-Schema-Mapping/m-p/843924
 type: download
 publishedDateTime: 2019-11-12T09:24:00Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDc4NDJmOTktMDg3MS00ZjIxLWEzZWEtMDM2YTRmOTRkMWJiIiwidCI6IjNlMDlkOWNlLWIxYmYtNDRkYS05Y2Q4LTc1YzRhNTJhOGI0MSJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 1036
     isCached: true
 
-secured: "cQiSI+LxbaG4XMz8cZUatN5J5WCgGv2pHb8vinfr9SwZdB8jkWXMXiZnVb1yzvl3LJr1M4J9KYgNZQwlpk64Sxd+VsfW2+QawnUD7ZWTRa4PrKk/AdMHWxVCBdhx7122RjsrW107rTm6AMy/+b9Ap6zVCIds8So7QlpThbTY/0ysyOdoYEZdY4A67ibKXY2envAvuZ4BGx6yqGu5Da2P3rP/zDTCLUrSjlxlJQTYQ/emwUggY4QK+E6uIo2THY23roYEjOpz0a3RAH9b0RRfFQtU4DW3QA1EvhaAI4hWTtEa3k9pvU4r/zV+ZShH/ZYc5Fia/naARaErcWwposZ5YWfRgqhFF56ddKC7iLsmbzgUwHrW1GT6Hdg8kXr5JLQKieX9Fd2Ucly1dwJlU6jpn2D5yG2Qk69sJD5DGvDyu2PfdSmF4ozZrzQMJtOXPcaB;mb1wwITm+vAI4G5IJ4IJKQ=="
+secured: "+Uxn6Vrf3Bei1C66ukBecfcxxxpqxosZNKwlKRoXIgwhei4RSNFx5SIKRtpYipKulfQG9LbyhimmCS85R82vO5pHVUqUZozmib7zn+iyQIDTWwWV8hhqY0RSNLVpTNG3HqmRLvYmm83hlKQEKYjV53Wv3gAamH/x4p/9aLWMFFFdGOMeG2Jlw9M2mZ9I6To485InKHDw+mAf4lZaZaJpXu6x5rP2BhECf7rPjvvu94Fi91e5JtaNjaFe5ML6A1DZ3LyqtiZQnoLEmu8xHp5WZXA0aBvomgAZmiykQPXlqHyB5/b8YvEa4qw5ViRYdTWTijM/ftYcjM48M2ZxnEuPY006bP4QKlPNH+QyMC8gKdYHb/INVbqbJXmQmGl1wO5VzOpUvyhktgssn3hQjNC8szMkMhjLRJbLpSMb5bpoW3OyWtVkiGo5n8J7SMbGBwRV;sOxDXsQJYJENCz5PQu4cBw=="
 ---
 

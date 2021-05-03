@@ -4,7 +4,7 @@ excerpt: "Hi all, Here I used the open source Airbnb listings for London, UK as 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/London-Airbnb-Report-August-2020/m-p/1373438
 type: download
 publishedDateTime: 2020-09-15T16:57:00Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDJmNjM0ODAtZGExOC00OTk2LWFhNGItMjA1YjMyNzg4ZjJiIiwidCI6IjA3OGU4ZTc5LTE3YTctNGJkOS05MmMyLWRkZDQ1YWU4NmJkZCJ9&amp;pageName=ReportSectiona1d10cfd8e4aa0cde1ec\"></iframe>"
 
@@ -36,6 +36,6 @@ tags:
   - Technology
   - Lifestyle
 
-secured: "M3FpSw+tu1JzXcc3Cq4LgETCevG2uWreXJteIdmGf0/++XWLsvIPggPiaXXgLspS84LNzrKAyUmuyfYo7sokW3rK1mz41af1MRht58f+x0Xy8lHsOBD3efMYa5RHDgD6zfWAhc/IBCOB9s1abMKzE4hxdyNUGxTG/errSxO5sNaQn0lrK8HfqfqL9hriwxXZPqSRSfN6YegYOcRWZ3uFkiLbMdupPOoD2SP/CirXPiG7f3nztsbjv+xx+BgMwRvJ2D8b/PwF6qC/TUJ3IAqMW9tToB8h1jvbn+2sfw5Jvqyb1ci/mB20MBzo9qUt4CvOpcArAEhDRxjKDT+qvvr3dcwqD/jJcyWUcVINbtQlrFMHKeny+PNggt5LI6MpZ9cPQcviu75m7Qq1TUhxLbVoT92EZ/SMXnalckwjYqEvuEHS6UOHj4TGYvMF3blqKFew;nEYLUtTMykeB5//AAYt8ZA=="
+secured: "+n/AkWn013MMGFh5AC7Q9FOhm1f7GdJAtKUQKMnzTvfT+2qrpv5as6o7S9Od06SZqoj0lmwx+ALFir+DztpbJm2rYJ580yPWFGyt8oyEChw3ZGQH/IUzhux96p+0q6qIn0PaAMXKF+jurhfwDhWhMhGJXxJaXetcerSJHwObP+TrGqaeJEQZpomq14mta1ZThAQkE0b0la+DBzz+qsEnpkQSpPPylp3Jx5dMYUwq7tU9JUaHIzFjolAwMHXvmR/qp0WdTTw7ROfJqgcjJMA1m1RX/PEgj9HWQ26wuT6SClOTywRYvXodxWDoJT9WknYAKiJup6unwKK8RbsGCHNOtpyb4b5pvwtMuHECyGnRroxLQz03ZwkM4L60hbOaMWCAhmZdXpdTsK+EYmU/oDv7toq4A7UX4aNrhcr20T0jCAEpkHgBMY+uTW0CC0U5/4/i;226vPjWTA4MP7EBEWv7J4w=="
 ---
 

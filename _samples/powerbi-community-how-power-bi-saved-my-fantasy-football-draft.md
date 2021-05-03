@@ -4,7 +4,7 @@ excerpt: "This report and the content below were created just before the start o
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/How-Power-BI-Saved-My-Fantasy-Football-Draft/m-p/87926
 type: download
 publishedDateTime: 2016-11-09T06:56:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDU1ZmRhZGEtMjQ4Ni00ZTU2LTljOWQtMmIzMGE4MjJlNTNkIiwidCI6Ijc4MGEzOGNlLTQzYmUtNGM1Ny1hZDc5LTIyMzkxZWQyZDMzMyIsImMiOjN9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 489
     isCached: true
 
-secured: "zEQuFMWmp79ul4TDVvaWMfthIjqcWLDuetGb2nKZNVZ0GORkh3afnJoSA3px+d9gTUy/ce5tYOWOcztSHJ4n4BlAmcuUBHDu+0PtRtJaNJJA52wvcmfSMMtBYU6QDK9aazUf09oJn/XEN95iRPs+IG/FaQqUqt5JummCbkJXeC+l/mJXWX+JFV8tvVZ79IjFOS5GBGJyoMqbVAvzvuIRuJqHilPE2Xhjj5WGyVNxYqtvuHvHsjsvQypIxKZ7ElIofsaV6dhVemkzOPK3kAmR8dN79J08+V+7QnsjTL3Ih2HrFj+GDsvHeffu6H1mC8tm0XoQArt2oYlYwFOlf0ftkyCw8HR4K64yciA0eKozWPVI9ksKmZ0Spiz/INPHcoFN7roshoaVdl+F+x25kFVVZ8bYVfAdnGrEUKZNgYQMTj8CNjD5LMv9zTPt0RdwEVqz;KJ68b8Suieh8sADP+j1TqA=="
+secured: "7zkWKu2nVFw6ytiwK7IF4Fl1myJmQI9j828lUam558NHOHhDHqaGqOwsM4cEBpgXTMspWXVF4Iv3n/QCvrQuqIHHWQEpH9XLmWP1s4TcXLPhdmna2sNglyMDTe6umM3qisZZlaRdAaqXAyHuKAMFpm/7fiEAfa7v6D/emPgSsP6PL1LH4+dyBSfonYg4aQMVm2PM3Sagl8Ltut+CN+QSGjYk6CDcJ6LnFzZmSbQOqxacH2sJ+D4hqHQctUpzcW28E0UmoZ0ATr6ThPPX/8MXrKWc0Wi5g9xpeQRIguy8TFukquwzEdAYzEkmBVgFbvYupoACfxsXakdQLQj76fbq7YtH/j/lvICkzGsDErDkIq7CvH30A7iWpXO10Z+3LZEfEKlBBA/rZAxCFA5vfn3zmAePTZZMaB2CYrDaUY8g3aNWyTLT8ejahgnt2QET9ONQ;zjnEAQl3xLn4ZyEhI0rgmA=="
 ---
 

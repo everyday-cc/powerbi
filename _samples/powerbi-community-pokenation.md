@@ -4,7 +4,7 @@ excerpt: "In this sentiment and emotional analysis of over 43,000 tweets about P
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Pok%C3%A9nation/m-p/53870
 type: download
 publishedDateTime: 2016-07-28T15:05:00Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMTA2MGY0ZDMtMThhZi00NmVhLWI3N2UtODA4ODM0YzhhY2FkIiwidCI6ImQyOGMxMDVhLWI3N2ItNDA3Yy04YjBjLTFhNmYyZDNhZDg5MCIsImMiOjZ9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 505
     isCached: true
 
-secured: "EAMP6OUrDNeil6xXBSSoelUrVYx9J44bTnT6MC02OKWk2xMy2+yO6ryDw+q0gBnSyPmYvu4rNQw/lgDKy+4e/HQWL1A6Oel2QUYqth1NlTGS7CswSC0F1YycObyyHR6a054bWNu6jWCsOeA2NUs6WDvYrJ6yXRujNSl0GqKXAYyxh2n/1iBgUz/jH+OpR52MWzidl+2PLbBA4IVgUnMT4+A6Ije9KeF2hKScDMzMyprSFIJ4oLYRFtvnv60c2RrYGMUozpiZJMiFQMDGVkMA1icWaYRWBPHFoAac6lqQDTJX2SARu54FAsyeukIzMjfyR6fY66zBnOWhOsnFsWptMbQXrbMdyNBkop1J9b6GjWHyYbYefTcXsS3g5Qxr2Xa2xGn8Pcre+9kTI6G3Pk8MKV9mnvM3C15qrO+hVnteJJWi8jfDSyIcSUSILIBNn2gJ;jMOrurDehHGU7oO91UXSZA=="
+secured: "+OsjJAOffPsDGMRHSFvVHsAGHTOdGwbalH/yJtJLOVa3a160lgRiB9rA0/v6X3W+SkGVfylzZMwhNW14/tZCYpal0yR00Bs9TF92oM7BB7dM1m6Qdh0/reMAXXs2LSv9+KI9eQ0HgrCmll789Qo/65tVTyM5S8It8OamAUapqFt8IDw+lX/MscUMtF0+xPqmkZQFXAoYT3zqOdkgERcIuRTCTdG070+ypkEkp5hcbBtU4Ve43eCUopDxEU0Gacu2UZZLHllit95Ix68NtyNquzT0/7JgnBxvbLf9jKaYF/6MlcoYJeOaAKAu6aeKQd0PGnjJukGg/a7Oc8ZGQZa/DgDY1EOLuQgLNFxoweWnDla+ZQoH5zGBWUnhQwMBrRyJ8r/f23bjfXXfIN17n8a9ZY2PGnKMSE4KS7LsC0wEI9kpMc9um98BZetv9taXzZFN;mLlWuVMSF2yk3jOIh55vwg=="
 ---
 

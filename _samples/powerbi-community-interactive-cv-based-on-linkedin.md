@@ -4,7 +4,7 @@ excerpt: "A quick two page report using LinkedIn data for creating an interactiv
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Interactive-CV-based-on-LinkedIn/m-p/436914
 type: download
 publishedDateTime: 2018-06-11T04:12:00Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjAwYmMwYTYtODRmMS00MjA5LThjNzYtOTNmNDczMTBkMDBjIiwidCI6ImZiM2Q5MWE5LWU4NzMtNGJlOC1hYTc1LTcxNDEzY2Y5ZDNjOCIsImMiOjh9\"></iframe>"
 
@@ -40,6 +40,6 @@ images:
     height: 869
     isCached: true
 
-secured: "HMKM1U7Nz21U0aO9Qt8R0oKEgF0zCq7hHAJi9Gs2SA81S6myR8elDNedRtxgnc8+wJZKE0mWXtlC2q/yVZzP4Bu9aFZE1Ed5XKgkGDVopTTvu5O6WaiHV8ct3s7RFsxVEO/b6noG8qB80yKDoZCXQz8N2ww4lrsJHTUFbULXgpH2aw/e8xRhraOhdGSu0oQKgSow2Sdkf+I+1+s31z2+YCur0pfyvVxAQVOZkXWeBrmgRrhn4SbR/DaU2oYNbbT25ROnpcaxGlYWhOiq2yuEChHhwg6/3scLtIPD+BXogt+NOiYj2on/Pp31nUmdQoVjRJxIXid6isp0k7T7Uanns5R2vC/yWGFmz4wlXI+c+w4ZS8myu7z4k+ClJGHL7tj8qzhXe+snjDXKBBlFU3tcpfgeCWRIfQVMB1HDi8D9vvnJ+cL2BluylFRcDfB4r3XH;KNL0fXhIMKiTav1Art0pTg=="
+secured: "fJVJ0DaoMXKKXi6nO8kLJnHq2F+GJo+mz3II9YdHgRUYGE+B7TA8TCLDzp7uHaJcHzLsqxupnAPj4cKS6mk0a2FWYt+azTKD/HNEEOO2TSRKQYpFVrBaw9ux711TSLeXDlRspzqdlK325uOGmfu1KoI/1+uN1VHw5j0K9SqbSJppJ1AWsQpMGtTxKfvBUMC2g4QpYpFtXb0qP7jOPYTqikrbvH1lKT2px1B/1BKaYPRBRp6D5DkgfnZ7pmqmKzetf33d6IwacKYOQauAK7lj5XgurkGSarfqNwZsAVRYIJ9jwFK9BSFmS3iZA8/KnctfVZR5ojCAnzRelecJ1Og+YdNynRkmJxei0lxTxl6UjTGziea46WNptmgSts06oINSWI5ZtwZX9o9mkQBzW9mJ11jVtwVYM7PY3B9GsD5XgsywS1SMbNC6bX0U6NcdKhte;bJizPpz13bqldaYVs6JPrA=="
 ---
 

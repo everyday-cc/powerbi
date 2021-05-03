@@ -4,7 +4,7 @@ excerpt: "GENDER DIVERSITY. EMPLOYEE STATUS AND PERFORMANCE SCORE. HEADCOUNT DAT
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/HR-DATA/m-p/829381
 type: download
 publishedDateTime: 2019-10-27T11:30:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjZmODcyNzktZTIwYS00OTg2LTliNDUtZDAyNWYxMzQ2OWNlIiwidCI6ImFhZDM5OWY1LWEyNTQtNDMwYi1iMjI5LWY5OWY4YmE3MTM0NyJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 777
     isCached: true
 
-secured: "dbMxWvqa/EbUcuQ9eo1Fwkceb/ZzGGaT9c9j0G3MGq3zZLenS+WbZ9zW1z1ecpLx30kehoSOnlM96wrEtxas76pEMU+X96HTXkPEgtRhdJ+JIAbFr3s2P+voclJ1KHwD6c1JRwR8V54lTgkgIFO+s66I6u8+bI8JEmHp8/DlS5nywx7fv5qehxxaIBjq6RSQ1evyc+1Qtca99IS1BfZ5ULTrsoYURt5SNoWbBFa0QzTvApU12FWtat/4XpKJWTwZI1MUQYk6tc7RM4bCKkXk/Gvtq2PR89GgU1F9KkDlelt84Kb/8u3EzK+taRB3TWNmGnu1eWFxVUAm48qnguZmmWlawaar5/BDcWmjasL21GBBDFDeSqjJmUwg2NFwDhvtPbs0Hz9Mmm7dglF5AVspQMUqA/G57b0MHfT6Ysw1sqaVUtQ4oRG79+tlp4kXM8hB;ffGTy3GHs/3L0+4XndpkeA=="
+secured: "5G2Pu+agZuLESUw47XevcVIWs/MUiJgQ+ptkrD0eV+LCtPYLoI3t7PLWlySiCJauqaw8L2GGyPPVvgFvxwnkl+d+ReDUMmm6IKg0KRPahI3fcfuIP64es3JXyWtprAmjgfS1dgLhbfrIZed+bBFvmmfIJc/ZXYnZZYg6EBz4/BKRLP5sxVL09npeATCm5rYl9XoJGRGN6wgUa0vMERfJGiYb8xpX2jFSFGkXf6Ux/SKT8nvJhdZvT8ArfZSmFXKQsfbv/Y2xVgYpshURQXhY5dTAonjyGxDT2YFltTyY6WPKJp90uWHIfrcaPl6Jq+D23rvGcMz62HSprtUIdyprkfzGy6jbZr4XBMG8D/jWePTCgbgvubRAUY52vrINzEJGoqRqBC+QmyStxgL9qO4EKhvOL/y9CCl9HI91yLv/JY4Rc7xcGOjwhC9niEgNg+7O;aPkNSDPUjNnlV9ihqA9/ew=="
 ---
 

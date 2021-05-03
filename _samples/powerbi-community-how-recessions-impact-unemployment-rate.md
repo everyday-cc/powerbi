@@ -4,7 +4,7 @@ excerpt: "In the above example, I’m using the Pulse Chart to show the impact o
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/How-recessions-impact-unemployment-rate/m-p/45557
 type: download
 publishedDateTime: 2016-06-24T14:04:00Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTkxMWQ0Y2EtYTY2Yy00ZDM5LTgwNjgtMTQzZjMyNmU2YTkzIiwidCI6IjNlN2ZjNjM1LTkxOTAtNDFmMC04MDZiLWI4OWIwZmJkNzU5ZSIsImMiOjF9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 611
     isCached: true
 
-secured: "ZiLZWcEc/R9pE+0fDzVJnB8YRvKYOVpI8sWZNQMjeuUEgKlp+wJ1/2jXXZEQ/WKGuGNQVn3zr6esu4wdFZUyEzg4Vjh8V4pqiGUO8SeHO2LXJBMv/i4sBfA6MDLutszv5RrGG9Sp1arHL2NPEeaQvQI6MCHMXeLOyA/h8BBd1nmrlRCelVVdwMbxlMcdircI1IcLNb1lEsDk+CdL0Wrlzq3YodixsXdsnwrEoYtauLsc3IUJJi5NeWJ+mQF4fZ5H4auG2F0z3sMAfxS9d6qYHxb/RqNHL2+o3wnysDcAJBTXCczWK97BKE04DjrMMYsKIqhZ0UjJEzX+4X7mxw8dkWJLG1Bi28VOFk1JJaC2Mpvc6vqbK2/Y7M/eGmdDF6PbTCAlq+5NaUSXllmXayUOhd8ZLt4VEfzVYRfIxr7gwgasATD2OMpuWqGdGim6e4nq;bxw2kKZcw36l7bPkt9Qqxw=="
+secured: "55wygs6vPjKMn0SEMsKwc811/Qc4aOWs+euMS+3Pza7b7tIvVsYrhMB3yutgmdQPSufdEmUdN+qt5+h4YSQy6BnERzmYaVMGudMkFeKcYnhnkoeP5bYGIvWHZpwPmdVX0tD6ZWa6+KdDVypwXMc6EoAJokoAlnkyiosfDdsOCAMBHB1W6VaWl3P+kS1P4Y8AzhKbp+zoXDAszJ73ecqXMIsEEXbNYLEqZwnKHgQudZYzY1Jxrt0xkR++eRV3IOnLgFTLm2RYTVPs7wpR85xFEF22dAmHOS7fGBxLcoUBSSjhpJYQHbEQVvLxtVoL2GzA86ToaVeFn0yRuGs1oUWwEq0MQ+fqnuLc600ZbydWt62bKZH4u3tjFxuPDYVd0w9iZh1WdFOwFOPmFgnhC2LkooXmKC1si+lxsUAfej1x/T64LJG9xNu1rua9ddj0GkUb;339ZZk7yAd5C33AnXvITlg=="
 ---
 

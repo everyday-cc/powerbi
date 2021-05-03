@@ -4,7 +4,7 @@ excerpt: "Superstore Data taken from: https://community.tableau.com/docs/DOC-123
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/SALES-DATA-ANALYSIS/m-p/829375
 type: download
 publishedDateTime: 2019-10-27T10:45:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMmU3MDNjNzMtZmQyMy00YzE0LThlZWItMDYyZGZiZTMwOTY1IiwidCI6ImFhZDM5OWY1LWEyNTQtNDMwYi1iMjI5LWY5OWY4YmE3MTM0NyJ9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 747
     isCached: true
 
-secured: "VQn+tl1y19OdQa6T+oZbuI8FFOWfzbUkTJ3oZ9pJPzZTONtc2cmGMtTz9vYKjLmhLNo+hYCtkSIZzm80i9eMLM9WIZTjzHRz9mCvR+QYYuEpQqbLaEjP9CNUi7WDEBsOf/d4ThfPaR13LJL9CUp5saE/wSKJO63AruJwZNxgifhMjUbYXmpipP1R4ad8hPiqwA9qPPwGR6rTd33b54R+HH8/XAjWWAR747pm4XQvLaQmC7LrRfmcAZ9BxtdiTD9SBfrru6oWOs1hzgxwbDBQkEcEvb2G8KKblLi5RdeRutBE3jE9qhbzKonS5X70zDgTAsRLEzG6pLwFGgLPVioKlOXGT/+OG1QAXb5nhwV9Y1m5FIbaZsCdDfi57gfsI8DkINz2PxdB7EqNVyCxEBn4qbjLdJPLazkh7kF1Na3U4Nn5q/d1B5kfBhVRFcwl/gk7;NTI+PEFqoO/2d5bUsgiLaw=="
+secured: "tuOTUB8NfpBRQdbFYtNurGGasJTWBWQ0bc7PhyOWj8+lW6cSHWuzldwS4yYriNo21Eqb4LENbLJB3ki5MJth9x/eprX64wYfwqs7YZpBMTa/2Wj2y6X+SfDRY7GKOIL9U8oc250dr6om7qXiYponMghqzuoH7b9+qhq/TXICTcMxarCk03scn6dCfO9wQJOghXz/XN1bxS4ufMaQFrPKnkZ5lVLAsoJsEnjlQvr5K8WhusN1K4qyeoKjb2ZxBF0hDPj/3VxR0TyH3OMHzL80X/TmPzuFZEWEhyG64dbt4J4n8/vpDyhfJCpiu26THKcDzlKsoyRuELBPbWB6rhxVr+8vbZafq0SAS4zOIECd2Pz538/OjhGYWoAYLqMHcTGMTWnC89ZAMalystBoTEKW2VQZrTSoUPXYKp/VBRd9xuD7eJ/8OD3hvYKQY9Wcc/xf;QH1LYN+m4asiOolWxZZuag=="
 ---
 

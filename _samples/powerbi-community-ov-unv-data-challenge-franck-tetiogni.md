@@ -4,7 +4,7 @@ excerpt: "As a data challenge for Online Volunteers , Franck Joel Tetiogni creat
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Franck-Tetiogni/m-p/1349617
 type: download
 publishedDateTime: 2020-09-06T03:58:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiMjgzMzYxM2QtMDVmZi00MTZmLThmM2ItOTEwODAzNWQ4M2VkIiwidCI6ImIzZTVkYjVlLTI5NDQtNDgzNy05OWY1LTc0ODhhY2U1NDMxOSIsImMiOjh9\"></iframe>"
 
@@ -33,6 +33,6 @@ topics:
 tags:
   - Education
 
-secured: "s1R5iMyDZYSPnDwCcHC2e5YtNTGPrVMFFFWcJyrexZ1BjeGvIGTcsY4zZM7dFDDZ4qO1n98ZnIrFxETEFTv+jTh1SBXeJY6n87JlzHiR2FhUJONbaVSB0SjNSyiv2Y5xleHtGiY9P9YLd21NipQFFxs32PK3lJ6KvNF/pAFsofVVfhSTYszdji3ew+OISkxiNbh+cqhJUBx8IabSeabiozdZ/vjrFAXQY62xus9c2ErL4aagACXrGTGySUV7p9Eq52sMUtv+4KunD4mkDmu7ZuVJiDo/Z+W4AlaUZh5jFIfzIRhZ0gMaOma31HLAjOnA9k0ErTsq/Ane3nxYgA68WOx5AW5LuG4XVrI2XuMC/plq+IEvFDA0syB/6H9nVdoAkAIlhcS3NliNOI3IG37nk6X8A7H3Dxi65aLdAp9B2F0qfy+Op9PI4ZErYEUkYUOq;iWIwSZuqA7C7z9Ovrg5OVA=="
+secured: "GN+lfLi/BxGc2G6rCxhp8NFW4+cd+l79jgQvgvYMMb1c+N+/H1qgZi51rVggNUSYPQfrhfgrZ6tFyMxq/a8L2Jr3Js7WMm08PNB/+lipcyOKJd6BoNuADj5VNLLeXITXZAid02Cs8EGL8cG5D9Gt5J1CGbnK7atx3GWgnsfNBeySdZSzVYdg4YkuWa+RPBDHAljw0+KVrUY977728D9MOTuYQC8Za7OC53X9+Whcjfgy9AMDW+GgC5ZJgOy+CkyFORnlpVRrXMlS4xEZy+erSBvtr98+CZLZ880x3lzypr5Q7PeRLXH5jt1927nI4U0l/lwhI/Y0enubJfv9hESslyyzTAvy1Z2IUphNjlbx3de8Ba3NghvuGifWK1x8TdbNfWqTPBmwsOJOuHHv5LDQEd8NC3a6SMWq2KjjTU73djoI4btJjsd8Ug12XlLUBK5W;OXZefN5BBWQT0RI/6lOizw=="
 ---
 

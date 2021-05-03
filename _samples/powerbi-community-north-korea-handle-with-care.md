@@ -4,7 +4,7 @@ excerpt: "I was interested in this topic after seeing data surrounding North Kor
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/North-Korea-quot-Handle-with-Care-quot/m-p/344991
 type: download
 publishedDateTime: 2018-01-24T20:55:00Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiN2Q4YWMzZTYtOTA0Ni00MjIzLTlhNTgtMjE0OTQwY2U1MjA5IiwidCI6ImFjYzhhYWE1LWYxOTEtNDgyZi05MjFiLWNmNmMzM2E1ODgzMiIsImMiOjF9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 834
     isCached: true
 
-secured: "7ZSDiYLIppAK/VLjtfq7McBtPveWoqQUdluFK8th6VpMoHSTRtGQsxBitl9U3HP6UP44+K3SEnbcfU1CrW7Ed/MT60g6omlScmjhtjBifDKVXajV9extxiR67dkoK55Km/oNIP+9qMgjwAkla6+cYMscHwH5vs9p7VwUbJJcsQWy9eW0KDZvRnNRD/Qa6Ljta7dKGHHNK3XUhrPDFPBjMi7HzqZv2OFDqIH2H6n3PT8bsBGM9skrcO1vLuibF2y5aLocECRdlc+8SzsEkD8CFhuz4wjEASClLtDxiMje4f/xGhTW+6lpuFmGik2h8MQcsHx8ZEoOaINpamuVWLPcP+xJFXZvUSA+SRkNDPQPf3tYwAbN76UCj/C85fRqu23+A3gA2iYdTvCbJKMrE9nOXtoivc2wlNRGElwDxTtsn1vadHRIhDUYMa+PiA0ljWnL;qr7QKJkcQLasFH04eC11lQ=="
+secured: "o3LIC9ADsyDYE4cxBpCUxV5B4d5Z1Ni4nN16sXFMOdmYtviM6fKxADILz7lEnOzjVc2N6YLybyH7GCfvmEpMfqG2koFzxQ8pcazzG4EGWSJ77mJJCuHZLUjAtswIzkTDzkEtjTqNQ57nFsATMBA9FcGaGvbLFlkvu9vOqN07TVcJfp0Zv/BN1METv7o0Qk1fNzkrd6JLz7wFkPBE6zJNFhYwc2mEI16aQQcS5tByPlj+3qhQH3okEQLLvDfJ5YslnFs3bp5lRlinJHVirhvRdC2oM4pQxoQEks/4PhsGrP2XmeDhGnSaRhNRM/Pb6rMG3SzoFane/ga8/fV+Asg/2wIRgYc98+HnGaRk8MEZ7CGeiKjWi3LL37VaZaTve6QvoyaWOYav3TlsS/DPfGJcZYpqclMzXYhZhNP1s2TyFZnDpf3C2FQhL6wQDrNawBey;D667IpftcRAoFMVguElOFg=="
 ---
 

@@ -4,7 +4,7 @@ excerpt: "Explore and compare the difference between consumer activities during 
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Go-BIG-and-go-home-American-Thanksgiving-vs-Chinese-Spring/m-p/732884
 type: download
 publishedDateTime: 2019-07-05T08:12:00Z
-heat: 69
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNDQwYmQ2NjItOGZiYS00MTNlLTk2NWEtZjk3ZjU1YzBhNTQ3IiwidCI6ImQyOGMxMDVhLWI3N2ItNDA3Yy04YjBjLTFhNmYyZDNhZDg5MCIsImMiOjZ9\"></iframe>"
 
@@ -41,6 +41,6 @@ images:
     height: 1026
     isCached: true
 
-secured: "1UwO6KfVyZa32Qgh4+3Roal4ehR/T2CMYxx+IKVxzT5+LVtTpzwC9FKUyy5Ci4FfJhX/xvTsyqVgUBoha2tCx51JJfzogy2QXZORK62ScUfTDHR5CU6HebCP5DcPUGP/GVJI7baKl1/ibkAaB+6HNCPzyxd+ErbzLt0piUouWjzFdI81zZCt3Vwp6RsdNZPV/qS7N2tAZ/wOtVqgiI0epl+w4Zu4PHumgg/B0jfjW9xN5aN3koheMcifATKukPVvsn979HyC835hePouMST//4me94NKTzBtLkxiXtLDomVrtnTi+QooBzmURuQZ2RZaYDe7dhGPrVb6XEBaB8pKZXNNRtemkF3sDt3aiAzJrwfOl+qt4fFPJvBYZTBxvWIbHVqrzO1c8LXWYSdrMqEgmitKXNzkElkgt9qN2GuG9QspOWGkpERtoJg31hzb/gry;KE4gQmFvm3Vw7i//920fQw=="
+secured: "SUU7THgjX7HVk8Ro9887+K2mC+LUDd+Txw9yc/i05UreWG6Nq8i285jIzfLQQHrhHLVeUcwoaIh1PhTygxoVKQVfOFFxicIkXkIz5IdazkTG5LLKBBpkbfGJSs8si+K2FsLCC0kFO4FYwpN6SrX4JCgsH5bqmf7tUXNeUYI9dTw+Shdkz7pQGUlqj5zmcKoSLqtC+gQRIqdA2h4HpgCw8wmGsTRLgL34ECfHHq5If57tt2yjnhCpezf+ypNwg4Y19B9mqJtb9XH6NPOBE0oqx4s7kpgXoCkQG1TOPQesvcVdi8MSYKrAZw72ynY4w2mn1p7HkUFPwYWVt+Ryk0YsR7sT34PpC7BcAjZdpQgqoRXa1Wd8O9VdmwqVgUbaz5BiwiU4jnxywDVfryAUAT8IPGmK+yemlOx31Eh+Kknl9qRwCC/5b3jcybDVP3AxE0TE;FFF2/FM6F07uzWWSPMW83w=="
 ---
 

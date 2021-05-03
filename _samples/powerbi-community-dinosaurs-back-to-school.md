@@ -4,7 +4,7 @@ excerpt: "I've had a lifelong fascination with dinosaurs so not quite sure why i
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Dinosaurs-Back-to-School/m-p/769205
 type: download
 publishedDateTime: 2019-08-18T04:57:00Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNzJkNGZjZjYtZmM5Mi00NjllLWJiMTktYjU0NzJiYTQ2OThhIiwidCI6IjRhMDQyNzQzLTM3M2EtNDNkMi04MjdiLTAwM2Y0YzdiYTFlNSIsImMiOjN9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 918
     isCached: true
 
-secured: "3lpmZJBg1GwlU2bZgRd/aiqz9BHjIEjxq4jACIjv/Znp/jM561ku5visSXnNTajTvL2iNxkApCX3HVakHX9fPc3nIRbJBkZMqTqUtU3aSzn/8pNMRCEHzlfS5wIDAxub5LQdXi/Tk50rpcLprQVj7DQLaNmBS/KO6w3ZNoQinu2/WgFYA6KVphGoFtOPGNb32HrE/NVp/AgGyAvjBFrqK3Bv/rqMcY6a58bExiOkXyKS8RtwN53X9r0liv+Zw+GEYN+iRTziqDK5DoYg0g4Hz9ImZuueQrbJhyZ0dfRb/JPD8xRBgGWCzehDWEu2ctGHgkg3XrHpTj8eiLBvKwiwU2rcOGTXGkOVxWLLYXiWCVWHt+XybVKARMDOFccT2i/PQz/gFQhI87Moc2swOSxus+jnO9o8XzSggXg4lOozYEZ2IB5Zw6UCwK1yMfA7iarD;cm0K/zQRTNvU7Y1e9O6bkA=="
+secured: "S8s5OAj3SkcJH/QPKZVnl+6Wse9Rb6d/3Pi7Cy1hHqCvSLlyTHDRKfJW6pEULlzm+KOOKOa93VjknVN4fnkcqpR6ANcT87ZfmBjejGdBpOlx53oLNQjdG+uvli0khJVWWd+A7SKjCuj2ESsTqI+tthhQTz6HV06Kuxwap3Hk6lf12WysqMiT6Mwnv7bDbSr1+dU+dkyr2P6qohdenXiVvZFJETPPHILeuLm11PFE+cNEj9m77b8TwgTY76ALl3Jmbno/R9mFf+S5x4JevQC2rsC1hkMA1rJBOkDnIvYVA1GACYY7rE26C3s2yMoADSJyw+l8f9FposgB2TN4pqD2snVu51lI732/dxyr/e4Oz9zqO+9bh41fDl+MoYLVK+jTfemYKe5Azpyqtv/SgSKY5czndSS/We9XIYHCTeXaWv/QtAhfLIncQStBRn/085l6;RCj8j6WElFHlG6mWwWwRqA=="
 ---
 

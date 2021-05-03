@@ -4,7 +4,7 @@ excerpt: "Students affected by COVID-19 school closure Infographics style dashbo
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Students-affected-by-COVID-19-school-closure/m-p/1366242
 type: download
 publishedDateTime: 2020-09-12T07:47:00Z
-heat: 56
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNjczMzhlMmMtYTQ4NC00ZTBiLWI5MzgtMjA4MmE4ZjdkYjZiIiwidCI6Ijk3YTkyYjA0LTRjODctNDM0MS05YjA4LWQ4MDUxZWY4ZGNlMiIsImMiOjh9\"></iframe>"
 
@@ -35,6 +35,6 @@ tags:
   - Health
   - Education
 
-secured: "fPlN4w/IEjGzxirXlPRwPGvQcxjk+TzD2ZAlHwZcg5px4sYnHfJ/YiTAYLd/z8PyHR2nB17FcgQj01RguQ+UA+8ImV18f6tmUkpbXx7DFthklHzuRPTPnGl2wNrYs5cKuU9ZjZkiCNDCJ4Wb5+1N26K8HiziVS7sFALU7dga1mjFiEWOMlguHzbxZLofaY6C5hEsUsN39SGHyHKTESnucmWOvjnp+NSHEchpNL8FvSlD7HZpc+/5TP5q//3xvdzep8Lq8bl0293pDKMcghDelcoUt0dwn5dIR7Obc5SJ8ihXf8mo6D4D+tjN0eNBIMbz/NDnRutSCAsR5yLmplRJP0TlmS2MavCql8qL6j2hyowVMDihksv8IaNmG0IGiXPC+sCYSpFTpdwSp/XqmtdwRIU1dqNAsFTpIR2Z6CW+8OCW/j4JzGHM2y0XlZRk7hcu;76GDuMXVPb8ReltJO1IDEQ=="
+secured: "0RtUP5mSFS2nibWL4iS6RZTNv66NoQK1+ygfLTHZzhM9ieShG8QzDxBrwjd1QgLLcK/NV8caerXgbz8Fa+diAxRAs3mO+hy6vZ2Z/dDI29DTfo3gUiI2/J1x75OGVupkd+Nx5uq/fGBaEb4u8BVbES7BAgWhpMNMRwRbB5ICzSzRvRpEbTsrQpitjHl8Gu4J7AohCcK/L/TfQW1M75ZX6c1z5/ub7mULZsRxZ5PXGWeWmixTgAr+ce12Ehpw8PUQSJyfkUTF0gcRtkt0zJVq0FGA/829gNHfxNwWJc+F5vF/TRszoDIJG7wr8rMZTkS8ETagHz7kUx32Gh0zEVa8+VktuYlGSv/2HN7p2BBSMtx4QotL3HAJ1swTCa7d+w0YOAGe0bciQ3Qlkl+9TLyoC3tA/9bjyyS2JGglCNzOvmnYKp/u1dQ47e1iqQRD2GLj;8ant7c2RRnB6r5KplcVJ1A=="
 ---
 

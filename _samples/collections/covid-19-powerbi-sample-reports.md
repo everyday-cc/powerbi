@@ -2,7 +2,7 @@
 title: "COVID-19 Power BI Sample Reports"
 excerpt: "A collection of Power BI sample reports related to COVID-19 (Coronavirus)"
 type: collection
-heat: 61
+heat: 60
 
 query: item.tags contains 'COVID-19'
 

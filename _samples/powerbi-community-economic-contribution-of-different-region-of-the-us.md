@@ -4,7 +4,7 @@ excerpt: "eyJrIjoiZTdmYTkwYTktYTc0My00MjU5LTk5ZmQtYzNlNThiNjNkYjEwIiwidCI6IjgxNz
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/Economic-contribution-of-different-region-of-the-US/m-p/1425655
 type: download
 publishedDateTime: 2020-10-10T05:45:00Z
-heat: 131
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiZTdmYTkwYTktYTc0My00MjU5LTk5ZmQtYzNlNThiNjNkYjEwIiwidCI6IjgxNzdmMWQzLWU2NTAtNDAxNS1iNzdhLTY4MjUxODQwMzRiNyJ9\"></iframe>"
 
@@ -33,6 +33,6 @@ topics:
 tags:
   - Economics
 
-secured: "KLXiky2J1OfkLUhGO7LBHC+kAyOfOlDgce5rtXSy0UuYLOypz0lcm7pn7tbiZoiDPbNju6rnR/jWvmRhxWUzcmN1MwjzKVf4nPRWCGo8L6yWehIU2wJxrFk55HDfuy/iE+VPA1JnzL3zphC0eTudWCb4HFdhY8K2B1Qo/OK/lvtwaJvFElW97l4X64Vj/a3qDlAPQvtuw5TlG5abBWlS9O63bmO6L9bW5wyiI1ctWFjymroYUU33mgxuSQA3zHJxUlrAqa1xD287qEJMCAY54OkUGt2qCxJyH4sFUqiH9PTdPdzFut8xw2SRtTKZ44MMQPUSMOQy1S9Z4F7P+efp1xD0/DH2fxnfQqy+ts1dSsEjWtU31AaioqB16EcevplEdyhONweS5lSpFb9BfEyL6w==;STaTis7mW6SkJJpG8Kf3wg=="
+secured: "CHbgfmyyCxA/c7ry+pXltT3Z1WboYz+hVv3Tc4QQ06WHQioH1Oih6RZNoprL30qQQK+BBzHOqMu0pO/tHF39tEaxRFVUvuK1mQvMvcyBvk8mgiyOen/QjwtTV2QPTg5ylmhHVuotHm2AOXLz6t4wKNBB913KTXHupBKkzOhGfjbaG9q8tFZliKXixWpc0xwFhpGuIciDEp2cwS1m2VN0Q28OhBFUqu3xD7cqM7zmHQkXtsWTgZ4cauz1bbWxavhzVfPxt9gc1V+82QpgS4/htdvzqsbzPzV+A9APY17sg/JetBBabk5EMV/H6ByDRjWgPLIUGvj8Uc1CmANwLmhUvPv/eqEKFWkAEom56OHU6glqD95i+Pz+TvJQm0fCloVJCYghofAXB6F7+75BgoOwkRRdeB80gyHARMeezm4o6Y7yjOwC6QyezuWAxdnmO/m0;/fia+K9GtIIDqj2wlakxHA=="
 ---
 

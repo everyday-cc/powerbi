@@ -15,7 +15,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -70,7 +70,7 @@
       "path": "_samples/powerbi-community-comparison-of-coronavirus-covid-19-deaths-in-italy-spain-netherlands.md",
       "title": "Comparison of Coronavirus COVID-19 deaths in Italy, Spain, Netherlands",
       "excerpt": "This report is about the status of #COVID-19 in Italy, Spain and the Netherlands, with a comparison of the curves of the number of deaths. For more",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-comparison-of-coronavirus-covid-19-deaths-in-italy-spain-netherlands/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-comparison-of-coronavirus-covid-19-deaths-in-italy-spain-netherlands/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-comparison-of-coronavirus-covid-19-deaths-in-italy-spain-netherlands/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Comparison-of-Coronavirus-COVID-19-deaths-in-Italy-Spain/m-p/1007632",
       "provider": {
@@ -78,7 +78,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -132,7 +132,7 @@
       "path": "_samples/powerbi-community-corona-breakdown.md",
       "title": "Corona Breakdown",
       "excerpt": "Corona Virus Tracker is developed for tracking numbers of the virus spreading around the world. Please have a look &amp; spread awareness.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-corona-breakdown/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-corona-breakdown/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-corona-breakdown/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Corona-Breakdown/m-p/981346",
       "provider": {
@@ -140,7 +140,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -171,7 +171,7 @@
         }
       ],
       "publishedDateTime": "2020-03-18T17:08:00-07:00",
-      "heat": 51,
+      "heat": 50,
       "tags": [
         "COVID-19",
         "Education",
@@ -200,7 +200,7 @@
       "path": "_samples/powerbi-community-coronavirus-outbreak.md",
       "title": "Coronavirus Outbreak",
       "excerpt": "This dashboard visualizes the Coronavirus outbreak. The data is refreshed hourly Data sources: WHO , CDC , NHC , and Dingxiangyuan .",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-coronavirus-outbreak/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-coronavirus-outbreak/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-coronavirus-outbreak/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Coronavirus-Outbreak/m-p/914037",
       "provider": {
@@ -208,7 +208,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -239,7 +239,7 @@
         }
       ],
       "publishedDateTime": "2020-01-28T03:36:00-08:00",
-      "heat": 56,
+      "heat": 53,
       "tags": [
         "COVID-19",
         "Health"
@@ -262,7 +262,7 @@
       "path": "_samples/powerbi-community-covid-19-4-africa-c19-4-africa-dashboard-by-seth-samuel-inspiresia-media.md",
       "title": "COVID-19 4 Africa (C19-4-Africa) Dashboard by Seth Samuel (Inspiresia Media)",
       "excerpt": "This is an interactive dashboard visualization of the 2019 coronavirus outbreak with a focus on Africa. The source data set is made publicly",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-4-africa-c19-4-africa-dashboard-by-seth-samuel-inspiresia-media/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-4-africa-c19-4-africa-dashboard-by-seth-samuel-inspiresia-media/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-4-africa-c19-4-africa-dashboard-by-seth-samuel-inspiresia-media/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-4-Africa-C19-4-Africa-Dashboard-by-Seth-Samuel/m-p/1017904",
       "provider": {
@@ -270,7 +270,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -323,7 +323,7 @@
       "path": "_samples/powerbi-community-covid-19-case-information.md",
       "title": "COVID-19 Case Information",
       "excerpt": "Daily update of COVID - 19 case information at global, states (US) and local level (Houston Area). Overview page give a glance of current infected",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-case-information/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-case-information/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-case-information/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Case-Information/m-p/1074210",
       "provider": {
@@ -331,7 +331,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -384,7 +384,7 @@
       "path": "_samples/powerbi-community-covid-19-clinical-trials.md",
       "title": "COVID-19 Clinical Trials",
       "excerpt": "COVID-19 Clinical Trials Here is a simple dashboard with COVID-19 clinical trials pulled from ClinicalTrials.gov. ClinicalTrials.gov provides a REST",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-clinical-trials/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-clinical-trials/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-clinical-trials/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Clinical-Trials/m-p/1045849",
       "provider": {
@@ -392,7 +392,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -423,7 +423,7 @@
         }
       ],
       "publishedDateTime": "2020-04-23T12:55:00-07:00",
-      "heat": 51,
+      "heat": 50,
       "tags": [
         "COVID-19",
         "Health",
@@ -447,7 +447,7 @@
       "path": "_samples/powerbi-community-covid-19-dashboard-who-regions-comparison.md",
       "title": "COVID-19 Dashboard - WHO regions comparison",
       "excerpt": "This dashboard presents a comparison of the 6 major regions of the world, according to the World Health Organization (WHO) breakdown. The data",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-dashboard-who-regions-comparison/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-dashboard-who-regions-comparison/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-dashboard-who-regions-comparison/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Dashboard-WHO-regions-comparison/m-p/1030887",
       "provider": {
@@ -455,7 +455,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -508,7 +508,7 @@
       "path": "_samples/powerbi-community-covid-19-for-chile-and-latinamerica.md",
       "title": "COVID 19 FOR CHILE AND LATINAMERICA",
       "excerpt": "Hemos desarrollado este reporte consultando las fuentes de GitHub puestas a disposicion por el Ministerio de Ciencias de Chile y el GitHub COVID-19",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-for-chile-and-latinamerica/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-for-chile-and-latinamerica/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-for-chile-and-latinamerica/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-FOR-CHILE-AND-LATINAMERICA/m-p/1090182",
       "provider": {
@@ -516,7 +516,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -569,7 +569,7 @@
       "path": "_samples/powerbi-community-covid-19-global-report.md",
       "title": "COVID-19 Global Report",
       "excerpt": "This report uses data from John Hopkins University to analyze COVID-19 Trends. It looks at Confirmed Cases, Recoveries and Deaths in all countries,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-global-report/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-global-report/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-global-report/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Global-Report/m-p/994023",
       "provider": {
@@ -577,7 +577,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -608,7 +608,7 @@
         }
       ],
       "publishedDateTime": "2020-03-26T07:06:00-07:00",
-      "heat": 51,
+      "heat": 50,
       "tags": [
         "COVID-19"
       ],
@@ -630,7 +630,7 @@
       "path": "_samples/powerbi-community-covid-19-in-new-zealand.md",
       "title": "Covid 19 in New Zealand",
       "excerpt": "This dashboard presents New Zealand Covid-19 informaiton published by the Ministry of Health using 100% native visuals. This is a work in progress -",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-in-new-zealand/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-in-new-zealand/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-in-new-zealand/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-in-New-Zealand/m-p/1083078",
       "provider": {
@@ -638,7 +638,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -692,7 +692,7 @@
       "path": "_samples/powerbi-community-covid-19-in-the-netherlands-visualising-the-rivm-data.md",
       "title": "Covid-19 in the Netherlands, visualising the RIVM data",
       "excerpt": "To visualize the official Coronavirus (COVID-19) numbers in the Netherlands, that RIVM (National Institute for Public Health and the Environment)",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-in-the-netherlands-visualising-the-rivm-data/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-in-the-netherlands-visualising-the-rivm-data/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-in-the-netherlands-visualising-the-rivm-data/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-in-the-Netherlands-visualising-the-RIVM-data/m-p/985506",
       "provider": {
@@ -700,7 +700,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -754,7 +754,7 @@
       "path": "_samples/powerbi-community-covid-19-in-the-netherlands.md",
       "title": "COVID-19 in the Netherlands",
       "excerpt": "To visualize the official Coronavirus (COVID-19) numbers in the Netherlands, that RIVM (National Institute for Public Health and the Environment)",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-in-the-netherlands/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-in-the-netherlands/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-in-the-netherlands/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-in-the-Netherlands/m-p/985504",
       "provider": {
@@ -762,7 +762,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -816,7 +816,7 @@
       "path": "_samples/powerbi-community-covid-19-in-washington-state.md",
       "title": "COVID-19 in Washington State",
       "excerpt": "Dashboard showing the rapid transmission in Washington state of COVID-19 in March, 2020. Data is collected from the Washington State Department of",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-in-washington-state/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-in-washington-state/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-in-washington-state/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-in-Washington-State/m-p/974538",
       "provider": {
@@ -824,7 +824,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -879,7 +879,7 @@
       "path": "_samples/powerbi-community-covid-19-india-trends.md",
       "title": "COVID 19 India Trends",
       "excerpt": "eyJrIjoiMDBiOTE2MWMtOTg2My00OWU1LWJlMTMtYmE4ZDU2MGQ5ODNlIiwidCI6IjI0N2MyMTU5LTI5ZWItNDVhOC05ZjVlLTQxMzgzZWRlOTAxNSJ9",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-india-trends/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-india-trends/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-india-trends/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-India-Trends/m-p/1042123",
       "provider": {
@@ -887,7 +887,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -941,7 +941,7 @@
       "path": "_samples/powerbi-community-covid-19-italy-report-and-maps.md",
       "title": "COVID-19 Italy Report and maps",
       "excerpt": "This report is a reworking and an enrichment of the official italian dashbord at this URL",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-italy-report-and-maps/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-italy-report-and-maps/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-italy-report-and-maps/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Italy-Report-and-maps/m-p/1019440",
       "provider": {
@@ -949,7 +949,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1002,7 +1002,7 @@
       "path": "_samples/powerbi-community-covid-19-report-germany-and-worldwide-with-different-data-sources.md",
       "title": "#COVID-19 Report - Germany and worldwide with different data sources",
       "excerpt": "Ever wondered how corona data differs among different data sources? Yet another (but our own) customized visualisation of corona infections in Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-report-germany-and-worldwide-with-different-data-sources/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-report-germany-and-worldwide-with-different-data-sources/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-report-germany-and-worldwide-with-different-data-sources/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-Report-Germany-and-worldwide-with-different-data/m-p/1009298",
       "provider": {
@@ -1010,7 +1010,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1064,7 +1064,7 @@
       "path": "_samples/powerbi-community-covid-19-the-impact-on-the-way-we-work-in-australia.md",
       "title": "COVID-19: The impact on the way we work in Australia",
       "excerpt": "The sudden onset of the global pandemic accelerates our progression towards ‘the future of work’. The Voop.Global aim is to track the change in our",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-the-impact-on-the-way-we-work-in-australia/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-the-impact-on-the-way-we-work-in-australia/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-the-impact-on-the-way-we-work-in-australia/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-The-impact-on-the-way-we-work-in-Australia/m-p/1043100",
       "provider": {
@@ -1072,7 +1072,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1127,7 +1127,7 @@
       "path": "_samples/powerbi-community-covid-19-us-case-and-fatality-trends.md",
       "title": "COVID-19 US Case and Fatality Trends",
       "excerpt": "This interactive report is built using data from the New York Times’ Github-hosted coronavirus dataset . The report’s data updates twice a day, at",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-us-case-and-fatality-trends/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-us-case-and-fatality-trends/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-us-case-and-fatality-trends/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/COVID-19-US-Case-and-Fatality-Trends/m-p/1084820",
       "provider": {
@@ -1135,7 +1135,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1188,7 +1188,7 @@
       "path": "_samples/powerbi-community-covid-19-world-wide-spread-analysis.md",
       "title": "Covid 19 World Wide Spread Analysis",
       "excerpt": "Global COVID 19 Spread Analysis. Mortality rate analysis. How Covid 19 spread has grown day over day. Data Source:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-world-wide-spread-analysis/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-world-wide-spread-analysis/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-world-wide-spread-analysis/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-World-Wide-Spread-Analysis/m-p/1189905",
       "provider": {
@@ -1196,7 +1196,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1241,7 +1241,7 @@
       "path": "_samples/powerbi-community-covid-19-worldwide-report.md",
       "title": "Covid 19 worldwide report",
       "excerpt": "One month ago I started this dashboard as Covid19 was arriving to Spain. In the beggining it was a couple of sheets, but now it has grown a lot.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19-worldwide-report/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19-worldwide-report/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19-worldwide-report/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19-worldwide-report/m-p/1019036",
       "provider": {
@@ -1249,7 +1249,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1302,7 +1302,7 @@
       "path": "_samples/powerbi-community-covid-19.md",
       "title": "Covid-19",
       "excerpt": "Daily covid-19 report that auto updates everyday approximately 6:30PM Arizona timezone. Datasource is Johns Hopkins github. I have provided the .pbix",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid-19/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid-19/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid-19/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Covid-19/m-p/1008733",
       "provider": {
@@ -1310,7 +1310,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1363,7 +1363,7 @@
       "path": "_samples/powerbi-community-covid19-local-authority-report-england.md",
       "title": "Covid19 Local Authority Report (England)",
       "excerpt": "This report shows the outbreak by # of cases across the local authority areas in England. It compares the population in each local authority with the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-covid19-local-authority-report-england/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-covid19-local-authority-report-england/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-covid19-local-authority-report-england/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Covid19-Local-Authority-Report-England/m-p/1024701",
       "provider": {
@@ -1371,7 +1371,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1424,10 +1424,65 @@
       ]
     },
     {
+      "path": "_samples/powerbi-community-daily-covid-19-trend.md",
+      "title": "Daily Covid 19 Trend",
+      "excerpt": "This shows the daily trend of total confirmed, total deaths, total active cases etc of covid19 on a daily basis. Data for the dashboard is as",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-daily-covid-19-trend/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-daily-covid-19-trend/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Daily-Covid-19-Trend/m-p/1571539",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "ootaoroju",
+            "type": "profile",
+            "name": "ootaoroju"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYjMwZmY1ODktYWUzYy00NmRiLTlhYWYtN2RkMTM2NTUwOWZmIiwidCI6IjU4MTgxNmIyLWMwYmUtNGVhYS04MGUzLTI5ZTVmMjQ4NjQ5NCIsImMiOjh9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYjMwZmY1ODktYWUzYy00NmRiLTlhYWYtN2RkMTM2NTUwOWZmIiwidCI6IjU4MTgxNmIyLWMwYmUtNGVhYS04MGUzLTI5ZTVmMjQ4NjQ5NCIsImMiOjh9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4894/1/Daily%20COVID-19%20Dashboard.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-12-27T11:58:00-08:00",
+      "heat": 51,
+      "tags": [
+        "COVID-19",
+        "Health",
+        "Government"
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-dashboard-coronavirus.md",
       "title": "Dashboard Coronavirus",
       "excerpt": "La API https://api.covid19api.com/summary sirve información con la cual se elaboró este dashboard para ver la situación global del contagio del",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-dashboard-coronavirus/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-dashboard-coronavirus/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-dashboard-coronavirus/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Dashboard-Coronavirus/m-p/1008256",
       "provider": {
@@ -1435,7 +1490,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1488,7 +1543,7 @@
       "path": "_samples/powerbi-community-data-story-telling-with-comicgen.md",
       "title": "Data story telling With Comicgen",
       "excerpt": "The Covid dashboard emphasizes on the use of data story telling techniques and Comicgen to help explain the current Covid situation in India. What is",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-data-story-telling-with-comicgen/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-data-story-telling-with-comicgen/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-data-story-telling-with-comicgen/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Data-story-telling-With-Comicgen/m-p/1207156",
       "provider": {
@@ -1496,7 +1551,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1543,7 +1598,7 @@
       "path": "_samples/powerbi-community-distirbution-of-coronavirus.md",
       "title": "Distirbution of Coronavirus",
       "excerpt": "Hello everyone! I want to share with you this report about coronavirus disaster. This report shows us recovery percentage. I glad to see that",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-distirbution-of-coronavirus/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-distirbution-of-coronavirus/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-distirbution-of-coronavirus/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Distirbution-of-Coronavirus/m-p/956702",
       "provider": {
@@ -1551,7 +1606,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1602,10 +1657,64 @@
       ]
     },
     {
+      "path": "_samples/powerbi-community-informe-efectos-comparados-covid-19-paises-oecd.md",
+      "title": "Informe Efectos Comparados Covid-19 Países OECD",
+      "excerpt": "Buenas tardes, Soy nuevo en Power BI. Llevo trabajando con Excel toda la vida y no ha sido hasta hace pocas semanas que he entrado en contacto con",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-informe-efectos-comparados-covid-19-paises-oecd/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-informe-efectos-comparados-covid-19-paises-oecd/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Informe-Efectos-Comparados-Covid-19-Pa%C3%ADses-OECD/m-p/1549891",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Pablo-Cendrero",
+            "type": "profile",
+            "name": "Pablo-Cendrero"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiYWQ3ZGFmNGEtNDA4Ny00ZWQyLWI1YmEtNDc0ZmFmMGViOGI5IiwidCI6IjNjMTQ0YjIyLTQ0NjQtNGYzOS05MTUxLWFlNGY2MzZlNzNmMSIsImMiOjl9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiYWQ3ZGFmNGEtNDA4Ny00ZWQyLWI1YmEtNDc0ZmFmMGViOGI5IiwidCI6IjNjMTQ0YjIyLTQ0NjQtNGYzOS05MTUxLWFlNGY2MzZlNzNmMSIsImMiOjl9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4858/1/Covid%203.0.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-12-14T05:25:00-08:00",
+      "heat": 51,
+      "tags": [
+        "COVID-19",
+        "Economics"
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-london-airbnb-report-august-2020.md",
       "title": "London Airbnb Report - August 2020",
       "excerpt": "Hi all, Here I used the open source Airbnb listings for London, UK as a snapshot of August 2020. I have used Shape Map Visualisation to cluster the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-london-airbnb-report-august-2020/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-london-airbnb-report-august-2020/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-london-airbnb-report-august-2020/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/London-Airbnb-Report-August-2020/m-p/1373438",
       "provider": {
@@ -1613,7 +1722,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1644,7 +1753,7 @@
         }
       ],
       "publishedDateTime": "2020-09-15T09:57:00-07:00",
-      "heat": 52,
+      "heat": 50,
       "tags": [
         "COVID-19",
         "Business",
@@ -1658,10 +1767,64 @@
       ]
     },
     {
+      "path": "_samples/powerbi-community-makeovermonday-2020w43-apparel-exports-to-us.md",
+      "title": "MakeOverMonday -- 2020/W43: Apparel Exports to US",
+      "excerpt": "#makeovermonday #W43 Title: Apparel exports to the US SOURCE ARTICLE: workersrights.org DATA SOURCE: Data manually lifted from source article.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-makeovermonday-2020w43-apparel-exports-to-us/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-makeovermonday-2020w43-apparel-exports-to-us/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/MakeOverMonday-2020-W43-Apparel-Exports-to-US/m-p/1465602",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Ali_India",
+            "type": "profile",
+            "name": "Ali_India"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiOTlmNWEwNTItOGIyZC00YmY1LWI3OWUtM2ZlNzJlNzcwMDI1IiwidCI6IjQ5MzkwMzQ4LTk2ZGMtNDZhZC05YTYyLWMxMDQzMDIwZmQ2MyJ9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiOTlmNWEwNTItOGIyZC00YmY1LWI3OWUtM2ZlNzJlNzcwMDI1IiwidCI6IjQ5MzkwMzQ4LTk2ZGMtNDZhZC05YTYyLWMxMDQzMDIwZmQ2MyJ9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4731/1/MakeOverMonday_43.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-10-29T19:57:00-07:00",
+      "heat": 51,
+      "tags": [
+        "COVID-19",
+        "Business"
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-ov-unv-data-challenge-pushpa-bhandari-neupane.md",
       "title": "OV UNV Data Challenge - Pushpa Bhandari Neupane",
       "excerpt": "OV UNV Data Challenge submitted Pushpa Bhandari Neupane, an Accountant and Newbie to PowerBI .",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-ov-unv-data-challenge-pushpa-bhandari-neupane/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-ov-unv-data-challenge-pushpa-bhandari-neupane/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-ov-unv-data-challenge-pushpa-bhandari-neupane/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/OV-UNV-Data-Challenge-Pushpa-Bhandari-Neupane/m-p/1090368",
       "provider": {
@@ -1669,7 +1832,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1723,7 +1886,7 @@
       "path": "_samples/powerbi-community-pomerol-covid-19-tracker.md",
       "title": "Pomerol COVID-19 Tracker",
       "excerpt": "Our goal was to create a simple dashboard that enables the user to quickly understand the spread of COVID-19 around the world whilst providing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-pomerol-covid-19-tracker/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-pomerol-covid-19-tracker/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-pomerol-covid-19-tracker/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Pomerol-COVID-19-Tracker/m-p/1010226",
       "provider": {
@@ -1731,7 +1894,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1784,7 +1947,7 @@
       "path": "_samples/powerbi-community-regional-view-of-coronavirus-in-england.md",
       "title": "Regional view of Coronavirus in England",
       "excerpt": "I hope everyone is keeping safe and well during these turbulent times. Almost three weeks into lockdown in the UK, I have finally got around to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-regional-view-of-coronavirus-in-england/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-regional-view-of-coronavirus-in-england/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-regional-view-of-coronavirus-in-england/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Regional-view-of-Coronavirus-in-England/m-p/1008350",
       "provider": {
@@ -1792,7 +1955,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1823,7 +1986,7 @@
         }
       ],
       "publishedDateTime": "2020-04-04T07:36:00-07:00",
-      "heat": 52,
+      "heat": 51,
       "tags": [
         "COVID-19"
       ],
@@ -1842,10 +2005,63 @@
       ]
     },
     {
+      "path": "_samples/powerbi-community-seguimiento-covid-mexico-vs-brasil-china-eeuu-italia-y-reino-unido.md",
+      "title": "Seguimiento COVID México vs. Brasil, China, EEUU, Italia y Reino Unido",
+      "excerpt": "Seguimiento de Casos y Fallecimientos en México, comparados con Brasil, China, EEUU, Italia y Reino Unido",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-seguimiento-covid-mexico-vs-brasil-china-eeuu-italia-y-reino-unido/index.json",
+      "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-seguimiento-covid-mexico-vs-brasil-china-eeuu-italia-y-reino-unido/",
+      "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Seguimiento-COVID-M%C3%A9xico-vs-Brasil-China-EEUU-Italia-y-Reino/m-p/1431910",
+      "provider": {
+        "name": "PowerBI Community",
+        "domain": "powerbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "gabriva",
+            "type": "profile",
+            "name": "gabriva"
+          }
+        ]
+      },
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNmNmYzM2ZDEtNTA0Ni00MTE5LTkzM2QtMDVhZTBjZWE4MWNlIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9\"></iframe>",
+      "actions": [
+        {
+          "url": "https://app.powerbi.com/view?r=eyJrIjoiNmNmYzM2ZDEtNTA0Ni00MTE5LTkzM2QtMDVhZTBjZWE4MWNlIiwidCI6ImYyMmFlZDcyLTc1YmMtNDI2YS1hOGQzLTFiYTgyNmY0ODI4MSIsImMiOjR9",
+          "type": "preview",
+          "title": "Preview Report",
+          "attribution": "PowerBI Community"
+        },
+        {
+          "url": "https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/4648/1/Coronavirus-2020.pbix",
+          "type": "download",
+          "title": "Download PBIX",
+          "attribution": "PowerBI Community"
+        }
+      ],
+      "publishedDateTime": "2020-10-13T14:00:00-07:00",
+      "heat": 51,
+      "tags": [
+        "COVID-19"
+      ],
+      "content": "\r\n",
+      "type": "download",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_samples/powerbi-community-students-affected-by-covid-19-school-closure.md",
       "title": "Students affected by COVID-19 school closure",
       "excerpt": "Students affected by COVID-19 school closure Infographics style dashboard. Data source: World bank - 10th September 2020 Update: PBIX file is",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-students-affected-by-covid-19-school-closure/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-students-affected-by-covid-19-school-closure/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-students-affected-by-covid-19-school-closure/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Students-affected-by-COVID-19-school-closure/m-p/1366242",
       "provider": {
@@ -1853,7 +2069,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1884,7 +2100,7 @@
         }
       ],
       "publishedDateTime": "2020-09-12T00:47:00-07:00",
-      "heat": 56,
+      "heat": 53,
       "tags": [
         "COVID-19",
         "Health",
@@ -1900,7 +2116,7 @@
       "path": "_samples/powerbi-community-the-spread-of-corona-virus.md",
       "title": "The Spread of Corona Virus",
       "excerpt": "This dashboard tracks the spread of Corona and details the tragedy of it. This is still a work in progress. Feedback is appreciated.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-the-spread-of-corona-virus/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-the-spread-of-corona-virus/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-the-spread-of-corona-virus/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/The-Spread-of-Corona-Virus/m-p/987165",
       "provider": {
@@ -1908,7 +2124,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -1962,7 +2178,7 @@
       "path": "_samples/powerbi-community-tracking-coronavirus-outbreak.md",
       "title": "Tracking Coronavirus  Outbreak",
       "excerpt": "The r eport tracks Covid 19 progression and provides summarized view of Corona Outbreak across nations with an option to drill through specific",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-tracking-coronavirus-outbreak/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-tracking-coronavirus-outbreak/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-tracking-coronavirus-outbreak/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Tracking-Coronavirus-Outbreak/m-p/1093073",
       "provider": {
@@ -1970,7 +2186,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -2023,7 +2239,7 @@
       "path": "_samples/powerbi-community-twitter-analysis-during-covid.md",
       "title": "Twitter Analysis During COVID",
       "excerpt": "Analyse de l'impact d'une crise majeure sur le nb de follower de certains comptes en France. Hopitaux, Gouvernement ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbis/powerbi-community-twitter-analysis-during-covid/index.json",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/samples/powerbi-community-twitter-analysis-during-covid/index.json",
       "webUrl": "https://everyday.cc/powerbi/sample/powerbi-community-twitter-analysis-during-covid/",
       "originalUrl": "https://community.powerbi.com/t5/Data-Stories-Gallery/Twitter-Analysis-During-COVID/m-p/1140624",
       "provider": {
@@ -2031,7 +2247,7 @@
         "domain": "powerbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbiges/organizations/powerbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/powerbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false

@@ -4,7 +4,7 @@ excerpt: "I have created a “NYC Traffic Accident Report Year 2018” dashboard
 originalUrl: https://community.powerbi.com/t5/Data-Stories-Gallery/New-York-City-Traffic-Accident-Dashboard/m-p/1101892
 type: download
 publishedDateTime: 2020-05-21T15:51:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://app.powerbi.com/view?r=eyJrIjoiNGUxZDJjYjQtZGU0MC00OTMwLWE1YmEtZDUxNWEzMDc5MjIyIiwidCI6IjkyYWVlZTNjLTk2OWYtNDU5OS1iM2ZkLTQyYmQ3ZTA1NTliOCIsImMiOjl9\"></iframe>"
 
@@ -39,6 +39,6 @@ images:
     height: 532
     isCached: true
 
-secured: "9biGo8aco9M45zzQhpIukg1N+aQ/finD7B2nuRhOlN/QiLeXgXJ9OoHdXWJwhmf/mLIZaD7xmFb7hgrygaEz1fXGEPi6ZlCCdJ7F7gWlOl4T52Hg9rU3pvUyRcZxY8JPIBv6d3xc78Is7v//BzBNDB7ykCUEyN9O2eAmNyq8x5y6pBOYqhGVHG+KbWn7/uZ9kqXBxPgbgnzzifeljDJB5eMOCk9RatzjFF4XITpdPs/vale9ThTQ1UBlECr4uYIyINBXhAt4H0VgqQHNTD855NdxVoQ5YLXgpdp9Ez1k05nQQSy1tfa76v+VD0Os3WTw6jbqi4yvP+LC4aWLa028OcHZ3ec3QtwZUCvCNjulpM2FHnfw2CBkqMOuJNenIUCy4PGId4EUdaf7sLfzNUOGOJckKt1fcRGjtlM6QdPwoZViQf3WqRYgv0J6wAml7h07;86XPh+rYpeXPLmfCs4jf9g=="
+secured: "Y39NBUSLsG00gF3f3Osr+PbkmIBSc2itZXJ/F0RSJFzVYctX88T/0hUmctfYR1bFvbFWHDUk2TkF/Yr5QOQkAk5itkd2X/500DVXC+/KyysfD2UekNlyYUVlLdptd2wjqZhXcTrp9ky6uayFRW7FtKx8bOLslrG9fVPz4Tu1g1JT1k5Gyo+44pYKQKilPWIgYFslN37VpEQZAwqmnvn4CZs6Y3o3LIW0P6B+hlME7IkVstEWGOEldRfE1FQu/CUfkrklN/N11kmCoI7VZ0Cd7/I+cwI9DjNqSx0V0oVC56DfXOxy/bTwu+60CoLKSKRGEutZeBx8tv5z04HCncWA2pgsoCnZLimAQjetLR8ll3a8PG0qyQkTI+bFGTVIR/Z1xBWWr1Z/EdZ4r2RqnIFkFmac/mtjAPbLyxHFW5SwUWh8/xYDOf+zqmleCt47puUB;ZItDqg8sI5RqkXYFm3vDmw=="
 ---
 
