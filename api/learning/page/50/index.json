@@ -4,6 +4,36 @@
   "page": 50,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-keyboard-shortcuts-for-power-bi-table-and-matrix-visualizations.md",
+      "title": "Keyboard Shortcuts for Power BI Table and Matrix visualizations",
+      "excerpt": "In this video, we will talk about Keyboard shortcuts for table and Matrix visualization in Power BI. Power BI is constantly working to improve the use experience of the end users.  During May 2019 Updates of Power BI Desktop, Microsoft launched the Keyboard shortcuts for Table and Matrix visualization.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-keyboard-shortcuts-for-power-bi-table-and-matrix-visualizations/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-keyboard-shortcuts-for-power-bi-table-and-matrix-visualizations/",
+      "originalUrl": "https://youtube.com/watch?v=xSWzAjy9q-E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xSWzAjy9q-E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xSWzAjy9q-E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop.md",
       "title": "Load Microsoft Dataverse for Teams table data in Power BI Desktop",
       "excerpt": "Microsoft Dataverse for teams provides us the flexibility to prepare relational database tables. Now, let’s say we want to prepare further reporting based on Dataverse for Teams data. So, how can we do that? How can we load Microsoft Dataverse for Teams table data to Power BI Desktop? You will get to",
@@ -869,36 +899,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/r3Ou7AGLI-I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-resolve-contact-your-admin-to-enable-code-creation-error-while-using-publish-to-web-option.md",
-      "title": "Resolve “Contact your admin to enable code creation” Error while using Publish to web option",
-      "excerpt": "In this video, we will talk about how we can resolve an error – “Contact your admin to enable code creation”. To publish this report on the web, ask your Power BI admin if they will allow you to create new publish to web embed codes. Once they turn that on, you will be able to publish this report to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-resolve-contact-your-admin-to-enable-code-creation-error-while-using-publish-to-web-option/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-resolve-contact-your-admin-to-enable-code-creation-error-while-using-publish-to-web-option/",
-      "originalUrl": "https://youtube.com/watch?v=WPlkCRiODoc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WPlkCRiODoc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M54S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:52:50-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WPlkCRiODoc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
