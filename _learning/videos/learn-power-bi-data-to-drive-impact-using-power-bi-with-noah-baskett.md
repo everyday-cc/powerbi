@@ -4,7 +4,7 @@ excerpt: "Combine your dreams & passion with what you do.  👉Connect with Noah
 originalUrl: https://youtube.com/watch?v=qRsIIh997kw
 type: video
 price: Free
-length: PT16M39S
+length: PT16M38S
 publishedDateTime: 2019-07-12T12:53:05Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "3ZAQrPnyB39U34KnLMG4lgmMN/SW7Xt1txVP8KYucdlhDnTZ0OGJ9QZuUg9uXQ7L7LFJjv/x9I2PAKLV+v3rjpvbH+NQkUvO6Z3LZ0fSSQDt4YjVBNPTk7GblD9GH8QHC14hndPcKtrYpE2H+X26MKuz4ICXHcAMRVzzVWOuKOm29P7Qxc2qZ6Ymg4KMEUroksGx/U5qwv+lhjj2H6z9H5efWeIjPhisBohRcfrKRgR94cFT647g22E3f+9q5/3n2zr7lYoesap5TWMDL0TMv/3Dr04xL6LQzePOvY3mGTND4oxT528M27yhPtY62Z4rHjf9Dk6ClLH6PSxIanSzINP1Z4iqLx/79l0RZ1Xl6OEBTiLiwstH3v5K4rorFQN04ggPiJ2EgYouK1N571JBYg3c1Br93edatgwCl1d6LHo=;soZChYuZ9FkHYDrIevyeVQ=="
+secured: "WpFu5lrz7BeAtjYZ9NObJiziiks174+wQ1Ee0ehYGegJt7+cB8SN3JnTMPEu5pcCNBfwDdfw3SITOkpesGopqUXbvg4FS7K+5YmQ2nW9Oy+5iE+s2MsMV22zxFrZZL3ae3j+cdZp/UFFwdvCS2rLGSZPAY2nZ3fM9vZVko3BPFnIkKozTYU+tDQ8crMcpPDrc3apiH2xMS6S3nvOrjNUFhmlLwWHftKRnnrzuKbMa1GhRHFWRCg2C4q+iK5CpXPJ9U2L0GS3wps9HEUjwPVZ83i/mQMpL63BCTayLY5pQDe7Pv2wDUSa/slOjdRtlSE/LkIM4DaW4DDDEoko8zfeBkGFucGnndLjQZ+55i30aVrfzqIWwaqJioQxxYgXR0VqOehU/OVOctYUiS7MH1qv98ma/k51EqQUsu+/wXgC2no=;H4yefPRSAoJAGqAGIWeEkQ=="
 ---
 
