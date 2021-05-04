@@ -4,6 +4,66 @@
   "page": 68,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-realpowerbi-get-help-for-your-power-bi-project-talk-power-bi-live-subscribe-join.md",
+      "title": "#RealPowerBI: Get Help for Your Power BI Project 🔴Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "You've probably heard of our one-of-a-kind RealPowerBI program. Join our session for a deep-dive into this unique program and get any of your questions answered. Can't wait for the session? Just go to this link to learn more about RealPowerBI: https://www.learnpowerbi.com/realpowerbi ====================",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-realpowerbi-get-help-for-your-power-bi-project-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-realpowerbi-get-help-for-your-power-bi-project-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=Q0q_pIOkTxo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q0q_pIOkTxo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H49M19S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-06-20T20:35:57-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Q0q_pIOkTxo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-realpowerbi-project-final-presentations-may-3-live.md",
+      "title": "#RealPowerBI Project Final Presentations (May 3) 🔴 LIVE",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-realpowerbi-project-final-presentations-may-3-live/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-realpowerbi-project-final-presentations-may-3-live/",
+      "originalUrl": "https://youtube.com/watch?v=i9n3SizazOs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i9n3SizazOs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H41M32S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-03-28T10:58:25-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/i9n3SizazOs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-replay-celebrating-our-learnpowerbi-scholarship-winners-what-makes-them-different-talk-power-bi.md",
       "title": "REPLAY: Celebrating Our LearnPowerBI Scholarship Winners & What Makes them Different 🔴Talk Power BI",
       "excerpt": "00:00 Story of LearnPowerBI Family 00:41 LearnPowerBI Scholarships 03:30 Karl's Story (Philippines) 08:15 Monse's Story (Mexico) 13:42 Olga & Pavel Gutsol (Belarus) a Power BI Love Story? :-) 20:15 Robert's Story (Kenya) 25:45 Samuel's Story (Nigeria) 27:20 The Road Ahead  ✅ Subscribe and click the 🔔",
@@ -832,66 +892,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/mew3fR9zp0A/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-january-4-2019.md",
-      "title": "🔴Talk Power BI LIVE (Subscribe & Join) January 4, 2019",
-      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-january-4-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-january-4-2019/",
-      "originalUrl": "https://youtube.com/watch?v=dyLqpMdBmaU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dyLqpMdBmaU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H7M19S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-12-05T03:06:57-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dyLqpMdBmaU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-july-12-2019.md",
-      "title": "🔴Talk Power BI LIVE (Subscribe & Join) July 12, 2019",
-      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-july-12-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-july-12-2019/",
-      "originalUrl": "https://youtube.com/watch?v=t-ECkbEl7M4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t-ECkbEl7M4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H59M11S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-06-20T20:23:04-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/t-ECkbEl7M4/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
