@@ -51,8 +51,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 746,
-        "average": 4.6849866
+        "count": 747,
+        "average": 4.685408
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -869,8 +869,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 540,
-        "average": 4.751852
+        "count": 541,
+        "average": 4.7523108
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -912,8 +912,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 389,
-        "average": 4.714653
+        "count": 390,
+        "average": 4.7153845
       },
       "provider": {
         "name": "Microsoft Learn",
