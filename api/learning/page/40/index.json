@@ -4,49 +4,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-explore-enterprise-grade-etl-data-preparation-using-dataflows.md",
-      "title": "Explore enterprise-grade ETL and data preparation using dataflows",
-      "excerpt": "Explore enterprise-grade ETL and data preparation using dataflows",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-enterprise-grade-etl-data-preparation-using-dataflows/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-enterprise-grade-etl-data-preparation-using-dataflows/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 5,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Dataflows"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-fit-gap-analysis.md",
       "title": "Perform fit gap analysis",
       "excerpt": "Learn about performing a fit gap analysis as a solution architect for Dynamics 365 and Microsoft Power Platform.",
@@ -214,8 +171,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-collaboration/",
       "length": "PT33M",
       "ratings": {
-        "count": 7,
-        "average": 4.857143
+        "count": 8,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -256,8 +213,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/",
       "length": "PT18M",
       "ratings": {
-        "count": 18,
-        "average": 4.8333335
+        "count": 19,
+        "average": 4.7894735
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -298,8 +255,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-governance/",
       "length": "PT12M",
       "ratings": {
-        "count": 9,
-        "average": 5.0
+        "count": 10,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -382,8 +339,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
       "length": "PT16M",
       "ratings": {
-        "count": 6,
-        "average": 5.0
+        "count": 7,
+        "average": 4.428571
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -424,8 +381,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-monitor/",
       "length": "PT11M",
       "ratings": {
-        "count": 10,
-        "average": 5.0
+        "count": 11,
+        "average": 4.818182
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1241,6 +1198,48 @@
         "Advanced"
       ],
       "heat": 50,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-workplace-analytics-business-continuity.md",
+      "title": "Evaluate shifts in work patterns with the Business continuity dashboard in Microsoft Workplace Analytics",
+      "excerpt": "Learn how to set up and interpret the results from the Workplace Analytics Power BI Business continuity dashboard. Generate insights from the behavioral data to help navigate shifts in employee and team work patterns.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-workplace-analytics-business-continuity/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-business-continuity/",
+      "length": "PT39M",
+      "ratings": {
+        "count": 45,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",
