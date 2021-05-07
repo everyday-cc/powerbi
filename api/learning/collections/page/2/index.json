@@ -1719,8 +1719,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 3469,
-            "average": 4.755549
+            "count": 3470,
+            "average": 4.7556195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1887,8 +1887,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 5,
-            "average": 4.8
+            "count": 6,
+            "average": 4.8333335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2951,8 +2951,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1548,
-            "average": 4.718992
+            "count": 1549,
+            "average": 4.7191734
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2993,8 +2993,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2268,
-            "average": 4.8112874
+            "count": 2270,
+            "average": 4.811454
           },
           "provider": {
             "name": "Microsoft Learn",
