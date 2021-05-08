@@ -1719,8 +1719,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 3475,
-            "average": 4.7556834
+            "count": 3476,
+            "average": 4.7557535
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1804,8 +1804,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 3667,
-            "average": 4.770112
+            "count": 3668,
+            "average": 4.7699018
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1947,7 +1947,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-data-connectivity-social.png",
@@ -2548,8 +2548,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 6919,
-            "average": 4.699812
+            "count": 6920,
+            "average": 4.6998553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2673,8 +2673,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 2233,
-            "average": 4.711151
+            "count": 2235,
+            "average": 4.710962
           },
           "provider": {
             "name": "Microsoft Learn",
