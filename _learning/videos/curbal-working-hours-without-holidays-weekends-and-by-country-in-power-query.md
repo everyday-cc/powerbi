@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT15M2S
 publishedDateTime: 2017-08-21T19:40:25Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GLIoDbOiJgw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "N1dKAI/QMeXFc1noaFmvp3ofgU3797YQhVscRIWO2xXmEjk7HNeCKkbVCk1Lup7yDYy58D5upIiZKx5sVge88KwFnFnhi+7YZD8uEu831EM0ubfNBpG3bO+BH7wqLwd/J5O2yO+xftXIO0qq0wJ1XnRKz+2bbn3OhoQT/AH38RP2I9TW8yngZWXMEIQbDcbac0/QTBPJifznUv3tpes8Mgo4e/LfebZDhEOdhrJE62MpTRQd9VatHmla1wkX83hdRMRpKyj2OIwRX+8RBd65+gvWtyjWJrrp4CYe4B1Ednapv9nlFQtAsEFmlbdZCb5jFMBkYLhbCQZW6qMzHg/y+KwBEwMlvZrsD2vWaErMudC7pFO9f7LdVIrp9JrjhC6QNzRWZqGjPVI67CsDXzRxofdOfh82u6X5w736rsY+EME=;7pVAjjysYSdWQKI/eisJew=="
+secured: "0xzwPbQABtt0WG1+ZcYz160BDcl8lHVqH7CZ9An4pt7tCkvX5KLPmdakXvFmy4/4x1Nl/oLiXityAoDe4jur2UOEQSNnMDNAOGc+iHpYg5D+vPtXdVT/cNWyKWyxVr0q5Lb2UbC6W7jVkNpc/n2WIknF9cjDgt0FVpYoGKM0UEof+WPDr2TRRLWhNML9FlETSNNrDh6jxB+okDXLkFr8P8fAgDyPHOWlRSMOTO2+1Sfj8394RfOaIC1MlUw4UGLqr92w2WKpF55j0AABCHe9SB3YWSik0mYpfzvnJ4sE4Xpobms3gCaTcsEAqRLO6fnvIDvv+ZromrAYsTU/zDXijo1palTgVh972bQxIBTunEQkuceK2w/hASe4oJBrTMwTYU1/C8W14yndtlouh9It2s5mUbsZnrQQeX94G80cUzo=;JBiv04EZ4Jz8jqx/PGu7Jg=="
 ---
 
