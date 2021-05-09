@@ -2,7 +2,7 @@
 title: "DAX Fridays by Curbal"
 excerpt: "Are you new to DAX or are you having problems with a specific DAX function? In this playlist, I cover a new DAX function every friday, so you and I can learn DAX in depth."
 type: collection
-heat: 68
+heat: 67
 
 provider:
   name: Curbal
@@ -232,6 +232,7 @@ items:
   - videos/curbal-dax-fridays-204-slice-by-the-results-of-a-measure
   - videos/curbal-dax-fridays-205-find-values-missing-in-related-table
   - videos/curbal-dax-fridays-206-9-dax-unwritten-rules-that-will-give-you-away-as-a-beginner-
+  - videos/curbal-dax-fridays-207-ifeager-what-are-eager-evaluations
 
 topics:
   - Power BI

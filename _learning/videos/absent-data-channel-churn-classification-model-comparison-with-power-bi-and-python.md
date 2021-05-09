@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT17M
 publishedDateTime: 2020-11-11T01:14:25Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J3cyjmuN9vA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YTdD6nA9/wOL2FwAugEwOyp/mjhUIEwGHkyy8wD+3YhaM6tE37XKilwBig4SKpipkDO7KA6RD6uLq2DoIPQCFy8kwu9hqk8uZN9w2PXvAtaG9EwZ/cFfYlNPQ6d7thm3f2fhmGsmWk+PkWh/g8qKUJNqzOyft/3JtvaeKkj3VjU7/aB/6PWxKsJswp0WUQ0VmXFSWDlJBFtQja9oP1+eqEVpQkWGZlFTnKfRg1OKsDi+MHOmpoAaFTE7eBwC3W15mSFqY18HWLAJwVgBX4oowcZKaV594BQ2nRpFJ/JDNGFjOkId0P6g2dAcCGgsDCXtsasKdhmbNS97N3L5Q01to9BjztkPKLTzXHYsYENt0+MNlvHB8hPZ3roSDRfHTfK3XgT0hmrsF0ZJUYZ4LG/Ea/qcuFnVPQkBfmAgHliiBz4=;qinvwMYOwRIEJMpUU8gXWQ=="
+secured: "HyLAX/CHNyQit+PcASHh1Za076EXAWKfS84HG5VQf0HLSOY3a9ShnH6uaGFxAIgoc2SgeMTSZ0Xi1mtLEfYDy/9yuiX5wvjAZMzTp47jKwf6RBz4tPkENcVpfTEgKlgXQIsuQn8yV6rQELnDwvDNa2ap//DWQ1EqsB7ODNMcu4UIS89rgo4b9Q35UGIhsMTvHtB5+u/Gt5sBx0qKVEUjYNn6h1YMmChfd8jGv4p96FZzfD7k+F6F+feu5adT6GULWXyRuCPGI7yO1wKBN/HOFlj8Aa/V65xN39TOUlH7qSXa68v7sVVgv/gSCPj54bUc6PUrpGW6ZQ+ctfgzSUtohhLtmm5QuGF++34Mx6/QMzVRr3QvEFw/qIKHL3684DGEPAoStYR39TM9j5uLo2gpzy20F5UXKZPz8t3DecI0Mmg=;nSxRLlZCF6oWGm6QFB2Jeg=="
 ---
 
