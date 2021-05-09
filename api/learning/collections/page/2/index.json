@@ -1069,7 +1069,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-automate-social.png",
@@ -1594,8 +1594,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 6418,
-            "average": 4.7776566
+            "count": 6420,
+            "average": 4.7777257
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2365,8 +2365,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 3484,
-            "average": 4.7557406
+            "count": 3485,
+            "average": 4.7558107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2450,8 +2450,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 3674,
-            "average": 4.770005
+            "count": 3675,
+            "average": 4.770068
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2700,8 +2700,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 1976,
-            "average": 4.723178
+            "count": 1977,
+            "average": 4.722812
           },
           "provider": {
             "name": "Microsoft Learn",
