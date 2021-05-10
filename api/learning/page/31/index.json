@@ -333,8 +333,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working/",
           "length": "PT31M",
           "ratings": {
-            "count": 46,
-            "average": 4.7826085
+            "count": 47,
+            "average": 4.787234
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -375,8 +375,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 50,
-            "average": 4.8
+            "count": 51,
+            "average": 4.8039217
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -760,8 +760,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 5827,
-        "average": 4.770894
+        "count": 5828,
+        "average": 4.7709336
       },
       "provider": {
         "name": "Microsoft Learn",

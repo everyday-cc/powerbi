@@ -2112,8 +2112,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 7,
-            "average": 4.428571
+            "count": 8,
+            "average": 4.5
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2154,8 +2154,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 19,
-            "average": 4.7894735
+            "count": 20,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2321,7 +2321,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 2,
+            "count": 3,
             "average": 5.0
           },
           "provider": {
@@ -2363,7 +2363,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 5,
+            "count": 6,
             "average": 5.0
           },
           "provider": {
@@ -2405,7 +2405,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-reach/",
           "length": "PT19M",
           "ratings": {
-            "count": 4,
+            "count": 5,
             "average": 5.0
           },
           "provider": {
@@ -2447,8 +2447,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 5,
-            "average": 4.8
+            "count": 6,
+            "average": 4.8333335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2739,8 +2739,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 7,
-            "average": 4.857143
+            "count": 8,
+            "average": 4.875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2781,7 +2781,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 2,
+            "count": 3,
             "average": 5.0
           },
           "provider": {
@@ -2823,8 +2823,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-calculations/",
           "length": "PT57M",
           "ratings": {
-            "count": 2,
-            "average": 5.0
+            "count": 3,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2865,7 +2865,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-organize-fields/",
           "length": "PT52M",
           "ratings": {
-            "count": 2,
+            "count": 3,
             "average": 5.0
           },
           "provider": {
@@ -2948,8 +2948,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 5305,
-            "average": 4.7606034
+            "count": 5309,
+            "average": 4.7605953
           },
           "provider": {
             "name": "Microsoft Learn",
