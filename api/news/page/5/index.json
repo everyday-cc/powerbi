@@ -2,6 +2,366 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-25-moving-on-premises-as-and-rs-bi-solutions-to-azure-and-closer-to-power-bi.md",
+      "title": "Moving on-premises AS and RS BI solutions to Azure – and closer to Power BI",
+      "excerpt": "With the availability of virtual machine images for SQL Server Analysis Services (SSAS) and SQL Server Reporting Services (SSRS) in Azure Marketplace, you can now more easily migrate your AS and RS BI solutions from on-premises to Azure! This is a great opportunity to move your multidimensional workloads",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-25-moving-on-premises-as-and-rs-bi-solutions-to-azure-and-closer-to-power-bi/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/moving-on-premises-as-and-rs-bi-solutions-to-azure-and-closer-to-power-bi/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/moving-on-premises-as-and-rs-bi-solutions-to-azure-and-closer-to-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-25T00:48:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-new-export-settings-are-available-in-the-power-bi-admin-portal.md",
+      "title": "New export settings are available in the Power BI admin portal",
+      "excerpt": "We’re happy to introduce new admin settings in Power BI admin portal, which provide you more granular control over export options in Power BI, and extend export settings to control also export from paginated reports.\r\n",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-24-new-export-settings-are-available-in-the-power-bi-admin-portal/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/new-export-settings-are-available-in-the-power-bi-admin-portal/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/new-export-settings-are-available-in-the-power-bi-admin-portal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T00:49:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-power-bi-desktop-update-november-2020-in-9-minutes.md",
+      "title": "Power BI Desktop Update November 2020 in 9 minutes",
+      "excerpt": "Lets go through the power bi desktop update for November 2020:  Key items: 00:00 Intro 00:31 Icons and UI 01:50 New model view 04:28 Zoom Sliders 05:20 Lasso select on maps 05:35 PPU preview rolling out  06:30 Power BI export API 07:00 Find Anomalies   And the long version: New field list across Icons",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-17-power-bi-desktop-update-november-2020-in-9-minutes/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-11-17-power-bi-desktop-update-november-2020-in-9-minutes/",
+      "originalUrl": "https://youtube.com/watch?v=Q-vxM_cwKCg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q-vxM_cwKCg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Q-vxM_cwKCg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T10:02:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-on-premises-data-gateway-november-2020-update-is-now-available.md",
+      "title": "On-premises data gateway November 2020 update is now available",
+      "excerpt": "November install of gateway",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-16-on-premises-data-gateway-november-2020-update-is-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-november-2020-update-is-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-november-2020-update-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T02:30:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-power-bi-developer-community-november-2020-update.md",
+      "title": "Power BI Developer community November 2020 update",
+      "excerpt": "This blog post covers the latest updates for Power BI embedded analytics and Power BI visuals platform",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-16-power-bi-developer-community-november-2020-update/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-developer-community-november-2020-update/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-developer-community-november-2020-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T00:00:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-whats-new-in-power-query-amp-dataflows-november-2020.md",
+      "title": "What᾿s new in Power Query &amp; Dataflows – November 2020",
+      "excerpt": "We have added lots of new capabilities to Power Query Online &amp; Dataflows. This blog post provides a recap walkthrough of these new capabilities.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-12-whats-new-in-power-query-amp-dataflows-november-2020/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-power-query-dataflows-november-2020/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-power-query-dataflows-november-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T05:18:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power Query",
+        "Dataflows"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-power-bi-november-2020-feature-summary.md",
+      "title": "Power BI November 2020 Feature Summary",
+      "excerpt": "Our anomaly detection algorithm detects that there is an anomaly this month: Anomaly Detection is in preview! Also, we are announcing a preview of the new Field List and the Model View. We are adding a fan-favorite: the Visual Zoom Slider! In the Service, endorsements for datasets and dataflows are extended",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-12-power-bi-november-2020-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-november-2020-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-november-2020-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T01:06:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-anomaly-detection-preview.md",
       "title": "Anomaly detection (preview)",
       "excerpt": " Anomaly detection helps you enhance your line charts by automatically detecting anomalies in your time series data. It also provides explanations for the anomalies to help with root cause analysis.  With just a couple of clicks, you can easily find insights without slicing and dicing the data.",
@@ -897,367 +1257,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-updates-to-power-bi-publish-to-web-for-better-public-reporting.md",
-      "title": "Updates to Power BI Publish to web for better public reporting",
-      "excerpt": "Power BI Publish to web helps organizations share data on public websites, enabling communities to stay informed. Learn how you can make your reports load faster for users, and provide improved experiences in the event your report experiences heavy usage. ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-23-updates-to-power-bi-publish-to-web-for-better-public-reporting/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/updates-to-power-bi-publish-to-web-for-better-public-reporting/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/updates-to-power-bi-publish-to-web-for-better-public-reporting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2020/10/publishToWebPlaceholder.gif",
-          "width": 2198,
-          "height": 1458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T10:10:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-join-us-thursday-october-22-power-platform-community-conference.md",
-      "title": "Join us! Thursday October 22 Power Platform Community Conference",
-      "excerpt": "We are thrilled to come together with you to host another online Power Platform Community Conference this year! Click here for more details.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-21-join-us-thursday-october-22-power-platform-community-conference/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-thursday-october-22-power-platform-community-conference/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-thursday-october-22-power-platform-community-conference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T04:28:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-all-power-bi-desktop-updates-for-october-2020-in-7-minutes.md",
-      "title": "All Power BI desktop updates for October 2020 in 7 minutes!",
-      "excerpt": "It is Power Week, meaning the Power BI desktop team has released a new Power BI desktop update, this time is October 2020.   In this video I will give you all updates in under 7 minutes so you can stay up to date with the latest and dive in what matters to you only.  What is your favorite feature?  Jump",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-21-all-power-bi-desktop-updates-for-october-2020-in-7-minutes/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-10-21-all-power-bi-desktop-updates-for-october-2020-in-7-minutes/",
-      "originalUrl": "https://youtube.com/watch?v=VRHWqyrJfYo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VRHWqyrJfYo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VRHWqyrJfYo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T03:05:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-heads-up-the-new-look-of-the-power-bi-service-begins-rolling-out-soon.md",
-      "title": "Heads up: The ‘new look’ of the Power BI service begins rolling out soon",
-      "excerpt": "All the improvements of the ‘new look’, from navigation updates to the simplified action bar for reports and dashboards, begins rolling out next week and will be generally available to all tenants and users by early November. Thank you for your feedback during public preview as we made incremental updates",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-20-heads-up-the-new-look-of-the-power-bi-service-begins-rolling-out-soon/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/heads-up-the-new-look-of-the-power-bi-service-begins-rolling-out-soon/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/heads-up-the-new-look-of-the-power-bi-service-begins-rolling-out-soon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T07:11:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Service"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-announcing-personalize-visuals-general-availability-ga.md",
-      "title": "Announcing Personalize Visuals General Availability (GA)",
-      "excerpt": "Back in May, we released a public preview of a new personalize visuals experience. With this new capability, you can empower your end-users to explore and personalize visuals all within the consumption view of a report. For example, your end-user can change a measure, a dimension, or the visualization",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-20-announcing-personalize-visuals-general-availability-ga/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-personalize-visuals-general-availability-ga/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-personalize-visuals-general-availability-ga/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LveNuQqV5xk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T07:01:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-power-bi-october-2020-feature-summary.md",
-      "title": "Power BI October 2020 Feature Summary",
-      "excerpt": "Visuals, visuals, visuals. It is (almost) all about visuals this month with loads of new visuals and updates to existing visuals. Also, we are helping users getting started with the introduction of canvas watermarks. Power BI is getting a shiny new icon and we are adding a dismiss option to the Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-20-power-bi-october-2020-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-october-2020-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-october-2020-feature-summary/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LveNuQqV5xk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T02:01:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-new-gateway-power-bi-data-source-management-and-more-roundup-october-19-2020.md",
-      "title": "New Gateway, Power BI data source management and more... (Roundup | October 19, 2020)",
-      "excerpt": "Thanks for watching this week's Power BI news roundup!  Patrick's tech video: https://guyinacu.be/levelupdrill Adam's tech video: https://guyinacu.be/teamsapp  Live Stream Clips: https://guyinacu.be/clips  🔴 Live Replay: https://guyinacu.be/live029  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-19-new-gateway-power-bi-data-source-management-and-more-roundup-october-19-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-10-19-new-gateway-power-bi-data-source-management-and-more-roundup-october-19-2020/",
-      "originalUrl": "https://youtube.com/watch?v=M4Tk5xOXwYA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M4Tk5xOXwYA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/M4Tk5xOXwYA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T08:00:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
