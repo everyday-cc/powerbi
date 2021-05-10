@@ -424,8 +424,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 19483,
-        "average": 4.7225275
+        "count": 19485,
+        "average": 4.7225556
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2157,8 +2157,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 2344,
-            "average": 4.7282424
+            "count": 2345,
+            "average": 4.7283583
           },
           "provider": {
             "name": "Microsoft Learn",
