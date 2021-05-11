@@ -2,7 +2,7 @@
 title: "Must Have PowerBI Tools"
 excerpt: "ALM ToolKit, DAX Studio, Tabular Editor and Monkey Tool"
 type: collection
-heat: 61
+heat: 63
 
 provider:
   name: Power BI Tips
