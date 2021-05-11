@@ -663,8 +663,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1725,
-            "average": 4.7750726
+            "count": 1726,
+            "average": 4.7752028
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -705,8 +705,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1558,
-            "average": 4.719512
+            "count": 1559,
+            "average": 4.719692
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -841,8 +841,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 1725,
-        "average": 4.7750726
+        "count": 1726,
+        "average": 4.7752028
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -969,8 +969,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 765,
-        "average": 4.6875815
+        "count": 767,
+        "average": 4.684485
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1013,8 +1013,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 1558,
-        "average": 4.719512
+        "count": 1559,
+        "average": 4.719692
       },
       "provider": {
         "name": "Microsoft Learn",
