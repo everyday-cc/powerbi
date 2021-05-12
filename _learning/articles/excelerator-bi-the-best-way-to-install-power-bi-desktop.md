@@ -4,7 +4,7 @@ excerpt: "Power BI Desktop is a free, standalone self service BI tool for data m
 webUrl: https://exceleratorbi.com.au/the-best-way-to-install-power-bi-desktop/
 type: article
 publishedDateTime: 2021-03-01T22:55:58Z
-heat: 130
+heat: 50
 
 provider:
   name: Excelerator BI
