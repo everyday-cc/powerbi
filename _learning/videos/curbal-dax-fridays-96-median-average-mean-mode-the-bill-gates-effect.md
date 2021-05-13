@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT26M11S
 publishedDateTime: 2018-09-07T13:29:13Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3i-VvzI6v0c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "P9lhyHMaWJ23lzVArq0naS6Xdm6C4cDHMgNuR1vVfVQhbAqadLF36Nytxv5wQ1AIZeRaUpvpG7xMXAHPpDKPXViBseZn6R8JZ3wdGC5dQxGz27eV7uhGB1DNqrv4+Wd6Xs043Y90tJF7OzwJ+s87qDWMXO6TJMVbDm4n7I3lSVKV6GVpythUo8YqSEpC5Kk7bBAA03HKoPj31XbS4wMYTrtkbAxG1us8o2zTTBlP+rLmHCinEVA2zhCO9zyRpSZnnR7/kpick1PRPP6NaPo2OcRabMkFiLtKO5lWbgYnRnacHKoB6nIwtZ+MHVTp7+XZ9Q7R3WyCz2tD1Sk3cmKsbyecijT61fi02LVJofh52z32K0mqR4ViPQ06WeI5NNmxUA3LtzY51dbhmfC1rgHgor4O24EYBH3/FJYCgtHVtCY=;ig9F6ULp6iU/jWiAuT6VAQ=="
+secured: "tcr7JI+nqAOluq/NGTHog+VTXdxYfzlvppldbxc9lRGP4kJlVsyEQ6DN+omBE+V3x1kgbL215lX8FH0WQAxVtQqyW+D2nJxsIymtsPc8QG8jiOwKUyZRlmgpSZUgYyRqPvtPcjOm9ZvGqw6kApc1reqn06K0HKCCHGNAXmAYpQdGT/Qc5Xk+3ZvHJbDrp/876ftJGHtKO8t5VGGhLUgEXOEWxVaQTrXDpvr2DWs35zs/ZLIIFfClc6NcrSbS66VVsq1+xXJeX0x0SIFwTuACFGlOCwUEp8fPsSeN6YDt/4H3hncGzsjPPaBosfKyW/h8pKyfgBejqYAuTop0jR0TYVdT0FrLvMhnsUcNTDQz56zzbS+ufYPXZ7WxBQTtBnHvq0Uq1mFViybF4qkvhLN9td7tGxG59lzy1sMoU/c6doY=;h4/c7Hi68CuPv1lYMCRYjQ=="
 ---
 
