@@ -4,84 +4,6 @@
   "page": 63,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-tutorial-grow-up-power-bi-desktop-to-analysis-services-learning-the-clicks.md",
-      "title": "Power BI Tutorial - Grow up Power BI Desktop to Analysis Services (Learning the clicks)",
-      "excerpt": "In this Power BI Tutorial, Patrick will show you how you can grow up a Power BI Desktop file (PBIX) to Analysis Services. He's all about learning the clicks! This is a Power BI tutorial worth watching!  You can build your model within Power BI Desktop and then use Azure Analysis Services to migrate to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-tutorial-grow-up-power-bi-desktop-to-analysis-services-learning-the-clicks/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-tutorial-grow-up-power-bi-desktop-to-analysis-services-learning-the-clicks/",
-      "originalUrl": "https://youtube.com/watch?v=0V8Y8g6CS-o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0V8Y8g6CS-o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M26S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-18T09:32:09-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0V8Y8g6CS-o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Power BI Tutorial - Grow up Power BI Desktop to Analysis Services (Learning the clicks)",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-updates-a-birthday-and-more-july-16-2018.md",
-      "title": "Power BI Updates, a birthday and more... (July 16, 2018)",
-      "excerpt": "Center the X-Axis on a Line Chart (@Seth_C_Bauer) https://powerbi.tips/2018/07/center-the-x-axis-on-a-line-chart/  'What If' Analysis Techniques For Power BI (@Enterprise_dna) https://community.powerbi.com/t5/Community-Blog/What-If-Analysis-Techniques-For-Power-BI/ba-p/460414  Happy Birthday Power Query",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-updates-a-birthday-and-more-july-16-2018/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-updates-a-birthday-and-more-july-16-2018/",
-      "originalUrl": "https://youtube.com/watch?v=vZEO_MNF1Ts",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vZEO_MNF1Ts\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M48S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-07-15T04:26:09-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vZEO_MNF1Ts/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-updates-cds-a-dax-power-query-and-more.md",
       "title": "Power BI updates, CDS-A, DAX, Power Query and more...",
       "excerpt": "Tour of the Power BI Solution Advisor (@paul_turley) https://sqlserverbi.blog/2018/03/18/tour-of-the-power-bi-solution-advisor/  Capturing Power BI queries using DAX Studio (@marcorus) https://www.sqlbi.com/articles/capturing-power-bi-queries-using-dax-studio/  Improving The Performance Of Aggregation",
@@ -1144,6 +1066,82 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/KH7J6OuM3m0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-roundup-24-visualizations-relationships-and-more.md",
+      "title": "Roundup #24 (Visualizations, Relationships, and more...)",
+      "excerpt": "Power BI Weekly Service Update http://blogs.msdn.com/b/powerbi/archive/2015/11/11/power-bi-weekly-service-update-1110.aspx  The Word Cloud http://blogs.msdn.com/b/powerbi/archive/2015/11/10/visual-awesomeness-unlocked-the-word-cloud.aspx  The Timeline Slicer http://blogs.msdn.com/b/powerbi/archive/2015/11/03/visual-awesomeness-unlocked-the-timeline-slicer.aspx",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-roundup-24-visualizations-relationships-and-more/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-roundup-24-visualizations-relationships-and-more/",
+      "originalUrl": "https://youtube.com/watch?v=lDGtUyamxfY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lDGtUyamxfY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M52S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-11-12T07:05:20-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lDGtUyamxfY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-roundup-25-project-online-intune-and-more.md",
+      "title": "Roundup #25 (Project Online, Intune and more...)",
+      "excerpt": "Explore and Monitor your Project Online data in Power BI http://blogs.msdn.com/b/powerbi/archive/2015/11/18/explore-and-monitor-your-project-online-data-in-power-bi.aspx  Power BI Weekly Service Update http://blogs.msdn.com/b/powerbi/archive/2015/11/17/power-bi-weekly-service-update-1117.aspx  Enterprise",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-roundup-25-project-online-intune-and-more/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-roundup-25-project-online-intune-and-more/",
+      "originalUrl": "https://youtube.com/watch?v=1C1YoXCXcLk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1C1YoXCXcLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M44S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-11-19T07:48:38-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1C1YoXCXcLk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
