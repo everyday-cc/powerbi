@@ -4,6 +4,84 @@
   "page": 49,
   "value": [
     {
+      "path": "_learning/videos/curbal-google-analytics-custom-connector-in-power-bi.md",
+      "title": "Google Analytics custom connector in Power BI",
+      "excerpt": "In this video. I will show you how to connect to Google Analytics in Power BI using Curbal's custom connector.  Link to github: https://github.com/ruthpozuelo/GoogleAnalyticsConnector  You will need an API key, here is the link to how to get it: https://www.youtube.com/watch?v=S0AfKF6KBNE   Looking for",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-google-analytics-custom-connector-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-google-analytics-custom-connector-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=5bkJCjJK9U0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5bkJCjJK9U0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M9S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-06T02:27:06-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5bkJCjJK9U0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-group-rows-with-uneven-number-of-rows-part-7-power-query-challenge.md",
+      "title": "Group rows with uneven number of rows - Part 7: Power Query Challenge",
+      "excerpt": "In today's video we continue with the Power Query challenge where Collin shows us a great trick on how to group rows with uneven number of characters.  What is this Power Query Challenge? https://www.youtube.com/watch?v=_R1rSdXkVDw  Source files: https://github.com/ruthpozuelo/PQChallenge  Part 1: https://www.youtube.com/watch?v=_LcT5sLwmiw",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-group-rows-with-uneven-number-of-rows-part-7-power-query-challenge/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-group-rows-with-uneven-number-of-rows-part-7-power-query-challenge/",
+      "originalUrl": "https://youtube.com/watch?v=gLRDh3Hp2To",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gLRDh3Hp2To\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M16S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-11-20T08:59:27-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gLRDh3Hp2To/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-grouping-visuals-in-power-bi-power-bi-desktop-update-august-2019.md",
       "title": "Grouping visuals in Power BI - Power BI Desktop update August 2019",
       "excerpt": "In today's video I will show you how grouping visuals work in power bi and when it doesn't as well as 2 improvement possibilities for this feature. #curbal #powerweek #powerbi  Power bi desktop update august 2019 Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE",
@@ -1084,82 +1162,6 @@
       "topics": [
         "Power BI",
         "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-microsoft-role-based-certifications-have-been-extended-and-prepare-with-me-for-70-778-exam.md",
-      "title": "Microsoft role based certifications have been extended and prepare with me for 70-778 exam!",
-      "excerpt": "Have you heard the news? Microsoft has announced that they will extend the MCSA, MCSD, MCSE role based certifications due to corona virus outbreak and made some other changes to the certification process.  In this video we will cover all that and more: Extending Microsoft role based certifications announcement:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-microsoft-role-based-certifications-have-been-extended-and-prepare-with-me-for-70-778-exam/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-microsoft-role-based-certifications-have-been-extended-and-prepare-with-me-for-70-778-exam/",
-      "originalUrl": "https://youtube.com/watch?v=tyUXi2bzlzw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tyUXi2bzlzw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M51S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-30T04:05:59-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tyUXi2bzlzw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-monitor-usage-with-power-bi-audit-logs.md",
-      "title": "Monitor usage with Power BI audit logs",
-      "excerpt": "You can turn on audit logs in Power BI to monitor what users are doing in Power BI. This tool is perfect for troubleshoot and to help you document what is being done in Power BI and use it to comply with laws like GDPR.  To turn it on, you need an E3 or E5 office 365 license. If you have it, you just",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-monitor-usage-with-power-bi-audit-logs/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-monitor-usage-with-power-bi-audit-logs/",
-      "originalUrl": "https://youtube.com/watch?v=y4POLA04i3g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y4POLA04i3g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M34S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-05-08T05:48:01-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/y4POLA04i3g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],
