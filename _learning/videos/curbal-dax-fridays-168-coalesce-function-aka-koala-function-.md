@@ -4,7 +4,7 @@ excerpt: "In todays video I will review the COALESCE function a.k.a koala functi
 originalUrl: https://youtube.com/watch?v=vn7urmX53mA
 type: video
 price: Free
-length: PT8M33S
+length: PT10M57S
 publishedDateTime: 2020-04-03T12:33:46Z
 heat: 50
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "VNeADXa3yzvR94UN/elzW+115/OeX0AyHG3HsmwE9cjApYAGilNnXTCtVBXapyOxPgbJ+JO+0PLFG4qUaXkA6W75Nmays+rXBqMav0ZY9KmRKX+Lx3Sr1dLiNU3Ye3K2Q/KmlYdSBLRkyNOYfuYr6UBce9Zr2TbQeuwwYGMFjIyH3KGm2dbBvc233ObWfaH/AAGMwFyke/eZXJMGVgyPOqRrqV3Pucydf/4yw8oh0wyIduhoQIp13thT6jaB0H8qrrE2Q0nl2TNMmWXI8pBgev/YD9J+xf0Qaxg+DVy0oynY+3jaI/ueDduUDBPcU5jh3P0p4GqEA/jYX8RbkZtmsFBGP+Av3eN04jvrtwSzrb+/WoqYbcQtLsH8LQfVQ1vTX13T/YrFMc9oQ9Onrk57HCQF0PlGJsmVH1MKsf88UsY=;wqCL+yAYYZe9PNzbeQH7KA=="
+secured: "ElQYWX02tryWp1vaqobqdwxm/bwyyJ9qCTQt2OZ0PFT3+E5I4TiTI/NItcbfB+tbwctsV8DKtbO6fk2IarMQOomggKAOV/vDRGNw7VwDTtQUqSBRpeDB+gyV+mrW4rWjWC7AeIJG5jOBhegqyEarS/BxIcuEsyFH4ml3AGHt1zm6VMig96uyqFOacMYE/CwftBmfO4Ey6MbCUrGOYHoMEd0uyVgFACz99EgZKHBYRGxqy80ONJji1KHXhJlmXgf/X4i8CHaYPRzojCyjCTe9YmjX7Db/JeRMDv47hIrfD2Fq1ttgdRVlzVgqrWP7ZQVtm6g+1sUsH5UxTZqykjfnUk7iapW/zRbrFPjHn+A/CIaHAdOyEgTg2+/BcZSa/Gd0pTpeE6ISL1IvjNWRNeSswhP0DgAZ/ctiUQvBc7ErBlE=;FMcBnw0o7j5mVcBi9shvdQ=="
 ---
 
