@@ -2,7 +2,7 @@
 title: "Getting Started with Power BI"
 excerpt: "These videos will help you with getting started with Power BI. From Power BI Desktop to the Power BI service and items in between, this is a great way to get started."
 type: collection
-heat: 115
+heat: 105
 
 provider:
   name: Guy in a Cube

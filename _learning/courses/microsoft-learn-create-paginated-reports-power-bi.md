@@ -8,7 +8,7 @@ length: PT60M
 ratings:
   count: 2365
   average: 4.730655
-heat: 50
+heat: 130
 
 provider:
   name: Microsoft Learn
