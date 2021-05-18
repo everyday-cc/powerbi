@@ -4,7 +4,7 @@ excerpt: "Tired of creating calendars every time you are working with a new Powe
 originalUrl: https://youtube.com/watch?v=3SwfTrXZ80w
 type: video
 price: Free
-length: PT6M1S
+length: PT6M3S
 publishedDateTime: 2019-10-28T11:14:41Z
 heat: 50
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2YlJ2Ga0AZzg7bxCphQA+aJfPDUojXSOnaysiT1gTeaslH/wiV7Tw716aXihVDaQpxK3CV/pXRWepcT4hb6MaV66eqtSx9R6z1ei0xqbzrpLv9Z72FlpHpTq1b7mBTtnacKsc5j0yK6VW5M2SKypF9wCiOQhd6cAXInGCBHUL78X7vPrxci+LJi1pT1byw5sxMqVBR2oJ/BoKgDr3mb8XryHYw/fUVdL5Eidoe6HK370wFxe4C/BNR0v1zILTVGFKH1/1oaAEY1NpKmgz38iyCW/eqCR2GFNYQlB4aZgVWCWcBAdzRW4GSicEfoYQgA6M80qcoInqlDy6hQOwa/+Zf1L81tcFfVAzWgfkwfAj9nuucnwLpFKgOvwoRzEFT3IAbh3R2PGqVpw8IIX0mckX82xbgjWjwppb0I3Sf6Ei5U=;EhIobmhAf6bo5gKWeOSRQg=="
+secured: "ZODER3u/BGV3lptGD9HaV+yZxI+d0SD/MWz9YOUC1CzpKUkYCJj0c4hVYA4o8BNi7FpV1H4NKyBHD9MWTZTqt7Nsn41FXKEbwhpEYIJTk+siJBvXHQDyQiHusChU0GZqGpnZPyTMNmOw5i1n1dcAjCnDnm+oD5YUmE6OYKEPw2mFDSGbTAjEuGYSG0hagK16RXwB2tiMmFpUeQN389+nfRLn6XRpuT/Nk3aXw3ZmEy6nWilbi9jnZ2XrTG1XrMkwjzWaGDSzzuT3j4zi8/39Zgv3nJPpjoDTbhjYvnw0xBp5Juzhpgsa2aBN8E+Fa9nY1OAKIh0aS7H2/3ZUQz5vcgipNy+Zj7XfKljb9K18Ky59zAaQkhARZ2Bq8BB6MoxwGykPlQNwE9FrfWK9r9n03M8OQ11BdLJbRDX6AnZt8iI=;7a8IsSWd404o1ZtU02UFLA=="
 ---
 

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M45S
 publishedDateTime: 2019-03-07T16:00:21Z
-heat: 51
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bjERMKH2blw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "S+jHm2J85DmEj92wfrSIJvtLYJPDFFxYO53661DlvXwUFwrivVDHcpYyLO3+eEzZXlY1mLIJe9OByv0/Ug8pB0CV3CH80FZ7Lur/9f2/JZ5jBhzlBWE9Y0n30skOXZ2l916Co7zQinhfhfKEi7VjREj42qWrDZ2EFGjQr+oaP4mXEYUfyIExioI08MME1OTT2n5UcC1eXvlz3qPYFrUP6YW3ucbqKeS2U33owrby3vkey7DA+lzqLoiuALr9A56Ucs/6cLUWSAMuvBXAMYDBzaqQHvkPghjW7YbBvQea/NsJzOBVbI9KJdStMHmAdxxXdhjM8PslSwRFKBsLJcbZq+PcNjUFNl3QqMObMf2e70lKJhlixNv7UKJlhE64AdOLfLvHGj9eUAGTiCtlY0evj6tCQxrfNYZabogU1KkRg34=;vYY3w+PHEMkoPNiBEBJrNQ=="
+secured: "oRuYJREWcWkEsdY5cBN4uCQOJxmr2FL5ozt5+X/BJJ+r6Y/U2P1srAlJsS1lrKIsag90YKVuBpO0BhjiBJNJ8AxlWiFzFih9QiHQsi3buQNDHOv/4/zDW9YI558Oeq8uqy5P3QMTHMFSnpD6iW3/xud/JVI/4RaD6bSGKeBVxuv6zok7Z1U5DuX/7weNY78Qie0HLbKKWh0Be1k3H7bwqgGQBuop4m/WVHG1H0/J7NeHCnosXnKUJU5GZPLzv6PixQ8yL88jFMK/zzNvWoEL/xsoaOEsD4i/RdZSgYjsRBxvZ9NTQfZ9gDDzzmROnRsIf3tGfBBVI4HXeu86Id+P0cAHYRMbuEBBTiWIlAjhq4WWE4YZ9EhM1UJ634a12U0kRXyIqmmeP0RvLo6M6eMrBdyGjQRq5E4XuagwpU/QIsI=;EUGt1PvVpHmZUnEE8HxfDg=="
 ---
 
