@@ -4,6 +4,37 @@
   "page": 15,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-is-dax-purpose-to-create-measures-and-other-existential-questions-powerbichallenge-day-3-recap.md",
+      "title": "Is DAX purpose to Create Measures? And other Existential Questions #PowerBIChallenge Day 3 Recap",
+      "excerpt": "Join the 5-Day Challenge to build your first (or next) Power BI Dashboard. Accept the challenge at  http://web.learnpowerbi.com/challenge  Sign up for Day 5 Power BI Training: http://www.learnpowerbi.com/webinar  ⚡Power On!⚡ Avi / PowerBIPro / Microsoft MVP",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-is-dax-purpose-to-create-measures-and-other-existential-questions-powerbichallenge-day-3-recap/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-is-dax-purpose-to-create-measures-and-other-existential-questions-powerbichallenge-day-3-recap/",
+      "originalUrl": "https://youtube.com/watch?v=fZnp6FQt8Dc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fZnp6FQt8Dc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M25S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-07-31T17:29:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fZnp6FQt8Dc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-sumx-example-ican-rule-part-1-of-2.md",
       "title": "Power BI DAX Measures: Understanding Filter Context using SUMX Example (I.C.A.N. Rule) Part 1 of 2",
       "excerpt": "For Power BI DAX Measures, one of the hardest concepts to grasp is the Filter Context. Or is it? I explain the “Filter Context” with the 4-easy-step approach of the I.C.A.N. Rule; using a SUMX Example. I. Incoming Filters C. CALCULATE does it’s Magic! A. Apply relationships (filters flow Across relationships)",
@@ -925,45 +956,6 @@
         "Power BI",
         "DAX",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-dax-puzzle-1.md",
-      "title": "DAX Puzzle #1",
-      "excerpt": "A small DAX Puzzle to test your DAX knowledge. Be careful, this is a very hard one!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-dax-puzzle-1/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-dax-puzzle-1/",
-      "originalUrl": "https://youtube.com/watch?v=h-8IodunIkg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h-8IodunIkg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M20S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-11-07T07:01:05-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/h-8IodunIkg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     }
   ],
