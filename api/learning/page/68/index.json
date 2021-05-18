@@ -378,14 +378,6 @@
       },
       "publishedDateTime": "2019-06-20T20:44:15-07:00",
       "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TOml5Pbfp2w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "video",
       "price": "Free",
