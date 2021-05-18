@@ -2,7 +2,7 @@
 title: "Become Better with DAX- No More Struggles!"
 excerpt: "Learn how to create advanced DAX calculations by mastering the fundamentals."
 type: collection
-heat: 62
+heat: 63
 
 provider:
   name: Absent Data Channel
