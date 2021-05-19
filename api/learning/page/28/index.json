@@ -4,6 +4,44 @@
   "page": 28,
   "value": [
     {
+      "path": "_learning/videos/sqlbi-distinguishing-hasonevalue-from-isinscope.md",
+      "title": "Distinguishing HASONEVALUE from ISINSCOPE",
+      "excerpt": "This video describes the differences between HASONEVALUE and ISINSCOPE, which are two useful DAX functions to control the filters and the grouping that are active in a report. Article and download: https://sql.bi/662962?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-distinguishing-hasonevalue-from-isinscope/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-distinguishing-hasonevalue-from-isinscope/",
+      "originalUrl": "https://youtube.com/watch?v=8UNNo233eFc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8UNNo233eFc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-22T12:30:12-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8UNNo233eFc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-divide-performance.md",
       "title": "DIVIDE Performance",
       "excerpt": "The DIVIDE function in DAX is usually faster to avoid division-by-zero errors than the simple division operator. However, there are exceptions to this rule, described in this video through simple performance analysis.\r Article and download: https://sql.bi/15381?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
@@ -1094,44 +1132,6 @@
       "topics": [
         "Power BI",
         "Power BI Service"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-collaborate-in-microsoft-teams-with-power-bi-ignite-2020-features.md",
-      "title": "Collaborate in Microsoft Teams with Power BI - Ignite 2020 Features",
-      "excerpt": "Microsoft announced on Ignite 2020 the integration of Power BI and Teams and in this video I will show you how to get the new fetures and some of the old ones too.  00:00 Intro 00:30 Add Power BI app into Teams 01:00 Add Power BI app in Teams for the entire organization 02:00 Discover data sets from",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-collaborate-in-microsoft-teams-with-power-bi-ignite-2020-features/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-collaborate-in-microsoft-teams-with-power-bi-ignite-2020-features/",
-      "originalUrl": "https://youtube.com/watch?v=EB_falKvVc4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EB_falKvVc4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-05T04:27:35-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EB_falKvVc4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],
