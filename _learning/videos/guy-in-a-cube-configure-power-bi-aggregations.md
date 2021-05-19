@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Configure Power BI Aggregations"
 
-secured: "rXg/JXQLt/zewrwZ2/EG/4GA7h0B5z41KwkHCE30tmh/1QS+41koJQSo/S1NKH4sGsPzireiL4cDBw+/w6ZfjtCD0ds0ip9b4UT+h09g49NRz3kMc3JRpYfXHjW/edh2541MPAyKrS/gZFZ4wwk25w2sSI9EV9d04tPEFLunvI4vmaymui/TpvLpejph7pxSzIKYUQOyLl802N2wXlbHBglOUIqexF4uJ77PmNwYGlmubUw6l2S5P+dvk2FWqN9QhQXBZJ3pGtoFzgtIZoJ+KJtEbheawyYnN7049dXx/b0fiz7rwvtfLleWhj992Jv1TkdGg9YilwZStKh/rScXYAaAM2MxqgZz4o/RSmnJA19NxmscK7I9IfHCbgpU2YX5mWTsKPPhGiiQUG7dr9Ucn/dqhkGvzE/zX7qVKWDZhOM=;nL0pD/iia7ooMOa/cz3PjA=="
+secured: "pmJF+YXKVmVOk57dgoakaR4mp3zc+vs/wIJ6RMQplPCPUvvKTyf/+Z1YldjHhwTJPCL0QBwqcnWiy+xjE8+9DUfRfReKNQPVJSxYmYUMI9Zm3Zq/TYr3yx2lSH7kMoMSo2sQn+uB+X1pYIsqdm6TKzTtTX/0RKMmbeOjmfYehKtA/N01h2dZAJGLwKye4Afb1MXYkyz6hujMfOjrqcfDVvPSoYVutY81QG90gTpL1r4C7obdlK56wuD8zyt5HjcyPTEG1GsGOan6+BKYrronqFYSh0pYGIPFDMlt3/RkOl3AEWrC7B5WQsfz+Nt3FDwmPdDCyCnNscLc0HhKt19oT0AkT2AWhhSbyp+V8SQe2chEjrN8k+W7FTy30r87cgCWR16boQGKfA+Y1pR7dcM9lKUuCt4/p0rRndXeoizE7a0=;JPi02EY0Te8xu5WU/0Vgdw=="
 ---
 
