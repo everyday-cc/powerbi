@@ -4,7 +4,7 @@ excerpt: "As my regular readers may know, I am the co-organiser and co-founder f
 webUrl: https://exceleratorbi.com.au/what-is-power-bi-and-why-should-i-care/
 type: article
 publishedDateTime: 2021-02-20T04:11:14Z
-heat: 130
+heat: 50
 
 provider:
   name: Excelerator BI

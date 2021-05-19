@@ -4,7 +4,7 @@ excerpt: "Finally it is here!! Are you curious to know how you guys solved the c
 originalUrl: https://youtube.com/watch?v=l8eh6uOYa0g
 type: video
 price: Free
-length: PT30M55S
+length: PT31M34S
 publishedDateTime: 2019-02-19T21:34:36Z
 heat: 50
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5udOIzVj2TYEx+yRk1hXCVYTNM0AfELfAuygoUMeF77iGGjQAxwAC877JyW9Eg/t/dReIjd1NqaTROvJKrdSwOWY4js8pI8hRz69mfIvRNU6b+CsuTGJ4ZAwjOrssq5AcUnFK2SqX4HY5cSl86eob4M5z0dU17ErqmpoxqZZ/jm0+01TeJPp4vtvbyXS5X7Y5jmQ56nlibI53TOzPOJ9qJjLy2n/vmBweXPL2QZ30npXvm/QzVghG8KNG7eXsMX1YEdljM1vL5pHiQzLqfLth3h0xk+HwAZ3CsdYicBghNBeQ60zitF7vP3bxx7ir/LNmpnBhMNGR8Ros/PaHKj4vuqscPaNMYnTtwvk1U/d6NG0rSefONha5Qbg5f0NDHOLSyecSPXFQVC+oL4lzhpcaH60QlSONCY8A7ip00+QWQw=;H7/ROzdNYw4+fSq1m/iZJw=="
+secured: "MMAmf6rn6oh6tIZG34mPYBZhnn/JH5ojVckChEDok1r9Ef+mZ4N9qsd7slmv+kdZj8q7+MSqzLpXyEjFG0hKPTooZDD3qTrtYa3Z4Aw6ZchKA/+GfNf23xmlia56AuTK+EfQcS3Ljdy1t35R7mf6hvOXn4//gYK6AleMlfsyOAG3G7/vF7fBTmLOpDYrZ3j1yOEUgR4moAvdGL1OPVQex6HpzNAeCdaFHPfVgzbkcA2gPWfnl2XuZEGfE7vlMXYIWCbnfLqmoZFzSw4TDfjCMyjSMD58NtIBSlmPk6iYpq62YrObeAWOEadAVnB/yg5GPTnWhGgLE31FZ+l6lbic7A7riz4YSbfUKntCu+1FZ6V9arK2mY8wJmH5/SY2VxJAGgvjj2mh+POs+yqez8dS9IBuO4dGkam5dzMl3wq+5B0=;JBUvgeGyTGMJFf6HXbCgSg=="
 ---
 

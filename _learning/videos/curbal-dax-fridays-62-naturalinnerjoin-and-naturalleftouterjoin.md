@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT13M42S
 publishedDateTime: 2017-12-08T16:33:51Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mcQ_ZmuWvDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "dWfMVBkIsqt5CkhsfoNzx25dWFEjoi9IPYQeBbRyYAAwfQhkTjh8vCL6MG9VY0HFMSphm30OjjWiDAiKn+7QsMBifdAy6j8/9HkXvqve2ZR2091wXdHlaPFxmskEzk3inaZXqM0yudiRysEJerIcxlx59D9T7SWlJSnPQQdyNyiModAd5TtqbTeqEAQAqI31lZ4mY2iZCwZs4yTJj+waI2Y3bXWO8nB9igmR4GNv9h22oC2qmuikGJ4bOqvcW35Y15wEtd2/sHm2n01+hP+Bseb+nsZ7FUJJhamJExI4Qor2ywSWEhJtl81oESGyHLwNdjm9gS6Pe6kjM4Y3QZI4nxP3tLxccPWL+GyT92+MegMx/FXk2N37K2tru+J/1l9XOryYFy0vkOLmPAy0G7HHnK6XHvUnsK1lADkb9AJHNRo=;UDHTfTSs6XRp2Vlvvor+dg=="
+secured: "GIS+4f9unh6YnjwbJMVEVmV3b+if6/ss+v6LkpWqSJAF+prTIA8Ml4Q23LRIYjjQLUwBEw3d3bsoF8eCOsjGoEc+5tjM9Wm52gl7gnD7ArpneliyXMRukQLulx97AlBPfHoQfzi6Cw9KAM0sTI03vTuf6kuLCtm0ZNubN8cFHZfq5Xvx1Ik9QGInLAVQB4SQbfzmwnl+Eo3Gn2AItpuy5l8bsRkC4ikif5V9kRFS9fqL8V0KK1B5chva/ymXe3fZQQvRYHimvwje3lTTd8dfMt8qrcZsT25Y1bDfWT6Rke5Cslf6YHHtALHn2YhciCXh8hJ7PdvmiIt15U2yaI9LgsDnuumF8C1PxDY3B4m8ioKMu1sfQRkjqzi7ejFm95jl6j88NL3LpekHOVw0q3Gz/nX1Hd6trmiDc79OEQppQSc=;LxUHpFGWbTn7huxU1lVloA=="
 ---
 
