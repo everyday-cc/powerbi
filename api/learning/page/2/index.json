@@ -1221,6 +1221,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-mastering-power-bi-bookmarks.md",
+      "title": "Mastering Power BI Bookmarks",
+      "excerpt": "Want to get the most out of Power BI Bookmarks, selections and buttons? Adam goes through the options to help you master bookmarks! Taking your reports to the next level!  Bookmark Documentation: https://docs.microsoft.com/power-bi/create-reports/desktop-bookmarks  Download Sample: http://guyinacu.be/masterbookmarkssample",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-mastering-power-bi-bookmarks/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-mastering-power-bi-bookmarks/",
+      "originalUrl": "https://youtube.com/watch?v=xCMqWEvSkAs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xCMqWEvSkAs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M5S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-14T03:14:24-07:00",
+      "heat": 74,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xCMqWEvSkAs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-03-power-bi-reporting-part-2.md",
       "title": "Power BI Paginated Reports in a Day - 03: Power BI Reporting - Part 2",
       "excerpt": "In this video, we demonstrate viewing two reports, one a Power BI report, and the other a paginated report.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports.",
@@ -1355,199 +1393,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/curbal-dax-101-by-curbal.md",
-      "title": "DAX 101 by Curbal",
-      "excerpt": "New to DAX? Start here. This playlist contains all the introductory videos for learning DAX.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/curbal-dax-101-by-curbal/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/curbal-dax-101-by-curbal/",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/curbal-1-dax-fridays-101-the-basics-of-the-dax-language.md",
-          "title": "#1 DAX Fridays! 101: The basics of the DAX Language",
-          "excerpt": "In today's video I want to go through the basics of DAX and explain basic pitfalls that you will fall into if you come from excel or are a business user. #daxfridays #dax #curbal   Have a great Friday!  Calculated column vs measure video: https://www.youtube.com/watch?v=SmXLgEHXSGc  Vertipag (DAX engine",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-1-dax-fridays-101-the-basics-of-the-dax-language/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-1-dax-fridays-101-the-basics-of-the-dax-language/",
-          "originalUrl": "https://youtube.com/watch?v=DwuAypulTLA",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DwuAypulTLA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT35M21S",
-          "provider": {
-            "name": "Curbal",
-            "domain": "curbal.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2019-06-07T05:29:16-07:00",
-          "heat": 65,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/DwuAypulTLA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/curbal-2-dax-fridays-101-introduction-to-filter-and-row-context.md",
-          "title": "#2 DAX Fridays! 101: Introduction to filter and row context",
-          "excerpt": "Are you new to DAX and want to learn what those things called filter context and row context are? I will attempt to do just that in today's video. Let me know how I did in the comments :) #dax #powerbi #daxfridays #curbal  Happy friday!  DAX 101 playlist: https://www.youtube.com/playlist?list=PLDz00l_jz6zwdC_xdTp_QANkHYIzs1BJG&disable_polymer=true",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-2-dax-fridays-101-introduction-to-filter-and-row-context/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-2-dax-fridays-101-introduction-to-filter-and-row-context/",
-          "originalUrl": "https://youtube.com/watch?v=xV-KwuSDFMQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xV-KwuSDFMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT24M14S",
-          "provider": {
-            "name": "Curbal",
-            "domain": "curbal.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2019-06-28T04:30:46-07:00",
-          "heat": 60,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/xV-KwuSDFMQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/curbal-3-dax-fridays-101-5-things-i-wish-somebody-told-me-when-i-started-learning-dax.md",
-          "title": "#3 Dax Fridays! 101:  5 things i wish somebody told me when I started learning DAX",
-          "excerpt": "3# Dax Fridays! 101:  5 things i wish somebody told me when I started learning DAX  I was completely clueless when I start learning DAX, so here are my top 5 things I wish somebody told me back then.  What are your tips?  Here you can download all the pbix files: https://curbal.com/donwload-center",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-3-dax-fridays-101-5-things-i-wish-somebody-told-me-when-i-started-learning-dax/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-3-dax-fridays-101-5-things-i-wish-somebody-told-me-when-i-started-learning-dax/",
-          "originalUrl": "https://youtube.com/watch?v=tB5BDAzTHSM",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tB5BDAzTHSM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT7M30S",
-          "provider": {
-            "name": "Curbal",
-            "domain": "curbal.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-02-14T03:15:30-08:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/tB5BDAzTHSM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/curbal-4-dax-fridays-101-what-is-context-transition-in-dax.md",
-          "title": "#4 DAX Fridays! 101: What is Context transition in DAX?",
-          "excerpt": "You  heard it before right? Context transition, but what is it? In this video I explains the basics, and .... it is easier that what you think!! Yey!!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-4-dax-fridays-101-what-is-context-transition-in-dax/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-4-dax-fridays-101-what-is-context-transition-in-dax/",
-          "originalUrl": "https://youtube.com/watch?v=03E0f-RyRn4",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/03E0f-RyRn4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT6M19S",
-          "provider": {
-            "name": "Curbal",
-            "domain": "curbal.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-06-03T01:54:55-07:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/03E0f-RyRn4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        }
-      ],
-      "size": 8,
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DwuAypulTLA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     }
   ],

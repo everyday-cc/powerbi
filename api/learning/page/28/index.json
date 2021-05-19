@@ -4,6 +4,45 @@
   "page": 28,
   "value": [
     {
+      "path": "_learning/videos/sqlbi-disabling-auto-date-time-in-power-bi.md",
+      "title": "Disabling auto date-time in Power BI",
+      "excerpt": "This video shows how to disable the date table automatically created by Power BI. Article and download: https://sql.bi/137706",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-disabling-auto-date-time-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-disabling-auto-date-time-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=xu3uDEHtCrg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xu3uDEHtCrg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M51S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-16T08:30:13-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xu3uDEHtCrg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-distinguishing-hasonevalue-from-isinscope.md",
       "title": "Distinguishing HASONEVALUE from ISINSCOPE",
       "excerpt": "This video describes the differences between HASONEVALUE and ISINSCOPE, which are two useful DAX functions to control the filters and the grouping that are active in a report. Article and download: https://sql.bi/662962?aff=yt",
@@ -1093,45 +1132,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-change-parameters-in-power-bi-service.md",
-      "title": "Change parameters in Power BI service",
-      "excerpt": "In previous videos I have shown you how to create parameters in Power BI Destop. Here are some examples:  https://www.youtube.com/watch?v=0B3kmAsEJHY  I have also shown you how to do it when importing data from services, for example wordpress: https://www.youtube.com/watch?v=b0DUnceb68I  In this video",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-change-parameters-in-power-bi-service/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-change-parameters-in-power-bi-service/",
-      "originalUrl": "https://youtube.com/watch?v=zeeiSFdWCrY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zeeiSFdWCrY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M16S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-07-14T12:19:05-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zeeiSFdWCrY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Service"
       ]
     }
   ],

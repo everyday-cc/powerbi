@@ -4,6 +4,44 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-using-microsoft-forms-data-with-power-bi.md",
+      "title": "Using Microsoft Forms data with Power BI",
+      "excerpt": "Are you using Microsoft Forms to capture information and want to pull that into Power BI? Also to be able to refresh that data? Patrick has you covered and gives you some pointers.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-using-microsoft-forms-data-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-using-microsoft-forms-data-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=XBFVDedwLiY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XBFVDedwLiY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M40S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-17T08:00:22-07:00",
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XBFVDedwLiY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-how-to-use-power-bi-parameters-to-create-dynamic-power-bi-reports.md",
       "title": "How to Use Power BI Parameters to Create Dynamic Power BI Reports",
       "excerpt": "👉 Access the complete Power BI Parameters Playlist here: https://www.youtube.com/watch?v=twBUmqVOGgg&list=PL7GQQXV5Z8edKDvKYzglGfCwKo3HvTToS 👉 Download Power BI File in Video at https://web.learnpowerbi.com/download/  There are two kinds of Power BI Parameters. - Power BI Query Parameters: By changing",
@@ -1774,44 +1812,6 @@
       "topics": [
         "Power BI",
         "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-building-relationships-between-tables-when-both-have-duplicates.md",
-      "title": "Building relationships between tables when both have duplicates",
-      "excerpt": "PowerPivot and Power BI Desktop only allow the creation of relationships between tables when one of columns forming the relationship does not have duplicate values.  In order to relate these two tables to one another, what we need is a third table with all distinct values from both tables. In this tutorial",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-building-relationships-between-tables-when-both-have-duplicates/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-building-relationships-between-tables-when-both-have-duplicates/",
-      "originalUrl": "https://youtube.com/watch?v=vAvQ8pCnWDk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vAvQ8pCnWDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M14S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-24T13:47:45-07:00",
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vAvQ8pCnWDk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

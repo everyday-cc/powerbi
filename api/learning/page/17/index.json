@@ -4,6 +4,84 @@
   "page": 17,
   "value": [
     {
+      "path": "_learning/videos/curbal-dax-fridays-186-calculate-vs-calculatetable.md",
+      "title": "DAX Fridays #186: CALCULATE vs CALCULATETABLE",
+      "excerpt": "Do you wonder what is the difference between calculate and calculatetable dax fucntions? Then you are in the right place.  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-186-calculate-vs-calculatetable/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-186-calculate-vs-calculatetable/",
+      "originalUrl": "https://youtube.com/watch?v=P4B9FbzrotM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P4B9FbzrotM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M18S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-02T03:53:33-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/P4B9FbzrotM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-201-how-to-create-virtual-tables-using-dax.md",
+      "title": "DAX Fridays #201: How to create virtual tables using DAX",
+      "excerpt": "In this video I will show you how you create virtual tables in DAX to do calculations on them.   Happy Friday!  The  sample file is available for download here: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-201-how-to-create-virtual-tables-using-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-201-how-to-create-virtual-tables-using-dax/",
+      "originalUrl": "https://youtube.com/watch?v=W4OMwdZNRG0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W4OMwdZNRG0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M2S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-26T04:08:35-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/W4OMwdZNRG0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-25-wrong-grand-totals-in-power-bi.md",
       "title": "DAX Fridays! #25: Wrong Grand Totals in Power BI",
       "excerpt": "In today's video we will go through why sometimes Power BI grand totals dont add up and what to do to fix it.  Link to Power BI file used in the video, get file #41 on the community downloads folder: https://curbal.com/donwload-center  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT",
@@ -1026,74 +1104,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Y88s8Vra_1g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-want-power-bi-qa-to-return-better-results-heres-how.md",
-      "title": "Want Power BI Q&A to return BETTER RESULTS? Here's how!",
-      "excerpt": "We show you how to tune Power BI Q&A to get better responses to your questions. Just a few clicks to make things better!  Download Sample: https://guyinacu.be/qandatoolingsample  *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-want-power-bi-qa-to-return-better-results-heres-how/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-want-power-bi-qa-to-return-better-results-heres-how/",
-      "originalUrl": "https://youtube.com/watch?v=x1VbHE4ROJs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x1VbHE4ROJs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M20S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-01-20T19:54:15-08:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/x1VbHE4ROJs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-control-chart-create-automatically-improve-processes-continuously-.md",
-      "title": "Power BI Control Chart: Create Automatically, Improve Processes Continuously 📈",
-      "excerpt": "I'll show you step by step how can you create an automatic control chart in Power BI.  👉 Download Power BI File in Video at https://web.learnpowerbi.com/download/ • Control Charts are Statistical Process Control tools used for Continuous Process Improvement in Six Sigma.  • Power BI Control Charts can",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-control-chart-create-automatically-improve-processes-continuously-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-control-chart-create-automatically-improve-processes-continuously-/",
-      "originalUrl": "https://youtube.com/watch?v=1UYtG9jdegU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1UYtG9jdegU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M21S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-09-05T14:25:25-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1UYtG9jdegU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

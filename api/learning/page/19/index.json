@@ -4,6 +4,84 @@
   "page": 19,
   "value": [
     {
+      "path": "_learning/videos/curbal-create-a-table-from-values-in-power-query-11-magic-mondays.md",
+      "title": "Create a table from values in Power Query #11: (M)agic (M)ondays",
+      "excerpt": "In todays video we will learn how to create tables from values in columns using Power Query in Power BI.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-a-table-from-values-in-power-query-11-magic-mondays/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-a-table-from-values-in-power-query-11-magic-mondays/",
+      "originalUrl": "https://youtube.com/watch?v=5cz2NhYlIuo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5cz2NhYlIuo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M19S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-07-11T12:17:23-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5cz2NhYlIuo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-create-dynamic-query-parameters-in-power-bi-desktop-power-bi-tips-tricks-47.md",
+      "title": "Create Dynamic Query Parameters in Power BI Desktop  - Power BI Tips & Tricks #47",
+      "excerpt": "Create Dynamic Query Parameters, filter your reports with them and create a template using Power BI.  Links mentioned in the video:  Chris Webb blog: https://blog.crossjoin.co.uk/2016/08/30/data-driven-power-bi-desktop-parameters-using-list-queries/  Rio Summer Olympics Report: https://www.youtube.com/watch?v=tZXY9RZwd3U",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-dynamic-query-parameters-in-power-bi-desktop-power-bi-tips-tricks-47/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-dynamic-query-parameters-in-power-bi-desktop-power-bi-tips-tricks-47/",
+      "originalUrl": "https://youtube.com/watch?v=0B3kmAsEJHY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0B3kmAsEJHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M11S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-07-06T04:25:26-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0B3kmAsEJHY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-112-remove-blanks-from-hierarchies-with-isinscope.md",
       "title": "DAX Fridays! #112: Remove blanks from hierarchies with ISINSCOPE",
       "excerpt": "In today's video I am going to show you how you can remove blanks from hierarchies using the DAX Function ISINSCOPE.  I have covered ISINSCOPE before with a more difficult example, so I hope this video will explain it in easier terms and with a useful example.  Link to the previous ISINSCOPE video: https://www.youtube.com/watch?v=sSUCyps_1O4",
@@ -1090,84 +1168,6 @@
       "topics": [
         "Power BI",
         "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-how-to-refresh-web-sources-in-power-bi-service.md",
-      "title": "How to refresh web sources in Power BI service",
-      "excerpt": "If you have connected to a web source in power bi desktop and they try to connect to the service, you have probably gotten this error:  \"You can't schedule refresh for this dataset because the following data sources currently don't support refresh: Data source for Query1\"  In today's video I am going",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-refresh-web-sources-in-power-bi-service/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-refresh-web-sources-in-power-bi-service/",
-      "originalUrl": "https://youtube.com/watch?v=fstsQMZiHME",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fstsQMZiHME\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M33S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-08T03:23:32-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fstsQMZiHME/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query",
-        "Power BI Service"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-how-to-translate-power-bi-reports-or-any-text-live.md",
-      "title": "How to translate Power BI reports (or any text) Live",
-      "excerpt": "Have you ever had the need to work with a Power BI file in a different language that those you know? Or travelled somewhere where you couldnt speak the language?  In today's video, I will show you how to translate any text live. No more language barriers :)  Here you can download all the pbix files:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-translate-power-bi-reports-or-any-text-live/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-translate-power-bi-reports-or-any-text-live/",
-      "originalUrl": "https://youtube.com/watch?v=takLaQs5VCE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/takLaQs5VCE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M48S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-08T01:35:24-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/takLaQs5VCE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],
