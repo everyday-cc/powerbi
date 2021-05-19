@@ -3,7 +3,7 @@ name: "Reza Rad"
 bio: "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI "
 location: New Zealand
 type: "profile"
-heat: 78
+heat: 82
 
 affiliation:
   name: RADACAD
@@ -14,7 +14,7 @@ website: https://t.co/mnW39vaMYS
 twitter:
   username: Rad_Reza
   url: https://twitter.com/Rad_Reza
-  followers: 7301
+  followers: 7302
 
 linkedin:
   url: https://www.linkedin.com/in/rezarad/
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Reza Rad"
 
-secured: "vl8WTAhOWBx/GopkURLEOm+OFbQr4240DKZS2gbH19Jui2edwmi0RU7AwgdoxHpSuZfC1a41wFX9A2rLx3H5sLXyFO3O/WojWg3CaPqVcya/R7b7QogvwsizRsixS/l6d70WFEBzti8xAAuZrTSEP2J0OQiSoWlHsP3k/bhkJok29OqzzjUVXPTXTSxbDfzV5DrKUgByU9MQy7lWzB9sHnUu5tUOKvcpWgiragvCTLrPmijLqIMhNdCCqsvTVzS12PFHBKOmCw1sQAJGItRzgvKnN93xMeaoeQWMewgoAI0dkf9OPXfIz6vr80AQA8D0YAEebEAHz1pTO2XaUjy/J7UBNDjn16n+Fd9vpojGQTIyzNiBW3QwP6oLZow1vmBDRZf+vmMZpJOe7VhtKyzQe4k+3M5JdYUyHJhS+ynpAQk=;pjHjH5Wpiqs0H0fKqFbXzA=="
+secured: "mpoOrSKxoWZJ5a9RCp2yPoxP/0FdCK1SZK5mkAbEEWhjSWF1gso5SCajT0Hl2A0MewPQrBRphP0VuwpUUcgVPXwIjcIekP4zV3JBfX6h+hoar4wTYVqcX/lrFBw9H3VhnMgDKBqfRTo1E9UVhYDMwGPSy6vDajKIwxq14FvoV8i/EiVTmt/gobmddhiLUocJwPMh9EfYiMj9zB2CTDhsarklAOtybNN/3AYQ5/4WrCes4IUNACp4Rb/Np3FqnnC7bzRJqkdQ7MKRCA4v3Vcl9Tk4hfHP4OOjahZy+Se/fUUGgOUHkZYQPydVx2Fq6OxcYOE62/HuEUIq/26J42dV3T9X71piJHJEXkKftuURQbN/Pjt0ixggDaVbc36v3OS0/kThJU4dDX6ElIZIWqPRqUL9sqzpgHasSZ2MHRmkcp4=;1eYVU5GlmQl2SOPCpdCjrQ=="
 ---
 
