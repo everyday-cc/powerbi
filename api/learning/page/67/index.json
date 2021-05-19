@@ -288,6 +288,14 @@
       },
       "publishedDateTime": "2018-12-05T03:34:06-08:00",
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QFmsSRfu7gw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "price": "Free",
