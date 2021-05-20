@@ -1313,7 +1313,7 @@
             "domain": "absentdata.com"
           },
           "publishedDateTime": "2020-07-25T19:59:10-07:00",
-          "heat": 52,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/B6w0IeLMZok/hqdefault.jpg",
@@ -1425,7 +1425,7 @@
         }
       ],
       "size": 11,
-      "heat": 63,
+      "heat": 64,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/B6w0IeLMZok/hqdefault.jpg",

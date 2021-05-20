@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M49S
 publishedDateTime: 2020-06-01T20:37:48Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ipmip6ARnks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 360
     isCached: true
 
-secured: "f4ZfTxZfspn9VDepAmckW/d3qkNN7zQdzK5xFRhRLe9WAAj03OaVDrXXpJRmaWrUCjKG+vGFUkymIG61VBfEc5Kl1136LZDt3Me1FcGpt7dFCdOrwBNMmK/35qLATNvgPsA+VviL0qbj8JLM6e3bPJIYh4dl/O2xeW/+4UAp6mAtOM6PkfKeWR5pOppcvR7zpzrIK6fSi3seczlKPvz56uULBDCbswyyDdZUpi2+CR2MUZ5mg1o2iW4/4O5U/jAmBtvjf2rLu+LQXBy38Fh2wl9b5nRMT3f3tV57IOycxguoFAjYDp+bpU7SCOoSVm8MXK1redwERNxWjVMHHO1Axn59MM9UdaW4dVJC6wL9VH17T1TEFjC0pFy86SvW+aSBJhoV2b3mO/nwFrSMhdkeobjFpo0mD5GZn5axogfcork=;bKrvnNdkoyhlcRCTtusrzg=="
+secured: "PNCMissybio+m3FjxHsF+x83opdE5iZFVJ6lOV/yF2QdLBnkdffcnhUueHroyLvya66Kja4decYNCP8GIt6MuhdaR4Fcn9vDdIK8xXYuDbHwVDAwmsewE/9iXvCH04wi/BFEj12cU/odY65J+7ny1Tq7nzq5lXZMDhXOk6PhGTLimnGplj/dyeF2MKGYwfyvlneVtP9UT/kXremohqhwsrjdfDuE09E+FQAA92UfmWZPFUb0BloGjiEmQZrQJ/bm8+X9I33hiv0VLj0SCdtXTv6kXPLx+csy8J++iGqioSE8KXuSRSfSZP/SLSRxQNcxSXmMYKeYMfIFi9/Sp9PsyPB6kJK5JfrJtPoTiE2EWuUBrLYkSAzcoc9cJ5zZ0ul36os19rZk6nv7AVcsCqwU5Bo1B5ItX13xIC9fU3LrnKs=;wr5IrSvKz3cscIZnMu+X7g=="
 ---
 
