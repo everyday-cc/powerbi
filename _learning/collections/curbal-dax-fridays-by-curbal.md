@@ -234,6 +234,7 @@ items:
   - videos/curbal-dax-fridays-206-9-dax-unwritten-rules-that-will-give-you-away-as-a-beginner-
   - videos/curbal-dax-fridays-207-ifeager-what-are-eager-evaluations
   - videos/curbal-dax-fridays-208-open-orders-in-dax-events-in-progress-time-intelligence
+  - videos/curbal-dax-fridays-209-allocation-calculations-in-dax-generate
 
 topics:
   - Power BI
