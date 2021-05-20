@@ -4,7 +4,7 @@ excerpt: "I blogged about how to Build a P&#38;L With Power BI back in April 202
 webUrl: https://exceleratorbi.com.au/building-a-pl-in-power-bi-part-2-percentages/
 type: article
 publishedDateTime: 2021-03-22T19:55:00Z
-heat: 130
+heat: 50
 
 provider:
   name: Excelerator BI
