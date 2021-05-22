@@ -4,7 +4,7 @@ excerpt: "Join me in a 5-Day Challenge to build your first (or next) Power BI Da
 originalUrl: https://youtube.com/watch?v=ITrlCO8lLBE
 type: video
 price: Free
-length: PT2H40M25S
+length: PT2H40M24S
 publishedDateTime: 2018-03-09T22:37:05Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "udFiiC/fZ2Hc6MxBpeW5LdvzbU4XzOCBdicMWQouZXzuoiUZP4LC4DZ4/MXpY0C6BzrItTEhBQfkAE2NPv9fmY9/SF3GPRkL/duxwfvtI4LRnia2jvvfMbWY2yjDNR57EnQT6y4n7Hz+qXjdk+PbrmsM77XVvfULMtSQ/tz5RP4dIMIIckE9EmrNpjIz7d/KtWft59s/7Nrf+qayyipwqf/sj1Yfd3qswFHPc3PgOEaCgp/q7JzFK9b9M7WbgeTEfVBFmtKO1ioWdF/Aw57FhfqJcuVmtPUyaYGDxmCGjUty9wpGgYOUCz4U1MYjrWLl+3iGgmqe9ZdSTliZ/t5R8o5WlEzMX6FPsocGvbu7YNUtAskeSYaMpSmUzkxwNMGF/3ZFAUcW2CEJ8D6NWy4V5wKKYnxKOCrhvzMmQmO2plg=;9mLYSFDBEuPZdf+6oA5F3w=="
+secured: "+Cs/z1rsX2GgEhd3dafl49dNxQTL0mJaQ6ZkTfnOQEIj9Nm6ZMYuYiVNUNBLwODhv3dFs7O7K3a22ToCztyRR8i6QJ/iVYWaHNaVku0nHm1cAzW1UgmFcVjJXDsEgA261n9iG8GhZUfJzZT65apCpGNNJL8ZwKYigbOIDALs+DZ7qRoB5LiqB7eGu96uNpWP0Swj2MU/eVNMu2Pg8dMIggrhcP4enVeWBFp4sLUbt0QuSK7BSglpcmk9Tg1HVoPHInO0vvEXP8uR50p9y0pRCUV189zByE1OsUE/d1a02aQMquHTiYHmcpQcFr8fsJTomvF8HEgwz5DA5B6LOAB+rFliDmiHqh7dDosZSnibib7dP6l8AveHm/Atqhi6VgCX/gKSPCmsfmDVpqz2fUXhBvvKAFJn7vUIUgo8Z77j17o=;Ffss0UyzuhtVn/rNybwo3w=="
 ---
 

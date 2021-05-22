@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M48S
 publishedDateTime: 2018-04-20T08:08:23Z
-heat: 62
+heat: 61
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ewjRItLlgG8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5iHPqnCYqUJXlhMaksLtpQWsEuySc5Z07RFBi+E+rQE91WrkpTbBhgndyM0SPlZFpdvoHdruXISDVyZud41pSxfXk2C2gAOG5EqE8rVzSu8PdxXI8mAVIJ3NAq3YIt2OWc6sDAKgFHomCEt3ubyM2GosdtKUyYMV2fvl1j+3hx5KG8Iwm/0AjAPpVsT1ZBTIIS/hx0pM4DKes0xJUq6aAn5bnlmgV/QKA8ziYpXDnE6lV7KQFuXt6Z0Qs4VKTj5E7JaIqNGvqxujc9aT+soTutaA7wSiwla9IPWar8C3suAR2orUOkFmVRzQYFybeRTIRp+W6JCLd31hZcnKAuzHdyYp5FQ86fGBhcc2VnKI83OykzR9mtlN2DQ7Lwi5VsVuwNOa29EyFh9A9JitFC7qfXID2rvy/vB1IGGYWLSGu18=;uEO5FeAoAMNb30E9ctbZRA=="
+secured: "sfizevieTVlDdoJpxlZq8J/Th0kqtG+QiLICveNBpM9738dnuWAhNZv+RFXQOPERmDm1EuF9plYV7jQXHTU0t3SBpWNeEq2J94J1DqALS1Lv0TFB3GjIhXRYikEHdYr8eGwkN37fqN50FRGLV2KUagwUetbKFxXIOBVqZxl5kC/R4loZbSNY/HXYR5Ep3kZqGYhzEer0kGucJICZG37mVKRzUOkl/ZOoJFk1R1wJvb1rPEh3ffA3YDBSpmX6wD6PMN5AMGRTQ8A+HczhBbPs3y7FGmEFgrSUscm3VMmHz+4dSAHU6L1v0/rT+33+5TDlzwtknPgyb4SVp8K3NatO0dgqFXdpFbnbPjFNu02UvOPTPxWlvYUbn5f8wA6bDVk8CsTDkezAnmbVetdbvHVp9p0QGq2gTVeg63WlrvwpHZw=;+BJFdCFS+q3brLpWyhGmgQ=="
 ---
 
