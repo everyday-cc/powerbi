@@ -4,6 +4,36 @@
   "page": 74,
   "value": [
     {
+      "path": "_learning/videos/radacad-azure-ml-with-power-bi-sanddance.md",
+      "title": "AZURE ML with Power BI  SandDance",
+      "excerpt": "Learn how to use Azure ML and Power BI SandDance Visualization",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-azure-ml-with-power-bi-sanddance/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-azure-ml-with-power-bi-sanddance/",
+      "originalUrl": "https://youtube.com/watch?v=eOjFGduG8P0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eOjFGduG8P0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M23S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2017-06-06T03:06:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eOjFGduG8P0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-be-careful-when-merging-on-text-fields-in-power-bi-using-power-query.md",
       "title": "Be Careful When Merging on Text Fields in Power BI Using Power Query",
       "excerpt": "Merging two tables in Power Query is one of the most useful transformations to combine data from different datasets, and also create a flatten data structure. However, if you use a text field for merge, then you might see some unexpected results. Here in this video, I share some important considerations",
@@ -886,37 +916,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-image-tag-in-power-bi-service-data-flow.md",
-      "title": "Image Tag in Power BI Service (data Flow)",
-      "excerpt": "In this short Video, I explain how you able to do image tags and description in the picture in Power BI Service using AI Insight and then see the result in Power BI Desktop  let   Source = Table.FromRows({   { Web.Contents(\"image address 1\") },   {Web.Contents(\"image address 2\") },   {Web.Contents(\"image",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-image-tag-in-power-bi-service-data-flow/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-image-tag-in-power-bi-service-data-flow/",
-      "originalUrl": "https://youtube.com/watch?v=EArUTBChsFc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EArUTBChsFc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M7S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-08-01T17:33:47-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EArUTBChsFc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Service"
       ]
     }
   ],
