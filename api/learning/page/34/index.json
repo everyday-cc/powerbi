@@ -4,6 +4,36 @@
   "page": 34,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-add-single-apply-button-to-the-filter-pane-to-apply-all-changes-at-once-in-power-bi.md",
+      "title": "Add Single Apply button to the Filter Pane to apply All Changes at Once in Power BI",
+      "excerpt": "In this vlog, we will talk about how we can optimize the filter pane for Query Reduction by Applying all the filters at once in the Power BI. This is the newly rolled out feature by Microsoft during May 2020 Power BI Desktop Update.  This is a report level setting which we need to enable for each report",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-add-single-apply-button-to-the-filter-pane-to-apply-all-changes-at-once-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-add-single-apply-button-to-the-filter-pane-to-apply-all-changes-at-once-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=g50cag8Ipro",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g50cag8Ipro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M25S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-25T20:18:18-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/g50cag8Ipro/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-add-zoom-sliders-on-axis-in-power-bi-visual.md",
       "title": "Add Zoom Sliders on Axis in Power BI Visual",
       "excerpt": "Sometimes, there is a need to examine a smaller range of data in a chart without using any additional filters. Zoom sliders will help us a lot in those scenarios. During this video, we will learn how we can add Zoom sliders on Axis in Power BI. Zoom sliders give report creators and consumers an easy",
@@ -398,23 +428,23 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-format-negative-numbers-with-red-brackets-in-power-bi.md",
-      "title": "Format Negative Numbers with Red Brackets in Power BI",
-      "excerpt": "Welcome to one more Power BI DAX Tip. During this session, we will learn how we can format negative numbers with brackets in Power BI. We know that sometimes we need to represent negative numbers in brackets, and we have a question about how to achieve that in Power BI. We need to create a measure to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-format-negative-numbers-with-red-brackets-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-format-negative-numbers-with-red-brackets-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=VU-4CH_X-oU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VU-4CH_X-oU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M4S",
+      "path": "_learning/videos/dhruvin-shah-external-tools-in-power-bi-by-alex-powers-microsoft.md",
+      "title": "External Tools in Power BI by Alex Powers (Microsoft)",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-external-tools-in-power-bi-by-alex-powers-microsoft/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-external-tools-in-power-bi-by-alex-powers-microsoft/",
+      "originalUrl": "https://youtube.com/watch?v=Yj7WECx5-go",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yj7WECx5-go\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M1S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-03-04T20:49:21-08:00",
+      "publishedDateTime": "2021-03-29T22:46:34-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/VU-4CH_X-oU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Yj7WECx5-go/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -871,37 +901,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/0cNzKuXBebM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-simple-filters-115-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Simple Filters - (1.15) Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-simple-filters-115-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-simple-filters-115-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=ixqou88ncrc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ixqou88ncrc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M9S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-05-01T03:53:01-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ixqou88ncrc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
