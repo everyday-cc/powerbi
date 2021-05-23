@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT16M47S
 publishedDateTime: 2018-05-04T16:23:17Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1vQ0HLNZ06A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Common Data Service for Analytics (CDS-A) and Power BI - an Introduction"
 
-secured: "SY4PS+K0YsOXQdNvUWCh1SvNfmhsLFznfGYaGp3+8ayXZdacU3b8KQGIPJzob4O3IQB7TmcJcQ7QMGQiPPg55WyNUj0P6tQHBhYqXV6pkvNHC6APEoHxza5pg/0aem1Clv6qE6vezFVuppIRxW+JnM7inZWixJ/9VvSb24tOmmNfxjo1nQoDy+wvEHqj4BLg8TLyiJTpnd60OiJUwf2FsQ5PwQL5ia22B+PT08zFsOItYElUAS3I7T/w+pspIeF7YkCKV5J4xalStdBO2C6uj2oEjJEjYguu3IN2EX2yivi/LlnMRc+lnIovyfCOnjyl18anBACBU4ju4hO7IXtgJQoScGFg2yDPSUlMYpIrjEp7Oe6nLLGN00tDGubva8paFsgLIhSduByM7QVsyDl2ORBa9MJH7YVRyt1haRHESRw=;BP9fgrOzmgoQs2qH2qR5vA=="
+secured: "z3FlwqkQlwb9nCwcFfKaVZaLdqh4FsuaDuFtFSi4mex1qPdyn9mPdX83uHS/NhL4oyPhvaKM0NQgLJixiulQCaw11SlZhj4xG/DxuMwC5feV4LPujHzsF8gI3pfZNfiSMzh4zi6EAbL3vFv9QJxf2P9YpJq4dSIHqVVXXH/mvyisb+Diblqd/X/mMn4BM8UBSbD4M4LgPaZke+P92l4XsWiGToS9Bf2tIJsj1itEpgPdaUAccEx8id1S65Igp8XY5MAM5YuXGhvLiWz8EnPSjIfe6ulBDULvSoae4vrcNC+SvRSDkc0vQD7aPQNebhFIMcJBXiXUnUaphWVS37SoaS+gXa9MTQAEOKpPTbOZ1JekaKoJ8sQD7HlOj9+9Hl+6qoJPmB5nD1/Di/e4gz1QaaQ+VnmTBhCWDKIATbPUSdU=;S4i0H8iduUlMTG+dELdLSQ=="
 ---
 
