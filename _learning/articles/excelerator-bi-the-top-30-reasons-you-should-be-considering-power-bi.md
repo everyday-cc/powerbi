@@ -4,7 +4,7 @@ excerpt: "Original Post: Feb 2017 Updated: May 2021 I first wrote this article b
 webUrl: https://exceleratorbi.com.au/top-30-reasons-you-should-be-considering-power-bi/
 type: article
 publishedDateTime: 2021-05-18T20:55:16Z
-heat: 131
+heat: 130
 
 provider:
   name: Excelerator BI
