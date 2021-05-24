@@ -4,7 +4,7 @@ excerpt: "Create a dynamic 7 day or 30 day rolling average wiht DAX What-IF para
 originalUrl: https://youtube.com/watch?v=gfdEUSMJHS4
 type: video
 price: Free
-length: PT7M54S
+length: PT7M53S
 publishedDateTime: 2020-07-26T03:26:24Z
 heat: 51
 
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "PC29QpF7fDVNsfi0EtI2j4V2qNAhqbQfGp+HAUtWF471vo56kUwtL/UuEY9Clv24Mq2uzoDjZ8ZQHKSWdAbhvdx3CcQ+hzSeiDNK2xBuMMzDKS096z9lNn5QXMi6kJxOBV+D/lK6HNamCfQ5FE1FvyF9yGu8R92EuwzTfOhbESqcaDwEu7pBPo8QavowKXM0fpXK1GULh7PkzSwqt0ntXKfJC+fmdJubeYi76iA28T5xB/OAAquD0flMZmt3HqsTi/KicD8yWm1sPXribwpT0Ha4MqUwARDjFZx8LFOOAmfDygDZpX/1UsnJCig60/3+KgavT/6h4323cFAU5sQPgabxxiHbhjzMSaYYLZSVvGUaFdWQBfao836vi4ieLkp2QjUa/q6H0HB2lSSIub5lJzrDBVzMWB6yPU5rPFTjIck=;yRZcfj6uigZNPbq0DLBvAg=="
+secured: "nbNQQ3KM+ygnnr6jyqQENxon+VQAXY5nChBW1VBhfj/7PDNOXQDe9kK177U3/39T1CgnB/AZ+p6MAmSH+5rIPV5DEpp48gb/oRaBsKakByNucL2twUZ0AMCK3r3nKGvsFKcfV1z62mOJN2XVZHWZ7SvBa/YzDfOGRkWDaNjoLJhVD8QVCavXRvhkk0UMfSJeKFL2LQe8CGz2S9nJR0OzkVxm0kR0KOBD+6klpHHiau+OCyHHWgm4LoApvRcVHLO3B03hC1lsuoe0Vi+vCk7OxdhIsOve8FO6FamIm16w6OP2qol4qOk/KRT8Xy669zsjCMFCYoTamRKJLQD87USOI5TrtU5YhxmAe5h2QbFyMVKQssaSXCCORGk0P+LZaxvbp2wZDJVl+KdWN3ekGNYgcXsvwiB/6bPYaZkIuethql4=;LYSJcf6NiOgoQNwLfjgXWg=="
 ---
 
