@@ -90,45 +90,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/reza-rad.md",
-      "title": "Reza Rad",
-      "excerpt": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/reza-rad/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/reza-rad/",
-      "type": "profile",
-      "name": "Reza Rad",
-      "bio": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
-      "location": "New Zealand",
-      "website": "https://t.co/mnW39vaMYS",
-      "twitter": {
-        "username": "Rad_Reza",
-        "url": "https://twitter.com/Rad_Reza",
-        "followers": 7327
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/rezarad/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 91,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Reza Rad",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/arun-ulag.md",
       "title": "Arun Ulag",
       "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
@@ -176,6 +137,45 @@
       "content": "\r\n"
     },
     {
+      "path": "_people/reza-rad.md",
+      "title": "Reza Rad",
+      "excerpt": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/reza-rad/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/reza-rad/",
+      "type": "profile",
+      "name": "Reza Rad",
+      "bio": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
+      "location": "New Zealand",
+      "website": "https://t.co/mnW39vaMYS",
+      "twitter": {
+        "username": "Rad_Reza",
+        "url": "https://twitter.com/Rad_Reza",
+        "followers": 7327
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rezarad/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 89,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Reza Rad",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/mike-carlo.md",
       "title": "Mike Carlo",
       "excerpt": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
@@ -189,7 +189,7 @@
       "twitter": {
         "username": "Mike_R_Carlo",
         "url": "https://twitter.com/Mike_R_Carlo",
-        "followers": 2109
+        "followers": 2108
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/michaelcarlo/"
@@ -273,7 +273,7 @@
       "twitter": {
         "username": "Seth_C_Bauer",
         "url": "https://twitter.com/Seth_C_Bauer",
-        "followers": 1810
+        "followers": 1809
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/seth-bauer/"
