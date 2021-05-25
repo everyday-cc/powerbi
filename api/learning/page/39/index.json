@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 2260,
-        "average": 4.710177
+        "count": 2338,
+        "average": 4.7053037
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 6952,
-        "average": 4.6996546
+        "count": 7072,
+        "average": 4.701923
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -263,8 +263,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 3525,
-        "average": 4.705532
+        "count": 3620,
+        "average": 4.7071824
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -305,8 +305,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 5830,
-        "average": 4.771012
+        "count": 5841,
+        "average": 4.771272
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -339,8 +339,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 6480,
-        "average": 4.777469
+        "count": 6742,
+        "average": 4.777069
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -363,48 +363,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/clean-transform-and-load-data-in-power-bi-social.png",
           "width": 643,
           "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-connect-analyze-dynamics-365-data.md",
-      "title": "Connect and analyze your Dynamics 365 data​",
-      "excerpt": "Connect and analyze your Dynamics 365 Data​",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-connect-analyze-dynamics-365-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/",
-      "length": "PT57M",
-      "ratings": {
-        "count": 2672,
-        "average": 4.7005987
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/connect-and-analyze-your-microsoft-dynamics-365-data-social.png",
-          "width": 800,
-          "height": 400,
           "isCached": true
         }
       ],
@@ -465,7 +423,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-power-platform-to-sap-azure/",
       "length": "PT33M",
       "ratings": {
-        "count": 6,
+        "count": 7,
         "average": 5.0
       },
       "provider": {
@@ -507,8 +465,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 132,
-        "average": 4.560606
+        "count": 138,
+        "average": 4.57971
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -549,8 +507,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 1951,
-        "average": 4.689903
+        "count": 2025,
+        "average": 4.688395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -591,8 +549,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 1732,
-        "average": 4.775404
+        "count": 1784,
+        "average": 4.7735424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -633,8 +591,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 2840,
-        "average": 4.7014084
+        "count": 2957,
+        "average": 4.703754
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -676,8 +634,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 2372,
-        "average": 4.729764
+        "count": 2460,
+        "average": 4.732927
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -718,8 +676,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 17836,
-        "average": 4.793227
+        "count": 18705,
+        "average": 4.7932105
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -760,8 +718,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 289,
-        "average": 4.581315
+        "count": 295,
+        "average": 4.5898304
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -802,8 +760,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 2167,
-        "average": 4.6271343
+        "count": 2246,
+        "average": 4.632235
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -886,8 +844,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 556,
-        "average": 4.7535973
+        "count": 608,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -929,8 +887,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 494,
-        "average": 4.7105265
+        "count": 537,
+        "average": 4.724395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -972,8 +930,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 405,
-        "average": 4.711111
+        "count": 441,
+        "average": 4.712018
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1016,8 +974,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
       "length": "PT20M",
       "ratings": {
-        "count": 1147,
-        "average": 4.753269
+        "count": 1236,
+        "average": 4.7588997
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1059,8 +1017,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-modify-filter/",
       "length": "PT21M",
       "ratings": {
-        "count": 373,
-        "average": 4.61126
+        "count": 409,
+        "average": 4.625917
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1103,8 +1061,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 492,
-        "average": 4.735772
+        "count": 561,
+        "average": 4.748663
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1147,8 +1105,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 769,
-        "average": 4.6853056
+        "count": 834,
+        "average": 4.6942444
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1233,8 +1191,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 3520,
-        "average": 4.753693
+        "count": 3636,
+        "average": 4.7560506
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1257,6 +1215,48 @@
           "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
           "width": 643,
           "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-enhance-your-business-intelligence-solutions-with-artificial-intelligence.md",
+      "title": "Enhance your business intelligence solutions with artificial intelligence",
+      "excerpt": "Enhance your business intelligence solutions with artificial intelligence",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-enhance-your-business-intelligence-solutions-with-artificial-intelligence/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enhance-business-intelligence-solutions-with-artificial-intelligence/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 3,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],

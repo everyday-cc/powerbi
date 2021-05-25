@@ -11,7 +11,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-premium/",
       "length": "PT19M",
       "ratings": {
-        "count": 3,
+        "count": 6,
         "average": 5.0
       },
       "provider": {
@@ -95,7 +95,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-reach/",
       "length": "PT19M",
       "ratings": {
-        "count": 5,
+        "count": 8,
         "average": 5.0
       },
       "provider": {
@@ -137,8 +137,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-automate/",
       "length": "PT12M",
       "ratings": {
-        "count": 6,
-        "average": 4.8333335
+        "count": 8,
+        "average": 4.125
       },
       "provider": {
         "name": "Microsoft Learn",
