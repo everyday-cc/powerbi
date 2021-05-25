@@ -2,7 +2,7 @@
 title: "Ultimate Beginners Guide to DAX 2020"
 excerpt: "Follow along to the beginners guide DAX tutorials by using the demo data available for download. Enjoy!"
 type: collection
-heat: 61
+heat: 62
 
 provider:
   name: Enterprise DNA

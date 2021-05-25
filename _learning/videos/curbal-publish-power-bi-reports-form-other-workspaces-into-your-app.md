@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M14S
 publishedDateTime: 2019-07-08T11:55:09Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FRgzLoRfGgE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DCgvSYvmeTdxYz2WUTxxq7ecXZeRQUhdeJLLevtUuj0s7PwR+LwdQXaIGZ3X+zit11z3ouVkccJQGoLK4C4bdNSPuCulubBqE6+7wfH/lgcg1Sx2pDD8SYJe3ICem/9ZKAnNDcG5US25QWElqk/ilsG1E9iSgql3NURCPU6hdCgaSL7fhNdDKxA1PLBH8cxJm0Gj3CVFgU33XTMa4xYKoMyP+SWVdTpf8criF2KqHw5cqvvErh95UHfMnQ8MYXAcQtph/CtRP94+Z2NbyEVZ9c5lXVLfTmrHqRKncKHmYOrGFzXLabXd0Fwgx+Hu90xX4p47TVcKSs4+l/tfENzkFXR2cFJbleU6DCZ5t0grfZZPn201aG9d1Pv+Gdj6udbOvCbbplhe03TrE3lkAyHkbJ/i6TYgTiuuylCah3iTg80=;YVpYqJEVgfxrotjQR+8xfg=="
+secured: "5EABc/y2xbvQRfePuzzLYsNSABF0nSRjGCRfFPFHVxBVYqhJya0FNT7tyEtKWk0ZaoKKAB0YBkgxvCx1/jS1qAaKxqNvqeQs5RDWauKH/omnjUCywiHwZUekNG+c+7hlvRuB1A1BSq3BHucDFd0Pi3RfV3rWK7CDhO2KQSlplOLE371mLia7RCr6z5IQMQXUHPgtym8ZJHZE48J3bIxrVAOMZVllWYeRM/fcpCWzWjT9aLB2MIuALwEdjHEtSWZVLRRCND211akprVqSLGRe7gDdgZ/e+kWMwDLLibqWPYvu4SmsacrVGSzp0fu6ZcT3nGGVQT9Sk+nzGA8VtIu1zVrTwJHREn1+1ydEQDeJlsVP78bqSu/O14ulDlT47M+/NrHMTHPSHNNgOFITLalREPGwY6BpP3ZRvryoVnrl6VI=;ilRNtzLd4RSO1HSxiq4rwQ=="
 ---
 
