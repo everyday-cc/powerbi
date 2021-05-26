@@ -4,7 +4,7 @@ excerpt: "Are you a Tableau user who needs to learn Microsoft Power BI? This lea
 type: collection
 price: Free
 length: PT5H4M
-heat: 60
+heat: 64
 
 provider:
   name: Microsoft Learn
