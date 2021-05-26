@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M45S
 publishedDateTime: 2019-04-10T11:29:08Z
-heat: 73
+heat: 77
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zHzSBNES6jE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Hh/0mPylClTRIpQCTlmJc8hY21PvJ8TLU/tSB7tRhG1RY8A670KbQ6vTv/t5QmcR6QDUXQ7rZanTJNEphjY0UMtd7h6CFunNzzq5KijPbvbIM/u/6IP+12a7vLkQz94Kd3aI1U5AemI5zWF/60RRdM+yIh5hFBHDoHQwMT0GoTcmzo3uRkV6T4npQRdqMdLlhZTGohigrMPD4Pzgo1zZ+ydhde6p6CU4mUDqajFVucNOqNEBAinWFVWOnYOg2VVuaNmmTO6NnCrnJm6P9pgic9JlDj97NH2MOZhl25rwLkE65bmPXZazWVFBLWTrB4RV72Avbh2LTzTCLZ5eVzg6Z/OVpjrY7JmSof3LnjsKjBPaodLwb6xGrC53+juUJahFTjDTNJEuiDHPdh578psekCIBNPy2zBqpLuw+cU9jkfmcjjvsdVtVtl3GbGgtbe5F;5o9hyJ/2BZ+NdoN2Z7ed+A=="
+secured: "HPE+RgLZEutaRROkCE9CSHO7HNrxMmPa1oAnOuC3qwrtIczQu0uWkHLk4y37NVyZeD6Rww66JGFJcOW1WpdqV5WrD1+Ifa4gPkV3mPuYvpq2H57R/iF4ATYkqvuHoUi4mql7N+uuc9c3lUQyd3t/uXajB08L126nLFEILMoMMGGKxPVxZJtnGEeZaLN9DkD9hk9nsGNnUt+Nc7Q7DtSCftfOa78tr5dGw50LSzrfSf//ezFLtC4edu1A7xNHP1A4GB5JNt7NK6H/KFkth090y1Hts15K/eivSmPggw8wN1sDbCqinbVtqGHwltwNgJ36yHsqlfqGp4nhas2uyokfT/C6DXJN8t3j+E6Nn/fDG7+8hxT3HmJ2NbGip8k4ggy6ow2szwVHgTLzcjyluK1DY6t9V1k3K4ZmC2Ik1FhtHQP7xr/OArNHwcrfwzMEXwc8;cPOLTRByHk93kveNgZuA8w=="
 ---
 

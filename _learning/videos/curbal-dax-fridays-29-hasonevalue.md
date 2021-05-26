@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT14M8S
 publishedDateTime: 2017-03-05T13:39:01Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WF7KzR5bP9I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+oKvKAahRAvJ7y1k/MWq88hY+z//vdsahCKF9pj7EI6opiGvGfdIi+ydgyVB2vD+Ri6U2gOzn3HPZUVYpy595Y9dUlT3hPQ8PE2nRS2d1Rwcyk4id9NR5FVG7LKrog30H2x8dmLwPqourZBLFPEyuVN2+iFSSsdB4WvEAnVkSVjTAn6DZp2HE86dijJAqSwm5feJu4nlVsSHkYRJxkd84uA2xCr78u7Xbc6orWkCWtPv3HWzpjmK4e8DcvKh49dY+QOw8sZVby60pvcvrR2fqRgl6q2qjoEfRMeazYu5CsWejprO+isW1HTjd3J632PdTRiZSGFyjH0ab8pwRR9f1Dpbwh++CF5PisVRGyyhciT6X08L2adxuIED8X335of56YRaSHO+Jf6315dprKXBgqGr3ijZHBvkIkNjZJwsvXg=;vG0JYC/x6smb99tieOkdcg=="
+secured: "IUDKUFq/XALs/Camio1PQOWHCQo+tFETYfGDvbG+quQR7bYZcYCM0EKKM6Y3J2x+i5Ka6lfbNKz6IJr13zcwnlQ1QSNwObOMGrvKnUyS8NGGC5HrLRg9IF8S0GcgDAf7jzSMg5asTDyc9kqx1UNPtuVHzIlOAVoFcQYty0gaoFy/6Xx3A+xVD9XJWCNS8eKc5NDfY16T321OTaLnUfklsLnO3a4JFSlvPqYxIvYiNd26iz8aaiQrx4TrNawHGPDGEPlqk8SfcdeAOBuuekju4J57ksOUDTrsHh0ZEdCpTC6NXRSv0ZHzsPS7TrEcjiIIaz0U76489liSZOuxqwVVOtJ4AgdbDrEG7g3IZGuMH5hJutCxHxp1+Q0g2g2iyh1eMivYEIHxojCnhHeFQUlHaihv4vV8Dpd6gBiV63Zna6c=;mTSZex3rq/kyb8sXvMXBHQ=="
 ---
 
