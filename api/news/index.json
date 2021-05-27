@@ -2,6 +2,620 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-05-26-announcing-now-its-easier-to-find-power-bi-reports-in-microsoft-teams-tabs.md",
+      "title": "Announcing: Now it’s easier to find Power BI reports in Microsoft Teams tabs",
+      "excerpt": "We’ve started to roll-out an update to the home experience in the Power BI app for Microsoft Teams. Users in Teams will see a new “In Teams” pivot on Power BI home that makes it easy to find Power BI tabs you’ve visited previously in Teams channels. Read the blog to learn all about it.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-26-announcing-now-its-easier-to-find-power-bi-reports-in-microsoft-teams-tabs/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-now-its-easier-to-find-power-bi-reports-in-microsoft-teams-tabs/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-now-its-easier-to-find-power-bi-reports-in-microsoft-teams-tabs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2021/05/view-all-the-tabs-you-use-in-microsoft-teams-.png",
+          "width": 1061,
+          "height": 919,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T02:42:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-26-quickly-create-reports-from-sharepoint-lists.md",
+      "title": "Quickly create reports from SharePoint lists",
+      "excerpt": "Back in December, we launched a new create experience within the Power BI service that allowed you to quick explore your data with just a few clicks. Now, we’re excited to announce, as our first integration of this experience, the launch of our Power BI integration within SharePoint lists. This experience",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-26-quickly-create-reports-from-sharepoint-lists/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/quickly-create-reports-from-sharepoint-lists/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/quickly-create-reports-from-sharepoint-lists/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-26T02:00:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021.md",
+      "title": "Power BI introduces a bunch of new additions and improvements at Build 2021",
+      "excerpt": "The premium version of Microsoft's data analytics platform is receiving real-time analytics and big data improvements, while Power BI Embedded now offers integration with Jupyter Notebooks.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-25-power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021/index.json",
+      "webUrl": "https://www.neowin.net/news/power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021/",
+      "originalUrl": "https://www.neowin.net/news/power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/05/1621941280_power_bi_at_build_2021_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-enabling-intelligent-experiences-with-power-bi-for-developers-data-scientists-and-data-engineers.md",
+      "title": "Enabling intelligent experiences with Power BI for developers, data scientists, and data engineers",
+      "excerpt": "Since our launch over five years ago, Microsoft Power BI has been enthusiastically adopted by developers across the spectrum. Today we have over three million active developers on Power BI—who harness the power of data, provide actionable insights, and deliver cloud-native intelligent experiences. Today,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-25-enabling-intelligent-experiences-with-power-bi-for-developers-data-scientists-and-data-engineers/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/enabling-intelligent-experiences-with-power-bi-for-developers-data-scientists-and-data-engineers/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/enabling-intelligent-experiences-with-power-bi-for-developers-data-scientists-and-data-engineers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T00:55:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-automate-deployments-with-deployment-pipelines-api-preview.md",
+      "title": "Automate deployments with deployment pipelines API (preview)",
+      "excerpt": "Deployment pipelines can be automated! With the first set of APIs, you can automate deployments or integrate the deployment process into familiar tools, like Azure Pipelines or GitHub Actions.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-25-automate-deployments-with-deployment-pipelines-api-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/automate-deployments-with-deployment-pipelines-api-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/automate-deployments-with-deployment-pipelines-api-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T00:55:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-25-announcing-power-bi-in-jupyter-notebooks.md",
+      "title": "Announcing Power BI in Jupyter notebooks",
+      "excerpt": "We&#8217;re excited to announce the release of Power BI in Jupyter notebooks. You can now tell compelling data stories with Power BI in Jupyter notebooks. Get your Power BI analytics in a Jupyter notebook with the new powerbiclient Python package. The new package lets you embed Power BI reports, dashboards,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-25-announcing-power-bi-in-jupyter-notebooks/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-jupyter-notebooks/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-jupyter-notebooks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T00:55:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-best-practice-rules-to-improve-your-models-performance-and-design-v11.md",
+      "title": "Best practice rules to improve your model᾿s performance and design v1.1",
+      "excerpt": "See the latest version of the best practice rules to improve your model&#8217;s performance and design!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-19-best-practice-rules-to-improve-your-models-performance-and-design-v11/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-improve-your-models-performance-and-design-v1-1/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-improve-your-models-performance-and-design-v1-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T16:59:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-19-power-bi-denodo-end-to-end-security-through-single-sign-on-sso.md",
+      "title": "Power BI + Denodo = End-to-end security through Single Sign-On (SSO)",
+      "excerpt": "Power BI integrates with cutting-edge big data, data warehouse, and data virtualization technologies, such as Denodo. The Denodo platform uses data virtualization on-premises and in the cloud to facilitate the adoption of a logical architecture or data fabric that can help to boost the productivity of",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-19-power-bi-denodo-end-to-end-security-through-single-sign-on-sso/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-denodo-end-to-end-security-through-single-sign-on-sso/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-denodo-end-to-end-security-through-single-sign-on-sso/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T03:29:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-18-learn-connect-and-code-at-the-microsoft-build-summit-may-25th-27th-2021.md",
+      "title": "Learn, Connect, and Code at the Microsoft Build Summit! May 25th-27th, 2021",
+      "excerpt": "Join the Power BI team and be inspired by community experts, learn best practices, and discover helpful resources with other attendees.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-18-learn-connect-and-code-at-the-microsoft-build-summit-may-25th-27th-2021/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/learn-connect-and-code-at-the-microsoft-build-summit-may-25th-27th-2021/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/learn-connect-and-code-at-the-microsoft-build-summit-may-25th-27th-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T01:00:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-14-power-bi-desktop-update-may-2021-and-mbas.md",
+      "title": "Power BI Desktop Update May 2021 and MBAS",
+      "excerpt": "I will take the opportunity and do a double review:      1.The power bi update for May 2021 and       2. the anouncements on MBAS   Chapters: 00:00 Intro 00:30 Modern visual tooltips 01:30 Disable sensitivity labels 02:00 DQ for power bi datasets and analysis services 02:30 Improved lineage view - notify",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-14-power-bi-desktop-update-may-2021-and-mbas/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2021-05-14-power-bi-desktop-update-may-2021-and-mbas/",
+      "originalUrl": "https://youtube.com/watch?v=PchEYVjYejg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PchEYVjYejg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PchEYVjYejg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-14T02:52:14-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2021-05-13-on-premises-data-gateway-may-2021-update-is-now-available.md",
+      "title": "On-premises data gateway May 2021 update is now available",
+      "excerpt": "On-premises data gateway (standard and personal mode) release for May 2021 ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-13-on-premises-data-gateway-may-2021-update-is-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-may-2021-update-is-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-may-2021-update-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-13T05:26:27-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-05-12-add-and-edit-power-bi-data-sources-on-power-platform-admin-center.md",
+      "title": "Add and Edit Power BI data sources on Power Platform Admin Center",
+      "excerpt": "Data Source management enhancements on Power Platform admin center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-12-add-and-edit-power-bi-data-sources-on-power-platform-admin-center/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/add-and-edit-power-bi-data-sources-on-power-platform-admin-center/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/add-and-edit-power-bi-data-sources-on-power-platform-admin-center/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WosoIBDuU-I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-12T07:42:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-announcing-the-new-sharing-experience.md",
       "title": "Announcing the new sharing experience",
       "excerpt": "We&#8217;re excited to announce a new sharing experience that allows sharing reports via links. Previously in the old experience, we supported sharing reports by granting direct access. For the new experience, reports can be shared via links in addition to direct access sharing.",
@@ -663,611 +1277,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-advanced-data-modelling-with-power-bi.md",
-      "title": "Advanced Data Modelling with Power BI",
-      "excerpt": "This course was developed by the Microsoft Power BI Team. It focusses on Modelling techniques and DAX, the modelling language used in Power BI. By the end of this course, you will be able to use DAX to create calculations in a Power BI Desktop data model.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-19-advanced-data-modelling-with-power-bi/index.json",
-      "webUrl": "https://www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html",
-      "originalUrl": "https://www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G4QzWDv4s6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html",
-      "cdnAmpWebUrl": "https://www-itmagazine-ch.cdn.ampproject.org/c/s/www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html",
-      "publishedDateTime": "2021-04-19T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Magazine",
-        "domain": "itmagazine.ch",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-using-xmla-endpoints-to-change-data-sources-in-a-power-bi-dataset.md",
-      "title": "Using XMLA endpoints to change data sources in a Power BI dataset",
-      "excerpt": "The purpose of this article is to provide Power BI developers with a deeper understanding of the dependencies when updating data sources in a Power BI dataset through XMLA endpoints. Most importantly, Power BI maintains security-related data source information such as credentials and privacy settings",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-19-using-xmla-endpoints-to-change-data-sources-in-a-power-bi-dataset/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/using-xmla-endpoints-to-change-data-sources-in-a-power-bi-dataset/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/using-xmla-endpoints-to-change-data-sources-in-a-power-bi-dataset/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T04:02:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-power-bi-april-2021-feature-summary.md",
-      "title": "Power BI April 2021 Feature Summary",
-      "excerpt": "Welcome to the first Power BI feature summary of the Spring! In this update we have an exciting new preview for the Power Automate visual! Also, the ongoing previews (Small Multiples and DirectQuery for Power BI datasets and Azure Analysis Services) are getting some new features. Next to that, we are",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-16-power-bi-april-2021-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2021-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2021-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T08:01:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-15-announcing-the-new-power-automate-visual-for-power-bi-reports.md",
-      "title": "Announcing the new Power Automate visual for Power BI reports",
-      "excerpt": "Empower your end-users to go from insight to action. With the new Power Automate visual, end-users can run an automated flow all within a Power BI report. Furthermore, the executed flow can be data contextual, meaning that the Flow inputs can be dynamic based on the filters set by the end-user.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-15-announcing-the-new-power-automate-visual-for-power-bi-reports/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-new-power-automate-visual-for-power-bi-reports/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-new-power-automate-visual-for-power-bi-reports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-15T02:24:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-announcing-the-new-charticulator-visual-public-preview.md",
-      "title": "Announcing the new Charticulator visual (Public Preview)",
-      "excerpt": "Announcing Charticulator visual preview. Previously to use Charticulator, a user would flip between the web app at charticulator.com and Power BI (PBI). Now, users can create a wide range of custom chart designs right within PBI using our brand-new Microsoft Charticulator custom visual.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-14-announcing-the-new-charticulator-visual-public-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-08-join-us-power-bi-summit-april-19-23.md",
-      "title": "Join us! Power BI Summit April 19-23",
-      "excerpt": "The Power BI Summit ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-08-join-us-power-bi-summit-april-19-23/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-summit-april-19-23/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-summit-april-19-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-08T14:33:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-object-level-security-ols-is-now-generally-available-in-power-bi-premium-and-pro.md",
-      "title": "Object-Level Security (OLS) is now generally available in Power BI Premium and Pro!",
-      "excerpt": " We‘re excited to announce object level security (OLS) is now generally available in Power BI Premium and Pro! ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-07-object-level-security-ols-is-now-generally-available-in-power-bi-premium-and-pro/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/object-level-security-ols-is-now-generally-available-in-power-bi-premium-and-pro/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/object-level-security-ols-is-now-generally-available-in-power-bi-premium-and-pro/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T01:14:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-29-announcing-new-deployment-pipelines-capabilities.md",
-      "title": "Announcing new deployment pipelines capabilities",
-      "excerpt": "Deployment pipelines, Power Bi Premium tool to manage content through its lifecycle, has released many new capabilities, including support paginated reports, sensitivity labels and more.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-29-announcing-new-deployment-pipelines-capabilities/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-new-deployment-pipelines-capabilities/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-new-deployment-pipelines-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-29T11:30:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-announcing-power-bi-inheritance-of-mip-labels-from-azure-synapse-analytics-public-preview.md",
-      "title": "Announcing Power BI inheritance of MIP labels from Azure Synapse Analytics (Public Preview)",
-      "excerpt": "As data becomes more accessible for analysis, risk of accidental oversharing or misuse of business-critical information increases. Today, we’re happy to announce a preview of Power BI MIP label inheritance when import data from Azure Synapse Analytics and Azure SQL Database. This capability will help",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-25-announcing-power-bi-inheritance-of-mip-labels-from-azure-synapse-analytics-public-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-inherit-mip-label-from-azure-synapse-analytics-public-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-inherit-mip-label-from-azure-synapse-analytics-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T07:23:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-24-guide-to-enabling-your-organization-to-use-power-bi-in-microsoft-teams.md",
-      "title": "Guide to enabling your organization to use Power BI in Microsoft Teams",
-      "excerpt": "Learn why and how to deploy Power BI for Microsoft Teams broadly within your organization. This guide provides you a game plan to justify and execute a roll-out. It helps you move to action quickly with PowerShell script example to automate the process.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-24-guide-to-enabling-your-organization-to-use-power-bi-in-microsoft-teams/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/guide-to-enabling-your-organization-to-use-power-bi-in-microsoft-teams/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/guide-to-enabling-your-organization-to-use-power-bi-in-microsoft-teams/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-24T15:39:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-22-see-all-the-power-bi-updates-at-the-microsoft-business-applications-launch-event.md",
-      "title": "See all the Power BI updates at the Microsoft Business Applications Launch Event",
-      "excerpt": "The Microsoft Business Applications Launch Event is almost here. Join us on April 6, 2021, from 9–10:30 AM Pacific Time (UTC -7) to discover how new innovations coming to the 2021 wave 1 release will give you the tools you need to transform your business ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-22-see-all-the-power-bi-updates-at-the-microsoft-business-applications-launch-event/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/see-all-the-power-bi-updates-at-the-microsoft-business-applications-launch-event-2/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/see-all-the-power-bi-updates-at-the-microsoft-business-applications-launch-event-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-22T01:00:19-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-summary-update-on-power-bi-desktop-service-and-others-for-march-2021.md",
-      "title": "Summary update on Power BI Desktop, Service and Others for March 2021",
-      "excerpt": "The new Power BI desktop update is here, this time for March 2021 and we are going to review it together with the Service and Embed updates.  Chapters: 00:14 Reporting news 05:05 Modeling news 08:20 Power BI Service news 09:50 Template apps news 10:00 Power BI embedded news 10:30 Other Done!  Here you",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-19-summary-update-on-power-bi-desktop-service-and-others-for-march-2021/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2021-03-19-summary-update-on-power-bi-desktop-service-and-others-for-march-2021/",
-      "originalUrl": "https://youtube.com/watch?v=wgwwsPiGYxY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wgwwsPiGYxY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wgwwsPiGYxY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T05:10:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

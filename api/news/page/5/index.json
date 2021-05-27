@@ -2,6 +2,618 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-08-large-model-support-in-power-bi-premium-reaches-ga-new-features-announced.md",
+      "title": "Large model support in Power BI Premium reaches GA, new features announced",
+      "excerpt": "With large model support making it to general availability a year on, new capabilities including user interface enhancements, multi-geo support, and more have been unveiled for the release as well.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-08-large-model-support-in-power-bi-premium-reaches-ga-new-features-announced/index.json",
+      "webUrl": "https://www.neowin.net/news/large-model-support-in-power-bi-premium-reaches-ga-new-features-announced",
+      "originalUrl": "https://www.neowin.net/news/large-model-support-in-power-bi-premium-reaches-ga-new-features-announced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1573589737_power_bi_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/large-model-support-in-power-bi-premium-reaches-ga-new-features-announced/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/large-model-support-in-power-bi-premium-reaches-ga-new-features-announced/",
+      "publishedDateTime": "2020-12-08T06:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-power-bi-premium-gets-full-report-attachments-for-report-subscriptions.md",
+      "title": "Power BI Premium gets full report attachments for report subscriptions",
+      "excerpt": "Full reports can now be included as PowerPoint or PDF attachments in Power BI Premium workspaces. The public preview of the Premium per user capability has also been fully rolled out.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-07-power-bi-premium-gets-full-report-attachments-for-report-subscriptions/index.json",
+      "webUrl": "https://www.neowin.net/news/power-bi-premium-gets-full-report-attachments-for-report-subscriptions",
+      "originalUrl": "https://www.neowin.net/news/power-bi-premium-gets-full-report-attachments-for-report-subscriptions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779301_powerbi1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T07:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-announcing-large-model-support-in-power-bi-premium-general-availability-ga.md",
+      "title": "Announcing large model support in Power BI Premium General Availability (GA)",
+      "excerpt": "We are excited to announce General Availability (GA) for Power BI Premium support for large models, along with additional new features, such as User interface enhancements, Multi-Geo support, and Bring your own encryption keys (BYOK).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-07-announcing-large-model-support-in-power-bi-premium-general-availability-ga/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-large-model-support-in-power-bi-premium-general-availability-ga/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-large-model-support-in-power-bi-premium-general-availability-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T06:46:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-07-full-report-attachment-for-subscriptions-for-power-bi-premium-reports-now-available.md",
+      "title": "Full report attachment for subscriptions for Power BI Premium reports now available",
+      "excerpt": "We&#8217;re starting off the first full week of December with a bang!  First, we finished rolling out the public preview of Premium per user to all public tenants earlier today.  And now, as if you needed another reason to jump into the preview, we&#8217;re pleased to announce one of the most highly",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-07-full-report-attachment-for-subscriptions-for-power-bi-premium-reports-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/full-report-attachment-for-subscriptions-for-power-bi-premium-reports-now-available-in/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/full-report-attachment-for-subscriptions-for-power-bi-premium-reports-now-available-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-06T23:30:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-04-announcing-power-bi-admins-can-upgrade-classic-workspaces-and-roadmap-update.md",
+      "title": "Announcing Power BI Admins can upgrade classic workspaces and roadmap update",
+      "excerpt": "Today&#8217;s announcements give a roadmap update for workspace upgrade, content pack deprecation, and announce new tools for Power BI Admins to upgrading classic workspaces through the admin portal. \r\n\r\nAnnouncements:\r\n\r\nWorkspace upgrade has reached general availability.\r\nWe’ve started to roll-out",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-04-announcing-power-bi-admins-can-upgrade-classic-workspaces-and-roadmap-update/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-admins-can-upgrade-classic-workspaces-and-roadmap-update/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-admins-can-upgrade-classic-workspaces-and-roadmap-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2020/12/workspace-upgrade-admin-in-progress.png",
+          "width": 3838,
+          "height": 2019,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T03:08:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-building-systems-of-insights-at-enterprise-scale-with-power-bi-and-azure.md",
+      "title": "Building systems of insights at enterprise scale with Power BI and Azure",
+      "excerpt": "Today, Microsoft announced the general availability of Azure Synapse Analytics and the preview of Azure Purview, a unified data governance service. Azure Synapse Analytics is a limitless analytics service that brings together data integration, enterprise data warehousing, and big data analytics.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-03-building-systems-of-insights-at-enterprise-scale-with-power-bi-and-azure/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/building-systems-of-insights-at-enterprise-scale-with-power-bi-and-azure/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/building-systems-of-insights-at-enterprise-scale-with-power-bi-and-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T00:00:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-use-power-bi-with-azure-purview-to-achieve-better-data-governance-and-discovery.md",
+      "title": "Use Power BI with Azure Purview to achieve better data governance and discovery",
+      "excerpt": "Power BI has partnered with the newly released Azure Purview to provide enhanced governance and cataloging capabilities for our customers. The Azure Purview/Power BI integration makes it possible for you to discover and govern all your hybrid data, and thereby gain a more complete understanding of your",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-03-use-power-bi-with-azure-purview-to-achieve-better-data-governance-and-discovery/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/use-power-bi-with-azure-purview-to-achieve-better-data-governance-and-discovery/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/use-power-bi-with-azure-purview-to-achieve-better-data-governance-and-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-power-bi-adds-automated-template-app-installation-configuration-capability.md",
+      "title": "Power BI adds automated template app installation configuration capability",
+      "excerpt": "Template app publishers will now be able to automate installation configurations for their customers. The new capability completely eliminates parameter configuration from the user end.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-02-power-bi-adds-automated-template-app-installation-configuration-capability/index.json",
+      "webUrl": "https://www.neowin.net/news/power-bi-adds-automated-template-app-installation-configuration-capability",
+      "originalUrl": "https://www.neowin.net/news/power-bi-adds-automated-template-app-installation-configuration-capability",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779296_powerbi2_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/power-bi-adds-automated-template-app-installation-configuration-capability/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-adds-automated-template-app-installation-configuration-capability/",
+      "publishedDateTime": "2020-12-02T02:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-automate-configuration-of-a-template-app-installation.md",
+      "title": "Automate configuration of a template app installation",
+      "excerpt": "Announcing a new capability that enables template app publishers to automate the configuration of a template app installation for their customers!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-02-automate-configuration-of-a-template-app-installation/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/automate-configuration-of-a-template-app-installation/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/automate-configuration-of-a-template-app-installation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T21:45:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-shape-your-future-with-azure-data-and-analytics-digital-event.md",
+      "title": "Shape Your Future with Azure Data and Analytics Digital Event",
+      "excerpt": "Join us on December 3, 2020, from 9:00 AM to 10:30 AM Pacific Time (UTC-8), for the Shape Your Future with Azure Data and Analytics digital event to explore how data and analytics impact the future of your business and see how to use Power BI in conjunction with Azure data and analytics services to change",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-01-shape-your-future-with-azure-data-and-analytics-digital-event/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/shape-your-future-with-azure-data-and-analytics-digital-event/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/shape-your-future-with-azure-data-and-analytics-digital-event/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T23:00:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-power-bi-updates-maps-rankx-and-more-roundup-nov-30-2020.md",
+      "title": "Power BI updates, Maps, RANKX and more... (Roundup | Nov 30, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Patrick's tech video: https://guyinacu.be/toomanyrows Patrick's 2nd tech video: https://guyinacu.be/visualdataprep  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-30-power-bi-updates-maps-rankx-and-more-roundup-nov-30-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-11-30-power-bi-updates-maps-rankx-and-more-roundup-nov-30-2020/",
+      "originalUrl": "https://youtube.com/watch?v=Jp9VGfLLnOw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jp9VGfLLnOw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Jp9VGfLLnOw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T08:00:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-join-us-power-bi-dev-camp-thursday-17-december-2020.md",
+      "title": "Join Us! Power BI Dev Camp! Thursday 17 December, 2020",
+      "excerpt": "Step up your game as a Power BI developer by learning how to develop single page applications (SPAs) to embed Power BI reports and dashboards using the ever-popular React.js library. If you&#8217;re able to attend this Power BI Dev Camp session on Thursday, December 17th, you&#8217;ll learn how to design",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-30-join-us-power-bi-dev-camp-thursday-17-december-2020/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-17-december-2020/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-17-december-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-29T22:00:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-moving-on-premises-as-and-rs-bi-solutions-to-azure-and-closer-to-power-bi.md",
       "title": "Moving on-premises AS and RS BI solutions to Azure – and closer to Power BI",
       "excerpt": "With the availability of virtual machine images for SQL Server Analysis Services (SSAS) and SQL Server Reporting Services (SSRS) in Azure Marketplace, you can now more easily migrate your AS and RS BI solutions from on-premises to Azure! This is a great opportunity to move your multidimensional workloads",
@@ -645,611 +1257,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-10T01:26:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-power-bi-updates-dax-puzzles-and-more-roundup-nov-9-2020.md",
-      "title": "Power BI updates, DAX Puzzles and more... (Roundup | Nov 9, 2020)",
-      "excerpt": "Thanks for watching this week's Power BI news roundup!  Patrick's tech video: https://guyinacu.be/whyusedaxstudio Adam's tech video: https://guyinacu.be/p2wupdates  🔴 Live Replay: https://guyinacu.be/live031  📢 Become a member: https://guyinacu.be/membership   PASS Summit 2020: https://www.pass.org/summit/2020/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-09-power-bi-updates-dax-puzzles-and-more-roundup-nov-9-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-11-09-power-bi-updates-dax-puzzles-and-more-roundup-nov-9-2020/",
-      "originalUrl": "https://youtube.com/watch?v=sIBgagVYseM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sIBgagVYseM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sIBgagVYseM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T08:00:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-paginated-report-november-2020-feature-summary.md",
-      "title": "Paginated Report November 2020 Feature Summary",
-      "excerpt": "We have several exciting updates rolling out this month for paginated reports as we get ready for the launch of the Premium per user public preview.  These updates include new paginated reports samples, in-product parameter updates and more.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-06-paginated-report-november-2020-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/paginated-report-november-2020-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/paginated-report-november-2020-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel.md",
-      "title": "Microsoft adds support for custom Power BI and Power Query data types in Excel",
-      "excerpt": "Microsoft today announced that it is expanding Excel data types to allow for Power BI tables and custom, user-defined databases using Power Query to be transformed into linked data types.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-29-microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel/index.json",
-      "webUrl": "https://www.neowin.net/news/microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel",
-      "originalUrl": "https://www.neowin.net/news/microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/03/1553427271_excel3_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel/",
-      "publishedDateTime": "2020-10-29T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-microsoft-gives-excel-cells-a-third-dimension-with-power-bi-data-types.md",
-      "title": "Microsoft gives Excel cells a third dimension with Power BI data types",
-      "excerpt": "Power BI, Microsoft’s business analytics service, has over 250,000 customers. It follows that Microsoft would start there to help businesses access their data in Excel. Power BI data types are ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-29-microsoft-gives-excel-cells-a-third-dimension-with-power-bi-data-types/index.json",
-      "webUrl": "https://venturebeat.com/2020/10/29/microsoft-excel-power-bi-data-types/",
-      "originalUrl": "https://venturebeat.com/2020/10/29/microsoft-excel-power-bi-data-types/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/excel-powerbi-logos.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/29/microsoft-excel-power-bi-data-types/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/29/microsoft-excel-power-bi-data-types/amp/",
-      "publishedDateTime": "2020-10-29T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-get-into-data-analysis-with-a-excel-power-bi-and-python-course-bundle.md",
-      "title": "Get into data analysis with a Excel, Power BI, and Python course bundle",
-      "excerpt": "It aims to teach you how to harness, analyze, and draw insight from data using Python, Power BI, and Excel. As you jump from one course to another, you'll learn what Python is and why it was ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-29-get-into-data-analysis-with-a-excel-power-bi-and-python-course-bundle/index.json",
-      "webUrl": "https://mashable.com/shopping/oct-29-2021-advanced-data-analysis-bundle/",
-      "originalUrl": "https://mashable.com/shopping/oct-29-2021-advanced-data-analysis-bundle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F10%252F29%252F13%252F3951a97c1a4b41d9a57633e6ea581f33.e5fc3.jpg%252F1200x630.jpg?signature=MTvdoPE8GBx3ZsE2expuckPwufg=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/shopping/oct-29-2021-advanced-data-analysis-bundle.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/oct-29-2021-advanced-data-analysis-bundle.amp",
-      "publishedDateTime": "2020-10-29T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-power-bi-dremio-a-seamless-bi-experience-for-cloud-data-lakes.md",
-      "title": "Power BI + Dremio = A Seamless BI Experience for Cloud Data Lakes",
-      "excerpt": "With the continuing rise of the public cloud, many companies are now centralizing their data in massive cloud data warehouses and data lakes powered by storage services, such as Azure Data Lake Storage (ADLS). The challenge is to deliver insights on these data warehouses and data lakes rapidly and cost-efficiently.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-29-power-bi-dremio-a-seamless-bi-experience-for-cloud-data-lakes/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-dremio-a-seamless-bi-experience-for-cloud-data-lakes/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-dremio-a-seamless-bi-experience-for-cloud-data-lakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T00:00:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-certified-and-promoted-reports-and-apps.md",
-      "title": "Certified and Promoted reports and apps",
-      "excerpt": "A key enabler for a data culture is the pervasive availability of standardized, authoritative data that represents a single source of truth, enabling users to make decisions based on trusted data.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-29-certified-and-promoted-reports-and-apps/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/certified-and-promoted-reports-and-apps/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/certified-and-promoted-reports-and-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T20:12:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-announcing-power-bi-connector-to-azure-databricks-public-preview.md",
-      "title": "Announcing Power BI Connector to Azure Databricks Public Preview",
-      "excerpt": "We are excited to announce the public preview of the Azure Databricks connector. You can now share your Power BI reports based on Azure Databricks with others by publishing them in the Power BI service.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-28-announcing-power-bi-connector-to-azure-databricks-public-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-connector-to-azure-databricks-public-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-connector-to-azure-databricks-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T09:00:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-learn-about-power-bi-organizational-data-types-in-excel-on-october-29th.md",
-      "title": "Learn about Power BI Organizational data types in Excel on October 29th",
-      "excerpt": "Join the Excel and Power BI teams live on LinkedIn Oct 29th at 8:30AM PST to learn about organizational data types that appear in Excel. ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-28-learn-about-power-bi-organizational-data-types-in-excel-on-october-29th/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/learn-about-power-bi-organizational-data-types-in-excel-on-october-29th/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/learn-about-power-bi-organizational-data-types-in-excel-on-october-29th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2020/09/08-Excel-datasets-and-data-types.png",
-          "width": 1434,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T05:39:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-power-bi-report-server-october-2020-feature-summary.md",
-      "title": "Power BI Report Server October 2020 Feature Summary",
-      "excerpt": "We are excited to bring you a new version of Power BI Report Server this month! With this update, we’re releasing an awesome set of features including the modern ribbon, slicer improvements, enhanced dataset metadata and more. Read on to get the full details of all the new additions.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-27-power-bi-report-server-october-2020-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-october-2020-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-october-2020-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-priority-access-sign-up-for-power-bi-premium-per-user-public-preview-now-available.md",
-      "title": "Priority Access sign-up for Power BI Premium per user public preview now available",
-      "excerpt": "We are almost ready to launch the public preview of the new Power BI Premium per user SKU in early to mid-November.  We are excited to give users access to these capabilities as soon as possible, while at the same time ensuring that we are prioritizing the users/tenants that are most interested in previewing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-27-priority-access-sign-up-for-power-bi-premium-per-user-public-preview-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/priority-access-sign-up-for-power-bi-premium-per-user-public-preview-now-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/priority-access-sign-up-for-power-bi-premium-per-user-public-preview-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T01:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-the-enhanced-compute-engine-is-now-enabled-by-default.md",
-      "title": "The enhanced compute engine is now enabled by default",
-      "excerpt": "The enhanced compute engine will be enabled for all new dataflows workloads",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-26-the-enhanced-compute-engine-is-now-enabled-by-default/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/the-enhanced-compute-engine-is-now-enabled-by-default/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/the-enhanced-compute-engine-is-now-enabled-by-default/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

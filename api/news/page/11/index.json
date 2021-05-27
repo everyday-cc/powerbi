@@ -2,6 +2,634 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2019-05-20-kpi-visuals-line-charts-filter-pane-updates-on-may-2019-power-bi-desktop-update.md",
+      "title": "KPI visuals, line charts, filter pane updates on May 2019 Power BI Desktop Update",
+      "excerpt": "In this video I will review the new reporting features released on the Power BI desktop Update for May, and take the opportunity to explaing in more detail how the KPI visual works. #powerweek #curbal #powerbi  Keynotes: 1. Reorder filter pane in power bi 2. change the position of the legends in the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-05-20-kpi-visuals-line-charts-filter-pane-updates-on-may-2019-power-bi-desktop-update/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2019-05-20-kpi-visuals-line-charts-filter-pane-updates-on-may-2019-power-bi-desktop-update/",
+      "originalUrl": "https://youtube.com/watch?v=_lVjP9lSvd4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_lVjP9lSvd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_lVjP9lSvd4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-05-20T02:54:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2019-04-11-improved-filter-pane-and-dynamic-titles-power-bi-desktop-update-2019.md",
+      "title": "Improved filter pane and dynamic titles -Power BI desktop update 2019",
+      "excerpt": "It is power week folks! , meaning power bi desktop update april 2019 is here, this time with an improved filter pane and dynamic titles as a head number for the reporting features. Here are my thoughts... #powerbi #powerweek #curbal #powerbiapril2019   Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-04-11-improved-filter-pane-and-dynamic-titles-power-bi-desktop-update-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2019-04-11-improved-filter-pane-and-dynamic-titles-power-bi-desktop-update-2019/",
+      "originalUrl": "https://youtube.com/watch?v=J7en5Bch4IM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J7en5Bch4IM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/J7en5Bch4IM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-04-11T01:35:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2019-03-01-new-reporting-features-power-bi-desktop-update-march-2019.md",
+      "title": "New reporting features - Power BI Desktop Update March 2019",
+      "excerpt": "**You can format the tooltip with JSON, I missed that from the release notes :))  New reporting features - Power BI Desktop Update March 2019 including: 1. Radio buttons in slicers 2. Formatting tooltips pane 3. Heatmaps and more  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-03-01-new-reporting-features-power-bi-desktop-update-march-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2019-03-01-new-reporting-features-power-bi-desktop-update-march-2019/",
+      "originalUrl": "https://youtube.com/watch?v=v2KNfqf1nvg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v2KNfqf1nvg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v2KNfqf1nvg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-03-01T01:12:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2019-02-13-new-visualization-features-in-power-bi-february-2019-power-bi-desktop-update.md",
+      "title": "New Visualization features in Power BI - February 2019 Power BI Desktop Update",
+      "excerpt": "It is Power Week!!! But I am sure you already know that :) In this video I reveal the new visualization features added to Power BI Desktop and tell you which one is my favourite.  Question is, which one is your favourite?    Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-02-13-new-visualization-features-in-power-bi-february-2019-power-bi-desktop-update/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2019-02-13-new-visualization-features-in-power-bi-february-2019-power-bi-desktop-update/",
+      "originalUrl": "https://youtube.com/watch?v=quq4RIqIFlk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/quq4RIqIFlk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/quq4RIqIFlk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-02-13T01:29:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2019-01-18-curbal-tech-news-on-dataflows.md",
+      "title": "Curbal Tech News on Dataflows",
+      "excerpt": "The power bi team released last week some improvements on the dataflows features. You can read more here: https://powerbi.microsoft.com/en-us/blog/power-bi-dataflows-january-updates/  Among other things, the news are: 1. Dataflows now supports 47 connectors, and counting! 2. Added support for many more",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-01-18-curbal-tech-news-on-dataflows/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2019-01-18-curbal-tech-news-on-dataflows/",
+      "originalUrl": "https://youtube.com/watch?v=Htlc8PLuiZQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Htlc8PLuiZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Htlc8PLuiZQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-01-18T06:00:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "Dataflows"
+      ]
+    },
+    {
+      "path": "_news/2018-12-13-align-visuals-tooltips-on-buttons-and-other-improvements-power-week-1218.md",
+      "title": "Align Visuals, tooltips on buttons and other improvements | Power Week 12.18",
+      "excerpt": "So would you prefer as default functionality? Highlight or filter?  Other than that, we talk about alignment of visuals and tooltips on buttons.  Happy Power Week everybody  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-12-13-align-visuals-tooltips-on-buttons-and-other-improvements-power-week-1218/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2018-12-13-align-visuals-tooltips-on-buttons-and-other-improvements-power-week-1218/",
+      "originalUrl": "https://youtube.com/watch?v=NpvJPL_BPlk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NpvJPL_BPlk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NpvJPL_BPlk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-12-13T03:23:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2018-11-19-new-modeling-view-in-power-bi-address-dax-horrors-comment-power-week-1118.md",
+      "title": "New modeling view in Power BI + address DAX Horrors comment | Power week 11.18",
+      "excerpt": "In today's video we are going to review the new modeling tab that was introduced in the Power BI Desktop update November 2018 and I will also explain myself regarding my statement on the DAX Horrors video.  The highlights of the new modeling view on the Power BI Desktop updated November 2018 are: 1.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-11-19-new-modeling-view-in-power-bi-address-dax-horrors-comment-power-week-1118/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2018-11-19-new-modeling-view-in-power-bi-address-dax-horrors-comment-power-week-1118/",
+      "originalUrl": "https://youtube.com/watch?v=zrqKthwDMok",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zrqKthwDMok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zrqKthwDMok/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-11-19T08:07:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_news/2018-11-16-dax-fridays-105-isinscope.md",
+      "title": "DAX Fridays! #105: ISINSCOPE",
+      "excerpt": "The DAX function ISINSCOPE, allow us to work with hierarchies in Power BI. In this video I will go through an example on how to do that. This DAX function was introduced in the November 2018 Power BI Desktop Update, so make sure you have that installed if you wan to test it out.  Other resources:  DAX",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-11-16-dax-fridays-105-isinscope/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2018-11-16-dax-fridays-105-isinscope/",
+      "originalUrl": "https://youtube.com/watch?v=sSUCyps_1O4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sSUCyps_1O4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sSUCyps_1O4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-11-16T05:50:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_news/2018-11-14-copy-and-paste-visuals-in-power-bi-power-week-1118-power-bi-desktop-update-november-2018.md",
+      "title": "Copy and paste visuals in Power BI | Power Week 11.18 - Power BI Desktop Update November 2018",
+      "excerpt": "With the Power BI Desktop Update November 2018 release, you can now copy a visual either through the visual’s context menu or through the standard Ctrl+C keyboard shortcut and paste it into another report through Ctrl+V.  This is very useful for anyone who builds and updates multiple reports frequently.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-11-14-copy-and-paste-visuals-in-power-bi-power-week-1118-power-bi-desktop-update-november-2018/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2018-11-14-copy-and-paste-visuals-in-power-bi-power-week-1118-power-bi-desktop-update-november-2018/",
+      "originalUrl": "https://youtube.com/watch?v=BqKxPZMEkk0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BqKxPZMEkk0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BqKxPZMEkk0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-11-14T00:35:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2018-11-13-expand-and-collapse-rows-in-a-matrix-power-week-1118-power-bi-desktop-update-nov.md",
+      "title": "Expand and collapse rows in a matrix | Power Week 11.18 - Power BI Desktop Update Nov",
+      "excerpt": "Now after the Power BI desktop update November 2018, you can add +/- buttons to the row headers through the formatting pane under the row headers card. By default, the icons will match the formatting of the row header, but you can customize the icons’ color and size separately if you want.  Here you",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-11-13-expand-and-collapse-rows-in-a-matrix-power-week-1118-power-bi-desktop-update-nov/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2018-11-13-expand-and-collapse-rows-in-a-matrix-power-week-1118-power-bi-desktop-update-nov/",
+      "originalUrl": "https://youtube.com/watch?v=hQ5TzGvjcu8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hQ5TzGvjcu8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hQ5TzGvjcu8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-11-13T14:11:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2018-11-07-news-on-export-to-powerpoint-in-power-bi-service-curbal-tech-news-nov-2018.md",
+      "title": "News on export to PowerPoint in Power BI Service | Curbal Tech News - Nov 2018",
+      "excerpt": "The Power BI team has announced that the ability to export your Power BI reports to PowerPoint is now generally available for customers and well as changed and added some functionality.  Checkout this CTN video to know what those changes and enhancements are.  SUBSCRIBE to learn more about Power BI:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-11-07-news-on-export-to-powerpoint-in-power-bi-service-curbal-tech-news-nov-2018/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2018-11-07-news-on-export-to-powerpoint-in-power-bi-service-curbal-tech-news-nov-2018/",
+      "originalUrl": "https://youtube.com/watch?v=fW0zdq-5RM8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fW0zdq-5RM8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fW0zdq-5RM8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-11-07T04:00:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "Power BI Service"
+      ]
+    },
+    {
+      "path": "_news/2018-11-01-curbal-tech-news-news-on-custom-and-certified-connectors.md",
+      "title": "Curbal Tech News: News on custom and certified connectors",
+      "excerpt": "The Power BI team is keeping busy releasing new features, and Curbal Tech News is always on top of it, broadcasting them to you!  This time, they have announced the General availability of Power BI custom connectors and certified connectors.  They explain the process of getting your connectors certified:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-11-01-curbal-tech-news-news-on-custom-and-certified-connectors/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2018-11-01-curbal-tech-news-news-on-custom-and-certified-connectors/",
+      "originalUrl": "https://youtube.com/watch?v=JzQibtP_evU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JzQibtP_evU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JzQibtP_evU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-11-01T05:04:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2018-10-19-dax-fridays-102-more-keyboard-shortcuts-for-dax.md",
       "title": "DAX Fridays! #102: More Keyboard shortcuts for DAX!",
       "excerpt": "If you are a Curbaler, your already know most of the shortcuts that the Power BI team released with the new DAX Editor,  but the few that are new, I review them here ;)  Here is Part 1: https://www.youtube.com/watch?v=vkiMu32iwPs  SUBSCRIBE so you don't miss another video! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
