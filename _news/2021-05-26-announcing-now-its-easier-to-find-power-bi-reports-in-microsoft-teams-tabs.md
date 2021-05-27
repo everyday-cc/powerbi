@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-now-its-easier
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-now-its-easier-to-find-power-bi-reports-in-microsoft-teams-tabs/"
 type: article
 quality: 84
-heat: 84
+heat: 86
 published: true
 
 provider:
