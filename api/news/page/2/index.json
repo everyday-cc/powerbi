@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-20-master-data-analysis-through-microsoft-excel-and-power-bi-for-less-than-3-per-course.md",
+      "title": "Master Data Analysis Through Microsoft Excel and Power BI for Less Than $3 Per Course",
+      "excerpt": "Beyond Excel, you'll also take deep dives into even more powerful data analysis tools like Microsoft Power BI, DAX, and Alteryx. There are also courses dedicated to data visualization using ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-20-master-data-analysis-through-microsoft-excel-and-power-bi-for-less-than-3-per-course/index.json",
+      "webUrl": "https://www.entrepreneur.com/article/369676",
+      "originalUrl": "https://www.entrepreneur.com/article/369676",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1618789800-malte-helmhold-m0r4a8nMarw-unsplash.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/369676",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/369676",
+      "publishedDateTime": "2021-04-20T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-04-19-advanced-data-modelling-with-power-bi.md",
       "title": "Advanced Data Modelling with Power BI",
       "excerpt": "This course was developed by the Microsoft Power BI Team. It focusses on Modelling techniques and DAX, the modelling language used in Power BI. By the end of this course, you will be able to use DAX to create calculations in a Power BI Desktop data model.",
@@ -1193,57 +1244,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-announcing-vnet-connectivity-for-pbi-datasets-public-preview.md",
-      "title": "Announcing VNet Connectivity for PBI Datasets (Public Preview)",
-      "excerpt": "We are excited to announce the public preview of VNet connectivity for Power BI datasets.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-02-announcing-vnet-connectivity-for-pbi-datasets-public-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-vnet-connectivity-for-pbi-datasets-public-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-vnet-connectivity-for-pbi-datasets-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T01:57:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
