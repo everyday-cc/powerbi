@@ -4,6 +4,44 @@
   "page": 32,
   "value": [
     {
+      "path": "_learning/videos/curbal-best-practices-for-power-bi-modelling.md",
+      "title": "Best Practices for Power BI modelling",
+      "excerpt": "Ok, time for another Power Bi video and this time we are going to talk about Power BI naming conventions and other power bi modelling tips.  First we will talk about what to remove or hide from your model like:  Do not expose in a view a column that is not necessary in the Power BI data model.  TIP:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-best-practices-for-power-bi-modelling/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-best-practices-for-power-bi-modelling/",
+      "originalUrl": "https://youtube.com/watch?v=_quTwyvDfG0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_quTwyvDfG0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M58S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-05-30T04:25:17-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_quTwyvDfG0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-build-dynamic-titles-in-power-bi-power-bi-tips-tricks-45.md",
       "title": "Build Dynamic titles in Power BI  - Power BI Tips & Tricks #45",
       "excerpt": "Learn how to build dynamic titles in Power BI. You can download the file here: http://curbal.com/blog/follow-the-summer-olympics-in-rio-2016-with-power-bi  Looking for the download file? Go to our Download Center: https://curbal.com/donwload-center then community downloads and then get file 40.  SUBSCRIBE",
@@ -1109,45 +1147,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wvbzMwtZSKM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-128-conditional-formatting-with-dax-max-and-min-values-in-power-bi.md",
-      "title": "DAX Fridays! #128: Conditional formatting with DAX - MAX and MIN values in Power BI",
-      "excerpt": "In todays video I will show you how you can reuse conditional formatting using DAX and how to calculate max and min values of a series so you can highlight the min and max values.  #curbal #daxfridays #dax #powerbi  Keynotes: 1. Calculate Min and Max value of a series 2. Format min and max values 3.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-128-conditional-formatting-with-dax-max-and-min-values-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-128-conditional-formatting-with-dax-max-and-min-values-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=uial9zxDmfU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uial9zxDmfU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M44S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-05-24T03:00:07-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uial9zxDmfU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -147,7 +147,7 @@
         "domain": "exceleratorbi.com.au"
       },
       "publishedDateTime": "2021-05-27T17:21:42-07:00",
-      "heat": 130,
+      "heat": 131,
       "images": [
         {
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/05/052821_0018_BuildaPLin1.png",
@@ -1740,7 +1740,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 56,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
