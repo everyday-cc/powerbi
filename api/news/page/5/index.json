@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-12-09-power-bi-on-premises-data-gateway-update-brings-azure-cosmos-db-connector-and-more.md",
+      "title": "Power BI On-premises data gateway update brings Azure Cosmos DB Connector and more",
+      "excerpt": "The December update for the On-premises data gateway brings a few new things to report on, aside from the usual new version of the mashup engine that is often the highlight of these updates.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-09-power-bi-on-premises-data-gateway-update-brings-azure-cosmos-db-connector-and-more/index.json",
+      "webUrl": "https://www.neowin.net/news/power-bi-on-premises-data-gateway-update-brings-azure-cosmos-db-connector-and-more",
+      "originalUrl": "https://www.neowin.net/news/power-bi-on-premises-data-gateway-update-brings-azure-cosmos-db-connector-and-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/10/1571114082_power_bi_new_3_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/power-bi-on-premises-data-gateway-update-brings-azure-cosmos-db-connector-and-more/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-on-premises-data-gateway-update-brings-azure-cosmos-db-connector-and-more/",
+      "publishedDateTime": "2020-12-09T01:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-on-premises-data-gateway-december-2020-update-is-now-available.md",
       "title": "On-premises data gateway December 2020 update is now available",
       "excerpt": "December 2020 release of gateway",
@@ -1206,57 +1257,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-11T00:00:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-power-bi-premium-per-user-public-preview-now-available.md",
-      "title": "Power BI Premium per user public preview now available",
-      "excerpt": "The date you have long waited for has finally arrived!  The public preview of Power BI Premium per user has been enabled in all public tenants that requested priority access, and will be rolling out to all tenants worldwide throughout the month of November.  Now, Power BI users have access to all the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-11-power-bi-premium-per-user-public-preview-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-premium-per-user-public-preview-now-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-premium-per-user-public-preview-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T00:00:13-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-07-23-july-update-for-power-bi-on-premises-data-gateway-now-available.md",
+      "title": "July update for Power BI On-premises data gateway now available",
+      "excerpt": "This time around, there are a couple more changes in comparison to the usual monthly On-premises data gateway update. As always, an updated version for the Mashup Engine has been released as well.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-23-july-update-for-power-bi-on-premises-data-gateway-now-available/index.json",
+      "webUrl": "https://www.neowin.net/news/july-update-for-power-bi-on-premises-data-gateway-now-available",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779301_powerbi1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/july-update-for-power-bi-on-premises-data-gateway-now-available/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/july-update-for-power-bi-on-premises-data-gateway-now-available/",
+      "publishedDateTime": "2020-07-23T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-microsoft-releases-open-source-power-bi-component-for-react.md",
       "title": "Microsoft releases open source Power BI component for React",
       "excerpt": "The new component enables the embedding of reports, dashboards, dashboard tiles, report visuals, and more in React applications. Support for both JavaScript and TypeScript is provided.",
@@ -1201,57 +1252,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-05-18T08:00:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-11-power-bi-announcements-and-a-new-desktop-release-may-11-2020.md",
-      "title": "Power BI announcements and a new Desktop release... (May 11, 2020)",
-      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup178  🔴 MBAS Recap Live Stream Replay: https://guyinacu.be/mbas2020recap  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level?",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-05-11-power-bi-announcements-and-a-new-desktop-release-may-11-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-05-11-power-bi-announcements-and-a-new-desktop-release-may-11-2020/",
-      "originalUrl": "https://youtube.com/watch?v=RqUc3d-0WXY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RqUc3d-0WXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RqUc3d-0WXY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Power BI announcements and a new Desktop release... (May 11, 2020)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-11T08:00:15-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Guy in a Cube",
