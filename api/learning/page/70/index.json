@@ -4,6 +4,66 @@
   "page": 70,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-july-2018-update-end-the-fighting-between-it-and-business-composite-models-are-here.md",
+      "title": "Power BI July 2018 Update: End the Fighting Between IT and Business! (Composite Models are Here)",
+      "excerpt": "Join the 5-Day Power BI Challenge: http://web.learnpowerbi.com/challenge  Watch the Complete July Update Video: https://youtu.be/Mtig3rmIUe0  FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download ✅ Subscribe to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-july-2018-update-end-the-fighting-between-it-and-business-composite-models-are-here/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-july-2018-update-end-the-fighting-between-it-and-business-composite-models-are-here/",
+      "originalUrl": "https://youtube.com/watch?v=3IqOpcE7TQw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3IqOpcE7TQw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M24S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-07-24T21:03:46-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3IqOpcE7TQw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-june-2018-update-in-5-minutes-find-out-whats-missing-in-this-update.md",
+      "title": "Power BI June 2018 Update in 5 minutes (Find out what’s missing in this update!)",
+      "excerpt": "We cover the Power BI June 2018 Update, giving you only what you need to know in about 5 minutes or so :-) The biggest news with this update may actually be what’s missing from this update. Find out, when you watch this video. ---------------------------------------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-june-2018-update-in-5-minutes-find-out-whats-missing-in-this-update/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-june-2018-update-in-5-minutes-find-out-whats-missing-in-this-update/",
+      "originalUrl": "https://youtube.com/watch?v=SiBHf1u91Tk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SiBHf1u91Tk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M54S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-06-13T23:07:34-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SiBHf1u91Tk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-kpi-indicator-excel-icon-sets-part-3-of-3.md",
       "title": "Power BI KPI Indicator (Excel Icon Sets) Part 3 of 3",
       "excerpt": "How can you use KPI Indicators in Power BI, similar to the Excel Conditional Formatting Icon Sets? In this video I show you the third approach - Using Power BI + Excel. And also why this is my favorite approach. **SUBSCRIBE to my channel to be notified as soon as new videos go live https://goo.gl/NdfdVH",
@@ -832,66 +892,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/NvqnPEXa3Pc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-realpowerbi-free-help-with-your-power-bi-project-for-business-users-around-the-world-.md",
-      "title": "#RealPowerBI Free Help with Your Power BI Project for Business Users around the World 🌎",
-      "excerpt": "👉 Learn more and Submit Your #RealPowerBI Project at https://web.learnpowerbi.com/realpowerbi Closing Soon! So Apply Now.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-realpowerbi-free-help-with-your-power-bi-project-for-business-users-around-the-world-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-realpowerbi-free-help-with-your-power-bi-project-for-business-users-around-the-world-/",
-      "originalUrl": "https://youtube.com/watch?v=9OyZ7NwtDO0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9OyZ7NwtDO0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M2S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-08-22T09:39:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9OyZ7NwtDO0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-realpowerbi-get-help-for-your-power-bi-project-talk-power-bi-live-subscribe-join.md",
-      "title": "#RealPowerBI: Get Help for Your Power BI Project 🔴Talk Power BI LIVE (Subscribe & Join)",
-      "excerpt": "You've probably heard of our one-of-a-kind RealPowerBI program. Join our session for a deep-dive into this unique program and get any of your questions answered. Can't wait for the session? Just go to this link to learn more about RealPowerBI: https://www.learnpowerbi.com/realpowerbi ====================",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-realpowerbi-get-help-for-your-power-bi-project-talk-power-bi-live-subscribe-join/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-realpowerbi-get-help-for-your-power-bi-project-talk-power-bi-live-subscribe-join/",
-      "originalUrl": "https://youtube.com/watch?v=Q0q_pIOkTxo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q0q_pIOkTxo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H49M19S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-06-20T20:35:57-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Q0q_pIOkTxo/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true

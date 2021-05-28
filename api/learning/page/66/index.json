@@ -4,6 +4,82 @@
   "page": 66,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-the-case-of-the-scribble-line-chart-in-power-bi.md",
+      "title": "The Case of the Scribble Line Chart in Power BI",
+      "excerpt": "In this video, Adam looks at a funky line chart and how it got to be that way. This is a live tile within a Power BI Dashboard based on a streaming dataset. Microsoft Flow is pushing data from Twitter into the Power BI Streaming Dataset.  Brian Gregor brought this to Adam's attention and helped setup",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-case-of-the-scribble-line-chart-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-case-of-the-scribble-line-chart-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=QGF2Cn8vPn8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QGF2Cn8vPn8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M51S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-08-03T12:21:11-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QGF2Cn8vPn8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-the-conceptual-data-model-and-limits.md",
+      "title": "The Conceptual Data Model and Limits",
+      "excerpt": "A look at the data model from a file perspective.  The Excel Workbook or PBIX file is not the data model, but just a container that the Model is inside of.  I also revisit limits on the size.  http://blogs.technet.com/b/powerbisupport/archive/2015/08/11/the-conceptual-data-model-and-limits.aspx  SUBSCRIBE!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-conceptual-data-model-and-limits/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-conceptual-data-model-and-limits/",
+      "originalUrl": "https://youtube.com/watch?v=7EsQd3cAhw8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7EsQd3cAhw8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M40S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-08-11T16:35:03-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7EsQd3cAhw8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-tips-gateway-embedding-and-analysis-services-roundup-57.md",
       "title": "Tips, Gateway, Embedding and Analysis Services - Roundup #57",
       "excerpt": "There were a bunch of items I found this week. From tips for beginners, to some gateway updates and items for Analysis Services. I have a few bonus links down below that weren't included in the video.  Top 10 Tips for Getting Started with Power BI (@ExceleratorBI) http://exceleratorbi.com.au/top-10-tips-getting-started-power-bi/",
@@ -1007,66 +1083,6 @@
           "url": "https://i.ytimg.com/vi/xpFreaHLjqE/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-7-habits-of-highly-effective-power-bi-professionals-talk-power-bi-live-subscribe-join.md",
-      "title": "7 Habits of Highly Effective Power BI Professionals 🔴Talk Power BI LIVE (Subscribe & Join)",
-      "excerpt": "What takes a Power BI Consultant from Good to Great? Do all of them have some specific habits in common? Can the rest of us learn and adopt those habits to get the same success? 👉 Learn More about our Pro+ Program: https://www.learnpowerbi.com/proplus  ★ Marianne: https://www.LearnPowerBI.com/about",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-7-habits-of-highly-effective-power-bi-professionals-talk-power-bi-live-subscribe-join/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-7-habits-of-highly-effective-power-bi-professionals-talk-power-bi-live-subscribe-join/",
-      "originalUrl": "https://youtube.com/watch?v=03rokNM5Ahc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/03rokNM5Ahc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H15M49S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-02-07T10:55:37-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/03rokNM5Ahc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-against-all-odds-inspiring-power-bi-story-of-jason-baldessari.md",
-      "title": "Against All Odds! Inspiring Power BI Story of Jason Baldessari",
-      "excerpt": "Learn how Jason turned his life around, from rock bottom to a successful Power BI Professional approaching multiple 6 figures. Find out the right kind of investment he made to achieve success in life. Watch till the end.   👉Connect with Jason (LinkedIn): https://www.linkedin.com/in/jason-baldessari-93341611/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-against-all-odds-inspiring-power-bi-story-of-jason-baldessari/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-against-all-odds-inspiring-power-bi-story-of-jason-baldessari/",
-      "originalUrl": "https://youtube.com/watch?v=wIfiUM3ggaM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wIfiUM3ggaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M59S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-10-07T09:00:14-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wIfiUM3ggaM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],
