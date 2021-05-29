@@ -495,7 +495,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -780,15 +780,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-visuals-in-power-bi.md",
-      "title": "Use visuals in Power BI",
-      "excerpt": "Create and customize visuals to present data in compelling and insightful ways.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-in-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
-      "length": "PT1H16M",
+      "path": "_learning/courses/microsoft-learn-publish-share-power-bi.md",
+      "title": "Publish and share in Power BI",
+      "excerpt": "Publish and share your Power BI reports and dashboards to teammates in your organization or to everyone on the web.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-publish-share-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
+      "length": "PT1H4M",
       "ratings": {
-        "count": 6000,
-        "average": 4.7605
+        "count": 5397,
+        "average": 4.729294
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -808,7 +808,7 @@
       "heat": 61,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-visuals-power-bi-desktop-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/publish-and-share-with-power-bi-desktop-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
