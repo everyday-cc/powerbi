@@ -351,6 +351,36 @@
       ]
     },
     {
+      "path": "_learning/videos/power-bi-tips-charticulator-custom-visuals-with-daniel-marsh-patrick.md",
+      "title": "Charticulator Custom Visuals (with Daniel Marsh-Patrick)",
+      "excerpt": "Come hang out as Daniel Marsh-Patrick shows us to use the amazing charticular web browser tool to make custom visuals to use in Power BI reports!  RELATED CONTENT 🔗 Daniel's Website -- https://coacervo.co/ Daniel's Twitter -- https://twitter.com/the_d_mp   LET'S CONNECT! 🧑🏽‍🤝‍🧑🏽 🌟 -- https://twitter.com/HavensBI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-charticulator-custom-visuals-with-daniel-marsh-patrick/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-charticulator-custom-visuals-with-daniel-marsh-patrick/",
+      "originalUrl": "https://youtube.com/watch?v=jAxSH7_6paI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jAxSH7_6paI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H39M13S",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "publishedDateTime": "2021-03-11T09:17:55-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jAxSH7_6paI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-dual-y-axis-chart.md",
       "title": "PowerBI.Tips - Tutorial - Dual Y Axis Chart",
       "excerpt": "Make a custom visual to have two Y-Axis scales in Power BI.  This chart was made using https://charts.powerbi.tips  Blog Post: https://powerbi.tips/2019/09/dual-y-axis-line-chart/ Visit PowerBI.Tips: https://powerbi.tips/  Source files for this project are located here on GitHub:  https://github.com/MikeCarlo/PowerBI-Dual-y-axis-Line-Chart",
@@ -946,36 +976,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/DI838QOD-VY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-what-is-the-direction-of-relationship-in-power-bi.md",
-      "title": "What is the Direction of Relationship in Power BI",
-      "excerpt": "download link for AdventureWorksDW Excel File:  https://1drv.ms/x/s!Am-kkqG8zbmQgcdyAhOk7MXgWd56rw",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-is-the-direction-of-relationship-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-is-the-direction-of-relationship-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=EnubM2UkESU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EnubM2UkESU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M56S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2018-07-10T22:52:51-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EnubM2UkESU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

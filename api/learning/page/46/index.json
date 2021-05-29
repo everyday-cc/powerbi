@@ -4,6 +4,45 @@
   "page": 46,
   "value": [
     {
+      "path": "_learning/videos/curbal-dax-fridays-174-primitive-and-composite-dax-functions.md",
+      "title": "DAX Fridays! #174: Primitive and composite DAX Functions",
+      "excerpt": "In todays video we are going to talk about primitive and composite DAX Functions.  The info on the syntax sugar functions I found it here: http://mdxdax.blogspot.com/2011/01/dax-time-intelligence-functions.html?m=0  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-174-primitive-and-composite-dax-functions/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-174-primitive-and-composite-dax-functions/",
+      "originalUrl": "https://youtube.com/watch?v=oTmYOd-gtcw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oTmYOd-gtcw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M41S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-29T02:02:31-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oTmYOd-gtcw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-175-column-fusion-optimize-your-dax-queries.md",
       "title": "DAX Fridays! #175: Column Fusion - Optimize your DAX queries!",
       "excerpt": "In todays video I am going to show you Phils latest trick on how to optimize dax queries using Column fusion!  DAX Fusion Part1: https://www.youtube.com/watch?v=eZmRmHIsh24  Phils blog posts: https://dax.tips/2019/08/05/dax-fusion/ https://dax.tips/2020/06/12/dax-1-column-fusion/  Here you can download",
@@ -1122,45 +1161,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/53tOqKG3W7I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-54-reverse-engineer-deconstruct-a-dax-measure.md",
-      "title": "DAX Fridays! #54: Reverse engineer/ Deconstruct a DAX measure",
-      "excerpt": "In today's video we will deconstruct a measure that was created by a microsoft employee in the Power BI community:  Link to the Power BI community post: https://community.powerbi.com/t5/Desktop/Calculate-duration-based-on-dates-in-different-rows/td-p/58886  In this video we will go also through the functions:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-54-reverse-engineer-deconstruct-a-dax-measure/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-54-reverse-engineer-deconstruct-a-dax-measure/",
-      "originalUrl": "https://youtube.com/watch?v=wVvAdokjXWc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wVvAdokjXWc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M6S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-10-05T12:50:59-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wVvAdokjXWc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
