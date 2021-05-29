@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT11M14S
 publishedDateTime: 2021-03-04T16:36:25Z
-heat: 133
+heat: 131
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TAsUb93r2tg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "tS1bfiM8DMrCoj9ExUkLgpewcUzCA+Zmn7skjk+/NIqUTRPyXBowXbMSLZSwgcZ2aDTVR/EozrwqJEfIpZzbmN5FTBcOy3xx0Np0x7SG4q4Hi5o7nglfXFrMLowmBZEnne37czshfP+qKfur3oKsvXwyvtW3ORE6eE25E97EuNusTBuk2gclEvJuPhmH7gmW04RiAjxPhRqPx7VdDnQa7bBOylMNKfxuk+ibGrW/jaNd4+ZA3PYiA2QEEsmam3NiWbUeNkXIaQbxKB8/6KkTdnIIgzXix1ajXpruP0UhW/Rio8CuxkVYE6/1vC7Voq04OfReNnx/A5sW9vsIOafEqHMmi9rBaIHIAu+k2IQv/WJElpMLV8cnHKcUYn+J7yIF+clBFs0BIkdRYoSo/DDi2jiEwSmpovj83m8wQzXqLvQ=;XWSFVjc+8QwE08y57e7ORQ=="
+secured: "v9IA6WH7bv+beynunv+m+LIAwrutyhl3Em1NV5/OreuIwChtH0ULHB8I4iLew7jK1Q+K6idF3UtOKSdq4CO7LaYPLVYjTdy+Isv27FwLnbWjhMw7uCuJKf7FJkSTQYCH3gBuTrLknd/kgWo58aDRgAQYqD+1Ilf6meE4hpov7ilVR0DYZR8jalqHS82QciohL7d6NS9Fon59w4IBnstg1xk2ztSGGzwR3AR2s1FMJQk/dGjZEaGA81BhNCDMNFZXJmUpvMc6OciUwCCYQQ8hglmSrDJtgbld8ffzFhcRTM9VL0DCHcw7IcXmJemVQkMeqhWABJMf6lKbt4qAsgqI5+pSPLLuD4w9q335hyILOrgXi3a3vpsP1Lw4LEjA4xX8PGv4iOrXte/jH+9tWThS0Fxk4FrrrmIec2vifOOhyZM=;griAnTe9Pp2HV2qNZhvdmg=="
 ---
 

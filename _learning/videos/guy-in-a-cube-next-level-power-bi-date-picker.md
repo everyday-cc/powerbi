@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT5M22S
 publishedDateTime: 2020-09-09T15:00:23Z
-heat: 56
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mXi8sMmOOTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "GSdW8d7Vd4mtwJ/VFfKkdwrqB7gckGg/nNP6vtmZJoB3/VT9ALRA1WF64bVqvYlFN/7fh3vettRlfSmFPZGELQ/FpLUgSzr7Nwf9P5IZ8qYDdkXa6BGsAyH8rc9YI9YDcFzdiNPR0g6HwbSiudQqfSQts22W21HWYfrvqAs/OdgpmmnOEWaKZlGy9tR8kdIDPqZKy717WRfjQ7dtmMuloU+dMfNbbUAnL6l0wNNWAx/o935alUYh+32HlqRg83I+3rNzvdR1TpQZn9FCq7nWhLz7rsIokzlRJtxAwDDW3il63MYWEiG+rjM/59Gv7i2uHwKUjGO1mIKvZJaW/Mpry3yumruniFpEWtPxrVVeVQtIyJSL7ZlRFRhgI4DSBZuLHTCvBjJIYwKJamo4KjP+VYZTrX2PMXuki0T7VPLE4JE=;mQwx9WCa5rkA2MATp+D1sA=="
+secured: "Djs+tER0bHtyLLDLjjEVdF5KwAygQYbUmTQw1aPrYE3qy/DwlyI1Ug7itkBamHQa8TC/q/jYXi6knmRfmokvsSO+DwEofubb5bH81MUTzLtGZxM89ZBgYYltDAJ5PMFTZEZoglqr3FOS3gu0iks/7Xjx2Df65dmJjn6gYAP9ocsCOo98u6TjrfVjYlMe6V0Ac6TAEOfxTFfaPXApRzijLcNbr5k2J6yu5y/DKW7wn1SJP7dd05exWObH+CexLZFmhdUuTdR+JakkKUHCAsUXIzCstkrEAwJrXBHDFVOX0UuIl51ETt06bJvn4F1hAHgNkVi0BFOB8ZnAXdUeyXfJL/yDelwmJN52Bzjd3ahblYr/xkF/6aNrlnvBfAuXz98Uo5v89bX6wsyO/QIXNFAQ8pmopGnKjMFpUeToRFtQQZU=;r5VPAXYz3Qf5uokuTQKuCw=="
 ---
 
