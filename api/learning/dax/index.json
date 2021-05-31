@@ -56,7 +56,7 @@
         "domain": "radacad.com"
       },
       "publishedDateTime": "2021-05-27T15:09:46-07:00",
-      "heat": 149,
+      "heat": 142,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/mRbeLl0TO14/hqdefault.jpg",
@@ -1697,8 +1697,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 558,
-            "average": 4.7293906
+            "count": 559,
+            "average": 4.7298746
           },
           "provider": {
             "name": "Microsoft Learn",
