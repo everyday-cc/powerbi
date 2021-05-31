@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M46S
 publishedDateTime: 2020-03-18T15:00:15Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ivWGSnthTDw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Are you HITTING your Power BI aggregations???"
 
-secured: "Mxlx/HB/SEktE4XL+Ck9UV3zhbsHFVipd3xwFPOUIxsLe5Z0Sa42VCk+qvTqz0d4JuGOBtC5bCRqcStRcat/XvpYoSf7oPYOg5gzGp6xH20XKmbLyrrEAkts+KtiQ+dhBXVGF/s+xvG5YhIWdPuTKHoUCfT2ivbTkOUzlYWMyppfD7/BGbdT4SqLUnBF3pwiVkfdHFBBWn2JJJRxX99pARmu+7RyLjagemlzu9Ly0nw3ZbSm1CeNcg3MnfBIVt+1r9ZGh2xz+5GDDSOqZ+YQ92xydO+nVzliG9fp6thtmUcdRpH0stZl4RTtOXIgc5k1VwVXxFYO3Az6H0pfle+jzsRVsLInQDVcgraYp1GPqIBF83E9PKK6SbOKpViXNwyyPkIr1tyK0SmTrpExrHFL9DEGay9ehTLA2N7Vsk05c5o=;NSwFXxsNJlasy/vx1yRhQA=="
+secured: "ICQbLKj3Q04oXFP8czsqzJGH6nsttMgnZpZkcMe9H0zdjUXFNkrZAgaVa0dm1zuyvcW6gYBVfnJ55EprYUhzzILKW56SRN2LO1DPBkE+qw1N30mEYBSmPXDycL6F05kRkruMSyOdBN5JY+CU5Stl1pc9HE24d3If8vgwcJnQ7/SfkZxxZUtjGaUURj4q8t4Z2Fr1su2fovfS16B5p9o6LsW+JmKUJgff7SpsWGzc4AIz22+MCYAgoGaWS0QO0zfRJtVMnDJ7SaStzhWua1jvT6xCQhNCKHv4m3/5gHuUCHziFv9hh+x/8ZpX552EwtowOTGnNtwnlkfvBknf9hLha6A68xaWrxUxEkba+gHxD3qSlHh403rIrcPrIfjFEAY2H7Ot7oleig8N7h3zpRh5nQlcWlFZV/gS1uSkqhhaq/A=;FrS58ctm0XsOZrJV027krw=="
 ---
 
