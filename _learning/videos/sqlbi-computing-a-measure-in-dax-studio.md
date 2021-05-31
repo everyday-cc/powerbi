@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M59S
 publishedDateTime: 2020-04-30T16:01:04Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kAniA_N7sB8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "gwn4l67WJX2IlWQKLnbhmFgpwXLZc5Z5HCCBzI6GlczSuv+DOtizv8NLYuD6kpi9EJcQwwkm6yAXAb12oZhtHtT2NmuYFtgJDFWub58rnDJadGtnuiKpOxkOEKzhllEy/yGoImC9D+OfGR4MBIuj1EDsvUCmiKr+I9RM1PEhSBHzQds6n2Bob1vXbvJIcc/aXkd2pTYPyVn0e2oq2/C5eFhmSDuDrWdJBx4ttwSN3DMsK7G+5h2nqL0viIGd8n4FSbCriZr8WHEKo/rlAGdJUofrWErRX93FZ4KB8x0mWn6WwWqqxNld3O9qT02dFlhdKAXgltHL+uLtIOw5LZs9Z3rExWhL18kDLjPur+whjEzLScuoQ2H4kLYV1HIvZ/5MqUnrGF6Pw5r+lDfITMU8OK7ijL3ef9jLJSP0wRuRwa0=;+NGX3DNDWwm5lvdyNV6tmw=="
+secured: "dQesPHf/Gmo+IlplbZlPRDxOM4WNkqHSPb4TyWdcFMXfs6KylYWSBsJ2cBV/mSun647NIPW3UjVWnzCmMjVq2Pl65vdwSMmKojeUvvbWNgoArzwwlPwN/oK3X5g59MeDnc0PY0axn4fLb24v/zGpDM5zsHYLm0W/28O1bKxH++TxzOaWPczFPgBaD/PbNc/G81rBvqmPr3UNAHZ/T6In6YIqMKnOaDRuMsT51rbLQs2iX+Vet7tQvj7BbAeW2k4KOJFrrqZ9NVUZBME1rOhxN8DPM8O485+xPJIFlYJr+xOBT4zjblgnpHPHb1gIxoTaRJcqgDc4CwhH7kymHLwYScfEc25/XVUvUl/0Ez8HETvQE/aE0HUxsJ42jKlo1G9U7l1i9UUj9pJ82cv/0dZDkvVmpUfsdyMkvrE8dzv5a4I=;B3ztmgGIO3mbtP/3z2nIcA=="
 ---
 
