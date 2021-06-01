@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-11-announcing-preview-availability-of-improved-analytics-with-next-generation-power-bi-premium.md",
+      "title": "Announcing Preview Availability of Improved Analytics with Next-Generation Power BI Premium",
+      "excerpt": "We hare happy to share details about availability of enhanced Power BI premium using the next generation technology from Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-11-announcing-preview-availability-of-improved-analytics-with-next-generation-power-bi-premium/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-preview-availability-of-improved-analytics-with-next-generation-power-bi-premium/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-preview-availability-of-improved-analytics-with-next-generation-power-bi-premium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T00:00:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-power-bi-premium-per-user-public-preview-now-available.md",
       "title": "Power BI Premium per user public preview now available",
       "excerpt": "The date you have long waited for has finally arrived!  The public preview of Power BI Premium per user has been enabled in all public tenants that requested priority access, and will be rolling out to all tenants worldwide throughout the month of November.  Now, Power BI users have access to all the",
@@ -1221,57 +1272,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-microsofts-power-bi-embedded-is-generally-available.md",
-      "title": "Microsoft's Power BI Embedded Is Generally Available",
-      "excerpt": "Software-as-a-service developers can now add Microsoft Power BI visuals and reporting features to their business applications. Power BI's visuals and data exploration capabilities are poised to ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-09-microsofts-power-bi-embedded-is-generally-available/index.json",
-      "webUrl": "https://www.eweek.com/enterprise-apps/microsoft-s-power-bi-embedded-is-generally-available",
-      "originalUrl": "https://www.eweek.com/enterprise-apps/microsoft-s-power-bi-embedded-is-generally-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2016/08/190x128bigdataindustry1_3.jpg?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-09T02:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],

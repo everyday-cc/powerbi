@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2019-08-15-deep-dive-on-icon-sets-power-bi-desktop-update-july-and-august-2019.md",
+      "title": "Deep dive on icon sets - Power BI desktop update July and August 2019",
+      "excerpt": "In today's video, I will review the icon set feature available in Power BI since July 2019. I will give you my thoughts on what is good and what can be improved.  What do you think?  Here are the links mentioned in the video: KPI with a measure: https://www.youtube.com/watch?v=cboA5AtAPeg 08:22 How to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-08-15-deep-dive-on-icon-sets-power-bi-desktop-update-july-and-august-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2019-08-15-deep-dive-on-icon-sets-power-bi-desktop-update-july-and-august-2019/",
+      "originalUrl": "https://youtube.com/watch?v=Xbmhwo-XvBs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xbmhwo-XvBs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Xbmhwo-XvBs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-08-15T01:19:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2019-06-11-conditional-formatting-filters-on-slicers-and-more-power-bi-desktop-update-june-2019.md",
       "title": "Conditional formatting, filters on slicers and more, -Power BI desktop update June 2019",
       "excerpt": "In this Power BI desktop Update on June 2019, the Power BI team has released some cool new features, one of them my favourite for this month. Which one is yours? #powerbi #curbal #powerweek  Keynotes: 1. New look and feel, what do you think? 2. Filter slicer data- Be careful with this one! 3. Conditional",
@@ -1230,58 +1282,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2018-06-27T01:20:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2018-05-10-easier-than-ever-to-get-data-from-the-web-into-power-bi-pw518.md",
-      "title": "Easier than ever to get data from the web into Power BI - PW518",
-      "excerpt": "The Power BI team has done it again and a new Power BI Desktop Update is here, to be precise, the May 2018 Power BI Desktop Update is here, yey!!!  It is Power Week 518!!!  In today's video, I will go through my second favourite functionality of all: The new web connector  With this month’s release,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-05-10-easier-than-ever-to-get-data-from-the-web-into-power-bi-pw518/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2018-05-10-easier-than-ever-to-get-data-from-the-web-into-power-bi-pw518/",
-      "originalUrl": "https://youtube.com/watch?v=JHDYi4r5NtI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JHDYi4r5NtI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JHDYi4r5NtI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-05-10T01:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Curbal",

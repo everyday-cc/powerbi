@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-04-27-on-premises-data-gateway-april-2021-update-is-now-available.md",
+      "title": "On-premises data gateway April 2021 update is now available",
+      "excerpt": "On-premises data gateway (standard and personal mode) release for April 2021 ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-27-on-premises-data-gateway-april-2021-update-is-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-april-2021-update-is-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-april-2021-update-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-27T02:54:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-04-23-join-us-for-microsoft-business-applications-summit-may-4th-2021.md",
       "title": "Join us for Microsoft Business Applications Summit! May 4th, 2021",
       "excerpt": "Join Arun Ulagaratchagan, Amir Netz and the Power BI team at Microsoft Business Applications Summit on May 4, 2021 for the Power BI two-part peek into the future. Hear the vision, learn about our journey, and see some amazing demos! ",
@@ -1176,57 +1227,6 @@
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-02-premium-gen2-utilization-analysis-app-now-available/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/premium-gen2-utilization-analysis-app-now-available/",
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/premium-gen2-utilization-analysis-app-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T06:30:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-premiun-gen2-utilization-analysis-app-now-available.md",
-      "title": "Premiun Gen2 utilization analysis app now available",
-      "excerpt": "Learn about the newly released best tool yet for managing premium gen2 capacities.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-02-premiun-gen2-utilization-analysis-app-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/premiun-gen2-utilization-analysis-app-now-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/premiun-gen2-utilization-analysis-app-now-available/",
       "featuredContent": null,
       "highlight": null,
       "heat": 72,
