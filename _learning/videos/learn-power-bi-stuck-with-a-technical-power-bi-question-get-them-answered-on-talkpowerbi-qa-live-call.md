@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M
 publishedDateTime: 2021-05-11T16:00:16Z
-heat: 52
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Qa8IoY32ZxE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "w8IPMQynqG4UnezXZJicmtSI9S6wJZlR/XV/iNqR8daX5ZbmdFwB0VAdUzFHE/CN+8ptcjvA0yaantI3Q6kOw0c/9C+XXhUkS1Sw4e0KX60U53Hfm0OmGEBWWm+xkWhs97VTCl+Zkw3KG7ZrarhV6BmBJtn6QlTtyGvm/HuDQY6t7V5ecAgjhcknGuwVKdWwfyrdV2NARFY82ZizkXq2bPN5DIGylK7BL/1wvPYLa0Vkoj0MgXIDX2z7hsWAtzVErK2h637HvWURrOcSuO6Id5NTmd0TM1CXAq6ecVLutxCyYNO81Gp7v/mV/uhR4MU0ZRyCTW50XfobZuGF+BDGlvY9qaITtvL6QcIRHYZoy3OWA8QyO7MJFf4sW2pdTB2V7ZxXeiL4+qHm1tO3o8gILSr3xej9vpTAEiSinF2W7H4=;+yu34i6KkJnOoE+CK/Plaw=="
+secured: "1V5It19exP3oOQt7g31mwcYRI9Br3ac4/VBRGMNYfI9XfqipOQ4w/wR0Dq6Qezoq6RPxU1z93AzHn6lvKbLzGwYmIi/uuOr4XBf4W0HRohdSVH2pLn+jBoyK1RLGuPew2JoZSDr+0TTXdjSHuKA5zzvjcukd1gbvVTkiy254l7VUli1z5KTe2D2Afu9mxgyN09A/pPxWJ2zBnn4FJ/wTnwC9KIrXqQ3iZy0UF6GAM5w84iY/5+jnnhsK3MR/R9UGJI1/2SltaW/hDKBQt3r2CyoqF05xTbYUIIpwTOmLZMBFvLrt9fsJ0RRqLuK8OhxNGMBUWNLes6riVvVV6pR8WWzmk9+qLZcKtJHQZKL5UE55gBWIQu/M3v2Sidr9Qmcp1TWqfGEaNf0q5aalHLgBq9m+HTvGlWA/OUn4y/pCgd8=;fSyeoyiFEQG1TD1HcVgyOg=="
 ---
 
