@@ -1205,7 +1205,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1958,8 +1958,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 4030,
-        "average": 4.769479
+        "count": 4032,
+        "average": 4.7695932
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2000,8 +2000,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 6030,
-        "average": 4.7608624
+        "count": 6031,
+        "average": 4.760902
       },
       "provider": {
         "name": "Microsoft Learn",
