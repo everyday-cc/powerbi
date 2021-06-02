@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT13M3S
 publishedDateTime: 2020-07-07T15:25:43Z
-heat: 72
+heat: 73
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/58a2rIV2nYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "nvOKZ0L6esaS2auZMvouKerqPrZy8hVyN7JvENCe4+bAnF5l5vIWBiXy7O+0nvsL5kAZ//peRinmiuOX++9yGfAtyrb+yBbew5o3Go9cwEB0JojdPpfGJbR7V+cTmNSCJz5FlQwqwlCVvNs6Gt5oxAEYfyrqHkOGf9sV8cqObvZl3KMtg0xvP2REoWOg1xWH4aUJ3zScUXQRg3skmeM/6CcHrB5/12VBO8Ii4lIRGgKgsW3eco+mcKJFYrk3neG0GxIM8Nc8d/Bxl0vT+HJ6wOkhVlMGNuhjb7QFYZeCk8MAInlI8hEW+fGeq64b1t1bsHh+M7BX2AW/vYYM+3vs6WXxASLDixl1fLs5D8f8SiXW4mRZccNMYvYgMmW7crHVKqUTrI9NKKKcuFHNkB49TaImeDqnWS07rPo4EuF9bWw=;HxqDZecchu2AkLAdp7CNhA=="
+secured: "16LunaFoxIHzWidKdm639AntoULEkfTGn8wcLv4+mQL7iqlt2G/CVwGjuzBPvG2PGf9wNML8JXV0uLgm2HkV6gSvl5Gyz13tFy0vVNhPbSEfSMuOCMZ8BW+e3P0W3PorpsJgViyKe5bAD4wQUuMD0pX9D3Ok8fMKGRivVLrc+G+Nhi7j2kbp8WykcGTWqaorDq3zQYs44jBO67NAf+LtEGHn6i71uOQ3sYlmJ4Vpy7eyPSscy+6g8Wa3GDqLd6qe+RGjW3Dp6EujIxqWLiDQJHYuhUKtIAQE5BmdT+8ehaCaTDFkmRxv4I1FE99Fo8gZQI8QJwn5klNm0GDQ0HQDGHHmlPwTkSGxJhbfjv6ubuJWFCTTskyAvjDv6n6wHRVWt7FlfJuxgNNIIV1qT6Z1jf9hpSWgsawEYuR2QDqVx98=;ZpC4CQlcMTojlD+i7SEUYQ=="
 ---
 
