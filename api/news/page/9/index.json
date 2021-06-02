@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-07-26-get-this-complete-big-data-power-bi-bundle-certification-for-only-3999.md",
+      "title": "Get this Complete Big Data & Power BI Bundle certification for only $39.99",
+      "excerpt": "Sort, analyze and visualize! Be the next data hero with 30 hours of hands-on instruction on Power BI, Power Query, Excel, and Access. Get this deal with the included certification and at hundreds off!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-26-get-this-complete-big-data-power-bi-bundle-certification-for-only-3999/index.json",
+      "webUrl": "https://www.neowin.net/news/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999-2",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/07/1595507389_big-data_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999-2/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999-2/",
+      "publishedDateTime": "2020-07-26T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-07-25-get-this-complete-big-data-power-bi-bundle-certification-for-only-3999.md",
       "title": "Get this Complete Big Data & Power BI Bundle certification for only $39.99",
       "excerpt": "Sort, analyze and visualize! Be the next data hero with 30 hours of hands-on instruction on Power BI, Power Query, Excel, and Access. Get this deal with the included certification and at hundreds off!",
@@ -1197,58 +1248,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-05-22-power-bi-desktop-update-may-2020.md",
-      "title": "Power BI Desktop Update - May 2020",
-      "excerpt": "We have lots of great updates this release! We’re super excited to announce this month that both the decomposition tree and drill through button actions are now generally available. On top of this, we have several new features and updates that will really enrich your reporting: curate featured tables",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-05-22-power-bi-desktop-update-may-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-05-22-power-bi-desktop-update-may-2020/",
-      "originalUrl": "https://youtube.com/watch?v=JtuHIslowxk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JtuHIslowxk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JtuHIslowxk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Power BI Desktop Update - May 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-22T12:24:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
