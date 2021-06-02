@@ -1,0 +1,1386 @@
+---
+title: "Power BI Every Day (2021-06-02)"
+excerpt: "Power BI Windows app has new look (preview)! / What’s new in the June update of Power BI Report Builder / IF EAGER DAX function in Power BI"
+publishedDateTime: 2021-06-02T18:12:20Z
+webUrl: "https://everyday.cc/powerbi/newsletter/power-bi-every-day-2021-06-02/"
+type: article
+
+topics:
+  - Power BI
+
+---
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="x-apple-disable-message-reformatting">
+  <meta name="format-detection" content="telephone=no,address=no,email=no,date=no,url=no">
+  <title>Power BI Every Day (2021-06-02)</title>
+  <meta name="description" content="Power BI Windows app has new look (preview)! / What’s new in the June update of Power BI Report Builder / IF EAGER DAX function in Power BI">
+  <!--[if mso]>
+    <style>
+        * {
+            font-family: sans-serif !important;
+        }
+    </style>
+  <![endif]-->
+  <!--[if !mso]><!-->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i&amp;display=swap" rel="stylesheet"
+    type="text/css">
+  <!--<![endif]-->
+  <style>
+    html,
+    body {
+      margin: 0 auto !important;
+      padding: 0 !important;
+      height: 100% !important;
+      width: 100% !important;
+    }
+
+    * {
+      -ms-text-size-adjust: 100%;
+      -webkit-text-size-adjust: 100%;
+    }
+
+    div[style*="margin: 16px 0"] {
+      margin: 0 !important;
+    }
+
+    table,
+    td {
+      mso-table-lspace: 0pt !important;
+      mso-table-rspace: 0pt !important;
+    }
+
+    table {
+      border-spacing: 0 !important;
+      border-collapse: collapse !important;
+      table-layout: fixed !important;
+      margin: 0 auto !important;
+    }
+
+    img {
+      -ms-interpolation-mode: bicubic;
+    }
+
+    a[x-apple-data-detectors] {
+      border-bottom: 0 !important;
+      cursor: default !important;
+      color: inherit !important;
+      text-decoration: none !important;
+      font-size: inherit !important;
+      font-family: inherit !important;
+      font-weight: inherit !important;
+      line-height: inherit !important;
+    }
+
+    .im {
+      color: #180b01 !important;
+    }
+
+    @media only screen and (min-device-width: 320px) and (max-device-width: 374px) {
+      u~div .newsletter-content {
+        min-width: 320px !important;
+      }
+    }
+
+    @media only screen and (min-device-width: 375px) and (max-device-width: 413px) {
+      u~div .newsletter-content {
+        min-width: 375px !important;
+      }
+    }
+
+    @media only screen and (min-device-width: 414px) {
+      u~div .newsletter-content {
+        min-width: 414px !important;
+      }
+    }
+  </style>
+
+  <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:AllowPNG/>
+            <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+    </xml>
+  <![endif]-->
+
+  <style>
+    @media screen and (max-width: 680px) {
+      a {
+        color: {link_color} !important;
+        text-decoration: none !important;
+      }
+
+      .logo {
+        max-width: 80% !important;
+        height: auto !important;
+        max-height: 43px !important;
+      }
+
+      .story-title p {
+        margin: 0 !important;
+      }
+
+      .sm-px-none {
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+
+      .sm-p {
+        padding: 20px !important;
+      }
+
+      .sm-pt {
+        padding-top: 20px !important;
+      }
+
+      .sm-px10 {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+      }
+
+      .markets {
+        width: 100%;
+        border: 0;
+      }
+
+      .markets td {
+        border-bottom: 1px solid #e6d1c6;
+        padding: 10px 0;
+      }
+
+      .text-left {
+        text-align: left !important;
+      }
+
+      .copyright-area p,
+      .date-area p {
+        text-align: center !important;
+      }
+    }
+  </style>
+  <style>
+    @media only screen and (min-width: 681px) {
+      .template-button {
+        background-color: #F2C811 !important;
+        border-radius: 5px !important;
+        font-weight: 700 !important;
+        text-transform: uppercase !important;
+        letter-spacing: 1px !important;
+        padding: 12px 10px !important;
+        color: #fff !important;
+        Margin-left: 0px !important;
+        font-size: 12px !important;
+        line-height: 12px !important;
+        text-decoration: none !important;
+      }
+
+      a {
+        color: {link_color} !important;
+        text-decoration: none !important;
+      }
+
+      .copyright-area p,
+      .date-area p {
+        text-align: left !important;
+      }
+
+      .text-left {
+        text-align: left !important;
+      }
+
+      .story-body p {
+        margin-top: 0 !important;
+      }
+
+      .story-title p {
+        margin: 0 !important;
+      }
+
+      .area-share,
+      .area-content,
+      .ad-image,
+      .social-area,
+      .copyright-area,
+      .date-area,
+      .hidden-area,
+      .network-area {
+        display: table-cell;
+        vertical-align: top;
+      }
+
+      .area-share {
+        width: 55px;
+      }
+
+      .area-content {
+        width: 585px;
+      }
+
+      .network-area {
+        width: 310px;
+      }
+
+      .hidden-area,
+      .date-area {
+        width: 165px;
+      }
+
+      .copyright-area,
+      .social-area {
+        width: 320px;
+      }
+
+      .template-button {
+        color: #FFF !important;
+      }
+
+      .markets {
+        width: 100%;
+        border: 0;
+      }
+
+      .markets td {
+        border-bottom: 1px solid #e6d1c6;
+        padding: 10px 0;
+      }
+    }
+  </style>
+</head>
+
+<body style="margin: 0; padding: 0 !important; mso-line-height-rule: exactly; line-height: .8;" id="body">
+  <center style="width: 100%;">
+    <!--[if mso]>
+    <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="width:100%;">
+    <tr>
+    <td>
+    <![endif]-->
+
+    <!--Header-->
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0"
+      style="background-color: #0A0300; width: 100%;">
+      <tr>
+        <td align="ccenter">
+          <div style="font-size: 0; max-width: 640px; margin: 0 auto; line-height: 2;" class="newsletter-content">
+          <!--[if mso]>
+          <table role="presentation" border="0" cellspacing="0" cellpadding="0" style="width: 640px; margin: 0 auto;" align="center">
+          <tr>
+          <td align="center" style="vertical-align: middle; width: 165px; height: 50px; margin: 0 auto;">
+          <![endif]-->
+            <div class="hidden-area"></div>
+          <!--[if mso]>
+          </td>
+          <td align="center" style="vertical-align: middle; width: 310px; height: 50px; margin: 0 auto;">
+          <![endif]-->
+            <div class="network-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%; height: 50px;">
+                <tr>
+                  <td>
+                    <p
+                      style="color: #F2C811; text-align: center; text-transform: uppercase; font-size: 12px; letter-spacing: 1px; font-family: Open Sans, Segoe UI, sans-serif;">
+                      Part of Everyday Course Club</p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+                </td>
+                <td align="right" style="vertical-align: middle; width: 165px; height: 50px; margin: right;">
+                <![endif]-->
+
+            <div class="date-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%; height: 50px;">
+                <tr>
+                  <td>
+                    <p
+                      style="font-size: 12px; text-align: center; color: #FFFFFF; text-transform: uppercase; letter-spacing: 1px; font-family: Open Sans, Segoe UI, sans-serif;">
+                      <a href="https://everyday.cc/powerbi/newsletter/power-bi-every-day-2021-06-02/" style="text-decoration: none; color: #FFFFFF !important;">2021-06-02</a>
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+                </td>
+                </tr>
+                </table>
+                <![endif]-->
+          </div>
+        </td>
+      </tr>
+    </table>
+    <!--End of Header-->
+    <!--Content-->
+    <div class="newsletter-content" style="max-width: 680px; margin: 0 auto;">
+      <!--[if mso]>
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 680px; margin: 0 auto;" align="center">
+            <tr>
+            <td>
+            <![endif]-->
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+        <tr>
+          <td style="padding:70px 0 20px;" align="center">
+            <h1 style="text-align:center; margin: 0;">
+              <span style="vertical-align: middle; font-family: Open Sans, Segoe UI, Tahoma, sans-serif; font-size: 28px">Power BI Every Day<br />
+                <a href="https://everyday.cc/powerbi/" style="text-decoration: none;vertical-align: middle; display: table-cell;">
+                  <img alt="Logo" src="https://everyday.azureedge.net/powerbi/sites/2/2021/05/logo-rounded-corners.png" border="0" height="43" style="width: auto;" class="logo">
+                </a>
+              </span>
+            </h1>
+          </td>
+        </tr>
+      </table>
+      <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="max-width: 680px;">
+        <tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>News of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://powerbi.microsoft.com/en-us/blog/power-bi-windows-app-has-new-look-preview/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Power+BI+Windows+app+has+new+look+(preview)! https%3a%2f%2fpowerbi.microsoft.com%2fen-us%2fblog%2fpower-bi-windows-app-has-new-look-preview%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fpowerbi.microsoft.com%2fen-us%2fblog%2fpower-bi-windows-app-has-new-look-preview%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://powerbi.microsoft.com/en-us/blog/power-bi-windows-app-has-new-look-preview/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://powerbi.microsoft.com/en-us/blog/power-bi-windows-app-has-new-look-preview/"><img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}Power BI Windows app has new look (preview)!{% endraw %}</strong> Power BI Windows app is designed to provide great Power BI consumption experience for Windows users. Business users who do not need to create or edit reports can use this app for simpler and easier view and usage of reports, dashboards and apps. In this release we are introducing preview of Power BI</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://powerbi.microsoft.com/en-us/blog/power-bi-windows-app-has-new-look-preview/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Microsoft
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://powerbi.microsoft.com/en-us/blog/whats-new-in-the-june-update-of-power-bi-report-builder/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=What%e2%80%99s+new+in+the+June+update+of+Power+BI+Report+Builder https%3a%2f%2fpowerbi.microsoft.com%2fen-us%2fblog%2fwhats-new-in-the-june-update-of-power-bi-report-builder%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fpowerbi.microsoft.com%2fen-us%2fblog%2fwhats-new-in-the-june-update-of-power-bi-report-builder%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://powerbi.microsoft.com/en-us/blog/whats-new-in-the-june-update-of-power-bi-report-builder/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://powerbi.microsoft.com/en-us/blog/whats-new-in-the-june-update-of-power-bi-report-builder/"><img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}What’s new in the June update of Power BI Report Builder{% endraw %}</strong> We are pleased to announce the release of a new version of Power BI Report Builder! This release includes a number of new features designed to improve your paginated report authoring experience, plus we&amp;#8217;ve now added Power BI Report Builder as an app in the Microsoft Store.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://powerbi.microsoft.com/en-us/blog/whats-new-in-the-june-update-of-power-bi-report-builder/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Microsoft
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>Learning of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://everyday.cc/powerbi/learning/videos/dhruvin-shah-if-eager-dax-function-in-power-bi/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=IF+EAGER+DAX+function+in+Power+BI https%3a%2f%2feveryday.cc%2fpowerbi%2flearning%2fvideos%2fdhruvin-shah-if-eager-dax-function-in-power-bi%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fpowerbi%2flearning%2fvideos%2fdhruvin-shah-if-eager-dax-function-in-power-bi%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/powerbi/learning/videos/dhruvin-shah-if-eager-dax-function-in-power-bi/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://everyday.cc/powerbi/learning/videos/dhruvin-shah-if-eager-dax-function-in-power-bi/"><img src="https://i.ytimg.com/vi/TYeq1xYzTqQ/maxresdefault.jpg" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}IF EAGER DAX function in Power BI{% endraw %}</strong> During this session, we will try to explore one more important DAX function in Power BI. We all aware about IF Expression in Power BI. But what about IF.EAGER Dax function? We will talk about basic differences between IF Vs IF.EAGER in Power BI. Also, we will check how we can improve the performance</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/powerbi/learning/videos/dhruvin-shah-if-eager-dax-function-in-power-bi/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Dhruvin Shah
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-visualize-report-data/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Prepare+to+teach+the+module%3a+Visualize+report+data https%3a%2f%2fdocs.microsoft.com%2fen-us%2flearn%2fmodules%2fprepare-to-teach-module-visualize-report-data%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fdocs.microsoft.com%2fen-us%2flearn%2fmodules%2fprepare-to-teach-module-visualize-report-data%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-visualize-report-data/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-visualize-report-data/"><img src="https://docs.microsoft.com/learn/achievements/generic-badge-social.png" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}Prepare to teach the module: Visualize report data{% endraw %}</strong> Prepare to teach the module: Visualize report data</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-visualize-report-data/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Microsoft Learn
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://docs.microsoft.com/en-us/learn/modules/dataverse-teams-power-bi/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/3-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Create+reports+with+Power+BI+and+Dataverse+for+Teams https%3a%2f%2fdocs.microsoft.com%2fen-us%2flearn%2fmodules%2fdataverse-teams-power-bi%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fdocs.microsoft.com%2fen-us%2flearn%2fmodules%2fdataverse-teams-power-bi%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://docs.microsoft.com/en-us/learn/modules/dataverse-teams-power-bi/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://docs.microsoft.com/en-us/learn/modules/dataverse-teams-power-bi/"><img src="https://docs.microsoft.com/learn/achievements/dataverse-teams-power-bi-social.png" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}Create reports with Power BI and Dataverse for Teams{% endraw %}</strong> Dataverse for Teams - Build your first report with Power BI and Dataverse for Teams.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://docs.microsoft.com/en-us/learn/modules/dataverse-teams-power-bi/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Microsoft Learn
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>DAX functions of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://docs.microsoft.com/en-us/dax/openingbalanceyear-function-dax"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=OPENINGBALANCEYEAR+(%3cexpression%3e%2c%3cdates%3e%5b%2c%3cfilter%3e%5d%5b%2c%3cyear_end_date%3e%5d) https%3a%2f%2fdocs.microsoft.com%2fen-us%2fdax%2fopeningbalanceyear-function-dax">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fdocs.microsoft.com%2fen-us%2fdax%2fopeningbalanceyear-function-dax">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://docs.microsoft.com/en-us/dax/openingbalanceyear-function-dax">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}OPENINGBALANCEYEAR (&lt;expression&gt;,&lt;dates&gt;[,&lt;filter&gt;][,&lt;year_end_date&gt;]){% endraw %}</strong> Evaluates the expression at the first date of the year in the current context.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://docs.microsoft.com/en-us/dax/openingbalanceyear-function-dax"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Microsoft
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://docs.microsoft.com/en-us/dax/keepfilters-function-dax"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=KEEPFILTERS+(%3cexpression%3e) https%3a%2f%2fdocs.microsoft.com%2fen-us%2fdax%2fkeepfilters-function-dax">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fdocs.microsoft.com%2fen-us%2fdax%2fkeepfilters-function-dax">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://docs.microsoft.com/en-us/dax/keepfilters-function-dax">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}KEEPFILTERS (&lt;expression&gt;){% endraw %}</strong> Modifies how filters are applied while evaluating a CALCULATE or CALCULATETABLE function.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://docs.microsoft.com/en-us/dax/keepfilters-function-dax"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Microsoft
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>Samples of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://everyday.cc/powerbi/sample/powerbi-community-microsoft-power-bi-linkedin-ads-report-dashboard-template/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Microsoft+Power+BI+LinkedIn+Ads+Report+Dashboard+Template https%3a%2f%2feveryday.cc%2fpowerbi%2fsample%2fpowerbi-community-microsoft-power-bi-linkedin-ads-report-dashboard-template%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fpowerbi%2fsample%2fpowerbi-community-microsoft-power-bi-linkedin-ads-report-dashboard-template%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/powerbi/sample/powerbi-community-microsoft-power-bi-linkedin-ads-report-dashboard-template/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}Microsoft Power BI LinkedIn Ads Report Dashboard Template{% endraw %}</strong> This Power BI LinkedIn Ads Report Dashboard Template helps you to visualize your LinkedIn Ads into Power BI in a few clicks. Dimensions and metrics</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/powerbi/sample/powerbi-community-microsoft-power-bi-linkedin-ads-report-dashboard-template/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Open Sample
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://everyday.cc/powerbi/sample/powerbi-community-database-schema-mapping/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Database+Schema+Mapping https%3a%2f%2feveryday.cc%2fpowerbi%2fsample%2fpowerbi-community-database-schema-mapping%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fpowerbi%2fsample%2fpowerbi-community-database-schema-mapping%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/powerbi/sample/powerbi-community-database-schema-mapping/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                <!--[if gte MSO 9]>
+  <table width="640">
+     <tr>
+        <td>
+<![endif]-->
+  <table width="100%" style="max-width:640px;">
+    <tr>
+      <td>
+        <a href="https://everyday.cc/powerbi/sample/powerbi-community-database-schema-mapping/"><img src="https://community.powerbi.com/oxcrx34285/attachments/oxcrx34285/DataStoriesGallery/3123/1/DatabaseSchemaMapping.png" width="96%" /></a>
+      </td>
+    </tr>
+  </table>
+<!--[if gte MSO 9]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+                                <p><strong>{% raw %}Database Schema Mapping{% endraw %}</strong> One of the easiest ways to map your database schema in Power BI. Really a helpful way to understand and visualize relationships between variuous</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/powerbi/sample/powerbi-community-database-schema-mapping/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ Open Sample
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+<tr>
+    <td style="font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:20px; text-align: center; padding: 30px;">
+        <strong>Influencers of the day</strong>
+    </td>
+</tr><tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://everyday.cc/powerbi/people/reza-rad/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/1-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Reza+Rad https%3a%2f%2feveryday.cc%2fpowerbi%2fpeople%2freza-rad%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fpowerbi%2fpeople%2freza-rad%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/powerbi/people/reza-rad/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}Reza Rad{% endraw %}</strong> #Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI </p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/powerbi/people/reza-rad/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ View Profile
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+<tr>
+    <td style="vertical-align: top; padding: 0 10px 40px; font-size: 0;">
+        <div style="max-width:660px; margin:0 auto;">
+            <!--[if mso]>
+        <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:640px">
+        <tr>
+        <td style="vertical-align:top; width: 35px;">
+        <![endif]-->
+
+            <div class="area-share">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <p
+                                style="float: left; margin: 0 0 10px; border-radius: 5px; background-color: #F2C811; width: 35px;">
+                                <a href="https://everyday.cc/powerbi/people/patrick-leblanc/"><img alt="" src="https://everyday.azureedge.net/media/2021/04/2-black.png"
+                                        width="35" height="35"></a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://twitter.com/intent/tweet?text=Patrick+LeBlanc https%3a%2f%2feveryday.cc%2fpowerbi%2fpeople%2fpatrick-leblanc%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/twitter.png" alt="Twitter" width="35" height="35">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a
+                                    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2feveryday.cc%2fpowerbi%2fpeople%2fpatrick-leblanc%2f">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/facebook.png" alt="Facebook" width="35" height="38">
+                                </a>
+                            </p>
+                            <p style="float: right; margin:0;">
+                                <a href="https://everyday.cc/powerbi/people/patrick-leblanc/">
+                                    <img alt="" src="https://everyday.azureedge.net/media/2021/04/link.png" alt="Link" width="35"
+                                        height="38">
+                                </a>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        <td style="vertical-align:top; width: 605px;">
+        <![endif]-->
+
+            <div class="area-content">
+                <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
+                    <tr>
+                        <td style="padding:0 10px;">
+                            <div style="margin:0 0 16px; font-family: Open Sans, Segoe UI, Tahoma, sans-serif;font-size:16px;line-height:28px">
+                                
+                                <p><strong>{% raw %}Patrick LeBlanc{% endraw %}</strong> Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events.</p>
+                            </div>
+                            <p
+                                style="padding-top: 10px; color: #000717; margin: 0; text-transform: uppercase; font-size: 14px; font-family: 'Open Sans', 'Segoe UI', Tahoma, sans-serif;">
+                                <a href="https://everyday.cc/powerbi/people/patrick-leblanc/"
+                                    style="color: #BF9C0F; text-decoration: none;">↪ View Profile
+                                </a>
+                            </p>
+                            <hr
+                                style="margin-top:40px; height:12px; background-color:#f8f8f8; background:url(https://everyday.azureedge.net/media/2021/04/hr.png); background-size:4px; color:#f8f8f8; border:0;">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <!--[if mso]>
+        </td>
+        </tr>
+        </table>
+        <![endif]-->
+        </div>
+    </td>
+</tr>
+
+
+      </table>
+      <!--[if mso]>
+    </td>
+    </tr>
+    </table>
+    <![endif]-->
+    </div>
+    <!--End of Content-->
+    <!--Footer-->
+    <table role="presentation" cellspacing="0" cellpadding="0" border="0"
+      style="width: 100%;">
+      <tr>
+        <td style="padding: 10px;">
+          <div style="font-size: 0; max-width: 640px; margin: 0 auto;" class="newsletter-content">
+            <!--[if mso]>
+          <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" style="width: 640px; margin: 0 auto;">
+          <tr>
+          <td align="left" style="vertical-align: middle; width: 140px;">
+          <![endif]-->
+
+            <div class="social-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" align="center">
+                <tr>
+                  <td>
+                    <a clicktracking="off" href="https://twitter.com/everydayfeeds"
+                      style="box-sizing: content-box; display: inline-block; width: 35px; height: 35px; border: 1px solid #200a00; Margin: 10px 16px 10px 0; text-align: center; border-radius: 50%;">
+                      <img alt="Twitter" src="https://everyday.azureedge.net/media/2021/04/twitter-black.png" border="0" height="35" width="35">
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+          </td>
+          <td align="left" style="vertical-align: middle; width: 500px;">
+          <![endif]-->
+
+            <div class="copyright-area">
+              <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%;">
+                <tr>
+                  <td>
+                    <p style="margin: 0; font-size: 12px; font-family: Open Sans, Segoe UI, sans-serif; line-height: 28px"
+                      class="sm-pt">
+                      <a href="mailto:hello@everyday.cc" style="text-decoration: none;">hello@everyday.cc</a><br />
+                      Copyright (c) 2020 Everyday.cc, All rights reserved.
+                    </p>
+                  </td>
+                </tr>
+              </table>
+            </div>
+
+            <!--[if mso]>
+          </td>
+          </tr>
+          </table>
+          <![endif]-->
+          </div>
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 20px;">
+          <div style="max-width: 640px; margin: 0 auto;" class="newsletter-content">
+            <!--[if mso]>
+          <table role="presentation" border="0" cellspacing="0" cellpadding="0" style="width: 640px; margin: 0 auto" align="center">
+          <tr>
+          <td align="left" style="vertical-align: middle;">
+          <![endif]-->
+
+            <table role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%;">
+              <tr>
+                <td>
+                  <p
+                    style="text-align: center; text-decoration: none; font-size: 12px; font-family: Open Sans, Segoe UI, sans-serif; line-height: 24px">
+                    {can-spam}
+                  </p>
+                </td>
+              </tr>
+            </table>
+
+            <!--[if mso]>
+          </td>
+          </tr>
+          </table>
+          <![endif]-->
+          </div>
+        </td>
+      </tr>
+    </table>
+    <!--End of Footer-->
+    <!--[if mso]>
+  </td>
+  </tr>
+  </table>
+  <![endif]-->
+  </center>
+</body>
+
+</html>
+
