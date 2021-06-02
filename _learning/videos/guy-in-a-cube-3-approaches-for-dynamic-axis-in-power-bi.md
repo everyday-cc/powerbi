@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M10S
 publishedDateTime: 2021-05-27T15:00:15Z
-heat: 171
+heat: 158
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dYmzb5UMkXw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 360
     isCached: true
 
-secured: "SC4elHSUn++myT8DTi5sTG6RytufHBJ97F691DfVp4nehZIGzyMJ9ioHoPt70biHxk6VbJ2GxWmf0Uv6Vk73GsMubxt9/fWR8whnXnhdwWNoY3XeYB59LxO0H15jgx/HeL8r7W/IoxJ7g0Rm2wZ6a2SvnX2QR+ZrFzbVzcimAGUcvvYD4J5f2uS9vgHgtCm/yPqo3tbpc6h+XNfVWpulPF2g0OQhi/nJsYl9koF6jDGo3UfMRyLxDTsp16IauBfSmO0toncuJz2Z9GnPaebdx1zdk4ubHGpVn4x/+7qqehJ/e0kNnR6qNlMagrpgBc61Kf0QPK1K/aLvDUvQamblpTJS0iZnxfHhy124Mj3PaG4fS8707Wm5cXEX4CHc0ixbtwAJv7iOX+qBRwZSbbY4SAryLzZLzElw0r7jmC84sZc=;QKo7oniNNCYXCeiJ/1mDFg=="
+secured: "Yt05ICXvKLERjkFEgj28XySvnQG0N86Y7Ri0zz2jGZt/FPGAKiNtwgn1TLHvWUiVtIYOlqKJ7KgC5wwk2Ya55cDjlfI+RrUNmC1ghX2Ah2vGx4FhJGlhO63VY8buXbVjv46fZsStEJhe96stcxQpkDE+BygxrNmgMTF23+GPhCJuMwUahUOKAP1TWRiZZUO/1wToQKeYI79YWGb0yQ8XVYJ6dlrHjcKXAfODCB/aDreSGLGVl0WMnu+oRg5k78hd+c6mKiuflTufTVfFg/wGwJmJkVFufJR6J/UtXMhXbP6ei7CEG02ckEMxwAnf/tJqulzSHx9sHZyxagGnaLjQD/dsipH0zfw5yTg7TCYainA23HFYM7ON7EJnIw6U+ViKtXG/jyeBLHAIuJsVb/AD6NqclQvYjtJJxCnDIg0HfkU=;LmdBGdv44ZYumWKNwPl3xw=="
 ---
 
