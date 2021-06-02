@@ -2414,8 +2414,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2128,
-            "average": 4.720865
+            "count": 2131,
+            "average": 4.7212577
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2791,8 +2791,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2425,
-            "average": 4.809072
+            "count": 2426,
+            "average": 4.8091507
           },
           "provider": {
             "name": "Microsoft Learn",
