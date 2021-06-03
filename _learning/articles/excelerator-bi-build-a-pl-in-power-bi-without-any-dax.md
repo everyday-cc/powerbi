@@ -4,7 +4,7 @@ excerpt: "This is the third article where I have covered building a P&#38;L in P
 webUrl: https://exceleratorbi.com.au/build-a-pl-in-power-bi-without-any-dax/
 type: article
 publishedDateTime: 2021-05-28T00:21:42Z
-heat: 132
+heat: 133
 
 provider:
   name: Excelerator BI
