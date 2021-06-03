@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-ma
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2021-feature-summary/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
