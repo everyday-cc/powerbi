@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-09-18-power-bi-new-look-updated-close-to-becoming-default-experience.md",
+      "title": "Power BI 'new look' updated, close to becoming default experience",
+      "excerpt": "The visual refresh for Microsoft's Power BI service has been updated even further based on user feedback. It will soon be ready to be released as the default experience for all users.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-18-power-bi-new-look-updated-close-to-becoming-default-experience/index.json",
+      "webUrl": "https://www.neowin.net/news/power-bi-new-look-updated-close-to-becoming-default-experience",
+      "originalUrl": "https://www.neowin.net/news/power-bi-new-look-updated-close-to-becoming-default-experience",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gPGy18Yo0Go\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779301_powerbi1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/power-bi-new-look-updated-close-to-becoming-default-experience/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-new-look-updated-close-to-becoming-default-experience/",
+      "publishedDateTime": "2020-09-17T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2020-09-17-updates-to-the-8216new-look-experience-and-release-plan.md",
       "title": "Updates to the &#8216;new look᾿ experience and release plan",
       "excerpt": "The ‘new look’ of the Power BI service is evolving again based on your feedback during public preview&#8230;",
@@ -1216,58 +1268,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-03-power-bi-visuals-dax-studio-and-more-roundup-august-3-2020.md",
-      "title": "Power BI visuals, DAX Studio and more... (Roundup | August 3, 2020)",
-      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup188 2 Minute Tuesday: https://guyinacu.be/overlap Patrick's tech video: https://guyinacu.be/condrill  🔴 Live Replay: https://guyinacu.be/live020  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-08-03-power-bi-visuals-dax-studio-and-more-roundup-august-3-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-08-03-power-bi-visuals-dax-studio-and-more-roundup-august-3-2020/",
-      "originalUrl": "https://youtube.com/watch?v=6dpqPc4Fobs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6dpqPc4Fobs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6dpqPc4Fobs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-03T08:00:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     }
   ],
