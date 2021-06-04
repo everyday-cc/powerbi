@@ -1080,8 +1080,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 31,
-            "average": 4.806452
+            "count": 32,
+            "average": 4.78125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1456,8 +1456,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9188,
-            "average": 4.67414
+            "count": 9189,
+            "average": 4.6741757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2409,8 +2409,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 3798,
-            "average": 4.7585573
+            "count": 3799,
+            "average": 4.7583575
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2619,8 +2619,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 2412,
-            "average": 4.7097845
+            "count": 2413,
+            "average": 4.7099047
           },
           "provider": {
             "name": "Microsoft Learn",
