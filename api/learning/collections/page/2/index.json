@@ -1550,7 +1550,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 140,
+          "heat": 60,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
@@ -2414,8 +2414,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 636,
-            "average": 4.751572
+            "count": 637,
+            "average": 4.7488227
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2858,8 +2858,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1666,
-            "average": 4.7160864
+            "count": 1667,
+            "average": 4.7162566
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2900,8 +2900,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2444,
-            "average": 4.8081017
+            "count": 2445,
+            "average": 4.807362
           },
           "provider": {
             "name": "Microsoft Learn",
