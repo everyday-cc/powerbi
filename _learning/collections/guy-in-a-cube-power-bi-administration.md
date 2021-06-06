@@ -2,7 +2,7 @@
 title: "Power BI Administration"
 excerpt: "This list includes all things related to administering Power BI. This includes dealing with licenses, working with Azure Active Directory and Office 365 and account issues."
 type: collection
-heat: 61
+heat: 60
 
 provider:
   name: Guy in a Cube
