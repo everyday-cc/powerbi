@@ -1049,14 +1049,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-export-power-bi-to-ms-word-pdf-paginated-reports-with-power-automate-and-power-bi.md",
-      "title": "Export Power BI to MS Word / PDF | Paginated reports with Power Automate and Power BI",
-      "excerpt": "In today's video I will show you how to export a Power BI file to word or PDF and email it to somebody!!  Chapters: 00:00 Intro 00:35 Pre-requisites / Licenses 01:00 Prepare the word template 05:00 Configure the flow in Power BI  Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-export-power-bi-to-ms-word-pdf-paginated-reports-with-power-automate-and-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-export-power-bi-to-ms-word-pdf-paginated-reports-with-power-automate-and-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=lqlYl3pVL1g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lqlYl3pVL1g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M51S",
+      "path": "_learning/videos/curbal-get-power-bi-data-in-excel-without-pivot-tables-excel-data-types.md",
+      "title": "Get Power BI data in Excel without Pivot Tables | Excel Data Types",
+      "excerpt": "Depending on the Power Bi license and the version of excel you have, you can connect Power BI and Excel using the Get Data - Power BI Datasets, but there is another way that will allow you to grab the data without setting a Pivot Table.   Let me show you how in today's video!  Here you can download all",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-get-power-bi-data-in-excel-without-pivot-tables-excel-data-types/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-get-power-bi-data-in-excel-without-pivot-tables-excel-data-types/",
+      "originalUrl": "https://youtube.com/watch?v=6E3uAdJ4S7w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6E3uAdJ4S7w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M34S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -1069,11 +1069,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-05-03T04:52:25-07:00",
+      "publishedDateTime": "2021-05-10T07:04:51-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/lqlYl3pVL1g/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6E3uAdJ4S7w/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
