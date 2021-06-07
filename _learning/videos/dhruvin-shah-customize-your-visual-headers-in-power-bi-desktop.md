@@ -4,9 +4,9 @@ excerpt: "In this video we will talk about how we can easily change the formatti
 originalUrl: https://youtube.com/watch?v=KmsRgOsv54c
 type: video
 price: Free
-length: PT5M30S
+length: PT5M29S
 publishedDateTime: 2020-03-25T11:50:52Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KmsRgOsv54c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "xh/JfZhbyYZzY0npPH6bjLP/dpoa0p83+TSihfyMaWgeOyH7VMx40Zr9NrJJ8HVzdl/qxgIHTN/kFrOiMSnLpYejrpgg1UfYdxd9g2fS/QFAQFzHR6VL+UTAOwlGYJqAedlvOc8XPko9gaf+57lV/CUDTrHo0ETaSZ5BhnUH3Vt+KNK9m0vl3bEKjo1TCbQQlSY/qFtSWWdoWNrHHhNPfw0bfxk3nbshJ7O/g0NEjQvZIjqHzvLW54otYQDWsiS9VvQV/DzFhdIgttpt3Zt/9JIKkiajKWanzsX2YKykt6QBgUbwDrSLPQd7Nlu4D3+4rHB9ddir/sxqbt2lwroQhGo2mN6gCyHwgstsHOE0xhoICefPorJNP9ZmzFg1dszaadu5+TQYr9qgb4mJ4xeFEy7rKoRY9sLM3YplUq5bLKg=;1XCJ/lAZ+2ywytBAsHW2pg=="
+secured: "qgn+K92eZukCpy4xjYpO91ZhDhZaPcaaoaswWAANepusipc9ducWyD+li5mZPi1EZQ2dRidHqNQgswZ/4BaS4Sy+eglfIMRhavJbih5PeaLFSI7PxgEcFHBCpBaHu/sb/bhf/tYHeSvYEPLmOhac5qWh40frO/QdKUlNTPFHOI5GrgoWtjVj4gwyhl4OO1xpb3O5tXgPOZ1zN2mRe6MHtkFAOPYNRou1cfwe1i19jDT7/C7xaD9JVaSV2nIbFv4yJMdvWKqfRMoCghywZZEVZVlHDzUCtb5t2HMM4rg7In0wjr7j2xYoW+sr4P5dk4e9qslLD9U6UfSDfEGhSRL2wY2eL9TtKNusyKxaZ0LXikUDucpgGDb9IsAr395/D7GsNxxZdlqk+jzPYnWKlw1hpBaQtN1KTfi72t1eT7oyIy0=;Tur/ytJOlhw5gE7dc1byhA=="
 ---
 
