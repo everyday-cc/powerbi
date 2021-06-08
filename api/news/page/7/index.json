@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-20-power-bi-october-2020-feature-summary.md",
+      "title": "Power BI October 2020 Feature Summary",
+      "excerpt": "Visuals, visuals, visuals. It is (almost) all about visuals this month with loads of new visuals and updates to existing visuals. Also, we are helping users getting started with the introduction of canvas watermarks. Power BI is getting a shiny new icon and we are adding a dismiss option to the Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-20-power-bi-october-2020-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-october-2020-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-october-2020-feature-summary/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LveNuQqV5xk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T02:01:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-new-gateway-power-bi-data-source-management-and-more-roundup-october-19-2020.md",
       "title": "New Gateway, Power BI data source management and more... (Roundup | October 19, 2020)",
       "excerpt": "Thanks for watching this week's Power BI news roundup!  Patrick's tech video: https://guyinacu.be/levelupdrill Adam's tech video: https://guyinacu.be/teamsapp  Live Stream Clips: https://guyinacu.be/clips  🔴 Live Replay: https://guyinacu.be/live029  📢 Become a member: https://guyinacu.be/membership",
@@ -1192,57 +1244,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-19-become-a-certified-data-expert-with-this-excel-and-power-bi-training-currently-97-off.md",
-      "title": "Become a certified data expert with this Excel and Power BI training, currently 97% off",
-      "excerpt": "From forecasting sales to analyzing customer behavior, data skills are more valuable than ever. If you want to impress recruiters, the 2020 Master Microsoft Excel &",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-19-become-a-certified-data-expert-with-this-excel-and-power-bi-training-currently-97-off/index.json",
-      "webUrl": "https://www.techspot.com/news/86065-become-certified-data-expert-excel-power-bi-training.html",
-      "originalUrl": "https://www.techspot.com/news/86065-become-certified-data-expert-excel-power-bi-training.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/09/2020-09-18-image-3.png",
-          "width": 3000,
-          "height": 1771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/86065-become-certified-data-expert-excel-power-bi-training.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/86065-become-certified-data-expert-excel-power-bi-training.html",
-      "publishedDateTime": "2020-09-18T16:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
