@@ -2346,8 +2346,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9210,
-            "average": 4.673941
+            "count": 9211,
+            "average": 4.673868
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2588,8 +2588,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 3823,
-            "average": 4.7585664
+            "count": 3824,
+            "average": 4.75863
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2673,8 +2673,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 4085,
-            "average": 4.769645
+            "count": 4086,
+            "average": 4.7697015
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2993,8 +2993,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2455,
-            "average": 4.806925
+            "count": 2457,
+            "average": 4.806675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3118,8 +3118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 71,
-            "average": 4.732394
+            "count": 72,
+            "average": 4.736111
           },
           "provider": {
             "name": "Microsoft Learn",
