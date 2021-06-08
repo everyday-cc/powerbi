@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M51S
 publishedDateTime: 2020-03-29T20:58:11Z
-heat: 54
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IWJn2jVyb2o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "/OG6pVbIAOBKkpA71YqVPSQDslRuCR/ed2XYXxkO88nYrwwynyQBEGshgV+8IfR/cy2GCX8IrpQti+zfxBfcF8nTpg75MhA4nF9nVke9kQz04BSbjY0jJFxSlIQpHmFQt2JWWvReVHcdEOiB9Zlel7uShYkc7BVeCSee9kooStOEO+Cw9C999xxBcJhljSr0nQcfyG3AzonO0B98P9y8pm+z5gkcD69SYwT2/k2CRFG6tIvmUS6352itKx3rJAvIc+YlXSW/hxMEVqjotR+U4xuSKIL/3brEhoWGygXwZ8Z1kPfUSJYz1AxuQ8GvnVkKfv9JSZPQiHaHtFGSqr2K/FQAGCdGOoItFJvEy5njya1zl8ci/n2sRRv7LDWmi7H4shTmBcXDlkxOU7yauTNTEo9/5vwAEH5DCdjJmlRVnM0=;r35fFbkmKWD2BEp9mU+Fcg=="
+secured: "vw/Nqzf4IS44C2xZ+UsU/W8GhrI3Beheatliscyz/Am1glX+4u60mSrVWa+4MN/ht4dexkPxjSaR0lXxG+NiN0wdSY/yzv3Xn5fPF0ocgek//RQh5IEUGmcgKVQ2i25AiPAhjDPODt8s9k9SAktttHZjTqMnpG8epRoAEURDAtfjczxCyU/cac8hTA7JLBkxCo1eChQkti3QV+5y1HQzIog8QaVnIiCfmpzMQR9dZLzIsVrC+j85/6u0aV8wXvj+IgGareXR1rAPCdcb0tOgpHFslULOSPDKlFXOnzVlvdztU3syuySXIJQ0LSIop8VS5JpzRXaubz76MYbLTWLzO/f6hhT35HSLVEUa1Z6Ax2SrikDr5cp9neqDbQmvmYvFZWrYAPZIqUs2Q+E8zgvitbmSlc7hH35ecaCAQCoKnFo=;Cyzt2QVygj7Q3HawUULEeg=="
 ---
 

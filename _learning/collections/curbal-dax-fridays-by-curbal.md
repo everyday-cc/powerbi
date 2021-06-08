@@ -2,7 +2,7 @@
 title: "DAX Fridays by Curbal"
 excerpt: "Are you new to DAX or are you having problems with a specific DAX function? In this playlist, I cover a new DAX function every friday, so you and I can learn DAX in depth."
 type: collection
-heat: 66
+heat: 69
 
 provider:
   name: Curbal
@@ -197,13 +197,10 @@ items:
   - videos/curbal-dax-fridays-176-speed-up-your-direct-query-reports-with-a-single-click-kindof
   - videos/curbal-dax-fridays-177-my-dax-measure-is-incorrect-how-do-i-troubleshoot-it
   - videos/curbal-dax-fridays-178-my-age-calculations-in-dax-and-power-query-are-wrong-how-do-i-do-it
-  - videos/curbal-dax-fridays-180-find-text-in-columns-using-dax
+  - videos/curbal-dax-fridays-179-use-a-slicer-to-highlight-values-instead-of-filter-them-in-power-bi-
   - videos/curbal-dax-fridays-180-find-text-in-columns-using-dax
   - videos/curbal-dax-fridays-181-cant-covert-text-into-dates-using-dax-here-is-why
   - videos/curbal-dax-fridays-183-virtual-relationships-with-intersect
-  - videos/curbal-dax-fridays-183-virtual-relationships-with-intersect
-  - videos/curbal-dax-fridays-179-use-a-slicer-to-highlight-values-instead-of-filter-them-in-power-bi-
-  - videos/curbal-dax-fridays-182-virtual-relationships-with-contains-dax-function
   - videos/curbal-dax-fridays-182-virtual-relationships-with-contains-dax-function
   - videos/curbal-dax-fridays-182-why-your-power-bi-tables-sometimes-filter-sometimes-dont
   - videos/curbal-dax-fridays-183-how-to-deal-with-multiple-dates-in-power-bi
@@ -235,8 +232,8 @@ items:
   - videos/curbal-dax-fridays-207-ifeager-what-are-eager-evaluations
   - videos/curbal-dax-fridays-208-open-orders-in-dax-events-in-progress-time-intelligence
   - videos/curbal-dax-fridays-209-allocation-calculations-in-dax-generate
-  - videos/curbal-dax-fridays-210-allocation-calculations-grouped-by-period-groupby-currentgroup
   - videos/curbal-dax-fridays-210-is-the-end-of-dax-coding-near-microsoft-build-announcements-for-power-bi
+  - videos/curbal-dax-fridays-210-allocation-calculations-grouped-by-period-groupby-currentgroup
 
 topics:
   - Power BI
