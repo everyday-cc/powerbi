@@ -144,8 +144,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 382,
-            "average": 4.7617803
+            "count": 383,
+            "average": 4.762402
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1339,7 +1339,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-collaboration-social.png",
@@ -2574,8 +2574,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 3835,
-            "average": 4.757497
+            "count": 3837,
+            "average": 4.7573624
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2659,8 +2659,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 4100,
-            "average": 4.769512
+            "count": 4101,
+            "average": 4.769325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3104,8 +3104,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 72,
-            "average": 4.736111
+            "count": 73,
+            "average": 4.739726
           },
           "provider": {
             "name": "Microsoft Learn",
