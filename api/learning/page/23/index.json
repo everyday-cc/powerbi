@@ -465,8 +465,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/",
       "length": "PT57M",
       "ratings": {
-        "count": 2750,
-        "average": 4.6963634
+        "count": 2751,
+        "average": 4.696474
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -594,8 +594,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 885,
-        "average": 4.699435
+        "count": 886,
+        "average": 4.6997743
       },
       "provider": {
         "name": "Microsoft Learn",
