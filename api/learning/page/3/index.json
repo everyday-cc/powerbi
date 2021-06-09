@@ -41,8 +41,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 18773,
-        "average": 4.713525
+        "count": 18774,
+        "average": 4.71354
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -397,8 +397,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 5842,
-            "average": 4.7656627
+            "count": 5845,
+            "average": 4.765783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -439,8 +439,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 7148,
-            "average": 4.7777
+            "count": 7150,
+            "average": 4.7777624
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -499,8 +499,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 7148,
-        "average": 4.7777
+        "count": 7150,
+        "average": 4.7777624
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1056,8 +1056,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 2653,
-            "average": 4.646061
+            "count": 2654,
+            "average": 4.6458178
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1098,8 +1098,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 2360,
-            "average": 4.6351695
+            "count": 2361,
+            "average": 4.635324
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1158,7 +1158,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 58,
+          "heat": 59,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-dashboards-power-bi-social.png",
