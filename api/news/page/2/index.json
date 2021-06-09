@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-05-microsoft-brings-support-for-power-bi-connected-pivottables-to-excel-on-the-web.md",
+      "title": "Microsoft brings support for Power BI connected PivotTables to Excel on the web",
+      "excerpt": "Microsoft announced that it is bringing support for Power BI connected PivotTables to Excel on the web. The feature on the desktop will also receive new features and performance improvements.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-05-microsoft-brings-support-for-power-bi-connected-pivottables-to-excel-on-the-web/index.json",
+      "webUrl": "https://www.neowin.net/news/microsoft-brings-support-for-power-bi-connected-pivottables-to-excel-on-the-web/",
+      "originalUrl": "https://www.neowin.net/news/microsoft-brings-support-for-power-bi-connected-pivottables-to-excel-on-the-web/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/03/1553427262_excel1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-introducing-goals-in-power-bi.md",
       "title": "Introducing Goals in Power BI",
       "excerpt": "Organizations exist to achieve business objectives and in today’s data driven world, we know that progress is measured through data. However, this is often challenging as goal tracking systems are disconnected from your business data and often require manual updates. Not only that, but goals need to",
@@ -1195,57 +1246,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-16T03:37:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-odbc-support-available-for-paginated-reports-in-public-preview.md",
-      "title": "ODBC support available for Paginated Reports in public preview",
-      "excerpt": "We’re excited to share that Power BI paginated reports will be able to connect through the on-premises data gateway to any data source with an ODBC option in Power BI Report Builder as public preview",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-16-odbc-support-available-for-paginated-reports-in-public-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/odbc-support-available-for-paginated-reports-in-public-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/odbc-support-available-for-paginated-reports-in-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-16T01:42:43-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
