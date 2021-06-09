@@ -2749,8 +2749,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 4095,
-            "average": 4.769475
+            "count": 4096,
+            "average": 4.7695312
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3027,8 +3027,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1678,
-            "average": 4.716329
+            "count": 1679,
+            "average": 4.716498
           },
           "provider": {
             "name": "Microsoft Learn",
