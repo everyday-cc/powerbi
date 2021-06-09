@@ -2,7 +2,7 @@
 title: "Power BI and MS Teams Integration"
 excerpt: "Welcome to Power BI and MS Teams Integration step by step series. "
 type: collection
-heat: 61
+heat: 60
 
 provider:
   name: Dhruvin Shah
