@@ -2,11 +2,11 @@
 category: news
 title: "Build 2021: Microsoft reveals enhancements to Power BI, Cosmos DB"
 excerpt: "Let's start with Microsoft's Power BI announcements. These include the ability for Power BI dataflows (the cloud-based incarnation of Power Query) to handle streaming data sources, starting with ..."
-publishedDateTime: 2021-05-25T22:07:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/"
-webUrl: "https://www.zdnet.com/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/"
+publishedDateTime: 2021-05-26T04:42:00Z
+originalUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/"
+webUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/"
+ampWebUrl: "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/"
 type: article
 quality: 97
 heat: 97
@@ -29,6 +29,6 @@ images:
     height: 1010
     isCached: true
 
-secured: "e0VKvyL4qK1ST6CdUwA/tEwv6LSoFXi/DbIX8WeF2lg3oOzp1FN7IFEfBt0zhxV/ritLpAtPb0XNn75lFWkYnYn+b3uZ0DQ8nuoGdv8SErFHU2TCFj9FIhmtnIRYHB9rtJx++mvKUZG76SwtajE3cpalBAHCD3mrt/pCKoz8TG+eMnRXpCk3T8w2xgLL8THKBVIZFqg2aM2iXJQL0/UJhvSD7AuAviAaAET3SiueQauDTlINVJNnYERO6e0jPd4q73aXlAeIPr2sX2RVbjV9peybY++53KjpAUZFIFUg6B51xdjgIp15w2jamg4n70yysew1r3vwq9f2h1vzzVes2Wu+mQXBYKVv47KKlLV7+o4=;tYMf1hiYnOtVfG+223BaAQ=="
+secured: "JwGrOZ9TCobUsR5mKiNOPP49uwXaC73PfwyvccMYJZj9grWO/ZVlQRmJWKr4GxPyyE0vAFMtz8bB+clXMbUxjY66k16V5ijv3Vc/ulCxDDOizIELhlRVa4pGWF3pwR4ztmYGBjF5ndUl8Yh/SEThHe/fUyEXLk7p/qqPe2H0MvWjJfr5lm8/8lCWzvjdLdp3ymbp2S92D4ofSz/1EKYPGTbe21FNx+E/wwbSbIX4LlM+ayV/05BcvGEW/cMfseJIrma4ZFC1FGZblo5BZBCoiR0shHFa8G4F2Aq5iSEQTUTN/emm5/JCyRMybnpCn/VDCnUtw+oe7HuTyi2pz/1IGkt5ObdunpL5+rYjyd7L4Pc=;5mwwtuQHLskwQFf6CP1oxg=="
 ---
 
