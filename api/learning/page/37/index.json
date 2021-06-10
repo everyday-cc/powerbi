@@ -4,6 +4,156 @@
   "page": 37,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-3-reasons-why-no-one-should-be-a-power-bi-consultant-.md",
+      "title": "3 Reasons Why *NO ONE* Should be a Power BI Consultant ☠️⚠️🚧🛑",
+      "excerpt": "Want to learn the 5-Steps to become a successful Power BI Consultant? 👉 Sign Up for our Free Webinar on Thu Jan 21: https://web.learnpowerbi.com/consultant/  If you are thinking about creating a side-income or full-time income as a \"Power BI Consultant\"…then you must first watch this video. I share",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-3-reasons-why-no-one-should-be-a-power-bi-consultant-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-3-reasons-why-no-one-should-be-a-power-bi-consultant-/",
+      "originalUrl": "https://youtube.com/watch?v=LdZXrVe9g14",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LdZXrVe9g14\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M32S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2021-01-13T09:16:37-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LdZXrVe9g14/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-5-steps-to-master-power-bi-are-you-missing-a-step-.md",
+      "title": "5 Steps to Master Power BI: Are You Missing a Step? 🤔",
+      "excerpt": "How can you master Power BI? Even though there are 1000s of videos and training lessons available for Power BI…why do some people still struggle to master Power BI? To feel confident and comfortable using Power BI? Why do they keep getting stuck? Unable to cross the learning-doing gap?  Imagine if you",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-5-steps-to-master-power-bi-are-you-missing-a-step-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-5-steps-to-master-power-bi-are-you-missing-a-step-/",
+      "originalUrl": "https://youtube.com/watch?v=wM8x4eA3wdc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wM8x4eA3wdc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M34S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2020-10-14T09:00:14-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wM8x4eA3wdc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-dashboard-showcase-and-review-sales-dashboard-by-akash-bagul-bonus.md",
+      "title": "Dashboard Showcase and Review:  Sales Dashboard by Akash Bagul ★BONUS★",
+      "excerpt": "To present your own Dashboard on our Next Showcase, please visit 👉 https://www.learnpowerbi.com/dashboard  ================================\r 👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial\r 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-dashboard-showcase-and-review-sales-dashboard-by-akash-bagul-bonus/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-dashboard-showcase-and-review-sales-dashboard-by-akash-bagul-bonus/",
+      "originalUrl": "https://youtube.com/watch?v=VVzi_yQha9Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VVzi_yQha9Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M59S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2021-01-15T11:36:29-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VVzi_yQha9Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-how-to-always-include-blank-dates-in-power-bi-qa.md",
+      "title": "How to Always Include Blank Dates in Power BI #Q&A",
+      "excerpt": "Today we are answering a question that came in from one of our Learn Power BI Family members, Venkatesh. 👉 Download Power BI File in Video at https://web.learnpowerbi.com/download/  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files for Video",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-how-to-always-include-blank-dates-in-power-bi-qa/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-how-to-always-include-blank-dates-in-power-bi-qa/",
+      "originalUrl": "https://youtube.com/watch?v=v_117Mwmw2c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v_117Mwmw2c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M10S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-01-29T02:43:59-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v_117Mwmw2c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-how-to-create-a-power-bi-composite-model-and-whats-new.md",
+      "title": "How to Create a Power BI Composite Model and What’s New!",
+      "excerpt": "Find out what’s new with Power BI Composite Models and learn how to create one step-by-step.  • Composite Models combine the Import and Direct Query Mode • Find out why Composite Models may hold the key to bring IT & Business together ===Power BI Resources=== 👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-how-to-create-a-power-bi-composite-model-and-whats-new/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-how-to-create-a-power-bi-composite-model-and-whats-new/",
+      "originalUrl": "https://youtube.com/watch?v=043x57_b1Oc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/043x57_b1Oc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M20S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-08-30T00:26:37-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/043x57_b1Oc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-how-to-cross-join-in-power-bi-using-power-query-the-smart-and-the-dumb-way.md",
       "title": "How to Cross Join ❌ in Power BI Using Power Query: The Smart and the Dumb Way!",
       "excerpt": "How can you create a Cross Join in Power BI using Power Query? Watch the video to learn: 1. What is a Cross Join? 2. When to Use a Cross Join? 3. The Dumb Way to Cross Join (Yes, I was doing it for years) 4. The Smart Way to Cross Join  Links Mentioned in the Video: 👉 Power BI: The Ultimate Calendar",
@@ -850,156 +1000,6 @@
           "url": "https://i.ytimg.com/vi/-7M4muS_3BI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/power-bi-tips-charticulator-custom-visuals-with-daniel-marsh-patrick.md",
-      "title": "Charticulator Custom Visuals (with Daniel Marsh-Patrick)",
-      "excerpt": "Come hang out as Daniel Marsh-Patrick shows us to use the amazing charticular web browser tool to make custom visuals to use in Power BI reports!  RELATED CONTENT 🔗 Daniel's Website -- https://coacervo.co/ Daniel's Twitter -- https://twitter.com/the_d_mp   LET'S CONNECT! 🧑🏽‍🤝‍🧑🏽 🌟 -- https://twitter.com/HavensBI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-charticulator-custom-visuals-with-daniel-marsh-patrick/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-charticulator-custom-visuals-with-daniel-marsh-patrick/",
-      "originalUrl": "https://youtube.com/watch?v=jAxSH7_6paI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jAxSH7_6paI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H39M13S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2021-03-11T09:17:55-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jAxSH7_6paI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-2-scaffolds.md",
-      "title": "Charticulator Visual IS HERE!!! - Season 1 Episode 2 - Scaffolds",
-      "excerpt": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.    This video we are exploring the different Scaffolds.  Official blog post about the visual: https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/  Visit the early version",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-2-scaffolds/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-2-scaffolds/",
-      "originalUrl": "https://youtube.com/watch?v=kjtAN_iSnR8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kjtAN_iSnR8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT47M59S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2021-04-17T14:28:46-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kjtAN_iSnR8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/power-bi-tips-power-bi-custom-visuals-with-charticulator.md",
-      "title": "Power BI Custom Visuals with Charticulator",
-      "excerpt": "#PowerBI #Visualization #CustomVisual #Charticulator",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-power-bi-custom-visuals-with-charticulator/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-power-bi-custom-visuals-with-charticulator/",
-      "originalUrl": "https://youtube.com/watch?v=FX9ZI9bNlg8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FX9ZI9bNlg8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M29S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2021-03-11T09:19:26-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FX9ZI9bNlg8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-alm-toolkit-with-christian-wade.md",
-      "title": "PowerBI.Tips - Tutorial - ALM ToolKit with Christian Wade",
-      "excerpt": "The ALM Toolkit is an excellent tool for aiding users with Tabular Model management.  Christian Wade has been generous enough to provide us with a detailed tutorial on the ALM ToolKit.    ALM Toolkit provides the following features: - Database Compare - Code Merging - Easy Deployments - Source-Control",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-alm-toolkit-with-christian-wade/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-alm-toolkit-with-christian-wade/",
-      "originalUrl": "https://youtube.com/watch?v=yKvMrQlUrCU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yKvMrQlUrCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M29S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2020-04-14T15:58:12-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yKvMrQlUrCU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-best-practice-analyzer-in-tabular-editor.md",
-      "title": "PowerBI.Tips - Tutorial - Best Practice Analyzer in Tabular Editor",
-      "excerpt": "Tabular Editor is an incredible Tool that enables users to manipulate a Tabular Model at lighting speeds.  Daniel Otykier is the creator of Tabular Editor.  In this video Daniel teaches us how to use the Best Practice Analyzer.    The Best Practice Analyzer can review your model for code errors, or common",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-best-practice-analyzer-in-tabular-editor/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-best-practice-analyzer-in-tabular-editor/",
-      "originalUrl": "https://youtube.com/watch?v=5WnN0NG2nBk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5WnN0NG2nBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M42S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2020-04-03T08:59:09-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5WnN0NG2nBk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],

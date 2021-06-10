@@ -743,8 +743,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1868,
-            "average": 4.772484
+            "count": 1869,
+            "average": 4.772606
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -785,8 +785,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1686,
-            "average": 4.717082
+            "count": 1687,
+            "average": 4.7172494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -880,48 +880,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-data-driven-story-power-bi.md",
-      "title": "Create a data-driven story with Power BI reports",
-      "excerpt": "Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-driven-story-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
-      "length": "PT1H44M",
-      "ratings": {
-        "count": 2366,
-        "average": 4.634404
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-reports-with-power-bi-desktop-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
       "title": "Describe Power BI Desktop models",
       "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
@@ -929,8 +887,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
       "length": "PT20M",
       "ratings": {
-        "count": 1322,
-        "average": 4.759455
+        "count": 1323,
+        "average": 4.758881
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -972,8 +930,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 1686,
-        "average": 4.717082
+        "count": 1687,
+        "average": 4.7172494
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -996,6 +954,48 @@
           "url": "https://docs.microsoft.com/learn/achievements/manage-datasets-in-power-bi-social.png",
           "width": 643,
           "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-visuals-power-bi.md",
+      "title": "Work with Power BI visuals",
+      "excerpt": "Learn how to choose from the exceptional visuals that Power BI makes available to you. Formatting visuals will direct the user’s attention to exactly where you want it, while helping to make the visual easier to read and interpret. You will also learn about how to use key performance indicators (KPIs).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
+      "length": "PT1H13M",
+      "ratings": {
+        "count": 2655,
+        "average": 4.6459513
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
+          "width": 640,
+          "height": 318,
           "isCached": true
         }
       ],

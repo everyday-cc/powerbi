@@ -35,45 +35,6 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-computing-rolling-average-in-dax.md",
-      "title": "Computing rolling average in DAX",
-      "excerpt": "Computing the rolling 12-months average in DAX looks simple, but it hides some level of complexity.  This article explains how to write the best formula and how to avoid common pitfalls using time intelligence functions.\r Article and download: https://sql.bi/15161?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-computing-rolling-average-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-computing-rolling-average-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=ACvYaXnpyCM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ACvYaXnpyCM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M43S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-06T03:00:31-07:00",
-      "heat": 139,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ACvYaXnpyCM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-dax-fridays-210-is-the-end-of-dax-coding-near-microsoft-build-announcements-for-power-bi.md",
       "title": "DAX Fridays! #210: Is the end of DAX coding near? - Microsoft Build announcements for Power BI",
       "excerpt": "Another month, another Microsoft conference and more Power BI updates. Lets review the updates for Power BI here.  Chapters: 00:00 Intro 00:36 Automatic aggregations in power bi 01:10 Streaming dataflows 01:40 Deployment pipeline  02:00 Natural language powered by GPT-3   Enjoy your day!  Here you can",
@@ -1257,6 +1218,222 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-use-dax-in-power-bi-desktop.md",
+      "title": "Use DAX in Power BI Desktop",
+      "excerpt": "This learning path introduces Data Analysis Expressions (DAX) and provides you with foundational skills required to enhance data models with calculations. It starts by describing Power BI Desktop model structure and how it can be enhanced with DAX calculations. It then describes how you can write DAX formulas and the different types of model calculations, including calculated tables and columns, and measures. Evaluation contexts are introduced, and subsequent lessons describe how to write DAX formulas that modify filter context. Finally, you learn to write DAX expressions using time intelligence functions and iterator functions.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-use-dax-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-use-dax-in-power-bi-desktop/",
+      "length": "PT2H4M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
+          "title": "Describe Power BI Desktop models",
+          "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
+          "length": "PT20M",
+          "ratings": {
+            "count": 1323,
+            "average": 4.758881
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power BI Desktop"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-dax-power-bi-write-formulas.md",
+          "title": "Write DAX formulas for Power BI Desktop models",
+          "excerpt": "In this module, you'll learn how to write DAX formulas to create calculated tables, calculated columns, and measures, which are different types of model calculations. Additionally, you'll learn how to write and format DAX formulas, which consist of expressions that use functions, operators, references to model objects, constants, and variables.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-write-formulas/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 892,
+            "average": 4.7017937
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power BI Desktop",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables.md",
+          "title": "Add calculated tables and columns to Power BI Desktop models",
+          "excerpt": "By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query computed columns.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
+          "length": "PT19M",
+          "ratings": {
+            "count": 642,
+            "average": 4.7507787
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-add-calculated-tables-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power BI Desktop"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-dax-power-bi-add-measures.md",
+          "title": "Add measures to Power BI Desktop models",
+          "excerpt": "In this module, you'll learn how to work with implicit and explicit measures. You'll start by creating simple measures, which summarize a single column or table. Then, you'll create more detailed measures based on other measures in the model. Additionally, you'll learn about the similarities of, and differences between, a calculated column and a measure.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-measures/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
+          "length": "PT13M",
+          "ratings": {
+            "count": 570,
+            "average": 4.733333
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/add-measures-power-bi-desktop-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power BI Desktop"
+          ]
+        }
+      ],
+      "size": 7,
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-creating-a-simple-date-table-in-power-bi.md",
       "title": "Creating a simple date table in Power BI",
       "excerpt": "This video shows how to build a basic date table using a calculated table and DAX. Article and download: https://sql.bi/137725",
@@ -2026,218 +2203,195 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-use-dax-in-power-bi-desktop.md",
-      "title": "Use DAX in Power BI Desktop",
-      "excerpt": "This learning path introduces Data Analysis Expressions (DAX) and provides you with foundational skills required to enhance data models with calculations. It starts by describing Power BI Desktop model structure and how it can be enhanced with DAX calculations. It then describes how you can write DAX formulas and the different types of model calculations, including calculated tables and columns, and measures. Evaluation contexts are introduced, and subsequent lessons describe how to write DAX formulas that modify filter context. Finally, you learn to write DAX expressions using time intelligence functions and iterator functions.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-use-dax-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-use-dax-in-power-bi-desktop/",
-      "length": "PT2H4M",
+      "path": "_learning/collections/sqlbi-dax-101-by-sqlbi.md",
+      "title": "DAX 101 by SQLBI",
+      "excerpt": "",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/sqlbi-dax-101-by-sqlbi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/sqlbi-dax-101-by-sqlbi/",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
-          "title": "Describe Power BI Desktop models",
-          "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
-          "length": "PT20M",
-          "ratings": {
-            "count": 1322,
-            "average": 4.759455
-          },
+          "path": "_learning/videos/sqlbi-introducing-dax-101-videos.md",
+          "title": "Introducing DAX 101 videos",
+          "excerpt": "Introductive concepts and tasks to write DAX. Short and straight to the point!",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-dax-101-videos/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-dax-101-videos/",
+          "originalUrl": "https://youtube.com/watch?v=VU4uCDQolSE",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VU4uCDQolSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT35S",
           "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
+            "name": "SQLBI",
+            "domain": "sqlbi.com",
             "images": [
               {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
                 "width": 50,
                 "height": 50,
                 "isCached": false
               }
             ]
           },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 55,
+          "publishedDateTime": "2021-01-30T23:16:16-08:00",
+          "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png",
-              "width": 643,
-              "height": 321,
+              "url": "https://i.ytimg.com/vi/VU4uCDQolSE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
               "isCached": true
             }
           ],
           "content": "\r\n",
-          "type": "course",
+          "type": "video",
           "price": "Free",
           "topics": [
             "Power BI",
-            "Power BI Desktop"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-dax-power-bi-write-formulas.md",
-          "title": "Write DAX formulas for Power BI Desktop models",
-          "excerpt": "In this module, you'll learn how to write DAX formulas to create calculated tables, calculated columns, and measures, which are different types of model calculations. Additionally, you'll learn how to write and format DAX formulas, which consist of expressions that use functions, operators, references to model objects, constants, and variables.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-write-formulas/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
-          "length": "PT27M",
-          "ratings": {
-            "count": 892,
-            "average": 4.7017937
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "Power BI Desktop",
             "DAX"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables.md",
-          "title": "Add calculated tables and columns to Power BI Desktop models",
-          "excerpt": "By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query computed columns.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
-          "length": "PT19M",
-          "ratings": {
-            "count": 642,
-            "average": 4.7507787
-          },
+          "path": "_learning/videos/sqlbi-previous-year-up-to-a-certain-date.md",
+          "title": "Previous year up to a certain date",
+          "excerpt": "This video describes how to compute previous year values up to a certain date in DAX and Power BI. This technique is useful in case the data is presenting incomplete months or years. Article and download: https://sql.bi/352723?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-previous-year-up-to-a-certain-date/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-previous-year-up-to-a-certain-date/",
+          "originalUrl": "https://youtube.com/watch?v=bAOs5LTP0I0",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bAOs5LTP0I0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M48S",
           "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
+            "name": "SQLBI",
+            "domain": "sqlbi.com",
             "images": [
               {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
                 "width": 50,
                 "height": 50,
                 "isCached": false
               }
             ]
           },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
+          "publishedDateTime": "2020-12-18T03:00:19-08:00",
+          "heat": 62,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-add-calculated-tables-social.png",
-              "width": 640,
-              "height": 320,
+              "url": "https://i.ytimg.com/vi/bAOs5LTP0I0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
               "isCached": true
             }
           ],
           "content": "\r\n",
-          "type": "course",
+          "type": "video",
           "price": "Free",
           "topics": [
             "Power BI",
-            "Power BI Desktop"
+            "DAX"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-dax-power-bi-add-measures.md",
-          "title": "Add measures to Power BI Desktop models",
-          "excerpt": "In this module, you'll learn how to work with implicit and explicit measures. You'll start by creating simple measures, which summarize a single column or table. Then, you'll create more detailed measures based on other measures in the model. Additionally, you'll learn about the similarities of, and differences between, a calculated column and a measure.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-measures/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
-          "length": "PT13M",
-          "ratings": {
-            "count": 570,
-            "average": 4.733333
-          },
+          "path": "_learning/videos/sqlbi-evaluation-of-variables-in-dax.md",
+          "title": "Evaluation of variables in DAX",
+          "excerpt": "Variables in DAX are constants, and this could be very confusing! Watch this video to understand how the evaluation of variables works in DAX. How to learn DAX: https://www.sqlbi.com/guides/dax/ The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-evaluation-of-variables-in-dax/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-evaluation-of-variables-in-dax/",
+          "originalUrl": "https://youtube.com/watch?v=71ERlpfhmwU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/71ERlpfhmwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M26S",
           "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
+            "name": "SQLBI",
+            "domain": "sqlbi.com",
             "images": [
               {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
                 "width": 50,
                 "height": 50,
                 "isCached": false
               }
             ]
           },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
+          "publishedDateTime": "2020-10-20T03:00:24-07:00",
+          "heat": 52,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/add-measures-power-bi-desktop-social.png",
-              "width": 640,
-              "height": 320,
+              "url": "https://i.ytimg.com/vi/71ERlpfhmwU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
               "isCached": true
             }
           ],
           "content": "\r\n",
-          "type": "course",
+          "type": "video",
           "price": "Free",
           "topics": [
             "Power BI",
-            "Power BI Desktop"
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/videos/sqlbi-year-to-date-filtering-weekdays-in-dax.md",
+          "title": "Year-to-date filtering weekdays in DAX",
+          "excerpt": "Time intelligence functions oftentimes hide an automatic ALL statement meant to make time intelligence calculations easier. This video describes this behavior and what to do in case it ends up breaking your calculation. Article and download: https://sql.bi/123591",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-year-to-date-filtering-weekdays-in-dax/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-year-to-date-filtering-weekdays-in-dax/",
+          "originalUrl": "https://youtube.com/watch?v=JS-K2faCiCc",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JS-K2faCiCc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M10S",
+          "provider": {
+            "name": "SQLBI",
+            "domain": "sqlbi.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-09-08T03:00:15-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/JS-K2faCiCc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
           ]
         }
       ],
-      "size": 7,
+      "size": 14,
       "heat": 62,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png",
-          "width": 643,
-          "height": 321,
+          "url": "https://i.ytimg.com/vi/VU4uCDQolSE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "collection",
-      "price": "Free",
       "topics": [
         "Power BI",
-        "Power BI Desktop",
         "DAX"
       ]
     }
