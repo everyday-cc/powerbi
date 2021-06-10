@@ -234,6 +234,7 @@ items:
   - videos/curbal-dax-fridays-209-allocation-calculations-in-dax-generate
   - videos/curbal-dax-fridays-210-is-the-end-of-dax-coding-near-microsoft-build-announcements-for-power-bi
   - videos/curbal-dax-fridays-210-allocation-calculations-grouped-by-period-groupby-currentgroup
+  - videos/curbal-dax-fridays-211-using-inactive-relationships-in-slicers-userelationship
 
 topics:
   - Power BI

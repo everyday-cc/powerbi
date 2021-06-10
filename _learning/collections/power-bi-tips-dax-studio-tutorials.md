@@ -2,7 +2,7 @@
 title: "DAX Studio Tutorials"
 excerpt: "DAX Studio is the tool for data model tuning."
 type: collection
-heat: 63
+heat: 61
 
 provider:
   name: Power BI Tips
