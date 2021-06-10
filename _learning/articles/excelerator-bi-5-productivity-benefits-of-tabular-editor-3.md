@@ -4,7 +4,7 @@ excerpt: "Tabular Editor is a Power BI Tabular Modelling productivity tool devel
 webUrl: https://exceleratorbi.com.au/5-productivity-benefits-of-tabular-editor-3/
 type: article
 publishedDateTime: 2021-06-07T07:04:55Z
-heat: 130
+heat: 132
 
 provider:
   name: Excelerator BI
