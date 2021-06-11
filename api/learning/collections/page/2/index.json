@@ -1795,7 +1795,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2903,8 +2903,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1870,
-            "average": 4.7721925
+            "count": 1871,
+            "average": 4.772314
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3112,8 +3112,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 75,
-            "average": 4.7466664
+            "count": 76,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
