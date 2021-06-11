@@ -1150,8 +1150,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-reach/",
           "length": "PT19M",
           "ratings": {
-            "count": 14,
-            "average": 4.857143
+            "count": 15,
+            "average": 4.866667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2499,8 +2499,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 3139,
-            "average": 4.701816
+            "count": 3140,
+            "average": 4.701911
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2667,8 +2667,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 2452,
-            "average": 4.709625
+            "count": 2453,
+            "average": 4.7093353
           },
           "provider": {
             "name": "Microsoft Learn",
