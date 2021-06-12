@@ -116,7 +116,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 56,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-add-calculated-tables-social.png",
@@ -141,8 +141,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 579,
-        "average": 4.7288427
+        "count": 580,
+        "average": 4.7293105
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -159,7 +159,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 55,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/add-measures-power-bi-desktop-social.png",
@@ -202,7 +202,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 54,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/use-dax-iterator-functions-power-bi-desktop-social.png",
@@ -246,7 +246,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/modify-dax-filter-context-power-bi-desktop-social.png",

@@ -4,6 +4,66 @@
   "page": 69,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-my-power-pivot-journey-personal-team-organizational-bi.md",
+      "title": "My Power Pivot Journey: Personal ... Team ... Organizational BI",
+      "excerpt": "How far can an Excel Professional go? You can reach great heights with the help of new Excel Power Pivot and Power BI toolset. Read more at  my blog post http://www.powerpivotpro.com/2013/09/my-power-pivot-journey-personal-team-organizational-bi/  FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-my-power-pivot-journey-personal-team-organizational-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-my-power-pivot-journey-personal-team-organizational-bi/",
+      "originalUrl": "https://youtube.com/watch?v=7i1A__A2dkc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7i1A__A2dkc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M10S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2014-07-09T17:28:04-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7i1A__A2dkc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-new-year-resolution-create-365-new-videosnot-vlog.md",
+      "title": "New Year Resolution: Create 365 New Videos...Not! (Vlog)",
+      "excerpt": "FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download ✅ Subscribe to always get my latest videos: https://goo.gl/P79Hcr 👪 Join our Facebook Group https://www.facebook.com/groups/talkpowerbi ===Most Popular Playlists===",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-new-year-resolution-create-365-new-videosnot-vlog/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-new-year-resolution-create-365-new-videosnot-vlog/",
+      "originalUrl": "https://youtube.com/watch?v=2Z5cQL1p1wE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2Z5cQL1p1wE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M19S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-11-18T16:01:58-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2Z5cQL1p1wE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-5-day-challenge-starts-fri-mar-23rd.md",
       "title": "Power BI 5-Day Challenge! Starts Fri Mar 23rd",
       "excerpt": "Join me in a 5-Day Challenge to build your first (or next) Power BI Dashboard. Accept the challenge at 👉 http://www.learnpowerbi.com/challenge  ⚡Power On!⚡ -Avi Singh / Powerbipro / Microsoft MVP",
@@ -833,66 +893,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/oW3zZ41FfI4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-monthly-updates-how-to-stay-on-top.md",
-      "title": "Power BI Monthly Updates - How to Stay on Top",
-      "excerpt": "Overwhelmed by all the updates and all you need to learn? Follow the 80-20 rule and focus on what truly matters. Learn the Core Power BI Concepts in my complete tutorial https://www.youtube.com/watch?v=1bysgMsPwC4&list=PL7GQQXV5Z8ef2SjkDpLnvsz7TAQjlzlpO ----------------------------------------------------------------------",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-monthly-updates-how-to-stay-on-top/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-monthly-updates-how-to-stay-on-top/",
-      "originalUrl": "https://youtube.com/watch?v=tO106ly0yas",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tO106ly0yas\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M13S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-10-18T12:53:41-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tO106ly0yas/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-november-2018-update-monthly-update-highlights.md",
-      "title": "Power BI November 2018 Update (Monthly Update Highlights!)",
-      "excerpt": "We cover the highlights of the Power BI November 2018 Update.  👉 For Complete Playlist of Power BI Monthly Updates Watch : https://www.youtube.com/watch?v=tO106ly0yas&list=PL7GQQXV5Z8ee6n2ZLywS9BaA5eePSrk4R  Power BI November 2018 Highlights: 1. New Modelling View (preview) 2.  Composite models now",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-november-2018-update-monthly-update-highlights/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-november-2018-update-monthly-update-highlights/",
-      "originalUrl": "https://youtube.com/watch?v=_7-Hojq7Fo8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_7-Hojq7Fo8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M50S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-11-21T02:44:10-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_7-Hojq7Fo8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
