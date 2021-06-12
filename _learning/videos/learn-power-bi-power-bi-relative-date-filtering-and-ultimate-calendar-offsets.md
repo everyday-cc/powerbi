@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M1S
 publishedDateTime: 2017-10-24T10:18:32Z
-heat: 56
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5RB3Jdfrn1s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9USdOdLqefD7sdaY9syZD7CsqrktaMV1mp6fp7Wlxgdqy8X9x5eG1MbaW8HpR9T7i5fT8V+Dtz988lGxNGSWZ/+4iiwEo8e5VVlQZdAxja2BZIEpmpJ1+DdD6g7WrGSoLKDp1CE4AdHCDqi0LmP6vpj8lnQeltveZimoabHasuF8HXd92Njpj84LEn6DgcAC0imoTHx3RD1L3jhGbDt4ngn9WAFmEg35z2JcMmTeCtA350fxSWDcCBZCeiZHLvgUeYcNwzEwYRRD30BnN+IRA0c8GydreKz2UGe+M2iiam1XMUyIb9ypn1broeYC841lrbbvCveUBu0QoZqf7pZaH6XMsylCtkCQN5UuzeeeqFVeaNhqdGxDXD+PqwCiEo9hPybDPXf5iyqyJ4bgPyNjER3igxhelN6L0sWAMxUmefs=;C6VnUgUDlK5CTNPLztT4lg=="
+secured: "zEdu+F0Cn5a2LXjnpLqLzgfj0xh8FJkkBS80ucCy/mGa1hvQPoLCIN49uplT5LGJpnjrIhtCB+eDcJ5IiXQQjH2AUZVO4Buo7rrEOig/ZWqfnzd8/s2yR0H8DzVVcQtoS8OtLr4pbaw6jtxfsONQ5JyIMCLZ17YCSNvcDmBOgIsBMuVvs1AifSXBWGjmWq5lLKWaSwv5Rlbi22VNaJNKscHYREaAMasDEUQSMedFuzZ9EqYeyORle1lYup2MYPIMnTvmckajNdJ8dkgU1BgafigcQSgfoGMd2+Gz3MHb24PdlCb9PuR0kORei+AyQAn4zDZgEciJbVcpDz0Nv6wwnCX069aKVwNqHdei8W17yh27oa99tZtADGTmS63zCGyFw1T+z/HbFZWnGZbXmzOwRg+xyavu0f5p0pHxGYVWoIQ=;cB5Q1+oZK4A/QlXpNhJvSw=="
 ---
 

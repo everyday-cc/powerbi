@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M25S
 publishedDateTime: 2019-08-25T12:58:46Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-dqt2-xpJd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "XiF4m4UbQRNeTlIKVAK0F2rnJ1/WGysnRNemSLQd5+Xg1QzzeWDYJ+0vMUeSR22wliIGnQhk+I1T9p1Xq6dJjQXiRE825tCQHbyRJY40XGFp6LTV/1WSnJPYgvlYFrNKyBaZoXWcfrP5uIuwWUNe+bz76uukU20PFfE4rf2PIwbvKw+asYva1Vo8MNIVnoJVM+eeU570AZ0MIRpAilKDFfFRymDxQRxTqik1Ret0aiiZeIlX5pUnwlgI8jsMdfwi0D21jGFWhvfb03tgBomJQWXEBjq0CDgf1mV1PxlCPpalinkE0mhq++6lfKR3G6ytjPlT30JRSvnoC1Gz7cq0at3So4MMLfYX1ZSnprPfrmMpVYceloi9zzmF0xV6aLWD2v1+BVD1mWWa5KkTfxOLNTwdRuUWaiuT+VIbDkBYYgw=;F8Lk9OPu3e2lwYF0zu++xA=="
+secured: "JwZiNe2QbwiB8BEWWOwwNV7a/Dvr318lwHajjkLPLrwiuhJoLW8cIQjU3jIjqztcK6Af08tyjwTIehbW8LxQVhbBa+Y0ZGyShWFSpSKqWg1vfioqFnQjBrYx7fMHivts1i2ifyDPPX4cB5dTHTyF20Zoqc1rhuI7QgAye5d8QIveEiWotplRrIprdtnuRYMWeW2Rxlls8sICRrA9yJnaGl048S4MUIcquzatV10xwi+fFljbBbXKfpmPsvwISV1r/yRG1rjFwsxcMV2YeBOovBVxJpG+w9G1mjkHaUZOOPHj56QEiTEZgNytwa9d3+OI8oNM+W1bojGKoQrcN0wQWI1OfON8/BLoLQd47SYI3z6K0huDoXUKQPP7aNt19vgtZ+qB07Wkw4CRXr8UDIA+MFjUVdRieTnqdIDihF/dUNw=;O5EFWR6vLiAq8zqGXBIjqQ=="
 ---
 
