@@ -754,8 +754,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 33,
-            "average": 4.787879
+            "count": 34,
+            "average": 4.7941175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2209,8 +2209,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9245,
-            "average": 4.67431
+            "count": 9246,
+            "average": 4.6743455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2411,8 +2411,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 4134,
-            "average": 4.768747
+            "count": 4135,
+            "average": 4.768803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2814,8 +2814,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 77,
-            "average": 4.753247
+            "count": 78,
+            "average": 4.75641
           },
           "provider": {
             "name": "Microsoft Learn",
