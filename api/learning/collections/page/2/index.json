@@ -981,7 +981,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2411,8 +2411,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 4130,
-            "average": 4.768523
+            "count": 4131,
+            "average": 4.768579
           },
           "provider": {
             "name": "Microsoft Learn",
