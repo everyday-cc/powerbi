@@ -2315,8 +2315,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 3867,
-            "average": 4.7576933
+            "count": 3868,
+            "average": 4.7574973
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2400,8 +2400,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 4145,
-            "average": 4.7691193
+            "count": 4146,
+            "average": 4.769175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2517,8 +2517,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 7307,
-            "average": 4.7039824
+            "count": 7309,
+            "average": 4.7040634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2725,8 +2725,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1879,
-            "average": 4.7727513
+            "count": 1880,
+            "average": 4.7728724
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3087,8 +3087,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 78,
-            "average": 4.75641
+            "count": 79,
+            "average": 4.746835
           },
           "provider": {
             "name": "Microsoft Learn",
