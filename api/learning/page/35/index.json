@@ -386,8 +386,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working/",
           "length": "PT31M",
           "ratings": {
-            "count": 70,
-            "average": 4.6857142
+            "count": 71,
+            "average": 4.6901407
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -428,8 +428,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 80,
-            "average": 4.75
+            "count": 81,
+            "average": 4.7530866
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1111,8 +1111,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 608,
-        "average": 4.743421
+        "count": 609,
+        "average": 4.7422004
       },
       "provider": {
         "name": "Microsoft Learn",
