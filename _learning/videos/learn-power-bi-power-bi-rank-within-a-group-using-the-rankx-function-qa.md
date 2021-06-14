@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M49S
 publishedDateTime: 2018-10-03T06:22:32Z
-heat: 55
+heat: 60
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3u0WJFKxGJk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "fiLtHIxJqxxsfNz0A8kG6GtFAba5LlTFyJ7xmXxWNsAFs6Tagm6KDqDysfkj9vKoeS41fQM+xMqaJvoyZPBWm0dZK25zovYZB3vMjGxBSTBZVJ0uEpPm4ieSUW+Z2h0msEWwkzgd4r9+Ls0UVHOIgZzvgHiSjqyqxg1Idf3YmZ4SVLmyPTYR7j4eZGTd3QPGDiuYrfR9/B2UD2itu3BlWKj2X8RTwdFFHzpVXVYsumwWDqAYa3gCVg1moah5LkH7o56C4UDhEbtD0WtGl89SFuuzDSsF2VmnR10xvMh84L9xjBevgmb2L3nWNq18UgAEeLFOYg2YntG2EAZZygtNirSya6a3mH+klFvN2y6Fw5Moy2RgSSKtG4RB8G4sa5d2caw2xoh6f4MRotBAEMoBQtxMZh3539BTDPUL8QRZKgA=;a6FPu7Nz7YM5Kqx2N2iFLQ=="
+secured: "/7r6DcAgCzzj8ts4JhyOUuhoVOgOHUuT9Zf4Ysj/p/RPgBMV4ocbSfKdxB67k9r4ucBfsSmFz+zwP24ardzvFf07DgLytLiBQvT8rPJAWR3gtEE6IM/rFpXrDSlzpcOldPMdSZzS6oaAoKoPe70T1Ow65CHJ6u5sEHL207MI+/bYUVXGpEhqUVm7RwLWAysmXehw3f1C/fJXgLWQCY6z/+vytWAncJulkdCyZEYHXqXONbeMx2hdKqdUhTn8mgXPQhvZ77F3PZcixK6GG6hND7qjmfOF0dbu8bjnpTI6DMIeUvlp4TWZdFzh2YcFbwRuFcJGnPHvZYgGWFu2vqbKz6koeO2EHMC9yKYSRpkOohUnydzW3um1qBbh+YVS0VlU8aM4UAQaVWBam6nxRUjvj5x73fWHv2aSBRDCRnQahuA=;Tw98gTVyk2UVtRR1YWBtMQ=="
 ---
 
