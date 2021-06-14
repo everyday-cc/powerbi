@@ -4,66 +4,6 @@
   "page": 65,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-forecasting-in-power-view-and-power-bi.md",
-      "title": "Forecasting in Power View and Power BI",
-      "excerpt": "See accompanying article for details: http://www.powerpivotpro.com/2014/05/forecasting-in-power-view-and-power-bi/ Video shows the newly released feature of Forecasting in Power BI again real data sets including Climate data and Stock Market data  FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-forecasting-in-power-view-and-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-forecasting-in-power-view-and-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=-rqQBJFMofw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-rqQBJFMofw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M50S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2014-05-20T12:42:24-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-rqQBJFMofw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-from-fulltime-to-fulfilling-your-dreams-with-greg-baerg-big-wave-bi.md",
-      "title": "From Fulltime to Fulfilling Your Dreams with Greg Baerg (Big Wave BI)",
-      "excerpt": "How do you learn Power BI when you have a demanding fulltime job? How do you learn Power BI when you also have family and kids?   Watch till then end as Greg Baerg shares his journey and an inspiring lesson for anyone stuck in this situation.   👉Connect with Greg (Website): http://www.BigWaveBI.com",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-from-fulltime-to-fulfilling-your-dreams-with-greg-baerg-big-wave-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-from-fulltime-to-fulfilling-your-dreams-with-greg-baerg-big-wave-bi/",
-      "originalUrl": "https://youtube.com/watch?v=2o87kG-T7rE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2o87kG-T7rE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT26M",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-10-21T09:00:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2o87kG-T7rE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-from-just-an-accountant-to-leading-the-power-bi-revolution-on-a-global-scale.md",
       "title": "From Just an Accountant to Leading the Power BI Revolution on a Global Scale",
       "excerpt": "How do you go from being just another accountant in a company to someone who is leading BI transformation on a global scale?  👉Connect with Pam: https://www.linkedin.com/in/pamelaodombaker/ 👉 Join the LearnPowerBI Family: https://web.learnpowerbi.com/waitlist-invite/ --------------------------------------------------------------------------------------------",
@@ -902,6 +842,67 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-if-you-keep-an-open-mindepic-sht-happens-microsoft-mvp-summit-day-4.md",
+      "title": "If you keep an open mind...epic sh*t happens! Microsoft MVP Summit Day 4",
+      "excerpt": "I try to start my day with an open mind and am helped my a fellow MVP to achieve a breakthrough in my thinking. The power to change someone's thoughts is the most powerful force of all! -------------------------------------------------------------------------------------------- FREE Power BI Step-by-Step",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-if-you-keep-an-open-mindepic-sht-happens-microsoft-mvp-summit-day-4/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-if-you-keep-an-open-mindepic-sht-happens-microsoft-mvp-summit-day-4/",
+      "originalUrl": "https://youtube.com/watch?v=9wmg3z-Ajv8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wmg3z-Ajv8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M18S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-03-08T14:35:47-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9wmg3z-Ajv8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-is-dax-purpose-to-create-measures-and-other-existential-questions-powerbichallenge-day-3-recap.md",
+      "title": "Is DAX purpose to Create Measures? And other Existential Questions #PowerBIChallenge Day 3 Recap",
+      "excerpt": "Join the 5-Day Challenge to build your first (or next) Power BI Dashboard. Accept the challenge at  http://web.learnpowerbi.com/challenge  Sign up for Day 5 Power BI Training: http://www.learnpowerbi.com/webinar  ⚡Power On!⚡ Avi / PowerBIPro / Microsoft MVP",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-is-dax-purpose-to-create-measures-and-other-existential-questions-powerbichallenge-day-3-recap/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-is-dax-purpose-to-create-measures-and-other-existential-questions-powerbichallenge-day-3-recap/",
+      "originalUrl": "https://youtube.com/watch?v=fZnp6FQt8Dc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fZnp6FQt8Dc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M25S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-07-31T17:29:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fZnp6FQt8Dc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     }
   ],
