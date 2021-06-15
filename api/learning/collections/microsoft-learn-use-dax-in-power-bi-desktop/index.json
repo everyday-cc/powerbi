@@ -141,8 +141,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 584,
-        "average": 4.7311645
+        "count": 585,
+        "average": 4.731624
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -159,7 +159,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/add-measures-power-bi-desktop-social.png",
