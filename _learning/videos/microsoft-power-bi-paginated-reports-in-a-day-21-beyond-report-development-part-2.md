@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M54S
 publishedDateTime: 2020-03-18T05:13:07Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KRwtl7h0ynI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 21: Beyond Report Development - Part 2"
 
-secured: "ScC8IoyrCkZKa3xPeE93Bnj8vhGNiuPQuhIwatPRLUzelkRYUXwJ2nL10jpnRPjlUihB+alj2/hUUgXtPcdxYO75n9EW9pd3TrapByNFRXG6whBVyFRDDPd0pYDzO95bi643Wt3/aEvhaJ0rp7Kj6JPPfeJa5Qea4Lytz0IguiFpA1LmFtN1uB1EMWnimLYl1n33PV0BaCC7lMKgeLUSHO4sUH4svdGwCs4iSPuDMZhCSyJ63JEtkMT8ErHbtK2GVACPWBoLNOv11SpCu66OFm8acpAh9f4k/+4GoCRKMzFR/VaZcVDCxOzMk5/A6jrrXS7sQcJ0n4tq0uBBWfnZVkn5i4lYd/DpZykktgYK6SbJGh0xPId96lPTGkUlADIVBgHLI7ZLAqp2InNRVd4AnNfLe0fnHZ6o8PsCqb9ZUS4=;xtgP15G4GvM2TOoxChmoUA=="
+secured: "XVaY7MwN6oqyxKBmNb1Tzm6h7MudiomfaTg4NBYZ8cSxNJZ/xS75OdJkZjtRINVSXplTARjT2hA+bQCKTYvkMOD2Ge+QV5G9fhymYjYgChYOtkhQpnkVyXQFyTtQdyI8Yen6P6PJ+30ip1xsgEZ5i9+YMSArq9TxcdbKVg+KJyL75qTP/1DbkX8ygWx3kLp/wNpJ7k0vx6dn0DVUK80czpSQ54xJQFSVFmIzk7DwqLwVIlyJus3Ha/2x1ZzlR04jUWgtJd/YjPY2cbv2GNXryFSWGu0KHau6gOZqnfe9OmMXr7DRuy+eTlEci5g0ihIse+/SIzqH0cX3B0OpPbWoFISVdqxKYw5M51gXNObztZ7/ZoqFBXjK5N90nZy99S0SDGs7+X1SZTMd/gR0FEEo9DR1oIWaNbb3yMxxUmSYPuY=;ZPu82LKJ7CwFwALs52+TaA=="
 ---
 
