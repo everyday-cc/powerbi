@@ -4,6 +4,44 @@
   "page": 61,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-lootcrate-october-2016-horror.md",
+      "title": "LootCrate - October 2016 (Horror)",
+      "excerpt": "This month's LootCrate theme was Horror. It included Walking Dead, Friday the 13th, Nightmare on Elm Street, Texas Chainsaw Massacre and Halloween.  Affiliate Link if you want to help support Guy in a Cube: http://bit.ly/2cNY20R   LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-lootcrate-october-2016-horror/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-lootcrate-october-2016-horror/",
+      "originalUrl": "https://youtube.com/watch?v=DOtKbKLAE0U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DOtKbKLAE0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M36S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-10-30T11:07:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DOtKbKLAE0U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-lootcrate-unboxing-guardians-may-2017.md",
       "title": "LootCrate Unboxing - Guardians - May 2017",
       "excerpt": "The theme for this month's loot crate was Guardians. As expected, it had something from Guardians of the Galaxy Vol. 2 along with The Goonies, Star Wars, Destiny and Avatar, The Last Airbender.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube",
@@ -1096,44 +1134,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/_J9gM9LwbQY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-pass-summit-2016-sqlfamily-montage.md",
-      "title": "PASS Summit 2016 / #SQLFamily Montage",
-      "excerpt": "PASS Summit 2016 is a wrap! Every year it is like a family reunion and I wanted to put together something to try and convey that. From sessions to networking to the SQL Clinic and the nightlife (SQL Karaoke anyone?) It is the highlight of the year!  Special thank you to everyone that helped me with making",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-pass-summit-2016-sqlfamily-montage/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-pass-summit-2016-sqlfamily-montage/",
-      "originalUrl": "https://youtube.com/watch?v=0R2wL1oMFrg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0R2wL1oMFrg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M2S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-10-30T11:19:59-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0R2wL1oMFrg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
