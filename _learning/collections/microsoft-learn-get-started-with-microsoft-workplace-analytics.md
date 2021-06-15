@@ -4,7 +4,7 @@ excerpt: "Collaboration is a key component of knowledge-worker success. Workplac
 type: collection
 price: Free
 length: PT2H31M
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
