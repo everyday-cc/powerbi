@@ -4,6 +4,44 @@
   "page": 58,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-3-ways-to-embed-power-bi-behind-the-scenes.md",
+      "title": "3 ways to embed Power BI - Behind the scenes",
+      "excerpt": "This is a behind the scenes video for how the Embeddding options video was made. Special thanks to Dusty Jump for helping me out with the video.   You can watch the main video on the Power BI YouTube Channel - https://youtu.be/egP0GHSOUIM  Music By Jeff Kaale https://soundcloud.com/jeff-kaale  We used",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-3-ways-to-embed-power-bi-behind-the-scenes/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-3-ways-to-embed-power-bi-behind-the-scenes/",
+      "originalUrl": "https://youtube.com/watch?v=OqbVZfFhEzA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OqbVZfFhEzA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M45S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-07-25T05:42:27-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OqbVZfFhEzA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-4-steps-to-use-a-custom-directory-with-power-bi-for-developers.md",
       "title": "4 steps to use a custom directory with Power BI for developers",
       "excerpt": "I look at how you can use your Azure Subscription to create a custom directory and then apply a Power BI (free) license to that. This is a great approach, if you are a developer, to setup an application within your directory for testing purposes before you publish to production.  SUBSCRIBE! https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w?sub_confirmation=1",
@@ -1108,44 +1146,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-catching-up-on-power-bi-updates-tooltips-hololens-and-more.md",
-      "title": "Catching up on Power BI updates (Tooltips, Hololens and more)",
-      "excerpt": "Power BI Service and Mobile February Feature Summary https://powerbi.microsoft.com/en-us/blog/power-bi-service-and-mobile-february-2018-feature-summary/  Announcing Persistent Filters in the Power BI Service https://powerbi.microsoft.com/en-us/blog/announcing-persistent-filters-in-the-service/  Share",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-catching-up-on-power-bi-updates-tooltips-hololens-and-more/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-catching-up-on-power-bi-updates-tooltips-hololens-and-more/",
-      "originalUrl": "https://youtube.com/watch?v=4_Z4-Y9wd4U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4_Z4-Y9wd4U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M35S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-03-15T11:16:47-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4_Z4-Y9wd4U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],
