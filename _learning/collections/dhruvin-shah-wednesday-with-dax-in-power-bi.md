@@ -17,6 +17,7 @@ items:
   - videos/dhruvin-shah-power-bi-shows-incorrect-measure-total-how-to-fix-it
   - videos/dhruvin-shah-create-a-comparison-report-in-power-bi
   - videos/dhruvin-shah-if-eager-dax-function-in-power-bi
+  - videos/dhruvin-shah-all-function-in-power-bi-dax
 
 topics:
   - Power BI
