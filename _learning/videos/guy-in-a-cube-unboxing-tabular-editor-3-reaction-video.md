@@ -1,0 +1,32 @@
+---
+title: "Unboxing Tabular Editor 3 | Reaction Video"
+excerpt: "It's here! Patrick does a reaction video when using Tabular Editor 3 for the first time with Power BI. To say he's excited is an understatement. Watch him take the wrapping off of Tabular Editor.  Tabular Editor: https://tabulareditor.com/  📢 Become a member: https://guyinacu.be/membership \r \r *******************"
+originalUrl: https://youtube.com/watch?v=Ijs61r_cUYU
+type: video
+price: Free
+length: PT10M7S
+publishedDateTime: 2021-06-16T15:00:08Z
+heat: 210
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ijs61r_cUYU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Guy in a Cube
+  domain: guyinacube.com
+  images:
+    - url: https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+
+images:
+  - url: https://i.ytimg.com/vi/Ijs61r_cUYU/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "+vTtdLhKjIj5rrBQ8XUdCjyi1KMaNNwOUeDWtIbXdQgQPvacJLe0PIGbmHIxx9HF6k3RjcyT5uslZJvXDBRrBB6KddDJ8wOl6hjwwd4JHmdlECzP+JxthBek9UIuvTCkjY1oquWGaV5o6In/Kw9gCLe+xYhAaDM1jeQDd3XT4Y8Dm/xgi/4NhULBzE2Lrf+Gzr9HP7hC2ZVueWMagxS3beNUuwqLO8DKbP7wKGq1XtLjOMwsHz4aj3P28M3f3u9gYyrdCi0HlN/B/eM3c2QaKd3sArT1aXiypNzwe0jkKlMfxx4IN6FtViIOsf6O1l0N4Umzb8SMUZ0xT4P/THvrhjTsvxgFFnH8nR3MjDnvykE8G9oEQQJK+JQl2veS2WtQqbpUnKDv/FoDhrl8Ku3vEA==;2ST/uvqXmpWgXLIKkxGtug=="
+---
+
