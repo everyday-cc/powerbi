@@ -4,9 +4,9 @@ excerpt: "In this vLog, we will learn, about newly introduced action type for bu
 originalUrl: https://youtube.com/watch?v=62wKhG1KZyM
 type: video
 price: Free
-length: PT4M46S
+length: PT4M45S
 publishedDateTime: 2020-03-25T11:52:50Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/62wKhG1KZyM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "t/OgALZG4/ZzMrA87bJHDKN7U+N1TungspCOukUHrC+N86hFP1l9Dmom5sDCwtramStANbYkq7HazXn+fyMpxYIlKIbfG4VBOD4kJhhPkupCP3Z5k+aG4ClJGy6w24JnoI29KNM71aIiLIFU1OjKuN896D1bhAFdJ0PuRXWIvq9Dy05MLx7X/4spmvOTRwBvuz6stJW3SQ04gV3nmaPBsLAJo/qPuRQVO3AmA9Q0kmCRWgUEz247VaynU7skrm4tJCJ0hVaWfq8fb2wi1GRX+M9EF2YsCO/cv86MOATFHM/ig8cNvsBwF1YRl9pujcjT8oR39/OpsU0h9hjttUbS48bonGOLaRtDo16JrvDPHt7RrVAMxvze6b36a3CaXzgeCRlioC9vEs0AdNESM6h1oDAPaQsqCrUq80Qk6Md2rgo=;WNUWEbSQ7HRJHTEWfCbn0g=="
+secured: "PggKtRGQkEBwAEGW1ARmCAghQ1RhFNFOGxvOo71T7XsXD+1faR0AlFGPVYKlTt9vya9ZQQT6BbGBXpkFMkmgXmE9U0NZFbNpAgjUXSRa01N/i6yAYR7e8rUoNqsqqVLvqNXrYhCrCNbHB9vAVCXkuYhyZpf3VzHzExlcHqLKJB/EUIobjKk779JQ93NFORuJTDa3+a0FvDdvU/kx2UZ7d5UkdzhiMnlxXwbkg7hb+xTjS7Udf3AB3ZDMANt/DlhgrjpfCb3Jg5rTYfDCx4O8iDU+BvjYoo3tMFPxkUdvICF8dfTYzZMyJ8hFntKfrl7v5iHucWgUpKbahil60BCgllzqbza054YUKXg+y27KjkcD9WCSLluQZ2iDXskrOb/N/w0AInsiI+qk4Zsm+iWmfBPmD0EC74w8cFIV3+2aeGU=;uwY8oEdGc4DgoS9hzSqY1g=="
 ---
 
