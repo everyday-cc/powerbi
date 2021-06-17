@@ -352,8 +352,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 4185,
-        "average": 4.7696533
+        "count": 4187,
+        "average": 4.7697635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1934,8 +1934,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 7340,
-            "average": 4.7031336
+            "count": 7341,
+            "average": 4.703174
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2077,7 +2077,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2268,8 +2268,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 3181,
-            "average": 4.702295
+            "count": 3184,
+            "average": 4.702575
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2311,8 +2311,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 4185,
-            "average": 4.7696533
+            "count": 4187,
+            "average": 4.7697635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2998,8 +2998,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 3855,
-        "average": 4.711284
+        "count": 3856,
+        "average": 4.711359
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3040,8 +3040,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 3181,
-        "average": 4.702295
+        "count": 3184,
+        "average": 4.702575
       },
       "provider": {
         "name": "Microsoft Learn",
