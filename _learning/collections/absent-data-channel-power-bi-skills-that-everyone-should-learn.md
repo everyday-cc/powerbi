@@ -2,7 +2,7 @@
 title: "Power BI Skills that Everyone Should Learn"
 excerpt: "Master quick and easy tips to ensure you become the most efficient data analyst with Power BI"
 type: collection
-heat: 64
+heat: 63
 
 provider:
   name: Absent Data Channel
