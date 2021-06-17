@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
       "length": "PT20M",
       "ratings": {
-        "count": 1344,
-        "average": 4.758929
+        "count": 1345,
+        "average": 4.758364
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -72,7 +72,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 54,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
@@ -116,7 +116,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-add-calculated-tables-social.png",
@@ -246,7 +246,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/modify-dax-filter-context-power-bi-desktop-social.png",

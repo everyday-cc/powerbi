@@ -233,8 +233,9 @@ items:
   - videos/curbal-dax-fridays-208-open-orders-in-dax-events-in-progress-time-intelligence
   - videos/curbal-dax-fridays-209-allocation-calculations-in-dax-generate
   - videos/curbal-dax-fridays-210-is-the-end-of-dax-coding-near-microsoft-build-announcements-for-power-bi
-  - videos/curbal-dax-fridays-210-allocation-calculations-grouped-by-period-groupby-currentgroup
-  - videos/curbal-dax-fridays-211-using-inactive-relationships-in-slicers-userelationship
+  - videos/curbal-dax-fridays-211-allocation-calculations-grouped-by-period-groupby-currentgroup
+  - videos/curbal-dax-fridays-212-using-inactive-relationships-in-slicers-userelationship
+  - videos/curbal-dax-fridays-203-googles-faq-on-dax
 
 topics:
   - Power BI
