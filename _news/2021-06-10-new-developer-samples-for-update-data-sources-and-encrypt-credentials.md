@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/new-developer-samples-for
 webUrl: "https://powerbi.microsoft.com/en-us/blog/new-developer-samples-for-update-data-sources-and-encrypt-credentials/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

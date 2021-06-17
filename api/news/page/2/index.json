@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-06-announcing-the-new-sharing-experience.md",
+      "title": "Announcing the new sharing experience",
+      "excerpt": "We&#8217;re excited to announce a new sharing experience that allows sharing reports via links. Previously in the old experience, we supported sharing reports by granting direct access. For the new experience, reports can be shared via links in addition to direct access sharing.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-06-announcing-the-new-sharing-experience/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-new-sharing-experience/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-new-sharing-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-06T02:02:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-05-06-announcing-support-for-backup-and-restore-of-power-bi-datasets.md",
       "title": "Announcing support for backup and restore of Power BI datasets",
       "excerpt": "e are excited to announce the public preview of Backup and Restore for datasets in Power BI Premium and Premium per User (PPU). You can now use SQL Server Management Studio (SSMS), Analysis Services cmdlets for PowerShell, and other tools to perform backup and restore operations in Power BI via XMLA",
@@ -1200,58 +1251,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2021-03-19-support-of-external-tools-in-power-bi-desktop-is-ga.md",
-      "title": "Support of external tools in Power BI Desktop is GA",
-      "excerpt": "We are excited to announce General Availability (GA) of support for external tools within the Power BI Desktop authoring experience so that you can leverage a wide range of additional semantic modeling features, DAX query/expression optimization and authoring utilities, and application lifecycle management",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-19-support-of-external-tools-in-power-bi-desktop-is-ga/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/support-of-external-tools-in-power-bi-desktop-is-ga/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/support-of-external-tools-in-power-bi-desktop-is-ga/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-19T02:02:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
