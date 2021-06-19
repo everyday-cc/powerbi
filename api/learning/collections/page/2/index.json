@@ -1970,8 +1970,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-calculations/",
           "length": "PT57M",
           "ratings": {
-            "count": 9,
-            "average": 4.6666665
+            "count": 10,
+            "average": 4.5
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2547,8 +2547,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 7351,
-            "average": 4.7034416
+            "count": 7352,
+            "average": 4.70321
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2630,8 +2630,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2212,
-            "average": 4.722423
+            "count": 2213,
+            "average": 4.7225485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2672,8 +2672,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 2495,
-            "average": 4.709018
+            "count": 2496,
+            "average": 4.7091346
           },
           "provider": {
             "name": "Microsoft Learn",
