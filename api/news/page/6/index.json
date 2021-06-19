@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-30-join-us-power-bi-dev-camp-thursday-17-december-2020.md",
+      "title": "Join Us! Power BI Dev Camp! Thursday 17 December, 2020",
+      "excerpt": "Step up your game as a Power BI developer by learning how to develop single page applications (SPAs) to embed Power BI reports and dashboards using the ever-popular React.js library. If you&#8217;re able to attend this Power BI Dev Camp session on Thursday, December 17th, you&#8217;ll learn how to design",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-30-join-us-power-bi-dev-camp-thursday-17-december-2020/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-17-december-2020/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-17-december-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-29T22:00:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-moving-on-premises-as-and-rs-bi-solutions-to-azure-and-closer-to-power-bi.md",
       "title": "Moving on-premises AS and RS BI solutions to Azure – and closer to Power BI",
       "excerpt": "With the availability of virtual machine images for SQL Server Analysis Services (SSAS) and SQL Server Reporting Services (SSRS) in Azure Marketplace, you can now more easily migrate your AS and RS BI solutions from on-premises to Azure! This is a great opportunity to move your multidimensional workloads",
@@ -1199,57 +1250,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-27T01:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-the-enhanced-compute-engine-is-now-enabled-by-default.md",
-      "title": "The enhanced compute engine is now enabled by default",
-      "excerpt": "The enhanced compute engine will be enabled for all new dataflows workloads",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-26-the-enhanced-compute-engine-is-now-enabled-by-default/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/the-enhanced-compute-engine-is-now-enabled-by-default/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/the-enhanced-compute-engine-is-now-enabled-by-default/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
