@@ -709,8 +709,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 302,
-        "average": 4.589404
+        "count": 303,
+        "average": 4.5907593
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -880,8 +880,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
       "length": "PT20M",
       "ratings": {
-        "count": 1351,
-        "average": 4.7594376
+        "count": 1352,
+        "average": 4.758876
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -923,8 +923,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-modify-filter/",
       "length": "PT21M",
       "ratings": {
-        "count": 442,
-        "average": 4.6357465
+        "count": 443,
+        "average": 4.629797
       },
       "provider": {
         "name": "Microsoft Learn",
