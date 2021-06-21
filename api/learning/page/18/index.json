@@ -918,8 +918,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1725,
-            "average": 4.7171016
+            "count": 1726,
+            "average": 4.717265
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1104,8 +1104,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/",
       "length": "PT57M",
       "ratings": {
-        "count": 2778,
-        "average": 4.696184
+        "count": 2779,
+        "average": 4.696294
       },
       "provider": {
         "name": "Microsoft Learn",
