@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-27-priority-access-sign-up-for-power-bi-premium-per-user-public-preview-now-available.md",
+      "title": "Priority Access sign-up for Power BI Premium per user public preview now available",
+      "excerpt": "We are almost ready to launch the public preview of the new Power BI Premium per user SKU in early to mid-November.  We are excited to give users access to these capabilities as soon as possible, while at the same time ensuring that we are prioritizing the users/tenants that are most interested in previewing",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-27-priority-access-sign-up-for-power-bi-premium-per-user-public-preview-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/priority-access-sign-up-for-power-bi-premium-per-user-public-preview-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/priority-access-sign-up-for-power-bi-premium-per-user-public-preview-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T01:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-the-enhanced-compute-engine-is-now-enabled-by-default.md",
       "title": "The enhanced compute engine is now enabled by default",
       "excerpt": "The enhanced compute engine will be enabled for all new dataflows workloads",
@@ -1189,57 +1240,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-09-22T01:31:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-driving-a-data-culture-in-a-world-of-remote-everything.md",
-      "title": "Driving a data culture in a world of remote everything",
-      "excerpt": "During this new Microsoft Ignite format, with 48 hours of hours of digital sessions and interactions where thousands of IT professionals will come together, we have several exciting innovations to announce that will help customers drive clarity when they need it most.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-22-driving-a-data-culture-in-a-world-of-remote-everything/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/driving-a-data-culture-in-a-world-of-remote-everything/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/driving-a-data-culture-in-a-world-of-remote-everything/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T01:30:43-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

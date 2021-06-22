@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-19-as-power-bi-aces-gartners-new-magic-quadrant-whats-the-story-behind-microsofts-success.md",
+      "title": "As Power BI aces Gartner's new Magic Quadrant, what's the story behind Microsoft's success?",
+      "excerpt": "Tableau, meanwhile, regressed in both of those dimensions. This gives Microsoft, and its Power BI juggernaut, a huge lead on the competition. And while it's tempting to look at Microsoft as some ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-19-as-power-bi-aces-gartners-new-magic-quadrant-whats-the-story-behind-microsofts-success/index.json",
+      "webUrl": "https://www.zdnet.com/article/as-power-bi-aces-gartners-new-magic-quadrant-whats-the-story-behind-microsofts-success/",
+      "originalUrl": "https://www.zdnet.com/article/as-power-bi-aces-gartners-new-magic-quadrant-whats-the-story-behind-microsofts-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/02/18/833a5742-f0eb-4e4a-bbf2-74c85b491e6e/gartner-2021-bi-mq3.png",
+          "width": 3413,
+          "height": 3744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/as-power-bi-aces-gartners-new-magic-quadrant-whats-the-story-behind-microsofts-success/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/as-power-bi-aces-gartners-new-magic-quadrant-whats-the-story-behind-microsofts-success/",
+      "publishedDateTime": "2021-02-18T21:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-become-a-data-scientist-with-this-python-power-bi-matlab-training-bundle.md",
       "title": "Become a data scientist with this Python, Power BI, MATLAB training bundle",
       "excerpt": "The Dynamic Data Scientist Bundle Ft. Power BI, Python & MATLAB was specifically put together to help you on that front, and for a limited time, you can get it on sale for only $29.99. Regardless ...",
@@ -1214,57 +1265,6 @@
       "topics": [
         "Power BI",
         "Power BI Service"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-announcing-datasets-hub-preview-to-explore-and-analyze-your-business-data.md",
-      "title": "Announcing Datasets Hub (Preview) to explore and analyze your business data",
-      "excerpt": "We’re excited to introduce a new datasets hub in the Power BI service and Power BI personal app in Teams.\r\nThe datasets hub makes it easy to find, explore, and use the datasets in your organization. It provides information about the datasets as well as entry points for creating reports on top of those",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-21-announcing-datasets-hub-preview-to-explore-and-analyze-your-business-data/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-datasets-hub-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-datasets-hub-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-20T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],

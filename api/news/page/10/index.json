@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-06-24-learn-excel-and-power-bi-with-this-data-analysis-training.md",
+      "title": "Learn Excel and Power BI With This Data Analysis Training",
+      "excerpt": "PCMag readers can get lifetime access to the entire learning bundle for $24.99—down 95 percent from the original MSRP.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-06-24-learn-excel-and-power-bi-with-this-data-analysis-training/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-24-learn-excel-and-power-bi-with-this-data-analysis-training/",
+      "originalUrl": "https://www.pcmag.com/deals/learn-excel-and-power-bi-with-this-data-analysis-training",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/06fLShpQUIZJPhYUJBjjSmW-1.fit_lim.size_1200x630.v_1592901747.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": "Learn Excel and Power BI With This Data Analysis Training",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-24T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-06-22-what-to-focus-on-with-dax-and-more-roundup-june-22-2020.md",
       "title": "What to FOCUS on with DAX and more... (Roundup | June 22, 2020)",
       "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup183 2 Minute Tuesday: https://guyinacu.be/datarefresh Adam's tech video: https://guyinacu.be/perfstart  🔴 Live Replay: https://guyinacu.be/live015  📢 Become a member: https://guyinacu.be/membership",
@@ -1209,58 +1260,6 @@
           "width": 1280,
           "height": 720,
           "title": "Happy New Year from Power BI Desktop!",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T12:18:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-power-bi-desktop-update-august-2019.md",
-      "title": "Power BI Desktop Update - August 2019",
-      "excerpt": "Our August release has another hotly anticipated feature from the Microsoft Business Application Summit, grouping. Grouping in reports, similar to PowerPoint's grouping, lets you easily organize groups of visuals to move and resize them as a set. This month's release also has some updates to our newest",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-02-05-power-bi-desktop-update-august-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-02-05-power-bi-desktop-update-august-2019/",
-      "originalUrl": "https://youtube.com/watch?v=sf4n7VXoQHY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sf4n7VXoQHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sf4n7VXoQHY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Power BI Desktop Update - August 2019",
           "attribution": null,
           "isCached": true
         }
