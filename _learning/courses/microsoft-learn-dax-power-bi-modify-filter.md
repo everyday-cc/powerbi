@@ -8,7 +8,7 @@ length: PT21M
 ratings:
   count: 444
   average: 4.6306305
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -32,6 +32,6 @@ images:
     height: 320
     isCached: true
 
-secured: "rPl4+DuQ8XifK3sFdrGyHHf4Nvjr1RsoRK34L2V8Pz5BPoal01ovaS1lu4z1oJDI/JaTbA7ZdRNaqLqzpe7yzCDs9BdjuUKxPiBPaJO8ZfEkjkj2TATtuljmbF55GtTFdoBucJj/m6PEM1Zt3bOI3BlVF379B2p+MhuI+KD3yGRkIlXFv/t4h+EZ9Vei4YccOmb3oMAL+/8PC69BuyzEkcgcJKJbhc12UP7KXiQJYnbl2n4SVkdxEHpaFCh4WVANukyu8sGZuM2xwegXJ3nPQ5l9B6n/rPePmXo2u8orQhN9OpIoNcTQ7ajwL5FCbHUnJRoPhcPZfmR8c3Uw1H4v0sN8De4wZszsGulcTkZBR7WVk1tZJnembZanNmslb+e++2jxpgRtuT89JKHPSUGc4D2dkOPA/VtC4yHDqqmxtCo=;0XPxGzJvPGeVpZvF0XiDbA=="
+secured: "doKO59x8yGgRqQNC51FLu83GLOopTdCXUy6p3JorG0VEkLZIRSY4w3W5NUFFqZ4tsQ0eaVEDeejSDFUY98s4CYsib9jjMBDNHv235Iu9gRctjjhvd3pAaD5l7LSnshw5t6ogXfiap+speqNs+Kmbq1WaS8N+sNfcMiJQmrpOa2jygsGUSWfvshdG4kXB0kn8Nnu5TUoo4popV3Ej8Fz0CVZC/p42ZvO9ZGe7GJvZGP6rAkY+ay0YYQgkMWLgTCSNsCVa0RcydsNEhwg3XCuHdkZvuFgChVMSW+8wn2xQRK+0xMU7HJ+NhvszRZEmIw8AvKUzC1ZuXOWzcpVH7ggQc36xuHLDcJ/ZjRq/kW5okZKjHsvaThT/IHIZqZX+DPkwXIkfmIuYRbvBIi93vdbfctR2WZyHZ2FNuMxEJPGRPg4=;b3AboT5JAgY5GQV9OmZNlg=="
 ---
 
