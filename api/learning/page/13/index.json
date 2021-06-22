@@ -996,8 +996,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1730,
-            "average": 4.717341
+            "count": 1731,
+            "average": 4.7175045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1038,8 +1038,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2523,
-            "average": 4.8065796
+            "count": 2525,
+            "average": 4.8067327
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1056,7 +1056,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 140,
+          "heat": 60,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/row-level-security-power-bi-social.png",
@@ -1140,8 +1140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 2651,
-        "average": 4.73444
+        "count": 2653,
+        "average": 4.73464
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1182,8 +1182,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 2427,
-        "average": 4.6374125
+        "count": 2429,
+        "average": 4.6372995
       },
       "provider": {
         "name": "Microsoft Learn",
