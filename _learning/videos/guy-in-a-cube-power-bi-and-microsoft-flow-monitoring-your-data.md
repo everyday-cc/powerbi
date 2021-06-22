@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M59S
 publishedDateTime: 2017-06-28T13:23:37Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B4dCLtQ53pA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "aIcGsiuS1GvzazilvoEbAC3q/NRHgJuZwtsyqvYtnkE84RK8Hvo98M2l9ekcPOOJZwgpEKn40XPOomQHXMuJTegtzobgn1DrAVfmwjCapyprTldCCs8P1Y0kbJq70qXUHf8uvPhBY60kBZ1AWmmozqj6TcWm3iC64d+S9hlJ6hyyIfGXLIRcdCF1OXpVQNr6quByOKezsnB5OnzLp+IpJhyeQk2L7lG0lgFK5efuaNTctogph43tFZaGsUHLRQn0/b0Kix5+QCM/JuyVmQGWz/EgeTqZrk9r8XKJNa8vH4JYFTUzxdW8JW8uFLtg7G39qFIWbDq63MZW3A21G+5Tc+i+bRW6jBijeodXfcRFi8HAGbRw2LIyMtiDv8+8hweyC03Jw9EypewxfxXQHEcVShLbK1f2AmPolSEOEAWtQ10=;/kMuBXGXhPiYp5cI+vT32g=="
+secured: "tgpZaVQiBn+tqc5i8IOt5PDR/pwc/NCcT4VTPS8teWkUh5TjNgpKUd0ZrsKV0OuNDo6lsYCzTW/sG/lpxUtxGn2ZNscxe7r9wPG123YFdIOQ2brhitg6aswnKu26wvCtDfun4nC52fEOHSEcKATC9LP9+H7THzu2BtD/IBOq8xLEC/kykGJfQ/qCfaondRQ/r2f1eCc6k4PAAQ6b1Zaj0XlOfy4orSZs1HuvBF9fMhcof5VWpGrexJvivKU3su6Cvd4189lvcMZwNIbM01dTcPJ4zsOg7tVONOKnEJP6fhzg3bdQhQ8ebitDeMbNhR9JhQeZIUz0iHmpGbyUB9gMebG0aMWWU4xrrH6XIkcJK6M0z58Nnmbq5ijNjlHblsuXpcC5cgqDnVzjTVsQbTeWeYQJRATbTCR4ER+mzigd/i8=;I3dqQDYsB/9O+fWitGcLRQ=="
 ---
 
