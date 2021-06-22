@@ -861,36 +861,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-export-the-data-of-a-power-bi-table-entirely-in-a-few-clicks.md",
-      "title": "Export the Data of a Power BI table entirely in a few Clicks",
-      "excerpt": "If you want to export the data of a Power BI table, you have options such as copy and paste, or putting it in a visual and export it. However, there is an easier way available too. You can use Power BI Helper (free tool) to export the entire data of the table. The instruction below explains how it is",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-export-the-data-of-a-power-bi-table-entirely-in-a-few-clicks/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-export-the-data-of-a-power-bi-table-entirely-in-a-few-clicks/",
-      "originalUrl": "https://youtube.com/watch?v=bd_DluFQmEc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bd_DluFQmEc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M16S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-05-30T14:38:40-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bd_DluFQmEc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-fibonacci-sequence-understanding-the-power-query-recursive-function-for-power-bi.md",
       "title": "Fibonacci Sequence   Understanding the Power Query Recursive Function for Power BI",
       "excerpt": "Recursive functions in Power Query are not very popular, but sometimes very helpful when in need. In this post, I'll explain what a recursive function is, how it works, and explain it through a famous recursive example of Fibonacci Sequence. Download the code, and Power BI file from my blog article here:",
@@ -910,6 +880,37 @@
           "url": "https://i.ytimg.com/vi/IrmpCyYiYGc/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-get-the-image-url-in-power-bi-using-power-query-get-table-from-example.md",
+      "title": "Get the Image URL in Power BI Using Power Query Get Table from Example",
+      "excerpt": "I have written previously a blog article that I explained in detail how I fetch the image URL from a website using Power Query. That method, however, is what I call a bit of a techie way of doing it because you have to look at the HTML code of the page. There is an easier way of doing it as well. For",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-get-the-image-url-in-power-bi-using-power-query-get-table-from-example/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-get-the-image-url-in-power-bi-using-power-query-get-table-from-example/",
+      "originalUrl": "https://youtube.com/watch?v=B0T51Ibn9Tc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B0T51Ibn9Tc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M51S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-01-07T20:33:25-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B0T51Ibn9Tc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
