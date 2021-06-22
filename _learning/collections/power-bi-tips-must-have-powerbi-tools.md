@@ -2,7 +2,7 @@
 title: "Must Have PowerBI Tools"
 excerpt: "ALM ToolKit, DAX Studio, Tabular Editor and Monkey Tool"
 type: collection
-heat: 60
+heat: 62
 
 provider:
   name: Power BI Tips
@@ -23,6 +23,7 @@ items:
   - videos/power-bi-tips-powerbitips-tutorial-monkey-tool-introduction-part-2
   - videos/power-bi-tips-powerbitips-pug-external-tools-business-ops
   - videos/power-bi-tips-powerbitips-hot-swap-connections-webinar
+  - videos/power-bi-tips-introduction-to-the-charticulator-visual-by-mike-carlo
 
 topics:
   - Power BI
