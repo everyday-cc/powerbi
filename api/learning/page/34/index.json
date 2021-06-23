@@ -4,14 +4,14 @@
   "page": 34,
   "value": [
     {
-      "path": "_learning/videos/curbal-how-i-killed-the-refresh-functionality-for-power-bi-dataflowsso-you-dont-have-to.md",
-      "title": "How I killed the refresh functionality for Power Bi dataflows...so you dont have to...",
-      "excerpt": "I completely destroyed the dataflows refresh capabilities on my power bi tenant and my only  consolation is that you will learn from my mistake and avoid this alltogether.  If you are getting this dataflow error, then you probably have the same issue: Error: Data source credentials are missing or invalid.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-i-killed-the-refresh-functionality-for-power-bi-dataflowsso-you-dont-have-to/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-i-killed-the-refresh-functionality-for-power-bi-dataflowsso-you-dont-have-to/",
-      "originalUrl": "https://youtube.com/watch?v=5mhUm8jzHHo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5mhUm8jzHHo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M56S",
+      "path": "_learning/videos/curbal-get-football-data-for-the-main-championships-for-free-in-power-bi.md",
+      "title": "Get football data for the main championships for free in Power BI",
+      "excerpt": "Do you have football fever or dont know what you are going to do with all those free hours?  In today's video I will show you how you can get free data from the main football competitions for free!  Lets get started and Merry christmas!  API quick start: https://www.football-data.org/documentation/quickstart",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-get-football-data-for-the-main-championships-for-free-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-get-football-data-for-the-main-championships-for-free-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=OEE7QOqa6vo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OEE7QOqa6vo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M9S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -24,11 +24,49 @@
           }
         ]
       },
-      "publishedDateTime": "2020-03-09T09:21:20-07:00",
+      "publishedDateTime": "2020-12-23T05:31:20-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5mhUm8jzHHo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OEE7QOqa6vo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-handling-errors-in-power-query-with-try-otherwise-power-bi-tips-tricks-32.md",
+      "title": "Handling errors in Power Query with try otherwise - Power BI Tips & Tricks #32",
+      "excerpt": "Have you ever got errors in Power Query and you dont know how to manage them?  In today's tutorials I will show you how to: Delete errors in Power Query or Expand the list without removing them, allowing you to filter them out.  Link to Power BI file: http://gofile.me/2kEOD/ADBC7nTLX   Looking for a",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-handling-errors-in-power-query-with-try-otherwise-power-bi-tips-tricks-32/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-handling-errors-in-power-query-with-try-otherwise-power-bi-tips-tricks-32/",
+      "originalUrl": "https://youtube.com/watch?v=9-Lag0VOiTs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9-Lag0VOiTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M35S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-03-05T07:15:29-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9-Lag0VOiTs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -39,7 +77,7 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Dataflows"
+        "Power Query"
       ]
     },
     {
@@ -120,14 +158,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-how-to-create-kpis-in-power-bi-using-svg-images.md",
-      "title": "How to create KPIs in Power BI using SVG images",
-      "excerpt": "In today's video I am showing you another way to create KPIs in Power BI.  I have already a few videos on this:  Build your own KPI indicators in Power BI: https://www.youtube.com/watch?v=N_IsRbuUFwo  Create KPIs in Power BI - Power BI Tips & Tricks #41: https://youtu.be/ju_KPc3Fvg8  Add KPI symbols",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-create-kpis-in-power-bi-using-svg-images/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-create-kpis-in-power-bi-using-svg-images/",
-      "originalUrl": "https://youtube.com/watch?v=z7eyZM2b4Z8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z7eyZM2b4Z8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M43S",
+      "path": "_learning/videos/curbal-how-to-create-functions-in-power-query.md",
+      "title": "How to create functions in Power Query",
+      "excerpt": "In this video I will show you how to create a custom function in Power Query.  Custom functions are re-usable pieces of code. So, as a rule, if you write the same code more than three times, you should do a function.  In this video I go through, step by step, how to create a function to import excel",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-create-functions-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-create-functions-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=Ar_fV_oXSNs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ar_fV_oXSNs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M40S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -140,11 +178,50 @@
           }
         ]
       },
-      "publishedDateTime": "2018-08-28T00:10:48-07:00",
+      "publishedDateTime": "2018-02-05T00:51:54-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/z7eyZM2b4Z8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Ar_fV_oXSNs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-how-to-export-data-from-power-biquery-to-azure-sql.md",
+      "title": "How to export data from Power BI/Query to Azure SQL",
+      "excerpt": "In this video I will show you how to export data from Power BI (Power Query to be exact) to Azure SQL.  Resource for the video (pointed out by Imke Feldmman): https://www.r-bloggers.com/getting-started-with-microsoft-sql-server-on-azure/  I have already shown you how to export data to : Export data from",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-export-data-from-power-biquery-to-azure-sql/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-export-data-from-power-biquery-to-azure-sql/",
+      "originalUrl": "https://youtube.com/watch?v=aHcDQT3n6BY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aHcDQT3n6BY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M38S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-07-28T02:07:03-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aHcDQT3n6BY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -158,14 +235,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-how-to-easily-sketch-your-power-bi-reports-with-your-remote-team-customers-stayhome.md",
-      "title": "How to easily sketch your Power BI reports with your remote team/ customers #StayHome",
-      "excerpt": "As a lot of us are working from home, and more and more meetings are online, how do we gather the requirements from our customers /colleagues for our power bi reports?  In this video I will show you one way to do it with tools you already have in your computer (most likely).   Unfortunately they deleted",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-easily-sketch-your-power-bi-reports-with-your-remote-team-customers-stayhome/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-easily-sketch-your-power-bi-reports-with-your-remote-team-customers-stayhome/",
-      "originalUrl": "https://youtube.com/watch?v=m6F-YBAXPAQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m6F-YBAXPAQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M46S",
+      "path": "_learning/videos/curbal-how-to-import-csv-files-from-github-in-power-bi-and-avoid-hard-coded-columns.md",
+      "title": "How to import csv files from github in Power BI and avoid hard coded columns",
+      "excerpt": "In this video I will show you how to get csv files from Github into Power BI and how to avoid hard coding columns when importing csv files.  The file is available for download in the download center - Community downloads. Please, use this dataset responsibly!! Here you can download all the pbix files:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-import-csv-files-from-github-in-power-bi-and-avoid-hard-coded-columns/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-import-csv-files-from-github-in-power-bi-and-avoid-hard-coded-columns/",
+      "originalUrl": "https://youtube.com/watch?v=4vfAz7XDuH0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4vfAz7XDuH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M41S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -178,11 +255,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-07-06T07:03:24-07:00",
+      "publishedDateTime": "2020-03-18T06:11:48-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/m6F-YBAXPAQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4vfAz7XDuH0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -235,6 +312,82 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-how-to-solve-sort-order-error-we-cannot-sort-the-a-column-by-b-you-cant-have-more-than-.md",
+      "title": "How to solve sort order error: \"We cannot sort the 'A' column by 'B'. You cant have more than ...\"",
+      "excerpt": "Have you got this error while trying to sort columns?:  \"We cannot sort the 'school' column by 'grade'. You can't have more than one value in 'grade' for the same value in 'school'. Choose a different column for sorting or update the data in 'Year'.\"  In this video I show you why you get it and how to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-solve-sort-order-error-we-cannot-sort-the-a-column-by-b-you-cant-have-more-than-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-solve-sort-order-error-we-cannot-sort-the-a-column-by-b-you-cant-have-more-than-/",
+      "originalUrl": "https://youtube.com/watch?v=3qOH2i4iLcU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3qOH2i4iLcU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-01T06:52:34-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3qOH2i4iLcU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-how-to-translate-power-bi-reports-or-any-text-live.md",
+      "title": "How to translate Power BI reports (or any text) Live",
+      "excerpt": "Have you ever had the need to work with a Power BI file in a different language that those you know? Or travelled somewhere where you couldnt speak the language?  In today's video, I will show you how to translate any text live. No more language barriers :)  Here you can download all the pbix files:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-translate-power-bi-reports-or-any-text-live/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-translate-power-bi-reports-or-any-text-live/",
+      "originalUrl": "https://youtube.com/watch?v=takLaQs5VCE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/takLaQs5VCE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M48S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-08T01:35:24-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/takLaQs5VCE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-import-data-from-facebook-into-power-bi.md",
       "title": "Import data from Facebook into Power BI",
       "excerpt": "In this video I will show you how to import data from Facebook into Power BI using the facebook connector. In part 2, I will show you how to import the data from Facebook API directly.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more",
@@ -260,6 +413,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/HHfsuTbI0ic/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-import-google-public-datasets-in-power-bi.md",
+      "title": "Import Google public datasets in Power BI",
+      "excerpt": "Did you know that google has many public datasets available for you to use for free * (1TB query data/month)?  In todays video I will show you how to import them in Power Bi so you can start using them.  Sources mentioned in the video: Google GPD : https://cloud.google.com/public-datasets  Get google",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-import-google-public-datasets-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-import-google-public-datasets-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=O5fh91gOW9g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O5fh91gOW9g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M24S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-12-07T06:21:04-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/O5fh91gOW9g/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -337,6 +528,82 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/s8VGQaRhoow/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-json-theme-guide-and-file-for-power-bi-by-curbal.md",
+      "title": "JSON Theme Guide and file for Power BI by Curbal",
+      "excerpt": "You can customize the look and feel of the Power BI reports using the formatting pane for each specific visual or you can speed up the process by using a JSON file.\r  This feature (the JSON file) has been available for quite a while but the documentation is poor  and unfortunately, a lot of the elements",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-json-theme-guide-and-file-for-power-bi-by-curbal/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-json-theme-guide-and-file-for-power-bi-by-curbal/",
+      "originalUrl": "https://youtube.com/watch?v=-6-n0FnFu-o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-6-n0FnFu-o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M51S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-22T02:47:18-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-6-n0FnFu-o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-lesson-12-how-much-does-power-bi-cost.md",
+      "title": "Lesson 12: How much does Power BI cost?",
+      "excerpt": "Welcome to this Power BI Course! Subtitles for course are available in: English, Spanish and Persian.  View all lessons here: https://www.youtube.com/playlist?list=PLDz00l_jz6zx0wwS5HKFz5u-dEoAuRQMW  Persian Translation by: https://www.linkedin.com/in/seyed-sajad-mousavi-54035a139  Now that you have",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-lesson-12-how-much-does-power-bi-cost/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-lesson-12-how-much-does-power-bi-cost/",
+      "originalUrl": "https://youtube.com/watch?v=K1h3lY5y5to",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K1h3lY5y5to\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M36S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-14T01:18:24-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/K1h3lY5y5to/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -503,83 +770,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-open-your-power-bi-desktop-model-in-excel-with-just-one-click-two-methods.md",
-      "title": "Open your Power BI Desktop model in Excel with just one click (two methods)",
-      "excerpt": "It is now possible to download your Power BI desktop data into Excel with a simple click and I am going to show you two methods in this video. Enjoy!  Erik Svensen tool: https://eriksvensen.wordpress.com/2020/07/27/powerbi-external-tool-to-connect-excel-to-the-current-pbix-file/  Changes in Power Shell",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-open-your-power-bi-desktop-model-in-excel-with-just-one-click-two-methods/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-open-your-power-bi-desktop-model-in-excel-with-just-one-click-two-methods/",
-      "originalUrl": "https://youtube.com/watch?v=CjwEKSKlSyI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CjwEKSKlSyI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M52S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-11T04:10:41-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CjwEKSKlSyI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-power-bi-key-influencers-visualization-test-or-trust.md",
-      "title": "Power Bi Key influencers visualization | TEST OR TRUST?",
-      "excerpt": "Power Bi Key influencers visualization | TEST OR TRUST?  Do you know how the key influencer visual works behind the scenes? What do you do with the results, you test or trust? Here are my thoughts on the topic and dont miss the SCI analogy at the end!!  Back at you, do you trust or test?  Tutorial on",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-power-bi-key-influencers-visualization-test-or-trust/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-power-bi-key-influencers-visualization-test-or-trust/",
-      "originalUrl": "https://youtube.com/watch?v=DSkuGoEFqAM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DSkuGoEFqAM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M43S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-04T03:02:16-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DSkuGoEFqAM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-power-bi-tips-tricks-02-create-a-custom-calendar-in-power-bi.md",
       "title": "Power BI Tips & Tricks #02: Create a custom calendar in Power BI",
       "excerpt": "Here I show you how to create a custom calendar in Power BI.  Download the calendar file: https://curbal.com/blog/create-power-bi-custom-calendars   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
@@ -605,6 +795,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wHn968f1E58/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-query-folding-to-improve-power-bi-performance.md",
+      "title": "Query folding to improve Power BI performance",
+      "excerpt": "Happy New Year!!! I am finally back from my vacation and we have a technical video for you.  Other important links: https://www.mssqltips.com/sqlservertip/3635/query-folding-in-power-query-to-improve-performance/ Chris Webb: https://blog.crossjoin.co.uk/2017/06/11/query-folding-and-writing-your-own-sql-queries-in-power-querypower-biexcel-get-transform/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-query-folding-to-improve-power-bi-performance/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-query-folding-to-improve-power-bi-performance/",
+      "originalUrl": "https://youtube.com/watch?v=nSDbABftUHk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nSDbABftUHk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M39S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-10T02:10:00-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nSDbABftUHk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -656,6 +885,44 @@
         "Power BI",
         "Power Query",
         "Dataflows"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-r-and-python-guide-to-power-bi.md",
+      "title": "R (and python) Guide to Power BI",
+      "excerpt": "In this video, we will go all the capabilities that are available to you if you are a data scientist, when working with R and the same goes for python.  This is not an R or Python tutorial, just to be clear, but I will show you instead examples of where and how you can use R (and python) in your data",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-r-and-python-guide-to-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-r-and-python-guide-to-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=BI8FcI_sgR0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BI8FcI_sgR0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M20S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-12-03T00:07:23-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BI8FcI_sgR0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -878,275 +1145,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6qUUxAsSomU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-split-multiple-columns-into-rows-without-errors-in-power-query.md",
-      "title": "Split multiple columns into rows without errors in Power Query",
-      "excerpt": "Sometimes when reading PDF files in power query, the tables created with get multiple rows into one on all columns, and the split function in power query does not work to split them.  In todays video, I will show you how to split multiple columns into rows in one step and how to avoid errors depending",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-split-multiple-columns-into-rows-without-errors-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-split-multiple-columns-into-rows-without-errors-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=V5X-wo0wVw0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V5X-wo0wVw0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M55S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-22T03:41:02-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/V5X-wo0wVw0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-version-control-for-power-bi-files.md",
-      "title": "Version control for Power BI files",
-      "excerpt": "In this video I am going to show you how to do version control with Power BI files, or at least, one way to do it.   How do you do it? Let me know in the comments box.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-version-control-for-power-bi-files/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-version-control-for-power-bi-files/",
-      "originalUrl": "https://youtube.com/watch?v=i3s9isKKdDs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i3s9isKKdDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-10-30T04:35:55-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/i3s9isKKdDs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-view-your-power-bi-reports-in-outlook-.md",
-      "title": "View your power bi reports in outlook 📨",
-      "excerpt": "Do you want to view your Power Bi reports in Outlook?  Here is a tip I learnt from Christopher FInlan. Here is a link to his blog post: https://christopherfinlan.com/2018/06/11/use-outlook-shortcuts-to-organize-your-favorite-power-bi-reports-and-dashboards/   Looking for a download file? Go to our Download",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-view-your-power-bi-reports-in-outlook-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-view-your-power-bi-reports-in-outlook-/",
-      "originalUrl": "https://youtube.com/watch?v=VmiAla2SATQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VmiAla2SATQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M38S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-07-16T08:11:29-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VmiAla2SATQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-what-is-power-bi-premium-per-user-license.md",
-      "title": "What is Power BI Premium Per User license?",
-      "excerpt": "In todays video we will go through all the details of the Power BI premium per user license:  00:00 What is Power BI premium per user (PPU) license? 00:27 How much does Power BI PPU license cost? 00:50 Do I need a PRO and a PPU  license? 01:15 What features are included in the PPU license? 02:00 What",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-what-is-power-bi-premium-per-user-license/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-what-is-power-bi-premium-per-user-license/",
-      "originalUrl": "https://youtube.com/watch?v=bmnuY1LRj0Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bmnuY1LRj0Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M14S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-28T04:08:20-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bmnuY1LRj0Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-why-is-vertipaq-so-fast-part-2-columnar-database.md",
-      "title": "Why is Vertipaq so fast? Part 2: Columnar database",
-      "excerpt": "Why is Vertipaq so fast and what does it mean that it is a columnar database?  In this video, we will go through what it means that Vertipaq is a columnar database and why performance is so good.  In previous video we cover data compression:  When we import data in Power BI, the Vertipaq database will",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-why-is-vertipaq-so-fast-part-2-columnar-database/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-why-is-vertipaq-so-fast-part-2-columnar-database/",
-      "originalUrl": "https://youtube.com/watch?v=A461ktvExH0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A461ktvExH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M30S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-10T02:10:23-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/A461ktvExH0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-why-is-vertipaq-so-fast-part-3-segment-elimination.md",
-      "title": "Why is Vertipaq so fast? Part 3: Segment Elimination",
-      "excerpt": "Why is Vertipaq so fast? Segmenting the data is one of Vertipaq tricks to manage data at blazing fast speeds. In this video, I will explain what that is.  In previous videos (part 2) we cover what it means that Vertipaq is a columnar database and what that does to improve the performance of your Powerpivot",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-why-is-vertipaq-so-fast-part-3-segment-elimination/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-why-is-vertipaq-so-fast-part-3-segment-elimination/",
-      "originalUrl": "https://youtube.com/watch?v=A67tsJ03Afs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A67tsJ03Afs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M26S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-10T02:10:23-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/A67tsJ03Afs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-word-frequency-counter-power-query.md",
-      "title": "Word Frequency counter Power Query",
-      "excerpt": "In today's video I will show you how to count words in Power Query. I will be following Chris Webbs awesome tutorial: https://blog.crossjoin.co.uk/2013/03/15/finding-shakespeares-favourite-words-with-data-explorer/   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-word-frequency-counter-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-word-frequency-counter-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=YOmL57g3RMg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YOmL57g3RMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M16S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-12-04T09:55:55-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YOmL57g3RMg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

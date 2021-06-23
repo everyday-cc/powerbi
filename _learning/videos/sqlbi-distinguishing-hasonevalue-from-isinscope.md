@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M
 publishedDateTime: 2020-06-22T19:30:12Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8UNNo233eFc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jOKr6EUWxWs+WF9zD53BSzsy6hkpW7JK0sU5LW9pHI1hmaIbJrhMiPSPNpvfIZOVsMJVoMqlLO5KrABmgeNioxb8CRm167H4JnILclx0uL6CeaV1sxEQfIX64vwQVRci2Wa76t07TCrKHyh+is2zpbrXRGgcWQ4+1N+gWOqjedblJV1XJYcoTe+VM84WuIfwGWmOPN+edHnRX+oK4xgaxMQRVUFyzgDYlzlhgIorR2ObzZ+CxK+J4wq50yN4RybHkcYA39r85U9Gl2nHQuLFegZ5HwDfJzn7AvMD5CxAKe1hHkBEBAkek0GHfZKBPdULlWsPQkvyRD1TLC/ZTkg8bCAf6fU6T1L3+zzCMIEj14+TBLBf56povbU2Yi6EIFNj4xiGxFKQ5EDnuzPPO26ZRbJu9Qo5Bn6LormrRcXYJ+g=;RhTNtpktS9Zzb+/rxH8l/Q=="
+secured: "X1DMTMXwNRKjytf57lkcMCAU3FLJSaVaq/rMool+LPj7E8G+PCUM9YYCywvF8Wf7KisQ2JiRezP9bcOuBwmIb1eZp5QNuDPAhfrGNUvn8f8zrGvuThBEkGybcuh1ZPbBy+jQ2h+HfN6XBb+cyjKE2tP+4oy6LEv2iEmVIjEv7t00zf+U9jQW1WDzIlw8moVQk43HmPQbT9Y77q23djMg/g2KWhIoX1K3282WSZnZjdZQZkinlMH6Tow+vK1Rb1jqdBUK9HFttEQBaj1snRn9s6m+kbyOlKuoWvn/ig2lryImuRoKEJB80H8eqm2DvJvRZm760nEWfuab180K7wMjUbOZlV+2M1nvZ5b6Rt/a+W79uPgxNtST94nglXzdBWcD5aMo9QYCswZ0TdSby38jVRemf7R0QZ73ShadwOt2wkg=;RDghXa+oS8xd3A40AyQJuw=="
 ---
 

@@ -18,6 +18,7 @@ items:
   - videos/dhruvin-shah-create-a-comparison-report-in-power-bi
   - videos/dhruvin-shah-if-eager-dax-function-in-power-bi
   - videos/dhruvin-shah-all-function-in-power-bi-dax
+  - videos/dhruvin-shah-all-selected-dax-expression-in-power-bi
 
 topics:
   - Power BI
