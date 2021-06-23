@@ -4,36 +4,6 @@
   "page": 74,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-where-do-business-leaders-get-stuck-when-adopting-power-bi-talk-power-bi-live-qa-feb-5-2021.md",
-      "title": "Where do Business Leaders get Stuck when Adopting Power BI? 🔴Talk Power BI LIVE Q&A (Feb 5, 2021)",
-      "excerpt": "Business Leaders often become painfully aware that their business is stuck in the BI Stone Age. But find themselves facing tough obstacles when trying to change existing systems + processes and adopt new era of Power BI + Agile BI. In this discussion, we will examine the obstacles in their path and brainstorm",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-where-do-business-leaders-get-stuck-when-adopting-power-bi-talk-power-bi-live-qa-feb-5-2021/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-where-do-business-leaders-get-stuck-when-adopting-power-bi-talk-power-bi-live-qa-feb-5-2021/",
-      "originalUrl": "https://youtube.com/watch?v=QB9E754L6aA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QB9E754L6aA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H9M10S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2021-02-05T10:08:19-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QB9E754L6aA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-which-path-has-more-financial-risk-power-bi-employee-or-consultant-the-answer-may-surprise-you.md",
       "title": "Which Path has More Financial Risk⚠️: Power BI Employee or Consultant? (The Answer May Surprise You)",
       "excerpt": "Want to learn the 5-Steps to become a successful Power BI Consultant? 👉 Visit https://web.learnpowerbi.com/consultant-path/ Learn More about our Power BI Consultant Program 👉 Visit https://www.LearnPowerBI.com/pro  Let's face it, being a Power BI Consultant carries far more financial risk than being",
@@ -419,6 +389,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/nApS3zzXBU0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-9-bullet-chart.md",
+      "title": "Charticulator Visual IS HERE!!! - Season 1 Episode 9 - Bullet Chart",
+      "excerpt": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.    This video we are exploring the Bullet Chart or Graph https://en.wikipedia.org/wiki/Bullet_graph  Official blog post about the visual: https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-9-bullet-chart/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-9-bullet-chart/",
+      "originalUrl": "https://youtube.com/watch?v=vrLg_9_jqoM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vrLg_9_jqoM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M16S",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "publishedDateTime": "2021-05-06T19:45:24-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vrLg_9_jqoM/maxresdefault_live.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
