@@ -970,8 +970,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-modify-filter/",
       "length": "PT21M",
       "ratings": {
-        "count": 444,
-        "average": 4.6306305
+        "count": 445,
+        "average": 4.6314607
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1014,8 +1014,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 918,
-        "average": 4.704793
+        "count": 920,
+        "average": 4.705435
       },
       "provider": {
         "name": "Microsoft Learn",
