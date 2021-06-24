@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-23-the-power-bi-report-action-bar-is-now-available-in-the-power-bi-sharepoint-online-webpart.md",
+      "title": "The Power BI report action bar is now available in the Power BI SharePoint Online webpart",
+      "excerpt": "New option available to enable bookmarking, export, printing, full-screen view, and favoriting in the Power BI webpart for SharePoint Online.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-23-the-power-bi-report-action-bar-is-now-available-in-the-power-bi-sharepoint-online-webpart/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/the-power-bi-report-action-bar-is-now-available-in-the-power-bi-sharepoint-online-webpart/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/the-power-bi-report-action-bar-is-now-available-in-the-power-bi-sharepoint-online-webpart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-23T10:00:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-06-22-announcing-long-term-usage-and-performance-insights-public-preview.md",
       "title": "Announcing long-term usage and performance insights (Public Preview)",
       "excerpt": "TBD",
@@ -1215,58 +1266,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-14-power-bi-desktop-update-may-2021-and-mbas.md",
-      "title": "Power BI Desktop Update May 2021 and MBAS",
-      "excerpt": "I will take the opportunity and do a double review:      1.The power bi update for May 2021 and       2. the anouncements on MBAS   Chapters: 00:00 Intro 00:30 Modern visual tooltips 01:30 Disable sensitivity labels 02:00 DQ for power bi datasets and analysis services 02:30 Improved lineage view - notify",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-14-power-bi-desktop-update-may-2021-and-mbas/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2021-05-14-power-bi-desktop-update-may-2021-and-mbas/",
-      "originalUrl": "https://youtube.com/watch?v=PchEYVjYejg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PchEYVjYejg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PchEYVjYejg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-14T02:52:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],
