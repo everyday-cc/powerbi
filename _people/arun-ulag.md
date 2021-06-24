@@ -18,7 +18,7 @@ website: https://t.co/FklqJqbSAZ
 twitter:
   username: arunulag
   url: https://twitter.com/arunulag
-  followers: 3479
+  followers: 3481
 
 linkedin:
   url: https://www.linkedin.com/in/arunulag/
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Arun Ulag"
 
-secured: "SEMH/XmYVLKE4hv2FWLiySL1Y6Vinp/jBn3TjzRxBh2l/jcd/lFAatj5BGDURx5W4WRxKhmPJm2mI/7ElDW84p5NG6c7oRuMGfNZnLttvOqTbAn2hiPjP9TmPffBd8zvfTCQ0k05rstaFZVjv4r6TLRuY1ynoOvkHjJBWo07wj6lvKTvOuLJej7XeylJqfDIU8F8sVxdBC5qIOLZtr8NljWWfIrCvt1jq34aVy17/gwgKxLeq4x5MrIK9UIA/MNwAbEfK39CQmx7RA+Fklvojl9lJ0DJQffC0QX53Y0GN86Y3qPr+NWqpADAMjnJuU5C3mY2bV/bQvDbZvgr/UJgJRz2TZl4B1KIUhEfIpipa5IbWyVyE0i9v0d+Q7HrreiSLmDdk08wOpVjNAbx9gLNIxk9PJ5quslJBsb/4QHuYEc=;F6QSp5XkFzE5CaDLc0iL5g=="
+secured: "421+NZpqKmVe3DlkWVpJ5oKjgBomkHD2306x2UYT5ZyoFjn0EYFY5rhJRmHNoZxIJTlOOSeGhplIfxfb3FrNYRX4H9H0mAISIQ1Dxw5AYhtJ24BFT/nhWyj/aWosJ2IovLtVfrqyMA1rWMNAb1HlyM9700kGyQh5BIvXkjiOAFv+Cplmt0lkBnQaia88jlUg5yf2KFicYkpdlQCn0+bG2GlW3JBYf4+xV263pbR2X3cw5KYhhZKLYNQB8s+25IYCPCsYqQmP09KXckZ+/xts1WTz0/Zx4NG/BTJ0r0vQf4uct7Kep0/K7bzDS+JOizh6ImZHa2//OPGcuKzM8Ddf4fiWWz+8jWTCMqMlPdTWa73s7T2gwV/a1dH/gvB15gG04/cyd2GgExXLuZ416pjKQ7sUSloeRN2hD669Nnbd1rE=;g88cScoh/pUjicB+vH3UpQ=="
 ---
 
