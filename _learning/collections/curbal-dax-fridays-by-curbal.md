@@ -236,6 +236,7 @@ items:
   - videos/curbal-dax-fridays-211-allocation-calculations-grouped-by-period-groupby-currentgroup
   - videos/curbal-dax-fridays-212-using-inactive-relationships-in-slicers-userelationship
   - videos/curbal-dax-fridays-203-googles-faq-on-dax
+  - videos/curbal-dax-fridays-211-add-leading-zeros-to-a-column-using-dax
 
 topics:
   - Power BI
