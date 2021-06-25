@@ -2,6 +2,99 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-08-18-july-2020-community-highlights.md",
+      "title": "July 2020 Community Highlights",
+      "excerpt": "Learn about the exciting things that happened in the Power BI Community in July.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-08-18-july-2020-community-highlights/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/july-2020-community-highlights/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/july-2020-community-highlights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T04:15:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-08-17-building-a-bank-that-can-surprise-and-delight-with-power-bi.md",
+      "title": "Building A Bank that can Surprise and Delight with Power BI",
+      "excerpt": "When Metro Bank opened in London in 2010, it was a brash competitor in a seriously traditional industry. The vision is to redefine the relationship people have with their bank by innovating ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-08-17-building-a-bank-that-can-surprise-and-delight-with-power-bi/index.json",
+      "webUrl": "https://www.techrepublic.com/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/",
+      "publishedDateTime": "2020-08-17T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more.md",
       "title": "Power BI Mobile introduces improved navigation experience, updated headers, and more",
       "excerpt": "In March, Microsoft introduced a bunch of new features to Power BI Mobile, with emphasis on user control. Later in the same month, the tech giant unveiled a performance enhancement for the Power BI service, which soon after made its way to Mobile and ...",
@@ -1161,108 +1254,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-07-06-power-bi-community-posts-roundup-july-6-2020.md",
-      "title": "Power BI community posts... (Roundup | July 6, 2020)",
-      "excerpt": "Thanks for watching this week's Power BI news roundup!  2 Minute Tuesday: https://guyinacu.be/userprincipalname Tech video: https://guyinacu.be/whatisrls  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-06-power-bi-community-posts-roundup-july-6-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-07-06-power-bi-community-posts-roundup-july-6-2020/",
-      "originalUrl": "https://youtube.com/watch?v=Nn_wjfH4pAU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nn_wjfH4pAU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Nn_wjfH4pAU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Power BI community posts... (Roundup | July 6, 2020)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T08:00:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available.md",
-      "title": "New capabilities for the Power BI Snowflake connector are now generally available",
-      "excerpt": "Enhanced capabilities to the Snowflake connector for Power BI were added a while back, including support for Azure Active Directory authentication, and more. These are now generally available.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-06-29-new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-06-29-new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/",
-      "originalUrl": "https://www.neowin.net/news/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779296_powerbi2_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": "New capabilities for the Power BI Snowflake connector are now generally available",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/",
-      "publishedDateTime": "2020-06-29T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],

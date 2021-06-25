@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-25-power-bi-june-2021-feature-summary.md",
+      "title": "Power BI June 2021 Feature Summary",
+      "excerpt": "Welcome to the June update! Loads of updates on connectors this time around. Also, DirectQuery support for Dataflows is now generally available! On top of that, we are happy to announce the preview of the paginated reports visual – we know many of you have been eagerly awaiting it, so take it for a spin",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-25-power-bi-june-2021-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-june-2021-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-june-2021-feature-summary/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i-KYRwIJX6s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T06:40:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-power-bi-desktop-update-may-2021-and-mbas.md",
       "title": "Power BI Desktop Update May 2021 and MBAS",
       "excerpt": "I will take the opportunity and do a double review:      1.The power bi update for May 2021 and       2. the anouncements on MBAS   Chapters: 00:00 Intro 00:30 Modern visual tooltips 01:30 Disable sensitivity labels 02:00 DQ for power bi datasets and analysis services 02:30 Improved lineage view - notify",
@@ -1476,58 +1528,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-06-18-power-bi-desktop-update-june-2020.md",
-      "title": "Power BI Desktop Update - June 2020",
-      "excerpt": "We have great updates this release! We're super excited to announce this month that several features are now generally available: automatic page refresh, the hierarchy slicer, the modern ribbon, and AI insights are now generally available. On top of this, we have several new features and updates that",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-06-18-power-bi-desktop-update-june-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-06-18-power-bi-desktop-update-june-2020/",
-      "originalUrl": "https://youtube.com/watch?v=WUo8TnHNHYM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WUo8TnHNHYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WUo8TnHNHYM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Power BI Desktop Update - June 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-06-18T10:24:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
