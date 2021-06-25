@@ -262,7 +262,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 11003,
+        "count": 11007,
         "average": 4.749432
       },
       "provider": {
@@ -411,8 +411,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 21134,
-        "average": 4.7248034
+        "count": 21136,
+        "average": 4.7246876
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -459,7 +459,7 @@
         "domain": "radacad.com"
       },
       "publishedDateTime": "2021-06-15T14:49:15-07:00",
-      "heat": 82,
+      "heat": 83,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ZrhnliV7Jrw/maxresdefault.jpg",
@@ -1044,8 +1044,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 7499,
-            "average": 4.778237
+            "count": 7503,
+            "average": 4.778222
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1104,8 +1104,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 7499,
-        "average": 4.778237
+        "count": 7503,
+        "average": 4.778222
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1146,8 +1146,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 19123,
-        "average": 4.713748
+        "count": 19126,
+        "average": 4.713793
       },
       "provider": {
         "name": "Microsoft Learn",
