@@ -473,8 +473,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2533,
-            "average": 4.8061585
+            "count": 2534,
+            "average": 4.8062353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -491,7 +491,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 135,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/row-level-security-power-bi-social.png",
@@ -533,8 +533,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-analyze-dynamics-365-data/",
       "length": "PT57M",
       "ratings": {
-        "count": 2791,
-        "average": 4.6965246
+        "count": 2792,
+        "average": 4.6966333
       },
       "provider": {
         "name": "Microsoft Learn",
