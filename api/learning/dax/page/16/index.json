@@ -4,6 +4,45 @@
   "page": 16,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-updates-dax-dashboards-and-more-may-17-2018.md",
+      "title": "Power BI updates, DAX, Dashboards and more... (May 17, 2018)",
+      "excerpt": "DAX Measure Dependencies in SSAS Tabular and Power BI (@biinsightnz) http://biinsight.com/dax-measure-dependencies-in-ssas-tabular-and-power-bi/  SQL, M or DAX? (@Paul_Turley) https://sqlserverbi.blog/2018/05/12/sql-m-or-dax/  Announcing Dashboard Theming in the Power BI Service https://powerbi.microsoft.com/en-us/blog/announcing-dashboard-theming-in-the-power-bi-service/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-updates-dax-dashboards-and-more-may-17-2018/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-updates-dax-dashboards-and-more-may-17-2018/",
+      "originalUrl": "https://youtube.com/watch?v=1pfGMUaazps",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1pfGMUaazps\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M25S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-05-17T07:05:02-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1pfGMUaazps/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-query-folding-dax-and-a-special-day-roundup-55.md",
       "title": "Query Folding, DAX and a special day - Roundup #55",
       "excerpt": "Chris Webb looks at how to use Value.ResourceExpression() to see how Query Folding is working. Marco Russo looks at how to leverage INTERSECT. We look at a post geared towards consultants and how they can leverage Shared Dashboards in their work. Also, there was a special day last sunday and we recap",
@@ -462,37 +501,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-create-a-subset-of-the-table-in-power-bi-and-add-calculations-using-selectcolumns-dax-function.md",
-      "title": "Create a subset of the table in Power BI and add calculations using SELECTCOLUMNS DAX Function",
-      "excerpt": "Previously I explained the AddColumns function as a function that adds one or more columns to the existing table, In this article and video, I'll explain another similar and useful function with slightly different behavior: SelectColumns, and you will learn how you can use it in Power BI and DAX. Download",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-create-a-subset-of-the-table-in-power-bi-and-add-calculations-using-selectcolumns-dax-function/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-create-a-subset-of-the-table-in-power-bi-and-add-calculations-using-selectcolumns-dax-function/",
-      "originalUrl": "https://youtube.com/watch?v=AlROiaxK41c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AlROiaxK41c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M36S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-05-19T20:02:44-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AlROiaxK41c/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-create-a-table-with-a-to-z-character-values-in-power-bi-using-dax.md",
       "title": "Create a Table with A to Z Character Values in Power BI Using DAX",
       "excerpt": "I have explained previously that you can use GenerateSeries function in DAX to create a list of number, date or time, or even currency values. However, sometimes you might need to create a list of text values. Such as alphabet; from \"a\" to \"z\" lowercase, or uppercase. The good news is that you can do",
@@ -555,23 +563,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-document-a-power-bi-file-and-report-in-a-few-clicks-all-dax-code-visualization-power-query-scripts.md",
-      "title": "Document a Power BI file and report in a few clicks   all DAX code visualization Power Query scripts",
-      "excerpt": "In this article and video, I’ll share with you how to document everything from a Power BI file in a few clicks. The document output will have all the DAX code (measures, columns, and tables) with the expressions, the tables with the Power Query scripts, information about visualization such as how many",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-document-a-power-bi-file-and-report-in-a-few-clicks-all-dax-code-visualization-power-query-scripts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-document-a-power-bi-file-and-report-in-a-few-clicks-all-dax-code-visualization-power-query-scripts/",
-      "originalUrl": "https://youtube.com/watch?v=mRbeLl0TO14",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mRbeLl0TO14\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M16S",
+      "path": "_learning/videos/radacad-how-to-use-all-in-a-dax-expression-in-power-bi.md",
+      "title": "How to Use ALL in a DAX Expression in Power BI",
+      "excerpt": "I have previously explained what the ALL function in Power BI is, and how it helps in working with filters in your report. However, still I get many students confused about how to use this function, which parameter to pass to it. This video is explaining that in detail. Download the Power BI file and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-use-all-in-a-dax-expression-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-use-all-in-a-dax-expression-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=VjTJp2XhN1A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VjTJp2XhN1A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M29S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-05-27T15:09:46-07:00",
+      "publishedDateTime": "2020-05-25T13:03:20-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mRbeLl0TO14/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VjTJp2XhN1A/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -582,7 +590,6 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power Query",
         "DAX"
       ]
     },

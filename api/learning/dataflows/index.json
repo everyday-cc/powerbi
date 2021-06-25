@@ -241,6 +241,45 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-how-i-killed-the-refresh-functionality-for-power-bi-dataflowsso-you-dont-have-to.md",
+      "title": "How I killed the refresh functionality for Power Bi dataflows...so you dont have to...",
+      "excerpt": "I completely destroyed the dataflows refresh capabilities on my power bi tenant and my only  consolation is that you will learn from my mistake and avoid this alltogether.  If you are getting this dataflow error, then you probably have the same issue: Error: Data source credentials are missing or invalid.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-i-killed-the-refresh-functionality-for-power-bi-dataflowsso-you-dont-have-to/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-i-killed-the-refresh-functionality-for-power-bi-dataflowsso-you-dont-have-to/",
+      "originalUrl": "https://youtube.com/watch?v=5mhUm8jzHHo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5mhUm8jzHHo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M56S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-09T09:21:20-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5mhUm8jzHHo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-dataflows-one-thing-you-probably-missed-with-your-gateway.md",
       "title": "Power BI dataflows: One thing you probably missed with your gateway",
       "excerpt": "Adam looks at how you can get your gateway working with Power BI dataflows, even if you aren't an admin of the gateway. There is one thing that most people overlook. We show you what it is!  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
@@ -319,25 +358,25 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-working-with-records-lists-and-values-in-power-bi-dataflows.md",
-      "title": "Working with Records, Lists, and Values in Power BI Dataflows",
-      "excerpt": "If you have been using dataflows, and you have the return value of a query as something which is not in the form of a table, such as a record, list, or value. then you have seen that the dataflow automatically converts them all to tables. There is an explanation about it, and a method around it. In this",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-working-with-records-lists-and-values-in-power-bi-dataflows/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-working-with-records-lists-and-values-in-power-bi-dataflows/",
-      "originalUrl": "https://youtube.com/watch?v=M7dkx6uW4u4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M7dkx6uW4u4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M56S",
+      "path": "_learning/videos/radacad-document-the-power-bi-tenant-objects-workspace-reports-datasets-dataflows-with-no-code.md",
+      "title": "Document the Power BI Tenant objects   Workspace, reports, datasets, dataflows with no code",
+      "excerpt": "Previously I explained how you can document a single Power BI file. Another very common documentation requirement is to find out what objects, workspaces exist in the Power BI tenant and document them all. even you may want to download all the PBIX files from the service and keep it for versioning purposes.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-document-the-power-bi-tenant-objects-workspace-reports-datasets-dataflows-with-no-code/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-document-the-power-bi-tenant-objects-workspace-reports-datasets-dataflows-with-no-code/",
+      "originalUrl": "https://youtube.com/watch?v=bQocL56bkvI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bQocL56bkvI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M45S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-05-26T23:20:38-07:00",
+      "publishedDateTime": "2021-06-03T16:29:00-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/M7dkx6uW4u4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/bQocL56bkvI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -386,45 +425,6 @@
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Dataflows"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-how-i-killed-the-refresh-functionality-for-power-bi-dataflowsso-you-dont-have-to.md",
-      "title": "How I killed the refresh functionality for Power Bi dataflows...so you dont have to...",
-      "excerpt": "I completely destroyed the dataflows refresh capabilities on my power bi tenant and my only  consolation is that you will learn from my mistake and avoid this alltogether.  If you are getting this dataflow error, then you probably have the same issue: Error: Data source credentials are missing or invalid.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-i-killed-the-refresh-functionality-for-power-bi-dataflowsso-you-dont-have-to/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-i-killed-the-refresh-functionality-for-power-bi-dataflowsso-you-dont-have-to/",
-      "originalUrl": "https://youtube.com/watch?v=5mhUm8jzHHo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5mhUm8jzHHo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M56S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-09T09:21:20-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5mhUm8jzHHo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI",
@@ -698,37 +698,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-document-the-power-bi-tenant-objects-workspace-reports-datasets-dataflows-with-no-code.md",
-      "title": "Document the Power BI Tenant objects   Workspace, reports, datasets, dataflows with no code",
-      "excerpt": "Previously I explained how you can document a single Power BI file. Another very common documentation requirement is to find out what objects, workspaces exist in the Power BI tenant and document them all. even you may want to download all the PBIX files from the service and keep it for versioning purposes.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-document-the-power-bi-tenant-objects-workspace-reports-datasets-dataflows-with-no-code/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-document-the-power-bi-tenant-objects-workspace-reports-datasets-dataflows-with-no-code/",
-      "originalUrl": "https://youtube.com/watch?v=bQocL56bkvI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bQocL56bkvI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M45S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-06-03T16:29:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bQocL56bkvI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Dataflows"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-how-to-modify-a-linked-entity-in-power-bi-dataflows.md",
       "title": "How to modify a linked entity in Power BI dataflows",
       "excerpt": "It is not possible to change a linked entity in a dataflow in Power BI. Linked entities has to be modified only in the dataflow in which they are created. However, sometimes, you need to do a small modification to the linked entity in a chained dataflow. There is a very simple trick, In this article",
@@ -839,6 +808,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1vqkYcG8s40/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-working-with-records-lists-and-values-in-power-bi-dataflows.md",
+      "title": "Working with Records, Lists, and Values in Power BI Dataflows",
+      "excerpt": "If you have been using dataflows, and you have the return value of a query as something which is not in the form of a table, such as a record, list, or value. then you have seen that the dataflow automatically converts them all to tables. There is an explanation about it, and a method around it. In this",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-working-with-records-lists-and-values-in-power-bi-dataflows/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-working-with-records-lists-and-values-in-power-bi-dataflows/",
+      "originalUrl": "https://youtube.com/watch?v=M7dkx6uW4u4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M7dkx6uW4u4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M56S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-05-26T23:20:38-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M7dkx6uW4u4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
