@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/quickly-create-reports-fr
 webUrl: "https://powerbi.microsoft.com/en-us/blog/quickly-create-reports-from-sharepoint-lists/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
