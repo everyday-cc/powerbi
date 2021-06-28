@@ -4,6 +4,189 @@
   "page": 54,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-how-to-assign-power-bi-service-admin-role-to-user-as-microsoft-365-global-admin.md",
+      "title": "How to Assign Power BI Service Admin Role to User as Microsoft 365 Global Admin?",
+      "excerpt": "In this video, we will discuss how we can assign a Power BI Service Admin Role to the end-user and make them Power BI Service Administrator?  Sometimes, there are situations when user can't able to see the Admin Portal tabs. At that time you need to contact your Microsoft 365 Global Administrator. Microsoft",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-how-to-assign-power-bi-service-admin-role-to-user-as-microsoft-365-global-admin/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-how-to-assign-power-bi-service-admin-role-to-user-as-microsoft-365-global-admin/",
+      "originalUrl": "https://youtube.com/watch?v=q5S53NP54F4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q5S53NP54F4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M57S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-22T04:07:33-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q5S53NP54F4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Service"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-clear-cache-from-power-bi-desktop-report.md",
+      "title": "How to clear cache from Power BI Desktop Report?",
+      "excerpt": "In this video, we will talk about how we can remove the cache from the Power BI Desktop Report.  If you really like this video don’t forget to subscribe to my channel. *************** Contact me for any Questions, Consulting Service or Development Service: LinkedIn: https://www.linkedin.com/in/dhruvin-shah-2134a6117/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-how-to-clear-cache-from-power-bi-desktop-report/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-how-to-clear-cache-from-power-bi-desktop-report/",
+      "originalUrl": "https://youtube.com/watch?v=VoEThA60Nq8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VoEThA60Nq8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M41S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:51:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VoEThA60Nq8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-copy-reports-from-one-workspace-to-another-workspace-in-power-bi.md",
+      "title": "How to Copy Reports from One Workspace to Another Workspace in Power BI?",
+      "excerpt": "In this vlog, we will talk about how we can Copy the Power BI report from One Workspace to Another Workspace in Power BI?  With the new App Workspace experience now you can save the Power BI report as a Copy to the another App Workspace. We will also learn how we can delete the report as well.  If you",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-how-to-copy-reports-from-one-workspace-to-another-workspace-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-how-to-copy-reports-from-one-workspace-to-another-workspace-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=Owp7DYMw1ug",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Owp7DYMw1ug\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M59S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Owp7DYMw1ug/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-integrate-power-bi-reports-to-ms-teams.md",
+      "title": "How to Integrate Power BI Reports to MS Teams?",
+      "excerpt": "In this vlog, we will talk about how we can display our Power BI reports to the MS Teams?  We can easily display Power BI reports to the Microsoft Teams using Power BI App in the Teams tab.  If you really like this video don’t forget to subscribe to my channel. *************** Contact me for any Questions,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-how-to-integrate-power-bi-reports-to-ms-teams/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-how-to-integrate-power-bi-reports-to-ms-teams/",
+      "originalUrl": "https://youtube.com/watch?v=JLgj_bluXm8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JLgj_bluXm8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M41S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:51:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JLgj_bluXm8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-publish-power-bi-report-using-powershell-cmdlet-publish-power-bi-report-using-powershell.md",
+      "title": "How to Publish Power BI Report using PowerShell Cmdlet | Publish Power BI report using PowerShell",
+      "excerpt": "During this video we will learn, how we can easily publish our Power BI report using PowerShell command. This is a very easy technique to publish our Power BI reports to our workspaces.  In this video, first we will publish our Power BI report to My Workspace using the PowerShell command. After that",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-how-to-publish-power-bi-report-using-powershell-cmdlet-publish-power-bi-report-using-powershell/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-how-to-publish-power-bi-report-using-powershell-cmdlet-publish-power-bi-report-using-powershell/",
+      "originalUrl": "https://youtube.com/watch?v=0fs5v-TDkpk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0fs5v-TDkpk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M9S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-01-19T00:18:57-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0fs5v-TDkpk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-use-new-global-search-experience-in-power-bi-service.md",
+      "title": "How to use new Global Search Experience in Power BI Service?",
+      "excerpt": "In this vLog, we will talk about a new, revamped search experience in Power BI Service. Earlier, we always need to go to the Home Page to use Global Search Feature.  Now, it's truly global. From any page of Power BI service, we can leverage the Global Search Experience.   Currently, this global search",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-how-to-use-new-global-search-experience-in-power-bi-service/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-how-to-use-new-global-search-experience-in-power-bi-service/",
+      "originalUrl": "https://youtube.com/watch?v=lNk5R4hXP74",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lNk5R4hXP74\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M3S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:52:50-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lNk5R4hXP74/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Service"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-how-to-use-variable-in-dax-formula-with-power-bi-measures-and-calculated-columns.md",
       "title": "How to Use Variable in DAX Formula with Power BI Measures and Calculated Columns?",
       "excerpt": "The session covers about Variable in Power BI DAX formula. First, we discuss, when to use variables in Power BI DAX, which are the real-life use case to use DAX in Power BI.  Then we will talk about the syntax to use variable inside DAX. The session covers the following points: • Introduction to Variable",
@@ -727,186 +910,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-permission-model-for-power-bi-report-while-integrating-with-ms-teams-power-bi-and-ms-teams-part-2.md",
-      "title": "Permission Model for Power BI report while Integrating with MS Teams | Power BI and MS Teams| Part 2",
-      "excerpt": "Welcome to Power BI and MS Teams Integration step by step series. My self Dhruvin Shah and I have divided this entire session into three different parts.  Part 1: Integrate Power BI Report, Report from Apps and Paginated Report to MS Teams using Power BI Tab in MS Teams. https://youtu.be/67-jriuocxc",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-permission-model-for-power-bi-report-while-integrating-with-ms-teams-power-bi-and-ms-teams-part-2/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-permission-model-for-power-bi-report-while-integrating-with-ms-teams-power-bi-and-ms-teams-part-2/",
-      "originalUrl": "https://youtube.com/watch?v=o_d-SKFsOqU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o_d-SKFsOqU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M48S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-02T21:44:40-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/o_d-SKFsOqU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-personalize-visual-in-power-bi-report.md",
-      "title": "Personalize Visual in Power BI Report",
-      "excerpt": "In this video, we will be talking about how we can personalize visuals in the Power BI report. This is a new feature rolled out during April 2020 update. This feature allows users to personalize visuals in the report based on their requirements.   Scenario:  Let’s say you have a Power BI report published",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-personalize-visual-in-power-bi-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-personalize-visual-in-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=Gp5Lwrug5-U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gp5Lwrug5-U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M11S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-05-17T19:11:46-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Gp5Lwrug5-U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-apps-visual-for-power-bi-build-live-application-with-power-apps-visual-inside-power-bi.md",
-      "title": "Power Apps Visual for Power BI | Build Live Application with Power Apps Visual inside Power BI",
-      "excerpt": "In this video, we will talk about Power Apps visualization inside the Power BI. We will talk the step by step procedure that you should know about the Power Apps visualization inside the Power BI.  First, we will build a Power BI report with the DirectQuery Mode of SQL Server. We will configure a Gateway",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-apps-visual-for-power-bi-build-live-application-with-power-apps-visual-inside-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-apps-visual-for-power-bi-build-live-application-with-power-apps-visual-inside-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=ppCwRDV_28o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ppCwRDV_28o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M56S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-04-27T21:50:24-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ppCwRDV_28o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-bi-report-gallery-full-animated-power-bi-report-for-average-sunshine-by-continent.md",
-      "title": "Power BI Report Gallery - Full Animated Power BI Report for Average Sunshine by Continent",
-      "excerpt": "This is the sample demo report which I have developed to represent the average sunshine by different continent, country and city.  This is the sample Power BI report for the demo purpose. The data source used for this demo is below. https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-report-gallery-full-animated-power-bi-report-for-average-sunshine-by-continent/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-report-gallery-full-animated-power-bi-report-for-average-sunshine-by-continent/",
-      "originalUrl": "https://youtube.com/watch?v=WrGMZDv7Lt8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WrGMZDv7Lt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WrGMZDv7Lt8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-bi-search-from-officecom-sharepoint-home-and-bing-search.md",
-      "title": "Power BI Search from Office.com, SharePoint Home, and Bing Search",
-      "excerpt": "Welcome to another interesting Power BI Session on Power BI Search. Now we can search our favorite Power BI reports and dashboards from Office.com, SharePoint Home, and Bing search results. Here in this session, I’m going to explain each step of Power BI search from office.com, SharePoint Home, and Bin",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-search-from-officecom-sharepoint-home-and-bing-search/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-search-from-officecom-sharepoint-home-and-bing-search/",
-      "originalUrl": "https://youtube.com/watch?v=CsjRToO8q-Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CsjRToO8q-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M1S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-12-21T22:00:17-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CsjRToO8q-Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-bi-tip-display-selected-item-from-the-slicer-to-the-slicer-header.md",
-      "title": "Power BI Tip - Display Selected Item from the Slicer to the Slicer Header",
-      "excerpt": "In this video we will talk about how we can display the selected item from the slicer to the slicer header.  We all know that we can have single select and multi select dropdown option available for the slicer. When we select the single item from the slicer, it will display the selected item to the header",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-tip-display-selected-item-from-the-slicer-to-the-slicer-header/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-tip-display-selected-item-from-the-slicer-to-the-slicer-header/",
-      "originalUrl": "https://youtube.com/watch?v=pBWR4EF3Wzc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pBWR4EF3Wzc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M39S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pBWR4EF3Wzc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

@@ -4,6 +4,44 @@
   "page": 62,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-looking-at-the-lineage-view-in-power-bi-october-2019.md",
+      "title": "Looking at the Lineage View in Power BI (October 2019)",
+      "excerpt": "Adam shows how to use the lineage view within Power BI. Quickly see what data sources are being used by your dashboards and reports.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-looking-at-the-lineage-view-in-power-bi-october-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-looking-at-the-lineage-view-in-power-bi-october-2019/",
+      "originalUrl": "https://youtube.com/watch?v=HnwZxBaqSJ8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HnwZxBaqSJ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M50S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-15T05:01:34-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HnwZxBaqSJ8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-loot-crate-june-2017-unboxing-alter-ego.md",
       "title": "Loot Crate - June 2017 Unboxing (Alter Ego)",
       "excerpt": "This month's Loot Crate theme was Alter Ego. It included Spider Man, Optimus Prime, the Hulk, Batman and Dr. Jeckle and Mr. Hyde.  Affiliate Link if you want to help support Guy in a Cube: http://bit.ly/2cNY20R  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube",
@@ -1095,44 +1133,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/jBuORsHM5yY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-paginated-reports-in-power-bi-with-chris-finlan.md",
-      "title": "Paginated Reports in Power BI with Chris Finlan",
-      "excerpt": "Chris Finlan joins us as we talk about Paginated reports in Power BI. Paginated reports recently went into public preview as a feature within Power BI Premium. Chris gives us a look at what is to come for the future.  LET'S CONNECT!  Chris Finlan - https://twitter.com/cmfinlan  Guy in a Cube -- https://guyinacube.com",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-paginated-reports-in-power-bi-with-chris-finlan/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-paginated-reports-in-power-bi-with-chris-finlan/",
-      "originalUrl": "https://youtube.com/watch?v=YAqSUYBz8LM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YAqSUYBz8LM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M39S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-24T20:14:14-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YAqSUYBz8LM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
