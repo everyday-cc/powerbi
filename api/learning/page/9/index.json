@@ -706,8 +706,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 7436,
-        "average": 4.7034698
+        "count": 7437,
+        "average": 4.703375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -748,8 +748,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 2461,
-        "average": 4.636327
+        "count": 2463,
+        "average": 4.636216
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -790,8 +790,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 2550,
-        "average": 4.8058825
+        "count": 2552,
+        "average": 4.804467
       },
       "provider": {
         "name": "Microsoft Learn",
