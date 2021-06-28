@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-june-2021-update-is-now-available/"
 type: article
 quality: 72
-heat: 73
+heat: 74
 published: true
 
 provider:
