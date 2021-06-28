@@ -4,7 +4,7 @@ excerpt: "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-
 originalUrl: https://youtube.com/watch?v=XhUcOUvVPVI
 type: video
 price: Free
-length: PT9M9S
+length: PT9M10S
 publishedDateTime: 2020-05-07T02:44:05Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "akOHiqAHhX3gstRN1xLUsyVH8/ZLfXCxF0sDmfoa4/6oXNi9jSB1HgRI9AeZPc+qzc5m379fxw67kz4lSpYm0TYVmj/nmm1gLC7cMyJCkBRdDQiNkETu4pt4XA9YXYoPGLYBjt1bJaThSM7t1P7+L8byGtgQ4Lgldq4+wKM/5Z1tFKk18HV9QUbW88xEsbLN2gEpUUhd70I0dMhJDG+8GDjRHo40DPbbXN/LISg9j+6Iv+Ytvga3GKCx/5qJagCBns9Ulf3RusRTZD0bY2o6//CIcSLx0SXqfqlgckQu17QcY9zD1Ct8JlIj5CkkyYO2hYFQeoQJyoGI0z62S6/nW98eU3tljXIppIT9RyfOf6Cu08NB1U8kwUByTghIYCd9+HcPMEHz3hjpMXLATFGVCOfZ0LS07o+YqJDIAjW9h74=;M8QDqtKfmJChlhcviF1vug=="
+secured: "6463s4mjbQyQq2zBJnB+wC4f9pUXyUk3g6QB0m+fLbL6HbznUtgiLBG0B9YxMiZiw7Mu454+cJCZcYfaP3Jr1yPSl+6Mk2PXw4y8HCWcsCoAGZLAzEf0QcqsxGeDdIzcC5IEYPwDwYE39gxWZBgrtfRoGLM6cEi5eN2H2XmjWqPP1+pIQRs2hPCm7xfgkpX8jz+IC8T0/iolJuRuhFFT+0eJGl3BUlmqe+vJrci43P/8kioSeLIhw2WXSTwtd02RA39a4LrayIloD/X6hffyvzX+pUTBRjvRHWzdAA1To9MWCTEx5vg1qEtD4xuK14AyFl1a0krIruOPJitETRKCWK+CkbE1W42ilbwueUdDg4NGOI7vUipu0WJy2qLdkxdIdxxPh+MUbxu4WNb1Q9OY8tKavT1UMDqVEpJWC0l03uA=;bueCALU3hwRKU+5XWTTCug=="
 ---
 

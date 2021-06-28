@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M10S
 publishedDateTime: 2019-01-21T14:01:05Z
-heat: 53
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gcA9Nb1M0EM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0Bbdhtxknmf0455GPBcO7ljzIY7GvTYwf9oOKYzbcLjc1UKgPFZoRah9UPyeGXU3cwRkLSwLw0SeOHQGrvVhOTT+i4Ydg7PDDcDCoS4xi7wYy6nbhUyz/Ctyy8iR3o9m/ujZ6uFZ22SLy4VyfXlA942POotE5AmQbsMJQ9oCxwIhoL9QQjxX73ZyYZSaiJ8e+pzBzwxJ3uieqb743nlciIuqkfQCzpsluL8RragviF5T5VfBX6GSJGk2DwDBho7osblSw+9M45wmnM7zA3OYyEzl1NQqqblz7zDb+lxEh2AY4L3drysIlglS1zXDkh/aqYA5UlPR1i0GJA6sF72p3TRAxUrZhRjbd/OjN7f5v5sMZyPTx0cyZLgBCc/CauPGqVHbpb+to9uoL3bSjjOa6b0u/d0UXSHrtO4juw9EjjY=;BVQ7YSfwBxv60Ib37c4tzQ=="
+secured: "MMO9erZHRQx7DDZSbpXRELOs5Rf/VPVQ/yn62q1DIXEdIbkvevIGL5EONYhidXAFWoKDlnsSCkiF2dotZR2xjw4CQChcD26lMk+B2tP5QjFf0DepbJpW7giRVxAplxoszP7irkybY+qOcO+zcgz5RPDGwj/EvkIQSO563eMWMvLG1jkoxK4jQqHLausC5WLAEsG3Zoc4RSkFlsTNMwHdWvMKnF5Hp3qJGooymacB3QRUCE8wPe+QRrHFXzV/yoYClbVADuAR/ku6Hr6cuvIOaSbBh07/U3O67hf+U6z5cz5ln8JfbpJut67IX3+eSIUoOZojM3vlgsNielXfJEDzK/dJgGeckLKanMmOYu66bNtgEqFn92nwe49gE9T7Vjja3lyWykS+gWdfXF1JfxKJUgpbiq7e8ie8POPbMrsUQik=;pnwUom9Dcv6IkOKJHJJK/A=="
 ---
 
