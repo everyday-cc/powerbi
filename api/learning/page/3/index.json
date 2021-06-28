@@ -611,8 +611,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 6127,
-            "average": 4.7670965
+            "count": 6131,
+            "average": 4.767085
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -653,8 +653,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 7547,
-            "average": 4.778455
+            "count": 7551,
+            "average": 4.7783074
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -713,8 +713,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 6127,
-        "average": 4.7670965
+        "count": 6131,
+        "average": 4.767085
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -755,8 +755,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 21185,
-        "average": 4.724758
+        "count": 21190,
+        "average": 4.724823
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1206,8 +1206,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 931,
-            "average": 4.705693
+            "count": 932,
+            "average": 4.7049356
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2200,7 +2200,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -2344,8 +2344,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 5153,
-        "average": 4.732583
+        "count": 5154,
+        "average": 4.732635
       },
       "provider": {
         "name": "Microsoft Learn",
