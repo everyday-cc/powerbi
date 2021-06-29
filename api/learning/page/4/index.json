@@ -398,7 +398,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 136,
+          "heat": 56,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
@@ -754,7 +754,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 11082,
+        "count": 11086,
         "average": 4.7499547
       },
       "provider": {
@@ -989,8 +989,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 19206,
-        "average": 4.7139955
+        "count": 19208,
+        "average": 4.7140255
       },
       "provider": {
         "name": "Microsoft Learn",
