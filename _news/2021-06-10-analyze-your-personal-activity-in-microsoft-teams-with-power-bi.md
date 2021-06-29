@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/analyze-your-personal-act
 webUrl: "https://powerbi.microsoft.com/en-us/blog/analyze-your-personal-activity-in-microsoft-teams-with-power-bi/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
