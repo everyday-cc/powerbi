@@ -4,6 +4,36 @@
   "page": 68,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-can-power-bi-be-an-uphill-battle-how-to-win-and-more-in-power-bi-challenge-day-2-recap.md",
+      "title": "Can Power BI be an Uphill Battle? How to Win and More in Power BI Challenge, Day 2 Recap",
+      "excerpt": "Join the 5-Day Challenge to build your first (or next) Power BI Dashboard. Accept the challenge at  http://web.learnpowerbi.com/challenge  Sign up for Day 5 Power BI Training: http://www.learnpowerbi.com/webinar  ⚡Power On!⚡ Avi / PowerBIPro / Microsoft MVP",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-can-power-bi-be-an-uphill-battle-how-to-win-and-more-in-power-bi-challenge-day-2-recap/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-can-power-bi-be-an-uphill-battle-how-to-win-and-more-in-power-bi-challenge-day-2-recap/",
+      "originalUrl": "https://youtube.com/watch?v=WRCApBLFHxI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WRCApBLFHxI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M57S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-07-30T18:56:01-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WRCApBLFHxI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-can-power-bi-transform-your-life-at-40-or-20-or-60-poweron-show-with-charles-avi-talkpowerbi.md",
       "title": "Can Power BI Transform Your Life at 40? (Or 20 or 60?) #PowerOn Show with Charles & Avi 🔴TalkPowerBI",
       "excerpt": "Both Charles and I, transformed our lives around 40 years of age. Power BI played a key role and leaving our jobs was a crucial step. But our transformation was a bit deeper than that. We want to share our journey with you, but also ask the important question...is there really a right age to transform",
@@ -864,36 +894,6 @@
           "url": "https://i.ytimg.com/vi/QFmsSRfu7gw/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-happy-new-year-how-to-keep-your-power-bi-resolutions.md",
-      "title": "Happy New Year & how to keep your Power BI resolutions",
-      "excerpt": "FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download ✅ Subscribe to always get my latest videos: https://goo.gl/P79Hcr 👪 Join our Facebook Group https://www.facebook.com/groups/talkpowerbi  ===Most Popular Playlists===",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-happy-new-year-how-to-keep-your-power-bi-resolutions/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-happy-new-year-how-to-keep-your-power-bi-resolutions/",
-      "originalUrl": "https://youtube.com/watch?v=IhwBIBKoC8E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IhwBIBKoC8E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M45S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-01-01T13:11:37-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IhwBIBKoC8E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],

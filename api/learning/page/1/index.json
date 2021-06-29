@@ -200,62 +200,23 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-211-allocation-calculations-grouped-by-period-groupby-currentgroup.md",
-      "title": "DAX Fridays! #211: Allocation calculations grouped by period | GROUPBY , CURRENTGROUP",
-      "excerpt": "We are continuing the series of allocation calculations and this time, we are going to group our allocation table by month and by year!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-211-allocation-calculations-grouped-by-period-groupby-currentgroup/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-211-allocation-calculations-grouped-by-period-groupby-currentgroup/",
-      "originalUrl": "https://youtube.com/watch?v=A47cQ0vxG-A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A47cQ0vxG-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M28S",
+      "path": "_learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-5-links.md",
+      "title": "Charticulator Visual IS HERE!!! - Season 1 Episode 5 - Links",
+      "excerpt": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.    This video we are exploring the Links  In this episode we add curvy lines between our graph elements  Official blog post about the visual: https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-5-links/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-5-links/",
+      "originalUrl": "https://youtube.com/watch?v=xaBz-AInilA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xaBz-AInilA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M54S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
       },
-      "publishedDateTime": "2021-05-17T06:03:32-07:00",
+      "publishedDateTime": "2021-04-20T20:35:04-07:00",
       "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/A47cQ0vxG-A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-maintain-tab-order-for-power-bi-report.md",
-      "title": "Maintain Tab Order for Power BI Report",
-      "excerpt": "During this session, we will talk about how we can maintain Tab Order for Power BI Report. From a report accessibility standpoint, it is necessary to maintain tab order for our Power BI Report. Sometimes when end users are accessing the Power BI Report, they are using keyboard key “Tab” to move between",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-maintain-tab-order-for-power-bi-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-maintain-tab-order-for-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=DMce0qKA_Kg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DMce0qKA_Kg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M18S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-05-19T00:57:54-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DMce0qKA_Kg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xaBz-AInilA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -541,23 +502,23 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-microsoft-build-2021-power-bi-announcements.md",
-      "title": "Microsoft Build 2021 - Power BI Announcements",
-      "excerpt": "Welcome to my short session on the summary for Microsoft Build Power BI Announcements. During May 2021, 25 Day 01 Microsoft announce 5 cool things for Power BI. Some announcements are launched, some are planned during July this year. Let's talk about each announcement in detail here with me!!  Top 5",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-microsoft-build-2021-power-bi-announcements/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-microsoft-build-2021-power-bi-announcements/",
-      "originalUrl": "https://youtube.com/watch?v=TLWfv9Ofkts",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TLWfv9Ofkts\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M32S",
+      "path": "_learning/videos/dhruvin-shah-modern-visual-tooltip-in-power-bi.md",
+      "title": "Modern Visual Tooltip in Power BI",
+      "excerpt": "During this session, we will talk about Power BI May 2021 Desktop Update. Microsoft recently introduced new modern visual tooltips in Power BI. The feature is in Preview at this moment. So, now let’s explore Modern Visual Tooltip in Power BI.   Form Modern Tooltip in Power BI, first we need to enable",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-modern-visual-tooltip-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-modern-visual-tooltip-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=oaJfkRyrdPc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oaJfkRyrdPc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M34S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-05-26T03:42:09-07:00",
+      "publishedDateTime": "2021-05-17T02:02:54-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/TLWfv9Ofkts/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/oaJfkRyrdPc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -588,6 +549,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ecToHMRv7aE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-10-box-plot.md",
+      "title": "Charticulator Visual IS HERE!!! - Season 1 Episode 10 - Box Plot",
+      "excerpt": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.    This video we are exploring the Box Plot  Follow Daniel Marsh-Patrick: https://www.linkedin.com/in/daniel-m-p/ Follow Mike Carlo: https://www.linkedin.com/in/michaelcarlo/  Official blog post about the visual:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-10-box-plot/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-10-box-plot/",
+      "originalUrl": "https://youtube.com/watch?v=wp7Kr_dkkzw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wp7Kr_dkkzw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M40S",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "publishedDateTime": "2021-05-07T11:54:01-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wp7Kr_dkkzw/maxresdefault_live.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -823,8 +814,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 21073,
-            "average": 4.7946186
+            "count": 21082,
+            "average": 4.794659
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -865,8 +856,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 38233,
-            "average": 4.765778
+            "count": 38240,
+            "average": 4.765821
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -925,8 +916,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 38233,
-        "average": 4.765778
+        "count": 38240,
+        "average": 4.765821
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1006,8 +997,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 21073,
-        "average": 4.7946186
+        "count": 21082,
+        "average": 4.794659
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1216,8 +1207,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 38233,
-            "average": 4.765778
+            "count": 38240,
+            "average": 4.765821
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1258,8 +1249,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 19217,
-            "average": 4.7141595
+            "count": 19219,
+            "average": 4.714189
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1301,8 +1292,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 8178,
-            "average": 4.716801
+            "count": 8179,
+            "average": 4.716836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1343,8 +1334,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6263,
-            "average": 4.7608175
+            "count": 6268,
+            "average": 4.7610083
           },
           "provider": {
             "name": "Microsoft Learn",
