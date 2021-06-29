@@ -941,8 +941,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9410,
-            "average": 4.6737514
+            "count": 9412,
+            "average": 4.6737146
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -975,8 +975,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 7451,
-            "average": 4.7032614
+            "count": 7452,
+            "average": 4.703301
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1871,8 +1871,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 9410,
-        "average": 4.6737514
+        "count": 9412,
+        "average": 4.6737146
       },
       "provider": {
         "name": "Microsoft Learn",
