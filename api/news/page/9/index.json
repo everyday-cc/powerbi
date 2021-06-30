@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-08-18-power-bi-data-protection-updates.md",
+      "title": "Power BI data protection updates",
+      "excerpt": "Recap of recent Power BI data protection features: Excel file to inherit the Power BI dataset&#8217;s MIP sensitivity label when using PivotTable connection , Sensitivity labels in embedded reports and dashboards – public preview and Label inheritance upon creation of new content",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-08-18-power-bi-data-protection-updates/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-data-protection-updates/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-data-protection-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-18T04:55:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-july-2020-community-highlights.md",
       "title": "July 2020 Community Highlights",
       "excerpt": "Learn about the exciting things that happened in the Power BI Community in July.",
@@ -1202,58 +1253,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-business-reasons-for-implementing-power-bi.md",
-      "title": "Business Reasons For Implementing Power BI",
-      "excerpt": "The Microsoft Power BI data visualization platform will allow you to provide the tools and services to content authors who can easily create shared reports and data streams for end-users ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-07-business-reasons-for-implementing-power-bi/index.json",
-      "webUrl": "https://www.sqlservercentral.com/articles/business-reasons-for-implementing-power-bi",
-      "originalUrl": "https://youtube.com/watch?v=5Y5Q6lczdMI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5Y5Q6lczdMI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sqlservercentral.com/wp-content/uploads/2020/06/img_5efa0adeaa99b.png",
-          "width": 581,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SQL Server Central",
-        "domain": "sqlservercentral.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2018-11-19-new-modeling-view-in-power-bi-address-dax-horrors-comment-power-week-1118.md",
+      "title": "New modeling view in Power BI + address DAX Horrors comment | Power week 11.18",
+      "excerpt": "In today's video we are going to review the new modeling tab that was introduced in the Power BI Desktop update November 2018 and I will also explain myself regarding my statement on the DAX Horrors video.  The highlights of the new modeling view on the Power BI Desktop updated November 2018 are: 1.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-11-19-new-modeling-view-in-power-bi-address-dax-horrors-comment-power-week-1118/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2018-11-19-new-modeling-view-in-power-bi-address-dax-horrors-comment-power-week-1118/",
+      "originalUrl": "https://youtube.com/watch?v=zrqKthwDMok",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zrqKthwDMok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zrqKthwDMok/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-11-19T08:07:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
       "path": "_news/2018-11-16-dax-fridays-105-isinscope.md",
       "title": "DAX Fridays! #105: ISINSCOPE",
       "excerpt": "The DAX function ISINSCOPE, allow us to work with hierarchies in Power BI. In this video I will go through an example on how to do that. This DAX function was introduced in the November 2018 Power BI Desktop Update, so make sure you have that installed if you wan to test it out.  Other resources:  DAX",

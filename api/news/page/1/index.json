@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-06-30-announcing-now-organizations-can-require-users-to-set-mip-sensitivity-labels-in-power-bi-preview.md",
+      "title": "Announcing: Now organizations can require users to set MIP sensitivity labels in Power BI (Preview)",
+      "excerpt": "Today I’m happy to announce a preview of our new mandatory label policy setting. The mandatory label policy setting requires users to apply MIP labels when they create new content, edit unlabeled content in the Power BI service, or upload unlabeled PBIX files \\via Publish from Desktop or Get data in",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-30-announcing-now-organizations-can-require-users-to-set-mip-sensitivity-labels-in-power-bi-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/now-organizations-can-require-users-to-set-mip-sensitivity-labels-in-power-bi-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/now-organizations-can-require-users-to-set-mip-sensitivity-labels-in-power-bi-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-29T19:22:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-power-bi-june-2021-feature-summary.md",
       "title": "Power BI June 2021 Feature Summary",
       "excerpt": "Welcome to the June update! Loads of updates on connectors this time around. Also, DirectQuery support for Dataflows is now generally available! On top of that, we are happy to announce the preview of the paginated reports visual – we know many of you have been eagerly awaiting it, so take it for a spin",
@@ -1200,57 +1251,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-best-practice-rules-to-improve-your-models-performance-and-design-v11.md",
-      "title": "Best practice rules to improve your model᾿s performance and design v1.1",
-      "excerpt": "See the latest version of the best practice rules to improve your model&#8217;s performance and design!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-19-best-practice-rules-to-improve-your-models-performance-and-design-v11/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-improve-your-models-performance-and-design-v1-1/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-improve-your-models-performance-and-design-v1-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T16:59:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
