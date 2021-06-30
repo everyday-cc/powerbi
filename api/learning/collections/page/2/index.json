@@ -1658,8 +1658,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 7459,
-            "average": 4.7035794
+            "count": 7460,
+            "average": 4.7036195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2619,8 +2619,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 2571,
-            "average": 4.7121744
+            "count": 2572,
+            "average": 4.712286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2702,8 +2702,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1945,
-            "average": 4.7691517
+            "count": 1946,
+            "average": 4.7692704
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2744,8 +2744,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1762,
-            "average": 4.715664
+            "count": 1763,
+            "average": 4.715825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3064,8 +3064,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 88,
-            "average": 4.7613635
+            "count": 89,
+            "average": 4.764045
           },
           "provider": {
             "name": "Microsoft Learn",

@@ -4,7 +4,7 @@ excerpt: "Today is a bit odd video, but hopefully useful either way.  The reason
 originalUrl: https://youtube.com/watch?v=cx5nU5i3fBY
 type: video
 price: Free
-length: PT17M41S
+length: PT18M46S
 publishedDateTime: 2018-07-11T11:13:51Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "zdc1J7CHHGA9Zq4o3RKpUGBIBz33FU7jYEWpdkpZqrVp18sQjgVCmrKtUtQ2xZnHvjZRTvoaPcLZYt48vbI3rwTvWBbSOq//QHVm/gxXl9uT9lPucR8aC9/2GlYRwOC591VA17jvjIuxa3ZD//jSTpjitzGfYGPWQL4KJSnTkBdkWeQz8IGYJNsyMTP7LJai7VthCqLaVhvJbZT8renzc3I5lDgPvdF8REZFq5sdLoSma1y9SqV13DNph0gbk8hAFja0D68sOAsdQdhCQxz1dtSzs5Mpq3ccSDu+SjdFNF1RkRCCCoRDhfbVIwBGLKbLVI16uZPr22Fn7DfJ9iPetZsB0rKO9a2E0IAqM1ec2/i1fetrvgrdyKoUW3P+c7HwvoWO6Elc3N73OPh17nv9p6XUe8kek5L2kii7vRAxCwI=;dxIXEA5nv2eSBPwYO9UcWg=="
+secured: "b7ysSYKalwtHjfWmd/sq7hVFrNlVWD3ZZJ9ztyZYe61Fj1Jf2Ho0KPsFCJDnCrI5BwLsp1jI/t7znisDWvgS2LNVVtpH48iWM8N+RT05bj1FagT/MNdOkP21eOWBC1qsHjunxOCRCyTgZlij6Rv3KK2j7thQRShj8/qY5T/pd39+zKhejJjsEUQjSbcrgfqhi+f8PtPdPq+9SDnrUmIgX3dB1Ibk+9nmrC8oRIA/jSA2n4lfhVLnc9OWE0RZHzAUkBMoerOt3FHvTrodwyImeZSwSrKGJV4Q02iW2+lZeaM/6ux2iFazVpWO3PdM/Gxd5dG8ON/43erhUUGZeNVuc4Rb+fuY8sJrjDsFrC8giN2XMhFv2qxSBJdbghqVfCVe2N4nE9vRk1jghNqigxpEjvlAZuTRZJSoHth7pTaj23k=;4Wv0jlbiFTrw67L8m+L+Sw=="
 ---
 
