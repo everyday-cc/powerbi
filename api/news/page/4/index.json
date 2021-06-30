@@ -2,6 +2,108 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-25-power-bi-on-premises-data-gateway-february-update-released.md",
+      "title": "Power BI On-premises data gateway February update released",
+      "excerpt": "The Power BI On-premises data gateway update for this month introduces a name change for the Azure Cosmos DB Connector, a .NET framework update, in addition to other changes as well.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-25-power-bi-on-premises-data-gateway-february-update-released/index.json",
+      "webUrl": "https://www.neowin.net/news/power-bi-on-premises-data-gateway-february-update-released/",
+      "originalUrl": "https://www.neowin.net/news/power-bi-on-premises-data-gateway-february-update-released/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1573589737_power_bi_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/power-bi-on-premises-data-gateway-february-update-released/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-on-premises-data-gateway-february-update-released/",
+      "publishedDateTime": "2021-02-24T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-on-premises-data-gateway-february-2021-update-is-now-available.md",
+      "title": "On-premises data gateway February 2021 update is now available",
+      "excerpt": "Feb gateway release",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-24-on-premises-data-gateway-february-2021-update-is-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-february-2021-update-is-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-february-2021-update-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T02:40:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-microsoft-power-bi-jobs-in-oatlands-nsw.md",
       "title": "Microsoft Power BI Jobs in Oatlands, NSW",
       "excerpt": "Apply now for Microsoft Power BI jobs in Oatlands, NSW. Now filling talent for Seeking awesome Power BI specialist to create dashboard report template based on Figma prototypes, Tableau Developer Guru Required,",
@@ -1163,109 +1265,6 @@
       "topics": [
         "Power BI",
         "Dataflows"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier.md",
-      "title": "Microsoft's Power BI and DirectQuery: Making data analysis and visualisation easier",
-      "excerpt": "Microsoft's Power BI analysis tool might not get the publicity of the rest of the Power Platform, but as the company continues to invest in its business application and automation platform it ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-01-11-microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/index.json",
-      "webUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
-      "originalUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/01/11/bdf92a85-ff6a-4ca8-9dc6-c1568df3cb28/resize/1200x/50c9144aa13bac2aefd673276c636f1b/istock-679353026.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
-      "publishedDateTime": "2021-01-10T21:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-what-is-new-and-planned-for-power-bi-2020-power-bi-release-plan-overview.md",
-      "title": "What is new and planned for Power BI 2020? Power BI release plan overview",
-      "excerpt": "Microsoft has released the Power Platform release plan for 2020 and in this video I cover the Power BI features planned for 2020.  For more info, check the entire release: https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave1/business-intelligence/  Link to data lineage video: https://www.youtube.com/watch?v=mZ6426FCMCc",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-01-07-what-is-new-and-planned-for-power-bi-2020-power-bi-release-plan-overview/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2021-01-07-what-is-new-and-planned-for-power-bi-2020-power-bi-release-plan-overview/",
-      "originalUrl": "https://youtube.com/watch?v=UFvQ661kK6M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UFvQ661kK6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UFvQ661kK6M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T07:37:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

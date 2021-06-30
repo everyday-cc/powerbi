@@ -2,6 +2,108 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-04-announcing-power-bi-admins-can-upgrade-classic-workspaces-and-roadmap-update.md",
+      "title": "Announcing Power BI Admins can upgrade classic workspaces and roadmap update",
+      "excerpt": "Today&#8217;s announcements give a roadmap update for workspace upgrade, content pack deprecation, and announce new tools for Power BI Admins to upgrading classic workspaces through the admin portal. \r\n\r\nAnnouncements:\r\n\r\nWorkspace upgrade has reached general availability.\r\nWe’ve started to roll-out",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-04-announcing-power-bi-admins-can-upgrade-classic-workspaces-and-roadmap-update/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-admins-can-upgrade-classic-workspaces-and-roadmap-update/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-admins-can-upgrade-classic-workspaces-and-roadmap-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2020/12/workspace-upgrade-admin-in-progress.png",
+          "width": 3838,
+          "height": 2019,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-04T03:08:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-building-systems-of-insights-at-enterprise-scale-with-power-bi-and-azure.md",
+      "title": "Building systems of insights at enterprise scale with Power BI and Azure",
+      "excerpt": "Today, Microsoft announced the general availability of Azure Synapse Analytics and the preview of Azure Purview, a unified data governance service. Azure Synapse Analytics is a limitless analytics service that brings together data integration, enterprise data warehousing, and big data analytics.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-03-building-systems-of-insights-at-enterprise-scale-with-power-bi-and-azure/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/building-systems-of-insights-at-enterprise-scale-with-power-bi-and-azure/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/building-systems-of-insights-at-enterprise-scale-with-power-bi-and-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-03T00:00:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-use-power-bi-with-azure-purview-to-achieve-better-data-governance-and-discovery.md",
       "title": "Use Power BI with Azure Purview to achieve better data governance and discovery",
       "excerpt": "Power BI has partnered with the newly released Azure Purview to provide enhanced governance and cataloging capabilities for our customers. The Azure Purview/Power BI integration makes it possible for you to discover and govern all your hybrid data, and thereby gain a more complete understanding of your",
@@ -1164,99 +1266,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-get-into-data-analysis-with-a-excel-power-bi-and-python-course-bundle.md",
-      "title": "Get into data analysis with a Excel, Power BI, and Python course bundle",
-      "excerpt": "It aims to teach you how to harness, analyze, and draw insight from data using Python, Power BI, and Excel. As you jump from one course to another, you'll learn what Python is and why it was ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-29-get-into-data-analysis-with-a-excel-power-bi-and-python-course-bundle/index.json",
-      "webUrl": "https://mashable.com/shopping/oct-29-2021-advanced-data-analysis-bundle/",
-      "originalUrl": "https://mashable.com/shopping/oct-29-2021-advanced-data-analysis-bundle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F10%252F29%252F13%252F3951a97c1a4b41d9a57633e6ea581f33.e5fc3.jpg%252F1200x630.jpg?signature=MTvdoPE8GBx3ZsE2expuckPwufg=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/shopping/oct-29-2021-advanced-data-analysis-bundle.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/shopping/oct-29-2021-advanced-data-analysis-bundle.amp",
-      "publishedDateTime": "2020-10-29T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-power-bi-dremio-a-seamless-bi-experience-for-cloud-data-lakes.md",
-      "title": "Power BI + Dremio = A Seamless BI Experience for Cloud Data Lakes",
-      "excerpt": "With the continuing rise of the public cloud, many companies are now centralizing their data in massive cloud data warehouses and data lakes powered by storage services, such as Azure Data Lake Storage (ADLS). The challenge is to deliver insights on these data warehouses and data lakes rapidly and cost-efficiently.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-29-power-bi-dremio-a-seamless-bi-experience-for-cloud-data-lakes/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-dremio-a-seamless-bi-experience-for-cloud-data-lakes/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-dremio-a-seamless-bi-experience-for-cloud-data-lakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T00:00:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
