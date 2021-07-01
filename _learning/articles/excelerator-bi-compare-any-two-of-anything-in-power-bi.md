@@ -4,7 +4,7 @@ excerpt: "I have been increasingly recording videos as my method of sharing tips
 webUrl: https://exceleratorbi.com.au/compare-any-two-of-anything-in-power-bi/
 type: article
 publishedDateTime: 2021-06-28T12:16:26Z
-heat: 130
+heat: 131
 
 provider:
   name: Excelerator BI

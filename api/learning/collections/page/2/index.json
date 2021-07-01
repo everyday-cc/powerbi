@@ -1615,7 +1615,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-environment-social.png",
@@ -2642,8 +2642,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 2573,
-            "average": 4.712398
+            "count": 2574,
+            "average": 4.7125096
           },
           "provider": {
             "name": "Microsoft Learn",
