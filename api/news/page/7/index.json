@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-29-microsoft-gives-excel-cells-a-third-dimension-with-power-bi-data-types.md",
+      "title": "Microsoft gives Excel cells a third dimension with Power BI data types",
+      "excerpt": "Power BI, Microsoft’s business analytics service, has over 250,000 customers. It follows that Microsoft would start there to help businesses access their data in Excel. Power BI data types are ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-29-microsoft-gives-excel-cells-a-third-dimension-with-power-bi-data-types/index.json",
+      "webUrl": "https://venturebeat.com/2020/10/29/microsoft-excel-power-bi-data-types/",
+      "originalUrl": "https://venturebeat.com/2020/10/29/microsoft-excel-power-bi-data-types/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/excel-powerbi-logos.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/29/microsoft-excel-power-bi-data-types/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/29/microsoft-excel-power-bi-data-types/amp/",
+      "publishedDateTime": "2020-10-29T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-get-into-data-analysis-with-a-excel-power-bi-and-python-course-bundle.md",
       "title": "Get into data analysis with a Excel, Power BI, and Python course bundle",
       "excerpt": "It aims to teach you how to harness, analyze, and draw insight from data using Python, Power BI, and Excel. As you jump from one course to another, you'll learn what Python is and why it was ...",
@@ -1197,57 +1248,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-09-24T03:59:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-on-premises-data-gateway-september-2020-update-is-now-available.md",
-      "title": "On-premises data gateway September 2020 update is now available",
-      "excerpt": "September 2020 gateway release",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-24-on-premises-data-gateway-september-2020-update-is-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-september-2020-update-is-now-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-september-2020-update-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T02:58:18-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
