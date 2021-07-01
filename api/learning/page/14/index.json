@@ -860,8 +860,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
       "length": "PT20M",
       "ratings": {
-        "count": 1377,
-        "average": 4.75817
+        "count": 1379,
+        "average": 4.7585206
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -903,8 +903,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 2565,
-        "average": 4.803899
+        "count": 2566,
+        "average": 4.803975
       },
       "provider": {
         "name": "Microsoft Learn",
