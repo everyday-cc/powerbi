@@ -4,14 +4,14 @@
   "page": 12,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-how-do-you-conditionally-highlight-a-bar-in-a-power-bi-report.md",
-      "title": "How do you conditionally highlight a bar in a Power BI Report?",
-      "excerpt": "There are different interactions Power BI visuals can have, but how do we conditionally highlight a bar in a Power BI report using a slicer? Patrick shows you some MAGIC to get this to work.  Question from Live Stream: https://youtu.be/hS4hZdNZ8vw?t=1009  Phil Seamark's Blog: https://dax.tips/  Edit",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-do-you-conditionally-highlight-a-bar-in-a-power-bi-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-do-you-conditionally-highlight-a-bar-in-a-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=L2GnAfpsO2k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L2GnAfpsO2k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M7S",
+      "path": "_learning/videos/guy-in-a-cube-external-tools-in-power-bi-desktop-are-missing.md",
+      "title": "EXTERNAL TOOLS in Power BI Desktop... are MISSING???",
+      "excerpt": "Excited for External Tools in Power BI Desktop and... they are missing? What the heck! Adam breaks down how to get them within the ribbon of the July 2020 Power BI Desktop.  Tools downloads: https://sqlbi.com/tools  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-external-tools-in-power-bi-desktop-are-missing/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-external-tools-in-power-bi-desktop-are-missing/",
+      "originalUrl": "https://youtube.com/watch?v=jScicVBrr0s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jScicVBrr0s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M19S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -24,13 +24,13 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-07T08:00:05-07:00",
+      "publishedDateTime": "2020-07-16T08:00:12-07:00",
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/L2GnAfpsO2k/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/jScicVBrr0s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -38,18 +38,19 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power BI Desktop"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-for-the-non-technical-person.md",
-      "title": "Power BI for the NON-TECHnical person",
-      "excerpt": "Is Power BI intimidating? Coming from Microsoft Excel? You consider yourself non-technical? Don't want to have to write or know anything about DAX? Patrick looks at how you can create a report quickly with just your Excel data and not have to write any code!  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-for-the-non-technical-person/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-for-the-non-technical-person/",
-      "originalUrl": "https://youtube.com/watch?v=S7Fh2l-4jlc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S7Fh2l-4jlc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M31S",
+      "path": "_learning/videos/guy-in-a-cube-how-do-you-use-rls-with-power-bi-embedded.md",
+      "title": "How do you use RLS with Power BI Embedded???",
+      "excerpt": "Are you using Power BI Embedded and not sure how to implement Row-Level Security (RLS)? Adam shows you how!  Power BI Embedded Doc: https://docs.microsoft.com/power-bi/developer/embedded/embedded-row-level-security  Power BI Embedded Playground: https://microsoft.github.io/PowerBI-JavaScript/demo/  GitHub",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-do-you-use-rls-with-power-bi-embedded/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-do-you-use-rls-with-power-bi-embedded/",
+      "originalUrl": "https://youtube.com/watch?v=yNF-_l2f7w0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yNF-_l2f7w0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M50S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -62,11 +63,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-04-08T04:34:01-07:00",
+      "publishedDateTime": "2020-07-09T08:00:28-07:00",
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/S7Fh2l-4jlc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yNF-_l2f7w0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -80,14 +81,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-incremental-refresh-understanding-detect-data-changes.md",
-      "title": "Power BI Incremental Refresh - Understanding Detect Data Changes",
-      "excerpt": "Patrick breaks down how detect data changes works with Power BI Incremental Refresh. He demystifies some common misunderstandings when using this setting in Power BI Premium.  Download Patrick's free cheat-sheet: https://guyinacu.be/detectdatachangescheatsheet  Incremental refresh documentation - https://docs.microsoft.com/power-bi/service-premium-incremental-refresh",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-incremental-refresh-understanding-detect-data-changes/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-incremental-refresh-understanding-detect-data-changes/",
-      "originalUrl": "https://youtube.com/watch?v=JsJWBr1_ktQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JsJWBr1_ktQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M12S",
+      "path": "_learning/videos/guy-in-a-cube-power-bi-and-the-on-premises-data-gateway-what-is-it.md",
+      "title": "Power BI and the On-premises Data Gateway: What is it?",
+      "excerpt": "In this video, we look at the On-Premises Data Gateway. What is it exactly? This can be used with more than just Power BI. This includes PowerApps, Microsoft Flow, Azure Analysis Services and more. The entire Power Platform!   If you found this video helpful, we have a free cheat sheet for you for more",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-and-the-on-premises-data-gateway-what-is-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-and-the-on-premises-data-gateway-what-is-it/",
+      "originalUrl": "https://youtube.com/watch?v=WJ5Y4FjkWZw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WJ5Y4FjkWZw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M19S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -100,11 +101,49 @@
           }
         ]
       },
-      "publishedDateTime": "2019-07-24T04:10:38-07:00",
+      "publishedDateTime": "2018-09-08T08:07:22-07:00",
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/JsJWBr1_ktQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WJ5Y4FjkWZw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-powershell-and-the-admin-api.md",
+      "title": "Power BI PowerShell and the Admin API",
+      "excerpt": "The Power BI PowerShell and the Admin API allow you to quickly inventory your organization and manage workspaces and access. Forget the hastle of setting up the App registration within Azure Active Directory for API access, the Power BI PowerShell cmdlets take care of it for you. Just install and start",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-powershell-and-the-admin-api/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-powershell-and-the-admin-api/",
+      "originalUrl": "https://youtube.com/watch?v=SQ7ufcRayYY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SQ7ufcRayYY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M35S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-07T07:22:12-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SQ7ufcRayYY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -194,14 +233,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-sharing-and-collaboration-in-power-bi.md",
-      "title": "Sharing and Collaboration in Power BI",
-      "excerpt": "Adam looks at the different sharing and collaboration items within Power BI. From the share button to apps and embedding options. Power BI offers many options.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-sharing-and-collaboration-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-sharing-and-collaboration-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=pij4gkznI2g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pij4gkznI2g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M57S",
+      "path": "_learning/videos/guy-in-a-cube-source-control-with-power-bi-can-it-be-done.md",
+      "title": "Source Control with Power BI - Can it be done?",
+      "excerpt": "Can we use source control, or version control, with Power BI? We get this question ALL THE TIME! Adam walks you through what your options are and how this works today with Power BI.  ALM Toolkit: http://alm-toolkit.com/  Tabular Editor: https://tabulareditor.com/  Latest updates for Deployment Pipelines:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-source-control-with-power-bi-can-it-be-done/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-source-control-with-power-bi-can-it-be-done/",
+      "originalUrl": "https://youtube.com/watch?v=fCGd5qID-dY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fCGd5qID-dY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M17S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -214,11 +253,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-02-24T15:35:44-08:00",
+      "publishedDateTime": "2021-04-29T04:55:04-07:00",
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/pij4gkznI2g/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/fCGd5qID-dY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -270,14 +309,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-use-a-custom-font-with-power-bi-desktop.md",
-      "title": "Use a CUSTOM FONT with Power BI Desktop!!!",
-      "excerpt": "Want to use a custom font within Power BI Desktop, but don't see a way to do it? Here's a trick to use that custom font.  Download sample theme: https://guyinacu.be/customfontsample  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-use-a-custom-font-with-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-use-a-custom-font-with-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=H-HuBXB4ahc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H-HuBXB4ahc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M6S",
+      "path": "_learning/videos/guy-in-a-cube-working-with-slowly-changing-dimensions-in-power-bi.md",
+      "title": "Working with Slowly Changing Dimensions in Power BI",
+      "excerpt": "Do you have slowly changing dimensions in your Power BI dataset? Struggling to work with them to get the right values? Patrick walks you through how you can deal with them.  Download sample files: http://guyinacu.be/scdsample  Wikipedia https://en.wikipedia.org/wiki/Slowly_changing_dimension  Using calculation",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-working-with-slowly-changing-dimensions-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-working-with-slowly-changing-dimensions-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=tKeaQpWynzg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tKeaQpWynzg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M31S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -290,52 +329,13 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-24T05:08:15-08:00",
+      "publishedDateTime": "2021-02-17T08:00:14-08:00",
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/H-HuBXB4ahc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-why-is-power-bi-slow.md",
-      "title": "Why is Power BI SLOW",
-      "excerpt": "We've seen people comment that Power BI is SLOW. But, what they really mean is your report is slow. Patrick breaks things down to get you pointed in the right direction.  Chris Hamill's Blog: https://alluringbi.com/2020/08/06/consolidating-report-elements-for-improved-performance/  📢 Become a member:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-is-power-bi-slow/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-is-power-bi-slow/",
-      "originalUrl": "https://youtube.com/watch?v=91D1WrNrHtY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/91D1WrNrHtY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M44S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-31T05:22:59-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/91D1WrNrHtY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/tKeaQpWynzg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -347,53 +347,23 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-how-to-create-power-bi-account-without-a-work-email-use-gmailoutlookhotmail.md",
-      "title": "How to Create Power BI Account without a Work Email 📧 (Use Gmail/Outlook/Hotmail)",
-      "excerpt": "Have you tried creating a PowerBI.com account online but got stuck because you did not have a Work Email? Let me show you the best workaround you can use, to create a Power BI account if you just have a Gmail, Outlook or Hotmail address.  ➔ Links mentioned in the Video ▪️ Power BI Tutorial From Beginner",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-how-to-create-power-bi-account-without-a-work-email-use-gmailoutlookhotmail/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-how-to-create-power-bi-account-without-a-work-email-use-gmailoutlookhotmail/",
-      "originalUrl": "https://youtube.com/watch?v=2ZPkMuKrTUg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2ZPkMuKrTUg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M36S",
+      "path": "_learning/videos/learn-power-bi-how-to-create-power-bi-top-n-report-variable-top-n-filter.md",
+      "title": "How to Create Power BI TOP N Report (Variable TOP N Filter)",
+      "excerpt": "Let me show you how you can create a TOP N Report in Power BI, with a Variable N, so that you can show the Numbers and the Detail for Top 10, Top 50 or Top 100 Customers, Products or really anything else. And still have it fully interactive, so you can slice and dice it as you like. 👉 Download Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-how-to-create-power-bi-top-n-report-variable-top-n-filter/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-how-to-create-power-bi-top-n-report-variable-top-n-filter/",
+      "originalUrl": "https://youtube.com/watch?v=wKfPS1yZfE0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wKfPS1yZfE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M26S",
       "provider": {
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2020-04-15T09:00:03-07:00",
+      "publishedDateTime": "2018-11-27T22:55:55-08:00",
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2ZPkMuKrTUg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-how-to-set-up-power-bi-gateway-to-connect-to-on-premise-data-in-personal-mode.md",
-      "title": "How to Set Up Power BI Gateway to Connect to On Premise Data in Personal Mode",
-      "excerpt": "Power BI Gateway acts as a bridge to let PowerBI.com (Cloud) connect to your On-Premise (Local) Data Sources – like local Excel Files or a local SQL Server. Watch our complete video series on Power BI Gateways: https://www.youtube.com/playlist?list=PL7GQQXV5Z8edw57_eLqD9By5mzxIqxSJ1 1. What is a Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-how-to-set-up-power-bi-gateway-to-connect-to-on-premise-data-in-personal-mode/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-how-to-set-up-power-bi-gateway-to-connect-to-on-premise-data-in-personal-mode/",
-      "originalUrl": "https://youtube.com/watch?v=pOvM_83UbAE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pOvM_83UbAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M1S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-11-20T09:00:13-08:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pOvM_83UbAE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wKfPS1yZfE0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -467,6 +437,36 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-for-mac-learn-how-to-make-it-work-.md",
+      "title": "Power BI for Mac?! Learn How to Make it Work! 🛠️",
+      "excerpt": "Power BI for MAC? Do we have it? Do we not? I will show you step-by-step how you can use Power BI on MAC. What works, what doesn't and the workarounds. Links mentioned in the Video: •Get Power BI Mobile Apps for iOS, Android and Windows: https://powerbi.microsoft.com/en-us/mobile/ •Windows Virtual Machine",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-for-mac-learn-how-to-make-it-work-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-for-mac-learn-how-to-make-it-work-/",
+      "originalUrl": "https://youtube.com/watch?v=9kVsaO0vJFI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9kVsaO0vJFI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M16S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-10-09T23:26:23-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9kVsaO0vJFI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-kpi-indicator-excel-icon-sets-part-1-of-3.md",
       "title": "Power BI KPI Indicator (Excel Icon Sets) Part 1 of 3",
       "excerpt": "How can you use KPI Indicators in Power BI, similar to the Excel Conditional Formatting Icon Sets? In this video I show you the first approach - Using DAX Measures. **SUBSCRIBE to my channel to be notified as soon as new videos go live https://goo.gl/NdfdVH ** ----------------------------------------------------------------------",
@@ -497,23 +497,84 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-vs-tableau-5-factors-to-choose-a-winner.md",
-      "title": "Power BI vs Tableau 🔥 5 Factors to Choose a Winner",
-      "excerpt": "Compare Power BI vs. Tableau on 5 factors ​• Visualization • Data Shaping • Data Modeling • Ecosystem • A Mystery Factor ??? ...Hear me speak at the TDWI Event: **BI Across Borders: Power BI + Tableau Think Tank** Date: Wednesday Jan 24th 2018 6:15pm-8:45pm Venue​​: Piggot Auditorium, Seattle University​",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-vs-tableau-5-factors-to-choose-a-winner/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-vs-tableau-5-factors-to-choose-a-winner/",
-      "originalUrl": "https://youtube.com/watch?v=FoqSPCtj7zo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FoqSPCtj7zo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M18S",
+      "path": "_learning/videos/learn-power-bi-power-bi-relationships-step-by-step-example-slightly-advanced.md",
+      "title": "Power BI Relationships: Step-by-Step Example (Slightly Advanced)",
+      "excerpt": "In this real-world example, we create a model to find matching blood donors. This shows you step-by-step how I draft the model and relationships (on paper first) and then bring it to life in Power BI.  FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-relationships-step-by-step-example-slightly-advanced/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-relationships-step-by-step-example-slightly-advanced/",
+      "originalUrl": "https://youtube.com/watch?v=8ybsChtuZoY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8ybsChtuZoY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M39S",
       "provider": {
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2018-01-09T21:20:01-08:00",
+      "publishedDateTime": "2017-12-11T09:19:54-08:00",
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/FoqSPCtj7zo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8ybsChtuZoY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-query-power-pivot-excel-power-bi-ppep.md",
+      "title": "Power BI Tutorial for Beginners: Power Query, Power Pivot, Excel, Power BI (PPEP)",
+      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysgMsPwC4&list=PL7GQQXV5Z8ef2SjkDpLnvsz7TAQjlzlpO This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-query-power-pivot-excel-power-bi-ppep/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-query-power-pivot-excel-power-bi-ppep/",
+      "originalUrl": "https://youtube.com/watch?v=82dexCjXnr0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/82dexCjXnr0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M12S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-02-09T08:13:33-08:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/82dexCjXnr0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-when-do-viewers-need-a-pro-license.md",
+      "title": "Power BI: When do viewers need a Pro License?",
+      "excerpt": "UPDATED VIDEO: https://youtu.be/Nx2JPXk8OTU **Power BI Licensing was changed June 2017, click the Video Link above to watch the latest Update**  When you develop a report or dashboard that uses any Pro level feature (hourly refresh, on-prem refresh through Gateway, Groups/Workspaces...) do the viewers",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-when-do-viewers-need-a-pro-license/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-when-do-viewers-need-a-pro-license/",
+      "originalUrl": "https://youtube.com/watch?v=op_Q7YL8cd4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/op_Q7YL8cd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M26S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-04-06T14:48:35-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/op_Q7YL8cd4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -557,142 +618,25 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-06-designing-report-layouts-part-3.md",
-      "title": "Power BI Paginated Reports in a Day - 06: Designing Report Layouts - Part 3",
-      "excerpt": "In this video, we describe how to design report layouts, including setting properties dynamically.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-06-designing-report-layouts-part-3/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-06-designing-report-layouts-part-3/",
-      "originalUrl": "https://youtube.com/watch?v=eaFFzkT6pxE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eaFFzkT6pxE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M20S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-17T21:05:38-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eaFFzkT6pxE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": "Power BI Paginated Reports in a Day - 06: Designing Report Layouts - Part 3",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-08-retrieving-report-data-part-1.md",
-      "title": "Power BI Paginated Reports in a Day - 08: Retrieving Report Data - Part 1",
-      "excerpt": "In this video, we introduce paginated report data sources.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you watch the videos in the recorded",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-08-retrieving-report-data-part-1/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-08-retrieving-report-data-part-1/",
-      "originalUrl": "https://youtube.com/watch?v=SHGTTYXtio0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SHGTTYXtio0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M34S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-17T21:05:51-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SHGTTYXtio0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": "Power BI Paginated Reports in a Day - 08: Retrieving Report Data - Part 1",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-09-retrieving-report-data-part-2.md",
-      "title": "Power BI Paginated Reports in a Day - 09: Retrieving Report Data - Part 2",
-      "excerpt": "In this video, we introduce paginated report datasets, and describe how you can create query statements with graphical query designers.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-09-retrieving-report-data-part-2/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-09-retrieving-report-data-part-2/",
-      "originalUrl": "https://youtube.com/watch?v=1Dzd9wb7XUY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1Dzd9wb7XUY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M18S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-17T21:05:57-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1Dzd9wb7XUY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": "Power BI Paginated Reports in a Day - 09: Retrieving Report Data - Part 2",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-count-of-unique-values-distinctcount-in-power-bi-through-power-query-group-by-transformation.md",
-      "title": "Count of Unique Values DistinctCount in Power BI Through Power Query Group By Transformation",
-      "excerpt": "You can have a distinct count calculation in multiple places in Power BI, through DAX code, using the Visual's aggregation on a field, or even in Power Query. If you are doing the distinct count in Power Query as part of a group by operation, however, the existing distinct count is for all columns in",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-count-of-unique-values-distinctcount-in-power-bi-through-power-query-group-by-transformation/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-count-of-unique-values-distinctcount-in-power-bi-through-power-query-group-by-transformation/",
-      "originalUrl": "https://youtube.com/watch?v=7l4dYEjmgqA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7l4dYEjmgqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M29S",
+      "path": "_learning/videos/radacad-basic-sharing-and-manage-permissions-in-power-bi-simple-but-useful.md",
+      "title": "Basic Sharing, and Manage Permissions in Power BI Simple, but Useful",
+      "excerpt": "Power BI provides multiple ways of sharing content with users. Each sharing method has pros and cons and can be used for specific scenarios. Some of the sharing methods can be used together to build a framework for sharing. In this post, I will talk about the most basic way of sharing Power BI content.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-basic-sharing-and-manage-permissions-in-power-bi-simple-but-useful/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-basic-sharing-and-manage-permissions-in-power-bi-simple-but-useful/",
+      "originalUrl": "https://youtube.com/watch?v=hMEwGmWPTew",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hMEwGmWPTew\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M49S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-02-26T19:03:57-08:00",
+      "publishedDateTime": "2019-07-02T17:58:43-07:00",
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/7l4dYEjmgqA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/hMEwGmWPTew/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -700,8 +644,37 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power Query"
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-directquery-connection-in-power-bi-how-does-it-work-limitations-and-advantages.md",
+      "title": "DirectQuery Connection in Power BI How does it work Limitations and Advantages",
+      "excerpt": "In the last post, you learned about Import Data or Scheduled Refresh as a connection type. In this video, you’ll learn about the second type of connection named; DirectQuery. This type of connection is only supported by a limited number of data sources, and mainly targets systems with a huge amount of",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-directquery-connection-in-power-bi-how-does-it-work-limitations-and-advantages/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-directquery-connection-in-power-bi-how-does-it-work-limitations-and-advantages/",
+      "originalUrl": "https://youtube.com/watch?v=GWAWPCAjkEY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GWAWPCAjkEY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M10S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-09-29T15:45:23-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GWAWPCAjkEY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -736,37 +709,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-this-year-vs-last-year-calculation-in-power-bi-using-dax.md",
-      "title": "This year vs  Last year Calculation in Power BI using DAX",
-      "excerpt": "SamePeriodLastYear function in #DAX #PowerBI is one of functions that can be used for calculating this year value vs. last year. Download the dataset for this example from my blog article below: https://radacad.com/dateadd-vs-parallelperiod-vs-sameperiodlastyear-dax-time-intelligence-question  Learn",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-this-year-vs-last-year-calculation-in-power-bi-using-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-this-year-vs-last-year-calculation-in-power-bi-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=J4h17Kqyj4M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J4h17Kqyj4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M53S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-10-06T16:37:06-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/J4h17Kqyj4M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-calculate-in-dax-06-using-allselected.md",
       "title": "CALCULATE in DAX #06: Using ALLSELECTED",
       "excerpt": "Learn how to correctly use ALLSELECTED in CALCULATE to compare a number with visual totals. How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt CALCULATE function: https://dax.guide/calculate/?aff=yt",
@@ -792,83 +734,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/UehWR5wWWEo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-compute-a-ranking-based-on-multiple-columns.md",
-      "title": "Compute a ranking based on multiple columns",
-      "excerpt": "How to obtain a ranking based on more than one column in DAX. Article and download: https://sql.bi/684284?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-compute-a-ranking-based-on-multiple-columns/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-compute-a-ranking-based-on-multiple-columns/",
-      "originalUrl": "https://youtube.com/watch?v=aMbtfBzTtBc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aMbtfBzTtBc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M59S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-11-23T11:30:26-08:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aMbtfBzTtBc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-counting-working-days-in-dax.md",
-      "title": "Counting working days in DAX",
-      "excerpt": "This video describes a DAX technique to compute the number of working days between two dates. Article and download: https://sql.bi/80301",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-counting-working-days-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-counting-working-days-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=JgeUhXkxXbU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JgeUhXkxXbU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M38S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-05T00:48:27-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JgeUhXkxXbU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -921,6 +786,45 @@
       ]
     },
     {
+      "path": "_learning/videos/sqlbi-lookup-multiple-values-in-dax.md",
+      "title": "Lookup multiple values in DAX",
+      "excerpt": "Learn different advanced techniques to retrieve multiple values from a lookup table in DAX, improving code readability and performance in DAX queries. Article and download: https://sql.bi/43801?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-lookup-multiple-values-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-lookup-multiple-values-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=SRnIH0pnF3o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SRnIH0pnF3o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M10S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-12-29T03:00:14-08:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SRnIH0pnF3o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-manage-workspaces-and-datasets-in-power-bi.md",
       "title": "Manage workspaces and datasets in Power BI",
       "excerpt": "Once you have created your Power BI data sets and reports, it’s time to deploy them so the users can take advantage of all of your hard work. In this Learning Path, you will learn how to create workspaces in the Power BI service. You will deploy your Power BI artifacts here and share them to your users. You will also learn how to connect Power BI reports to on-premise data sources. Your users will appreciate seeing the latest data in your reports, so you will configure automatic refresh for your Power BI datasets. Row-level security allows you to create one report, but have users be restricted to see only the data that applies to them. This targets data to users, without having to create multiple reports.",
@@ -951,8 +855,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1951,
-            "average": 4.769349
+            "count": 1953,
+            "average": 4.769585
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1160,6 +1064,36 @@
       ]
     },
     {
+      "path": "_learning/videos/absent-data-channel-sales-prediction-model-with-python-and-power-bi.md",
+      "title": "Sales Prediction Model with Python and Power BI",
+      "excerpt": "Create a Linear Regression Model with Python and Power BI. Use What IF parameters in Power BI to give the user dynamic investment inputs.   Contact me on LinkedIn  https://www.linkedin.com/in/gaelimholland",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-sales-prediction-model-with-python-and-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-sales-prediction-model-with-python-and-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=0zveIwThlfE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0zveIwThlfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M54S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2020-07-31T16:30:54-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0zveIwThlfE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-convert-utc-datetime-to-local-time-zones-in-power-query.md",
       "title": "Convert UTC datetime to local time zones in Power Query",
       "excerpt": "In today's video I will show you how to have power query change from utc time to local time so you can follow #FIFAWWC #FIFAWomensWorldCup in your own timezone. #curbal #powerbi #powerquery  Here are the resources mentioned in the video: https://curbal.com/blog/follow-the-fifa-world-cup-2018-in-power-bi",
@@ -1196,6 +1130,44 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-create-a-powerapp-from-scratch-that-refreshes-a-dataset-in-power-bi-using-powerbiintegrationrefresh.md",
+      "title": "Create a PowerApp from scratch that refreshes a dataset in Power BI using PowerBIIntegration.Refresh",
+      "excerpt": "IN todays video I will show you how to create a PowerApp from scratch and make it refresh the source when published in Power BI.  Link to write back to power bi: https://youtu.be/-dRDKbm-v6Y List to direct query sources in power bi: https://docs.microsoft.com/en-us/power-bi/power-bi-data-sources  Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-a-powerapp-from-scratch-that-refreshes-a-dataset-in-power-bi-using-powerbiintegrationrefresh/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-a-powerapp-from-scratch-that-refreshes-a-dataset-in-power-bi-using-powerbiintegrationrefresh/",
+      "originalUrl": "https://youtube.com/watch?v=OFXNlon5d_8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OFXNlon5d_8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M23S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-06T04:12:15-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OFXNlon5d_8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

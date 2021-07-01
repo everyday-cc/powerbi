@@ -4,6 +4,96 @@
   "page": 55,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-get-attendance-report-from-microsoft-teams-call-download-attendance-report-in-teams.md",
+      "title": "Get Attendance Report from Microsoft Teams Call | Download Attendance Report in Teams",
+      "excerpt": "Welcome to Microsoft Teams Tips and Tricks. Today I'm going to show you one amazing tip for you.  Sometimes, there are situations where we want to know how many users have joined Teams call and how long they stay on call. At that time this concept is very useful to us.  This feature is applicable only",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-get-attendance-report-from-microsoft-teams-call-download-attendance-report-in-teams/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-get-attendance-report-from-microsoft-teams-call-download-attendance-report-in-teams/",
+      "originalUrl": "https://youtube.com/watch?v=I4kRZX5VCXc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I4kRZX5VCXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M38S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-07-31T02:22:08-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/I4kRZX5VCXc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-get-list-of-all-workspaces-as-an-admin-using-windows-powershell-powershell-and-power-bi.md",
+      "title": "Get List of All Workspaces as an Admin Using Windows PowerShell | PowerShell and Power BI",
+      "excerpt": "In this video, we will learn how we can get the list of All the available Workspaces in Power BI tenant. Power BI provides PowerShell Administrator API. Using these APIs we can get the list of all workspaces based on the logged-in user. If you have access to Power BI Service Administrator, then we can",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-get-list-of-all-workspaces-as-an-admin-using-windows-powershell-powershell-and-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-get-list-of-all-workspaces-as-an-admin-using-windows-powershell-powershell-and-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=Rfqs4jvxvuk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rfqs4jvxvuk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M23S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-01-29T21:56:36-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Rfqs4jvxvuk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-get-started-with-power-bi-powershell-install-powershell-cmdlets-for-power-bi.md",
+      "title": "Get Started with Power BI PowerShell | Install PowerShell Cmdlets for Power BI",
+      "excerpt": "In this session, we will talk about how we can get started with the Power BI PowerShell. For any organization, if we wish to perform some admin related tasks easily and in faster manner, PowerShell is the best option. So many operations we can perform very easily and faster.  This is the first introduction",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-get-started-with-power-bi-powershell-install-powershell-cmdlets-for-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-get-started-with-power-bi-powershell-install-powershell-cmdlets-for-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=1TcIX1mXnb4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1TcIX1mXnb4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M44S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-01-19T00:11:37-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1TcIX1mXnb4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-getting-started-with-azure-maps-visual-in-power-bi.md",
       "title": "Getting Started with Azure Maps visual in Power BI",
       "excerpt": "Welcome to Power BI session series. Myself Dhruvin Shah and today, I will explain about Azure Maps Visual in Power BI.  Microsoft recently launched this feature as a Preview feature in July 2020 Power BI Desktop Update.  During this session, first we will take an Overview of Azure Maps visualization.",
@@ -810,96 +900,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Gp5Lwrug5-U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-bi-report-gallery-full-animated-power-bi-report-for-average-sunshine-by-continent.md",
-      "title": "Power BI Report Gallery - Full Animated Power BI Report for Average Sunshine by Continent",
-      "excerpt": "This is the sample demo report which I have developed to represent the average sunshine by different continent, country and city.  This is the sample Power BI report for the demo purpose. The data source used for this demo is below. https://en.wikipedia.org/wiki/List_of_cities_by_sunshine_duration",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-report-gallery-full-animated-power-bi-report-for-average-sunshine-by-continent/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-report-gallery-full-animated-power-bi-report-for-average-sunshine-by-continent/",
-      "originalUrl": "https://youtube.com/watch?v=WrGMZDv7Lt8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WrGMZDv7Lt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WrGMZDv7Lt8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-bi-search-from-officecom-sharepoint-home-and-bing-search.md",
-      "title": "Power BI Search from Office.com, SharePoint Home, and Bing Search",
-      "excerpt": "Welcome to another interesting Power BI Session on Power BI Search. Now we can search our favorite Power BI reports and dashboards from Office.com, SharePoint Home, and Bing search results. Here in this session, I’m going to explain each step of Power BI search from office.com, SharePoint Home, and Bin",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-search-from-officecom-sharepoint-home-and-bing-search/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-search-from-officecom-sharepoint-home-and-bing-search/",
-      "originalUrl": "https://youtube.com/watch?v=CsjRToO8q-Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CsjRToO8q-Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M1S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-12-21T22:00:17-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CsjRToO8q-Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-bi-tip-display-selected-item-from-the-slicer-to-the-slicer-header.md",
-      "title": "Power BI Tip - Display Selected Item from the Slicer to the Slicer Header",
-      "excerpt": "In this video we will talk about how we can display the selected item from the slicer to the slicer header.  We all know that we can have single select and multi select dropdown option available for the slicer. When we select the single item from the slicer, it will display the selected item to the header",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-tip-display-selected-item-from-the-slicer-to-the-slicer-header/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-tip-display-selected-item-from-the-slicer-to-the-slicer-header/",
-      "originalUrl": "https://youtube.com/watch?v=pBWR4EF3Wzc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pBWR4EF3Wzc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M39S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pBWR4EF3Wzc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

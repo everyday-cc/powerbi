@@ -64,7 +64,7 @@
         ]
       },
       "publishedDateTime": "2020-04-24T04:44:00-07:00",
-      "heat": 52,
+      "heat": 53,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qUmTxQHr6nY/maxresdefault.jpg",
@@ -89,7 +89,7 @@
       "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-170-create-a-row-id-on-subcategories-using-dax/",
       "originalUrl": "https://youtube.com/watch?v=WzpqBLApSBU",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WzpqBLApSBU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M21S",
+      "length": "PT7M15S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
