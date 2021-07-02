@@ -4,9 +4,9 @@ excerpt: "In this session, we will talk about how we can get started with the Po
 originalUrl: https://youtube.com/watch?v=1TcIX1mXnb4
 type: video
 price: Free
-length: PT4M44S
+length: PT4M43S
 publishedDateTime: 2020-01-19T08:11:37Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1TcIX1mXnb4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "skJUjG4t3K1jfZcBIn7xZha2c+f9gBx1s8mapZA9gNKB8ty4LZ+Uoto6CMsP+uKKEp+kjMVZ/dS1/gFkHZj0hKbWXAnUjFOnF8eLStVKu2Njyr3nFoanonaNkfXG/Ppb+AKEH9B2lSrOOqjHi6Xl/mt3NRduXp0AEKU2uQ2p0a0OnbxGLTA2HUj7KUe+EaigwFoCx++jEMEtXqs60/hgeD8VJ/lv9TXZEH8s61K5C14pEpbk1DzgG4u0JxIZdBGjwhSIxseJBmZXawEk4ZpQlpA7ToNiaY9hQLKjTnOJ9c/DI+e3OD19HRegq25p1xpklBIAFWK/VzlWQUciYIXffQrc2+MnfgErdlBhP0PCSwZkwdyZxwCYVsnAz0tkrIk/0aovvUEElRvd46rEaLoLCXwYeyOXXhFp8/H2CewOSuE=;z7amYxMaeBMmNlx5CEG8hw=="
+secured: "u2eH2XX8WwOipgZFrX2ItMxmWkhwGZYBZewhQ8HVvJ+9Ka4C8Q3/zneoVafUYrs7rQPk37yzfsMH1ZP2hdC6YSsnlKE4jsg8/3eP1DCB/4gxr7GbjRZXo0mqPGFoM2zr3htzu+TnOjeTHkT+qv2sLaiYEt31xWKfZDfSATqajAX6qQq9a9mMwP/BvnZ2TAzDo0mnxsaX0QbNU9Og8VnD1cHHJAWXVVTc6GMxgPxQCI7rRaXiKr3LTXmjR2taSBfmWQJezVFckLsk0ujNLvhicNC6gMojn5QFNor2eWtTdx5fT2Tf80yEpiNlJOnqZXW2/hGOZAXg5jV+j4FS1dOpMrA1s+A/LgS0SChQT4VAWNz9f2CGBjxpfhGhMCU8lyOB9z6Ezxc7P+Ql9kHShTZl2ErH9vXh3rmDhwG7F3aGd7o=;WHSdw6/QNtuHB8xnn9vUvw=="
 ---
 
