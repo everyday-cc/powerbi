@@ -202,6 +202,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-create-measures-dax-power-bi.md",
+      "title": "Introduction to creating measures using DAX in Power BI",
+      "excerpt": "Data Analysis Expressions (DAX) is a programming language that is used throughout Microsoft Power BI for creating calculated columns, measures, and custom tables. It is a collection of functions, operators, and constants that can be used in a formula, or expression, to calculate and return one or more values. You can use DAX to solve a number of calculations and data analysis problems, which can help you create new information from data that is already in your model.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-measures-dax-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
+      "length": "PT2H40M",
+      "ratings": {
+        "count": 3301,
+        "average": 4.70312
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 142,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-measures-dax-power-bi-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-power-bi-june-feature-summary-area-chart-transparency-sliders.md",
       "title": "Power BI June Feature Summary - Area chart transparency sliders",
       "excerpt": "Welcome to Power BI Desktop June 2021 Feature Summary. During this Short Power BI Tip, we will learn how we can apply transparency for Area and Stacked Area Chart in Power BI. Earlier, the transparency value set the default to 60%. During this session, we will learn how we can set transparency for Area",
@@ -378,45 +421,15 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-multi-select-slicer-in-power-bi.md",
-      "title": "Multi select slicer in Power BI",
-      "excerpt": "This is a very short, simple video about how to have a multi-select slicer in Power BI. Power BI slicer is in fact multi-select by default, however, there is a very small option that if you set it, makes it even easier to use, let’s talk about it. read my article about this here: https://radacad.com/multi-select-slicer-in-power-bi",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-multi-select-slicer-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-multi-select-slicer-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=689_u5jVnTQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/689_u5jVnTQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M52S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-04-29T19:17:02-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/689_u5jVnTQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-enterprise-grade-etl-data-preparation-using-dataflows.md",
-      "title": "Explore enterprise-grade ETL and data preparation using dataflows",
-      "excerpt": "Explore enterprise-grade ETL and data preparation using dataflows",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-enterprise-grade-etl-data-preparation-using-dataflows/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-enterprise-grade-etl-data-preparation-using-dataflows/",
-      "length": "PT24M",
+      "path": "_learning/courses/microsoft-learn-power-bi-admin-monitor.md",
+      "title": "Monitor and audit usage",
+      "excerpt": "Learn how to use activity logs and auditing with Power BI to monitor and inspect user activity in a Power BI environment.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-monitor/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-monitor/",
+      "length": "PT11M",
       "ratings": {
-        "count": 5,
-        "average": 4.6
+        "count": 17,
+        "average": 4.7647057
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -431,12 +444,12 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-monitor-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -446,28 +459,27 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Dataflows"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-10-box-plot.md",
-      "title": "Charticulator Visual IS HERE!!! - Season 1 Episode 10 - Box Plot",
-      "excerpt": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.    This video we are exploring the Box Plot  Follow Daniel Marsh-Patrick: https://www.linkedin.com/in/daniel-m-p/ Follow Mike Carlo: https://www.linkedin.com/in/michaelcarlo/  Official blog post about the visual:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-10-box-plot/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-10-box-plot/",
-      "originalUrl": "https://youtube.com/watch?v=wp7Kr_dkkzw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wp7Kr_dkkzw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT42M40S",
+      "path": "_learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-8-global-trade-chart.md",
+      "title": "Charticulator Visual IS HERE!!! - Season 1 Episode 8 - Global Trade Chart",
+      "excerpt": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.    This video we are exploring the Microsoft Tutorial for Global Trade https://charticulator.com/gallery/global_trade_of_natural_resources.html  Official blog post about the visual: https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-8-global-trade-chart/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-8-global-trade-chart/",
+      "originalUrl": "https://youtube.com/watch?v=nApS3zzXBU0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nApS3zzXBU0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M18S",
       "provider": {
         "name": "Power BI Tips",
         "domain": "powerbi.tips"
       },
-      "publishedDateTime": "2021-05-07T11:54:01-07:00",
+      "publishedDateTime": "2021-04-23T19:20:34-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wp7Kr_dkkzw/maxresdefault_live.jpg",
+          "url": "https://i.ytimg.com/vi/nApS3zzXBU0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -597,7 +609,7 @@
             ]
           },
           "publishedDateTime": "2021-01-28T08:23:13-08:00",
-          "heat": 83,
+          "heat": 82,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/-ip7mKUdwRg/maxresdefault.jpg",
@@ -654,7 +666,7 @@
         }
       ],
       "size": 9,
-      "heat": 129,
+      "heat": 128,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -894,8 +906,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 38445,
-            "average": 4.7660813
+            "count": 38451,
+            "average": 4.766066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -954,8 +966,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 38445,
-        "average": 4.7660813
+        "count": 38451,
+        "average": 4.766066
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1292,8 +1304,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 38445,
-            "average": 4.7660813
+            "count": 38451,
+            "average": 4.766066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1334,8 +1346,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 19275,
-            "average": 4.7145524
+            "count": 19279,
+            "average": 4.7146115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1377,8 +1389,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 8222,
-            "average": 4.7171006
+            "count": 8224,
+            "average": 4.7171693
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1419,8 +1431,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6294,
-            "average": 4.761519
+            "count": 6295,
+            "average": 4.7615566
           },
           "provider": {
             "name": "Microsoft Learn",

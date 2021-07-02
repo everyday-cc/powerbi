@@ -34,6 +34,36 @@
       ]
     },
     {
+      "path": "_learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-10-box-plot.md",
+      "title": "Charticulator Visual IS HERE!!! - Season 1 Episode 10 - Box Plot",
+      "excerpt": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.    This video we are exploring the Box Plot  Follow Daniel Marsh-Patrick: https://www.linkedin.com/in/daniel-m-p/ Follow Mike Carlo: https://www.linkedin.com/in/michaelcarlo/  Official blog post about the visual:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-10-box-plot/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-10-box-plot/",
+      "originalUrl": "https://youtube.com/watch?v=wp7Kr_dkkzw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wp7Kr_dkkzw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M40S",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "publishedDateTime": "2021-05-07T11:54:01-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wp7Kr_dkkzw/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-4-marks.md",
       "title": "Charticulator Visual IS HERE!!! - Season 1 Episode 4 - Marks",
       "excerpt": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.    This video we are exploring the Marks  Official blog post about the visual: https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/  Visit the early version of Charticulator:",
@@ -141,36 +171,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wlAc_j1IoT0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-8-global-trade-chart.md",
-      "title": "Charticulator Visual IS HERE!!! - Season 1 Episode 8 - Global Trade Chart",
-      "excerpt": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.    This video we are exploring the Microsoft Tutorial for Global Trade https://charticulator.com/gallery/global_trade_of_natural_resources.html  Official blog post about the visual: https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-8-global-trade-chart/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-8-global-trade-chart/",
-      "originalUrl": "https://youtube.com/watch?v=nApS3zzXBU0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nApS3zzXBU0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M18S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2021-04-23T19:20:34-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nApS3zzXBU0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
