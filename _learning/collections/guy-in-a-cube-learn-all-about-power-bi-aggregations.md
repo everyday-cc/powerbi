@@ -18,6 +18,7 @@ items:
   - videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations
   - videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations
   - videos/guy-in-a-cube-using-precedence-to-force-power-bi-aggregations
+  - videos/guy-in-a-cube-how-to-use-the-power-bi-aggregations-feature
 
 topics:
   - Power BI
