@@ -4,6 +4,86 @@
   "page": 37,
   "value": [
     {
+      "path": "_learning/articles/excelerator-bi-extract-tabular-data-from-power-bi-service-to-excel.md",
+      "title": "Extract Tabular Data From Power BI Service to Excel",
+      "excerpt": "Level: Intermediate Updated: 10 Nov 2020 I first wrote this article about how to get tabular data from the Power BI Service into Excel back in Jan 2017.  The benefits of extracting tabular data are still the same as they were back then however the process of extracting the tabular data [...]Read More",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-extract-tabular-data-from-power-bi-service-to-excel/index.json",
+      "webUrl": "https://exceleratorbi.com.au/extract-tabular-data-power-bi-service-excel/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2020-11-09T13:40:19-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/01/export.png",
+          "width": 500,
+          "height": 250,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI",
+        "Power BI Service"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-fast-track-power-bi-dev-with-sharepoint-files.md",
+      "title": "Fast Track Power BI Dev With SharePoint Files",
+      "excerpt": "I&#8217;m always looking for more productive ways to work with Power BI and associated tools. As I covered in my article last week, development of Power BI reports using SharePoint for your file storage can be so slow that it is impractical. In this article I discuss the various options [...]Read More",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-fast-track-power-bi-dev-with-sharepoint-files/index.json",
+      "webUrl": "https://exceleratorbi.com.au/fast-track-power-bi-dev-with-sharepoint-files/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2020-09-22T01:18:03-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/09/092220_0726_FastTrackPo1.png",
+          "width": 800,
+          "height": 339,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-loading-a-file-from-onedrive-personal-into-power-bi-desktop.md",
+      "title": "Loading a File from OneDrive Personal into Power BI Desktop",
+      "excerpt": "I am sure you know, there are quite a few companies that provide online document storage for free, including Dropbox (which is my personal favourite) but also Google Drive and OneDrive Personal (Microsoft). This article today shows how you can load data from OneDrive Personal (stored in the cloud) directly",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-loading-a-file-from-onedrive-personal-into-power-bi-desktop/index.json",
+      "webUrl": "https://exceleratorbi.com.au/loading-a-file-from-onedrive-personal-into-power-bi-desktop/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2020-11-23T11:55:01-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/11/onedrive-personal-to-pbi.png",
+          "width": 653,
+          "height": 329,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/articles/excelerator-bi-power-bi-and-sharepoint-terrible-together.md",
       "title": "Power BI and SharePoint – Terrible Together",
       "excerpt": "Until recently, I had not spent a lot of time building Power BI Reporting solutions that have SharePoint Online as a data source (This article refers to SharePoint Online specifically, but I am sure the experience is the same with on premise SharePoint). Over the last month or so I [...]Read More »",
@@ -1095,136 +1175,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-iterator-functions.md",
-      "title": "Use DAX iterator functions in Power BI Desktop models",
-      "excerpt": "By the end of this module, you’ll learn about what the family of iterator functions can do and how to use them in your DAX calculations. Calculations will include custom summarizations, ranking, and concatenation.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-iterator-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
-      "length": "PT12M",
-      "ratings": {
-        "count": 498,
-        "average": 4.7108436
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/use-dax-iterator-functions-power-bi-desktop-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-modify-filter.md",
-      "title": "Modify DAX filter context in Power BI Desktop models",
-      "excerpt": "By the end of this module, you’ll be able to describe filter context, which is used to evaluate measure formulas. You’ll then learn why some calculations need to modify filter context and that it can be achieved by using the CALCULATE function. Additionally, you’ll learn how to configure the CALCULATE function with filters and filter modifiers.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-modify-filter/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-modify-filter/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 462,
-        "average": 4.62987
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/modify-dax-filter-context-power-bi-desktop-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-deliver-decision-making-insights-with-power-bi.md",
-      "title": "Deliver decision-making insights with Power BI",
-      "excerpt": "Deliver decision-making insights with Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-deliver-decision-making-insights-with-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deliver-decision-making-insights-with-power-bi/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 4,
-        "average": 4.25
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],
