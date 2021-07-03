@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M14S
 publishedDateTime: 2018-10-30T14:35:22Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WyRO5hTxEUU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Tutorial: How to Sign up"
 
-secured: "fspVvHk6PTacHj3epReON0k7QJDcNT52cCHtOYRebDIPaKHbXSucoua+SKRYhyoSwnOEYM5xRJwE3cEMmI582hQRxTp3BJkL6gKPXv2eidbJ1ezj4bCijfIlmj0EmQDKAx/VQ7Z7P9rZNo83iEnsFbilSiAvTWb1rRM3AwVKAmHfx9F+9oC+Q0aktsyEFbX1EWc2PECHcZl/TTxnERIhY5W3Bw/2gEtCpM8CnpZyAECPCANhACpaux9kEXSs+8y6Q9JtYKjM5xWjUsl7J7qJH5P7+lmQr7YACv7Q7pA3Tl+SZiF0uqqeL1XV11doth0QiJ4tBh0dhqmgjqRaYq/7UOZCwqhpsi3SXTc88dY+DHtFuYCqIQKAtLhzhKoLkIZynpodmtb7Qkn5XLOWoTBR39VsBfxkDi2NSJefnKFSVZU=;xrqqjdPau+al4wLCgYcvXw=="
+secured: "mIZKsmiXIeHuuBJbtgdpgTNrIpdxPPNx9Pk83GFCzrTWe9O9UmaFcPo33bu1LOHgkQ191sdok8mpYi80io6AjCXyFLjnYCAYAglna8MRgUC+c9wEkoOEUoKR/0QE3QCHVctBu8S/7b0mJsev0KFDoyFgddBGeLAORfcHIrTQ+aMdeXL6ExxT9o07rdQOgNaPbgnT/GiVnj4+WPbMT2acBqz3Zchg5z8U2M7VNZLujqPg+qWoZcaUly95dDOqm5NlE2AMNGOiBVOoH0NUMyf/b6SMEbBOZl1umJ6V+mvsANRwo031TWPPkZ3a7LhQX4PxD7YSvBZUXNwW4OVnPA5HNlDvpwSoNe7zRUJaYM0/1tVt3z1wyenNU3M+Zpq2+Vz4APp4XRF7ZRBgXP9wgz/HHIcVbhW0mHsBBZBowHc6dNk=;HiLEH12pGrjABtzu8oOPWw=="
 ---
 

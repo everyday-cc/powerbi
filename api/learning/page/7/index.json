@@ -1040,8 +1040,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 6301,
-        "average": 4.761784
+        "count": 6302,
+        "average": 4.7618217
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1864,8 +1864,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 4363,
-            "average": 4.769654
+            "count": 4364,
+            "average": 4.7697067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2034,8 +2034,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 2801,
-        "average": 4.650125
+        "count": 2802,
+        "average": 4.65025
       },
       "provider": {
         "name": "Microsoft Learn",
