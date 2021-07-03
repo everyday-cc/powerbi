@@ -4,7 +4,7 @@ excerpt: "This is an update to an article that I wrote back in 2019. This time a
 webUrl: https://exceleratorbi.com.au/calendar-over-run-while-comparing-last-years-data/
 type: article
 publishedDateTime: 2021-05-03T23:50:54Z
-heat: 50
+heat: 130
 
 provider:
   name: Excelerator BI
