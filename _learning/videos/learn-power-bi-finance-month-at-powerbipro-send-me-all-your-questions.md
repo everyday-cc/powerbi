@@ -4,7 +4,7 @@ excerpt: "FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 
 originalUrl: https://youtube.com/watch?v=PXmW_SiN4ks
 type: video
 price: Free
-length: PT3M32S
+length: PT3M31S
 publishedDateTime: 2017-10-27T06:23:33Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "i5oUhkuJYFH3rzcBNRXe7VBsiRLQhWA1rLkn6N+lglbQ/LWeAb1jjM4E3sHOTiA19McTrrIOHetKhbWBUhzlzL6scA9B4wEXjpiIBwjibROS8nM1bn29LmwHCvE/ZWzN3H3bTn5kkBpjzgDNVMRDnRXz7Dq0VogpDVrWTTfJ2zYa8s8UHjKfTvkszSVNnLdj+79enx6tnW4JGzK6ald1esKMqc2EG8q2pVyCepyiLfjps3eXF62MQAtw7Vq7yA1KnKXHVNC6crnxff9lhrRg3AVA/hvywgr5S116pWmkAelcEVcFIAPPPDVO1ks5T/Cam3JJQEoJUedywtFHCaM8NzUv17HYeRG5WaRGDHX7OA6L1cQFzG804CkiDO/3icibjZIB5i258H5OrWRHoFVVj79l6rM5vRrYBUNhMkbhc0o=;33PMYqzfqAogooBk+X4E+w=="
+secured: "JOed9KA3+rrA7swQ9+spAaXFOJOwBnMo64fq65gIjb5mAuApSBhbsfYZG2oz/w+aKLrdAa1mylSaaUUMY2gzduS0pYiwS4HxCbJkvIRsFQlf1fq29AgUznLF3nH4LGb3ssDeg3CAU/KCmMIgxPNTvh7Rn3GyAEtAdAEB2KwJRBDjS8feFfMH9XoZ9Bn4lQeZIYFVxs/iDSTHN3AnRTw2vhQssUjdh5o9tUt5uOE3JdVp10KgyJ07znZ7AS+uxVauBXHJAxqijTisvSjgTFoJbFwcdzb4rX/M7hmZ089tTVX9rla+LGLY3WA1rM/5ER9OsNngJ+GvsXBgSVB1NFAnYJbWnBVrlpBGJTfXtP5FK3tZ/Mn9M9NL+BGZrlH4LTWlOiX00qEAsPJYL4ytQ3UOHIHCIrPCUGWmFCG6a/I3E/I=;JRnQC1qhrhSJlPj0CqBkDA=="
 ---
 
