@@ -4,7 +4,7 @@ excerpt: "Multistreaming with https://restream.io/  Join the 5-Day Challenge to 
 originalUrl: https://youtube.com/watch?v=GaIlsRMlyAY
 type: video
 price: Free
-length: PT1H13M30S
+length: PT1H13M32S
 publishedDateTime: 2018-07-30T20:57:55Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "ykrj6sTw4TJp65V8YKoHqvF4eQ3hm/FvRj6MlWROsDuj90y6w28JOloxEPQKuAWb1B2leyLkZU+Z4wWRRQnB6BZlK4bCZmXhqGXWOBzfrXZ4OHtddxzZZzNq7qh5BJlI2n7byVVEBCwX8QeMkokQQDtnAuLGRooR1b0GjQU59TZyWt5dShcc/VZr7J9yvvM5ZPGq75DgZjz73a5Cv2zv8G1o1FYEAXWiB9E5Uu65OX2KQzpit8e605koW/ZT/XxkCd01MvBqvK3LFlm23TzcbJtbBCSQo6QDykOfSt/j4VjWAQHX2uNe4w6DeL+FiHmmHDHYqpLqGjZrSUVyYgnjjqaL4uZlFtVzG2l2dX9/skoKwPDWLDHMr55EsqMllPYU/C35kdHnshaCXsadLCTghY3TM+BwO/n7F9SfXA7w/nE=;DiVwh2T+zpZbEmLy1SzYUg=="
+secured: "U5ihd+mAGXuPDgitusKwXzCTUwCDaZ6HCGnvWe9tkSlbse47vUKrgi9pAJ2pEP1Spjc/L53gHfRJqfFfcXzVdk/ZWSt+cmrkyydnb2iAt0n3Q+TNlg6vyhYHBkb3WE9xyE/sfdlyEBYCMjeyAociJ44YA6NxudK9zxVJCmGEhqROOeY0/zTCw2em4Kn4GWEdOL+9op6BKHgyFxS/ZpOO/Rins/JwT5YDMI3RI96YQgd4g7VenFf8DSE4vBF3UvFff91Scjk9b7syerUN/K843q+oQRIjzv7NWj9POBj63nf3AfaC1BYMv9QYPSIbtz7nWKuWEQ4ARsoJGr1rCRs12lYzvFGFCJOqTDxl4fpE0RXSmXk2QbIZsWSXKVj5f+ygkKVzB8ggj+3/tYIqmXDRCAD88IOlrMqFE0+CgWwWQpo=;Q2/inB2zvC7l+ANcjLXj/w=="
 ---
 
