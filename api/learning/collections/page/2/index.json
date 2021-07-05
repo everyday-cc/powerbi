@@ -2400,8 +2400,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 4375,
-            "average": 4.7702856
+            "count": 4376,
+            "average": 4.770338
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2517,8 +2517,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 7479,
-            "average": 4.704105
+            "count": 7480,
+            "average": 4.7041445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2735,7 +2735,7 @@
             ]
           },
           "publishedDateTime": "2020-04-24T04:44:00-07:00",
-          "heat": 55,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7CqXdSEN2k4/maxresdefault.jpg",
@@ -2920,8 +2920,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1776,
-            "average": 4.7105856
+            "count": 1777,
+            "average": 4.7107487
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2962,8 +2962,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2574,
-            "average": 4.802642
+            "count": 2575,
+            "average": 4.8027186
           },
           "provider": {
             "name": "Microsoft Learn",
