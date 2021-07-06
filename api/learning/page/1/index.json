@@ -171,6 +171,45 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-test-your-power-bi-dax-measures-in-dax-studio.md",
+      "title": "Test your Power BI DAX measures in DAX Studio",
+      "excerpt": "Learn how to get your DAX measures in working order, using DAX Studio, before putting them in your Power BI report. Patrick walks you through it!  SQLBI article: https://www.sqlbi.com/articles/hiding-future-dates-for-calculations-in-dax/  Hiding Future Dates video: https://www.youtube.com/watch?v=VXd1wl-5vKI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-test-your-power-bi-dax-measures-in-dax-studio/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-test-your-power-bi-dax-measures-in-dax-studio/",
+      "originalUrl": "https://youtube.com/watch?v=YCs2_NLYlOc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YCs2_NLYlOc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M5S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-05-12T08:00:14-07:00",
+      "heat": 134,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YCs2_NLYlOc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship.md",
       "title": "DAX CrossFilter Function in Power BI   Write the Formula both directional but keep the relationship",
       "excerpt": "If you are familiar with relationships in Power BI, you know that there are scenarios that you may need to change the direction of the relationship to a both-directional. A both-directional relationship comes at a cost, which is mainly the performance and ambiguity of the model. There is a way to write",
@@ -199,44 +238,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-when-to-use-keepfilters-over-iterators.md",
-      "title": "When to use KEEPFILTERS over iterators",
-      "excerpt": "How to use KEEPFILTERS in DAX iterator functions to preserve arbitrarily shaped filters in context transition. \r Article and download: https://sql.bi/705054?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-when-to-use-keepfilters-over-iterators/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-when-to-use-keepfilters-over-iterators/",
-      "originalUrl": "https://youtube.com/watch?v=bGVLguWf4Ls",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bGVLguWf4Ls\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M56S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-27T02:00:58-07:00",
-      "heat": 134,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bGVLguWf4Ls/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     },
     {
@@ -270,45 +271,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-204-slice-by-the-results-of-a-measure.md",
-      "title": "DAX Fridays #204: Slice by the results of a measure",
-      "excerpt": "Have you ever wanted to turn your measure into a slicer? Here is how you do  it!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r \r Our PLAYLISTS:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-204-slice-by-the-results-of-a-measure/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-204-slice-by-the-results-of-a-measure/",
-      "originalUrl": "https://youtube.com/watch?v=xO9Caya9Qxw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xO9Caya9Qxw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M59S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-14T03:46:27-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xO9Caya9Qxw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-power-bi-june-feature-summary-area-chart-transparency-sliders.md",
       "title": "Power BI June Feature Summary - Area chart transparency sliders",
       "excerpt": "Welcome to Power BI Desktop June 2021 Feature Summary. During this Short Power BI Tip, we will learn how we can apply transparency for Area and Stacked Area Chart in Power BI. Earlier, the transparency value set the default to 60%. During this session, we will learn how we can set transparency for Area",
@@ -333,6 +295,48 @@
       ],
       "content": "\r\n",
       "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-connect-power-platform-to-sap-azure.md",
+      "title": "Connect Power Platform to SAP on Azure",
+      "excerpt": "Connect Power Platform to SAP on Azure",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-connect-power-platform-to-sap-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-power-platform-to-sap-azure/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 10,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sap-connect-power-platform-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -399,23 +403,23 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-microsoft-build-2021-power-bi-announcements.md",
-      "title": "Microsoft Build 2021 - Power BI Announcements",
-      "excerpt": "Welcome to my short session on the summary for Microsoft Build Power BI Announcements. During May 2021, 25 Day 01 Microsoft announce 5 cool things for Power BI. Some announcements are launched, some are planned during July this year. Let's talk about each announcement in detail here with me!!  Top 5",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-microsoft-build-2021-power-bi-announcements/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-microsoft-build-2021-power-bi-announcements/",
-      "originalUrl": "https://youtube.com/watch?v=TLWfv9Ofkts",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TLWfv9Ofkts\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M32S",
+      "path": "_learning/videos/dhruvin-shah-maintain-tab-order-for-power-bi-report.md",
+      "title": "Maintain Tab Order for Power BI Report",
+      "excerpt": "During this session, we will talk about how we can maintain Tab Order for Power BI Report. From a report accessibility standpoint, it is necessary to maintain tab order for our Power BI Report. Sometimes when end users are accessing the Power BI Report, they are using keyboard key “Tab” to move between",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-maintain-tab-order-for-power-bi-report/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-maintain-tab-order-for-power-bi-report/",
+      "originalUrl": "https://youtube.com/watch?v=DMce0qKA_Kg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DMce0qKA_Kg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M18S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-05-26T03:42:09-07:00",
+      "publishedDateTime": "2021-05-19T00:57:54-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/TLWfv9Ofkts/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/DMce0qKA_Kg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -993,32 +997,6 @@
       ]
     },
     {
-      "path": "_learning/articles/excelerator-bi-compare-any-two-of-anything-in-power-bi.md",
-      "title": "Compare Any Two of Anything in Power BI",
-      "excerpt": "I have been increasingly recording videos as my method of sharing tips and techniques for getting more out of Power BI. Some concepts are best documented (traditional blogging) and some are just easier for everyone if it is a video. That is the case again for today. Compare Any Two [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-compare-any-two-of-anything-in-power-bi/index.json",
-      "webUrl": "https://exceleratorbi.com.au/compare-any-two-of-anything-in-power-bi/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-06-28T05:16:26-07:00",
-      "heat": 88,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/06/compare-any-2-of-anything.png",
-          "width": 745,
-          "height": 383,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-handling-multiple-fact-tables-in-power-bi.md",
       "title": "Handling MULTIPLE fact tables in Power BI",
       "excerpt": "You've got multiple fact tables in your Power BI dataset. And, dimension tables for each. Struggling to slice and dice across both? Patrick shows you how to deal with this mess.  Understand star schema and the importance for Power BI https://docs.microsoft.com/power-bi/guidance/star-schema  📢 Become",
@@ -1087,8 +1065,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 21413,
-            "average": 4.7947974
+            "count": 21416,
+            "average": 4.79478
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1129,8 +1107,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 38606,
-            "average": 4.7662797
+            "count": 38611,
+            "average": 4.76631
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1189,8 +1167,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 21413,
-        "average": 4.7947974
+        "count": 21416,
+        "average": 4.79478
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1261,8 +1239,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 38606,
-        "average": 4.7662797
+        "count": 38611,
+        "average": 4.76631
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1290,6 +1268,44 @@
       ],
       "content": "\r\n",
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-data-modeling-best-practices-part-1-in-power-bi-and-analysis-services.md",
+      "title": "Data modeling best practices - Part 1 - in Power BI and Analysis Services",
+      "excerpt": "Patrick looks at a few data modeling best practices in Power BI and Analysis Services. These are things we see customers doing on a regular basis and you should be aware of it.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-data-modeling-best-practices-part-1-in-power-bi-and-analysis-services/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-data-modeling-best-practices-part-1-in-power-bi-and-analysis-services/",
+      "originalUrl": "https://youtube.com/watch?v=kiVXI7zjSzY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kiVXI7zjSzY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M5S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-25T06:14:36-07:00",
+      "heat": 82,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kiVXI7zjSzY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"

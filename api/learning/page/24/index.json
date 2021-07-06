@@ -4,6 +4,44 @@
   "page": 24,
   "value": [
     {
+      "path": "_learning/videos/curbal-create-and-use-custom-visuals-for-power-bi-in-minutes.md",
+      "title": "Create and use custom visuals for Power BI in minutes!!",
+      "excerpt": "Create and use custom visuals for Power BI in minutes!! If you are not able to use custom visuals from the AppStore but you still need them, you can now create your own and use them in Power BI, all of that in minutes!  In today's video, I am going to show you how you can use a custom visual we created",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-and-use-custom-visuals-for-power-bi-in-minutes/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-and-use-custom-visuals-for-power-bi-in-minutes/",
+      "originalUrl": "https://youtube.com/watch?v=aWAktVY2FvE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aWAktVY2FvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M44S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-12T01:56:59-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aWAktVY2FvE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-custom-sort-order-for-axis-columns-legends-in-power-bi.md",
       "title": "Custom sort order for axis, columns, legends.... in Power BI",
       "excerpt": "How do I sort och change the default order for columns, axis, legends in Power BI?  I get this question all the time, and although I have already explained it in other videos, I don't have a specific video for it and your questions hint me that is needed.  So here it is, In this video we are going to",
@@ -705,6 +743,45 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-dax-fridays-204-slice-by-the-results-of-a-measure.md",
+      "title": "DAX Fridays #204: Slice by the results of a measure",
+      "excerpt": "Have you ever wanted to turn your measure into a slicer? Here is how you do  it!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r \r Our PLAYLISTS:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-204-slice-by-the-results-of-a-measure/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-204-slice-by-the-results-of-a-measure/",
+      "originalUrl": "https://youtube.com/watch?v=xO9Caya9Qxw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xO9Caya9Qxw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M59S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-14T03:46:27-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xO9Caya9Qxw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-209-allocation-calculations-in-dax-generate.md",
       "title": "DAX Fridays! #209: Allocation calculations in DAX | GENERATE",
       "excerpt": "In today's DAX Fridays video I am going to show you how to create allocation tables using DAX.  I showed you in a previous video how to do it in Power Query, so if you prefer it that way, check this video instead: https://www.youtube.com/watch?v=ChXz-7o6-R8  Here you can download all the pbix files:",
@@ -1081,84 +1158,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/FI1_N-imBxI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-51-averagex.md",
-      "title": "DAX Fridays! #51: AVERAGEX",
-      "excerpt": "In today's video we will go through the measure AVERAGEX. It is not as simple as you think to calculate averages in DAX and in this video I explain why.  Link to pbix: https://curbal.com/blog/glossary/averagex-dax  Link to Northwind dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  PREVIOUS VIDEO:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-51-averagex/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-51-averagex/",
-      "originalUrl": "https://youtube.com/watch?v=UMxeti9udMo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UMxeti9udMo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M57S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-09-14T14:38:41-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UMxeti9udMo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-52-sumif-countif.md",
-      "title": "DAX Fridays! #52: SUMIF, COUNTIF",
-      "excerpt": "In today's video we will go through one of the most common asked quesitons for DAX beginners: How do I calculate a SUMIF or COUNTIF in DAX?   PREVIOUS VIDEO:  https://www.youtube.com/watch?v=UMxeti9udMo NEXT VIDEO: https://youtu.be/53tOqKG3W7I  Sorry, no link available this time! Just download the data",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-52-sumif-countif/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-52-sumif-countif/",
-      "originalUrl": "https://youtube.com/watch?v=iK__orX9XZo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iK__orX9XZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M34S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-09-21T14:02:20-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iK__orX9XZo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
