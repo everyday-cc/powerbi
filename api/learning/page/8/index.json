@@ -4,6 +4,44 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-reduce-power-bi-dataset-size-by-60-with-one-checkbox.md",
+      "title": "REDUCE Power BI dataset size by 60% with ONE CHECKBOX???",
+      "excerpt": "What if I told you that you could potentially reduce your Power BI dataset size by up to 60-70% with ONE CHECKBOX??? This was crazy and we show you what is going on! (results will vary)  Download Sample: https://guyinacu.be/onecheckboxsample  DAX Studio: https://www.sqlbi.com/tools/dax-studio/  📢 Become",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-reduce-power-bi-dataset-size-by-60-with-one-checkbox/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-reduce-power-bi-dataset-size-by-60-with-one-checkbox/",
+      "originalUrl": "https://youtube.com/watch?v=RnDdDlozcdo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RnDdDlozcdo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M49S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-08-27T08:00:19-07:00",
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RnDdDlozcdo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-tools-to-take-power-bi-to-the-next-level.md",
       "title": "Tools to take Power BI to the NEXT LEVEL",
       "excerpt": "We've mentioned them multiple times but now to bring them all together. These are the TOOLS you need to take Power BI to the NEXT LEVEL! Tools we use every day!  Performance Analyzer: https://docs.microsoft.com/power-bi/create-reports/desktop-performance-analyzer  External tools in Power BI Desktop https://docs.microsoft.com/power-bi/transform-model/desktop-external-tools",
@@ -1004,45 +1042,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-calculate-in-dax-07-add-multicolumn-filters.md",
-      "title": "CALCULATE in DAX #07: Add multicolumn filters",
-      "excerpt": "Learn how to use complex filters on multiple columns without using expensive table filters. How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt CALCULATE function: https://dax.guide/calculate/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-calculate-in-dax-07-add-multicolumn-filters/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-calculate-in-dax-07-add-multicolumn-filters/",
-      "originalUrl": "https://youtube.com/watch?v=kQjYG6TJVp8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kQjYG6TJVp8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M53S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-22T03:00:24-07:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kQjYG6TJVp8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     }
   ],

@@ -110,44 +110,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi.md",
-      "title": "How to create a Export to Excel / CSV button in Power BI",
-      "excerpt": "In todays video I will show you how to create and export to excel or CSV button in Power BI!! Take a look!  Chapters: 00:00 Intro 01:30 Export to CSV button 05:15 Apply the flow to the button 05:30 Format the flow button 06:00 Check if the flow run sucessfully 08:00 Export to excel button 09:30 Pre-requisites",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=BnTipbooeP0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BnTipbooeP0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M20S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-21T04:04:38-07:00",
-      "heat": 156,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BnTipbooeP0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-how-to-export-filtered-data-to-excelcsv-from-power-bi-button-using-power-automate.md",
       "title": "How to Export filtered data to Excel/CSV from Power BI button using Power Automate?",
       "excerpt": "Welcome to Power BI and Power Automate Real Life Use Case and Scenario Series. You are watching the second episode of this series. Sometimes, there is a need where we need to export filtered datasets from Power BI using the button. Then how can we do that? How we can export Filtered Dataset from Power",
@@ -165,6 +127,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/yqbg-6Yo44Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-export-power-bi-to-ms-word-pdf-paginated-reports-with-power-automate-and-power-bi.md",
+      "title": "Export Power BI to MS Word / PDF | Paginated reports with Power Automate and Power BI",
+      "excerpt": "In today's video I will show you how to export a Power BI file to word or PDF and email it to somebody!!  Chapters: 00:00 Intro 00:35 Pre-requisites / Licenses 01:00 Prepare the word template 05:00 Configure the flow in Power BI  Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-export-power-bi-to-ms-word-pdf-paginated-reports-with-power-automate-and-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-export-power-bi-to-ms-word-pdf-paginated-reports-with-power-automate-and-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=lqlYl3pVL1g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lqlYl3pVL1g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M51S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-05-03T04:52:25-07:00",
+      "heat": 141,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lqlYl3pVL1g/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -221,7 +221,7 @@
         "domain": "radacad.com"
       },
       "publishedDateTime": "2021-07-01T22:05:36-07:00",
-      "heat": 139,
+      "heat": 138,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/GVAzp-YICnQ/maxresdefault.jpg",
@@ -309,44 +309,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-if-power-bi-could-dynamically-highlight-top-or-bottom-values.md",
-      "title": "WHAT IF Power BI could dynamically highlight top or bottom values?",
-      "excerpt": "Do you want to highlight your top or bottom values dynamically in Power BI? Patrick looks at a creative way to accomplish this using WHAT IF parameters.  Download Sample: http://guyinacu.be/dynamichighlightsample  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-if-power-bi-could-dynamically-highlight-top-or-bottom-values/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-if-power-bi-could-dynamically-highlight-top-or-bottom-values/",
-      "originalUrl": "https://youtube.com/watch?v=iq-SAaWkycM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iq-SAaWkycM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M31S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-21T03:19:33-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iq-SAaWkycM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-power-bi-visualization-tip-hide-or-lock-the-filter-for-users.md",
       "title": "Power BI Visualization Tip   Hide or Lock the Filter for Users",
       "excerpt": "I have previously explained that we have three scopes of filtering in the Power BI visualization. The filter created in the filter pane can be often changed or viewed by the user. However, there is a simple way to hide or lock it from the user. In this article and video, I explain how that works. Read",
@@ -377,48 +339,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure.md",
-      "title": "Build systems of insights for enterprise scale with Power BI and Azure",
-      "excerpt": "Build systems of insights for enterprise scale with Power BI and Azure",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 5,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-power-bi-june-feature-summary-area-chart-transparency-sliders.md",
       "title": "Power BI June Feature Summary - Area chart transparency sliders",
       "excerpt": "Welcome to Power BI Desktop June 2021 Feature Summary. During this Short Power BI Tip, we will learn how we can apply transparency for Area and Stacked Area Chart in Power BI. Earlier, the transparency value set the default to 60%. During this session, we will learn how we can set transparency for Area",
@@ -443,6 +363,48 @@
       ],
       "content": "\r\n",
       "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-power-bi-admin-collaboration.md",
+      "title": "Facilitate collaboration and sharing",
+      "excerpt": "Learn how to collaborate and share dashboards and reports with coworkers.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-collaboration/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-collaboration/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 15,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-collaboration-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -505,6 +467,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/poNpiApNZNs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-7-formatting.md",
+      "title": "Charticulator Visual IS HERE!!! - Season 1 Episode 7 - Formatting",
+      "excerpt": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.    This video we are exploring advanced formatting  Official blog post about the visual: https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/  Visit the early version",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-7-formatting/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-7-formatting/",
+      "originalUrl": "https://youtube.com/watch?v=wlAc_j1IoT0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wlAc_j1IoT0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M25S",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "publishedDateTime": "2021-04-22T18:55:42-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wlAc_j1IoT0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -967,8 +959,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 21442,
-            "average": 4.794749
+            "count": 21449,
+            "average": 4.7947226
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1009,8 +1001,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 38642,
-            "average": 4.76642
+            "count": 38651,
+            "average": 4.766371
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1069,8 +1061,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 21442,
-        "average": 4.794749
+        "count": 21449,
+        "average": 4.7947226
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1187,8 +1179,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 38642,
-        "average": 4.76642
+        "count": 38651,
+        "average": 4.766371
       },
       "provider": {
         "name": "Microsoft Learn",
