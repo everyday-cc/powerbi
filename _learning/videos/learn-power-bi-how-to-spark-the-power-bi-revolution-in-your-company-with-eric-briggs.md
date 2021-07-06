@@ -4,7 +4,7 @@ excerpt: "Be the change that the world want to see!  👉 Connect with Eric:  ht
 originalUrl: https://youtube.com/watch?v=PlemFb5NY64
 type: video
 price: Free
-length: PT15M28S
+length: PT15M27S
 publishedDateTime: 2018-07-17T02:17:40Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JNrx136C4DjHpMqHOygDlz6UP6510uAhi1ARAAvuWq3F7BJG841cavrcrXmjUVwrKseu1VvHw/nrrWJPlSDdeEn5CZuqeJtPpoJXWrLFWdArhx8ksKOVf/2ByMRVGNk3R90vU+yvoCPPjJmwfdB7h1TzYHJda58R6QVRCAD3je030sbjkjF1pf/OC8KNkDP8PmFGh6A3kpmcWpcFOxcRXmjz2hZaIB2GrlTZiQDEQKmOa6j1IIB5ah46IXCl/8nZiruo2JwImk/tU9avteSN5zEhMBPvHRQQ/WfSAU30+pewkG7WpcvxOgA4K7fA8wGYNOAdnlLnjdYvp0ZN/BbOZC/6n8va29b2TsU90ZY6Sit8fGPr/5m4VsTNy2mjPusKuA9VDRH8Q3GvBwHNZCF36k7OuKXFI28oohRIw0a79tA=;aMzhnPccswJjkb1hkKRmlg=="
+secured: "K5DNpfIE2CYp4VjBTvTYFDPHs44vJcsYIixTk2his5H9PTKu4zzLKDLMeVpiweV206PaLVDfrCFhSlggyK8Gp1RErUpIZFhxHgzOyfWqjPpyYuF5hlpxRrU6uZnw833HnsNVFU16Qya/36AYZkgE0SGcdYA+KU5NX3eIFt33z7QntrciOs5TKGafoh+qlCgeGSs6Jo2PmSJodE+tvejWYK4LTzVO83hdoQnoDPfFTz+ffc9SEfaHu3TmmbF/j6LDUSdLdIeul7olOT/wIo+9I2h31h6iJwWBmDLXPyhKud8NGOoPtLMYnvOsKsO4tphjoATcfn8AwTBtlNSngdY2sC8eHPjQZSpLwdN764c4iVgTDCzjEO5KFi5zJvjzHsORQzSIaTTiuVfR0ixRiyFKlo2RANE4GZ2tBgpYkIQy+ac=;ucagdsZ3v3qEo0iJLDDdsA=="
 ---
 
