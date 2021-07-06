@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M37S
 publishedDateTime: 2020-03-19T20:19:51Z
-heat: 54
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hgs_1WU9Bhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "GauLUMlI0H245SRgPeqDkOYgmkifh+qArw7bIRnlleU4lX0wrs0cO0ROmlRaNq5vjwNfsbvA3Z9E+wQcTHeX+Np4qUlu4NlRNuvF/TAF4q2MYy4oEuOcRe5bMlLSBIT3SQb3CCwbUwj4YMOADbsLEDMoYfrQ9mxJT5aHypJ3ksE03J+5ebHQBpXtofmLgtvToQp2tVQpg8A5cUQ3oZ+mUqIbXJXsXbVI6bvexGTrPXAz4B3ixWwE2O3MdMXf0ldL9lU4cvSmfq+pRDwJhsTfaENNGmeycUm13cpA0byhIChijzEjppX9U7KU8YWYhjt88gyQwNis0hvmN3HJ9CE3SmH4Gx2Zc3teY89h+ey23BaWndPuGjgjjUdfRx4iC52rMLUq+2jyOwjGyT1agtCYosesjw37oj7ZsHAj2iB2AyE=;OXy7gyMG4jjT/QQwlF+rpg=="
+secured: "LPlxLnelO0VN6SQEotJ6qNbUDJKUkLD4a98K4Q5VHMUkQzaRNzqsKJ73N3IinN+DjgulsO25L9107BtoV/nWXfkohp109i+qE5RS2yw7gThLLx7cKlTvVbsNvysDv6GL2j5v8prM0fnESofupy39a+dbhQJG4H3VjQQSt+LfVmBVGHzwfID4cNOyMHCh/nDnsgDKFaiL3h/uJ5fixHUNo6aYaiIaxlgubjbCmZZAyRngSuF4HVjrwNVEbZ6LurDjQbQahP8erP9+luQhESUsXseH/6+vals6VQyHy25l7zWBIfWYt3eFasfhs7RRaDsUucs2dyKLOJbU7g/XQ773MmKoxg8LsKKim7rBdHhfJDDlbrI5HIz9rdjbsD07wyaN0dIb2W4cKOWKMFj6aeJN44TW3PT50jtV0FnUDWMnunI=;9pND83QP5inkOq6OXbpzpQ=="
 ---
 
