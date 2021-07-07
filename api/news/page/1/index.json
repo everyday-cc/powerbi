@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-07-make-smarter-business-decisions-with-help-from-microsoft-power-bi.md",
+      "title": "Make Smarter Business Decisions with Help From Microsoft Power BI",
+      "excerpt": "One of the best tools to help you do this is Microsoft Power BI. Learn how to leverage this powerful software in The Complete 2021 Microsoft Power BI Super Bundle. This nine-course bundle takes a comprehensive, beginner-friendly approach to Microsoft BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-07-make-smarter-business-decisions-with-help-from-microsoft-power-bi/index.json",
+      "webUrl": "https://www.entrepreneur.com/article/376544",
+      "originalUrl": "https://www.entrepreneur.com/article/376544",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1625599616-Ent-BizIntelligence.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/376544",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/376544",
+      "publishedDateTime": "2021-07-07T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-07-03-get-a-crash-course-in-microsoft-power-bi-for-less-than-30.md",
       "title": "Get a crash course in Microsoft Power BI for less than $30",
       "excerpt": "TL;DR: As of July 3, snag the nine-course Complete 2021 Microsoft Power BI Super Bundle for just $29.99. The first course teaches you how to get results by pulling data and creating charts based ...",
@@ -1193,57 +1244,6 @@
       "ampWebUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
       "publishedDateTime": "2021-05-25T21:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-build-2021-microsoft-reveals-enhancements-to-power-bi-cosmos-db.md",
-      "title": "Build 2021: Microsoft reveals enhancements to Power BI, Cosmos DB",
-      "excerpt": "Let's start with Microsoft's Power BI announcements. These include the ability for Power BI dataflows (the cloud-based incarnation of Power Query) to handle streaming data sources, starting with ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-25-build-2021-microsoft-reveals-enhancements-to-power-bi-cosmos-db/index.json",
-      "webUrl": "https://www.zdnet.com/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/25/0611b300-e918-4cfa-a9ef-9ec8e2f10237/power-bi-in-jupyter.png",
-          "width": 1495,
-          "height": 1010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
-      "publishedDateTime": "2021-05-25T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",

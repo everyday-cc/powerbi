@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-09-power-bi-updates-dax-puzzles-and-more-roundup-nov-9-2020.md",
+      "title": "Power BI updates, DAX Puzzles and more... (Roundup | Nov 9, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Patrick's tech video: https://guyinacu.be/whyusedaxstudio Adam's tech video: https://guyinacu.be/p2wupdates  🔴 Live Replay: https://guyinacu.be/live031  📢 Become a member: https://guyinacu.be/membership   PASS Summit 2020: https://www.pass.org/summit/2020/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-09-power-bi-updates-dax-puzzles-and-more-roundup-nov-9-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-11-09-power-bi-updates-dax-puzzles-and-more-roundup-nov-9-2020/",
+      "originalUrl": "https://youtube.com/watch?v=sIBgagVYseM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sIBgagVYseM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sIBgagVYseM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-09T08:00:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-paginated-report-november-2020-feature-summary.md",
       "title": "Paginated Report November 2020 Feature Summary",
       "excerpt": "We have several exciting updates rolling out this month for paginated reports as we get ready for the launch of the Premium per user public preview.  These updates include new paginated reports samples, in-product parameter updates and more.",
@@ -1221,57 +1273,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-09-28-power-bi-announcements-from-microsoft-ignite-roundup-sept-28-2020.md",
-      "title": "Power BI announcements from Microsoft Ignite (Roundup | Sept 28, 2020)",
-      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup195 Patrick's tech video: https://guyinacu.be/beforepublish Adam's tech video: https://guyinacu.be/publishtowebscary  🔴 Live Stream Replay: https://guyinacu.be/live026  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-28-power-bi-announcements-from-microsoft-ignite-roundup-sept-28-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-09-28-power-bi-announcements-from-microsoft-ignite-roundup-sept-28-2020/",
-      "originalUrl": "https://youtube.com/watch?v=ybrpZ7l76WA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ybrpZ7l76WA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ybrpZ7l76WA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-28T08:00:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-22-all-about-dax-and-data-modeling-in-power-bi-roundup-jan-18-2021.md",
+      "title": "All about DAX and data modeling in Power BI... (Roundup | Jan 18, 2021)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup203 Patrick's tech video: https://guyinacu.be/paginated2021 Adam's tech video: https://guyinacu.be/whatispowerbi  🔴 Live Replay: https://guyinacu.be/live037  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-01-22-all-about-dax-and-data-modeling-in-power-bi-roundup-jan-18-2021/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2021-01-22-all-about-dax-and-data-modeling-in-power-bi-roundup-jan-18-2021/",
+      "originalUrl": "https://youtube.com/watch?v=6XxCsc1j9U4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6XxCsc1j9U4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6XxCsc1j9U4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-22T04:37:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-join-us-power-bi-dev-camp-thursday-28-january-2021.md",
       "title": "Join Us! Power BI Dev Camp! Thursday 28 January, 2021",
       "excerpt": "Learn how to get started designing and implementing custom visuals for Power BI. Attendees will learn how to define the capabilities and data mappings for a custom visual and how to program D3-style data binding using categorical data from a Power BI dataset. The session also demonstrates how to extend",
@@ -1218,57 +1270,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-08-large-model-support-in-power-bi-premium-reaches-ga-new-features-announced.md",
-      "title": "Large model support in Power BI Premium reaches GA, new features announced",
-      "excerpt": "With large model support making it to general availability a year on, new capabilities including user interface enhancements, multi-geo support, and more have been unveiled for the release as well.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-08-large-model-support-in-power-bi-premium-reaches-ga-new-features-announced/index.json",
-      "webUrl": "https://www.neowin.net/news/large-model-support-in-power-bi-premium-reaches-ga-new-features-announced",
-      "originalUrl": "https://www.neowin.net/news/large-model-support-in-power-bi-premium-reaches-ga-new-features-announced",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1573589737_power_bi_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/large-model-support-in-power-bi-premium-reaches-ga-new-features-announced/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/large-model-support-in-power-bi-premium-reaches-ga-new-features-announced/",
-      "publishedDateTime": "2020-12-08T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
