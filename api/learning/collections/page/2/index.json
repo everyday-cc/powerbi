@@ -1596,7 +1596,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-automate-social.png",
@@ -2539,8 +2539,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 3333,
-            "average": 4.70267
+            "count": 3334,
+            "average": 4.7027593
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2600,7 +2600,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 60,
+          "heat": 140,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
@@ -2985,8 +2985,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1786,
-            "average": 4.7110863
+            "count": 1787,
+            "average": 4.711248
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3027,8 +3027,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2587,
-            "average": 4.8017006
+            "count": 2588,
+            "average": 4.8017774
           },
           "provider": {
             "name": "Microsoft Learn",

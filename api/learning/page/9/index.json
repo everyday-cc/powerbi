@@ -701,8 +701,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 3333,
-            "average": 4.70267
+            "count": 3334,
+            "average": 4.7027593
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -762,7 +762,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 60,
+          "heat": 140,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
@@ -846,8 +846,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 5739,
-        "average": 4.7332287
+        "count": 5741,
+        "average": 4.7333217
       },
       "provider": {
         "name": "Microsoft Learn",
