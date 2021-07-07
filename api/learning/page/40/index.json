@@ -4,37 +4,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_learning/videos/radacad-building-a-virtual-relationship-in-power-bi-basics-of-treatas-dax-function.md",
-      "title": "Building a Virtual Relationship in Power BI   Basics of TREATAS DAX Function",
-      "excerpt": "TreatAs is an interesting function with multiple use cases in Power BI. I thought it is good to explain it in a set of videos, the first one here is about what the TreatAs function is and how it can help to build filters and a virtual relationship between two tables. Let's see how you can use this function.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-building-a-virtual-relationship-in-power-bi-basics-of-treatas-dax-function/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-building-a-virtual-relationship-in-power-bi-basics-of-treatas-dax-function/",
-      "originalUrl": "https://youtube.com/watch?v=YCJjeD8wz5c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YCJjeD8wz5c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M1S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-03-03T21:20:28-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YCJjeD8wz5c/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-connection-types-in-power-bi-import-data-or-scheduled-refresh-a-detailed-look-inside-and-out.md",
       "title": "Connection Types in Power BI Import Data or Scheduled Refresh A Detailed Look Inside and Out",
       "excerpt": "Power BI is one of the BI tools in the market that supports more than one type of connection. Each connection type has pros and cons. In this video, we are going to cover everything about Import Data or Scheduled Refresh type of connection. You will learn briefly how Power BI stores data into xVelociy",
@@ -492,6 +461,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-how-to-use-addcolumns-function-in-dax-and-power-bi.md",
+      "title": "How to use AddColumns function in DAX and Power BI",
+      "excerpt": "AddColumns is a DAX function that is helpful often when writing calculations in Power BI. In this article and video, I’ll explain how you can use it to add calculated columns on the fly to the virtual tables in measures or directly in a table. download the Power BI file from my blog article here: https://radacad.com/how-to-use-addcolumns-function-in-dax-and-power-bi",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-use-addcolumns-function-in-dax-and-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-use-addcolumns-function-in-dax-and-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=VxnrH6XQayg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VxnrH6XQayg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M1S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-05-12T20:16:17-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VxnrH6XQayg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {

@@ -4,44 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-unboxing-tabular-editor-3-reaction-video.md",
-      "title": "Unboxing Tabular Editor 3 | Reaction Video",
-      "excerpt": "It's here! Patrick does a reaction video when using Tabular Editor 3 for the first time with Power BI. To say he's excited is an understatement. Watch him take the wrapping off of Tabular Editor.  Tabular Editor: https://tabulareditor.com/  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-unboxing-tabular-editor-3-reaction-video/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-unboxing-tabular-editor-3-reaction-video/",
-      "originalUrl": "https://youtube.com/watch?v=Ijs61r_cUYU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ijs61r_cUYU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M7S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-06-16T08:00:08-07:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ijs61r_cUYU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-excel-users-step-by-step-to-create-your-first-power-bi-dashboard.md",
       "title": "Power BI Tutorial for Beginners & Excel Users: Step-by-Step to Create Your First Power BI Dashboard",
       "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here★ ☞ https://www.youtube.com/watch?v=1bysgMsPwC4&list=PL7GQQXV5Z8ef2SjkDpLnvsz7TAQjlzlpO  ☞ Download the tutorial files here: http://www.learnpowerbi.com/bonus-download  This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step",
@@ -906,6 +868,48 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/publish-and-share-with-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-visuals-in-power-bi.md",
+      "title": "Use visuals in Power BI",
+      "excerpt": "Create and customize visuals to present data in compelling and insightful ways.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-in-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
+      "length": "PT1H16M",
+      "ratings": {
+        "count": 6323,
+        "average": 4.762613
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-visuals-power-bi-desktop-social.png",
           "width": 800,
           "height": 400,
           "isCached": true

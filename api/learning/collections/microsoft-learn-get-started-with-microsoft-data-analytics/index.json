@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 21494,
-        "average": 4.794594
+        "count": 21497,
+        "average": 4.7946224
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 96,
+      "heat": 97,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 38707,
-        "average": 4.766554
+        "count": 38711,
+        "average": 4.766552
       },
       "provider": {
         "name": "Microsoft Learn",
