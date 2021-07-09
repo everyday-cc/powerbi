@@ -4,7 +4,7 @@ excerpt: "Adam shows you how to connect to Power BI Desktop using 3rd party tool
 originalUrl: https://youtube.com/watch?v=yCD6_wPOc6s
 type: video
 price: Free
-length: PT3M24S
+length: PT3M23S
 publishedDateTime: 2019-08-19T11:28:16Z
 heat: 50
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YATqxUGP/jviROa3s7e4MuRcUdxzL0XjPRkyej6uf/i+WLY9+J3XMI9UmIydy44qHvmn0d4L86kt+FdUNodc6qfFuBzOrJ3aBDZHTf5ryi/900pBooDWchYzkHZrAATbW8bWW5y6/E5PdMQp25zXBGRB9dWD7Jle4fHAb2nYH+PLFEP2DY6p434a+mX8AMwSAVjrzI/ps6RIycKp4PqAjjTgpuxSCstoBeqJIIMZjjoWN9zY9mUTco23zBa1suf4V/tLv2/B0dTSB+ZPKPvEvEPLYQqT+ZS1XUK8pD/MUAWEwTE5aQRby5gWvcE1ce5cfijfl5+D2RR2aLmibpdVellNjMZyEZP5qGKZLAv2dZg5IIJi+YK2rOtIlN7cbXao4yi2Rl1iyk0tQFlK494fuRAMkg3grOefubFi3GAV5Bw=;ZgXIohIxKxCacGw+KVxmEg=="
+secured: "HgOK24XdEhhic+KBIwlNZrO/Fs33bo43dHXmKl/Q6FA49Pm/NX6qwUBCoQNab4HyLitoiiJjeACPQA1y8qFhZSgpK8bNNaNAGoxbGum55qMGy4p430zZWtu9Qab+aVLJchy4C+Y4gJV5eFz/m60OsSYvES9C29Me7KkmrZaS/XiKRCXQL5U2NCEXRcWoCUggKcjD0Kwi/5I+jvFTPjJODK18qQ6/r3AqYm96iQ/tj3QqChcSs0BQGgLovMMMR6hyw9QfBo0jt6CiWFodNXsKRBQRn+Sig0CcrOu6PDbBW8OP0lgII/fBaMba8cqj2Q+YoTj0chSNPxy0xJeN9O3i3YwaR3yPb2zmFpRwvg9R+wvxHGzfZbHBoR/xw+79AydCQZQCMTA+xT5lbTscrnLlSxSGlqXzOzgYmLYg2bOiBbo=;RG2E0H9G2LIlSWoaoY4NVg=="
 ---
 
