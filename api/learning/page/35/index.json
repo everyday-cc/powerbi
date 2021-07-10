@@ -4,36 +4,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-use-sharepoint-online-list-as-a-data-source-in-power-bi.md",
-      "title": "Use SharePoint Online List as A Data Source In Power BI",
-      "excerpt": "In this vlog, we will learn how we can use SharePoint Online List as a Data Source in Power BI. Power BI provides various online services to consume data from different data source. SharePoint Online list is one of them. We can connect Power BI with SharePoint Online List and consume its data. If you",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-use-sharepoint-online-list-as-a-data-source-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-use-sharepoint-online-list-as-a-data-source-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=rdJ_KbyozmQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rdJ_KbyozmQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M49S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:48:45-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rdJ_KbyozmQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/enterprise-dna-calculate-is-the-key-to-anything-advanced-114-ultimate-beginners-guide-to-dax-2020.md",
       "title": "CALCULATE Is The Key To Anything Advanced - (1.14) Ultimate Beginners Guide to DAX 2020",
       "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
@@ -1077,6 +1047,45 @@
           "url": "https://i.ytimg.com/vi/0fOxaHJPvdM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-how-to-create-sparklines-indicators-and-conditional-formatting-in-power-bi-paginated-reports.md",
+      "title": "How to create Sparklines, indicators and conditional formatting in Power BI Paginated Reports",
+      "excerpt": "Patrick walks finishes his look at Paginated Reports in Power BI. He shows you how to create sparklines, indicators and conditional formatting within the Paginated Report using Report Builder.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-to-create-sparklines-indicators-and-conditional-formatting-in-power-bi-paginated-reports/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-to-create-sparklines-indicators-and-conditional-formatting-in-power-bi-paginated-reports/",
+      "originalUrl": "https://youtube.com/watch?v=kvsi3Jwe-sI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kvsi3Jwe-sI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M20S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-09T06:20:35-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kvsi3Jwe-sI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "How to create Sparklines, indicators and conditional formatting in Power BI Paginated Reports",
           "isCached": true
         }
       ],
