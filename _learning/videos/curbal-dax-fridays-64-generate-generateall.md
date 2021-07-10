@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M33S
 publishedDateTime: 2017-12-21T10:11:18Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xGelnWcsbSg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UOEXRNM1BH0yVn6JkKEBPYJh+j4iByTEpIUPuVqRHuh5k2W4FkyvHbkSnGTT8at+wVdKhFTSU00gFrcO0r81fXKVEAjxavDxpnuRDrVDBZBdevmbwdGvoe4eGF/LvTlXikKLg1S7cyKQmfHwDolPGZIAC4X73+w0VhuqGwvu1QXEc/kvvXWj5ZA7mFtbr9oyWXhVqCFg/kSYVa8dPmywVLTro2FoQzu9wmRYnbwHim2cqKyViPk4g3hdGZOQEDYyKfNQwntudLVV54cHkZbdMI+LR5wgTlv25pB7ZDKFo6wVTY5+A8QvAWtDPmOtooiw7kwMmMEld+AAjXt6F3+cl31FV/EG1CtyvaqifBLHHxRMxxJmQ+l99hExcSZQBukKplLGFacj97vxb66VsNMP1U5TO8cj1L0u04AF3BFRtTQ=;SQ5gtXaffVz36+MNg1rD7Q=="
+secured: "dMd66FC0yF5J1TuNF7FvpD/Txi/EtOSL/kOPY8d2nS+K18sL3tk9xhp9GFWz2LZyWVKIRIyY5nuHPaoMGuyH4OQffv2Yajtxj7ifcR7HnOxwXm9WfRQsWbgdhVwnE6Sb/oHm88/81zEfw2YaC6Uc7h/spJmcmr1Tw2A+Ja5kLUcbH4aV5U/Mz2pmSB/FIcIzeieMgp/dQ4TSlJiceV1xyxTJVhzFY7YpAQkC4eNGKBg51w6fHGuyPA5+k9Rs3tleMkp2GkKdR6Qf8AgZKLuLQLpOgHQOnQKLzA2TBu6kOtTghowDPTraYrdXsiy+0LK3vmGXOG1jYEl6PCFp3gohu4XUw/4tq7ctKYkbSl4awwHlbswLmxhAWszDEgXbT6GEA4+vn34VW01lQXd4rXFU0MFi+9KGK54FbtBEzLVC9tg=;mu49ypajRV3XZR4K0TT5QA=="
 ---
 
