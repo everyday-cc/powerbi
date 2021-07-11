@@ -1431,8 +1431,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 6320,
-        "average": 4.7696204
+        "count": 6322,
+        "average": 4.769535
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2349,7 +2349,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 131,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
