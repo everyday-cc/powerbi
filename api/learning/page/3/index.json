@@ -1388,8 +1388,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 19437,
-        "average": 4.7147193
+        "count": 19438,
+        "average": 4.714734
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1431,8 +1431,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 6322,
-        "average": 4.769535
+        "count": 6324,
+        "average": 4.769608
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2349,7 +2349,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 131,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
