@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-08-on-premises-data-gateway-december-2020-update-is-now-available.md",
+      "title": "On-premises data gateway December 2020 update is now available",
+      "excerpt": "December 2020 release of gateway",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-08-on-premises-data-gateway-december-2020-update-is-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-december-2020-update-is-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-december-2020-update-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-08T08:38:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-12-08-large-model-support-in-power-bi-premium-reaches-ga-new-features-announced.md",
       "title": "Large model support in Power BI Premium reaches GA, new features announced",
       "excerpt": "With large model support making it to general availability a year on, new capabilities including user interface enhancements, multi-geo support, and more have been unveiled for the release as well.",
@@ -1206,57 +1257,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-11T00:00:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-join-us-power-bi-training-advanced-data-modeling.md",
-      "title": "Join us! Power BI Training – Advanced Data Modeling",
-      "excerpt": "Join us for a full day of training with Siva Harinath and Yana Berkovich from the Power BI content team! Learn about Power BI capabilities to enhance the data model for your business users.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-10-join-us-power-bi-training-advanced-data-modeling/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-training-advanced-data-modeling/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-training-advanced-data-modeling/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T01:26:54-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
