@@ -4,7 +4,7 @@ excerpt: "In this video how we able to create a model in Azure Ml Studio then. c
 originalUrl: https://youtube.com/watch?v=hZ2y_AJyEz0
 type: video
 price: Free
-length: PT18M31S
+length: PT18M30S
 publishedDateTime: 2019-08-02T00:35:35Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Ycp8Gz6B8ghK9EDU+7iP9ll/NQ7e1PIB0LnQZ9MTp6aZ1OiNceckTus0B7m/N0sr7OAILeJeGo8VKNEHj8puqvaSv9qrC6leQezXm0+EZPWBG5sYLs8a0vuk7mFgLRZUU2XCZ6FyrwUp/EigPtrM8n7QnWTUTaKTTYmZJ34AIQJBAJy7X5TReMRTrILEcY9pNAlsdIAT3ooaMZsnU87TnUsFLAZE4MGl0ImdceT77MiKjjuA37BPfMHjFzeKoOnke64DgzWPm5vOgP/Jg+84i9YXEG3FolkUHlF03HQmtYgm+bQYple104jKIDo/S0A4NzXQoNFSD4X4TNNNX2nikbv7HhxuWptjVRTbaf1RiZX+UqRIAA0D80NSMRemzkmc4r1mwqun5RamR2WPYuXpXZ1dJHLPXZY+xZD7maO0K98=;cNdAds+6B7q48XVLZypzDw=="
+secured: "QmOyFscDNP+5JE0hBdplQOLFcNhOBUZhhUg0fadKEfIV1UCGKN2WTKMYz4ye8C8aMFJBgBsuVAHOUfNk7gmNbUAk2GMzMcCFs2APtmB0Pqb1cHOdAtFn9fci1p40/tBmZuiksmRApp6DXW76/Z6E6oB5m97pW13+paHlv3rshDRhSz4cFzAbYf/DRz65m48Y1+PnrIa60zvCwtDtFfF41/LAu/OlXPhA+YtM5l133OlWfKC11Au0f3K8qGRQ+lKq12Gl9r71wDu2PvOJMOsGkASLDPlEXTSvgMcvlsbshjpFefKVeJ62MzTvPslK9jR5ns1KjPJx911WvhHZPbymSRzxYY2J9HZ7gc/fCrqTcQp2D4ygmEscLpRtu/5VY0fZUGqjGFgzJ1WYWVT1QqJ7B+1R+2QGkcgNGx4Hl9fzLJs=;mU8+zMJWNfxX9qQx3M+VeA=="
 ---
 

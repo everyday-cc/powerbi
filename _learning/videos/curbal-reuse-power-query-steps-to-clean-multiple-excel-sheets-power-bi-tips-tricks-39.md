@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT26M36S
 publishedDateTime: 2017-04-05T19:20:14Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rohXtAlIgqY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "KoDOkPaKvE4R+Cgz2PeEYQpKMfeO+1mZEuC2qyDSEFQGgEl2zbjoTyNpDiDttqICrFkPz6oFK5jc2HyYHtwiyXmYT2ZZvSinK0msO1lOSbe93SqFps0J1S6hGs0YJTgSuFZXvamye/sSxdbkYqzRRKS1x4XxuN+mY059gdU8g7KjiFO5s65wnnPJ8T4Hs4r7AvMh2VuN22CCDbFnvpFXpsnAHEMIsnnoWO29zwCQ/mxumHPE1Usmgncij/d/31jVt7twQEbeBSRct0Z34dPR8ipKcoDekyO59lCaWVtAE/nZ56UBWF83tGZ25gs7QRGqa4OQLPub3V05ujH+cxULLqeQeJL9bsy25QGUbWUNaYsAGK0MKwcNsRMa/e5RjhjkaGjDVXDwTr32cCP/2+fU8ZV7xEUuoKbaAylPG0J9EGY=;oGRdLyAE83Vk0t4jM2M3sA=="
+secured: "nLCtC7WjP6Za1khuH507K+GgLGln6MV1jTy5hkcfjyxt4pY6vyJQxQZ9YnoGuQmhHwX/NeQmar/S7cJL73h0boaN0qieutAaYH7qBaBbeUSx6Ilez90afvQ5WMMb6l8JsMq6W2JFjXQcfC0wLfv00B2xfTI36qMUtpfANJwN3jLGYMx7ZjSLhp5JfVMuLVdww2y82D+m4FrWEDVxQmRGrdwLZR+30dHKj6KBrjKZfakCbGE+d3rCZS8vN3rWHPG3xFzMPnG+SQu5rLy9VG7Ezdv0VtCR+CybG0vQGa6aQyrXLx6Uhy+CcvNVGQ7X3PyYR/1isFbkh8FuzxNOuwgu0v1EXnvJmTs9qlRtUfSNygBuVQcOIhQR0/1/J870XbEXXcHWVTza9qGI2K7gbpOfJZ5X/FFwkygl7TkYxJ30MRk=;jmvNclhJKxa927piHzA/eQ=="
 ---
 

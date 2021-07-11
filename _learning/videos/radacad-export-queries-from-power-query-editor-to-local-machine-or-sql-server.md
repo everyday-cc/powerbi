@@ -4,9 +4,9 @@ excerpt: "In this short video, I show how you able to export your data from Powe
 originalUrl: https://youtube.com/watch?v=NZr6RI3jNQg
 type: video
 price: Free
-length: PT14M45S
+length: PT14M44S
 publishedDateTime: 2019-08-02T00:44:27Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NZr6RI3jNQg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0RKxj6DLszd933TLL1qqQ2Y2DpeNtMXpjNabkOkwGHtXf2jmG1OquXHJU/Xf/wV+5983Vt5R8iaOaTpKfB0Ybi/ytGJKKVkqPFEMlMv8tiUFwvO1sqK0Y+Md7QnW1q9Wj4Q4iaAdz0iAqwrLdeIZNiu4T76OHlBotw4bPuD3qlb/UxcUPo+8Hw1eXybPHXf5oy58LB+UwWSUDMeMzMTDFPZ9umGKsE82LkGx6HxPhG8n3SIc0sagfBjt8SV0qqZCuxTiRae0RSR7OdZRj+vbrvWf1a5jar5DfYaVsWKm251yZ5wmE31KyEDLlTkSYnTKxAKzoF8qbyvQGpaBD1+oF+tLxcmF653CzWzjBpNlkwyL5bWileW3vTPMweRHZX1+/E4eLYWGelHKaanhX7W8orUNUpKUm0DKpYbWFBDejmY=;RkMzSWAgPkzb22XE3qS1Hw=="
+secured: "aBq8W1lIiaYIIJF7tUHGYqeIh/RUXVeFP08OVcrCF92IzNQDdo9T1Sbasow4HMkShRwQEpcSEstf6bN14Apci+bT9emMmN6iRsJ2AGDCZjzBdNO9xihDTvSpR0B21t7bv8gO6iR3qbXKDQ5JQTrpAWb8SoDSqDnkqHf9aXTFfp+YmqFLyBFgzKaUt6jWNC/lvxN7eAf61qbnDnkTyjBy7QYsL6sthoZx3d7HrbsUFik4L2Kk7+RzxztZ6JDaYtf0c2vAoVVmfQZpubBLtOlW+5KGpB/ySfF7YSCw/N8knA5HT9U9QOapkz9D5cRKBdilT9Tc+q/A3Vjnoc88ugwt5Zjw27J3cjM4QNR+eqKjCzPSNGWaLAJbF40ywDgBLxyl5yV6/QGd2RdpZ5D+6GwO5UHEsv9Q7AmGVlbrV5eQ7vM=;FnjV45HLHkFuX0Euk+EFkg=="
 ---
 
