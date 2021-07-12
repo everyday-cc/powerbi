@@ -9,7 +9,7 @@ provider:
   domain: enterprisedna.co
 
 items:
-  - videos/enterprise-dna-ultimate-beginners-guide-to-dax-2020-course-intro
+  - videos/enterprise-dna-ultimate-beginners-guide-to-dax-2021-course-intro
   - videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginners-guide-to-dax-2020
   - videos/enterprise-dna-a-review-of-the-data-scenario-13-ultimate-beginner-guide-to-dax-2020
   - videos/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020
