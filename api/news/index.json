@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-13-on-premises-data-gateway-july-2021-update-is-now-available.md",
+      "title": "On-premises data gateway July 2021 update is now available",
+      "excerpt": "On-premises data gateway (standard and personal mode) release for July 2021 ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-13-on-premises-data-gateway-july-2021-update-is-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-july-2021-update-is-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-july-2021-update-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-13T07:16:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-help-us-shape-the-future-of-power-bi-exploring-the-idea-of-integrating-power-bi-with-microsoft-forms.md",
       "title": "Help us shape the future of Power BI – Exploring the idea of Integrating Power BI with Microsoft Forms",
       "excerpt": "Back in May 2021, we announced the integration of the new Power BI quick create experience within SharePoint, which enabled the SharePoint users to easily generate awesome Power BI reports by just one click. Currently, we are exploring other applications where we could potentially integrate a similar",
@@ -1193,57 +1244,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-27T09:30:29-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-announcing-now-its-easier-to-find-power-bi-reports-in-microsoft-teams-tabs.md",
-      "title": "Announcing: Now it’s easier to find Power BI reports in Microsoft Teams tabs",
-      "excerpt": "We’ve started to roll-out an update to the home experience in the Power BI app for Microsoft Teams. Users in Teams will see a new “In Teams” pivot on Power BI home that makes it easy to find Power BI tabs you’ve visited previously in Teams channels. Read the blog to learn all about it.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-26-announcing-now-its-easier-to-find-power-bi-reports-in-microsoft-teams-tabs/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-now-its-easier-to-find-power-bi-reports-in-microsoft-teams-tabs/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-now-its-easier-to-find-power-bi-reports-in-microsoft-teams-tabs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2021/05/view-all-the-tabs-you-use-in-microsoft-teams-.png",
-          "width": 1061,
-          "height": 919,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-26T02:42:27-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
