@@ -17,7 +17,7 @@
         "domain": "radacad.com"
       },
       "publishedDateTime": "2021-07-12T17:33:26-07:00",
-      "heat": 147,
+      "heat": 165,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/zeXQknz4RdI/hqdefault.jpg",
@@ -2132,8 +2132,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 962,
-            "average": 4.7027025
+            "count": 963,
+            "average": 4.7030115
           },
           "provider": {
             "name": "Microsoft Learn",
