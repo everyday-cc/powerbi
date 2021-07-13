@@ -172,48 +172,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-manage-workspaces-power-bi.md",
-      "title": "Create and manage workspaces in Power BI ",
-      "excerpt": "This module explains how you can share reports and datasets with your users and how to create a deployment strategy that makes sense for you and your organization. Furthermore, you will learn about data lineage in Microsoft Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-manage-workspaces-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 1989,
-        "average": 4.764203
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 134,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-manage-workspaces-power-bi-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/articles/excelerator-bi-filter-one-slicer-based-on-another-slicer-in-power-bi.md",
       "title": "Filter One Slicer Based on Another Slicer in Power BI",
       "excerpt": "This is a follow up article from my last blog post where I demonstrated how easy it is to use two slicers to compare any two items. In the demo in my article, I specifically showed how you could compare any 2 years of choice, but the principle applies to [...]Read More »",
@@ -240,55 +198,117 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-analyze-your-personal-activity-in-microsoft-teams-with-power-bi.md",
-      "title": "Analyze your Personal Activity in Microsoft Teams with Power BI",
-      "excerpt": "Microsoft recently announced this new feature where you can analyze your own Personal Activity within Microsoft Teams in one click with a new Power BI ‘Teams activity analytics’ report. This feature is in Preview at this moment. So, during this session, I’m going to talk about how to analyze your personal",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-analyze-your-personal-activity-in-microsoft-teams-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-analyze-your-personal-activity-in-microsoft-teams-with-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=zsqXrQmZpmc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zsqXrQmZpmc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M31S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+      "path": "_learning/courses/microsoft-learn-power-bi-tableau-visuals.md",
+      "title": "Create Power BI visuals for Tableau users",
+      "excerpt": "This module goes through the basics of creating visuals in Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-visuals/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-visuals/",
+      "length": "PT1H9M",
+      "ratings": {
+        "count": 12,
+        "average": 4.6666665
       },
-      "publishedDateTime": "2021-06-13T06:04:33-07:00",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/zsqXrQmZpmc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-visuals-social.png",
+          "width": 1280,
+          "height": 641,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/radacad-extract-parts-of-a-text-value-in-power-bi-using-a-delimiter-power-query-transformation.md",
-      "title": "Extract Parts of a Text Value in Power BI using a Delimiter Power Query Transformation",
-      "excerpt": "If you have a text field and you want to extract a part of that text field, there are multiple ways to do that. You can do this using the SUBSTRING function in DAX. However, These types of actions are better to be done using Power Query transformations. Fortunately, Power Query is very easy and simple",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-extract-parts-of-a-text-value-in-power-bi-using-a-delimiter-power-query-transformation/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-extract-parts-of-a-text-value-in-power-bi-using-a-delimiter-power-query-transformation/",
-      "originalUrl": "https://youtube.com/watch?v=oiEkRkHNFCc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oiEkRkHNFCc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M45S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+      "path": "_learning/courses/microsoft-learn-prepare-to-teach-module-work-with-parameters.md",
+      "title": "Prepare to teach the module: Work with parameters",
+      "excerpt": "Prepare to teach the module: Work with parameters",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-prepare-to-teach-module-work-with-parameters/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-work-with-parameters/",
+      "length": "PT1H33M",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
       },
-      "publishedDateTime": "2021-06-08T15:40:40-07:00",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/oiEkRkHNFCc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-understanding-eager-vs-strict-evaluation-in-dax.md",
+      "title": "Understanding eager vs. strict evaluation in DAX",
+      "excerpt": "Learn the differences between eager evaluation and strict evaluation in DAX, in order to choose the best evaluation type for your data models.\r \r Article and download: https://sql.bi/493085?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-understanding-eager-vs-strict-evaluation-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-understanding-eager-vs-strict-evaluation-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=PF-8sRNxuR0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PF-8sRNxuR0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M34S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-05-25T03:00:42-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PF-8sRNxuR0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -297,7 +317,7 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power Query"
+        "DAX"
       ]
     },
     {
@@ -866,8 +886,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 21770,
-            "average": 4.7947636
+            "count": 21780,
+            "average": 4.7948117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -908,8 +928,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 39039,
-            "average": 4.7669253
+            "count": 39050,
+            "average": 4.7669396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -968,8 +988,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 39039,
-        "average": 4.7669253
+        "count": 39050,
+        "average": 4.7669396
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1093,8 +1113,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 39039,
-            "average": 4.7669253
+            "count": 39050,
+            "average": 4.7669396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1135,8 +1155,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 19477,
-            "average": 4.7146378
+            "count": 19478,
+            "average": 4.7146525
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1178,8 +1198,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 8338,
-            "average": 4.717918
+            "count": 8339,
+            "average": 4.717952
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1220,8 +1240,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6366,
-            "average": 4.763902
+            "count": 6368,
+            "average": 4.763976
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1619,8 +1639,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 21770,
-        "average": 4.7947636
+        "count": 21780,
+        "average": 4.7948117
       },
       "provider": {
         "name": "Microsoft Learn",
