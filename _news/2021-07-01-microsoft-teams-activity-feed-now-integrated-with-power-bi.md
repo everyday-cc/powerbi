@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/microsoft-teams-activity-feed-now-inte
 webUrl: "https://www.neowin.net/news/microsoft-teams-activity-feed-now-integrated-with-power-bi/"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:
