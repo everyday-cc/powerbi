@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 39034,
-        "average": 4.7668953
+        "count": 39039,
+        "average": 4.7669253
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 91,
+      "heat": 88,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 19473,
-        "average": 4.7146306
+        "count": 19477,
+        "average": 4.7146378
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 73,
+      "heat": 72,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
@@ -96,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 8337,
-        "average": 4.717884
+        "count": 8338,
+        "average": 4.717918
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -180,8 +180,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 5229,
-        "average": 4.7347484
+        "count": 5231,
+        "average": 4.7346587
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -222,8 +222,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 5790,
-        "average": 4.7345424
+        "count": 5794,
+        "average": 4.7343802
       },
       "provider": {
         "name": "Microsoft Learn",

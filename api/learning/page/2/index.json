@@ -4,42 +4,61 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
-      "title": "Discover data analysis",
-      "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-analytics-microsoft/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 21766,
-        "average": 4.7947717
-      },
+      "path": "_learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship.md",
+      "title": "DAX CrossFilter Function in Power BI   Write the Formula both directional but keep the relationship",
+      "excerpt": "If you are familiar with relationships in Power BI, you know that there are scenarios that you may need to change the direction of the relationship to a both-directional. A both-directional relationship comes at a cost, which is mainly the performance and ambiguity of the model. There is a way to write",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship/",
+      "originalUrl": "https://youtube.com/watch?v=8--Yv18rhyA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8--Yv18rhyA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M39S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 82,
+      "publishedDateTime": "2021-06-30T18:29:17-07:00",
+      "heat": 83,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/8--Yv18rhyA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-visualization-tip-hide-or-lock-the-filter-for-users.md",
+      "title": "Power BI Visualization Tip   Hide or Lock the Filter for Users",
+      "excerpt": "I have previously explained that we have three scopes of filtering in the Power BI visualization. The filter created in the filter pane can be often changed or viewed by the user. However, there is a simple way to hide or lock it from the user. In this article and video, I explain how that works. Read",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-visualization-tip-hide-or-lock-the-filter-for-users/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-visualization-tip-hide-or-lock-the-filter-for-users/",
+      "originalUrl": "https://youtube.com/watch?v=L_NGI6r6FYk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L_NGI6r6FYk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M28S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-06-29T15:02:24-07:00",
+      "heat": 83,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/L_NGI6r6FYk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -114,23 +133,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship.md",
-      "title": "DAX CrossFilter Function in Power BI   Write the Formula both directional but keep the relationship",
-      "excerpt": "If you are familiar with relationships in Power BI, you know that there are scenarios that you may need to change the direction of the relationship to a both-directional. A both-directional relationship comes at a cost, which is mainly the performance and ambiguity of the model. There is a way to write",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship/",
-      "originalUrl": "https://youtube.com/watch?v=8--Yv18rhyA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8--Yv18rhyA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M39S",
+      "path": "_learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi.md",
+      "title": "Maintain Bar Thickness(Width) in Power BI",
+      "excerpt": "Welcome to one more Short Video of Power BI. In this video, I'm going to explain how you can maintain the thickness of your bar in  Power BI. Most of the time when we add bar chart, column chart, stacked chart in Power BI, the thickness of each bar managed automatically. Sometimes, we need to maintain",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=poNpiApNZNs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/poNpiApNZNs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M31S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-06-30T18:29:17-07:00",
+      "publishedDateTime": "2021-06-29T21:08:10-07:00",
       "heat": 81,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/8--Yv18rhyA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/poNpiApNZNs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -140,8 +159,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
@@ -170,36 +188,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/BnTipbooeP0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi.md",
-      "title": "Maintain Bar Thickness(Width) in Power BI",
-      "excerpt": "Welcome to one more Short Video of Power BI. In this video, I'm going to explain how you can maintain the thickness of your bar in  Power BI. Most of the time when we add bar chart, column chart, stacked chart in Power BI, the thickness of each bar managed automatically. Sometimes, we need to maintain",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=poNpiApNZNs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/poNpiApNZNs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M31S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-06-29T21:08:10-07:00",
-      "heat": 80,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/poNpiApNZNs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -709,8 +697,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 11466,
-        "average": 4.749782
+        "count": 11469,
+        "average": 4.74976
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -889,49 +877,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
-      "title": "Get data with Power BI Desktop",
-      "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
-      "length": "PT1H15M",
-      "ratings": {
-        "count": 19473,
-        "average": 4.7146306
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 73,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-power-platform.md",
       "title": "Introduction to Power Platform",
       "excerpt": "Introduction to Power Platform",
@@ -939,8 +884,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 21592,
-        "average": 4.725454
+        "count": 21593,
+        "average": 4.7254667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1116,6 +1061,49 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
+      "title": "Get data with Power BI Desktop",
+      "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
+      "length": "PT1H15M",
+      "ratings": {
+        "count": 19477,
+        "average": 4.7146378
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     }
   ],

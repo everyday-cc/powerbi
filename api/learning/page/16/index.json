@@ -824,8 +824,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 4028,
-        "average": 4.7125125
+        "count": 4029,
+        "average": 4.7125835
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -848,48 +848,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/build-simple-dashboard-social.png",
           "width": 800,
           "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-manage-workspaces-power-bi.md",
-      "title": "Create and manage workspaces in Power BI ",
-      "excerpt": "This module explains how you can share reports and datasets with your users and how to create a deployment strategy that makes sense for you and your organization. Furthermore, you will learn about data lineage in Microsoft Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-manage-workspaces-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 1987,
-        "average": 4.764469
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-manage-workspaces-power-bi-social.png",
-          "width": 643,
-          "height": 321,
           "isCached": true
         }
       ],
@@ -950,8 +908,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 5229,
-        "average": 4.7347484
+        "count": 5231,
+        "average": 4.7346587
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1161,6 +1119,45 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-advance-way-to-reorder-power-query-columns-without-breaking-your-queries.md",
+      "title": "Advance way to reorder Power Query columns without breaking your queries",
+      "excerpt": "In today's video, I am going to show you two ways to reorder power query columns without breaking your queries!  Chapters: 00:00 Describing the problem when reordering columns 02:00 Solution1: Ignore missing columns 02:47 Solution2: If the column is missing create a null column 03:50 Solution 3: Manipulate",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-advance-way-to-reorder-power-query-columns-without-breaking-your-queries/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-advance-way-to-reorder-power-query-columns-without-breaking-your-queries/",
+      "originalUrl": "https://youtube.com/watch?v=4qqXho7ndgU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4qqXho7ndgU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M12S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-11-30T02:25:13-08:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4qqXho7ndgU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     }
   ],
