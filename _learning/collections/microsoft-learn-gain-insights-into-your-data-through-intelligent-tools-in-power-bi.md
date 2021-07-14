@@ -4,7 +4,7 @@ excerpt: "Gain insights into your data through intelligent tools in Power BI"
 type: collection
 price: Free
 length: PT3H28M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
