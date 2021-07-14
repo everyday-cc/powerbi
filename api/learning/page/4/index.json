@@ -344,7 +344,7 @@
             ]
           },
           "publishedDateTime": "2020-09-10T03:00:19-07:00",
-          "heat": 57,
+          "heat": 59,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Tk-7gBt9CDE/maxresdefault.jpg",
@@ -383,7 +383,7 @@
             ]
           },
           "publishedDateTime": "2020-09-17T03:00:23-07:00",
-          "heat": 54,
+          "heat": 55,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/cgIi3iFKOvE/maxresdefault.jpg",
@@ -461,7 +461,7 @@
             ]
           },
           "publishedDateTime": "2020-10-01T03:00:43-07:00",
-          "heat": 54,
+          "heat": 55,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/EawkPc_iLs4/maxresdefault.jpg",
@@ -1258,8 +1258,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 6364,
-            "average": 4.7693276
+            "count": 6367,
+            "average": 4.7694364
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1467,8 +1467,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 2312,
-            "average": 4.6885815
+            "count": 2314,
+            "average": 4.6888504
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1509,8 +1509,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 2780,
-            "average": 4.7334533
+            "count": 2781,
+            "average": 4.733549
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1799,8 +1799,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 6364,
-        "average": 4.7693276
+        "count": 6367,
+        "average": 4.7694364
       },
       "provider": {
         "name": "Microsoft Learn",
