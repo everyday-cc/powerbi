@@ -378,7 +378,7 @@
             ]
           },
           "publishedDateTime": "2020-05-10T02:10:00-07:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/513vtuMw5bY/maxresdefault.jpg",
@@ -644,7 +644,7 @@
             ]
           },
           "publishedDateTime": "2020-04-14T01:18:24-07:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/K1h3lY5y5to/maxresdefault.jpg",
@@ -1509,7 +1509,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-infrastructure-social.png",
@@ -2536,8 +2536,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 3386,
-            "average": 4.703485
+            "count": 3387,
+            "average": 4.7035723
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2597,7 +2597,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 58,
+          "heat": 62,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
@@ -2722,7 +2722,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/ai-visuals-power-bi-social.png",
@@ -2797,7 +2797,7 @@
             ]
           },
           "publishedDateTime": "2020-04-24T04:44:00-07:00",
-          "heat": 60,
+          "heat": 59,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7CqXdSEN2k4/maxresdefault.jpg",
@@ -2875,7 +2875,7 @@
             ]
           },
           "publishedDateTime": "2020-04-24T04:43:38-07:00",
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/WzpqBLApSBU/maxresdefault.jpg",
@@ -2982,8 +2982,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1808,
-            "average": 4.7134957
+            "count": 1809,
+            "average": 4.713654
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3024,8 +3024,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2618,
-            "average": 4.802139
+            "count": 2619,
+            "average": 4.8022146
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3167,7 +3167,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3185,7 +3185,7 @@
         }
       ],
       "size": 2,
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
