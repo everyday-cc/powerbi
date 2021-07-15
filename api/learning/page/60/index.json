@@ -4,6 +4,45 @@
   "page": 60,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-create-power-bi-embedded-capacity-in-microsoft-azure.md",
+      "title": "Create Power BI Embedded capacity in Microsoft Azure",
+      "excerpt": "In this video, Adam, from Guy in a Cube, walks through how to create Power BI Embedded capacity in the Microsoft Azure portal. He also takes a look at some of the actions you can do within the Azure portal such as scaling and pause/start.  Follow us on Twitter - https://twitter.com/mspowerbi  More questions?",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-create-power-bi-embedded-capacity-in-microsoft-azure/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-create-power-bi-embedded-capacity-in-microsoft-azure/",
+      "originalUrl": "https://youtube.com/watch?v=aXrvFfg_iSk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aXrvFfg_iSk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M48S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-10-11T07:35:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aXrvFfg_iSk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Create Power BI Embedded capacity in Microsoft Azure",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-create-reports-in-the-browser-for-power-bi-embedded-and-other-updates.md",
       "title": "Create reports in the browser for Power BI Embedded and other updates",
       "excerpt": "March 2017 is bringing a lot of updates to Power BI Embedded including the ability to create reports within the browser.  In this video, I'll use the updated JavaScript report embed sample to show some of the new things you can do within Power BI embedded.  Power BI Embedded Documentation: https://docs.microsoft.com/en-us/azure/power-bi-embedded/power-bi-embedded-get-started",
@@ -657,6 +696,45 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-download-and-deploy-a-k12-power-bi-solution-for-schools.md",
+      "title": "Download and Deploy a K12 Power BI Solution for schools",
+      "excerpt": "In this video, Patrick shares a Power BI solution he created for K12 schools in United States education. This solution includes instructions to create views for use with the Power BI reports. It also includes a Power BI Desktop template for pre-created reports based on your school data.  GitHub Repo",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-download-and-deploy-a-k12-power-bi-solution-for-schools/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-download-and-deploy-a-k12-power-bi-solution-for-schools/",
+      "originalUrl": "https://youtube.com/watch?v=U1dC-iKgKys",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/U1dC-iKgKys\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M6S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-10T09:41:50-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/U1dC-iKgKys/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Download and Deploy a K12 Power BI Solution for schools",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-drill-from-a-mobile-report-to-a-paginated-report-in-ssrs-sql-server.md",
       "title": "Drill from a mobile report to a paginated report in SSRS (SQL Server)",
       "excerpt": "In this video, Patrick shows how you can setup a mobile report within SQL Server Reporting Services (SSRS) 2016 and drill into a paginated report.   This video focuses on if your data source for the paginated report is using SQL Server. In part 2, Patrick will look at how to do the same if your report",
@@ -1062,82 +1140,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ja2mOHWRVC0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-failure-installing-the-personal-gateway.md",
-      "title": "Failure installing the Personal Gateway",
-      "excerpt": "I take a look at how to workaround an error indicating that you need to remove the Analysis Service Connector when you don't even have it on the machine.  Blog: http://blogs.technet.com/b/powerbisupport/archive/2015/09/08/failure-installing-the-power-bi-personal-gateway.aspx  SUBSCRIBE! https://www.youtube.com/channel/UCFp1...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-failure-installing-the-personal-gateway/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-failure-installing-the-personal-gateway/",
-      "originalUrl": "https://youtube.com/watch?v=JfUsg7QMo50",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JfUsg7QMo50\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M1S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-09-08T12:30:57-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JfUsg7QMo50/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-fiddler-web-tracing.md",
-      "title": "Fiddler (Web Tracing)",
-      "excerpt": "I take a look at how to get up and running with Fiddler.  This will lead into next week's video regarding using Fiddler with Power BI.  I wanted to have a good starting point for folks that have never used it before.  Fiddler:  http://telerik.com/fiddler  SUBSCRIBE! https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-fiddler-web-tracing/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-fiddler-web-tracing/",
-      "originalUrl": "https://youtube.com/watch?v=YHSTskjur8k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YHSTskjur8k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M59S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-10-27T14:43:45-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YHSTskjur8k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
