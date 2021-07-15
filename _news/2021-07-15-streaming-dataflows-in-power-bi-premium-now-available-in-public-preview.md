@@ -2,9 +2,9 @@
 category: news
 title: "Streaming dataflows in Power BI premium now available in public preview"
 excerpt: "We are thrilled to announce that the public preview of streaming dataflows in Power BI is now available for everyone to try out."
-publishedDateTime: 2021-07-15T10:38:59Z
-originalUrl: "https://powerbi.microsoft.com/en-us/blog/16508/"
-webUrl: "https://powerbi.microsoft.com/en-us/blog/16508/"
+publishedDateTime: 2021-07-15T10:51:54Z
+originalUrl: "https://powerbi.microsoft.com/en-us/blog/streaming-dataflows-in-power-bi-premium-now-available-in-public-preview/"
+webUrl: "https://powerbi.microsoft.com/en-us/blog/streaming-dataflows-in-power-bi-premium-now-available-in-public-preview/"
 type: article
 quality: 104
 heat: 104
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "5rfo3LUgAGRmSlbhVDwdoWRGMIzVE1CDdS+MUovxJ9ym/XgAjDuR+PQOV3J7pPKfuWSxMcVjdAQg6DK4J0Vws4J3xuuz/CpA1YlCm7MC0345nWk0U5m1LU8E4K7rCnEMS+h0q9As1k1pCA/mIeVBGch0I6QtkjgwUzLbHaq5q96dulwyjR3P20bgUZpgZomKMbS3aaL8d5hZzUVQwiQpjrGcgnDWXm+YM0CBo4K6fpVah9qRCFgbMoZehoZww9P4AIugeQv1Eiw1lTDv3UazbgoflGehlfQ+34eiCJUnQHx106uNHZjCilcCX1EuxWW+0TN/870QOHoNb2FjxnPUUpAFQH+I1/r8q1/JqizmgnY=;ckV9aumBGLFVKp75S7/nDA=="
+secured: "RAJiWeXoTdcmT4cErYpQvB7QUVFxKpcHXpRcHVHDxHwaUeYBX0GfuKWqquMB5IUnKvDEJqYEok1KfeTa2utEEJnoWbFOaQQU8QRnXXhqGol0ZdQmEt8zHH7h75MyTrAcE2GaWMvpvDsr/xcpjslY2vtJyksbLf/A8CpOJWncW9jVYNwPlQ4+9k/sbi1ETNcA0WCxe04XPFrHfCxV9+msxQN5MTpNRWykPO3V+pO57wX9OTnbDPnNMGroBt5wiTWHo+5HQTFyokmfK+6mRhi6CJ1PKsAgNcB1muqdwGxZzpT6WYgZbBomWINURwQlrH4B7Ymjdmb3mxHS2Ge+lnzosKd+msndIruM4F3lM+hXNo4=;8CKUj6TD9vv4MW8EdQKHnQ=="
 ---
 
