@@ -4,6 +4,67 @@
   "page": 57,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-quick-edit-power-bi-paginated-report-from-power-bi-service.md",
+      "title": "Quick Edit Power BI Paginated Report from Power BI Service",
+      "excerpt": "Now, we can perform Quick Edit for Paginated Report from Power BI Service itself. This new feature has been introduced with May 2021 Power BI Desktop Update. When you select your Power BI Paginated Report there is an option, Edit in Power BI Report Builder. This will launch a new screen to open Report",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-quick-edit-power-bi-paginated-report-from-power-bi-service/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-quick-edit-power-bi-paginated-report-from-power-bi-service/",
+      "originalUrl": "https://youtube.com/watch?v=fV4UKNFL3MM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fV4UKNFL3MM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M33S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-05-23T21:44:49-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fV4UKNFL3MM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Service"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-quick-way-to-find-out-which-property-of-power-bi-visual-is-supporting-conditional-formatting.md",
+      "title": "Quick way to find out which property of Power BI Visual is Supporting Conditional Formatting",
+      "excerpt": "In this video, we will giving you one tip of Power BI Desktop.  We know gradually so many properties of Power BI Desktop now supports conditional formatting.  So, how can we easily know which property will support this feature?  Here is a quick tip for it..  Try this and share your opinion to comment",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-quick-way-to-find-out-which-property-of-power-bi-visual-is-supporting-conditional-formatting/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-quick-way-to-find-out-which-property-of-power-bi-visual-is-supporting-conditional-formatting/",
+      "originalUrl": "https://youtube.com/watch?v=mxNkdKNhCN0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mxNkdKNhCN0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M2S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-12T18:42:49-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mxNkdKNhCN0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-relative-time-slicer-in-power-bi.md",
       "title": "Relative Time Slicer in Power BI",
       "excerpt": "In this session, we will discuss the new feature rolled out during the April 2020 Update of Power BI Desktop.  Now, we can add  Time Slicer with the OOTB date filter in Power BI.   With Relative Time Slicer, we can filter data based on the time.  Sometimes there are situations, where we need to filter",
@@ -845,68 +906,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kPFNKGuGejQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-review-of-the-data-scenario-13-ultimate-beginners-guide-to-dax-2019.md",
-      "title": "Review Of The Data Scenario - (1.3) Ultimate Beginners Guide to DAX 2019",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-review-of-the-data-scenario-13-ultimate-beginners-guide-to-dax-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-review-of-the-data-scenario-13-ultimate-beginners-guide-to-dax-2019/",
-      "originalUrl": "https://youtube.com/watch?v=WGfE_KoJ4_o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WGfE_KoJ4_o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M30S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2018-03-05T19:22:17-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WGfE_KoJ4_o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-simple-aggregations-15-ultimate-beginners-guide-to-dax-2019.md",
-      "title": "Simple Aggregations - (1.5) Ultimate Beginners Guide to DAX 2019",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-simple-aggregations-15-ultimate-beginners-guide-to-dax-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-simple-aggregations-15-ultimate-beginners-guide-to-dax-2019/",
-      "originalUrl": "https://youtube.com/watch?v=OA8WrkTIjXE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OA8WrkTIjXE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M4S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2018-03-05T19:22:17-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OA8WrkTIjXE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
