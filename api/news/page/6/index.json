@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-14-announcing-microsoft-information-protection-sensitivity-labels-in-power-bi-desktop-public-preview.md",
+      "title": "Announcing Microsoft Information Protection Sensitivity Labels in Power BI Desktop (Public Preview)",
+      "excerpt": "We are excited to extend Power BI’s sensitivity label capabilities by bringing Microsoft Information Protection sensitivity labels into Power BI Desktop, allowing creators to apply sensitivity labels just as they start building their datasets and reports in Power BI Desktop.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-14-announcing-microsoft-information-protection-sensitivity-labels-in-power-bi-desktop-public-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-microsoft-information-protection-sensitivity-labels-in-power-bi-desktop-public-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-microsoft-information-protection-sensitivity-labels-in-power-bi-desktop-public-preview/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9Eu1gNYCLX0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-13T19:14:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2020-12-10-power-bi-gets-new-admin-apis-and-service-principal-authentication.md",
       "title": "Power BI gets new Admin APIs and Service Principal authentication",
       "excerpt": "The new Admin APIs for Microsoft's data visualization platform will aim to improve the efficiency and performance of the Power BI scan, in order to help support a higher frequency of data assets.",
@@ -1229,57 +1281,6 @@
         "Power BI",
         "Power Query",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-join-us-power-bi-dev-camp-thursday-19-november-2020.md",
-      "title": "Join us! Power BI Dev Camp! Thursday 19 November, 2020",
-      "excerpt": "In this camp session, we examine how to query and modify Power BI datasets using C# and the Tabular Object Model (TOM). The session will explain how to connect to a local data model running in Power BI Desktop as well as how to connect to data models in the Power BI Service through the XMLA endpoint.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-11-join-us-power-bi-dev-camp-thursday-19-november-2020/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-19-november-2020/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-19-november-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T02:02:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],

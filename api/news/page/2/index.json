@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-05-27-power-bi-report-server-may-2021-feature-summary.md",
+      "title": "Power BI Report Server May 2021 Feature Summary",
+      "excerpt": "We’re excited to bring you a new version of Power BI Report Server this month! With this update, we have a ton of enhancements, including a new field list, new and improved shape options, and several visual formatting features.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-27-power-bi-report-server-may-2021-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2021-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2021-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-27T09:30:29-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-05-26-announcing-now-its-easier-to-find-power-bi-reports-in-microsoft-teams-tabs.md",
       "title": "Announcing: Now it’s easier to find Power BI reports in Microsoft Teams tabs",
       "excerpt": "We’ve started to roll-out an update to the home experience in the Power BI app for Microsoft Teams. Users in Teams will see a new “In Teams” pivot on Power BI home that makes it easy to find Power BI tabs you’ve visited previously in Teams channels. Read the blog to learn all about it.",
@@ -1201,57 +1252,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-27-power-bi-on-premises-data-gateway-update-brings-powershell-enhancements-and-more.md",
-      "title": "Power BI On-premises data gateway update brings PowerShell enhancements and more",
-      "excerpt": "The April update for the Power BI On-premises data gateway brings enhanced PowerShell scripts, alongside general availability for single sign-on (SSO) for refresh, among other features.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-27-power-bi-on-premises-data-gateway-update-brings-powershell-enhancements-and-more/index.json",
-      "webUrl": "https://www.neowin.net/news/power-bi-on-premises-data-gateway-update-brings-powershell-enhancements-and-more/",
-      "originalUrl": "https://www.neowin.net/news/power-bi-on-premises-data-gateway-update-brings-powershell-enhancements-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779296_powerbi2_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-27T09:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

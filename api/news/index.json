@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-15-streaming-dataflows-in-power-bi-premium-now-available-in-public-preview.md",
+      "title": "Streaming dataflows in Power BI premium now available in public preview",
+      "excerpt": "We are thrilled to announce that the public preview of streaming dataflows in Power BI is now available for everyone to try out.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-15-streaming-dataflows-in-power-bi-premium-now-available-in-public-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/16508/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/16508/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T03:38:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-on-premises-data-gateway-july-2021-update-is-now-available.md",
       "title": "On-premises data gateway July 2021 update is now available",
       "excerpt": "On-premises data gateway (standard and personal mode) release for July 2021 ",
@@ -1193,57 +1245,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-06-01T21:45:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-power-bi-report-server-may-2021-feature-summary.md",
-      "title": "Power BI Report Server May 2021 Feature Summary",
-      "excerpt": "We’re excited to bring you a new version of Power BI Report Server this month! With this update, we have a ton of enhancements, including a new field list, new and improved shape options, and several visual formatting features.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-27-power-bi-report-server-may-2021-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2021-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2021-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T09:30:29-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
