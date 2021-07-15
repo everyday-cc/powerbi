@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-13-on-premises-data-gateway-october-2020-update-is-now-available.md",
+      "title": "On-premises data gateway October 2020 update is now available",
+      "excerpt": "October release of gateway",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-13-on-premises-data-gateway-october-2020-update-is-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-october-2020-update-is-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-october-2020-update-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T06:56:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-10-12-data-source-management-on-power-platform-admin-center.md",
       "title": "Data Source management on Power platform admin center",
       "excerpt": "Data source management in admin center",
@@ -1186,57 +1237,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-09-17T06:33:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-14-gartner-analytics-and-bi-virtual-bake-off-2020-world-population-health-analysis-with-power-bi.md",
-      "title": "Gartner Analytics and BI Virtual Bake-Off 2020: world population health analysis with Power BI",
-      "excerpt": "Last week we presented at the annual Gartner BI Bake-Off session which was moved to a virtual setting this year. We are very excited to share our bake-off demos and key findings with everyone.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-14-gartner-analytics-and-bi-virtual-bake-off-2020-world-population-health-analysis-with-power-bi/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/gartner-analytics-and-bi-virtual-bake-off-2020-world-population-health-analysis-with-power-bi/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/gartner-analytics-and-bi-virtual-bake-off-2020-world-population-health-analysis-with-power-bi/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SjqKdzeWXkk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-14T00:30:16-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
