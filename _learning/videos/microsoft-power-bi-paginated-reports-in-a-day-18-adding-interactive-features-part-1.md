@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 18: Adding Interactive Features - Part 1"
 
-secured: "nkmON90iiaCVifNH6LWfEiXdJ+7f9/ytmZiC2PYGb1ZWqjYOpTZlXex33kri0zOnkfwxTK3CKh7WMxgkX/iYj4ZBaq5nw7zt4JDcH96PeC57atqyHkUwBPkSZrNVMeqkgD87GCbxG+CkDaa9wd7jCpyX9LYryDHv9q1w1uWHdqK5NNDAzgNXq2oUSZS7mAuDiJU/fN+GUUnbaQqKcvN1WUzH02i8LYHIqWSB9Dbn+Y5YvB6ayXOd92YTFTvbRuo5unu65Jo68xZPo1IfDI8JYbv2kCiRjhtFcmqqyiWyEXtjHeNT6mvl22hDpKb+N27WBS6KHg6UqEAfBtIKAlYD7MtFnfMXgwMawlJpILmX/ebjyjM0a1BuHefQHzvgiuD2VnEOwlFxDOnW1W3kCaNdmDgfF2z2rjVSUJ8OUDPBrvM=;OwT9bD6x/zRQTuBqoD+TSA=="
+secured: "VG/HRwF3dzofmyqGICwTJ9VMRv4uqIaXLIjqA4PgXVAkcIngqJ+/QPI/Jwik2HSVvy4FkM4vF6KF5FraooeFY3n8B0HA24Q64lBCy0Ub5TeyjwH3sbkUXIo7scKDbmjLhA+3qJA76l+US1T2SDiBCp/cDsqQPjQxt/Q7ri6JD+MGQc2tm7u+Nx4W+gw5d5c1dq6VxHu/c47jbVUVrlH5A6hihTqc8xxT2ZBqqOnpte0MO+ALz+LmHYQ/YtD8FAtFsnqF39zS3PlWCkxvpXoWTVeEen1nW+Da7SkieXUhxV2mrqWIGn6y+HY0tGUl9KkkNYXoGF/ukt9Uf/9B/PDOTP85EpcI8foSPIvJ0F8y4B2jQFe2+dA9bs3xu1HqVdl9QTinqoNzuBIQcc3t/kNMDDXy1X0Wmm2sIxD3h29VYJo=;ewiJXsMWEnjmaSw/A7E/MA=="
 ---
 
