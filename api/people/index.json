@@ -17,7 +17,7 @@
       "twitter": {
         "username": "awsaxton",
         "url": "https://twitter.com/awsaxton",
-        "followers": 6284
+        "followers": 6285
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/guyinacube/"
@@ -38,13 +38,60 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 121,
+      "heat": 110,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Adam Saxton",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/arun-ulag.md",
+      "title": "Arun Ulag",
+      "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/arun-ulag/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/arun-ulag/",
+      "type": "profile",
+      "name": "Arun Ulag",
+      "bio": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
+      "location": "Seattle, WA",
+      "website": "https://t.co/FklqJqbSAZ",
+      "twitter": {
+        "username": "arunulag",
+        "url": "https://twitter.com/arunulag",
+        "followers": 3519
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/arunulag/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 110,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/625784770333519872/RrSqqUEZ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Arun Ulag",
           "isCached": true
         }
       ],
@@ -77,7 +124,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 106,
+      "heat": 110,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
@@ -137,47 +184,39 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/arun-ulag.md",
-      "title": "Arun Ulag",
-      "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/arun-ulag/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/arun-ulag/",
+      "path": "_people/avi-singh.md",
+      "title": "Avi Singh",
+      "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/avi-singh/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/avi-singh/",
       "type": "profile",
-      "name": "Arun Ulag",
-      "bio": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
+      "name": "Avi Singh",
+      "bio": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
       "location": "Seattle, WA",
-      "website": "https://t.co/FklqJqbSAZ",
+      "website": "https://www.learnpowerbi.com/",
       "twitter": {
-        "username": "arunulag",
-        "url": "https://twitter.com/arunulag",
-        "followers": 3519
+        "username": "powerbipro",
+        "url": "https://twitter.com/powerbipro",
+        "followers": 4805
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/arunulag/"
+        "url": "https://www.linkedin.com/in/avichalsingh/"
       },
       "affiliation": {
         "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
       "topics": [
         "Power BI"
       ],
-      "heat": 89,
+      "heat": 83,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/625784770333519872/RrSqqUEZ_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Arun Ulag",
+          "title": "Avi Singh",
           "isCached": true
         }
       ],
@@ -210,52 +249,13 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 65,
+      "heat": 78,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Mike Carlo",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/avi-singh.md",
-      "title": "Avi Singh",
-      "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/avi-singh/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/avi-singh/",
-      "type": "profile",
-      "name": "Avi Singh",
-      "bio": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
-      "location": "Seattle, WA",
-      "website": "https://www.learnpowerbi.com/",
-      "twitter": {
-        "username": "powerbipro",
-        "url": "https://twitter.com/powerbipro",
-        "followers": 4804
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/avichalsingh/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Avi Singh",
           "isCached": true
         }
       ],
@@ -286,7 +286,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 41,
+      "heat": 58,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
