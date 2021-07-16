@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4H34M43S
 publishedDateTime: 2019-06-21T03:44:15Z
-heat: 50
+heat: 
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TOml5Pbfp2w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Power BI
 
-images:
-  - url: https://i.ytimg.com/vi/TOml5Pbfp2w/hqdefault.jpg
-    width: 480
-    height: 360
-    isCached: true
-
-secured: "V48P3IcnkOOOdaewM7BeDXboE6JpXU3i1W+hg1fPk3NfdAUn3JQ51o1FD3t5Sf4XsGx1UpS/ViMYx27tZaQkhkLyxs/FOYly84HFNP+5DwoId0qy2Vll0WbNhnOaVn9PjsA9DbuTTfBVs90yBmoNHpc4zgEgo5ENsJSRHyVrQAB66WXnQcP2F8Yt4EtSD7JMQRweyB1Sq1utptN6UbDN0Ay3z7QBeRPsJhSgwZPyOGeERBAv3wJ73XLw3sFcvvbHJ6TEheRQd0BAWBU+Pw6ysufDANCe/MSpKav4JVzx39sQNvQWo625X6NDF+Vw1StYSZ5c6fKWxhFUHFv7tVPZ9Wv+sa2edvrNfWjgh7s7iBnAeswT+SXVIG5uYN53mRTE7jI0k9hOYGu6vNuSBXJx4Q==;ZxOxyyyBuqeWxrbybgHsdg=="
+secured: "QNpUReMkH6Kj/p/dB5dNxxBrn6tVuyPUBVVbsh9mUs8mnqqIOA5f4ZvBpx0P5Iglf2fZybu77yylCR+IYYGbI+HnJGApV42P5SuSJ/OQoXHPAzJN1Jdb9/mQOyu2dSIRQzLh9CRyFSD5wjLKu7enyM3ww5DNDjBrSAoPodOYwp7bZFk4ND1jpmroXNVSM9dKOgLn9OCyzZPTWIAyLd1yYX5Gp+I8NzwGjcg/fFbmTfBSgmNqflvQx6snRhQMnPgidLfago5H+qQGbl7RwduFHsRhv8/lpPaFZLSXnh+lzUQOgmY1Dv+KppdDG0+asHW4F3HIopKLbh/Gfc50vY0NYmEkd6+1ck35tuubYTx/0e1JuPrxWFLhjsPFRoYGq527VIjerpUYZU7e2YKYRIKuPg==;NRI6HgGZBb93mYF26Qr97g=="
 ---
 
