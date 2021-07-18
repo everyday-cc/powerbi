@@ -1795,8 +1795,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 19553,
-        "average": 4.714622
+        "count": 19555,
+        "average": 4.714651
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2059,8 +2059,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 7934,
-        "average": 4.778674
+        "count": 7935,
+        "average": 4.778702
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2543,8 +2543,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 7610,
-        "average": 4.704336
+        "count": 7611,
+        "average": 4.7042437
       },
       "provider": {
         "name": "Microsoft Learn",
