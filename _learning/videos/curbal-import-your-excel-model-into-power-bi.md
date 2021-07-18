@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M22S
 publishedDateTime: 2018-07-23T09:44:15Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s7i0VZ8OTRI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8JPJg3plzI3mowwucKeHKqOQfhQ/8psUoT0xpEmokdt1wvbfr7jus1d08fTzvoEqzeXVQpJ693suGcYYi58tOtFdf4mxvkzKJA8sdlctrWzEHNrDlU2moTo0WF5leb7hBIHORqB5SE0sCX3fLWA3XT+AV8zMJxIchGLbZ64RUp0Tn8p2qkb0pylhx1qvQV4eNQTqkOI0HDk9CsUpPv+/zwt4qDNivbDv4TvfdeRtJSblOoGJPUxR/6oKp1L9nB+WGFbvyPF22NRr7e4TQNkrH0kAvlhqg1frgadDmhroF2SjDZSdxe+Eb0h7JrXKDbfr2cbqiXqN7KC13OATe5d1OtGyUFGgruUfDpq2k5PtZB+5UofCITvIiq6tBY2QlKNG2rJ/4Wrdg0n+89GS5v6HOb09E92Y463H1+DOiLWGKRU=;Qk/mQxpYNIoGzuGSxEBKMg=="
+secured: "1sMJAPNyMythpEUeVTz4XiWJ6ACHcGWOqOCCIOEudGwzZvgM7JD4YmRycn+JF4IqNSbOYqykyjRKIZSaJs+s5kaQ4/qPOioZAAW46V6VyOOpFAjq20U/pA5lXBvR7Nnp8HYtUDhXGpD3eE+zd7J0zH8uJPcClFV0RajSvgtpKyjfXVtycXnvbEij8ZT002M/6Sq3xxYht+kwiPm5EwyEoQTVUWfWtBUtLNVg9RzZS2mA58dlNAtKYsGvEzXnjeNxOlwSQNePxJ2mdq1d6aImmWizjd30eaykR7ZiVZGsH5xqJjh5WHHP/Jalb6LD6T9dNnGeC2zHqybQ/kIYONT9F9TJt/6gKmfnD6bEvs+Vg0PZjCh3P5io70RuQcZXPLdUoNVThgj3K84Lg5THVFqDZKVgMhZADM+V2AshwK7Hu1U=;YUuVuS4QYhc/NksjHBIIew=="
 ---
 
