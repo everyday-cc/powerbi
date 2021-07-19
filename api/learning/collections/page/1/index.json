@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 22053,
-            "average": 4.794994
+            "count": 22055,
+            "average": 4.794967
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 39353,
-            "average": 4.7672606
+            "count": 39358,
+            "average": 4.76729
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 39353,
-            "average": 4.7672606
+            "count": 39358,
+            "average": 4.76729
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -390,8 +390,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 19566,
-            "average": 4.7145047
+            "count": 19568,
+            "average": 4.714483
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -433,8 +433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 8387,
-            "average": 4.718374
+            "count": 8388,
+            "average": 4.718407
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1240,8 +1240,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 6421,
-            "average": 4.7691946
+            "count": 6424,
+            "average": 4.769147
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1282,8 +1282,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 7943,
-            "average": 4.778799
+            "count": 7946,
+            "average": 4.7788825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2472,8 +2472,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 7614,
-            "average": 4.7043605
+            "count": 7615,
+            "average": 4.704399
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2597,8 +2597,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 2578,
-            "average": 4.640031
+            "count": 2579,
+            "average": 4.6401706
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2681,8 +2681,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 2810,
-            "average": 4.7341638
+            "count": 2812,
+            "average": 4.7343526
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3912,8 +3912,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 974,
-            "average": 4.7022586
+            "count": 975,
+            "average": 4.7025642
           },
           "provider": {
             "name": "Microsoft Learn",
