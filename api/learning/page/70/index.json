@@ -4,6 +4,36 @@
   "page": 70,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-july-20-2018.md",
+      "title": "🔴 Talk Power BI LIVE (Subscribe & Join) July 20, 2018",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join https://www.facebook.com/groups/TalkPowerBI to continue the conversation  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power BI. So much so that I",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-july-20-2018/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-july-20-2018/",
+      "originalUrl": "https://youtube.com/watch?v=BD1w9FUAypY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BD1w9FUAypY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H40M52S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-07-13T13:41:32-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BD1w9FUAypY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-july-21-2017.md",
       "title": "🔴 Talk Power BI LIVE (Subscribe & Join) July 21, 2017",
       "excerpt": "**Kick off Topic: Power BI Modeling Best Practices** I'd kick off the call with this topic, but after all questions are welcome.  Let's Talk Power BI is a LIVE Q&A and discussion forum hosted by Avi Singh, Microsoft MVP and bestselling Power BI Author.   \"Hello, I am Avi Singh and I love talking about",
@@ -861,36 +891,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/g_7yEsOm3UI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-the-real-story-behind-the-bow-tie-15000-subscriber-thank-you-or-close-enough-.md",
-      "title": "The Real Story Behind the Bow-Tie (15,000 Subscriber Thank You! ...or close enough 😀)",
-      "excerpt": "As I get close to 15,000 subscribers sending a heartfelt THANK YOU to each and every one of you for believing in me, but also believing in yourself! Anything is possible for you my friend. Always...always Power On!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-the-real-story-behind-the-bow-tie-15000-subscriber-thank-you-or-close-enough-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-the-real-story-behind-the-bow-tie-15000-subscriber-thank-you-or-close-enough-/",
-      "originalUrl": "https://youtube.com/watch?v=QwDy1cOVQEs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QwDy1cOVQEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M3S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-10-25T07:56:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QwDy1cOVQEs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

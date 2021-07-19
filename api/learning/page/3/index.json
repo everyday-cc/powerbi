@@ -160,8 +160,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 2805,
-            "average": 4.7340465
+            "count": 2806,
+            "average": 4.7341413
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -408,8 +408,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 9575,
-        "average": 4.674778
+        "count": 9576,
+        "average": 4.674603
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1703,7 +1703,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png",
