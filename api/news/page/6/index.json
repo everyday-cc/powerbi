@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-15-enhance-deployment-pipelines-creation-with-premium-per-user-license.md",
+      "title": "Enhance deployment pipelines creation with Premium per user license",
+      "excerpt": "The new &#8216;Premium per user&#8217; license enables more BI creators to start working with deployment pipelines, and it&#8217;s never been easier!\r\nRead more to learn how can you use the new license with deployment pipelines.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-15-enhance-deployment-pipelines-creation-with-premium-per-user-license/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/enhance-deployment-pipelines-creation-with-premium-per-user-license/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/enhance-deployment-pipelines-creation-with-premium-per-user-license/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T00:30:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-power-bi-desktop-gets-microsoft-information-protection-sensitivity-labels.md",
       "title": "Power BI Desktop gets Microsoft Information Protection sensitivity labels",
       "excerpt": "The new capability is now being introduced to Desktop, after coming to Power BI last year. This introduction continues with the addition of recent data protection capabilities brought to Power BI.",
@@ -1228,58 +1279,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-anomaly-detection-preview.md",
-      "title": "Anomaly detection (preview)",
-      "excerpt": " Anomaly detection helps you enhance your line charts by automatically detecting anomalies in your time series data. It also provides explanations for the anomalies to help with root cause analysis.  With just a couple of clicks, you can easily find insights without slicing and dicing the data.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-12-anomaly-detection-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DT_tOas5YIo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

@@ -2,6 +2,59 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020.md",
+      "title": "Power BI Workspace Roadmap, DirectQuery dataflows and more... (Roundup | June 1, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last roundup: https://guyinacu.be/roundup180 2 Minute Tuesday: https://guyinacu.be/animatedvisuals  🔴 Live Stream Replay: https://guyinacu.be/live012  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-01-power-bi-workspace-roadmap-directquery-dataflows-and-more-roundup-june-1-2020/",
+      "originalUrl": "https://youtube.com/watch?v=f1XqbeOSWyg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f1XqbeOSWyg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/f1XqbeOSWyg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Workspace Roadmap, DirectQuery dataflows and more... (Roundup | June 1, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-01T08:00:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Service",
+        "Dataflows"
+      ]
+    },
+    {
       "path": "_news/2020-05-25-best-and-worst-features-on-the-power-bi-desktop-update-may-2020.md",
       "title": "Best and worst features on the Power BI Desktop update May 2020",
       "excerpt": "It is power week! So I am going to review the new released features of the Power BI desktop update. Which ones do you like/ dislike and why?  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r",
@@ -1221,59 +1274,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2019-11-28T07:57:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_news/2019-11-25-review-power-query-with-query-diagnostics-tool-power-bi-desktop-update-october-2019.md",
-      "title": "Review Power Query with Query Diagnostics tool - Power BI Desktop update October 2019",
-      "excerpt": "Powerweek is back!!! and in today's video I will review the Power BI desktop update feature released in october 2019 called Query diagnostics. I will tell you what I like about it and what needs to be improved imo.  Link to MS documentation: https://docs.microsoft.com/en-us/power-query/querydiagnostics",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-11-25-review-power-query-with-query-diagnostics-tool-power-bi-desktop-update-october-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2019-11-25-review-power-query-with-query-diagnostics-tool-power-bi-desktop-update-october-2019/",
-      "originalUrl": "https://youtube.com/watch?v=oVPW7AhnTPg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oVPW7AhnTPg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oVPW7AhnTPg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-25T04:45:35-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Curbal",

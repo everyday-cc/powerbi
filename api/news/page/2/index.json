@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-02-whats-new-in-the-june-update-of-power-bi-report-builder.md",
+      "title": "What’s new in the June update of Power BI Report Builder",
+      "excerpt": "We are pleased to announce the release of a new version of Power BI Report Builder! This release includes a number of new features designed to improve your paginated report authoring experience, plus we&#8217;ve now added Power BI Report Builder as an app in the Microsoft Store.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-02-whats-new-in-the-june-update-of-power-bi-report-builder/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-the-june-update-of-power-bi-report-builder/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-the-june-update-of-power-bi-report-builder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-02T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-06-02-power-bi-windows-app-has-new-look-preview.md",
       "title": "Power BI Windows app has new look (preview)!",
       "excerpt": "Power BI Windows app is designed to provide great Power BI consumption experience for Windows users. Business users who do not need to create or edit reports can use this app for simpler and easier view and usage of reports, dashboards and apps. In this release we are introducing preview of Power BI",
@@ -1194,57 +1245,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-04T00:57:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-30-community-and-third-party-tools-for-developing-enterprise-level-power-bi-and-analysis-services-models.md",
-      "title": "Community and third-party tools for developing enterprise-level Power BI and Analysis Services models",
-      "excerpt": "Over the past few years, along with the high adoption rate of Power BI, also came the development of new tools by the Power BI community. Customers, partners, and individual users are contributing tools that improve the productivity of users creating models and reports in Power BI. It’s an evolution",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-30-community-and-third-party-tools-for-developing-enterprise-level-power-bi-and-analysis-services-models/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/community-tools-for-enterprise-powerbi-and-analysisservices/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/community-tools-for-enterprise-powerbi-and-analysisservices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-29T18:00:16-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
