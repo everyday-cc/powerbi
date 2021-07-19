@@ -1678,8 +1678,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 58,
-            "average": 4.62069
+            "count": 59,
+            "average": 4.6101694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1720,8 +1720,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 22,
-            "average": 4.5
+            "count": 23,
+            "average": 4.478261
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2498,8 +2498,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 4190,
-            "average": 4.758234
+            "count": 4193,
+            "average": 4.7584066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2540,8 +2540,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 3419,
-            "average": 4.703422
+            "count": 3420,
+            "average": 4.703509
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2861,8 +2861,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 2654,
-            "average": 4.7136397
+            "count": 2655,
+            "average": 4.7137475
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3111,8 +3111,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working/",
           "length": "PT31M",
           "ratings": {
-            "count": 80,
-            "average": 4.7
+            "count": 81,
+            "average": 4.703704
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3153,8 +3153,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 94,
-            "average": 4.755319
+            "count": 95,
+            "average": 4.7578945
           },
           "provider": {
             "name": "Microsoft Learn",
