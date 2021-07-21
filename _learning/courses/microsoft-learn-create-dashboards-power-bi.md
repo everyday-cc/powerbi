@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H8M
 ratings:
-  count: 2340
-  average: 4.6884613
-heat: 56
+  count: 2341
+  average: 4.688595
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 321
     isCached: true
 
-secured: "r7JkpShqofgIK3n8pCvI+sjX/yO3MuR/eG16q86gxS1zuR2h+BlDe4drusAKvMTaFa/NS0+/LJOtJ2TJLXnMl8kZnzV3cH30YY+8DjVGuejVzJ0tzIeMZr2Tqp2ve8eAJuztW8d7McUQeY2zkghsoWCwSPJXwI/uqHPE3t3/MD724BfHZWGVY9JfBUjFuLwaZK6Qk0zYqBy5AkJzZeFcp0uPijw9Dc78LNCyCzn8xn6+EktGG2QsjHtLG2cBFeNjQq6DxR//0aoe/J3xezZL6kTOpRlu9f6l8C5Ouss+HQ7Qt9XIRofkdPAFjwjT8urypHqwzJRUFNJ9FOpoHeP/zRb5Tl0fnnSzIdP3eS2NFtMUqlFd8oY58WwMr9qk1gOmJ7hhmquTNMYMtPzeDoB0zvXs5vDPWHVnzyx7ZrWAOfA=;W7k8mWPUlaVyf6gWM4TqSQ=="
+secured: "RWtFOeMbVChZ5ROLgK3ZJ6oOlG57rE+Rp28Q7OuU3xHq711Q2KQI++H+pYuTITvbOXQjT/I3S1CU4fzn/dfsopBiU+PKI8xGu96J4CBBiGGWA5if2UGAos4TyoYXd+po12gX+hNxh5BvY9h5ccq6bvWLyDjyqAu8nQt7dsZq49oS6mkliomcXvE3XRM8fVuvFVAE9I6FoceVY9LZ2B14NluJRxqqwWzt3LuRmu7eDF7XwWePltpNEVesuJZN/HlvQSdl3vh14p3agXGjX5aDdk2g8RlbqQH/2InGz04+eA1P1al1+8U3GfZdTM5LzJ9YFrEpPWvqhYmbdc3bivaxvPclAbkSNhPEyh8A+12DyiYg9dfWSW5qQQreRkzvbnIe2BW5fuqokUkQfXGxEfbxfS/XG1Nbcm9Osvl4NFA47yE=;XFMnbTkLV/0C1REX4dJ5Hw=="
 ---
 
