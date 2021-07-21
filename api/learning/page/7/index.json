@@ -3088,8 +3088,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 19,
-            "average": 4.4210525
+            "count": 20,
+            "average": 4.45
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3171,8 +3171,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9606,
-            "average": 4.6743703
+            "count": 9608,
+            "average": 4.674334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3348,7 +3348,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
