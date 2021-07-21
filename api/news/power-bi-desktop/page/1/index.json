@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-07-21-power-bi-update-july-2021.md",
+      "title": "Power BI Update - July 2021",
+      "excerpt": "Welcome to the July update! This month we are making small multiples generally available, as well as the new model view and sensitivity labels in Desktop. Also, we have a new preview for streaming dataflows. There is much more!  Reporting                Small multiples (generally available) - 00:19 ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-21-power-bi-update-july-2021/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2021-07-21-power-bi-update-july-2021/",
+      "originalUrl": "https://youtube.com/watch?v=xNFedlQ59zA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xNFedlQ59zA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xNFedlQ59zA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T08:43:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2021-06-25-power-bi-june-2021-feature-summary.md",
       "title": "Power BI June 2021 Feature Summary",
       "excerpt": "Welcome to the June update! Loads of updates on connectors this time around. Also, DirectQuery support for Dataflows is now generally available! On top of that, we are happy to announce the preview of the paginated reports visual – we know many of you have been eagerly awaiting it, so take it for a spin",
@@ -1476,58 +1528,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-07-07-business-reasons-for-implementing-power-bi.md",
-      "title": "Business Reasons For Implementing Power BI",
-      "excerpt": "The Microsoft Power BI data visualization platform will allow you to provide the tools and services to content authors who can easily create shared reports and data streams for end-users ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-07-business-reasons-for-implementing-power-bi/index.json",
-      "webUrl": "https://www.sqlservercentral.com/articles/business-reasons-for-implementing-power-bi",
-      "originalUrl": "https://youtube.com/watch?v=5Y5Q6lczdMI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5Y5Q6lczdMI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sqlservercentral.com/wp-content/uploads/2020/06/img_5efa0adeaa99b.png",
-          "width": 581,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-06T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SQL Server Central",
-        "domain": "sqlservercentral.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-07-announcing-power-bi-embedded-generation-2-preview.md",
+      "title": "Announcing Power BI Embedded Generation 2 (preview)",
+      "excerpt": "We are thrilled to announce that the second generation of Power BI Embedded, referred to as Embedded Gen 2, is available for its Azure subscribers to use during the preview period. All of the Power BI Embedded Gen 1 capabilities such as pausing and resuming the capacity, are preserved in Gen 2 and the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-07-announcing-power-bi-embedded-generation-2-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-embedded-generation-2-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-embedded-generation-2-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-07T15:37:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-best-practice-rules-to-improve-your-models-performance.md",
       "title": "Best practice rules to improve your model᾿s performance",
       "excerpt": "Want to improve the performance and design of your Power BI model? Run these newly published rules against your model to quickly identify areas of improvement!",
@@ -1203,57 +1254,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-12-16T00:25:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-announcing-small-multiples-preview.md",
-      "title": "Announcing Small Multiples (preview)",
-      "excerpt": "This month, we&#8217;re releasing a preview version of the small multiples feature! In this blog post, we&#8217;ll be going over how to create and interact with small multiples now, its current limitations, and what our plans are for the feature moving forward. At the end, we will also include ways for",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-16-announcing-small-multiples-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-small-multiples-public-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-small-multiples-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T00:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
