@@ -2,7 +2,7 @@
 title: "DAX Fridays by Curbal"
 excerpt: "Are you new to DAX or are you having problems with a specific DAX function? In this playlist, I cover a new DAX function every friday, so you and I can learn DAX in depth."
 type: collection
-heat: 72
+heat: 70
 
 provider:
   name: Curbal
