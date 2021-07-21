@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/this-30-microsoft-power-bi-training-ca
 webUrl: "https://thenextweb.com/news/this-30-microsoft-power-bi-training-can-make-you-a-data-superstar-at-your-company"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:
