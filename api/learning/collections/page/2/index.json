@@ -1721,8 +1721,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-calculations/",
           "length": "PT57M",
           "ratings": {
-            "count": 15,
-            "average": 4.3333335
+            "count": 16,
+            "average": 4.1875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2457,8 +2457,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 4222,
-            "average": 4.757224
+            "count": 4223,
+            "average": 4.757045
           },
           "provider": {
             "name": "Microsoft Learn",
