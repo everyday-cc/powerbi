@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-16-net-core-support-for-analysis-services-client-libraries-is-ga.md",
+      "title": ".NET Core support for Analysis Services client libraries is GA",
+      "excerpt": "Today, we are announcing General Availability (GA), along with several enhancements.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-16-net-core-support-for-analysis-services-client-libraries-is-ga/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/net-core-support-for-analysis-services-client-libraries-is-ga/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/net-core-support-for-analysis-services-client-libraries-is-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T01:20:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-join-us-power-bi-instructor-led-training-24th-038-25th-of-february-2021-from-500-am-900-am-pst.md",
       "title": "Join us! Power BI Instructor Led Training! 24th &#038; 25th of February, 2021 from 5:00 AM – 9:00 AM PST",
       "excerpt": "This course covers key aspects of Power BI administration, including creating a Power BI tenant, managing access and permissions, resources and capacity, Premium capacity administration, broadening the reach – embedded, working with Data Gateway and best practices for successful Power BI administration.",
@@ -1208,57 +1259,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-power-bi-december-2020-feature-summary.md",
-      "title": "Power BI December 2020 Feature Summary",
-      "excerpt": "The last update of 2020 is here! We know you are excited for this update, like a kid excited to open their presents. This update is our holiday present to you!\r\nSo what is in the box? Read on to find out!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-16-power-bi-december-2020-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-december-2020-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-december-2020-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T01:00:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
