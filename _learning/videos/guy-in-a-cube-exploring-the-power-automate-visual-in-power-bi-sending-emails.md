@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M9S
 publishedDateTime: 2021-07-14T15:00:30Z
-heat: 178
+heat: 135
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T0dsCUeCFjg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 360
     isCached: true
 
-secured: "zO1LleAs7fsoPvOMQrAxMH2s6xg33GL8+LasNTCyhYoHUOYLMlAO6CGrfka0lfly1MTUyWYDh/zgzxD+785LMacnza/jY8a/Y2zHbuWd9/rjoH2qwkBOcOlqENnm57PpuqjTpH8s9QpFf0TlmGbrNzouUm9rBAfh0/Vf9e0BlimPntlHx3BY3M3AWAu1Oia/x/Un5WYFInwU4n8+m8IhOVzftvAUnadvQ95E7C/Kb84+Wysm8A3G+CETpNaPwqtd+KtU80SCKMdL+8bMHHJzFuTwdii436P71+2PYk2mYYq2ExIGB9Xb2VZt5bsVM5WyfzZ5RHlXEdlH+OUnwIE+s3+4nlC/tcA2WYZJKOHXP2REuPa9853MAusxbqarFPo6kyEhEetUzGQQtkmysJ6utFwpe+RLvfNeuUHeL9eSXQY=;gGlada+2b/ve1tNB3OmMQA=="
+secured: "2UEiuho0AZJRg6BHz08HQ9whDEyDx5/zFBv16lfSudSXJSYiHqiS9bL9XG/dS+tbCkdlrd/GnaULTi/QfcPLATneFxMQhrKYyKGFc6Rzbeb/cdq5Q5n7B+KS83HctltodIMn6UCBRNCHg5t/vN3kgnQx6z9unDo641/7Hr+0R77MwjxxfPIdaJNVXqcI536zYuyv6fkG3MKOVzZ41WveuGHod0STZzUN6LFVSbenNPU0AO+Y1HsoJcKzS+hj3459ux+j8HzuFKdp+c1stCfveiq/41QsEWz0LQZmUlM2dBRdLVwoNu1HimvqFkGRc9xFUCeGdEaZvQQ/1dt1EOahPDAHjUPTaBfFywQWEyeEFv8v/WRyB9p8LBRaeAbNXw7tzndwhYhw63JSWK0Y1jyQW0FqrUNh/mKIvmAmyQ4z/3g=;1Y5h/B4orjU2qCEp9+GAAA=="
 ---
 
