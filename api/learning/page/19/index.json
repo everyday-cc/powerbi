@@ -846,8 +846,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 2018,
-        "average": 4.766105
+        "count": 2019,
+        "average": 4.766221
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -930,8 +930,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 702,
-        "average": 4.7507124
+        "count": 703,
+        "average": 4.748222
       },
       "provider": {
         "name": "Microsoft Learn",
