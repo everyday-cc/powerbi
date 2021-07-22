@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M20S
 publishedDateTime: 2019-10-01T16:03:42Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jzTF8CTPzos\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "cYNhmki8arAMRIAm23uCc5HqGmgzu8A1rApeqnwCFbKqW5ee2n97/5ivWBIYExE1wUI3kJJ+zLIPv6AKm/UdgLQSJn6fWwhyIhnmj9kJ0gXCqNIx2o9iE6ZtlFn3TmvPs8/8oT9pbqDeMP64YeknEnV9a8W1Qe2U63vAyZ8NsFuv+GOeKf07BzDRYelA7Q31+ZLStFQzTEq0uVPuA914kIHXN0t7GlqYohhql3Y4x5/p6USt8YdSsUkP1Q8s96xxFEmiRtGKQHpFJlSP21SpEIZWojWORI/OQdtypb3Ax0AsYY68Z7DBEMEKqIiTF74XVbJ5u2SKrwEZWujKachaH8RFsQKnmKWSDcLKUhPP4VYsnnfymHey+QISCoIH0xLKDFB3+YOQTCfqlNWjHWtxApnF6Hxj3sTSYEI7BGweI7I=;Wos2tusMYA8LHRJuCYQNSw=="
+secured: "OX+Irey+Lc+Pz16i7QSQgMFPFuoZDRP/bYXFIkINdkv4JHOAV8QEOIkwGdJSxzGlxwGd/HEi2GEpnOGJBbhSWX5/Oet+BxxscrAUOKyI2YtD9Cig9NyAKncv24nj5EsUHRjOa1bNen8e0OvEDbnS708raTfTEIIfb2/foteXSOL01ahw/1wvKIHWbZKmaamZXNBb3AvbLJlvFYAYDAwYPxb6FlAfl2GtalYPH1bNzjWPw/DczfTtcgU6jIf7/ZiczBs+xBcn5wSXnZ/aBBBpfPmjpiqnURQDSGqbr4mY1EjabG+WejDkJY5S1DNYXW26E7BYMCziXIKPtvo7frDg/XOooz+/GrxSHQIqnrrqaSm9XMA+ytoO7zJ8YP3TeCmpmq9QSoOoZz2faTfb62vl/KFPrWNMq2iNEcgjrQYs6jc=;12fPqniRMxcwrW7+o0N6uQ=="
 ---
 
