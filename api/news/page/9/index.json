@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-21-power-bi-at-microsoft-ignite-virtual-conference.md",
+      "title": "Power BI at Microsoft Ignite Virtual Conference",
+      "excerpt": "As has been the case this entire year due to these unprecedented circumstances, Microsoft Ignite is going virtual. Join us between September 22nd and 24th. \r\nIf you have not registered already, there’s still time so we hope you take a few minutes and Register Here.  Power BI will be featured prominently",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-21-power-bi-at-microsoft-ignite-virtual-conference/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-at-microsoft-ignite-virtual-conference/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-at-microsoft-ignite-virtual-conference/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5_MFGnLDUHU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T02:56:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-09-19-become-a-certified-data-expert-with-this-excel-and-power-bi-training-currently-97-off.md",
       "title": "Become a certified data expert with this Excel and Power BI training, currently 97% off",
       "excerpt": "From forecasting sales to analyzing customer behavior, data skills are more valuable than ever. If you want to impress recruiters, the 2020 Master Microsoft Excel &",
@@ -1216,58 +1267,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-10-block-power-bi-classic-workspaces-analyze-in-excel-and-more-roundup-aug-10-2020.md",
-      "title": "Block Power BI Classic Workspaces, Analyze in Excel and more... (Roundup | Aug 10, 2020)",
-      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup189 Patrick's tech video: https://guyinacu.be/calcgroups Adam's tech video: https://guyinacu.be/misleadingvisual  🔴 LIVE Replay: https://guyinacu.be/live021  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-08-10-block-power-bi-classic-workspaces-analyze-in-excel-and-more-roundup-aug-10-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-08-10-block-power-bi-classic-workspaces-analyze-in-excel-and-more-roundup-aug-10-2020/",
-      "originalUrl": "https://youtube.com/watch?v=V4jSSBtL0do",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V4jSSBtL0do\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/V4jSSBtL0do/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-10T08:00:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],
