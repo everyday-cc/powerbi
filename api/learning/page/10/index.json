@@ -646,8 +646,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 4229,
-            "average": 4.75668
+            "count": 4231,
+            "average": 4.756795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -688,8 +688,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 3449,
-            "average": 4.702812
+            "count": 3450,
+            "average": 4.7028985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -833,8 +833,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 3449,
-        "average": 4.702812
+        "count": 3450,
+        "average": 4.7028985
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -876,8 +876,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 2599,
-        "average": 4.64217
+        "count": 2600,
+        "average": 4.6423078
       },
       "provider": {
         "name": "Microsoft Learn",
