@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT5M33S
 publishedDateTime: 2021-01-05T12:46:36Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kbE9HScsUOc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "N6IyyK/x3ahGu2pyNVOkdFFthV2xkajyAp1WkeY1+G6idqCCzwfByE+aZcpvGypUCQ4kGTcQBjx5FkXUDIq0NqgP9s1ai4WM+xbqGRunuHoaVimVIhNPmYTpYs7p59q6EMTE3qUDDJ1Yj6E2Vq8HvyL8rIbW/BXFXa4TnsYt5/1Go4/uZWxYtBbTGD1eW0+qEwSibRl1zK/+TdtUJ5yQIrzHdgF9xWpI1jnuJy1hVCkG82O0kjAdrvTIjBoS7ANtowgpBNsDECnhbIChmdktgIRc5FKBOdB4mlgYSO14wU/DgKkUY0FeOj5H62GZ9YaqTIRKl5hWXNwlAOlsOHG/bDQWvbKSTYcI7G1tOaqRkKE3Ls9Fo2bWyfLN3X++IeFdu72LqvxNIDMAcWkZAme8AewboUgK9n3x0bClt8zq4cI=;SG2S+Fe8z7dtoPomLdeN3g=="
+secured: "ekwig7jr1MehR1QM7ENjAPggPmTdVD4AYTUPHlxEBTfDQC1TudgRfHlSUOd6LvaUCtwtW6ZjTbLod70XNf6TTSwzIOghT/JwuKCAhYCQQbV7cUSsFqgmSb/0oBJtJarkI26CIGiEvdG0xRnW7b4avfacz9p/ID6UbgJkgFUw/MUIUzjudcb+LeqjKUTRtVWnlb+z8t+0PeerxqlvobSIgZYCuVpQMPov1/aH5h1b8fix4xtFd+d7nYyAVdK1gXun64NbhoClPAImoIad+UvhesS7m3NTiSG6nLdULjdZNAlp6ppbza86Uf0EgdJrgRBdeUYy0GiyRpYqXnKkPruJrjc+Ri8Bp8yi+1JWLUPGbYJDvsOBMwnlgMzZq5wIcA2IjrnEESbh2FqYoPvj5Zb+MppKS27gXdDL0x2YyBNngrw=;yDFKFSarfTaDHjvAA/deTQ=="
 ---
 
