@@ -11,7 +11,7 @@ affiliation:
 twitter:
   username: Seth_C_Bauer
   url: https://twitter.com/Seth_C_Bauer
-  followers: 1836
+  followers: 1837
 
 linkedin:
   url: https://www.linkedin.com/in/seth-bauer/
