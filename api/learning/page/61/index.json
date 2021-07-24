@@ -4,6 +4,82 @@
   "page": 61,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-expressroute-trust-center-mobile-roundup-43.md",
+      "title": "ExpressRoute, Trust Center, Mobile - Roundup #43",
+      "excerpt": "Melissa Coates shows you how to get a demo environment up and running with Azure Data Catalog. Sam Lester shows how you what Reporting Services 2016 can do with Power BI Desktop files. Power BI has been added to the Microsoft Trust Center. And a recap of the updates for the Power BI Service and the Mobile",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-expressroute-trust-center-mobile-roundup-43/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-expressroute-trust-center-mobile-roundup-43/",
+      "originalUrl": "https://youtube.com/watch?v=AHxNXWW4T9c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AHxNXWW4T9c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M51S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-04-21T07:59:16-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AHxNXWW4T9c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-extended-events-in-analysis-services-2016.md",
+      "title": "Extended Events in Analysis Services 2016",
+      "excerpt": "I take a look at what is coming with Analysis Services 2016 with regards to Extended Events.  We are introducing a UI to configure and manage traces on the server.  This is a similar UI to SQL Server if you are familiar to that.  This is available today with the CTP 2.3 release!  Blog:  http://blogs.msdn.com/b/analysisservices/archive/2015/09/22/using-extended-events-with-sql-server-analysis-services-2016-cpt-2-3.aspx",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-extended-events-in-analysis-services-2016/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-extended-events-in-analysis-services-2016/",
+      "originalUrl": "https://youtube.com/watch?v=ja2mOHWRVC0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ja2mOHWRVC0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M41S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-09-22T10:08:19-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ja2mOHWRVC0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-failure-installing-the-personal-gateway.md",
       "title": "Failure installing the Personal Gateway",
       "excerpt": "I take a look at how to workaround an error indicating that you need to remove the Analysis Service Connector when you don't even have it on the machine.  Blog: http://blogs.technet.com/b/powerbisupport/archive/2015/09/08/failure-installing-the-power-bi-personal-gateway.aspx  SUBSCRIBE! https://www.youtube.com/channel/UCFp1...",
@@ -1058,82 +1134,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/mhr8hfifkgg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-improve-power-bi-report-performance-by-using-the-filter-pane.md",
-      "title": "Improve Power BI Report performance by using the filter pane",
-      "excerpt": "If you are using slicers in your Power BI report, moving them off to the filter pane could improve performance. Patrick shows you what this could look like based on a real customer story.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-improve-power-bi-report-performance-by-using-the-filter-pane/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-improve-power-bi-report-performance-by-using-the-filter-pane/",
-      "originalUrl": "https://youtube.com/watch?v=Jvp_AllRw60",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jvp_AllRw60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M32S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-24T05:03:24-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Jvp_AllRw60/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-info-roundup-1.md",
-      "title": "Info Roundup #1",
-      "excerpt": "In this roundup, we will look at 5 things that I found this last week that may be of interest to you.  Power Map support for Shape Files http://blogs.office.com/2015/05/18/power-map-for-excel-may-update-for-office-365/  Twilio Content Pack for Power BI http://blogs.msdn.com/b/powerbi/archive/2015/05/19/visualize-and-analyze-your-twilio-data-in-power-bi.aspx?linkId=14495907",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-info-roundup-1/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-info-roundup-1/",
-      "originalUrl": "https://youtube.com/watch?v=rHp5G8IGEcY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rHp5G8IGEcY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M29S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-05-28T17:07:45-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rHp5G8IGEcY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
