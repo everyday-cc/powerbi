@@ -38,7 +38,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 231,
+      "heat": 108,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/625784770333519872/RrSqqUEZ_400x400.jpg",
@@ -85,7 +85,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 127,
+      "heat": 87,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg",
@@ -111,7 +111,7 @@
       "twitter": {
         "username": "powerbipro",
         "url": "https://twitter.com/powerbipro",
-        "followers": 4822
+        "followers": 4823
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/avichalsingh/"
@@ -124,13 +124,52 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 98,
+      "heat": 87,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Avi Singh",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/reza-rad.md",
+      "title": "Reza Rad",
+      "excerpt": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/reza-rad/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/reza-rad/",
+      "type": "profile",
+      "name": "Reza Rad",
+      "bio": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
+      "location": "New Zealand",
+      "website": "https://t.co/mnW39vaMYS",
+      "twitter": {
+        "username": "Rad_Reza",
+        "url": "https://twitter.com/Rad_Reza",
+        "followers": 7495
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rezarad/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 87,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Reza Rad",
           "isCached": true
         }
       ],
@@ -171,52 +210,13 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 93,
+      "heat": 77,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/415691890080894976/g0hNL2mf_400x400.jpeg",
           "width": 400,
           "height": 400,
           "title": "Patrick LeBlanc",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/reza-rad.md",
-      "title": "Reza Rad",
-      "excerpt": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/reza-rad/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/reza-rad/",
-      "type": "profile",
-      "name": "Reza Rad",
-      "bio": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
-      "location": "New Zealand",
-      "website": "https://t.co/mnW39vaMYS",
-      "twitter": {
-        "username": "Rad_Reza",
-        "url": "https://twitter.com/Rad_Reza",
-        "followers": 7494
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/rezarad/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 83,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Reza Rad",
           "isCached": true
         }
       ],
@@ -236,7 +236,7 @@
       "twitter": {
         "username": "Mike_R_Carlo",
         "url": "https://twitter.com/Mike_R_Carlo",
-        "followers": 2171
+        "followers": 2172
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/michaelcarlo/"
@@ -249,7 +249,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 78,
+      "heat": 71,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
@@ -273,7 +273,7 @@
       "twitter": {
         "username": "Seth_C_Bauer",
         "url": "https://twitter.com/Seth_C_Bauer",
-        "followers": 1838
+        "followers": 1839
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/seth-bauer/"
@@ -286,7 +286,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 65,
+      "heat": 71,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",

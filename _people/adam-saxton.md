@@ -3,7 +3,7 @@ name: "Adam Saxton"
 bio: "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube"
 location: Conroe, TX
 type: "profile"
-heat: 127
+heat: 87
 
 affiliation:
   name: Microsoft
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Adam Saxton"
 
-secured: "I/T1tV8Q8YRvuv1UjtB3ig1yMSJ+Z2G1dALaavFuDZ0mWww8tPerLmikwk4CfmTAisEvFVO4tDVqdPuUzkmpx4bCQo0K9sTAH0YdyR7Srl49ascxSx+vxN5ycm4QAeU0l9ZsDo23dTLWPW5ZhCuDI5W+6CKxetakRT6Wi6dJUCqaHwYo1oPo0xv23I0oWqJUpEeG8fIm0dgH2klwfexiEF+Ol7iwXbujlAlugGaO3VMFcVY1H501QA0fAo8ICOTZ/B5f+orDQH4JaetjSWvvsmIlj79CCMSvKRn2t48IQZYa+RL3Q9T6wxzT7BKJWox1YJCVJJoKz+o7CWqG6TDraafUqEEAsR0zr7pNqLyUi3OnP/iU+ATf+p8F9FCiYrr1Ke94JL+1TS2dQV2onEIfOGn+3vXQhJ9PnkP4xYMb6tI=;E//hHVAADrIxHNTjwqjn1w=="
+secured: "pYYldMyavaG4jEqv0Y8BQSNao/qIigfbeUgowd1dO0goK+cR4BFj9FEPFbFezbV26fjFfL8BCLlHYjuvLOsLMJlnPbuTcG/klhGqwUqV49tPXqvVObYdt77c8x4mw8ihDDT2pJjlICL1u2dTYOnBGc9th2LJKxtsf0BL2d0s7K8swDLFnDT5ZU90w4YgUFjSLDERpkcrEUP7bDM1BwAh8XdXD67VdyHfdxF9EIb+Pw2LHIZ1/NJzbgDYkdu8hN4HfE1oltJcJN5iu7C8ERJohL8fTclCD8FiYqeTypTTkthoUIVZSdG4wumpKpk/nnObcPJslVLmnROHj4+VW1QoglfncfLHKaUJkfnKXeH73gkLOYPqdL34sIFTC73ZjFn0KTAGfR6IzKuByPJxYcU7EDVmcsswONfWI1AuwdVlmo8=;9IjlUpL2m3rPmtslnxbALQ=="
 ---
 
