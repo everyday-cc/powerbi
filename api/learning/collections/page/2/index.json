@@ -2208,7 +2208,7 @@
             ]
           },
           "publishedDateTime": "2020-04-30T09:01:04-07:00",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/kAniA_N7sB8/maxresdefault.jpg",
@@ -2386,8 +2386,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 7661,
-            "average": 4.7031717
+            "count": 7662,
+            "average": 4.703211
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2469,8 +2469,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 4239,
-            "average": 4.756782
+            "count": 4240,
+            "average": 4.7568398
           },
           "provider": {
             "name": "Microsoft Learn",
