@@ -4,44 +4,6 @@
   "page": 60,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-paginated-reports-in-power-bi-with-chris-finlan.md",
-      "title": "Paginated Reports in Power BI with Chris Finlan",
-      "excerpt": "Chris Finlan joins us as we talk about Paginated reports in Power BI. Paginated reports recently went into public preview as a feature within Power BI Premium. Chris gives us a look at what is to come for the future.  LET'S CONNECT!  Chris Finlan - https://twitter.com/cmfinlan  Guy in a Cube -- https://guyinacube.com",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-paginated-reports-in-power-bi-with-chris-finlan/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-paginated-reports-in-power-bi-with-chris-finlan/",
-      "originalUrl": "https://youtube.com/watch?v=YAqSUYBz8LM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YAqSUYBz8LM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M39S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-24T20:14:14-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YAqSUYBz8LM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-paginated-url-parameters.md",
       "title": "Paginated URL Parameters",
       "excerpt": "Adam shows you how Power BI Paginated URL Parameters can help to export data beyond 150,000 rows in Power BI reports.  Documentation: https://docs.microsoft.com/power-bi/report-builder-url-parameters  Download example: https://guyinacu.be/paginatedexportsample  Guy in a Cube courses: https://guyinacu.be/courses",
@@ -1145,6 +1107,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fk1Ly6UJUms/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-excel-usafacts-and-more-april-19-2018.md",
+      "title": "Power BI, Excel, USAFacts and more... (April 19, 2018)",
+      "excerpt": "Compound Growth using DAX (@ExceleratorBI) https://exceleratorbi.com.au/compound-growth-using-dax/  Power BI and Excel; More than just an Integration (@Rad_Reza) http://radacad.com/power-bi-and-excel-more-than-just-an-integration  Drill Down & Up in Power BI Mobile apps https://powerbi.microsoft.com/en-us/blog/drill-down-up-in-power-bi-mobile-apps/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-excel-usafacts-and-more-april-19-2018/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-excel-usafacts-and-more-april-19-2018/",
+      "originalUrl": "https://youtube.com/watch?v=1Wkiita-RLQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1Wkiita-RLQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M50S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-04-19T08:19:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1Wkiita-RLQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
