@@ -2318,8 +2318,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 7673,
-            "average": 4.703506
+            "count": 7674,
+            "average": 4.7035446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2486,8 +2486,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 4557,
-            "average": 4.7698045
+            "count": 4558,
+            "average": 4.769855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2504,7 +2504,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 56,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
@@ -2629,7 +2629,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/ai-visuals-power-bi-social.png",
