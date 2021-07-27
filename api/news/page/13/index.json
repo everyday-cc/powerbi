@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2018-10-01-ctn-1-comment-power-bi-dashboards-in-the-service-home.md",
+      "title": "CTN #1: Comment Power BI dashboards in the Service + Home",
+      "excerpt": "In today's video, I will show you the new Power BI Service feature called comments and also the new Home Page.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-10-01-ctn-1-comment-power-bi-dashboards-in-the-service-home/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2018-10-01-ctn-1-comment-power-bi-dashboards-in-the-service-home/",
+      "originalUrl": "https://youtube.com/watch?v=8dTJcLnBcPA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8dTJcLnBcPA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8dTJcLnBcPA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2018-10-01T05:16:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2018-09-18-get-data-from-pdf-in-power-bi-power-week-918-september-update.md",
       "title": "Get data from PDF in Power BI | Power Week 918 - September Update",
       "excerpt": "I have done quite a few videos on how to get data from PDF's in Power BI, but it was done manually.  In today's video, we are going to test the new connector released in the Power BI Desktop September 2018 update.  To test the connector, we will use the PDF that contained FIFA players information that",

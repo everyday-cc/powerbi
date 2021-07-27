@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-16-power-bi-premium-per-user-license-offers-enhanced-deployment-pipelines-creation.md",
+      "title": "Power BI Premium per user license offers enhanced deployment pipelines creation",
+      "excerpt": "Earlier this week, Microsoft introduced Information Protection sensitivity labels for Power BI Desktop, while a few days before that the data visualization service received new Admin APIs and Service Principal authentication. Going back a bit further ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-16-power-bi-premium-per-user-license-offers-enhanced-deployment-pipelines-creation/index.json",
+      "webUrl": "https://www.neowin.net/news/power-bi-premium-per-user-license-offers-enhanced-deployment-pipelines-creation",
+      "originalUrl": "https://www.neowin.net/news/power-bi-premium-per-user-license-offers-enhanced-deployment-pipelines-creation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/10/1571114082_power_bi_new_3_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/power-bi-premium-per-user-license-offers-enhanced-deployment-pipelines-creation/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-premium-per-user-license-offers-enhanced-deployment-pipelines-creation/",
+      "publishedDateTime": "2020-12-16T04:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-power-bi-december-2020-feature-summary.md",
       "title": "Power BI December 2020 Feature Summary",
       "excerpt": "The last update of 2020 is here! We know you are excited for this update, like a kid excited to open their presents. This update is our holiday present to you!\r\nSo what is in the box? Read on to find out!",
@@ -1227,58 +1278,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-power-bi-desktop-update-november-2020-in-9-minutes.md",
-      "title": "Power BI Desktop Update November 2020 in 9 minutes",
-      "excerpt": "Lets go through the power bi desktop update for November 2020:  Key items: 00:00 Intro 00:31 Icons and UI 01:50 New model view 04:28 Zoom Sliders 05:20 Lasso select on maps 05:35 PPU preview rolling out  06:30 Power BI export API 07:00 Find Anomalies   And the long version: New field list across Icons",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-17-power-bi-desktop-update-november-2020-in-9-minutes/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-11-17-power-bi-desktop-update-november-2020-in-9-minutes/",
-      "originalUrl": "https://youtube.com/watch?v=Q-vxM_cwKCg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q-vxM_cwKCg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Q-vxM_cwKCg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T10:02:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],
