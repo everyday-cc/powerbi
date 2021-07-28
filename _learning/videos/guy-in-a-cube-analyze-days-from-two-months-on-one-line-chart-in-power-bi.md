@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT3M48S
 publishedDateTime: 2020-10-28T15:00:04Z
-heat: 60
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/95rfK8-KMwA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "BIrEgX1s1OH8A2UmP2iK/UyF6gJCdrJ1Dp9DtVMzNANL7bbupnYczvLjZKH4lHavtm2N/KjK8h64oxK7v540Cw/JKNiInFPW/yfR3idOc8uO5oJdf+mQnTEcmpwUEsKWNVWuVq8bqA1V21G8+QQHp/GUHgoquTe9lflLg3YxSBYqa93CQN+AtlIj9c8ILQtSCCXJWaGe+El9WrOk+8YGvSnZKze2z88B6NImLZ3a0a3hYCj7BqFyFRYR6wijAXUBfGuC+fQTnSEl6wtoGSwBdFWvvEPoODfiAiy8CGTHigJpFy4E9q4MX672hXnEOl33HjOV5gOTYaVH9Ru+o++MwP1VSVX4v8IakaDSPYCup2cktc6MiOxdpc/e4ifOV8qZUcPHfvnalAXSRMakn+dQnnkafYenwnhlY4USVDfFsaA=;vqAi95vWYBZ270RsB9xm4A=="
+secured: "ewRyLjubs+Drc+MG/mmCE5KZJ+M22FEOEABvWVX0/UDeukM1sG2VWWGOQko4HjAQi7fApPKwuwSaMpk35WYUAJonG0RKYukiwAer3o4wKn5a8EEsvFeZby70jNbC7zp/tYV7ichcpzRbJw/szcjtKyMcsbRvVAxGrZGGVB+5XuibHmk0PcQuWqzTZi97Ovrc9y5132p+BDVpzLFd2o6VF1EnxxGJWsK1Us9lZPEtwNLavl29OuwyQzUb3B1QDO3xYod8RvB+MOPDbxwSwyR5WsOJ/HOqo3oWKEyczqA9MRhse/Po6jifploGMrys06pTUxiUyd4uRovgw33Ax/s+a9KhHr2RcpJOTqv7r0HvIvf+AVCuOZiYEzV/9Rz6276nrfIDNbmowZuoj+TPzfNTWWZmxNOFZexzYVEbU9uQLXE=;sfS0pdaO/dXMIrn93Tb5Pg=="
 ---
 
