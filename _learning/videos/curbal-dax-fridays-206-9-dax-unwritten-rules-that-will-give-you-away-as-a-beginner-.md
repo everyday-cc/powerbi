@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M52S
 publishedDateTime: 2021-04-26T13:31:00Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TDW70x1nrSs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "naYPgbOQuK+GtMZTBLxYORBAtQZxWtxxWPkRtlUX3gQHeGf08wI/cbJp6ixaW0fV3mxwrEqIG31RQDLihH0RM6i0p9K04HBItKefLgWQcTAJGMHN2DCUjAanfIt4Z7UfgIIxoOML6t5HH7U7Ks3bG/MNl0v551Fqyyusg7xjS5oYtQcYWYmS9o+2Csi1wILhFh32oBZTLm1QwrKo69cg3VfQOXcsx5n282tkpw1TI8D+fpWaLc08AeR9JgQlAxu9/wJfSFbCpdn8RKBXYI/zp2rAWJ4BYkri17oIag8zeaznKvdB5pRzGydw83lvgCEQypj1uh6nUPJzSb1gIdF11dG75SYzDjcSBDGYd123PRCXyB+T18TF6gBDzJiY30pIV8xP3Z1xIdNsZpWE7tXqaT5yJpCFMiUR2KxWWv2yZg0=;mVk0K9dgcBKoL+kVViWo7w=="
+secured: "APk0D5y5kcLW0Bh4NQxNItlndMsyQuwdoD2u81iwUV6Qv4eMqCl1VKb8aMSJSL3tQ8cq3jjgg13gmyf7W6TPddU+7d7Z3QH5mKVXw7tBSZOKUXkydD9YIRwBXWQ91NCv0JgYEWG0l5rBC58qrppe8m8MZpjjlO41uFUdIB+BP8VuwLvVNfctGoA2tnkyqKBE4c2IsJTFSLPIU58xc/8yzVIAni0902O8J1YMqmUv8M7+jI9NpVEJ1YUJn80s7drQf3TAnFYwppcqr7vHp9O8jXx1/zmusrdNR7aB3NkdeGpV71UeRW1n5PE51hTT64JD/19Hdkaeshn8KXVkpDmVp3o2NqXN+NwCJ9pLD+jK4Ky/hjf0q2AaFObT/Bziee9Jkj/XVbh69FLRUvci1cOL2cReX/8pApKpasaEtCw99Gw=;8pBwg7x9V0gF7TSnMnvswg=="
 ---
 

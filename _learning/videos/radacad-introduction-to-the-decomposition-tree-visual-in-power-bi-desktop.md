@@ -4,9 +4,9 @@ excerpt: "In this short video and blog, an introduction to the Decomposition tre
 originalUrl: https://youtube.com/watch?v=qpQG88I1CCo
 type: video
 price: Free
-length: PT6M1S
+length: PT6M
 publishedDateTime: 2020-02-03T04:09:18Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qpQG88I1CCo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5c/Y1CMxDPTEB9KpGFGidYV0rweuqs1Szaqo8z5vv0jfqmvtW5QjSeYP2vAjb2bWrYg1EIkn5O4jWogKR21biNUgt/F7b+AxaLeBsmaxiiTL14HkLsWFHQK5CjweaJPWv5gIcu4MGQwLV1CRGNzlODDzRe64uorlWiV1nxWMeIvFtwJx/9/wmEEY1a76SOGFXbbKTMH2tGqEUQBrM0khUfZGuXyFn+BHGLuYykbCZB1fKAid/BltoJv07XCSK5QwceqhLNNVNnNaqCrfWsKQojKhmQ42eFYWlRNyb79Jm9R9S9HDP7tbVbiDfoiRWqumzZpjZ4Q11GfplNsrpvtwAd8M0dLY0iKn+RiJyKcGIiwejArrYrPpvkMUNuAvftcv2mXcziZOiwrmjJX9LBwIiH2oxDR/+DxP9YVTwpj8Kj8=;Ey7aRDOKPgZUPSkrm+EXTg=="
+secured: "UTdd3ig3BLy5hkH8KVVudlPM/KHXZ/zVXgyLGSbTsiHIuv2D9vrRAdBz1zZzTpiY6teEQaFO/cEGkEPQcaF91II5nEE1VrxzxWB+Hiozs3TzDegY5lRtcWBJM7P8KW0HSirj+a8POvMc2El1t73ZeAqD9LgwP8UqLedstPDc/qyJXkL0lBuEaxswubaw63ke46Y1vNvvVpJ1TMjvnSDvFKxiixoOZZe6OyDg1jTONet6ZHbcgytjkJy6oaTFSYT6MVk15rw1IjCGBipc7f3ElhL5pyHHF8VDIZ4pwrcBh8Lkcvx410DZ3g2xvxEEUFX8m2OtrBOBOp5zvw4Ruvd14N//mel6GZssKgzVdx4ZSGzYO5BIBj+XsL5Gpt4BzUj/r0aRoAJ3QG/05Duty548ipG8fbpb0+N7TLf+L51OHCE=;XfhcPiqmCguXAoooLtc80g=="
 ---
 
