@@ -1028,8 +1028,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 16,
-            "average": 4.8125
+            "count": 17,
+            "average": 4.8235292
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2383,8 +2383,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 7693,
-            "average": 4.7038865
+            "count": 7694,
+            "average": 4.703925
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2551,8 +2551,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 4581,
-            "average": 4.7703557
+            "count": 4582,
+            "average": 4.770406
           },
           "provider": {
             "name": "Microsoft Learn",
