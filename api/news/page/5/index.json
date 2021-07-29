@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-18-microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data.md",
+      "title": "Microsoft's Power BI gets new tools to prevent leakage of confidential data",
+      "excerpt": "Information protection makes sure that only people with permissions see data in Power BI, while retaining the ability to share top-level trends, balancing productivity and security.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-18-microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/index.json",
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/84394/index.php/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/84394/index.php/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/16/6019d476-0c66-40e4-b5ca-b80d5252877a/resize/1200x/e1d5970752b3dd7fd791624baa2b3365/ms-power-bi-ulag-2.jpg",
+          "width": 1200,
+          "height": 1218,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/84394/index.php/google-amp/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/84394/index.php/google-amp/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/",
+      "publishedDateTime": "2021-02-17T08:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data.md",
       "title": "Microsoft's Power BI gets new tools to prevent leakage of confidential data",
       "excerpt": "Information protection makes sure that only people with permissions see data in Power BI, while retaining the ability to share top-level trends, balancing productivity and security. Microsoft's ...",
@@ -1223,58 +1274,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-17-anomaly-detection-preview-is-now-supported-in-power-bi-mobile-apps.md",
-      "title": "Anomaly detection (preview) is now supported in Power BI Mobile apps",
-      "excerpt": "With the the latest Power BI Mobile apps release report consumers can view and understand anomalies directly from the mobile apps! This capability is available on all apps (iOS, Android, Windows), in all supported form factors (phone, tablet, iPad, and laptop/desktop, including Surface Hub).",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-17-anomaly-detection-preview-is-now-supported-in-power-bi-mobile-apps/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview-is-now-supported-in-power-bi-mobile-apps/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview-is-now-supported-in-power-bi-mobile-apps/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JC8xM74Bhlo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T16:49:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-23-updates-to-power-bi-publish-to-web-for-better-public-reporting.md",
+      "title": "Updates to Power BI Publish to web for better public reporting",
+      "excerpt": "Power BI Publish to web helps organizations share data on public websites, enabling communities to stay informed. Learn how you can make your reports load faster for users, and provide improved experiences in the event your report experiences heavy usage. ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-23-updates-to-power-bi-publish-to-web-for-better-public-reporting/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/updates-to-power-bi-publish-to-web-for-better-public-reporting/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/updates-to-power-bi-publish-to-web-for-better-public-reporting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2020/10/publishToWebPlaceholder.gif",
+          "width": 2198,
+          "height": 1458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T10:10:58-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-join-us-thursday-october-22-power-platform-community-conference.md",
       "title": "Join us! Thursday October 22 Power Platform Community Conference",
       "excerpt": "We are thrilled to come together with you to host another online Power Platform Community Conference this year! Click here for more details.",
@@ -1189,57 +1240,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-09-22T01:30:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-announcing-deployment-pipelines-general-availability-ga.md",
-      "title": "Announcing deployment pipelines General Availability (GA)",
-      "excerpt": "we are excited to announce that deployment pipelines become GA, along with additional new features.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-22-announcing-deployment-pipelines-general-availability-ga/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-deployment-pipelines-general-availability-ga/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-deployment-pipelines-general-availability-ga/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T01:30:01-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

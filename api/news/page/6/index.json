@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-12-17-anomaly-detection-preview-is-now-supported-in-power-bi-mobile-apps.md",
+      "title": "Anomaly detection (preview) is now supported in Power BI Mobile apps",
+      "excerpt": "With the the latest Power BI Mobile apps release report consumers can view and understand anomalies directly from the mobile apps! This capability is available on all apps (iOS, Android, Windows), in all supported form factors (phone, tablet, iPad, and laptop/desktop, including Surface Hub).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-17-anomaly-detection-preview-is-now-supported-in-power-bi-mobile-apps/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview-is-now-supported-in-power-bi-mobile-apps/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview-is-now-supported-in-power-bi-mobile-apps/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JC8xM74Bhlo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T16:49:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-mariadb-direct-query-adapter-now-available-and-certified-in-microsoft-power-bi.md",
       "title": "MariaDB Direct Query Adapter Now Available and Certified in Microsoft Power BI",
       "excerpt": "Before it's here, it's on the Bloomberg Terminal.",
@@ -1204,57 +1256,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-29T22:00:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-moving-on-premises-as-and-rs-bi-solutions-to-azure-and-closer-to-power-bi.md",
-      "title": "Moving on-premises AS and RS BI solutions to Azure – and closer to Power BI",
-      "excerpt": "With the availability of virtual machine images for SQL Server Analysis Services (SSAS) and SQL Server Reporting Services (SSRS) in Azure Marketplace, you can now more easily migrate your AS and RS BI solutions from on-premises to Azure! This is a great opportunity to move your multidimensional workloads",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-25-moving-on-premises-as-and-rs-bi-solutions-to-azure-and-closer-to-power-bi/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/moving-on-premises-as-and-rs-bi-solutions-to-azure-and-closer-to-power-bi/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/moving-on-premises-as-and-rs-bi-solutions-to-azure-and-closer-to-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T00:48:47-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
