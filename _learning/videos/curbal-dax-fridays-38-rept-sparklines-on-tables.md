@@ -4,7 +4,7 @@ excerpt: "In todays video we will go through the REPT function in DAX and will u
 originalUrl: https://youtube.com/watch?v=Y4hlt5VkdmU
 type: video
 price: Free
-length: PT6M42S
+length: PT6M41S
 publishedDateTime: 2017-05-17T18:45:15Z
 heat: 50
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2G+0D/zvMt+6wyVULGdOKRMDaoZBgy56ax18gL7Qz2liDm+qlPv+GppQ2zPQyXU7z/HWnEfsavuW8aTiWqFXOT2F+QatX60E0jvXHz/zHicgpvpUfW7FOTD9NpBfLafNwZiHGPI6w38iHxnnGvejPB3DYsUzE7gSBXQl6/aiV1mWyO46rHyYudmmOUIIF+0TlSWqWDinPeCS/H+ydkLacAHZqkwrXDpV8/9W9oQ+3Pl30ybjSvPhBk7vOV+uipEAeDGfq2KAIv03oKiiTB1cHKw7eJh65B9Mv3QOLs/TRFXc475sPB8wyeOoBqiDORCPyBxavzpVSUluKMZyzQgXx0De95bBxI7oElIxvAzbJKgrgimJMr2/jfq9jBhFQJFbRT40DbthPuHPKM9TgmrjYUwzJub34u/xV67aNmAPf+g=;up7uqbW0cddz/pjC8j4rTw=="
+secured: "oKCX/1O5JrxX55sgkwFR0lGQbCuHtrp5JtDMcEeOcrshnuS1QvTYTllb4QGT1IQn08lOaHaCPcyoryJ8Zbi3sTsVyehG/4V23O2IZCjruhZZkQbpsm0AgGPEV5ZT+0aoRdUd3M/775EL3WjpggKioERRG6VJ1AKUatvNT6Pxx1i0pFatifPEqQUBI58Po/smMOUS6Mc06jhS4+CMvz5g9KeYQNLVKdXafV9ktah1RZdCMQz/iZYEWjv1kto2A4C8GIjUN3i9msfwTu9jeacw6XJGNr5YqcjnFj01X5E1+hchS79QYrpR4mwdfIc5Ao++u4ZUWCNSa2BjE5FnQMzy51pY0Tkn8aiJJtSwUFW2V0pDpWgTsSWNae4ipLCtPAatooGVN3SjJr5V6U5hWSFFce+80mrJqlAO2hAtT+bmSLI=;EEqpAshy+m/oqVvHJUiUQg=="
 ---
 
