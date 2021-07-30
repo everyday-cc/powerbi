@@ -1483,8 +1483,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 63,
-            "average": 4.6031747
+            "count": 64,
+            "average": 4.609375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1525,8 +1525,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 24,
-            "average": 4.5
+            "count": 25,
+            "average": 4.52
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1567,8 +1567,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-calculations/",
           "length": "PT57M",
           "ratings": {
-            "count": 16,
-            "average": 4.1875
+            "count": 17,
+            "average": 4.2352943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1609,8 +1609,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-organize-fields/",
           "length": "PT52M",
           "ratings": {
-            "count": 12,
-            "average": 4.5833335
+            "count": 13,
+            "average": 4.6153846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2505,8 +2505,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 4589,
-            "average": 4.7705383
+            "count": 4590,
+            "average": 4.7705884
           },
           "provider": {
             "name": "Microsoft Learn",
