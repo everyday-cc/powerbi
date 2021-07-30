@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT8M10S
 publishedDateTime: 2021-02-24T16:00:32Z
-heat: 67
+heat: 63
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vZndrBBPiQc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "alICUEtsIgm72vXyqrDK+bpDppxMvgixAwmczZX9O/DXuROGmqhAeEfeNKaRXrSmRHKBsk1KI9EtKmHHua0CMOkSKVdXtZCbez/I6U1N0Z0+2xuZo5N32+nXG3R/rFZhl+7e37PgqHY0yrBUIEyXA9pxlBJUQZO0mdqt+C5on2dNpzUkl6/V8HGNJH19a0rUUOsRvu4QeP77WXtnEAPToJHIegU9qjezPhrlKGy0y7rV0aUkzg5tHplG8TFTC6NsaitgDfbkxRnQD+mXR+jhbb0o+PfPa2tJz/sYtcv9TAwSF4KNkZZJZRS0C0CRMxXDu8b+3/m/UitPQWszd/V7ADTOlos1KulYX09VjrHkvCC+93RBqUJdevjyEUKBkCiCNetRKFL9LOx7NrC3s83TvV2V/4HQbsgMtK7qnAPWEus=;JDZWSd68iblE3PSm9STR8Q=="
+secured: "UkOgS4xvE+Smy+Rvk+Osz/PPmzWZfE97KCh701Lm6S1ba3UKSbsn1uvJ6d0S1vuTAjNrkhGsPAdfqL1S13KfelGxuqa05P24notApy3oWXrswEyII5V2O50qpNRs4xaNtFtqwDttwYqYjRgDjLxk+S/+Olg8Ow5sEdNGsNlvn/sNDyICYJ/ifHZPUqeP3WqP0w2A+w25zOuXKl7ZL5NBhNrJSlVO/+sym/TQu+ByNjVZZlwNr+kjzIEoFaDOJj12j6eOCiltIlzNw9a4ZsPC40Pt1VAZNwUBt9W4T38hRf2OR8Qw3q5CYhloYPtyrudg0Jp62C8U+DKAoBrTEGb9Ul/7iATZXcAoN3PVSshqo+M/hSaLaccBqXGMTBieQerG/Vu53YReqC6E4zEDFoLBtwcqRPc25hMjRm71OPwVuZs=;nQq8plE3w5LVCM01NO434Q=="
 ---
 
