@@ -63,8 +63,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 12030,
-        "average": 4.7512884
+        "count": 12037,
+        "average": 4.751433
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -366,8 +366,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 22125,
-        "average": 4.7267795
+        "count": 22128,
+        "average": 4.7268167
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -844,8 +844,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 6579,
-            "average": 4.768354
+            "count": 6580,
+            "average": 4.768389
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -886,8 +886,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 8160,
-            "average": 4.778799
+            "count": 8161,
+            "average": 4.778826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -946,8 +946,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 8160,
-        "average": 4.778799
+        "count": 8161,
+        "average": 4.778826
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -988,8 +988,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 19827,
-        "average": 4.715136
+        "count": 19828,
+        "average": 4.7151504
       },
       "provider": {
         "name": "Microsoft Learn",
