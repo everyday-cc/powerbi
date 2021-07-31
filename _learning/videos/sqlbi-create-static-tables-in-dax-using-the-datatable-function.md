@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT13M38S
 publishedDateTime: 2021-02-04T11:00:24Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4uVgoVCmdnc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "BMAd9ROtUZzX0/Bx88y68UZNe7K0pb3PvSH9y41RrlIeACNsUUZtmrOpGTytZy2HtVLd3cop7/Gme9EvyWbD0EYqtEkzOeJOtGh+9YzmeABJOdUNhCbj2sC7B0IaKsynMYXHXvR+n/MaL9hEgR0aAU8vqKPlQnYK+NI/98do8WUvpp2n3SGkIT5miufMbpPwX/cKQgGdNQJYisSF7BY858seHGuvaXaL/55vX+f2qoBvaLGxreGrOFUTm9Aq4sxDUReHXENPQwzAm/pPgaXCX2F2HDNtCUQvLybeEopXYaYUAccYLQDX41Y4z1uQpQY5q8O01Z4U1Faww7ENyzWbWZUsR/CHlgsMcEea21TtViWDAO57+aj+KIuTXHIhOeFpmQNt4NU2wlNFoMznTTjjUD5XUdqkvng6dkfQIKuu2EY=;s8ZA7hdyU3PUzThnscTn+g=="
+secured: "k4zLWl6WC8iQ7+CES+sMA9kSfjXbosmBEYxhMIgtUF1t8uRG4db6dCQxB0Q3sTSqbVp1jQ71ejAnAx/aSbSaYTZbc6DNKo9KunlOVrWyCU2WkYaXE4sNVfM5p/Lz96RRCgWii3927gqGsUct7p4wBUKjxnNgYhnBOasNj+nDuIziID2xfs/+yb9kdBRbpeFt+JQSeUXPj8IenSsFmKTj5OS2K/YSMWZ/SBQvJNA9JE7TBZDXstiDs1AxZ1/LX9UGia6F8CZjd0PGJ5tWqrr4vLy7KkCJ5x7fEse6kRjoYQExTQ7p2hLOYhihP6yjg1n6hmkdOyxtTmZTr/sd0FgYc76DCLi0lc81v6MeqbqqJi08FzBPDSgRO3w8XlwevCQLM5hfiNoQsaSngiTd6NisGqwE57g7DtNiyzPo7+/M0d8=;3tzttGEJ4etJ4lMLaedrcw=="
 ---
 
