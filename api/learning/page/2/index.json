@@ -63,8 +63,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 12026,
-        "average": 4.751206
+        "count": 12030,
+        "average": 4.7512884
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -366,8 +366,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 22123,
-        "average": 4.726755
+        "count": 22125,
+        "average": 4.7267795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -844,8 +844,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 6576,
-            "average": 4.768248
+            "count": 6579,
+            "average": 4.768354
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -886,8 +886,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 8157,
-            "average": 4.7787175
+            "count": 8160,
+            "average": 4.778799
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -946,8 +946,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 8157,
-        "average": 4.7787175
+        "count": 8160,
+        "average": 4.778799
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -988,8 +988,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 19824,
-        "average": 4.7150927
+        "count": 19827,
+        "average": 4.715136
       },
       "provider": {
         "name": "Microsoft Learn",
