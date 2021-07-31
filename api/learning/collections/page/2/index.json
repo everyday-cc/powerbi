@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9696,
-            "average": 4.674196
+            "count": 9697,
+            "average": 4.674229
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1314,7 +1314,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-collaboration-social.png",
@@ -2424,8 +2424,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 4283,
-            "average": 4.7562456
+            "count": 4284,
+            "average": 4.7563024
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2954,8 +2954,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2674,
-            "average": 4.802169
+            "count": 2675,
+            "average": 4.8022428
           },
           "provider": {
             "name": "Microsoft Learn",

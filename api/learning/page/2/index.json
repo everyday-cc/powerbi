@@ -56,7 +56,7 @@
         "domain": "radacad.com"
       },
       "publishedDateTime": "2021-07-21T19:42:43-07:00",
-      "heat": 83,
+      "heat": 84,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/17tTYWdhhEs/maxresdefault.jpg",
@@ -135,8 +135,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 40112,
-            "average": 4.767526
+            "count": 40116,
+            "average": 4.767549
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -220,8 +220,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 8533,
-            "average": 4.7194424
+            "count": 8535,
+            "average": 4.719391
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -262,8 +262,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6494,
-            "average": 4.765938
+            "count": 6496,
+            "average": 4.76601
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -400,8 +400,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 12014,
-        "average": 4.751207
+        "count": 12016,
+        "average": 4.751165
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -740,8 +740,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 22113,
-        "average": 4.7266765
+        "count": 22115,
+        "average": 4.7267013
       },
       "provider": {
         "name": "Microsoft Learn",
