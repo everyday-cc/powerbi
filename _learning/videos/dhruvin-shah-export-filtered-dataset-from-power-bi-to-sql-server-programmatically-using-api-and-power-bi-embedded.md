@@ -4,7 +4,7 @@ excerpt: "In this video, we will learn how we can export the filtered data from 
 originalUrl: https://youtube.com/watch?v=5NuTy7FbZ4w
 type: video
 price: Free
-length: PT11M18S
+length: PT11M17S
 publishedDateTime: 2020-01-22T02:59:09Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "uPfTFV1b0HaVEKW5JDe0eywTgHWdmpR2VnKSl+wjBhhAa+VerkRe88BTquQPooMrwwI0+Dn4iFQE79woZET9Im+6XhmkGj16Tdy7xVwEnaq1ZX6+0kRCAI9pfN9huqKo/ptvgTdgV6kHxuu9eU8vZY1SQOHaHM9OliACQRowxRfqCQlftrISF5AFiRqfFowR5Xff5OJ3gHtmw8XpebxgJBjDRPy1a7aJXx0NpiQsX9Mwfne/x7HIQR66WuwUt+L3BR5eWh27dKWexGQEsmnUljb6YzyM5C4TlZwG9jX5QMQ92WIXZx6IGeui59eacQm+wZWeTWyGQT+LwMsdwDYkA1/ilQuwURQ3hD/z0i6b1q2hBHSPYDFsKnbhenzI3tcOd+jxJbI/V1/30GJ+/vqYDhQ3bMqQ+GYIBVWvqZRxygU=;joF4uWFd3uPWn8Zxm7TFwQ=="
+secured: "oCePQPVnOnh9qvi/tfb1vqiLcMpPDXItGS7rcB/7PK3n+h0R8AhKVeXmQYgAltzf28ssJjG3dAbpu6zNYqFipAb84q44CLTacIX5F4i1GexttEM3RmCpR/gXKiltJpuN8kE2OTVM59rVdCvdIBmJSeoVw97MzgDHaJnxSsW0qP4Zja5oBto9tPaUOd7UNGsdXcM6MOxWItx53X4pBZ1hojqoVKjKZfxcVMjXnOjikJ1PcbLKdt9N6sQB7C/mQuJNWdb1a/vDTi7KIgNV1OVL9e3oTso9uXCjMSTNd1tdXJM4DNOp5FEHiNV2b1+6PuavlUcTVzV7NQHCffkv6kWnjAKfDggHqsh7bRKsK+T6iwaJtIWH7ZbMuzaAGAMchKGp5sYrlHegJADfWBJ9lBdJOOIdEd++lpsjNpxiWdrBbbk=;EfFuoecJo8kdx540DRZrhQ=="
 ---
 
