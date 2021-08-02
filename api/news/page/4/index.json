@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-22-see-all-the-power-bi-updates-at-the-microsoft-business-applications-launch-event.md",
+      "title": "See all the Power BI updates at the Microsoft Business Applications Launch Event",
+      "excerpt": "The Microsoft Business Applications Launch Event is almost here. Join us on April 6, 2021, from 9–10:30 AM Pacific Time (UTC -7) to discover how new innovations coming to the 2021 wave 1 release will give you the tools you need to transform your business ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-22-see-all-the-power-bi-updates-at-the-microsoft-business-applications-launch-event/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/see-all-the-power-bi-updates-at-the-microsoft-business-applications-launch-event-2/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/see-all-the-power-bi-updates-at-the-microsoft-business-applications-launch-event-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-22T01:00:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-03-19-summary-update-on-power-bi-desktop-service-and-others-for-march-2021.md",
       "title": "Summary update on Power BI Desktop, Service and Others for March 2021",
       "excerpt": "The new Power BI desktop update is here, this time for March 2021 and we are going to review it together with the Service and Embed updates.  Chapters: 00:14 Reporting news 05:05 Modeling news 08:20 Power BI Service news 09:50 Template apps news 10:00 Power BI embedded news 10:30 Other Done!  Here you",
@@ -1203,57 +1254,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-as-power-bi-aces-gartners-new-magic-quadrant-whats-the-story-behind-microsofts-success.md",
-      "title": "As Power BI aces Gartner's new Magic Quadrant, what's the story behind Microsoft's success?",
-      "excerpt": "Tableau, meanwhile, regressed in both of those dimensions. This gives Microsoft, and its Power BI juggernaut, a huge lead on the competition. And while it's tempting to look at Microsoft as some ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-19-as-power-bi-aces-gartners-new-magic-quadrant-whats-the-story-behind-microsofts-success/index.json",
-      "webUrl": "https://www.zdnet.com/article/as-power-bi-aces-gartners-new-magic-quadrant-whats-the-story-behind-microsofts-success/",
-      "originalUrl": "https://www.zdnet.com/article/as-power-bi-aces-gartners-new-magic-quadrant-whats-the-story-behind-microsofts-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/02/18/833a5742-f0eb-4e4a-bbf2-74c85b491e6e/gartner-2021-bi-mq3.png",
-          "width": 3413,
-          "height": 3744,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/as-power-bi-aces-gartners-new-magic-quadrant-whats-the-story-behind-microsofts-success/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/as-power-bi-aces-gartners-new-magic-quadrant-whats-the-story-behind-microsofts-success/",
-      "publishedDateTime": "2021-02-18T21:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

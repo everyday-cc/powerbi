@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-30-power-bi-updates-maps-rankx-and-more-roundup-nov-30-2020.md",
+      "title": "Power BI updates, Maps, RANKX and more... (Roundup | Nov 30, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Patrick's tech video: https://guyinacu.be/toomanyrows Patrick's 2nd tech video: https://guyinacu.be/visualdataprep  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-30-power-bi-updates-maps-rankx-and-more-roundup-nov-30-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-11-30-power-bi-updates-maps-rankx-and-more-roundup-nov-30-2020/",
+      "originalUrl": "https://youtube.com/watch?v=Jp9VGfLLnOw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jp9VGfLLnOw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Jp9VGfLLnOw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T08:00:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-join-us-power-bi-dev-camp-thursday-17-december-2020.md",
       "title": "Join Us! Power BI Dev Camp! Thursday 17 December, 2020",
       "excerpt": "Step up your game as a Power BI developer by learning how to develop single page applications (SPAs) to embed Power BI reports and dashboards using the ever-popular React.js library. If you&#8217;re able to attend this Power BI Dev Camp session on Thursday, December 17th, you&#8217;ll learn how to design",
@@ -1199,57 +1250,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-27T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-priority-access-sign-up-for-power-bi-premium-per-user-public-preview-now-available.md",
-      "title": "Priority Access sign-up for Power BI Premium per user public preview now available",
-      "excerpt": "We are almost ready to launch the public preview of the new Power BI Premium per user SKU in early to mid-November.  We are excited to give users access to these capabilities as soon as possible, while at the same time ensuring that we are prioritizing the users/tenants that are most interested in previewing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-27-priority-access-sign-up-for-power-bi-premium-per-user-public-preview-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/priority-access-sign-up-for-power-bi-premium-per-user-public-preview-now-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/priority-access-sign-up-for-power-bi-premium-per-user-public-preview-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T01:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
