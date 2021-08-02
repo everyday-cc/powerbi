@@ -990,8 +990,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2412,
-            "average": 4.726368
+            "count": 2413,
+            "average": 4.7264814
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1032,8 +1032,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 2714,
-            "average": 4.714075
+            "count": 2715,
+            "average": 4.7141805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1092,8 +1092,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 2714,
-        "average": 4.714075
+        "count": 2715,
+        "average": 4.7141805
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1134,8 +1134,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 2448,
-        "average": 4.6928105
+        "count": 2449,
+        "average": 4.692936
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1176,8 +1176,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 2046,
-        "average": 4.767351
+        "count": 2048,
+        "average": 4.767578
       },
       "provider": {
         "name": "Microsoft Learn",
