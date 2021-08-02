@@ -4,7 +4,7 @@ excerpt: "As is almost always the case when building Power BI reports, the first
 webUrl: https://exceleratorbi.com.au/improving-my-covid-power-bi-report/
 type: article
 publishedDateTime: 2021-07-27T02:05:59Z
-heat: 130
+heat: 80
 
 provider:
   name: Excelerator BI
