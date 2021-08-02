@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/survey-exploring-visual-s
 webUrl: "https://powerbi.microsoft.com/en-us/blog/survey-exploring-visual-styles-for-creators/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
