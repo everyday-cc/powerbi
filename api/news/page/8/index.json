@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-26-the-enhanced-compute-engine-is-now-enabled-by-default.md",
+      "title": "The enhanced compute engine is now enabled by default",
+      "excerpt": "The enhanced compute engine will be enabled for all new dataflows workloads",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-26-the-enhanced-compute-engine-is-now-enabled-by-default/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/the-enhanced-compute-engine-is-now-enabled-by-default/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/the-enhanced-compute-engine-is-now-enabled-by-default/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-updates-to-power-bi-publish-to-web-for-better-public-reporting.md",
       "title": "Updates to Power BI Publish to web for better public reporting",
       "excerpt": "Power BI Publish to web helps organizations share data on public websites, enabling communities to stay informed. Learn how you can make your reports load faster for users, and provide improved experiences in the event your report experiences heavy usage. ",
@@ -1189,57 +1240,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-09-22T01:30:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-22-power-bi-september-2020-feature-summary.md",
-      "title": "Power BI September 2020 Feature Summary",
-      "excerpt": "Starting this month, we have merged the Power BI Desktop, Service and Mobile blogs so there is one overview of everything that is new in this month. For now, let us get started because we have exciting updates this month! Amongst others, in the analytics area, we introduce a preview of the Smart narratives",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-22-power-bi-september-2020-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-september-2020-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-september-2020-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T01:30:02-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

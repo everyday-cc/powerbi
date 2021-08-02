@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-14-paginated-report-visual-for-power-bi-reports-is-now-available-in-public-preview.md",
+      "title": "Paginated report visual for Power BI reports is now available in public preview",
+      "excerpt": "We’re pleased to announced that the long-anticipated public preview of the paginated report visual for Power BI reports is now available in the June release of Power BI Desktop.  For the first time, this native Power BI visual allows you to render any paginated report you’ve uploaded to the service in",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-14-paginated-report-visual-for-power-bi-reports-is-now-available-in-public-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/paginated-report-visual-for-power-bi-reports-is-now-available-in-public-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/paginated-report-visual-for-power-bi-reports-is-now-available-in-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-14T06:12:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-06-12-microsoft-announces-power-bi-premium.md",
       "title": "Microsoft announces Power BI Premium",
       "excerpt": "Microsoft is expanding its business analytics and intelligence portfolio with the announcement of Power BI Premium. Power BI Premium is an extension of the company’s Power BI solution that ...",
@@ -1216,58 +1267,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-12-add-and-edit-power-bi-data-sources-on-power-platform-admin-center.md",
-      "title": "Add and Edit Power BI data sources on Power Platform Admin Center",
-      "excerpt": "Data Source management enhancements on Power Platform admin center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-12-add-and-edit-power-bi-data-sources-on-power-platform-admin-center/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/add-and-edit-power-bi-data-sources-on-power-platform-admin-center/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/add-and-edit-power-bi-data-sources-on-power-platform-admin-center/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WosoIBDuU-I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-12T07:42:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],
