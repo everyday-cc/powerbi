@@ -2,7 +2,7 @@
 title: "Embed Power BI"
 excerpt: "The ability to embed Power BI into your site or application. This list has videos that are related to the different embedding options for Power BI. This includes Publish to web, the REST APIs and the Power BI Embedded Azure service."
 type: collection
-heat: 61
+heat: 62
 
 provider:
   name: Guy in a Cube
