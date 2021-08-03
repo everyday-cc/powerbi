@@ -2,9 +2,9 @@
 category: news
 title: "DESTINI Estimator Version Comparison Gets a Boost with Microsoft Power BI"
 excerpt: "The connection to Power BI supplements the comparison view of DESTINI Estimator so users outside of the estimating software can access data necessary for better decision-making. Data from a ..."
-publishedDateTime: 2021-07-26T12:05:00Z
-originalUrl: "https://www.businesswire.com/news/home/20210726005021/en/"
-webUrl: "https://www.businesswire.com/news/home/20210726005021/en/"
+publishedDateTime: 2021-07-26T12:37:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210726005021/en/DESTINI-Estimator-Version-Comparison-Gets-a-Boost-with-Microsoft-Power-BI"
+webUrl: "https://www.businesswire.com/news/home/20210726005021/en/DESTINI-Estimator-Version-Comparison-Gets-a-Boost-with-Microsoft-Power-BI"
 type: article
 quality: 16
 heat: 16
@@ -17,6 +17,6 @@ provider:
 topics:
   - Power BI
 
-secured: "qfdOBqWwRbe7dqIaVy/Fopl8c5TNMe2OXoBNOO0EmuE266LHL9xOKPohvdsmHbSvH0dZhBNA66GjHIsFEQbXq6SpV+RS2Ij5e511PTbSUtmyI/uzVrVzv6KRFRcKuDDtJqWF6wL5yxbp8txBua0rViUQWVFc0MhqXZs872ke+SgJtKnF/1BOcGAH2s2zYCd87q9AYPA0GFE5EWICuQc10TUp+pJIROHdIIhrNt57VvZi0LgOxlIpxAuvcR5/ix9rh0YppxtsgM4vXmx3Qw0rkiwv13KU1FSCJ5vTY8lCk+BCGzRnjW3R45+OlqYdmJq/Q/+SivV6dfmylO3T9llFufvwhMU/ZrJihe69/cDaf38=;d+cLkDK+lhYxGk9QjAzYaA=="
+secured: "IJfCkiwBJAG9mIwedhYwJJTyEM0ziSV1hTT+H2hkNiJx9DRRIBHwpgp/GyCiQy3TmwdX0ptIdTbae4/NpEJTEmFVrJa4ulWvzMXCpnVwxMmlVngu7m2QrUDJvfPT7CuNXFfSFoJ1g1Z9KPqYxbrQ2ClTWAojmRdD9HxG9TIssodV/U7WCRqf2tNJwcW3Ck69m7KnBElp6JjKjhjICthFvRYtIqVMHtWz4pInmul1gu5FxZilMV8JjXPX5ugXBjcSw35E0kN0b6roXfcBL53N3l/0qFjGAieS7Hai4oJKbEgW/YQZPao0TXjU67uERIbiQQR58YKygDte2y0HbA1D+6M6RU15rKhFS0fPkHWvOWw=;htPSmiye5v36vH+fPWeBUA=="
 ---
 
