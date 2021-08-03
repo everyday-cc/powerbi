@@ -4,37 +4,6 @@
   "page": 56,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-if-eager-dax-function-in-power-bi.md",
-      "title": "IF EAGER DAX function in Power BI",
-      "excerpt": "During this session, we will try to explore one more important DAX function in Power BI. We all aware about IF Expression in Power BI. But what about IF.EAGER Dax function? We will talk about basic differences between IF Vs IF.EAGER in Power BI. Also, we will check how we can improve the performance",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-if-eager-dax-function-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-if-eager-dax-function-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=TYeq1xYzTqQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TYeq1xYzTqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M29S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-06-01T23:49:18-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TYeq1xYzTqQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-import-textcsv-using-examples-in-power-bi.md",
       "title": "Import Text/CSV using Examples in Power BI",
       "excerpt": "During this video, we will explore one more feature during August 2020 of Power BI Desktop. So, now let’s explore this feature in detail.  Sometimes, we have our sample data source as Text or CSV format and the source of the data is unstructured. We want to convert our unstructured data to structured",
@@ -908,6 +877,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-qa-tooling-in-power-bi-desktop-review-questions-teach-qa-to-model-by-setting-a-term.md",
+      "title": "Q&A Tooling in Power BI Desktop - Review Questions, Teach Q&A to Model by Setting a Term",
+      "excerpt": "In this vlog, we will talk about QnA tooling in the Power BI. We know, Q&A provide Natural Language Generation Visualization to the users. With this new visualization, it also supports to Manage our Q&A terms with the Q&A capabilities. For better result based on our model data, we can train our Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-qa-tooling-in-power-bi-desktop-review-questions-teach-qa-to-model-by-setting-a-term/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-qa-tooling-in-power-bi-desktop-review-questions-teach-qa-to-model-by-setting-a-term/",
+      "originalUrl": "https://youtube.com/watch?v=tD5QWNFsDm4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tD5QWNFsDm4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M12S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tD5QWNFsDm4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     }
   ],

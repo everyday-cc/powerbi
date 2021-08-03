@@ -4,36 +4,6 @@
   "page": 76,
   "value": [
     {
-      "path": "_learning/videos/power-bi-tips-microsoft-business-application-summit-2019-ribbon-chart-demo.md",
-      "title": "Microsoft Business Application Summit 2019 - Ribbon Chart Demo",
-      "excerpt": "This is the demo from the Data Visualization Best Practices session BRK 3023 from the Microsoft Business Application Summit",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-microsoft-business-application-summit-2019-ribbon-chart-demo/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-microsoft-business-application-summit-2019-ribbon-chart-demo/",
-      "originalUrl": "https://youtube.com/watch?v=mxtwyW7epwI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mxtwyW7epwI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M25S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2019-10-23T13:40:48-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mxtwyW7epwI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/power-bi-tips-power-bi-custom-visuals-with-charticulator.md",
       "title": "Power BI Custom Visuals with Charticulator",
       "excerpt": "#PowerBI #Visualization #CustomVisual #Charticulator",
@@ -912,6 +882,37 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-create-a-table-with-a-to-z-character-values-in-power-bi-using-dax.md",
+      "title": "Create a Table with A to Z Character Values in Power BI Using DAX",
+      "excerpt": "I have explained previously that you can use GenerateSeries function in DAX to create a list of number, date or time, or even currency values. However, sometimes you might need to create a list of text values. Such as alphabet; from \"a\" to \"z\" lowercase, or uppercase. The good news is that you can do",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-create-a-table-with-a-to-z-character-values-in-power-bi-using-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-create-a-table-with-a-to-z-character-values-in-power-bi-using-dax/",
+      "originalUrl": "https://youtube.com/watch?v=YXE62YnJxJs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YXE62YnJxJs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M27S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-03-23T15:36:46-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YXE62YnJxJs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     }
   ],
