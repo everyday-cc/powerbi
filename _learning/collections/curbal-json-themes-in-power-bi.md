@@ -2,7 +2,7 @@
 title: "JSON Themes in Power BI"
 excerpt: "Learn how to create and modify JSON themes in Power BI"
 type: collection
-heat: 60
+heat: 61
 
 provider:
   name: Curbal
