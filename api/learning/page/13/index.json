@@ -740,8 +740,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2424,
-            "average": 4.72566
+            "count": 2425,
+            "average": 4.7249484
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -926,8 +926,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 3017,
-        "average": 4.6559496
+        "count": 3018,
+        "average": 4.6560636
       },
       "provider": {
         "name": "Microsoft Learn",
