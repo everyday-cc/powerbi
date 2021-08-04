@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-08-13-power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more.md",
+      "title": "Power BI Mobile introduces improved navigation experience, updated headers, and more",
+      "excerpt": "In March, Microsoft introduced a bunch of new features to Power BI Mobile, with emphasis on user control. Later in the same month, the tech giant unveiled a performance enhancement for the Power BI service, which soon after made its way to Mobile and ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-08-13-power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more/index.json",
+      "webUrl": "https://www.neowin.net/news/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more",
+      "originalUrl": "https://www.neowin.net/news/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779296_powerbi2_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-mobile-introduces-improved-navigation-experience-updated-headers-and-more/",
+      "publishedDateTime": "2020-08-13T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-08-13-join-us-monthly-power-bi-dev-camp-is-here-starting-august-27-2020.md",
       "title": "Join Us! Monthly Power BI Dev Camp is Here! Starting August 27, 2020",
       "excerpt": "This month&#8217;s Power BI Dev Camp topic is &#8220;Developing with .NET Core&#8221;. Learn how to develop custom web applications for Power BI using .NET Core 3.1 and .NET 5. In this session, campers will learn best practices for acquiring and caching access tokens in cloud-based development and learn",
@@ -1189,57 +1240,6 @@
       "ampWebUrl": "https://www.neowin.net/amp/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/",
       "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/",
       "publishedDateTime": "2020-06-29T13:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-06-29-save-95-off-the-cost-of-this-data-analysis-with-excel-power-bi-bundle.md",
-      "title": "Save 95% off the cost of this Data Analysis with Excel + Power BI Bundle",
-      "excerpt": "Length of time users can access this course: lifetime Certification of completion included Updates included Redemption deadline: redeem your code within 30 days of purchase See all Online Courses ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-06-29-save-95-off-the-cost-of-this-data-analysis-with-excel-power-bi-bundle/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-06-29-save-95-off-the-cost-of-this-data-analysis-with-excel-power-bi-bundle/",
-      "originalUrl": "https://www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1593420028_product_40096_product_shot_wide_story.jpg",
-          "width": 760,
-          "height": 380,
-          "title": "Save 95% off the cost of this Data Analysis with Excel + Power BI Bundle",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/save-95-off-the-cost-of-this-data-analysis-with-excel--power-bi-bundle",
-      "publishedDateTime": "2020-06-29T09:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Neowin",
