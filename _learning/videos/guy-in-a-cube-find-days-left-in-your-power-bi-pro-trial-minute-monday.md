@@ -4,7 +4,7 @@ excerpt: "Patrick clued me into a neat item when you sign into Power BI. If you 
 originalUrl: https://youtube.com/watch?v=x9skfZmOdI4
 type: video
 price: Free
-length: PT1M12S
+length: PT1M13S
 publishedDateTime: 2017-06-05T16:36:24Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ueVV/ETUHsoag/u2Ejg5r5KZuYssKtMXVuQ3TeC+nIYFjFoCKOseMqvW/qhXHogjRfcUH2X8ugFKFBiP63GfO+e6j4bbfWyEzLK3CfXlP/EYDKo05HcQu2fukiMoNGfsh/6V8GPT5RJT3KsKkupndBwiY9ofEKZeaMuPYnB1PAsKRsQxOW1eMOr2linEyoFTL7oTcCPjF+vB9TEfBFdaBIcRA/8j19LegsmX3kbu2kOZRFzC4+z9qrw3eHpKAHC2p5F0Mwji+S30qs+QYcbx0hfyszfITqNuRAmNvDWTNwPTIETl+3g7YZ/h/U3XR52XJrJH6gxqcA+c6oQcRQ2aw9yibFYRBXRybB+THaD0LKZEbM7CfrL63g7TwYp9ncGyN8Lnb68ITFLfhAu4qyrMzZA0VMaC/EAs40jRtyp6n0Q=;6XX8CzGpGWVUXijNRK3v4g=="
+secured: "WW3atfuKaaFdUh6UBTzutms2g+aHw1OYcIYs8YDBfwYqTDoT6ZWeWnFIrhEuH6AU4u0QW250Im2MPkrsrSwNjIFUrsHNPAjtVG5IO7Mk88BEL1AB1j9roWC1gfQ9dIxQkW9lMXd8jFnyhf8a1MM0nWuia5xLxnRAJ66kEDIsKHktHre/hZz3WS9r4ohrkdoXFHAcbZ6bVcpQn13/totbXHSkIPHcjpjlG6REwlfUDfWXzlTtrMnqq5c7ybHLEaQCSYgAALmxFFzFKToTT89qNn/jwfCIK7de7t39arIRAw0Me6uOgXRv1Hz/rGwOjdHOZIMs3y9PRDPW9dZLA4E4OmxK5TkdA5kQ+oH5kGPKqvVEIl9W/Sy/sap/Q855ogyyWXxvRUHm9zLK5yk2Bch3AT2Mc7NKQkgnchN8qtQdzV4=;3u84zQrrlshtIoRFgLHqHg=="
 ---
 
