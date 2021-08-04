@@ -4,7 +4,7 @@ excerpt: "As promised, today I am sharing with you the process I went through to
 webUrl: https://exceleratorbi.com.au/building-a-power-bi-report-from-scratch/
 type: article
 publishedDateTime: 2021-07-21T20:55:57Z
-heat: 80
+heat: 50
 
 provider:
   name: Excelerator BI
