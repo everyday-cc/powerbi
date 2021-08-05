@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-june-2021-featur
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-june-2021-feature-summary/"
 type: article
 quality: 189
-heat: 189
+heat: 190
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i-KYRwIJX6s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
