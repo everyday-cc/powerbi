@@ -1239,8 +1239,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 42,
-            "average": 4.4761906
+            "count": 43,
+            "average": 4.4883723
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1281,8 +1281,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 43,
-            "average": 4.72093
+            "count": 44,
+            "average": 4.7272725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2075,8 +2075,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 4375,
-            "average": 4.7584
+            "count": 4376,
+            "average": 4.7584553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2470,7 +2470,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3250,7 +3250,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/row-level-security-power-bi-social.png",
@@ -3268,7 +3268,7 @@
         }
       ],
       "size": 3,
-      "heat": 52,
+      "heat": 53,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-manage-workspaces-power-bi-social.png",

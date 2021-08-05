@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 22989,
-            "average": 4.796033
+            "count": 22993,
+            "average": 4.796025
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 40518,
-            "average": 4.768251
+            "count": 40522,
+            "average": 4.768274
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 40518,
-            "average": 4.768251
+            "count": 40522,
+            "average": 4.768274
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2574,8 +2574,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 2460,
-            "average": 4.6910567
+            "count": 2461,
+            "average": 4.6911826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2616,8 +2616,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 2895,
-            "average": 4.733679
+            "count": 2896,
+            "average": 4.733771
           },
           "provider": {
             "name": "Microsoft Learn",
