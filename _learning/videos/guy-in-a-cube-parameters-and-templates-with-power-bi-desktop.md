@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M52S
 publishedDateTime: 2017-09-13T15:10:24Z
-heat: 58
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JlUfz18cx_w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Parameters and Templates with Power BI Desktop"
 
-secured: "jJC+H64iWI55Yt6kX6Wx4O4NwC7dxYdb6MR0rKDG+EthwwMZtFlNOC7ATvi/ksfpsyrxI8IO+jV0W3gd1z1VeT1msq28ScPGQVwER/UuttFyXWocmzGFno2RxXjnMRV8veeDSCvldqUPXolkg5IBTe1F2nhMpqGIcxwY8KwC0bABj72IMnpwLc8UvAhiULzMMQ4+z1I5fWyWPYNzOnetWwmql/oF9hygmIzJKP2s6pVmJfGNoJCeXMCkxz1eIUF9vmXFYR3hQn1dZDzodI1JY62ROkljNxy5hgRQ+TP7Ae1jjixiEkE+xypYE4XdHr8nG9NXJLkg9BG0GpBeoGz5kYnfNI017JS7EWDHe5hHQkpAXJuVg9KnUjwdhh00sPrvBlXehVyDelfUbbCDgs/t3+m6acBKa7lz9so3lnUEj+Y=;I8KTb0z276Jgcf+Spo4BeQ=="
+secured: "Rpb8FPdNOEZ62ZYF7pJO6AYv8YAdim/JzUTEGvyZK+pdZlP/L2+Je1BxBAz/34UYpURe50rwcE9j7X0NJcxY/v1hQ5oU15uZgLM1d7K1JoWp+WOISJ8Lj3MCpzb3/z1hEdeOD0BXrANL2sDXrjWZ/d7xHpq2UziaEfLjvGlNGKx7AUvY56/xbeJoo5YTqDV7BLJ89KGTXjM7lNSdXlp1SwpT2/L8GUgO7UwEDAu1AsO1MAEo5CjualZk9xr4QLmDbG7isRWL0mY6EYUqqw3vuU0RiaVuGj3hTRnffMH+OJqElBUtMxig/2xK9iK0FIZVl5MWJ2lQISSvR6M/AZz1Ti/AJYYRzm8dpsU5/rtiT/Fq7c+RRyd6I8qkeVBh+D29XPrP61U2I4GIHwT0iLDJVZkfH81zTKKSY1Q2M7HycbM=;Xgr+IlNcPCiSx94iAsSKDw=="
 ---
 
