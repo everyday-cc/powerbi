@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-general-availa
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-of-backup-and-restore-for-power-bi-datasets/"
 type: article
 quality: 85
-heat: 86
+heat: 85
 published: true
 
 provider:
