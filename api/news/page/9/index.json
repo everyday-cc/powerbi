@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-09-22-power-bi-for-teams-enters-preview-premium-per-user-offering-introduced.md",
+      "title": "Power BI for Teams enters preview, Premium Per User offering introduced",
+      "excerpt": "In August, Microsoft introduced an improved navigation experience for Power BI Mobile. This month, meanwhile, the 'new look' for the service was further updated, bringing it closer to becoming the default experience for all users. At Ignite 2020 today ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-22-power-bi-for-teams-enters-preview-premium-per-user-offering-introduced/index.json",
+      "webUrl": "https://www.neowin.net/news/power-bi-for-teams-enters-preview-premium-per-user-offering-introduced",
+      "originalUrl": "https://www.neowin.net/news/power-bi-for-teams-enters-preview-premium-per-user-offering-introduced",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/09/1600610905_powerbi1-ignite2020_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/power-bi-for-teams-enters-preview-premium-per-user-offering-introduced/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-for-teams-enters-preview-premium-per-user-offering-introduced/",
+      "publishedDateTime": "2020-09-22T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-announcing-new-power-bi-experiences-in-microsoft-teams.md",
       "title": "Announcing: New Power BI experiences in Microsoft Teams",
       "excerpt": "The way we work is changing dramatically. It’s more connected, collaborative, and often done remotely. Organizations need tools to help everyone infuse data into every decision. We’re excited to announce new Power BI integrations for Microsoft Teams to make it easier to discover and use data within your",
@@ -1208,48 +1259,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-17-building-a-bank-that-can-surprise-and-delight-with-power-bi.md",
-      "title": "Building A Bank that can Surprise and Delight with Power BI",
-      "excerpt": "When Metro Bank opened in London in 2010, it was a brash competitor in a seriously traditional industry. The vision is to redefine the relationship people have with their bank by innovating ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-08-17-building-a-bank-that-can-surprise-and-delight-with-power-bi/index.json",
-      "webUrl": "https://www.techrepublic.com/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/",
-      "originalUrl": "https://www.techrepublic.com/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/casestudies/building-a-bank-that-can-surprise-and-delight-with-power-bi/",
-      "publishedDateTime": "2020-08-17T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
