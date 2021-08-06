@@ -4,36 +4,6 @@
   "page": 72,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-july-2018-update-end-the-fighting-between-it-and-business-composite-models-are-here.md",
-      "title": "Power BI July 2018 Update: End the Fighting Between IT and Business! (Composite Models are Here)",
-      "excerpt": "Join the 5-Day Power BI Challenge: http://web.learnpowerbi.com/challenge  Watch the Complete July Update Video: https://youtu.be/Mtig3rmIUe0  FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download ✅ Subscribe to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-july-2018-update-end-the-fighting-between-it-and-business-composite-models-are-here/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-july-2018-update-end-the-fighting-between-it-and-business-composite-models-are-here/",
-      "originalUrl": "https://youtube.com/watch?v=3IqOpcE7TQw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3IqOpcE7TQw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M24S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-07-24T21:03:46-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3IqOpcE7TQw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-june-2018-update-in-5-minutes-find-out-whats-missing-in-this-update.md",
       "title": "Power BI June 2018 Update in 5 minutes (Find out what’s missing in this update!)",
       "excerpt": "We cover the Power BI June 2018 Update, giving you only what you need to know in about 5 minutes or so :-) The biggest news with this update may actually be what’s missing from this update. Find out, when you watch this video. ---------------------------------------------------------------------------------------------------",
@@ -895,6 +865,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/imlx-KNKiMo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-real-power-bi-project-presentations-nov-8-talk-power-bi-live-subscribe-join.md",
+      "title": "Real Power BI Project Presentations (Nov 8) 🔴Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "Want to see how real consultants work on real Power BI projects? Join us LIVE and watch the project presentations by Power BI Professionals in our Pro+ program.  👉 Want to become a successful Power BI Consultant? Check out our Pro+ Program at https://www.LearnPowerBI.com/proplus 👉 For more info on",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-real-power-bi-project-presentations-nov-8-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-real-power-bi-project-presentations-nov-8-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=wJFB4idOqwg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wJFB4idOqwg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H18M7S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-09-13T04:52:28-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wJFB4idOqwg/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
