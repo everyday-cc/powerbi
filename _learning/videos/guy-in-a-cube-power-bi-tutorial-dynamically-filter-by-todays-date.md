@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M50S
 publishedDateTime: 2018-08-08T13:13:25Z
-heat: 68
+heat: 63
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lkHFpmA4SJ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8lyh7bYS3Waj5+BVcp0cM+78M25SQctMZmgPIjFPFb3WwE5poER81ppEOfmNL+cMmGn9fztUutEm7MpCdrwM2CVzB9OpPDXgKz5im8QFVNcrKrXdJAVtwBPxmk71YN+obSB9fRGVyTArTqUh8upZ32G9yhAKKlzOJmBXWXo5pCOUBKUw8CmxqOXA6SOr2IIYeISsnRP3K+b68SKX/UwlMi/7MFzd3kVpDfIok/XsAROLkyUdX1JYjp+FD2q9WDyeGe8Uxit6Bqncq4hhK/AjGCrY6mcBO1CkktD+0wSCyDzZXsq9Jkv7V5sGUb0MPmikcWsJyoTHd4GW7jIIW/GUE7JpVJIKLObV9EHHS4iBrf3vchoIJcfLQkP+QYDFE5x1K8j9WqdxCTI3Yg6z48npb2p+qdfjthxr3Ac40ykSEQG0f7oS9nhbxSQdi2EuSuYP;IC/me5CJezx/pSyifRDNkQ=="
+secured: "Mqufrnvrboy6m4+UNJOpR4bVMseD81xzVGvx5Z4e/6bbctyYfuUsKpW4k22n+1pH494yFiQEmVqv7lc9O8WtE8dXrUqu5nlv/Y3Cf6qeY5HOIe/XzoYtYa1e9+kmqY8wAmuNx5TxvAsMe18KYphy9UXE2N47uqxJSCNwLmDd1Okw/wGE0eNJu9ai4hWlcNQQJkqn7BrRjHe2It89cqhH/It8zyGkdXaidrsRZOC2j1Wm1ddI8Ne6XLM796uj+Ute4EGEKlpQZRGc9HH4tPEOYFrF11Ce+8wtGmkpKacVZ9c+rloirYuCHGi8Y3USuw3t2752wbaCGm/F6aGDg0zpCAkoemH5uAApAEEkow/gbY4ODCZlDtDpXIRqSJ42nQirDJd3j2KDHUGP8re2nRVvDbRMI/rPqVi+UThsLxqSE/AwtufL3dP9M3tXdZxJ+mS7;n8KBIhacyu6XfoXD1pHSuA=="
 ---
 
