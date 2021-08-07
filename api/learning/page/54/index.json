@@ -787,6 +787,36 @@
       ]
     },
     {
+      "path": "_learning/videos/dhruvin-shah-all-you-should-know-about-power-automate-visual-in-power-bi.md",
+      "title": "All you should know about Power Automate Visual in Power BI",
+      "excerpt": "Welcome to the real-world use cases and scenarios series for Power Automate visual in Power BI. Microsoft recently announced the new Power Automate visual for Power BI Reports. This new functionality opens up lots of flexibility to achieve so many functionalities. We can empower our end users to go from",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-all-you-should-know-about-power-automate-visual-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-all-you-should-know-about-power-automate-visual-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=JIjCDo1qY6o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JIjCDo1qY6o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M50S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-06-01T01:55:27-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JIjCDo1qY6o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-allow-contributor-role-users-to-update-power-bi-app-content.md",
       "title": "Allow Contributor Role Users to Update Power BI App Content",
       "excerpt": "In this session we will talk about the new feature rolled out by Microsoft during this week. Earlier only Workspace admin and members were able to Update the Power BI App.  With this new update, now users who have a contributor role will also be able to Update the Power BI App.  In this session, we will",
@@ -806,36 +836,6 @@
           "url": "https://i.ytimg.com/vi/dl2zhzVy6vI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-analyze-your-personal-activity-in-microsoft-teams-with-power-bi.md",
-      "title": "Analyze your Personal Activity in Microsoft Teams with Power BI",
-      "excerpt": "Microsoft recently announced this new feature where you can analyze your own Personal Activity within Microsoft Teams in one click with a new Power BI ‘Teams activity analytics’ report. This feature is in Preview at this moment. So, during this session, I’m going to talk about how to analyze your personal",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-analyze-your-personal-activity-in-microsoft-teams-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-analyze-your-personal-activity-in-microsoft-teams-with-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=zsqXrQmZpmc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zsqXrQmZpmc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M31S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-06-13T06:04:33-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zsqXrQmZpmc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],

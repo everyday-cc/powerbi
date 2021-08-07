@@ -4,32 +4,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_learning/articles/excelerator-bi-case-fatality-rate-for-covid-in-australia.md",
-      "title": "Case Fatality Rate for COVID in Australia",
-      "excerpt": "I am writing an off-topic article today but I promise I will circle back later in the week with a follow up article bringing it back on topic. In this article, I am going to share a COVID report I built today, and later in the week I will post [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-case-fatality-rate-for-covid-in-australia/index.json",
-      "webUrl": "https://exceleratorbi.com.au/infection-fatality-rate-for-covid-in-australia/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-07-19T01:22:47-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/05/Power-Query-Academy-Logo-450x216.png",
-          "width": 450,
-          "height": 216,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/articles/excelerator-bi-compare-any-two-of-anything-in-power-bi.md",
       "title": "Compare Any Two of Anything in Power BI",
       "excerpt": "I have been increasingly recording videos as my method of sharing tips and techniques for getting more out of Power BI. Some concepts are best documented (traditional blogging) and some are just easier for everyone if it is a video. That is the case again for today. Compare Any Two [...]Read More »",
@@ -1144,6 +1118,48 @@
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-connect-power-platform-to-sap-azure.md",
+      "title": "Connect Power Platform to SAP on Azure",
+      "excerpt": "Connect Power Platform to SAP on Azure",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-connect-power-platform-to-sap-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-power-platform-to-sap-azure/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 12,
+        "average": 4.8333335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/azure-sap-connect-power-platform-social.png",
+          "width": 1280,
+          "height": 641,
           "isCached": true
         }
       ],
