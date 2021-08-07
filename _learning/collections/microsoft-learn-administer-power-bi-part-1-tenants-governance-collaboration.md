@@ -4,7 +4,7 @@ excerpt: "As an administrator, how do you manage a Power BI tenant? How do you c
 type: collection
 price: Free
 length: PT1H30M
-heat: 62
+heat: 60
 
 provider:
   name: Microsoft Learn
