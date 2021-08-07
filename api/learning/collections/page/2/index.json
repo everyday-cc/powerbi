@@ -2537,8 +2537,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 1491,
-            "average": 4.75721
+            "count": 1492,
+            "average": 4.7567024
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2981,7 +2981,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/ai-visuals-power-bi-social.png",
