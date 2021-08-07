@@ -4,6 +4,32 @@
   "page": 41,
   "value": [
     {
+      "path": "_learning/articles/excelerator-bi-compare-any-two-of-anything-in-power-bi.md",
+      "title": "Compare Any Two of Anything in Power BI",
+      "excerpt": "I have been increasingly recording videos as my method of sharing tips and techniques for getting more out of Power BI. Some concepts are best documented (traditional blogging) and some are just easier for everyone if it is a video. That is the case again for today. Compare Any Two [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-compare-any-two-of-anything-in-power-bi/index.json",
+      "webUrl": "https://exceleratorbi.com.au/compare-any-two-of-anything-in-power-bi/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2021-06-28T05:16:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/06/compare-any-2-of-anything.png",
+          "width": 745,
+          "height": 383,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/articles/excelerator-bi-copy-measures-between-2-power-bi-files.md",
       "title": "Copy Measures Between 2 Power BI Files",
       "excerpt": "I first wrote this article back in Jan-2019 and have decided to come back and update it now.  With the recent enhanced External Tools Toolbar in Power BI Desktop, there has never been a better time to start to learn how to use these tools. Have you ever wondered if [...]Read More »",
@@ -516,8 +542,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working/",
           "length": "PT31M",
           "ratings": {
-            "count": 84,
-            "average": 4.714286
+            "count": 85,
+            "average": 4.717647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -558,8 +584,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 99,
-            "average": 4.767677
+            "count": 100,
+            "average": 4.77
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -641,8 +667,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working/",
           "length": "PT31M",
           "ratings": {
-            "count": 84,
-            "average": 4.714286
+            "count": 85,
+            "average": 4.717647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -683,8 +709,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 99,
-            "average": 4.767677
+            "count": 100,
+            "average": 4.77
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1134,48 +1160,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/azure-sap-connect-power-platform-social.png",
           "width": 1280,
           "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-continuous-data-export-from-iot-central.md",
-      "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
-      "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from your previously completed \"Create your first Azure IoT Central app\" Learn module, where you controlled a refrigerated truck. Here, in this module, you add continuous data export to both Azure Blob storage and an event hub. You then build a Power BI app to read and display the telemetry data on a mobile phone.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-continuous-data-export-from-iot-central/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
-      "length": "PT1H9M",
-      "ratings": {
-        "count": 163,
-        "average": 4.5828223
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],
