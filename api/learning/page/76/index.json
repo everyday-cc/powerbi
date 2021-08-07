@@ -4,6 +4,36 @@
   "page": 76,
   "value": [
     {
+      "path": "_learning/videos/power-bi-tips-create-slope-chart-kpi-using-charticulator-and-using-in-power-bi.md",
+      "title": "Create Slope Chart (KPI) using Charticulator and using in Power BI",
+      "excerpt": "This another my investigation on creating a custom visual using Charticulator. I created a Slope Chart that can be used as a KPI visual to measure the trend of a specific group in two different scales. IN this example, I have a simple data set with student Name, their score in 2015 and 2014 and another",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-create-slope-chart-kpi-using-charticulator-and-using-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-create-slope-chart-kpi-using-charticulator-and-using-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=HCAK-vzklWg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HCAK-vzklWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M39S",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "publishedDateTime": "2021-03-11T09:19:56-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HCAK-vzklWg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/power-bi-tips-how-to-build-custom-visuals-without-code-with-power-bi-community-webinar.md",
       "title": "How to build custom visuals without code with Power BI | Community Webinar",
       "excerpt": "In this webinar, learn how to create custom visuals without writing code using a project that originated from Microsoft's own Charticulator. Go through multiple examples of building custom visuals to understand how this tool can fill specific reporting needs.   Learn more: https://community.powerbi.com",
@@ -508,36 +538,6 @@
           "url": "https://i.ytimg.com/vi/E-K2PFuVYQs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-add-prefix-and-suffix-to-a-text-in-power-bi-generate-country-images-and-pages.md",
-      "title": "Add Prefix and Suffix to a Text in Power BI   Generate Country Images and pages",
-      "excerpt": "There are many useful transformations in Power Query for Power BI. One of them is adding the prefix and suffix to a text column. These transformations are very simple to apply and have an immense value in building columns based on patterns and template texts. In this short video and article, I’ll explain",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-add-prefix-and-suffix-to-a-text-in-power-bi-generate-country-images-and-pages/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-add-prefix-and-suffix-to-a-text-in-power-bi-generate-country-images-and-pages/",
-      "originalUrl": "https://youtube.com/watch?v=lt_WMM2Ae8g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lt_WMM2Ae8g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M54S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-06-17T17:11:29-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lt_WMM2Ae8g/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],

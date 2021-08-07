@@ -2071,7 +2071,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2388,8 +2388,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 1009,
-            "average": 4.703667
+            "count": 1010,
+            "average": 4.7029705
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2756,8 +2756,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 3536,
-            "average": 4.704751
+            "count": 3537,
+            "average": 4.7048345
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3053,7 +3053,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/perform-analytics-power-bi-social.png",
@@ -3095,7 +3095,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/ai-visuals-power-bi-social.png",
@@ -3113,7 +3113,7 @@
         }
       ],
       "size": 2,
-      "heat": 54,
+      "heat": 55,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/perform-analytics-power-bi-social.png",
