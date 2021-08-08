@@ -14,7 +14,7 @@ website: https://www.learnpowerbi.com/
 twitter:
   username: powerbipro
   url: https://twitter.com/powerbipro
-  followers: 4842
+  followers: 4841
 
 linkedin:
   url: https://www.linkedin.com/in/avichalsingh/
