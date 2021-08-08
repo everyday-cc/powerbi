@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/quickly-create-reports-po
 webUrl: "https://powerbi.microsoft.com/en-us/blog/quickly-create-reports-power-bi-service/"
 type: article
 quality: 104
-heat: 104
+heat: 108
 published: true
 
 provider:
