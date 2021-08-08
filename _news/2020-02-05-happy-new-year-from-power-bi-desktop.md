@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Happy New Year from Power BI Desktop!"
 
-secured: "VmIi+xxRNJkGEOcGH1nupK6CploJ2A/Kn8dCZmIH88216q4+HS2sZx04zviuEuMPu7UYzi8yoflitASjYheNo6dbwOedpa5VOLr1cqCx+8gsEq+OOiq7W73PZPE+achONzCeNJJaCiSnaaD/eFwoKrnDwa94kg8t5O/y3TSa1UIeUxhHKOtCL2U9OHH+UMUfcJpp4aIe6QPtOBQyTi9B8hhZgA3J8BXCIbCXcUGkdYOr/8Gx/G1lLf71bVZSYIfodygC8t84GYenWs4kyaFElOjUGjgrHWrt0wtkk0M3utIzmWwOnn8vBe5O4inNh+dW3aDi7E5QmSQ/Rdn0q+6WuzzeKb7Ww1LS2l84cYhWUmTJeQHfyXpspcRbXTRVLyLfGYilaWT3ohOZWYtZy5eE++A5c9nBi+XTFgw/+wi/OOI5xD6vZ+iN9btqmA63pGH4;+7ebwIUth33WIdl16Nu+wg=="
+secured: "pXJzXNXd4wE4ODvZc/E/J9hfMjzSI5RPlaUuTUqvNSKV/30sEw7gvZ/hqbt+gguLNXMrItKduIg0ZFpjnDJVR9Laq3YL5s1ZG9pU46dEcEyMopNi/yDighjXbKiBH2Y35V5NS7TSekFGa+sZX+N5JAXEzjf7hTTVcbk1ufMAUh6tDmIQgS0ZUMxnMXsuymK4znvwfOoSf5jH/4G/q+wb7H0tyOt6YY6bbjjgLm0/lUKxnWuBSC+cuVXLzecV+41UrHUGXl5vTUh+dE9wL0a0CKIttNnW+mJQvO5VQ826qjGpDmrTE7ClLrej1Erw/1S68IJWSux04cQJ6HNIqA0OpCiCqsrbUNpq/GZ50imnAQnv7zVfoheNj1H7g3LWKetXtCKkXKdOUGvJ4MR1VskRE2zQtVj/74cs+WZUUu5aKo7qRvZ2moV/xVRkZcrcRWv7;4odTQkarYpKr5/2x4J1g4g=="
 ---
 
