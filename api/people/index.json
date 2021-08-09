@@ -4,6 +4,53 @@
   "page": 1,
   "value": [
     {
+      "path": "_people/patrick-leblanc.md",
+      "title": "Patrick LeBlanc",
+      "excerpt": "Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/patrick-leblanc/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/patrick-leblanc/",
+      "type": "profile",
+      "name": "Patrick LeBlanc",
+      "bio": "Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events.",
+      "location": "Alpharetta, GA",
+      "website": "https://t.co/F5FuW6Huqh",
+      "twitter": {
+        "username": "patrickdba",
+        "url": "https://twitter.com/patrickdba",
+        "followers": 6575
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/patrickdleblanc/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 104,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/415691890080894976/g0hNL2mf_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Patrick LeBlanc",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/arun-ulag.md",
       "title": "Arun Ulag",
       "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
@@ -17,7 +64,7 @@
       "twitter": {
         "username": "arunulag",
         "url": "https://twitter.com/arunulag",
-        "followers": 3711
+        "followers": 3712
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/arunulag/"
@@ -38,7 +85,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 106,
+      "heat": 92,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/625784770333519872/RrSqqUEZ_400x400.jpg",
@@ -85,60 +132,13 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 102,
+      "heat": 87,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Adam Saxton",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/patrick-leblanc.md",
-      "title": "Patrick LeBlanc",
-      "excerpt": "Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/patrick-leblanc/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/patrick-leblanc/",
-      "type": "profile",
-      "name": "Patrick LeBlanc",
-      "bio": "Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events.",
-      "location": "Alpharetta, GA",
-      "website": "https://t.co/F5FuW6Huqh",
-      "twitter": {
-        "username": "patrickdba",
-        "url": "https://twitter.com/patrickdba",
-        "followers": 6574
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/patrickdleblanc/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 89,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/415691890080894976/g0hNL2mf_400x400.jpeg",
-          "width": 400,
-          "height": 400,
-          "title": "Patrick LeBlanc",
           "isCached": true
         }
       ],
@@ -171,7 +171,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 83,
+      "heat": 82,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
@@ -210,7 +210,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 78,
+      "heat": 57,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
@@ -286,7 +286,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 41,
+      "heat": 50,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
