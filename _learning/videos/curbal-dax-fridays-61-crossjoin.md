@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M9S
 publishedDateTime: 2017-12-01T14:02:13Z
-heat: 50
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2laBGpCdc4g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "BNhRiQf9Lx/dtTGEVxf2KGF82paXBKDZ766P6lufsRkuKIbteOl7nvFs/4XyB5oruE4tPB6pvYPPStfAGbT7lGQ9zPx2J7ql6dvzlLKIS77CDKAQ4zbLcuAV/DYtEO5ZdIG8CJ4x+Lwmmo9QwHNcgtCRy1ekjRq3mm+CSds+6tbjnk9AZN5sxwCffFLNmB9HGon9HwsLZsf6GiOSoq5ohqrp3pv8LX9XmODOBmCWpurrYnEcE12fvl/uPqVVTwMMUaQEW2woUcA1K5jubKZgx70rN+o1t+IMafigBl7CPvy9KCm+h80AwAR/Uo1QZRj1jVw2ZXDnuI3JTb2RYwcKQfdOZa0KdmTvFLAYIi57AMTT2skvtsx19Wj3BEW+30bKLVLGWBkt23eO/wGsiWXaY0Z1dOxSS8+MwKlXTiUaoIc=;T5oR06tIfzrXLTsv0R23Ng=="
+secured: "WoamyWjiRB+hcomWQphnkAoRmasq/hFUKv5mYnUrHvMvGLsj1Cpc6C6Zh3LV5YBT/jiffUfkU9il8GDZ4LAsEDVMIVKl+2Lt8rpgzo8rYiVMGoqJdqvG7xj5o5UUXRhasuMp8pThn4qUXmKtlutjAn51VyaJr+FFqfxXGxOM0653k083nO6A1KYGmGqA54t4izgVqBT/W5iRGnDOuWWiUVIGD8wi+KiGI7xpbjy4JZbax4+svMSDyq8rwiXKJ0lPkGDh7Tc3J1gW7AA54mAd/jDa4HO+aUjgchhF61AyjQOTMRk8gNBvHUZwEbNE9nD1smiNaOtdwANhGLGhIAECFB8eeZqnzfy2fbiHp9Joy7cIAlidD71DVNPIs48J5unLtyRSunKNuZMfV1Z5tt9o6/0MUim2TiI4UCkgvaFkIgw=;C3PYlhk5gMoui9oT+OfbXQ=="
 ---
 
