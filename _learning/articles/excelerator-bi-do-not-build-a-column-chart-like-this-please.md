@@ -4,7 +4,7 @@ excerpt: "I was inspired into action this week by one of the worst visuals I hav
 webUrl: https://exceleratorbi.com.au/do-not-build-a-column-chart-like-this-please/
 type: article
 publishedDateTime: 2021-08-05T22:01:44Z
-heat: 134
+heat: 135
 
 provider:
   name: Excelerator BI
