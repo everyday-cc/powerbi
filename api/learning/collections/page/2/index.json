@@ -2091,7 +2091,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2460,8 +2460,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9799,
-            "average": 4.675375
+            "count": 9800,
+            "average": 4.6754084
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3232,8 +3232,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 101,
-            "average": 4.7722774
+            "count": 102,
+            "average": 4.77451
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3357,8 +3357,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 101,
-            "average": 4.7722774
+            "count": 102,
+            "average": 4.77451
           },
           "provider": {
             "name": "Microsoft Learn",
