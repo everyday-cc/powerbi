@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-03-09-mythbusting-microsoft-mcsa-certification-rumors-this-is-the-new-path-forward.md",
+      "title": "Mythbusting Microsoft MCSA certification rumors | THIS IS THE NEW PATH FORWARD",
+      "excerpt": "Let's bust some Microsoft MCSA certification myths and bring some clarity!!  Link ot the certification pages: https://docs.microsoft.com/en-us/learn/certifications/browse/ Link to DA-100 equivalent of 70-778 exam: https://docs.microsoft.com/en-us/learn/certifications/exams/da-100 Link to New Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-03-09-mythbusting-microsoft-mcsa-certification-rumors-this-is-the-new-path-forward/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-03-09-mythbusting-microsoft-mcsa-certification-rumors-this-is-the-new-path-forward/",
+      "originalUrl": "https://youtube.com/watch?v=xGIq_K7KWnA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xGIq_K7KWnA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xGIq_K7KWnA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-09T05:31:59-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2020-03-02-power-bi-exam-sql-and-microsoft-bi-certifications-retired-what-do-i-do-now.md",
       "title": "Power BI exam, SQL  and Microsoft BI certifications retired | WHAT DO I DO NOW?",
       "excerpt": "Microsoft retiring old certifications | What do I do know?  Have you heard that microsoft is retiring the SQL and BI certifications as well as the Power BI and Excel exams by June 30th, 2020?  In this video I will explain what is going on, answer the most common questions and showing a path forward in",
@@ -1252,58 +1304,6 @@
         "Power BI",
         "Power BI Desktop",
         "Dataflows"
-      ]
-    },
-    {
-      "path": "_news/2018-12-13-align-visuals-tooltips-on-buttons-and-other-improvements-power-week-1218.md",
-      "title": "Align Visuals, tooltips on buttons and other improvements | Power Week 12.18",
-      "excerpt": "So would you prefer as default functionality? Highlight or filter?  Other than that, we talk about alignment of visuals and tooltips on buttons.  Happy Power Week everybody  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-12-13-align-visuals-tooltips-on-buttons-and-other-improvements-power-week-1218/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2018-12-13-align-visuals-tooltips-on-buttons-and-other-improvements-power-week-1218/",
-      "originalUrl": "https://youtube.com/watch?v=NpvJPL_BPlk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NpvJPL_BPlk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NpvJPL_BPlk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-12-13T03:23:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

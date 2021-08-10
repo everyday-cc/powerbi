@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-29-power-bi-dremio-a-seamless-bi-experience-for-cloud-data-lakes.md",
+      "title": "Power BI + Dremio = A Seamless BI Experience for Cloud Data Lakes",
+      "excerpt": "With the continuing rise of the public cloud, many companies are now centralizing their data in massive cloud data warehouses and data lakes powered by storage services, such as Azure Data Lake Storage (ADLS). The challenge is to deliver insights on these data warehouses and data lakes rapidly and cost-efficiently.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-29-power-bi-dremio-a-seamless-bi-experience-for-cloud-data-lakes/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-dremio-a-seamless-bi-experience-for-cloud-data-lakes/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-dremio-a-seamless-bi-experience-for-cloud-data-lakes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-29T00:00:35-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-certified-and-promoted-reports-and-apps.md",
       "title": "Certified and Promoted reports and apps",
       "excerpt": "A key enabler for a data culture is the pervasive availability of standardized, authoritative data that represents a single source of truth, enabling users to make decisions based on trusted data.",
@@ -1230,57 +1281,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-answering-your-questions-around-the-new-power-bi-premium-per-user-license.md",
-      "title": "Answering your questions around the new Power BI Premium per user license",
-      "excerpt": "Today&#8217;s announcement by Arun around the introduction of a Premium per user license option has generated a lot of interest and excitement in the Power BI community. It has also generated a lot of questions, so we&#8217;ve put together this blog post to answer some of the most common ones we&#8217;ve",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-23-answering-your-questions-around-the-new-power-bi-premium-per-user-license/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/answering-your-questions-around-the-new-power-bi-premium-per-user-license/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/answering-your-questions-around-the-new-power-bi-premium-per-user-license/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-22T23:00:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
