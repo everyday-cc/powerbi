@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 23239,
-            "average": 4.7959466
+            "count": 23247,
+            "average": 4.795931
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 40826,
-            "average": 4.7685056
+            "count": 40833,
+            "average": 4.768545
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -541,8 +541,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 40826,
-            "average": 4.7685056
+            "count": 40833,
+            "average": 4.768545
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -583,8 +583,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 20023,
-            "average": 4.7151775
+            "count": 20027,
+            "average": 4.7151847
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2203,8 +2203,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3034,
-            "average": 4.657218
+            "count": 3035,
+            "average": 4.656672
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4605,7 +4605,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -4772,8 +4772,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 6743,
-            "average": 4.7677593
+            "count": 6744,
+            "average": 4.7677937
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4814,8 +4814,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 8375,
-            "average": 4.78006
+            "count": 8378,
+            "average": 4.7800193
           },
           "provider": {
             "name": "Microsoft Learn",
