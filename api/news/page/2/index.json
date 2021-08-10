@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-06-30-heads-up-breaking-change-coming-to-power-bi-powershell-cmdlets.md",
+      "title": "Heads up: breaking change coming to Power BI PowerShell Cmdlets",
+      "excerpt": "Breaking change to Power BI PowerShell cmdlets. Need to upgrade module to 1.0946 or later",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-30-heads-up-breaking-change-coming-to-power-bi-powershell-cmdlets/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/heads-up-breaking-change-coming-to-power-bi-powershell-cmdlets/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/heads-up-breaking-change-coming-to-power-bi-powershell-cmdlets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-30T03:51:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-06-30-announcing-collaborate-faster-in-microsoft-teams-with-power-bi-activity-feed-notifications.md",
       "title": "Announcing: Collaborate faster in Microsoft Teams with Power BI activity feed notifications",
       "excerpt": "Power BI is integrating with the Microsoft Teams activity feed. This release adds notifications for report sharing and request access for reports. This helps you get more done without leaving Microsoft Teams or hunting through your emails. Learn more&#8230; ",
@@ -1202,57 +1253,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-25T00:55:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-announcing-power-bi-in-jupyter-notebooks.md",
-      "title": "Announcing Power BI in Jupyter notebooks",
-      "excerpt": "We&#8217;re excited to announce the release of Power BI in Jupyter notebooks. You can now tell compelling data stories with Power BI in Jupyter notebooks. Get your Power BI analytics in a Jupyter notebook with the new powerbiclient Python package. The new package lets you embed Power BI reports, dashboards,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-25-announcing-power-bi-in-jupyter-notebooks/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-jupyter-notebooks/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-jupyter-notebooks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T00:55:02-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

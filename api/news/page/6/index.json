@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-11-microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier.md",
+      "title": "Microsoft's Power BI and DirectQuery: Making data analysis and visualisation easier",
+      "excerpt": "Microsoft's Power BI analysis tool might not get the publicity of the rest of the Power Platform, but as the company continues to invest in its business application and automation platform it ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-01-11-microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/index.json",
+      "webUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
+      "originalUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2021/01/11/bdf92a85-ff6a-4ca8-9dc6-c1568df3cb28/resize/1200x/50c9144aa13bac2aefd673276c636f1b/istock-679353026.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2184/index.php/google-amp/article/microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier/",
+      "publishedDateTime": "2021-01-10T21:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-what-is-new-and-planned-for-power-bi-2020-power-bi-release-plan-overview.md",
       "title": "What is new and planned for Power BI 2020? Power BI release plan overview",
       "excerpt": "Microsoft has released the Power Platform release plan for 2020 and in this video I cover the Power BI features planned for 2020.  For more info, check the entire release: https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave1/business-intelligence/  Link to data lineage video: https://www.youtube.com/watch?v=mZ6426FCMCc",
@@ -1207,57 +1258,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-12-06T23:30:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-04-announcing-power-bi-admins-can-upgrade-classic-workspaces-and-roadmap-update.md",
-      "title": "Announcing Power BI Admins can upgrade classic workspaces and roadmap update",
-      "excerpt": "Today&#8217;s announcements give a roadmap update for workspace upgrade, content pack deprecation, and announce new tools for Power BI Admins to upgrading classic workspaces through the admin portal. \r\n\r\nAnnouncements:\r\n\r\nWorkspace upgrade has reached general availability.\r\nWe’ve started to roll-out",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-04-announcing-power-bi-admins-can-upgrade-classic-workspaces-and-roadmap-update/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-admins-can-upgrade-classic-workspaces-and-roadmap-update/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-admins-can-upgrade-classic-workspaces-and-roadmap-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2020/12/workspace-upgrade-admin-in-progress.png",
-          "width": 3838,
-          "height": 2019,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-04T03:08:49-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
