@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-19-best-practice-rules-to-improve-your-models-performance-and-design-v11.md",
+      "title": "Best practice rules to improve your model᾿s performance and design v1.1",
+      "excerpt": "See the latest version of the best practice rules to improve your model&#8217;s performance and design!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-19-best-practice-rules-to-improve-your-models-performance-and-design-v11/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-improve-your-models-performance-and-design-v1-1/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-improve-your-models-performance-and-design-v1-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-19T16:59:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-05-19-power-bi-denodo-end-to-end-security-through-single-sign-on-sso.md",
       "title": "Power BI + Denodo = End-to-end security through Single Sign-On (SSO)",
       "excerpt": "Power BI integrates with cutting-edge big data, data warehouse, and data virtualization technologies, such as Denodo. The Denodo platform uses data virtualization on-premises and in the cloud to facilitate the adoption of a logical architecture or data fabric that can help to boost the productivity of",
@@ -1195,57 +1246,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-04-08T14:33:14-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-07-object-level-security-ols-is-now-generally-available-in-power-bi-premium-and-pro.md",
-      "title": "Object-Level Security (OLS) is now generally available in Power BI Premium and Pro!",
-      "excerpt": " We‘re excited to announce object level security (OLS) is now generally available in Power BI Premium and Pro! ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-07-object-level-security-ols-is-now-generally-available-in-power-bi-premium-and-pro/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/object-level-security-ols-is-now-generally-available-in-power-bi-premium-and-pro/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/object-level-security-ols-is-now-generally-available-in-power-bi-premium-and-pro/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-07T01:14:33-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
