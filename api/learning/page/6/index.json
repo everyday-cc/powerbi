@@ -1190,8 +1190,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 419,
-            "average": 4.7684965
+            "count": 420,
+            "average": 4.7690477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1307,8 +1307,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 8388,
-            "average": 4.779924
+            "count": 8390,
+            "average": 4.7799764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1904,8 +1904,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 8388,
-        "average": 4.779924
+        "count": 8390,
+        "average": 4.7799764
       },
       "provider": {
         "name": "Microsoft Learn",
