@@ -1,22 +1,22 @@
 ---
 category: news
 title: "DESTINI Estimator Version Comparison Gets a Boost with Microsoft Power BI"
-excerpt: "Beck Technology, a preconstruction data lifecycle company, has connected estimating data from DESTINI® Estimator, a construction estimating software, with Microsoft (News - Alert) Power BI, a data visualization platform."
-publishedDateTime: 2021-07-26T12:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-destini-estimator-version-comparison-gets-boost-with-microsoft-/2021/07/26/9416412.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-destini-estimator-version-comparison-gets-boost-with-microsoft-/2021/07/26/9416412.htm"
+excerpt: "The connection to Power BI supplements the comparison view of DESTINI Estimator so users outside of the estimating software can access data necessary for better decision-making. Data from a ..."
+publishedDateTime: 2021-07-26T12:07:00Z
+originalUrl: "https://www.businesswire.com/news/home/20210726005021/en/DESTINI-Estimator-Version-Comparison-Gets-a-Boost-with-Microsoft-Power-BI"
+webUrl: "https://www.businesswire.com/news/home/20210726005021/en/DESTINI-Estimator-Version-Comparison-Gets-a-Boost-with-Microsoft-Power-BI"
 type: article
 quality: 16
 heat: 16
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Power BI
 
-secured: "mH4Iff9T3TslxM/cgy+KDBF1tpbGMMtquE/5peTcthnnm5x8pSVTYXMBeBrUADhpe54KLNDW66+vlbg1Vt577kvLgoCFX1ZEJPybZmDfbYDjSIoXpgXwjMzrBEvYA6Ia78qeB1kim7qVhzRd2UFwElTNv1/8mn0v8J07QDcmzSQ5dsYBu9IPP4rD/yLXyO1p0xLTeLKDCl7rnZZUK5dRFXq63hbzrK8qJHYTCa83zsUsENry5b2FfpPc7Zn1WU/ZqxhLOUfeAY2b94+QdIUJ8p5YC0V+E3RsbUeKiAEB5oD4p25PZPOQvHEozx5vanSpCg8aDKVxnkQswbRuaTH377plV8YJU8O9mdyGykfefkE=;TaJAd02Foase2SNI7pBx1w=="
+secured: "mGrBgadSTqvcn+jYTmsenkA9AcU/LdCO2vPEg7hBbQ6orEoeGPcXbASlDSogSSftHY4sKmrwRjKcv5GeEBEySxj+kfLVdPYUET/pO3QOXFbiq/Yt1zm8xfHCImqQi4QttFlUJPd/+R28ObfSNhMRXqooUXq9iSXwspsL89RIg5QxlCSTV0tHMbBYhlUptfYvQZo5vsNiZWXjd5JAbhYsfwBq5L8MJWKaYahItNPflRXP5NgWtbECpIVeSY8vhEecST176pq25wmURoL0YqDfZHJlh5+hXlV4lDvfq8WI+sO2+DoZnC9MVffQGgd1VWNEb9DhZWGp6zREiufjB2phFqDgqgR/OCBf/WjW0zISWNg=;i81mMm0yv5ddmkjV43MZcw=="
 ---
 
