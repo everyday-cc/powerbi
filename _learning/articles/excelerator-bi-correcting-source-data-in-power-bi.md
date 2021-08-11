@@ -4,7 +4,7 @@ excerpt: "This article continues to build on my COVID Case Fatality Rate report 
 webUrl: https://exceleratorbi.com.au/correcting-source-data-in-power-bi/
 type: article
 publishedDateTime: 2021-07-30T01:35:07Z
-heat: 81
+heat: 80
 
 provider:
   name: Excelerator BI
