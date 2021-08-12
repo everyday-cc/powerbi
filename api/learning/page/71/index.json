@@ -4,6 +4,66 @@
   "page": 71,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-5-day-challenge-starts-fri-mar-23rd.md",
+      "title": "Power BI 5-Day Challenge! Starts Fri Mar 23rd",
+      "excerpt": "Join me in a 5-Day Challenge to build your first (or next) Power BI Dashboard. Accept the challenge at 👉 http://www.learnpowerbi.com/challenge  ⚡Power On!⚡ -Avi Singh / Powerbipro / Microsoft MVP",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-5-day-challenge-starts-fri-mar-23rd/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-5-day-challenge-starts-fri-mar-23rd/",
+      "originalUrl": "https://youtube.com/watch?v=qNGKoWWrhmg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qNGKoWWrhmg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M11S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-03-20T21:39:31-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qNGKoWWrhmg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-and-the-art-of-war-with-ken-tyler-8th-fold-consulting.md",
+      "title": "Power BI and the Art of War, with Ken Tyler (8th Fold Consulting)",
+      "excerpt": "What does Power BI have to do with modern warfare? You're gonna find out in this exciting talk with Ken Tyler! Watch till the end.   👉Connect with Ken (Websites): http://8thFold.com/                                                             https://BIslogans.com   👉Connect with Ken (LinkedIn): https://www.linkedin.com/in/kenneth-tyler-69898746/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-and-the-art-of-war-with-ken-tyler-8th-fold-consulting/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-and-the-art-of-war-with-ken-tyler-8th-fold-consulting/",
+      "originalUrl": "https://youtube.com/watch?v=VyrZKim3Ces",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VyrZKim3Ces\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M54S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-11-04T09:00:11-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VyrZKim3Ces/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-august-2018-update-highlights-find-out-whats-new.md",
       "title": "Power BI August 2018 Update Highlights! 🥂 Find Out What's New!",
       "excerpt": "We cover the highlights of the Power BI August 2018 Update, including: ▪ Print reports through Export to PDF ▪ Create bookmark groups ▪ Slicer Restatement ▪ Conditional formatting by values ▪ Q&A Improvements ▪ Data categories for measures ▪ Custom visuals  Links mentioned in the video: ▪ Complete August",
@@ -831,66 +891,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/QVLK9qvcigs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-qa-how-to-filter-without-really-filtering-a-tricky-challenge.md",
-      "title": "Power BI Q&A: How to filter without really filtering?! (a tricky challenge)",
-      "excerpt": "Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download In this video I tackle a question sent in by Stef D. from France. I found it more challenging than I expected. Check out my video and add a comment if you come up with a creative way to solve this.  FREE Power BI Step-by-Step Tutorial",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-qa-how-to-filter-without-really-filtering-a-tricky-challenge/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-qa-how-to-filter-without-really-filtering-a-tricky-challenge/",
-      "originalUrl": "https://youtube.com/watch?v=39xlfd1kHlo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/39xlfd1kHlo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M57S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-10-20T05:53:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/39xlfd1kHlo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-relationships-talk-power-bi-live-subscribe-join.md",
-      "title": "Power BI Relationships 🔴Talk Power BI LIVE (Subscribe & Join)",
-      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-relationships-talk-power-bi-live-subscribe-join/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-relationships-talk-power-bi-live-subscribe-join/",
-      "originalUrl": "https://youtube.com/watch?v=zqbGc10tOA4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zqbGc10tOA4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H11M1S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-12-05T03:10:47-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zqbGc10tOA4/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
