@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-07-announcing-large-model-support-in-power-bi-premium-general-availability-ga.md",
+      "title": "Announcing large model support in Power BI Premium General Availability (GA)",
+      "excerpt": "We are excited to announce General Availability (GA) for Power BI Premium support for large models, along with additional new features, such as User interface enhancements, Multi-Geo support, and Bring your own encryption keys (BYOK).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-07-announcing-large-model-support-in-power-bi-premium-general-availability-ga/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-large-model-support-in-power-bi-premium-general-availability-ga/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-large-model-support-in-power-bi-premium-general-availability-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-07T06:46:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-12-07-full-report-attachment-for-subscriptions-for-power-bi-premium-reports-now-available.md",
       "title": "Full report attachment for subscriptions for Power BI Premium reports now available",
       "excerpt": "We&#8217;re starting off the first full week of December with a bang!  First, we finished rolling out the public preview of Premium per user to all public tenants earlier today.  And now, as if you needed another reason to jump into the preview, we&#8217;re pleased to announce one of the most highly",
@@ -1230,58 +1281,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel.md",
-      "title": "Microsoft adds support for custom Power BI and Power Query data types in Excel",
-      "excerpt": "Microsoft today announced that it is expanding Excel data types to allow for Power BI tables and custom, user-defined databases using Power Query to be transformed into linked data types.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-29-microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel/index.json",
-      "webUrl": "https://www.neowin.net/news/microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel",
-      "originalUrl": "https://www.neowin.net/news/microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/03/1553427271_excel3_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel/",
-      "publishedDateTime": "2020-10-29T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     }
   ],

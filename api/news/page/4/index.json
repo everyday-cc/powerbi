@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-16-power-bi-april-2021-feature-summary.md",
+      "title": "Power BI April 2021 Feature Summary",
+      "excerpt": "Welcome to the first Power BI feature summary of the Spring! In this update we have an exciting new preview for the Power Automate visual! Also, the ongoing previews (Small Multiples and DirectQuery for Power BI datasets and Azure Analysis Services) are getting some new features. Next to that, we are",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-16-power-bi-april-2021-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2021-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2021-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-16T08:01:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-04-15-announcing-the-new-power-automate-visual-for-power-bi-reports.md",
       "title": "Announcing the new Power Automate visual for Power BI reports",
       "excerpt": "Empower your end-users to go from insight to action. With the new Power Automate visual, end-users can run an automated flow all within a Power BI report. Furthermore, the executed flow can be data contextual, meaning that the Flow inputs can be dynamic based on the filters set by the end-user.",
@@ -1194,57 +1245,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-02-28T23:00:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-object-level-security-ols-now-available-for-public-preview-in-power-bi-premium.md",
-      "title": "Object-Level Security (OLS) now available for public preview in Power BI Premium",
-      "excerpt": "We‘re excited to announce object level security (OLS) is now available for public preview in Power BI Premium and Pro! ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-26-object-level-security-ols-now-available-for-public-preview-in-power-bi-premium/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/object-level-security-ols-now-available-for-public-preview-in-power-bi-premium/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/object-level-security-ols-now-available-for-public-preview-in-power-bi-premium/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T08:39:44-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
