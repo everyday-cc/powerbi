@@ -245,8 +245,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 20076,
-        "average": 4.715531
+        "count": 20077,
+        "average": 4.715545
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -831,7 +831,7 @@
         ]
       },
       "publishedDateTime": "2020-08-17T12:30:21-07:00",
-      "heat": 59,
+      "heat": 60,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/xxh60Sx83zw/maxresdefault.jpg",
