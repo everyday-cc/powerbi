@@ -332,7 +332,7 @@
             "domain": "absentdata.com"
           },
           "publishedDateTime": "2019-09-15T16:53:01-07:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/hhsAdo7UUXc/hqdefault.jpg",
@@ -2588,8 +2588,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 4439,
-            "average": 4.75918
+            "count": 4441,
+            "average": 4.7592883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2951,8 +2951,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 2761,
-            "average": 4.7145963
+            "count": 2762,
+            "average": 4.7143373
           },
           "provider": {
             "name": "Microsoft Learn",
