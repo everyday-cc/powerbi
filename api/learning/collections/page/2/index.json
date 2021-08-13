@@ -2518,7 +2518,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3280,8 +3280,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 103,
-            "average": 4.776699
+            "count": 104,
+            "average": 4.7788463
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3405,8 +3405,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 103,
-            "average": 4.776699
+            "count": 104,
+            "average": 4.7788463
           },
           "provider": {
             "name": "Microsoft Learn",
