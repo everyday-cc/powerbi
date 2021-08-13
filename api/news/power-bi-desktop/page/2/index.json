@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-07-20-power-bi-desktop-update-and-more-roundup-july-20-2020.md",
+      "title": "Power BI Desktop update and more... (Roundup | July 20, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup186 Patrick's tech video: https://guyinacu.be/quickmeasure Adam's tech video: https://guyinacu.be/externaltools  🔴 Live Replay: https://guyinacu.be/live018  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-20-power-bi-desktop-update-and-more-roundup-july-20-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-07-20-power-bi-desktop-update-and-more-roundup-july-20-2020/",
+      "originalUrl": "https://youtube.com/watch?v=roHDRafGIXQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/roHDRafGIXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/roHDRafGIXQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-20T08:00:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2020-07-07-business-reasons-for-implementing-power-bi.md",
       "title": "Business Reasons For Implementing Power BI",
       "excerpt": "The Microsoft Power BI data visualization platform will allow you to provide the tools and services to content authors who can easily create shared reports and data streams for end-users ...",
@@ -1488,58 +1540,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2019-05-27T02:23:58-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2019-05-20-kpi-visuals-line-charts-filter-pane-updates-on-may-2019-power-bi-desktop-update.md",
-      "title": "KPI visuals, line charts, filter pane updates on May 2019 Power BI Desktop Update",
-      "excerpt": "In this video I will review the new reporting features released on the Power BI desktop Update for May, and take the opportunity to explaing in more detail how the KPI visual works. #powerweek #curbal #powerbi  Keynotes: 1. Reorder filter pane in power bi 2. change the position of the legends in the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-05-20-kpi-visuals-line-charts-filter-pane-updates-on-may-2019-power-bi-desktop-update/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2019-05-20-kpi-visuals-line-charts-filter-pane-updates-on-may-2019-power-bi-desktop-update/",
-      "originalUrl": "https://youtube.com/watch?v=_lVjP9lSvd4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_lVjP9lSvd4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_lVjP9lSvd4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-05-20T02:54:59-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Curbal",

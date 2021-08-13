@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-04-15-calculation-groups-translate-models-and-perspectives-coming-to-power-bi.md",
+      "title": "Calculation groups, translate models and perspectives coming to Power BI...",
+      "excerpt": "A lot of cool features are coming to power bi due to the new xmla implementation. In this video we discuss some of them:  Enhanced dataset metadata: https://docs.microsoft.com/en-gb/power-bi/desktop-enhanced-dataset-metadata Calculation groups in power bi: https://docs.microsoft.com/en-us/analysis-services/tabular-models/calculation-groups?view=power-bi-premium-current",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-04-15-calculation-groups-translate-models-and-perspectives-coming-to-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-04-15-calculation-groups-translate-models-and-perspectives-coming-to-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=runMPif7sTk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/runMPif7sTk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/runMPif7sTk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-04-15T04:49:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2020-03-12-power-bi-desktop-update-march-2020.md",
       "title": "Power BI Desktop Update - March 2020",
       "excerpt": "We're excited to be bringing you some top community asks this month, including multi-column sort and dual axis line chart! We're also releasing new button actions, a new DAX function, and improvements to the decomposition tree. And, of course, there are new visuals on AppSource and new template apps",
@@ -1228,58 +1280,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2019-03-01T01:12:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2019-02-13-new-visualization-features-in-power-bi-february-2019-power-bi-desktop-update.md",
-      "title": "New Visualization features in Power BI - February 2019 Power BI Desktop Update",
-      "excerpt": "It is Power Week!!! But I am sure you already know that :) In this video I reveal the new visualization features added to Power BI Desktop and tell you which one is my favourite.  Question is, which one is your favourite?    Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-02-13-new-visualization-features-in-power-bi-february-2019-power-bi-desktop-update/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2019-02-13-new-visualization-features-in-power-bi-february-2019-power-bi-desktop-update/",
-      "originalUrl": "https://youtube.com/watch?v=quq4RIqIFlk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/quq4RIqIFlk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/quq4RIqIFlk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-02-13T01:29:17-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Curbal",

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-13-power-bi-update-august-2021.md",
+      "title": "Power BI Update - August 2021",
+      "excerpt": "Welcome to the August 2021 update, can you believe that it’s August already?! In this update we have exciting new things for Q&A as well as for Shapes. Also, new this month is Automatic aggregations for DirectQuery. There is more to explore, please continue to read on.   Reporting                Customize",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-08-13-power-bi-update-august-2021/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2021-08-13-power-bi-update-august-2021/",
+      "originalUrl": "https://youtube.com/watch?v=thmvP1I6QVs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/thmvP1I6QVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/thmvP1I6QVs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-13T08:38:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-power-bi-update-july-2021.md",
       "title": "Power BI Update - July 2021",
       "excerpt": "Welcome to the July update! This month we are making small multiples generally available, as well as the new model view and sensitivity labels in Desktop. Also, we have a new preview for streaming dataflows. There is much more!  Reporting                Small multiples (generally available) - 00:19 ",
@@ -1476,58 +1528,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-07-20-power-bi-desktop-update-and-more-roundup-july-20-2020.md",
-      "title": "Power BI Desktop update and more... (Roundup | July 20, 2020)",
-      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup186 Patrick's tech video: https://guyinacu.be/quickmeasure Adam's tech video: https://guyinacu.be/externaltools  🔴 Live Replay: https://guyinacu.be/live018  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-20-power-bi-desktop-update-and-more-roundup-july-20-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-07-20-power-bi-desktop-update-and-more-roundup-july-20-2020/",
-      "originalUrl": "https://youtube.com/watch?v=roHDRafGIXQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/roHDRafGIXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/roHDRafGIXQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-20T08:00:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

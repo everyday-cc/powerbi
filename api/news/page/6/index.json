@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-14-abc-of-power-bi-f-is-for-forecast.md",
+      "title": "ABC of Power BI: F is for Forecast",
+      "excerpt": "Power BI supremo Hugh Johnson puts forward the case that they are more relevant than ever. It is just that you need to come at them from a different angle. For a limited few, 2020 was not all bad. The Irish economy is expected to close out with growth of around 3.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-01-14-abc-of-power-bi-f-is-for-forecast/index.json",
+      "webUrl": "https://www.accountingweb.co.uk/tech/excel/abc-of-power-bi-f-is-for-forecast",
+      "originalUrl": "https://www.accountingweb.co.uk/tech/excel/abc-of-power-bi-f-is-for-forecast",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1u6webYD-pc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.accountingweb.co.uk/sites/default/files/istock-1215727712.jpg",
+          "width": 1254,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-14T02:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "accountingweb.co.uk",
+        "domain": "accountingweb.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-microsofts-power-bi-and-directquery-making-data-analysis-and-visualisation-easier.md",
       "title": "Microsoft's Power BI and DirectQuery: Making data analysis and visualisation easier",
       "excerpt": "Microsoft's Power BI analysis tool might not get the publicity of the rest of the Power Platform, but as the company continues to invest in its business application and automation platform it ...",
@@ -1207,57 +1259,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-12-07T06:46:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-full-report-attachment-for-subscriptions-for-power-bi-premium-reports-now-available.md",
-      "title": "Full report attachment for subscriptions for Power BI Premium reports now available",
-      "excerpt": "We&#8217;re starting off the first full week of December with a bang!  First, we finished rolling out the public preview of Premium per user to all public tenants earlier today.  And now, as if you needed another reason to jump into the preview, we&#8217;re pleased to announce one of the most highly",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-07-full-report-attachment-for-subscriptions-for-power-bi-premium-reports-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/full-report-attachment-for-subscriptions-for-power-bi-premium-reports-now-available-in/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/full-report-attachment-for-subscriptions-for-power-bi-premium-reports-now-available-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-06T23:30:16-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

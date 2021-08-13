@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-07-full-report-attachment-for-subscriptions-for-power-bi-premium-reports-now-available.md",
+      "title": "Full report attachment for subscriptions for Power BI Premium reports now available",
+      "excerpt": "We&#8217;re starting off the first full week of December with a bang!  First, we finished rolling out the public preview of Premium per user to all public tenants earlier today.  And now, as if you needed another reason to jump into the preview, we&#8217;re pleased to announce one of the most highly",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-07-full-report-attachment-for-subscriptions-for-power-bi-premium-reports-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/full-report-attachment-for-subscriptions-for-power-bi-premium-reports-now-available-in/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/full-report-attachment-for-subscriptions-for-power-bi-premium-reports-now-available-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-06T23:30:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-12-04-announcing-power-bi-admins-can-upgrade-classic-workspaces-and-roadmap-update.md",
       "title": "Announcing Power BI Admins can upgrade classic workspaces and roadmap update",
       "excerpt": "Today&#8217;s announcements give a roadmap update for workspace upgrade, content pack deprecation, and announce new tools for Power BI Admins to upgrading classic workspaces through the admin portal. \r\n\r\nAnnouncements:\r\n\r\nWorkspace upgrade has reached general availability.\r\nWe’ve started to roll-out",
@@ -1231,57 +1282,6 @@
       "topics": [
         "Power BI",
         "Power Query"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-microsoft-gives-excel-cells-a-third-dimension-with-power-bi-data-types.md",
-      "title": "Microsoft gives Excel cells a third dimension with Power BI data types",
-      "excerpt": "Power BI, Microsoft’s business analytics service, has over 250,000 customers. It follows that Microsoft would start there to help businesses access their data in Excel. Power BI data types are ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-29-microsoft-gives-excel-cells-a-third-dimension-with-power-bi-data-types/index.json",
-      "webUrl": "https://venturebeat.com/2020/10/29/microsoft-excel-power-bi-data-types/",
-      "originalUrl": "https://venturebeat.com/2020/10/29/microsoft-excel-power-bi-data-types/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/excel-powerbi-logos.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/29/microsoft-excel-power-bi-data-types/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/29/microsoft-excel-power-bi-data-types/amp/",
-      "publishedDateTime": "2020-10-29T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
