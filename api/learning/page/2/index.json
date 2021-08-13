@@ -4,6 +4,32 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/articles/excelerator-bi-do-not-build-a-column-chart-like-this-please.md",
+      "title": "Do Not Build a Column Chart Like This – Please!",
+      "excerpt": "I was inspired into action this week by one of the worst visuals I have seen during the COVID pandemic. Here is the visual below, take a look and see what you think. When I first saw this chart, I simply couldn&#8217;t make sense of it. The first thing I [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-do-not-build-a-column-chart-like-this-please/index.json",
+      "webUrl": "https://exceleratorbi.com.au/do-not-build-a-column-chart-like-this-please/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2021-08-05T15:01:44-07:00",
+      "heat": 84,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/dont-do-this.png",
+          "width": 2109,
+          "height": 920,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi.md",
       "title": "Create and use analytics reports with Power BI",
       "excerpt": "This learning path introduces you to Power BI, and teaches you to use and build business intelligence reports.",
@@ -34,8 +60,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 41028,
-            "average": 4.768987
+            "count": 41030,
+            "average": 4.768998
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +102,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 20070,
-            "average": 4.7155952
+            "count": 20071,
+            "average": 4.71556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -475,32 +501,6 @@
       "content": "\r\n",
       "type": "video",
       "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-do-not-build-a-column-chart-like-this-please.md",
-      "title": "Do Not Build a Column Chart Like This – Please!",
-      "excerpt": "I was inspired into action this week by one of the worst visuals I have seen during the COVID pandemic. Here is the visual below, take a look and see what you think. When I first saw this chart, I simply couldn&#8217;t make sense of it. The first thing I [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-do-not-build-a-column-chart-like-this-please/index.json",
-      "webUrl": "https://exceleratorbi.com.au/do-not-build-a-column-chart-like-this-please/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-08-05T15:01:44-07:00",
-      "heat": 80,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/dont-do-this.png",
-          "width": 2109,
-          "height": 920,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
       "topics": [
         "Power BI"
       ]
