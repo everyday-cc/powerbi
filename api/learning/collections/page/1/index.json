@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 23461,
-            "average": 4.7959595
+            "count": 23463,
+            "average": 4.7959766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 41104,
-            "average": 4.7690735
+            "count": 41107,
+            "average": 4.7690663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 41104,
-            "average": 4.7690735
+            "count": 41107,
+            "average": 4.7690663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -390,8 +390,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 20088,
-            "average": 4.715651
+            "count": 20089,
+            "average": 4.7156653
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -433,8 +433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 8707,
-            "average": 4.7202253
+            "count": 8708,
+            "average": 4.7202573
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -475,8 +475,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6608,
-            "average": 4.7660413
+            "count": 6609,
+            "average": 4.7660766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2228,8 +2228,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 6796,
-            "average": 4.7658916
+            "count": 6798,
+            "average": 4.7659607
           },
           "provider": {
             "name": "Microsoft Learn",
