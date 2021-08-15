@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 41134,
-            "average": 4.769169
+            "count": 41136,
+            "average": 4.7691803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 41134,
-            "average": 4.769169
+            "count": 41136,
+            "average": 4.7691803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1197,7 +1197,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 134,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-reports-with-power-bi-desktop-social.png",
@@ -2797,8 +2797,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 8449,
-            "average": 4.7802105
+            "count": 8451,
+            "average": 4.7802625
           },
           "provider": {
             "name": "Microsoft Learn",
