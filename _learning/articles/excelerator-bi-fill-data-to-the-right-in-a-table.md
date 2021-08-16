@@ -4,7 +4,7 @@ excerpt: "I was helping someone recently with an issue. They wanted to allow end
 webUrl: https://exceleratorbi.com.au/fill-data-to-the-right-in-a-table/
 type: article
 publishedDateTime: 2021-06-22T21:49:37Z
-heat: 130
+heat: 50
 
 provider:
   name: Excelerator BI
