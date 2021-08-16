@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-09-02-how-microsoft-is-showing-geographical-availability-of-its-services.md",
+      "title": "How Microsoft is showing geographical availability of its services",
+      "excerpt": "Dynamics and Power Platform services&#8217; geographical availability.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-02-how-microsoft-is-showing-geographical-availability-of-its-services/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/how-microsoft-is-showing-geographical-availability-of-its-services/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/how-microsoft-is-showing-geographical-availability-of-its-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-02T01:00:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-08-31-power-bi-in-excel-updates-and-more-roundup-aug-31-2020.md",
       "title": "Power BI in Excel updates and more... (Roundup | Aug 31, 2020)",
       "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup191 Patrick's tech video: https://guyinacu.be/dynamictitle Adam's tech video: https://guyinacu.be/onecheckbox  🔴 Live Replay: https://guyinacu.be/live023  📢 Become a member: https://guyinacu.be/membership",
@@ -1211,57 +1262,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-07-15-power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more.md",
-      "title": "Power BI Desktop July update introduces gradient legend support, Q&A enhancements, and more",
-      "excerpt": "Microsoft has released the feature summary for this month's Power BI Desktop update. A bunch of features relating to reporting, analytics, visualizations, and other components have been released.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-15-power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more/index.json",
-      "webUrl": "https://www.neowin.net/news/power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/10/1571114082_power_bi_new_3_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more/",
-      "publishedDateTime": "2020-07-15T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],

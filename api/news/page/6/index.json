@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-22-join-us-power-bi-dev-camp-thursday-28-january-2021.md",
+      "title": "Join Us! Power BI Dev Camp! Thursday 28 January, 2021",
+      "excerpt": "Learn how to get started designing and implementing custom visuals for Power BI. Attendees will learn how to define the capabilities and data mappings for a custom visual and how to program D3-style data binding using categorical data from a Power BI dataset. The session also demonstrates how to extend",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-01-22-join-us-power-bi-dev-camp-thursday-28-january-2021/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-28-january-2021/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-28-january-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-22T02:06:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-dataflows-and-power-query-november-2020-update.md",
       "title": "Dataflows and power query - November 2020 update",
       "excerpt": "Have you seen the new and upcoming features released on November 2020 for Dataflows and Power Query? In today's video, I will go through them so you stay up to date:  Chapters: 00:00 Intro 00:24 New Diagram view 01:36 New schema view 02:16 Add column from example  02:20 Add web from example 03:13 Fuzzy",
@@ -1211,57 +1262,6 @@
       "ampWebUrl": "https://www.neowin.net/amp/large-model-support-in-power-bi-premium-reaches-ga-new-features-announced/",
       "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/large-model-support-in-power-bi-premium-reaches-ga-new-features-announced/",
       "publishedDateTime": "2020-12-08T06:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-07-power-bi-premium-gets-full-report-attachments-for-report-subscriptions.md",
-      "title": "Power BI Premium gets full report attachments for report subscriptions",
-      "excerpt": "Full reports can now be included as PowerPoint or PDF attachments in Power BI Premium workspaces. The public preview of the Premium per user capability has also been fully rolled out.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-07-power-bi-premium-gets-full-report-attachments-for-report-subscriptions/index.json",
-      "webUrl": "https://www.neowin.net/news/power-bi-premium-gets-full-report-attachments-for-report-subscriptions",
-      "originalUrl": "https://www.neowin.net/news/power-bi-premium-gets-full-report-attachments-for-report-subscriptions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779301_powerbi1_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-07T07:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Neowin",

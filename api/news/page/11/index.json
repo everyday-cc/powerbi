@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-07-15-power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more.md",
+      "title": "Power BI Desktop July update introduces gradient legend support, Q&A enhancements, and more",
+      "excerpt": "Microsoft has released the feature summary for this month's Power BI Desktop update. A bunch of features relating to reporting, analytics, visualizations, and other components have been released.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-15-power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more/index.json",
+      "webUrl": "https://www.neowin.net/news/power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/10/1571114082_power_bi_new_3_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-desktop-july-update-introduces-gradient-legend-support-qa-enhancements-and-more/",
+      "publishedDateTime": "2020-07-15T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-07-15-this-excel-and-power-bi-course-bundle-is-95-off-learn-to-make-data-driven-business-decisions-for-just-25.md",
       "title": "This Excel and Power BI course bundle is 95% off: Learn to make data-driven business decisions for just $25",
       "excerpt": "That's regardless of whether you're interested in working at Google or a small-scale finance firm. The Data Analysis with Excel + Power BI Bundle is a great resource for learning about two of the world's most popular and powerful analytics programs ...",
@@ -1225,57 +1276,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-05-04-the-power-bi-release-train-has-departed-roundup-may-4-2020.md",
-      "title": "The Power BI release train has departed... (Roundup | May 4, 2020)",
-      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup177 2 Minute Tuesday: https://guyinacu.be/refreshmultipletables Adam's tech video: https://guyinacu.be/sqldirectquery  🔴 Live replay: https://guyinacu.be/may2020hangout  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-05-04-the-power-bi-release-train-has-departed-roundup-may-4-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-05-04-the-power-bi-release-train-has-departed-roundup-may-4-2020/",
-      "originalUrl": "https://youtube.com/watch?v=pVZ6hJP_gz0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pVZ6hJP_gz0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "The Power BI release train has departed... (Roundup | May 4, 2020)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-04T08:00:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],

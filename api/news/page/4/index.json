@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-04-19-using-xmla-endpoints-to-change-data-sources-in-a-power-bi-dataset.md",
+      "title": "Using XMLA endpoints to change data sources in a Power BI dataset",
+      "excerpt": "The purpose of this article is to provide Power BI developers with a deeper understanding of the dependencies when updating data sources in a Power BI dataset through XMLA endpoints. Most importantly, Power BI maintains security-related data source information such as credentials and privacy settings",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-19-using-xmla-endpoints-to-change-data-sources-in-a-power-bi-dataset/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/using-xmla-endpoints-to-change-data-sources-in-a-power-bi-dataset/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/using-xmla-endpoints-to-change-data-sources-in-a-power-bi-dataset/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-04-19T04:02:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-04-16-power-bi-april-2021-feature-summary.md",
       "title": "Power BI April 2021 Feature Summary",
       "excerpt": "Welcome to the first Power BI feature summary of the Spring! In this update we have an exciting new preview for the Power Automate visual! Also, the ongoing previews (Small Multiples and DirectQuery for Power BI datasets and Azure Analysis Services) are getting some new features. Next to that, we are",
@@ -1194,57 +1245,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-01T21:56:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-announcing-the-new-power-bi-embedded-analytics-playground-preview.md",
-      "title": "Announcing the new Power BI embedded analytics playground (preview)",
-      "excerpt": "Today we’re excited to announce the new Power BI embedded analytics playground. The new playground is the home for Power BI embedded analytics, where you can get hands-on coding experience, embed your own reports, and interact with our client APIs to see instant results. In addition, you’ll find there",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-01-announcing-the-new-power-bi-embedded-analytics-playground-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-new-power-bi-embedded-analytics-playground-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-new-power-bi-embedded-analytics-playground-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-28T23:00:47-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

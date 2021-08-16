@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-03-get-a-crash-course-in-microsoft-power-bi-for-less-than-30.md",
+      "title": "Get a crash course in Microsoft Power BI for less than $30",
+      "excerpt": "TL;DR: As of July 3, snag the nine-course Complete 2021 Microsoft Power BI Super Bundle for just $29.99. The first course teaches you how to get results by pulling data and creating charts based ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-03-get-a-crash-course-in-microsoft-power-bi-for-less-than-30/index.json",
+      "webUrl": "https://mashable.com/deals/july-3-microsoft-power-bi",
+      "originalUrl": "https://mashable.com/deals/july-3-microsoft-power-bi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/07jTgFqFD9nLEB3XMln2d1F/hero-image.fill.size_1200x675.jpg",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/deals/july-3-microsoft-power-bi?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/deals/july-3-microsoft-power-bi?amp",
+      "publishedDateTime": "2021-07-03T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-07-01-announcing-availability-of-virtual-workshops-and-training-to-get-started-with-power-bi.md",
       "title": "Announcing availability of virtual workshops and training to get started with Power BI",
       "excerpt": "Learn how using data can help you understand and improve your business. Power BI lets you easily unify data from many sources to create interactive dashboards and reports that provide actionable insights to drive your business. This training covers an overview and demo of Power BI to show how you can",
@@ -1209,57 +1251,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-25-power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021.md",
-      "title": "Power BI introduces a bunch of new additions and improvements at Build 2021",
-      "excerpt": "The premium version of Microsoft's data analytics platform is receiving real-time analytics and big data improvements, while Power BI Embedded now offers integration with Jupyter Notebooks.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-25-power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021/index.json",
-      "webUrl": "https://www.neowin.net/news/power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021/",
-      "originalUrl": "https://www.neowin.net/news/power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2021/05/1621941280_power_bi_at_build_2021_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
