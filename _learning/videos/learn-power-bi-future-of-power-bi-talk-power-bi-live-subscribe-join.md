@@ -1,14 +1,14 @@
 ---
-title: "Future of Power BI 🔴Talk Power BI LIVE (Subscribe & Join)"
-excerpt: "👇 Connect with our Featured Guests using links below ★★Links to Topics Discussed (Click to Jump)★★ 03:04 Guest Introductions 06:12 Indicators for the Future of Power BI 08:05 How was 2019 for Power BI in your world? 15:20 What forces are working in favor of Power BI and fueling it’s growth? 23:49 What"
-originalUrl: https://youtube.com/watch?v=zxHsYKlefFU
+title: "Future of Power BI 🔴 Talk Power BI LIVE (Subscribe & Join)"
+excerpt: "What do you think the future holds for Power BI? It seems it's growing at an amazing pace.  What do you think is fueling this growth and would it continue to do so? Are there challenges ahead for Power BI?   ✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power"
+originalUrl: https://youtube.com/watch?v=QFmsSRfu7gw
 type: video
 price: Free
-length: PT1H6M27S
-publishedDateTime: 2019-11-23T11:22:49Z
+length: PT3H9M53S
+publishedDateTime: 2018-12-05T11:34:06Z
 heat: 50
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zxHsYKlefFU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QFmsSRfu7gw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Learn Power BI
@@ -18,11 +18,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://i.ytimg.com/vi/zxHsYKlefFU/hqdefault.jpg
+  - url: https://i.ytimg.com/vi/QFmsSRfu7gw/hqdefault.jpg
     width: 480
     height: 360
     isCached: true
 
-secured: "5CpDaZXAfr6tPU3AuUGa6a16CQF2VcEKo5wsSHl2umVn3SVTt5aaWcUC8FN8P4TxNnGCYuM/2X2J+D3V7NQr5aKgZ8tjG2xTITkwqZ9DGP4EU/lBCbYrn/+4/R8d82JZmUo0sFBczWTiyAVcbnsoTm5xWia2cKiC6n8dC8bgYBz6m7DiUakqXlRb66RuAiU0GGiYtoHRoGrWnPr5i0iwPocz5I/Jxd2TsrrPzFZrib6vyzb8y7SM/ZP6YWlbL4yKFQQcg9dGPgSS4FTXZV3D4Xo6LPYS6tBa/dGYt6JLKOtLe9o/GAw0H634sXQTVXPH4e3fBLHH9wyjTaAUaQUAiLRKYcCqZbE6ZG67lE7uNpgDhUf6FbBg73zfdejpTiG4g14Is7xcdJtAHvL64V+m4A==;vaXMExPKMvWeCe/5y0xA0g=="
+secured: "zR7TH1SH8OfXdi9anE+4D8wpy4xuYrFo+E7jjhxDNmmzgeTMt2cKNfBAe9DKuOJb+1htpKlOJls0/kn0pe8hj+WA/sE7LjewkutCpoJZy8mkT/3PZyum9gGA6de/2M8ahkE/NvZBoU45qq2r3xd2M5/omn+QygcuV1ZVHW9N4PywNzAZr7gqXo2xV4rvtIiLeDF79gtEX7A8sEbMgD5vxQt3YDgZzfwBz06SEiKu/sUJbP2bcM6TBs6oeUH0MsuO8Ri3bAfqfiyKxzdTDAO1RmjR/tg8AOyYDGmbTw7v7mRUI/67oqasGpZEkqIC2cXjyJ+vfDj4o+8hLZEnw0ceOfgmRJnK5GGqUeB1yly2iHtasfJ+fKYHYHt/9jRAIOmH2xlSVQY3Wf0kuXLfIJIYQg==;Df1Ep2Jk+siUkr1rmia5JA=="
 ---
 
