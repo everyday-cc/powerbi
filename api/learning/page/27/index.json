@@ -217,6 +217,37 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-create-a-subset-of-the-table-in-power-bi-and-add-calculations-using-selectcolumns-dax-function.md",
+      "title": "Create a subset of the table in Power BI and add calculations using SELECTCOLUMNS DAX Function",
+      "excerpt": "Previously I explained the AddColumns function as a function that adds one or more columns to the existing table, In this article and video, I'll explain another similar and useful function with slightly different behavior: SelectColumns, and you will learn how you can use it in Power BI and DAX. Download",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-create-a-subset-of-the-table-in-power-bi-and-add-calculations-using-selectcolumns-dax-function/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-create-a-subset-of-the-table-in-power-bi-and-add-calculations-using-selectcolumns-dax-function/",
+      "originalUrl": "https://youtube.com/watch?v=AlROiaxK41c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AlROiaxK41c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M36S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-05-19T20:02:44-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AlROiaxK41c/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-creating-calendar-table-in-power-bi-using-dax-functions.md",
       "title": "Creating Calendar Table in Power BI using DAX Functions",
       "excerpt": "I have previously explained about using Power Query for creating calendar tables, However, some people still love to do that in DAX. There are a couple of DAX functions which makes the process of creating a calendar table very simple and easy; Calendar() and CalendarAuto(). In this short video, I'll",
@@ -873,36 +904,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/cLcd-DLZC50/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-get-data-from-multiple-files-in-a-folder-on-onedrive-for-business-no-gateway-needed.md",
-      "title": "Power BI Get Data from Multiple Files in a Folder on OneDrive for Business, No Gateway Needed",
-      "excerpt": "I have explained in another video previously about how to set up your Power BI to get data from a file in OneDrive for Business folder without needing gateway. That was a popular video, but I got questions about what if I want to get data from a folder in OneDrive for business but still want to do it",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-get-data-from-multiple-files-in-a-folder-on-onedrive-for-business-no-gateway-needed/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-get-data-from-multiple-files-in-a-folder-on-onedrive-for-business-no-gateway-needed/",
-      "originalUrl": "https://youtube.com/watch?v=zoH_9L9sPYs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zoH_9L9sPYs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M48S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-11T13:10:21-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zoH_9L9sPYs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

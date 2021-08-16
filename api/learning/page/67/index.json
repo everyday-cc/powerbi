@@ -4,6 +4,36 @@
   "page": 67,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-how-to-create-power-bi-superheroes-talk-power-bi-live-subscribe-join.md",
+      "title": "How to Create Power BI Superheroes? 🔴Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "I had shared the vision of the Power BI Village 🏘️ with you. Now I need your help in creating the masterplan for this village! 👉 Read More about the Power BI Village 🏘️ at https://www.linkedin.com/pulse/would-you-like-live-power-bi-village-avi-singh-powerbipro-/ ✅ Subscribe and click the 🔔 to join",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-how-to-create-power-bi-superheroes-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-how-to-create-power-bi-superheroes-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=JDF0olfokZs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JDF0olfokZs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H38M47S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-03-28T10:57:03-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JDF0olfokZs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-how-to-create-power-bi-top-n-report-variable-top-n-filter.md",
       "title": "How to Create Power BI TOP N Report (Variable TOP N Filter)",
       "excerpt": "Let me show you how you can create a TOP N Report in Power BI, with a Variable N, so that you can show the Numbers and the Detail for Top 10, Top 50 or Top 100 Customers, Products or really anything else. And still have it fully interactive, so you can slice and dice it as you like. 👉 Download Power",
@@ -863,36 +893,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ZIzulzDadp8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-challenge-day-1-build-your-first-or-next-dashboard-fri-jul-27.md",
-      "title": "🔴 Power BI Challenge Day 1: Build Your First (or Next) Dashboard, Fri Jul 27",
-      "excerpt": "Multistreaming with https://restream.io/  Join the 5-Day Challenge to build your first (or next) Power BI Dashboard. Accept the challenge at  http://web.learnpowerbi.com/challenge  Sign up for Day 5 Power BI Training: http://www.learnpowerbi.com/webinar  ⚡Power On!⚡ Avi / PowerBIPro / Microsoft MVP",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-challenge-day-1-build-your-first-or-next-dashboard-fri-jul-27/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-challenge-day-1-build-your-first-or-next-dashboard-fri-jul-27/",
-      "originalUrl": "https://youtube.com/watch?v=JhqxCX2qxEg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JhqxCX2qxEg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H15M52S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-07-20T13:46:40-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JhqxCX2qxEg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
