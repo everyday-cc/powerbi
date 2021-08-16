@@ -313,7 +313,7 @@
             ]
           },
           "publishedDateTime": "2019-03-07T08:00:21-08:00",
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/bjERMKH2blw/maxresdefault.jpg",
@@ -2569,8 +2569,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9856,
-            "average": 4.6759334
+            "count": 9858,
+            "average": 4.675999
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2728,8 +2728,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1896,
-            "average": 4.712025
+            "count": 1897,
+            "average": 4.71165
           },
           "provider": {
             "name": "Microsoft Learn",

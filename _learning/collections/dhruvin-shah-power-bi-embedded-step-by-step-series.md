@@ -2,7 +2,7 @@
 title: "Power BI Embedded Step by Step Series"
 excerpt: "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application."
 type: collection
-heat: 60
+heat: 61
 
 provider:
   name: Dhruvin Shah
