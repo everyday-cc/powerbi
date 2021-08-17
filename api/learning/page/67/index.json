@@ -4,6 +4,120 @@
   "page": 67,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-sql-server-and-power-bi-updates-roundup-47.md",
+      "title": "SQL Server and Power BI Updates - Roundup #47",
+      "excerpt": "SQL Server has GA'd!!!  We also had a lot of updates for Power BI!  Creating Current Day, Week, Month And Year Reports In Power BI Using Bidirectional Cross-Filtering And M (@technitrain) https://blog.crossjoin.co.uk/2016/05/30/creating-current-day-week-month-and-year-reports-in-power-bi-using-bidirectional-cross-filtering-and-m/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-sql-server-and-power-bi-updates-roundup-47/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-sql-server-and-power-bi-updates-roundup-47/",
+      "originalUrl": "https://youtube.com/watch?v=jeTExBdj100",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jeTExBdj100\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M7S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-06-02T07:36:27-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jeTExBdj100/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-sqlfamily.md",
+      "title": "#SQLFamily",
+      "excerpt": "Day 2 of my San Jose/PASS BA Conference trip. This was pre-con day. I spent most of the day helping to setup the Microsoft Booths in the exhibition hall. Met up with a friend for lunch also.  Music By: https://soundcloud.com/john-butler-trio/ocean-2012   SUBSCRIBE! https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-sqlfamily/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-sqlfamily/",
+      "originalUrl": "https://youtube.com/watch?v=QMFYaq_8WUQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QMFYaq_8WUQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M26S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-05-03T00:12:40-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QMFYaq_8WUQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-ssl-security-error-with-data-souce.md",
+      "title": "SSL Security Error with Data Souce",
+      "excerpt": "Receiving an SSL Security error when trying to configure a Data Source within Power BI and using Encrypt Connection.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-ssl-security-error-with-data-souce/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-ssl-security-error-with-data-souce/",
+      "originalUrl": "https://youtube.com/watch?v=xrDcDzY4RU0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xrDcDzY4RU0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M19S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-04-22T07:19:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xrDcDzY4RU0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-ssrs-apis-m-queries-power-bi-desktop-and-more.md",
       "title": "SSRS APIs, M Queries, Power BI Desktop and more",
       "excerpt": "Exploring The New SSRS 2017 API In Power BI (@technitrain) https://blog.crossjoin.co.uk/2017/10/15/exploring-the-new-ssrs-2017-api-in-power-bi/  Bulk-extracting Power Query M-code from multiple pbix files in Power BI (@TheBIccountant) http://www.thebiccountant.com/2017/10/15/bulk-extracting-power-query-m-code-from-multiple-pbix-files-in-power-bi/",
@@ -1023,120 +1137,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/IvPq6vziG5I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-where-do-i-get-my-geek-shirts.md",
-      "title": "Where do I get my geek shirts?",
-      "excerpt": "One question we get a lot is where Adam gets his geek shirts from. That question is answered in this video.   ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube -- https://www.instagram.com/guyinacube/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-where-do-i-get-my-geek-shirts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-where-do-i-get-my-geek-shirts/",
-      "originalUrl": "https://youtube.com/watch?v=LzCF_JZSQz0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LzCF_JZSQz0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M34S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-25T04:07:42-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LzCF_JZSQz0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-wheres-my-measure-power-bi-paginated.md",
-      "title": "Where's my measure??? (Power BI Paginated)",
-      "excerpt": "Looking for your measures in a Power BI Paginated report and can't find them? Patrick shows you what is going on.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba --",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-wheres-my-measure-power-bi-paginated/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-wheres-my-measure-power-bi-paginated/",
-      "originalUrl": "https://youtube.com/watch?v=enfY74xSN58",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/enfY74xSN58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M16S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-11-12T05:49:08-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/enfY74xSN58/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-yes-block-classic-workspaces-in-power-bi-even-from-microsoft-teams.md",
-      "title": "YES!!! BLOCK Classic Workspaces in Power BI. Even from Microsoft Teams!",
-      "excerpt": "The ability to BLOCK classic workspaces from being created in Power BI is finally here! Adam shows you how to implement and what to consider. Create Microsoft Teams without the worry!  Blog: https://powerbi.microsoft.com/blog/announcing-you-can-now-block-classic-workspace-creation/  📢 Upcoming Administration",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-yes-block-classic-workspaces-in-power-bi-even-from-microsoft-teams/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-yes-block-classic-workspaces-in-power-bi-even-from-microsoft-teams/",
-      "originalUrl": "https://youtube.com/watch?v=T2PAL4D2SvU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T2PAL4D2SvU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M51S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-13T08:00:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/T2PAL4D2SvU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

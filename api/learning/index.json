@@ -17,7 +17,7 @@
         "domain": "learnpowerbi.com"
       },
       "publishedDateTime": "2019-04-30T16:11:09-07:00",
-      "heat": 210,
+      "heat": 224,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/AGrl-H87pRU/maxresdefault.jpg",
@@ -110,37 +110,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-book-overview-power-bi-dax-simplified.md",
-      "title": "Book Overview   Power BI DAX Simplified",
-      "excerpt": "A few weeks ago, my new book was published and is now available. As the Amazon web page for the book won't allow me to put some more details about what it is, I thought it better to share some more information about it here. This book is available in all possible Amazon markets as Kindle and paperback",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-book-overview-power-bi-dax-simplified/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-book-overview-power-bi-dax-simplified/",
-      "originalUrl": "https://youtube.com/watch?v=oMvpZvBkGwU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oMvpZvBkGwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M21S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-08-12T17:18:13-07:00",
-      "heat": 141,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oMvpZvBkGwU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-get-best-result-from-qa-visual-in-power-bi.md",
       "title": "Get Best Result from Q&A Visual in Power BI",
       "excerpt": "Welcome to one more Power BI Tip for Q&A Visual in Power BI. When we add Q&A visual in Power BI and ask the questions in the natural language, sometimes it does not give us the proper outcome! So, how can we improve our Q&A visual and return the best result? How we can use synonyms in the best manner",
@@ -171,6 +140,37 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-book-overview-power-bi-dax-simplified.md",
+      "title": "Book Overview   Power BI DAX Simplified",
+      "excerpt": "A few weeks ago, my new book was published and is now available. As the Amazon web page for the book won't allow me to put some more details about what it is, I thought it better to share some more information about it here. This book is available in all possible Amazon markets as Kindle and paperback",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-book-overview-power-bi-dax-simplified/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-book-overview-power-bi-dax-simplified/",
+      "originalUrl": "https://youtube.com/watch?v=oMvpZvBkGwU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oMvpZvBkGwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M21S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-08-12T17:18:13-07:00",
+      "heat": 140,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oMvpZvBkGwU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-take-your-power-bi-visualization-to-the-next-level-using-small-multiples.md",
       "title": "Take Your Power BI Visualization to the Next Level using Small Multiples",
       "excerpt": "Small multiple is a relatively recent feature on some of the Power BI visuals. This feature enables you to have a much better visualization instead of trying to fit everything in one visual (over-complicate it) or create copies of the same visual (maintenance issue in the future). This is a simple feature",
@@ -198,45 +198,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-replace-text-with-another-column-value-in-power-query.md",
-      "title": "Replace text with another column value in Power Query",
-      "excerpt": "Do you know how to replace text dynamically in Power Query using another column's value? Let me show you!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-replace-text-with-another-column-value-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-replace-text-with-another-column-value-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=nk3aV99hvQk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nk3aV99hvQk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M2S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-06-21T05:12:11-07:00",
-      "heat": 135,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nk3aV99hvQk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     },
     {
@@ -301,49 +262,31 @@
       ]
     },
     {
-      "path": "_learning/articles/excelerator-bi-filter-one-slicer-based-on-another-slicer-in-power-bi.md",
-      "title": "Filter One Slicer Based on Another Slicer in Power BI",
-      "excerpt": "This is a follow up article from my last blog post where I demonstrated how easy it is to use two slicers to compare any two items. In the demo in my article, I specifically showed how you could compare any 2 years of choice, but the principle applies to [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-filter-one-slicer-based-on-another-slicer-in-power-bi/index.json",
-      "webUrl": "https://exceleratorbi.com.au/filter-one-slicer-based-on-another-slicer-in-power-bi/",
+      "path": "_learning/videos/curbal-dax-fridays-211-add-leading-zeros-to-a-column-using-dax.md",
+      "title": "Dax Fridays #211: Add leading zeros to a column using DAX",
+      "excerpt": "Adding leading zeros, is probably something that you should do alrealy in Power Query, but in this case I wanted that column to be created on the fly rather than adding it to the model, so I let me show you how I did it!  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-211-add-leading-zeros-to-a-column-using-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-211-add-leading-zeros-to-a-column-using-dax/",
+      "originalUrl": "https://youtube.com/watch?v=_R8kCNq7Pnw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_R8kCNq7Pnw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M19S",
       "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-07-12T16:24:52-07:00",
-      "heat": 130,
+      "publishedDateTime": "2021-06-21T06:37:01-07:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/070921_2320_FilterOneSl1.png",
-          "width": 402,
-          "height": 259,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-all-selected-dax-expression-in-power-bi.md",
-      "title": "All Selected DAX Expression in Power BI",
-      "excerpt": "Welcome to one another episode of Wednesday with DAX. During this session, we will talk about the most important DAX expression ALLSELECTED(). Most of the time we have confusion between when to use ALL and when to use ALLSELECTED DAX function. First, we have taken one real life example and scenario here.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-all-selected-dax-expression-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-all-selected-dax-expression-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=dKTdHc8V2Hc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dKTdHc8V2Hc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M15S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-06-23T01:54:08-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dKTdHc8V2Hc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_R8kCNq7Pnw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -355,6 +298,69 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-document-a-power-bi-file-and-report-in-a-few-clicks-all-dax-code-visualization-power-query-scripts.md",
+      "title": "Document a Power BI file and report in a few clicks   all DAX code visualization Power Query scripts",
+      "excerpt": "In this article and video, I’ll share with you how to document everything from a Power BI file in a few clicks. The document output will have all the DAX code (measures, columns, and tables) with the expressions, the tables with the Power Query scripts, information about visualization such as how many",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-document-a-power-bi-file-and-report-in-a-few-clicks-all-dax-code-visualization-power-query-scripts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-document-a-power-bi-file-and-report-in-a-few-clicks-all-dax-code-visualization-power-query-scripts/",
+      "originalUrl": "https://youtube.com/watch?v=mRbeLl0TO14",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mRbeLl0TO14\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M16S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-05-27T15:09:46-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mRbeLl0TO14/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-trim-vs-clean-in-power-bi-and-power-query.md",
+      "title": "Trim Vs Clean in Power BI and Power Query",
+      "excerpt": "When applying text transformations in Power BI using Power Query; two very important transformations that can help are; Trim and Clean. These two mistakenly often considered to do one thing, but they are different. In this short article and video, I’ll explain their differences through an example. find",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-trim-vs-clean-in-power-bi-and-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-trim-vs-clean-in-power-bi-and-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=jvbVVDyGpEs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jvbVVDyGpEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M3S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-06-20T19:39:55-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jvbVVDyGpEs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -883,8 +889,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 23580,
-            "average": 4.795929
+            "count": 23587,
+            "average": 4.7959895
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -925,8 +931,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 41277,
-            "average": 4.7688785
+            "count": 41281,
+            "average": 4.768901
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -985,8 +991,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 41277,
-        "average": 4.7688785
+        "count": 41281,
+        "average": 4.768901
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1229,6 +1235,36 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-connect-power-bi-to-sharepoint-list-sharepoint-folder-sharepoint-excel-file-.md",
+      "title": "Connect Power BI to SharePoint List, SharePoint Folder, SharePoint Excel File 🔌",
+      "excerpt": "Let me show you how you can connect Power BI to  00:20 SharePoint Folder 05:32 SharePoint Excel File 07:26 SharePoint List   ================================ 👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-connect-power-bi-to-sharepoint-list-sharepoint-folder-sharepoint-excel-file-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-connect-power-bi-to-sharepoint-list-sharepoint-folder-sharepoint-excel-file-/",
+      "originalUrl": "https://youtube.com/watch?v=XuLnSYjmsJo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XuLnSYjmsJo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M51S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-10-23T09:00:08-07:00",
+      "heat": 80,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XuLnSYjmsJo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi.md",
       "title": "How to create a Export to Excel / CSV button in Power BI",
       "excerpt": "In todays video I will show you how to create and export to excel or CSV button in Power BI!! Take a look!  Chapters: 00:00 Intro 01:30 Export to CSV button 05:15 Apply the flow to the button 05:30 Format the flow button 06:00 Check if the flow run sucessfully 08:00 Export to excel button 09:30 Pre-requisites",
@@ -1264,45 +1300,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-drilling-into-drillthrough-in-power-bi-desktop.md",
-      "title": "Drilling into drillthrough in Power BI Desktop",
-      "excerpt": "In this video, Patrick looks at how you can use the drillthrough feature within Power BI Desktop. He also looks at how you can drill to multiple fields at the same time. The back image can also be changed and Patrick shows you how to do it!  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com --",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-drilling-into-drillthrough-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-drilling-into-drillthrough-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=2x9lLHDbtDk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2x9lLHDbtDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M11S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-11-08T06:30:31-08:00",
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2x9lLHDbtDk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

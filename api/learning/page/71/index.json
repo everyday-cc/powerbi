@@ -4,6 +4,126 @@
   "page": 71,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-challenge-day-4-build-your-first-or-next-dashboard-wed-aug-1.md",
+      "title": "🔴 Power BI Challenge Day 4: Build Your First (or Next) Dashboard, Wed Aug 1",
+      "excerpt": "Multistreaming with https://restream.io/  Join the 5-Day Challenge to build your first (or next) Power BI Dashboard. Accept the challenge at  http://web.learnpowerbi.com/challenge  Sign up for Day 5 Power BI Training: http://www.learnpowerbi.com/webinar  ⚡Power On!⚡ Avi / PowerBIPro / Microsoft MVP",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-challenge-day-4-build-your-first-or-next-dashboard-wed-aug-1/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-challenge-day-4-build-your-first-or-next-dashboard-wed-aug-1/",
+      "originalUrl": "https://youtube.com/watch?v=VKiOtMv4pvM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VKiOtMv4pvM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H40M18S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-07-31T13:16:39-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VKiOtMv4pvM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-challenge-special-talk-power-bi-live-subscribe-join.md",
+      "title": "Power BI Challenge Special 🔴Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "Join the 5-Day Power Bi Challenge at http://www.PowerBIChallenge.com and join us for this very special episode to support the 5-Day Power BI Challenge participants.  ✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-challenge-special-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-challenge-special-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=1aKO8NC43Hg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1aKO8NC43Hg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H3M44S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-03-28T10:59:06-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1aKO8NC43Hg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-cumulative-sum-hangout-talk-power-bi-live-subscribe-join.md",
+      "title": "Power BI Cumulative Sum + Hangout 🔴 Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join https://www.facebook.com/groups/TalkPowerBI to continue the conversation  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power BI. So much so that I",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-cumulative-sum-hangout-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-cumulative-sum-hangout-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=veCw3S7fJLQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/veCw3S7fJLQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H4M51S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-09-21T13:50:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/veCw3S7fJLQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-dashboard-review-makeover-talk-power-bi-live-subscribe-join.md",
+      "title": "Power BI Dashboard Review & Makeover  🔴Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "In Power BI 'Dashboard Makeover'  • We Review Power BI Reports/Dashboards sent in by users  • Provide expert feedback and ideas on how to improve  • Email Your Screenshots to avi@avising.com with Subject: Dashboard Makeover  ⚠️NOTE⚠️ :  • Do NOT send any sensitive data in your screenshots  • Watch this",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-dashboard-review-makeover-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-dashboard-review-makeover-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=TOml5Pbfp2w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TOml5Pbfp2w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4H34M43S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-06-20T20:44:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TOml5Pbfp2w/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-data-modeling-challenge-rolling-over-weekend-sales-to-weekday.md",
       "title": "Power BI Data Modeling Challenge: Rolling Over Weekend Sales to Weekday",
       "excerpt": "In this video we tackle a Power BI Data Modeling Challenge to rollover weekend sales to Weekday. Get the file used in this video: https://www.learnpowerbi.com/download ➔ Links mentioned in the Video Power BI Ultimate Calendar Table https://www.youtube.com/playlist?list=PL7GQQXV5Z8eczWqKFMDVoHMjTcpH3tgZm",
@@ -125,36 +245,6 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-drill-through-5-different-alternatives-that-may-be-better-for-you.md",
-      "title": "Power BI Drill Through: 5 Different Alternatives That May be Better For You!",
-      "excerpt": "Power BI Drill Through isn’t always the best option to show more detail. There are alternatives that may work better for you. We cover the top 5:  1️⃣ Cross Filter 2️⃣️ Tooltips & Report Page Tooltips 3️⃣ Dynamic Link to External Report 4️⃣ Dynamic Link to Power BI Report 5️⃣️ Using Bookmarks 👉 Catch",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-drill-through-5-different-alternatives-that-may-be-better-for-you/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-drill-through-5-different-alternatives-that-may-be-better-for-you/",
-      "originalUrl": "https://youtube.com/watch?v=B7mtd_9UKyU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B7mtd_9UKyU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M19S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-10-09T09:00:02-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B7mtd_9UKyU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-employee-vs-consultant-charles-avi-show-on-talkpowerbi-live.md",
       "title": "Power BI Employee vs. Consultant: Charles & Avi Show on 🔴TalkPowerBI LIVE",
       "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access   Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power",
@@ -232,36 +322,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/igVN62XodWA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-fiscal-calendar-can-you-handle-season-to-date-.md",
-      "title": "Power BI Fiscal Calendar: Can You Handle Season to Date? 😵",
-      "excerpt": "👉 Download Video Files: https://web.learnpowerbi.com/download/ 👉 LINKS MENTIONED IN VIDEO: ➔ Thought Process: The Missing Step in Learning Power BI https://youtu.be/X0-MKaMxUdM ➔ Ultimate Calendar Playlist: https://www.youtube.com/watch?v=BtYn1hfdSAM&list=PL7GQQXV5Z8eczWqKFMDVoHMjTcpH3tgZm ➔ Thanks",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-fiscal-calendar-can-you-handle-season-to-date-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-fiscal-calendar-can-you-handle-season-to-date-/",
-      "originalUrl": "https://youtube.com/watch?v=qMZRVj7PHQI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qMZRVj7PHQI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M39S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-11-11T09:00:34-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qMZRVj7PHQI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -844,66 +904,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-bi-publish-and-create-dashboard-153.md",
-      "title": "Power BI Tutorial for Beginners: Power BI. Publish and Create Dashboard (1.5.3)",
-      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-bi-publish-and-create-dashboard-153/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-bi-publish-and-create-dashboard-153/",
-      "originalUrl": "https://youtube.com/watch?v=tHiz-JDsAwk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tHiz-JDsAwk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M31S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-05-07T07:55:32-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tHiz-JDsAwk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-bi-visualization-art-science-and-best-practices-152.md",
-      "title": "Power BI Tutorial for Beginners: Power BI Visualization. Art + Science and  Best Practices (1.5.2)",
-      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-bi-visualization-art-science-and-best-practices-152/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-bi-visualization-art-science-and-best-practices-152/",
-      "originalUrl": "https://youtube.com/watch?v=tBgngQz64Ao",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tBgngQz64Ao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M48S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-05-07T07:54:33-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tBgngQz64Ao/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

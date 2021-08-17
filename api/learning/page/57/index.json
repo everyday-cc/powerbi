@@ -4,6 +4,97 @@
   "page": 57,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-tableaddfuzzyclustercolumn-function-in-power-bi.md",
+      "title": "Table.AddFuzzyClusterColumn Function in Power BI",
+      "excerpt": "During this vLog, we will learn how we can get help with spellings in Power BI using Table.AddFuzzyClusterColumn function in Power BI. AddFuzzyClusterColumn function adds a new column with representative values obtained by fuzzy grouping values of the specified column in a table.     We will check how",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-tableaddfuzzyclustercolumn-function-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-tableaddfuzzyclustercolumn-function-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=6DZhQJkgsFM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6DZhQJkgsFM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M39S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-18T01:48:41-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6DZhQJkgsFM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-the-coalesce-function-in-power-bi-dax.md",
+      "title": "The COALESCE function in Power BI DAX",
+      "excerpt": "In this vLog, we will talk about the COALESCE function in Power BI Dax. COALESCE function accepts multiple arguments and returns the first argument that is nonblank.  The SQL users are aware of this COALESCE function. We have the now DAX function equivalent of SQL COALESCE.   In this video, we will talk",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-the-coalesce-function-in-power-bi-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-the-coalesce-function-in-power-bi-dax/",
+      "originalUrl": "https://youtube.com/watch?v=DXS5l5HvxzI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DXS5l5HvxzI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M6S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:52:50-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DXS5l5HvxzI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-things-you-should-consider-before-installing-power-bi-data-gateway.md",
+      "title": "Things you should consider before installing Power BI Data Gateway",
+      "excerpt": "During this session, we will be talking about What are the minimum hardware and software required to install a Power BI Data gateway and which are the considerations we need to keep in our mind before installing a Data Gateway?  In this session we will cover the following points: 1. Minimum Hardware",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-things-you-should-consider-before-installing-power-bi-data-gateway/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-things-you-should-consider-before-installing-power-bi-data-gateway/",
+      "originalUrl": "https://youtube.com/watch?v=PFPqsY9dUro",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PFPqsY9dUro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-29T08:16:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PFPqsY9dUro/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-tip-change-title-text-dynamically-in-power-bi-visual.md",
       "title": "Tip: Change Title Text Dynamically in Power BI Visual",
       "excerpt": "This is a Quick Tip Video in the Power BI. Sometimes we have a requirement in which we need to set the Title of the visual based on some conditions. This video will help you to achieve that thing. We can easily apply the Conditional Formatting for Visual Headers.",
@@ -860,120 +951,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/RtAgzJln880/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-3-steps-to-get-a-power-bi-test-tenant.md",
-      "title": "3 steps to get a Power BI Test Tenant",
-      "excerpt": "In this video, I show you the three steps you need to take to get a managed trial Office 365/Azure Active Directory tenant and to have access to all of the features within Power BI. You can use this as a Power BI Test Tenant.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-3-steps-to-get-a-power-bi-test-tenant/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-3-steps-to-get-a-power-bi-test-tenant/",
-      "originalUrl": "https://youtube.com/watch?v=gbSuFST-Nx4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gbSuFST-Nx4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M44S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-06-14T08:11:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gbSuFST-Nx4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-3-things-power-bi-admins-should-be-aware-of-in-office-365.md",
-      "title": "3 things Power BI admins should be aware of in Office 365",
-      "excerpt": "If you're a Power BI admin, you should be aware of certain items within the Office 365 Admin Center. These will help you be a better admin!  Sign up to be notified of our upcoming Power BI administration course! https://guyinacu.be/admincoursenotify  *******************  Want to take your Power BI skills",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-3-things-power-bi-admins-should-be-aware-of-in-office-365/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-3-things-power-bi-admins-should-be-aware-of-in-office-365/",
-      "originalUrl": "https://youtube.com/watch?v=v1WtfxLUsLc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v1WtfxLUsLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M1S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-01-30T06:00:32-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/v1WtfxLUsLc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-3-things-to-get-up-and-running-with-kpis-in-reporting-services-2016-ctp-33.md",
-      "title": "3 things to get up and running with KPIs in Reporting Services 2016 (CTP 3.3)",
-      "excerpt": "I look at three things you need to do to create and use KPI's in SQL Server Reporting Services 2016. This looks specifically at CTP 3.3.  I go through creating a shared dataset, creating the KPI and then setting up refresh for the KPI/Dataset.  Working with KPIs in Reporting Services https://msdn.microsoft.com/en-US/library/mt683632.aspx",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-3-things-to-get-up-and-running-with-kpis-in-reporting-services-2016-ctp-33/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-3-things-to-get-up-and-running-with-kpis-in-reporting-services-2016-ctp-33/",
-      "originalUrl": "https://youtube.com/watch?v=ovljdJ2LNC4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ovljdJ2LNC4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-02-16T09:22:53-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ovljdJ2LNC4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
