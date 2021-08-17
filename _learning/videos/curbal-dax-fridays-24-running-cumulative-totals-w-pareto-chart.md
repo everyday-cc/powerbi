@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT15M44S
 publishedDateTime: 2017-02-02T20:24:11Z
-heat: 52
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d-Jk1j2G3nw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "x1kdgPICQRMT23UF+lfC92QaTIRMEzanY/rrHMMgJE4MLga8p5QKsLm124IoTTC469dZ6M093B4RTMk9uQJHrD98rvfwoFz5qnG42ScXulWSVxb316qm3Te8XdVU7BDxh7lShJTu1JvYBojQATKCDtIKMnKyYfghNGSJMtNLzEdsN9uZpEq4WBHNHJGrqtd18/l1OGRGPYR6cAdkNoubzd8ScVaoAYThcXcXmuPR9iHBjy8TnJwhE+mLXpjRA94bqccGNkKSqArRDkWLyniNAoVyLI6w+HGHJxcbLPhdT25aAYnj0rhjcMP2oTjcUBo1gSQtI0yXpbyWY+W85O4RigSj6jwwBn++6bwNksQmj0r/fefj7iDPSaQ/1YiQx5P6DhmKi+J6qnHNRf3UIlPHKs4G3MAc/o3+fVLmWkBChZ0=;ilZaj0avI5L5DY0YD4FF3w=="
+secured: "OasiNr+sQcG1Qjd76DPqzDvS+pWnVuguK5VVAC3cyL7eb8sjxqm48Im1LoR6tElFDw2yClRFoMxoTliNk0iO2X421rYDJVp6U7q7sEiLpcMrtlub/j7EJwndTKqCCAOREGwxfD/lKC1FPKt4dSOqdWMzQNL2a1Jb71zjy75nyS2hJ1Wrz5LK4Jb9uVpNRiwPbSHImeLGlrshcTh2yuwCZ/8n8OCIRnjZ+5lQLTCgT57cbXUUS6fo9ifDx/3g20AjrCQsu8Qew4aD3t8eCOjX5IUZd9v8gj4848TqRpKkaMet4bckggqGMxho6PW8B1dndNKrY9ebPZbEi5dZfc0MKIxS5P/iCc4S4TqpVUMg+YSPtUUsFYYLw8dXK5z/94cQk8im8/atI8jyqzeTDtyj0NcNu/MMXdi0D45HZRb/guY=;MoeDNu9OdtJ9Ct7qxV1QtA=="
 ---
 

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT17M18S
 publishedDateTime: 2018-08-22T14:25:47Z
-heat: 53
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NdrrjkvH2zo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "LwxlJuDy1bpZcFHqa7PcRGvlVWJWuBa3uwMZoZRlSYwbowAhR/G4ILWALG/pwrTb9B4q4u9IOjuKC07+U8qr3nXlrxSoHtZxwNhf5QzkwcwcyTKwhBIdtMTkvbagLxRak6wbzOxLYMlYPSQgUOwoW33xGRGdkwLW0plXFiwAfUn7ohaoqfqGom+GN+/ixFhDZL2qqldsJ+FQFFQYW/Hlss8CD1PgC3b/+otf1C5GmO+JT9rTCDq0zjwyYqOyc2rPv6J6edo64o0DlzO1yAdcDQiHnaC883C7gD2nqJCGD1s/u1SrmmsTpQGMpAFX7kBa35vc0viNKcDQ0ayBrsrc63LqoJxvi9Xm0+d1J6q6b3DGimGYPgxeZAPtM4TyK5bDsWR4eCK8sHRewhxYy2qWKiAebCMB8WbrgD2EmpJjXJ0=;PtoqhZR0k+8s3nRlU/1c1Q=="
+secured: "0Mtg/tKTEDEDYf/eawyEZWTyk8gCwfJZv8/qpmFa5O4BItAqxLkN9GTMFUc7gtWOCQElegfHXGaYPiolP1fBM75sv3FUZXYx7T2+BTc+wMNKrmTVC9JPvw8LUThRVUQqZRPmTkw0xkBjQ/nBwDiN1WGFj/FNiX3pFEuf+FrtNJpfi+SznMxpw356/L3efpMg9abxDcDeZ0jQeFvw4wNGf5YOWeyDaW5soNd/rsVp6hRvEH6pobrX9dSSPHhPC5lkAeGS3td3GShTO+a3kp3NmAKj8A+gYjyXAmkfHhoZpLMIsMFYCnANZjsEU90lV947J5t3uaiWv9S6RR/UPuYhiqU5y+L8T+3BpBbBM+oD8WhMnD+jTzTx8fyT5xWJB79/rBnmp2OM29/wT2whP4zmn1sfkjxyTmiZutrBKft86Ug=;iiKkETbskeTw5M0ZgCMMcA=="
 ---
 
