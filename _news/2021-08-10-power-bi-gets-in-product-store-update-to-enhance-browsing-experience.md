@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/power-bi-gets-in-product-store-update-
 webUrl: "https://www.neowin.net/news/power-bi-gets-in-product-store-update-to-enhance-browsing-experience/"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:
