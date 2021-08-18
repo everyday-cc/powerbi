@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Get started with the Power BI Gateway"
 
-secured: "5BjYzcK9hf0vx/IDkQWlilvsm6PE8Rk7CqLXtao8+eoV9iYrN/AwpdkrOXo++MtIRtGg3QqT2qipEdpElKtfOMoqmouUKDvKvzbWyMioee/NVT59wGuFt+zrWT/6DhRxLe+JvMR3165VHlQqNayzBqspRIN/jpOdH1/OZ+ie7BmnYvxI2h3sb4HPYnB+KJRDH6zYGyKDGqfp8azOgIsb2lvlKtAqaa/676d5GrFFEKYR/MWda+l7Xv3FwmMqmIL+o2j4zgG87ibRSwdcCLZlo31rs9EIdiNk2eerCc6/8EUfa/fwCnNfKBzpMjyY6DJ2C2MG4YrSOjz9J5iAbXA1NKAevKPfhml94b39KTFFQECqfbBRlzf0P41UlQFEhBHEGG8nwVWgLpmk3DLQJ73I5Ed6jUS2hkpix19qiWYXI0Y=;LfavGIac8Si6CEKnIeF/dQ=="
+secured: "34zbYITZ9WUhv92yPa+Rcmowuz+fnCmqYCtFR7xOvU3QKg4wibp1G3Jp2ITUokbpG52Fa0o7QO3eNnjGODsQKcCCtSoSRrQEkwSmBcwyGiLHTifBdeWbNC28zMmpkIdMPH/mwI7ZA9nncjk/XFrIi/FEb5LRVapf/xPEpHdO+8NJy/oQNCo3v4kOIlZtWg+g31GjRtldMa68jH9XU3jTQF4PfY2x3wDX8bMClXE9smdcVFJeLecF6OppEE4NJpcEkEA+BeQfFLEjNv05I/3iXMGI/UlrXlwhCsB5vSBuzmf74T+7aMFv62T+dAXNcieZ66aVdzI2WDV58Arye316zZ3oBTfZE58FGMaeaKXi24wwL+fuTEDpGVmJAHP+19jb6IiFR7JL/6JDEnVdoQBsuRV/+CleJGzQEFZ4LPqSs48=;iMxLVNddZTljOdw1AAdQ/g=="
 ---
 
