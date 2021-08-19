@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-05-25-build-2021-microsoft-reveals-enhancements-to-power-bi-cosmos-db.md",
+      "title": "Build 2021: Microsoft reveals enhancements to Power BI, Cosmos DB",
+      "excerpt": "Let's start with Microsoft's Power BI announcements. These include the ability for Power BI dataflows (the cloud-based incarnation of Power Query) to handle streaming data sources, starting with ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-25-build-2021-microsoft-reveals-enhancements-to-power-bi-cosmos-db/index.json",
+      "webUrl": "https://www.zdnet.com/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/hub/i/2021/05/25/0611b300-e918-4cfa-a9ef-9ec8e2f10237/power-bi-in-jupyter.png",
+          "width": 1495,
+          "height": 1010,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
+      "publishedDateTime": "2021-05-25T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021.md",
       "title": "Power BI introduces a bunch of new additions and improvements at Build 2021",
       "excerpt": "The premium version of Microsoft's data analytics platform is receiving real-time analytics and big data improvements, while Power BI Embedded now offers integration with Jupyter Notebooks.",
@@ -1217,49 +1268,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-advanced-data-modelling-with-power-bi.md",
-      "title": "Advanced Data Modelling with Power BI",
-      "excerpt": "This course was developed by the Microsoft Power BI Team. It focusses on Modelling techniques and DAX, the modelling language used in Power BI. By the end of this course, you will be able to use DAX to create calculations in a Power BI Desktop data model.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-19-advanced-data-modelling-with-power-bi/index.json",
-      "webUrl": "https://www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html",
-      "originalUrl": "https://www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G4QzWDv4s6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html",
-      "cdnAmpWebUrl": "https://www-itmagazine-ch.cdn.ampproject.org/c/s/www.itmagazine.ch/veranstaltungen/1905/Smart_Manufacturing_Digital_Summit.html",
-      "publishedDateTime": "2021-04-19T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Magazine",
-        "domain": "itmagazine.ch",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],
