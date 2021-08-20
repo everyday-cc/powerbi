@@ -1968,8 +1968,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 3615,
-            "average": 4.7051177
+            "count": 3616,
+            "average": 4.7049227
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2011,8 +2011,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 4753,
-            "average": 4.7708817
+            "count": 4754,
+            "average": 4.7707195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2112,7 +2112,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-intro-social.png",
@@ -2851,8 +2851,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 3615,
-        "average": 4.7051177
+        "count": 3616,
+        "average": 4.7049227
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2894,8 +2894,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 4753,
-        "average": 4.7708817
+        "count": 4754,
+        "average": 4.7707195
       },
       "provider": {
         "name": "Microsoft Learn",
