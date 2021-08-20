@@ -4,7 +4,7 @@ excerpt: "Level: Intermediate Updated: 10 Nov 2020 I first wrote this article a
 webUrl: https://exceleratorbi.com.au/extract-tabular-data-power-bi-service-excel/
 type: article
 publishedDateTime: 2020-11-09T21:40:19Z
-heat: 50
+heat: 51
 
 provider:
   name: Excelerator BI
