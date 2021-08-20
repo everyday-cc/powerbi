@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/scanner-api-is-now-in-ga/
 webUrl: "https://powerbi.microsoft.com/en-us/blog/scanner-api-is-now-in-ga/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
