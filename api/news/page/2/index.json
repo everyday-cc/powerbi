@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-11-this-30-microsoft-power-bi-training-can-make-you-a-data-superstar-at-your-company.md",
+      "title": "This $30 Microsoft Power BI training can make you a data superstar at your company",
+      "excerpt": "Build Up Your Data Analytics & Visualization Skills with 9 Courses & 51.5 Hours of Content on Microsoft Power BI, From Basics to Creating Your Own Reports.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-11-this-30-microsoft-power-bi-training-can-make-you-a-data-superstar-at-your-company/index.json",
+      "webUrl": "https://thenextweb.com/news/this-30-microsoft-power-bi-training-can-make-you-a-data-superstar-at-your-company",
+      "originalUrl": "https://thenextweb.com/news/this-30-microsoft-power-bi-training-can-make-you-a-data-superstar-at-your-company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-deals?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2FTNW-Microsoft-Power-BI-Training.jpeg&signature=3d98427ac944230f6595f9a358ba54f1",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-11T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-07-07-make-smarter-business-decisions-with-help-from-microsoft-power-bi.md",
       "title": "Make Smarter Business Decisions with Help From Microsoft Power BI",
       "excerpt": "One of the best tools to help you do this is Microsoft Power BI. Learn how to leverage this powerful software in The Complete 2021 Microsoft Power BI Super Bundle. This nine-course bundle takes a comprehensive, beginner-friendly approach to Microsoft BI.",
@@ -1200,57 +1251,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-26-build-2021-microsoft-reveals-enhancements-to-power-bi-cosmos-db.md",
-      "title": "Build 2021: Microsoft reveals enhancements to Power BI, Cosmos DB",
-      "excerpt": "Let's start with Microsoft's Power BI announcements. These include the ability for Power BI dataflows (the cloud-based incarnation of Power Query) to handle streaming data sources, starting with ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-26-build-2021-microsoft-reveals-enhancements-to-power-bi-cosmos-db/index.json",
-      "webUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
-      "originalUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/hub/i/2021/05/25/0611b300-e918-4cfa-a9ef-9ec8e2f10237/power-bi-in-jupyter.png",
-          "width": 1495,
-          "height": 1010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/publisher/6290336/index.php/google-amp/article/microsoft-announces-enhancements-to-power-bi-cosmos-db-at-build/",
-      "publishedDateTime": "2021-05-25T21:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

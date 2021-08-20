@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-07-20-microsoft-releases-open-source-power-bi-component-for-react.md",
+      "title": "Microsoft releases open source Power BI component for React",
+      "excerpt": "The new component enables the embedding of reports, dashboards, dashboard tiles, report visuals, and more in React applications. Support for both JavaScript and TypeScript is provided.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-20-microsoft-releases-open-source-power-bi-component-for-react/index.json",
+      "webUrl": "https://www.neowin.net/news/microsoft-releases-open-source-power-bi-component-for-react",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779301_powerbi1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-releases-open-source-power-bi-component-for-react/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-releases-open-source-power-bi-component-for-react/",
+      "publishedDateTime": "2020-07-20T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-07-20-power-bi-desktop-update-and-more-roundup-july-20-2020.md",
       "title": "Power BI Desktop update and more... (Roundup | July 20, 2020)",
       "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup186 Patrick's tech video: https://guyinacu.be/quickmeasure Adam's tech video: https://guyinacu.be/externaltools  🔴 Live Replay: https://guyinacu.be/live018  📢 Become a member: https://guyinacu.be/membership",
@@ -1224,58 +1275,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-05-07-feature-summary-2-unannounced-ones-on-the-power-bi-desktop-update-april-2020.md",
-      "title": "Feature Summary + 2 unannounced ones 😎 on the Power BI Desktop Update April 2020",
-      "excerpt": "In todays power bi desktop update feature summary review for April 2020, we are going to go through the following topics:  Lasso select for visuals Shortcuts for grouping and ungrouping visuals Conditional formatting for totals and subtotals in power bi matrix i icon for properties in power query Personalize",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-05-07-feature-summary-2-unannounced-ones-on-the-power-bi-desktop-update-april-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-05-07-feature-summary-2-unannounced-ones-on-the-power-bi-desktop-update-april-2020/",
-      "originalUrl": "https://youtube.com/watch?v=db00gQgLwMU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/db00gQgLwMU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/db00gQgLwMU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-07T03:59:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],
