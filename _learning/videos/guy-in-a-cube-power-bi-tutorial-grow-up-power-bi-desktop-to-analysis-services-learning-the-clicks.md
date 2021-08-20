@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M26S
 publishedDateTime: 2018-04-18T16:32:09Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0V8Y8g6CS-o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Power BI Tutorial - Grow up Power BI Desktop to Analysis Services (Learning the clicks)"
 
-secured: "wy7jYPC92wbqTCc2kHwbQ6PLRItEETsNHsnkExnYBnMSNwr+GlsqqB82JUN7ffaCIrS5OYebrr3KeuWdNgzx2Z9B+XKUAAVZxH50Nwr9bHHoykbxqiCOcFGIlahricEMSPIhEfaG5MwfriNNQD8Hf+LiJpQeQZkRBNhoXsaECl2WHMIoltXOlJpZTf1ECVAT018tK7OOeSN8/O8SZ7GhRLVTQK4CFNUbM4OmAB69prOxitCaPkvxDMJUVdcFrTUTR+hCJFHY4YVU8HtjqthgH8KGogrEAlQz28sTcGHt+C9iuMipDDUA33fgAfFvCZeBaODRLMni/LLt0krHzjY6EnRFkxJljPG+QYoq/QC3VTjWLfHutQmf+MLRht+EmTWgdHxKtu8ckm1zUm6bnfeara6UeZvtuF6FVF5cYiaRiWs=;8pEjIilbSuMiNeJnTCApEw=="
+secured: "lq6voqtAqrfco8vuci2AxG0LAZnIft/LX7ykCGd3Hs6yKwv5Rph36563Ez/4iNFNwVsOc+dxuoc8J+z/pjxYPRD95XgJi7PPIgCYp8IZRNovDoFmF9WYRy8oWBKIuWo3LRY1gcuvjSDyGPV6+gp5p2mBQIb6GmHaem5eUMfm92Tj8nKzwxltQJ9w5okQQbsNTgawEHUHrNcibI4NpXNkipLIw+vXRln/mjGEh+qq9vMao0XBuGBBbCb60pfz+8pkXgN77XACVblSB1PrcmIWEBuPDjSC6puTBblax8V862p3keuR5KiBhiIzwD6WPOB2slYcyYGeMtIg7061aZvUjihj8zT4DhXz8Vxhm/x3fgmRaePLluYlGWo07OxRpUCR65Fnf8Wro4cUWwY9YPIweBDbzFjzD4Vlfhme6sBaLBs=;rrLuJMof07VPuvvGlhddOw=="
 ---
 
