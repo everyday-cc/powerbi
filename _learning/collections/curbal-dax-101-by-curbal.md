@@ -2,7 +2,7 @@
 title: "DAX 101 by Curbal"
 excerpt: "New to DAX? Start here. This playlist contains all the introductory videos for learning DAX."
 type: collection
-heat: 67
+heat: 62
 
 provider:
   name: Curbal
