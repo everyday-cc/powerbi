@@ -4,106 +4,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_learning/videos/radacad-what-are-the-use-cases-of-dataflow-for-you-in-power-bi.md",
-      "title": "What are the Use Cases of Dataflow for You in Power BI",
-      "excerpt": "There have been lots of announcements about Dataflow online, through videos and articles and news. There are many demos about Dataflow as well. However, still when I talk about it in conferences, one of the main questions from the audience is that; “What are use cases for it?”. In this video, I’m going",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-are-the-use-cases-of-dataflow-for-you-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-are-the-use-cases-of-dataflow-for-you-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=jBP66FRatsY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jBP66FRatsY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M38S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-10-16T11:05:22-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jBP66FRatsY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-write-conditional-statement-using-switch-in-dax-and-power-bi.md",
-      "title": "Write Conditional Statement Using SWITCH in DAX and Power BI",
-      "excerpt": "Conditional expressions are one of the most commonly used expressions in any language as well as DAX. However, in DAX, if you have multiple IF THEN expressions, there is an easier way of doing it; using a function called SWITCH, this video is about how you can use switch function in DAX and Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-write-conditional-statement-using-switch-in-dax-and-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-write-conditional-statement-using-switch-in-dax-and-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=fOErC7eaWZ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fOErC7eaWZ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M50S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-20T19:41:04-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fOErC7eaWZ0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-avoiding-circular-dependency-errors-in-dax.md",
-      "title": "Avoiding circular dependency errors in DAX",
-      "excerpt": "Learn how to avoid circular dependency errors in DAX! Article and download: https://sql.bi/59891/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-avoiding-circular-dependency-errors-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-avoiding-circular-dependency-errors-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=m-qhcDcNKrE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m-qhcDcNKrE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M56S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-01T12:30:31-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/m-qhcDcNKrE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-comparing-dax-calculated-columns-with-power-query-computed-columns.md",
       "title": "Comparing DAX calculated columns with Power Query computed columns",
       "excerpt": "Learn how to choose between DAX and Power Query when a table needs to compute additional columns. Article and download: https://sql.bi/439946/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
@@ -336,6 +236,44 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-customize-default-values-for-each-user-in-power-bi-reports.md",
+      "title": "Customize default values for each user in Power BI reports",
+      "excerpt": "Learn how to use calculation groups to define a default set of values for columns in your model. Different users can have different default values, and yet retain the full capability to select different values.\r Article and download: https://sql.bi/717242?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-customize-default-values-for-each-user-in-power-bi-reports/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-customize-default-values-for-each-user-in-power-bi-reports/",
+      "originalUrl": "https://youtube.com/watch?v=ZHlC55APxPs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZHlC55APxPs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M49S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-20T03:00:14-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZHlC55APxPs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -1027,6 +965,58 @@
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/08/2-windows.png",
           "width": 960,
           "height": 371,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-correcting-source-data-in-power-bi.md",
+      "title": "Correcting Source Data in Power BI",
+      "excerpt": "This article continues to build on my COVID Case Fatality Rate report for Australia. Something happened with the global source data this week – in short, it was wrong. This is a global database and I am sure there are many people diligently trying to keep the data up to [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-correcting-source-data-in-power-bi/index.json",
+      "webUrl": "https://exceleratorbi.com.au/correcting-source-data-in-power-bi/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2021-07-29T18:35:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/incorrect-data.png",
+          "width": 625,
+          "height": 250,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-do-not-build-a-column-chart-like-this-please.md",
+      "title": "Do Not Build a Column Chart Like This – Please!",
+      "excerpt": "I was inspired into action this week by one of the worst visuals I have seen during the COVID pandemic. Here is the visual below, take a look and see what you think. When I first saw this chart, I simply couldn&#8217;t make sense of it. The first thing I [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-do-not-build-a-column-chart-like-this-please/index.json",
+      "webUrl": "https://exceleratorbi.com.au/do-not-build-a-column-chart-like-this-please/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2021-08-05T15:01:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/dont-do-this.png",
+          "width": 2109,
+          "height": 920,
           "isCached": true
         }
       ],

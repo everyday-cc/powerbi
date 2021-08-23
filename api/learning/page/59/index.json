@@ -4,45 +4,6 @@
   "page": 59,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-multi-select-dynamic-titles-in-power-bi-desktop.md",
-      "title": "Multi-select Dynamic Titles in Power BI Desktop",
-      "excerpt": "After the dynamic titles in Power BI Desktop video, we had questions about how to do multi-select values. Patrick shows you how to do it!  Demo files: https://guyinacu.be/demofiles  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-multi-select-dynamic-titles-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-multi-select-dynamic-titles-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=3G3vzbTmHpU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3G3vzbTmHpU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M50S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-05-07T05:42:50-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3G3vzbTmHpU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-multiple-sign-ins-using-chrome-with-power-bi-or-office-365.md",
       "title": "Multiple sign-ins using Chrome with Power BI or Office 365",
       "excerpt": "In this video, I show you how you can use Chrome to have multiple logins to Power BI, or Office 365, without using incognito, or in-private or anything else.  This was a tip I got from Chris Webb, who found it from James Callaghan.  Chris Webb's Blog: https://blog.crossjoin.co.uk/2017/03/23/quick-tip-working-with-multiple-power-bi-subscriptionsaccounts/",
@@ -1144,6 +1105,44 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-colors-data-models-release-notes-and-more-june-4-2018.md",
+      "title": "Power BI colors, data models, release notes and more... (June 4, 2018)",
+      "excerpt": "Choosing a Color Palette For Your Power BI Report (@mmarie) https://datasavvy.me/2018/05/26/choosing-a-color-palette-for-your-power-bi-report/  DATA MODEL ANTI-PATTERNS (@BrettPowell76) https://insightsquest.com/2018/05/27/data-model-anti-patterns/  On-premises data gateway May update is now available",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-colors-data-models-release-notes-and-more-june-4-2018/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-colors-data-models-release-notes-and-more-june-4-2018/",
+      "originalUrl": "https://youtube.com/watch?v=SC8j_QlLspI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SC8j_QlLspI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M4S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-06-04T04:26:29-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SC8j_QlLspI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

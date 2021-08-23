@@ -2210,8 +2210,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 8563,
-            "average": 4.7795167
+            "count": 8565,
+            "average": 4.779568
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2293,8 +2293,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9918,
-            "average": 4.676346
+            "count": 9919,
+            "average": 4.6763787
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2410,8 +2410,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 4491,
-            "average": 4.7592964
+            "count": 4492,
+            "average": 4.759127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2452,8 +2452,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 3620,
-            "average": 4.7049723
+            "count": 3621,
+            "average": 4.7047777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2495,133 +2495,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 4767,
-            "average": 4.770715
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
-          "width": 643,
-          "height": 322,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-data-analysis-in-power-bi.md",
-      "title": "Data analysis in Power BI",
-      "excerpt": "Report authors can use additional features to enhance their reports for analytical insights in their data with features like Q&amp;A and exporting. In this module, you will closely examine your data and Power BI reports and then extract value with deeper analysis. Additionally, you will learn how to sort data and how to present the report in a cohesive manner. You will learn how to get a statistical summary for your data and export data from Power BI. You will also apply and perform advanced analytics on the report for deeper and more meaningful data insights.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-data-analysis-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-data-analysis-in-power-bi/",
-      "length": "PT1H52M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-perform-analytics-power-bi.md",
-          "title": "Perform analytics in Power BI ",
-          "excerpt": "You will learn how to use Power BI to perform data analytical functions, how to identify outliers in your data, how to group data together, and how to bin data for analysis. You will also learn how to perform time series analysis. Finally, you will work with advanced analytic features of Power BI, such as Quick Insights, AI Insights, and the Analyze feature.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-perform-analytics-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
-          "length": "PT51M",
-          "ratings": {
-            "count": 2486,
-            "average": 4.7236524
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/perform-analytics-power-bi-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-ai-visuals-power-bi.md",
-          "title": "Work with AI visuals in Power BI",
-          "excerpt": "This module describes the AI capabilities of Power BI.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-ai-visuals-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
-          "length": "PT1H1M",
-          "ratings": {
-            "count": 2792,
-            "average": 4.713467
+            "count": 4768,
+            "average": 4.7705536
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2641,7 +2516,7 @@
           "heat": 54,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-visuals-power-bi-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
               "width": 643,
               "height": 321,
               "isCached": true
@@ -2655,13 +2530,13 @@
           ]
         }
       ],
-      "size": 2,
+      "size": 3,
       "heat": 54,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/perform-analytics-power-bi-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
           "width": 643,
-          "height": 321,
+          "height": 322,
           "isCached": true
         }
       ],
@@ -2787,8 +2662,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2757,
-            "average": 4.8012333
+            "count": 2758,
+            "average": 4.8013053
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2988,6 +2863,131 @@
       ],
       "content": "\r\n",
       "type": "collection",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-data-analysis-in-power-bi.md",
+      "title": "Data analysis in Power BI",
+      "excerpt": "Report authors can use additional features to enhance their reports for analytical insights in their data with features like Q&amp;A and exporting. In this module, you will closely examine your data and Power BI reports and then extract value with deeper analysis. Additionally, you will learn how to sort data and how to present the report in a cohesive manner. You will learn how to get a statistical summary for your data and export data from Power BI. You will also apply and perform advanced analytics on the report for deeper and more meaningful data insights.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-data-analysis-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-data-analysis-in-power-bi/",
+      "length": "PT1H52M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-perform-analytics-power-bi.md",
+          "title": "Perform analytics in Power BI ",
+          "excerpt": "You will learn how to use Power BI to perform data analytical functions, how to identify outliers in your data, how to group data together, and how to bin data for analysis. You will also learn how to perform time series analysis. Finally, you will work with advanced analytic features of Power BI, such as Quick Insights, AI Insights, and the Analyze feature.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-perform-analytics-power-bi/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
+          "length": "PT51M",
+          "ratings": {
+            "count": 2486,
+            "average": 4.7236524
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/perform-analytics-power-bi-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-ai-visuals-power-bi.md",
+          "title": "Work with AI visuals in Power BI",
+          "excerpt": "This module describes the AI capabilities of Power BI.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-ai-visuals-power-bi/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
+          "length": "PT1H1M",
+          "ratings": {
+            "count": 2792,
+            "average": 4.713467
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-visuals-power-bi-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/perform-analytics-power-bi-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
       "topics": [
         "Power BI"
       ]

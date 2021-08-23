@@ -4,44 +4,6 @@
   "page": 63,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-slicer-restatement-in-power-bi.md",
-      "title": "Slicer Restatement in Power BI",
-      "excerpt": "In this video, Patrick looks at a small feature called slicer restatement in Power BI. This feature will help you to determine what was selected in a slicer. While this feature was added back in April 2018, we are betting that most folks don't know slicer restatement.  LET'S CONNECT!  Guy in a Cube --",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-slicer-restatement-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-slicer-restatement-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=d7lm4ZprfQ8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d7lm4ZprfQ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M33S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-21T07:15:56-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/d7lm4ZprfQ8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-sql-saturday-atlanta-and-women-in-technology-adam-and-patrick-unplugged-ep5.md",
       "title": "SQL Saturday Atlanta and Women in Technology - Adam and Patrick Unplugged [EP5]",
       "excerpt": "In this episode of the Adam and Patrick Unplugged show, we are at SQL Saturday Atlanta and talked with a few folks there. We have some SSIS, some stories, and a good discussion about Women in Technology!  Tim Mitchell (@Tim_Mitchell) - 0:21  Rie Irish (@IrishSQL) - 13:30  Julie Smith (@JulieChix) - 29:17",
@@ -1140,6 +1102,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wjOLp4E5K4Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-using-azure-sql-database-failover-with-power-bi.md",
+      "title": "Using Azure SQL Database Failover with Power BI",
+      "excerpt": "In this video, Patrick shows you how you can easily use Azure SQL Database Failover Groups with Power BI to ensure you have access to your data. Connecting to an Azure SQL Database Failover Group from Power BI is easier than connecting to a secondary replica of an Always On Availability Group.  LET'S",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-using-azure-sql-database-failover-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-using-azure-sql-database-failover-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=GBKVGWpvH6s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GBKVGWpvH6s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M41S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-23T15:38:14-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GBKVGWpvH6s/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

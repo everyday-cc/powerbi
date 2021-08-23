@@ -4,98 +4,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-select-top-row-in-each-category-powerbipuzzle-.md",
-      "title": "Power BI: Select Top Row in Each Category?! #PowerBIPuzzle 🤔",
-      "excerpt": "👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/ 00:00 Outline Problem & Approach 02:26 Solution 1: Thought Process 05:08 Solution 1: Steps 10:50 Solution 2: Thought Process (Use a Tie-Breaker) 12:20 Solution 2: Steps  Let me show you how you can select the “Top",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-select-top-row-in-each-category-powerbipuzzle-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-select-top-row-in-each-category-powerbipuzzle-/",
-      "originalUrl": "https://youtube.com/watch?v=WmAHSuasfFw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WmAHSuasfFw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M52S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-09-14T09:00:07-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WmAHSuasfFw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-the-ultimate-dax-measure-free-download-.md",
-      "title": "Power BI: The Ultimate DAX Measure (Free Download ⬇️)",
-      "excerpt": "It's a bird! It's a plane! It's the Ultimate DAX Measure! It can calculate anything and everything! Watch the video till the end! 👉 Download Power BI File in Video at https://web.learnpowerbi.com/download/  ➔ Links mentioned in the Video • Ultimate Calendar Download -https://www.youtube.com/watch?v=BtYn1hfdSAM&list=PL7GQQXV5Z8eczWqKFMDVoHMjTcpH3tgZm",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-the-ultimate-dax-measure-free-download-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-the-ultimate-dax-measure-free-download-/",
-      "originalUrl": "https://youtube.com/watch?v=WV5KxZRIzUE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WV5KxZRIzUE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M39S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-02-06T04:02:24-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WV5KxZRIzUE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-analyze-in-excel-and-implcitexplicit-measures-142.md",
-      "title": "Power BI Tutorial for Beginners: DAX. Analyze in Excel and Implcit/Explicit Measures (1.4.2)",
-      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-analyze-in-excel-and-implcitexplicit-measures-142/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-analyze-in-excel-and-implcitexplicit-measures-142/",
-      "originalUrl": "https://youtube.com/watch?v=S03hCsJnrQg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S03hCsJnrQg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M40S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-06-11T02:16:06-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/S03hCsJnrQg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-get-data-query-editor-continued-113.md",
       "title": "Power BI Tutorial for Beginners: Get Data. Query Editor Continued... (1.1.3)",
       "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
@@ -961,6 +869,97 @@
           "url": "https://i.ytimg.com/vi/fGKGDVEtcOU/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-customers-grouped-by-the-count-of-their-orders-dynamic-segmentation-in-power-bi-using-dax-measures.md",
+      "title": "Customers Grouped by the Count of their Orders – Dynamic Segmentation in Power BI Using DAX Measures",
+      "excerpt": "In the previous part of this video, I explained what is the segmentation challenge, when you want to group data based on the aggregated result, and I explained a static method of creating aggregated tables and creating a relationship to the main detailed table. However, the caveat of that method is the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-customers-grouped-by-the-count-of-their-orders-dynamic-segmentation-in-power-bi-using-dax-measures/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-customers-grouped-by-the-count-of-their-orders-dynamic-segmentation-in-power-bi-using-dax-measures/",
+      "originalUrl": "https://youtube.com/watch?v=bRk0tofVn2c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bRk0tofVn2c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M36S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-02-25T01:08:22-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bRk0tofVn2c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-dataflow-vs-dataset-what-are-the-differences-of-these-two-power-bi-components.md",
+      "title": "Dataflow Vs  Dataset   What are the Differences of these two Power BI Components",
+      "excerpt": "I have presented about Power BI dataflow and datasets a lot, and always one of the questions I get is: What is the difference between dataflow and dataset. So I thought better to explain it in a post and help everyone in that understanding. In this video, you will learn what the differences between these",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dataflow-vs-dataset-what-are-the-differences-of-these-two-power-bi-components/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dataflow-vs-dataset-what-are-the-differences-of-these-two-power-bi-components/",
+      "originalUrl": "https://youtube.com/watch?v=eZW-DJCaq3o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eZW-DJCaq3o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M37S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-04-07T17:22:12-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eZW-DJCaq3o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-date-dimension-in-power-bi-with-financial-or-fiscal-columns.md",
+      "title": "Date Dimension in Power BI with Financial or Fiscal Columns",
+      "excerpt": "In this video, you will learn how to add financial or fiscal columns to the Date dimension or calendar table in Power BI using Power Query. To read the detailed steps, follow this article: https://radacad.com/create-a-date-dimension-in-power-bi-in-4-steps-step-2-fiscal-columns",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-date-dimension-in-power-bi-with-financial-or-fiscal-columns/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-date-dimension-in-power-bi-with-financial-or-fiscal-columns/",
+      "originalUrl": "https://youtube.com/watch?v=7l1M3iSTx1c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7l1M3iSTx1c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M1S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-06-06T00:23:16-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7l1M3iSTx1c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],

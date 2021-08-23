@@ -4,82 +4,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/videos/sqlbi-specifying-multiple-filter-conditions-in-calculate.md",
-      "title": "Specifying multiple filter conditions in CALCULATE",
-      "excerpt": "The filter arguments in CALCULATE can reference multiple columns from the same table in a single predicate: This is possible since March 2021 in Power BI, before that it was possible to filter a single column reference. \r Article and download: https://sql.bi/705207?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-specifying-multiple-filter-conditions-in-calculate/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-specifying-multiple-filter-conditions-in-calculate/",
-      "originalUrl": "https://youtube.com/watch?v=jyxZxFT_pAY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jyxZxFT_pAY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M38S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-30T03:01:28-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jyxZxFT_pAY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-when-to-use-keepfilters-over-iterators.md",
-      "title": "When to use KEEPFILTERS over iterators",
-      "excerpt": "How to use KEEPFILTERS in DAX iterator functions to preserve arbitrarily shaped filters in context transition. \r Article and download: https://sql.bi/705054?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-when-to-use-keepfilters-over-iterators/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-when-to-use-keepfilters-over-iterators/",
-      "originalUrl": "https://youtube.com/watch?v=bGVLguWf4Ls",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bGVLguWf4Ls\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M56S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-27T02:00:58-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bGVLguWf4Ls/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-consume-data-with-power-bi.md",
       "title": "Consume data with Power BI",
       "excerpt": "Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.",
@@ -110,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9918,
-            "average": 4.676346
+            "count": 9919,
+            "average": 4.6763787
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -186,174 +110,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
           "width": 643,
           "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-model-data-in-power-bi.md",
-      "title": "Model data in Power BI",
-      "excerpt": "Success with Power BI begins with a great data model. In this module, you will learn how to design a data model that is intuitive, high-performing, and simple to maintain. You will learn about using DAX language to create measures. Those measures will help you create a wide variety of analytic solutions. Additionally, you’ll learn how to improve performance with your Power Query data retrieval tasks.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-model-data-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-model-data-in-power-bi/",
-      "length": "PT5H31M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-design-model-power-bi.md",
-          "title": "Design a data model in Power BI ",
-          "excerpt": "The process of creating a complicated data model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great data model is about simplifying the disarray. A star schema is one way to simplify a data model, and you’ll learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you’ll learn about improving performance with your Power BI data models.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-design-model-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
-          "length": "PT2H8M",
-          "ratings": {
-            "count": 4491,
-            "average": 4.7592964
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
-              "width": 643,
-              "height": 322,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-measures-dax-power-bi.md",
-          "title": "Introduction to creating measures using DAX in Power BI",
-          "excerpt": "Data Analysis Expressions (DAX) is a programming language that is used throughout Microsoft Power BI for creating calculated columns, measures, and custom tables. It is a collection of functions, operators, and constants that can be used in a formula, or expression, to calculate and return one or more values. You can use DAX to solve a number of calculations and data analysis problems, which can help you create new information from data that is already in your model.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-measures-dax-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
-          "length": "PT2H40M",
-          "ratings": {
-            "count": 3620,
-            "average": 4.7049723
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-measures-dax-power-bi-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-optimize-model-power-bi.md",
-          "title": "Optimize a model for performance in Power BI ",
-          "excerpt": "Data Analysis eXpression (DAX) language is a key feature of Power BI. It is used to create calculated columns, calculated tables, and measures. In this module, you will learn how to use DAX to solve typical analytics problems. You will learn about one of the most popular DAX functions, CALCULATE, and how it can override the default behavior of Power BI.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-optimize-model-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
-          "length": "PT43M",
-          "ratings": {
-            "count": 4767,
-            "average": 4.770715
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
-          "width": 643,
-          "height": 322,
           "isCached": true
         }
       ],
@@ -498,8 +254,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 4491,
-        "average": 4.7592964
+        "count": 4492,
+        "average": 4.759127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1386,6 +1142,120 @@
       "topics": [
         "Power BI",
         "Dataflows"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-rest-api-no-code-options.md",
+      "title": "Power BI REST API no-code options",
+      "excerpt": "Adam shows how you can use the Power BI REST API without writing any code. Then takes it to the next level with PowerShell.  Power BI REST API Reference - https://docs.microsoft.com/rest/api/power-bi/ Power BI PowerShell reference - https://docs.microsoft.com/powershell/power-bi/overview?view=powerbi-ps",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-rest-api-no-code-options/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-rest-api-no-code-options/",
+      "originalUrl": "https://youtube.com/watch?v=fXbJeIY2CgE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fXbJeIY2CgE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M30S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-17T04:49:15-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fXbJeIY2CgE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-row-level-security-and-where-to-filter.md",
+      "title": "Power BI Row-Level Security And Where To Filter",
+      "excerpt": "In this video, Patrick looks at Power BI Row-Level Security And where to filter. He found that, after applying dynamic security, customers showed up in a slicer when they should not have. Challenge accepted! He walks through Power BI Desktop to show how he fixed his Row-Level Security problem.  LET'S",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-row-level-security-and-where-to-filter/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-row-level-security-and-where-to-filter/",
+      "originalUrl": "https://youtube.com/watch?v=9wN33rTaiB4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wN33rTaiB4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M42S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-07-11T06:18:25-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9wN33rTaiB4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-tutorial-dynamically-filter-by-todays-date.md",
+      "title": "Power BI Tutorial: Dynamically Filter By Today's Date",
+      "excerpt": "In this Power BI Tutorial, Patrick looks at how to dynamically filter by today's date. Using a date table, you can create a DAX measure that can then be used as a Power BI report-level filter to dynamically filter by today's date within Power BI Desktop.be  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-tutorial-dynamically-filter-by-todays-date/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-tutorial-dynamically-filter-by-todays-date/",
+      "originalUrl": "https://youtube.com/watch?v=lkHFpmA4SJ4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lkHFpmA4SJ4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M50S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-08T06:13:25-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lkHFpmA4SJ4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

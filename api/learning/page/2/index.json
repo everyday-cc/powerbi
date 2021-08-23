@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 41623,
-            "average": 4.7692623
+            "count": 41626,
+            "average": 4.769279
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,7 +52,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 95,
+          "heat": 82,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 20260,
-            "average": 4.716288
+            "count": 20262,
+            "average": 4.716316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -599,215 +599,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-visualize-data-in-power-bi.md",
-      "title": "Visualize data in Power BI",
-      "excerpt": "Power BI has extraordinary visuals that can be used on Power BI reports and dashboards. In this module, you will learn when to use which visual to solve which problem. You will also learn report design and report formatting. Additionally, you will learn how to use report navigation to tell a compelling, data-driven story in Power BI. Dashboards will help your users target report visuals to meet their specific needs. Paginated reports help you create pixel-perfect report artifacts like sales invoices, purchase orders, medical records, transaction statements, and much more.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-visualize-data-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-visualize-data-in-power-bi/",
-      "length": "PT5H5M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-visuals-power-bi.md",
-          "title": "Work with Power BI visuals",
-          "excerpt": "Learn how to choose from the exceptional visuals that Power BI makes available to you. Formatting visuals will direct the user’s attention to exactly where you want it, while helping to make the visual easier to read and interpret. You will also learn about how to use key performance indicators (KPIs).",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
-          "length": "PT1H13M",
-          "ratings": {
-            "count": 3081,
-            "average": 4.657579
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
-              "width": 640,
-              "height": 318,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-data-driven-story-power-bi.md",
-          "title": "Create a data-driven story with Power BI reports",
-          "excerpt": "Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-driven-story-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
-          "length": "PT1H44M",
-          "ratings": {
-            "count": 2775,
-            "average": 4.6526127
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-reports-with-power-bi-desktop-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-dashboards-power-bi.md",
-          "title": "Create dashboards in Power BI",
-          "excerpt": "Microsoft Power BI dashboards are different than Power BI reports. Dashboards allow report consumers to create a single artifact of directed data that is personalized just for them.  Dashboards can be comprised of pinned visuals that are taken from different reports. Where a Power BI report uses data from a single dataset, a Power BI dashboard can contain visuals from different datasets.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-dashboards-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
-          "length": "PT1H8M",
-          "ratings": {
-            "count": 2545,
-            "average": 4.693124
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-dashboards-power-bi-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-create-paginated-reports-power-bi.md",
-          "title": "Create paginated reports  ",
-          "excerpt": "Paginated reports allow report developers to create Power BI artifacts that have tightly controlled rendering requirements. Paginated reports are ideal for creating sales invoices, receipts, purchase orders, and tabular data. This module will teach you how to create reports, add parameters, and work with tables and charts in paginated reports.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-paginated-reports-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
-          "length": "PT60M",
-          "ratings": {
-            "count": 2967,
-            "average": 4.7344117
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/create-paginated-reports-power-bi-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 4,
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
-          "width": 640,
-          "height": 318,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax.md",
       "title": "Power BI date table: create using DAX",
       "excerpt": "In this video, Adam looks at how to create a Power BI date table using DAX. The end result uses a combination of the GENERATE(), ROW() and CALENDARAUTO() DAX functions to create a calculated table resulting in a Power BI date table.  Using GENERATE and ROW instead of ADDCOLUMNS in DAX https://www.sqlbi.com/articles/using-generate-and-row-instead-of-addcolumns-in-dax/",
@@ -1185,6 +976,215 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-visualize-data-in-power-bi.md",
+      "title": "Visualize data in Power BI",
+      "excerpt": "Power BI has extraordinary visuals that can be used on Power BI reports and dashboards. In this module, you will learn when to use which visual to solve which problem. You will also learn report design and report formatting. Additionally, you will learn how to use report navigation to tell a compelling, data-driven story in Power BI. Dashboards will help your users target report visuals to meet their specific needs. Paginated reports help you create pixel-perfect report artifacts like sales invoices, purchase orders, medical records, transaction statements, and much more.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-visualize-data-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-visualize-data-in-power-bi/",
+      "length": "PT5H5M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-visuals-power-bi.md",
+          "title": "Work with Power BI visuals",
+          "excerpt": "Learn how to choose from the exceptional visuals that Power BI makes available to you. Formatting visuals will direct the user’s attention to exactly where you want it, while helping to make the visual easier to read and interpret. You will also learn about how to use key performance indicators (KPIs).",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-power-bi/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
+          "length": "PT1H13M",
+          "ratings": {
+            "count": 3083,
+            "average": 4.6578007
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
+              "width": 640,
+              "height": 318,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-data-driven-story-power-bi.md",
+          "title": "Create a data-driven story with Power BI reports",
+          "excerpt": "Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-driven-story-power-bi/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
+          "length": "PT1H44M",
+          "ratings": {
+            "count": 2775,
+            "average": 4.6526127
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-reports-with-power-bi-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-dashboards-power-bi.md",
+          "title": "Create dashboards in Power BI",
+          "excerpt": "Microsoft Power BI dashboards are different than Power BI reports. Dashboards allow report consumers to create a single artifact of directed data that is personalized just for them.  Dashboards can be comprised of pinned visuals that are taken from different reports. Where a Power BI report uses data from a single dataset, a Power BI dashboard can contain visuals from different datasets.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-dashboards-power-bi/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
+          "length": "PT1H8M",
+          "ratings": {
+            "count": 2545,
+            "average": 4.693124
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-dashboards-power-bi-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-paginated-reports-power-bi.md",
+          "title": "Create paginated reports  ",
+          "excerpt": "Paginated reports allow report developers to create Power BI artifacts that have tightly controlled rendering requirements. Paginated reports are ideal for creating sales invoices, receipts, purchase orders, and tabular data. This module will teach you how to create reports, add parameters, and work with tables and charts in paginated reports.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-paginated-reports-power-bi/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
+          "length": "PT60M",
+          "ratings": {
+            "count": 2968,
+            "average": 4.7345014
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/create-paginated-reports-power-bi-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
+          "width": 640,
+          "height": 318,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -1867,8 +1867,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 12715,
-        "average": 4.755643
+        "count": 12716,
+        "average": 4.755662
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2454,7 +2454,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
@@ -2480,8 +2480,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 748,
-            "average": 4.7419786
+            "count": 749,
+            "average": 4.742323
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2498,7 +2498,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-add-calculated-tables-social.png",
@@ -2586,8 +2586,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 22737,
-        "average": 4.728548
+        "count": 22742,
+        "average": 4.7286077
       },
       "provider": {
         "name": "Microsoft Learn",

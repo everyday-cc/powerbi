@@ -4,37 +4,6 @@
   "page": 76,
   "value": [
     {
-      "path": "_learning/videos/radacad-decision-tree-in-power-bi-desktop.md",
-      "title": "Decision Tree in Power BI Desktop",
-      "excerpt": "In this video, I have explained how to access decision tree Custom visual in Power BI Desktop  https://radacad.com/decision-tree-power-bi-part-2",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-decision-tree-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-decision-tree-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=_7bF8y1_ivg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_7bF8y1_ivg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M17S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-08-01T17:33:20-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_7bF8y1_ivg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-directquery-for-power-bi-dataset-how-does-it-work.md",
       "title": "DirectQuery for Power BI dataset   How does it work",
       "excerpt": "In my previous article and video, I explained why DirectQuery for a Power BI dataset is an important feature. In this blog and video, I explain how this feature works step by step. Read more by studying my blog article here: https://radacad.com/directquery-for-power-bi-dataset-how-does-it-work  *******************",
@@ -909,6 +878,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/BhCYRUD-GRo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-how-to-resolve-publish-to-web-error-message-contact-your-admin-to-enable-embed-code-creation.md",
+      "title": "How to Resolve Publish to Web Error Message   Contact Your Admin to Enable Embed Code Creation",
+      "excerpt": "If you tried the option Publish to Web in Power BI recently, you might have seen the error saying \"Contact Your Admin to Enable Embed Code Creation\". In this vidoe, I am going to talk about why you see this error message, what is the reason behind it, and how to get it resolved. read more about this",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-resolve-publish-to-web-error-message-contact-your-admin-to-enable-embed-code-creation/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-resolve-publish-to-web-error-message-contact-your-admin-to-enable-embed-code-creation/",
+      "originalUrl": "https://youtube.com/watch?v=QVwkOkL_ZyU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QVwkOkL_ZyU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M49S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-02-08T21:01:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QVwkOkL_ZyU/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true

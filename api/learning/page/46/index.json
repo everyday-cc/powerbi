@@ -416,37 +416,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-all-selected-dax-expression-in-power-bi.md",
-      "title": "All Selected DAX Expression in Power BI",
-      "excerpt": "Welcome to one another episode of Wednesday with DAX. During this session, we will talk about the most important DAX expression ALLSELECTED(). Most of the time we have confusion between when to use ALL and when to use ALLSELECTED DAX function. First, we have taken one real life example and scenario here.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-all-selected-dax-expression-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-all-selected-dax-expression-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=dKTdHc8V2Hc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dKTdHc8V2Hc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M15S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-06-23T01:54:08-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dKTdHc8V2Hc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-allow-contributor-role-users-to-update-power-bi-app-content.md",
       "title": "Allow Contributor Role Users to Update Power BI App Content",
       "excerpt": "In this session we will talk about the new feature rolled out by Microsoft during this week. Earlier only Workspace admin and members were able to Update the Power BI App.  With this new update, now users who have a contributor role will also be able to Update the Power BI App.  In this session, we will",
@@ -925,6 +894,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-convert-data-from-html-to-plain-text-using-power-query-for-power-bi-table-visualization.md",
+      "title": "Convert data from HTML to Plain Text using Power Query for Power BI Table Visualization",
+      "excerpt": "As we all know, Power BI table visualization does not support HTML generation. So, we need to convert our HTML text to Plain text.   With the help of Power Query function, we can easily remove HTML tags from the Text in Power Query. To implement that we need to use function HTML.table() in Power Query.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-convert-data-from-html-to-plain-text-using-power-query-for-power-bi-table-visualization/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-convert-data-from-html-to-plain-text-using-power-query-for-power-bi-table-visualization/",
+      "originalUrl": "https://youtube.com/watch?v=4UDynnPQpG4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4UDynnPQpG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M40S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-28T08:05:52-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4UDynnPQpG4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     }
   ],

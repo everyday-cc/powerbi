@@ -140,31 +140,31 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-customize-default-values-for-each-user-in-power-bi-reports.md",
-      "title": "Customize default values for each user in Power BI reports",
-      "excerpt": "Learn how to use calculation groups to define a default set of values for columns in your model. Different users can have different default values, and yet retain the full capability to select different values.\r Article and download: https://sql.bi/717242?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-customize-default-values-for-each-user-in-power-bi-reports/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-customize-default-values-for-each-user-in-power-bi-reports/",
-      "originalUrl": "https://youtube.com/watch?v=ZHlC55APxPs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZHlC55APxPs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT38M49S",
+      "path": "_learning/videos/guy-in-a-cube-intro-to-r-with-power-bi.md",
+      "title": "Intro to R with Power BI",
+      "excerpt": "You enjoyed the intro to Python video, now let's look at R Script within Power BI! There are a lot of similar aspects and Patrick walks you though what you should know to get started.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-intro-to-r-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-intro-to-r-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=NomSliJK3s4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NomSliJK3s4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M48S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2021-07-20T03:00:14-07:00",
-      "heat": 131,
+      "publishedDateTime": "2021-07-21T08:00:10-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZHlC55APxPs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/NomSliJK3s4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -204,6 +204,37 @@
       ]
     },
     {
+      "path": "_learning/videos/dhruvin-shah-all-selected-dax-expression-in-power-bi.md",
+      "title": "All Selected DAX Expression in Power BI",
+      "excerpt": "Welcome to one another episode of Wednesday with DAX. During this session, we will talk about the most important DAX expression ALLSELECTED(). Most of the time we have confusion between when to use ALL and when to use ALLSELECTED DAX function. First, we have taken one real life example and scenario here.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-all-selected-dax-expression-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-all-selected-dax-expression-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=dKTdHc8V2Hc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dKTdHc8V2Hc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M15S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-06-23T01:54:08-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dKTdHc8V2Hc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-draw-x-axis-constant-line-with-dynamic-value-for-power-bi-line-chart.md",
       "title": "Draw X Axis Constant Line with Dynamic Value for Power BI Line Chart",
       "excerpt": "Welcome to Power BI August 2021 Power BI Desktop Update. During this session, we will learn how we can draw X-Axis Constant Line with Power BI Line Charts using Dynamic value. Earlier with existing functionality Power BI supports static value for X-Axis constant Line chart. Now, with the August 2021",
@@ -231,6 +262,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-if-eager-dax-function-in-power-bi.md",
+      "title": "IF EAGER DAX function in Power BI",
+      "excerpt": "During this session, we will try to explore one more important DAX function in Power BI. We all aware about IF Expression in Power BI. But what about IF.EAGER Dax function? We will talk about basic differences between IF Vs IF.EAGER in Power BI. Also, we will check how we can improve the performance",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-if-eager-dax-function-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-if-eager-dax-function-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=TYeq1xYzTqQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TYeq1xYzTqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M29S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-06-01T23:49:18-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TYeq1xYzTqQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -283,66 +345,6 @@
           "url": "https://i.ytimg.com/vi/SMHbMhX1Ggg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-bi-june-feature-summary-area-chart-transparency-sliders.md",
-      "title": "Power BI June Feature Summary - Area chart transparency sliders",
-      "excerpt": "Welcome to Power BI Desktop June 2021 Feature Summary. During this Short Power BI Tip, we will learn how we can apply transparency for Area and Stacked Area Chart in Power BI. Earlier, the transparency value set the default to 60%. During this session, we will learn how we can set transparency for Area",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-june-feature-summary-area-chart-transparency-sliders/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-june-feature-summary-area-chart-transparency-sliders/",
-      "originalUrl": "https://youtube.com/watch?v=s092or3x7HY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s092or3x7HY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M8S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-06-30T21:51:42-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/s092or3x7HY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-theme-customize-colors-fonts-and-visual-appearance-for-multiple-objects.md",
-      "title": "Power BI Theme   Customize Colors Fonts and Visual Appearance for Multiple Objects",
-      "excerpt": "If you build a report for an enterprise, you might be limited to use the organization-approved colors. It is also useful to have your reports following a template of colors, and fonts, which might look like your signature of the report. In Power BI, you can do that with Theme. In this article, I’ll explain",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-theme-customize-colors-fonts-and-visual-appearance-for-multiple-objects/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-theme-customize-colors-fonts-and-visual-appearance-for-multiple-objects/",
-      "originalUrl": "https://youtube.com/watch?v=K83vD6DwFvI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K83vD6DwFvI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M34S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-06-24T14:30:03-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/K83vD6DwFvI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],
@@ -697,173 +699,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics.md",
-      "title": "Get started with Microsoft data analytics",
-      "excerpt": "Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need to true BI in the enterprise.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics/",
-      "length": "PT1H10M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
-          "title": "Discover data analysis",
-          "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-analytics-microsoft/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
-          "length": "PT23M",
-          "ratings": {
-            "count": 23859,
-            "average": 4.7961354
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 85,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
-          "title": "Get started building with Power BI",
-          "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
-          "length": "PT47M",
-          "ratings": {
-            "count": 41623,
-            "average": 4.7692623
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 95,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
-              "width": 643,
-              "height": 322,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 95,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
-      "title": "Get started building with Power BI",
-      "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
-      "length": "PT47M",
-      "ratings": {
-        "count": 41623,
-        "average": 4.7692623
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 95,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
-          "width": 643,
-          "height": 322,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-build-a-slicer-panel-in-power-bi-and-take-it-to-the-next-level.md",
       "title": "Build a Slicer Panel in Power BI and take it to the next level",
       "excerpt": "Adam looks at how you can build a slicer panel, in Power BI, and take it to the next level. Using a combination of features in Power BI Desktop, you can make a great user experience.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
@@ -1009,48 +844,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
-      "title": "Discover data analysis",
-      "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-analytics-microsoft/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 23859,
-        "average": 4.7961354
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 85,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-take-your-power-bi-visualization-to-the-next-level-using-small-multiples.md",
       "title": "Take Your Power BI Visualization to the Next Level using Small Multiples",
       "excerpt": "Small multiple is a relatively recent feature on some of the Power BI visuals. This feature enables you to have a much better visualization instead of trying to fit everything in one visual (over-complicate it) or create copies of the same visual (maintenance issue in the future). This is a simple feature",
@@ -1075,6 +868,173 @@
       ],
       "content": "\r\n",
       "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics.md",
+      "title": "Get started with Microsoft data analytics",
+      "excerpt": "Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need to true BI in the enterprise.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics/",
+      "length": "PT1H10M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
+          "title": "Discover data analysis",
+          "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-analytics-microsoft/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
+          "length": "PT23M",
+          "ratings": {
+            "count": 23863,
+            "average": 4.7961698
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 75,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
+          "title": "Get started building with Power BI",
+          "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
+          "length": "PT47M",
+          "ratings": {
+            "count": 41626,
+            "average": 4.769279
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 82,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
+              "width": 643,
+              "height": 322,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 82,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
+      "title": "Get started building with Power BI",
+      "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
+      "length": "PT47M",
+      "ratings": {
+        "count": 41626,
+        "average": 4.769279
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 82,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
+          "width": 643,
+          "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -1284,6 +1244,48 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
+      "title": "Discover data analysis",
+      "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-analytics-microsoft/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 23863,
+        "average": 4.7961698
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 75,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

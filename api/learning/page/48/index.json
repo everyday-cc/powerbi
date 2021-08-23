@@ -4,36 +4,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-export-filtered-dataset-from-power-bi-to-sql-server-programmatically-using-api-and-power-bi-embedded.md",
-      "title": "Export Filtered Dataset from Power BI to SQL Server Programmatically using API and Power BI Embedded",
-      "excerpt": "In this video, we will learn how we can export the filtered data from Power BI report and insert the data back to the SQL Server.  Power BI Service don’t provide such customization. However, we can manage this thing with the help of the Power BI Embedded concept. First we need to embed the Power BI report.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-export-filtered-dataset-from-power-bi-to-sql-server-programmatically-using-api-and-power-bi-embedded/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-export-filtered-dataset-from-power-bi-to-sql-server-programmatically-using-api-and-power-bi-embedded/",
-      "originalUrl": "https://youtube.com/watch?v=5NuTy7FbZ4w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5NuTy7FbZ4w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M17S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-01-21T18:59:09-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5NuTy7FbZ4w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-external-tools-in-power-bi-by-alex-powers-microsoft.md",
       "title": "External Tools in Power BI by Alex Powers (Microsoft)",
       "excerpt": "",
@@ -671,37 +641,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-if-eager-dax-function-in-power-bi.md",
-      "title": "IF EAGER DAX function in Power BI",
-      "excerpt": "During this session, we will try to explore one more important DAX function in Power BI. We all aware about IF Expression in Power BI. But what about IF.EAGER Dax function? We will talk about basic differences between IF Vs IF.EAGER in Power BI. Also, we will check how we can improve the performance",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-if-eager-dax-function-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-if-eager-dax-function-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=TYeq1xYzTqQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TYeq1xYzTqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M29S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-06-01T23:49:18-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TYeq1xYzTqQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-integrate-power-bi-report-to-ms-teams-using-power-bi-tab-power-bi-and-ms-teams-part-1.md",
       "title": "Integrate Power BI Report to MS Teams Using Power BI Tab | Power BI and MS Teams | Part 1",
       "excerpt": "Welcome to Power BI and MS Teams Integration step by step series. My self Dhruvin Shah and I have divided this entire session into three different parts.  Part 1: Integrate Power BI Report, Report from Apps and Paginated Report to MS Teams using Power BI Tab in MS Teams. https://youtu.be/67-jriuocxc",
@@ -901,6 +840,66 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/CDDjJEZ1GFg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-maintain-tab-order-for-power-bi-report.md",
+      "title": "Maintain Tab Order for Power BI Report",
+      "excerpt": "During this session, we will talk about how we can maintain Tab Order for Power BI Report. From a report accessibility standpoint, it is necessary to maintain tab order for our Power BI Report. Sometimes when end users are accessing the Power BI Report, they are using keyboard key “Tab” to move between",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-maintain-tab-order-for-power-bi-report/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-maintain-tab-order-for-power-bi-report/",
+      "originalUrl": "https://youtube.com/watch?v=DMce0qKA_Kg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DMce0qKA_Kg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M18S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-05-19T00:57:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DMce0qKA_Kg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-make-a-table-visualization-to-display-all-observations-from-data-source-in-power-bi.md",
+      "title": "Make a Table Visualization to Display All Observations from Data Source in Power BI",
+      "excerpt": "In this session, I’m demonstrating how we can show all the records even if it is the same as the Power BI table. We all know that the Power BI table visual automatically removes the duplicate rows from end-users in the table. But sometimes we need to show the end-users all the values from the data source",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-make-a-table-visualization-to-display-all-observations-from-data-source-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-make-a-table-visualization-to-display-all-observations-from-data-source-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=n-v5KhgutFs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n-v5KhgutFs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M34S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-29T00:47:11-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/n-v5KhgutFs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

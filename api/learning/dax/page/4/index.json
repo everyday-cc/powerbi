@@ -4,6 +4,45 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/videos/curbal-dax-fridays-7-all-allexcept.md",
+      "title": "DAX Fridays! #7: ALL, ALLEXCEPT",
+      "excerpt": "The function ALL returns all the rows in a table, or all the values in a column, ignoring any filters that might have been applied. This function is useful for clearing filters and creating calculations on all the rows in a table.  The function ALLEXCEPT removes all filters except the ones that have",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-7-all-allexcept/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-7-all-allexcept/",
+      "originalUrl": "https://youtube.com/watch?v=q4jePhzKtbU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q4jePhzKtbU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M3S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-10-10T02:18:12-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q4jePhzKtbU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-74-previousday-previousmonth-previousquarter-previousyear.md",
       "title": "DAX Fridays! #74: PREVIOUSDAY, PREVIOUSMONTH, PREVIOUSQUARTER, PREVIOUSYEAR",
       "excerpt": "In today’s video I we will go through how to build a time intelligence measure in DAX using the PREVIOUSDAY, PREVIOUSMONTH, PREVIOUSQUARTER, PREVIOUSYEAR.  We will first go through PREVIOUSYEAR DAX function and explain how can those functions can be combined with CALCULATE to create the correct measure.",
@@ -798,8 +837,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 3620,
-        "average": 4.7049723
+        "count": 3621,
+        "average": 4.7047777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -830,50 +869,6 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-iterator-functions.md",
-      "title": "Use DAX iterator functions in Power BI Desktop models",
-      "excerpt": "By the end of this module, you’ll learn about what the family of iterator functions can do and how to use them in your DAX calculations. Calculations will include custom summarizations, ranking, and concatenation.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-iterator-functions/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
-      "length": "PT12M",
-      "ratings": {
-        "count": 542,
-        "average": 4.7047973
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/use-dax-iterator-functions-power-bi-desktop-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
         "DAX"
       ]
     },

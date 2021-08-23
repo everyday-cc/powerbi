@@ -818,7 +818,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-premium-social.png",
@@ -1027,7 +1027,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-premium-social.png",
@@ -1346,7 +1346,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1766,8 +1766,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 20260,
-        "average": 4.716288
+        "count": 20262,
+        "average": 4.716316
       },
       "provider": {
         "name": "Microsoft Learn",
