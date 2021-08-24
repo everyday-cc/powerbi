@@ -237,6 +237,7 @@ items:
   - videos/curbal-dax-fridays-212-using-inactive-relationships-in-slicers-userelationship
   - videos/curbal-dax-fridays-203-googles-faq-on-dax
   - videos/curbal-dax-fridays-211-add-leading-zeros-to-a-column-using-dax
+  - videos/curbal-dax-fridays-212-values-vs-selectedvalue-to-conditional-format-a-line-chart
 
 topics:
   - Power BI
