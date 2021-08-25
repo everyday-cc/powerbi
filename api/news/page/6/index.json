@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-25-get-up-to-speed-with-power-bi-and-microsoft-cloud-app-security.md",
+      "title": "Get up to speed with Power BI and Microsoft Cloud App Security",
+      "excerpt": "Using Cloud App Security, it is possible to detect and control risky Power BI sessions as they occur, thus reducing the threat that arises when malicious actors try to access content and data.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-01-25-get-up-to-speed-with-power-bi-and-microsoft-cloud-app-security/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/get-up-to-speed-with-power-bi-and-microsoft-cloud-app-security/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/get-up-to-speed-with-power-bi-and-microsoft-cloud-app-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-24T18:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-01-23-check-out-these-bundles-to-help-master-excel-power-bi-desktop-more.md",
       "title": "Check out these bundles to help master Excel, Power BI Desktop, more",
       "excerpt": "You'll get more than 90 hours of instruction to go from basic to advanced in Excel, Power BI, Tableau, VBA and Python. This series of 24 courses and 1,335 lessons will put you well on your way to ...",
@@ -1204,57 +1255,6 @@
       "ampWebUrl": "https://www.neowin.net/amp/power-bi-gets-new-admin-apis-and-service-principal-authentication/",
       "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-gets-new-admin-apis-and-service-principal-authentication/",
       "publishedDateTime": "2020-12-10T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-09-power-bi-on-premises-data-gateway-update-brings-azure-cosmos-db-connector-and-more.md",
-      "title": "Power BI On-premises data gateway update brings Azure Cosmos DB Connector and more",
-      "excerpt": "The December update for the On-premises data gateway brings a few new things to report on, aside from the usual new version of the mashup engine that is often the highlight of these updates.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-09-power-bi-on-premises-data-gateway-update-brings-azure-cosmos-db-connector-and-more/index.json",
-      "webUrl": "https://www.neowin.net/news/power-bi-on-premises-data-gateway-update-brings-azure-cosmos-db-connector-and-more",
-      "originalUrl": "https://www.neowin.net/news/power-bi-on-premises-data-gateway-update-brings-azure-cosmos-db-connector-and-more",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/10/1571114082_power_bi_new_3_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/power-bi-on-premises-data-gateway-update-brings-azure-cosmos-db-connector-and-more/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-on-premises-data-gateway-update-brings-azure-cosmos-db-connector-and-more/",
-      "publishedDateTime": "2020-12-09T01:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Neowin",

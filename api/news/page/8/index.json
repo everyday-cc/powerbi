@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-11-power-bi-premium-per-user-public-preview-now-available.md",
+      "title": "Power BI Premium per user public preview now available",
+      "excerpt": "The date you have long waited for has finally arrived!  The public preview of Power BI Premium per user has been enabled in all public tenants that requested priority access, and will be rolling out to all tenants worldwide throughout the month of November.  Now, Power BI users have access to all the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-11-power-bi-premium-per-user-public-preview-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-premium-per-user-public-preview-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-premium-per-user-public-preview-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T00:00:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-join-us-power-bi-training-advanced-data-modeling.md",
       "title": "Join us! Power BI Training – Advanced Data Modeling",
       "excerpt": "Join us for a full day of training with Siva Harinath and Yana Berkovich from the Power BI content team! Learn about Power BI capabilities to enhance the data model for your business users.",
@@ -1205,57 +1256,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-07-announcing-improved-mdx-query-performance-in-power-bi.md",
-      "title": "Announcing improved MDX query performance in Power BI",
-      "excerpt": "With a recent update of the Analysis Services Tabular engine in Power BI, Multidimensional Expressions (MDX) clients, such as Microsoft Excel, can now enjoy improved query performance against datasets in Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-07-announcing-improved-mdx-query-performance-in-power-bi/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-improved-mdx-query-performance-in-power-bi/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-improved-mdx-query-performance-in-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-07T03:17:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
