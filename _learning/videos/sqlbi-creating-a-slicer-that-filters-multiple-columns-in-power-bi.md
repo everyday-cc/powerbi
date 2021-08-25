@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT20M49S
 publishedDateTime: 2021-02-23T11:00:19Z
-heat: 62
+heat: 64
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UvvS376vYSw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0yUE5LH+As15GrUmsS2D4AsBRnTlNup4EfXvoYt16XnhgMUoATYH3/896t8HVKOi6AH+DvGBouXlNlaVECjNJkIR/e3jwykO09FK+sUnVV+qhFbSlYh61+FiZ8ftDGRySS7ZSUDYLFbDg4ewhnrJCHaGQmilRakJFC+8NzAcToylavDnzxwJy0TFXAioO5hxVqsa0ZuHeT0Sp3L3WnBZq/oS78NTr3x7iVHtaWEIXYBuDXlw64nRDbtD2eHEMGlVSFjg1bs9Y6w67AQMvi/uazLI68k0fDWwJ1sczI233MaoGmKhlTUmC1TM5DBFZabFwTisrCgrAMacrnbbJzDjPNHRKACwskHyx10pesaeVQgCW5eWyFm4Kq5bQcxz+7DAy1FnLh3ZT+ByAiMKkoCGmSJG7qp4oYIuJvZbWY+XWsw=;Ni3AwPA3EUESDRh2bJgRGA=="
+secured: "vgxXty5FNbVCNBtkyCjwsseJVaux//Vipm+Sdk4/XN88fRMwXs2VDvHpfsOaIO2y6+k1qryZ3YGv2p6ThuuOp/yShBWhtazX/7hAuKUzPPSco4OPWFz8gzW2rOz33WE5MZcbF3h0VLs22BTZUHDyvmwiuSQNkWciVGJM0FhUAOLp0oIckGO/iTSaEzaGHYqg4l2ZYhJSsfS2WgnJ8hK3O9JlQr8dg2GDW+S0dEQsU+IqMNRfW/NiHukKzSqxrlcTOSg6UzFttxzICAllTyWFKXlaxNsGVSbepRwAbJd86KZE1cKnTiFLHgqKct/vWTrBZ/wIob+xA0RLkGH1aPQjYoQcrVVrPl+T6iGyrNeFOoJ4hreXVRMLD4/7K3YVAnXw4iIFTatfeN2jtRiJiG0Wj1HslvPHErW2P8VAsQd51jc=;smgln78em82/t3lRAar5HQ=="
 ---
 
