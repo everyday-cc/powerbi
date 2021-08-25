@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT15M44S
 publishedDateTime: 2017-02-02T20:24:11Z
-heat: 54
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d-Jk1j2G3nw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "CpgQFZ9tNGcJlJ/X1ZnuoYpdDs5jtzWQ8bxZuxJd7v94k4hdhIjw7QTjn/BdraYISccJOwdS2YdyMvGazkdF40pxI2y13DGU5rka4BUQVfjIGa/tFFG8LDcx+3lUTM2v39/0AxKKtbPgiDlWb29rLiKkoWboCzz4yBl62HmEgvQNAZLEYUFhj0R/fUxMp1UePpNvQ8qlbjMCBC2Qi3eksiUZ8XmuYp2wK3tah31ybb1Ci6O9NZSmQlq3EFqNTzsLm0Rmme6zuyg3Jlw64JldJdF+KlUkpE1T3cbEplqIawXlOqzA1v5NhgXgJaeqq0LzrK2tPdXI33GL88tGNO6zhn90UUR1EBsZ/TRhrggfOWgdiBNH17+zX33iNZ1AyV3AVVFbiEfCfZ2lK9JVh+JeSCPBYjAbgKZuyFJsdGrHI0w=;xYtggkvglk2diIH6jQJUBg=="
+secured: "2k2kUhM+gBqEx38bCeZQ3PRme60kxiiw3lZjXIbDYW4SexeudogB5YNRjSSsTEGDM7bdQY1YMqQX6d5Yj2DhSpnQO1SQzEjiaa306G57zNd2Ml2balcd+X/2X6XQUVVbyJmQIbC5UXq8WtAl+7keQ4Y5RIT0+yeEUqXj/878vd3L7jkHqXnaF1d1R9lVO2c8KPZ1YXpgHt6E55EfiRXhsn+2PSy69oAKkP9XuULidIbdne6pt0oukvAndtxGNx2rS5Ejc6uQbfAOAyL3HOUIsHTfFnEO6M9WO2AP0srg3K5YS/bFPdwjv84P3Z/EavwGR1EX0GcG+OohATIB8lyFbz+gEI4r3mx6X/cI4JiToi5IRbx96Xw8euteKV1j/tunLn26/Xbptepijuw96Lj2i4uLsIeH+APUdDkH7BZ7wC0=;LXh+3BpFEB0bzgedBgVVSg=="
 ---
 
