@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-09-10-join-us-power-bi-dev-camp-thursday-24-september-2020.md",
+      "title": "Join Us! Power BI Dev Camp! Thursday 24 September, 2020",
+      "excerpt": "This month&#8217;s Power BI Dev Camp topic is &#8220;Writing PowerShell Scripts for Power BI&#8221;. Learn to write PowerShell scripts to automate common administrative tasks in a Power BI environment such as uploading PBIX files, patching datasource credentials and refreshing datasets. In this camp",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-10-join-us-power-bi-dev-camp-thursday-24-september-2020/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-september-24-2020/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-september-24-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-09T23:00:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-09-07-power-bi-implementation-migration-colors-and-more-roundup-sept-7-2020.md",
       "title": "Power BI Implementation, migration, colors and more... (Roundup | Sept 7, 2020)",
       "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup192 Patrick's tech video: https://guyinacu.be/personalview  GIAC Clips Channel: https://guyincu.be/clips  🔴 Live Replay: https://guyinacu.be/live024  📢 Become a member: https://guyinacu.be/membership",
@@ -1196,48 +1247,6 @@
       "ampWebUrl": "https://www.neowin.net/amp/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999-2/",
       "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999-2/",
       "publishedDateTime": "2020-07-26T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-25-get-this-complete-big-data-power-bi-bundle-certification-for-only-3999.md",
-      "title": "Get this Complete Big Data & Power BI Bundle certification for only $39.99",
-      "excerpt": "Sort, analyze and visualize! Be the next data hero with 30 hours of hands-on instruction on Power BI, Power Query, Excel, and Access. Get this deal with the included certification and at hundreds off!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-25-get-this-complete-big-data-power-bi-bundle-certification-for-only-3999/index.json",
-      "webUrl": "https://www.neowin.net/news/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999/",
-      "publishedDateTime": "2020-07-25T09:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Neowin",

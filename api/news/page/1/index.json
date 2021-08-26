@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-26-announcing-automated-statuses-and-improved-filtering-for-power-bi-goals.md",
+      "title": "Announcing automated statuses and improved filtering for Power BI Goals",
+      "excerpt": "Releasing new features for Power BI Goals experience, including automated status rules, filtering and mobile.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-08-26-announcing-automated-statuses-and-improved-filtering-for-power-bi-goals/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-automated-statuses-improved-filtering-and-mobile-experiences-for-power-bi-goals/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-automated-statuses-improved-filtering-and-mobile-experiences-for-power-bi-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-25T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-08-21-how-to-leverage-the-features-of-power-bi-when-using-an-iphone-ipad-or-mac.md",
       "title": "How to leverage the features of Power BI when using an iPhone, iPad or Mac",
       "excerpt": "Microsoft's Power BI helps professionals, including Apple users, better understand their data. Here's how users with an iPhone, iPad or Mac can take advantage of all Power BI offers.",
@@ -1211,57 +1262,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-13-on-premises-data-gateway-july-2021-update-is-now-available.md",
-      "title": "On-premises data gateway July 2021 update is now available",
-      "excerpt": "On-premises data gateway (standard and personal mode) release for July 2021 ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-13-on-premises-data-gateway-july-2021-update-is-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-july-2021-update-is-now-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-july-2021-update-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-13T07:16:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
