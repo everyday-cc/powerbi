@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M34S
 publishedDateTime: 2017-09-21T21:02:20Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iK__orX9XZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mplAsdLRsCiK1a5sPEJHQGbCylYsywaDubK5zQWi7SduhkVse8D5YwS9mt7DCQGC8agTCBtQSL51OjJ1EXdY86yy0q3Kc/davhDctdx8BfmxCuoHYXu11eBOubRaqePWVG/HtqTnjCk0B1xm4v1aPvu7YzQNtrus9YNBJhJFMnM99oq9AHQxY5lxYzu9YBO/RGw0k86cj2VcSJjPMdiL9Oxd1hExESOxtywb/WncJ3gqoZOsQSPj7R+DPLLtSDWDWWQheIv+ykwmf9DCXS01PkkotJdl1br2WVu2W30FT1YyE2FrgnknP3upldIqnToIwMfj6c19Uxgydv1RWgfO+R2AKnsmH2mOthGNlm8xG5ynuJenq0Dw1qrefJ5yaUUChUmm26xiqiE4xMVEBgiR6tDYoDzYQ+993CKjSciVhI8=;wX0HrcnTvw65h88C1Xpkvw=="
+secured: "RieQwPpz9/hbcrTsrfTVPinOS5081FSIM+GwQHS3pyMEgwGqcnpg7iKiC0zSkIGhzA1LPom0SdnUuty/xg22j85bYieaKX9d0Z5FYPeVbjkf/NmXuxvQK6rQyIJddLMkA968BWn62iJV5HE8WDcbK1IXD9LlQNkpz3ULE7wfUtUziDgYmQ0gPJiO45vsCsIYygGTRh92FmkxgfVI6OtocqjjdKxFq4D4tIOfN7cJkmCsVe67PoM8gNCkNB1mZKk/hPbOt7G8fim2SxCFMDffOMHtgBXDlLA2X/lhzcbw38WrEor+waY+PwhRW0hgkSTS5wnhKMUhUoGxqP2Qgox1Kzk/J9O6DGYDvLg/CrdpuZoLlL20xRcGN3y5OPF9lXu4ZUbZ9rxup0phghvP/9OkcKoLSe2EcC31Jz+e0X43/qA=;IGP05n0UR+71eHVs04tGTw=="
 ---
 
