@@ -30,7 +30,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 89,
+      "heat": 104,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
@@ -43,94 +43,39 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/adam-saxton.md",
-      "title": "Adam Saxton",
-      "excerpt": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/adam-saxton/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/adam-saxton/",
+      "path": "_people/mike-carlo.md",
+      "title": "Mike Carlo",
+      "excerpt": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/mike-carlo/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/mike-carlo/",
       "type": "profile",
-      "name": "Adam Saxton",
-      "bio": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
-      "location": "Conroe, TX",
-      "website": "https://t.co/sfMHqOSfBC",
+      "name": "Mike Carlo",
+      "bio": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
+      "location": "United States",
+      "website": "https://t.co/Z3zO6dilSk",
       "twitter": {
-        "username": "awsaxton",
-        "url": "https://twitter.com/awsaxton",
-        "followers": 6429
+        "username": "Mike_R_Carlo",
+        "url": "https://twitter.com/Mike_R_Carlo",
+        "followers": 2212
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/guyinacube/"
+        "url": "https://www.linkedin.com/in/michaelcarlo/"
       },
       "affiliation": {
         "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
       },
       "topics": [
         "Power BI"
       ],
-      "heat": 83,
+      "heat": 87,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Adam Saxton",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/arun-ulag.md",
-      "title": "Arun Ulag",
-      "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/arun-ulag/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/arun-ulag/",
-      "type": "profile",
-      "name": "Arun Ulag",
-      "bio": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
-      "location": "Seattle, WA",
-      "website": "https://t.co/FklqJqbSAZ",
-      "twitter": {
-        "username": "arunulag",
-        "url": "https://twitter.com/arunulag",
-        "followers": 3764
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/arunulag/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 83,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/625784770333519872/RrSqqUEZ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Arun Ulag",
+          "title": "Mike Carlo",
           "isCached": true
         }
       ],
@@ -150,7 +95,7 @@
       "twitter": {
         "username": "powerbipro",
         "url": "https://twitter.com/powerbipro",
-        "followers": 4876
+        "followers": 4877
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/avichalsingh/"
@@ -163,7 +108,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 58,
+      "heat": 82,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
@@ -210,7 +155,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 41,
+      "heat": 82,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/415691890080894976/g0hNL2mf_400x400.jpeg",
@@ -223,39 +168,94 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/mike-carlo.md",
-      "title": "Mike Carlo",
-      "excerpt": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/mike-carlo/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/mike-carlo/",
+      "path": "_people/arun-ulag.md",
+      "title": "Arun Ulag",
+      "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/arun-ulag/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/arun-ulag/",
       "type": "profile",
-      "name": "Mike Carlo",
-      "bio": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
-      "location": "United States",
-      "website": "https://t.co/Z3zO6dilSk",
+      "name": "Arun Ulag",
+      "bio": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
+      "location": "Seattle, WA",
+      "website": "https://t.co/FklqJqbSAZ",
       "twitter": {
-        "username": "Mike_R_Carlo",
-        "url": "https://twitter.com/Mike_R_Carlo",
-        "followers": 2212
+        "username": "arunulag",
+        "url": "https://twitter.com/arunulag",
+        "followers": 3765
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/michaelcarlo/"
+        "url": "https://www.linkedin.com/in/arunulag/"
       },
       "affiliation": {
         "path": "",
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "Power BI"
       ],
-      "heat": 31,
+      "heat": 77,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/625784770333519872/RrSqqUEZ_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Mike Carlo",
+          "title": "Arun Ulag",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/adam-saxton.md",
+      "title": "Adam Saxton",
+      "excerpt": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/adam-saxton/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/adam-saxton/",
+      "type": "profile",
+      "name": "Adam Saxton",
+      "bio": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
+      "location": "Conroe, TX",
+      "website": "https://t.co/sfMHqOSfBC",
+      "twitter": {
+        "username": "awsaxton",
+        "url": "https://twitter.com/awsaxton",
+        "followers": 6429
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/guyinacube/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Adam Saxton",
           "isCached": true
         }
       ],
@@ -286,7 +286,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 31,
+      "heat": 64,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
