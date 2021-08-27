@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-14-this-stacked-microsoft-power-bi-training-course-is-on-sale-for-under-30.md",
+      "title": "This stacked Microsoft Power BI training course is on sale for under £30",
+      "excerpt": "TL;DR: The Complete 2021 Microsoft Power BI Super Bundle is on sale for £21.64 as of July 14, saving you 98% on list price. If you want to really impress your boss when you go back to the office ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-14-this-stacked-microsoft-power-bi-training-course-is-on-sale-for-under-30/index.json",
+      "webUrl": "https://mashable.com/uk/deals/july-14-microsoft-power-bi",
+      "originalUrl": "https://mashable.com/uk/deals/july-14-microsoft-power-bi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/0400FrdlpS7y5ZppAqzIbpR/hero-image.fill.size_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/uk/deals/july-14-microsoft-power-bi?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/deals/july-14-microsoft-power-bi?amp",
+      "publishedDateTime": "2021-07-13T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-07-13-on-premises-data-gateway-july-2021-update-is-now-available.md",
       "title": "On-premises data gateway July 2021 update is now available",
       "excerpt": "On-premises data gateway (standard and personal mode) release for July 2021 ",
@@ -1193,57 +1235,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-06-01T21:45:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-27-power-bi-report-server-may-2021-feature-summary.md",
-      "title": "Power BI Report Server May 2021 Feature Summary",
-      "excerpt": "We’re excited to bring you a new version of Power BI Report Server this month! With this update, we have a ton of enhancements, including a new field list, new and improved shape options, and several visual formatting features.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-27-power-bi-report-server-may-2021-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2021-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2021-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-27T09:30:29-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
