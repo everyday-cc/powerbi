@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 22864,
-        "average": 4.728525
+        "count": 22872,
+        "average": 4.72862
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -205,8 +205,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 20349,
-        "average": 4.7162514
+        "count": 20351,
+        "average": 4.7162795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -854,8 +854,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 2802,
-            "average": 4.6538186
+            "count": 2803,
+            "average": 4.653942
           },
           "provider": {
             "name": "Microsoft Learn",
