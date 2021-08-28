@@ -4,705 +4,6 @@
   "page": 77,
   "value": [
     {
-      "path": "_learning/videos/radacad-age-in-years-calculation-that-works-for-leap-year-in-power-bi-using-power-query.md",
-      "title": "Age in Years Calculation that works for Leap Year in Power BI using Power Query",
-      "excerpt": "I published a video yesterday about the Age calculation in Power Query, and how easy it is to calculate things. I mentioned in the blog that it won't be precisely correct for scenarios that include leap years. However, I got some concerns that people are not still using it because they think this is",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-age-in-years-calculation-that-works-for-leap-year-in-power-bi-using-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-age-in-years-calculation-that-works-for-leap-year-in-power-bi-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=26WFCCwV6kc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/26WFCCwV6kc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M34S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-17T13:22:30-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/26WFCCwV6kc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-aggregation-to-speed-up-the-performance-of-a-power-bi-report-even-if-all-imported.md",
-      "title": "Aggregation to speed up the performance of a Power BI report even if all IMPORTED",
-      "excerpt": "One of the questions I normally get after presenting about aggregations in Power BI is that, does the aggregation works only for Composite mode and in scenarios to speed up the DirectQuery? or does it work in import mode as well? This video is about this question and shows how you can speed up your model",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-aggregation-to-speed-up-the-performance-of-a-power-bi-report-even-if-all-imported/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-aggregation-to-speed-up-the-performance-of-a-power-bi-report-even-if-all-imported/",
-      "originalUrl": "https://youtube.com/watch?v=EukzA4vbl2w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EukzA4vbl2w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M42S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-11-30T20:04:06-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EukzA4vbl2w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-ai-and-microsoft-power-bi-the-realm-of-impossible-thr2038.md",
-      "title": "AI and Microsoft Power BI: The realm of impossible - THR2038",
-      "excerpt": "There is a huge demand to get more insight from the data using AI and advanced analytics. In this session, learn how to use current visual and custom visual in Power BI to get more insight from your data. Also, learn how to use current embedded AI features in Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-ai-and-microsoft-power-bi-the-realm-of-impossible-thr2038/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-ai-and-microsoft-power-bi-the-realm-of-impossible-thr2038/",
-      "originalUrl": "https://youtube.com/watch?v=kI43ZXM7_9k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kI43ZXM7_9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M14S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-06-16T12:08:23-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kI43ZXM7_9k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-all-in-one-script-to-create-calendar-table-or-date-dimension-using-dax-in-power-bi.md",
-      "title": "All in One Script to Create Calendar Table or Date Dimension using DAX in Power BI",
-      "excerpt": "I have previously written an article with the full script of how to generate a date dimension in Power BI using the Power Query script, and I would always recommend that as the first choice. However, sometimes, you just want this to be in DAX way, so here in this blog and video, I explained how to create",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-all-in-one-script-to-create-calendar-table-or-date-dimension-using-dax-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-all-in-one-script-to-create-calendar-table-or-date-dimension-using-dax-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=zeXQknz4RdI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zeXQknz4RdI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M49S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-07-12T17:33:26-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zeXQknz4RdI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-all-in-one-script-to-create-date-dimension-in-power-bi-using-power-query.md",
-      "title": "All in One   Script to Create Date Dimension in Power BI using Power Query",
-      "excerpt": "I have written multiple blog posts about how to create a date dimension using Power Query, however, the purpose of those blog posts was to teach you how to do it yourself, learn the process and also build the date dimension that you can use. Sometimes, however, you just want to create a date dimension",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-all-in-one-script-to-create-date-dimension-in-power-bi-using-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-all-in-one-script-to-create-date-dimension-in-power-bi-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=OgPDzAXwex8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OgPDzAXwex8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M14S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-18T12:45:20-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OgPDzAXwex8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-all-power-bi-announcements-of-microsoft-business-applications-summit-2021-in-one-place.md",
-      "title": "All Power BI Announcements of Microsoft Business Applications Summit 2021 in One Place",
-      "excerpt": "The Microsoft Business Applications Summit 2021 happened recently, just a couple of weeks after the Power BI Summit, and there were a bunch of exciting announcements and updates from the Power BI team. If you missed seeing them all in one place, this article and video are a nutshell of all of those in",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-all-power-bi-announcements-of-microsoft-business-applications-summit-2021-in-one-place/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-all-power-bi-announcements-of-microsoft-business-applications-summit-2021-in-one-place/",
-      "originalUrl": "https://youtube.com/watch?v=3tEtDW6AVpM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3tEtDW6AVpM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M40S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-05-05T21:48:01-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3tEtDW6AVpM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-azure-ml-with-power-bi-sanddance.md",
-      "title": "AZURE ML with Power BI  SandDance",
-      "excerpt": "Learn how to use Azure ML and Power BI SandDance Visualization",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-azure-ml-with-power-bi-sanddance/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-azure-ml-with-power-bi-sanddance/",
-      "originalUrl": "https://youtube.com/watch?v=eOjFGduG8P0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eOjFGduG8P0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M23S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2017-06-06T03:06:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eOjFGduG8P0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-be-careful-when-merging-on-text-fields-in-power-bi-using-power-query.md",
-      "title": "Be Careful When Merging on Text Fields in Power BI Using Power Query",
-      "excerpt": "Merging two tables in Power Query is one of the most useful transformations to combine data from different datasets, and also create a flatten data structure. However, if you use a text field for merge, then you might see some unexpected results. Here in this video, I share some important considerations",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-be-careful-when-merging-on-text-fields-in-power-bi-using-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-be-careful-when-merging-on-text-fields-in-power-bi-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=fjpcdaOUdoY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fjpcdaOUdoY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M28S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-02-12T02:39:31-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fjpcdaOUdoY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-best-practice-for-power-bi-workspace-roles-setup.md",
-      "title": "Best Practice for Power BI Workspace Roles Setup",
-      "excerpt": "Power BI workspaces are not like old days, that we had Edit access and View access anymore. You have more options for roles in a workspace, and in my courses, I have found that many people choose the incorrect role without knowing what the role does. In this video, I'll explain all the roles in the workspace,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-best-practice-for-power-bi-workspace-roles-setup/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-best-practice-for-power-bi-workspace-roles-setup/",
-      "originalUrl": "https://youtube.com/watch?v=I7om73MQ3q8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I7om73MQ3q8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M28S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-04-13T17:52:43-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/I7om73MQ3q8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-better-drill-down-experience-with-power-bi.md",
-      "title": "Better Drill Down Experience with Power BI",
-      "excerpt": "If you have used the drill down/up feature in Power BI, you know that it is a very powerful feature for exploring the data, you can expand a hierarchy to the next level, and go back. However, there is a little trick that can make your hierarchy exploration much better. Let’s check it out in this short",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-better-drill-down-experience-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-better-drill-down-experience-with-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=8q5SQiMICw8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8q5SQiMICw8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M17S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-02-03T15:31:38-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8q5SQiMICw8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-cartesian-product-in-power-query-multiply-all-sets-of-all-pairs-in-power-bi.md",
-      "title": "Cartesian Product in Power Query   Multiply All Sets of All Pairs in Power BI",
-      "excerpt": "Sometimes, you need to create a multiplication of all sets of all pairs from two different data tables in Power BI. This action is different from Merge (Join) because there is no matching key columns and no way to relate the two tables together. However, you want to create a multiplication as a flatten",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-cartesian-product-in-power-query-multiply-all-sets-of-all-pairs-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-cartesian-product-in-power-query-multiply-all-sets-of-all-pairs-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=Uqvhd5goLJQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Uqvhd5goLJQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M45S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-03-01T15:09:16-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Uqvhd5goLJQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-caution-when-using-variables-in-dax-and-power-bi.md",
-      "title": "Caution When Using Variables in DAX and Power BI",
-      "excerpt": "I have written another blog post about variables previously and explained how useful variables are. Variables in DAX are helpful in both readability and also the performance of your code. However, there are scenarios that you have to be careful when you use variables. Because variables are stored, they",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-caution-when-using-variables-in-dax-and-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-caution-when-using-variables-in-dax-and-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=Vzgdw1EAMZI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vzgdw1EAMZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M42S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-21T19:25:19-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Vzgdw1EAMZI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-charticulator-bullet-chart-for-one-category.md",
-      "title": "Charticulator Bullet Chart for One Category",
-      "excerpt": "In this video, I have showb how to use Charticulator for creating a Bullet Chart with one Category,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-charticulator-bullet-chart-for-one-category/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-charticulator-bullet-chart-for-one-category/",
-      "originalUrl": "https://youtube.com/watch?v=dYfrWAcFMUo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dYfrWAcFMUo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M29S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-09-23T17:10:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dYfrWAcFMUo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-connection-types-in-power-bi-import-data-or-scheduled-refresh-a-detailed-look-inside-and-out.md",
-      "title": "Connection Types in Power BI Import Data or Scheduled Refresh A Detailed Look Inside and Out",
-      "excerpt": "Power BI is one of the BI tools in the market that supports more than one type of connection. Each connection type has pros and cons. In this video, we are going to cover everything about Import Data or Scheduled Refresh type of connection. You will learn briefly how Power BI stores data into xVelociy",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-connection-types-in-power-bi-import-data-or-scheduled-refresh-a-detailed-look-inside-and-out/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-connection-types-in-power-bi-import-data-or-scheduled-refresh-a-detailed-look-inside-and-out/",
-      "originalUrl": "https://youtube.com/watch?v=-zpg2ssmN-4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-zpg2ssmN-4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M22S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-09-15T12:57:07-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-zpg2ssmN-4/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-convert-flat-list-to-table-in-power-bi-pivot-without-a-set-key-column-using-power-query.md",
-      "title": "Convert Flat List to Table in Power BI   Pivot Without a Set Key Column Using Power Query",
-      "excerpt": "The scenario I am explaining today is a very specific use case, However, I have seen examples similar to this happens very often. It happens that you get a text or Excel file with values written in a flat list structure, and that needs to be changed to a table format. Usually, this process can be done",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-convert-flat-list-to-table-in-power-bi-pivot-without-a-set-key-column-using-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-convert-flat-list-to-table-in-power-bi-pivot-without-a-set-key-column-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=pj9xbe1Sp3A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pj9xbe1Sp3A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M12S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-03-02T17:00:16-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pj9xbe1Sp3A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-create-a-table-with-a-to-z-character-values-in-power-bi-using-dax.md",
-      "title": "Create a Table with A to Z Character Values in Power BI Using DAX",
-      "excerpt": "I have explained previously that you can use GenerateSeries function in DAX to create a list of number, date or time, or even currency values. However, sometimes you might need to create a list of text values. Such as alphabet; from \"a\" to \"z\" lowercase, or uppercase. The good news is that you can do",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-create-a-table-with-a-to-z-character-values-in-power-bi-using-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-create-a-table-with-a-to-z-character-values-in-power-bi-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=YXE62YnJxJs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YXE62YnJxJs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M27S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-03-23T15:36:46-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YXE62YnJxJs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-create-custom-visual-bullet-chart-with-charticulator-with-two-categories.md",
-      "title": "Create Custom Visual Bullet Chart with Charticulator with two categories",
-      "excerpt": "In this short video, I have explained how to use Charticulator for creating a Bullet chart with two categories.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-create-custom-visual-bullet-chart-with-charticulator-with-two-categories/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-create-custom-visual-bullet-chart-with-charticulator-with-two-categories/",
-      "originalUrl": "https://youtube.com/watch?v=xS6GyVpt7lY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xS6GyVpt7lY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M14S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-09-20T23:07:19-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xS6GyVpt7lY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-create-map-style-nested-chart.md",
-      "title": "Create Map Style nested Chart",
-      "excerpt": "In this short video, I have shown how to create a map style chart with a bar chart or packed scatter chart  or using images",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-create-map-style-nested-chart/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-create-map-style-nested-chart/",
-      "originalUrl": "https://youtube.com/watch?v=DyVGpdUaELY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DyVGpdUaELY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M13S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-10-07T15:27:04-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DyVGpdUaELY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-create-ribbon-chart-using-charticulator-inside-power-bi.md",
-      "title": "Create Ribbon Chart Using Charticulator inside Power BI",
-      "excerpt": "This short video shows how to create your own Ribbon Chart inside Charticulator and then import it into Power BI desktop to access the data source website see the below link: https://gs.statcounter.com/os-market-share/mobile/worldwide  also, the transformed dataset has been uploaded here: https://radacad-my.sharepoint.com/:x:/p/leila/EWvPqySqTIhNs-fR1bp7JJYB-pQLMtphhuZ_aE5jLcHQ1w?e=135oPD",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-create-ribbon-chart-using-charticulator-inside-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-create-ribbon-chart-using-charticulator-inside-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=u7zukdinxKQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u7zukdinxKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M36S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-09-16T17:42:25-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/u7zukdinxKQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-currency-exchange-rate-converter-power-bi-function-part-1.md",
-      "title": "Currency Exchange Rate Converter Power BI Function   Part 1",
-      "excerpt": "If you ever need to convert amounts from one currency to another, you face the challenge that currency rates are not constant. They change every day. You either need to keep an up-to-date table of all new currency rates and use that in your Power BI solution, or use a function that gets the rate from",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-currency-exchange-rate-converter-power-bi-function-part-1/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-currency-exchange-rate-converter-power-bi-function-part-1/",
-      "originalUrl": "https://youtube.com/watch?v=rCsUao3UtMM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rCsUao3UtMM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M49S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-23T20:53:56-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rCsUao3UtMM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-customers-grouped-by-count-of-their-orders-static-segmentation-in-power-bi.md",
-      "title": "Customers Grouped by Count of Their Orders   Static Segmentation in Power BI",
-      "excerpt": "One of the interesting calculation challenges in BI systems is a segmentation or grouping on a numeric value, based on an occurrence of another value. As an example; You might want to know How many customers ordered once, twice, three times or more. The challenge is that the data in the transactional",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-customers-grouped-by-count-of-their-orders-static-segmentation-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-customers-grouped-by-count-of-their-orders-static-segmentation-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=0KBR-aEVaxk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0KBR-aEVaxk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M33S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-02-23T22:10:22-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0KBR-aEVaxk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-dataflow-a-remedy-slow-data-sources-in-power-bi.md",
-      "title": "Dataflow  a remedy slow data sources in Power BI",
-      "excerpt": "I have previously explained a number of use cases for dataflows. One really useful case for it is to use dataflow for slow data sources. In this short article and video, I’ll explain how this works. Read my blog article here:  https://radacad.com/dataflow-a-remedy-slow-data-sources-in-power-bi  *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dataflow-a-remedy-slow-data-sources-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dataflow-a-remedy-slow-data-sources-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=tWLgvM9aV98",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tWLgvM9aV98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M31S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-02-16T18:44:08-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tWLgvM9aV98/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-dataflows-the-integration-solution-for-power-bi.md",
-      "title": "Dataflows The Integration Solution for Power BI",
-      "excerpt": "The webinar delivered to Bulgaria User Group",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dataflows-the-integration-solution-for-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dataflows-the-integration-solution-for-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=1TqfmfSnAqs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1TqfmfSnAqs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT49M52S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-05-16T14:17:36-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1TqfmfSnAqs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Dataflows"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-dax-measure-in-the-axis-of-the-power-bi-report.md",
       "title": "DAX Measure in the Axis of the Power BI Report",
       "excerpt": "If you even need to show your DAX measures in a chart without a dimension to slice and dice it, you won’t get a great experience in the visual. In this video, I’ll share a trick that you can use to have a nice visualization like what you see in the above screenshot. Download the file and study more from",
@@ -730,6 +31,129 @@
       "price": "Free",
       "topics": [
         "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-day-of-year-and-day-of-quarter-dax-calculations-for-power-bi.md",
+      "title": "Day of Year and Day of Quarter   DAX calculations for Power BI",
+      "excerpt": "Power BI has some built-in, easy-to-use DAX functions to get the Day of Month and Day of the week, but nothing for Day of Year and Day of the quarter. These calculations, however, are very simple and easy to implement using other functions. This short blog and video explain a method to calculate those",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-day-of-year-and-day-of-quarter-dax-calculations-for-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-day-of-year-and-day-of-quarter-dax-calculations-for-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=ulT8HtF4gT0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ulT8HtF4gT0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M23S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-03-03T20:10:39-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ulT8HtF4gT0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-directquery-for-power-bi-dataset-how-does-it-work.md",
+      "title": "DirectQuery for Power BI dataset   How does it work",
+      "excerpt": "In my previous article and video, I explained why DirectQuery for a Power BI dataset is an important feature. In this blog and video, I explain how this feature works step by step. Read more by studying my blog article here: https://radacad.com/directquery-for-power-bi-dataset-how-does-it-work  *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-directquery-for-power-bi-dataset-how-does-it-work/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-directquery-for-power-bi-dataset-how-does-it-work/",
+      "originalUrl": "https://youtube.com/watch?v=WowP5vOgeqI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WowP5vOgeqI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M1S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-12-29T21:09:29-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WowP5vOgeqI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-directquery-for-power-bi-datasets-and-analysis-services-what-is-it-and-why-it-is-a-big-deal.md",
+      "title": "DirectQuery for Power BI datasets and Analysis Services. What is it and why it is a big deal?",
+      "excerpt": "The news of the latest update of Power BI Desktop, December 2020, is now everywhere. Especially the most exciting feature of all is the DirectQuery for Power BI datasets and analysis service, or in other terms composite model for Power BI datasets. However, you might ask, what that mean? what is it?",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-directquery-for-power-bi-datasets-and-analysis-services-what-is-it-and-why-it-is-a-big-deal/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-directquery-for-power-bi-datasets-and-analysis-services-what-is-it-and-why-it-is-a-big-deal/",
+      "originalUrl": "https://youtube.com/watch?v=OfMX8Z07MmM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OfMX8Z07MmM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M26S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-12-16T13:43:36-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OfMX8Z07MmM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-document-a-power-bi-file-and-report-in-a-few-clicks-all-dax-code-visualization-power-query-scripts.md",
+      "title": "Document a Power BI file and report in a few clicks   all DAX code visualization Power Query scripts",
+      "excerpt": "In this article and video, I’ll share with you how to document everything from a Power BI file in a few clicks. The document output will have all the DAX code (measures, columns, and tables) with the expressions, the tables with the Power Query scripts, information about visualization such as how many",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-document-a-power-bi-file-and-report-in-a-few-clicks-all-dax-code-visualization-power-query-scripts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-document-a-power-bi-file-and-report-in-a-few-clicks-all-dax-code-visualization-power-query-scripts/",
+      "originalUrl": "https://youtube.com/watch?v=mRbeLl0TO14",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mRbeLl0TO14\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M16S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-05-27T15:09:46-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mRbeLl0TO14/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query",
         "DAX"
       ]
     },
@@ -762,6 +186,67 @@
       "topics": [
         "Power BI",
         "Dataflows"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-dynamic-row-level-security-in-power-bi-with-exclude-and-include-rules.md",
+      "title": "Dynamic Row Level Security in Power BI with Exclude and Include Rules",
+      "excerpt": "In the previous video, I explained how to implement a dynamic row-level security pattern when you have a value that you want to exclude. However, what if you want to EXCLUDE at some scenarios and INCLUDE in some others? What if you want to have a role saying access to everything but New Zealand, and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dynamic-row-level-security-in-power-bi-with-exclude-and-include-rules/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dynamic-row-level-security-in-power-bi-with-exclude-and-include-rules/",
+      "originalUrl": "https://youtube.com/watch?v=LyeAhV2665s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LyeAhV2665s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M1S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-11-09T16:00:52-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LyeAhV2665s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-explicit-vs-implicit-dax-measures-in-power-bi.md",
+      "title": "Explicit Vs Implicit DAX Measures in Power BI",
+      "excerpt": "Have you ever tried to connect to a Power BI dataset from Excel using Analyze in Excel? if yes, you might have had this experience that your values don’t show in Excel’s Pivot table as values. This is because those values are not explicit measures, they are implicit measures in Power BI. In this article",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-explicit-vs-implicit-dax-measures-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-explicit-vs-implicit-dax-measures-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=f7g6EvNGClQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f7g6EvNGClQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M57S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-08-10T15:30:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/f7g6EvNGClQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -857,6 +342,68 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-fuzzy-clustering-in-power-bi-using-power-query-finding-similar-values.md",
+      "title": "Fuzzy Clustering in Power BI using Power Query   Finding similar values",
+      "excerpt": "I have explained in two other videos about fuzzy operations in Power BI and Power Query so far;  fuzzy matching in Power BI, and fuzzy grouping. the methods above involve transforming the data with a fuzzy operation. However, sometimes you just want to know the similarity of values, or let’s say in other",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-fuzzy-clustering-in-power-bi-using-power-query-finding-similar-values/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-fuzzy-clustering-in-power-bi-using-power-query-finding-similar-values/",
+      "originalUrl": "https://youtube.com/watch?v=0I5XnKsIT2o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0I5XnKsIT2o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M47S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-07-29T16:58:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0I5XnKsIT2o/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-fuzzy-grouping-in-power-bi-using-power-query.md",
+      "title": "Fuzzy Grouping in Power BI using Power Query",
+      "excerpt": "I have explained previously what fuzzy matching in Power BI is and how to use it. In this article and video, I’ll explain Fuzzy grouping. Fuzzy grouping in short means grouping text values by their similarity based on a threshold, rather than exact equal values. This option at the moment is available",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-fuzzy-grouping-in-power-bi-using-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-fuzzy-grouping-in-power-bi-using-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=17tTYWdhhEs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/17tTYWdhhEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M46S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-07-21T19:42:43-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/17tTYWdhhEs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-get-the-image-url-in-power-bi-using-power-query-get-table-from-example.md",
       "title": "Get the Image URL in Power BI Using Power Query Get Table from Example",
       "excerpt": "I have written previously a blog article that I explained in detail how I fetch the image URL from a website using Power Query. That method, however, is what I call a bit of a techie way of doing it because you have to look at the HTML code of the page. There is an easier way of doing it as well. For",
@@ -916,6 +463,461 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-getting-started-with-power-bi-build-your-first-visualization.md",
+      "title": "Getting started with Power BI   Build your first visualization",
+      "excerpt": "If you want to learn how to build your very first visualization using Power BI Desktop, watch this simple demo and learn how to do it yourself.  To download the data source for this sample, go to my article here: https://radacad.com/power-bi-desktop-the-first-experience   *******************   Want to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-getting-started-with-power-bi-build-your-first-visualization/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-getting-started-with-power-bi-build-your-first-visualization/",
+      "originalUrl": "https://youtube.com/watch?v=jUXJGWJsipU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jUXJGWJsipU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M48S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-09-21T14:52:28-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jUXJGWJsipU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-how-to-access-azure-ml-studio-model-in-power-bi-data-flow.md",
+      "title": "How to access Azure Ml Studio Model in Power BI Data Flow",
+      "excerpt": "In this video how we able to create a model in Azure Ml Studio then. consume it in Power bI Service, data Flow, has been shown.  Link to blog https://radacad.com/ai-in-dataflow-azure-ml-studio-integration-with-power-bi-services-part-3 Lin to Azure ML book https://radacad.com/book-azure-machine-learning-studio-an-unleashed-guide",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-access-azure-ml-studio-model-in-power-bi-data-flow/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-access-azure-ml-studio-model-in-power-bi-data-flow/",
+      "originalUrl": "https://youtube.com/watch?v=hZ2y_AJyEz0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hZ2y_AJyEz0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M30S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-08-01T17:35:35-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hZ2y_AJyEz0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-how-to-change-joining-types-in-power-bi-and-power-query.md",
+      "title": "How to Change Joining Types in Power BI and Power Query",
+      "excerpt": "If you are combining tables in Power BI or Excel using Power Query, you might wonder how you change the join or merge type. In this video, I talked about it. Read my blog article to learn more about it; https://radacad.com/how-to-change-joining-types-in-power-bi-and-power-query   *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-change-joining-types-in-power-bi-and-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-change-joining-types-in-power-bi-and-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=bl6AfejSzR8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bl6AfejSzR8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M1S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-10-15T19:03:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bl6AfejSzR8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-how-to-create-custom-visual-for-power-bi-using-charticulator.md",
+      "title": "How to create Custom Visual for Power BI using Charticulator",
+      "excerpt": "In this short video, I shared my first experience of creating a custom visual using Charticulator. The dataset I have to use is mpg you can download it from https://gist.github.com/omarish/5687264",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-create-custom-visual-for-power-bi-using-charticulator/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-create-custom-visual-for-power-bi-using-charticulator/",
+      "originalUrl": "https://youtube.com/watch?v=eC0L3Q373lw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eC0L3Q373lw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M23S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-08-01T17:34:59-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eC0L3Q373lw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-how-to-modify-a-linked-entity-in-power-bi-dataflows.md",
+      "title": "How to modify a linked entity in Power BI dataflows",
+      "excerpt": "It is not possible to change a linked entity in a dataflow in Power BI. Linked entities has to be modified only in the dataflow in which they are created. However, sometimes, you need to do a small modification to the linked entity in a chained dataflow. There is a very simple trick, In this article",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-modify-a-linked-entity-in-power-bi-dataflows/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-modify-a-linked-entity-in-power-bi-dataflows/",
+      "originalUrl": "https://youtube.com/watch?v=E1vGsjAZ0VQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E1vGsjAZ0VQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M15S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-01-26T17:57:38-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/E1vGsjAZ0VQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-how-to-reduce-the-size-of-power-bi-file-in-a-few-steps.md",
+      "title": "How to Reduce the Size of Power BI file in a few Steps",
+      "excerpt": "One of the performance considerations of a Power BI file is to reduce the size of it as much as possible. This also helps with the speed of development, because smaller files loads faster and easier in the Power BI Desktop. One way to reduce the size significantly is to find which columns are consuming",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-reduce-the-size-of-power-bi-file-in-a-few-steps/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-reduce-the-size-of-power-bi-file-in-a-few-steps/",
+      "originalUrl": "https://youtube.com/watch?v=BhCYRUD-GRo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BhCYRUD-GRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M26S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-06-01T15:09:20-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BhCYRUD-GRo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-how-to-resolve-publish-to-web-error-message-contact-your-admin-to-enable-embed-code-creation.md",
+      "title": "How to Resolve Publish to Web Error Message   Contact Your Admin to Enable Embed Code Creation",
+      "excerpt": "If you tried the option Publish to Web in Power BI recently, you might have seen the error saying \"Contact Your Admin to Enable Embed Code Creation\". In this vidoe, I am going to talk about why you see this error message, what is the reason behind it, and how to get it resolved. read more about this",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-resolve-publish-to-web-error-message-contact-your-admin-to-enable-embed-code-creation/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-resolve-publish-to-web-error-message-contact-your-admin-to-enable-embed-code-creation/",
+      "originalUrl": "https://youtube.com/watch?v=QVwkOkL_ZyU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QVwkOkL_ZyU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M49S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-02-08T21:01:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QVwkOkL_ZyU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-how-to-show-ranking-in-power-bi-using-ribbon-chart.md",
+      "title": "How to show ranking in Power BI using Ribbon Chart",
+      "excerpt": "Learn in this short video how you can use Ribbon chart simply to do ranking in Power BI with no coding.  The dataset can be downloaded from my blog article here:  https://radacad.com/ribbon-chart-is-the-next-generation-of-stacked-column-chart",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-show-ranking-in-power-bi-using-ribbon-chart/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-show-ranking-in-power-bi-using-ribbon-chart/",
+      "originalUrl": "https://youtube.com/watch?v=BsN-Cg9DNNA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BsN-Cg9DNNA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M6S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-07-18T15:28:59-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BsN-Cg9DNNA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-how-to-use-addcolumns-function-in-dax-and-power-bi.md",
+      "title": "How to use AddColumns function in DAX and Power BI",
+      "excerpt": "AddColumns is a DAX function that is helpful often when writing calculations in Power BI. In this article and video, I’ll explain how you can use it to add calculated columns on the fly to the virtual tables in measures or directly in a table. download the Power BI file from my blog article here: https://radacad.com/how-to-use-addcolumns-function-in-dax-and-power-bi",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-use-addcolumns-function-in-dax-and-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-use-addcolumns-function-in-dax-and-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=VxnrH6XQayg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VxnrH6XQayg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M1S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-05-12T20:16:17-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VxnrH6XQayg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-how-to-use-all-in-a-dax-expression-in-power-bi.md",
+      "title": "How to Use ALL in a DAX Expression in Power BI",
+      "excerpt": "I have previously explained what the ALL function in Power BI is, and how it helps in working with filters in your report. However, still I get many students confused about how to use this function, which parameter to pass to it. This video is explaining that in detail. Download the Power BI file and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-use-all-in-a-dax-expression-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-use-all-in-a-dax-expression-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=VjTJp2XhN1A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VjTJp2XhN1A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M29S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-05-25T13:03:20-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VjTJp2XhN1A/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-how-to-write-simple-calculations-in-a-power-bi-streaming-dataset.md",
+      "title": "How to write simple calculations in a Power BI streaming dataset",
+      "excerpt": "If you use a streaming dataset in Power BI, you cannot download the Power BI file, and you cannot open it using Power BI Desktop. This means that you are limited not to use calculations in a streaming dataset. However, there is a small trick which you can use and can be helpful. I will show you that",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-write-simple-calculations-in-a-power-bi-streaming-dataset/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-write-simple-calculations-in-a-power-bi-streaming-dataset/",
+      "originalUrl": "https://youtube.com/watch?v=zxcRfiWWINo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zxcRfiWWINo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M15S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-01-13T17:13:18-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zxcRfiWWINo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-image-tag-in-power-bi-service-data-flow.md",
+      "title": "Image Tag in Power BI Service (data Flow)",
+      "excerpt": "In this short Video, I explain how you able to do image tags and description in the picture in Power BI Service using AI Insight and then see the result in Power BI Desktop  let   Source = Table.FromRows({   { Web.Contents(\"image address 1\") },   {Web.Contents(\"image address 2\") },   {Web.Contents(\"image",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-image-tag-in-power-bi-service-data-flow/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-image-tag-in-power-bi-service-data-flow/",
+      "originalUrl": "https://youtube.com/watch?v=EArUTBChsFc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EArUTBChsFc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M7S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-08-01T17:33:47-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EArUTBChsFc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Service"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-interactive-r-graphs-with-power-bi.md",
+      "title": "Interactive R Graphs with Power BI",
+      "excerpt": "Learn how to create interactive R graphs in Power BI report",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-interactive-r-graphs-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-interactive-r-graphs-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=sM7Pw8QWJ68",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sM7Pw8QWJ68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M7S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2017-06-06T03:06:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sM7Pw8QWJ68/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-introduction-to-power-bi-designer.md",
+      "title": "Introduction to Power BI Designer",
+      "excerpt": "Video starts with Power BI Components explanation, then introduction to Power BI Designer which is the Editor for Power Query, Power Pivot, and Power View. Deployment to Power BI site, building dashboards and reports, and Power Q&A is demoed. Power BI App is also showed in the demo",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-introduction-to-power-bi-designer/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-introduction-to-power-bi-designer/",
+      "originalUrl": "https://youtube.com/watch?v=ZFxWXdQnJ-g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZFxWXdQnJ-g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M35S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-01-21T14:33:43-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZFxWXdQnJ-g/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-iot-with-cortana-intelligence-raspberry-pi-3-and-a-weather-sensor.md",
+      "title": "IoT with Cortana intelligence Raspberry Pi 3 and a weather sensor",
+      "excerpt": "in this video you will see how we can check the weather of a room in power BI using Raspberry Pi3, weather station and power BI, huckster website help me to develop this:https://www.hackster.io/windowsiot/build-hands-on-lab-iot-weather-station-using-windows-10-5b818f also the full detail of how to set",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-iot-with-cortana-intelligence-raspberry-pi-3-and-a-weather-sensor/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-iot-with-cortana-intelligence-raspberry-pi-3-and-a-weather-sensor/",
+      "originalUrl": "https://youtube.com/watch?v=PeNBMpArCM8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PeNBMpArCM8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M24S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-08-01T17:40:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PeNBMpArCM8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],
