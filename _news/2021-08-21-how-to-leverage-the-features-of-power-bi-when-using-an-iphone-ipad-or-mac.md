@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-leverage-the-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/"
 type: article
 quality: 95
-heat: 95
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 900
     isCached: true
 
-secured: "Ba9XWu6Fg8RqwI6IQd/5RMSNWSXjomd2GMBYl16FugA8sA7+mRhJQZQVrApyQSrFJ+mpTZ3LJBmQd6nvJ8lrew9HgsQb1Rir4pExTohKjOamo5FJmsmmIkLkXpLWUMZQ224b/C1esa2MKBeWbgFS0/ul5UFo6XaoMIg5NMuw4/B09gnRccEm/CpPgALWBxqUwW3IOXkhSMi68W0n70X1dbJhoBBz8qHBhz7L/G4pLN5+J5DlYpa2Rz3LT8XAA9WJYEQ5v8Ave9ohMDHUKtAsnVwT5hQTmBMzyQx9xGzv8UlxLs8v+cuzjkY8QTC9P4aIh6C9Al6mwRq2YMoU4upq1KKJAXNi5JKtw19vsltx9c0=;aisimtSfGz93Y40tW3tm5A=="
+secured: "Y0evKPEAS8ZYQxEP+FUsRx067AUMDGi1A4i393d5m3wdXYxi8J6+0e4VgAkNbMjvYlEOxnk6uqEGSUHCycC6h7EvxChjZSqL+eGFsLozinqA2+hswPWaFw96nVlC3tNjcyTVdw7QfWXXidcOMHGYxm+aklAl0cnOk1SzEL1dwsx2Ux1fj54g2jA9afPjsDAp9my051TjWpME7osP+ChdW1TKypxq30DBel7RzNkoRhpuAhHyEjck+rPMLlAcrljkdwFvPzfOMUnwRMvxGukESqptTP5Kuz8zAGohssDHBuhV4XG9PQBQsHfKy2ECVxPRrCPtFypRDDwdBJCiQWu1EPv0tElcGhNMshXAWilQiNg=;wEHawlmdoRHQDGGmNBJPfg=="
 ---
 
