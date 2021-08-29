@@ -4,36 +4,6 @@
   "page": 65,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-comparing-salesytd-across-multiple-years-question-by-david-briggs.md",
-      "title": "Comparing SalesYTD across Multiple Years (Question by David Briggs)",
-      "excerpt": "In this episode, I answer a quick question by David Briggs regarding comparing SalesYTD across Multiple Years.  (I recorded this one on the road - in Minneapolis visiting my sister - so there's some background noise) Original Question: \"Good Evening.  Is there a DAX statement that would allow the graphing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-comparing-salesytd-across-multiple-years-question-by-david-briggs/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-comparing-salesytd-across-multiple-years-question-by-david-briggs/",
-      "originalUrl": "https://youtube.com/watch?v=skAcy00pP0c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/skAcy00pP0c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M30S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-08-31T06:58:56-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/skAcy00pP0c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-dashboard-showcase-and-review-sales-dashboard-by-akash-bagul-bonus.md",
       "title": "Dashboard Showcase and Review:  Sales Dashboard by Akash Bagul ★BONUS★",
       "excerpt": "To present your own Dashboard on our Next Showcase, please visit 👉 https://www.learnpowerbi.com/dashboard  ================================\r 👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial\r 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/",
@@ -894,6 +864,36 @@
           "url": "https://i.ytimg.com/vi/IhwBIBKoC8E/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-how-a-power-bi-entrepreneur-is-out-to-save-the-world-talk-power-bi-live-subscribe-join.md",
+      "title": "How a Power BI Entrepreneur is Out to Save the World 🔴Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "Meet Austin Senseman, a Power BI Entrepreneur. Austin founded https://www.conserv.io/ with a mission to bring the strength of Power BI to help preserve the world's art collections. Austin shares his tips on any business can leverage Power BI to stand out in the market and win more customers.  ✅ Subscribe",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-how-a-power-bi-entrepreneur-is-out-to-save-the-world-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-how-a-power-bi-entrepreneur-is-out-to-save-the-world-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=HkiPDw2hln8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HkiPDw2hln8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3H41M37S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-09-13T04:43:08-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HkiPDw2hln8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
