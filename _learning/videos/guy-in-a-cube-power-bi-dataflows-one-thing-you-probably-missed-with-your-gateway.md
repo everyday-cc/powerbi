@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M8S
 publishedDateTime: 2019-09-26T13:07:16Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P483x2uanks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "V2ngrSTB9dPyHuximdDokQME/0ziLMkRpzeSitA6sykKUH7tOk8ebNNbHHqIrC2SzAEZ+EKRW1NewyKuIzaq2lbxp0usrD0jJJBOQ6lh850JpxCFDMlnHueG8sjM8iRiCSvKEFpI7q7ekg2XAfFWQnuDg58vJFJYrlZFE78hN6tK+tXbGY0aMdlm50GNlgjtxBcQsguZaMyQ3lSzn6OslUtEm0r4ynFfnbUSF5IdvB4w+coyJuTGSc5zzREkFLV3qkBiQfdikm91/oqYnHswJiORqvAaA3uDevGO8aMcKQ6UGeSccHkSAJx30pS4S8zunRfGEBHPIAM1qWcUd7jYu51IZnTp2QF8Qo5y5e63rKSP5iUqdRbyLw4i6q+i/92A/z8/p66xPL0LQQdKMCitQqRJWhrui+Ff6bODiMj4hSk=;RhNn1/vJC7HQM8jZ5ZMCaA=="
+secured: "rv/6+xtoX5ee5nEmUztR59XBtAHZsESPN88OtHRlBahysrHt0+0cZdhJUzpWK4v34QcstAInCRFKHs+lAZLv13GHkTZQDAfEF+WenyLygnVENLy0hmKPmtmTaAOi7qDiWYpXug/MJYHHp+8QZFLFYq7KCAwcZMQF41UMjiA34HyhgY7muKY7LcokVqgNlx1auz+H0nJ+1elKBQz5R1KEHorHYBkCFnGYiuQ79Ag6cD7e2K6mJbOHuqHzdvovchHdhXS/efEyPfke6zXxjyh1P/9J+rQ1OrexB6Wy12DrsQuBP/6EIIPgdM/Ux+xyA7jja8UT670kyDCblDINECgvkZ2qn/YSTk28gE8LLscCp1UC/nQS4nm87LM9pP0r36jngzQJZxipobICvWUgno14WX7dHVKcQm+fzxMFG+4Jsyw=;ASEmysRr3avyTYLDRkF04w=="
 ---
 
