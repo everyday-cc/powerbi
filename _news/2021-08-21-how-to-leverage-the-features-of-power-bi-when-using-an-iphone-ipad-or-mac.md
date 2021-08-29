@@ -1,15 +1,15 @@
 ---
 category: news
 title: "How to leverage the features of Power BI when using an iPhone, iPad or Mac"
-excerpt: "Microsoft's Power BI helps professionals, including Apple users, better understand their data. Here's how users with an iPhone, iPad or Mac can take advantage of all Power BI offers. The ..."
-publishedDateTime: 2021-08-20T21:54:00Z
-originalUrl: "https://www.techrepublic.com/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/"
-webUrl: "https://www.techrepublic.com/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/"
+excerpt: "Microsoft's Power BI helps professionals, including Apple users, better understand their data. Here's how users with an iPhone, iPad or Mac can take advantage of all Power BI offers."
+publishedDateTime: 2021-08-20T20:09:00Z
+originalUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/"
+webUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/"
+ampWebUrl: "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/"
 type: article
 quality: 95
-heat: 96
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,6 @@ images:
     height: 900
     isCached: true
 
-secured: "A2BFZwRuUrlNrSa7ChOlBwfdUs+n6kmqUbhwJyuoblcTfZtbv/vltg9alsB5pLNzmsQ0/Rlf9hsr5dFhx99fRIgjMvwPhhPW76QQK7+nuvyVWtlajywsx1DM7hNgqKoyN+fK8ISUma4FwQIMSgX0O1eGrtXfQkblAtIACQEbXz6mArhQl0NawFjR8p3VzcczXEMBZsxJGo9DLb5asHRVYYulLwS0HD28lkb2pKI2ppI9p0VwaWeNp5er7jIjRjLkn3pg4Ek/a6gSFJNXd7mgrH8Nb41ZZSQ8F2duXeH2VAgWz/PVt2bZ+kSJyroQTx9AdVk40ua/owFYCKETWPlGzSBOEmwDqAYTImI3r51c7dg=;13452vWT6MUHvl/tGzzx+g=="
+secured: "23uE9NVevoRbbXAeoTu/qpaAUU16zTAwlIqEzurT9shhfo9kdbyRODT4wBWF/ct0Mkh6IijB/AePHKujPhT4mU9nZMXec5LiYuGFOymIjKJbpefMxJsCenr27zHb+lDATxkjy0ZMKHCkIBaZzCvlZWEkJKxhaU/lCkWTb7uJ8NMo/p+QudFBvYBg04pZwp4hP09o1tV8u8yleqCUM2BWIAqCUEIIYno/evwPO01nCb+00pNwqCLB4HgqtMGv+2OsZ5akm9NZCwBbUlgqfseqTGcceffRgkqyxSYZLW9HCrU10A8+uGFyIgtYsTTVPIERXYl48scrmqx2KfVp83c716RVu4dk3eQdPl1ZfgHz9y8=;ehUQMCYIUmZ87v9bKEBItQ=="
 ---
 
