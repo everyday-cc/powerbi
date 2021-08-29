@@ -4,7 +4,7 @@ excerpt: "This is not the first time I have shared this concept.  In my previou
 webUrl: https://exceleratorbi.com.au/rename-many-columns-at-once-in-power-bi/
 type: article
 publishedDateTime: 2021-08-19T02:00:24Z
-heat: 80
+heat: 82
 
 provider:
   name: Excelerator BI
