@@ -157,13 +157,13 @@
     {
       "path": "_news/2021-08-21-how-to-leverage-the-features-of-power-bi-when-using-an-iphone-ipad-or-mac.md",
       "title": "How to leverage the features of Power BI when using an iPhone, iPad or Mac",
-      "excerpt": "Microsoft's Power BI helps professionals, including Apple users, better understand their data. Here's how users with an iPhone, iPad or Mac can take advantage of all Power BI offers.",
+      "excerpt": "Microsoft's Power BI helps professionals, including Apple users, better understand their data. Here's how users with an iPhone, iPad or Mac can take advantage of all Power BI offers. The ...",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-08-21-how-to-leverage-the-features-of-power-bi-when-using-an-iphone-ipad-or-mac/index.json",
-      "webUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/",
-      "originalUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/",
+      "webUrl": "https://www.techrepublic.com/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -177,9 +177,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/price/freetotry/index.php/google-amp/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/",
-      "publishedDateTime": "2021-08-20T13:09:00-07:00",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/",
+      "publishedDateTime": "2021-08-20T14:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRepublic",
