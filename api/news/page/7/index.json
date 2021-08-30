@@ -2,6 +2,159 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-16-directquery-for-power-bi-datasets-and-azure-analysis-services-preview.md",
+      "title": "DirectQuery for Power BI datasets and Azure Analysis Services (preview)",
+      "excerpt": "In Nov 2018, we released composite models, which allow you to seamlessly add multiple DirectQuery sources and imported data to your models. We have heard your feedback that you would like to do this with sources you previously live connected to, like Power BI datasets and Azure Analysis Services sources.\r\n\r\nWe",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-16-directquery-for-power-bi-datasets-and-azure-analysis-services-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/directquery-for-power-bi-datasets-and-azure-analysis-services-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/directquery-for-power-bi-datasets-and-azure-analysis-services-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T00:25:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-16-announcing-small-multiples-preview.md",
+      "title": "Announcing Small Multiples (preview)",
+      "excerpt": "This month, we&#8217;re releasing a preview version of the small multiples feature! In this blog post, we&#8217;ll be going over how to create and interact with small multiples now, its current limitations, and what our plans are for the feature moving forward. At the end, we will also include ways for",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-16-announcing-small-multiples-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-small-multiples-public-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-small-multiples-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T00:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-15-enhance-deployment-pipelines-creation-with-premium-per-user-license.md",
+      "title": "Enhance deployment pipelines creation with Premium per user license",
+      "excerpt": "The new &#8216;Premium per user&#8217; license enables more BI creators to start working with deployment pipelines, and it&#8217;s never been easier!\r\nRead more to learn how can you use the new license with deployment pipelines.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-15-enhance-deployment-pipelines-creation-with-premium-per-user-license/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/enhance-deployment-pipelines-creation-with-premium-per-user-license/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/enhance-deployment-pipelines-creation-with-premium-per-user-license/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-15T00:30:32-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-12-14-power-bi-desktop-gets-microsoft-information-protection-sensitivity-labels.md",
       "title": "Power BI Desktop gets Microsoft Information Protection sensitivity labels",
       "excerpt": "The new capability is now being introduced to Desktop, after coming to Power BI last year. This introduction continues with the addition of recent data protection capabilities brought to Power BI.",
@@ -1124,162 +1277,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-whats-new-in-power-query-amp-dataflows-november-2020.md",
-      "title": "What᾿s new in Power Query &amp; Dataflows – November 2020",
-      "excerpt": "We have added lots of new capabilities to Power Query Online &amp; Dataflows. This blog post provides a recap walkthrough of these new capabilities.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-12-whats-new-in-power-query-amp-dataflows-november-2020/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-power-query-dataflows-november-2020/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-power-query-dataflows-november-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T05:18:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power Query",
-        "Dataflows"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-power-bi-november-2020-feature-summary.md",
-      "title": "Power BI November 2020 Feature Summary",
-      "excerpt": "Our anomaly detection algorithm detects that there is an anomaly this month: Anomaly Detection is in preview! Also, we are announcing a preview of the new Field List and the Model View. We are adding a fan-favorite: the Visual Zoom Slider! In the Service, endorsements for datasets and dataflows are extended",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-12-power-bi-november-2020-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-november-2020-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-november-2020-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T01:06:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-anomaly-detection-preview.md",
-      "title": "Anomaly detection (preview)",
-      "excerpt": " Anomaly detection helps you enhance your line charts by automatically detecting anomalies in your time series data. It also provides explanations for the anomalies to help with root cause analysis.  With just a couple of clicks, you can easily find insights without slicing and dicing the data.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-12-anomaly-detection-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DT_tOas5YIo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

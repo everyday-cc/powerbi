@@ -2,6 +2,159 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-10-microsoft-announces-general-availability-of-power-bi-for-office-365.md",
+      "title": "Microsoft announces general availability of Power BI for Office 365",
+      "excerpt": "Microsoft’s Power BI service left its limited preview today, and it is now generally available for Office365 subscribers. Microsoft corporate VP of the data platform group Quentin Clark ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-10-microsoft-announces-general-availability-of-power-bi-for-office-365/index.json",
+      "webUrl": "https://sdtimes.com/excel/microsoft-announces-general-availability-of-power-bi-for-office-365/",
+      "originalUrl": "https://sdtimes.com/excel/microsoft-announces-general-availability-of-power-bi-for-office-365/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2017/06/imposition-300x205.png",
+          "width": 300,
+          "height": 205,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-09T16:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-07-announcing-power-bi-embedded-generation-2-preview.md",
+      "title": "Announcing Power BI Embedded Generation 2 (preview)",
+      "excerpt": "We are thrilled to announce that the second generation of Power BI Embedded, referred to as Embedded Gen 2, is available for its Azure subscribers to use during the preview period. All of the Power BI Embedded Gen 1 capabilities such as pausing and resuming the capacity, are preserved in Gen 2 and the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-07-announcing-power-bi-embedded-generation-2-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-embedded-generation-2-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-embedded-generation-2-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-07T15:37:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-best-practice-rules-to-improve-your-models-performance.md",
+      "title": "Best practice rules to improve your model᾿s performance",
+      "excerpt": "Want to improve the performance and design of your Power BI model? Run these newly published rules against your model to quickly identify areas of improvement!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-03-best-practice-rules-to-improve-your-models-performance/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-improve-your-models-performance/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/best-practice-rules-to-improve-your-models-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-03T01:00:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-01-29-paginated-reports-january-2021-feature-summary.md",
       "title": "Paginated Reports January 2021 Feature Summary",
       "excerpt": "Welcome to our very first update of 2021!  We have several exciting updates rolling out this month for paginated reports,  including  an improved editing and publishing experience in Power BI Report Builder, additional sample reports, Microsoft Dataverse connectivity and much more!  Read on to learn",
@@ -1124,159 +1277,6 @@
         "Power BI",
         "Dataflows",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-directquery-for-power-bi-datasets-and-azure-analysis-services-preview.md",
-      "title": "DirectQuery for Power BI datasets and Azure Analysis Services (preview)",
-      "excerpt": "In Nov 2018, we released composite models, which allow you to seamlessly add multiple DirectQuery sources and imported data to your models. We have heard your feedback that you would like to do this with sources you previously live connected to, like Power BI datasets and Azure Analysis Services sources.\r\n\r\nWe",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-16-directquery-for-power-bi-datasets-and-azure-analysis-services-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/directquery-for-power-bi-datasets-and-azure-analysis-services-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/directquery-for-power-bi-datasets-and-azure-analysis-services-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T00:25:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-announcing-small-multiples-preview.md",
-      "title": "Announcing Small Multiples (preview)",
-      "excerpt": "This month, we&#8217;re releasing a preview version of the small multiples feature! In this blog post, we&#8217;ll be going over how to create and interact with small multiples now, its current limitations, and what our plans are for the feature moving forward. At the end, we will also include ways for",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-16-announcing-small-multiples-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-small-multiples-public-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-small-multiples-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T00:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-15-enhance-deployment-pipelines-creation-with-premium-per-user-license.md",
-      "title": "Enhance deployment pipelines creation with Premium per user license",
-      "excerpt": "The new &#8216;Premium per user&#8217; license enables more BI creators to start working with deployment pipelines, and it&#8217;s never been easier!\r\nRead more to learn how can you use the new license with deployment pipelines.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-15-enhance-deployment-pipelines-creation-with-premium-per-user-license/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/enhance-deployment-pipelines-creation-with-premium-per-user-license/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/enhance-deployment-pipelines-creation-with-premium-per-user-license/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-15T00:30:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
