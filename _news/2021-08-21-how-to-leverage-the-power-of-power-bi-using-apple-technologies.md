@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-leverage-the-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:
