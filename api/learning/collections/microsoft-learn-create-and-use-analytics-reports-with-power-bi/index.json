@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 42074,
-        "average": 4.7694063
+        "count": 42079,
+        "average": 4.7694335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 20416,
-        "average": 4.716448
+        "count": 20419,
+        "average": 4.7164407
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -96,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 8861,
-        "average": 4.720009
+        "count": 8862,
+        "average": 4.720041
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -138,8 +138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 6731,
-        "average": 4.7654138
+        "count": 6735,
+        "average": 4.7654047
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -180,8 +180,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 5499,
-        "average": 4.7384977
+        "count": 5502,
+        "average": 4.7386403
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -222,8 +222,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 6168,
-        "average": 4.739462
+        "count": 6170,
+        "average": 4.7395463
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -240,7 +240,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 55,
+      "heat": 56,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/publish-and-share-with-power-bi-desktop-social.png",
