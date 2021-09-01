@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-20-announcing-personalize-visuals-general-availability-ga.md",
+      "title": "Announcing Personalize Visuals General Availability (GA)",
+      "excerpt": "Back in May, we released a public preview of a new personalize visuals experience. With this new capability, you can empower your end-users to explore and personalize visuals all within the consumption view of a report. For example, your end-user can change a measure, a dimension, or the visualization",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-20-announcing-personalize-visuals-general-availability-ga/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-personalize-visuals-general-availability-ga/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-personalize-visuals-general-availability-ga/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LveNuQqV5xk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T07:01:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-power-bi-october-2020-feature-summary.md",
       "title": "Power BI October 2020 Feature Summary",
       "excerpt": "Visuals, visuals, visuals. It is (almost) all about visuals this month with loads of new visuals and updates to existing visuals. Also, we are helping users getting started with the introduction of canvas watermarks. Power BI is getting a shiny new icon and we are adding a dismiss option to the Power",
@@ -1186,57 +1238,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-09-21T08:23:49-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-21-power-bi-at-microsoft-ignite-virtual-conference.md",
-      "title": "Power BI at Microsoft Ignite Virtual Conference",
-      "excerpt": "As has been the case this entire year due to these unprecedented circumstances, Microsoft Ignite is going virtual. Join us between September 22nd and 24th. \r\nIf you have not registered already, there’s still time so we hope you take a few minutes and Register Here.  Power BI will be featured prominently",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-21-power-bi-at-microsoft-ignite-virtual-conference/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-at-microsoft-ignite-virtual-conference/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-at-microsoft-ignite-virtual-conference/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5_MFGnLDUHU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-21T02:56:33-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

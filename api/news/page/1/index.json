@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-08-31-power-bi-and-excel-expanded-feature-availability-for-power-bi-free-license-users-coming-soon.md",
+      "title": "Power BI and Excel: Expanded Feature Availability for Power BI Free License Users (Coming Soon)",
+      "excerpt": "Expanded availability of Power BI and Excel features to Power BI Free license users",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-08-31-power-bi-and-excel-expanded-feature-availability-for-power-bi-free-license-users-coming-soon/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-and-excel-expanded-feature-availability-for-power-bi-free-license-users/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-and-excel-expanded-feature-availability-for-power-bi-free-license-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-31T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-power-bi-mobile-apps-now-support-goals.md",
       "title": "Power BI Mobile apps now support Goals!",
       "excerpt": "Goals in Power BI Mobile apps was Just released! Having Goals in your Power BI mobile app lets you monitor the health of your business directly from your smart phone, no matter where you are at.",
@@ -1226,58 +1277,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-behind-the-scenes-running-the-power-bi-service.md",
-      "title": "Behind the scenes: Running the Power BI service",
-      "excerpt": "I’m excited to share a new whitepaper that describes the Power BI team’s approach to maintaining a reliable, performant, and scalable service for our customers.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-22-behind-the-scenes-running-the-power-bi-service/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/behind-the-scenes-running-the-power-bi-service/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/behind-the-scenes-running-the-power-bi-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T00:00:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Service"
       ]
     }
   ],

@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-13-join-us-power-bi-instructor-led-training-24th-038-25th-of-february-2021-from-500-am-900-am-pst.md",
+      "title": "Join us! Power BI Instructor Led Training! 24th &#038; 25th of February, 2021 from 5:00 AM – 9:00 AM PST",
+      "excerpt": "This course covers key aspects of Power BI administration, including creating a Power BI tenant, managing access and permissions, resources and capacity, Premium capacity administration, broadening the reach – embedded, working with Data Gateway and best practices for successful Power BI administration.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-13-join-us-power-bi-instructor-led-training-24th-038-25th-of-february-2021-from-500-am-900-am-pst/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-instructor-led-training-24th-25th-of-february-2021-from-500-am-900-am-pst/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-instructor-led-training-24th-25th-of-february-2021-from-500-am-900-am-pst/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T16:04:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-microsoft-announces-general-availability-of-power-bi-for-office-365.md",
       "title": "Microsoft announces general availability of Power BI for Office 365",
       "excerpt": "Microsoft’s Power BI service left its limited preview today, and it is now generally available for Office365 subscribers. Microsoft corporate VP of the data platform group Quentin Clark ...",
@@ -1224,59 +1275,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-announcing-dataflows-power-automate-connector-public-preview.md",
-      "title": "Announcing Dataflows Power Automate Connector public preview",
-      "excerpt": "we’re excited to announce the Preview availability of the Power Automate Dataflow connector along with templates and sample scenarios you can get started with right away. The new connector provides a new way to react to dataflow events to take action on dataflows. Combined with other Power Platform Products",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-16-announcing-dataflows-power-automate-connector-public-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-dataflows-power-automate-connector-public-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-dataflows-power-automate-connector-public-preview/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/68YvRs49VZM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T00:54:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Dataflows",
-        "Power BI Desktop"
       ]
     }
   ],
