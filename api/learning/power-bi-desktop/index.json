@@ -167,8 +167,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 20441,
-        "average": 4.716452
+        "count": 20444,
+        "average": 4.7164936
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -510,8 +510,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 1066,
-            "average": 4.7082553
+            "count": 1067,
+            "average": 4.7085285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1239,8 +1239,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 1066,
-        "average": 4.7082553
+        "count": 1067,
+        "average": 4.7085285
       },
       "provider": {
         "name": "Microsoft Learn",
