@@ -762,8 +762,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2792,
-            "average": 4.8019342
+            "count": 2794,
+            "average": 4.802076
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -864,8 +864,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 2586,
-        "average": 4.6941223
+        "count": 2588,
+        "average": 4.6943583
       },
       "provider": {
         "name": "Microsoft Learn",
