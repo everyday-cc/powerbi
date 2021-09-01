@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-01-fortune-500-pharmaceutical-company-leverages-power-bi-and-valq-for-strategic-planning.md",
+      "title": "Fortune 500 Pharmaceutical Company Leverages Power BI and ValQ for Strategic Planning",
+      "excerpt": "A fortune 500 pharmaceutical company is using Power BI to revolutionize strategic planning. The company worked with Microsoft partner, Visual BI, to implement their ValQ capability. Read this customer story to learn more about the company&#8217;s solution. ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-09-01-fortune-500-pharmaceutical-company-leverages-power-bi-and-valq-for-strategic-planning/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/fortune-500-pharmaceutical-company-leverages-power-bi-and-valq-for-strategic-planning/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/fortune-500-pharmaceutical-company-leverages-power-bi-and-valq-for-strategic-planning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-31T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-08-31-power-bi-and-excel-expanded-feature-availability-for-power-bi-free-license-users-coming-soon.md",
       "title": "Power BI and Excel: Expanded Feature Availability for Power BI Free License Users (Coming Soon)",
       "excerpt": "Expanded availability of Power BI and Excel features to Power BI Free license users",
@@ -1203,57 +1254,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-07-26T09:33:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-visualizing-sharepoint-lists-now-available-to-all-users.md",
-      "title": "Visualizing SharePoint lists now available to all users",
-      "excerpt": "A couple of months ago, we launched a new Power BI integration for visualizing SharePoint lists for all Targeted release users. We’re now excited to announce that the experience has rolled out to Standard release users and is now accessible to everyone!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-22-visualizing-sharepoint-lists-now-available-to-all-users/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/visualizing-sharepoint-lists-now-available-to-all-users/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/visualizing-sharepoint-lists-now-available-to-all-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T07:20:17-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
