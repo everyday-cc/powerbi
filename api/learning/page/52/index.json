@@ -4,44 +4,6 @@
   "page": 52,
   "value": [
     {
-      "path": "_learning/videos/curbal-how-to-easily-sketch-your-power-bi-reports-with-your-remote-team-customers-stayhome.md",
-      "title": "How to easily sketch your Power BI reports with your remote team/ customers #StayHome",
-      "excerpt": "As a lot of us are working from home, and more and more meetings are online, how do we gather the requirements from our customers /colleagues for our power bi reports?  In this video I will show you one way to do it with tools you already have in your computer (most likely).   Unfortunately they deleted",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-easily-sketch-your-power-bi-reports-with-your-remote-team-customers-stayhome/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-easily-sketch-your-power-bi-reports-with-your-remote-team-customers-stayhome/",
-      "originalUrl": "https://youtube.com/watch?v=m6F-YBAXPAQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m6F-YBAXPAQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M46S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-07-06T07:03:24-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/m6F-YBAXPAQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-how-to-group-by-in-power-query-part-3-power-query-challenge.md",
       "title": "How to Group by in Power Query - Part 3: Power Query Challenge",
       "excerpt": "It is time for Power Query Challenge Part Three made by Daniel Dion.  What is this Power Query Challenge? https://www.youtube.com/watch?v=_R1rSdXkVDw  Source files: https://github.com/ruthpozuelo/PQChallenge  Part 1: https://www.youtube.com/watch?v=_LcT5sLwmiw Part 2: https://www.youtube.com/watch?v=6Yj09khxr4Q",
@@ -78,6 +40,44 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-how-to-import-csv-files-from-github-in-power-bi-and-avoid-hard-coded-columns.md",
+      "title": "How to import csv files from github in Power BI and avoid hard coded columns",
+      "excerpt": "In this video I will show you how to get csv files from Github into Power BI and how to avoid hard coding columns when importing csv files.  The file is available for download in the download center - Community downloads. Please, use this dataset responsibly!! Here you can download all the pbix files:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-import-csv-files-from-github-in-power-bi-and-avoid-hard-coded-columns/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-import-csv-files-from-github-in-power-bi-and-avoid-hard-coded-columns/",
+      "originalUrl": "https://youtube.com/watch?v=4vfAz7XDuH0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4vfAz7XDuH0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M41S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-18T06:11:48-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4vfAz7XDuH0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {

@@ -179,23 +179,31 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-how-to-export-filtered-data-to-excelcsv-from-power-bi-button-using-power-automate.md",
-      "title": "How to Export filtered data to Excel/CSV from Power BI button using Power Automate?",
-      "excerpt": "Welcome to Power BI and Power Automate Real Life Use Case and Scenario Series. You are watching the second episode of this series. Sometimes, there is a need where we need to export filtered datasets from Power BI using the button. Then how can we do that? How we can export Filtered Dataset from Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-how-to-export-filtered-data-to-excelcsv-from-power-bi-button-using-power-automate/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-how-to-export-filtered-data-to-excelcsv-from-power-bi-button-using-power-automate/",
-      "originalUrl": "https://youtube.com/watch?v=yqbg-6Yo44Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yqbg-6Yo44Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M57S",
+      "path": "_learning/videos/guy-in-a-cube-create-buckets-or-groups-with-power-query-in-power-bi.md",
+      "title": "Create Buckets or Groups with Power Query in Power BI",
+      "excerpt": "There are different ways you can create buckets or groups for your data in Power BI. Patrick shows you how this can be done with Power Query along with a few other options.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level?",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-create-buckets-or-groups-with-power-query-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-create-buckets-or-groups-with-power-query-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=D1LO8syugMA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D1LO8syugMA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M59S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-07-04T21:25:10-07:00",
-      "heat": 139,
+      "publishedDateTime": "2021-07-08T08:00:04-07:00",
+      "heat": 140,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/yqbg-6Yo44Y/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/D1LO8syugMA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -205,7 +213,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -247,25 +256,25 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-create-a-table-in-power-bi-using-enter-data-and-how-to-edit-it.md",
-      "title": "Create a Table in Power BI using Enter Data and How to Edit it",
-      "excerpt": "Sometimes you just need a new table with a few rows or columns to be added to your data model. One option to create that table is to use the Enter Data option in Power BI Desktop. In this article, I’ll explain how you can use it, and also; more important: How to edit the data of that table after creating",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-create-a-table-in-power-bi-using-enter-data-and-how-to-edit-it/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-create-a-table-in-power-bi-using-enter-data-and-how-to-edit-it/",
-      "originalUrl": "https://youtube.com/watch?v=i6GAKTU5Xe0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i6GAKTU5Xe0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M24S",
+      "path": "_learning/videos/radacad-row-filtering-in-power-bi-and-power-query-remove-blank-rows-vs-remove-empty.md",
+      "title": "Row Filtering in Power BI and Power Query   Remove Blank Rows Vs Remove Empty",
+      "excerpt": "When you have blank values in your data table, you can use Power Query transformations to remove the row with blank values. There are two transformations that are used very often for this purpose: Remove Empty and Remove blank rows. These two transformations are not exactly the same. In this article,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-row-filtering-in-power-bi-and-power-query-remove-blank-rows-vs-remove-empty/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-row-filtering-in-power-bi-and-power-query-remove-blank-rows-vs-remove-empty/",
+      "originalUrl": "https://youtube.com/watch?v=1I_KBg6sAF4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1I_KBg6sAF4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M40S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-06-13T19:21:53-07:00",
-      "heat": 139,
+      "publishedDateTime": "2021-06-14T15:40:53-07:00",
+      "heat": 137,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/i6GAKTU5Xe0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/1I_KBg6sAF4/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -273,35 +282,28 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-digging-into-modern-tooltips-with-power-bi.md",
-      "title": "Digging into Modern Tooltips with Power BI",
-      "excerpt": "Tooltips were updated in a recent Power BI Desktop release. Patrick explores the new modern tooltips to bring you up to speed.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses available to help",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-digging-into-modern-tooltips-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-digging-into-modern-tooltips-with-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=aKNVLXSHRNY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aKNVLXSHRNY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M5S",
+      "path": "_learning/videos/radacad-basics-of-dax-expression-in-power-bi.md",
+      "title": "Basics of DAX Expression in Power BI",
+      "excerpt": "There are a lot of resources about how to use each function. However, you always need to start with learning how the expression language works itself. You need to learn how to reference columns, and tables. what operators can be used, and what are the very simple basics of writing a DAX expression. In",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-basics-of-dax-expression-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-basics-of-dax-expression-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=GVAzp-YICnQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GVAzp-YICnQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M46S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-06-23T08:00:00-07:00",
-      "heat": 135,
+      "publishedDateTime": "2021-07-01T22:05:36-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/aKNVLXSHRNY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/GVAzp-YICnQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -311,7 +313,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -687,8 +690,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 24288,
-            "average": 4.796072
+            "count": 24292,
+            "average": 4.796106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -729,8 +732,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 42199,
-            "average": 4.769402
+            "count": 42203,
+            "average": 4.769424
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -789,8 +792,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 42199,
-        "average": 4.769402
+        "count": 42203,
+        "average": 4.769424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -985,8 +988,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 24288,
-        "average": 4.796072
+        "count": 24292,
+        "average": 4.796106
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1118,8 +1121,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 42199,
-            "average": 4.769402
+            "count": 42203,
+            "average": 4.769424
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1343,8 +1346,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 23053,
-        "average": 4.7291894
+        "count": 23058,
+        "average": 4.729248
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1492,8 +1495,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 13012,
-        "average": 4.7561483
+        "count": 13016,
+        "average": 4.7559156
       },
       "provider": {
         "name": "Microsoft Learn",
