@@ -1,28 +1,24 @@
 ---
 category: news
 title: "transcosmos wholly-owned subsidiary, transcosmos China becomes a Microsoft Power BI Partner"
-excerpt: "PRNewswire-PRWeb/ -- transcosmos inc. is proud to announce that Shanghai transcosmos Marketing Services Co., Ltd. (Headquarters: Shanghai, China; CEO: Eijiro Yamashita; transcosmos China), its wholly-"
+excerpt: "PRWeb/ -- transcosmos inc. is proud to announce that Shanghai transcosmos Marketing Services Co., Ltd. (Headquarters: Shanghai, China;"
 publishedDateTime: 2021-09-03T07:05:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/transcosmos-wholly-owned-subsidiary-transcosmos-china-becomes-a-microsoft-power-bi-partner/article_3fbbc9f1-51bf-5c55-9934-1d17326424a0.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/transcosmos-wholly-owned-subsidiary-transcosmos-china-becomes-a-microsoft-power-bi-partner/article_3fbbc9f1-51bf-5c55-9934-1d17326424a0.html"
+originalUrl: "https://www.benzinga.com/pressreleases/21/09/n22793684/transcosmos-wholly-owned-subsidiary-transcosmos-china-becomes-a-microsoft-power-bi-partner"
+webUrl: "https://www.benzinga.com/pressreleases/21/09/n22793684/transcosmos-wholly-owned-subsidiary-transcosmos-china-becomes-a-microsoft-power-bi-partner"
+ampWebUrl: "https://www.benzinga.com/amp/content/22793684"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22793684"
 type: article
 quality: 27
 heat: 27
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Power BI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "6H9kVJYbsAqjORmXlerlMQoDOZCAN7AfdIYVCGkpQqG8T9I38QixtG3D/hQdtjilVcDjU+mpGJLBaCyGX1VDnGArYwon01GDXUZv83Fhk83em8+Jv5Ik7QH0TD+kubyy6J7kBF0s8hkzfxIAoifD8ecSq/Q8O3UJNlEG82ryWTYfBL16rfydBXbOaH0aDi+DnPsNTi+kcgWt2UZPDD9C26r04rwXynAcuPM03ro6yFqF0CdmGVxWh7MLHR/YuOmZuR56jozo0whnW4nXWFY0Nr5JL9FTIijsR18tLDRZ0dMOKpY6niZ9m7NqJ2vpmpRsjqeL/TSPgr/AVds0JIDhs29Gj/uKTeAs4zpgL/YE3U4=;XjYrYYZvsiYOzrlXBnzn4g=="
+secured: "cdcLCn1plAIuFWlA7Qly8e/Opd1TCeWzd4Mz83IcYawn+DXp3aZjABbfGk0XAL1mLMDbRoQB/peOQy+O0VrlAyPkmteCasYkDRGmcq+wf9DPs8B+Vis6axq8zkNVxWe31ua+5hcY9v9NVYICB/JovHIcC6IaINkAe/ec6/cc/rMK7QWFMerGS973ttg2FV2+Nt+qqTdevWgxFI3r5ZbKSJ9HHctOqgq2SChEHzBXHBild4d+vbxE/+HiSBx/V+KFPRVCRiFojkQkDR3mymy/sQZfTM3nh2tF9KEE2GFw02ud+YMqFg3Uj3HlbWXzUcWoFvLaD/FCYVfL03RDRK7wx0qiHKbbJdT/vGVXdyAuRwY=;B3oBs9mx1qyVtg/WKT71vg=="
 ---
 
