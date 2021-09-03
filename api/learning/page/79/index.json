@@ -4,54 +4,23 @@
   "page": 79,
   "value": [
     {
-      "path": "_learning/videos/radacad-know-your-data-better-by-column-profiling-in-power-bi-using-power-query.md",
-      "title": "Know Your Data Better by Column Profiling In Power BI using Power Query",
-      "excerpt": "An essential step towards a better analytics solution is to know your data. You have to know your data to be able to determine key columns, to learn what transformations need to be done, and etc. Power Query provides a very useful way of knowing your data in Power BI. Power BI has features for column",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-know-your-data-better-by-column-profiling-in-power-bi-using-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-know-your-data-better-by-column-profiling-in-power-bi-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=r3B2mcewXSE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r3B2mcewXSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M44S",
+      "path": "_learning/videos/radacad-offset-columns-for-the-date-table-flexibility-in-relative-date-filtering-for-power-bi.md",
+      "title": "Offset Columns for the Date Table   Flexibility in Relative Date Filtering for Power BI",
+      "excerpt": "I have written previously provided an all-in-one script for the date dimension, and also wrote an article about the relative date slicer. However, sometimes you cannot use the relative date slicer (timezone issue can be one example), adding offset columns help to overcome that challenge, and still be",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-offset-columns-for-the-date-table-flexibility-in-relative-date-filtering-for-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-offset-columns-for-the-date-table-flexibility-in-relative-date-filtering-for-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=4-hhO5jXPEk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4-hhO5jXPEk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M55S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-07-26T20:29:10-07:00",
+      "publishedDateTime": "2020-05-07T10:19:32-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/r3B2mcewXSE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-microsoft-regional-directors-power-bi-report.md",
-      "title": "Microsoft Regional Director's Power BI Report",
-      "excerpt": "Over the last week of December 2019, I've had a bit of time to play with some free available datasets over the internet. One of them was the SQL Saturday data which I built a Power BI report for it, and another one is the Microsoft Regional Director's data. Let's see what I built for that. here is the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-microsoft-regional-directors-power-bi-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-microsoft-regional-directors-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=VyfAKMVfCBo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VyfAKMVfCBo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M27S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-06T23:28:49-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VyfAKMVfCBo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4-hhO5jXPEk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -62,37 +31,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-new-video-course-dax-and-calculations-in-power-bi.md",
-      "title": "New Video Course   DAX and Calculations in Power BI",
-      "excerpt": "We are pleased to let you know that our DAX and Calculations in Power BI video course is now available. This course, like many other video courses we offer, is part of the Power BI from Rookie to Rock Star training. This is a course to consider if you need to create calculations for adding more analytics",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-new-video-course-dax-and-calculations-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-new-video-course-dax-and-calculations-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=bOO451iyCGg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bOO451iyCGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M56S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-08T19:41:39-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bOO451iyCGg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     },
     {
@@ -326,6 +264,37 @@
           "url": "https://i.ytimg.com/vi/MI7WIwBFhU0/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-dax-relatedtable-function-get-the-subtable-related-to-the-current-row.md",
+      "title": "Power BI DAX RelatedTable Function   Get the subtable related to the current row",
+      "excerpt": "There are multiple functions that can help when you work with tables that are connected through relationships. One of these functions is Relatedtable. This function gives you the subtable from the other table for all the rows related to the current row. For example, all sales transactions (from the Sales",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-dax-relatedtable-function-get-the-subtable-related-to-the-current-row/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-dax-relatedtable-function-get-the-subtable-related-to-the-current-row/",
+      "originalUrl": "https://youtube.com/watch?v=ZrhnliV7Jrw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZrhnliV7Jrw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M16S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-06-15T14:49:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZrhnliV7Jrw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -908,6 +877,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-searching-for-a-column-in-the-entire-data-source-using-table-columnnames-power-query-function-of-pow.md",
+      "title": "Searching for a Column in the Entire Data Source Using Table ColumnNames Power Query function of Pow",
+      "excerpt": "Link to the blog post with full details of step by step example: http://radacad.com/search-for-a-column-in-the-entire-database-with-table-columnnames-in-power-query-and-power-bi",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-searching-for-a-column-in-the-entire-data-source-using-table-columnnames-power-query-function-of-pow/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-searching-for-a-column-in-the-entire-data-source-using-table-columnnames-power-query-function-of-pow/",
+      "originalUrl": "https://youtube.com/watch?v=ZvqeUg-HfuY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZvqeUg-HfuY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M22S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2018-07-09T21:08:21-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZvqeUg-HfuY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     }
   ],

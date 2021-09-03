@@ -4,6 +4,84 @@
   "page": 16,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-secure-embed-dax-variables-ms-flow-and-more-january-14-2019.md",
+      "title": "Power BI Secure Embed, DAX Variables, MS Flow and more... (January 14, 2019)",
+      "excerpt": "Whitelisting Azure IP addresses for Key Vault (@UOldfield) http://blogs.adatis.co.uk/ustoldfield/post/Whitelisting-Azure-IP-addresses-for-Key-Vault  The Necessary Extras That Aren’t Shown in Your Azure BI Architecture Diagram (@mmarie) https://datasavvy.me/2019/01/11/the-necessary-extras-that-arent-shown-in-your-azure-bi-architecture-diagram/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-secure-embed-dax-variables-ms-flow-and-more-january-14-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-secure-embed-dax-variables-ms-flow-and-more-january-14-2019/",
+      "originalUrl": "https://youtube.com/watch?v=49q1DEBi7pQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/49q1DEBi7pQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M5S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-13T14:09:22-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/49q1DEBi7pQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-sudoku-custom-fonts-dax-and-more-june-25-2018.md",
+      "title": "Power BI Sudoku, Custom fonts, DAX and more... (June 25, 2018)",
+      "excerpt": "Fun with DAX – Sudoku (@PhilSeamark) http://radacad.com/fun-with-dax-sudoku  Custom Web Fonts and Icons in Power BI (@dataveld) https://dataveld.com/2018/06/18/custom-web-fonts-and-icons-in-power-bi/  POWER BI REPORT SERVER DEVOPS (Trisha McCormick) https://www.blue-granite.com/blog/power-bi-report-server-devops",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-sudoku-custom-fonts-dax-and-more-june-25-2018/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-sudoku-custom-fonts-dax-and-more-june-25-2018/",
+      "originalUrl": "https://youtube.com/watch?v=1vVOAmAtUaM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1vVOAmAtUaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M5S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-06-25T06:44:02-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1vVOAmAtUaM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-updates-cds-a-dax-power-query-and-more.md",
       "title": "Power BI updates, CDS-A, DAX, Power Query and more...",
       "excerpt": "Tour of the Power BI Solution Advisor (@paul_turley) https://sqlserverbi.blog/2018/03/18/tour-of-the-power-bi-solution-advisor/  Capturing Power BI queries using DAX Studio (@marcorus) https://www.sqlbi.com/articles/capturing-power-bi-queries-using-dax-studio/  Improving The Performance Of Aggregation",
@@ -200,45 +278,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-tracing-your-dax-queries-in-power-bi.md",
-      "title": "Tracing your DAX queries in Power BI",
-      "excerpt": "Learn how you can trace your DAX queries when trying to troubleshoot or optimize Power BI reports and datasets. There are a few options and Adam walks you through them.  DAX Studio: https://daxstudio.org/  SQL Server Management Studio: https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-tracing-your-dax-queries-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-tracing-your-dax-queries-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=P0_5v2WIGcA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P0_5v2WIGcA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M12S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-06-10T08:00:09-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/P0_5v2WIGcA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-dax-many-to-many-relationships-talk-power-bi-live-subscribe-join-sept-14-2018.md",
       "title": "DAX Many to Many Relationships 🔴Talk Power BI LIVE (Subscribe & Join) Sept 14, 2018",
       "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join https://www.facebook.com/groups/TalkP... to continue the conversation  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power BI. So much so that I have",
@@ -287,37 +326,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fZnp6FQt8Dc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-learn-dax-by-studying-common-problems-encountered-by-real-world-users-talk-power-bi-live.md",
-      "title": "Learn DAX by Studying Common Problems Encountered by Real-World Users 🔴Talk Power BI LIVE",
-      "excerpt": "We will learn the DAX programming language by examining several issues frequently reported by DAX users through PowerBI Desktop frowns.  Why is this interesting?  DAX training has consistently been one of the top asks from Power BI users. In this TalkPowerBI session, Jeffrey Wang is going to show you",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-learn-dax-by-studying-common-problems-encountered-by-real-world-users-talk-power-bi-live/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-learn-dax-by-studying-common-problems-encountered-by-real-world-users-talk-power-bi-live/",
-      "originalUrl": "https://youtube.com/watch?v=WSfc2hY1_dQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WSfc2hY1_dQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H11M57S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-03-27T10:48:53-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WSfc2hY1_dQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -673,37 +681,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-building-a-virtual-relationship-in-power-bi-basics-of-treatas-dax-function.md",
-      "title": "Building a Virtual Relationship in Power BI   Basics of TREATAS DAX Function",
-      "excerpt": "TreatAs is an interesting function with multiple use cases in Power BI. I thought it is good to explain it in a set of videos, the first one here is about what the TreatAs function is and how it can help to build filters and a virtual relationship between two tables. Let's see how you can use this function.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-building-a-virtual-relationship-in-power-bi-basics-of-treatas-dax-function/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-building-a-virtual-relationship-in-power-bi-basics-of-treatas-dax-function/",
-      "originalUrl": "https://youtube.com/watch?v=YCJjeD8wz5c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YCJjeD8wz5c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M1S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-03-03T21:20:28-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YCJjeD8wz5c/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-caution-when-using-variables-in-dax-and-power-bi.md",
       "title": "Caution When Using Variables in DAX and Power BI",
       "excerpt": "I have written another blog post about variables previously and explained how useful variables are. Variables in DAX are helpful in both readability and also the performance of your code. However, there are scenarios that you have to be careful when you use variables. Because variables are stored, they",
@@ -783,68 +760,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ulT8HtF4gT0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-dynamic-banding-or-grouping-in-power-bi-using-dax-measures-choose-the-count-of-bins.md",
-      "title": "Dynamic Banding or Grouping in Power BI   Using DAX Measures   Choose the Count of Bins",
-      "excerpt": "Banding (or binning or grouping) is a scenario that can be implemented both statically and dynamically in Power BI. Dynamic banding means selecting the bin (or band) configuration, and the banding changes based on the user selection of the slicer. Imagine that we have a count of customers by their age",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dynamic-banding-or-grouping-in-power-bi-using-dax-measures-choose-the-count-of-bins/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dynamic-banding-or-grouping-in-power-bi-using-dax-measures-choose-the-count-of-bins/",
-      "originalUrl": "https://youtube.com/watch?v=LaBmDaf_PPM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LaBmDaf_PPM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M50S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-03-08T21:33:31-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LaBmDaf_PPM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-dynamic-banding-or-grouping-in-power-bi-using-dax-measures-choose-the-size-of-bins.md",
-      "title": "Dynamic Banding or Grouping in Power BI – Using DAX Measures – Choose the Size of Bins",
-      "excerpt": "In the previous video, I explained how to create dynamic bins by choosing the count of bins in a slicer in the Power BI report. In this video, I'll explain, how you can do it the other way around, which is by selecting the size of the bin, you will have bins and buckets dynamically generated. Download",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dynamic-banding-or-grouping-in-power-bi-using-dax-measures-choose-the-size-of-bins/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dynamic-banding-or-grouping-in-power-bi-using-dax-measures-choose-the-size-of-bins/",
-      "originalUrl": "https://youtube.com/watch?v=cbxVCa5lAcw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cbxVCa5lAcw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M36S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-03-09T20:29:22-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cbxVCa5lAcw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -969,6 +884,99 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/MI7WIwBFhU0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-dax-relatedtable-function-get-the-subtable-related-to-the-current-row.md",
+      "title": "Power BI DAX RelatedTable Function   Get the subtable related to the current row",
+      "excerpt": "There are multiple functions that can help when you work with tables that are connected through relationships. One of these functions is Relatedtable. This function gives you the subtable from the other table for all the rows related to the current row. For example, all sales transactions (from the Sales",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-dax-relatedtable-function-get-the-subtable-related-to-the-current-row/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-dax-relatedtable-function-get-the-subtable-related-to-the-current-row/",
+      "originalUrl": "https://youtube.com/watch?v=ZrhnliV7Jrw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZrhnliV7Jrw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M16S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-06-15T14:49:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZrhnliV7Jrw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-stop-dax-cumulative-total-calculation-in-power-bi.md",
+      "title": "Stop DAX Cumulative Total Calculation in Power BI",
+      "excerpt": "Did it happen to you that you have calculated a cumulative total (such as running total, or year to date, etc) either using the quick measures or by writing the DAX expression yourself, and then realizing that the calculation happens even for the periods without any real data? For example, you want to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-stop-dax-cumulative-total-calculation-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-stop-dax-cumulative-total-calculation-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=N14CNliJqKM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N14CNliJqKM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M13S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-09-02T15:28:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N14CNliJqKM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-subscription-pattern-in-power-bi-dax-measure-for-active-subscribers-or-open-tickets-for-all-dates.md",
+      "title": "Subscription Pattern in Power BI   DAX Measure for Active Subscribers or Open Tickets For All Dates",
+      "excerpt": "One of the common patterns of a data model is the subscription pattern. In this pattern, we have subscriptions (or tickets, or issues, or whatever else you want to call it) open date and close date. The way that this data is stored in a table makes it a bit challenging to get informative insight out",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-subscription-pattern-in-power-bi-dax-measure-for-active-subscribers-or-open-tickets-for-all-dates/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-subscription-pattern-in-power-bi-dax-measure-for-active-subscribers-or-open-tickets-for-all-dates/",
+      "originalUrl": "https://youtube.com/watch?v=Xf9BDd3llpI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xf9BDd3llpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M46S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-03-12T18:46:17-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Xf9BDd3llpI/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true

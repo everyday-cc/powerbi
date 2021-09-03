@@ -4,6 +4,36 @@
   "page": 74,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-aug-17-2018.md",
+      "title": "🔴 Talk Power BI LIVE (Subscribe & Join) Aug 17, 2018",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join https://www.facebook.com/groups/TalkPowerBI to continue the conversation  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power BI. So much so that I",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-aug-17-2018/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-aug-17-2018/",
+      "originalUrl": "https://youtube.com/watch?v=l3j-6_X8RFQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l3j-6_X8RFQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H28M19S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-08-10T13:37:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l3j-6_X8RFQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-august-10-2018.md",
       "title": "🔴 Talk Power BI LIVE (Subscribe & Join) August 10, 2018",
       "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join https://www.facebook.com/groups/TalkPowerBI to continue the conversation  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power BI. So much so that I",
@@ -861,36 +891,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Ck9hHdMWdGw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-march-9-2018.md",
-      "title": "🔴 Talk Power BI LIVE (Subscribe & Join) March 9, 2018",
-      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join https://www.facebook.com/groups/TalkPowerBI to continue the conversation  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power BI. So much so that I",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-march-9-2018/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-march-9-2018/",
-      "originalUrl": "https://youtube.com/watch?v=lrhk5aaCerA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lrhk5aaCerA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H37M51S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-03-01T09:04:59-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lrhk5aaCerA/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true

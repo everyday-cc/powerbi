@@ -576,44 +576,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-omg-a-cpu-spike-on-my-power-bi-premium-capacity-what-now.md",
-      "title": "OMG a CPU Spike on my Power BI Premium capacity! What now???",
-      "excerpt": "You notice a CPU spike on your Power BI Premium capacity. OMG what do you do?!? Calm down, we tell you what to consider.  Optimizing Premium capacities: https://docs.microsoft.com/power-bi/admin/service-premium-capacity-optimize  📢 Become a member: https://guyinacu.be/membership   *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-omg-a-cpu-spike-on-my-power-bi-premium-capacity-what-now/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-omg-a-cpu-spike-on-my-power-bi-premium-capacity-what-now/",
-      "originalUrl": "https://youtube.com/watch?v=Im2HTkG-J7M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Im2HTkG-J7M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M59S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-07-07T08:00:06-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Im2HTkG-J7M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-on-premises-data-gateway-with-power-bi-spud-trooper.md",
       "title": "On-premises Data Gateway with Power BI + Spud Trooper",
       "excerpt": "I look at the new On-Premises Data Gateway and explain what has changed. I talk about it's use with PowerApps, Microsoft Flow and Logic Apps as well. Spud Trooper also joins in the discussion!   On-premises data gateway https://powerbi.microsoft.com/en-us/documentation/powerbi-gateway-onprem/  On-premises",
@@ -1143,6 +1105,45 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-case-of-the-unexplained-date-lastdate-in-dax.md",
+      "title": "Power BI: Case of the unexplained date (LastDate in DAX)",
+      "excerpt": "Adam looks at why the LastDate DAX function is returning the wrong date within Power BI Desktop. Breaking down a twitter conversation.  Download files used in video: https://guyinacu.be/unexplaineddatesample   Twitter thread: https://twitter.com/dhawalmehta/status/1183750809646972929  Marco's Blog: https://www.sqlbi.com/articles/semi-additive-measures-in-dax/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-case-of-the-unexplained-date-lastdate-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-case-of-the-unexplained-date-lastdate-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=ojEtUUlQrFM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ojEtUUlQrFM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M5S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-17T06:55:11-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ojEtUUlQrFM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     }
   ],

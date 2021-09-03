@@ -4,68 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_learning/videos/radacad-stop-dax-cumulative-total-calculation-in-power-bi.md",
-      "title": "Stop DAX Cumulative Total Calculation in Power BI",
-      "excerpt": "Did it happen to you that you have calculated a cumulative total (such as running total, or year to date, etc) either using the quick measures or by writing the DAX expression yourself, and then realizing that the calculation happens even for the periods without any real data? For example, you want to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-stop-dax-cumulative-total-calculation-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-stop-dax-cumulative-total-calculation-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=N14CNliJqKM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N14CNliJqKM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M13S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-09-02T15:28:07-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/N14CNliJqKM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-subscription-pattern-in-power-bi-dax-measure-for-active-subscribers-or-open-tickets-for-all-dates.md",
-      "title": "Subscription Pattern in Power BI   DAX Measure for Active Subscribers or Open Tickets For All Dates",
-      "excerpt": "One of the common patterns of a data model is the subscription pattern. In this pattern, we have subscriptions (or tickets, or issues, or whatever else you want to call it) open date and close date. The way that this data is stored in a table makes it a bit challenging to get informative insight out",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-subscription-pattern-in-power-bi-dax-measure-for-active-subscribers-or-open-tickets-for-all-dates/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-subscription-pattern-in-power-bi-dax-measure-for-active-subscribers-or-open-tickets-for-all-dates/",
-      "originalUrl": "https://youtube.com/watch?v=Xf9BDd3llpI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xf9BDd3llpI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M46S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-03-12T18:46:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Xf9BDd3llpI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-writing-calculations-on-a-real-time-streaming-power-bi-dataset-using-dax-measures.md",
       "title": "Writing calculations on a real time streaming Power BI dataset using DAX measures",
       "excerpt": "In the previous article and video, I explained a method that you can use to have real-time calculations in a Power BI streaming dataset. The calculations done that way are limited though because it is using the Q&A feature of Power BI. If you are after a complex calculation then DAX can definitely help.",
@@ -409,14 +347,14 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-letter-case-sensitivity-in-dax-power-bi-and-analysis-services.md",
-      "title": "Letter case sensitivity in DAX, Power BI and Analysis Services",
-      "excerpt": "Power BI and Analysis Services are case-insensitive by default. Lowercase letters are identical to uppercase letters. This is mostly a good choice, but it also comes with unexpected consequences. In this video, we run through a set of queries to understand what to be aware of when working with a mixture",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-letter-case-sensitivity-in-dax-power-bi-and-analysis-services/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-letter-case-sensitivity-in-dax-power-bi-and-analysis-services/",
-      "originalUrl": "https://youtube.com/watch?v=xnKWYKBuW0E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xnKWYKBuW0E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M28S",
+      "path": "_learning/videos/sqlbi-introducing-define-column-in-dax-queries.md",
+      "title": "Introducing DEFINE COLUMN in DAX queries",
+      "excerpt": "Learn the syntax and the use cases of the DEFINE COLUMN statement in DAX. Article and download: https://sql.bi/696234/?aff=yt This syntax has been introduced in DAX since December 2020 and can be used in DAX queries only.  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-define-column-in-dax-queries/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-define-column-in-dax-queries/",
+      "originalUrl": "https://youtube.com/watch?v=wBs0p7kPElU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wBs0p7kPElU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M32S",
       "provider": {
         "name": "SQLBI",
         "domain": "sqlbi.com",
@@ -429,11 +367,50 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-16T03:00:30-08:00",
+      "publishedDateTime": "2021-01-18T12:30:18-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/xnKWYKBuW0E/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wBs0p7kPElU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-mark-as-date-table-in-power-bi.md",
+      "title": "Mark as Date Table in Power BI",
+      "excerpt": "Tabular models (including Power BI) require marking the Date table as a date table to get appropriate results with time intelligence calculations. This video explains why this setting is required. Article and download: https://sql.bi/670749",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-mark-as-date-table-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-mark-as-date-table-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=hrhEjg9yYvE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hrhEjg9yYvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M33S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-08-08T01:34:41-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hrhEjg9yYvE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -668,6 +645,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PF-8sRNxuR0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-year-to-date-filtering-weekdays-in-dax.md",
+      "title": "Year-to-date filtering weekdays in DAX",
+      "excerpt": "Time intelligence functions oftentimes hide an automatic ALL statement meant to make time intelligence calculations easier. This video describes this behavior and what to do in case it ends up breaking your calculation. Article and download: https://sql.bi/123591",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-year-to-date-filtering-weekdays-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-year-to-date-filtering-weekdays-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=JS-K2faCiCc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JS-K2faCiCc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M10S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-08T03:00:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JS-K2faCiCc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -4,37 +4,6 @@
   "page": 80,
   "value": [
     {
-      "path": "_learning/videos/radacad-searching-for-a-column-in-the-entire-data-source-using-table-columnnames-power-query-function-of-pow.md",
-      "title": "Searching for a Column in the Entire Data Source Using Table ColumnNames Power Query function of Pow",
-      "excerpt": "Link to the blog post with full details of step by step example: http://radacad.com/search-for-a-column-in-the-entire-database-with-table-columnnames-in-power-query-and-power-bi",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-searching-for-a-column-in-the-entire-data-source-using-table-columnnames-power-query-function-of-pow/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-searching-for-a-column-in-the-entire-data-source-using-table-columnnames-power-query-function-of-pow/",
-      "originalUrl": "https://youtube.com/watch?v=ZvqeUg-HfuY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZvqeUg-HfuY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M22S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2018-07-09T21:08:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZvqeUg-HfuY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-secure-the-sensitive-data-in-power-bi-data-masking-better-with-row-level-security.md",
       "title": "Secure the Sensitive Data in Power BI   Data Masking better with Row Level Security",
       "excerpt": "In my previous article/video, I explained how you can hide sensitive data from the user's view. The method I explained there is a simple method, however, for a specific type of user. If you have users who are using Power BI Desktop to create reports on top of your model, and they are going to create",
@@ -675,44 +644,6 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-divide-performance.md",
-      "title": "DIVIDE Performance",
-      "excerpt": "The DIVIDE function in DAX is usually faster to avoid division-by-zero errors than the simple division operator. However, there are exceptions to this rule, described in this video through simple performance analysis.\r Article and download: https://sql.bi/15381?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-divide-performance/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-divide-performance/",
-      "originalUrl": "https://youtube.com/watch?v=9dz--8bGUEI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9dz--8bGUEI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M42S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-21T11:13:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9dz--8bGUEI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-finding-the-slowest-measure-in-a-dax-query.md",
       "title": "Finding the slowest measure in a DAX query",
       "excerpt": "Use DAX Studio to find the slowest measure in a DAX query produced by a Power BI report. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
@@ -945,6 +876,45 @@
       ]
     },
     {
+      "path": "_learning/videos/sqlbi-introducing-define-column-in-dax-queries.md",
+      "title": "Introducing DEFINE COLUMN in DAX queries",
+      "excerpt": "Learn the syntax and the use cases of the DEFINE COLUMN statement in DAX. Article and download: https://sql.bi/696234/?aff=yt This syntax has been introduced in DAX since December 2020 and can be used in DAX queries only.  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-define-column-in-dax-queries/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-define-column-in-dax-queries/",
+      "originalUrl": "https://youtube.com/watch?v=wBs0p7kPElU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wBs0p7kPElU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M32S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-18T12:30:18-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wBs0p7kPElU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-kpi-in-tabular-models-for-power-bi-and-excel.md",
       "title": "KPI in Tabular models for Power BI and Excel",
       "excerpt": "Learn the KPI settings needed to get the best result using Power BI and Excel as clients. Article and download: https://sql.bi/681318?aff=yt Introduction to KPI in Power BI Desktop models:  - video: https://youtu.be/xxh60Sx83zw - article: https://sql.bi/673658?aff=yt",
@@ -983,14 +953,14 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-letter-case-sensitivity-in-dax-power-bi-and-analysis-services.md",
-      "title": "Letter case sensitivity in DAX, Power BI and Analysis Services",
-      "excerpt": "Power BI and Analysis Services are case-insensitive by default. Lowercase letters are identical to uppercase letters. This is mostly a good choice, but it also comes with unexpected consequences. In this video, we run through a set of queries to understand what to be aware of when working with a mixture",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-letter-case-sensitivity-in-dax-power-bi-and-analysis-services/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-letter-case-sensitivity-in-dax-power-bi-and-analysis-services/",
-      "originalUrl": "https://youtube.com/watch?v=xnKWYKBuW0E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xnKWYKBuW0E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M28S",
+      "path": "_learning/videos/sqlbi-mark-as-date-table-in-power-bi.md",
+      "title": "Mark as Date Table in Power BI",
+      "excerpt": "Tabular models (including Power BI) require marking the Date table as a date table to get appropriate results with time intelligence calculations. This video explains why this setting is required. Article and download: https://sql.bi/670749",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-mark-as-date-table-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-mark-as-date-table-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=hrhEjg9yYvE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hrhEjg9yYvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M33S",
       "provider": {
         "name": "SQLBI",
         "domain": "sqlbi.com",
@@ -1003,11 +973,50 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-16T03:00:30-08:00",
+      "publishedDateTime": "2020-08-08T01:34:41-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/xnKWYKBuW0E/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hrhEjg9yYvE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-naming-temporary-columns-in-dax.md",
+      "title": "Naming temporary columns in DAX",
+      "excerpt": "Discuss a naming convention for temporary columns in DAX expressions to avoid ambiguity with the measure reference notation.\r Article and download: https://sql.bi/377817?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-naming-temporary-columns-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-naming-temporary-columns-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=lwJGbjRif_w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lwJGbjRif_w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M11S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-05-04T05:02:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lwJGbjRif_w/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

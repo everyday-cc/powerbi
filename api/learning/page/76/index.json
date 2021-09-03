@@ -4,147 +4,25 @@
   "page": 76,
   "value": [
     {
-      "path": "_learning/videos/microsoft-module-2-embedded-analytics-part-22-power-bi-developer-in-a-day.md",
-      "title": "Module 2: Embedded analytics (Part 2/2) | Power BI Developer in a Day",
-      "excerpt": "In this video, Adam Saxton, Principal Program Manager, demonstrates a sample Power BI embedded analytics solution that monitors warehouse operations. This is video 7 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-2-embedded-analytics-part-22-power-bi-developer-in-a-day/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-2-embedded-analytics-part-22-power-bi-developer-in-a-day/",
-      "originalUrl": "https://youtube.com/watch?v=7Jda5x7Qe7Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Jda5x7Qe7Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M7S",
+      "path": "_learning/videos/learn-power-bi-your-chance-to-participate-in-a-real-power-bi-project.md",
+      "title": "Your Chance to Participate in a Real Power BI Project!",
+      "excerpt": "👉 Business Users 🏢 : Submit Your Project for #RealPowerBI: https://www.learnpowerbi.com/realpowerbi  👉 Learn Power BI Students (Pro Level): Apply to Work on a #RealPowerBI Project: https://www.learnpowerbi.com/real-for-pro-students  👉 Enroll in the Learn Power BI Program: https://web.learnpowerbi.com/waitlist-invite/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-your-chance-to-participate-in-a-real-power-bi-project/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-your-chance-to-participate-in-a-real-power-bi-project/",
+      "originalUrl": "https://youtube.com/watch?v=QhWLghZ3X84",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QhWLghZ3X84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M20S",
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2020-06-01T13:34:23-07:00",
+      "publishedDateTime": "2019-02-13T08:57:14-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/7Jda5x7Qe7Q/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-module-3-acquiring-access-power-bi-developer-in-a-day.md",
-      "title": "Module 3: Acquiring access | Power BI Developer in a Day",
-      "excerpt": "In this video, you’ll learn about token types and theory to acquire access and embed tokens. This is video 8 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the videos in the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-3-acquiring-access-power-bi-developer-in-a-day/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-3-acquiring-access-power-bi-developer-in-a-day/",
-      "originalUrl": "https://youtube.com/watch?v=3dYCMTsDT3c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3dYCMTsDT3c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M7S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-01T13:34:41-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3dYCMTsDT3c/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-module-4-embedding-content-part-25-power-bi-developer-in-a-day.md",
-      "title": "Module 4: Embedding content (Part 2/5) | Power BI Developer in a Day",
-      "excerpt": "In this video, Peter Myers demonstrates fast-tracking a Power BI embedded project by using the Embedding Setup Tool. You’ll learn about creating additional Power BI content. This is video 10 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-4-embedding-content-part-25-power-bi-developer-in-a-day/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-4-embedding-content-part-25-power-bi-developer-in-a-day/",
-      "originalUrl": "https://youtube.com/watch?v=XbYt8ZX3q9k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XbYt8ZX3q9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M40S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-01T13:35:10-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XbYt8ZX3q9k/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-module-4-embedding-content-part-35-power-bi-developer-in-a-day.md",
-      "title": "Module 4: Embedding content (Part 3/5) | Power BI Developer in a Day",
-      "excerpt": "In this video, you’ll learn about NuGet packages to import, and how to programmatically embed Power BI content. This is video 11 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-4-embedding-content-part-35-power-bi-developer-in-a-day/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-4-embedding-content-part-35-power-bi-developer-in-a-day/",
-      "originalUrl": "https://youtube.com/watch?v=mXmFrHuYVh8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mXmFrHuYVh8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M31S",
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-01T13:35:28-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mXmFrHuYVh8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/QhWLghZ3X84/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -422,14 +300,14 @@
       ]
     },
     {
-      "path": "_learning/videos/microsoft-module-7-embedding-licensing-power-bi-developer-in-a-day.md",
-      "title": "Module 7: Embedding licensing | Power BI Developer in a Day",
-      "excerpt": "In this video, we describe Power BI embedding licensing and compare different products. You’ll also learn about licensing guidance.  This is video 19 of 20.    Please note: licensing information is current at the time of recording, which was May 2020   The Power BI Developer in a Day online course empowers you as an",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-7-embedding-licensing-power-bi-developer-in-a-day/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-7-embedding-licensing-power-bi-developer-in-a-day/",
-      "originalUrl": "https://youtube.com/watch?v=ipmip6ARnks",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ipmip6ARnks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M49S",
+      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-18-adding-interactive-features-part-1.md",
+      "title": "Power BI Paginated Reports in a Day - 18: Adding Interactive Features - Part 1",
+      "excerpt": "In this video, we describe adding interactive features.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you watch the videos in the recorded",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-18-adding-interactive-features-part-1/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-18-adding-interactive-features-part-1/",
+      "originalUrl": "https://youtube.com/watch?v=LInMHpTEaI0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LInMHpTEaI0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M20S",
       "provider": {
         "name": "Microsoft",
         "domain": "microsoft.com",
@@ -442,13 +320,92 @@
           }
         ]
       },
-      "publishedDateTime": "2020-06-01T13:37:48-07:00",
+      "publishedDateTime": "2020-03-17T22:10:44-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ipmip6ARnks/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/LInMHpTEaI0/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "title": "Power BI Paginated Reports in a Day - 18: Adding Interactive Features - Part 1",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-20-beyond-report-development-part-1.md",
+      "title": "Power BI Paginated Reports in a Day - 20: Beyond Report Development - Part 1",
+      "excerpt": "In this video, we describe how to publish reports to the Power BI service, and also cover consuming, delivering, and embedding paginated reports. Finally, we discuss when it's a good choice to create a paginated report instead of a Power BI report.  The Power BI Paginated Reports in a Day online course",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-20-beyond-report-development-part-1/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-20-beyond-report-development-part-1/",
+      "originalUrl": "https://youtube.com/watch?v=1CgDVDslwvs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1CgDVDslwvs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M53S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-17T22:12:09-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1CgDVDslwvs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": "Power BI Paginated Reports in a Day - 20: Beyond Report Development - Part 1",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-21-beyond-report-development-part-2.md",
+      "title": "Power BI Paginated Reports in a Day - 21: Beyond Report Development - Part 2",
+      "excerpt": "In this video, we demonstrate publishing a report, and then show how to embed it using URL access, and also how to create a subscription.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-21-beyond-report-development-part-2/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-21-beyond-report-development-part-2/",
+      "originalUrl": "https://youtube.com/watch?v=KRwtl7h0ynI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KRwtl7h0ynI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M54S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-17T22:13:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KRwtl7h0ynI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": "Power BI Paginated Reports in a Day - 21: Beyond Report Development - Part 2",
           "isCached": true
         }
       ],
@@ -1014,6 +971,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/FX9ZI9bNlg8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/power-bi-tips-powerbi-tips-introducing-custom-visuals-gallery.md",
+      "title": "PowerBI Tips Introducing Custom Visuals Gallery",
+      "excerpt": "It's 2019 and a good time for another great tool for Power BI.  I'm proud to announce the release of the Custom Visuals Gallery and Charts Building tool.    Gallery (Download Free Visualization Files) http://gallery.powerbi.tips  Charts (Free no code solution to building visualizations) http://charts.powerbi.tips",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbi-tips-introducing-custom-visuals-gallery/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbi-tips-introducing-custom-visuals-gallery/",
+      "originalUrl": "https://youtube.com/watch?v=UVHdL8UuDUI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UVHdL8UuDUI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M50S",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "publishedDateTime": "2019-10-23T13:41:17-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UVHdL8UuDUI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

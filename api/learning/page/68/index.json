@@ -4,44 +4,6 @@
   "page": 68,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-understanding-the-shadow-tenant-in-office-365.md",
-      "title": "Understanding the Shadow Tenant in Office 365",
-      "excerpt": "I describe what a Shadow Tenant is and how it is created.  This is from the perspective of Power BI.  What is a Tenant - https://youtu.be/yVYSx1odYSY?list=PLv2BtOtLblH3SXM6Q44DCjykqp9xPozNH  SUBSCRIBE! https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w?sub_confirmation=1  LET'S CONNECT!  Blogs",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-understanding-the-shadow-tenant-in-office-365/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-understanding-the-shadow-tenant-in-office-365/",
-      "originalUrl": "https://youtube.com/watch?v=y4Bu8QP2QhE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y4Bu8QP2QhE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M20S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-03-01T11:26:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/y4Bu8QP2QhE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-upcoming-edx-course-on-analysis-services-tabular-w-peter-myers-dat225x.md",
       "title": "Upcoming EdX course on Analysis Services Tabular w/ Peter Myers (DAT225X)",
       "excerpt": "I met up with Peter Myers to talk about an upcoming EdX course for Analysis Services Tabular. He wrote and primarily presented the course which is free to you. You also have the option to upgrade to get a certificate of completion if you wish.  The course will be released on March 14, 2017 and is DAT225X.",
@@ -464,6 +426,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-want-to-know-when-teams-will-stop-creating-workspaces-in-power-bi.md",
+      "title": "Want to know when Teams will STOP creating Workspaces in Power BI???",
+      "excerpt": "The Workspace roadmap blog was released and we now know when Teams will stop creating workspaces in Power BI! Adam breaks down all the info.  Blog: https://powerbi.microsoft.com/en-us/blog/roadmap-update-whats-next-for-the-new-workspace-experience-upgrade-in-the-coming-months/  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-want-to-know-when-teams-will-stop-creating-workspaces-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-want-to-know-when-teams-will-stop-creating-workspaces-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=ZDT9zQOewXY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZDT9zQOewXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M55S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-11T08:00:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZDT9zQOewXY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-week-long-training.md",
       "title": "Week long training...",
       "excerpt": "Last week I was up in the Seattle area for training with my team. It is called the boot camp event. This was the 2nd year we have done it.   This was a week long training encompassing things from SEO to development to Power BI. I focused mostly on Git and GitHub during this time.  The event ended with",
@@ -643,44 +643,6 @@
           "url": "https://i.ytimg.com/vi/enfY74xSN58/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-who-doesnt-like-free-power-bi-training.md",
-      "title": "Who doesn't like FREE Power BI Training???",
-      "excerpt": "There are a lot of free Power BI training options out there for business analysts and there is now training beyond that for your organization. Adam explores the new free training from the MS Stores group as well as recapping other available options.  Matthew's Blog: https://ssbipolar.com/2021/06/07/free-power-bi-intro-training-from-microsoft/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-who-doesnt-like-free-power-bi-training/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-who-doesnt-like-free-power-bi-training/",
-      "originalUrl": "https://youtube.com/watch?v=QndlMQn91uw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QndlMQn91uw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M28S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-06-17T08:00:13-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QndlMQn91uw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],
@@ -1047,6 +1009,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/tu1ky-ZIwZo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-being-a-power-bi-servant-leaderservant-teacher-vlog.md",
+      "title": "being a Power BI Servant Leader/Servant Teacher... (Vlog)",
+      "excerpt": "I just put together a new Learn Power BI class...and that had me thinking about my role, which led me to Servant Leadership.  FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download ✅ Subscribe to always get my",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-being-a-power-bi-servant-leaderservant-teacher-vlog/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-being-a-power-bi-servant-leaderservant-teacher-vlog/",
+      "originalUrl": "https://youtube.com/watch?v=r28nla4TmWc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r28nla4TmWc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M34S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-10-17T10:50:22-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r28nla4TmWc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
