@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 26,
-            "average": 4.5384617
+            "count": 27,
+            "average": 4.5185184
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -680,8 +680,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 4854,
-        "average": 4.7694683
+        "count": 4855,
+        "average": 4.769516
       },
       "provider": {
         "name": "Microsoft Learn",
