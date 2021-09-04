@@ -1,7 +1,7 @@
 ---
 category: news
 title: "How to leverage the features of Power BI when using an iPhone, iPad or Mac"
-excerpt: "Microsoft's Power BI helps professionals, including Apple users, better understand their data. Here's how users with an iPhone, iPad or Mac can take advantage of all Power BI offers. The popularity of bestsellers such as Jill Lepore's \"If Then\" and Tim ..."
+excerpt: "Microsoft's Power BI helps professionals, including Apple users, better understand their data. Here's how users with an iPhone, iPad or Mac can take advantage of all Power BI offers. The ..."
 publishedDateTime: 2021-08-20T21:54:00Z
 originalUrl: "https://www.techrepublic.com/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/"
 webUrl: "https://www.techrepublic.com/article/how-to-leverage-the-power-of-power-bi-using-apple-technologies/"
@@ -29,6 +29,6 @@ images:
     height: 900
     isCached: true
 
-secured: "3tSyfnNXzW9vvMy/z1ltR6Sn/E2VPhF5L4xlAIjpOc64S6YiVO2oPHPuP9YlgxZ7DJybm8BI72+ZJRumK0TwJ33ZZg+0TA2ZxluIy2VvbhpVdXEXJ+ODAMgDfNt6dRxXnSsEULOz0IMY2IVOteVcitRMfkMsk601ETX1ZGAxuvTf/kxe9akQ9Z9kdDbY2pRtI82WnFNsilvY8/PWpSX56SjVfEH9m0PUAa+bMXUcJWCtPqJfaQob9TWb5+fpxB7j6Ikj1CKe0Y38c1oAQ4o43UbTcJRwwohfxDdkKQP40eULMEiU5rugkb7VUesbbZdHDBpOA9qFgGbHkGRFNzIXVn91Tv6RyxjvcKR7PXRXZBw=;5RWeB67uXQAOQOGOEF5JHA=="
+secured: "N6XySakQOJOV5JN1WkL05i9gyLKXL5cTu6G7R+iWJxkEbgQLyfhsrMNdEsM5rP1JEBn28+07wo8UMBl9temW3c7xGM0AkVkEy1U8ZcRJinhIBZdVjjQoB2JRjOc05tkg6n3r6bXtPVtCrugsFMRRZxS2PU2uYXdQ0n+LmMyho0LU95sWrBUxxeQ7IZzcT5xCs0QwqxzjQS6SjlCT5zmgWw1V5KS6o4Wcif1h4ItdKvNhUVF/GRQ5/YjEk+wvA0XlolYzY0zxWltnIMWCOFEwyltf+sWyb56oVrgLPl+6vlf/zAorYWOxL103AtOYgzKeTMnC4cKkHo+gy/JVDjqGOEgeFoFA5cUe+t+DlCUlybk=;QDvHNxhA6JG6REEY2QBudQ=="
 ---
 
