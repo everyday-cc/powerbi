@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Power BI Connector for Jira is Now an Atlassian Cloud Fortified App"
-excerpt: "Alpha Serve’s Power BI Connector for Jira has been recognized as the Cloud Fortified app so that it confirms maintaining high standards of service and data protection. Power BI Connector for ..."
-publishedDateTime: 2021-08-31T07:03:00Z
-originalUrl: "https://www.pr.com/press-release/843683"
-webUrl: "https://www.pr.com/press-release/843683"
+excerpt: "Power BI Connector for Jira, an Enterprise Grade app created by Ukraine-based software development team Alpha Serve, got the status of an Atlassian Cloud Fortified app. Mykolaiv, Ukraine August 31 ..."
+publishedDateTime: 2021-08-31T08:13:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/r22732569/power-bi-connector-for-jira-is-now-an-atlassian-cloud-fortified-app"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/r22732569/power-bi-connector-for-jira-is-now-an-atlassian-cloud-fortified-app"
+ampWebUrl: "https://www.benzinga.com/amp/content/22732569"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22732569"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: PR
-  domain: pr.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Power BI
 
-images:
-  - url: "https://img.pr.com/release/2108/487199/pressrelease_487199_1630329537.png"
-    width: 2560
-    height: 1440
-    isCached: true
-
-secured: "Aut0X0ro5JbfmFvYRZhB9bBlCrIK6Qni1gFoCmIeydXOcSMLsvBHUYbrHg17gYvxJ47HiOtKtdKKn73rRfyXnJUZn+INiW+fOyX0RjeD7Ux1LW9V5NWmCGLsa3caA86AJq8JnIo6LHN9WCCsjJMVpAKGiKutbmiZY9aLxQGmGYqjVfST6TFsmA3QFBkRs4Zwag1sjpMHFChk/H/oqEpyy3foBgfAocjTIGxvNIf4nF/5FzL9HSe+XjrtOEna/U6hpHoHeL6/SzF2/ARc94yho410Gw5eBN0qx5vxfZHRZRVyfQKSGD0eRnoJ2d3Z59eCZHrZIsC6GmkRa0wI2/eg5RDpuDKxGDsIAIMrnzWM4W8=;lyaHtsvxSh6QsU4wZMI/Mw=="
+secured: "/5ACkMCR4Xwy99TlDRfQZgVjUQhitehNwiNIxE1NMVUCVxuPWmoINHWAqh+CJ69NqSiWNuMXVx8hNA8yVBN8SYy1oiQZiT8sVNrn/+kc98KVVQ7iUszbGiUx4lvIUex69R5TAAlCV8J0QL3/wz7hvz1qaVwMxyKdn1i2EW9YF5NRnSJRkX+Wc/W9B2w4TFQgZQ4gf6x+s8F5r3R4laZjJ1qqtk34cXop2MWnYm8K4oFfoY2V1Ub6lpwkqrUcmDjksKOoMKsubCrAWurWkLZmAWfCsAonDbgUu+LhVfosAJi/VAmBVjaLUPUi+1UQ0zZsMwKMzzYZfjPyRbBbYGPM1unBjlxf0NNsCaR/Cwllr/Y=;SYzS42fcTLUypwtmlCT2xA=="
 ---
 
