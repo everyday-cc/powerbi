@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M21S
 publishedDateTime: 2019-04-28T22:02:20Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GPf0YS-Xbyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JrdPMmWOwuaoL95fRyQcQe1xyebnrZZx0h5Y/uoDojj/ixqmxCeGjUuLKEEC7ZoDfHdb8/6jOOCagRKeF3JPX/N7SF/aY6VJnuRYT0M8aelyNfoBdVKQvdpFCO+qDM3JbMKknri/whSQzdTnQfREjRamQ8sTBweHx0Lhc0yHdE1mWEeBI6ihJuEirJb1q6o30U06Qhd1pxyGXQGkxs/W6o8LWwvedyunQkZTItSiRhocq3mGKvrlpvOM7iq+U2blGyXRNvTa2MyPIZIrw00ULgCd5bMhjJGOerK5hVfVYWbZvvnJgtp6yvcO4HyxhSFor8BPW0a7i9MskgXcZVu+UKiPFAGWqI8uIgvlUg5PcBFDE5Tmtq3gWLTeBXy1CbeAq2w6BbyABp5I/ScT/jKVuyYgWIC16gVukXLYvugtZyU=;a7Vv2S37iSuhqzP5Mmsl1A=="
+secured: "cnJTI86IY/nqTq9UgAzq8s26g18MKhZfXoAtwtJh73aPNVYGy7MmrJG6q7vRZT6QGK9c2Dy9WfxVm6bP1N6PBeW+/kievGoovaEvsPpA6ZR0P7aEeuXNsYTHSDS7s5w2ENLE2qlHb3Cn4ry/4St+dWCxZvtGAuv4v3xc2GbSs1cGy7CssHYn/LzreEXTz5WnoQD4SDs3w4bpwKNczG6wZdAyy/wSXhaNR8CsfrtjRTWOPUD0vCAhqqQBO8YGdTuNrDpr4Wp660wXmRDgX2PjSz62NHADpR70ICjyQ2k5GT7m44SB8uvJtDmhSiQr+avnuTyRqyI0mpKutvyUlrF3NnQ+QeRpg/FE8/oQoOhmHod+ie8g7oW91akzkZk2xYavOWIdkO1H91qirQPsUbZdxZKYcSzQDMZrtIWnM84lVH0=;mUr387TSPjtbMRCAKmCIpw=="
 ---
 
