@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 24427,
-            "average": 4.796332
+            "count": 24428,
+            "average": 4.7963405
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -876,8 +876,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3142,
-            "average": 4.6559515
+            "count": 3143,
+            "average": 4.656061
           },
           "provider": {
             "name": "Microsoft Learn",
