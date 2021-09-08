@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-18-announcing-visual-data-prep-general-availability-diagram-view-in-power-query-online.md",
+      "title": "Announcing Visual Data Prep general availability (Diagram View in Power Query Online)",
+      "excerpt": "This post is an overview of &#8216;Visual Data Prep&#8217; (Diagram View) which is going into General Availability.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-18-announcing-visual-data-prep-general-availability-diagram-view-in-power-query-online/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-visual-data-prep-general-availability-diagram-view-in-power-query-online/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-visual-data-prep-general-availability-diagram-view-in-power-query-online/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-18T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-on-premises-data-gateway-march-2021-update-is-now-available.md",
       "title": "On-premises data gateway March 2021 update is now available",
       "excerpt": "On-premises data gateway (standard and personal mode) release for March 2021 ",
@@ -1191,57 +1243,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-data-insights-without-limit-security-without-compromise.md",
-      "title": "Data insights without limit, security without compromise",
-      "excerpt": "The past year has confirmed that a digital-first strategy is not just a trend, but the new standard for business moving forward. What business calls “digital life” is just life for most people, as is the expectation that organizations will keep up with the accelerating volume of data and pace of change",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-17-data-insights-without-limit-security-without-compromise/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/data-insights-without-limit-security-without-compromise/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/data-insights-without-limit-security-without-compromise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-16T23:55:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

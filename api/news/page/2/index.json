@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-07-26-survey-exploring-visual-styles-for-creators.md",
+      "title": "Survey! Exploring visual styles for creators",
+      "excerpt": "Calling all creators! Back in August 2016 we introduced predefined matrix and table styles. We are exploring adding more predefined styles to more visual types to save you precious report creation time. We have created this survey to gather your feedback and help us define what these styles should look",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-26-survey-exploring-visual-styles-for-creators/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/survey-exploring-visual-styles-for-creators/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/survey-exploring-visual-styles-for-creators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T09:33:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-07-22-visualizing-sharepoint-lists-now-available-to-all-users.md",
       "title": "Visualizing SharePoint lists now available to all users",
       "excerpt": "A couple of months ago, we launched a new Power BI integration for visualizing SharePoint lists for all Targeted release users. We’re now excited to announce that the experience has rolled out to Standard release users and is now accessible to everyone!",
@@ -1186,57 +1237,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-06-10T13:06:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-new-developer-samples-for-update-data-sources-and-encrypt-credentials.md",
-      "title": "New developer samples for update data sources and encrypt credentials",
-      "excerpt": "We&#8217;re happy to announce new developer samples that will show you how to add data source, update data source, and encrypt credentials. In the new samples you&#8217;ll find an end-to-end flow of all the required Power BI REST APIs. The samples are available in .NET Core, Java, and Python. You can",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-10-new-developer-samples-for-update-data-sources-and-encrypt-credentials/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/new-developer-samples-for-update-data-sources-and-encrypt-credentials/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/new-developer-samples-for-update-data-sources-and-encrypt-credentials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T01:03:04-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

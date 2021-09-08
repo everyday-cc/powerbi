@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-09-22-power-bi-app-for-mixed-reality-now-available-for-hololens-2.md",
+      "title": "Power BI App for mixed reality now available for HoloLens 2",
+      "excerpt": "Power BI continues to innovate and today we are releasing Power BI app for HoloLens 2 with the goal to provide our users with real-time business information in the context of their work through a unique, delightful, immersive experience.. Using Power BI app on HoloLens 2 makes it easy to view and interact",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-22-power-bi-app-for-mixed-reality-now-available-for-hololens-2/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-app-for-mixed-reality-now-available-for-hololens-2/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-app-for-mixed-reality-now-available-for-hololens-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T01:25:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-congratulations-to-the-featured-data-stories-gallery-contributors.md",
       "title": "Congratulations to the Featured Data Stories Gallery contributors",
       "excerpt": "Find out which Power BI Community Data Story won for September and which Data Story received an honorable mention! We also announce next month&#8217;s Data Stories Gallery theme at the end of the blog.",
@@ -1193,57 +1244,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-08-12T04:03:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-building-cross-platform-solutions-that-connect-to-power-bi-datasets.md",
-      "title": "Building cross-platform solutions that connect to Power BI datasets",
-      "excerpt": "With XMLA endpoints available in Power BI Premium and the recent release of .NET Core versions of the Analysis Services client libraries (ADOMD.NET and AMO) in public preview, you can start building modern cross-platform Power BI solutions across Windows, Linux, and macOS, and cloud-oriented environments.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-08-11-building-cross-platform-solutions-that-connect-to-power-bi-datasets/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/building-cross-platform-solutions-that-connect-to-power-bi-datasets/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T10:27:11-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
