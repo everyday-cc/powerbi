@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-09-22-smart-narrative-preview.md",
+      "title": "Smart Narrative (preview)",
+      "excerpt": "The Smart narrative visualization helps you quickly summarize visuals and reports by providing relevant out-of-the-box insights that are customizable.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-22-smart-narrative-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/smart-narrative-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/smart-narrative-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-22T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-09-22-power-bi-app-for-mixed-reality-now-available-for-hololens-2.md",
       "title": "Power BI App for mixed reality now available for HoloLens 2",
       "excerpt": "Power BI continues to innovate and today we are releasing Power BI app for HoloLens 2 with the goal to provide our users with real-time business information in the context of their work through a unique, delightful, immersive experience.. Using Power BI app on HoloLens 2 makes it easy to view and interact",
@@ -1200,57 +1251,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-12-power-bi-desktop-august-2020-feature-summary.md",
-      "title": "Power BI Desktop August 2020 Feature Summary",
-      "excerpt": "We have exciting updates this month! The updates include support for Perspectives in Personalize visuals, rectangular select for data points, dynamic formatting support to more visuals, Direct Query support for Q&#038;A, several new AppSource visuals, and more! Check out the full blog to learn more about",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-08-12-power-bi-desktop-august-2020-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2020-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2020-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-12T04:03:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

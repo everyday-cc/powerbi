@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-08-12-power-bi-desktop-august-2020-feature-summary.md",
+      "title": "Power BI Desktop August 2020 Feature Summary",
+      "excerpt": "We have exciting updates this month! The updates include support for Perspectives in Personalize visuals, rectangular select for data points, dynamic formatting support to more visuals, Direct Query support for Q&#038;A, several new AppSource visuals, and more! Check out the full blog to learn more about",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-08-12-power-bi-desktop-august-2020-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2020-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2020-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-12T04:03:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-08-11-building-cross-platform-solutions-that-connect-to-power-bi-datasets.md",
       "title": "Building cross-platform solutions that connect to Power BI datasets",
       "excerpt": "With XMLA endpoints available in Power BI Premium and the recent release of .NET Core versions of the Analysis Services client libraries (ADOMD.NET and AMO) in public preview, you can start building modern cross-platform Power BI solutions across Windows, Linux, and macOS, and cloud-oriented environments.",
@@ -1213,57 +1264,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-06-17-get-the-2020-master-microsoft-excel-power-bi-certification-bundle-for-just-3499.md",
-      "title": "Get the 2020 Master Microsoft Excel & Power BI Certification Bundle for just $34.99",
-      "excerpt": "Become the data-driven hero companies need with 28 hours of training in data plotting, auto calculation, macros, visualization and more with today's highlighted deal. Get it via Neowin Deals!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-06-17-get-the-2020-master-microsoft-excel-power-bi-certification-bundle-for-just-3499/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-06-17-get-the-2020-master-microsoft-excel-power-bi-certification-bundle-for-just-3499/",
-      "originalUrl": "https://www.neowin.net/news/get-the-2020-master-microsoft-excel--power-bi-certification-bundle-for-just-3499",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1592381669_product_38938_product_shot_wide_story.jpg",
-          "width": 760,
-          "height": 380,
-          "title": "Get the 2020 Master Microsoft Excel & Power BI Certification Bundle for just $34.99",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/get-the-2020-master-microsoft-excel--power-bi-certification-bundle-for-just-3499/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-the-2020-master-microsoft-excel--power-bi-certification-bundle-for-just-3499/",
-      "publishedDateTime": "2020-06-17T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],

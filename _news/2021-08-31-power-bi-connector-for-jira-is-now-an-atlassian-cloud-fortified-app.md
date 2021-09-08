@@ -1,28 +1,30 @@
 ---
 category: news
 title: "Power BI Connector for Jira is Now an Atlassian Cloud Fortified App"
-excerpt: "Alpha Serve’s Power BI Connector for Jira has been recognized as the Cloud Fortified app so that it confirms maintaining high standards of service and data protection. Power BI Connector for ..."
-publishedDateTime: 2021-08-31T07:03:00Z
-originalUrl: "https://www.pr.com/press-release/843683"
-webUrl: "https://www.pr.com/press-release/843683"
+excerpt: "Power BI Connector for Jira, an Enterprise Grade app created by Ukraine-based software development team Alpha Serve, got the status of an Atlassian Cloud Fortified app. Mykolaiv, Ukraine August 31, 2021 --(PR.com)-- Cloud Fortified Apps is the Atlassian ..."
+publishedDateTime: 2021-08-31T08:13:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/21/08/r22732569/power-bi-connector-for-jira-is-now-an-atlassian-cloud-fortified-app"
+webUrl: "https://www.benzinga.com/pressreleases/21/08/r22732569/power-bi-connector-for-jira-is-now-an-atlassian-cloud-fortified-app"
+ampWebUrl: "https://www.benzinga.com/amp/content/22732569"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/22732569"
 type: article
-quality: 37
-heat: 37
+quality: 57
+heat: 57
 published: false
 
 provider:
-  name: PR
-  domain: pr.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Power BI
 
 images:
-  - url: "https://img.pr.com/release/2108/487199/pressrelease_487199_1630329537.png"
-    width: 2560
-    height: 1440
+  - url: "https://s3.amazonaws.com/wp-uploads.benzinga-premium-newsletters.prod/uploads/2021/07/15155841/Options-Trades-Feb-3-2021-5-1.png"
+    width: 1200
+    height: 600
     isCached: true
 
-secured: "zmJj3PuF9YQuWFZE2PCLKpyUErNlsM87XnRCAJQOne7fy0oHwq8JnlEcdNrUqLCe0/VPxI7k5nJQlORTNpuufKmMWf2Ps3TyDdcRXkUuf963ekRGRM0LZUynMagvF2rVgVNPXs5mA618QDkJtZFJa6P/dWRf9Ycs8UApYLYnbdBaxpcTkyBHIZDA974snPLwk7qNrSwUKIMpMpaS4jFYM4NVKqaFmZXFvTlrqfhJK0cvV33PgipvbZpXHtnT8ycXz9nVe6xf8Wslvs2PFMDobVvunIdeyCPX6lyIm+aXrLXCkf3yeJKK8oYY32DBuNPBh6t7Gxl8xYtT7AwdOxz7o0e4Gv4yCc5Klli12LNxcPY=;BQmcUdBo3gp165xd+VhmwA=="
+secured: "OKSfMbtx6QKmT0m/BwztZ1bL8vZ4Z0iSpK5CYW4nR9st/yTEHgrnGPgbIWcUHpA3bRDdoIKh34+Bm8ldTSNO9f5Ft+e9/AKgjxiKR6/XLph+6UpzMfDCPM/o+ho43D8K/T8uZNOOhGpT7GEa3KkA51D4sXKmpAhdklh/ABsQPEPgpuMffZZsbK2wMZF6pbAHoIJMUYT/Pb1TcRFJbVQuZ9ZHc2jeKKnTTK7elkVNw8gDFNDMMnt5UPMlsni2PaWrK+8Sydz7ptP+GcKPI3om3DJjcJboIxsK1XZms77ApdSBZgT4JD0drw5ymb8/By3KeTib/rm2wy14fosyBtSESgNlDJruP/sHWdOsXg1NcOM=;xruyygBCfoRxhEKD5Trr4A=="
 ---
 
