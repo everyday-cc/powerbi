@@ -4,6 +4,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_people/arun-ulag.md",
+      "title": "Arun Ulag",
+      "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/arun-ulag/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/arun-ulag/",
+      "type": "profile",
+      "name": "Arun Ulag",
+      "bio": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
+      "location": "Seattle, WA",
+      "website": "https://t.co/FklqJqbSAZ",
+      "twitter": {
+        "username": "arunulag",
+        "url": "https://twitter.com/arunulag",
+        "followers": 3826
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/arunulag/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 96,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/625784770333519872/RrSqqUEZ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Arun Ulag",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/reza-rad.md",
+      "title": "Reza Rad",
+      "excerpt": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/reza-rad/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/reza-rad/",
+      "type": "profile",
+      "name": "Reza Rad",
+      "bio": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
+      "location": "New Zealand",
+      "website": "https://t.co/mnW39vaMYS",
+      "twitter": {
+        "username": "Rad_Reza",
+        "url": "https://twitter.com/Rad_Reza",
+        "followers": 7671
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rezarad/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 93,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Reza Rad",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/adam-saxton.md",
       "title": "Adam Saxton",
       "excerpt": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
@@ -38,7 +124,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 96,
+      "heat": 71,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg",
@@ -64,7 +150,7 @@
       "twitter": {
         "username": "patrickdba",
         "url": "https://twitter.com/patrickdba",
-        "followers": 6681
+        "followers": 6678
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/patrickdleblanc/"
@@ -85,99 +171,13 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 96,
+      "heat": 71,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/415691890080894976/g0hNL2mf_400x400.jpeg",
           "width": 400,
           "height": 400,
           "title": "Patrick LeBlanc",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/reza-rad.md",
-      "title": "Reza Rad",
-      "excerpt": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/reza-rad/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/reza-rad/",
-      "type": "profile",
-      "name": "Reza Rad",
-      "bio": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
-      "location": "New Zealand",
-      "website": "https://t.co/mnW39vaMYS",
-      "twitter": {
-        "username": "Rad_Reza",
-        "url": "https://twitter.com/Rad_Reza",
-        "followers": 7672
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/rezarad/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 88,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Reza Rad",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/arun-ulag.md",
-      "title": "Arun Ulag",
-      "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/arun-ulag/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/arun-ulag/",
-      "type": "profile",
-      "name": "Arun Ulag",
-      "bio": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
-      "location": "Seattle, WA",
-      "website": "https://t.co/FklqJqbSAZ",
-      "twitter": {
-        "username": "arunulag",
-        "url": "https://twitter.com/arunulag",
-        "followers": 3828
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/arunulag/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 82,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/625784770333519872/RrSqqUEZ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Arun Ulag",
           "isCached": true
         }
       ],
@@ -197,7 +197,7 @@
       "twitter": {
         "username": "powerbipro",
         "url": "https://twitter.com/powerbipro",
-        "followers": 4915
+        "followers": 4916
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/avichalsingh/"
@@ -210,7 +210,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 64,
+      "heat": 57,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
@@ -236,7 +236,7 @@
       "twitter": {
         "username": "Mike_R_Carlo",
         "url": "https://twitter.com/Mike_R_Carlo",
-        "followers": 2229
+        "followers": 2228
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/michaelcarlo/"
@@ -249,7 +249,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 50,
+      "heat": 57,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
@@ -273,7 +273,7 @@
       "twitter": {
         "username": "Seth_C_Bauer",
         "url": "https://twitter.com/Seth_C_Bauer",
-        "followers": 1880
+        "followers": 1878
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/seth-bauer/"
@@ -286,7 +286,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 50,
+      "heat": 57,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
