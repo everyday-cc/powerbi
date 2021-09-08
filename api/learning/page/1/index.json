@@ -179,31 +179,54 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-unboxing-tabular-editor-3-reaction-video.md",
-      "title": "Unboxing Tabular Editor 3 | Reaction Video",
-      "excerpt": "It's here! Patrick does a reaction video when using Tabular Editor 3 for the first time with Power BI. To say he's excited is an understatement. Watch him take the wrapping off of Tabular Editor.  Tabular Editor: https://tabulareditor.com/  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-unboxing-tabular-editor-3-reaction-video/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-unboxing-tabular-editor-3-reaction-video/",
-      "originalUrl": "https://youtube.com/watch?v=Ijs61r_cUYU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ijs61r_cUYU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M7S",
+      "path": "_learning/videos/radacad-row-filtering-in-power-bi-and-power-query-remove-blank-rows-vs-remove-empty.md",
+      "title": "Row Filtering in Power BI and Power Query   Remove Blank Rows Vs Remove Empty",
+      "excerpt": "When you have blank values in your data table, you can use Power Query transformations to remove the row with blank values. There are two transformations that are used very often for this purpose: Remove Empty and Remove blank rows. These two transformations are not exactly the same. In this article,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-row-filtering-in-power-bi-and-power-query-remove-blank-rows-vs-remove-empty/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-row-filtering-in-power-bi-and-power-query-remove-blank-rows-vs-remove-empty/",
+      "originalUrl": "https://youtube.com/watch?v=1I_KBg6sAF4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1I_KBg6sAF4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M40S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-06-16T08:00:08-07:00",
-      "heat": 132,
+      "publishedDateTime": "2021-06-14T15:40:53-07:00",
+      "heat": 140,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Ijs61r_cUYU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/1I_KBg6sAF4/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-bookmark-with-or-without-data.md",
+      "title": "Power BI bookmark   with or without data",
+      "excerpt": "Bookmark is a helpful feature in Power BI. It enables you to have a good story to tell and also have a dynamic visualization. I have explained how bookmarks work in Power BI and how to use them with buttons to have a next-level visualization. An important attribute of the bookmark is the Data. You can",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-bookmark-with-or-without-data/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-bookmark-with-or-without-data/",
+      "originalUrl": "https://youtube.com/watch?v=UPyK3mfIwmU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UPyK3mfIwmU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M39S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-08-08T17:52:28-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UPyK3mfIwmU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -217,61 +240,34 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-all-selected-dax-expression-in-power-bi.md",
-      "title": "All Selected DAX Expression in Power BI",
-      "excerpt": "Welcome to one another episode of Wednesday with DAX. During this session, we will talk about the most important DAX expression ALLSELECTED(). Most of the time we have confusion between when to use ALL and when to use ALLSELECTED DAX function. First, we have taken one real life example and scenario here.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-all-selected-dax-expression-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-all-selected-dax-expression-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=dKTdHc8V2Hc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dKTdHc8V2Hc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M15S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+      "path": "_learning/courses/microsoft-learn-work-with-requirements.md",
+      "title": "Work with requirements as a solution architect for Power Platform and Dynamics 365",
+      "excerpt": "It is important to capture the customer’s needs accurately. This module explains how to capture requirements and identify functional and non-functional items.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-work-with-requirements/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 430,
+        "average": 4.760465
       },
-      "publishedDateTime": "2021-06-23T01:54:08-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dKTdHc8V2Hc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-theme-customize-colors-fonts-and-visual-appearance-for-multiple-objects.md",
-      "title": "Power BI Theme   Customize Colors Fonts and Visual Appearance for Multiple Objects",
-      "excerpt": "If you build a report for an enterprise, you might be limited to use the organization-approved colors. It is also useful to have your reports following a template of colors, and fonts, which might look like your signature of the report. In Power BI, you can do that with Theme. In this article, I’ll explain",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-theme-customize-colors-fonts-and-visual-appearance-for-multiple-objects/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-theme-customize-colors-fonts-and-visual-appearance-for-multiple-objects/",
-      "originalUrl": "https://youtube.com/watch?v=K83vD6DwFvI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K83vD6DwFvI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M34S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-06-24T14:30:03-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/K83vD6DwFvI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
+      "levels": [
+        "Advanced"
       ],
+      "heat": 130,
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -649,8 +645,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 24614,
-            "average": 4.7960105
+            "count": 24616,
+            "average": 4.7959456
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -691,8 +687,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 42585,
-            "average": 4.7698956
+            "count": 42592,
+            "average": 4.769933
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -751,8 +747,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 42585,
-        "average": 4.7698956
+        "count": 42592,
+        "average": 4.769933
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -832,8 +828,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 24614,
-        "average": 4.7960105
+        "count": 24616,
+        "average": 4.7959456
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1135,8 +1131,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 13217,
-        "average": 4.7559204
+        "count": 13223,
+        "average": 4.756031
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1283,8 +1279,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 23251,
-        "average": 4.72999
+        "count": 23255,
+        "average": 4.7300367
       },
       "provider": {
         "name": "Microsoft Learn",

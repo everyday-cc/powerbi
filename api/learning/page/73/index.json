@@ -4,37 +4,6 @@
   "page": 73,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-the-ultimate-dax-measure-free-download-.md",
-      "title": "Power BI: The Ultimate DAX Measure (Free Download ⬇️)",
-      "excerpt": "It's a bird! It's a plane! It's the Ultimate DAX Measure! It can calculate anything and everything! Watch the video till the end! 👉 Download Power BI File in Video at https://web.learnpowerbi.com/download/  ➔ Links mentioned in the Video • Ultimate Calendar Download -https://www.youtube.com/watch?v=BtYn1hfdSAM&list=PL7GQQXV5Z8eczWqKFMDVoHMjTcpH3tgZm",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-the-ultimate-dax-measure-free-download-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-the-ultimate-dax-measure-free-download-/",
-      "originalUrl": "https://youtube.com/watch?v=WV5KxZRIzUE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WV5KxZRIzUE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M39S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-02-06T04:02:24-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WV5KxZRIzUE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-define-additional-measure-143.md",
       "title": "Power BI Tutorial for Beginners: DAX. Define Additional Measure (1.4.3)",
       "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
@@ -895,6 +864,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Qa8IoY32ZxE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-april-17-2020.md",
+      "title": "🔴Talk Power BI LIVE Q&A (Subscribe & Join) April 17, 2020",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  0:16:40 Merging or Combining Data By Jason P. 0:31:40 Play Button Showing Cumulative",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-april-17-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-april-17-2020/",
+      "originalUrl": "https://youtube.com/watch?v=TjDr3XxE114",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TjDr3XxE114\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3H46M21S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2020-04-17T13:48:24-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TjDr3XxE114/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

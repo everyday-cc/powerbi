@@ -1157,7 +1157,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 50,
+          "heat": 130,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1920,8 +1920,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 6801,
-        "average": 4.766799
+        "count": 6802,
+        "average": 4.7668333
       },
       "provider": {
         "name": "Microsoft Learn",
