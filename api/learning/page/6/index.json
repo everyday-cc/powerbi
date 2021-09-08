@@ -1157,7 +1157,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 130,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1878,8 +1878,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 8934,
-        "average": 4.7200584
+        "count": 8936,
+        "average": 4.720121
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1920,8 +1920,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 6802,
-        "average": 4.7668333
+        "count": 6803,
+        "average": 4.7668676
       },
       "provider": {
         "name": "Microsoft Learn",

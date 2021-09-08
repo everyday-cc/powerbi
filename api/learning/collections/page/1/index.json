@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 24616,
-            "average": 4.7959456
+            "count": 24621,
+            "average": 4.795987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 42592,
-            "average": 4.769933
+            "count": 42596,
+            "average": 4.769955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 42592,
-            "average": 4.769933
+            "count": 42596,
+            "average": 4.769955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -390,8 +390,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 20554,
-            "average": 4.7172813
+            "count": 20556,
+            "average": 4.717309
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -433,8 +433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 8934,
-            "average": 4.7200584
+            "count": 8936,
+            "average": 4.720121
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -475,8 +475,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6802,
-            "average": 4.7668333
+            "count": 6803,
+            "average": 4.7668676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1370,8 +1370,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 8848,
-            "average": 4.777238
+            "count": 8851,
+            "average": 4.7772
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1646,8 +1646,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10095,
-            "average": 4.675582
+            "count": 10097,
+            "average": 4.6756463
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1680,8 +1680,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 8065,
-            "average": 4.7062616
+            "count": 8066,
+            "average": 4.706174
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1956,8 +1956,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3162,
-            "average": 4.655914
+            "count": 3163,
+            "average": 4.6560225
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2040,8 +2040,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 2615,
-            "average": 4.693308
+            "count": 2616,
+            "average": 4.693425
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4536,7 +4536,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 130,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
