@@ -1447,7 +1447,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-premium-social.png",
@@ -1656,7 +1656,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-premium-social.png",
@@ -2683,8 +2683,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 4600,
-            "average": 4.7580433
+            "count": 4602,
+            "average": 4.757931
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2725,8 +2725,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 3714,
-            "average": 4.706516
+            "count": 3716,
+            "average": 4.7066736
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2768,8 +2768,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 4880,
-            "average": 4.769672
+            "count": 4882,
+            "average": 4.7697663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3213,8 +3213,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2817,
-            "average": 4.802272
+            "count": 2818,
+            "average": 4.802342
           },
           "provider": {
             "name": "Microsoft Learn",
