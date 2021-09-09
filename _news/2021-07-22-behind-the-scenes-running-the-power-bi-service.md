@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/behind-the-scenes-running
 webUrl: "https://powerbi.microsoft.com/en-us/blog/behind-the-scenes-running-the-power-bi-service/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:
