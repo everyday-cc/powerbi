@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/export-power-bi-report-to
 webUrl: "https://powerbi.microsoft.com/en-us/blog/export-power-bi-report-to-file-api-preview-update/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
