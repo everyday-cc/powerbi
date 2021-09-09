@@ -4,7 +4,7 @@ excerpt: "If you are looking for a job and need to learn Power BI this is the pe
 originalUrl: https://youtube.com/watch?v=hhsAdo7UUXc
 type: video
 price: Free
-length: PT5M45S
+length: PT5M44S
 publishedDateTime: 2019-09-15T23:53:01Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "xbq0FUFuFpeM+olc+K6zgKfVUGRyr4FeH474QKcwMSK3yd65UQjoD/k8Zvfm/esHumGFkG64jKi0xeCyl2tbBC0A6TQfT5HcqEPrN3PK1RBmILQ26WFy9pyAKIiBSV1S4t67P3NTeyM8/qRHZiER+e+kYpIZ5j9r8CeE1y4WHo6aaYhYvlffbJu+RQWggekuZcEPHAA8LYDUSXR5Xj63fEAcPQLRrqZVAo1lpw8Ys6+7ID6KejMRFEpAhJnVqmP0QqsHELST1I8ekpO91tN9b8s4VW1GxKSOR/m5eHA21mmgicike3F5u3u9e+UGgC8bMpsiPfsF7TR9018drqtoHBz6SalmkQ22jN5MaHTwHVYk8TFiJzK9qg+ic+ysMwmmCOFEBA52LpfxAaKBQl9xFmWrJMkmvXtumlhuW4N1ojE=;f6Oq5N4hETtS13rOOBIb2A=="
+secured: "9+LBINblPpNJDtdbpgImiQE9i5Nv5lunypW9+b3M/f8OYDOqrfuF5K2bnh6WMm4WRoa7Y/cS0OO0aMr7iBGuHYG6z5eIeJV4MxWEo8hsRjROSjKJD8i3AhNOBaNDgP6rf1Qd9ofA8UdD8qFHIGokA0jqnVB3e65vdEuN2iTz3prJznxI0zL7B20lv7SdHhn9wGAQmguuQzib9G3z7ZQxOaV1I61HetC7tGfyCfckzKxPW3F/srTu+hgRymlXPuESYxPKPNCPPT2DWgw5Y1dLcZts+LsZjPZCKxcaV6UF/N8o5m+X8DXmMfpkLdNkM9Eu9jW7lFkY0TfD8bJYQaXd5yZDqzGUEH9Du5CX6EUwuyb85ohoTASBIgJVZJOaakac59iFzm3ElPp8qV2xs++L6mPLrTniVhBZfAYHU9rMoBQ=;XD+LFXeLFjYDLpVEAvzexA=="
 ---
 
