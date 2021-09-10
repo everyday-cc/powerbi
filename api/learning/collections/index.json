@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 24680,
-            "average": 4.796191
+            "count": 24683,
+            "average": 4.796216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 42684,
-            "average": 4.769937
+            "count": 42688,
+            "average": 4.769912
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 42684,
-            "average": 4.769937
+            "count": 42688,
+            "average": 4.769912
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -390,8 +390,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 20577,
-            "average": 4.7175
+            "count": 20578,
+            "average": 4.717417
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2690,8 +2690,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 1606,
-            "average": 4.755915
+            "count": 1607,
+            "average": 4.7560673
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4756,7 +4756,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 131,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
