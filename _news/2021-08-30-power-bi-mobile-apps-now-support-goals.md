@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-mobile-apps-now-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-mobile-apps-now-support-goals/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:

@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Power BI Connector for Jira is Now an Atlassian Cloud Fortified App"
-excerpt: "Power BI Connector for Jira, an Enterprise Grade app created by Ukraine-based software development team Alpha Serve, got the status of an Atlassian Cloud Fortified app. Mykolaiv, Ukraine August 31, 2021 --(PR.com)-- Cloud Fortified Apps is the Atlassian ..."
+excerpt: "Power BI Connector for Jira, an Enterprise Grade app created by Ukraine-based software development team Alpha Serve, got the status of an Atlassian Cloud Fortified app. Mykolaiv, Ukraine August 31 ..."
 publishedDateTime: 2021-08-31T08:13:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/21/08/r22732569/power-bi-connector-for-jira-is-now-an-atlassian-cloud-fortified-app"
 webUrl: "https://www.benzinga.com/pressreleases/21/08/r22732569/power-bi-connector-for-jira-is-now-an-atlassian-cloud-fortified-app"
@@ -25,6 +25,6 @@ images:
     height: 600
     isCached: true
 
-secured: "CHdPMrE9jqXfYL+vO3sY41Fo3rXX5RccRhCBSrdotSsb9s7INDoDA7Lb82uSQDCDfYVdhPeJ1I9p4cOTyN1mMHqrFzs+T1fJMbbqmUfauCzs8isacvzxJxcJwH0I8w0P1kfRYkWq7lX6yObEQJnHQzJfAZWBSmBTylOmzcQpuduF95tazJjOa4mZ00ykRFkov3r0LtxrEn2zVkH2S8BLhXXtdR3y6cDhiAjwpwDuuhJnDyMAu8KzFAg3Ml3ijNtnylsiXRydNVhjbP1b878WiK0ln5LVOEk6VVhO3mJ2LGnVB432FYvvR2LOM7Zj0lckHFgFylVt2OSLGc6ECtV3LEGDcBtoRBtOBy9ei4KLYdg=;8wLDXf4GAQYNAU5+IKuS9A=="
+secured: "+3DRbar6YtrVnUJRAJQisCcQ1bThIDjE/VKpYlz4lvGJLEMVFrV1JzAEE/F3v43NdsFGDzRAVZ1ZTk+vGepUwEpCfQIOjHXnq28R9jCt9Jx8SmiAL6nc2rhT4sSPeW3Iwjxk+2SR28y+iiGoWb9eqn8a4QSkopdXfaTc26Ma68EcKhbBAesnA7ongm1u5/osVs9foekS/RwZkRdA5sJxdlCKGS5keaMflzFubnPANGUHvzXuPAVuHNb/s/yJz6iIkHCEXu5x6DIvGZ7Wjasl2mWcyDt+/xCdcjn6xr0+hO3Fnamf9rjMggJQoFS2Q4+s68gOEJiLzDn9PlvRO3lFde3jHcjH1KmdYCYRSR2ZrfI=;srB6mGzwhUTzimD2cyGvdA=="
 ---
 
