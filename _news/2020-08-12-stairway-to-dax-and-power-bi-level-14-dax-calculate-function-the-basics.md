@@ -3,10 +3,11 @@ category: news
 title: "Stairway to DAX and Power BI - Level 14: DAX CALCULATE() Function: The Basics"
 excerpt: "As a part of our introduction, we will examine the output we obtain, employing CALCULATE() via measures we construct within a Power BI model in the practice session that follows. We’ll discuss ..."
 publishedDateTime: 2020-08-12T02:31:00Z
+originalUrl: "https://www.sqlservercentral.com/steps/stairway-to-dax-and-power-bi-level-14-dax-calculate-function-the-basics"
 webUrl: "https://www.sqlservercentral.com/steps/stairway-to-dax-and-power-bi-level-14-dax-calculate-function-the-basics"
 type: article
-quality: 34
-heat: 34
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -15,6 +16,7 @@ provider:
 
 topics:
   - Power BI
+  - DAX
 
 images:
   - url: "https://www.sqlservercentral.com/wp-content/uploads/2020/08/sidebar-redgate-streamed_august-2020.png"
