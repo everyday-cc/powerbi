@@ -4,7 +4,7 @@ excerpt: "Learn the difference between segments and filter. Optimize the user ex
 originalUrl: https://youtube.com/watch?v=sQ7tObH5CGY
 type: video
 price: Free
-length: PT5M19S
+length: PT5M18S
 publishedDateTime: 2020-03-24T20:39:03Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "VnMerN/FAInzanIn7NPhi4YTYVp9wV2PvmXxkXhlIWoanzQAYsVJ78DRlN023tdetQoyN7ypil/6sKHan/TXVpe19FnEWJ9vUlXDBnFdGT2XK/gOZ9/JkfHjY+bBhk39VgjVqyrZdZEL9Xk06vTU1nJ2faGqqr9uwGr27XcTrX9kbwKdFNhKIq+3OabPcJ6EsnEK+yOQ4h+3yewmOJiOmqSmmSA2J7lYvUd6Xc6R4lSz/B50pB3GNKgRd3sahFXFiBqGNOxZADZFxg+h4kUE3bPuMQuP9+p70Mdq0pkmfhcVWbO8DBCmU5NbYpwy8k9rXWHV8DEh4qPcYMqOY2M+GkOn4zogzzIVkOao9R9AAMGoqLCnPj9UCxyOu7b2OeRwJqOE4CZY/NFZl+ITOuCRqp4UE9k1JxMoZtV6VwsI+f8=;8zdIkuxhhWfg7p1WAP9N7w=="
+secured: "Snz2t3PvLGQxaM8j9Bo7jfrJwBeCJmhZEYUSFOVYoHPwprRlMD0C5I1dkGAjV1BvI9yw2RAc24ddpCSOXw9wkZHRDEsnCZy/rn1pJI2K0UzrTUmAdrZwyxFNm1whLcTUo1rpm0SB1EE4Ne8ttTI3FoZkdZmfoen87OHj5Q3I7oJNFefFaZaQS/9/AlwfbkyFmHL9LzeIuPus65r/gg9Nr4NR0VJ0SUysl+CP+skZHZFFg7tdZimAox579WkCaVHXGCSUSpWsKK/DiQe7o/8adY7i1DeglBBX7nnDHKIdKUo2d1RKvCOhCtS38K6h6Z8cXS+0+WvttNkHyDpCnUOtRxIeFMAsDQC5GkA5rFqXW7iLFZ0HM2p0IBBb/ACO2grYU8mgwlc0TVMyRGA72xzWmsMJWfNlG7nKzFmt1dX3hFg=;WKRwrhETW8v3GUqp7W0Stg=="
 ---
 
