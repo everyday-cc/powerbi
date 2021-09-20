@@ -6,8 +6,8 @@ publishedDateTime: 2020-09-02T00:45:00Z
 originalUrl: "https://www.sqlservercentral.com/steps/stairway-to-dax-and-power-bi-level-15-the-dax-allselected-function"
 webUrl: "https://www.sqlservercentral.com/steps/stairway-to-dax-and-power-bi-level-15-the-dax-allselected-function"
 type: article
-quality: 37
-heat: 37
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - Power BI
+  - DAX
 
 images:
   - url: "https://www.sqlservercentral.com/wp-content/uploads/2020/08/word-image.png"

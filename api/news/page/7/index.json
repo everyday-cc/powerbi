@@ -2,6 +2,109 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-12-17-heres-all-that-is-new-in-power-bis-last-update-for-2020.md",
+      "title": "Here's all that is new in Power BI's last update for 2020",
+      "excerpt": "Power BI has received a host of new updates this month. The final update for this year is now rolling out, with some new capabilities being featured, as well as some recent ones being highlighted.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-17-heres-all-that-is-new-in-power-bis-last-update-for-2020/index.json",
+      "webUrl": "https://www.neowin.net/news/heres-all-that-is-new-in-power-bis-last-update-for-2020",
+      "originalUrl": "https://www.neowin.net/news/heres-all-that-is-new-in-power-bis-last-update-for-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/12/1608218772_power_bi_december_2020_update_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/heres-all-that-is-new-in-power-bis-last-update-for-2020/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/heres-all-that-is-new-in-power-bis-last-update-for-2020/",
+      "publishedDateTime": "2020-12-17T02:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-17-anomaly-detection-preview-is-now-supported-in-power-bi-mobile-apps.md",
+      "title": "Anomaly detection (preview) is now supported in Power BI Mobile apps",
+      "excerpt": "With the the latest Power BI Mobile apps release report consumers can view and understand anomalies directly from the mobile apps! This capability is available on all apps (iOS, Android, Windows), in all supported form factors (phone, tablet, iPad, and laptop/desktop, including Surface Hub).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-17-anomaly-detection-preview-is-now-supported-in-power-bi-mobile-apps/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview-is-now-supported-in-power-bi-mobile-apps/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/anomaly-detection-preview-is-now-supported-in-power-bi-mobile-apps/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JC8xM74Bhlo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-16T16:49:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2020-12-16-mariadb-direct-query-adapter-now-available-and-certified-in-microsoft-power-bi.md",
       "title": "MariaDB Direct Query Adapter Now Available and Certified in Microsoft Power BI",
       "excerpt": "Before it's here, it's on the Bloomberg Terminal.",
@@ -1160,108 +1263,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-join-us-power-bi-dev-camp-thursday-17-december-2020.md",
-      "title": "Join Us! Power BI Dev Camp! Thursday 17 December, 2020",
-      "excerpt": "Step up your game as a Power BI developer by learning how to develop single page applications (SPAs) to embed Power BI reports and dashboards using the ever-popular React.js library. If you&#8217;re able to attend this Power BI Dev Camp session on Thursday, December 17th, you&#8217;ll learn how to design",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-30-join-us-power-bi-dev-camp-thursday-17-december-2020/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-17-december-2020/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-17-december-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-29T22:00:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-moving-on-premises-as-and-rs-bi-solutions-to-azure-and-closer-to-power-bi.md",
-      "title": "Moving on-premises AS and RS BI solutions to Azure – and closer to Power BI",
-      "excerpt": "With the availability of virtual machine images for SQL Server Analysis Services (SSAS) and SQL Server Reporting Services (SSRS) in Azure Marketplace, you can now more easily migrate your AS and RS BI solutions from on-premises to Azure! This is a great opportunity to move your multidimensional workloads",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-11-25-moving-on-premises-as-and-rs-bi-solutions-to-azure-and-closer-to-power-bi/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/moving-on-premises-as-and-rs-bi-solutions-to-azure-and-closer-to-power-bi/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/moving-on-premises-as-and-rs-bi-solutions-to-azure-and-closer-to-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T00:48:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

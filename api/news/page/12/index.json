@@ -2,6 +2,110 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-06-22-what-to-focus-on-with-dax-and-more-roundup-june-22-2020.md",
+      "title": "What to FOCUS on with DAX and more... (Roundup | June 22, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup183 2 Minute Tuesday: https://guyinacu.be/datarefresh Adam's tech video: https://guyinacu.be/perfstart  🔴 Live Replay: https://guyinacu.be/live015  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-06-22-what-to-focus-on-with-dax-and-more-roundup-june-22-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-22-what-to-focus-on-with-dax-and-more-roundup-june-22-2020/",
+      "originalUrl": "https://youtube.com/watch?v=YvSuCayng30",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YvSuCayng30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YvSuCayng30/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "What to FOCUS on with DAX and more... (Roundup | June 22, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-22T08:00:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_news/2020-06-18-power-bi-desktop-update-june-2020.md",
+      "title": "Power BI Desktop Update - June 2020",
+      "excerpt": "We have great updates this release! We're super excited to announce this month that several features are now generally available: automatic page refresh, the hierarchy slicer, the modern ribbon, and AI insights are now generally available. On top of this, we have several new features and updates that",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-06-18-power-bi-desktop-update-june-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-18-power-bi-desktop-update-june-2020/",
+      "originalUrl": "https://youtube.com/watch?v=WUo8TnHNHYM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WUo8TnHNHYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WUo8TnHNHYM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - June 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-18T10:24:47-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2020-06-17-get-the-2020-master-microsoft-excel-power-bi-certification-bundle-for-just-3499.md",
       "title": "Get the 2020 Master Microsoft Excel & Power BI Certification Bundle for just $34.99",
       "excerpt": "Become the data-driven hero companies need with 28 hours of training in data plotting, auto calculation, macros, visualization and more with today's highlighted deal. Get it via Neowin Deals!",
@@ -1157,110 +1261,6 @@
           "width": 1280,
           "height": 720,
           "title": "Power BI Desktop Update - August 2019",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T12:18:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-power-bi-desktop-update-december-2019.md",
-      "title": "Power BI Desktop Update - December 2019",
-      "excerpt": "This December update is packed with several new features! In preview, we have the new Customize theme dialog that allows you to tweak common theme settings without having to write or modify a JSON file! Additionally, we now allow you to export the current theme as a JSON so you can easily share, reuse,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-02-05-power-bi-desktop-update-december-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-02-05-power-bi-desktop-update-december-2019/",
-      "originalUrl": "https://youtube.com/watch?v=eCEwgZsVUOs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eCEwgZsVUOs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eCEwgZsVUOs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Power BI Desktop Update - December 2019",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T12:18:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-power-bi-desktop-update-november-2019.md",
-      "title": "Power BI Desktop Update - November 2019",
-      "excerpt": "The November update has major updates in several areas of Power BI Desktop. There's a new, modern ribbon that aligns Power BI Desktop with Office and adds more functionality. We're also adding a new visual, the decomposition tree, which is one of the most requested ideas on ideas.powerbi.com. AI functions",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-02-05-power-bi-desktop-update-november-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-02-05-power-bi-desktop-update-november-2019/",
-      "originalUrl": "https://youtube.com/watch?v=kVli3Vm_kDo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kVli3Vm_kDo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kVli3Vm_kDo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Power BI Desktop Update - November 2019",
           "attribution": null,
           "isCached": true
         }
