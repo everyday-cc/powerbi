@@ -71,7 +71,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 130,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-data-connectivity-social.png",
@@ -137,8 +137,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-organize-fields/",
       "length": "PT52M",
       "ratings": {
-        "count": 17,
-        "average": 4.4117646
+        "count": 18,
+        "average": 4.4444447
       },
       "provider": {
         "name": "Microsoft Learn",
