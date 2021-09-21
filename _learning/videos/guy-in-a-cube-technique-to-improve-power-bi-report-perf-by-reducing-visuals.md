@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT14M14S
 publishedDateTime: 2020-05-14T15:00:30Z
-heat: 53
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kkIXtvU1AiM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "aw3Al5oZSFYvYilXi4WPPAWzCm3wYU6+V4tG6O15Q+ga9LNSPZrAflZ0fiXEEsFdA0j1c6FV2lKRVsprmUUQdDErs55KmhFKvYfBQoeUSUZHp3ZUOxX2KyCQEEmzwTCBTSGpPEIqV05vcv1Y6r2guczU+S6/pvG4Tfg1XeWjgJm5sZq0C02a7cZkUYvMhN3u5MfIPWrGbai6Vbx62VtjTxneHlSy61iRT/JIlvJfQT+AOKW9F6BFo6Qn1gFbViOim0qv2zvcJT9mTAWayTaeuevEQpiK1yTjajsQFcVo1n5O2KlhOl1JRijr9CjKs4tnsb/YDdjCwLZaHtyMuza88QH9oGvNb+d7zHtBkO59JkbnjLr3uz0dgsNTubOclnHueZwl4UyvB3FAxCd9SQn4F18nc7KRComr3znXIiqiZIU=;FNpSf2KwRt/TmJRNvrLFmA=="
+secured: "HBClGrubdyIranJ5agJf/MJX5rXlgWqyez8DqwNXIFFSr9Gn/hcLY+/TBY8tr0n95LGJRxq6aNATe3KYJ6hx0zls+xFmNDV6xIFbV9tQF+7eegqg6VuPtyxXDXezAaAODVI+KJTJiA8RWKNtAuP3x5MVFrYmvpRVDqWgL3lKzyfoLXlCpl6YmfzylWIFYM6IvD1+X4GjTmmi4APLuc2ud7rXsrvF0VQRFmOxk3Upmo9Oao1rClTRUFoAOW1iA/dnPO5GSFCXufkoM+xSateubb6ZxKkmPRMK5/6+SyQHbH0aAcmXOFhy9UQgfpaLtTGwV0bjmA9JFYQ34MRti8NScF4jiAmup6f96GGLIobQtuKCakSRLhf8XwiOAcvP7kVINf5G8s4I22pDYzeWYE/8EsIyVB0MMNtFKfPa51AVlas=;/qTKgEqairly80UddOQnWg=="
 ---
 
