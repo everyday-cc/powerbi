@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-22-power-bi-developer-community-february-2021-update.md",
+      "title": "Power BI Developer community February 2021 update",
+      "excerpt": "This blog post covers the latest updates for the Power BI Developer community. Don’t forget to check out our last developer blog post if you haven’t done so already. Here is the list of updates: Embedded analytics updates Announcements Power BI Embedded Generation 2 (preview) Power BI embedded analytics",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-22-power-bi-developer-community-february-2021-update/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-developer-community-february-2021-update/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-developer-community-february-2021-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-22T00:00:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-as-power-bi-aces-gartners-new-magic-quadrant-whats-the-story-behind-microsofts-success.md",
       "title": "As Power BI aces Gartner's new Magic Quadrant, what's the story behind Microsoft's success?",
       "excerpt": "Tableau, meanwhile, regressed in both of those dimensions. This gives Microsoft, and its Power BI juggernaut, a huge lead on the competition. And while it's tempting to look at Microsoft as some ...",
@@ -1213,58 +1264,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-21-quickly-create-reports-in-the-power-bi-service-preview.md",
-      "title": "Quickly create reports in the Power BI service (preview)",
-      "excerpt": "We’re excited to introduce a new way to quickly create reports in the Power BI service. Rather than downloading Power BI Desktop and importing the data, you’ll now be able to paste data straight into Power BI on the web and have visuals automatically generated for you.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-21-quickly-create-reports-in-the-power-bi-service-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/quickly-create-reports-power-bi-service/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/quickly-create-reports-power-bi-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-21T01:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Service"
       ]
     }
   ],
