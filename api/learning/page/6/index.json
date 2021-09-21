@@ -1596,7 +1596,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-environment-social.png",
@@ -3129,8 +3129,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10212,
-        "average": 4.675676
+        "count": 10213,
+        "average": 4.6757073
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3163,8 +3163,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 9059,
-        "average": 4.720609
+        "count": 9061,
+        "average": 4.720671
       },
       "provider": {
         "name": "Microsoft Learn",
