@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-embedded-analyti
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-embedded-analytics-playground-updates/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
