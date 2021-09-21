@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2021-09-14T03:00:45-07:00",
-      "heat": 218,
+      "heat": 168,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/miiGlDWeamM/maxresdefault.jpg",
@@ -167,8 +167,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 20802,
-        "average": 4.7177196
+        "count": 20804,
+        "average": 4.7177467
       },
       "provider": {
         "name": "Microsoft Learn",
