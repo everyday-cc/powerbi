@@ -6,9 +6,11 @@ publishedDateTime: 2021-09-21T09:35:09Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-september-2021-update-is-now-available/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-september-2021-update-is-now-available/"
 type: article
-quality: 72
-heat: 72
+quality: 174
+heat: 174
 published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IagiPEZ_eIY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Microsoft
@@ -20,6 +22,7 @@ provider:
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"
@@ -27,6 +30,6 @@ images:
     height: 630
     isCached: true
 
-secured: "3iEC50m4503F/iuWiQMFGO9N6oiC7YJYp4jscDtyxOgSoXej7xFrI29VdSpGCstpmxASAdVPQ/d1ty+o/3Qc5qT2lWbu7Pk0PHidacwlZJCJOwupNaVjznMTsWA6Xv22wYwfBvOMc4hclH79pFQ1EcapHk42zUuuaIns7Aj9A3U1fWsEGRsAoRPxO01tUokQQ/IRiwy3H7EAV4nOdeRmeRSFaDk7hHyFb4a+HkEUOrN4UJDrdsW4wEuU5lVNnoq8QlNaSg+b2dRPRxOyVMkUej41K0eQuyBeyDL8GDFE9OFtWxe1RhTj1IJgbIPytEE84dRskwoJZ93/nckE65D6baBg3mCLlfmfZaNqlMTNCIk=;2TSQhtc1ZChw8+9HhLF22w=="
+secured: "Gy2IipayKvZCIdz8Rlh6Vid0vfAxH/8BqDnFMBt9Lda/1JOc06bjW29wdjqM+1+O/rrkHwZtPHr3chg4rid2PqyjwQy6FXqaHEtuUkidhhh6Wktkl2VNZHIKMQe+bPhlqZcNwsgv37hf1+W4snsWznWxl6dXkihHStBDDRy4QsvE+ifWGcGkWoaWL5Rb5Ba0Sck2xATDve2jMypfgglCAWEFEJO0stVFj8OGAUjoGmA+LU9hQca5TdMEuY3mfLe5mgAhTCsRqUviVZj6Fi6ACK4ox3oYlMrRgMI+SIDF8MnlDGnm779iPL8FABrd8d8KxLJxU42XLVjJYkla+x78A9kLvsjzqIen5b7O35+XqOJCA8gAfIu1hqG26ayic/fHOSmPnqvW4PqZytf1/5kPC2JOY+LujEbUp5Ca7362z3s=;PcCQhed5aR1Nvm/x62SWkQ=="
 ---
 

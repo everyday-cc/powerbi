@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-06-29-new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available.md",
+      "title": "New capabilities for the Power BI Snowflake connector are now generally available",
+      "excerpt": "Enhanced capabilities to the Snowflake connector for Power BI were added a while back, including support for Azure Active Directory authentication, and more. These are now generally available.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-06-29-new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-29-new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/",
+      "originalUrl": "https://www.neowin.net/news/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779296_powerbi2_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": "New capabilities for the Power BI Snowflake connector are now generally available",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/new-capabilities-for-the-power-bi-snowflake-connector-are-now-generally-available/",
+      "publishedDateTime": "2020-06-29T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-06-29-save-95-off-the-cost-of-this-data-analysis-with-excel-power-bi-bundle.md",
       "title": "Save 95% off the cost of this Data Analysis with Excel + Power BI Bundle",
       "excerpt": "Length of time users can access this course: lifetime Certification of completion included Updates included Redemption deadline: redeem your code within 30 days of purchase See all Online Courses ...",
@@ -1240,58 +1291,6 @@
         "Power BI",
         "Power BI Desktop",
         "DAX"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-power-bi-desktop-update-july-2019.md",
-      "title": "Power BI Desktop Update - July 2019",
-      "excerpt": "With this month comes the first feature release from our announcements at Microsoft Business Application Summit, Icon sets, which also addresses our current #1 idea on ideas.powerbi.com. On top of this major update, we have incremental improvements for many of our existing features, such as a counts",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-02-05-power-bi-desktop-update-july-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-02-05-power-bi-desktop-update-july-2019/",
-      "originalUrl": "https://youtube.com/watch?v=l7OMRUF9UYg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l7OMRUF9UYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/l7OMRUF9UYg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Power BI Desktop Update - July 2019",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T12:19:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

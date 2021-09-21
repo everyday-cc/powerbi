@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-25-announcing-power-bi-inheritance-of-mip-labels-from-azure-synapse-analytics-public-preview.md",
+      "title": "Announcing Power BI inheritance of MIP labels from Azure Synapse Analytics (Public Preview)",
+      "excerpt": "As data becomes more accessible for analysis, risk of accidental oversharing or misuse of business-critical information increases. Today, we’re happy to announce a preview of Power BI MIP label inheritance when import data from Azure Synapse Analytics and Azure SQL Database. This capability will help",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-25-announcing-power-bi-inheritance-of-mip-labels-from-azure-synapse-analytics-public-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-inherit-mip-label-from-azure-synapse-analytics-public-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-inherit-mip-label-from-azure-synapse-analytics-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-25T07:23:11-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-03-24-guide-to-enabling-your-organization-to-use-power-bi-in-microsoft-teams.md",
       "title": "Guide to enabling your organization to use Power BI in Microsoft Teams",
       "excerpt": "Learn why and how to deploy Power BI for Microsoft Teams broadly within your organization. This guide provides you a game plan to justify and execute a roll-out. It helps you move to action quickly with PowerShell script example to automate the process.",
@@ -1218,58 +1269,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-power-bi-february-2021-feature-summary.md",
-      "title": "Power BI February 2021 Feature Summary",
-      "excerpt": "Welcome to the first feature summary of 2021! This month, we have a couple of updates on ongoing previews, as well as a new color picker that features RGB color selector and a search bar to make discovery of features easier. Additionally, we are introducing new filter operations and enable subscriptions",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-23-power-bi-february-2021-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-february-2021-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-february-2021-feature-summary/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h4JL2lITJ7U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T01:56:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

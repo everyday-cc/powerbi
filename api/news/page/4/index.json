@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-18-learn-connect-and-code-at-the-microsoft-build-summit-may-25th-27th-2021.md",
+      "title": "Learn, Connect, and Code at the Microsoft Build Summit! May 25th-27th, 2021",
+      "excerpt": "Join the Power BI team and be inspired by community experts, learn best practices, and discover helpful resources with other attendees.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-18-learn-connect-and-code-at-the-microsoft-build-summit-may-25th-27th-2021/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/learn-connect-and-code-at-the-microsoft-build-summit-may-25th-27th-2021/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/learn-connect-and-code-at-the-microsoft-build-summit-may-25th-27th-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-18T01:00:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-05-14-power-bi-desktop-update-may-2021-and-mbas.md",
       "title": "Power BI Desktop Update May 2021 and MBAS",
       "excerpt": "I will take the opportunity and do a double review:      1.The power bi update for May 2021 and       2. the anouncements on MBAS   Chapters: 00:00 Intro 00:30 Modern visual tooltips 01:30 Disable sensitivity labels 02:00 DQ for power bi datasets and analysis services 02:30 Improved lineage view - notify",
@@ -1195,57 +1246,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-29T11:30:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-25-announcing-power-bi-inheritance-of-mip-labels-from-azure-synapse-analytics-public-preview.md",
-      "title": "Announcing Power BI inheritance of MIP labels from Azure Synapse Analytics (Public Preview)",
-      "excerpt": "As data becomes more accessible for analysis, risk of accidental oversharing or misuse of business-critical information increases. Today, we’re happy to announce a preview of Power BI MIP label inheritance when import data from Azure Synapse Analytics and Azure SQL Database. This capability will help",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-25-announcing-power-bi-inheritance-of-mip-labels-from-azure-synapse-analytics-public-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-inherit-mip-label-from-azure-synapse-analytics-public-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-inherit-mip-label-from-azure-synapse-analytics-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-25T07:23:11-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
