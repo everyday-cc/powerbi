@@ -1992,8 +1992,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 78,
-            "average": 4.6410255
+            "count": 79,
+            "average": 4.64557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2704,8 +2704,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 4980,
-            "average": 4.7696786
+            "count": 4981,
+            "average": 4.769725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2996,8 +2996,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2870,
-            "average": 4.800697
+            "count": 2871,
+            "average": 4.8007665
           },
           "provider": {
             "name": "Microsoft Learn",
