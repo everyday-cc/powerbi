@@ -1778,7 +1778,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2749,8 +2749,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 3793,
-            "average": 4.7089376
+            "count": 3795,
+            "average": 4.7088275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2875,8 +2875,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2601,
-            "average": 4.717032
+            "count": 2603,
+            "average": 4.7172494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3042,8 +3042,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1993,
-            "average": 4.7150025
+            "count": 1994,
+            "average": 4.7141423
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3060,7 +3060,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 133,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/manage-datasets-in-power-bi-social.png",
@@ -3084,8 +3084,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2867,
-            "average": 4.801186
+            "count": 2868,
+            "average": 4.800558
           },
           "provider": {
             "name": "Microsoft Learn",
