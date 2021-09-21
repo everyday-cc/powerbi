@@ -309,14 +309,14 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-choosing-between-date-or-integer-to-represent-dates-in-power-bi-and-tabular.md",
-      "title": "Choosing between Date or Integer to represent dates in Power BI and Tabular",
-      "excerpt": "This video provides you with the technical knowledge to choose between using a Date or an Integer to create the relationship between your fact table and the Date dimension.\r Article and download: https://sql.bi/717512?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-choosing-between-date-or-integer-to-represent-dates-in-power-bi-and-tabular/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-choosing-between-date-or-integer-to-represent-dates-in-power-bi-and-tabular/",
-      "originalUrl": "https://youtube.com/watch?v=DKNS1fCp-zQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DKNS1fCp-zQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M11S",
+      "path": "_learning/videos/sqlbi-customize-default-values-for-each-user-in-power-bi-reports.md",
+      "title": "Customize default values for each user in Power BI reports",
+      "excerpt": "Learn how to use calculation groups to define a default set of values for columns in your model. Different users can have different default values, and yet retain the full capability to select different values.\r Article and download: https://sql.bi/717242?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-customize-default-values-for-each-user-in-power-bi-reports/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-customize-default-values-for-each-user-in-power-bi-reports/",
+      "originalUrl": "https://youtube.com/watch?v=ZHlC55APxPs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZHlC55APxPs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT38M49S",
       "provider": {
         "name": "SQLBI",
         "domain": "sqlbi.com",
@@ -329,11 +329,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-08-03T03:00:48-07:00",
+      "publishedDateTime": "2021-07-20T03:00:14-07:00",
       "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/DKNS1fCp-zQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZHlC55APxPs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -373,65 +373,53 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-admin-premium.md",
-      "title": "Provision Premium capacity in Power BI",
-      "excerpt": "Learn about the differences between Power BI Pro and Power BI Premium, and how Power BI Premium manages capacity resources.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-premium/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-premium/",
-      "length": "PT19M",
-      "ratings": {
-        "count": 24,
-        "average": 4.9166665
-      },
+      "path": "_learning/videos/dhruvin-shah-new-way-to-compare-date-and-datetime-value-in-power-bi-august-2021-feature-summary.md",
+      "title": "New way to compare Date and DateTime Value in Power BI - August 2021 Feature Summary",
+      "excerpt": "Welcome to one more new update from Power BI Desktop. Sometimes we need to compare date or DateTime value in our DAX expression. At that time, we are using Date() function and Time() function. Now, there's one more easy way to compare Date and Time value in Power BI which is using \"dt\" keyword before",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-way-to-compare-date-and-datetime-value-in-power-bi-august-2021-feature-summary/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-way-to-compare-date-and-datetime-value-in-power-bi-august-2021-feature-summary/",
+      "originalUrl": "https://youtube.com/watch?v=SMHbMhX1Ggg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SMHbMhX1Ggg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
+      "publishedDateTime": "2021-08-21T19:43:07-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-premium-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/SMHbMhX1Ggg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-introducing-new-shapes-with-customize-shape-formatting.md",
-      "title": "Introducing New Shapes with Customize shape formatting",
-      "excerpt": "During this video, we will talk about newly introduced shapes in Power BI. Introducing New Shapes in Power BI with Conditional formatting. Now, we can apply shape formatting in a dynamic manner in Power BI. To apply, shape formatting, we need to apply conditional formatting like other Power BI visuals.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-introducing-new-shapes-with-customize-shape-formatting/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-introducing-new-shapes-with-customize-shape-formatting/",
-      "originalUrl": "https://youtube.com/watch?v=sXgc1-pjWeI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sXgc1-pjWeI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M11S",
+      "path": "_learning/videos/dhruvin-shah-top-8-best-practices-for-power-bi-qna-maker-visual-powerbi-shorts.md",
+      "title": "Top 8 Best Practices for Power BI QnA Maker Visual #PowerBI #Shorts",
+      "excerpt": "Welcome to Power BI One Minute Short. During this #Shorts we will talk about best practices we need to follow to get the perfect outcomes or result from Power BI QnA Maker Visual.   We all know that QnA Maker Visual in Power BI supports the natural language. However, to work with QnA Maker in a Proper",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-top-8-best-practices-for-power-bi-qna-maker-visual-powerbi-shorts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-top-8-best-practices-for-power-bi-qna-maker-visual-powerbi-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=9L6Rxxd_5D0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9L6Rxxd_5D0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT59S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-08-21T19:58:27-07:00",
+      "publishedDateTime": "2021-07-30T05:16:23-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/sXgc1-pjWeI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9L6Rxxd_5D0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -855,8 +843,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 25129,
-            "average": 4.7968082
+            "count": 25134,
+            "average": 4.796769
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -897,8 +885,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 43286,
-            "average": 4.770457
+            "count": 43290,
+            "average": 4.770455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -957,8 +945,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 43286,
-        "average": 4.770457
+        "count": 43290,
+        "average": 4.770455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1107,8 +1095,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 25129,
-        "average": 4.7968082
+        "count": 25134,
+        "average": 4.796769
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1203,8 +1191,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 43286,
-            "average": 4.770457
+            "count": 43290,
+            "average": 4.770455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1288,8 +1276,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 9058,
-            "average": 4.720689
+            "count": 9059,
+            "average": 4.720609
           },
           "provider": {
             "name": "Microsoft Learn",

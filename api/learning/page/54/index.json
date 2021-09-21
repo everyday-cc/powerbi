@@ -4,6 +4,36 @@
   "page": 54,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-create-an-azure-app-function-to-generate-access-token-of-power-bi-embedded-part-4.md",
+      "title": "Create an Azure APP Function to Generate Access Token of Power BI Embedded | Part 4",
+      "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application. During this video we will learn,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-create-an-azure-app-function-to-generate-access-token-of-power-bi-embedded-part-4/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-create-an-azure-app-function-to-generate-access-token-of-power-bi-embedded-part-4/",
+      "originalUrl": "https://youtube.com/watch?v=rPW7jTHeXRQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rPW7jTHeXRQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M5S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-03-19T10:12:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rPW7jTHeXRQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-create-contact-list-for-power-bi-reports-and-dashboards.md",
       "title": "Create Contact List for Power BI Reports and Dashboards",
       "excerpt": "In this video, we will talk about the new rolled out feature by Microsoft which is the Contact List for the Power BI report and dashboards.   In this video, we will learn what is the real use of the Contact lists and then we will create a Contact List for the Power BI reports and dashboards.   Contact",
@@ -869,36 +899,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/1TcIX1mXnb4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-getting-started-with-azure-maps-visual-in-power-bi.md",
-      "title": "Getting Started with Azure Maps visual in Power BI",
-      "excerpt": "Welcome to Power BI session series. Myself Dhruvin Shah and today, I will explain about Azure Maps Visual in Power BI.  Microsoft recently launched this feature as a Preview feature in July 2020 Power BI Desktop Update.  During this session, first we will take an Overview of Azure Maps visualization.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-getting-started-with-azure-maps-visual-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-getting-started-with-azure-maps-visual-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=-r5K5kmb8wc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-r5K5kmb8wc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT31M56S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-07-20T23:25:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-r5K5kmb8wc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
