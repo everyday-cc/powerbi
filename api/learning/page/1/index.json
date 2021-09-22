@@ -34,6 +34,37 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-book-overview-the-definitive-guide-to-power-query-in-power-bi-and-excel.md",
+      "title": "Book Overview: The Definitive Guide to Power Query in Power BI and Excel",
+      "excerpt": "Recently Leila and I published a series of two books under the name of The Definitive Guide to Power Query in Power BI and Excel. Both books are now available in ebook and paperback format on Amazon and Google Play Books. In this video, I'll explain some details about the book, the agenda, and who is",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-book-overview-the-definitive-guide-to-power-query-in-power-bi-and-excel/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-book-overview-the-definitive-guide-to-power-query-in-power-bi-and-excel/",
+      "originalUrl": "https://youtube.com/watch?v=HtvyiSkgpsg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HtvyiSkgpsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M39S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-09-20T20:38:34-07:00",
+      "heat": 183,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HtvyiSkgpsg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-what-a-power-bi-hierarchy-is-and-how-to-use-it.md",
       "title": "What a Power BI Hierarchy Is and How to Use it",
       "excerpt": "Power BI hierarchies are a useful structure for drill-down and data exploration in reports. A hierarchy can be created simply and can add great value for you as a developer and end-users for better data analysis. In this article and video, I’ll explain what a Power BI hierarchy is and how to create it.",
@@ -102,31 +133,23 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-can-you-refresh-a-single-table-in-power-bi.md",
-      "title": "Can you refresh a single table in Power BI?",
-      "excerpt": "Frustrated that a you can only do a full refresh? Patrick takes it to the next level by showing how you can refresh only a single table in your Power BI dataset. This is a great option for targeted refresh and avoid potential overhead.  Processing Options:  https://docs.microsoft.com/analysis-services/multidimensional-models/processing-options-and-settings-analysis-services?view=asallproducts-allversions",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-refresh-a-single-table-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-refresh-a-single-table-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=OYYnoMa-93g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OYYnoMa-93g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M55S",
+      "path": "_learning/videos/dhruvin-shah-paginated-report-visual-in-power-bi.md",
+      "title": "Paginated Report Visual in Power BI",
+      "excerpt": "Welcome to one more interesting video from Power BI June 2021 feature updates. So, excited to announce that the long-anticipated paginated report visual for Power BI reports is now available in Power BI Desktop as a public preview. Yes, during this video we will talk about Paginated Report Visual in",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-paginated-report-visual-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-paginated-report-visual-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=ecToHMRv7aE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ecToHMRv7aE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M55S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-08-18T08:00:23-07:00",
-      "heat": 137,
+      "publishedDateTime": "2021-06-28T19:40:10-07:00",
+      "heat": 134,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/OYYnoMa-93g/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ecToHMRv7aE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -140,25 +163,25 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-book-overview-the-definitive-guide-to-power-query-in-power-bi-and-excel.md",
-      "title": "Book Overview: The Definitive Guide to Power Query in Power BI and Excel",
-      "excerpt": "Recently Leila and I published a series of two books under the name of The Definitive Guide to Power Query in Power BI and Excel. Both books are now available in ebook and paperback format on Amazon and Google Play Books. In this video, I'll explain some details about the book, the agenda, and who is",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-book-overview-the-definitive-guide-to-power-query-in-power-bi-and-excel/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-book-overview-the-definitive-guide-to-power-query-in-power-bi-and-excel/",
-      "originalUrl": "https://youtube.com/watch?v=HtvyiSkgpsg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HtvyiSkgpsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M39S",
+      "path": "_learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi.md",
+      "title": "Maintain Bar Thickness(Width) in Power BI",
+      "excerpt": "Welcome to one more Short Video of Power BI. In this video, I'm going to explain how you can maintain the thickness of your bar in  Power BI. Most of the time when we add bar chart, column chart, stacked chart in Power BI, the thickness of each bar managed automatically. Sometimes, we need to maintain",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=poNpiApNZNs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/poNpiApNZNs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M31S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-09-20T20:38:34-07:00",
-      "heat": 136,
+      "publishedDateTime": "2021-06-29T21:08:10-07:00",
+      "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/HtvyiSkgpsg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/poNpiApNZNs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -166,28 +189,27 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power Query"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/radacad-explicit-vs-implicit-dax-measures-in-power-bi.md",
-      "title": "Explicit Vs Implicit DAX Measures in Power BI",
-      "excerpt": "Have you ever tried to connect to a Power BI dataset from Excel using Analyze in Excel? if yes, you might have had this experience that your values don’t show in Excel’s Pivot table as values. This is because those values are not explicit measures, they are implicit measures in Power BI. In this article",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-explicit-vs-implicit-dax-measures-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-explicit-vs-implicit-dax-measures-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=f7g6EvNGClQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f7g6EvNGClQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M57S",
+      "path": "_learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship.md",
+      "title": "DAX CrossFilter Function in Power BI   Write the Formula both directional but keep the relationship",
+      "excerpt": "If you are familiar with relationships in Power BI, you know that there are scenarios that you may need to change the direction of the relationship to a both-directional. A both-directional relationship comes at a cost, which is mainly the performance and ambiguity of the model. There is a way to write",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship/",
+      "originalUrl": "https://youtube.com/watch?v=8--Yv18rhyA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8--Yv18rhyA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M39S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-08-10T15:30:44-07:00",
+      "publishedDateTime": "2021-06-30T18:29:17-07:00",
       "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/f7g6EvNGClQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8--Yv18rhyA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -223,36 +245,6 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/power-bi-tips-austin-power-bi-user-group-charticulator-101.md",
-      "title": "Austin Power BI User Group - Charticulator 101",
-      "excerpt": "This Austin User Group presentation is all about the Basics of Charticulator. We also go through three demos of visual creations. 1. Build a fancy Bar chart mirroring what is done in desktop 2. Cool chart with stacked bars and scatter plot 3. Box and Whisker chart  Follow Mike on LinkedIn: https://www.linkedin.com/in/michaelcarlo/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-austin-power-bi-user-group-charticulator-101/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-austin-power-bi-user-group-charticulator-101/",
-      "originalUrl": "https://youtube.com/watch?v=3-6-iPhbmhQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3-6-iPhbmhQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H19M28S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2021-08-11T18:09:09-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3-6-iPhbmhQ/maxresdefault_live.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
       "topics": [
         "Power BI"
       ]
@@ -784,8 +776,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 25183,
-            "average": 4.796688
+            "count": 25192,
+            "average": 4.7966814
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -826,8 +818,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 43355,
-            "average": 4.7704763
+            "count": 43357,
+            "average": 4.770487
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -886,8 +878,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 43355,
-        "average": 4.7704763
+        "count": 43357,
+        "average": 4.770487
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1035,8 +1027,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 25183,
-        "average": 4.796688
+        "count": 25192,
+        "average": 4.7966814
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1284,8 +1276,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 43355,
-            "average": 4.7704763
+            "count": 43357,
+            "average": 4.770487
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1369,8 +1361,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 9072,
-            "average": 4.7208996
+            "count": 9074,
+            "average": 4.720961
           },
           "provider": {
             "name": "Microsoft Learn",

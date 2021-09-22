@@ -4,44 +4,6 @@
   "page": 33,
   "value": [
     {
-      "path": "_learning/videos/curbal-create-and-run-your-first-python-script.md",
-      "title": "Create and run your first python script",
-      "excerpt": "In today's video I will show you how to run create and run your first python script, a fun python script, to be more precise!  Hope you enjoy it and looking forward to see you own creations!  If you haven't work with Python before, I recommend you to check this two videos first: Install python and more:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-and-run-your-first-python-script/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-and-run-your-first-python-script/",
-      "originalUrl": "https://youtube.com/watch?v=CS0fCETOhMs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CS0fCETOhMs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M12S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-12-06T02:36:25-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CS0fCETOhMs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-d32-import-pdf-files-in-power-bi-automatically-from-your-local-folder.md",
       "title": "#D32 Import PDF files in Power BI automatically from your local folder",
       "excerpt": "In todays video I will show you how to import PDF files in Power BI in bulk from your local folder.  To download the file, go to Curbal's download center and the communty downloads and get gile #32: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
@@ -1159,6 +1121,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/2laBGpCdc4g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-72-max-maxx-maxa.md",
+      "title": "DAX Fridays! #72: MAX, MAXX, MAXA",
+      "excerpt": "In today's video we will go through the DAX functions of MAX, MAXX and MAXA.  Link to DAX glossary:  https://curbal.com/blog/glossary/max-dax  PREVIOUS VIDEO: NEXT VIDEO: https://youtu.be/1Swyk3jJ63k  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT   Looking for a download file? Go to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-72-max-maxx-maxa/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-72-max-maxx-maxa/",
+      "originalUrl": "https://youtube.com/watch?v=_FuL3kYoF0o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_FuL3kYoF0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M13S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-03-09T02:31:49-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_FuL3kYoF0o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

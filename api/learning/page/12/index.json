@@ -4,6 +4,45 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/videos/curbal-dax-fridays-20-parent-and-child-functions-hierarchies.md",
+      "title": "DAX Fridays! #20: Parent and Child Functions -Hierarchies",
+      "excerpt": "In this video we will go through how to work with hierarchies using the following DAX functions: PATH, PATHLENGTH, PATHITEM, PATHITEMREVERSE, PATHCONTAINS  The example used will be a simplified bill of materials (BOM) but in the microsoft documentation, there is an excellent example for employees and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-20-parent-and-child-functions-hierarchies/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-20-parent-and-child-functions-hierarchies/",
+      "originalUrl": "https://youtube.com/watch?v=EzfLJFEKV8I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EzfLJFEKV8I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M3S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-01-04T05:22:06-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EzfLJFEKV8I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-4-count-counta-countx-countax-distinctcount-and-countrows-in-dax.md",
       "title": "DAX Fridays! #4: COUNT, COUNTA, COUNTX, COUNTAX, DISTINCTCOUNT AND COUNTROWS in DAX",
       "excerpt": "Let's go through all the count expressions available in DAX!  Here you have the keynotes for the video so you can jump to the function you want to learn:  02:44 COUNT text (#ERROR) 03:24 COUNT numbers 04:20 COUNT blanks 04:56 COUNT dates 05:36 COUNTA text 06:44 COUNTA numbers 07:27 COUNTX 09:16 COUNTAX",
@@ -1089,44 +1128,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/RnDdDlozcdo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-remove-confusion-in-your-power-bi-report-with-this-little-feature.md",
-      "title": "Remove CONFUSION in your Power BI report with this little feature",
-      "excerpt": "Patrick shows you a little known Power BI feature to help your report consumers use every bit of your report. Removing confusion and maximizing use!  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton --",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-remove-confusion-in-your-power-bi-report-with-this-little-feature/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-remove-confusion-in-your-power-bi-report-with-this-little-feature/",
-      "originalUrl": "https://youtube.com/watch?v=kLgjaA4eBcM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kLgjaA4eBcM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M48S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-10-23T04:39:50-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kLgjaA4eBcM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
