@@ -4,84 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/videos/curbal-avoid-filtering-issues-in-power-query.md",
-      "title": "Avoid filtering issues in Power Query",
-      "excerpt": "Sometimes when you are filtering columns,  Power Query will create a filtering query that was probably not what you expected and it will either break your queries, or it will filter out values you want.  Let me show you!  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-avoid-filtering-issues-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-avoid-filtering-issues-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=dbTvOk1IyNU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dbTvOk1IyNU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M30S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-12-07T05:16:24-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dbTvOk1IyNU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-bulk-import-data-from-excel-files-power-bi-desktop-power-bi-tips-tricks-05.md",
-      "title": "Bulk import data from  Excel files Power BI  Desktop - Power BI Tips & Tricks #05",
-      "excerpt": "Do you want to auto import data from files with similar name (ex. sales2015, sales 2014, etc) in Power BI? Here we show you how to do it.  Questions? Contact us at: http://www.curbal.com/contact  You can download a sample file here: http://trantor.synology.me:5000/fbsharing/nEfc5rN2   Looking for a download",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-bulk-import-data-from-excel-files-power-bi-desktop-power-bi-tips-tricks-05/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-bulk-import-data-from-excel-files-power-bi-desktop-power-bi-tips-tricks-05/",
-      "originalUrl": "https://youtube.com/watch?v=ip0GSuruQqA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ip0GSuruQqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M39S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-03-21T13:07:13-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ip0GSuruQqA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-bulk-import-multiple-excel-files-in-power-bi-with-power-query.md",
       "title": "Bulk Import multiple Excel files in Power BI  with Power Query",
       "excerpt": "Do you want to auto import data from files with similar name (ex. sales2015, sales 2014, etc) in Power BI? Here we show you how to do it.  Chapters 00:00 Intro 01:00 Create a parameter for file name 03:30 Test the function Done!  You can download a sample file here: http://trantor.synology.me:5000/fbsharing/nEfc5rN2",
@@ -1166,6 +1088,84 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/5bkJCjJK9U0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-group-rows-with-uneven-number-of-rows-part-7-power-query-challenge.md",
+      "title": "Group rows with uneven number of rows - Part 7: Power Query Challenge",
+      "excerpt": "In today's video we continue with the Power Query challenge where Collin shows us a great trick on how to group rows with uneven number of characters.  What is this Power Query Challenge? https://www.youtube.com/watch?v=_R1rSdXkVDw  Source files: https://github.com/ruthpozuelo/PQChallenge  Part 1: https://www.youtube.com/watch?v=_LcT5sLwmiw",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-group-rows-with-uneven-number-of-rows-part-7-power-query-challenge/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-group-rows-with-uneven-number-of-rows-part-7-power-query-challenge/",
+      "originalUrl": "https://youtube.com/watch?v=gLRDh3Hp2To",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gLRDh3Hp2To\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M16S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-11-20T08:59:27-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gLRDh3Hp2To/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-handling-errors-in-power-query-with-try-otherwise-power-bi-tips-tricks-32.md",
+      "title": "Handling errors in Power Query with try otherwise - Power BI Tips & Tricks #32",
+      "excerpt": "Have you ever got errors in Power Query and you dont know how to manage them?  In today's tutorials I will show you how to: Delete errors in Power Query or Expand the list without removing them, allowing you to filter them out.  Link to Power BI file: http://gofile.me/2kEOD/ADBC7nTLX   Looking for a",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-handling-errors-in-power-query-with-try-otherwise-power-bi-tips-tricks-32/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-handling-errors-in-power-query-with-try-otherwise-power-bi-tips-tricks-32/",
+      "originalUrl": "https://youtube.com/watch?v=9-Lag0VOiTs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9-Lag0VOiTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M35S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-03-05T07:15:29-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9-Lag0VOiTs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
