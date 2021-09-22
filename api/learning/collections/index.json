@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 25209,
-            "average": 4.79666
+            "count": 25216,
+            "average": 4.796637
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 43369,
-            "average": 4.7705274
+            "count": 43377,
+            "average": 4.7705464
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 43369,
-            "average": 4.7705274
+            "count": 43377,
+            "average": 4.7705464
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -390,8 +390,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 20831,
-            "average": 4.7180166
+            "count": 20834,
+            "average": 4.718057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2068,8 +2068,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 7242,
-            "average": 4.7630486
+            "count": 7245,
+            "average": 4.763009
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2110,8 +2110,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 9066,
-            "average": 4.776528
+            "count": 9068,
+            "average": 4.776467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3760,8 +3760,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 1633,
-            "average": 4.7568893
+            "count": 1634,
+            "average": 4.756426
           },
           "provider": {
             "name": "Microsoft Learn",
