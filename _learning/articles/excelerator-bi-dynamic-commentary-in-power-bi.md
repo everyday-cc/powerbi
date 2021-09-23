@@ -4,7 +4,7 @@ excerpt: "Today is another in my series where I am building out my COVID report 
 webUrl: https://exceleratorbi.com.au/dynamic-commentary-in-power-bi/
 type: article
 publishedDateTime: 2021-09-21T01:14:17Z
-heat: 131
+heat: 130
 
 provider:
   name: Excelerator BI
