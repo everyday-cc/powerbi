@@ -4,7 +4,7 @@ excerpt: "Ken Puls and I decided we would do a live stream chat to talk about a 
 webUrl: https://exceleratorbi.com.au/when-to-use-power-query-m-vs-data-modelling-dax/
 type: article
 publishedDateTime: 2021-09-09T23:58:33Z
-heat: 80
+heat: 50
 
 provider:
   name: Excelerator BI
