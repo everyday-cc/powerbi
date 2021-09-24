@@ -1573,7 +1573,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-collaboration-social.png",
@@ -2892,8 +2892,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2617,
-            "average": 4.7164693
+            "count": 2618,
+            "average": 4.7165775
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3017,8 +3017,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2216,
-            "average": 4.763538
+            "count": 2217,
+            "average": 4.7636447
           },
           "provider": {
             "name": "Microsoft Learn",
