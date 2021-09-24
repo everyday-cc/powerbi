@@ -4,6 +4,36 @@
   "page": 59,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-publish-to-web-in-power-bi-whats-new-updated-user-interface-with-placeholder-image.md",
+      "title": "Publish to Web in Power BI – What’s New? – Updated User Interface with Placeholder Image",
+      "excerpt": "In this session, we will check the updated User interface feature for Publish to web option in Power BI. The updated Publish to web option has the following features.  • Set size for iframe • See the Preview of Power BI report • Set thumbnail image by uploading a placeholder image (01:33) • Change Default",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-publish-to-web-in-power-bi-whats-new-updated-user-interface-with-placeholder-image/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-publish-to-web-in-power-bi-whats-new-updated-user-interface-with-placeholder-image/",
+      "originalUrl": "https://youtube.com/watch?v=XBLeNsCg38o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XBLeNsCg38o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M45S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-08-03T21:16:43-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XBLeNsCg38o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-qa-tooling-in-power-bi-desktop-review-questions-teach-qa-to-model-by-setting-a-term.md",
       "title": "Q&A Tooling in Power BI Desktop - Review Questions, Teach Q&A to Model by Setting a Term",
       "excerpt": "In this vlog, we will talk about QnA tooling in the Power BI. We know, Q&A provide Natural Language Generation Visualization to the users. With this new visualization, it also supports to Manage our Q&A terms with the Q&A capabilities. For better result based on our model data, we can train our Power",
@@ -875,37 +905,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/v7IbV_XVKXI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-formula-context-considerations-111-ultimate-beginners-guide-to-dax-2019.md",
-      "title": "Formula Context Considerations - (1.11) Ultimate Beginners Guide to DAX 2019",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-formula-context-considerations-111-ultimate-beginners-guide-to-dax-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-formula-context-considerations-111-ultimate-beginners-guide-to-dax-2019/",
-      "originalUrl": "https://youtube.com/watch?v=qiLwt3Pmxv8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qiLwt3Pmxv8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M51S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2018-03-05T19:22:17-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qiLwt3Pmxv8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

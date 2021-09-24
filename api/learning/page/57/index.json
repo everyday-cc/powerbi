@@ -4,6 +4,36 @@
   "page": 57,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-create-contact-list-for-power-bi-reports-and-dashboards.md",
+      "title": "Create Contact List for Power BI Reports and Dashboards",
+      "excerpt": "In this video, we will talk about the new rolled out feature by Microsoft which is the Contact List for the Power BI report and dashboards.   In this video, we will learn what is the real use of the Contact lists and then we will create a Contact List for the Power BI reports and dashboards.   Contact",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-create-contact-list-for-power-bi-reports-and-dashboards/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-create-contact-list-for-power-bi-reports-and-dashboards/",
+      "originalUrl": "https://youtube.com/watch?v=mHG9mxdkDGA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mHG9mxdkDGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M6S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mHG9mxdkDGA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-create-funnel-and-pyramid-chart-in-power-bi-xviz-custom-visualization.md",
       "title": "Create Funnel and Pyramid Chart in Power BI – xViz Custom Visualization",
       "excerpt": "In this video, we will discuss one of the most interesting custom visual in Power BI which is Funnel and Pyramid Chart by xViz Visualization. Below is a link to get xViz Funnel/Pyramid Chart. https://xviz.com/visuals/funnel-pyramid-chart/  In this video, first, we will import custom visual – Funnel/Pyramid",
@@ -687,36 +717,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/I4kRZX5VCXc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-get-best-result-from-qa-visual-in-power-bi.md",
-      "title": "Get Best Result from Q&A Visual in Power BI",
-      "excerpt": "Welcome to one more Power BI Tip for Q&A Visual in Power BI. When we add Q&A visual in Power BI and ask the questions in the natural language, sometimes it does not give us the proper outcome! So, how can we improve our Q&A visual and return the best result? How we can use synonyms in the best manner",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-get-best-result-from-qa-visual-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-get-best-result-from-qa-visual-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=Ztr5f7i99M0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ztr5f7i99M0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M31S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-08-13T19:12:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Ztr5f7i99M0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

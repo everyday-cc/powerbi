@@ -217,6 +217,36 @@
       ]
     },
     {
+      "path": "_learning/videos/dhruvin-shah-introducing-new-shapes-with-customize-shape-formatting.md",
+      "title": "Introducing New Shapes with Customize shape formatting",
+      "excerpt": "During this video, we will talk about newly introduced shapes in Power BI. Introducing New Shapes in Power BI with Conditional formatting. Now, we can apply shape formatting in a dynamic manner in Power BI. To apply, shape formatting, we need to apply conditional formatting like other Power BI visuals.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-introducing-new-shapes-with-customize-shape-formatting/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-introducing-new-shapes-with-customize-shape-formatting/",
+      "originalUrl": "https://youtube.com/watch?v=sXgc1-pjWeI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sXgc1-pjWeI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M11S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-08-21T19:58:27-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sXgc1-pjWeI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-involve-audience-to-make-the-collaborative-decision-faster-by-power-bi-and-teams-integration-part-3.md",
       "title": "Involve Audience to make the collaborative decision faster by Power BI and Teams Integration |Part 3",
       "excerpt": "Welcome to Power BI and MS Teams Integration step by step series. My self Dhruvin Shah and I have divided this entire session into three different parts.  Part 1: Integrate Power BI Report, Report from Apps and Paginated Report to MS Teams using Power BI Tab in MS Teams. https://youtu.be/67-jriuocxc",
@@ -867,36 +897,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6febT35yi8k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-publish-to-web-in-power-bi-whats-new-updated-user-interface-with-placeholder-image.md",
-      "title": "Publish to Web in Power BI – What’s New? – Updated User Interface with Placeholder Image",
-      "excerpt": "In this session, we will check the updated User interface feature for Publish to web option in Power BI. The updated Publish to web option has the following features.  • Set size for iframe • See the Preview of Power BI report • Set thumbnail image by uploading a placeholder image (01:33) • Change Default",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-publish-to-web-in-power-bi-whats-new-updated-user-interface-with-placeholder-image/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-publish-to-web-in-power-bi-whats-new-updated-user-interface-with-placeholder-image/",
-      "originalUrl": "https://youtube.com/watch?v=XBLeNsCg38o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XBLeNsCg38o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M45S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-08-03T21:16:43-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XBLeNsCg38o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
