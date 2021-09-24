@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-06-25-power-bi-june-2021-feature-summary.md",
+      "title": "Power BI June 2021 Feature Summary",
+      "excerpt": "Welcome to the June update! Loads of updates on connectors this time around. Also, DirectQuery support for Dataflows is now generally available! On top of that, we are happy to announce the preview of the paginated reports visual – we know many of you have been eagerly awaiting it, so take it for a spin",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-25-power-bi-june-2021-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-june-2021-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-june-2021-feature-summary/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i-KYRwIJX6s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-25T06:40:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2021-06-23-the-power-bi-report-action-bar-is-now-available-in-the-power-bi-sharepoint-online-webpart.md",
       "title": "The Power BI report action bar is now available in the Power BI SharePoint Online webpart",
       "excerpt": "New option available to enable bookmarking, export, printing, full-screen view, and favoriting in the Power BI webpart for SharePoint Online.",
@@ -1192,57 +1244,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-05-19T16:59:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-05-19-power-bi-denodo-end-to-end-security-through-single-sign-on-sso.md",
-      "title": "Power BI + Denodo = End-to-end security through Single Sign-On (SSO)",
-      "excerpt": "Power BI integrates with cutting-edge big data, data warehouse, and data virtualization technologies, such as Denodo. The Denodo platform uses data virtualization on-premises and in the cloud to facilitate the adoption of a logical architecture or data fabric that can help to boost the productivity of",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-19-power-bi-denodo-end-to-end-security-through-single-sign-on-sso/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-denodo-end-to-end-security-through-single-sign-on-sso/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-denodo-end-to-end-security-through-single-sign-on-sso/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-05-19T03:29:53-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
