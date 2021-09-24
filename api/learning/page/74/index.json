@@ -4,186 +4,6 @@
   "page": 74,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-october-2018-update-monthly-update-highlights.md",
-      "title": "Power BI October 2018 Update (Monthly Update Highlights!)",
-      "excerpt": "We cover the highlights of the Power BI October 2018 Update.  👉 For Complete Playlist of Power BI Monthly Updates Watch : https://www.youtube.com/watch?v=tO106ly0yas&list=PL7GQQXV5Z8ee6n2ZLywS9BaA5eePSrk4R  Power BI October 2018 Highlights: ▪️ Data Profiling in Query Editor (preview) ▪️ Control export",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-october-2018-update-monthly-update-highlights/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-october-2018-update-monthly-update-highlights/",
-      "originalUrl": "https://youtube.com/watch?v=PQgJs_SLYVo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PQgJs_SLYVo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M56S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-10-22T05:54:16-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PQgJs_SLYVo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-premium-everything-you-need-to-know-in-under-5-minutes.md",
-      "title": "Power BI Premium: Everything You Need to Know, in under 5 minutes!",
-      "excerpt": "Dive deeper into Power BI Premium and help you understand when it may be the right fit for you. May 3rd Announcement: https://powerbi.microsoft.com/en-us/blog/microsoft-accelerates-modern-bi-adoption-with-power-bi-premium/ Jun 12th GA Announcement: https://powerbi.microsoft.com/en-us/blog/power-bi-premium-generally-available/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-premium-everything-you-need-to-know-in-under-5-minutes/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-premium-everything-you-need-to-know-in-under-5-minutes/",
-      "originalUrl": "https://youtube.com/watch?v=QVLK9qvcigs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QVLK9qvcigs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M43S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-07-07T07:04:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QVLK9qvcigs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-qa-how-to-filter-without-really-filtering-a-tricky-challenge.md",
-      "title": "Power BI Q&A: How to filter without really filtering?! (a tricky challenge)",
-      "excerpt": "Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download In this video I tackle a question sent in by Stef D. from France. I found it more challenging than I expected. Check out my video and add a comment if you come up with a creative way to solve this.  FREE Power BI Step-by-Step Tutorial",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-qa-how-to-filter-without-really-filtering-a-tricky-challenge/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-qa-how-to-filter-without-really-filtering-a-tricky-challenge/",
-      "originalUrl": "https://youtube.com/watch?v=39xlfd1kHlo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/39xlfd1kHlo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M57S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-10-20T05:53:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/39xlfd1kHlo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-relationships-not-working-how-to-fix-missing-and-blank-values-part-2.md",
-      "title": "Power BI Relationships Not Working? How to Fix 🛠️ Missing and Blank Values [Part 2]",
-      "excerpt": "Are your Power BI Relationships not working? It can be so frustrating when that happens. In this video we discuss how you can fix Missing or Blank Values when using Power BI Relationship  00:00:00 Intro 00:01:52 Values Missing 00:05:53 Values Showing Under Blank  Part 1 Video: Debug Relationships https://youtu.be/eT2NV2MNaLw",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-relationships-not-working-how-to-fix-missing-and-blank-values-part-2/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-relationships-not-working-how-to-fix-missing-and-blank-values-part-2/",
-      "originalUrl": "https://youtube.com/watch?v=37kTdyo4OOc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/37kTdyo4OOc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M19S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2021-08-18T09:00:02-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/37kTdyo4OOc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-relationships-talk-power-bi-live-subscribe-join.md",
-      "title": "Power BI Relationships 🔴Talk Power BI LIVE (Subscribe & Join)",
-      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-relationships-talk-power-bi-live-subscribe-join/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-relationships-talk-power-bi-live-subscribe-join/",
-      "originalUrl": "https://youtube.com/watch?v=zqbGc10tOA4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zqbGc10tOA4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H11M1S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-12-05T03:10:47-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zqbGc10tOA4/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-roadmap-online-on-prem-team-organization-talk-power-bi-live-subscribe-join.md",
-      "title": "Power BI Roadmap (Online, On-Prem, Team → Organization) 🔴 Talk Power BI LIVE (Subscribe & Join)",
-      "excerpt": "**Kickoff Topic** I'll kick it off by speaking about the Power BI Journey, growing from individual use to Team use to the whole organization; via the Online (Cloud) or On-Premises path.  Hello, I am Avi Singh, Microsoft MVP and Power BI expert. I just love talking about Power BI. So much so that I have",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-roadmap-online-on-prem-team-organization-talk-power-bi-live-subscribe-join/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-roadmap-online-on-prem-team-organization-talk-power-bi-live-subscribe-join/",
-      "originalUrl": "https://youtube.com/watch?v=6v9kfytWoUk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6v9kfytWoUk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT54M23S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-08-16T06:23:33-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6v9kfytWoUk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-september-2018-update-monthly-update-highlights.md",
       "title": "Power BI September 2018 Update 🚀 (Monthly Update Highlights)",
       "excerpt": "We cover the highlights of the latest Power BI Update: September 2018  👉 For Complete Playlist of Power BI Monthly Updates Watch : https://www.youtube.com/watch?v=tO106ly0yas&list=PL7GQQXV5Z8ee6n2ZLywS9BaA5eePSrk4R  Power BI September 2018 Highlights: ▪️ Data M Preparation  ▫️ M intellisense ▪️ Reporting",
@@ -549,6 +369,36 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-powerful-bi-dashboards-for-digital-marketing-with-charles-talk-power-bi-live-subscribe-join.md",
+      "title": "Powerful BI Dashboards for Digital Marketing with Charles 🔴Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "Watch a LIVE demo of powerful BI Dashboards for Digital Marketing that make an impact! Presented by Charles Elwood (http://www.SolisMatica.com) who specializes in working with Digital Marketing teams and revolutionizing how they work with the magic of Power BI.   ✅ Subscribe and click the 🔔 to join",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-powerful-bi-dashboards-for-digital-marketing-with-charles-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-powerful-bi-dashboards-for-digital-marketing-with-charles-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=9TxfXS8bqSc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9TxfXS8bqSc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT48M3S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2020-02-21T10:43:03-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9TxfXS8bqSc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-powerpivot-to-ssas-tabular.md",
       "title": "PowerPivot to SSAS Tabular",
       "excerpt": "Migrating your Excel PowerPivot Model to Analysis Services Tabular Model. See article on PowerPivotPro.com for details: http://www.powerpivotpro.com/2013/10/guest-post-migrating-from-power-pivot-to-analysis-services-tabular-model/  ========================================= FREE Power BI Step-by-Step",
@@ -898,6 +748,157 @@
           "url": "https://i.ytimg.com/vi/5mSDNBq8xJE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-role-of-it-vs-business-groups-in-the-new-landscape-of-power-bi-self-service-bi-talkpowerbi-live.md",
+      "title": "Role of IT vs. Business Groups in the new Landscape of Power BI / Self-Service BI 🔴 TalkPowerBI LIVE",
+      "excerpt": "Raul Jimenez https://www.linkedin.com/in/r-jimenez/ Danny Martens https://www.linkedin.com/in/dannymartenscma/ Does Self-Service BI mean that IT is redundant and not needed anymore? Or to the contrary the role of IT is even more critical than before. But IT DOES NEED TO CHANGE! Big time. The Old IT needs",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-role-of-it-vs-business-groups-in-the-new-landscape-of-power-bi-self-service-bi-talkpowerbi-live/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-role-of-it-vs-business-groups-in-the-new-landscape-of-power-bi-self-service-bi-talkpowerbi-live/",
+      "originalUrl": "https://youtube.com/watch?v=Z964rOw4GZU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z964rOw4GZU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H17M28S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2021-03-31T15:52:55-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Z964rOw4GZU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-security-in-power-bi-talk-power-bi-live-subscribe-join.md",
+      "title": "Security in Power BI 🔴 Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "**Kickoff Topic** Security in Power BI, from sharing Power BI Desktop files to App Workspaces.  Hello, I am Avi Singh, Microsoft MVP and Power BI expert. I just love talking about Power BI. So much so that I have dedicated an hour to talk with YOU about Power BI.   This is Q&A and discussion forum -",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-security-in-power-bi-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-security-in-power-bi-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=HgKp_i0rDxo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HgKp_i0rDxo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M38S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-08-01T09:54:38-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HgKp_i0rDxo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-simple-dax-measures-using-variables-with-matt-allington-talk-power-bi-live-subscribe-join.md",
+      "title": "Simple DAX Measures Using Variables! With Matt Allington 🔴 Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. ====================== Find more about our guest Matt Allington at https://exceleratorbi.com.au/ Matt's Power BI Training: https://exceleratorbi.com.au/power-bi-online-training/  Matt's Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-simple-dax-measures-using-variables-with-matt-allington-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-simple-dax-measures-using-variables-with-matt-allington-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=eOJkOWMYSkk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eOJkOWMYSkk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT56M53S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-08-24T13:11:27-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eOJkOWMYSkk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-small-medium-business-power-bi-opportunity-challenges-talk-power-bi-live-subscribe-join.md",
+      "title": "Small & Medium Business: Power BI Opportunity & Challenges 🔴Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-small-medium-business-power-bi-opportunity-challenges-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-small-medium-business-power-bi-opportunity-challenges-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=JxKQpWSpgAM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JxKQpWSpgAM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H51M3S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-06-20T20:31:28-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JxKQpWSpgAM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-small-medium-business-start-your-first-power-bi-project-talk-power-bi-live-subscribe-join.md",
+      "title": "Small & Medium Business: Start Your First Power BI Project 🔴Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-small-medium-business-start-your-first-power-bi-project-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-small-medium-business-start-your-first-power-bi-project-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=VDfbccVsnzg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VDfbccVsnzg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H52M55S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-06-20T20:32:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VDfbccVsnzg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
