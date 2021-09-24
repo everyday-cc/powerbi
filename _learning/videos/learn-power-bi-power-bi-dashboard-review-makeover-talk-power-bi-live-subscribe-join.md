@@ -1,14 +1,14 @@
 ---
-title: "Power BI Dashboard Review & Makeover 🔴Talk Power BI LIVE (Subscribe & Join)"
-excerpt: "In Power BI 'Dashboard Makeover'  • We Review Power BI Reports/Dashboards sent in by users  • Provide expert feedback and ideas on how to improve  • Submit Your Screenshots or PBIX file here 👉 https://www.learnpowerbi.com/makeover  ⚠️NOTE⚠️ :  • Do NOT send any sensitive data in your screenshots  •"
-originalUrl: https://youtube.com/watch?v=adMIKSTpi60
+title: "Power BI Dashboard Review & Makeover  🔴Talk Power BI LIVE (Subscribe & Join)"
+excerpt: "In Power BI 'Dashboard Makeover'  • We Review Power BI Reports/Dashboards sent in by users  • Provide expert feedback and ideas on how to improve  • Email Your Screenshots to avi@avising.com with Subject: Dashboard Makeover  ⚠️NOTE⚠️ :  • Do NOT send any sensitive data in your screenshots  • Watch this"
+originalUrl: https://youtube.com/watch?v=TOml5Pbfp2w
 type: video
 price: Free
-length: PT2H38M51S
-publishedDateTime: 2019-09-13T11:58:49Z
-heat: 50
+length: PT4H34M43S
+publishedDateTime: 2019-06-21T03:44:15Z
+heat: 
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/adMIKSTpi60\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TOml5Pbfp2w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Learn Power BI
@@ -18,11 +18,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://i.ytimg.com/vi/adMIKSTpi60/hqdefault.jpg
+  - url: https://i.ytimg.com/vi/TOml5Pbfp2w/hqdefault.jpg
     width: 480
     height: 360
     isCached: true
 
-secured: "QtM7WQir7tilaVrZaOon2Xa/sl4kHt4kFzVn0WAwj7ZP+Qoou+r5RpYDlkkHHKbwuOdvmdb0oyZFHbaqa/CZofJ+mC3EhuxR7GZJlsTPRVv9XZq1hysVTGjLwJMaDe2y+/CBj6sX8+SBx5oN7dB3M7XX1del942/uK1B6kd2zCntoBJ1Ym4Vaj79wjAdnRa2bdPn7nFqPtPMzfprZpJGADixB4KFJ34R8PQaTf4AK5cJrnRXWDw8z4AE4yT8umpZtTR6BOqEMW5TETDGZROjZICY7gGvfHF3VSQ7sq4fY+Q0TDoje0xWcIm7CxpGbd0at2vrqKq1HkYD9LjwKwD6du7SeJq6ysncFdJchC1179MtudtR9kb0ccp99GvnO+p9ygalZSLA92TvcVKgViMp4Q==;yEZ8IO23JKNBoPw15eHlDQ=="
+secured: "3WxY/qlNkdFJH1hdT+F3XZ5IXp7cNriS7P4YGt5O3+xc/N9Z108g6tvjod4rMobUVTHgLLssnzgvxCZxga7FtY4ckMLq1HwHxueappmbukGvZxk9OJ7st+1FddchgrAba9ym8tRwSipkC/8bAZTCv5lw9JCz218KU7Mn3Hlqo2xR75SkFHEgZx3nEYNYgixncFse2SH8Vgpodt07ENYHeSxZqPLlbjopWQVBXIRrEgSWsBwalFub9ADQ8H6vbn/qpJxq7xGv87DF55/n1KmhFdIN5qXoyOVRiggfM3lZHqLwplUAW1slDGjjVPG7CAMJt4iFrLhEWM6ULQtxO8EKMgFCSA1IaW6Ari6Tcxh7FMN6+IBj07Dz/k4ZoB2NUfge+w0wV3/gTAvTiE1y2vvHGQ==;nIt540+ybTjYQV0RZ8jcmw=="
 ---
 
