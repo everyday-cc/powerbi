@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-07-07-business-reasons-for-implementing-power-bi.md",
+      "title": "Business Reasons For Implementing Power BI",
+      "excerpt": "The Microsoft Power BI data visualization platform will allow you to provide the tools and services to content authors who can easily create shared reports and data streams for end-users ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-07-business-reasons-for-implementing-power-bi/index.json",
+      "webUrl": "https://www.sqlservercentral.com/articles/business-reasons-for-implementing-power-bi",
+      "originalUrl": "https://youtube.com/watch?v=5Y5Q6lczdMI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5Y5Q6lczdMI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sqlservercentral.com/wp-content/uploads/2020/06/img_5efa0adeaa99b.png",
+          "width": 581,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-06T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SQL Server Central",
+        "domain": "sqlservercentral.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2020-07-06-power-bi-community-posts-roundup-july-6-2020.md",
       "title": "Power BI community posts... (Roundup | July 6, 2020)",
       "excerpt": "Thanks for watching this week's Power BI news roundup!  2 Minute Tuesday: https://guyinacu.be/userprincipalname Tech video: https://guyinacu.be/whatisrls  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses",
@@ -1213,58 +1265,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-03-09T05:31:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-03-02-power-bi-exam-sql-and-microsoft-bi-certifications-retired-what-do-i-do-now.md",
-      "title": "Power BI exam, SQL  and Microsoft BI certifications retired | WHAT DO I DO NOW?",
-      "excerpt": "Microsoft retiring old certifications | What do I do know?  Have you heard that microsoft is retiring the SQL and BI certifications as well as the Power BI and Excel exams by June 30th, 2020?  In this video I will explain what is going on, answer the most common questions and showing a path forward in",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-03-02-power-bi-exam-sql-and-microsoft-bi-certifications-retired-what-do-i-do-now/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-03-02-power-bi-exam-sql-and-microsoft-bi-certifications-retired-what-do-i-do-now/",
-      "originalUrl": "https://youtube.com/watch?v=kfB8KM8FBjU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kfB8KM8FBjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kfB8KM8FBjU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-02T02:59:02-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Curbal",
