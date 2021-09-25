@@ -4,7 +4,7 @@ excerpt: "I am writing an off-topic article today but I promise I will circle ba
 webUrl: https://exceleratorbi.com.au/infection-fatality-rate-for-covid-in-australia/
 type: article
 publishedDateTime: 2021-07-19T08:22:47Z
-heat: 130
+heat: 50
 
 provider:
   name: Excelerator BI
