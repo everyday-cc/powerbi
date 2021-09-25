@@ -1429,8 +1429,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 64,
-            "average": 4.59375
+            "count": 65,
+            "average": 4.6
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3254,8 +3254,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2888,
-            "average": 4.8002076
+            "count": 2889,
+            "average": 4.8002768
           },
           "provider": {
             "name": "Microsoft Learn",
