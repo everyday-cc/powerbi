@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT18M5S
 publishedDateTime: 2021-01-28T11:00:19Z
-heat: 55
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-x2dLTtKiR8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -30,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "zdWE/MYwmlB4snsdZsorxwVYDOE814wNgfYKfjqijiEwZxw/N6zRklgZFnazE+AMcQj9YawQjyhXS+Uym8FwtmgjkR19FqCkbtij8EnS36V4cxHe8dHIDZ7KuFZYrjBXpNg2YaCMmX2+D7EGYbZYg2njrf6PdJ6zKsTrOc1AZ5LUF7QMmjwTEgOk3UrdLagur5Fihp1bNyPa1m7Q78RSblCS45PNFfQ88UwffpWbI8GUyv9EhpKSCTXyWKp153aQzReWEHIXaLZB9HfhMjEEooDxL0Yn2MwIYpWcQwyHqQ9y0S17RyIEF9+1pqLLReQbJ9gTUagYU6jo8I67K/yeKNVoJq3HjBAfv0avRI6XRB5kYbT47TCzg8dD7u70WZ7qfqBLEALoXR7SARUJmb1jzEhEW2HszEGkDcjHiMj0hBI=;hXyblky03+Ne7lsqA+0ufw=="
+secured: "Zoo+dopsSqj8QUGK/L5V98+pC4KebQ6gIQn/2FO716WRw7JwNirIjbvqEhPUBXdzKfpxPfmqKODuT6+lR3WGm0hfSPFqNT0YZ/6b0DuCC5av8eJE5+T9IZSbI3Ffbxq8x0v5ftQDW+QyZH42wQI5wivsSNMjUnsKCsN1K/uAKUe3SZVD8NURIR/8qoZOjJpgF1+bB5f+Wimjn1GiqU70P6HUiy0XBbsKpwNGz/3ejBrAuuTwCq5MNtOPQkzmH760T++kOHmwlSlL2yKHzegUcSxbFeeHL3DxdXMDASJ15KbU0Dq/TJr/QXD+g1xlua5MJV40GD+fIUfsn24tdW6J9x55ZIfWnrsJz17NDJYrlWxj67ZzvWMd/9xaYSgcoFhj26gMOunjM/PYlrw19VNt5W1NrzQXfGVjx7vy9PxYIrE=;y0nGLG9eF7Cxuse8Rq7M7g=="
 ---
 
