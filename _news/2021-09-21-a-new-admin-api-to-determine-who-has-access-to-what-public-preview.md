@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/a-new-admin-api-to-determ
 webUrl: "https://powerbi.microsoft.com/en-us/blog/a-new-admin-api-to-determine-who-has-access-to-what-public-preview/"
 type: article
 quality: 174
-heat: 176
+heat: 174
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IagiPEZ_eIY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
