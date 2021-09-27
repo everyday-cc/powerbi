@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-24-on-premises-data-gateway-february-2021-update-is-now-available.md",
+      "title": "On-premises data gateway February 2021 update is now available",
+      "excerpt": "Feb gateway release",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-24-on-premises-data-gateway-february-2021-update-is-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-february-2021-update-is-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-february-2021-update-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T02:40:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-microsoft-power-bi-jobs-in-oatlands-nsw.md",
       "title": "Microsoft Power BI Jobs in Oatlands, NSW",
       "excerpt": "Apply now for Microsoft Power BI jobs in Oatlands, NSW. Now filling talent for Seeking awesome Power BI specialist to create dashboard report template based on Figma prototypes, Tableau Developer Guru Required,",
@@ -1214,58 +1265,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-what-is-new-and-planned-for-power-bi-2020-power-bi-release-plan-overview.md",
-      "title": "What is new and planned for Power BI 2020? Power BI release plan overview",
-      "excerpt": "Microsoft has released the Power Platform release plan for 2020 and in this video I cover the Power BI features planned for 2020.  For more info, check the entire release: https://docs.microsoft.com/en-us/power-platform-release-plan/2020wave1/business-intelligence/  Link to data lineage video: https://www.youtube.com/watch?v=mZ6426FCMCc",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-01-07-what-is-new-and-planned-for-power-bi-2020-power-bi-release-plan-overview/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2021-01-07-what-is-new-and-planned-for-power-bi-2020-power-bi-release-plan-overview/",
-      "originalUrl": "https://youtube.com/watch?v=UFvQ661kK6M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UFvQ661kK6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UFvQ661kK6M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-07T07:37:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

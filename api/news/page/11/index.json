@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-08-21-automl-now-supports-applying-models-in-pqo-function-browser.md",
+      "title": "AutoML now supports applying models in PQO Function Browser",
+      "excerpt": "Previously, AutoML models could only be applied to entities in the same dataflow.  With this new capability, users don&#8217;t need to be an owner of the dataflow that has the model.  They can use models created by others in the same workspace.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-08-21-automl-now-supports-applying-models-in-pqo-function-browser/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/automl-now-supports-applying-models-in-pqo-function-browser/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/automl-now-supports-applying-models-in-pqo-function-browser/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-20T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-08-18-power-bi-data-protection-updates.md",
       "title": "Power BI data protection updates",
       "excerpt": "Recap of recent Power BI data protection features: Excel file to inherit the Power BI dataset&#8217;s MIP sensitivity label when using PivotTable connection , Sensitivity labels in embedded reports and dashboards – public preview and Label inheritance upon creation of new content",
@@ -1195,48 +1246,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-10-learn-to-make-data-driven-business-decisions-with-this-25-excel-and-power-bi-bundle.md",
-      "title": "Learn to make data-driven business decisions with this $25 Excel and Power BI bundle",
-      "excerpt": "The Data Analysis with Excel + Power BI Bundle is a great resource for learning about two of the world's most popular and powerful analytics programs, and it's on sale today for 95% off at just $24.99.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-10-learn-to-make-data-driven-business-decisions-with-this-25-excel-and-power-bi-bundle/index.json",
-      "webUrl": "https://www.zdnet.com/article/learn-to-make-data-driven-business-decisions-with-this-25-excel-and-power-bi-bundle/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/learn-to-make-data-driven-business-decisions-with-this-25-excel-and-power-bi-bundle/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/learn-to-make-data-driven-business-decisions-with-this-25-excel-and-power-bi-bundle/",
-      "publishedDateTime": "2020-07-10T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
