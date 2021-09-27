@@ -4,7 +4,7 @@ excerpt: "This is a follow up article from my last blog post where I demonstrate
 webUrl: https://exceleratorbi.com.au/filter-one-slicer-based-on-another-slicer-in-power-bi/
 type: article
 publishedDateTime: 2021-07-12T23:24:52Z
-heat: 130
+heat: 50
 
 provider:
   name: Excelerator BI
