@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-09-27-power-bi-report-server-september-2021-feature-summary.md",
+      "title": "Power BI Report Server September 2021 Feature Summary",
+      "excerpt": "We’re excited to bring you a new version of Power BI Report Server this Fall! With the September 2021 update, we have a variety of new enhancements, including line charts improvements, new formatting options for buttons, small multiples new feature, and new Model View. ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-09-27-power-bi-report-server-september-2021-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-september-2021-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-september-2021-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-09-27T09:18:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-09-27-join-us-power-bi-dev-camp-thursday-30-sept-2021-at-1100-am-pdt.md",
       "title": "Join Us! Power BI Dev Camp: Thursday 30 Sept 2021 at 11:00 AM PDT",
       "excerpt": "Scott Sewel of the Microsoft Power BI CAT team will demonstrate the value that Power BI brings to the Power Platform with this month&#8217;s topic: Developing Power BI for Dataverse + Power Apps and Dynamics 365 CE. A great opportunity to see how all of these amazing products work together.",
@@ -1212,57 +1263,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-10-enhanced-experience-for-browsing-visuals.md",
-      "title": "Enhanced experience for browsing visuals",
-      "excerpt": "A new look for the Power BI in-product store coming with August release!  In the store you can browse all the visuals authorized by your organization.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-08-10-enhanced-experience-for-browsing-visuals/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/enhanced-experience-for-browsing-visuals/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/enhanced-experience-for-browsing-visuals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-10T02:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

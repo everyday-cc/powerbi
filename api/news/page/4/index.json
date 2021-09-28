@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-25-announcing-power-bi-in-jupyter-notebooks.md",
+      "title": "Announcing Power BI in Jupyter notebooks",
+      "excerpt": "We&#8217;re excited to announce the release of Power BI in Jupyter notebooks. You can now tell compelling data stories with Power BI in Jupyter notebooks. Get your Power BI analytics in a Jupyter notebook with the new powerbiclient Python package. The new package lets you embed Power BI reports, dashboards,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-25-announcing-power-bi-in-jupyter-notebooks/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-jupyter-notebooks/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-jupyter-notebooks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T00:55:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-microsoft-power-bi-getting-started-with-data-visualization-free-pdf.md",
       "title": "Microsoft Power BI: Getting started with data visualization (free PDF)",
       "excerpt": "Power BI transforms data into useful information you can share with management, stakeholders, and other decision makers. This ebook presents an overview of Power BI capabilities and walks through ...",
@@ -1186,57 +1237,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-04-15T02:24:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-14-announcing-the-new-charticulator-visual-public-preview.md",
-      "title": "Announcing the new Charticulator visual (Public Preview)",
-      "excerpt": "Announcing Charticulator visual preview. Previously to use Charticulator, a user would flip between the web app at charticulator.com and Power BI (PBI). Now, users can create a wide range of custom chart designs right within PBI using our brand-new Microsoft Charticulator custom visual.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-14-announcing-the-new-charticulator-visual-public-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-14T02:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

@@ -2,6 +2,57 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-07-12-master-big-data-with-the-microsoft-power-bi-training-bundle-currently-91-off.md",
+      "title": "Master big data with the Microsoft Power BI training bundle, currently 91% off",
+      "excerpt": "Power BI Training: This course will start by looking at Power Query, and how to use this tool to organize and clean our data. If you’ve used Power Query in Excel, then you’ll find it simple ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-12-master-big-data-with-the-microsoft-power-bi-training-bundle-currently-91-off/index.json",
+      "webUrl": "https://www.techspot.com/news/85965-master-big-data-microsoft-power-bi-training-bundle.html",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/07/2020-07-12-image-3.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/85965-master-big-data-microsoft-power-bi-training-bundle.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/85965-master-big-data-microsoft-power-bi-training-bundle.html",
+      "publishedDateTime": "2020-07-12T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-07-10-learn-to-make-data-driven-business-decisions-with-this-25-excel-and-power-bi-bundle.md",
       "title": "Learn to make data-driven business decisions with this $25 Excel and Power BI bundle",
       "excerpt": "The Data Analysis with Excel + Power BI Bundle is a great resource for learning about two of the world's most popular and powerful analytics programs, and it's on sale today for 95% off at just $24.99.",
@@ -1226,59 +1277,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-03-12-power-bi-desktop-update-march-2020.md",
-      "title": "Power BI Desktop Update - March 2020",
-      "excerpt": "We're excited to be bringing you some top community asks this month, including multi-column sort and dual axis line chart! We're also releasing new button actions, a new DAX function, and improvements to the decomposition tree. And, of course, there are new visuals on AppSource and new template apps",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-03-12-power-bi-desktop-update-march-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-03-12-power-bi-desktop-update-march-2020/",
-      "originalUrl": "https://youtube.com/watch?v=DMjvJGGB_LQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DMjvJGGB_LQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DMjvJGGB_LQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Power BI Desktop Update - March 2020",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-03-12T08:13:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "DAX"
       ]
     }
   ],

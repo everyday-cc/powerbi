@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-10-enhanced-experience-for-browsing-visuals.md",
+      "title": "Enhanced experience for browsing visuals",
+      "excerpt": "A new look for the Power BI in-product store coming with August release!  In the store you can browse all the visuals authorized by your organization.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-08-10-enhanced-experience-for-browsing-visuals/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/enhanced-experience-for-browsing-visuals/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/enhanced-experience-for-browsing-visuals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-10T02:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-08-10-power-bi-gets-a-new-component-for-angular-web-apps.md",
       "title": "Power BI gets a new component for Angular web apps",
       "excerpt": "The latest release marks a major milestone for web developers who utilize the features offered through Microsoft's data analytics service. The Angular component is live on npm and GitHub.",
@@ -1193,57 +1244,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-30-heads-up-breaking-change-coming-to-power-bi-powershell-cmdlets.md",
-      "title": "Heads up: breaking change coming to Power BI PowerShell Cmdlets",
-      "excerpt": "Breaking change to Power BI PowerShell cmdlets. Need to upgrade module to 1.0946 or later",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-30-heads-up-breaking-change-coming-to-power-bi-powershell-cmdlets/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/heads-up-breaking-change-coming-to-power-bi-powershell-cmdlets/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/heads-up-breaking-change-coming-to-power-bi-powershell-cmdlets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-30T03:51:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
