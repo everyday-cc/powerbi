@@ -24,6 +24,7 @@ items:
   - videos/power-bi-tips-powerbitips-pug-external-tools-business-ops
   - videos/power-bi-tips-powerbitips-hot-swap-connections-webinar
   - videos/power-bi-tips-introduction-to-the-charticulator-visual-by-mike-carlo
+  - videos/power-bi-tips-all-about-daxdo-milwaukee-power-platform-user-group
 
 topics:
   - Power BI
