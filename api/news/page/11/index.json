@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-08-25-release-update-for-sept-2020-release-of-power-bi-report-server.md",
+      "title": "Release update for Sept 2020 release of Power BI Report Server",
+      "excerpt": "In October 2018, we committed to you three releases of Power BI Report Server each year, to be shipped in January, May, and September.  We did this to provide transparency around the release timing and allow customers to plan their upgrade cycles accordingly. ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-08-25-release-update-for-sept-2020-release-of-power-bi-report-server/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/release-update-for-sept-2020-release-of-power-bi-report-server/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/release-update-for-sept-2020-release-of-power-bi-report-server/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-08-25T03:34:22-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-08-21-on-premises-data-gateway-august-2020-update-is-now-available.md",
       "title": "On-premises data gateway August 2020 update is now available",
       "excerpt": "August Gateway release",
@@ -1195,57 +1246,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-13-power-bi-roadmap-updates-roundup-july-13-2020.md",
-      "title": "Power BI Roadmap updates! (Roundup | July 13, 2020)",
-      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup185 2 Minute Tuesday: https://guyinacu.be/premiumcpuspike Patrick's tech video: https://guyinacu.be/increfreshdate Adam's tech video: https://guyinacu.be/embeddedrls  🔴 Live Replay: https://guyinacu.be/live017",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-13-power-bi-roadmap-updates-roundup-july-13-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-07-13-power-bi-roadmap-updates-roundup-july-13-2020/",
-      "originalUrl": "https://youtube.com/watch?v=_8uRt_xP7Bs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_8uRt_xP7Bs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_8uRt_xP7Bs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-07-13T08:00:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
