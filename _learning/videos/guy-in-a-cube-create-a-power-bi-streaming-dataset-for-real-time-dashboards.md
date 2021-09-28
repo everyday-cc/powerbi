@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M46S
 publishedDateTime: 2019-02-03T15:36:49Z
-heat: 67
+heat: 65
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rjXJ0GSUMBg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "yt/ZXO7X3D4amgsxDUOwWcOz+OpM9Z6JCJbA1cHC8av+7DDjfAXvw6MgqdHc96Yx5JyWLLT59q7KhxxaUWq0rkZhWeIiz3fdhL/oa1j9ZTZUAnyHcGvNKK2GzTduUO/DXGSIWWd80oJa6hrcZQyrZy/LMbG7tvbqLH7mBdcy3M+tUjuTCI36JgW6PGAMgBhcWslmRhVInjM3kHcD+f1pLrFqB+aAURTfXKv5z/uj4APqe84COvnh1T6ZZv3vBKYA0Dzx/dz5itbciRjCBhVm2KwBz3QLU4Ukq5BhmBf4KHNLZueRjMq38AnBDs+zw8jzr1x3fv5J1WnifQXD09/kkgiExn4ksk2zkldj6AapN3nmd7wlBQ8CeR/zhLKAwZRHmFsS21Avzkjm/yNNVtUDMY4xIp7fG4w8wk+RuObu+5o=;cIYVsY2GoY5DrAbxMoburg=="
+secured: "jwcokdVLdNZob7MyR6LG9/lcVs193Zaja3kRqaHLqLl0oLPCktT3A11sZOwl7etsCcXr+I3rXk2Gl4CsxLW93qHPv+bcr276uA0pfHjxPyI6o77hGt6jVtz9tdpSitYuw45UkbHyimD05QvmsCpcMip+Xmo2OSI8BLXKprNRFIZkw8JTU6bQNIpMWgJw7jXRHcFHCKNR+zugeMDjB2zeNSi2wjriztnmwSGzu2YqeruwsvtS9KMWffJafcOP5CaPZE4EdnUeeG6HVyyRN+ql08AtICepanokOdIP8/uyaApPaaDFPHvl/XGvNMdUSaiqbJhoIeLXidUF13elYI2MedF/1S9Bde5msXBKmkGW0/8+hMBodyk1jFnycw1MgADPyFTCCiYvRPDa31jMwNXdWZyo71Ta5OEgbIoiLVsTOE0=;6KpqjMXvgOEJokEYsWpCHg=="
 ---
 
