@@ -19,6 +19,7 @@ items:
   - videos/dhruvin-shah-if-eager-dax-function-in-power-bi
   - videos/dhruvin-shah-all-function-in-power-bi-dax
   - videos/dhruvin-shah-all-selected-dax-expression-in-power-bi
+  - videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where
 
 topics:
   - Power BI
