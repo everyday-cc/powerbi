@@ -314,8 +314,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 806,
-            "average": 4.7493796
+            "count": 807,
+            "average": 4.74969
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -357,8 +357,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 716,
-            "average": 4.7402234
+            "count": 717,
+            "average": 4.740586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -527,8 +527,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 2716,
-            "average": 4.695876
+            "count": 2717,
+            "average": 4.69562
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1745,8 +1745,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 4630,
-        "average": 4.7185745
+        "count": 4635,
+        "average": 4.7184467
       },
       "provider": {
         "name": "Microsoft Learn",
