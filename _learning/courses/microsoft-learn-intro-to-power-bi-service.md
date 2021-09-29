@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H9M
 ratings:
-  count: 10284
-  average: 4.676099
-heat: 56
+  count: 10286
+  average: 4.6760645
+heat: 64
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Power BI
 
-secured: "Np5X2mlxxAp7l98Y3XDT+OBL/XZOce2bmecolA6iMfcI6DKr8E8ouxoV7CzLzBkaSG1TjlVaXUAkRqWDu66K1e3v+1/v8tLOkuFwu/5GRbJu4FC+Ty/fP/L1BcUpg1qyK9IYIY5M0HkbjAY9uGjiZK3IZzwPzTFD9omAxWy3GDxaafS5Qad07R5qbet9BjPkq9mhaB3sp1ckr/hyqBBwb4Mg4MRn6sGhT5GDXm+Wj4zVMkUxhaTB8zcfYW+b0XqGu6CG1bEinoNBHYgfgadLUU7qRhcmlVoUboMMSl//o1zpHhfCkN04Pg7oy2ssl4B4V0onvvTEzoWLvpWzpK/AbEeWSbe/+E4BGQhuZZLKyHtiacoa6vQccRkfrdEmpLATrB9xVdsElYzz8NbHy6M3rB4JrzI9DZ4kAVT77y98HNs=;lv2a5DaRg0MUKNoCimcfDQ=="
+secured: "ru2Eqnoc9VfVMbJH54dXrjC5z2flsuv1xwlrQz4QTP8CCoRdjb26XZWTCA2FqbGlnBPMAfjb4NKwaezrPe+WA2C9+88nUlWx5oKCFRBDv154PDlmQRxBnvvfPvVn23yCA/bLqToP3bjHdc844Xc2ZRcbtTey6LBro1QvZgzFsqMZRmdQKRoGUsf8x5Y7Q45iz/zbQSxY2DahH034T2fZySjw9N5OjUl0h/sQuNSpq5y0pn7udIXf5Gl0CHSxiXCnNlInZNHKc5ohfnvOhbdixnGvyaamwxVW8eoPKUq+dHNe8ELBe4ahOC3qLzzJrFsgWQi7qKoBZnE/gligus2uB7tHV96r32Ett5b7yANTs5BxtrkZO5TaWqd660AZKMqRUIKGaRMSkiQqV71iZjGEpRXOv/DMOkQP2xZmK3YmbM0=;o61vn31exP/kTiY9IboidA=="
 ---
 
