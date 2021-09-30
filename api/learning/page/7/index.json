@@ -1059,8 +1059,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 68,
-            "average": 4.5735292
+            "count": 69,
+            "average": 4.57971
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1101,8 +1101,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 81,
-            "average": 4.728395
+            "count": 82,
+            "average": 4.731707
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1185,8 +1185,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 39,
-            "average": 4.769231
+            "count": 40,
+            "average": 4.775
           },
           "provider": {
             "name": "Microsoft Learn",

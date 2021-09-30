@@ -234,7 +234,7 @@
             ]
           },
           "publishedDateTime": "2016-02-24T15:04:39-08:00",
-          "heat": 54,
+          "heat": 55,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/sbPS3ZKIt7g/maxresdefault.jpg",
@@ -675,8 +675,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 2956,
-            "average": 4.6606903
+            "count": 2957,
+            "average": 4.6608047
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1935,8 +1935,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 4640,
-        "average": 4.71875
+        "count": 4641,
+        "average": 4.7188106
       },
       "provider": {
         "name": "Microsoft Learn",

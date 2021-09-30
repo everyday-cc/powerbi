@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-premium/",
       "length": "PT19M",
       "ratings": {
-        "count": 25,
-        "average": 4.92
+        "count": 26,
+        "average": 4.923077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-infrastructure/",
       "length": "PT25M",
       "ratings": {
-        "count": 25,
-        "average": 4.76
+        "count": 26,
+        "average": 4.769231
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-reach/",
       "length": "PT19M",
       "ratings": {
-        "count": 27,
-        "average": 4.888889
+        "count": 28,
+        "average": 4.892857
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -137,8 +137,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-automate/",
       "length": "PT12M",
       "ratings": {
-        "count": 30,
-        "average": 4.633333
+        "count": 31,
+        "average": 4.645161
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -155,7 +155,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 130,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-automate-social.png",
