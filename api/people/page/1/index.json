@@ -176,45 +176,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/mike-carlo.md",
-      "title": "Mike Carlo",
-      "excerpt": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/mike-carlo/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/mike-carlo/",
-      "type": "profile",
-      "name": "Mike Carlo",
-      "bio": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
-      "location": "United States",
-      "website": "https://t.co/Z3zO6dilSk",
-      "twitter": {
-        "username": "Mike_R_Carlo",
-        "url": "https://twitter.com/Mike_R_Carlo",
-        "followers": 2265
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/michaelcarlo/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Mike Carlo",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_people/adam-saxton.md",
       "title": "Adam Saxton",
       "excerpt": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
@@ -228,7 +189,7 @@
       "twitter": {
         "username": "awsaxton",
         "url": "https://twitter.com/awsaxton",
-        "followers": 6539
+        "followers": 6540
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/guyinacube/"
@@ -256,6 +217,45 @@
           "width": 400,
           "height": 400,
           "title": "Adam Saxton",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/mike-carlo.md",
+      "title": "Mike Carlo",
+      "excerpt": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/mike-carlo/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/mike-carlo/",
+      "type": "profile",
+      "name": "Mike Carlo",
+      "bio": "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies.",
+      "location": "United States",
+      "website": "https://t.co/Z3zO6dilSk",
+      "twitter": {
+        "username": "Mike_R_Carlo",
+        "url": "https://twitter.com/Mike_R_Carlo",
+        "followers": 2265
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/michaelcarlo/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 65,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Mike Carlo",
           "isCached": true
         }
       ],
