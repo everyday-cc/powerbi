@@ -4,9 +4,9 @@ excerpt: "The Milwaukee Brew City User group is hosting the monthly Power BI Use
 originalUrl: https://youtube.com/watch?v=LGGuWZn5Ls4
 type: video
 price: Free
-length: PT1H22M57S
+length: PT1H22M22S
 publishedDateTime: 2021-09-28T14:17:40Z
-heat: 139
+heat: 137
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LGGuWZn5Ls4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ICH0FFM+AnrqJcv/jf+qlLe5z7/WGLi0NyVOg1zTHqUu0yyPkM4shIKYXxfmGeFqjeHb8T14elCWEQsCTX61dW545zOtc1K19+wzZt76hL4Sv7Ly7XBAp34f6bCNhyqNCCtyZ9GTqFTvhr7JMPto7pqa016VH9cilMh3CaDXTszbdL7u6a9bCwgAHG07u4gt0QoEcmzLE++Qvy6innyxNfn763hyVuKMtT3WvBuSuUeSqIlZIqjnNQ7JRnEbbZkkj+fYEBDiiBnsVKPoAzCpuObPFxNB0pfaRBCNyGzZdAhOmN1Eo7yLaB/PRGmkIq5cuGXCZRKdr03d/V9J5fx+AwSkh2uQNeB1u8kfeaovP0XxAL6ciMCq+YQX2EJxX05T/a4oPKRns5bZD1J9Xij50z8SH2h9xB+Ktqm345vunVk=;BRQK3hPV5zHiQOYUwPd3yg=="
+secured: "i73RSYPOORhcjruT62rJE9LPhftrYJx3pCu2kKf07OSeZ43sSbFOmQcT3nzEmdu2qt8Ub4GueT3y687uP8x9XUOh/lmhvGpPo+naHXFoEK7r4i7AbxShrj0tFwfOk6fh58zxvAMdYxwxRrT1aCd2aRyLc61zE3itZIbspm8HJosjbjOrl8B01WpbneYIrRDuol9+1iRi5zYfxq/Q/GPGqoTwWi2lBrpJ760pCI9m31E1nW3DkKiL6BrW4YAR2UNmWuNa4Q3wpj20cll8TxCojSp3KfsOQ+4+LZmRxNgt7i0WhCDYtE1vc7A6gLAMdYNCim9PYGNrr3UKtCGE0ohtR7fVypJdVaTokaft+MbYYCuv4W+bEvf3+rhP2mKVqCkPjWjgor/H0VPBZxbaefvRGWdVH6B0yifuxGv9l9vOIUk=;AR+4Ei1wS+f5zuQ1HQD8zw=="
 ---
 
