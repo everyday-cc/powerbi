@@ -4,36 +4,6 @@
   "page": 58,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-integrate-power-bi-report-to-ms-teams-using-power-bi-tab-power-bi-and-ms-teams-part-1.md",
-      "title": "Integrate Power BI Report to MS Teams Using Power BI Tab | Power BI and MS Teams | Part 1",
-      "excerpt": "Welcome to Power BI and MS Teams Integration step by step series. My self Dhruvin Shah and I have divided this entire session into three different parts.  Part 1: Integrate Power BI Report, Report from Apps and Paginated Report to MS Teams using Power BI Tab in MS Teams. https://youtu.be/67-jriuocxc",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-integrate-power-bi-report-to-ms-teams-using-power-bi-tab-power-bi-and-ms-teams-part-1/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-integrate-power-bi-report-to-ms-teams-using-power-bi-tab-power-bi-and-ms-teams-part-1/",
-      "originalUrl": "https://youtube.com/watch?v=67-jriuocxc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/67-jriuocxc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M26S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-02T21:25:42-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/67-jriuocxc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-introducing-new-look-of-workspaces-in-power-bi-service.md",
       "title": "Introducing “New Look” of Workspaces in Power BI Service",
       "excerpt": "In this video, we will talk about new look of worksapces in Power BI Service. Power BI Recently launched this new feature. We will talk about the changes in this “new look” of workspace in detail. - Get Data and New Icon  - Filter in Power BI Workspace - Search in Power BI Workspace - Tabs and List Updates",
@@ -907,6 +877,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-qa-tooling-in-power-bi-desktop-review-questions-teach-qa-to-model-by-setting-a-term.md",
+      "title": "Q&A Tooling in Power BI Desktop - Review Questions, Teach Q&A to Model by Setting a Term",
+      "excerpt": "In this vlog, we will talk about QnA tooling in the Power BI. We know, Q&A provide Natural Language Generation Visualization to the users. With this new visualization, it also supports to Manage our Q&A terms with the Q&A capabilities. For better result based on our model data, we can train our Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-qa-tooling-in-power-bi-desktop-review-questions-teach-qa-to-model-by-setting-a-term/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-qa-tooling-in-power-bi-desktop-review-questions-teach-qa-to-model-by-setting-a-term/",
+      "originalUrl": "https://youtube.com/watch?v=tD5QWNFsDm4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tD5QWNFsDm4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M12S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tD5QWNFsDm4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     }
   ],
