@@ -1203,8 +1203,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 441,
-            "average": 4.76644
+            "count": 442,
+            "average": 4.7669683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1780,8 +1780,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 5688,
-        "average": 4.7412095
+        "count": 5689,
+        "average": 4.7412553
       },
       "provider": {
         "name": "Microsoft Learn",
