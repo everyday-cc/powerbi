@@ -2345,7 +2345,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3076,8 +3076,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2233,
-            "average": 4.7644424
+            "count": 2234,
+            "average": 4.764548
           },
           "provider": {
             "name": "Microsoft Learn",
