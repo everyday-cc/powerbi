@@ -2442,8 +2442,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10327,
-            "average": 4.6761885
+            "count": 10328,
+            "average": 4.67622
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2828,7 +2828,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-data-connectivity-social.png",
@@ -4233,8 +4233,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10327,
-        "average": 4.6761885
+        "count": 10328,
+        "average": 4.67622
       },
       "provider": {
         "name": "Microsoft Learn",
