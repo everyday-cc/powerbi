@@ -1047,7 +1047,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-collaboration-social.png",
@@ -1564,8 +1564,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 8315,
-            "average": 4.7060733
+            "count": 8316,
+            "average": 4.7061086
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2741,8 +2741,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 3888,
-            "average": 4.7075615
+            "count": 3889,
+            "average": 4.707637
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2784,8 +2784,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 5058,
-            "average": 4.770067
+            "count": 5059,
+            "average": 4.7701125
           },
           "provider": {
             "name": "Microsoft Learn",
