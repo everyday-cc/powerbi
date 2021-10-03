@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/security-group-support-fo
 webUrl: "https://powerbi.microsoft.com/en-us/blog/security-group-support-for-log-analytics-integration-preview/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
