@@ -2,21 +2,25 @@
 category: news
 title: "Microsoft Power BI vs. Qlik Sense—Expert Reviews, Ratings & Recommendations 2021"
 excerpt: "Find out which top business intelligence tool is best for your needs. Get a features-to features comparison of Power BI vs. Qlik Sense—along with expert recommendations to help guide your decision."
-publishedDateTime: 2021-09-16T15:13:00Z
-originalUrl: "https://www.cio.com/resources/224109/microsoft-power-bi-vs-qlik-sense-expert-reviews-ratings-recommendations-2021"
-webUrl: "https://www.cio.com/resources/224109/microsoft-power-bi-vs-qlik-sense-expert-reviews-ratings-recommendations-2021"
+publishedDateTime: 2021-09-16T15:21:00Z
+originalUrl: "https://www.infoworld.com/resources/224109/microsoft-power-bi-vs-qlik-sense-expert-reviews-ratings-recommendations-2021"
+webUrl: "https://www.infoworld.com/resources/224109/microsoft-power-bi-vs-qlik-sense-expert-reviews-ratings-recommendations-2021"
 type: article
-quality: 12
-heat: 12
+quality: 52
+heat: 52
 published: false
 
 provider:
-  name: CIO
-  domain: cio.com
+  name: InfoWorld
+  domain: infoworld.com
+  images:
+    - url: "https://everyday-cc.github.io/powerbi/assets/images/organizations/infoworld.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Power BI
 
-secured: "fOyufvV9pHYxhB77Z5fuxokhoCjobsW+ow2XuW3hV2ZX+LaghpnmtzO1BqVjjtNtGObpbQH90/LEP7WZqFnMHxDatsRwXiyaANec2ztSPIimYHZHdqiaQkKR1Npx58H2yaH0Ngqn40IHmbQlc2qNVPOl6Eect4+ToO8bSgA4CxTfgf2wK63HrUspLM6Y6HCKmstgZ8sa0wGL44tuhorLVzkt6Hw1+5hMYVSOKuIe3dFv3Gh4R+/KaQdJWOr6sAiBQynZt/a4wlu2+E0x/ejohPyomSqH1YdAzaSOb1kDSRFcLtoWebEaoZmJbRFk8FK1flNUjrzycNj8Or36O88uVY7R6X0Yfmx4X7exfJu5mEk=;zOA3OruOWzv8FZ3m5uw/aA=="
+secured: "4kDlQs64f5VFC03PmC4P3hKh++D2U/TaTgcc312I0t6/fXghq9FgUKS3tWJpURfblVW4Sa5Ghu6rShZD4xfwUOVdLbB4n9RlLA7VCSXgAtCn57kcSdnNtT3DN3RSL1lF1wcuDVLR5DV1KzxyXU/fqBdwyJTT2FfdcdC0rQZTbT9vviZI4053JjDpNILY3bGQWv29VzSYlAX2W1vDOQe7xA/sUw1ExG/+Ey7MrOIO9NffgQ/KWYAS/Z14ZCU1RXoZQMYnhNvbd1k8BjATM08cTEeS6ewCLs02G0acTPmx2c3ncqxjXt2cImt28H8v/6sUozjv0RWikjLZW0xK87W5z1T+xapXxnR8doSGzWK/9LY=;UxDU2U9KmM1G1N27BuikFw=="
 ---
 
