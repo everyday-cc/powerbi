@@ -2179,7 +2179,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-collaboration-social.png",
@@ -2696,8 +2696,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 8325,
-            "average": 4.7061863
+            "count": 8327,
+            "average": 4.7061367
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3658,8 +3658,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 1133,
-            "average": 4.7166815
+            "count": 1134,
+            "average": 4.716049
           },
           "provider": {
             "name": "Microsoft Learn",
