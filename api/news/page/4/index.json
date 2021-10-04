@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-25-enabling-intelligent-experiences-with-power-bi-for-developers-data-scientists-and-data-engineers.md",
+      "title": "Enabling intelligent experiences with Power BI for developers, data scientists, and data engineers",
+      "excerpt": "Since our launch over five years ago, Microsoft Power BI has been enthusiastically adopted by developers across the spectrum. Today we have over three million active developers on Power BI—who harness the power of data, provide actionable insights, and deliver cloud-native intelligent experiences. Today,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-25-enabling-intelligent-experiences-with-power-bi-for-developers-data-scientists-and-data-engineers/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/enabling-intelligent-experiences-with-power-bi-for-developers-data-scientists-and-data-engineers/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/enabling-intelligent-experiences-with-power-bi-for-developers-data-scientists-and-data-engineers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T00:55:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-automate-deployments-with-deployment-pipelines-api-preview.md",
       "title": "Automate deployments with deployment pipelines API (preview)",
       "excerpt": "Deployment pipelines can be automated! With the first set of APIs, you can automate deployments or integrate the deployment process into familiar tools, like Azure Pipelines or GitHub Actions.",
@@ -1186,57 +1237,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-04-19T04:02:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-16-power-bi-april-2021-feature-summary.md",
-      "title": "Power BI April 2021 Feature Summary",
-      "excerpt": "Welcome to the first Power BI feature summary of the Spring! In this update we have an exciting new preview for the Power Automate visual! Also, the ongoing previews (Small Multiples and DirectQuery for Power BI datasets and Azure Analysis Services) are getting some new features. Next to that, we are",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-16-power-bi-april-2021-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2021-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2021-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-16T08:01:40-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

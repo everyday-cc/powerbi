@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-10-29-microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel.md",
+      "title": "Microsoft adds support for custom Power BI and Power Query data types in Excel",
+      "excerpt": "Microsoft today announced that it is expanding Excel data types to allow for Power BI tables and custom, user-defined databases using Power Query to be transformed into linked data types.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-29-microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel/index.json",
+      "webUrl": "https://www.neowin.net/news/microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel",
+      "originalUrl": "https://www.neowin.net/news/microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/03/1553427271_excel3_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-adds-support-for-custom-power-bi-and-power-query-data-types-in-excel/",
+      "publishedDateTime": "2020-10-29T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-microsoft-gives-excel-cells-a-third-dimension-with-power-bi-data-types.md",
       "title": "Microsoft gives Excel cells a third dimension with Power BI data types",
       "excerpt": "Power BI, Microsoft’s business analytics service, has over 250,000 customers. It follows that Microsoft would start there to help businesses access their data in Excel. Power BI data types are ...",
@@ -1197,57 +1249,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-09-28T04:15:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-09-24-see-all-the-power-bi-updates-at-the-microsoft-business-applications-launch-event.md",
-      "title": "See all the Power BI updates at the Microsoft Business Applications Launch Event",
-      "excerpt": "We’re excited to share all the new innovations we’re rolling out for Power BI to help make creating professional-grade apps even easier. Join us on October 1, 2020, from 9–11 AM Pacific Time (UTC -7), for this free digital event. ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-24-see-all-the-power-bi-updates-at-the-microsoft-business-applications-launch-event/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/see-all-the-power-bi-updates-at-the-microsoft-business-applications-launch-event/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/see-all-the-power-bi-updates-at-the-microsoft-business-applications-launch-event/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-24T03:59:04-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
