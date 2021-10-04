@@ -249,8 +249,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 24048,
-        "average": 4.731246
+        "count": 24050,
+        "average": 4.7312264
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -406,8 +406,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 21042,
-        "average": 4.7181354
+        "count": 21043,
+        "average": 4.7181487
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -860,8 +860,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 7407,
-            "average": 4.761982
+            "count": 7408,
+            "average": 4.762014
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -902,8 +902,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 9265,
-            "average": 4.7762547
+            "count": 9267,
+            "average": 4.776195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -962,8 +962,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 9265,
-        "average": 4.7762547
+        "count": 9267,
+        "average": 4.776195
       },
       "provider": {
         "name": "Microsoft Learn",
