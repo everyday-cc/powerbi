@@ -231,14 +231,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-building-relationships-between-tables-when-both-have-duplicates.md",
-      "title": "Building relationships between tables when both have duplicates",
-      "excerpt": "PowerPivot and Power BI Desktop only allow the creation of relationships between tables when one of columns forming the relationship does not have duplicate values.  In order to relate these two tables to one another, what we need is a third table with all distinct values from both tables. In this tutorial",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-building-relationships-between-tables-when-both-have-duplicates/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-building-relationships-between-tables-when-both-have-duplicates/",
-      "originalUrl": "https://youtube.com/watch?v=vAvQ8pCnWDk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vAvQ8pCnWDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M14S",
+      "path": "_learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query.md",
+      "title": "How to filter a table to show only most recent date by group in Power Query",
+      "excerpt": "It is a best practice to load in Power Bi only the data that you need. In today's video, I will show you how you can filter a table by the last date available.   Chapters: 00:00 Intro 00:30 Explain the use case 01:00 The solution Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=hidJ5T_DYQ0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hidJ5T_DYQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M57S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -251,11 +251,11 @@
           }
         ]
       },
-      "publishedDateTime": "2018-04-24T13:47:45-07:00",
+      "publishedDateTime": "2021-02-22T02:35:23-08:00",
       "heat": 60,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/vAvQ8pCnWDk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hidJ5T_DYQ0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -265,7 +265,47 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-replace-multiple-values-in-power-query-in-one-step.md",
+      "title": "Replace multiple values in Power Query in one step",
+      "excerpt": "In todays video I will show you how to conditional replace values in one step without adding new columns in Power Query, Enjoy!!  Chapters: 00:00 Intro & Problem description 00:36 Replace values the normal way 01:37 The solution Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-replace-multiple-values-in-power-query-in-one-step/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-replace-multiple-values-in-power-query-in-one-step/",
+      "originalUrl": "https://youtube.com/watch?v=cOXNbaa_02U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cOXNbaa_02U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M58S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-29T06:18:34-07:00",
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cOXNbaa_02U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -648,6 +688,44 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi.md",
+      "title": "20 tricks to finally master the Matrix visualization in Power BI!!",
+      "excerpt": "The matrix visualization has over 100 configuration options, and some of the most basic functionality, like hiding subtotals is not so easy to discover.  In today's video, I will show you 20 things you can do on the matrix that will take that visualization to the next level.  Did I miss any? Let me know",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=58a2rIV2nYg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/58a2rIV2nYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M3S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-07T08:25:43-07:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/58a2rIV2nYg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-create-stunning-reports-with-less-effort-with-this-setting.md",
       "title": "Create stunning reports with less effort with this setting!",
       "excerpt": "How can you with no effort besides the original set up, create stunning reports every single time? In this tutorial, i will show you how to set up a custom background for every new page automatically, so you reports wont look dull and white and will stand out among the crowds.  Link to convert image",
@@ -968,8 +1046,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 6998,
-        "average": 4.768505
+        "count": 6999,
+        "average": 4.7685385
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1003,44 +1081,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi.md",
-      "title": "20 tricks to finally master the Matrix visualization in Power BI!!",
-      "excerpt": "The matrix visualization has over 100 configuration options, and some of the most basic functionality, like hiding subtotals is not so easy to discover.  In today's video, I will show you 20 things you can do on the matrix that will take that visualization to the next level.  Did I miss any? Let me know",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=58a2rIV2nYg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/58a2rIV2nYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M3S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-07-07T08:25:43-07:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/58a2rIV2nYg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-advanced-concatenate-merge-columns-with-power-query.md",
       "title": "Advanced Concatenate/ Merge columns with Power Query",
       "excerpt": "Concatenating columns in Power Query is not hard to do, but depending on the technique you use, you might get unexpected or wrong results.  There is a bullet proof way to do it and I will explain it here.  00:00 Intro & Problem description 01:19 How power query concatenates columns with Table.CombineColumns",
@@ -1066,6 +1106,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/87cfpXCeqtE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-write-if-statements-like-a-pro-in-power-query.md",
+      "title": "Write if statements like a Pro in Power Query",
+      "excerpt": "As the title says, in this video I will show you how to write if-statements like a pro: 00:00 The ultimate if-statement 00:40 if statement in Excel wont work 01:50 Use power query user interface to write if statement 03:00 Nested if-statements 03:38 AND/OR conditions in if statements 04:48 NOT condition",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-write-if-statements-like-a-pro-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-write-if-statements-like-a-pro-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=MTHDcnIPsSk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MTHDcnIPsSk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M1S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-06T04:30:28-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MTHDcnIPsSk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1193,82 +1272,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-ever-wanted-a-notification-in-your-power-bi-reports.md",
-      "title": "Ever wanted a NOTIFICATION in your Power BI Reports?",
-      "excerpt": "Maybe you want your Power BI report users to get be notified of some changes that occurred. And, you want that displayed within the report. Patrick has a way you can do just that!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-ever-wanted-a-notification-in-your-power-bi-reports/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-ever-wanted-a-notification-in-your-power-bi-reports/",
-      "originalUrl": "https://youtube.com/watch?v=0eYc-_KKTDs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0eYc-_KKTDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M8S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-03T08:00:00-08:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0eYc-_KKTDs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-everything-you-wanted-to-know-about-power-bi-tooltips.md",
-      "title": "EVERYTHING you wanted to know about Power BI tooltips",
-      "excerpt": "Power BI tooltips can add a lot of context to a visual. Patrick shows you everything you need to know about tooltips in Power BI!  Prathy's (@pkamasani) Blog about Visual Header Tooltips: https://prathy.com/2019/07/power-bi-visual-header-tooltip/  Download Sample: https://guyinacu.be/tooltipsample  📢",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-everything-you-wanted-to-know-about-power-bi-tooltips/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-everything-you-wanted-to-know-about-power-bi-tooltips/",
-      "originalUrl": "https://youtube.com/watch?v=z1Z1axRSMzM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z1Z1axRSMzM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M20S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-20T08:00:37-07:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/z1Z1axRSMzM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

@@ -4,6 +4,82 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-ever-wanted-a-notification-in-your-power-bi-reports.md",
+      "title": "Ever wanted a NOTIFICATION in your Power BI Reports?",
+      "excerpt": "Maybe you want your Power BI report users to get be notified of some changes that occurred. And, you want that displayed within the report. Patrick has a way you can do just that!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-ever-wanted-a-notification-in-your-power-bi-reports/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-ever-wanted-a-notification-in-your-power-bi-reports/",
+      "originalUrl": "https://youtube.com/watch?v=0eYc-_KKTDs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0eYc-_KKTDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M8S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-03T08:00:00-08:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0eYc-_KKTDs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-everything-you-wanted-to-know-about-power-bi-tooltips.md",
+      "title": "EVERYTHING you wanted to know about Power BI tooltips",
+      "excerpt": "Power BI tooltips can add a lot of context to a visual. Patrick shows you everything you need to know about tooltips in Power BI!  Prathy's (@pkamasani) Blog about Visual Header Tooltips: https://prathy.com/2019/07/power-bi-visual-header-tooltip/  Download Sample: https://guyinacu.be/tooltipsample  📢",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-everything-you-wanted-to-know-about-power-bi-tooltips/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-everything-you-wanted-to-know-about-power-bi-tooltips/",
+      "originalUrl": "https://youtube.com/watch?v=z1Z1axRSMzM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z1Z1axRSMzM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M20S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-20T08:00:37-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/z1Z1axRSMzM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-getting-started-with-power-bi-desktop-in-5-steps.md",
       "title": "Getting Started with Power BI Desktop in 5 steps",
       "excerpt": "Getting started with Power BI Desktop is easy! Patrick looks at 5 steps to get you up and running quickly with Power BI Desktop. From downloading, to getting data, and then building your report visuals.  Getting started with Power BI Desktop https://docs.microsoft.com/power-bi/desktop-getting-started",
@@ -431,8 +507,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 4773,
-        "average": 4.758433
+        "count": 4775,
+        "average": 4.7583246
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -586,6 +662,44 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-building-relationships-between-tables-when-both-have-duplicates.md",
+      "title": "Building relationships between tables when both have duplicates",
+      "excerpt": "PowerPivot and Power BI Desktop only allow the creation of relationships between tables when one of columns forming the relationship does not have duplicate values.  In order to relate these two tables to one another, what we need is a third table with all distinct values from both tables. In this tutorial",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-building-relationships-between-tables-when-both-have-duplicates/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-building-relationships-between-tables-when-both-have-duplicates/",
+      "originalUrl": "https://youtube.com/watch?v=vAvQ8pCnWDk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vAvQ8pCnWDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M14S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-04-24T13:47:45-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vAvQ8pCnWDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-concatenate-merge-columns-with-power-query-the-right-way.md",
       "title": "Concatenate/ Merge columns with Power Query, the right way.",
       "excerpt": "Concatenating columns in Power Query is not hard to do, but depending on the technique you use, you might get unexpected or wrong results.  There is a bullet proof way to do it and I will explain it here.  Link to the null, blank video mentioned in this video: https://www.youtube.com/watch?v=EoRjNx1G2g4",
@@ -703,14 +817,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-replace-multiple-values-in-power-query-in-one-step.md",
-      "title": "Replace multiple values in Power Query in one step",
-      "excerpt": "In todays video I will show you how to conditional replace values in one step without adding new columns in Power Query, Enjoy!!  Chapters: 00:00 Intro & Problem description 00:36 Replace values the normal way 01:37 The solution Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-replace-multiple-values-in-power-query-in-one-step/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-replace-multiple-values-in-power-query-in-one-step/",
-      "originalUrl": "https://youtube.com/watch?v=cOXNbaa_02U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cOXNbaa_02U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M58S",
+      "path": "_learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays.md",
+      "title": "Managing changing column names in Power Query #10: (M)agic (M)ondays",
+      "excerpt": "In today's video, I will show how to manage column headers that changes names so your power bi file does not break when you refresh it.  This tip is from Lars Schreiber and here is the link to his blog post and how to do this in power query: http://power-bi-usergroup.blogspot.se/2015/12/dealing-with-tables-with-changing.html",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays/",
+      "originalUrl": "https://youtube.com/watch?v=yBJr0sAc-m4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yBJr0sAc-m4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M46S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -723,11 +837,50 @@
           }
         ]
       },
-      "publishedDateTime": "2020-06-29T06:18:34-07:00",
+      "publishedDateTime": "2017-07-06T11:40:32-07:00",
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/cOXNbaa_02U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yBJr0sAc-m4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-transpose-pivot-or-unpivot-in-power-query.md",
+      "title": "Transpose, pivot or unpivot in Power Query?",
+      "excerpt": "In todays video I am going to show you what Transpose, pivot and unpivot is and examples on when to use each or all at once!  If you want to learn how to import multiple files efficiently using Power Query, check this video: https://www.youtube.com/watch?v=qdcAoZU8B8Q  The file is avialable in the community",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-transpose-pivot-or-unpivot-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-transpose-pivot-or-unpivot-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=hGj2axffxHo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hGj2axffxHo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M13S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-01T04:56:57-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hGj2axffxHo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -958,159 +1111,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/0QvovI3aycs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-apps-vs-app-workspace-the-new-viewer-role.md",
-      "title": "Power BI Apps vs App Workspace (the new Viewer role)",
-      "excerpt": "The viewer role for Power BI App Workspaces is now available! Now, let's look at Power BI Apps vs. App Workspaces and have a discussion around which is the better way to go for content distribution in your enterprise.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-apps-vs-app-workspace-the-new-viewer-role/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-apps-vs-app-workspace-the-new-viewer-role/",
-      "originalUrl": "https://youtube.com/watch?v=n-9e8AtbSsM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n-9e8AtbSsM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M31S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-11T04:56:55-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/n-9e8AtbSsM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Power BI Apps vs App Workspace (the new Viewer role)",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-build-a-custom-kpi-scorecard.md",
-      "title": "Power BI: Build a custom KPI scorecard",
-      "excerpt": "Patrick walks you through how you can use Power BI to build a custom KPI scorecard. The key is the UNICHAR DAX function.  Demo files: https://guyinacu.be/demofiles  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-build-a-custom-kpi-scorecard/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-build-a-custom-kpi-scorecard/",
-      "originalUrl": "https://youtube.com/watch?v=9eKLdujI9_A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9eKLdujI9_A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M33S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-05-07T13:41:23-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9eKLdujI9_A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-rest-api-no-code-options.md",
-      "title": "Power BI REST API no-code options",
-      "excerpt": "Adam shows how you can use the Power BI REST API without writing any code. Then takes it to the next level with PowerShell.  Power BI REST API Reference - https://docs.microsoft.com/rest/api/power-bi/ Power BI PowerShell reference - https://docs.microsoft.com/powershell/power-bi/overview?view=powerbi-ps",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-rest-api-no-code-options/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-rest-api-no-code-options/",
-      "originalUrl": "https://youtube.com/watch?v=fXbJeIY2CgE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fXbJeIY2CgE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M30S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-17T04:49:15-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fXbJeIY2CgE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-start-your-power-bi-journey-with-guy-in-a-cube.md",
-      "title": "Start your Power BI journey with Guy in a Cube",
-      "excerpt": "Want to learn Power BI from the masters?   Coming from Microsoft Excel and not sure where to start? Or, maybe you've used Power BI but want to make sure you are doing the right thing. Guy in a Cube has a course for you!  Power BI Blueprint: A step-by-step guide to creating report with Power BI.  https://guyinacu.be/courses",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-start-your-power-bi-journey-with-guy-in-a-cube/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-start-your-power-bi-journey-with-guy-in-a-cube/",
-      "originalUrl": "https://youtube.com/watch?v=XogUe3nvPto",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XogUe3nvPto\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M15S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-06T04:43:31-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XogUe3nvPto/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

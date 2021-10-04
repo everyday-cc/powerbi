@@ -4,6 +4,302 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/videos/curbal-document-your-power-bi-desktop-models-with-dax-studio.md",
+      "title": "Document your Power BI Desktop models with DAX Studio!",
+      "excerpt": "Extract a list of measures, tables, etc, from your Power BI model with DAX Studio.  Download the PPUtility add-in here: http://www.sqlbi.com/tools/power-pivot-utilities  Link to DAX STUDIO: https://daxstudio.codeplex.com/  Our Playlists: - - Join our DAX Fridays! Series: https://goo.gl/FtUWUX - - Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-document-your-power-bi-desktop-models-with-dax-studio/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-document-your-power-bi-desktop-models-with-dax-studio/",
+      "originalUrl": "https://youtube.com/watch?v=rYlIp1PrBcA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rYlIp1PrBcA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M39S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-09-27T13:04:01-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rYlIp1PrBcA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-export-one-table-of-data-or-the-entire-model-with-dax-studio.md",
+      "title": "Export one table of data or the entire model with DAX Studio",
+      "excerpt": "In today's video I am going to show you how to export data from one table or the entire model using DAX Studio. #curbal #dax #daxstudio  Keynote: 02:00 Download data from one table with DAX Studio 02:40 Download the entire model with DAX Studio  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-export-one-table-of-data-or-the-entire-model-with-dax-studio/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-export-one-table-of-data-or-the-entire-model-with-dax-studio/",
+      "originalUrl": "https://youtube.com/watch?v=-Gfgnk6R0Qw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Gfgnk6R0Qw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M16S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-05-06T05:48:12-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-Gfgnk6R0Qw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-a-review-of-the-data-scenario-13-ultimate-beginner-guide-to-dax-2020.md",
+      "title": "A Review Of The Data Scenario - (1.3) Ultimate Beginner Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-a-review-of-the-data-scenario-13-ultimate-beginner-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-a-review-of-the-data-scenario-13-ultimate-beginner-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=eoHSi2kQNCA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" src=\"https://www.youtube.com/embed/eoHSi2kQNCA\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M4S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-01T01:57:50-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eoHSi2kQNCA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-calculate-is-the-key-to-anything-advanced-114-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "CALCULATE Is The Key To Anything Advanced - (1.14) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-calculate-is-the-key-to-anything-advanced-114-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-calculate-is-the-key-to-anything-advanced-114-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=q8VF2CeMZ5o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q8VF2CeMZ5o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M5S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-01T03:54:00-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q8VF2CeMZ5o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-context-considerations-113-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "Context Considerations - (1.13) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-context-considerations-113-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-context-considerations-113-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=sz7yW06scgk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sz7yW06scgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M11S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-01T03:48:41-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sz7yW06scgk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-examples-of-advanced-dax-120-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "Examples Of Advanced DAX - (1.20) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-examples-of-advanced-dax-120-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-examples-of-advanced-dax-120-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=szTqlEvdqfE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/szTqlEvdqfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M32S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-01T04:09:47-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/szTqlEvdqfE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-filter-context-111-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "Filter Context - (1.11) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-filter-context-111-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-filter-context-111-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=OUxe71LCbkc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OUxe71LCbkc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M2S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-01T03:34:38-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OUxe71LCbkc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-formula-syntax-comments-variables-17-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "Formula Syntax, Comments, Variables - (1.7) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-formula-syntax-comments-variables-17-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-formula-syntax-comments-variables-17-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=c4We3Ine47Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c4We3Ine47Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M59S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-01T03:06:33-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c4We3Ine47Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-how-the-data-model-and-dax-work-together-19-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "How The Data Model And DAX Work Together - (1.9) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-how-the-data-model-and-dax-work-together-19-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-how-the-data-model-and-dax-work-together-19-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=DtcsX7WuITY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DtcsX7WuITY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M5S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-01T03:23:09-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DtcsX7WuITY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/enterprise-dna-how-to-combine-patterns-of-dax-formula-118-ultimate-beginners-guide-to-dax-2020.md",
       "title": "How To Combine Patterns Of DAX Formula -  (1.18) Ultimate Beginners Guide To DAX 2020",
       "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
@@ -556,6 +852,37 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-all-in-one-script-to-create-calendar-table-or-date-dimension-using-dax-in-power-bi.md",
+      "title": "All in One Script to Create Calendar Table or Date Dimension using DAX in Power BI",
+      "excerpt": "I have previously written an article with the full script of how to generate a date dimension in Power BI using the Power Query script, and I would always recommend that as the first choice. However, sometimes, you just want this to be in DAX way, so here in this blog and video, I explained how to create",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-all-in-one-script-to-create-calendar-table-or-date-dimension-using-dax-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-all-in-one-script-to-create-calendar-table-or-date-dimension-using-dax-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=zeXQknz4RdI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zeXQknz4RdI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M49S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-07-12T17:33:26-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zeXQknz4RdI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-basics-of-time-intelligence-in-dax-for-power-bi-year-to-date-quarter-to-date-month-to-date.md",
       "title": "Basics of Time Intelligence in DAX for Power BI; Year to Date, Quarter to Date, Month to Date",
       "excerpt": "Download the dataset from my blog article here: https://radacad.com/basics-of-time-intelligence-in-dax-for-power-bi-year-to-date-quarter-to-date-month-to-date  Learn more about Power BI default date table or custom date table here: https://radacad.com/power-bi-date-dimension-default-or-custom-is-it-confusing",
@@ -635,332 +962,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/bRk0tofVn2c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-filter-function-in-dax-and-power-bi-apply-custom-filter-to-calculations.md",
-      "title": "FILTER Function in DAX and Power BI   Apply Custom Filter to Calculations",
-      "excerpt": "You can apply filtering to visualization elements. However, sometimes filtering has to be done on specific calculations. This can come in handy especially when you want to compare values of other items with specific items. In this article and video, I’ll explain how to use the FILTER function in DAX",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-filter-function-in-dax-and-power-bi-apply-custom-filter-to-calculations/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-filter-function-in-dax-and-power-bi-apply-custom-filter-to-calculations/",
-      "originalUrl": "https://youtube.com/watch?v=jcOa4sEMDDs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jcOa4sEMDDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M42S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-06-02T15:47:44-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jcOa4sEMDDs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-parsing-organizational-hierarchy-or-chart-of-accounts-in-power-bi-with-parent-child-functions-in-dax.md",
-      "title": "Parsing Organizational Hierarchy or Chart of Accounts in Power BI with Parent child functions in DAX",
-      "excerpt": "Here is link to my blog post if you want to follow step by step: http://radacad.com/parsing-organizational-hierarchy-or-chart-of-accounts-in-power-bi-with-parent-child-functions-in-dax",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-parsing-organizational-hierarchy-or-chart-of-accounts-in-power-bi-with-parent-child-functions-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-parsing-organizational-hierarchy-or-chart-of-accounts-in-power-bi-with-parent-child-functions-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=d7uyGqT2P4g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d7uyGqT2P4g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M2S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2018-07-08T20:58:58-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/d7uyGqT2P4g/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-modeling-tip-snapshot-table-or-dax-measures.md",
-      "title": "Power BI Modeling Tip   Snapshot Table or DAX Measures",
-      "excerpt": "I often get this question: “Is it better that I create this calculation as a snapshot table in Power Query (or T-SQL, or the data source), or write DAX measures for it?” If you ever had a scenario of creating a report of snapshots, you know what I mean. “Should I have a table for inventory stock on hand",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-modeling-tip-snapshot-table-or-dax-measures/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-modeling-tip-snapshot-table-or-dax-measures/",
-      "originalUrl": "https://youtube.com/watch?v=fwQuK27F4yg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fwQuK27F4yg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M55S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-08-06T16:02:13-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fwQuK27F4yg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-previous-dynamic-period-using-dax-in-power-bi.md",
-      "title": "Previous Dynamic Period using DAX in Power BI",
-      "excerpt": "Parallel Period is a function that helps you fetching the previous period of a Month, Quarter, or Year. However, if you have a dynamic range of date, and you want to find the previous period of that dynamic selection, then Parallel Period can’t give you the answer. As an example; if the user selected",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-previous-dynamic-period-using-dax-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-previous-dynamic-period-using-dax-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=Wwo-tY0B9pY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wwo-tY0B9pY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M53S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-06-18T10:21:27-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Wwo-tY0B9pY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-quick-measures-in-power-bi-you-dont-have-to-write-dax.md",
-      "title": "Quick Measures in Power BI You don’t have to write DAX",
-      "excerpt": "Download the dataset from my blog article here: https://radacad.com/quick-measures-in-power-bi-you-dont-have-to-write-dax  To learn more about the difference of Power BI default Date dimension and custom date table, read this article: https://radacad.com/power-bi-date-dimension-default-or-custom-is-it-confusing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-quick-measures-in-power-bi-you-dont-have-to-write-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-quick-measures-in-power-bi-you-dont-have-to-write-dax/",
-      "originalUrl": "https://youtube.com/watch?v=faUvo30iDWg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/faUvo30iDWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M58S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-09-03T21:01:39-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/faUvo30iDWg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-substring-in-dax-how-to-get-part-of-string-field-in-power-bi-using-dax-expression.md",
-      "title": "Substring in DAX   How to get Part of String Field in Power BI Using DAX Expression",
-      "excerpt": "Substring is one of the most common functions in many languages, However, there is no such function in DAX. There is a very simple way of doing it, which I am going to explain in this post. Substring means getting part of a string, for example from \"Reza Rad\", if I want to get the start starting from",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-substring-in-dax-how-to-get-part-of-string-field-in-power-bi-using-dax-expression/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-substring-in-dax-how-to-get-part-of-string-field-in-power-bi-using-dax-expression/",
-      "originalUrl": "https://youtube.com/watch?v=WEelCk04dYw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WEelCk04dYw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M54S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-04-05T14:52:25-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WEelCk04dYw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-sum-vs-sumx-what-is-the-difference-of-the-two-dax-functions-in-power-bi.md",
-      "title": "SUM vs SUMX What is the Difference of the two DAX Functions in Power BI",
-      "excerpt": "Sum and Sumx are functions that often founded to be misleading for many Power BI users. As both functions are doing the aggregation, it seems a bit confusing what is the actual difference between these two. There are many blog posts and articles about each function. I always explain the difference with",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-sum-vs-sumx-what-is-the-difference-of-the-two-dax-functions-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-sum-vs-sumx-what-is-the-difference-of-the-two-dax-functions-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=-3snD-VOqik",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-3snD-VOqik\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M59S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-09-26T13:46:04-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-3snD-VOqik/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-topn-dax-function-how-it-works-in-power-bi-comparison-against-the-top-group.md",
-      "title": "TOPN DAX Function   How it works in Power BI   Comparison against the top group",
-      "excerpt": "TOPN is a function in DAX that gives you the ability to select the top items from a table based on an expression. In this article and video, I’ll explain how to use the TopN function in DAX either to create a calculated table or to use it in a measure to achieve analysis such as; comparison with the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-topn-dax-function-how-it-works-in-power-bi-comparison-against-the-top-group/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-topn-dax-function-how-it-works-in-power-bi-comparison-against-the-top-group/",
-      "originalUrl": "https://youtube.com/watch?v=FlSpuVKVRmA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FlSpuVKVRmA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M45S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-05-26T16:47:16-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FlSpuVKVRmA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-apply-and-logic-to-multiple-selection-in-dax-slicer.md",
-      "title": "Apply AND Logic to Multiple Selection in DAX Slicer",
-      "excerpt": "When you apply a multiple selection to a slicer or to a filter, you obtain a logical OR condition between selected items. This video shows how to implement a logical AND condition in a measure instead of the standard OR one. Article and download: https://sql.bi/26121?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-apply-and-logic-to-multiple-selection-in-dax-slicer/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-apply-and-logic-to-multiple-selection-in-dax-slicer/",
-      "originalUrl": "https://youtube.com/watch?v=tONOosN1xAs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tONOosN1xAs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M50S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-12-15T03:00:14-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tONOosN1xAs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-calculate-in-dax-05-remove-table-filters.md",
-      "title": "CALCULATE in DAX #05: Remove table filters",
-      "excerpt": "Don't remove filters from tables when you want to remove column filters. Learn the difference and fix your DAX formulas! How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt CALCULATE function:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-calculate-in-dax-05-remove-table-filters/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-calculate-in-dax-05-remove-table-filters/",
-      "originalUrl": "https://youtube.com/watch?v=9qKe66uBce8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9qKe66uBce8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M58S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-08T03:00:33-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9qKe66uBce8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

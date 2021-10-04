@@ -253,6 +253,84 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query.md",
+      "title": "How to filter a table to show only most recent date by group in Power Query",
+      "excerpt": "It is a best practice to load in Power Bi only the data that you need. In today's video, I will show you how you can filter a table by the last date available.   Chapters: 00:00 Intro 00:30 Explain the use case 01:00 The solution Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=hidJ5T_DYQ0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hidJ5T_DYQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M57S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-22T02:35:23-08:00",
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hidJ5T_DYQ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-replace-multiple-values-in-power-query-in-one-step.md",
+      "title": "Replace multiple values in Power Query in one step",
+      "excerpt": "In todays video I will show you how to conditional replace values in one step without adding new columns in Power Query, Enjoy!!  Chapters: 00:00 Intro & Problem description 00:36 Replace values the normal way 01:37 The solution Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-replace-multiple-values-in-power-query-in-one-step/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-replace-multiple-values-in-power-query-in-one-step/",
+      "originalUrl": "https://youtube.com/watch?v=cOXNbaa_02U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cOXNbaa_02U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M58S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-29T06:18:34-07:00",
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cOXNbaa_02U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-advanced-concatenate-merge-columns-with-power-query.md",
       "title": "Advanced Concatenate/ Merge columns with Power Query",
       "excerpt": "Concatenating columns in Power Query is not hard to do, but depending on the technique you use, you might get unexpected or wrong results.  There is a bullet proof way to do it and I will explain it here.  00:00 Intro & Problem description 01:19 How power query concatenates columns with Table.CombineColumns",
@@ -278,6 +356,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/87cfpXCeqtE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-write-if-statements-like-a-pro-in-power-query.md",
+      "title": "Write if statements like a Pro in Power Query",
+      "excerpt": "As the title says, in this video I will show you how to write if-statements like a pro: 00:00 The ultimate if-statement 00:40 if statement in Excel wont work 01:50 Use power query user interface to write if statement 03:00 Nested if-statements 03:38 AND/OR conditions in if statements 04:48 NOT condition",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-write-if-statements-like-a-pro-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-write-if-statements-like-a-pro-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=MTHDcnIPsSk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MTHDcnIPsSk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M1S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-06T04:30:28-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MTHDcnIPsSk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -479,14 +596,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-replace-multiple-values-in-power-query-in-one-step.md",
-      "title": "Replace multiple values in Power Query in one step",
-      "excerpt": "In todays video I will show you how to conditional replace values in one step without adding new columns in Power Query, Enjoy!!  Chapters: 00:00 Intro & Problem description 00:36 Replace values the normal way 01:37 The solution Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-replace-multiple-values-in-power-query-in-one-step/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-replace-multiple-values-in-power-query-in-one-step/",
-      "originalUrl": "https://youtube.com/watch?v=cOXNbaa_02U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cOXNbaa_02U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M58S",
+      "path": "_learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays.md",
+      "title": "Managing changing column names in Power Query #10: (M)agic (M)ondays",
+      "excerpt": "In today's video, I will show how to manage column headers that changes names so your power bi file does not break when you refresh it.  This tip is from Lars Schreiber and here is the link to his blog post and how to do this in power query: http://power-bi-usergroup.blogspot.se/2015/12/dealing-with-tables-with-changing.html",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays/",
+      "originalUrl": "https://youtube.com/watch?v=yBJr0sAc-m4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yBJr0sAc-m4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M46S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -499,120 +616,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-06-29T06:18:34-07:00",
+      "publishedDateTime": "2017-07-06T11:40:32-07:00",
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/cOXNbaa_02U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-pars-a-json-data-in-a-column-inside-power-query.md",
-      "title": "Pars a JSON Data in a Column inside  Power Query",
-      "excerpt": "In this short video, I have explained how to pars a column that has JSON data.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-pars-a-json-data-in-a-column-inside-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-pars-a-json-data-in-a-column-inside-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=MJsZaWO9Uho",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MJsZaWO9Uho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M5S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-12-07T16:26:48-08:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MJsZaWO9Uho/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-addappend-rows-and-columns-to-tables-without-merging-using-m-in-power-query.md",
-      "title": "Add/Append rows and columns to tables without merging using M in power query",
-      "excerpt": "In this video, I am going to show you how to add column and rows to a table in power query without appending it. Simply using the M language. #powerquery #curbal #powerbi   Here you can download all the pbix file (download 49- community downloads): https://curbal.com/donwload-center  SUBSCRIBE to learn",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-addappend-rows-and-columns-to-tables-without-merging-using-m-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-addappend-rows-and-columns-to-tables-without-merging-using-m-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=p_8jDYV1m5Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p_8jDYV1m5Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M5S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-11T06:37:01-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/p_8jDYV1m5Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query.md",
-      "title": "How to filter a table to show only most recent date by group in Power Query",
-      "excerpt": "It is a best practice to load in Power Bi only the data that you need. In today's video, I will show you how you can filter a table by the last date available.   Chapters: 00:00 Intro 00:30 Explain the use case 01:00 The solution Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=hidJ5T_DYQ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hidJ5T_DYQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M57S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-22T02:35:23-08:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hidJ5T_DYQ0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yBJr0sAc-m4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -648,7 +656,7 @@
         ]
       },
       "publishedDateTime": "2020-04-01T04:56:57-07:00",
-      "heat": 56,
+      "heat": 57,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hGj2axffxHo/maxresdefault.jpg",
@@ -666,31 +674,23 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-write-if-statements-like-a-pro-in-power-query.md",
-      "title": "Write if statements like a Pro in Power Query",
-      "excerpt": "As the title says, in this video I will show you how to write if-statements like a pro: 00:00 The ultimate if-statement 00:40 if statement in Excel wont work 01:50 Use power query user interface to write if statement 03:00 Nested if-statements 03:38 AND/OR conditions in if statements 04:48 NOT condition",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-write-if-statements-like-a-pro-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-write-if-statements-like-a-pro-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=MTHDcnIPsSk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MTHDcnIPsSk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M1S",
+      "path": "_learning/videos/radacad-pars-a-json-data-in-a-column-inside-power-query.md",
+      "title": "Pars a JSON Data in a Column inside  Power Query",
+      "excerpt": "In this short video, I have explained how to pars a column that has JSON data.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-pars-a-json-data-in-a-column-inside-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-pars-a-json-data-in-a-column-inside-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=MJsZaWO9Uho",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MJsZaWO9Uho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M5S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-07-06T04:30:28-07:00",
-      "heat": 56,
+      "publishedDateTime": "2020-12-07T16:26:48-08:00",
+      "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/MTHDcnIPsSk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/MJsZaWO9Uho/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -742,6 +742,45 @@
         "Power BI",
         "Power Query",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-addappend-rows-and-columns-to-tables-without-merging-using-m-in-power-query.md",
+      "title": "Add/Append rows and columns to tables without merging using M in power query",
+      "excerpt": "In this video, I am going to show you how to add column and rows to a table in power query without appending it. Simply using the M language. #powerquery #curbal #powerbi   Here you can download all the pbix file (download 49- community downloads): https://curbal.com/donwload-center  SUBSCRIBE to learn",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-addappend-rows-and-columns-to-tables-without-merging-using-m-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-addappend-rows-and-columns-to-tables-without-merging-using-m-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=p_8jDYV1m5Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p_8jDYV1m5Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M5S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-11T06:37:01-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/p_8jDYV1m5Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -823,14 +862,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-how-to-deal-with-errors-in-power-query-2-ways.md",
-      "title": "How to deal with errors in Power Query (2 ways)",
-      "excerpt": "In today's video, I am going to show you how to manage errors in power query two ways: the \"official one\" and a faster way (that could be a lot faster ;) #curbal #powerquery #powerbi  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-deal-with-errors-in-power-query-2-ways/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-deal-with-errors-in-power-query-2-ways/",
-      "originalUrl": "https://youtube.com/watch?v=OE6DPmKqN7s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OE6DPmKqN7s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M22S",
+      "path": "_learning/videos/curbal-replace-text-with-another-column-value-in-power-query.md",
+      "title": "Replace text with another column value in Power Query",
+      "excerpt": "Do you know how to replace text dynamically in Power Query using another column's value? Let me show you!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-replace-text-with-another-column-value-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-replace-text-with-another-column-value-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=nk3aV99hvQk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nk3aV99hvQk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M2S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -843,11 +882,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-10-14T05:24:22-07:00",
+      "publishedDateTime": "2021-06-21T05:12:11-07:00",
       "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/OE6DPmKqN7s/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/nk3aV99hvQk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -918,6 +957,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/3GIz50pftZ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-add-a-grand-total-row-to-a-table-in-power-query.md",
+      "title": "Add a grand total row to a table in Power Query",
+      "excerpt": "Sometimes you will need to have the grand totals calculated on your power query table and in this video I am going to show you how to do just that :)  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-add-a-grand-total-row-to-a-table-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-add-a-grand-total-row-to-a-table-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=dSz4AcBauVs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dSz4AcBauVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M52S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-08-30T03:12:24-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dSz4AcBauVs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1010,14 +1088,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-replace-text-with-another-column-value-in-power-query.md",
-      "title": "Replace text with another column value in Power Query",
-      "excerpt": "Do you know how to replace text dynamically in Power Query using another column's value? Let me show you!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-replace-text-with-another-column-value-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-replace-text-with-another-column-value-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=nk3aV99hvQk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nk3aV99hvQk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M2S",
+      "path": "_learning/videos/curbal-how-to-deal-with-errors-in-power-query-2-ways.md",
+      "title": "How to deal with errors in Power Query (2 ways)",
+      "excerpt": "In today's video, I am going to show you how to manage errors in power query two ways: the \"official one\" and a faster way (that could be a lot faster ;) #curbal #powerquery #powerbi  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-deal-with-errors-in-power-query-2-ways/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-deal-with-errors-in-power-query-2-ways/",
+      "originalUrl": "https://youtube.com/watch?v=OE6DPmKqN7s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OE6DPmKqN7s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M22S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -1030,11 +1108,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-06-21T05:12:11-07:00",
+      "publishedDateTime": "2019-10-14T05:24:22-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/nk3aV99hvQk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OE6DPmKqN7s/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1046,85 +1124,6 @@
       "topics": [
         "Power BI",
         "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-add-a-grand-total-row-to-a-table-in-power-query.md",
-      "title": "Add a grand total row to a table in Power Query",
-      "excerpt": "Sometimes you will need to have the grand totals calculated on your power query table and in this video I am going to show you how to do just that :)  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-add-a-grand-total-row-to-a-table-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-add-a-grand-total-row-to-a-table-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=dSz4AcBauVs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dSz4AcBauVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M52S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-08-30T03:12:24-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dSz4AcBauVs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-best-tips-when-working-with-power-bi-dataflows.md",
-      "title": "Best tips when working with Power BI dataflows!",
-      "excerpt": "I have been creating quite many dataflows lately and in today's video, I am going to share my best tips on how  to set them up and avoid common issues.  Chapters: 00:00 Intro 00:30 Is it worth to work with dataflows? 01:30 Managing gateways ...or not 02:30 Configure your own datalake 03:30 The Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-best-tips-when-working-with-power-bi-dataflows/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-best-tips-when-working-with-power-bi-dataflows/",
-      "originalUrl": "https://youtube.com/watch?v=5fHsRwEM7SY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5fHsRwEM7SY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M36S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-26T03:25:51-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5fHsRwEM7SY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query",
-        "Dataflows"
       ]
     }
   ],

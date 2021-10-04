@@ -278,6 +278,36 @@
       ]
     },
     {
+      "path": "_learning/videos/dhruvin-shah-introducing-power-bi-embedded-step-by-step-series.md",
+      "title": "Introducing Power BI Embedded Step by Step Series",
+      "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application.  This is Intermediate Level of",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-introducing-power-bi-embedded-step-by-step-series/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-introducing-power-bi-embedded-step-by-step-series/",
+      "originalUrl": "https://youtube.com/watch?v=tbFNzEamZyo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tbFNzEamZyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M28S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-03-19T10:12:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tbFNzEamZyo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-introduction-to-power-bi-embedded-power-bi-embedded-step-by-step-series-part-1.md",
       "title": "Introduction to Power BI Embedded | Power BI Embedded Step by Step Series | Part 1",
       "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application. During this video, we will learn",
@@ -426,6 +456,66 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi.md",
+      "title": "Maintain Bar Thickness(Width) in Power BI",
+      "excerpt": "Welcome to one more Short Video of Power BI. In this video, I'm going to explain how you can maintain the thickness of your bar in  Power BI. Most of the time when we add bar chart, column chart, stacked chart in Power BI, the thickness of each bar managed automatically. Sometimes, we need to maintain",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=poNpiApNZNs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/poNpiApNZNs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M31S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-06-29T21:08:10-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/poNpiApNZNs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-maintain-layer-order-for-your-power-bi-report.md",
+      "title": "Maintain Layer Order for your Power BI Report",
+      "excerpt": "In this video, we will learn how we can maintain layer order in Power BI. Sometimes, when we had added shapes or background images what happen is, if we click there by mistaken, it will be brought it to front and all of our visuals will overlap with the added shape.  This is very frustrating for the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-maintain-layer-order-for-your-power-bi-report/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-maintain-layer-order-for-your-power-bi-report/",
+      "originalUrl": "https://youtube.com/watch?v=CDDjJEZ1GFg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CDDjJEZ1GFg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M29S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-25T02:21:22-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CDDjJEZ1GFg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -639,36 +729,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-new-field-icons-in-power-bi.md",
-      "title": "New Field Icons in Power BI",
-      "excerpt": "We can see different icons for our Power BI Fields. Had we ever tried to understand what's the meaning of each icon? Here's an answer. During this video, we will see new Field icons introduced in Power BI Desktop. Microsoft rolled out these new icons with the November 2020 Power BI Desktop update. Here,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-field-icons-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-field-icons-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=YJZOHHfJYKw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YJZOHHfJYKw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M46S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-11-25T19:02:32-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YJZOHHfJYKw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-new-model-view-updates-in-power-bi.md",
       "title": "New Model View Updates in Power BI",
       "excerpt": "With November 2020 Power BI Desktop, we have a new Model View available for exploring. During this video, I am going to talk about how the new Model view will be looking like in Power BI Desktop. Power BI Desktop launched some new icons for the Model view. We need to upgrade our Model view first. Once",
@@ -821,36 +881,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-overview-of-power-bi-apps.md",
-      "title": "Overview of Power BI Apps",
-      "excerpt": "In this video, first we will talk What is a Power BI App? An App is a Power BI content type which allows to combine dashboards, reports all in one place bundled together.  Here, we will cover the following concepts.  We will start with the explanation of What is a Power BI App? Then we will talk about",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-overview-of-power-bi-apps/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-overview-of-power-bi-apps/",
-      "originalUrl": "https://youtube.com/watch?v=mjc9PrPzf-k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mjc9PrPzf-k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M41S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:51:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mjc9PrPzf-k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-permission-model-for-power-bi-report-while-integrating-with-ms-teams-power-bi-and-ms-teams-part-2.md",
       "title": "Permission Model for Power BI report while Integrating with MS Teams | Power BI and MS Teams| Part 2",
       "excerpt": "Welcome to Power BI and MS Teams Integration step by step series. My self Dhruvin Shah and I have divided this entire session into three different parts.  Part 1: Integrate Power BI Report, Report from Apps and Paginated Report to MS Teams using Power BI Tab in MS Teams. https://youtu.be/67-jriuocxc",
@@ -868,36 +898,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/o_d-SKFsOqU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-personalize-visual-in-power-bi-report.md",
-      "title": "Personalize Visual in Power BI Report",
-      "excerpt": "In this video, we will be talking about how we can personalize visuals in the Power BI report. This is a new feature rolled out during April 2020 update. This feature allows users to personalize visuals in the report based on their requirements.   Scenario:  Let’s say you have a Power BI report published",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-personalize-visual-in-power-bi-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-personalize-visual-in-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=Gp5Lwrug5-U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Gp5Lwrug5-U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M11S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-05-17T19:11:46-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Gp5Lwrug5-U/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

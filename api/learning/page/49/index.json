@@ -4,6 +4,67 @@
   "page": 49,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-automate-installation-of-power-bi-gateway-using-powershell.md",
+      "title": "Automate Installation of Power BI Gateway Using PowerShell",
+      "excerpt": "In this session, we will install the Power BI Gateway Using PowerShell. Here we will talk about how we can automate Gateway installation using PowerShell.  The Process is very simple and easy. • First, we need to install Windows PowerShell 7.0  • After that, we need to download and Install the Gateway",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-automate-installation-of-power-bi-gateway-using-powershell/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-automate-installation-of-power-bi-gateway-using-powershell/",
+      "originalUrl": "https://youtube.com/watch?v=vXOe36k1zTg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vXOe36k1zTg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M34S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-03T09:03:20-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vXOe36k1zTg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-automatic-page-refresh-apr-in-the-power-bi-desktop-with-sql-server-directquery-mode.md",
+      "title": "Automatic Page Refresh (APR) in the Power BI Desktop with SQL Server DirectQuery Mode",
+      "excerpt": "In this session, we will discuss the new rolled out feature in the Power BI October 2019 update. Make sure before you proceed further, you have the latest version of the Power BI Desktop installed in your machine. Automatic Page Refresh (APR) is a feature which allows us set refresh interval in our Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-automatic-page-refresh-apr-in-the-power-bi-desktop-with-sql-server-directquery-mode/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-automatic-page-refresh-apr-in-the-power-bi-desktop-with-sql-server-directquery-mode/",
+      "originalUrl": "https://youtube.com/watch?v=MhK-I2Xksaw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MhK-I2Xksaw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M3S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MhK-I2Xksaw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-automatic-table-detection-from-excel-file-in-power-bi.md",
       "title": "Automatic Table Detection from Excel File in Power BI",
       "excerpt": "During this short video, I'm going to explain to you one important connector update of Power BI Desktop which is - Automatic table detection from Excel files. Earlier, if we have multiple tables in the same spreadsheet, Power BI detects them as a single table and we have incorrect fields detected from",
@@ -304,37 +365,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-convert-data-from-html-to-plain-text-using-power-query-for-power-bi-table-visualization.md",
-      "title": "Convert data from HTML to Plain Text using Power Query for Power BI Table Visualization",
-      "excerpt": "As we all know, Power BI table visualization does not support HTML generation. So, we need to convert our HTML text to Plain text.   With the help of Power Query function, we can easily remove HTML tags from the Text in Power Query. To implement that we need to use function HTML.table() in Power Query.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-convert-data-from-html-to-plain-text-using-power-query-for-power-bi-table-visualization/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-convert-data-from-html-to-plain-text-using-power-query-for-power-bi-table-visualization/",
-      "originalUrl": "https://youtube.com/watch?v=4UDynnPQpG4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4UDynnPQpG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M40S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-05-28T08:05:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4UDynnPQpG4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-convert-date-time-from-local-time-to-utc-time-using-power-query.md",
       "title": "Convert Date time from Local Time to UTC time using Power Query",
       "excerpt": "In this session I am going to talk about how we can convert datetime from one timezone to UTC timezone in power query.  sometimes there are situations where we need to convert our local date time value to UTC time value.  In Power Query we have some functions using which we can convert our local date",
@@ -363,6 +393,36 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-copy-a-visual-as-an-image-on-clipboard-in-power-bi.md",
+      "title": "Copy a Visual as an Image on Clipboard in Power BI",
+      "excerpt": "In this video, we will discuss the newly rolled out feature for Power BI Service – Copy visual as an Image.  In this video, we will be discussing the following features: • How to Copy a Visual as an Image for Power BI Report? • The properties and metadata which are copied using Copy a visual as an Image",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-copy-a-visual-as-an-image-on-clipboard-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-copy-a-visual-as-an-image-on-clipboard-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=7Bi7v1G_e0o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Bi7v1G_e0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M4S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-16T23:22:18-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7Bi7v1G_e0o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -608,36 +668,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-create-line-chart-with-dual-y-axis-in-power-bi.md",
-      "title": "Create Line Chart with Dual Y Axis in Power BI",
-      "excerpt": "In this vLog, we will learn, how we can create a line chart with the dual Y-axis in Power BI.  This feature has been rolled out in March 2020 Power BI Desktop Update.  Here, first, we will learn how we can create a normal Line Chart and then add second Y-axis to represent the Sales data by Units with",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-create-line-chart-with-dual-y-axis-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-create-line-chart-with-dual-y-axis-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=z73dmBN26RA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z73dmBN26RA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M58S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:52:50-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/z73dmBN26RA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-cross-filter-your-data-by-selecting-multiple-data-point-at-once-using-rectangular-lasso.md",
       "title": "Cross Filter your data by Selecting Multiple Data Point at Once Using Rectangular Lasso",
       "excerpt": "During this Power BI session, we will learn how we can select multiple data points at once using Rectangular Lasso in Power BI Desktop. This feature has been rolled out during the August 2020 Update. Make sure you have updated your Power BI Desktop with all August 2020 features.  During this session,",
@@ -868,37 +898,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/pcJgDfvmHtk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-dax-functions-overview-date-and-time-function-in-power-bi.md",
-      "title": "DAX Functions Overview - Date and Time Function in Power BI",
-      "excerpt": "Welcome to my new series – “Wednesday with DAX”. This is the first video of this series. The first episode covers all Date and Time functions used in Power BI In this video, we will talk about Date and Time functions in Power BI. We will discuss about most useful date and time functions in Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-dax-functions-overview-date-and-time-function-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-dax-functions-overview-date-and-time-function-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=rVxCZNWpbBU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rVxCZNWpbBU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT29M24S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-04-30T23:07:28-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rVxCZNWpbBU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

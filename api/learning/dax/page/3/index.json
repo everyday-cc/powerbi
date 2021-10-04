@@ -4,45 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/curbal-dax-fridays-132-dynamic-topn-others-in-power-bi.md",
-      "title": "DAX Fridays! #132: Dynamic TopN + Others in Power BI",
-      "excerpt": "I was recently asked to do a TopN + Others for a customer and in this video I will share my solution with you. #curbal #dax #daxfridays #powerbi  Link to RANX video: https://www.youtube.com/watch?v=z2qzJVeYhTY Gerhard post: https://blog.gbrueckl.at/2019/05/power-bi-dynamic-topn-others-with-drill-down/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-132-dynamic-topn-others-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-132-dynamic-topn-others-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=UAnylK9bm1I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UAnylK9bm1I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M32S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-11T02:51:24-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UAnylK9bm1I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-dax-fridays-14-summarize.md",
       "title": "DAX Fridays! #14: SUMMARIZE",
       "excerpt": "Learn how to use the function SUMMARIZE in DAX/ Powerpivot.  The function SUMMARIZE can return a summary of sales grouped around the calendar year and the product category name, this result table allows you to do analysis over the reseller sales by year and product category.  Source:https://msdn.microsoft.com/en-us/library/gg492171.aspx",
@@ -146,45 +107,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/5WGOTsYngCI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-185-calculating-max-values-by-category.md",
-      "title": "DAX Fridays! #185: Calculating max values by category",
-      "excerpt": "In todays video we will calculate the Max value by category using allselect function. This video is part of the Fire series below:  This week we are going to visualize the amazon fires data.  Part1 : First we will clean and model the data using Power Query.  (this video) https://www.youtube.com/watch?v=V1kAFbyE7sw",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-185-calculating-max-values-by-category/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-185-calculating-max-values-by-category/",
-      "originalUrl": "https://youtube.com/watch?v=8KaMj2DFpWg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8KaMj2DFpWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M43S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-22T02:53:44-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8KaMj2DFpWg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -355,6 +277,45 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-dax-fridays-212-values-vs-selectedvalue-to-conditional-format-a-line-chart.md",
+      "title": "DAX Fridays! #212: VALUES vs SELECTEDVALUE to conditional format a line chart",
+      "excerpt": "In today's video I will show you the dax needed to conditional format a line chart in Power BI and by doing that, I will show you the difference between SELECTEDVALUE and VALUES.  Enjoy!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-212-values-vs-selectedvalue-to-conditional-format-a-line-chart/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-212-values-vs-selectedvalue-to-conditional-format-a-line-chart/",
+      "originalUrl": "https://youtube.com/watch?v=DT3XTcXJxo4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DT3XTcXJxo4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M7S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-08-23T03:25:47-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DT3XTcXJxo4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-3-sum-and-sumx.md",
       "title": "DAX Fridays! #3: SUM and SUMX",
       "excerpt": "Dax Fridays! Today we will go through: how to use SUM() and SUMX(), the difference between them and when should we use one vs the other.  The DAX SUM function calculates the sum of all numbers in a column while the DAX SUMX function returns the sum of an expression for each row in a table.  02:28 Create",
@@ -458,6 +419,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/44JKwL3Js10/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-battle-187-rankx-vs-topn.md",
+      "title": "DAX Fridays Battle #187: RANKX vs TOPN",
+      "excerpt": "You have asked me many times to explain the difference between RANKX and TOPN and it is finally here.  Links to related videos: 00:30 Calculate vs calculatetable https://www.youtube.com/watch?v=P4B9FbzrotM  01:55 Scalar vs table vs other DAX functions https://www.youtube.com/watch?v=oA_GYuoqgsY  05:56",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-battle-187-rankx-vs-topn/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-battle-187-rankx-vs-topn/",
+      "originalUrl": "https://youtube.com/watch?v=SQ_IstiM5ME",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SQ_IstiM5ME\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M14S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-09T04:10:47-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SQ_IstiM5ME/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -985,14 +985,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-127-calculate-same-period-last-month-in-dax.md",
-      "title": "DAX Fridays! #127: Calculate Same period last Month in DAX",
-      "excerpt": "Comparing periods is something you should always do as it adds context to your data, but how do you calculate Same period last month? PREVIOUSMONTH function will give you the entire previous month, so how do you do it? #powerbi #curbal #dax #daxfridays  Here is  one of the many ways to do it.   Get Northwind",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-127-calculate-same-period-last-month-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-127-calculate-same-period-last-month-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=-xBYtOVyMTs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-xBYtOVyMTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M27S",
+      "path": "_learning/videos/curbal-dax-fridays-124-weekly-time-intelligence-in-power-bi.md",
+      "title": "DAX Fridays! #124: Weekly time intelligence in Power BI",
+      "excerpt": "Are you also bummed out that there is no weekly time intelligence in DAX? Believe it or not, creating weekly calculations is easier than you think, and I show you how in this edition of #DAXfridays.   #DAX #Powerbi #curbal    Are you in a hurry? Skip the talk and go right to it:  01:06 Calculate Weekly",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-124-weekly-time-intelligence-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-124-weekly-time-intelligence-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=jBPLm5BHl2c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jBPLm5BHl2c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M28S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -1005,11 +1005,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-05-17T06:30:25-07:00",
+      "publishedDateTime": "2019-04-26T02:41:12-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-xBYtOVyMTs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jBPLm5BHl2c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1063,14 +1063,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-135-linear-regression-in-power-bi.md",
-      "title": "DAX Fridays! #135: Linear Regression in Power BI",
-      "excerpt": "In today's video I will explain Linear Regression: what it is, how it is used and how to calculate it in Power BI. Happy summer! #curbal #powerbi #dax #daxfridays Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK    Here you can download",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-135-linear-regression-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-135-linear-regression-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=d1kHgFULcko",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d1kHgFULcko\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M16S",
+      "path": "_learning/videos/curbal-dax-fridays-132-dynamic-topn-others-in-power-bi.md",
+      "title": "DAX Fridays! #132: Dynamic TopN + Others in Power BI",
+      "excerpt": "I was recently asked to do a TopN + Others for a customer and in this video I will share my solution with you. #curbal #dax #daxfridays #powerbi  Link to RANX video: https://www.youtube.com/watch?v=z2qzJVeYhTY Gerhard post: https://blog.gbrueckl.at/2019/05/power-bi-dynamic-topn-others-with-drill-down/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-132-dynamic-topn-others-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-132-dynamic-topn-others-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=UAnylK9bm1I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UAnylK9bm1I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M32S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -1083,11 +1083,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-07-10T07:38:10-07:00",
+      "publishedDateTime": "2019-07-11T02:51:24-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/d1kHgFULcko/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UAnylK9bm1I/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -142,37 +142,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where.md",
-      "title": "DAX Beginners - SUM Vs SUMX in Power BI - What, When and Where?",
-      "excerpt": "Welcome to Wed with Dax beginner series. During this episode, we will talk about two interesting DAX expressions. SUM and SUMX. We will compare both DAX expressions in detail. First, I will explain When to use SUM and when to use SUMX. We will talk about the difference between SUM and SUMX functions",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where/",
-      "originalUrl": "https://youtube.com/watch?v=bQWwj9w06K4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bQWwj9w06K4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M21S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-09-29T00:07:31-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bQWwj9w06K4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-generate-year-month-day-combinations-in-power-bi-report-using-power-query-date-totext-function.md",
       "title": "Generate Year Month Day Combinations in Power BI Report using Power Query Date ToText Function",
       "excerpt": "A common requirement when reporting data with a Date axis is to be able to see the year and the month in a short form beside each other. Formats such as 2021 Jan, or Jan 2021, or even Jan 21, or 2021-01 are very popular. In Power BI, ideally, you should have a Date dimension with columns for this. However,",
@@ -204,33 +173,56 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-intro-to-r-with-power-bi.md",
-      "title": "Intro to R with Power BI",
-      "excerpt": "You enjoyed the intro to Python video, now let's look at R Script within Power BI! There are a lot of similar aspects and Patrick walks you though what you should know to get started.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-intro-to-r-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-intro-to-r-with-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=NomSliJK3s4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NomSliJK3s4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M48S",
+      "path": "_learning/videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where.md",
+      "title": "DAX Beginners - SUM Vs SUMX in Power BI - What, When and Where?",
+      "excerpt": "Welcome to Wed with Dax beginner series. During this episode, we will talk about two interesting DAX expressions. SUM and SUMX. We will compare both DAX expressions in detail. First, I will explain When to use SUM and when to use SUMX. We will talk about the difference between SUM and SUMX functions",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where/",
+      "originalUrl": "https://youtube.com/watch?v=bQWwj9w06K4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bQWwj9w06K4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M21S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-07-21T08:00:10-07:00",
-      "heat": 132,
+      "publishedDateTime": "2021-09-29T00:07:31-07:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/NomSliJK3s4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/bQWwj9w06K4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-relationships-not-working-four-steps-to-debug-for-the-power-bi-beginner.md",
+      "title": "Power BI Relationships Not Working? Four Steps to Debug 🐞 for the Power BI Beginner",
+      "excerpt": "Are your Power BI Relationships not working? It can be so frustrating when that happens. The good news is that the four steps shown in this video will help you debug most of your Power BI Relationships problems.  00:00 Introduction 01:05 Tip #1 Debug Using Simple Table 02:03 Tip #2 Debug Using Simple",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-relationships-not-working-four-steps-to-debug-for-the-power-bi-beginner/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-relationships-not-working-four-steps-to-debug-for-the-power-bi-beginner/",
+      "originalUrl": "https://youtube.com/watch?v=eT2NV2MNaLw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eT2NV2MNaLw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2021-07-21T09:00:15-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eT2NV2MNaLw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -304,54 +296,65 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-all-in-one-script-to-create-calendar-table-or-date-dimension-using-dax-in-power-bi.md",
-      "title": "All in One Script to Create Calendar Table or Date Dimension using DAX in Power BI",
-      "excerpt": "I have previously written an article with the full script of how to generate a date dimension in Power BI using the Power Query script, and I would always recommend that as the first choice. However, sometimes, you just want this to be in DAX way, so here in this blog and video, I explained how to create",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-all-in-one-script-to-create-calendar-table-or-date-dimension-using-dax-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-all-in-one-script-to-create-calendar-table-or-date-dimension-using-dax-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=zeXQknz4RdI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zeXQknz4RdI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M49S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+      "path": "_learning/courses/microsoft-learn-power-bi-admin-infrastructure.md",
+      "title": "Establish a data access infrastructure in Power BI",
+      "excerpt": "Learn how to establish a data access infrastructure for accessing all your data within Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-infrastructure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-infrastructure/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 26,
+        "average": 4.769231
       },
-      "publishedDateTime": "2021-07-12T17:33:26-07:00",
-      "heat": 131,
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/zeXQknz4RdI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-infrastructure-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-draw-x-axis-constant-line-with-dynamic-value-for-power-bi-line-chart.md",
-      "title": "Draw X Axis Constant Line with Dynamic Value for Power BI Line Chart",
-      "excerpt": "Welcome to Power BI August 2021 Power BI Desktop Update. During this session, we will learn how we can draw X-Axis Constant Line with Power BI Line Charts using Dynamic value. Earlier with existing functionality Power BI supports static value for X-Axis constant Line chart. Now, with the August 2021",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-draw-x-axis-constant-line-with-dynamic-value-for-power-bi-line-chart/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-draw-x-axis-constant-line-with-dynamic-value-for-power-bi-line-chart/",
-      "originalUrl": "https://youtube.com/watch?v=xla7M2Pv6v4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xla7M2Pv6v4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M16S",
+      "path": "_learning/videos/dhruvin-shah-get-best-result-from-qa-visual-in-power-bi.md",
+      "title": "Get Best Result from Q&A Visual in Power BI",
+      "excerpt": "Welcome to one more Power BI Tip for Q&A Visual in Power BI. When we add Q&A visual in Power BI and ask the questions in the natural language, sometimes it does not give us the proper outcome! So, how can we improve our Q&A visual and return the best result? How we can use synonyms in the best manner",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-get-best-result-from-qa-visual-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-get-best-result-from-qa-visual-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=Ztr5f7i99M0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ztr5f7i99M0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M31S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-08-19T04:21:28-07:00",
+      "publishedDateTime": "2021-08-13T19:12:00-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/xla7M2Pv6v4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Ztr5f7i99M0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -845,8 +848,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 25703,
-            "average": 4.7971444
+            "count": 25708,
+            "average": 4.797106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -887,8 +890,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 44043,
-            "average": 4.7709737
+            "count": 44044,
+            "average": 4.770979
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -947,8 +950,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 44043,
-        "average": 4.7709737
+        "count": 44044,
+        "average": 4.770979
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1066,8 +1069,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 25703,
-        "average": 4.7971444
+        "count": 25708,
+        "average": 4.797106
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1169,8 +1172,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 44043,
-            "average": 4.7709737
+            "count": 44044,
+            "average": 4.770979
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1211,8 +1214,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 21043,
-            "average": 4.7181487
+            "count": 21045,
+            "average": 4.7181754
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1296,8 +1299,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6998,
-            "average": 4.768505
+            "count": 6999,
+            "average": 4.7685385
           },
           "provider": {
             "name": "Microsoft Learn",
