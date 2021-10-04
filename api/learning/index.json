@@ -112,6 +112,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-crushing-requirements-with-small-multiples-in-power-bi.md",
+      "title": "CRUSHING requirements with Small Multiples in Power BI",
+      "excerpt": "Check out how using Small Multiples in Power BI can help you CRUSH requirements and satisfy business requests to make amazing reports! Patrick also has a neat trick for you.  Documentation: https://docs.microsoft.com/power-bi/visuals/power-bi-visualization-small-multiples  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-crushing-requirements-with-small-multiples-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-crushing-requirements-with-small-multiples-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=phlaZn54Mio",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/phlaZn54Mio\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M27S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-09-01T08:00:26-07:00",
+      "heat": 138,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/phlaZn54Mio/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-power-bi-modeling-change-the-status-log-table-to-a-from-to-table.md",
       "title": "Power BI Modeling   Change the Status Log Table to a From To Table",
       "excerpt": "It is common that you face a status table in your data analysis scenarios. A status table normally has a column for the status of the items and the date of status change. This type of table, although informative, can be hard for analyzing data. In this article and video, I’ll explain why it is better",
@@ -129,44 +167,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/zf1ZkBO-D2Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-using-allexcept-vs-all-values.md",
-      "title": "Using ALLEXCEPT vs ALL VALUES",
-      "excerpt": "ALLEXCEPT is a handy DAX function to retrieve all the columns of a table except for some. When used as a CALCULATE modifier, its behavior is less intuitive and might result in inaccurate measures. In this video, we elaborate on the most common mistake when using ALLEXCEPT in CALCULATE.\r Article and download:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-using-allexcept-vs-all-values/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-using-allexcept-vs-all-values/",
-      "originalUrl": "https://youtube.com/watch?v=DGPvGqzQteM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DGPvGqzQteM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M35S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-08-31T03:00:53-07:00",
-      "heat": 136,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DGPvGqzQteM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -242,6 +242,36 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-relationships-not-working-four-steps-to-debug-for-the-power-bi-beginner.md",
+      "title": "Power BI Relationships Not Working? Four Steps to Debug 🐞 for the Power BI Beginner",
+      "excerpt": "Are your Power BI Relationships not working? It can be so frustrating when that happens. The good news is that the four steps shown in this video will help you debug most of your Power BI Relationships problems.  00:00 Introduction 01:05 Tip #1 Debug Using Simple Table 02:03 Tip #2 Debug Using Simple",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-relationships-not-working-four-steps-to-debug-for-the-power-bi-beginner/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-relationships-not-working-four-steps-to-debug-for-the-power-bi-beginner/",
+      "originalUrl": "https://youtube.com/watch?v=eT2NV2MNaLw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eT2NV2MNaLw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2021-07-21T09:00:15-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eT2NV2MNaLw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/power-bi-tips-all-about-daxdo-milwaukee-power-platform-user-group.md",
       "title": "All About DAX.do - Milwaukee Power Platform User Group",
       "excerpt": "The Milwaukee Brew City User group is hosting the monthly Power BI User Group meeting.  Kevin Arnold Director of Architecture from Expert Analytics will be providing us a full demo of the website DAX.do  Visit PowerBI.tips : https://powerbi.tips  Visit Chicago User Group:  https://community.powerbi.com/t5/Chicago-Power-BI-User-Group/gh-p/pbi_chicago_usergroup",
@@ -304,84 +334,30 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-advance-power-bi-premium-for-enterprise-analytics-market-beyond.md",
-      "title": "Advance Power BI Premium for the enterprise analytics market and beyond",
-      "excerpt": "Advance Power BI Premium for the enterprise analytics market and beyond",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-advance-power-bi-premium-for-enterprise-analytics-market-beyond/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/advance-power-bi-premium-for-enterprise-analytics-market-beyond/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 3,
-        "average": 5.0
-      },
+      "path": "_learning/videos/dhruvin-shah-draw-x-axis-constant-line-with-dynamic-value-for-power-bi-line-chart.md",
+      "title": "Draw X Axis Constant Line with Dynamic Value for Power BI Line Chart",
+      "excerpt": "Welcome to Power BI August 2021 Power BI Desktop Update. During this session, we will learn how we can draw X-Axis Constant Line with Power BI Line Charts using Dynamic value. Earlier with existing functionality Power BI supports static value for X-Axis constant Line chart. Now, with the August 2021",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-draw-x-axis-constant-line-with-dynamic-value-for-power-bi-line-chart/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-draw-x-axis-constant-line-with-dynamic-value-for-power-bi-line-chart/",
+      "originalUrl": "https://youtube.com/watch?v=xla7M2Pv6v4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xla7M2Pv6v4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M16S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "levels": [
-        "Beginner"
-      ],
+      "publishedDateTime": "2021-08-19T04:21:28-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/xla7M2Pv6v4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-admin-collaboration.md",
-      "title": "Facilitate collaboration and sharing",
-      "excerpt": "Learn how to collaborate and share dashboards and reports with coworkers.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-collaboration/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-collaboration/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 40,
-        "average": 4.775
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-collaboration-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -618,7 +594,7 @@
             ]
           },
           "publishedDateTime": "2018-03-20T08:10:00-07:00",
-          "heat": 50,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/QiwxT9ndefY/maxresdefault.jpg",
@@ -945,8 +921,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 25732,
-            "average": 4.7972174
+            "count": 25738,
+            "average": 4.797187
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -987,8 +963,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 44066,
-            "average": 4.7709346
+            "count": 44081,
+            "average": 4.7709446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1047,8 +1023,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 44066,
-        "average": 4.7709346
+        "count": 44081,
+        "average": 4.7709446
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1153,8 +1129,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 25732,
-        "average": 4.7972174
+        "count": 25738,
+        "average": 4.797187
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1218,8 +1194,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 44066,
-            "average": 4.7709346
+            "count": 44081,
+            "average": 4.7709446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1260,8 +1236,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 21055,
-            "average": 4.718214
+            "count": 21057,
+            "average": 4.718146
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1345,8 +1321,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7005,
-            "average": 4.768451
+            "count": 7008,
+            "average": 4.7685504
           },
           "provider": {
             "name": "Microsoft Learn",

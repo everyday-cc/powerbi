@@ -4,6 +4,68 @@
   "page": 50,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-dax-functions-firstnonblankvalue-and-lastnonblankvalue-in-power-bi.md",
+      "title": "DAX Functions - FirstNonBlankValue and LastNonBlankValue in Power BI",
+      "excerpt": "In this video, we will talk about two newly rolled out measures by Power BI which are –  FirstNonblankValue LastNonBlankValue With this video, we will take a real-life scenario and example which will return the first non-blank value for the specific column declared in the measure formula.   After that",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-dax-functions-firstnonblankvalue-and-lastnonblankvalue-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-dax-functions-firstnonblankvalue-and-lastnonblankvalue-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=pcJgDfvmHtk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pcJgDfvmHtk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M20S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:52:50-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pcJgDfvmHtk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-dax-functions-overview-date-and-time-function-in-power-bi.md",
+      "title": "DAX Functions Overview - Date and Time Function in Power BI",
+      "excerpt": "Welcome to my new series – “Wednesday with DAX”. This is the first video of this series. The first episode covers all Date and Time functions used in Power BI In this video, we will talk about Date and Time functions in Power BI. We will discuss about most useful date and time functions in Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-dax-functions-overview-date-and-time-function-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-dax-functions-overview-date-and-time-function-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=rVxCZNWpbBU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rVxCZNWpbBU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M24S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2019-04-30T23:07:28-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rVxCZNWpbBU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-decomposition-tree-visualization-in-power-bi.md",
       "title": "Decomposition Tree Visualization in Power BI",
       "excerpt": "In this video, we will talk about one of the AI visualization in the Power BI which is Decomposition Tree visual.  The Decomposition Tree visual is the AI Visual in Power BI and it is in preview at this moment. In this vLog we will talk about what is the use of the Decomposition visual and how we can",
@@ -232,36 +294,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/iRJdcZbfBd4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-draw-x-axis-constant-line-with-dynamic-value-for-power-bi-line-chart.md",
-      "title": "Draw X Axis Constant Line with Dynamic Value for Power BI Line Chart",
-      "excerpt": "Welcome to Power BI August 2021 Power BI Desktop Update. During this session, we will learn how we can draw X-Axis Constant Line with Power BI Line Charts using Dynamic value. Earlier with existing functionality Power BI supports static value for X-Axis constant Line chart. Now, with the August 2021",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-draw-x-axis-constant-line-with-dynamic-value-for-power-bi-line-chart/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-draw-x-axis-constant-line-with-dynamic-value-for-power-bi-line-chart/",
-      "originalUrl": "https://youtube.com/watch?v=xla7M2Pv6v4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xla7M2Pv6v4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M16S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-08-19T04:21:28-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xla7M2Pv6v4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -868,36 +900,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/JLgj_bluXm8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-how-to-prepare-yourself-for-da-100-certification.md",
-      "title": "How to Prepare yourself for DA 100 Certification?",
-      "excerpt": "DA 100 - Data Analyst 100. This is one of the most important certifications for Microsoft Power BI. We all know about the importance of Certification in our Professional world. This is one of the most requested topics from my YouTube subscribers to make some video on Power BI Certification. In this session,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-how-to-prepare-yourself-for-da-100-certification/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-how-to-prepare-yourself-for-da-100-certification/",
-      "originalUrl": "https://youtube.com/watch?v=-qMteKLrHRk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-qMteKLrHRk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT51M25S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-04-09T01:11:37-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-qMteKLrHRk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -4,6 +4,83 @@
   "page": 21,
   "value": [
     {
+      "path": "_learning/videos/curbal-create-dynamic-query-parameters-in-power-bi-desktop-power-bi-tips-tricks-47.md",
+      "title": "Create Dynamic Query Parameters in Power BI Desktop  - Power BI Tips & Tricks #47",
+      "excerpt": "Create Dynamic Query Parameters, filter your reports with them and create a template using Power BI.  Links mentioned in the video:  Chris Webb blog: https://blog.crossjoin.co.uk/2016/08/30/data-driven-power-bi-desktop-parameters-using-list-queries/  Rio Summer Olympics Report: https://www.youtube.com/watch?v=tZXY9RZwd3U",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-dynamic-query-parameters-in-power-bi-desktop-power-bi-tips-tricks-47/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-dynamic-query-parameters-in-power-bi-desktop-power-bi-tips-tricks-47/",
+      "originalUrl": "https://youtube.com/watch?v=0B3kmAsEJHY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0B3kmAsEJHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M11S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-07-06T04:25:26-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0B3kmAsEJHY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-create-heatmaps-without-custom-visuals-in-power-bi.md",
+      "title": "Create heatmaps without custom visuals in Power BI",
+      "excerpt": "Quick tip for today: I will show you how to create a heatmap in Power BI without downloading a custom visual.   This can be useful if your organization does not allow you to use custom visuals.   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-heatmaps-without-custom-visuals-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-heatmaps-without-custom-visuals-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=yC2uR6vOIVY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yC2uR6vOIVY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M2S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-06T03:43:47-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yC2uR6vOIVY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-custom-sort-order-for-axis-columns-legends-in-power-bi.md",
       "title": "Custom sort order for axis, columns, legends.... in Power BI",
       "excerpt": "How do I sort och change the default order for columns, axis, legends in Power BI?  I get this question all the time, and although I have already explained it in other videos, I don't have a specific video for it and your questions hint me that is needed.  So here it is, In this video we are going to",
@@ -1082,84 +1159,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/DqehDO50mFE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-25-wrong-grand-totals-in-power-bi.md",
-      "title": "DAX Fridays! #25: Wrong Grand Totals in Power BI",
-      "excerpt": "In today's video we will go through why sometimes Power BI grand totals dont add up and what to do to fix it.  Link to Power BI file used in the video, get file #41 on the community downloads folder: https://curbal.com/donwload-center  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-25-wrong-grand-totals-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-25-wrong-grand-totals-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=ufHOOLdi_jk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ufHOOLdi_jk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M25S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-02-09T12:16:05-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ufHOOLdi_jk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-29-hasonevalue.md",
-      "title": "DAX Fridays! #29: HASONEVALUE",
-      "excerpt": "Have you ever got this error message?: A table of multiple values was supplied where a single value was expected ?  If you have, make sure to check out this video to understand how to solve it.  HASONEVALUE is a DAX function that will check if the table returned has one value or not. If it has, it will",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-29-hasonevalue/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-29-hasonevalue/",
-      "originalUrl": "https://youtube.com/watch?v=WF7KzR5bP9I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WF7KzR5bP9I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M8S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-03-05T05:39:01-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WF7KzR5bP9I/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

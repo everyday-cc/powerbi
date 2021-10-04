@@ -4,154 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/collections/dhruvin-shah-power-bi-embedded-step-by-step-series.md",
-      "title": "Power BI Embedded Step by Step Series",
-      "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/dhruvin-shah-power-bi-embedded-step-by-step-series/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/dhruvin-shah-power-bi-embedded-step-by-step-series/",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/dhruvin-shah-introducing-power-bi-embedded-step-by-step-series.md",
-          "title": "Introducing Power BI Embedded Step by Step Series",
-          "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application.  This is Intermediate Level of",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-introducing-power-bi-embedded-step-by-step-series/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-introducing-power-bi-embedded-step-by-step-series/",
-          "originalUrl": "https://youtube.com/watch?v=tbFNzEamZyo",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tbFNzEamZyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M28S",
-          "provider": {
-            "name": "Dhruvin Shah",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2019-03-19T10:12:07-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/tbFNzEamZyo/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/dhruvin-shah-introduction-to-power-bi-embedded-power-bi-embedded-step-by-step-series-part-1.md",
-          "title": "Introduction to Power BI Embedded | Power BI Embedded Step by Step Series | Part 1",
-          "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application. During this video, we will learn",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-introduction-to-power-bi-embedded-power-bi-embedded-step-by-step-series-part-1/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-introduction-to-power-bi-embedded-power-bi-embedded-step-by-step-series-part-1/",
-          "originalUrl": "https://youtube.com/watch?v=Or0oYJO7s7Q",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Or0oYJO7s7Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT8M37S",
-          "provider": {
-            "name": "Dhruvin Shah",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2019-03-19T10:12:07-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/Or0oYJO7s7Q/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/dhruvin-shah-prerequisites-and-common-steps-to-embed-report-using-azure-function-app-and-javascript-part-2.md",
-          "title": "Prerequisites and Common Steps to Embed Report using Azure Function APP and JavaScript | Part 2",
-          "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application. In this video we will cover,",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-prerequisites-and-common-steps-to-embed-report-using-azure-function-app-and-javascript-part-2/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-prerequisites-and-common-steps-to-embed-report-using-azure-function-app-and-javascript-part-2/",
-          "originalUrl": "https://youtube.com/watch?v=c9V9kXP49LM",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c9V9kXP49LM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT4M49S",
-          "provider": {
-            "name": "Dhruvin Shah",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2019-03-19T10:12:07-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/c9V9kXP49LM/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/dhruvin-shah-register-an-azure-ad-app-to-embed-power-bi-content-and-apply-permissions-within-azure-ad-part-3.md",
-          "title": "Register an Azure AD app to Embed Power BI Content and Apply Permissions within Azure AD| Part 3",
-          "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application. During this video, first we will",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-register-an-azure-ad-app-to-embed-power-bi-content-and-apply-permissions-within-azure-ad-part-3/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-register-an-azure-ad-app-to-embed-power-bi-content-and-apply-permissions-within-azure-ad-part-3/",
-          "originalUrl": "https://youtube.com/watch?v=6UviUQ_OA6E",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6UviUQ_OA6E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT9M38S",
-          "provider": {
-            "name": "Dhruvin Shah",
-            "domain": "youtube.com"
-          },
-          "publishedDateTime": "2019-03-19T10:12:07-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/6UviUQ_OA6E/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 9,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tbFNzEamZyo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/guy-in-a-cube-embed-power-bi.md",
       "title": "Embed Power BI",
       "excerpt": "The ability to embed Power BI into your site or application. This list has videos that are related to the different embedding options for Power BI. This includes Publish to web, the REST APIs and the Power BI Embedded Azure service.",
@@ -708,7 +560,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-collaboration-social.png",
@@ -1148,6 +1000,215 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-premium-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-gain-insights-into-your-data-through-intelligent-tools-in-power-bi.md",
+      "title": "Gain insights into your data through intelligent tools in Power BI",
+      "excerpt": "Gain insights into your data through intelligent tools in Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-gain-insights-into-your-data-through-intelligent-tools-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-gain-insights-into-your-data-through-intelligent-tools-in-power-bi/",
+      "length": "PT3H28M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-deliver-decision-making-insights-with-power-bi.md",
+          "title": "Deliver decision-making insights with Power BI",
+          "excerpt": "Deliver decision-making insights with Power BI",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-deliver-decision-making-insights-with-power-bi/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deliver-decision-making-insights-with-power-bi/",
+          "length": "PT27M",
+          "ratings": {
+            "count": 4,
+            "average": 4.25
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure.md",
+          "title": "Build systems of insights for enterprise scale with Power BI and Azure",
+          "excerpt": "Build systems of insights for enterprise scale with Power BI and Azure",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/",
+          "length": "PT30M",
+          "ratings": {
+            "count": 5,
+            "average": 4.6
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-advance-power-bi-premium-for-enterprise-analytics-market-beyond.md",
+          "title": "Advance Power BI Premium for the enterprise analytics market and beyond",
+          "excerpt": "Advance Power BI Premium for the enterprise analytics market and beyond",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-advance-power-bi-premium-for-enterprise-analytics-market-beyond/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/advance-power-bi-premium-for-enterprise-analytics-market-beyond/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 3,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-gain-insights-into-usage-performance-of-your-power-bi-reports-to-increase-adopti.md",
+          "title": "Gain insights into usage and performance of your Power BI reports to increase adoption and reduce costs",
+          "excerpt": "Gain insights into usage and performance of your Power BI reports to increase adoption and reduce costs",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-gain-insights-into-usage-performance-of-your-power-bi-reports-to-increase-adopti/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/gain-insights-into-usage-performance-of-power-bi-reports-to-increase-adopti/",
+          "length": "PT24M",
+          "ratings": {
+            "count": 3,
+            "average": 4.6666665
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -2463,8 +2524,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10337,
-            "average": 4.676405
+            "count": 10339,
+            "average": 4.676468
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2497,8 +2558,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 8328,
-            "average": 4.7059317
+            "count": 8331,
+            "average": 4.7056775
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2622,8 +2683,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 3902,
-            "average": 4.7073298
+            "count": 3904,
+            "average": 4.7074795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2665,8 +2726,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 5071,
-            "average": 4.769868
+            "count": 5074,
+            "average": 4.770004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3026,8 +3087,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2239,
-            "average": 4.765074
+            "count": 2240,
+            "average": 4.7651787
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3110,8 +3171,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2919,
-            "average": 4.800274
+            "count": 2920,
+            "average": 4.8003426
           },
           "provider": {
             "name": "Microsoft Learn",
