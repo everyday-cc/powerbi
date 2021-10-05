@@ -4,7 +4,7 @@ excerpt: "This learning path introduces Data Analysis Expressions (DAX) and prov
 type: collection
 price: Free
 length: PT2H4M
-heat: 64
+heat: 61
 
 provider:
   name: Microsoft Learn
