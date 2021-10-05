@@ -4,44 +4,6 @@
   "page": 69,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-sql-saturday-atlanta-and-women-in-technology-adam-and-patrick-unplugged-ep5.md",
-      "title": "SQL Saturday Atlanta and Women in Technology - Adam and Patrick Unplugged [EP5]",
-      "excerpt": "In this episode of the Adam and Patrick Unplugged show, we are at SQL Saturday Atlanta and talked with a few folks there. We have some SSIS, some stories, and a good discussion about Women in Technology!  Tim Mitchell (@Tim_Mitchell) - 0:21  Rie Irish (@IrishSQL) - 13:30  Julie Smith (@JulieChix) - 29:17",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-sql-saturday-atlanta-and-women-in-technology-adam-and-patrick-unplugged-ep5/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-sql-saturday-atlanta-and-women-in-technology-adam-and-patrick-unplugged-ep5/",
-      "originalUrl": "https://youtube.com/watch?v=lbp1RNUHcn0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lbp1RNUHcn0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT41M23S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-07-25T10:59:50-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lbp1RNUHcn0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-sql-server-and-power-bi-updates-roundup-47.md",
       "title": "SQL Server and Power BI Updates - Roundup #47",
       "excerpt": "SQL Server has GA'd!!!  We also had a lot of updates for Power BI!  Creating Current Day, Week, Month And Year Reports In Power BI Using Bidirectional Cross-Filtering And M (@technitrain) https://blog.crossjoin.co.uk/2016/05/30/creating-current-day-week-month-and-year-reports-in-power-bi-using-bidirectional-cross-filtering-and-m/",
@@ -1140,6 +1102,44 @@
           "url": "https://i.ytimg.com/vi/enfY74xSN58/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-who-doesnt-like-free-power-bi-training.md",
+      "title": "Who doesn't like FREE Power BI Training???",
+      "excerpt": "There are a lot of free Power BI training options out there for business analysts and there is now training beyond that for your organization. Adam explores the new free training from the MS Stores group as well as recapping other available options.  Matthew's Blog: https://ssbipolar.com/2021/06/07/free-power-bi-intro-training-from-microsoft/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-who-doesnt-like-free-power-bi-training/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-who-doesnt-like-free-power-bi-training/",
+      "originalUrl": "https://youtube.com/watch?v=QndlMQn91uw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QndlMQn91uw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M28S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-06-17T08:00:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QndlMQn91uw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
