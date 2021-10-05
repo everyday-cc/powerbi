@@ -112,14 +112,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-crushing-requirements-with-small-multiples-in-power-bi.md",
-      "title": "CRUSHING requirements with Small Multiples in Power BI",
-      "excerpt": "Check out how using Small Multiples in Power BI can help you CRUSH requirements and satisfy business requests to make amazing reports! Patrick also has a neat trick for you.  Documentation: https://docs.microsoft.com/power-bi/visuals/power-bi-visualization-small-multiples  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-crushing-requirements-with-small-multiples-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-crushing-requirements-with-small-multiples-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=phlaZn54Mio",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/phlaZn54Mio\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M27S",
+      "path": "_learning/videos/guy-in-a-cube-can-you-refresh-a-single-table-in-power-bi.md",
+      "title": "Can you refresh a single table in Power BI?",
+      "excerpt": "Frustrated that a you can only do a full refresh? Patrick takes it to the next level by showing how you can refresh only a single table in your Power BI dataset. This is a great option for targeted refresh and avoid potential overhead.  Processing Options:  https://docs.microsoft.com/analysis-services/multidimensional-models/processing-options-and-settings-analysis-services?view=asallproducts-allversions",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-refresh-a-single-table-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-refresh-a-single-table-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=OYYnoMa-93g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OYYnoMa-93g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M55S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -132,11 +132,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-09-01T08:00:26-07:00",
-      "heat": 138,
+      "publishedDateTime": "2021-08-18T08:00:23-07:00",
+      "heat": 137,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/phlaZn54Mio/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OYYnoMa-93g/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -169,44 +169,6 @@
           "url": "https://i.ytimg.com/vi/zf1ZkBO-D2Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-case-of-the-slow-power-bi-report-hierarchies-and-rls.md",
-      "title": "Case of the SLOW Power BI report: Hierarchies and RLS",
-      "excerpt": "Using a parent/child hierarchy? Check out how we diagnose performance when using some of the PATH DAX functions in Power BI and also how to make this report faster!  PATHCONTAINS Reference: https://dax.guide/pathcontains/  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-case-of-the-slow-power-bi-report-hierarchies-and-rls/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-case-of-the-slow-power-bi-report-hierarchies-and-rls/",
-      "originalUrl": "https://youtube.com/watch?v=R3Eqk1ZRUOY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R3Eqk1ZRUOY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M55S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-09-02T08:00:09-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/R3Eqk1ZRUOY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],
@@ -280,48 +242,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-power-platform.md",
-      "title": "Power Platform - Introduction, business value, and demos",
-      "excerpt": "Explore the capabilities of Power Platform applications, as seen in demonstrations and customer case studies.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-intro-power-platform/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-power-platform-mba/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 3921,
-        "average": 4.7413926
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-power-platform-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where.md",
       "title": "DAX Beginners - SUM Vs SUMX in Power BI - What, When and Where?",
       "excerpt": "Welcome to Wed with Dax beginner series. During this episode, we will talk about two interesting DAX expressions. SUM and SUMX. We will compare both DAX expressions in detail. First, I will explain When to use SUM and when to use SUMX. We will talk about the difference between SUM and SUMX functions",
@@ -381,6 +301,67 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-new-way-to-compare-date-and-datetime-value-in-power-bi-august-2021-feature-summary.md",
+      "title": "New way to compare Date and DateTime Value in Power BI - August 2021 Feature Summary",
+      "excerpt": "Welcome to one more new update from Power BI Desktop. Sometimes we need to compare date or DateTime value in our DAX expression. At that time, we are using Date() function and Time() function. Now, there's one more easy way to compare Date and Time value in Power BI which is using \"dt\" keyword before",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-way-to-compare-date-and-datetime-value-in-power-bi-august-2021-feature-summary/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-way-to-compare-date-and-datetime-value-in-power-bi-august-2021-feature-summary/",
+      "originalUrl": "https://youtube.com/watch?v=SMHbMhX1Ggg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SMHbMhX1Ggg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-08-21T19:43:07-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SMHbMhX1Ggg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-fuzzy-clustering-in-power-bi-using-power-query-finding-similar-values.md",
+      "title": "Fuzzy Clustering in Power BI using Power Query   Finding similar values",
+      "excerpt": "I have explained in two other videos about fuzzy operations in Power BI and Power Query so far;  fuzzy matching in Power BI, and fuzzy grouping. the methods above involve transforming the data with a fuzzy operation. However, sometimes you just want to know the similarity of values, or let’s say in other",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-fuzzy-clustering-in-power-bi-using-power-query-finding-similar-values/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-fuzzy-clustering-in-power-bi-using-power-query-finding-similar-values/",
+      "originalUrl": "https://youtube.com/watch?v=0I5XnKsIT2o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0I5XnKsIT2o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M47S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-07-29T16:58:15-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0I5XnKsIT2o/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -940,8 +921,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 25759,
-            "average": 4.797197
+            "count": 25762,
+            "average": 4.7972207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -982,8 +963,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 44104,
-            "average": 4.770973
+            "count": 44109,
+            "average": 4.7709765
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1042,8 +1023,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 44104,
-        "average": 4.770973
+        "count": 44109,
+        "average": 4.7709765
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1190,8 +1171,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 25759,
-        "average": 4.797197
+        "count": 25762,
+        "average": 4.7972207
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1294,8 +1275,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 44104,
-            "average": 4.770973
+            "count": 44109,
+            "average": 4.7709765
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1336,8 +1317,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 21061,
-            "average": 4.718152
+            "count": 21063,
+            "average": 4.7181787
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1421,8 +1402,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7010,
-            "average": 4.768331
+            "count": 7011,
+            "average": 4.768364
           },
           "provider": {
             "name": "Microsoft Learn",

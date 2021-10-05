@@ -4,6 +4,36 @@
   "page": 35,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-bi-create-report-151.md",
+      "title": "Power BI Tutorial for Beginners: Power BI. Create Report (1.5.1)",
+      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-bi-create-report-151/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-bi-create-report-151/",
+      "originalUrl": "https://youtube.com/watch?v=ojP1HP7yvU8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ojP1HP7yvU8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M6S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-05-07T07:04:40-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ojP1HP7yvU8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-bi-publish-and-create-dashboard-153.md",
       "title": "Power BI Tutorial for Beginners: Power BI. Publish and Create Dashboard (1.5.3)",
       "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
@@ -936,37 +966,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship.md",
-      "title": "DAX CrossFilter Function in Power BI   Write the Formula both directional but keep the relationship",
-      "excerpt": "If you are familiar with relationships in Power BI, you know that there are scenarios that you may need to change the direction of the relationship to a both-directional. A both-directional relationship comes at a cost, which is mainly the performance and ambiguity of the model. There is a way to write",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship/",
-      "originalUrl": "https://youtube.com/watch?v=8--Yv18rhyA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8--Yv18rhyA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M39S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-06-30T18:29:17-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8--Yv18rhyA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     }
   ],

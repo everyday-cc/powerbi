@@ -4,6 +4,46 @@
   "page": 33,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-crazy-keyboard-shortcuts-for-dax-in-power-bi-desktop.md",
+      "title": "CRAZY keyboard shortcuts for DAX in Power BI Desktop",
+      "excerpt": "Patrick shows you how to be efficient in Power BI Desktop using keyboard shortcuts for the DAX Editor. It is crazy bananas!  Documentation: https://docs.microsoft.com/power-bi/desktop-accessibility  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-crazy-keyboard-shortcuts-for-dax-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-crazy-keyboard-shortcuts-for-dax-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=tRp12SrDjYo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tRp12SrDjYo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M59S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-30T06:05:17-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tRp12SrDjYo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-create-a-power-bi-app-registration-in-6-steps.md",
       "title": "Create a Power BI app registration in 6 steps",
       "excerpt": "We look at a Power BI tutorial on how to properly complete the app registration within Azure Active Directory (AAD). This power bi tutorial is needed as we see many questions about the proper configuration for a Power BI app registration regarding which settings to use.  App registrations are needed",
@@ -1106,45 +1146,6 @@
           "width": 1280,
           "height": 720,
           "title": "Report level measures with Power BI live connections",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-row-level-security-in-power-bi-revisited.md",
-      "title": "Row-Level Security in Power BI - Revisited",
-      "excerpt": "We had some recent changes to Row-level security in Power BI. Row-level security (RLS) was moved to be configured in Power BI Desktop with the June 2016 release.  I walk through how you could can configure this now in Power BI Desktop. I also talk about some of the limitations.  LET'S CONNECT!  Guy in",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-row-level-security-in-power-bi-revisited/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-row-level-security-in-power-bi-revisited/",
-      "originalUrl": "https://youtube.com/watch?v=67fK0GoVQ80",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/67fK0GoVQ80\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M29S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-07-05T11:49:30-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/67fK0GoVQ80/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Row-Level Security in Power BI - Revisited",
           "isCached": true
         }
       ],

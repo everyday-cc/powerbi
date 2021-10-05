@@ -4,6 +4,44 @@
   "page": 63,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-extended-events-in-analysis-services-2016.md",
+      "title": "Extended Events in Analysis Services 2016",
+      "excerpt": "I take a look at what is coming with Analysis Services 2016 with regards to Extended Events.  We are introducing a UI to configure and manage traces on the server.  This is a similar UI to SQL Server if you are familiar to that.  This is available today with the CTP 2.3 release!  Blog:  http://blogs.msdn.com/b/analysisservices/archive/2015/09/22/using-extended-events-with-sql-server-analysis-services-2016-cpt-2-3.aspx",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-extended-events-in-analysis-services-2016/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-extended-events-in-analysis-services-2016/",
+      "originalUrl": "https://youtube.com/watch?v=ja2mOHWRVC0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ja2mOHWRVC0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M41S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2015-09-22T10:08:19-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ja2mOHWRVC0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-failure-installing-the-personal-gateway.md",
       "title": "Failure installing the Personal Gateway",
       "excerpt": "I take a look at how to workaround an error indicating that you need to remove the Analysis Service Connector when you don't even have it on the machine.  Blog: http://blogs.technet.com/b/powerbisupport/archive/2015/09/08/failure-installing-the-power-bi-personal-gateway.aspx  SUBSCRIBE! https://www.youtube.com/channel/UCFp1...",
@@ -1096,44 +1134,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/7NYwsfe_nzg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-info-roundup-11.md",
-      "title": "Info Roundup #11",
-      "excerpt": "Explore and Analyze your Mandrill data in Power BI http://blogs.msdn.com/b/powerbi/archive/2015/08/12/explore-and-analyze-your-mandrill-data-in-power-bi.aspx  Visualize your Circuit ID Data with Power BI http://blogs.msdn.com/b/powerbi/archive/2015/08/04/circuit-id-data-with-power-bi.aspx  Becoming a",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-info-roundup-11/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-info-roundup-11/",
-      "originalUrl": "https://youtube.com/watch?v=7sJh_UJO1dw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7sJh_UJO1dw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-08-13T07:04:19-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7sJh_UJO1dw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

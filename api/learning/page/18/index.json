@@ -837,6 +837,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-case-of-the-slow-power-bi-report-hierarchies-and-rls.md",
+      "title": "Case of the SLOW Power BI report: Hierarchies and RLS",
+      "excerpt": "Using a parent/child hierarchy? Check out how we diagnose performance when using some of the PATH DAX functions in Power BI and also how to make this report faster!  PATHCONTAINS Reference: https://dax.guide/pathcontains/  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-case-of-the-slow-power-bi-report-hierarchies-and-rls/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-case-of-the-slow-power-bi-report-hierarchies-and-rls/",
+      "originalUrl": "https://youtube.com/watch?v=R3Eqk1ZRUOY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R3Eqk1ZRUOY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M55S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-09-02T08:00:09-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/R3Eqk1ZRUOY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-connecting-to-access-fails-in-power-bi-desktop.md",
       "title": "Connecting to Access fails in Power BI Desktop",
       "excerpt": "You are ready to connect to your Access database, or even Oracle, and get an error saying your driver/provider isn't available from Power BI Desktop. Wait what?!?   ACE Driver: https://www.microsoft.com/download/details.aspx?id=54920  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
@@ -1094,44 +1132,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/5ikWESY4sHc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-lets-talk-power-bi-gateways.md",
-      "title": "Let's Talk Power BI Gateways",
-      "excerpt": "Join us live as we talk about Power BI gateways! The what and why regarding them and some things to consider when using a gateway.  Documentation: https://docs.microsoft.com/power-bi/service-gateway-onprem  Gateway monitor report: https://docs.microsoft.com/data-integration/gateway/service-gateway-performance",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-lets-talk-power-bi-gateways/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-lets-talk-power-bi-gateways/",
-      "originalUrl": "https://youtube.com/watch?v=L49fk602Dzg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L49fk602Dzg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H12M34S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-03T16:55:05-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/L49fk602Dzg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
