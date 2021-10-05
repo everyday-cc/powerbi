@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M30S
 publishedDateTime: 2019-08-15T09:28:18Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c3cFFLO2NqU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "1PREV0tOknmHM+is4VhPAc2342jPQYbGqrvlfV0IrY1iCX3Vav/fDOu6Tev6Fj6mI5+AA8DUm2mT+Dc3K4NfkswHgGoyNZfadLBQFgzm4iufIRBAhMRJwjRn4xudSJg/qd0Rrd0232OC2fA5zldpBUBPFU1rzeJr8O1WT1vekWLd/we8CkGmJLBxrONSFK08+pTkpr5YAk7sFfKIt9tZwjXjf8X+o0W+gCFc5y6E7hb4JEr6z7e0kipBlWLRgAaw6bgtAgYT3xBainTSKAn25mU2xv+BzXYrGRLvouh94G70Cok5+e0B8Nkzoy2GMTFwvwZkUD0DCmjk+rBpbl8L6DzmSS4G1qey0MO07tm/Nv4NrWumR79aCJP4f0Dmu2sqbf4+mbN4xh3qOEFimpuRpQCXJVLbIhz4w9Jq0LJpzPs=;2y2j5YfM9B+adyrj4Q3IMg=="
+secured: "yEEE15HYCAZsAkJL2G1Q1KhtJGsxomNdSyr3c4xKDRJb/gmI7kPCd72v76+6cS8cZZZyWOyDh9VbL0eHOGIJ9sscGZGLJzUXVuGkitoJhAAAeA/YJdo+pwOrnUsFXuJEHW6PGdQLAezx/TIVb+29xQsX1kQV9HG24Sg0MBsFrZl0xUCbcJyzZwEpj40l+LGlAoUXzxszALqMrBGInaddiVVbs/AYVP31Dpa3HuQSDZJHF8LOcud/ipNDItgS5CoKUo6va4X65/4+lJCjcmhuo2U7bmKwYKB0NznrWGija8zqhAkDeQtH3T88/Oo9HgtfK1re1sd/2l+4w4KI/ApJIg9MW21+KEHTXLvlHj6TyXPfnw5o0XB/n8EYnZyKOI8XKxeyPdUG4dWtVld1TcH64U3iAdDELWz0NijNzyZX8ao=;nJhm2lpqjYL1R9fOZH3sNA=="
 ---
 
