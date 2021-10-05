@@ -4,6 +4,36 @@
   "page": 73,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-kpi-indicator-excel-icon-sets-part-2-of-3.md",
+      "title": "Power BI KPI Indicator (Excel Icon Sets) Part 2 of 3",
+      "excerpt": "How can you use KPI Indicators in Power BI, similar to the Excel Conditional Formatting Icon Sets? In this video I show you the second approach - Using Image URLs to totally customize the icon set. **SUBSCRIBE to my channel to be notified as soon as new videos go live https://goo.gl/NdfdVH ** ----------------------------------------------------------------------",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-kpi-indicator-excel-icon-sets-part-2-of-3/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-kpi-indicator-excel-icon-sets-part-2-of-3/",
+      "originalUrl": "https://youtube.com/watch?v=qJYRKNPPnHc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qJYRKNPPnHc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-08-31T02:39:10-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qJYRKNPPnHc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-kpi-indicator-excel-icon-sets-part-3-of-3.md",
       "title": "Power BI KPI Indicator (Excel Icon Sets) Part 3 of 3",
       "excerpt": "How can you use KPI Indicators in Power BI, similar to the Excel Conditional Formatting Icon Sets? In this video I show you the third approach - Using Power BI + Excel. And also why this is my favorite approach. **SUBSCRIBE to my channel to be notified as soon as new videos go live https://goo.gl/NdfdVH",
@@ -865,36 +895,6 @@
           "url": "https://i.ytimg.com/vi/rxRpXEwASdM/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-real-world-power-bi-experience-with-kimberly-marie-realpowerbi-may-23-pre-kickoff.md",
-      "title": "Real World Power BI Experience with Kimberly Marie #RealPowerBI May-23 Pre-Kickoff",
-      "excerpt": "👉 We'll be kicking off the #RealPowerBI experiment tomorrow 10am Pacific in our Learn Power BI Weekly Q&A Call 👉 If you are a paid student in the Learn Power BI program sign up for this adventure here: https://www.surveymonkey.com/r/JCPRXXX 👉Follow me on Facebook http://www.facebook.com/powerbipro",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-real-world-power-bi-experience-with-kimberly-marie-realpowerbi-may-23-pre-kickoff/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-real-world-power-bi-experience-with-kimberly-marie-realpowerbi-may-23-pre-kickoff/",
-      "originalUrl": "https://youtube.com/watch?v=av5_q7tBe6A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/av5_q7tBe6A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M4S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-05-23T11:42:53-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/av5_q7tBe6A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],

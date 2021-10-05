@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 2983,
-            "average": 4.716393
+            "count": 2984,
+            "average": 4.7161527
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -159,8 +159,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2244,
-            "average": 4.7655973
+            "count": 2245,
+            "average": 4.765256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -303,8 +303,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 2983,
-        "average": 4.716393
+        "count": 2984,
+        "average": 4.7161527
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -345,8 +345,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 2244,
-        "average": 4.7655973
+        "count": 2245,
+        "average": 4.765256
       },
       "provider": {
         "name": "Microsoft Learn",

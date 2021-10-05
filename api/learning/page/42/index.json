@@ -4,32 +4,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_learning/articles/excelerator-bi-5-productivity-benefits-of-tabular-editor-3.md",
-      "title": "5 Productivity Benefits of Tabular Editor 3",
-      "excerpt": "Tabular Editor is a Power BI Tabular Modelling productivity tool developed by Daniel Otykier. I blogged about Version 2 of the Tabular Editor in this article here. The 3rd edition of Tabular Editor has just been released, and it is a major upgrade from version 2. TE 3 is not [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-5-productivity-benefits-of-tabular-editor-3/index.json",
-      "webUrl": "https://exceleratorbi.com.au/5-productivity-benefits-of-tabular-editor-3/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-06-07T00:04:55-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/06/TE3.png",
-          "width": 577,
-          "height": 288,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/articles/excelerator-bi-build-a-pl-in-power-bi-without-any-dax.md",
       "title": "Build a P&L in Power BI Without Any DAX",
       "excerpt": "This is the third article where I have covered building a P&#38;L in Power BI. My first 2 articles here and here focused on how to use the DAX language to solve some of the common problems with P&#38;L reporting, such as adding sub totals into the visual, % of [...]Read More »",
@@ -788,6 +762,32 @@
         "Power BI",
         "Power Query",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-which-columns-are-not-used-in-my-power-bi-data-model.md",
+      "title": "Which Columns are Not Used in my Power BI Data Model?",
+      "excerpt": "Level: Intermediate. One of the commercial services I offer is to complete a health check of Power BI deployments. I look at everything including the data model, the DAX, the queries, the distribution approach, and other things to help you polish your work. I thought I would share with you [...]Read",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-which-columns-are-not-used-in-my-power-bi-data-model/index.json",
+      "webUrl": "https://exceleratorbi.com.au/which-columns-are-not-used-power-bi-data-model/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2020-11-16T15:06:50-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/11/columns-not-used.png",
+          "width": 400,
+          "height": 201,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
       ]
     }
   ],
