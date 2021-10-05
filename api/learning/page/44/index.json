@@ -420,8 +420,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-ml-model-with-azure-stream-analytics/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 348,
-        "average": 4.683908
+        "count": 349,
+        "average": 4.6819487
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -664,8 +664,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 328,
-        "average": 4.615854
+        "count": 329,
+        "average": 4.617021
       },
       "provider": {
         "name": "Microsoft Learn",
