@@ -4,6 +4,36 @@
   "page": 79,
   "value": [
     {
+      "path": "_learning/videos/radacad-currency-exchange-rate-converter-power-bi-function-part-1.md",
+      "title": "Currency Exchange Rate Converter Power BI Function   Part 1",
+      "excerpt": "If you ever need to convert amounts from one currency to another, you face the challenge that currency rates are not constant. They change every day. You either need to keep an up-to-date table of all new currency rates and use that in your Power BI solution, or use a function that gets the rate from",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-currency-exchange-rate-converter-power-bi-function-part-1/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-currency-exchange-rate-converter-power-bi-function-part-1/",
+      "originalUrl": "https://youtube.com/watch?v=rCsUao3UtMM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rCsUao3UtMM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M49S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-01-23T20:53:56-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rCsUao3UtMM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-customers-grouped-by-count-of-their-orders-static-segmentation-in-power-bi.md",
       "title": "Customers Grouped by Count of Their Orders   Static Segmentation in Power BI",
       "excerpt": "One of the interesting calculation challenges in BI systems is a segmentation or grouping on a numeric value, based on an occurrence of another value. As an example; You might want to know How many customers ordered once, twice, three times or more. The challenge is that the data in the transactional",
@@ -879,36 +909,6 @@
           "url": "https://i.ytimg.com/vi/4-hhO5jXPEk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-one-dimension-filters-another-dimension-in-power-bi.md",
-      "title": "One Dimension Filters Another Dimension in Power BI",
-      "excerpt": "I often get this question after I explain about the star-schema. The question is that both my dimensions are filtering my fact table values, but how can I get one dimension filtering another dimension? for example, how can I get only the list of products that have been purchased by this customer? In",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-one-dimension-filters-another-dimension-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-one-dimension-filters-another-dimension-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=6Nu-1_a31iU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6Nu-1_a31iU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M21S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-07-20T01:23:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6Nu-1_a31iU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],

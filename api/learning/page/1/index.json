@@ -112,44 +112,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-bringing-paginated-into-power-bi-reports-insane-amazing.md",
-      "title": "Bringing Paginated into Power BI reports - INSANE AMAZING!",
-      "excerpt": "It's here! Have a look at the Power BI Paginated visual for your Power BI Reports! It adds additional flexibility for displaying data as well as providing easy export options if that's your jam.  Blog Announcement: https://powerbi.microsoft.com/en-us/blog/paginated-report-visual-for-power-bi-reports-is-now-available-in-public-preview/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-bringing-paginated-into-power-bi-reports-insane-amazing/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-bringing-paginated-into-power-bi-reports-insane-amazing/",
-      "originalUrl": "https://youtube.com/watch?v=5Fcf8eXRq2E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5Fcf8eXRq2E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M30S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-08-04T08:00:05-07:00",
-      "heat": 139,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5Fcf8eXRq2E/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-power-bi-modeling-change-the-status-log-table-to-a-from-to-table.md",
       "title": "Power BI Modeling   Change the Status Log Table to a From To Table",
       "excerpt": "It is common that you face a status table in your data analysis scenarios. A status table normally has a column for the status of the items and the date of status change. This type of table, although informative, can be hard for analyzing data. In this article and video, I’ll explain why it is better",
@@ -169,6 +131,44 @@
           "url": "https://i.ytimg.com/vi/zf1ZkBO-D2Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-refresh-your-data-in-power-bi-without-a-user.md",
+      "title": "Refresh your data in Power BI WITHOUT a user???",
+      "excerpt": "Can a Power BI Dataset be setup to refresh without an actual user? It would be great from an automation perspective and to avoid being tied to someone specific. Adam digs in.  Service Principal Video: https://www.youtube.com/watch?v=1SO19uik1rw  Add-DataGatewayClusterUser (DataGateway CMDLET - Add to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-refresh-your-data-in-power-bi-without-a-user/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-refresh-your-data-in-power-bi-without-a-user/",
+      "originalUrl": "https://youtube.com/watch?v=lfP6ygindSU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lfP6ygindSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M39S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-08-12T08:00:16-07:00",
+      "heat": 136,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lfP6ygindSU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -211,41 +211,47 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-intro-to-r-with-power-bi.md",
-      "title": "Intro to R with Power BI",
-      "excerpt": "You enjoyed the intro to Python video, now let's look at R Script within Power BI! There are a lot of similar aspects and Patrick walks you though what you should know to get started.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-intro-to-r-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-intro-to-r-with-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=NomSliJK3s4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NomSliJK3s4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M48S",
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-iterator-functions.md",
+      "title": "Use DAX iterator functions in Power BI Desktop models",
+      "excerpt": "By the end of this module, you’ll learn about what the family of iterator functions can do and how to use them in your DAX calculations. Calculations will include custom summarizations, ranking, and concatenation.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-iterator-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
+      "length": "PT12M",
+      "ratings": {
+        "count": 594,
+        "average": 4.710438
+      },
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2021-07-21T08:00:10-07:00",
-      "heat": 132,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/NomSliJK3s4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/use-dax-iterator-functions-power-bi-desktop-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
       ]
     },
     {
@@ -280,25 +286,25 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-book-overview-power-bi-dax-simplified.md",
-      "title": "Book Overview   Power BI DAX Simplified",
-      "excerpt": "A few weeks ago, my new book was published and is now available. As the Amazon web page for the book won't allow me to put some more details about what it is, I thought it better to share some more information about it here. This book is available in all possible Amazon markets as Kindle and paperback",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-book-overview-power-bi-dax-simplified/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-book-overview-power-bi-dax-simplified/",
-      "originalUrl": "https://youtube.com/watch?v=oMvpZvBkGwU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oMvpZvBkGwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M21S",
+      "path": "_learning/videos/dhruvin-shah-top-8-best-practices-for-power-bi-qna-maker-visual-powerbi-shorts.md",
+      "title": "Top 8 Best Practices for Power BI QnA Maker Visual #PowerBI #Shorts",
+      "excerpt": "Welcome to Power BI One Minute Short. During this #Shorts we will talk about best practices we need to follow to get the perfect outcomes or result from Power BI QnA Maker Visual.   We all know that QnA Maker Visual in Power BI supports the natural language. However, to work with QnA Maker in a Proper",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-top-8-best-practices-for-power-bi-qna-maker-visual-powerbi-shorts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-top-8-best-practices-for-power-bi-qna-maker-visual-powerbi-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=9L6Rxxd_5D0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9L6Rxxd_5D0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT59S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-08-12T17:18:13-07:00",
+      "publishedDateTime": "2021-07-30T05:16:23-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/oMvpZvBkGwU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/9L6Rxxd_5D0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -306,8 +312,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
@@ -945,8 +950,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 25813,
-            "average": 4.797234
+            "count": 25816,
+            "average": 4.797219
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1158,6 +1163,44 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi.md",
+      "title": "How to create a Export to Excel / CSV button in Power BI",
+      "excerpt": "In todays video I will show you how to create and export to excel or CSV button in Power BI!! Take a look!  Chapters: 00:00 Intro 01:30 Export to CSV button 05:15 Apply the flow to the button 05:30 Format the flow button 06:00 Check if the flow run sucessfully 08:00 Export to excel button 09:30 Pre-requisites",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=BnTipbooeP0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BnTipbooeP0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M20S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-21T04:04:38-07:00",
+      "heat": 84,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BnTipbooeP0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-connect-power-bi-to-sharepoint-list-sharepoint-folder-sharepoint-excel-file-.md",
       "title": "Connect Power BI to SharePoint List, SharePoint Folder, SharePoint Excel File 🔌",
       "excerpt": "Let me show you how you can connect Power BI to  00:20 SharePoint Folder 05:32 SharePoint Excel File 07:26 SharePoint List   ================================ 👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/",
@@ -1260,8 +1303,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 21083,
-            "average": 4.7184463
+            "count": 21084,
+            "average": 4.7184596
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1303,8 +1346,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 9227,
-            "average": 4.721036
+            "count": 9228,
+            "average": 4.7210665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1345,8 +1388,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7022,
-            "average": 4.7685843
+            "count": 7023,
+            "average": 4.7686176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1405,8 +1448,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 25813,
-        "average": 4.797234
+        "count": 25816,
+        "average": 4.797219
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1468,36 +1511,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-insights-in-power-bi-announcing-public-preview-for-power-bi-insights-september-2021-updates.md",
-      "title": "Insights in Power BI | Announcing Public Preview for Power BI Insights (September 2021 Updates)",
-      "excerpt": "Welcome to one interesting announcement from Microsoft. Happy to announce the Public Preview of \"Insights\" in Power BI. The first question arises in our mind how Insights feature is useful to us? The Insights feature helps users easily find and explore insights such as anomalies, trends, and KPI analysis",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-insights-in-power-bi-announcing-public-preview-for-power-bi-insights-september-2021-updates/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-insights-in-power-bi-announcing-public-preview-for-power-bi-insights-september-2021-updates/",
-      "originalUrl": "https://youtube.com/watch?v=KfEu5hK3pgE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KfEu5hK3pgE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M17S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-09-22T03:46:26-07:00",
-      "heat": 81,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KfEu5hK3pgE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],
