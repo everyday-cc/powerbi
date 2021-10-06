@@ -4,6 +4,37 @@
   "page": 78,
   "value": [
     {
+      "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo.md",
+      "title": "PowerBI.Tips - Tutorial - DAX Studio Query Performance Tuning - By Marco Russo",
+      "excerpt": "DAX Studio is the tool for data model tuning.  Marco Russo contributor to DAX Studio will be giving us a deep dive and demo around using DAX Studio for Query Performance Tuning.  You will not want to miss this event as Marco is a wealth of knowledge for all things Data Modeling!  Watch the Full Tutorial",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo/",
+      "originalUrl": "https://youtube.com/watch?v=d6ppyWQU-f0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d6ppyWQU-f0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H59S",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "publishedDateTime": "2020-04-24T15:44:45-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d6ppyWQU-f0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-release-2111.md",
       "title": "PowerBI.Tips - Tutorial - DAX Studio Release 2.11.1",
       "excerpt": "DAX Studio has just released it's latest version 2.11.1.  With this release comes a number of great improvements.  Come listen to the Creator Darren Gosbell review the latest features of DAX Studio.  New features include:  - Query Builder  - Query Benchmark  - More Quick access buttons  - Exporting button",
@@ -874,36 +905,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/DyVGpdUaELY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-create-ribbon-chart-using-charticulator-inside-power-bi.md",
-      "title": "Create Ribbon Chart Using Charticulator inside Power BI",
-      "excerpt": "This short video shows how to create your own Ribbon Chart inside Charticulator and then import it into Power BI desktop to access the data source website see the below link: https://gs.statcounter.com/os-market-share/mobile/worldwide  also, the transformed dataset has been uploaded here: https://radacad-my.sharepoint.com/:x:/p/leila/EWvPqySqTIhNs-fR1bp7JJYB-pQLMtphhuZ_aE5jLcHQ1w?e=135oPD",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-create-ribbon-chart-using-charticulator-inside-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-create-ribbon-chart-using-charticulator-inside-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=u7zukdinxKQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u7zukdinxKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M36S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-09-16T17:42:25-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/u7zukdinxKQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
