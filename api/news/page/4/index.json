@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-05-25-power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021.md",
+      "title": "Power BI introduces a bunch of new additions and improvements at Build 2021",
+      "excerpt": "The premium version of Microsoft's data analytics platform is receiving real-time analytics and big data improvements, while Power BI Embedded now offers integration with Jupyter Notebooks.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-25-power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021/index.json",
+      "webUrl": "https://www.neowin.net/news/power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021/",
+      "originalUrl": "https://www.neowin.net/news/power-bi-introduces-a-bunch-of-new-additions-and-improvements-at-build-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2021/05/1621941280_power_bi_at_build_2021_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-05-25-enabling-intelligent-experiences-with-power-bi-for-developers-data-scientists-and-data-engineers.md",
       "title": "Enabling intelligent experiences with Power BI for developers, data scientists, and data engineers",
       "excerpt": "Since our launch over five years ago, Microsoft Power BI has been enthusiastically adopted by developers across the spectrum. Today we have over three million active developers on Power BI—who harness the power of data, provide actionable insights, and deliver cloud-native intelligent experiences. Today,",
@@ -1209,57 +1260,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2021-04-19-using-xmla-endpoints-to-change-data-sources-in-a-power-bi-dataset.md",
-      "title": "Using XMLA endpoints to change data sources in a Power BI dataset",
-      "excerpt": "The purpose of this article is to provide Power BI developers with a deeper understanding of the dependencies when updating data sources in a Power BI dataset through XMLA endpoints. Most importantly, Power BI maintains security-related data source information such as credentials and privacy settings",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-19-using-xmla-endpoints-to-change-data-sources-in-a-power-bi-dataset/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/using-xmla-endpoints-to-change-data-sources-in-a-power-bi-dataset/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/using-xmla-endpoints-to-change-data-sources-in-a-power-bi-dataset/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-19T04:02:30-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
