@@ -20,6 +20,7 @@ items:
   - videos/dhruvin-shah-all-function-in-power-bi-dax
   - videos/dhruvin-shah-all-selected-dax-expression-in-power-bi
   - videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where
+  - videos/dhruvin-shah-power-bi-dax-for-beginners-average-averagea-averagex
 
 topics:
   - Power BI
