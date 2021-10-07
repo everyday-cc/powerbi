@@ -3069,8 +3069,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2661,
-            "average": 4.717024
+            "count": 2662,
+            "average": 4.7163787
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3254,7 +3254,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/manage-datasets-in-power-bi-social.png",
@@ -3314,7 +3314,7 @@
         }
       ],
       "size": 3,
-      "heat": 51,
+      "heat": 53,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-manage-workspaces-power-bi-social.png",
