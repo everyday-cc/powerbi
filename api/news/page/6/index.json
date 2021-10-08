@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-02-announcing-power-bi-premium-per-user-general-availability-and-autoscale-preview-for-gen2.md",
+      "title": "Announcing Power BI Premium Per User general availability and autoscale preview for Gen2",
+      "excerpt": "The Microsoft Power BI team’s mission is to help our customers drive a data culture where everyone can make better decisions with data. Power BI empowers every business user and business analyst to get amazing insights with AI infused experiences. With Power BI Premium, we enable business analysts to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-02-announcing-power-bi-premium-per-user-general-availability-and-autoscale-preview-for-gen2/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-premium-per-user-general-availability-and-autoscale-preview-for-gen2/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-premium-per-user-general-availability-and-autoscale-preview-for-gen2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T21:56:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-announcing-the-new-power-bi-embedded-analytics-playground-preview.md",
       "title": "Announcing the new Power BI embedded analytics playground (preview)",
       "excerpt": "Today we’re excited to announce the new Power BI embedded analytics playground. The new playground is the home for Power BI embedded analytics, where you can get hands-on coding experience, embed your own reports, and interact with our client APIs to see instant results. In addition, you’ll find there",
@@ -1209,58 +1260,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-all-about-dax-and-data-modeling-in-power-bi-roundup-jan-18-2021.md",
-      "title": "All about DAX and data modeling in Power BI... (Roundup | Jan 18, 2021)",
-      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup203 Patrick's tech video: https://guyinacu.be/paginated2021 Adam's tech video: https://guyinacu.be/whatispowerbi  🔴 Live Replay: https://guyinacu.be/live037  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-01-22-all-about-dax-and-data-modeling-in-power-bi-roundup-jan-18-2021/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2021-01-22-all-about-dax-and-data-modeling-in-power-bi-roundup-jan-18-2021/",
-      "originalUrl": "https://youtube.com/watch?v=6XxCsc1j9U4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6XxCsc1j9U4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6XxCsc1j9U4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-22T04:37:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     }
   ],
