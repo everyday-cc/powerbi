@@ -204,44 +204,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-case-of-the-slow-power-bi-report-hierarchies-and-rls.md",
-      "title": "Case of the SLOW Power BI report: Hierarchies and RLS",
-      "excerpt": "Using a parent/child hierarchy? Check out how we diagnose performance when using some of the PATH DAX functions in Power BI and also how to make this report faster!  PATHCONTAINS Reference: https://dax.guide/pathcontains/  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-case-of-the-slow-power-bi-report-hierarchies-and-rls/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-case-of-the-slow-power-bi-report-hierarchies-and-rls/",
-      "originalUrl": "https://youtube.com/watch?v=R3Eqk1ZRUOY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R3Eqk1ZRUOY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M55S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-09-02T08:00:09-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/R3Eqk1ZRUOY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/guy-in-a-cube-getting-started-with-power-bi.md",
       "title": "Getting Started with Power BI",
       "excerpt": "These videos will help you with getting started with Power BI. From Power BI Desktop to the Power BI service and items in between, this is a great way to get started.",
@@ -431,6 +393,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-looking-into-the-future-of-power-bi-2021.md",
+      "title": "Looking into the future of Power BI (2021)",
+      "excerpt": "The new release wave was published for Power BI! This is the roadmap for what is to come. Adam explores what it shows and what you can expect.  Microsoft Power Platform release plans https://aka.ms/pbiroadmap  Power BI release plan report by Alex Powers https://aka.ms/pbireleaseplan  📢 Become a member:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-looking-into-the-future-of-power-bi-2021/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-looking-into-the-future-of-power-bi-2021/",
+      "originalUrl": "https://youtube.com/watch?v=ymP0TvIKFKE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ymP0TvIKFKE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M27S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-22T08:00:25-07:00",
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ymP0TvIKFKE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/articles/kasper-on-bi-the-rise-of-self-service-bi-powerpivot-and-power-bi-and-how-it-changed-the-world-with-rob-collie.md",
       "title": "The rise of self-service BI, PowerPivot and Power BI and how it changed the world with Rob Collie",
       "excerpt": "In this episode of Kasper On BI we are talking about the rise of self-service BI and how that is different from traditional BI. It...\nThe post The rise of self-service BI, PowerPivot and Power BI and how it changed the world with Rob Collie appeared first on Kasper On BI.\n",
@@ -457,15 +457,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-connect-power-apps-automate-virtual-agent-bi-with-common-data-service.md",
-      "title": "Connect to the Microsoft Dataverse through Microsoft Teams",
-      "excerpt": "Connect to the Microsoft Dataverse through Microsoft Teams",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-connect-power-apps-automate-virtual-agent-bi-with-common-data-service/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-power-apps-automate-virtual-agent-bi-with-common-data-service/",
-      "length": "PT15M",
+      "path": "_learning/courses/microsoft-learn-explore-enterprise-grade-etl-data-preparation-using-dataflows.md",
+      "title": "Explore enterprise-grade ETL and data preparation using dataflows",
+      "excerpt": "Explore enterprise-grade ETL and data preparation using dataflows",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-enterprise-grade-etl-data-preparation-using-dataflows/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-enterprise-grade-etl-data-preparation-using-dataflows/",
+      "length": "PT24M",
       "ratings": {
-        "count": 4,
-        "average": 4.75
+        "count": 5,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -495,50 +495,38 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Dataflows"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-modern-analytics-interactive-experiences.md",
-      "title": "Design interactive data experiences with Power BI Desktop",
-      "excerpt": "Power BI enables report authors to produce interactive reports using visuals, slicers, bookmarks, and more.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-interactive-experiences/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-interactive-experiences/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
+      "path": "_learning/videos/radacad-power-bi-bookmark-with-or-without-data.md",
+      "title": "Power BI bookmark   with or without data",
+      "excerpt": "Bookmark is a helpful feature in Power BI. It enables you to have a good story to tell and also have a dynamic visualization. I have explained how bookmarks work in Power BI and how to use them with buttons to have a next-level visualization. An important attribute of the bookmark is the Data. You can",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-bookmark-with-or-without-data/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-bookmark-with-or-without-data/",
+      "originalUrl": "https://youtube.com/watch?v=UPyK3mfIwmU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UPyK3mfIwmU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M39S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "levels": [
-        "Beginner"
-      ],
+      "publishedDateTime": "2021-08-08T17:52:28-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-interactive-experiences-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/UPyK3mfIwmU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power BI Desktop"
+        "Power BI"
       ]
     },
     {
@@ -841,8 +829,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 25923,
-            "average": 4.7974
+            "count": 25926,
+            "average": 4.797346
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -883,8 +871,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 44305,
-            "average": 4.7712674
+            "count": 44307,
+            "average": 4.7712326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -943,8 +931,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 44305,
-        "average": 4.7712674
+        "count": 44307,
+        "average": 4.7712326
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1063,8 +1051,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 25923,
-        "average": 4.7974
+        "count": 25926,
+        "average": 4.797346
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1128,8 +1116,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 44305,
-            "average": 4.7712674
+            "count": 44307,
+            "average": 4.7712326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1170,8 +1158,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 21137,
-            "average": 4.7187395
+            "count": 21138,
+            "average": 4.718753
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1188,7 +1176,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 78,
+          "heat": 80,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
@@ -1291,7 +1279,7 @@
         }
       ],
       "size": 6,
-      "heat": 93,
+      "heat": 96,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",

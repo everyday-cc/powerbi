@@ -4,6 +4,36 @@
   "page": 77,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-use-power-bi-to-combine-csv-and-excel-files-from-a-folder-talkpowerbi-question-from-brian.md",
+      "title": "Use Power BI to Combine CSV and Excel Files from a Folder (#TalkPowerBI Question from Brian)",
+      "excerpt": "Brian asked this question in our LIVE Talk Power BI show. To join the next Live show, make sure to Subscribe and click the bell 🔔 The video shows how you can combine Excel and CSV files in a folder to create a single data table. ========================================= FREE Power BI Step-by-Step Tutorial",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-use-power-bi-to-combine-csv-and-excel-files-from-a-folder-talkpowerbi-question-from-brian/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-use-power-bi-to-combine-csv-and-excel-files-from-a-folder-talkpowerbi-question-from-brian/",
+      "originalUrl": "https://youtube.com/watch?v=4fFL7Ok7Ovg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4fFL7Ok7Ovg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M1S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-06-29T13:30:48-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4fFL7Ok7Ovg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-what-i-learned-from-two-tableau-experts.md",
       "title": "What I Learned from Two Tableau experts!",
       "excerpt": "Hot off the press, just came off the TDWI event, BI Across Borders: Power BI + Tableau. Wanted to share what I learned.  FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download ✅ Subscribe to always get my latest",
@@ -917,36 +947,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/nApS3zzXBU0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-9-bullet-chart.md",
-      "title": "Charticulator Visual IS HERE!!! - Season 1 Episode 9 - Bullet Chart",
-      "excerpt": "We walk through a first look at the new Charticulator visual from Microsoft Power BI team.    This video we are exploring the Bullet Chart or Graph https://en.wikipedia.org/wiki/Bullet_graph  Official blog post about the visual: https://powerbi.microsoft.com/en-us/blog/announcing-the-new-charticulator-visual-public-preview/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-9-bullet-chart/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-charticulator-visual-is-here-season-1-episode-9-bullet-chart/",
-      "originalUrl": "https://youtube.com/watch?v=vrLg_9_jqoM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vrLg_9_jqoM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M16S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2021-05-06T19:45:24-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vrLg_9_jqoM/maxresdefault_live.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
