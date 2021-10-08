@@ -4,36 +4,6 @@
   "page": 75,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-june-26-2020.md",
-      "title": "🔴Talk Power BI LIVE Q&A (Subscribe & Join) June 26, 2020",
-      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  0:12:20 Star Schema, Multiple Fact Tables by Ian Bowman 0:51:20 How to Calculate Complicated",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-june-26-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-june-26-2020/",
-      "originalUrl": "https://youtube.com/watch?v=7wNjtPJeRRE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7wNjtPJeRRE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3H12M33S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-06-26T13:18:26-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7wNjtPJeRRE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-talk-power-bi-live-qa-subscribe-join-march-20-2020.md",
       "title": "🔴Talk Power BI LIVE Q&A (Subscribe & Join) March 20, 2020",
       "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  00:10:00 Unexpected Behavior on Graph When Adding Data Field from Look Up Table by Diego",
@@ -891,6 +861,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/I3XmqiyfXgk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-march-1-2019.md",
+      "title": "🔴Talk Power BI LIVE (Subscribe & Join) March 1, 2019",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-march-1-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-talk-power-bi-live-subscribe-join-march-1-2019/",
+      "originalUrl": "https://youtube.com/watch?v=F1k0eYxMvB0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F1k0eYxMvB0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H48M31S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-12-05T03:26:29-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/F1k0eYxMvB0/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
