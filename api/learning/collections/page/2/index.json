@@ -910,7 +910,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2683,8 +2683,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3000,
-            "average": 4.717
+            "count": 3001,
+            "average": 4.7170944
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2766,8 +2766,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 4819,
-            "average": 4.7590785
+            "count": 4820,
+            "average": 4.7591286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2808,8 +2808,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 3933,
-            "average": 4.707348
+            "count": 3934,
+            "average": 4.7074223
           },
           "provider": {
             "name": "Microsoft Learn",
