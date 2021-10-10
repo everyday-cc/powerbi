@@ -17,7 +17,7 @@
         "domain": "radacad.com"
       },
       "publishedDateTime": "2021-10-06T15:49:47-07:00",
-      "heat": 141,
+      "heat": 138,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/s2FeGeJtzSE/maxresdefault.jpg",
@@ -1392,8 +1392,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 1699,
-            "average": 4.7604475
+            "count": 1700,
+            "average": 4.759412
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1522,8 +1522,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 726,
-            "average": 4.7396693
+            "count": 727,
+            "average": 4.7400274
           },
           "provider": {
             "name": "Microsoft Learn",
