@@ -17,7 +17,7 @@
         "domain": "radacad.com"
       },
       "publishedDateTime": "2021-10-06T15:49:47-07:00",
-      "heat": 138,
+      "heat": 139,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/s2FeGeJtzSE/maxresdefault.jpg",
@@ -1392,8 +1392,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 1701,
-            "average": 4.7595534
+            "count": 1703,
+            "average": 4.7598357
           },
           "provider": {
             "name": "Microsoft Learn",
