@@ -4,7 +4,7 @@ excerpt: "In this episode of Kasper On BI we are talking about the rise of self-
 webUrl: https://www.kasperonbi.com/the-rise-of-self-service-bi-powerpivot-and-power-bi-and-how-it-changed-the-world-with-rob-collie/
 type: article
 publishedDateTime: 2021-10-07T13:30:26Z
-heat: 130
+heat: 131
 
 provider:
   name: Kasper On BI
