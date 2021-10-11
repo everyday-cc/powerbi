@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-11-power-bi-update-october-2021.md",
+      "title": "Power BI Update - October 2021",
+      "excerpt": "Welcome to the October 2021 update. Leaves fall, Power BI calls; and we are excited to release additional functionality for DirectQuery, improvements for the SWITCH function, and new Biwise DAX functions. There is more to explore, please continue to read on.  Follow us on Twitter - https://twitter.com/mspowerbi\r",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-10-11-power-bi-update-october-2021/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2021-10-11-power-bi-update-october-2021/",
+      "originalUrl": "https://youtube.com/watch?v=lLDz6g6VsxI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lLDz6g6VsxI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lLDz6g6VsxI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-11T10:22:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2021-09-24-summary-of-power-bi-desktop-update-september-2021.md",
       "title": "Summary of Power BI desktop update September 2021",
       "excerpt": "It is time again for another Power BI update, this time for September 2021:  Chapters: 00:10 New formatting options for buttons: 00:50 Toggle total columns in waterfall charts 01:00 Line chart series labels 01:50 Sensitivity label support for Power BI template files 02:20 Insights  preview 03:30 Shortcut",
@@ -1476,58 +1528,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-09-23-announcing-the-upcoming-evolution-of-power-bi-premium-to-enterprise-markets-and-beyond.md",
-      "title": "Announcing the Upcoming Evolution of Power BI Premium to enterprise markets and beyond",
-      "excerpt": "Yesterday was filled with announcements of new capabilities of Power BI Premium and even a per user licensing option to gain access to Premium features. This blog post sums those up so you can prepare for a much better experience of owning and using Power BI Premium.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-23-announcing-the-upcoming-evolution-of-power-bi-premium-to-enterprise-markets-and-beyond/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-upcoming-evolution-of-power-bi-premium-to-enterprise-markets-and-beyond/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-upcoming-evolution-of-power-bi-premium-to-enterprise-markets-and-beyond/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KSmdEGZT8Tk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1600,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-09-23T04:14:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
