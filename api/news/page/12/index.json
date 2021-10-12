@@ -2,6 +2,48 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-07-25-get-this-complete-big-data-power-bi-bundle-certification-for-only-3999.md",
+      "title": "Get this Complete Big Data & Power BI Bundle certification for only $39.99",
+      "excerpt": "Sort, analyze and visualize! Be the next data hero with 30 hours of hands-on instruction on Power BI, Power Query, Excel, and Access. Get this deal with the included certification and at hundreds off!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-25-get-this-complete-big-data-power-bi-bundle-certification-for-only-3999/index.json",
+      "webUrl": "https://www.neowin.net/news/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999",
+      "originalUrl": null,
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999/",
+      "publishedDateTime": "2020-07-25T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-07-23-july-update-for-power-bi-on-premises-data-gateway-now-available.md",
       "title": "July update for Power BI On-premises data gateway now available",
       "excerpt": "This time around, there are a couple more changes in comparison to the usual monthly On-premises data gateway update. As always, an updated version for the Mashup Engine has been released as well.",
@@ -1224,57 +1266,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-05-18-lots-of-power-bi-community-posts-roundup-may-18-2020.md",
-      "title": "Lots of Power BI community posts... (Roundup | May 18, 2020)",
-      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup179 2 Minute Tuesday: https://guyinacu.be/copyquery Patrick's tech video: https://guyinacu.be/datepicker Adam's tech video: https://guyinacu.be/matrixkpis  🔴 Live Replay: https://guyinacu.be/35WURjU",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-05-18-lots-of-power-bi-community-posts-roundup-may-18-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-05-18-lots-of-power-bi-community-posts-roundup-may-18-2020/",
-      "originalUrl": "https://youtube.com/watch?v=qaZkALLm3hE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qaZkALLm3hE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qaZkALLm3hE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Lots of Power BI community posts... (Roundup | May 18, 2020)",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-18T08:00:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
