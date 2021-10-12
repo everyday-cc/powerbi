@@ -2,6 +2,59 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2019-06-11-conditional-formatting-filters-on-slicers-and-more-power-bi-desktop-update-june-2019.md",
+      "title": "Conditional formatting, filters on slicers and more, -Power BI desktop update June 2019",
+      "excerpt": "In this Power BI desktop Update on June 2019, the Power BI team has released some cool new features, one of them my favourite for this month. Which one is yours? #powerbi #curbal #powerweek  Keynotes: 1. New look and feel, what do you think? 2. Filter slicer data- Be careful with this one! 3. Conditional",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-06-11-conditional-formatting-filters-on-slicers-and-more-power-bi-desktop-update-june-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2019-06-11-conditional-formatting-filters-on-slicers-and-more-power-bi-desktop-update-june-2019/",
+      "originalUrl": "https://youtube.com/watch?v=CPN2LgVRla0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CPN2LgVRla0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CPN2LgVRla0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-06-11T03:45:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
       "path": "_news/2019-05-27-file-to-analyze-json-file-from-the-performance-analyzer-in-power-bi-part-2.md",
       "title": "File to analyze json file from the Performance Analyzer in Power BI (part 2)",
       "excerpt": "In today's video, I am going to share a power bi file that you can use to analyze the json file that you get as an output from the Power BI Performance Analyzer. #curbal #powerbi  To get the file, go to curbal.com - Download center and Membership downloads.  Here you can download all the pbix files:",
@@ -1254,59 +1307,7 @@
         "Power BI",
         "Power BI Desktop"
       ]
-    },
-    {
-      "path": "_news/2018-05-09-updated-drillthrough-functionalitly-pw518-may-2018-power-bi-desktop-update.md",
-      "title": "Updated drillthrough functionalitly - PW518 May 2018 Power BI Desktop Update",
-      "excerpt": "The Power BI team has done it again and a new Power BI Desktop Update is here, to be precise, the May 2018 Power BI Desktop Update is here, yey!!!  It is Power Week 518!!!  In today's video, I will go through my new favourite functionality of all: The updated drillthrough functionality.  Back in September,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-05-09-updated-drillthrough-functionalitly-pw518-may-2018-power-bi-desktop-update/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2018-05-09-updated-drillthrough-functionalitly-pw518-may-2018-power-bi-desktop-update/",
-      "originalUrl": "https://youtube.com/watch?v=xT800EezVG0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xT800EezVG0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xT800EezVG0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-05-09T02:59:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 15
 }

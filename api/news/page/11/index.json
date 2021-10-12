@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-07-power-bi-implementation-migration-colors-and-more-roundup-sept-7-2020.md",
+      "title": "Power BI Implementation, migration, colors and more... (Roundup | Sept 7, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup192 Patrick's tech video: https://guyinacu.be/personalview  GIAC Clips Channel: https://guyincu.be/clips  🔴 Live Replay: https://guyinacu.be/live024  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-07-power-bi-implementation-migration-colors-and-more-roundup-sept-7-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-09-07-power-bi-implementation-migration-colors-and-more-roundup-sept-7-2020/",
+      "originalUrl": "https://youtube.com/watch?v=yGc2ExhfdQk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yGc2ExhfdQk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yGc2ExhfdQk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-07T08:00:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-09-04-power-bi-paginated-reports-august-2020-updates.md",
       "title": "Power BI Paginated Reports August 2020 Updates",
       "excerpt": "We have several exciting updates rolling out this month for paginated reports! The updates include new authentication type support for Azure SQL DB and Azure Synapse, Common Data Service data source support, improved multi-value parameters support for DAX  and more!",
@@ -1187,57 +1238,6 @@
       "ampWebUrl": "https://www.neowin.net/amp/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999/",
       "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-this-complete-big-data--power-bi-bundle-certification-for-only-3999/",
       "publishedDateTime": "2020-07-25T09:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-07-23-july-update-for-power-bi-on-premises-data-gateway-now-available.md",
-      "title": "July update for Power BI On-premises data gateway now available",
-      "excerpt": "This time around, there are a couple more changes in comparison to the usual monthly On-premises data gateway update. As always, an updated version for the Mashup Engine has been released as well.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-23-july-update-for-power-bi-on-premises-data-gateway-now-available/index.json",
-      "webUrl": "https://www.neowin.net/news/july-update-for-power-bi-on-premises-data-gateway-now-available",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/11/1574779301_powerbi1_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/july-update-for-power-bi-on-premises-data-gateway-now-available/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/july-update-for-power-bi-on-premises-data-gateway-now-available/",
-      "publishedDateTime": "2020-07-23T15:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Neowin",
