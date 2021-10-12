@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-insights/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
