@@ -206,7 +206,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2020-01-19T00:18:57-08:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/0fs5v-TDkpk/maxresdefault.jpg",
@@ -1714,7 +1714,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-intro-social.png",
@@ -2323,8 +2323,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 7497,
-            "average": 4.7607045
+            "count": 7500,
+            "average": 4.7608
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2690,8 +2690,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 4828,
-            "average": 4.7593207
+            "count": 4829,
+            "average": 4.7593703
           },
           "provider": {
             "name": "Microsoft Learn",
