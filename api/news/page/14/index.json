@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2019-08-19-one-pbi-insaller-filter-pane-and-more-power-bi-desktop-update-july-2019-august-2019.md",
+      "title": "One PBI insaller, filter pane and more... Power BI desktop update July 2019, August 2019",
+      "excerpt": "One installer for all power bi versions, filter pane is now generally available and more updates  on this power bi desktop update july 2019!!! #curbal #powerweek #powerbi   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-08-19-one-pbi-insaller-filter-pane-and-more-power-bi-desktop-update-july-2019-august-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2019-08-19-one-pbi-insaller-filter-pane-and-more-power-bi-desktop-update-july-2019-august-2019/",
+      "originalUrl": "https://youtube.com/watch?v=Xu94eJ0m7eI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xu94eJ0m7eI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Xu94eJ0m7eI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2019-08-19T02:47:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2019-08-15-deep-dive-on-icon-sets-power-bi-desktop-update-july-and-august-2019.md",
       "title": "Deep dive on icon sets - Power BI desktop update July and August 2019",
       "excerpt": "In today's video, I will review the icon set feature available in Power BI since July 2019. I will give you my thoughts on what is good and what can be improved.  What do you think?  Here are the links mentioned in the video: KPI with a measure: https://www.youtube.com/watch?v=cboA5AtAPeg 08:22 How to",
@@ -1230,58 +1282,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2018-08-20T05:10:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2018-06-27-my-favourite-new-feauture-from-june-power-bi-updagte-pw618-june-2018.md",
-      "title": "My favourite new feauture from June Power BI updagte - PW618 June 2018",
-      "excerpt": "In today's video I review my favourite feature from the Power Bi June 2018 update.  Which one is yours? and do you know which other two features I used in the FIFA report? Let me know in the comment box.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-06-27-my-favourite-new-feauture-from-june-power-bi-updagte-pw618-june-2018/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2018-06-27-my-favourite-new-feauture-from-june-power-bi-updagte-pw618-june-2018/",
-      "originalUrl": "https://youtube.com/watch?v=joBxqiXuYDw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/joBxqiXuYDw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/joBxqiXuYDw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-06-27T01:20:28-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Curbal",

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-13-summary-of-power-bi-update-for-october-2021.md",
+      "title": "Summary of Power BI update for October 2021",
+      "excerpt": "Time flies, doesnt it? So it is time for the Power BI update for October 2021!!! Enjoy!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r \r Our",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-10-13-summary-of-power-bi-update-for-october-2021/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2021-10-13-summary-of-power-bi-update-for-october-2021/",
+      "originalUrl": "https://youtube.com/watch?v=5ELAjuA9p4M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ELAjuA9p4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5ELAjuA9p4M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T06:20:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-power-bi-october-2021-feature-summary.md",
       "title": "Power BI October 2021 Feature Summary",
       "excerpt": "Welcome to the October 2021 update. Leaves fall, Power BI calls; and we are excited to release additional functionality and performance improvements for DirectQuery, optimization for the SWITCH function,  and new Bitwise DAX functions. ",
@@ -1205,57 +1257,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-08-26T11:28:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-announcing-automated-statuses-and-improved-filtering-for-power-bi-goals.md",
-      "title": "Announcing automated statuses and improved filtering for Power BI Goals",
-      "excerpt": "Releasing new features for Power BI Goals experience, including automated status rules, filtering and mobile.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-08-26-announcing-automated-statuses-and-improved-filtering-for-power-bi-goals/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-automated-statuses-improved-filtering-and-mobile-experiences-for-power-bi-goals/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-automated-statuses-improved-filtering-and-mobile-experiences-for-power-bi-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-25T23:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-26-announcing-automated-statuses-and-improved-filtering-for-power-bi-goals.md",
+      "title": "Announcing automated statuses and improved filtering for Power BI Goals",
+      "excerpt": "Releasing new features for Power BI Goals experience, including automated status rules, filtering and mobile.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-08-26-announcing-automated-statuses-and-improved-filtering-for-power-bi-goals/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-automated-statuses-improved-filtering-and-mobile-experiences-for-power-bi-goals/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-automated-statuses-improved-filtering-and-mobile-experiences-for-power-bi-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-25T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-08-21-how-to-leverage-the-features-of-power-bi-when-using-an-iphone-ipad-or-mac.md",
       "title": "How to leverage the features of Power BI when using an iPhone, iPad or Mac",
       "excerpt": "Microsoft's Power BI helps professionals, including Apple users, better understand their data. Here's how users with an iPhone, iPad or Mac can take advantage of all Power BI offers. The ...",
@@ -1229,48 +1280,6 @@
       "topics": [
         "Power BI",
         "Dataflows"
-      ]
-    },
-    {
-      "path": "_news/2021-07-14-this-stacked-microsoft-power-bi-training-course-is-on-sale-for-under-30.md",
-      "title": "This stacked Microsoft Power BI training course is on sale for under £30",
-      "excerpt": "TL;DR: The Complete 2021 Microsoft Power BI Super Bundle is on sale for £21.64 as of July 14, saving you 98% on list price. If you want to really impress your boss when you go back to the office ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-14-this-stacked-microsoft-power-bi-training-course-is-on-sale-for-under-30/index.json",
-      "webUrl": "https://mashable.com/uk/deals/july-14-microsoft-power-bi",
-      "originalUrl": "https://mashable.com/uk/deals/july-14-microsoft-power-bi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/0400FrdlpS7y5ZppAqzIbpR/hero-image.fill.size_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/uk/deals/july-14-microsoft-power-bi?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/deals/july-14-microsoft-power-bi?amp",
-      "publishedDateTime": "2021-07-13T22:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],

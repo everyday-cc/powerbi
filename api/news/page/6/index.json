@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-02-premium-gen2-utilization-analysis-app-now-available.md",
+      "title": "Premium Gen2 utilization analysis app now available",
+      "excerpt": "Learn about the newly released best tool yet for managing premium gen2 capacities.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-02-premium-gen2-utilization-analysis-app-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/premium-gen2-utilization-analysis-app-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/premium-gen2-utilization-analysis-app-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-02T06:30:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-premiun-gen2-utilization-analysis-app-now-available.md",
       "title": "Premiun Gen2 utilization analysis app now available",
       "excerpt": "Learn about the newly released best tool yet for managing premium gen2 capacities.",
@@ -1184,57 +1235,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-01-29T03:01:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-01-29-power-bi-report-server-january-2021-feature-summary.md",
-      "title": "Power BI Report Server January 2021 Feature Summary",
-      "excerpt": "We are kicking off 2021 by sharing an updated version of Power BI Report Server! With this update, we&#8217;re bringing visual zoom sliders, custom publish message and ESRI ArcGIS support, amongst others. Read on to get the full details.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-01-29-power-bi-report-server-january-2021-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-january-2021-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-january-2021-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-29T01:51:41-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
