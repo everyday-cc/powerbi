@@ -24,6 +24,12 @@ levels:
 topics:
   - Power BI
 
+images:
+  - url: https://docs.microsoft.com/learn/achievements/modern-analytics-publish-share-social.png
+    width: 1282
+    height: 642
+    isCached: true
+
 secured: "9nsk/51T+gRGd8WFNbrT/aeheS5gYQ4XlzpgFs1+W0Ykhnlm3AbY5uFc719yW0VFTYceDnyRkcHVELheFPLSqB/Jx+z+Qp2nGRQkWsLq8u3Fnyam12Tyof6OfsIZfxXYEkgMfoxDGqT2t6ndfSAFm3MGpY8vYLs50iNjXEdIXHR4XYV7/KAU0kduOy3VUx+ENhWeHJPA+ueLrSuh8zpWjPktnlm8BuYGVXGug0mNl/IANn5r++sarQidzvCBKkBhHWU+Agayzd+Ov6MPZIv1KPe+jFFSRyHzw/6FSWnQK/W/en5P0MXLm8bKwPOjN0gugkKVmTAqy1jRcZTlUlzviJF7xEBAdvDh4NNJ9HC7Frx/zDEeAc6QDByjhZGhuCOnpPnWvNfJoYsftxtBNeDNW+4ZXV3boqgVTpw76/n9iDI=;fLTdA1DfMWOEoVk9z6sJSA=="
 ---
 

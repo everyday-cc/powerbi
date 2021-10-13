@@ -2,7 +2,7 @@
 title: "Improve performance in Power BI by Curbal"
 excerpt: "Playlist with videos on how to analyze and improve performance of your models in Power BI"
 type: collection
-heat: 61
+heat: 62
 
 provider:
   name: Curbal
