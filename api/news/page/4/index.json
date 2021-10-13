@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-06-02-power-bi-windows-app-has-new-look-preview.md",
+      "title": "Power BI Windows app has new look (preview)!",
+      "excerpt": "Power BI Windows app is designed to provide great Power BI consumption experience for Windows users. Business users who do not need to create or edit reports can use this app for simpler and easier view and usage of reports, dashboards and apps. In this release we are introducing preview of Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-02-power-bi-windows-app-has-new-look-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-windows-app-has-new-look-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-windows-app-has-new-look-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-06-01T21:45:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-05-27-power-bi-report-server-may-2021-feature-summary.md",
       "title": "Power BI Report Server May 2021 Feature Summary",
       "excerpt": "We’re excited to bring you a new version of Power BI Report Server this month! With this update, we have a ton of enhancements, including a new field list, new and improved shape options, and several visual formatting features.",
@@ -1194,57 +1245,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-04-29T18:00:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-04-29-announcing-the-amazing-power-bi-customer-stories-sessions-at-the-microsoft-business-applications-summit.md",
-      "title": "Announcing the amazing Power BI customer stories sessions at the Microsoft Business Applications Summit",
-      "excerpt": "We have an incredible lineup of customer story sessions at the upcoming Microsoft Business Applications Summit. Make sure to add these sessions to your backpack! You won&#8217;t want to miss them. ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-04-29-announcing-the-amazing-power-bi-customer-stories-sessions-at-the-microsoft-business-applications-summit/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-amazing-power-bi-customer-stories-sessions-at-the-microsoft-business-applications-summit/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-amazing-power-bi-customer-stories-sessions-at-the-microsoft-business-applications-summit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-04-28T22:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

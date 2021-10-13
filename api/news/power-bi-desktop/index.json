@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-10-13-power-bi-desktop-installer-changes-038-webview2.md",
+      "title": "Power BI Desktop Installer Changes &#038; WebView2",
+      "excerpt": "As mentioned in the June and July feature summaries, we are switching a vital component of Power BI from CefSharp to WebView2. We’re making this switch to better optimize our development and release process (which means we’ll be able to spend more time developing new features!). It also means that you’ll",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-10-13-power-bi-desktop-installer-changes-038-webview2/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-installer-changes-webview2/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-installer-changes-webview2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-13T02:33:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2021-10-11-power-bi-update-october-2021.md",
       "title": "Power BI Update - October 2021",
       "excerpt": "Welcome to the October 2021 update. Leaves fall, Power BI calls; and we are excited to release additional functionality for DirectQuery, improvements for the SWITCH function, and new Biwise DAX functions. There is more to explore, please continue to read on.  Follow us on Twitter - https://twitter.com/mspowerbi\r",
@@ -1469,58 +1521,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-20T02:01:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-10-12-data-source-management-on-power-platform-admin-center.md",
-      "title": "Data Source management on Power platform admin center",
-      "excerpt": "Data source management in admin center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-12-data-source-management-on-power-platform-admin-center/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/data-source-management-on-power-platform-admin-center/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/data-source-management-on-power-platform-admin-center/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LveNuQqV5xk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-12T05:56:17-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

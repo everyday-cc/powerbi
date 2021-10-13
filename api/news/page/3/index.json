@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-15-streaming-dataflows-in-power-bi-premium-now-available-in-public-preview.md",
+      "title": "Streaming dataflows in Power BI premium now available in public preview",
+      "excerpt": "We are thrilled to announce that the public preview of streaming dataflows in Power BI is now available for everyone to try out.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-15-streaming-dataflows-in-power-bi-premium-now-available-in-public-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/streaming-dataflows-in-power-bi-premium-now-available-in-public-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/streaming-dataflows-in-power-bi-premium-now-available-in-public-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-15T03:51:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
       "path": "_news/2021-07-14-this-stacked-microsoft-power-bi-training-course-is-on-sale-for-under-30.md",
       "title": "This stacked Microsoft Power BI training course is on sale for under £30",
       "excerpt": "TL;DR: The Complete 2021 Microsoft Power BI Super Bundle is on sale for £21.64 as of July 14, saving you 98% on list price. If you want to really impress your boss when you go back to the office ...",
@@ -1184,57 +1236,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-06-02T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-power-bi-windows-app-has-new-look-preview.md",
-      "title": "Power BI Windows app has new look (preview)!",
-      "excerpt": "Power BI Windows app is designed to provide great Power BI consumption experience for Windows users. Business users who do not need to create or edit reports can use this app for simpler and easier view and usage of reports, dashboards and apps. In this release we are introducing preview of Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-02-power-bi-windows-app-has-new-look-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-windows-app-has-new-look-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-windows-app-has-new-look-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-01T21:45:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

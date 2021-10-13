@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-07-27-lots-of-dax-to-go-to-the-next-level-with-power-bi-roundup-july-27-2020.md",
+      "title": "Lots of DAX to go to the next level with Power BI... (Roundup | July 27, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup187 2 Minute Tuesday: https://guyinacu.be/addmeasurewte  🔴 LIVE Q&A Replay: https://guyinacu.be/live019  🔴 LIVE Roundup Building Replay: https://guyinacu.be/rounduplive001  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-07-27-lots-of-dax-to-go-to-the-next-level-with-power-bi-roundup-july-27-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-07-27-lots-of-dax-to-go-to-the-next-level-with-power-bi-roundup-july-27-2020/",
+      "originalUrl": "https://youtube.com/watch?v=bBv-AUXYDVw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bBv-AUXYDVw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bBv-AUXYDVw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-07-27T08:00:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_news/2020-07-26-get-this-complete-big-data-power-bi-bundle-certification-for-only-3999.md",
       "title": "Get this Complete Big Data & Power BI Bundle certification for only $39.99",
       "excerpt": "Sort, analyze and visualize! Be the next data hero with 30 hours of hands-on instruction on Power BI, Power Query, Excel, and Access. Get this deal with the included certification and at hundreds off!",
@@ -1213,58 +1265,6 @@
         "Power BI",
         "Power BI Service",
         "Dataflows"
-      ]
-    },
-    {
-      "path": "_news/2020-05-25-best-and-worst-features-on-the-power-bi-desktop-update-may-2020.md",
-      "title": "Best and worst features on the Power BI Desktop update May 2020",
-      "excerpt": "It is power week! So I am going to review the new released features of the Power BI desktop update. Which ones do you like/ dislike and why?  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-05-25-best-and-worst-features-on-the-power-bi-desktop-update-may-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-05-25-best-and-worst-features-on-the-power-bi-desktop-update-may-2020/",
-      "originalUrl": "https://youtube.com/watch?v=2JOq-GQx2g8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2JOq-GQx2g8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2JOq-GQx2g8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-05-25T05:27:37-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

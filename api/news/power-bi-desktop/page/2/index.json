@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-12-data-source-management-on-power-platform-admin-center.md",
+      "title": "Data Source management on Power platform admin center",
+      "excerpt": "Data source management in admin center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-10-12-data-source-management-on-power-platform-admin-center/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/data-source-management-on-power-platform-admin-center/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/data-source-management-on-power-platform-admin-center/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LveNuQqV5xk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-12T05:56:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2020-10-05-how-to-interact-with-power-bi-data-in-a-powerpoint-presentation.md",
       "title": "How To Interact With Power BI Data In A PowerPoint Presentation",
       "excerpt": "Power BI proves to be the best tool for analysis and visualization of data. Cloud-based Power BI technology is a forerunner for corporate executives. Microsoft Power BI is a Business Intelligence and Data Visualization tool which assists organizations to ...",
@@ -1509,59 +1561,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2019-11-28-text-analytics-vision-analytics-and-machine-learning-in-power-query-power-bi-update-november-2019.md",
-      "title": "Text Analytics, Vision analytics and Machine learning in Power Query - Power BI update November 2019",
-      "excerpt": "In today's video I will review the new AI functions in Power Query which are: Text, vision analytics and Machine learning.   Use cognitive services API instead: https://www.youtube.com/watch?v=pPZexLzLa-w  Link to documentation: https://docs.microsoft.com/en-us/power-bi/desktop-ai-insights  Here you",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2019-11-28-text-analytics-vision-analytics-and-machine-learning-in-power-query-power-bi-update-november-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2019-11-28-text-analytics-vision-analytics-and-machine-learning-in-power-query-power-bi-update-november-2019/",
-      "originalUrl": "https://youtube.com/watch?v=tj5uF0V_8d8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tj5uF0V_8d8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tj5uF0V_8d8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2019-11-28T07:57:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "Power Query"
       ]
     }
   ],
