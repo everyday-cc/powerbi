@@ -1866,8 +1866,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10438,
-            "average": 4.676279
+            "count": 10441,
+            "average": 4.676276
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1900,8 +1900,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 8402,
-            "average": 4.70626
+            "count": 8403,
+            "average": 4.7061763
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1918,7 +1918,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 57,
+          "heat": 58,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
@@ -2192,8 +2192,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 4842,
-            "average": 4.75981
+            "count": 4844,
+            "average": 4.759496
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2360,8 +2360,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 88,
-            "average": 4.6704545
+            "count": 89,
+            "average": 4.6629214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2444,8 +2444,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-calculations/",
           "length": "PT57M",
           "ratings": {
-            "count": 25,
-            "average": 4.24
+            "count": 26,
+            "average": 4.230769
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2486,8 +2486,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-organize-fields/",
           "length": "PT52M",
           "ratings": {
-            "count": 22,
-            "average": 4.5454545
+            "count": 23,
+            "average": 4.521739
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3265,8 +3265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2261,
-            "average": 4.766475
+            "count": 2262,
+            "average": 4.766578
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3349,8 +3349,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2946,
-            "average": 4.800747
+            "count": 2947,
+            "average": 4.800814
           },
           "provider": {
             "name": "Microsoft Learn",
