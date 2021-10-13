@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M43S
 publishedDateTime: 2017-06-01T17:08:07Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D6mGoPNDwNk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Tooltips, tooltips, tooltips in Power BI"
 
-secured: "FwozSmi0ASo2ek4nXh14TBGQ/RS55YTq2uvjYQjJBAc+OSQdGetZCv0rFL1VBjRSV7JzCF4SqQII3xuDl6697JzEkVLaCbDec2JBFLBczroj9XJYTuLSWZRsS8Jzwst9nln/aM1XFHq6r4XIp6bsvYZqdRMyEBOOtMU5iq2f1dSrqUWTlQ430XQkoOkB9xLfZ8CsYL49mGqnQn1VV0utlAzdc7385y6vyLvofaqgcDVoxFU4yud/j4bxXqtWC9BnvJzN+W1XYQ8ypHgApJZBFFujAdx9OercXI7o/SeeRtTZ+kKwi4o3HOYRcFb2lAH2WAiZerin9/Q2j5Jd/YJDFcGNogak51w9l+dPhINVSvX07+LxwgHdBqwaHnbBALSXDX1xqr+7ijYbC54VenKQRASWmyMu8bGI/OkTgYydAzs=;1/G9LRFFUzmzhLOYvq6vJw=="
+secured: "POSPxhzD53S+RQA/OOSoef7AglZRQHNl11ESX4NkPbiv4bAs40ZjZ/L28CyE0C4L51bufjDyKcPAfPUd5Juvu7lBO53CjwL0tHlK9DqPbZJEhVztthHVrS2Ie+6yqkPje9vm++cYMPVOTS/BdgoGnLhv91WxPEdI8xtGeFZuTOTALLhjsxWSWCbUdS2PleiYD0pGyAQdUnMEWWYM3nfhhvyMwD1n7+TCy6XB4eiTfKs1FSQXteH/2vZvfheHWzAw2ple1DJwfTHVhnJeteb58BO1cKX72nFKE1KqNefbqorssYhBV+Vg1WUYStGIghfMYSxcmj1EryRLEzUgcd8vPeX/SdZSAUvfxuYtHpTe2crtSaQ3EAJ7CDZg9326ZJte1vYWgvWeVbdR44VOGBYm/bX0fBeQ8yjQd8ePs4V0y9s=;eXO6YxOfUp2hl1QcEB1E6A=="
 ---
 
