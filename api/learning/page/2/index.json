@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 24332,
-        "average": 4.7313004
+        "count": 24335,
+        "average": 4.7313333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -43,6 +43,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-query-transformation-pattern-convert-status-log-dates-table-to-start-and-end-date-table-in-p.md",
+      "title": "Power Query Transformation Pattern   Convert Status Log Dates Table to Start and End Date Table in P",
+      "excerpt": "I have previously explained how to analyze the data of a status log table and a from/to date table (like a subscription pattern). I also explained that in some scenarios a from/to table works better than a status log table. In this article and video, I’ll explain how you can transform or convert a status",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-query-transformation-pattern-convert-status-log-dates-table-to-start-and-end-date-table-in-p/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-query-transformation-pattern-convert-status-log-dates-table-to-start-and-end-date-table-in-p/",
+      "originalUrl": "https://youtube.com/watch?v=map7WjGPXoI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/map7WjGPXoI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M17S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-10-05T17:49:12-07:00",
+      "heat": 82,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/map7WjGPXoI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -157,37 +188,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-query-transformation-pattern-convert-status-log-dates-table-to-start-and-end-date-table-in-p.md",
-      "title": "Power Query Transformation Pattern   Convert Status Log Dates Table to Start and End Date Table in P",
-      "excerpt": "I have previously explained how to analyze the data of a status log table and a from/to date table (like a subscription pattern). I also explained that in some scenarios a from/to table works better than a status log table. In this article and video, I’ll explain how you can transform or convert a status",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-query-transformation-pattern-convert-status-log-dates-table-to-start-and-end-date-table-in-p/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-query-transformation-pattern-convert-status-log-dates-table-to-start-and-end-date-table-in-p/",
-      "originalUrl": "https://youtube.com/watch?v=map7WjGPXoI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/map7WjGPXoI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M17S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-10-05T17:49:12-07:00",
-      "heat": 81,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/map7WjGPXoI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     },
     {
@@ -460,8 +460,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 14266,
-        "average": 4.7583766
+        "count": 14268,
+        "average": 4.7583404
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1136,8 +1136,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 21229,
-        "average": 4.7190638
+        "count": 21230,
+        "average": 4.7190766
       },
       "provider": {
         "name": "Microsoft Learn",

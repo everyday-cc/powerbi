@@ -4,6 +4,36 @@
   "page": 56,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-apply-gridlines-and-background-color-in-small-multiples-shorts.md",
+      "title": "Apply Gridlines and Background Color in Small Multiples #Shorts",
+      "excerpt": "During this session, we will learn how we can apply gridlines and background color in Small Multiples. We already know about small multiples for Power BI Visualization. Now, during this February 2021 Power BI Desktop Microsoft rolled out one more feature which will apply Gridlines and Background color",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-apply-gridlines-and-background-color-in-small-multiples-shorts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-apply-gridlines-and-background-color-in-small-multiples-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=vxDa0ayjYm4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vxDa0ayjYm4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M38S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-02-23T21:11:51-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vxDa0ayjYm4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-apply-navigation-from-an-image-to-a-page-in-power-bi.md",
       "title": "Apply Navigation from an Image to a Page in Power BI",
       "excerpt": "Welcome to my Power BI session. Here, I'm going to share one of the important Tip of Power BI Desktop.  Now, we can apply a navigation link to the Image Icon as well in Power BI Desktop.  Earlier we did not have a functionality to set Navigation link on Images or Shapes in Power BI. With the May 2020",
@@ -870,36 +900,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/EHrWkJeqStU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-download-power-bi-report-file-using-windows-powershell-powershell-to-export-power-bi-report-file.md",
-      "title": "Download Power BI Report File Using Windows PowerShell | PowerShell to Export Power BI Report File",
-      "excerpt": "During this video we will learn, how we can easily download published Power BI report file(.pbix) file using PowerShell command.  In this video, first we will download/export the Power BI file from My Workspace. After that we will export the .Pbix file from specific Workspace.  I have uploaded PowerShell",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-download-power-bi-report-file-using-windows-powershell-powershell-to-export-power-bi-report-file/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-download-power-bi-report-file-using-windows-powershell-powershell-to-export-power-bi-report-file/",
-      "originalUrl": "https://youtube.com/watch?v=L5P7LU1zX9Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L5P7LU1zX9Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M58S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-01-19T00:50:48-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/L5P7LU1zX9Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

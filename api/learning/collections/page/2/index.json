@@ -1812,7 +1812,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 58,
+          "heat": 57,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
@@ -2086,8 +2086,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 4845,
-            "average": 4.759546
+            "count": 4846,
+            "average": 4.7595954
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3076,8 +3076,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3020,
-            "average": 4.7178807
+            "count": 3021,
+            "average": 4.7173123
           },
           "provider": {
             "name": "Microsoft Learn",

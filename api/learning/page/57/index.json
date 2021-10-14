@@ -4,6 +4,36 @@
   "page": 57,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-download-power-bi-report-file-using-windows-powershell-powershell-to-export-power-bi-report-file.md",
+      "title": "Download Power BI Report File Using Windows PowerShell | PowerShell to Export Power BI Report File",
+      "excerpt": "During this video we will learn, how we can easily download published Power BI report file(.pbix) file using PowerShell command.  In this video, first we will download/export the Power BI file from My Workspace. After that we will export the .Pbix file from specific Workspace.  I have uploaded PowerShell",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-download-power-bi-report-file-using-windows-powershell-powershell-to-export-power-bi-report-file/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-download-power-bi-report-file-using-windows-powershell-powershell-to-export-power-bi-report-file/",
+      "originalUrl": "https://youtube.com/watch?v=L5P7LU1zX9Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L5P7LU1zX9Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M58S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-01-19T00:50:48-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/L5P7LU1zX9Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-export-current-page-from-power-bi-service.md",
       "title": "Export Current Page from Power BI Service",
       "excerpt": "Welcome to Power BI Tips session. During this session, I’m going to share one interesting tip for Power BI Service for end users.   As a Power BI Service user now, you can now export a single page in PDF or PPT format from Power BI Service. Want to check how please check the full video.  Sometimes we",
@@ -871,36 +901,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/n-v5KhgutFs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-microsoft-build-2021-power-bi-announcements.md",
-      "title": "Microsoft Build 2021 - Power BI Announcements",
-      "excerpt": "Welcome to my short session on the summary for Microsoft Build Power BI Announcements. During May 2021, 25 Day 01 Microsoft announce 5 cool things for Power BI. Some announcements are launched, some are planned during July this year. Let's talk about each announcement in detail here with me!!  Top 5",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-microsoft-build-2021-power-bi-announcements/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-microsoft-build-2021-power-bi-announcements/",
-      "originalUrl": "https://youtube.com/watch?v=TLWfv9Ofkts",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TLWfv9Ofkts\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M32S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-05-26T03:42:09-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TLWfv9Ofkts/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
