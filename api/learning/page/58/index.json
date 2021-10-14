@@ -4,277 +4,6 @@
   "page": 58,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-leading-0-before-numeric-value-in-power-bi.md",
-      "title": "Leading 0 before Numeric Value in Power BI",
-      "excerpt": "Welcome to one more short trick to Pad 0 before any numeric value in Power BI. There are many ways to add Leading 0 before the numeric value. However, during this video, we will talk about the easiest and short trick to add leading 0 before numeric value in Power BI. So, Let's get started!  During this",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-leading-0-before-numeric-value-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-leading-0-before-numeric-value-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=PLlqZCS26rU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PLlqZCS26rU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M10S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-09-14T21:26:33-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PLlqZCS26rU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop.md",
-      "title": "Load Microsoft Dataverse for Teams table data in Power BI Desktop",
-      "excerpt": "Microsoft Dataverse for teams provides us the flexibility to prepare relational database tables. Now, let’s say we want to prepare further reporting based on Dataverse for Teams data. So, how can we do that? How can we load Microsoft Dataverse for Teams table data to Power BI Desktop? You will get to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=AJokCht9IeI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AJokCht9IeI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M28S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-12-01T21:00:59-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AJokCht9IeI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-make-a-table-visualization-to-display-all-observations-from-data-source-in-power-bi.md",
-      "title": "Make a Table Visualization to Display All Observations from Data Source in Power BI",
-      "excerpt": "In this session, I’m demonstrating how we can show all the records even if it is the same as the Power BI table. We all know that the Power BI table visual automatically removes the duplicate rows from end-users in the table. But sometimes we need to show the end-users all the values from the data source",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-make-a-table-visualization-to-display-all-observations-from-data-source-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-make-a-table-visualization-to-display-all-observations-from-data-source-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=n-v5KhgutFs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n-v5KhgutFs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M34S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-05-29T00:47:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/n-v5KhgutFs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-microsoft-build-2021-power-bi-announcements.md",
-      "title": "Microsoft Build 2021 - Power BI Announcements",
-      "excerpt": "Welcome to my short session on the summary for Microsoft Build Power BI Announcements. During May 2021, 25 Day 01 Microsoft announce 5 cool things for Power BI. Some announcements are launched, some are planned during July this year. Let's talk about each announcement in detail here with me!!  Top 5",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-microsoft-build-2021-power-bi-announcements/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-microsoft-build-2021-power-bi-announcements/",
-      "originalUrl": "https://youtube.com/watch?v=TLWfv9Ofkts",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TLWfv9Ofkts\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M32S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-05-26T03:42:09-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TLWfv9Ofkts/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-microsoft-ignite-2020-power-bi-announcements.md",
-      "title": "Microsoft Ignite 2020 - Power BI Announcements",
-      "excerpt": "Microsoft Ignite 2020 – Power BI Announcements and Updates During this video, we will talk about some important announcements discussed during Microsoft Ignite 2020 for Power BI. I’m going to explain 12 important updates for Power BI from Ignite 2020. So, stay tuned throughout the videos for all important",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-microsoft-ignite-2020-power-bi-announcements/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-microsoft-ignite-2020-power-bi-announcements/",
-      "originalUrl": "https://youtube.com/watch?v=xxM2CYLrDe4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xxM2CYLrDe4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M24S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-09-30T21:26:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xxM2CYLrDe4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-modern-visual-tooltip-in-power-bi.md",
-      "title": "Modern Visual Tooltip in Power BI",
-      "excerpt": "During this session, we will talk about Power BI May 2021 Desktop Update. Microsoft recently introduced new modern visual tooltips in Power BI. The feature is in Preview at this moment. So, now let’s explore Modern Visual Tooltip in Power BI.   Form Modern Tooltip in Power BI, first we need to enable",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-modern-visual-tooltip-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-modern-visual-tooltip-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=oaJfkRyrdPc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oaJfkRyrdPc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M34S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-05-17T02:02:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oaJfkRyrdPc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-navigate-ribbon-component-through-keyboard-shortcuts-power-bi-ribbon-short-cuts.md",
-      "title": "Navigate Ribbon Component through Keyboard Shortcuts – Power BI Ribbon Short Cuts",
-      "excerpt": "Keyboard Shortcuts – Power BI Ribbon Short Cuts  In this video, we will discuss the Key tips for the new Power BI ribbon. With February update of Power BI Desktop, now we have keyboard shortcuts using which we can navigate in between Menuabar and other ribbon components.  In this video, we will cover",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-navigate-ribbon-component-through-keyboard-shortcuts-power-bi-ribbon-short-cuts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-navigate-ribbon-component-through-keyboard-shortcuts-power-bi-ribbon-short-cuts/",
-      "originalUrl": "https://youtube.com/watch?v=TNg1MMoiyIo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TNg1MMoiyIo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M31S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:52:50-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TNg1MMoiyIo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-navigate-through-power-bi-apps-and-report-from-power-bi-mobile-app.md",
-      "title": "Navigate through Power BI Apps and Report from Power BI Mobile App",
-      "excerpt": "Re Imagined Headers and Navigation in Power BI Mobile Apps  Welcome to one more Power BI session. During this session, we will be talking about the Power BI Mobile view experience for Power BI Apps and Power BI Report. Mostly we are accessing our Power BI Reports using Power BI Service. Power BI provides",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-navigate-through-power-bi-apps-and-report-from-power-bi-mobile-app/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-navigate-through-power-bi-apps-and-report-from-power-bi-mobile-app/",
-      "originalUrl": "https://youtube.com/watch?v=s3gHdMthYX0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s3gHdMthYX0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M8S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-09-01T20:45:02-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/s3gHdMthYX0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-new-model-view-updates-in-power-bi.md",
-      "title": "New Model View Updates in Power BI",
-      "excerpt": "With November 2020 Power BI Desktop, we have a new Model View available for exploring. During this video, I am going to talk about how the new Model view will be looking like in Power BI Desktop. Power BI Desktop launched some new icons for the Model view. We need to upgrade our Model view first. Once",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-model-view-updates-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-model-view-updates-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=lkUFS3CzItc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lkUFS3CzItc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M57S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-11-29T06:12:00-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lkUFS3CzItc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-new-power-bi-experience-in-microsoft-teams.md",
       "title": "New Power BI Experience in Microsoft Teams",
       "excerpt": "During this session, we will be talking about the new Power BI experience in Microsoft Teams. During Ignite 2020, Microsoft announced a feature that, users can use Power BI Service from teams without leaving the context of Teams.   This feature is very useful for modern workspace users where we can use",
@@ -897,6 +626,277 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/WPlkCRiODoc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-search-for-a-worksapce-during-publish-new-feature-september-2020.md",
+      "title": "Search for a Worksapce during publish - New Feature September 2020",
+      "excerpt": "During this video we will demonstrate one feature which is - \"Search\" workspace name during publishing the report to Power BI Workspace. This cool feature has been launched during September 2020 update of Power BI Desktop.  Sometimes we have access on more than 100 Workspace and during the publish time",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-search-for-a-worksapce-during-publish-new-feature-september-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-search-for-a-worksapce-during-publish-new-feature-september-2020/",
+      "originalUrl": "https://youtube.com/watch?v=glc6rLfQ7JU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/glc6rLfQ7JU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M2S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-26T04:25:28-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/glc6rLfQ7JU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-select-multiple-visuals-easily-using-rectangular-lasso-in-power-bi.md",
+      "title": "Select Multiple Visuals Easily using Rectangular Lasso in Power BI",
+      "excerpt": "In this session, we will be going to talk about another new feature rolled out by Microsoft which is “Rectangular Lasso”.   Now, there is a question in your mind that is – What is Rectangular Lasso, and how it is useful? Sometimes there are situations where we need to select the multiple visuals across",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-select-multiple-visuals-easily-using-rectangular-lasso-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-select-multiple-visuals-easily-using-rectangular-lasso-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=6Smx38IFDP0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6Smx38IFDP0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M53S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-10T20:34:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6Smx38IFDP0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-series-labels-for-power-bi-line-charts.md",
+      "title": "Series Labels for Power BI Line Charts",
+      "excerpt": "POWER BI SEPTEMBER 2021 FEATURE SUMMARY - SERIES LABELS FOR LINE CHARTS   Welcome to Power BI Desktop September 2021 feature summary. During this video, we will learn how we can add Series labels for the Line chart in Power BI. The steps are very simple and easy.  First, turn on the label for the series.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-series-labels-for-power-bi-line-charts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-series-labels-for-power-bi-line-charts/",
+      "originalUrl": "https://youtube.com/watch?v=ke22IxZNl9w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ke22IxZNl9w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M57S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-09-23T10:38:01-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ke22IxZNl9w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-show-rating-in-power-bi-using-ratings-visual-by-tme-ag.md",
+      "title": "Show Rating in Power BI Using Ratings Visual by TME AG",
+      "excerpt": "Welcome to Power BI Custom Visual session. Here, we are going to explore one cool and awesome visual created by TME AG which is “Rating visual by TME AG”. Let’s explore the features and formatting properties for this visualization. So, now let’s get started.  Here, I have taken an example of one of the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-show-rating-in-power-bi-using-ratings-visual-by-tme-ag/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-show-rating-in-power-bi-using-ratings-visual-by-tme-ag/",
+      "originalUrl": "https://youtube.com/watch?v=JEZo7wdrtUw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JEZo7wdrtUw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M42S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-08-22T10:06:25-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JEZo7wdrtUw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-smart-narrative-visual-as-a-tooltip-in-power-bi.md",
+      "title": "Smart Narrative Visual as a Tooltip in Power BI",
+      "excerpt": "During this session, we will learn how we can use Smart Narrator visual to create interactive, eye-catching, and customizable tooltip. Smart Narrative visual provides us the flexibility to create interactive narrator for our Power BI visualization. During this session, we will use this capability to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-smart-narrative-visual-as-a-tooltip-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-smart-narrative-visual-as-a-tooltip-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=UlnQXbXdPww",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UlnQXbXdPww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M51S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-15T20:25:17-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UlnQXbXdPww/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-smart-narrative-visual-in-power-bi.md",
+      "title": "Smart Narrative Visual in Power BI",
+      "excerpt": "This video demonstrates Narrative Visual in Power BI. Microsoft released this new feature with September 2020 Power BI Desktop report. Smart Narrative visual helps users to quickly summarize visual and reports by providing Out of the box insights which are easily configurable and customizable. Smart",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-smart-narrative-visual-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-smart-narrative-visual-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=QC1l4Q-DTUw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QC1l4Q-DTUw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M10S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-28T09:30:52-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QC1l4Q-DTUw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-tableaddfuzzyclustercolumn-function-in-power-bi.md",
+      "title": "Table.AddFuzzyClusterColumn Function in Power BI",
+      "excerpt": "During this vLog, we will learn how we can get help with spellings in Power BI using Table.AddFuzzyClusterColumn function in Power BI. AddFuzzyClusterColumn function adds a new column with representative values obtained by fuzzy grouping values of the specified column in a table.     We will check how",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-tableaddfuzzyclustercolumn-function-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-tableaddfuzzyclustercolumn-function-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=6DZhQJkgsFM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6DZhQJkgsFM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M39S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-18T01:48:41-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6DZhQJkgsFM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-the-coalesce-function-in-power-bi-dax.md",
+      "title": "The COALESCE function in Power BI DAX",
+      "excerpt": "In this vLog, we will talk about the COALESCE function in Power BI Dax. COALESCE function accepts multiple arguments and returns the first argument that is nonblank.  The SQL users are aware of this COALESCE function. We have the now DAX function equivalent of SQL COALESCE.   In this video, we will talk",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-the-coalesce-function-in-power-bi-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-the-coalesce-function-in-power-bi-dax/",
+      "originalUrl": "https://youtube.com/watch?v=DXS5l5HvxzI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DXS5l5HvxzI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M6S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:52:50-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DXS5l5HvxzI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-things-you-should-consider-before-installing-power-bi-data-gateway.md",
+      "title": "Things you should consider before installing Power BI Data Gateway",
+      "excerpt": "During this session, we will be talking about What are the minimum hardware and software required to install a Power BI Data gateway and which are the considerations we need to keep in our mind before installing a Data Gateway?  In this session we will cover the following points: 1. Minimum Hardware",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-things-you-should-consider-before-installing-power-bi-data-gateway/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-things-you-should-consider-before-installing-power-bi-data-gateway/",
+      "originalUrl": "https://youtube.com/watch?v=PFPqsY9dUro",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PFPqsY9dUro\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-29T08:16:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PFPqsY9dUro/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

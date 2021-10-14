@@ -4,234 +4,6 @@
   "page": 61,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-analysis-services-connector-for-power-bi.md",
-      "title": "Analysis Services Connector for Power BI",
-      "excerpt": "*** Note: The AS Connector has been replaced by the Power BI Gateway - Enterprise. See https://youtu.be/cAtykk4FpWU for a look at the enterprise gateway! ***  A look at how to setup the Analysis Services Connector with the Power BI Service.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-analysis-services-connector-for-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-analysis-services-connector-for-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=MwsWGBK2S8o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MwsWGBK2S8o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M56S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-02-13T07:08:30-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MwsWGBK2S8o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-analysis-services-power-bi-tips-and-mobile-roundup-51.md",
-      "title": "Analysis Services, Power BI tips and mobile - Roundup #51",
-      "excerpt": "This week we have some items for Analysis Services, some Power BI tips and a mobile update.  SSAS Tabular Model Development Using Power BI Desktop (@Eno1978) https://www.concurrency.com/blog/june-2016/ssas-tabular-model-development-using-power-bi-desk  5 MORE POWER BI TIPS (@sqldusty) https://sqldusty.com/2016/06/29/5-more-power-bi-tips/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-analysis-services-power-bi-tips-and-mobile-roundup-51/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-analysis-services-power-bi-tips-and-mobile-roundup-51/",
-      "originalUrl": "https://youtube.com/watch?v=GIbf2SHxuXQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GIbf2SHxuXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M12S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-06-30T07:31:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GIbf2SHxuXQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-announcements-and-updates-for-rs-as-and-power-bi.md",
-      "title": "Announcements and updates for RS, AS and Power BI",
-      "excerpt": "We had a lot of announcements come out of PASS Summit 2016. Here is a recap of some of the big items. Here is the roundup for November 3, 2016.  Power BI Desktop October Feature Summary https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-october-feature-summary/  Grouping and Binning; Step Towards",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-announcements-and-updates-for-rs-as-and-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-announcements-and-updates-for-rs-as-and-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=SAJ6nKYZzGM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SAJ6nKYZzGM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M58S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-11-03T13:08:44-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SAJ6nKYZzGM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-announcements-for-sql-server-along-with-some-tips-for-power-bi.md",
-      "title": "Announcements for SQL Server along with some tips for Power BI",
-      "excerpt": "Not Folding; the Black Hole of Power Query Performance (@Rad_Reza) http://radacad.com/not-folding-the-black-hole-of-power-query-performance  Calling Microsoft Flow From Power Query And Power BI (@technitrain) https://blog.crossjoin.co.uk/2016/11/13/calling-microsoft-flow-from-power-query-and-power-bi/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-announcements-for-sql-server-along-with-some-tips-for-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-announcements-for-sql-server-along-with-some-tips-for-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=P40YEi9w1cA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P40YEi9w1cA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M27S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-11-17T11:15:09-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/P40YEi9w1cA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-announcements-whitepapers-and-apis.md",
-      "title": "Announcements, whitepapers, and APIs",
-      "excerpt": "Power BI Premium generally available https://powerbi.microsoft.com/en-us/blog/power-bi-premium-generally-available/   Data Insights Summit Opening Keynote  https://www.youtube.com/watch?v=zaVGt-IbuhU  White Paper On “Planning A Power BI Enterprise Deployment” (@technitrain & @SQLChick) https://blog.crossjoin.co.uk/2017/06/20/white-paper-on-planning-a-power-bi-enterprise-deployment/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-announcements-whitepapers-and-apis/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-announcements-whitepapers-and-apis/",
-      "originalUrl": "https://youtube.com/watch?v=e7PYyAoY36E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e7PYyAoY36E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M16S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-06-22T08:18:24-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/e7PYyAoY36E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-apis-prototyping-size-increase-roundup-45.md",
-      "title": "API's, Prototyping, Size increase - Roundup #45",
-      "excerpt": "Steve Howards looks at working with OData and OAuth with Power BI. Bill Anton looks at prototyping and comparing Power BI Desktop to Power Pivot/Excel. We also had a few updates from the Power BI team regarding Q&A working with direct connections via the enterprise gateway, Query Parameters and Templating",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-apis-prototyping-size-increase-roundup-45/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-apis-prototyping-size-increase-roundup-45/",
-      "originalUrl": "https://youtube.com/watch?v=BNwdt-gjCQ8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BNwdt-gjCQ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M18S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-05-19T07:15:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BNwdt-gjCQ8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-are-you-mobile.md",
       "title": "Are you mobile?",
       "excerpt": "I take a look at the different mobile apps for Power BI. From the iOS apps (for iPhone and iPad), to Android and the new Windows 10 Universal App.  You can also connect to an on-premises Reporting Services server to look at mobile reports.  Spud Trooper and Darth Potato are there to help!  SUBSCRIBE!",
@@ -485,6 +257,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/67a7wHE9CkA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-brand-your-report-server.md",
+      "title": "Brand your Report Server",
+      "excerpt": "I break down how to make a branding package for SQL Server Reporting Services 2016. I compare it from the original skin, to the multicolor brand package that Chris Finlan put together, to my custom brand package for Guy in a Cube.  Branding the web portal - https://msdn.microsoft.com/en-us/library/mt710551.aspx",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-brand-your-report-server/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-brand-your-report-server/",
+      "originalUrl": "https://youtube.com/watch?v=m08kLuofwFA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m08kLuofwFA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M12S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-03-22T10:03:10-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/m08kLuofwFA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -918,6 +728,45 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-connect-to-power-bi-desktop-with-3rd-party-tools.md",
+      "title": "Connect to Power BI Desktop with 3rd party tools",
+      "excerpt": "Adam shows you how to connect to Power BI Desktop using 3rd party tools such as DAX Studio. This is a great way to perform optimization to your data model.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-connect-to-power-bi-desktop-with-3rd-party-tools/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-connect-to-power-bi-desktop-with-3rd-party-tools/",
+      "originalUrl": "https://youtube.com/watch?v=yCD6_wPOc6s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yCD6_wPOc6s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M23S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-19T04:28:16-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/yCD6_wPOc6s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-contest-winners-r-maps-data-modeling-roundup-35.md",
       "title": "Contest Winners, R Maps, Data Modeling - Roundup #35",
       "excerpt": "Adam Saxton is a Microsoft employee working on Business Intelligence products.  The Power BI report contest winners were announced! Get a quick start with R Map visualizations. A look at how to get started with SQL 2016. And, some data modeling tips.  Meet the Winners of the Best Report Contest https://powerbi.microsoft.com/en-us/blog/meet-the-winners-of-the-best-report-contest/",
@@ -1110,6 +959,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-create-mail-enabled-security-groups-to-use-in-power-bi-via-powershell.md",
+      "title": "Create Mail enabled security groups to use in Power BI via PowerShell",
+      "excerpt": "In this video, Adam looks at how you can create mail enabled security groups via PowerShell and copy members from an Office 365 Unified group into that new group. This came about based on a limitation that within Power BI, you can't list O365 Unified groups (what back App workspaces) from the people",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-create-mail-enabled-security-groups-to-use-in-power-bi-via-powershell/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-create-mail-enabled-security-groups-to-use-in-power-bi-via-powershell/",
+      "originalUrl": "https://youtube.com/watch?v=o3nyxuPzn3E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o3nyxuPzn3E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-11-28T08:56:45-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/o3nyxuPzn3E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-create-power-bi-embedded-capacity-in-microsoft-azure.md",
       "title": "Create Power BI Embedded capacity in Microsoft Azure",
       "excerpt": "In this video, Adam, from Guy in a Cube, walks through how to create Power BI Embedded capacity in the Microsoft Azure portal. He also takes a look at some of the actions you can do within the Azure portal such as scaling and pause/start.  Follow us on Twitter - https://twitter.com/mspowerbi  More questions?",
@@ -1138,6 +1025,121 @@
           "width": 1280,
           "height": 720,
           "title": "Create Power BI Embedded capacity in Microsoft Azure",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-create-reports-in-the-browser-for-power-bi-embedded-and-other-updates.md",
+      "title": "Create reports in the browser for Power BI Embedded and other updates",
+      "excerpt": "March 2017 is bringing a lot of updates to Power BI Embedded including the ability to create reports within the browser.  In this video, I'll use the updated JavaScript report embed sample to show some of the new things you can do within Power BI embedded.  Power BI Embedded Documentation: https://docs.microsoft.com/en-us/azure/power-bi-embedded/power-bi-embedded-get-started",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-create-reports-in-the-browser-for-power-bi-embedded-and-other-updates/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-create-reports-in-the-browser-for-power-bi-embedded-and-other-updates/",
+      "originalUrl": "https://youtube.com/watch?v=ibuN4DzCl5c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ibuN4DzCl5c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M26S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-03-15T13:57:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ibuN4DzCl5c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Create reports in the browser for Power BI Embedded and other updates",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-cube-tear-down-part-2-on-to-houston.md",
+      "title": "Cube tear down - Part 2 (On to Houston!!!)",
+      "excerpt": "The rest of the cube came down this last weekend. Here is some time lapse of it occurring. Thankfully I had Kennedy to help!  7 boxes and 3 monitors later, I have the cube taken apart.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-cube-tear-down-part-2-on-to-houston/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-cube-tear-down-part-2-on-to-houston/",
+      "originalUrl": "https://youtube.com/watch?v=cjf3klLHw2o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cjf3klLHw2o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M15S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-07-19T12:46:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cjf3klLHw2o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-cube-teardown-has-started.md",
+      "title": "Cube teardown has started...",
+      "excerpt": "A big announcement for Guy in a Cube. Also, the tear down of the cube has begun with the Lego Super Star Destroyer.  Music by Panthurr https://soundcloud.com/panthurr  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube -- Snapchat",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-cube-teardown-has-started/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-cube-teardown-has-started/",
+      "originalUrl": "https://youtube.com/watch?v=-9m6WFw-dy0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-9m6WFw-dy0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M50S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-07-06T10:58:22-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-9m6WFw-dy0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],

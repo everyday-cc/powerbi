@@ -4,353 +4,6 @@
   "page": 53,
   "value": [
     {
-      "path": "_learning/videos/curbal-import-sharepoint-libraries-in-power-bi-and-create-links-to-the-docs-power-bi-tips-tricks-10.md",
-      "title": "Import Sharepoint libraries in Power BI and create links to the docs - Power BI Tips & Tricks #10:",
-      "excerpt": "Import sharepoint libraries in Power BI and create direct links to the files with Web URLs.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-import-sharepoint-libraries-in-power-bi-and-create-links-to-the-docs-power-bi-tips-tricks-10/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-import-sharepoint-libraries-in-power-bi-and-create-links-to-the-docs-power-bi-tips-tricks-10/",
-      "originalUrl": "https://youtube.com/watch?v=s8VGQaRhoow",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s8VGQaRhoow\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M8S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-05-23T12:31:39-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/s8VGQaRhoow/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-import-tables-or-pages-based-on-a-word-or-phrase-from-a-pdf-in-power-query.md",
-      "title": "Import tables or pages based on a word or phrase from a pdf in Power Query",
-      "excerpt": "Are you working with pdf's or tables and need to import only data where a specific word or phrase is found? Then thanks to Imke, I have the perfect trick for you.  Link to Imke's post: https://www.thebiccountant.com/2019/04/30/table-containsanywhere-function/  Link to express route docs: https://azure.microsoft.com/en-us/services/expressroute/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-import-tables-or-pages-based-on-a-word-or-phrase-from-a-pdf-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-import-tables-or-pages-based-on-a-word-or-phrase-from-a-pdf-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=UCuqPKg5J0I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UCuqPKg5J0I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M45S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-11T02:43:04-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UCuqPKg5J0I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-import-website-data-into-power-bi-desktop-part-4-power-query-challenge.md",
-      "title": "Import website data into Power BI Desktop- Part 4: Power Query Challenge",
-      "excerpt": "It is time for Power Query Challenge Part Three made by Emin Uzun.  What is this Power Query Challenge? https://www.youtube.com/watch?v=_R1rSdXkVDw  Source files: https://github.com/ruthpozuelo/PQChallenge  Part 1: https://www.youtube.com/watch?v=_LcT5sLwmiw Part 2: https://www.youtube.com/watch?v=6Yj09khxr4Q",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-import-website-data-into-power-bi-desktop-part-4-power-query-challenge/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-import-website-data-into-power-bi-desktop-part-4-power-query-challenge/",
-      "originalUrl": "https://youtube.com/watch?v=dXtCg3TeUdM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dXtCg3TeUdM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M22S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-11-06T10:06:14-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dXtCg3TeUdM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-importera-data-fran-statistikmyndigheten-scb-i-power-bi.md",
-      "title": "Importera data från statistikmyndigheten SCB i Power BI",
-      "excerpt": "I dagens video jag kommer att visa hur ni kan få SCB data i Power BI.   Du kan ladda ner filen #46 i Community downloads här: https://curbal.com/donwload-center  Länk till SCB:https://www.scb.se/ Länk till Öppna data: https://oppnadata.se/  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-importera-data-fran-statistikmyndigheten-scb-i-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-importera-data-fran-statistikmyndigheten-scb-i-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=lOLTNZty2G0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lOLTNZty2G0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M46S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-12T03:41:37-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lOLTNZty2G0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-is-my-data-secure-in-power-bi-part-1-how-data-is-stored-.md",
-      "title": "Is my data secure in Power BI? Part 1: How data is stored. 🔐",
-      "excerpt": "If you are considering using Power BI, you might have asked yourself: Is my data secure in Power BI?  That is what we are going to talk about on this video: We will discuss the different methods available for you to get data in Power BI.  We will then discuss two critical topics:  What is data in transit?",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-is-my-data-secure-in-power-bi-part-1-how-data-is-stored-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-is-my-data-secure-in-power-bi-part-1-how-data-is-stored-/",
-      "originalUrl": "https://youtube.com/watch?v=nmgwuq958mM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nmgwuq958mM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M15S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-30T07:06:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nmgwuq958mM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-is-power-query-googles-most-asked-questions-on-power-query.md",
-      "title": "Is Power Query.....? | Google's most asked questions on Power Query",
-      "excerpt": "Good Monday everyone! In today's video, I will answer Google most asked questions on Power Query. Enjoy!  Keynotes 00:16 Is power query free? 01:00 Is power query available in Excel 2010? 01:30 Is power query available for mac? 01:50 Is power query an ETL tool? 02:20 Is power query case sensitive? 02:50",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-is-power-query-googles-most-asked-questions-on-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-is-power-query-googles-most-asked-questions-on-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=b25_eVO9jZo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b25_eVO9jZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-02-21T00:46:18-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/b25_eVO9jZo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-is-your-power-bi-data-on-google-here-is-how-to-fix-it.md",
-      "title": "Is your Power BI data on Google? Here is how to fix it...",
-      "excerpt": "A simple google search will reveal 25,500 public Power BI reports and not all of them should be public.  Do you know which power bi reports are on google and how to delete them?  In this video I will show you how to find, review, delete and control your Public Power BI reports.  Here you can download",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-is-your-power-bi-data-on-google-here-is-how-to-fix-it/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-is-your-power-bi-data-on-google-here-is-how-to-fix-it/",
-      "originalUrl": "https://youtube.com/watch?v=BX24DnseY58",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BX24DnseY58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M55S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-22T05:30:48-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BX24DnseY58/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-isnumber-istext-isdate-equivalent-in-power-query-or-m.md",
-      "title": "ISNUMBER, ISTEXT, ISDATE equivalent in Power Query or M",
-      "excerpt": "If you need to identify which values in a column are number, text or date, in today's video, I am going to show you 2 ways to do it.  Enjoy!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-isnumber-istext-isdate-equivalent-in-power-query-or-m/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-isnumber-istext-isdate-equivalent-in-power-query-or-m/",
-      "originalUrl": "https://youtube.com/watch?v=b5FMV9fPCLc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b5FMV9fPCLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M51S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-07T03:10:58-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/b5FMV9fPCLc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-json-theme-guide-for-power-bi-by-curbal-tutorial.md",
-      "title": "JSON Theme Guide for Power BI by Curbal - Tutorial",
-      "excerpt": "You can customize the look and feel of the Power BI reports using the formatting pane for each specific visual or you can speed up the process by using a JSON file.\r  This feature (the JSON file) has been available for quite a while but the documentation is poor  and unfortunately, a lot of the elements",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-json-theme-guide-for-power-bi-by-curbal-tutorial/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-json-theme-guide-for-power-bi-by-curbal-tutorial/",
-      "originalUrl": "https://youtube.com/watch?v=7xk_w_c6UfE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7xk_w_c6UfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M28S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-12-12T09:01:54-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7xk_w_c6UfE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-learning-resources-for-power-bi.md",
       "title": "Learning resources for Power BI",
       "excerpt": "link to resources: https://curbal.com/learning-resources-power-bi-dax-power-query   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
@@ -1156,6 +809,355 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-power-bi-service-features-for-administrators-power-bi-tips-tricks-37.md",
+      "title": "Power BI Service features for administrators - Power BI Tips & Tricks #37",
+      "excerpt": "In today’’s video we will go through the settings and features you have in Power BI service or powerbi.com as a tenant admin.  In the Power BI admin Portal you will find a lot of options to enable and disable features. Here we explain what the options and features are:  Monitor Power BI usage in your",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-power-bi-service-features-for-administrators-power-bi-tips-tricks-37/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-power-bi-service-features-for-administrators-power-bi-tips-tricks-37/",
+      "originalUrl": "https://youtube.com/watch?v=72WDnI-P9RE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/72WDnI-P9RE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M42S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-03-30T12:05:20-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/72WDnI-P9RE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Service"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-power-bi-tips-tricks-03-reuse-a-power-bi-file-change-source-file.md",
+      "title": "Power BI Tips & Tricks #03: Reuse a power bi file (Change source file)",
+      "excerpt": "If you want to reuse a power bi file you downloaded form Curbal.com, here are the steps to make it your own, depending on the source you have used.  If you prefer to follow a tutorial, visit our site: http://curbal.com/blog/export-google-analytics-data-to-microsoft-power-bi-supercharged-excel   Looking",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-power-bi-tips-tricks-03-reuse-a-power-bi-file-change-source-file/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-power-bi-tips-tricks-03-reuse-a-power-bi-file-change-source-file/",
+      "originalUrl": "https://youtube.com/watch?v=uIkNtHH2aMs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uIkNtHH2aMs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M36S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-02-01T12:29:12-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uIkNtHH2aMs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-power-bi-tips-tricks-11-updated-drill-down-functionality-in-power-bi.md",
+      "title": "Power BI Tips & Tricks #11: Updated drill down functionality in Power bi",
+      "excerpt": "Learn Power BI drill down functionality and the latest updates introduced on the August, 2016 update.  Northwind data source: https://www.youtube.com/watch?v=k3NMIlLffrU   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-power-bi-tips-tricks-11-updated-drill-down-functionality-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-power-bi-tips-tricks-11-updated-drill-down-functionality-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=WrEguRxYSjY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WrEguRxYSjY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M13S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-09-21T11:28:21-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WrEguRxYSjY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-power-query-challenge-can-you-crack-this.md",
+      "title": "Power Query Challenge: Can you crack this?",
+      "excerpt": "Ready for the challenge?  Here are the rules: 1. Download the data from the source: https://img.fifa.com/image/upload/vb0nnqwsq8rrkxef0wbl.pdf  2. Clean it in power bi  3. Upload your solution (pbix file, or text file) here:  https://curbal.synology.me:5001/sharing/7LYTBPiiI  4. Done forget to send me",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-power-query-challenge-can-you-crack-this/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-power-query-challenge-can-you-crack-this/",
+      "originalUrl": "https://youtube.com/watch?v=qWc_Jl_klSw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qWc_Jl_klSw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M33S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-06-19T06:15:41-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qWc_Jl_klSw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-power-query-challenge-unpivot-complex-tables-solution.md",
+      "title": "Power query challenge -Unpivot complex tables solution",
+      "excerpt": "Finally it is here!! Are you curious to know how you guys solved the challenge, then grab a cup of ☕ , sit down and enjoy some M magic.  #powerbi #powerquery #curbal #challenge   If you want to check the solutions in detail, you will find all solution files in my github page here: https://github.com/ruthpozuelo/PQ-Challenge-unpivot",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-power-query-challenge-unpivot-complex-tables-solution/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-power-query-challenge-unpivot-complex-tables-solution/",
+      "originalUrl": "https://youtube.com/watch?v=l8eh6uOYa0g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l8eh6uOYa0g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M34S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-19T13:34:36-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l8eh6uOYa0g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-power-query-fifa-challenge-watch-the-magic-happen-.md",
+      "title": "Power Query FIFA Challenge! Watch the magic happen :)",
+      "excerpt": "First of all, thanks to everybody that participated!!  Here is a link to all the solution files: https://github.com/ruthpozuelo/Power-Query-Challenge-FIFA  And finally,,... how amazing is Power Query!! :)))   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-power-query-fifa-challenge-watch-the-magic-happen-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-power-query-fifa-challenge-watch-the-magic-happen-/",
+      "originalUrl": "https://youtube.com/watch?v=r04nm-rnkKE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r04nm-rnkKE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M30S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-06-25T07:27:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r04nm-rnkKE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-powerapps-in-power-bi-desktop-short-demo.md",
+      "title": "PowerApps in Power BI Desktop short demo",
+      "excerpt": "Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1  Our PLAYLISTS: - Join our DAX Fridays! Series: https://goo.gl/FtUWUX - Power BI dashboards",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-powerapps-in-power-bi-desktop-short-demo/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-powerapps-in-power-bi-desktop-short-demo/",
+      "originalUrl": "https://youtube.com/watch?v=wDzTIoOJZTo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wDzTIoOJZTo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M42S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-08T08:59:07-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wDzTIoOJZTo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-predict-youtube-subscribers-count-with-azure-machine-learning-studio-part-2.md",
+      "title": "Predict YouTube Subscribers count with Azure Machine Learning Studio (Part 2)",
+      "excerpt": "I got this wrong, you can see when Social blade predicted the 10K subs here: https://socialblade.com/youtube/channel/UCJ7UhloHSA4wAqPzyi6TOkw/futureprojections/subscribers  In today's video we will try to predict when I will reach 10.000 subscribers in the channel.   I am going to take my crystal ball",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-predict-youtube-subscribers-count-with-azure-machine-learning-studio-part-2/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-predict-youtube-subscribers-count-with-azure-machine-learning-studio-part-2/",
+      "originalUrl": "https://youtube.com/watch?v=fIVU9BmCzco",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fIVU9BmCzco\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M22S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-04-13T03:16:40-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fIVU9BmCzco/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-predict-youtube-subscribers-with-power-bi-desktop-part-1.md",
+      "title": "Predict YouTube Subscribers with Power BI Desktop (Part 1)",
+      "excerpt": "In today's video we will try to predict when I will reach 10.000 subscribers in the channel.   I am going to take my crystal ball out for a spin and predict when this channel will get 10,000 subscribers! This is a series of two videos: I part one I will do the prediction manually (This video) and in",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-predict-youtube-subscribers-with-power-bi-desktop-part-1/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-predict-youtube-subscribers-with-power-bi-desktop-part-1/",
+      "originalUrl": "https://youtube.com/watch?v=-0yLiQZu0eM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-0yLiQZu0eM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M38S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-04-12T12:14:22-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-0yLiQZu0eM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     }
   ],
