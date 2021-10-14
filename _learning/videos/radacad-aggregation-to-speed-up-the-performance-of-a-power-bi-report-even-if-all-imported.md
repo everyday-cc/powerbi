@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT9M42S
 publishedDateTime: 2020-12-01T04:04:06Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EukzA4vbl2w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5adCWx+/ODMv73SdBL0RYb3PZFTajaHlRmYgXCx6NdwBptEAmciCNOnsIyACo+dhR9dZnTADtFsUOCXhcynnUXF+yG5JnQybbwiawgyxfK2tQR5L90ly6CE1g/1NbXMOQdJ2AJGIQJGLPE/HXrcN8FM8VglIveF57wcNmV5MQ/HcTcmpo14XSOGuKtDMaSAXdKtsrySfNz3Of7fPB3jrFXqdXKzFrMJWmHPVmcnH5IhuTD71l+AQ/bizRILVoGFXl4nw2iKdCzRoZptCH3z1C3dXLInkZIlqpY/GZyENPXy5fYsisnsjBjp3Owd/bCc5J4Btp0Py6bV78MF4myOjQy1yx5kzb6rk7d/UBzTQb6x/f4msol1Lceq6ALqxyAfKRGRrYGv1vXptSneclXFhU8mp65kwTkwIWNd/NUlNSbo=;O/5htQC6S5fhjVQgzjbn0g=="
+secured: "L58Soak+tPQYCOiGlH1o1gyMsus8YES8bxGAVWSmOVj5Dkj+v2mKgXVRc/weB6iE2WnRbZHDHP64J7wfwyHyjwOcfOhWrFueynLj3i0xWgrqeGRLQzJHiG3YAvJuZ23+97LEsEvDhL0hr6KYwn0GHNSX5vyV1d1xemvab4GJXNw7/rc19Hv9dl9o7LGOb0z0F8T2qrmMRu6s8qi6xYjpkUconlIBcB0SgLEvanwUz2u31zQTU1thd+jnA5VawzALibKivaqkEpGrYiysCu7NcTFz9Hf3uW188DbDR4aL2B09MDqTpUp//rSIbqr1NfgY1rjPSfxjF9EgGwzskFio3l7gb/a8TAu+DlwTQxEw3XgZNttOTb6WNilqewcUTVe3UxLETwrlsHhOrt8rsaM2rutdI99IrW2x/TIoxgcrdOY=;uKZFODxI08vmRvzLFcNkIQ=="
 ---
 
