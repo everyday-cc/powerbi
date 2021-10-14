@@ -921,7 +921,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/automate-data-cleaning-power-query-social.png",
@@ -1347,8 +1347,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 4761,
-        "average": 4.7181263
+        "count": 4762,
+        "average": 4.7181854
       },
       "provider": {
         "name": "Microsoft Learn",
