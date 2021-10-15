@@ -4,44 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-rls-with-two-fact-tables-in-power-bi.md",
-      "title": "RLS with TWO Fact tables in Power BI",
-      "excerpt": "Have you struggled with using Row-Level Security (RLS) on a dimension connected to two fact tables? Patrick looks at some options you can use to accomplish this in Power BI.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level?",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-rls-with-two-fact-tables-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-rls-with-two-fact-tables-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=rvCAPoy2TXs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rvCAPoy2TXs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-10-13T08:00:38-07:00",
-      "heat": 289,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rvCAPoy2TXs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-tutorial-from-beginner-to-pro-desktop-to-dashboard-in-60-minutes-.md",
       "title": "Power BI Tutorial From Beginner to Pro ⚡ Desktop to Dashboard in 60 Minutes ⏰",
       "excerpt": "This Complete Power BI Tutorial takes you Step-by-Step as you use Power BI Desktop to create a beautiful Power BI Dashboard. 👉 Download Power BI Files in Video at https://web.learnpowerbi.com/download?content=20190501  ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
@@ -97,6 +59,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/R8SaJ__UMHI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-rls-with-two-fact-tables-in-power-bi.md",
+      "title": "RLS with TWO Fact tables in Power BI",
+      "excerpt": "Have you struggled with using Row-Level Security (RLS) on a dimension connected to two fact tables? Patrick looks at some options you can use to accomplish this in Power BI.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level?",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-rls-with-two-fact-tables-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-rls-with-two-fact-tables-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=rvCAPoy2TXs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rvCAPoy2TXs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-10-13T08:00:38-07:00",
+      "heat": 213,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rvCAPoy2TXs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -259,23 +259,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-bookmark-with-or-without-data.md",
-      "title": "Power BI bookmark   with or without data",
-      "excerpt": "Bookmark is a helpful feature in Power BI. It enables you to have a good story to tell and also have a dynamic visualization. I have explained how bookmarks work in Power BI and how to use them with buttons to have a next-level visualization. An important attribute of the bookmark is the Data. You can",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-bookmark-with-or-without-data/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-bookmark-with-or-without-data/",
-      "originalUrl": "https://youtube.com/watch?v=UPyK3mfIwmU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UPyK3mfIwmU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M39S",
+      "path": "_learning/videos/radacad-creating-column-values-distribution-report-in-power-bi-using-power-query.md",
+      "title": "Creating Column Values Distribution Report in Power BI Using Power Query",
+      "excerpt": "I have written about profiling data and the importance of it in Power Query, I also explained how the profiling data can be prepared to create a report in Power BI for the user to understand the data better. And I explained how the error count of that can be added to the report. Another very important",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-creating-column-values-distribution-report-in-power-bi-using-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-creating-column-values-distribution-report-in-power-bi-using-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=e79VdxTs6Ok",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e79VdxTs6Ok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M25S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-08-08T17:52:28-07:00",
+      "publishedDateTime": "2021-09-09T18:52:27-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/UPyK3mfIwmU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/e79VdxTs6Ok/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -285,7 +285,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -692,8 +693,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 26234,
-            "average": 4.797286
+            "count": 26238,
+            "average": 4.797317
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -734,8 +735,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 44679,
-            "average": 4.7713017
+            "count": 44683,
+            "average": 4.7713223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -794,8 +795,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 44679,
-        "average": 4.7713017
+        "count": 44683,
+        "average": 4.7713223
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -951,8 +952,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 26234,
-        "average": 4.797286
+        "count": 26238,
+        "average": 4.797317
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1140,8 +1141,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 24378,
-        "average": 4.731356
+        "count": 24380,
+        "average": 4.731378
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1243,8 +1244,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 44679,
-            "average": 4.7713017
+            "count": 44683,
+            "average": 4.7713223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1285,8 +1286,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 21257,
-            "average": 4.719198
+            "count": 21258,
+            "average": 4.7192116
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1370,8 +1371,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7082,
-            "average": 4.769133
+            "count": 7083,
+            "average": 4.7690244
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1430,8 +1431,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 14312,
-        "average": 4.7583146
+        "count": 14315,
+        "average": 4.7582955
       },
       "provider": {
         "name": "Microsoft Learn",
