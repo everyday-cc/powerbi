@@ -781,8 +781,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2266,
-            "average": 4.766549
+            "count": 2267,
+            "average": 4.766652
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -925,8 +925,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 2790,
-        "average": 4.6960573
+        "count": 2791,
+        "average": 4.696166
       },
       "provider": {
         "name": "Microsoft Learn",
