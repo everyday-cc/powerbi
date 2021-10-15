@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-15-prep-data-in-no-time-with-this-10-power-bi-boot-camp.md",
+      "title": "Prep Data in No Time With This $10 Power BI Boot Camp",
+      "excerpt": "Their weapon of choice for years has been Excel, Power BI, and the other major database tools. If you want a job managing data, you've got to learn how to use these at a higher level, and that's where the Power Query for Excel & Power BI Course comes in.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-10-15-prep-data-in-no-time-with-this-10-power-bi-boot-camp/index.json",
+      "webUrl": "https://www.pcmag.com/news/prep-data-in-no-time-with-this-10-power-bi-boot-camp",
+      "originalUrl": "https://www.pcmag.com/news/prep-data-in-no-time-with-this-10-power-bi-boot-camp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/07EcpkJpLral2osgY6oejm1-1.1634284199.fit_lim.size_1200x630.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/prep-data-in-no-time-with-this-10-power-bi-boot-camp?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/prep-data-in-no-time-with-this-10-power-bi-boot-camp?amp=true",
+      "publishedDateTime": "2021-10-15T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-10-13-summary-of-power-bi-update-for-october-2021.md",
       "title": "Summary of Power BI update for October 2021",
       "excerpt": "Time flies, doesnt it? So it is time for the Power BI update for October 2021!!! Enjoy!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r \r Our",
@@ -1207,57 +1258,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-08-30T00:52:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-27-on-premises-data-gateway-august-2021-update-is-now-available.md",
-      "title": "On-premises data gateway August 2021 update is now available",
-      "excerpt": "On-premises data gateway (standard and personal mode) release for August 2021 ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-08-27-on-premises-data-gateway-august-2021-update-is-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-august-2021-update-is-now-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-august-2021-update-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-27T08:36:02-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
