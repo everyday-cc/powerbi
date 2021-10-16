@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M8S
 publishedDateTime: 2016-12-14T22:13:20Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zMWk2gI_C8s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4AdTXQMe6n6C+/KtVU9Hr9OHNHmjyQvLvgnTQPX4DGyTQkcKkGpYHO5xr4wvsc27KYMZZeGt1v2EUueq6RE+RWrrXXhiweYeXQlWnaJZpVbqRQK1zyK5PPEWQUg654Az7/0CoTU5dE+8Zr8R22I1TWbKFaZE2K+1EOQKmOC+GWL0eKPRioPX+1yHNCvizKMy6BDnSRUpvWP6kKF4iUwDLbw3rTaWgHPHi56aKHBzSNo/qRk3RBDVFsVPjSJcLdMMSUAQT42cgs10mn5P8RPIdCCdxRXose9VxhaH6ZKyi92ZDhSV3SEiYfmLyAeCw9v0HGnexzW8O0TNcicXgSKSR4Rv5ei6BuGsAHtuDwOmFiev2jSchBc5V817pgpthdsxlckmKiEvhNe3x3f8m4sh1Gqv9FtUcyRw6xAQQys61Ps=;4ENOnvPWgYXkGFFKXJOybQ=="
+secured: "P6q9KyKviS0D6VjFI//BMWSa+xzRvRjeZxg/sSYmzaQUb5iKSnulEMXSlJFX2xAgTe0sK9fOjfhnkh0wYwOBcpfmeZ/boSeGE810tKN32iUV5jH3TAhJBZ6MYP1oppgTYCHTAz1G/jXqNtSlo75sFS4N0y5pUH/w6unEFgofOB8E+z2f/Prc5Kr6gB6KzalCLyVfz1lqZmGMzmUJGGV7ieYnp4oxaHtvTa2K+4YqTcXvVhOYtu11OgmdLva4xF/rGVYciJKyT8dCWn+2QghgLttAe/tUlnE4qUZegCS2CfPaYuB04ZDbPJ3FmEpon3VQpKbJXJasR1bxkyUISyNK/qc1BakqsjeNUp2neiRdsyTEUVM3JAicPLdEM+2xSRDWT+gWBBzvsMMKwbiWQAUS3112zjGZSqbtB9We8s4vT8g=;SuT5TR2CTZ2z2ylUrf5fxA=="
 ---
 
