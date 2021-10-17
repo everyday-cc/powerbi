@@ -4,6 +4,66 @@
   "page": 51,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-search-for-a-worksapce-during-publish-new-feature-september-2020.md",
+      "title": "Search for a Worksapce during publish - New Feature September 2020",
+      "excerpt": "During this video we will demonstrate one feature which is - \"Search\" workspace name during publishing the report to Power BI Workspace. This cool feature has been launched during September 2020 update of Power BI Desktop.  Sometimes we have access on more than 100 Workspace and during the publish time",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-search-for-a-worksapce-during-publish-new-feature-september-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-search-for-a-worksapce-during-publish-new-feature-september-2020/",
+      "originalUrl": "https://youtube.com/watch?v=glc6rLfQ7JU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/glc6rLfQ7JU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M2S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-09-26T04:25:28-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/glc6rLfQ7JU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-select-multiple-visuals-easily-using-rectangular-lasso-in-power-bi.md",
+      "title": "Select Multiple Visuals Easily using Rectangular Lasso in Power BI",
+      "excerpt": "In this session, we will be going to talk about another new feature rolled out by Microsoft which is “Rectangular Lasso”.   Now, there is a question in your mind that is – What is Rectangular Lasso, and how it is useful? Sometimes there are situations where we need to select the multiple visuals across",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-select-multiple-visuals-easily-using-rectangular-lasso-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-select-multiple-visuals-easily-using-rectangular-lasso-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=6Smx38IFDP0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6Smx38IFDP0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M53S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-10T20:34:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6Smx38IFDP0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-series-labels-for-power-bi-line-charts.md",
       "title": "Series Labels for Power BI Line Charts",
       "excerpt": "POWER BI SEPTEMBER 2021 FEATURE SUMMARY - SERIES LABELS FOR LINE CHARTS   Welcome to Power BI Desktop September 2021 feature summary. During this video, we will learn how we can add Series labels for the Line chart in Power BI. The steps are very simple and easy.  First, turn on the label for the series.",
@@ -363,36 +423,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-top-8-best-practices-for-power-bi-qna-maker-visual-powerbi-shorts.md",
-      "title": "Top 8 Best Practices for Power BI QnA Maker Visual #PowerBI #Shorts",
-      "excerpt": "Welcome to Power BI One Minute Short. During this #Shorts we will talk about best practices we need to follow to get the perfect outcomes or result from Power BI QnA Maker Visual.   We all know that QnA Maker Visual in Power BI supports the natural language. However, to work with QnA Maker in a Proper",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-top-8-best-practices-for-power-bi-qna-maker-visual-powerbi-shorts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-top-8-best-practices-for-power-bi-qna-maker-visual-powerbi-shorts/",
-      "originalUrl": "https://youtube.com/watch?v=9L6Rxxd_5D0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9L6Rxxd_5D0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT59S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-07-30T05:16:23-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9L6Rxxd_5D0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     },
     {
@@ -874,37 +904,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XhUcOUvVPVI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-how-to-combine-patterns-of-dax-formulas-116-ultimate-beginners-guide-to-dax-2019.md",
-      "title": "How To Combine Patterns Of DAX Formulas - (1.16) Ultimate Beginners Guide to DAX 2019",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-how-to-combine-patterns-of-dax-formulas-116-ultimate-beginners-guide-to-dax-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-how-to-combine-patterns-of-dax-formulas-116-ultimate-beginners-guide-to-dax-2019/",
-      "originalUrl": "https://youtube.com/watch?v=kPFNKGuGejQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kPFNKGuGejQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M38S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2018-03-05T19:22:17-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kPFNKGuGejQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
