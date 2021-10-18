@@ -178,14 +178,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-when-is-a-date-not-a-date-in-power-bi.md",
-      "title": "When is a date not a date in Power BI?",
-      "excerpt": "When is a date not a date? We all use them in our data. Patrick looks at how data types can be a tricky thing in Power BI. Be aware of what you are working with in order to avoid this problem in your charts.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-when-is-a-date-not-a-date-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-when-is-a-date-not-a-date-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=SmczqYv_rfY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SmczqYv_rfY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M3S",
+      "path": "_learning/videos/guy-in-a-cube-smart-narratives-and-conditional-formatting-in-power-bi-yes-please.md",
+      "title": "Smart Narratives and Conditional Formatting in Power BI? Yes please!",
+      "excerpt": "Using Smart Narratives and you'd like to add some conditional formatting in Power BI? Patrick shows you some tricks to take Smart Narratives to the next level!  Download Sample: https://guyinacu.be/smartformattingsample  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-smart-narratives-and-conditional-formatting-in-power-bi-yes-please/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-smart-narratives-and-conditional-formatting-in-power-bi-yes-please/",
+      "originalUrl": "https://youtube.com/watch?v=ZaZyR3-1ru4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZaZyR3-1ru4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M20S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -198,49 +198,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-09-08T08:00:13-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SmczqYv_rfY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-3-signs-its-time-to-optimize-your-power-bi-report.md",
-      "title": "3 signs it's time to OPTIMIZE your Power BI report",
-      "excerpt": "There are 3 signs that we look for to help tell us it's time to optimize your Power BI report. Adam looks at all 3 to help get you started in making your reports faster.  Technique to improve Power BI report perf by reducing visuals https://www.youtube.com/watch?v=kkIXtvU1AiM  Debugging a slow Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-3-signs-its-time-to-optimize-your-power-bi-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-3-signs-its-time-to-optimize-your-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=uKSkMDEGM2I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uKSkMDEGM2I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M9S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-08-19T08:00:23-07:00",
+      "publishedDateTime": "2021-07-28T08:00:30-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/uKSkMDEGM2I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZaZyR3-1ru4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -254,25 +216,56 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-bookmark-with-or-without-data.md",
-      "title": "Power BI bookmark   with or without data",
-      "excerpt": "Bookmark is a helpful feature in Power BI. It enables you to have a good story to tell and also have a dynamic visualization. I have explained how bookmarks work in Power BI and how to use them with buttons to have a next-level visualization. An important attribute of the bookmark is the Data. You can",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-bookmark-with-or-without-data/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-bookmark-with-or-without-data/",
-      "originalUrl": "https://youtube.com/watch?v=UPyK3mfIwmU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UPyK3mfIwmU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M39S",
+      "path": "_learning/videos/radacad-explicit-vs-implicit-dax-measures-in-power-bi.md",
+      "title": "Explicit Vs Implicit DAX Measures in Power BI",
+      "excerpt": "Have you ever tried to connect to a Power BI dataset from Excel using Analyze in Excel? if yes, you might have had this experience that your values don’t show in Excel’s Pivot table as values. This is because those values are not explicit measures, they are implicit measures in Power BI. In this article",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-explicit-vs-implicit-dax-measures-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-explicit-vs-implicit-dax-measures-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=f7g6EvNGClQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f7g6EvNGClQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M57S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-08-08T17:52:28-07:00",
+      "publishedDateTime": "2021-08-10T15:30:44-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/UPyK3mfIwmU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/f7g6EvNGClQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-take-your-power-bi-visualization-to-the-next-level-using-small-multiples.md",
+      "title": "Take Your Power BI Visualization to the Next Level using Small Multiples",
+      "excerpt": "Small multiple is a relatively recent feature on some of the Power BI visuals. This feature enables you to have a much better visualization instead of trying to fit everything in one visual (over-complicate it) or create copies of the same visual (maintenance issue in the future). This is a simple feature",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-take-your-power-bi-visualization-to-the-next-level-using-small-multiples/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-take-your-power-bi-visualization-to-the-next-level-using-small-multiples/",
+      "originalUrl": "https://youtube.com/watch?v=HFjR--rPUSw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HFjR--rPUSw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M27S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-08-11T15:18:29-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HFjR--rPUSw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -813,8 +806,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 44806,
-            "average": 4.7714148
+            "count": 44807,
+            "average": 4.771397
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -873,8 +866,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 44806,
-        "average": 4.7714148
+        "count": 44807,
+        "average": 4.771397
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1177,8 +1170,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 44806,
-            "average": 4.7714148
+            "count": 44807,
+            "average": 4.771397
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1219,8 +1212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 21287,
-            "average": 4.7191715
+            "count": 21288,
+            "average": 4.7191844
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1262,8 +1255,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 9322,
-            "average": 4.7220554
+            "count": 9323,
+            "average": 4.722085
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1304,8 +1297,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7096,
-            "average": 4.7693067
+            "count": 7097,
+            "average": 4.769339
           },
           "provider": {
             "name": "Microsoft Learn",
