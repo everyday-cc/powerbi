@@ -4,15 +4,15 @@
   "page": 32,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-connect-power-platform-to-sap-azure.md",
-      "title": "Connect Power Platform to SAP on Azure",
-      "excerpt": "Connect Power Platform to SAP on Azure",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-connect-power-platform-to-sap-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-power-platform-to-sap-azure/",
-      "length": "PT33M",
+      "path": "_learning/courses/microsoft-learn-connect-power-apps-automate-virtual-agent-bi-with-common-data-service.md",
+      "title": "Connect to the Microsoft Dataverse through Microsoft Teams",
+      "excerpt": "Connect to the Microsoft Dataverse through Microsoft Teams",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-connect-power-apps-automate-virtual-agent-bi-with-common-data-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-power-apps-automate-virtual-agent-bi-with-common-data-service/",
+      "length": "PT15M",
       "ratings": {
-        "count": 14,
-        "average": 4.785714
+        "count": 4,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,14 +27,14 @@
         ]
       },
       "levels": [
-        "Advanced"
+        "Beginner"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sap-connect-power-platform-social.png",
-          "width": 1280,
-          "height": 641,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],

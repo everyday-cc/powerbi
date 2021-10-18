@@ -4,6 +4,36 @@
   "page": 79,
   "value": [
     {
+      "path": "_learning/videos/radacad-how-to-show-ranking-in-power-bi-using-ribbon-chart.md",
+      "title": "How to show ranking in Power BI using Ribbon Chart",
+      "excerpt": "Learn in this short video how you can use Ribbon chart simply to do ranking in Power BI with no coding.  The dataset can be downloaded from my blog article here:  https://radacad.com/ribbon-chart-is-the-next-generation-of-stacked-column-chart",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-show-ranking-in-power-bi-using-ribbon-chart/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-show-ranking-in-power-bi-using-ribbon-chart/",
+      "originalUrl": "https://youtube.com/watch?v=BsN-Cg9DNNA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BsN-Cg9DNNA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M6S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-07-18T15:28:59-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BsN-Cg9DNNA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-how-to-solve-inactive-relationship-problem-with-role-playing-dimensions-in-power-bi.md",
       "title": "How to solve Inactive Relationship Problem with Role Playing Dimensions in Power BI",
       "excerpt": "Role-Playing Dimension is one way of solving the inactive relationship problem in Power BI. Download the dataset for this example from my blog article here:  https://radacad.com/userelationship-or-role-playing-dimension-dealing-with-inactive-relationships-in-power-bi",
@@ -880,36 +910,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-design-tip-disable-the-auto-detect-relationship.md",
-      "title": "Power BI Design Tip   Disable the Auto Detect Relationship",
-      "excerpt": "Relationships are the heart of Power BI modeling, and Power BI Desktop has a way to help and identify the relationships based on the source, or the data. However, often, this ability to automatically detect a relationship is more troublesome than helping, especially when you deal with tables that are",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-design-tip-disable-the-auto-detect-relationship/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-design-tip-disable-the-auto-detect-relationship/",
-      "originalUrl": "https://youtube.com/watch?v=0d85cn_K-V0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0d85cn_K-V0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M15S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-03-01T19:42:54-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0d85cn_K-V0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],
