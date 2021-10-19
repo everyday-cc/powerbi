@@ -2,9 +2,9 @@
 category: news
 title: "Prep Data in No Time With This $10 Power BI Boot Camp"
 excerpt: "Their weapon of choice for years has been Excel, Power BI, and the other major database tools. If you want a job managing data, you've got to learn how to use these at a higher level, and that's ..."
-publishedDateTime: 2021-10-15T09:01:00Z
-originalUrl: "https://in.pcmag.com/news/145489/prep-data-in-no-time-with-this-10-power-bi-boot-camp"
-webUrl: "https://in.pcmag.com/news/145489/prep-data-in-no-time-with-this-10-power-bi-boot-camp"
+publishedDateTime: 2021-10-15T09:09:00Z
+originalUrl: "https://uk.pcmag.com/news/136286/prep-data-in-no-time-with-this-10-power-bi-boot-camp"
+webUrl: "https://uk.pcmag.com/news/136286/prep-data-in-no-time-with-this-10-power-bi-boot-camp"
 type: article
 quality: 77
 heat: 77
@@ -22,11 +22,11 @@ topics:
   - Power BI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_in/news/p/prep-data-/prep-data-in-no-time-with-this-10-power-bi-boot-camp_jmch.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/p/prep-data-/prep-data-in-no-time-with-this-10-power-bi-boot-camp_gssr.1200.jpg"
     width: 1200
     height: 675
     isCached: true
 
-secured: "1QWeS29MTki9+cRn6XAboxV6r7im8v2WIoAbHW48Ft+IH8FqAivEeSZowQLPp8QZRU/QqcYygC9FZ+0lxaNVNltgDCgun3dFTnP5+C6LtDF0hESmR3H/NfOuN3SY7vO4yDg/HvJv/zbtA9uxmYvcLRC5jefPY1XOyChi8C2Yra27WZh704LfFfEgVPIuEvWTWaiEvaJTNSGHPbzqqlLJx+6aPJZ2by1k/zu67ujTKaikQhxOZSQWvePzlWZ0rX1/XaqrjiFUSe/8KNYTXYz+2r37tugYwBVyhKgtdgP1dWJxn2H5iC6jFEjpXKHt0eaMUu6V52yypJadQCsuvU6dDWl6Hj1tf9B5+nwxFZ3slAQ=;ABd/OziS7YrZhrZLTRvEpA=="
+secured: "9Ol5Jc5Rw5UBUmZCoGstXav+rD/O/ERpTnyjM2WhT96+Cpm0sy3YXjCJruy27igNdiGpkEKhOym2bGYTIrcfLM9sF2uKEMUZw/3rC/nogPRvhtN0Wc8i1iuJbXMn8qLreb0eoFllnzPsmXcdLzPfza8vN5zHvHU7t1ptYsvmcstuKfC9helS0OHMUftdVLskjeGUoOGEYyy05j5J4j7p0JliANUpH2hKJN3TwuVZjihzdSAn7Ew3UGloSGssovvWICMS5Ihw6xON/B4vTxDbDv41WUn52ZaQk04v62Wd1+J91ZgWm4XcbPCjBNDLd7eCGLp0SYYGtkrZFh8x+UJmOcMLM8yqQYDqZHj6shAAWS0=;6ofnFyvxQ8nuhtOvOZhb1A=="
 ---
 
