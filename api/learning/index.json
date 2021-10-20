@@ -110,44 +110,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-crushing-requirements-with-small-multiples-in-power-bi.md",
-      "title": "CRUSHING requirements with Small Multiples in Power BI",
-      "excerpt": "Check out how using Small Multiples in Power BI can help you CRUSH requirements and satisfy business requests to make amazing reports! Patrick also has a neat trick for you.  Documentation: https://docs.microsoft.com/power-bi/visuals/power-bi-visualization-small-multiples  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-crushing-requirements-with-small-multiples-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-crushing-requirements-with-small-multiples-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=phlaZn54Mio",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/phlaZn54Mio\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M27S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-09-01T08:00:26-07:00",
-      "heat": 137,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/phlaZn54Mio/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-create-stunning-reports-with-less-effort-with-this-setting.md",
       "title": "Create stunning reports with less effort with this setting!",
       "excerpt": "How can you with no effort besides the original set up, create stunning reports every single time? In this tutorial, i will show you how to set up a custom background for every new page automatically, so you reports wont look dull and white and will stand out among the crowds.  Link to convert image",
@@ -186,6 +148,44 @@
       ]
     },
     {
+      "path": "_learning/videos/sqlbi-controlling-drillthrough-in-excel-pivottables-connected-to-power-bi-or-analysis-services.md",
+      "title": "Controlling drillthrough in Excel PivotTables connected to Power BI or Analysis Services",
+      "excerpt": "Learn how to customize the drillthrough experience in Excel PivotTables connected to Power BI datasets or Analysis Services databases.\r Article and download: https://sql.bi/726459?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-controlling-drillthrough-in-excel-pivottables-connected-to-power-bi-or-analysis-services/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-controlling-drillthrough-in-excel-pivottables-connected-to-power-bi-or-analysis-services/",
+      "originalUrl": "https://youtube.com/watch?v=h4woNGohUBo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h4woNGohUBo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M1S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-10-20T03:00:29-07:00",
+      "heat": 136,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/h4woNGohUBo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/articles/excelerator-bi-5-new-features-i-love-coming-soon-to-power-bi.md",
       "title": "5 New Features I Love – Coming Soon to Power BI",
       "excerpt": "You may already be aware (but then again, maybe not) that Microsoft shares its plans for upcoming new features for the Power Platform every 6 months, and Power BI forms a subset of that plan. The next plan is called Power Platform Release Plan 2021 Wave 2. It takes a [...]Read More »",
@@ -207,6 +207,44 @@
       ],
       "content": "\r\n",
       "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-exploring-the-visio-visual-in-power-bi.md",
+      "title": "Exploring the Visio visual in Power BI",
+      "excerpt": "Want to explore locations with data? The Visio visual in Power BI helps you do just that! Patrick looks at how to set it up and help use your data to highlight areas within a Visio diagram.  Download Sample: https://guyinacu.be/visiosample  Documentation: https://support.microsoft.com/office/add-visio-visuals-to-power-bi-reports-4f09be62-f436-45c2-93b0-4a0f66b1f5a7",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-exploring-the-visio-visual-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-exploring-the-visio-visual-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=ZkL2jo3b_5M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZkL2jo3b_5M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M24S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-08-11T08:00:30-07:00",
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZkL2jo3b_5M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "Power BI"
       ]
@@ -401,15 +439,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-prepare-to-teach-module-work-with-parameters.md",
-      "title": "Prepare to teach the module: Work with parameters",
-      "excerpt": "Prepare to teach the module: Work with parameters",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-prepare-to-teach-module-work-with-parameters/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-work-with-parameters/",
-      "length": "PT1H33M",
+      "path": "_learning/courses/microsoft-learn-power-bi-admin-automate.md",
+      "title": "Automate Power BI administration",
+      "excerpt": "Common manual tasks can be automated with Microsoft Power BI Cmdlets for Windows PowerShell and PowerShell core.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-automate/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-automate/",
+      "length": "PT12M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 31,
+        "average": 4.645161
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -429,7 +467,7 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-automate-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -663,8 +701,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 26488,
-            "average": 4.797569
+            "count": 26490,
+            "average": 4.7975464
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -705,8 +743,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 44969,
-            "average": 4.771509
+            "count": 44976,
+            "average": 4.771545
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -765,8 +803,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 26488,
-        "average": 4.797569
+        "count": 26490,
+        "average": 4.7975464
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -807,8 +845,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 44969,
-        "average": 4.771509
+        "count": 44976,
+        "average": 4.771545
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1149,8 +1187,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 14469,
-        "average": 4.758311
+        "count": 14474,
+        "average": 4.758325
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1291,8 +1329,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 24506,
-        "average": 4.7314534
+        "count": 24513,
+        "average": 4.731489
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1320,44 +1358,6 @@
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-create-your-first-power-bi-report-2021.md",
-      "title": "Create your first Power BI report (2021)",
-      "excerpt": "New to Power BI? Adam helps you get started with creating your first Power BI report in Power BI Desktop! Start your journey the right way!  Guy in a Cube Blueprint Course: https://guyinacu.be/pbiblueprint  Star Schema: https://docs.microsoft.com/power-bi/guidance/star-schema  Star Schema Book: https://amzn.to/38JQJqq",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-create-your-first-power-bi-report-2021/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-create-your-first-power-bi-report-2021/",
-      "originalUrl": "https://youtube.com/watch?v=B_bAKrXAUh0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B_bAKrXAUh0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M25S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-21T08:00:02-08:00",
-      "heat": 82,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B_bAKrXAUh0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
