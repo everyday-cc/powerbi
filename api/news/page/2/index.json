@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-08-30-announcing-default-sensitivity-label-preview-and-other-top-asked-mip-features-in-power-bi.md",
+      "title": "Announcing Default sensitivity label preview and other top asked MIP features in Power BI",
+      "excerpt": "Today we are happy to announce public preview of default label policies in Power BI Desktop and call out significant features that address top asks for Power BI information protection released in the last few weeks.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-08-30-announcing-default-sensitivity-label-preview-and-other-top-asked-mip-features-in-power-bi/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-default-sensitivity-label-preview-and-other-top-asked-mip-features-in-power-bi/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-default-sensitivity-label-preview-and-other-top-asked-mip-features-in-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-30T00:52:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-08-27-on-premises-data-gateway-august-2021-update-is-now-available.md",
       "title": "On-premises data gateway August 2021 update is now available",
       "excerpt": "On-premises data gateway (standard and personal mode) release for August 2021 ",
@@ -1228,57 +1279,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-power-bi-july-2021-feature-summary.md",
-      "title": "Power BI July 2021 Feature Summary",
-      "excerpt": "Welcome to the July update! This month we are making small multiples generally available, as well as the new model view and sensitivity labels in Desktop. Also, we have a new preview for streaming dataflows. There is much more, so read on!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-21-power-bi-july-2021-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-july-2021-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-july-2021-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T02:09:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],

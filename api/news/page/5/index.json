@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-04-driving-a-data-culture-with-power-bi-empowering-individuals-every-team-and-every-organization.md",
+      "title": "Driving a data culture with Power BI– Empowering individuals, every team, and every organization",
+      "excerpt": "Microsoft Business Applications Summit is one of my favorite events of the year. While we connect with our customers, our community, and our partners every day, at the Microsoft Business Applications Summit, we share some of our most important announcements on our strategy and roadmap. We prepare and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-04-driving-a-data-culture-with-power-bi-empowering-individuals-every-team-and-every-organization/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/driving-a-data-culture-with-power-bi-empowering-individuals-every-team-and-every-organization/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/driving-a-data-culture-with-power-bi-empowering-individuals-every-team-and-every-organization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T00:57:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-04-30-community-and-third-party-tools-for-developing-enterprise-level-power-bi-and-analysis-services-models.md",
       "title": "Community and third-party tools for developing enterprise-level Power BI and Analysis Services models",
       "excerpt": "Over the past few years, along with the high adoption rate of Power BI, also came the development of new tools by the Power BI community. Customers, partners, and individual users are contributing tools that improve the productivity of users creating models and reports in Power BI. It’s an evolution",
@@ -1202,57 +1253,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know.md",
-      "title": "Microsoft Power BI Premium: New platform and pricing, what you need to know",
-      "excerpt": "The new version of Power BI Premium, Power BI Premium Generation 2 (Premium Gen2), is currently in preview, with general availability scheduled for April 2. Business intelligence (BI) tools have ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-05-microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/index.json",
-      "webUrl": "https://www.techrepublic.com/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
-      "originalUrl": "https://www.techrepublic.com/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/03/03/617468b2-bd5d-4d32-a5a1-6664df125a57/resize/1200x/58501250979405fa8006522308f7d8fd/power-bi-premium-dashboard-tr.jpg",
-          "width": 1200,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-bi-premium-new-platform-and-pricing-what-you-need-to-know/",
-      "publishedDateTime": "2021-03-04T10:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
