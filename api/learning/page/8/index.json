@@ -710,8 +710,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 74,
-            "average": 4.5945945
+            "count": 75,
+            "average": 4.6
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -752,8 +752,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 86,
-            "average": 4.6976743
+            "count": 87,
+            "average": 4.7011495
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2360,8 +2360,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 6572,
-        "average": 4.7410226
+        "count": 6573,
+        "average": 4.7410617
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -768,8 +768,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-publish-share/",
       "length": "PT49M",
       "ratings": {
-        "count": 1,
-        "average": 3.0
+        "count": 2,
+        "average": 3.5
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -978,8 +978,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/",
       "length": "PT18M",
       "ratings": {
-        "count": 86,
-        "average": 4.6976743
+        "count": 87,
+        "average": 4.7011495
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1104,8 +1104,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
       "length": "PT16M",
       "ratings": {
-        "count": 74,
-        "average": 4.5945945
+        "count": 75,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",
