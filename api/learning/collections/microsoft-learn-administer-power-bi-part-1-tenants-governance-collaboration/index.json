@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-intro-social.png",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-environment-social.png",
@@ -179,8 +179,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-monitor/",
       "length": "PT11M",
       "ratings": {
-        "count": 44,
-        "average": 4.7727275
+        "count": 45,
+        "average": 4.7777777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -197,7 +197,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-monitor-social.png",
