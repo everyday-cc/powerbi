@@ -4,6 +4,122 @@
   "page": 51,
   "value": [
     {
+      "path": "_learning/videos/curbal-deep-dive-on-m-intellisense-unedited-version.md",
+      "title": "Deep dive on M intellisense - *unedited version*",
+      "excerpt": "Feeling confused on how M intellisense work and how it can help you write M code faster? In this tutorial, I go through how M intellisense works, the good, the great and the \"needs improvement\". I have not edited out my mistakes so you get a true sense on how it can be to work with M intellisense. I",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-deep-dive-on-m-intellisense-unedited-version/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-deep-dive-on-m-intellisense-unedited-version/",
+      "originalUrl": "https://youtube.com/watch?v=wU3vafg0kPU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wU3vafg0kPU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M6S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-05T05:17:40-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wU3vafg0kPU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-delete-custom-visuals-in-power-bi-update.md",
+      "title": "Delete custom visuals in Power BI (update)",
+      "excerpt": "Remove a custom visual downloaded from Microsoft custom visual gallery from your Power BI desktop file.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-delete-custom-visuals-in-power-bi-update/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-delete-custom-visuals-in-power-bi-update/",
+      "originalUrl": "https://youtube.com/watch?v=-Oj1Qh0rgzI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Oj1Qh0rgzI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M9S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-06T02:28:36-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-Oj1Qh0rgzI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-document-all-power-query-m-code-without-copy-pasting-it.md",
+      "title": "Document all Power Query M code without copy pasting it",
+      "excerpt": "In todays video I am going to show you a trick that Chris Webb shared on his blog recently: how to document all M code using Excel. #powerbi #curbal #powerquery  To be able to properly follow along, make sure you check out Monday's video: https://www.youtube.com/watch?v=3edQe2tSq7g  Chris Webb blog post:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-document-all-power-query-m-code-without-copy-pasting-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-document-all-power-query-m-code-without-copy-pasting-it/",
+      "originalUrl": "https://youtube.com/watch?v=fseh56DYeLc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fseh56DYeLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M52S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-05-15T09:20:19-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fseh56DYeLc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-document-your-powerpivot-model-with-dax-studio-power-bi-tips-tricks-15.md",
       "title": "Document your PowerPivot model with DAX Studio - Power BI Tips & Tricks #15",
       "excerpt": "Generate a list of measures, calculated columns, related tables and much more with this Excel Add-in.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
@@ -1044,121 +1160,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-how-i-killed-the-refresh-functionality-for-power-bi-dataflowsso-you-dont-have-to.md",
-      "title": "How I killed the refresh functionality for Power Bi dataflows...so you dont have to...",
-      "excerpt": "I completely destroyed the dataflows refresh capabilities on my power bi tenant and my only  consolation is that you will learn from my mistake and avoid this alltogether.  If you are getting this dataflow error, then you probably have the same issue: Error: Data source credentials are missing or invalid.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-i-killed-the-refresh-functionality-for-power-bi-dataflowsso-you-dont-have-to/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-i-killed-the-refresh-functionality-for-power-bi-dataflowsso-you-dont-have-to/",
-      "originalUrl": "https://youtube.com/watch?v=5mhUm8jzHHo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5mhUm8jzHHo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M56S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-09T09:21:20-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5mhUm8jzHHo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Dataflows"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-how-to-create-a-realtime-dashboard-with-flow-power-automate-and-power-bi.md",
-      "title": "How to create a realtime dashboard with Flow (Power Automate) and Power BI",
-      "excerpt": "Let's find out where the international space station is in real time using Power BI and Flow (or power automate).  Give it a go here: http://open-notify.org/Open-Notify-API/ISS-Location-Now  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-create-a-realtime-dashboard-with-flow-power-automate-and-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-create-a-realtime-dashboard-with-flow-power-automate-and-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=O6aEzXAFEqw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O6aEzXAFEqw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M26S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-01-17T06:40:01-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/O6aEzXAFEqw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-how-to-create-a-seamless-report-navigation-in-power-bi.md",
-      "title": "How to create a seamless report navigation in Power BI",
-      "excerpt": "After using my Power BI report on the fifa world cup, you have asked me how I did the navigation.   For those of you new to the report, here is a summary that includes the download file: https://curbal.com/blog/follow-the-fifa-world-cup-2018-in-power-bi  In this video I will show you the steps as well",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-create-a-seamless-report-navigation-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-create-a-seamless-report-navigation-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=VHvsIkbUPLc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VHvsIkbUPLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M45S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-06-20T04:43:47-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VHvsIkbUPLc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

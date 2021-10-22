@@ -488,37 +488,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-query-function-column-value-distribution-in-power-bi.md",
-      "title": "Power Query Function   Column Value Distribution in Power BI",
-      "excerpt": "If you have a table and want to create a report of column value distribution of it in Power BI, This function helps you achieve it. I have explained previously in another blog and video, how to do this process step by step. In this article, I’ll share the code for a custom function that you can copy",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-query-function-column-value-distribution-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-query-function-column-value-distribution-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=Y3A0LhDJY1k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y3A0LhDJY1k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M19S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-09-13T15:57:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Y3A0LhDJY1k/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-r-and-power-bi.md",
       "title": "R and Power BI",
       "excerpt": "Using R script in Power BI",
@@ -900,6 +869,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/24BuWbUJPSk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-showing-current-time-and-latest-refresh-time-at-local-timezones-in-the-power-bi-report.md",
+      "title": "Showing Current Time and Latest Refresh Time at Local Timezones in the Power BI Report",
+      "excerpt": "I have previously explained a method explaining different ways of getting the local timezone. However, that method was only for a scenario with users all in one timezone. What if your users are in different time zones? what if you want to show them information in the local timezone for each user? In",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-showing-current-time-and-latest-refresh-time-at-local-timezones-in-the-power-bi-report/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-showing-current-time-and-latest-refresh-time-at-local-timezones-in-the-power-bi-report/",
+      "originalUrl": "https://youtube.com/watch?v=oY2ZiZuBGAs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oY2ZiZuBGAs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M19S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-07-13T02:20:08-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oY2ZiZuBGAs/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true

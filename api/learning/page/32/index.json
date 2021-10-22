@@ -87,8 +87,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
       "length": "PT37M",
       "ratings": {
-        "count": 17,
-        "average": 4.7647057
+        "count": 18,
+        "average": 4.7777777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -129,8 +129,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-teams/",
       "length": "PT27M",
       "ratings": {
-        "count": 3,
-        "average": 4.3333335
+        "count": 4,
+        "average": 4.5
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -171,7 +171,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
       "length": "PT48M",
       "ratings": {
-        "count": 4,
+        "count": 5,
         "average": 5.0
       },
       "provider": {

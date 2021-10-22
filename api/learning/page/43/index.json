@@ -4,6 +4,134 @@
   "page": 43,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-modify-filter.md",
+      "title": "Modify DAX filter context in Power BI Desktop models",
+      "excerpt": "By the end of this module, you’ll be able to describe filter context, which is used to evaluate measure formulas. You’ll then learn why some calculations need to modify filter context and that it can be achieved by using the CALCULATE function. Additionally, you’ll learn how to configure the CALCULATE function with filters and filter modifiers.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-modify-filter/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-modify-filter/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 555,
+        "average": 4.6342344
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/modify-dax-filter-context-power-bi-desktop-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deliver-decision-making-insights-with-power-bi.md",
+      "title": "Deliver decision-making insights with Power BI",
+      "excerpt": "Deliver decision-making insights with Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-deliver-decision-making-insights-with-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deliver-decision-making-insights-with-power-bi/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 4,
+        "average": 4.25
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-enhance-your-business-intelligence-solutions-with-artificial-intelligence.md",
+      "title": "Enhance your business intelligence solutions with artificial intelligence",
+      "excerpt": "Enhance your business intelligence solutions with artificial intelligence",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-enhance-your-business-intelligence-solutions-with-artificial-intelligence/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enhance-business-intelligence-solutions-with-artificial-intelligence/",
+      "length": "PT21M",
+      "ratings": {
+        "count": 3,
+        "average": 4.6666665
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-enterprise-grade-etl-data-preparation-using-dataflows.md",
       "title": "Explore enterprise-grade ETL and data preparation using dataflows",
       "excerpt": "Explore enterprise-grade ETL and data preparation using dataflows",
@@ -214,7 +342,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
       "length": "PT34M",
       "ratings": {
-        "count": 6,
+        "count": 7,
         "average": 5.0
       },
       "provider": {
@@ -256,7 +384,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-excel/",
       "length": "PT2H7M",
       "ratings": {
-        "count": 1,
+        "count": 2,
         "average": 5.0
       },
       "provider": {
@@ -298,7 +426,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 2,
+        "count": 3,
         "average": 5.0
       },
       "provider": {
@@ -341,8 +469,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-publish-share/",
       "length": "PT49M",
       "ratings": {
-        "count": 2,
-        "average": 3.5
+        "count": 3,
+        "average": 4.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -929,8 +1057,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-analytics/",
       "length": "PT36M",
       "ratings": {
-        "count": 23,
-        "average": 4.6086955
+        "count": 24,
+        "average": 4.625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1013,8 +1141,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-data-connectivity/",
       "length": "PT50M",
       "ratings": {
-        "count": 35,
-        "average": 4.5142856
+        "count": 36,
+        "average": 4.5277777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1055,8 +1183,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-intro/",
       "length": "PT19M",
       "ratings": {
-        "count": 91,
-        "average": 4.6703296
+        "count": 92,
+        "average": 4.673913
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1097,8 +1225,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-optimize-performance/",
       "length": "PT21M",
       "ratings": {
-        "count": 28,
-        "average": 4.857143
+        "count": 29,
+        "average": 4.862069
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1121,132 +1249,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-optimize-performance-social.png",
           "width": 1280,
           "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-tableau-organize-fields.md",
-      "title": "Organize and simplify Power BI fields for Tableau users",
-      "excerpt": "This module provides guidance on how to organize and simplify your calculations.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-organize-fields/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-organize-fields/",
-      "length": "PT52M",
-      "ratings": {
-        "count": 25,
-        "average": 4.48
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-organize-fields-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-tableau-visuals.md",
-      "title": "Create Power BI visuals for Tableau users",
-      "excerpt": "This module goes through the basics of creating visuals in Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-visuals/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-visuals/",
-      "length": "PT1H9M",
-      "ratings": {
-        "count": 29,
-        "average": 4.7586207
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-visuals-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-prepare-to-teach-module-add-interactivity-features.md",
-      "title": "Prepare to teach the module: Add interactivity features",
-      "excerpt": "Prepare to teach the module: Add interactivity features",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-prepare-to-teach-module-add-interactivity-features/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-add-interactivity-features/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],
