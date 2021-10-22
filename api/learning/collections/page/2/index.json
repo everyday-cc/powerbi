@@ -2381,7 +2381,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-intro-social.png",
@@ -2990,8 +2990,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 4933,
-            "average": 4.760592
+            "count": 4934,
+            "average": 4.7606406
           },
           "provider": {
             "name": "Microsoft Learn",
