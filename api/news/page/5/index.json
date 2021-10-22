@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-05-04-introducing-goals-in-power-bi.md",
+      "title": "Introducing Goals in Power BI",
+      "excerpt": "Organizations exist to achieve business objectives and in today’s data driven world, we know that progress is measured through data. However, this is often challenging as goal tracking systems are disconnected from your business data and often require manual updates. Not only that, but goals need to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-05-04-introducing-goals-in-power-bi/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/introducing-goals-in-power-bi/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/introducing-goals-in-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-05-04T02:02:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-05-04-driving-a-data-culture-with-power-bi-empowering-individuals-every-team-and-every-organization.md",
       "title": "Driving a data culture with Power BI– Empowering individuals, every team, and every organization",
       "excerpt": "Microsoft Business Applications Summit is one of my favorite events of the year. While we connect with our customers, our community, and our partners every day, at the Microsoft Business Applications Summit, we share some of our most important announcements on our strategy and roadmap. We prepare and",
@@ -1195,57 +1246,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-16T01:42:43-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-power-bi-as-a-superset-of-azure-analysis-services.md",
-      "title": "Power BI as a superset of Azure Analysis Services",
-      "excerpt": "Power BI evolved into the leading platform for both self-service and IT-managed enterprise BI. We have taken great strides to bring AAS capabilities to Power BI. Power BI has inherited a large ecosystem of developers, partners, BI tools, and solutions built up over decades.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-03-15-power-bi-as-a-superset-of-azure-analysis-services/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-as-a-superset-of-azure-analysis-services/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-as-a-superset-of-azure-analysis-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T02:20:29-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
