@@ -4,14 +4,14 @@
   "page": 70,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-troubleshooting-memory-issues-with-reporting-services.md",
-      "title": "Troubleshooting Memory Issues with Reporting Services",
-      "excerpt": "Configure Available Memory for Report Server Applications - https://msdn.microsoft.com/en-us/library/ms159206.aspx",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-troubleshooting-memory-issues-with-reporting-services/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-troubleshooting-memory-issues-with-reporting-services/",
-      "originalUrl": "https://youtube.com/watch?v=_hrmXQ0FJoo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_hrmXQ0FJoo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M",
+      "path": "_learning/videos/guy-in-a-cube-unboxing-tabular-editor-3-reaction-video.md",
+      "title": "Unboxing Tabular Editor 3 | Reaction Video",
+      "excerpt": "It's here! Patrick does a reaction video when using Tabular Editor 3 for the first time with Power BI. To say he's excited is an understatement. Watch him take the wrapping off of Tabular Editor.  Tabular Editor: https://tabulareditor.com/  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-unboxing-tabular-editor-3-reaction-video/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-unboxing-tabular-editor-3-reaction-video/",
+      "originalUrl": "https://youtube.com/watch?v=Ijs61r_cUYU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ijs61r_cUYU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M7S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -24,11 +24,11 @@
           }
         ]
       },
-      "publishedDateTime": "2015-01-29T06:19:35-08:00",
+      "publishedDateTime": "2021-06-16T08:00:08-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/_hrmXQ0FJoo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Ijs61r_cUYU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -501,6 +501,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-want-to-know-when-teams-will-stop-creating-workspaces-in-power-bi.md",
+      "title": "Want to know when Teams will STOP creating Workspaces in Power BI???",
+      "excerpt": "The Workspace roadmap blog was released and we now know when Teams will stop creating workspaces in Power BI! Adam breaks down all the info.  Blog: https://powerbi.microsoft.com/en-us/blog/roadmap-update-whats-next-for-the-new-workspace-experience-upgrade-in-the-coming-months/  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-want-to-know-when-teams-will-stop-creating-workspaces-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-want-to-know-when-teams-will-stop-creating-workspaces-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=ZDT9zQOewXY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZDT9zQOewXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M55S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-11T08:00:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZDT9zQOewXY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-week-long-training.md",
       "title": "Week long training...",
       "excerpt": "Last week I was up in the Seattle area for training with my team. It is called the boot camp event. This was the 2nd year we have done it.   This was a week long training encompassing things from SEO to development to Power BI. I focused mostly on Git and GitHub during this time.  The event ended with",
@@ -678,6 +716,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/LzCF_JZSQz0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-wheres-my-measure-power-bi-paginated.md",
+      "title": "Where's my measure??? (Power BI Paginated)",
+      "excerpt": "Looking for your measures in a Power BI Paginated report and can't find them? Patrick shows you what is going on.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba --",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-wheres-my-measure-power-bi-paginated/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-wheres-my-measure-power-bi-paginated/",
+      "originalUrl": "https://youtube.com/watch?v=enfY74xSN58",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/enfY74xSN58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M16S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-11-12T05:49:08-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/enfY74xSN58/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -995,66 +1071,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wIfiUM3ggaM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-are-you-good-enough-to-become-a-power-bi-consultant-talk-power-bi-live-nov-20-2020.md",
-      "title": "Are You Good Enough to Become a Power BI Consultant? 🔴Talk Power BI LIVE Nov 20, 2020",
-      "excerpt": "➔Are you good enough to become a Power BI Consultant? ➔Do you have what it takes? ➔Would you sink or swim? ➔Would your clients be happy or you would disappoint them? Join the Discussion on the Power On Show with Charles and Avi. ================ ✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-are-you-good-enough-to-become-a-power-bi-consultant-talk-power-bi-live-nov-20-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-are-you-good-enough-to-become-a-power-bi-consultant-talk-power-bi-live-nov-20-2020/",
-      "originalUrl": "https://youtube.com/watch?v=bfzOE9pRUE0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bfzOE9pRUE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H11M51S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-11-20T10:07:25-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bfzOE9pRUE0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-automatically-create-data-dictionary-for-your-power-pivot-model.md",
-      "title": "Automatically create data dictionary for your Power Pivot model",
-      "excerpt": "========================================= FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download ✅ Subscribe to always get my latest videos: https://goo.gl/P79Hcr 👪 Join our Facebook Group https://www.facebook.com/groups/talkpowerbi",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-automatically-create-data-dictionary-for-your-power-pivot-model/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-automatically-create-data-dictionary-for-your-power-pivot-model/",
-      "originalUrl": "https://youtube.com/watch?v=HHAEFTtZC3Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HHAEFTtZC3Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M59S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2014-01-24T17:08:56-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HHAEFTtZC3Y/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

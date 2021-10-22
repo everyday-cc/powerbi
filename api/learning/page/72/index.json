@@ -4,6 +4,66 @@
   "page": 72,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-finance-month-at-powerbipro-send-me-all-your-questions.md",
+      "title": "Finance Month at PowerBIPro!! (send me all your questions)",
+      "excerpt": "FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download ✅ Subscribe to always get my latest videos: https://goo.gl/P79Hcr 👪 Join our Facebook Group https://www.facebook.com/groups/talkpowerbi ===Most Popular Playlists===",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-finance-month-at-powerbipro-send-me-all-your-questions/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-finance-month-at-powerbipro-send-me-all-your-questions/",
+      "originalUrl": "https://youtube.com/watch?v=PXmW_SiN4ks",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PXmW_SiN4ks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M31S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-10-26T23:23:33-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PXmW_SiN4ks/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-financial-analyst-to-reaching-40000-people-a-day-story-of-jon-acampora-excelcampuscom.md",
+      "title": "Financial Analyst to Reaching 40,000 People a Day! Story of Jon Acampora ExcelCampus.com",
+      "excerpt": "Slowly but surely. It all started with Jon's desire of giving back to the community.  👉 Connect with Jon: https://www.ExcelCampus.com | https://www.youtube.com/user/ExcelCampus 👉 Join the LearnPowerBI Family: https://web.learnpowerbi.com/waitlist-invite/ ===================================== 👉 FREE",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-financial-analyst-to-reaching-40000-people-a-day-story-of-jon-acampora-excelcampuscom/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-financial-analyst-to-reaching-40000-people-a-day-story-of-jon-acampora-excelcampuscom/",
+      "originalUrl": "https://youtube.com/watch?v=OMAf3Cti5iY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OMAf3Cti5iY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M55S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-09-29T03:42:02-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OMAf3Cti5iY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-financial-reporting-in-power-bi-talk-power-bi-live-subscribe-join.md",
       "title": "Financial Reporting in Power BI 🔴Talk Power BI LIVE (Subscribe & Join)",
       "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join https://www.facebook.com/groups/TalkPowerBI to continue the conversation  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power BI. So much so that I",
@@ -831,66 +891,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/HWYaflomG0I/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-how-we-built-realpowerbi-program-to-get-free-power-bi-help-for-your-business-talkpowerbi-live.md",
-      "title": "How We Built #RealPowerBI? (Program to Get Free Power BI Help for Your Business) 🔴TalkPowerBI LIVE",
-      "excerpt": "In this episode I want to take you BEHIND-THE-SCENES in our business. And show you exactly how we built one of our unique programs:  ★#RealPowerBI: A Program to Get Free Power BI Help for Your Business★ 👉 Visit https://www.RealPowerBI.com  I will share everything, the highs-and-lows, the good-and-bad",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-how-we-built-realpowerbi-program-to-get-free-power-bi-help-for-your-business-talkpowerbi-live/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-how-we-built-realpowerbi-program-to-get-free-power-bi-help-for-your-business-talkpowerbi-live/",
-      "originalUrl": "https://youtube.com/watch?v=oOpt1uLu1mA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oOpt1uLu1mA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H2M11S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2021-03-26T10:15:39-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oOpt1uLu1mA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-if-you-keep-an-open-mindepic-sht-happens-microsoft-mvp-summit-day-4.md",
-      "title": "If you keep an open mind...epic sh*t happens! Microsoft MVP Summit Day 4",
-      "excerpt": "I try to start my day with an open mind and am helped my a fellow MVP to achieve a breakthrough in my thinking. The power to change someone's thoughts is the most powerful force of all! -------------------------------------------------------------------------------------------- FREE Power BI Step-by-Step",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-if-you-keep-an-open-mindepic-sht-happens-microsoft-mvp-summit-day-4/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-if-you-keep-an-open-mindepic-sht-happens-microsoft-mvp-summit-day-4/",
-      "originalUrl": "https://youtube.com/watch?v=9wmg3z-Ajv8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wmg3z-Ajv8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M18S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-03-08T14:35:47-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9wmg3z-Ajv8/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
