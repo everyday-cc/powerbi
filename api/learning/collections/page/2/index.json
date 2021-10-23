@@ -2013,8 +2013,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 4,
-            "average": 5.0
+            "count": 6,
+            "average": 4.8333335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3218,8 +3218,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 4943,
-            "average": 4.7606716
+            "count": 4945,
+            "average": 4.7607684
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3706,8 +3706,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2074,
-            "average": 4.7155256
+            "count": 2075,
+            "average": 4.7156625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3748,8 +3748,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2988,
-            "average": 4.799866
+            "count": 2989,
+            "average": 4.799933
           },
           "provider": {
             "name": "Microsoft Learn",
