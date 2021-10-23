@@ -4,7 +4,7 @@ excerpt: "You may already be aware (but then again, maybe not) that Microsoft sh
 webUrl: https://exceleratorbi.com.au/5-new-features-i-love-coming-soon-to-power-bi/
 type: article
 publishedDateTime: 2021-10-19T05:42:42Z
-heat: 131
+heat: 130
 
 provider:
   name: Excelerator BI
