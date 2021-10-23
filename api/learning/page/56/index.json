@@ -4,66 +4,6 @@
   "page": 56,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-common-steps-to-embed-power-bi-report-using-aspnet-library-part-6.md",
-      "title": "Common Steps to Embed Power BI Report using ASP.NET Library | Part 6",
-      "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application. This video is dedicated to ASP.Net",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-common-steps-to-embed-power-bi-report-using-aspnet-library-part-6/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-common-steps-to-embed-power-bi-report-using-aspnet-library-part-6/",
-      "originalUrl": "https://youtube.com/watch?v=ZpDFeTJKKLU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZpDFeTJKKLU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M54S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-03-19T10:12:07-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZpDFeTJKKLU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-conditional-formatting-on-total-and-sub-totals-column-for-table-and-matrix-visualization-in-power-bi.md",
-      "title": "Conditional Formatting on Total and Sub Totals Column for Table And Matrix Visualization in Power BI",
-      "excerpt": "In this session, we will discuss – How to Apply Conditional Formatting for Totals and Sub Totals columns of Table and Matrix Visualization in Power BI.  This new feature has been rolled out by Microsoft during April 2020 update. Now, we can apply conditional formatting only on Total and Subtotal in Table",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-conditional-formatting-on-total-and-sub-totals-column-for-table-and-matrix-visualization-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-conditional-formatting-on-total-and-sub-totals-column-for-table-and-matrix-visualization-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=2alAHvYNx5M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2alAHvYNx5M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M9S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-05-11T05:32:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2alAHvYNx5M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-conditional-formatting-with-web-url-in-table-or-matrix-visual.md",
       "title": "Conditional Formatting with Web URL in Table or Matrix Visual",
       "excerpt": "In this video, we will talk about setting the web URL or a hyperlink on a table or Matrix value in Power BI Desktop.  During December 2019, Microsoft rolled out a feature to add the conditional formatting on a table or Matrix’s column.  If you really like this video don’t forget to subscribe to my channel.",
@@ -909,6 +849,68 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-find-and-remove-last-occurrence-from-a-string-using-power-bi-dax.md",
+      "title": "Find and Remove Last Occurrence from a String using Power BI DAX",
+      "excerpt": "During this session, we will learn how we can find and remove last occurrence from a string using Power BI DAX. This is equivalent to Text Before Delimitator property in Power Query. In Power Query we can get before specific occurrence from string very easily. But how we can achieve the same using Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-find-and-remove-last-occurrence-from-a-string-using-power-bi-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-find-and-remove-last-occurrence-from-a-string-using-power-bi-dax/",
+      "originalUrl": "https://youtube.com/watch?v=1FGlaWomft0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1FGlaWomft0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M15S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-11-03T04:15:58-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1FGlaWomft0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-format-your-power-query-code-with-4-different-display-option.md",
+      "title": "Format your Power Query Code with 4 Different Display Option",
+      "excerpt": "In this video, we will talk about different options to display or format your Power Query Code. When you open the Advanced Editor of the PowerQuery window, you will find the following different options to format your PowerQuery Window code. - Display Line Number - Render whitespace - Display mini map",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-format-your-power-query-code-with-4-different-display-option/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-format-your-power-query-code-with-4-different-display-option/",
+      "originalUrl": "https://youtube.com/watch?v=zJ0I4k2ftSo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zJ0I4k2ftSo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M27S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:51:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zJ0I4k2ftSo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     }
   ],

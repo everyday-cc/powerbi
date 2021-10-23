@@ -4,44 +4,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-tools-to-take-power-bi-to-the-next-level.md",
-      "title": "Tools to take Power BI to the NEXT LEVEL",
-      "excerpt": "We've mentioned them multiple times but now to bring them all together. These are the TOOLS you need to take Power BI to the NEXT LEVEL! Tools we use every day!  Performance Analyzer: https://docs.microsoft.com/power-bi/create-reports/desktop-performance-analyzer  External tools in Power BI Desktop https://docs.microsoft.com/power-bi/transform-model/desktop-external-tools",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-tools-to-take-power-bi-to-the-next-level/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-tools-to-take-power-bi-to-the-next-level/",
-      "originalUrl": "https://youtube.com/watch?v=G4YND7H2vwM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G4YND7H2vwM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M57S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-05-13T08:00:10-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/G4YND7H2vwM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-using-the-key-influencer-visual-in-power-bi-desktop.md",
       "title": "Using the Key Influencer visual in Power BI Desktop",
       "excerpt": "Patrick and Justyna look at how you gain insights using the Key Influencer visual in Power BI Desktop. This is the first Power BI AI visual, with more to come.  Follow Justyna on Twitter - https://twitter.com/JustynaLucznik  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton",
@@ -1004,6 +966,37 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-find-a-text-term-in-a-field-in-power-bi-using-dax-functions.md",
+      "title": "Find a Text Term in a Field in Power BI Using DAX Functions",
+      "excerpt": "In Power BI, there are multiple ways of searching for a text term inside a text field, you can use Power Query for doing this operation or calculations in DAX. In this video, I'll explain some functions in DAX that you can use to do this calculation. Most of these functions can be used inside a measure",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-find-a-text-term-in-a-field-in-power-bi-using-dax-functions/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-find-a-text-term-in-a-field-in-power-bi-using-dax-functions/",
+      "originalUrl": "https://youtube.com/watch?v=pPJwIzPck1U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pPJwIzPck1U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M49S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-02-03T19:40:15-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pPJwIzPck1U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     }
   ],

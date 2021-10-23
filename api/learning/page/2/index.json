@@ -456,45 +456,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-get-started-with-the-power-bi-gateway.md",
-      "title": "Get started with the Power BI Gateway",
-      "excerpt": "Get to know what the Power BI Gateway is along with how to get it setup for scheduled refresh of imported data.  Free Gateway Cube Sheet: https://guyinacu.be/gatewaystartpdf  Gateway Documentation: https://docs.microsoft.com/power-bi/service-gateway-onprem  Gateway sizing: https://docs.microsoft.com/power-bi/guidance/gateway-onprem-sizing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-get-started-with-the-power-bi-gateway/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-get-started-with-the-power-bi-gateway/",
-      "originalUrl": "https://youtube.com/watch?v=Vlv1tbuZNcM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vlv1tbuZNcM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M18S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-05T08:00:04-08:00",
-      "heat": 77,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Vlv1tbuZNcM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Get started with the Power BI Gateway",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-getting-started-with-power-bi-paginated-reports-2021.md",
       "title": "Getting started with Power BI Paginated Reports (2021)",
       "excerpt": "Not sure what Power BI Paginated Reports are or how to use them? Patrick walks you through and points you to some great resources to get up and running quickly.  Power BI Paginated Reports require either Power BI Premium Per User or Power BI Premium capacity.  Paginated Report In a Day: https://docs.microsoft.com/power-bi/learning-catalog/paginated-reports-online-course",
@@ -763,8 +724,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 21402,
-        "average": 4.719512
+        "count": 21404,
+        "average": 4.719538
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1277,6 +1238,45 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-get-started-with-the-power-bi-gateway.md",
+      "title": "Get started with the Power BI Gateway",
+      "excerpt": "Get to know what the Power BI Gateway is along with how to get it setup for scheduled refresh of imported data.  Free Gateway Cube Sheet: https://guyinacu.be/gatewaystartpdf  Gateway Documentation: https://docs.microsoft.com/power-bi/service-gateway-onprem  Gateway sizing: https://docs.microsoft.com/power-bi/guidance/gateway-onprem-sizing",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-get-started-with-the-power-bi-gateway/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-get-started-with-the-power-bi-gateway/",
+      "originalUrl": "https://youtube.com/watch?v=Vlv1tbuZNcM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vlv1tbuZNcM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M18S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-05T08:00:04-08:00",
+      "heat": 73,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Vlv1tbuZNcM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Get started with the Power BI Gateway",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

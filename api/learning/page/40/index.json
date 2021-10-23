@@ -4,37 +4,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship.md",
-      "title": "DAX CrossFilter Function in Power BI   Write the Formula both directional but keep the relationship",
-      "excerpt": "If you are familiar with relationships in Power BI, you know that there are scenarios that you may need to change the direction of the relationship to a both-directional. A both-directional relationship comes at a cost, which is mainly the performance and ambiguity of the model. There is a way to write",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship/",
-      "originalUrl": "https://youtube.com/watch?v=8--Yv18rhyA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8--Yv18rhyA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M39S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-06-30T18:29:17-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8--Yv18rhyA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-directquery-for-power-bi-datasets-and-analysis-services-what-is-it-and-why-it-is-a-big-deal.md",
       "title": "DirectQuery for Power BI datasets and Analysis Services. What is it and why it is a big deal?",
       "excerpt": "The news of the latest update of Power BI Desktop, December 2020, is now everywhere. Especially the most exciting feature of all is the DirectQuery for Power BI datasets and analysis service, or in other terms composite model for Power BI datasets. However, you might ask, what that mean? what is it?",
@@ -916,6 +885,36 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-what-is-the-direction-of-relationship-in-power-bi.md",
+      "title": "What is the Direction of Relationship in Power BI",
+      "excerpt": "download link for AdventureWorksDW Excel File:  https://1drv.ms/x/s!Am-kkqG8zbmQgcdyAhOk7MXgWd56rw",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-is-the-direction-of-relationship-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-is-the-direction-of-relationship-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=EnubM2UkESU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EnubM2UkESU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M56S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2018-07-10T22:52:51-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EnubM2UkESU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

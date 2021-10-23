@@ -4,37 +4,6 @@
   "page": 79,
   "value": [
     {
-      "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo.md",
-      "title": "PowerBI.Tips - Tutorial - Model Performance Tuning in DAX Studio - By Marco Russo",
-      "excerpt": "DAX Studio is the tool for data model tuning.  Marco Russo contributor to DAX Studio will be giving us a deep dive and demo around using DAX Studio for Model Performance Tuning.   You will not want to miss this event as Marco is a wealth of knowledge for all things Data Modeling!  Watch the Full Tutorial",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo/",
-      "originalUrl": "https://youtube.com/watch?v=ERGpV4yt30w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ERGpV4yt30w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H9M2S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2020-04-24T11:32:43-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ERGpV4yt30w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-monkey-tool-introduction-part-1.md",
       "title": "PowerBI.tips - Tutorial - Monkey Tool Introduction - Part 1",
       "excerpt": "Ken Puls an amazing MVP from Excel Guru has produced an impressive tool, Monkey Tools.  This tool is an Excel Add-in that aids business users to work quickly building Data Models.  Come join us to learn about how this tool can help you in your daily work flow.  Follow Ken  Blog: https://xlguru.ca/blog",
@@ -640,6 +609,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-book-overview-power-bi-dax-simplified.md",
+      "title": "Book Overview   Power BI DAX Simplified",
+      "excerpt": "A few weeks ago, my new book was published and is now available. As the Amazon web page for the book won't allow me to put some more details about what it is, I thought it better to share some more information about it here. This book is available in all possible Amazon markets as Kindle and paperback",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-book-overview-power-bi-dax-simplified/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-book-overview-power-bi-dax-simplified/",
+      "originalUrl": "https://youtube.com/watch?v=oMvpZvBkGwU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oMvpZvBkGwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M21S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-08-12T17:18:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oMvpZvBkGwU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {

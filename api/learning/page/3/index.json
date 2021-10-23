@@ -910,199 +910,6 @@
       ]
     },
     {
-      "path": "_learning/collections/guy-in-a-cube-learn-all-about-power-bi-aggregations.md",
-      "title": "Learn all about Power BI Aggregations",
-      "excerpt": "Power BI aggregations are for more than just large data models! In this series, Patrick looks at the different aspects of Power BI aggregations.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/guy-in-a-cube-learn-all-about-power-bi-aggregations/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/guy-in-a-cube-learn-all-about-power-bi-aggregations/",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations.md",
-          "title": "The How and Why of Power BI Aggregations",
-          "excerpt": "Learn the how and why Power BI Aggregations can help your data model be more efficient. This video is part of a Power BI Aggregations series.  Aggregations Documentation: https://docs.microsoft.com/power-bi/desktop-aggregations  📢 Become a member: https://guyinacu.be/membership   *******************",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations/",
-          "originalUrl": "https://youtube.com/watch?v=EhGF372t0sU",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EhGF372t0sU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT9M1S",
-          "provider": {
-            "name": "Guy in a Cube",
-            "domain": "guyinacube.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-03-04T08:00:04-08:00",
-          "heat": 59,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/EhGF372t0sU/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "title": "The How and Why of Power BI Aggregations",
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/guy-in-a-cube-configure-power-bi-aggregations.md",
-          "title": "Configure Power BI Aggregations",
-          "excerpt": "Learn to configure your Power BI Aggregations table to really increase the speed of your DAX queries. This does NOT require Power BI Premium!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-configure-power-bi-aggregations/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-configure-power-bi-aggregations/",
-          "originalUrl": "https://youtube.com/watch?v=kytYzjTXUHs",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kytYzjTXUHs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT6M30S",
-          "provider": {
-            "name": "Guy in a Cube",
-            "domain": "guyinacube.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-03-11T08:00:10-07:00",
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/kytYzjTXUHs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "title": "Configure Power BI Aggregations",
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations.md",
-          "title": "Why can't I define my Power BI Aggregations???",
-          "excerpt": "Trouble defining your Power BI Aggregations? Field selection all grayed out? Patrick has a tip for you!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.  🎓",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations/",
-          "originalUrl": "https://youtube.com/watch?v=V9aG-6wr1xQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V9aG-6wr1xQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M13S",
-          "provider": {
-            "name": "Guy in a Cube",
-            "domain": "guyinacube.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-03-17T08:00:22-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/V9aG-6wr1xQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "title": "Why can't I define my Power BI Aggregations???",
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations.md",
-          "title": "Are you HITTING your Power BI aggregations???",
-          "excerpt": "Are you not sure if you are hitting your Power BI Aggregations? Patrick shows you some tools you can use to verify if they are being used.  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations/",
-          "originalUrl": "https://youtube.com/watch?v=ivWGSnthTDw",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ivWGSnthTDw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT7M46S",
-          "provider": {
-            "name": "Guy in a Cube",
-            "domain": "guyinacube.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-03-18T08:00:15-07:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/ivWGSnthTDw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "title": "Are you HITTING your Power BI aggregations???",
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EhGF372t0sU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "The How and Why of Power BI Aggregations",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-visualize-data-in-power-bi.md",
       "title": "Visualize data in Power BI",
       "excerpt": "Power BI has extraordinary visuals that can be used on Power BI reports and dashboards. In this module, you will learn when to use which visual to solve which problem. You will also learn report design and report formatting. Additionally, you will learn how to use report navigation to tell a compelling, data-driven story in Power BI. Dashboards will help your users target report visuals to meet their specific needs. Paginated reports help you create pixel-perfect report artifacts like sales invoices, purchase orders, medical records, transaction statements, and much more.",
@@ -1175,8 +982,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 3073,
-            "average": 4.663521
+            "count": 3075,
+            "average": 4.6637397
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1919,6 +1726,199 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/collections/guy-in-a-cube-learn-all-about-power-bi-aggregations.md",
+      "title": "Learn all about Power BI Aggregations",
+      "excerpt": "Power BI aggregations are for more than just large data models! In this series, Patrick looks at the different aspects of Power BI aggregations.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/guy-in-a-cube-learn-all-about-power-bi-aggregations/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/guy-in-a-cube-learn-all-about-power-bi-aggregations/",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations.md",
+          "title": "The How and Why of Power BI Aggregations",
+          "excerpt": "Learn the how and why Power BI Aggregations can help your data model be more efficient. This video is part of a Power BI Aggregations series.  Aggregations Documentation: https://docs.microsoft.com/power-bi/desktop-aggregations  📢 Become a member: https://guyinacu.be/membership   *******************",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations/",
+          "originalUrl": "https://youtube.com/watch?v=EhGF372t0sU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EhGF372t0sU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT9M1S",
+          "provider": {
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-03-04T08:00:04-08:00",
+          "heat": 59,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/EhGF372t0sU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "The How and Why of Power BI Aggregations",
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/guy-in-a-cube-configure-power-bi-aggregations.md",
+          "title": "Configure Power BI Aggregations",
+          "excerpt": "Learn to configure your Power BI Aggregations table to really increase the speed of your DAX queries. This does NOT require Power BI Premium!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-configure-power-bi-aggregations/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-configure-power-bi-aggregations/",
+          "originalUrl": "https://youtube.com/watch?v=kytYzjTXUHs",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kytYzjTXUHs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT6M30S",
+          "provider": {
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-03-11T08:00:10-07:00",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/kytYzjTXUHs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "Configure Power BI Aggregations",
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations.md",
+          "title": "Why can't I define my Power BI Aggregations???",
+          "excerpt": "Trouble defining your Power BI Aggregations? Field selection all grayed out? Patrick has a tip for you!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.  🎓",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations/",
+          "originalUrl": "https://youtube.com/watch?v=V9aG-6wr1xQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V9aG-6wr1xQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M13S",
+          "provider": {
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-03-17T08:00:22-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/V9aG-6wr1xQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "Why can't I define my Power BI Aggregations???",
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations.md",
+          "title": "Are you HITTING your Power BI aggregations???",
+          "excerpt": "Are you not sure if you are hitting your Power BI Aggregations? Patrick shows you some tools you can use to verify if they are being used.  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations/",
+          "originalUrl": "https://youtube.com/watch?v=ivWGSnthTDw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ivWGSnthTDw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT7M46S",
+          "provider": {
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-03-18T08:00:15-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/ivWGSnthTDw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "Are you HITTING your Power BI aggregations???",
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EhGF372t0sU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "The How and Why of Power BI Aggregations",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Power BI"
       ]
     }
   ],
