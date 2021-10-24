@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M30S
 publishedDateTime: 2019-03-19T17:12:07Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kPHjFyKAB90\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "J4hgwQp7J56TvLYkAarhE0z5lA+j1rkonRgaY8qBvlwly19PuO2RVmFN5H6fjiBpWWMFXTFrao2VnfdNUHBImycdBZ69ZQy/+aC13xi304gsOg7ccvyAhY2eguyhn6f/S75jlUAdZ+Hb4kpMPLdgL0GcdfxiI58DOFXjjfr/0HxXk1aA4rQWu8f4UgQGtwv6om2MgMKBOxVAs+CXlUHkW8zeDcPNgAfH2evL6K3fc+JoPXaZvP+x/eYg8umL0zPj70NuikvlZOiL1nUejuj2teiCnsBCrXT9ASejvwS8cGmkpR6vE2uFCuYsoA2x5yzyGsy6icGS1PvUhkqQYVGEDu5Kd2Q2swerTfXnFXvd6liPVh57E3KqFTqXwNnIB/MfNbUbdOLxDaw1YKi5s00ugSafTm/Y4BacKu32yODgI38=;0s42jcbek6qS//of5ZZmww=="
+secured: "WIMTzs+Retfqho/n+FVSlJHMzWR4CoXqDUiZCIjoz6Yl943qw7sjM+Z+rafqpn4d37bmq3thjLS54duNYOvrSj+scuYsQAJ91ck4/KQHEKk8bJNyMywnvqgWbulqVKc9fggykr515UP6icQBidc3hVFGPk8q2AUpLkq2giUM61t5SHzjmq7vwnJnXsY8/LzNOXR7qLcLbIE+HKeKRyJae2YErZXWOoCTT45fXs6KtmVyIhMtvxKJgSX+1EWKoI0wAwo0nKj22VI6h9naVE+LOphZ6liIW9Qiak9Tx+nhU6GFcSADTbRHPgnHW3kfyQ6iyJbn4//inY/sQE/wapedeZSnqtRV2r52+KqmsbmuyqNKK40zEBaleYVequIO/4T90fJehnAWlvMZEuBAHN6acI2vp9VxtBN3EE/9vdE02tA=;UuvoVEh+zv8T6fZBN9fqSg=="
 ---
 
