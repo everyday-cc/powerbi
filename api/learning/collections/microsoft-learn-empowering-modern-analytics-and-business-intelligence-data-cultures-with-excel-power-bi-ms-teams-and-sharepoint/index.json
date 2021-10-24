@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 130,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
@@ -71,7 +71,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/automate-data-cleaning-power-query-social.png",
