@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-07-22-behind-the-scenes-running-the-power-bi-service.md",
+      "title": "Behind the scenes: Running the Power BI service",
+      "excerpt": "I’m excited to share a new whitepaper that describes the Power BI team’s approach to maintaining a reliable, performant, and scalable service for our customers.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-22-behind-the-scenes-running-the-power-bi-service/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/behind-the-scenes-running-the-power-bi-service/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/behind-the-scenes-running-the-power-bi-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T00:00:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Service"
+      ]
+    },
+    {
       "path": "_news/2021-07-21-power-bi-update-july-2021.md",
       "title": "Power BI Update - July 2021",
       "excerpt": "Welcome to the July update! This month we are making small multiples generally available, as well as the new model view and sensitivity labels in Desktop. Also, we have a new preview for streaming dataflows. There is much more!  Reporting                Small multiples (generally available) - 00:19 ",
@@ -1185,57 +1237,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-06-09T02:50:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-embed-power-bi-in-salesforce.md",
-      "title": "Embed Power BI in Salesforce",
-      "excerpt": "We’re excited to introduce new developer samples for embedding Power BI analytics in Salesforce. You can embed Power BI report, dashboards and more in Salesforce for your organization or for your customers. By embedding Power BI in Salesforce, your users will have access to Power BI interactive data",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-08-embed-power-bi-in-salesforce/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/embed-power-bi-in-salesforce/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/embed-power-bi-in-salesforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T02:00:22-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
