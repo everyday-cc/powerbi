@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-09-21-congratulations-to-the-featured-data-stories-gallery-contributors.md",
+      "title": "Congratulations to the Featured Data Stories Gallery contributors",
+      "excerpt": "Find out which Power BI Community Data Story won for September and which Data Story received an honorable mention! We also announce next month&#8217;s Data Stories Gallery theme at the end of the blog.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-09-21-congratulations-to-the-featured-data-stories-gallery-contributors/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/congratulations-to-the-featured-data-stories-gallery-contributors/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/congratulations-to-the-featured-data-stories-gallery-contributors/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5_MFGnLDUHU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 418,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-21T08:23:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2020-09-21-power-bi-at-microsoft-ignite-virtual-conference.md",
       "title": "Power BI at Microsoft Ignite Virtual Conference",
       "excerpt": "As has been the case this entire year due to these unprecedented circumstances, Microsoft Ignite is going virtual. Join us between September 22nd and 24th. \r\nIf you have not registered already, there’s still time so we hope you take a few minutes and Register Here.  Power BI will be featured prominently",
@@ -1193,57 +1244,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-08-11T10:27:11-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-08-11-power-bi-thank-you-for-5-years-t-shirt-give-away-results.md",
-      "title": "Power BI, Thank You For 5 Years, T-Shirt Give Away Results!",
-      "excerpt": "Thank You For 5 Years update! Find out which Power BI report contributors receive a T-Shirt, see a few favorites, and a link to the recording.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-08-11-power-bi-thank-you-for-5-years-t-shirt-give-away-results/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-thank-you-for-5-years-t-shirt-give-away-results/",
-      "originalUrl": null,
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 418,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-08-11T09:01:15-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
