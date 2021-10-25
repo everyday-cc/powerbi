@@ -407,8 +407,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3073,
-            "average": 4.7198176
+            "count": 3074,
+            "average": 4.718933
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -490,8 +490,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2297,
-            "average": 4.766652
+            "count": 2298,
+            "average": 4.765448
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -634,8 +634,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 3073,
-        "average": 4.7198176
+        "count": 3074,
+        "average": 4.718933
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -676,8 +676,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 2297,
-        "average": 4.766652
+        "count": 2298,
+        "average": 4.765448
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -718,8 +718,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
       "length": "PT20M",
       "ratings": {
-        "count": 1742,
-        "average": 4.758898
+        "count": 1744,
+        "average": 4.7580276
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -761,8 +761,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 778,
-        "average": 4.750643
+        "count": 779,
+        "average": 4.7509627
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -889,8 +889,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
       "length": "PT41M",
       "ratings": {
-        "count": 5,
-        "average": 4.8
+        "count": 6,
+        "average": 4.8333335
       },
       "provider": {
         "name": "Microsoft Learn",
