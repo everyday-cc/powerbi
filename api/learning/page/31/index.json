@@ -750,8 +750,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 21,
-        "average": 4.904762
+        "count": 22,
+        "average": 4.909091
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -961,8 +961,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 176,
-        "average": 4.5738635
+        "count": 177,
+        "average": 4.576271
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1130,8 +1130,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 612,
-        "average": 4.712418
+        "count": 613,
+        "average": 4.7128873
       },
       "provider": {
         "name": "Microsoft Learn",
