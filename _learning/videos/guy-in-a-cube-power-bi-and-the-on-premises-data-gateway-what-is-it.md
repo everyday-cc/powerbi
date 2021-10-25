@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M19S
 publishedDateTime: 2018-09-08T15:07:22Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WJ5Y4FjkWZw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "yJH9KnTqoi++pp0urTFqatxovVwjUvdy/aG75HtRjsgWVEFAzz+bFeHDXtsmZlpwOmNxX8wDLBF83JFULNC4lookwMfVE7EdHBff9bcwhSTPFqT36miep2y3BTXSmRPiIuMgrxsJZR1vVAiKHZACqs0BHK66qpGHVEC45SG8FApHH3a9iKpB0eii3UGvZ74iWXq1S2mZje5TxEgUCUVNw6Je1GL/qMyxEdvPGWJ3nL7Lwo2zogJSIA2cGr1MpBA6sJ0+JoRTicOrIFd/Wr89vpwSNoJCzCZ836JQfjF3B1j1Rk8UpF1i0z/xLQdV1x6woN6u1Vzp1zIqX83gj3PHileTdwDYkfViHKuXJA7yPBy9OKyc8j61x/JgV7G2oOOav5TmD4M/VB3TuqI8IR4vGmMPSHlXfJXBs4iULbMi7q0=;0O5GkAcKcJDJjk966PoDsw=="
+secured: "HpFoodDE04Rudrd2KNmKNNiB9sHrqPI3grIBpP8Zaa8GFZXyyotuNVXLbJdQJ7oZ+zaIQDLtvCN7VoD9any8XqgfLmjWtM3fH0yN1HEQxP27t2Lq0cdxFfJPTl+O9pPeWHW+ox3riErwlpYxUe+M++GIhwzVGiUjpWOtbJm+CEti/LBJwUwls7GZg+iQRwFfJMYZxPN87G7XRSzN2UhGWlqbaGAzyQ1k5ay2+cvimnglGTgb8vyPCek5MEKDv3TccElCVfQwPkI2e5UqU9OTA/Wc93Qj13X18NuWbxmYYdyt7+3WCXaBhlbY9Ut3blNIdMiX15lAxyHz9JwvjLH67ynfkbwzIUEGR50MVW25RMoE5QBv38obT3kyF/McfQLxPzv1QYLzr4Ul2wHk2w4YaVwNJFY3CElHejPizFaKSiQ=;g1YoXK9zcknz3vSfq6FXvQ=="
 ---
 
