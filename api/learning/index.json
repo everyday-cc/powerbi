@@ -178,14 +178,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-can-you-refresh-a-single-table-in-power-bi.md",
-      "title": "Can you refresh a single table in Power BI?",
-      "excerpt": "Frustrated that a you can only do a full refresh? Patrick takes it to the next level by showing how you can refresh only a single table in your Power BI dataset. This is a great option for targeted refresh and avoid potential overhead.  Processing Options:  https://docs.microsoft.com/analysis-services/multidimensional-models/processing-options-and-settings-analysis-services?view=asallproducts-allversions",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-refresh-a-single-table-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-refresh-a-single-table-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=OYYnoMa-93g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OYYnoMa-93g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M55S",
+      "path": "_learning/videos/guy-in-a-cube-power-bi-xmla-endpoint-why-you-should-care.md",
+      "title": "Power BI XMLA Endpoint: Why you should care",
+      "excerpt": "The XMLA Endpoint in Power BI can be very powerful. Adam looks at what it is and how to get started with it. If you are using Power BI Premium or Premium Per User, you need to know about this!  Live Stream Question: https://youtu.be/_SLFZiA3peU?t=1229  XMLA Endpoint Documentation: https://docs.microsoft.com/power-bi/admin/service-premium-connect-tools",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-xmla-endpoint-why-you-should-care/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-xmla-endpoint-why-you-should-care/",
+      "originalUrl": "https://youtube.com/watch?v=YEIKzeNCqGg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YEIKzeNCqGg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M22S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -198,13 +198,13 @@
           }
         ]
       },
-      "publishedDateTime": "2021-08-18T08:00:23-07:00",
-      "heat": 134,
+      "publishedDateTime": "2021-09-09T08:00:18-07:00",
+      "heat": 136,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/OYYnoMa-93g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/YEIKzeNCqGg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -256,7 +256,7 @@
             ]
           },
           "publishedDateTime": "2021-01-14T08:21:12-08:00",
-          "heat": 109,
+          "heat": 110,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -405,23 +405,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-what-a-power-bi-hierarchy-is-and-how-to-use-it.md",
-      "title": "What a Power BI Hierarchy Is and How to Use it",
-      "excerpt": "Power BI hierarchies are a useful structure for drill-down and data exploration in reports. A hierarchy can be created simply and can add great value for you as a developer and end-users for better data analysis. In this article and video, I’ll explain what a Power BI hierarchy is and how to create it.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-a-power-bi-hierarchy-is-and-how-to-use-it/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-a-power-bi-hierarchy-is-and-how-to-use-it/",
-      "originalUrl": "https://youtube.com/watch?v=tZoBHwS_5rc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tZoBHwS_5rc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M15S",
+      "path": "_learning/videos/dhruvin-shah-new-way-to-compare-date-and-datetime-value-in-power-bi-august-2021-feature-summary.md",
+      "title": "New way to compare Date and DateTime Value in Power BI - August 2021 Feature Summary",
+      "excerpt": "Welcome to one more new update from Power BI Desktop. Sometimes we need to compare date or DateTime value in our DAX expression. At that time, we are using Date() function and Time() function. Now, there's one more easy way to compare Date and Time value in Power BI which is using \"dt\" keyword before",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-way-to-compare-date-and-datetime-value-in-power-bi-august-2021-feature-summary/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-way-to-compare-date-and-datetime-value-in-power-bi-august-2021-feature-summary/",
+      "originalUrl": "https://youtube.com/watch?v=SMHbMhX1Ggg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SMHbMhX1Ggg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-09-20T17:43:21-07:00",
-      "heat": 133,
+      "publishedDateTime": "2021-08-21T19:43:07-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tZoBHwS_5rc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/SMHbMhX1Ggg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -650,7 +650,7 @@
         ]
       },
       "publishedDateTime": "2021-01-14T08:21:12-08:00",
-      "heat": 109,
+      "heat": 110,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -996,8 +996,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 26772,
-            "average": 4.7975125
+            "count": 26778,
+            "average": 4.797558
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1038,8 +1038,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 45351,
-            "average": 4.771648
+            "count": 45357,
+            "average": 4.771678
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1098,8 +1098,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 45351,
-        "average": 4.771648
+        "count": 45357,
+        "average": 4.771678
       },
       "provider": {
         "name": "Microsoft Learn",
