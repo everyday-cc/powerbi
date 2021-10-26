@@ -2,6 +2,109 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-06-17-get-the-2020-master-microsoft-excel-power-bi-certification-bundle-for-just-3499.md",
+      "title": "Get the 2020 Master Microsoft Excel & Power BI Certification Bundle for just $34.99",
+      "excerpt": "Become the data-driven hero companies need with 28 hours of training in data plotting, auto calculation, macros, visualization and more with today's highlighted deal. Get it via Neowin Deals!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-06-17-get-the-2020-master-microsoft-excel-power-bi-certification-bundle-for-just-3499/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-17-get-the-2020-master-microsoft-excel-power-bi-certification-bundle-for-just-3499/",
+      "originalUrl": "https://www.neowin.net/news/get-the-2020-master-microsoft-excel--power-bi-certification-bundle-for-just-3499",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/06/1592381669_product_38938_product_shot_wide_story.jpg",
+          "width": 760,
+          "height": 380,
+          "title": "Get the 2020 Master Microsoft Excel & Power BI Certification Bundle for just $34.99",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/get-the-2020-master-microsoft-excel--power-bi-certification-bundle-for-just-3499/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/get-the-2020-master-microsoft-excel--power-bi-certification-bundle-for-just-3499/",
+      "publishedDateTime": "2020-06-17T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2020-06-15-power-bi-updates-dax-fusion-and-data-driven-subscriptions-roundup-june-15-2020.md",
+      "title": "Power BI updates, DAX Fusion, and data driven subscriptions (Roundup | June 15, 2020)",
+      "excerpt": "Thanks for watching this week's Power BI news roundup!  Last weeks roundup: https://guyinacu.be/roundup182 2 Minute Tuesday: https://guyinacu.be/askquestions Patrick's tech video: https://guyinacu.be/blankslicer Adam's tech video: https://guyinacu.be/workspaceroadmap  🔴 Live Replay with Marco Russo:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-06-15-power-bi-updates-dax-fusion-and-data-driven-subscriptions-roundup-june-15-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-06-15-power-bi-updates-dax-fusion-and-data-driven-subscriptions-roundup-june-15-2020/",
+      "originalUrl": "https://youtube.com/watch?v=-7Wk8FPz7es",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-7Wk8FPz7es\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-7Wk8FPz7es/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI updates, DAX Fusion, and data driven subscriptions (Roundup | June 15, 2020)",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-06-15T08:00:02-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_news/2020-06-11-announcing-power-bi-data-protection-ga-and-introducing-new-capabilities.md",
       "title": "Announcing Power BI data protection GA and introducing new capabilities",
       "excerpt": "Last fall we introduced industry-leading Power BI data protection capabilities in public preview. Today we’re happy to announce these capabilities are generally available (GA), along with new and exciting capabilities we’re announcing in this space!\r\nPower BI helps organizations empower everyone to make",
@@ -1158,110 +1261,6 @@
           "width": 1280,
           "height": 720,
           "title": "Power BI Desktop Update - November 2019",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T12:18:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-power-bi-desktop-update-october-2019.md",
-      "title": "Power BI Desktop Update - October 2019",
-      "excerpt": "This month’s update is filled with major updates across the whole product. In the data preparation area, we’ve introduced query diagnostics, which allow you to see what queries are being run behind the scenes. On the reporting side, we are taking a huge step forward in terms of real-time reporting, with",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-02-05-power-bi-desktop-update-october-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-02-05-power-bi-desktop-update-october-2019/",
-      "originalUrl": "https://youtube.com/watch?v=A8A9baUQsXQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A8A9baUQsXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/A8A9baUQsXQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Power BI Desktop Update - October 2019",
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-02-05T12:18:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-02-05-power-bi-desktop-update-september-2019.md",
-      "title": "Power BI Desktop Update - September 2019",
-      "excerpt": "You'll notice one of our exciting updates right away when creating new reports with the September update of Power BI Desktop, a new, modern default theme! Not only do we have a new default theme, but we've more than doubled the number of built-in theme options for your report. If you're a theme author,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-02-05-power-bi-desktop-update-september-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2020-02-05-power-bi-desktop-update-september-2019/",
-      "originalUrl": "https://youtube.com/watch?v=neq0THnRJzo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/neq0THnRJzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/neq0THnRJzo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Power BI Desktop Update - September 2019",
           "attribution": null,
           "isCached": true
         }

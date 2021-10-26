@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-10-27-how-machine-learning-speeds-up-power-bi-reports.md",
+      "title": "How machine learning speeds up Power BI reports",
+      "excerpt": "Machine learning delivers insights in Power BI reports—and it enables you to get a large amount of data into your reports to generate those insights more quickly.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-10-27-how-machine-learning-speeds-up-power-bi-reports/index.json",
+      "webUrl": "https://www.techrepublic.com/article/how-machine-learning-speeds-up-power-bi-reports/",
+      "originalUrl": "https://www.techrepublic.com/article/how-machine-learning-speeds-up-power-bi-reports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/10/26/474c6c29-95d0-40b3-858b-07d93a25467f/resize/1200x/d5131a4c50e74c49613e984987cbbda4/shutterstock-1062915260.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-machine-learning-speeds-up-power-bi-reports/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-machine-learning-speeds-up-power-bi-reports/",
+      "publishedDateTime": "2021-10-26T10:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-10-25-plan-your-power-bi-sessions-at-ignite-nov-2-4-2021.md",
       "title": "Plan your Power BI sessions at Ignite Nov 2-4, 2021!",
       "excerpt": "As we move into the last third of the year, the Power BI team have had a busy summer working on delivering exciting innovation for you, our community. We have a number of sessions during Ignite delivered by experts which gives you a great sense of the capabilities you can try, deploy or scale for your",
@@ -10,7 +61,7 @@
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/plan-your-power-bi-sessions-at-ignite-nov-2-4-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -61,7 +112,7 @@
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/microsoft-power-bi-and-azure-purview-work-better-together-is-now-in-ga/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -129,6 +180,57 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-10-20T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-10-19-join-us-power-bi-dev-camp-thursday-28-oct-2021-at-1100-am-pdt.md",
+      "title": "Join Us! Power BI Dev Camp: Thursday 28 Oct 2021 at 11:00 AM PDT",
+      "excerpt": "This deep dive session teaches campers how to use deployment pipelines for managing the application lifecycle of datasets and reports and for enabling CI/CD in a Power BI environment. The session explains how deployment pipelines are configured to create dedicated workspaces for developing and testing",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-10-19-join-us-power-bi-dev-camp-thursday-28-oct-2021-at-1100-am-pdt/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-28-oct-2021-at-1100-am-pdt/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-28-oct-2021-at-1100-am-pdt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-19T08:18:27-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
@@ -1156,108 +1258,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-09-14T02:16:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-08-export-power-bi-report-to-file-api-preview-update.md",
-      "title": "Export Power BI report to file API – Preview Update",
-      "excerpt": "I&#8217;m happy to update that during September we are modifying the preview release, specifically lifting the 50 exports per hour per capacity limit. More details inside.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-09-08-export-power-bi-report-to-file-api-preview-update/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/export-power-bi-report-to-file-api-preview-update/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/export-power-bi-report-to-file-api-preview-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-08T02:43:59-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-09-01-fortune-500-pharmaceutical-company-leverages-power-bi-and-valq-for-strategic-planning.md",
-      "title": "Fortune 500 Pharmaceutical Company Leverages Power BI and ValQ for Strategic Planning",
-      "excerpt": "A fortune 500 pharmaceutical company is using Power BI to revolutionize strategic planning. The company worked with Microsoft partner, Visual BI, to implement their ValQ capability. Read this customer story to learn more about the company&#8217;s solution. ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-09-01-fortune-500-pharmaceutical-company-leverages-power-bi-and-valq-for-strategic-planning/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/fortune-500-pharmaceutical-company-leverages-power-bi-and-valq-for-strategic-planning/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/fortune-500-pharmaceutical-company-leverages-power-bi-and-valq-for-strategic-planning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-31T22:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

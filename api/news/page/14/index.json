@@ -2,6 +2,110 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-02-05-power-bi-desktop-update-october-2019.md",
+      "title": "Power BI Desktop Update - October 2019",
+      "excerpt": "This month’s update is filled with major updates across the whole product. In the data preparation area, we’ve introduced query diagnostics, which allow you to see what queries are being run behind the scenes. On the reporting side, we are taking a huge step forward in terms of real-time reporting, with",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-02-05-power-bi-desktop-update-october-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-02-05-power-bi-desktop-update-october-2019/",
+      "originalUrl": "https://youtube.com/watch?v=A8A9baUQsXQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A8A9baUQsXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/A8A9baUQsXQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - October 2019",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T12:18:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-02-05-power-bi-desktop-update-september-2019.md",
+      "title": "Power BI Desktop Update - September 2019",
+      "excerpt": "You'll notice one of our exciting updates right away when creating new reports with the September update of Power BI Desktop, a new, modern default theme! Not only do we have a new default theme, but we've more than doubled the number of built-in theme options for your report. If you're a theme author,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-02-05-power-bi-desktop-update-september-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-02-05-power-bi-desktop-update-september-2019/",
+      "originalUrl": "https://youtube.com/watch?v=neq0THnRJzo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/neq0THnRJzo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/neq0THnRJzo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - September 2019",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-05T12:18:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2019-12-27-come-chat-with-me-and-other-curbalers-on-our-newly-created-discord-server.md",
       "title": "Come chat with me and other Curbalers on our newly created Discord server",
       "excerpt": "Come and join us to Curbal's discord server where we can discuss anything about data and Power BI. Click this link to access the server: https://discord.gg/7QWDRDT  See u there!!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel",
@@ -1204,110 +1308,6 @@
         "Power BI Desktop",
         "DAX",
         "Power Query"
-      ]
-    },
-    {
-      "path": "_news/2018-10-04-filter-connectors-and-more-power-week-1018-power-bi-desktop-update-october.md",
-      "title": "Filter, connectors, and more | Power Week 10.18 - Power BI Desktop Update October.",
-      "excerpt": "In the new Power BI Desktop update from October 2018, the power bi team introduced new features for reporting and made other improvements. We cover them here!  Here’s the complete list of October updates covered in this video: Reporting • Search in filter cards • Improved accessible authoring experiences",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-10-04-filter-connectors-and-more-power-week-1018-power-bi-desktop-update-october/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2018-10-04-filter-connectors-and-more-power-week-1018-power-bi-desktop-update-october/",
-      "originalUrl": "https://youtube.com/watch?v=vx36jOOhHTE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vx36jOOhHTE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vx36jOOhHTE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-10-04T08:21:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2018-10-01-ctn-1-comment-power-bi-dashboards-in-the-service-home.md",
-      "title": "CTN #1: Comment Power BI dashboards in the Service + Home",
-      "excerpt": "In today's video, I will show you the new Power BI Service feature called comments and also the new Home Page.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-10-01-ctn-1-comment-power-bi-dashboards-in-the-service-home/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2018-10-01-ctn-1-comment-power-bi-dashboards-in-the-service-home/",
-      "originalUrl": "https://youtube.com/watch?v=8dTJcLnBcPA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8dTJcLnBcPA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8dTJcLnBcPA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-10-01T05:16:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

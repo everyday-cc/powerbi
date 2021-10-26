@@ -2,6 +2,108 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-17-microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data.md",
+      "title": "Microsoft's Power BI gets new tools to prevent leakage of confidential data",
+      "excerpt": "Information protection makes sure that only people with permissions see data in Power BI, while retaining the ability to share top-level trends, balancing productivity and security. Microsoft's ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-17-microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/index.json",
+      "webUrl": "https://www.techrepublic.com/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/",
+      "originalUrl": "https://www.techrepublic.com/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/02/16/f3785e91-9773-46dd-bb28-61fda8df592d/resize/1200x/857873d37ba05ee487bbe2774977085c/ms-power-bi-enterprise-dp.jpg",
+          "width": 1200,
+          "height": 636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-power-bi-gets-new-tools-to-prevent-leakage-of-confidential-data/",
+      "publishedDateTime": "2021-02-17T00:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-data-insights-without-limit-security-without-compromise.md",
+      "title": "Data insights without limit, security without compromise",
+      "excerpt": "The past year has confirmed that a digital-first strategy is not just a trend, but the new standard for business moving forward. What business calls “digital life” is just life for most people, as is the expectation that organizations will keep up with the accelerating volume of data and pace of change",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-02-17-data-insights-without-limit-security-without-compromise/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/data-insights-without-limit-security-without-compromise/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/data-insights-without-limit-security-without-compromise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-16T23:55:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-net-core-support-for-analysis-services-client-libraries-is-ga.md",
       "title": ".NET Core support for Analysis Services client libraries is GA",
       "excerpt": "Today, we are announcing General Availability (GA), along with several enhancements.",
@@ -1173,108 +1275,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-mariadb-direct-query-adapter-now-available-and-certified-in-microsoft-power-bi.md",
-      "title": "MariaDB Direct Query Adapter Now Available and Certified in Microsoft Power BI",
-      "excerpt": "Before it's here, it's on the Bloomberg Terminal.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-16-mariadb-direct-query-adapter-now-available-and-certified-in-microsoft-power-bi/index.json",
-      "webUrl": "https://www.bloomberg.com/press-releases/2020-12-16/mariadb-direct-query-adapter-now-available-and-certified-in-microsoft-power-bi",
-      "originalUrl": "https://www.bloomberg.com/press-releases/2020-12-16/mariadb-direct-query-adapter-now-available-and-certified-in-microsoft-power-bi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-16T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-16-power-bi-premium-per-user-license-offers-enhanced-deployment-pipelines-creation.md",
-      "title": "Power BI Premium per user license offers enhanced deployment pipelines creation",
-      "excerpt": "Earlier this week, Microsoft introduced Information Protection sensitivity labels for Power BI Desktop, while a few days before that the data visualization service received new Admin APIs and Service Principal authentication. Going back a bit further ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-12-16-power-bi-premium-per-user-license-offers-enhanced-deployment-pipelines-creation/index.json",
-      "webUrl": "https://www.neowin.net/news/power-bi-premium-per-user-license-offers-enhanced-deployment-pipelines-creation",
-      "originalUrl": "https://www.neowin.net/news/power-bi-premium-per-user-license-offers-enhanced-deployment-pipelines-creation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/10/1571114082_power_bi_new_3_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/power-bi-premium-per-user-license-offers-enhanced-deployment-pipelines-creation/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-premium-per-user-license-offers-enhanced-deployment-pipelines-creation/",
-      "publishedDateTime": "2020-12-16T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
