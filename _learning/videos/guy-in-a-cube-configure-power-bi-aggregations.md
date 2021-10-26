@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M30S
 publishedDateTime: 2020-03-11T15:00:10Z
-heat: 55
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kytYzjTXUHs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Configure Power BI Aggregations"
 
-secured: "QD5hTN5KTsQIPxtl9SNp7erqoefs9G+yZuu31HmjL3gyucy2cOIO86huyiKCiBGNuCzOJE3s1VAM7aMDYNW46rgg5/yffaM0jA7DBfREL2kSqTkXLmCgdug6gZOyw2ykVrQzQJRCkIJvTlEbq+0xRfIdptbQp3GlLy3V50I5HN13Hk9z/cFH2uI9l0UP6sQlvRyhMsw6723v+tWtpiwD+xl3plgNndvLHPvX2eWKVLTTOmKK9UdCJ4v5kezK46l6LTyBaRDE3N9c6w4e43m48lyUkrYfFSczeyEKyE5N9youhF++hFCCNc0/VCGxTWfpkE3Ehy06E/4mZ/aEjMZopRMOeiy4Gz6RB3vKcqvek7HGSzShvI3rxbjZV66W97+O3OJ3j1z9fdUv6/6R2VIZ/Ve5xc2BzZBxj1vKjHQyLeo=;Ij03m+1XeY2MBcvjb3ZXPA=="
+secured: "WmwimjR3xj7IYfoqg9088sLHIV4XL9L5ApOXQdIZ2VKTwQfk9k+dEsAVCj07YvmEZQG5MfYOOK0o6ThkWjmUiQWQO2ugPtlvt8HWL3pO0bYmwpd8LpUMlntz3l5h4ufVtpS2y4m4G4gZwufcIenW+Q+BuEPMlMCUX4D+Q5SN5jXSJlE7FILt4g6xNfW0s+K6WYYgBvtGUFdxPdwC1yx6JFSNm1VsTnO7U3x3thnGSP7PhmsVSbox27qA3LEUAPLyiMbTt8bCXMVinfApY4RpK72WZysfEqJRHmJjQm60Pn1L30p8XJxFgfiwBpFEH1X2kuhoeLwC2/Hym/8FWIK/0v3DKYWOIJpYYum8IGSG5Ze83b/ulOCr+jJPJbejxvwSGQdAdFlbJGMUlDQkgoxeFA470S6Nl1Ga9U1/6ShNVGI=;gUWyA8wvzghlR8enlnkgXA=="
 ---
 
