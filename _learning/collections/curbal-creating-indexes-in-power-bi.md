@@ -2,7 +2,7 @@
 title: "Creating indexes in Power BI"
 excerpt: "A playlist of videos on how to create index columns in Power BI."
 type: collection
-heat: 53
+heat: 54
 
 provider:
   name: Curbal
