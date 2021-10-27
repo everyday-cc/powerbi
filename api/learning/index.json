@@ -208,44 +208,6 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-using-allexcept-vs-all-values.md",
-      "title": "Using ALLEXCEPT vs ALL VALUES",
-      "excerpt": "ALLEXCEPT is a handy DAX function to retrieve all the columns of a table except for some. When used as a CALCULATE modifier, its behavior is less intuitive and might result in inaccurate measures. In this video, we elaborate on the most common mistake when using ALLEXCEPT in CALCULATE.\r Article and download:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-using-allexcept-vs-all-values/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-using-allexcept-vs-all-values/",
-      "originalUrl": "https://youtube.com/watch?v=DGPvGqzQteM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DGPvGqzQteM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M35S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-08-31T03:00:53-07:00",
-      "heat": 139,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DGPvGqzQteM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/guy-in-a-cube-getting-started-with-power-bi.md",
       "title": "Getting Started with Power BI",
       "excerpt": "These videos will help you with getting started with Power BI. From Power BI Desktop to the Power BI service and items in between, this is a great way to get started.",
@@ -503,23 +465,61 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-book-overview-the-definitive-guide-to-power-query-in-power-bi-and-excel.md",
-      "title": "Book Overview: The Definitive Guide to Power Query in Power BI and Excel",
-      "excerpt": "Recently Leila and I published a series of two books under the name of The Definitive Guide to Power Query in Power BI and Excel. Both books are now available in ebook and paperback format on Amazon and Google Play Books. In this video, I'll explain some details about the book, the agenda, and who is",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-book-overview-the-definitive-guide-to-power-query-in-power-bi-and-excel/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-book-overview-the-definitive-guide-to-power-query-in-power-bi-and-excel/",
-      "originalUrl": "https://youtube.com/watch?v=HtvyiSkgpsg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HtvyiSkgpsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M39S",
+      "path": "_learning/videos/guy-in-a-cube-5-guy-in-a-cube-tips-to-make-better-video.md",
+      "title": "5 Guy in a Cube tips to make BETTER VIDEO!",
+      "excerpt": "Recording video is hard. So much goes into it that most people get frustrated or give up. We've learned a few things over the years. Here are 5 tips to help go to the next level with better video.  Casey Neistat video: https://www.youtube.com/watch?v=nLSUrTxquyE  Tessa Hur video: https://www.youtube.com/watch?v=ZSyYegfA6PQ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-5-guy-in-a-cube-tips-to-make-better-video/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-5-guy-in-a-cube-tips-to-make-better-video/",
+      "originalUrl": "https://youtube.com/watch?v=0iLSyCel6yw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0iLSyCel6yw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M50S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-08-26T08:00:01-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0iLSyCel6yw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-book-overview-power-bi-dax-simplified.md",
+      "title": "Book Overview   Power BI DAX Simplified",
+      "excerpt": "A few weeks ago, my new book was published and is now available. As the Amazon web page for the book won't allow me to put some more details about what it is, I thought it better to share some more information about it here. This book is available in all possible Amazon markets as Kindle and paperback",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-book-overview-power-bi-dax-simplified/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-book-overview-power-bi-dax-simplified/",
+      "originalUrl": "https://youtube.com/watch?v=oMvpZvBkGwU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oMvpZvBkGwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M21S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-09-20T20:38:34-07:00",
+      "publishedDateTime": "2021-08-12T17:18:13-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/HtvyiSkgpsg/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/oMvpZvBkGwU/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -530,7 +530,7 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power Query"
+        "DAX"
       ]
     },
     {
@@ -678,8 +678,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 26829,
-            "average": 4.797682
+            "count": 26832,
+            "average": 4.797704
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -720,8 +720,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 45411,
-            "average": 4.771685
+            "count": 45414,
+            "average": 4.7716784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -780,8 +780,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 45411,
-        "average": 4.771685
+        "count": 45414,
+        "average": 4.7716784
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -976,8 +976,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 26829,
-        "average": 4.797682
+        "count": 26832,
+        "average": 4.797704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1056,8 +1056,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 14719,
-        "average": 4.757864
+        "count": 14721,
+        "average": 4.757897
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1098,8 +1098,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 24742,
-        "average": 4.7321153
+        "count": 24746,
+        "average": 4.7321587
       },
       "provider": {
         "name": "Microsoft Learn",
