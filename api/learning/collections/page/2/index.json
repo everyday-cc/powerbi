@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 24,
-            "average": 4.875
+            "count": 25,
+            "average": 4.88
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3423,8 +3423,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3085,
-            "average": 4.719935
+            "count": 3086,
+            "average": 4.720026
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3743,8 +3743,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 2998,
-            "average": 4.7991996
+            "count": 3000,
+            "average": 4.799333
           },
           "provider": {
             "name": "Microsoft Learn",
