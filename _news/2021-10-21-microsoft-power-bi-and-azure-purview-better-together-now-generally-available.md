@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/microsoft-power-bi-and-az
 webUrl: "https://powerbi.microsoft.com/en-us/blog/microsoft-power-bi-and-azure-purview-work-better-together-is-now-in-ga/"
 type: article
 quality: 83
-heat: 84
+heat: 83
 published: true
 
 provider:
