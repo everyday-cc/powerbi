@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/plan-your-power-bi-sessio
 webUrl: "https://powerbi.microsoft.com/en-us/blog/plan-your-power-bi-sessions-at-ignite-nov-2-4-2021/"
 type: article
 quality: 87
-heat: 90
+heat: 87
 published: true
 
 provider:
