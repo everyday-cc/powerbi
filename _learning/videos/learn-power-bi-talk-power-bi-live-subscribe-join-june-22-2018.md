@@ -4,7 +4,7 @@ excerpt: "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the lat
 originalUrl: https://youtube.com/watch?v=0BoE-5dOSPk
 type: video
 price: Free
-length: PT1H46M16S
+length: PT1H46M19S
 publishedDateTime: 2018-05-31T23:18:58Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "2HSIRkLeN7Tmw3vR0A/DuSchXIMMfbwpEgSQOB9IY8dssLjG1cfYsVpo0OWVns8qO0+rPFTCoFCQn1fN1RAp1h9syWXmK5jsCvIocdXWo+ZXmUOQgMMJRkiLW3Krox/SXH2kSsrddso9bOGvWPKp6zAviKoXJQ+GUa4yEPgR64TjAjYBa2LSx7hM74EhMwnMMv7L/QnoWqeHoBb8uQ5Pk9mJZUTaNXNgB/vopq2aUZHxIbWPzjP+dqXUoNzualvXynk91GYCaNKQx6gMhRxSUnXToSJbxkqOHIDp6yHAmaweGWHTKCBOSda5ZjbrR0Um3dVWioKR5wy3MuSBg/SBFvskbLvWGc/Y4TqKoOIU+kqJHLIVXLzHKEc5G5LAj6Y9Jtb7Vkakt8W1N7LcKiDxNM9EFblbYklSu6h/cgYJu+U=;70KC/j7FSkvdLky5iBTT2A=="
+secured: "HvY/PGnqT1Qh9MfIXfgSHKOiEQh6VFvHblk/4RVyekw9oVBmLlegZdUrW7uJ7HrLGvP3ibRuQa1zRKWGFhkatgKUqgGmNR/o6ZqXLouhiZUNyKFeUQOn+2W7VsZKGcUKzVUo7iJOpl05hZ+2uKH4snWYmbrKOWzJCkoePPU1nAmuHqMFTs3BD5JTv7LFowEJKRR6dvRoDG77Jp8hSP9xx7Z9haX8JlK38fi1EXPgSb0FYiP5TFarYQFsduQICBlO6wUY6/l5XjT7AiZJK8YHJBTjfSj7J7emJdUsGt3+6Faw0frzmizStAAZ3FVOunzmgpavdNe0qQ4Bi8ePitK8pWv5+9OG1Y2pZQHR+0DrI/GfuZlv+59e3lrcIyoKHmYHs2SQHjRGlL+qmbQScuGDkpXfve2ECuNcy84Nvk/1s4s=;5HmTBSF3cIDx+uBLBo9HZQ=="
 ---
 
