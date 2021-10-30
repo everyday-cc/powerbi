@@ -355,37 +355,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-dax-for-power-bi-calculate-cumulative-sum-running-total-of-count-in-power-bi.md",
-      "title": "DAX for Power BI - Calculate Cumulative Sum (Running Total) of Count in Power BI",
-      "excerpt": "The cumulative total is also known as Running total and during this video, we will talk about how we can calculate a cumulative sum for request count using Power BI Dax measure in Power BI.  During this session, we will cover the following things: • Real-life example where we need Cumulative Sum 00:21",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-dax-for-power-bi-calculate-cumulative-sum-running-total-of-count-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-dax-for-power-bi-calculate-cumulative-sum-running-total-of-count-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=8wjYWiZ7gpQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8wjYWiZ7gpQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M5S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-07-01T07:19:06-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8wjYWiZ7gpQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/enterprise-dna-main-difference-between-dax-excel-formulas-18-ultimate-beginners-guide-to-dax-2020.md",
       "title": "Main Difference Between DAX & Excel Formulas - (1.8) Ultimate Beginners Guide to DAX 2020",
       "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
@@ -506,38 +475,6 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-date-or-calendar-table-best-method-dax-or-power-query.md",
-      "title": "Power BI Date or Calendar Table Best Method   DAX or Power Query",
-      "excerpt": "So you want to create a date or calendar table in Power BI, and you search for ways to do that. Then you will find many different approaches for that. Some of the approaches are using Power Query, some are using DAX. Which method is the best? What is the actual difference between a date table created",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-date-or-calendar-table-best-method-dax-or-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-date-or-calendar-table-best-method-dax-or-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=s2FeGeJtzSE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s2FeGeJtzSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M33S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-10-06T15:49:47-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/s2FeGeJtzSE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query",
         "DAX"
       ]
     },
@@ -890,50 +827,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-write-formulas.md",
-      "title": "Write DAX formulas for Power BI Desktop models",
-      "excerpt": "In this module, you'll learn how to write DAX formulas to create calculated tables, calculated columns, and measures, which are different types of model calculations. Additionally, you'll learn how to write and format DAX formulas, which consist of expressions that use functions, operators, references to model objects, constants, and variables.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-write-formulas/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 1194,
-        "average": 4.7110553
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/absent-data-channel-calculate-totals-for-mtd-qtd-and-ytd-in-dax.md",
       "title": "Calculate Totals for  MTD, QTD and YTD in DAX",
       "excerpt": "Learn how to quickly use the CALCULATE function to get total from year to date, month to date and quarter to date in Power BI using a Calendar table and time intelligence functions in DAX.",
@@ -1099,6 +992,123 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/jBPLm5BHl2c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-132-dynamic-topn-others-in-power-bi.md",
+      "title": "DAX Fridays! #132: Dynamic TopN + Others in Power BI",
+      "excerpt": "I was recently asked to do a TopN + Others for a customer and in this video I will share my solution with you. #curbal #dax #daxfridays #powerbi  Link to RANX video: https://www.youtube.com/watch?v=z2qzJVeYhTY Gerhard post: https://blog.gbrueckl.at/2019/05/power-bi-dynamic-topn-others-with-drill-down/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-132-dynamic-topn-others-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-132-dynamic-topn-others-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=UAnylK9bm1I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UAnylK9bm1I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M32S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-11T02:51:24-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UAnylK9bm1I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-135-linear-regression-in-power-bi.md",
+      "title": "DAX Fridays! #135: Linear Regression in Power BI",
+      "excerpt": "In today's video I will explain Linear Regression: what it is, how it is used and how to calculate it in Power BI. Happy summer! #curbal #powerbi #dax #daxfridays Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK    Here you can download",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-135-linear-regression-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-135-linear-regression-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=d1kHgFULcko",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d1kHgFULcko\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M16S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-10T07:38:10-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d1kHgFULcko/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-14-summarize.md",
+      "title": "DAX Fridays! #14: SUMMARIZE",
+      "excerpt": "Learn how to use the function SUMMARIZE in DAX/ Powerpivot.  The function SUMMARIZE can return a summary of sales grouped around the calendar year and the product category name, this result table allows you to do analysis over the reseller sales by year and product category.  Source:https://msdn.microsoft.com/en-us/library/gg492171.aspx",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-14-summarize/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-14-summarize/",
+      "originalUrl": "https://youtube.com/watch?v=-Ola264bKXk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Ola264bKXk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M45S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-10-31T12:00:10-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-Ola264bKXk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
