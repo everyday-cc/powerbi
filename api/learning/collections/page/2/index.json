@@ -1741,7 +1741,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-reach-social.png",
@@ -1950,7 +1950,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-reach-social.png",
@@ -3194,8 +3194,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 4993,
-            "average": 4.760064
+            "count": 4995,
+            "average": 4.75976
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3404,8 +3404,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3101,
-            "average": 4.719445
+            "count": 3102,
+            "average": 4.719536
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3487,8 +3487,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2314,
-            "average": 4.766638
+            "count": 2315,
+            "average": 4.766739
           },
           "provider": {
             "name": "Microsoft Learn",
