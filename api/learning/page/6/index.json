@@ -946,7 +946,7 @@
             ]
           },
           "publishedDateTime": "2019-03-07T08:00:21-08:00",
-          "heat": 55,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/bjERMKH2blw/maxresdefault.jpg",
@@ -984,7 +984,7 @@
             ]
           },
           "publishedDateTime": "2019-02-14T08:00:13-08:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/CyYLDbRBHDQ/maxresdefault.jpg",
@@ -1443,8 +1443,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 29,
-            "average": 4.827586
+            "count": 30,
+            "average": 4.8333335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1461,7 +1461,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 53,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
@@ -1653,8 +1653,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 29,
-            "average": 4.827586
+            "count": 30,
+            "average": 4.8333335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1671,7 +1671,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 53,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
@@ -2485,8 +2485,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 5268,
-        "average": 4.768413
+        "count": 5269,
+        "average": 4.768267
       },
       "provider": {
         "name": "Microsoft Learn",
