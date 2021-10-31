@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-installe
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-installer-changes-webview2/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:
