@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M53S
 publishedDateTime: 2016-09-13T20:34:01Z
-heat: 53
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vcYz0XPklXg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "eoy52sQaqBdO1pkxMhzjdbttdrSouK8847WPk/MzI6aT8JMIaA7rZ5JtTgksMkPqnJA98nazTdXvkEwZx+/AEhbAVsRIJK+RVuGJ37TvwqSAoEZ+5hzMBZN1YsgGdwsqFnXHdGcogoE7egcf6vnQdaooVhMxFajNrc9VSbiKkS9yYoemgMvwIMcsgGwn4LeH9tRCseJjrcwZPOxiEAGJYGRe3waObTDKzpYdxNb2Ede2STfmhNGCwnLbQQZ7Trn7f/XuhAqPKChoKJXUkxceEt8aNXJIlk2eg1FMk3bLJSk8qaeo5nUyXQRL+k/cdC7oJN5ODeyZZRCj6QUDUsBvVl3eRnU7jiz0T9OBKOH6B3lkZ/extqpY02kEF/S3p+zuJW5OC0vcMfpPT4uYFzpIOLZvbIDvkxZjaZZ1OIiyQyk=;5o4uKNcBCpsZvRiLGcByUg=="
+secured: "d+tPaszhluy/xsUkx2zGVG6YyPk3hT3IEocqdXj9S1ptC4S6EsF85MoDdwHsl281vRAZMrUfosXacvfU3ZTxeWRLfZqwvsVLDgtca3qGbV0/7TxIK7ItHutiJTl3gqI/V2DiB4AKiVrGAPrwm/mXnipvUkepWYY1CSaewCO5wUjc6tzAF6DUpWqpeEc5h1VuFdSoHo+DINbLbV12behXZeP+OFl6i6O62zUdp0NcMFFd6QV6r12C+oRpIlpp7Iy5E2Z40WvVVRW+HJPhT82GcvX7IFCDFirtvvnBCTu3GPIck0Sp4TgCivDfBGkb968Gi96MfuPsl3y8YIfRglO33OtiE1YwUdGFJlt4K/g4a67l1S7rES2r+s4zVr6XbuQ2bPMX/xhjuKV6UIdiIU635qQlvXDine08wABIWaLiegg=;RXfdtVefAc7pZecmK6GilQ=="
 ---
 
