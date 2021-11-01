@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/new-premium-metrics-app-p
 webUrl: "https://powerbi.microsoft.com/en-us/blog/new-premium-metrics-app-preview-now-available/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
