@@ -4,7 +4,7 @@ excerpt: "Learn when and why you should use the SWITCH Function in DAX. Follow t
 originalUrl: https://youtube.com/watch?v=iKZEtEn-Inc
 type: video
 price: Free
-length: PT9M55S
+length: PT9M54S
 publishedDateTime: 2020-07-28T03:36:12Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "3vLo2ZZv95e9wBLHSEuefmDOUkLgXAxxCMieVswugOP5rxHztsu8gw7DYnXAFTalx/Y35LZI+T+P2q5KSCXuq7S9av1yfqZ4mlhupDWjBaTe7MT2H8ow1XBiP463NNm0F0Fk4phmqqOmaC9PGX7zEc00Cr4hnirjlnIZGuiCxxxzf6eQOzqWD8TX/mC3up53SSX3kXNhtv3tjbKUv9+hXiIaWNFeojJoR9jM8PfY28mxFMik8K4qLpTpSUSGJvN4CPrtznOPSt0SE1FpGXpsaMunsN4qCKg3NQAr9KOAAs9s3K6kCXb5JXJKUQ6qzVuHwYbliNzh32cBDTUqDnx7pxSHM4kk0hRi/ksWtHKUfmcGGrBJEyJ4t2/Cq1cWBlwHki2B+wY7DiKecrl4fQ8LIl2pm4Ijq7rblfrPb7Ra7b4=;1FDbqNYoZzmZizVlXS/JAg=="
+secured: "K6c9oPPEAQ0//jjfJsohplqXN6hgpLD8uQUMTi7l9NzPkFBuV+L/g5mUpuKx7BMahZ3Z+kwSK4/9VKER/JkMUgz+61YkRE5ZPhZYiSoiX0FeOYe+Xul2AhEQyF2VR17uconn6dp3viMuY5FA49rrl1GrgI3fWV1IoVyKkTxQD4P0ZLkV0/xHHaw3UJwxjK/5+JeLekRZkvPoslr7ttAPbk9iIwJHn1Gab+wvvBwxHzC7EMM464PNMjo2aPuMiz+TmJhisCkFKgY92iLvy21LMq7eg4Poscn8ZoQyuhXQrlJbJjTEHODF4VjfaIpLb+0qD5HynZiseHkSAFqZRNMukTNzV5WHAhWgYFN8dDnAlPFGDued8HdAMf3gSYl74EPgi2Eh2gMF58ZRH3BY7uRXdbD1+waAhb/M0rFVo+TtBHs=;qFF3zafXiwooTsGlm63VGg=="
 ---
 

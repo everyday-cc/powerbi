@@ -281,8 +281,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 619,
-        "average": 4.7027464
+        "count": 621,
+        "average": 4.703704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -325,8 +325,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-modify-filter/",
       "length": "PT21M",
       "ratings": {
-        "count": 562,
-        "average": 4.633452
+        "count": 564,
+        "average": 4.634752
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -369,8 +369,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 1199,
-        "average": 4.7097583
+        "count": 1201,
+        "average": 4.7102413
       },
       "provider": {
         "name": "Microsoft Learn",
