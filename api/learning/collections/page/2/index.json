@@ -1440,7 +1440,7 @@
             ]
           },
           "publishedDateTime": "2017-10-11T07:34:50-07:00",
-          "heat": 53,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/iEHfUuoZseo/maxresdefault.jpg",
@@ -3001,7 +3001,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3317,8 +3317,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4088,
-            "average": 4.7054796
+            "count": 4089,
+            "average": 4.7055516
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3721,8 +3721,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2331,
-            "average": 4.766195
+            "count": 2332,
+            "average": 4.766295
           },
           "provider": {
             "name": "Microsoft Learn",
