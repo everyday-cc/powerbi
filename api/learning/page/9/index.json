@@ -714,7 +714,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 55,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/perform-analytics-power-bi-social.png",
@@ -840,8 +840,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 7817,
-        "average": 4.7591147
+        "count": 7819,
+        "average": 4.7591763
       },
       "provider": {
         "name": "Microsoft Learn",
