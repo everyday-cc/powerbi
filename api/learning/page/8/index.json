@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 26,
-            "average": 4.8846154
+            "count": 27,
+            "average": 4.888889
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1056,8 +1056,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 5326,
-        "average": 4.768682
+        "count": 5327,
+        "average": 4.7687254
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1915,8 +1915,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4091,
-            "average": 4.705451
+            "count": 4092,
+            "average": 4.705523
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1958,8 +1958,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 5326,
-            "average": 4.768682
+            "count": 5327,
+            "average": 4.7687254
           },
           "provider": {
             "name": "Microsoft Learn",
