@@ -18,7 +18,7 @@ items:
   - videos/absent-data-channel-statistics-and-correlation-tables-in-power-bi-with-python
   - videos/absent-data-channel-frequently-bought-together-items-with-python-and-power-bi
   - videos/absent-data-channel-create-power-bi-calendar-table-with-python-fast-detailed-and-simple
-  - videos/absent-data-channel-get-power-bi-sample-datasets-with-python
+  - videos/absent-data-channel-get-python-sample-datasets-in-power-bi
 
 topics:
   - Power BI
