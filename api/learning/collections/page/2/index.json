@@ -3237,8 +3237,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 5038,
-            "average": 4.759825
+            "count": 5040,
+            "average": 4.7599206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3322,8 +3322,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 5332,
-            "average": 4.7687545
+            "count": 5336,
+            "average": 4.768366
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3447,8 +3447,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3136,
-            "average": 4.7203445
+            "count": 3137,
+            "average": 4.7201147
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3725,8 +3725,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2109,
-            "average": 4.715505
+            "count": 2110,
+            "average": 4.7156396
           },
           "provider": {
             "name": "Microsoft Learn",
