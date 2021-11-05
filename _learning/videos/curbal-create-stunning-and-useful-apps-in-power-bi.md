@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT20M53S
 publishedDateTime: 2019-07-01T12:25:03Z
-heat: 56
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3Bo0HHUcuas\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+ntgGdDXud1361z+bEjhR7MzxuOZNC+NOhMfuwbieVRi+psAaYAPDK0mgA+MBodZCQkbfnSdGWylW673Ijg1cbvoRJM3T52HORlzi/K5/UFruvPO5fAtgCdbzV7+mBmKgKXy5NeYKloNGnLVfSIinNwDxDSeLhUNBAX2FECJZEBxqSrZBq+GccyCwj84pm6M0UNjJQM23JIdcohCffqpQf0NcxOH59R2Ds+0S47zlTZriIoJDzLe7/l4O9smI62Uyvl2zu+YyxzP5B3jBgwfOYvgF7/0FDMqENUfunNYjatMH/+XGTA3sP44E2WPbViREGfgYqWWfiOY9YB9ho2qTnYIQNqagpujDzV2hV6tucYw71BtvROiYCqszYYYp2RyEywE3RxI7ixeYEpszZJWbM5+nErdXrYxRtFfwVQGYyo=;iP0f74sByGevSMwvfDq6Kg=="
+secured: "k9JjCDYDAydTNg6ZTcQFyzYusge+RBMAX+OLbvVKAW6Bh7A14nCdlKjmowrVeiq5ay9QM2hfKNnbe18gzpFPAXkU0lRcQoamqEkjzwIEvD5db/la5ZGsT13Px6rDox0/ZSdHAHb/0woA3ptaE646uVgz1wvUldUddFAT0UivmF3USSVKii418fqaWd/hw1M6Gt7kvapImzXI+++iQxpQZAKQgrsm3lyg8p0ByJwoPul1/aWD+ZbT78BaCruEIO1mZX8uMj6f28H6oupNriBXbZG2RpWLG0OIrpe2uJuLHt5BUy+UGeUnV1DVrWcdGNQ1c3XG6qEpGFlKvkygEa1+s4N+McdNHrGVzryfaViuFWsXR7q1YmivQSyFWZzdWvmgiSkpKO1uSmLqaul0U6/Ke3PrqUuNMV6NZlPCx70ae7M=;md6njymKOmdEqLqIGFN0mQ=="
 ---
 
