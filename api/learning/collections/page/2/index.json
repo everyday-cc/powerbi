@@ -1650,7 +1650,7 @@
             ]
           },
           "publishedDateTime": "2019-03-07T08:00:21-08:00",
-          "heat": 55,
+          "heat": 53,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/bjERMKH2blw/maxresdefault.jpg",
@@ -3216,8 +3216,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 5036,
-            "average": 4.7599287
+            "count": 5037,
+            "average": 4.7597775
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3258,8 +3258,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4093,
-            "average": 4.705595
+            "count": 4094,
+            "average": 4.705667
           },
           "provider": {
             "name": "Microsoft Learn",
