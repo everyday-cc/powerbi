@@ -1045,8 +1045,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 84,
-            "average": 4.6309524
+            "count": 85,
+            "average": 4.6235294
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1524,7 +1524,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 14,
+            "count": 15,
             "average": 5.0
           },
           "provider": {
@@ -1734,7 +1734,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 14,
+            "count": 15,
             "average": 5.0
           },
           "provider": {
@@ -2140,8 +2140,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 4909,
-        "average": 4.719495
+        "count": 4911,
+        "average": 4.7196093
       },
       "provider": {
         "name": "Microsoft Learn",

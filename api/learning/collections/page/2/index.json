@@ -119,7 +119,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 14,
+            "count": 15,
             "average": 5.0
           },
           "provider": {
@@ -329,7 +329,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 14,
+            "count": 15,
             "average": 5.0
           },
           "provider": {
@@ -3237,8 +3237,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 5040,
-            "average": 4.7599206
+            "count": 5041,
+            "average": 4.7599683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3405,8 +3405,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2787,
-            "average": 4.7197704
+            "count": 2788,
+            "average": 4.719871
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3725,8 +3725,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2110,
-            "average": 4.7156396
+            "count": 2111,
+            "average": 4.715301
           },
           "provider": {
             "name": "Microsoft Learn",
