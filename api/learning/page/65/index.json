@@ -4,120 +4,6 @@
   "page": 65,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-understanding-the-shadow-tenant-in-office-365.md",
-      "title": "Understanding the Shadow Tenant in Office 365",
-      "excerpt": "I describe what a Shadow Tenant is and how it is created.  This is from the perspective of Power BI.  What is a Tenant - https://youtu.be/yVYSx1odYSY?list=PLv2BtOtLblH3SXM6Q44DCjykqp9xPozNH  SUBSCRIBE! https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w?sub_confirmation=1  LET'S CONNECT!  Blogs",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-understanding-the-shadow-tenant-in-office-365/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-understanding-the-shadow-tenant-in-office-365/",
-      "originalUrl": "https://youtube.com/watch?v=y4Bu8QP2QhE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y4Bu8QP2QhE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M20S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-03-01T11:26:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/y4Bu8QP2QhE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-upcoming-edx-course-on-analysis-services-tabular-w-peter-myers-dat225x.md",
-      "title": "Upcoming EdX course on Analysis Services Tabular w/ Peter Myers (DAT225X)",
-      "excerpt": "I met up with Peter Myers to talk about an upcoming EdX course for Analysis Services Tabular. He wrote and primarily presented the course which is free to you. You also have the option to upgrade to get a certificate of completion if you wish.  The course will be released on March 14, 2017 and is DAT225X.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-upcoming-edx-course-on-analysis-services-tabular-w-peter-myers-dat225x/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-upcoming-edx-course-on-analysis-services-tabular-w-peter-myers-dat225x/",
-      "originalUrl": "https://youtube.com/watch?v=TkvT-om-bHM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TkvT-om-bHM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M59S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-03-10T09:29:57-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TkvT-om-bHM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-updates-for-power-bi-comparing-rows-and-finding-calculations-in-profiler.md",
-      "title": "Updates for Power BI, Comparing rows and finding calculations in Profiler",
-      "excerpt": "Use Power Query to Compare Database Records (@ExceleratorBI) http://exceleratorbi.com.au/use-power-query-compare-database-records/  Finding Out Which MDX Calculations Are Being Evaluated By Your Query In Analysis Services Multidimensional (@technitrain) https://blog.crossjoin.co.uk/2017/02/05/finding-out-which-mdx-calculations-are-being-evaluated-by-your-query-in-analysis-services-multidimensional-part-2/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-updates-for-power-bi-comparing-rows-and-finding-calculations-in-profiler/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-updates-for-power-bi-comparing-rows-and-finding-calculations-in-profiler/",
-      "originalUrl": "https://youtube.com/watch?v=oJ3vim4mKbM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oJ3vim4mKbM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M2S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-02-09T09:48:04-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oJ3vim4mKbM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-updates-for-power-bi-desktop-and-service-and-more-roundup-56.md",
       "title": "Updates for Power BI Desktop and service and more... - Roundup #56",
       "excerpt": "Roundups are back! We had a new update for Power BI Desktop and updates for the Power BI Service. Also we look at real time datasets and sentiment analysis.  Sentiment Analysis in Power BI (@gilra) http://community.powerbi.com/t5/Community-Blog/Sentiment-Analysis-in-Power-BI/ba-p/55898  http://datachant.com/2016/08/09/sentiment-analysis-power-bi-part-2/",
@@ -884,6 +770,45 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-what-is-power-bi-embedded.md",
+      "title": "What is Power BI Embedded?",
+      "excerpt": "In this video, Adam, from Guy in a Cube, walks through what Power BI Embedded is. He talks about how you can get started with Power BI Embedded as well as what resources are available for you.  From the Azure portal to sample applications, along with documentation for APIs and usage of features, Adam",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-is-power-bi-embedded/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-is-power-bi-embedded/",
+      "originalUrl": "https://youtube.com/watch?v=iEHfUuoZseo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iEHfUuoZseo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M4S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-10-11T07:34:50-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iEHfUuoZseo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "What is Power BI Embedded?",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-what-the-heck-are-build-permissions-in-power-bi.md",
       "title": "What the heck are BUILD PERMISSIONS in Power BI?!?",
       "excerpt": "Adam look at Power BI build permissions with shared datasets. Taking the mystery out of how you can interact with datasets and know what to do if you can't use it. This also looks at how Power BI free users can use shared datasets with Power BI Premium.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
@@ -1140,6 +1065,83 @@
           "url": "https://i.ytimg.com/vi/QndlMQn91uw/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations.md",
+      "title": "Why can't I define my Power BI Aggregations???",
+      "excerpt": "Trouble defining your Power BI Aggregations? Field selection all grayed out? Patrick has a tip for you!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.  🎓",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations/",
+      "originalUrl": "https://youtube.com/watch?v=V9aG-6wr1xQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V9aG-6wr1xQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M13S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-17T08:00:22-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/V9aG-6wr1xQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Why can't I define my Power BI Aggregations???",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-why-does-microsoft-teams-create-a-power-bi-workspace.md",
+      "title": "Why does Microsoft Teams create a Power BI workspace???",
+      "excerpt": "Frustrated and confused about why Microsoft Teams is creating a Power BI app workspace? Adam explains what the heck is going on.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-does-microsoft-teams-create-a-power-bi-workspace/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-does-microsoft-teams-create-a-power-bi-workspace/",
+      "originalUrl": "https://youtube.com/watch?v=J3FD_4Uset8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J3FD_4Uset8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M45S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-31T04:54:06-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/J3FD_4Uset8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
