@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT14M6S
 publishedDateTime: 2018-11-25T02:53:22Z
-heat: 51
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/INaRk1Cbqmg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Bm6u3KWe914/avKWVCuchRGliZJne6wCUZPCFOKj4h14qWVjZTa+2iCL8jdfqH+mX8L9y1R3AU8CvNSqD1FeI5BaqLAHT2TyI6rJiQ0P+STZV3WDCutMj51AZkN8S3dubKDvXDxJ26fKNu7v8DCtnf3SLbpzs6LabD0zxTVIi3uGvcCUTEq//p5tUAdxEm6sR36lXGE3Wjn+x5KWbwW00j59nM8a9IAMweryoonDbUeebgCl/ZHqGtMpnk0IXDKZHLfPr4uzWAp6603COO1xnaheoz71qyrtbiU66RvkY39KvYvPtVP/h8rmW0NdZPgKJweuy+b1kFa39QdcAsEpnXOSNVH7oYmU/ux0h8LSw6Yd1Q6CmZMdZ7+nrve3VB7bmtOqL6lP/eJwZU1kcCgW/6EDm9x2JeT3oe2xaiuAEjc=;WHy8Zz8bh0VtEyovHi8j+g=="
+secured: "YFojxba7/MarjSewelZR4lMisk1tyzq1yjnyoc/yk1rYMfoccEM8ty9iDzrNl8L5m2h16vxG1p3Kx7du3WaDH4Nl0NVWNgWOrM7Al44vut+DgwINIkQJN4HzS4bnmDnfiuV7vr7bvEb5nT0qC8JQduVY1HKEkgKespetDJ7E763HkLz/bWp/Uu3G+VIXjrukJcZL18rJIFYR4WrM8gQRntyqdzgH5VgGRYfFhPj2m+UQod6ik5WXm0vvKa8DHz1ch+5OlNNme2CaRREQkNI6DHpcKk3Xae5pM1bOJoCuqgWiY5LXN8rX/dmi/tjwVMHyfLoIoaoXznxt0sIDmqgOdwRALcpYnUqYgkknYSnJXrUgAhHMtNmSUyrG1nkC7TaqT5FymHhipm/Q7sapsrU3n7iCFWcERYsr2bu1A1wu894=;VcpEgWHGyRkIUyF3TtIu3w=="
 ---
 

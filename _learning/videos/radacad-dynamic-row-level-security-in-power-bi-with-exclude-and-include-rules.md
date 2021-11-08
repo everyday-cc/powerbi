@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT11M1S
 publishedDateTime: 2020-11-10T00:00:52Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LyeAhV2665s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5X2pnJh+RoPLTLnCsUUXxmDyLwIjpyHfV0xgjUsLepwO1UXnklmYcnLXfN2rTgYMmTUqXRHnHFTpGYYMr23hQ17ulBWXJ6yAFxfFAWfwR4FLTA27ezNRPKUpKFY3FPfd/HfggBWg+WzVx/xBeriGU5gYyjysWh90kowKe9Pmj6JzNKJloUkUS2FFnOgPhJ6kIqfRSUezoeieAkhXXeE64fhgImVhub7VcEt5q+dOVnFdA1R7EoM13QMozgeqiLh/oeRg4K7J2eKojcsl4ZCEIuJzJCcfOaVIFud7Rnksyb5WkU5avnXHyMvZXacV1B60MZtu1l3OoexoQV2SEt5JBSktBA4IjW/TxFYi5lVHr2obwAlIEI1OVKlk4KE77IhAFxcr9b95CkZX3IxwRkt4R5oRvD9VAeErzvKJWyYUpnk=;SFbAGXt20Ab/NoTRNq9aiA=="
+secured: "WWE+xsb5zdVNngymN1o0vkXcFFPP0Z5mH75z/Cg9XRCNAWzMtUa3uu7Haa41BJFtBCAUHdGfxVIbvxi06Ng1iUfjJ2tc759ymb1C93smLFwWOCIP1Q5qcWRcMNahfER1XtWHQ8TOF7CjdMjT9dMnRwt1ETrXlc8A7awiQ/mFqTnmVEb56RLdDbKFYQOZb1OTGloRgB4bUleRLri9BaVSxWU3MWByCz5lckGXAulYP3ZFw9zoJIamoAxsal6Uk4iupOLpV2mI/51rAeJnUfz84a/IosQK1DIzy8ljI3OTn+49kZ31vPlUXgo/Uw7clXc7XAYNnzix0LHwiJGQ+KAOOhIeScjTJk4dfm3u1hVRCs9UYvD/N7rVE+CnSHLDAF1c2HcjDT5cToczVTahGez5Q1dS64MmDvk/Tn2StXczLGs=;of1sc5VvuzQ3CrU21m37ng=="
 ---
 
