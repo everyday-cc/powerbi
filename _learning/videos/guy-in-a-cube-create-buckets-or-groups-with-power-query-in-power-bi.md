@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M59S
 publishedDateTime: 2021-07-08T15:00:04Z
-heat: 54
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D1LO8syugMA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "nGxBVzd1bM8TOZwH8GftX9acBg2Zam5RhKvzoYERTMtDeFckI9DXGN9YHZA3ACxlrwlBjfafDGTR2SbjEFUrxGeSAvhJfdSQ3AjC6DfZx1FHxHdUOHX169nP+LCf30FoIPul3ikYsBS+SK9Gi1/i5LHhA41PngIRWZrUOSimzu83fr7taS+hLKgdAxs8hNy7Q3GY7H6KHhERjJA98KHw2bQHHdtsY5sEuTgODNtPAiEyh2X52WIyCg2msciJ6BAn4NZ27HZY9hOzuDo5rPwY7q9MIozlZtQbn5HU78CPMydgWbpb8/Ho3N6i6atA7CthR0djElaR9xkQQj726wvvf2lshEYQkjvh4nYdishbdymPL816MsqEgbnwH76Pjx5cHFaDak8yRt2YX4iFwOir0qFKdk559nrgyV0XqSqYjvA=;yR/GQN4m0Q9aCNfq90kTTQ=="
+secured: "yoCmtg+uYFlSm8XWIgBwy5AHY/tscxJvJ6EIWNkbvMi1MnxYDCN1vQzC94JF3l29tTH/OpflO15zyvQZu8N8ePBhaUSZrSKm47ePY8ebs8g5v7zDEgZRnpmRIGm6AabJXFEcxPYN6XQZ2cNi0wEsvlQlAsq9GtBm3urJWqhe/n7ALlDsrwgNIIFp2bh+3ayb3wgzTOXW+aVcnN75Org3ss36CxYYlpwybRjKd4X2h78Ol4w3GPGGjaiVG2+DCW9a1Bg8irfBB1RfKNrYHp9dPKjZxsnjha/VAtcks2qWn9LRNpWa6AU100UX+e7Ws/H7jUJ4OBvJ0273kqpHbzrhJanl0bqSBZOICt8ZzrlnEmglNNbmSZ4nmaKpuQnDY7xC3sOgcgZT1GQO2sL3pU+pMgqCbQPj0AuRBjssb/yxQK8=;WLgdokrDEhiyhgtDYhkG1Q=="
 ---
 
