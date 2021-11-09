@@ -137,7 +137,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-data-modeling-social.png",
@@ -347,7 +347,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-data-modeling-social.png",
@@ -1309,8 +1309,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 6739,
-        "average": 4.740911
+        "count": 6742,
+        "average": 4.7410264
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2095,8 +2095,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 4947,
-        "average": 4.719628
+        "count": 4949,
+        "average": 4.7197413
       },
       "provider": {
         "name": "Microsoft Learn",
