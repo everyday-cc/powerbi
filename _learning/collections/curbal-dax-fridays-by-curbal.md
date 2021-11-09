@@ -239,6 +239,7 @@ items:
   - videos/curbal-dax-fridays-211-add-leading-zeros-to-a-column-using-dax
   - videos/curbal-dax-fridays-212-values-vs-selectedvalue-to-conditional-format-a-line-chart
   - videos/curbal-dax-fridays-213-year-to-date-same-period-previous-years-in-one-measure
+  - videos/curbal-dax-fridays-214-create-dax-calculations-on-ranges-taken-from-a-slicer
 
 topics:
   - Power BI
