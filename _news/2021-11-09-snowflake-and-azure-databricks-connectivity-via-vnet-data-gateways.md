@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/snowflake-and-azure-datab
 webUrl: "https://powerbi.microsoft.com/en-us/blog/snowflake-and-azure-databricks-connectivity-via-vnet-data-gateways/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
