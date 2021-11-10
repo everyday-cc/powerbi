@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M39S
 publishedDateTime: 2020-04-17T11:52:20Z
-heat: 53
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V2mA40Z-R30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jRVUDPl7itB9BAO1QisRLfogCyly7ZzMQdh3yyvQnPTGzbYKc8CA1/OsNy3r3qe4PkjeEuPgWLYlW/T6wPqBsqHmFqxN4Pl2GrA+XcchLSz+/vEeXNKfQJplAK18y1OyUG2RvrUoSuK3UO2J4eLgpSspwKFwq9uwkddyqyQdPrzMmIf2PnGMEnKnLIb3jo+iK7v2ZIQ2qnzF/WBy9PSs5hxgKu49F7qRFFlHfVGy7F/MCv1nuQR9UfxmHcRKI+eybCokgRVgikK+9U4fF+7XiF1ZC2F8pspc6LXj0ztmRw47HaC1GJCXd7sfv68pYD02jC0ZiOW2KTqzAk8p7EuvhNG4xNCnrKzfmdt6fLi9wAhujyvdPBCgOZzQnB2TrmNJAfv+Ucqeq9JkayBGrpj2uYyolT97Tnpmpm6AKqK9iFk=;gwyfm0U5VTreMElq01EZ7Q=="
+secured: "BUMZfit/n9NzxkQyMe6OtzSSJuJk0ctP5uy+I86eauMnHrwY4YBeeIsciVlG2V7tKclGO/7+1rIB3HcU0eRFD0tIMrPgmSOldiZ/16d0QvQLnn5VjhU24ip3hPt7Cw4YXh9Pvr/vGbN9+DCQobkRQxRW38hY3N5zHTksy0MGiIdrFjFyeEj1vKxJ52mOYi6AAaPd9en7NKn63JinAWuAHRXEvFIomUDJdjTPoSdOuftPrb6b0bX6UkKhZhb8b2kGFuhKJfSgGvIKCPcCM4hsZihOX2GcfYcG5ZxR8aK6LjGF8nUHr2xVDlyxHQMslShdxI2hNTzAXyPgCNi8OWkvhgiAcxI7m3xyajeHQdpdsEqhCtIhEj/BRvkmnGl3SuTSImopQXTvP7WFSWBtGM6qEvp8rahWDN22JNUpRinLfw8=;rexpL3QkVsJgvpnm4oCW2w=="
 ---
 
