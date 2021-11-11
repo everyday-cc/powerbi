@@ -4,31 +4,31 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-5-awesome-things-about-the-new-ribbon-in-power-bi-desktop.md",
-      "title": "5 AWESOME things about the new ribbon in Power BI Desktop",
-      "excerpt": "Power BI Desktop has a new ribbon! Patrick shows you 5 awesome things about it that you may not be aware of.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-5-awesome-things-about-the-new-ribbon-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-5-awesome-things-about-the-new-ribbon-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=FBf5rYR8KoM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FBf5rYR8KoM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M37S",
+      "path": "_learning/videos/curbal-manage-data-source-credentials-in-power-bi-desktop.md",
+      "title": "Manage data source credentials in Power BI Desktop",
+      "excerpt": "Learn how to manage your data source credentials in Power BI. I will show you how to:  Secure, hide your API key in the store credentials Delete your data source credentials in Power BI Edit your data source credentials in Power BI    Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-manage-data-source-credentials-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-manage-data-source-credentials-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=DG8p6vOuktU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DG8p6vOuktU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M33S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-11-19T07:22:52-08:00",
+      "publishedDateTime": "2018-04-24T13:56:30-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/FBf5rYR8KoM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/DG8p6vOuktU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -82,14 +82,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-using-custom-format-strings-in-power-bi-desktop.md",
-      "title": "Using Custom Format Strings in Power BI Desktop",
-      "excerpt": "Patrick walks you through how to use custom format strings in Power BI Desktop. From dates and time to numbers, he calls out some things to look out for.  Custom Format String Documentation: https://docs.microsoft.com/power-bi/desktop-custom-format-strings  Download sample file: https://guyinacu.be/customformatstringsample",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-using-custom-format-strings-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-using-custom-format-strings-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=72qQrPw4RuE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/72qQrPw4RuE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M5S",
+      "path": "_learning/videos/guy-in-a-cube-new-artificial-intelligence-capabilities-in-power-bi-desktop.md",
+      "title": "New Artificial Intelligence capabilities in Power BI Desktop",
+      "excerpt": "Power BI Desktop has new Artificial Intelligence (AI) capabilities in the November 2019 release. Sarina Stevens shows us what it is all about!  Documentation: https://docs.microsoft.com/power-bi/desktop-ai-insights  Connect with Sarina Stevens: https://twitter.com/StevensSarina  Guy in a Cube courses:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-new-artificial-intelligence-capabilities-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-new-artificial-intelligence-capabilities-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=FsK8OYagidY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FsK8OYagidY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M19S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -102,11 +102,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-09-25T06:57:05-07:00",
+      "publishedDateTime": "2019-11-14T05:13:13-08:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/72qQrPw4RuE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FsK8OYagidY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -121,15 +121,54 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
-      "title": "Describe Power BI Desktop models",
-      "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
-      "length": "PT20M",
+      "path": "_learning/videos/guy-in-a-cube-using-the-key-influencer-visual-in-power-bi-desktop.md",
+      "title": "Using the Key Influencer visual in Power BI Desktop",
+      "excerpt": "Patrick and Justyna look at how you gain insights using the Key Influencer visual in Power BI Desktop. This is the first Power BI AI visual, with more to come.  Follow Justyna on Twitter - https://twitter.com/JustynaLucznik  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-using-the-key-influencer-visual-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-using-the-key-influencer-visual-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=NTvg_3fcoZo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NTvg_3fcoZo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M24S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-03-25T04:57:26-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NTvg_3fcoZo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-iterator-functions.md",
+      "title": "Use DAX iterator functions in Power BI Desktop models",
+      "excerpt": "By the end of this module, you’ll learn about what the family of iterator functions can do and how to use them in your DAX calculations. Calculations will include custom summarizations, ranking, and concatenation.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-iterator-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
+      "length": "PT12M",
       "ratings": {
-        "count": 1799,
-        "average": 4.7565312
+        "count": 633,
+        "average": 4.7093205
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -149,9 +188,9 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png",
-          "width": 643,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/use-dax-iterator-functions-power-bi-desktop-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -160,19 +199,20 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power BI Desktop"
+        "Power BI Desktop",
+        "DAX"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-time-intelligence.md",
-      "title": "Use DAX time intelligence functions in Power BI Desktop models",
-      "excerpt": "By the end of this module, you’ll learn the meaning of time intelligence and how to add time intelligence DAX calculations to your model. These calculations will include year-to-date (YTD), year-over-year (YoY) growth, and others.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-time-intelligence/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
-      "length": "PT19M",
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-write-formulas.md",
+      "title": "Write DAX formulas for Power BI Desktop models",
+      "excerpt": "In this module, you'll learn how to write DAX formulas to create calculated tables, calculated columns, and measures, which are different types of model calculations. Additionally, you'll learn how to write and format DAX formulas, which consist of expressions that use functions, operators, references to model objects, constants, and variables.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-write-formulas/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
+      "length": "PT27M",
       "ratings": {
-        "count": 806,
-        "average": 4.7444167
+        "count": 1218,
+        "average": 4.7101808
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -192,7 +232,7 @@
       "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -286,45 +326,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-new-artificial-intelligence-capabilities-in-power-bi-desktop.md",
-      "title": "New Artificial Intelligence capabilities in Power BI Desktop",
-      "excerpt": "Power BI Desktop has new Artificial Intelligence (AI) capabilities in the November 2019 release. Sarina Stevens shows us what it is all about!  Documentation: https://docs.microsoft.com/power-bi/desktop-ai-insights  Connect with Sarina Stevens: https://twitter.com/StevensSarina  Guy in a Cube courses:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-new-artificial-intelligence-capabilities-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-new-artificial-intelligence-capabilities-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=FsK8OYagidY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FsK8OYagidY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M19S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-11-14T05:13:13-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FsK8OYagidY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-desktop-how-to-find-the-native-query-after-query-folding.md",
       "title": "Power BI Desktop: How to find the native query after query folding",
       "excerpt": "Have you wondered how to find the native query in Power BI Desktop after query folding does its thing? Do you even know what query folding is? In this video, Adam looks at how you can find the query that will be sent to your data source and a few things to be aware of. This applies to Power Query in",
@@ -350,6 +351,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/eVDIHG4dflM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-stop-refreshing-a-single-table-at-a-time-power-bi-desktop.md",
+      "title": "STOP refreshing a single table at a time! (Power BI Desktop)",
+      "excerpt": "Stop refreshing one table at a time! Also, don't wait for the entire data model to finish refreshing. Refresh multiple tables within Power BI Desktop.  Gilbert Q's Blog: https://www.fourmoo.com/2020/04/22/how-to-refresh-selected-not-all-tables-in-power-bi-desktop/  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-stop-refreshing-a-single-table-at-a-time-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-stop-refreshing-a-single-table-at-a-time-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=cnpndrrrD8I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cnpndrrrD8I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M39S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-28T08:00:32-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cnpndrrrD8I/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -407,15 +447,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-write-formulas.md",
-      "title": "Write DAX formulas for Power BI Desktop models",
-      "excerpt": "In this module, you'll learn how to write DAX formulas to create calculated tables, calculated columns, and measures, which are different types of model calculations. Additionally, you'll learn how to write and format DAX formulas, which consist of expressions that use functions, operators, references to model objects, constants, and variables.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-write-formulas/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
-      "length": "PT27M",
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-time-intelligence.md",
+      "title": "Use DAX time intelligence functions in Power BI Desktop models",
+      "excerpt": "By the end of this module, you’ll learn the meaning of time intelligence and how to add time intelligence DAX calculations to your model. These calculations will include year-to-date (YTD), year-over-year (YoY) growth, and others.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-time-intelligence/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
+      "length": "PT19M",
       "ratings": {
-        "count": 1218,
-        "average": 4.7101808
+        "count": 806,
+        "average": 4.7444167
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -435,7 +475,7 @@
       "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -748,14 +788,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-column-profiling-in-power-bi-desktop.md",
-      "title": "Column Profiling in Power BI Desktop",
-      "excerpt": "Adam walks through column profiling within the Power BI Desktop. This includes the latest updates with the general availability (GA) within the April 2019 Power BI Desktop release.  Demo files: https://guyinacu.be/demofiles  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-column-profiling-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-column-profiling-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=WN1cvJGutT8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WN1cvJGutT8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M",
+      "path": "_learning/videos/guy-in-a-cube-5-awesome-things-about-the-new-ribbon-in-power-bi-desktop.md",
+      "title": "5 AWESOME things about the new ribbon in Power BI Desktop",
+      "excerpt": "Power BI Desktop has a new ribbon! Patrick shows you 5 awesome things about it that you may not be aware of.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-5-awesome-things-about-the-new-ribbon-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-5-awesome-things-about-the-new-ribbon-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=FBf5rYR8KoM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FBf5rYR8KoM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M37S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -768,11 +808,50 @@
           }
         ]
       },
-      "publishedDateTime": "2019-05-07T13:53:07-07:00",
+      "publishedDateTime": "2019-11-19T07:22:52-08:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/WN1cvJGutT8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FBf5rYR8KoM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-ask-a-question-with-the-new-qa-visual-in-power-bi-desktop.md",
+      "title": "Ask a question with the new Q&A visual in Power BI Desktop",
+      "excerpt": "Justyna joins us to show the new Q&A visual in Power BI Desktop. Easily ask a question and tune results in this awesome update.  Connect with Justyna: Twitter: https://twitter.com/JustynaLucznik  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-ask-a-question-with-the-new-qa-visual-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-ask-a-question-with-the-new-qa-visual-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=Bg8nRNxcJZA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bg8nRNxcJZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M30S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-16T07:01:09-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Bg8nRNxcJZA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -826,45 +905,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-mark-as-date-table-in-power-bi-desktop-is-here.md",
-      "title": "Mark as Date Table in Power BI Desktop is here!",
-      "excerpt": "Mark as Date Table in Power BI Desktop is finally here! In this video, Patrick takes what Adam did with a custom date table and shows you how you can use Mark as Date Table in Power BI Desktop. This feature was introduced in the February 2018 release of Power BI Desktop. Mark as Date Table has been available",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-mark-as-date-table-in-power-bi-desktop-is-here/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-mark-as-date-table-in-power-bi-desktop-is-here/",
-      "originalUrl": "https://youtube.com/watch?v=i8aKjGZd5kY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i8aKjGZd5kY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M13S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-02-14T06:21:23-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/i8aKjGZd5kY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-desktop-and-role-playing-dimensions-can-you-do-it.md",
       "title": "Power BI Desktop And Role-Playing Dimensions: Can you do it?",
       "excerpt": "In this video, Patrick talks about Power BI Desktop and role-playing dimensions. Can you even do this in Power BI Desktop? Patrick shows you why one particular way is not recommended as it will cause trouble. And then show you how you can use DAX within Power BI Desktop to take this to the next level.",
@@ -904,14 +944,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-stop-refreshing-a-single-table-at-a-time-power-bi-desktop.md",
-      "title": "STOP refreshing a single table at a time! (Power BI Desktop)",
-      "excerpt": "Stop refreshing one table at a time! Also, don't wait for the entire data model to finish refreshing. Refresh multiple tables within Power BI Desktop.  Gilbert Q's Blog: https://www.fourmoo.com/2020/04/22/how-to-refresh-selected-not-all-tables-in-power-bi-desktop/  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-stop-refreshing-a-single-table-at-a-time-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-stop-refreshing-a-single-table-at-a-time-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=cnpndrrrD8I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cnpndrrrD8I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M39S",
+      "path": "_learning/videos/guy-in-a-cube-power-bi-desktop-sync-slicers-with-killadba.md",
+      "title": "Power BI Desktop - Sync Slicers with KillaDBA",
+      "excerpt": "In this video, Homer McEwan (aka KillaDBA), joins Patrick to learn the clicks for sync slicers in Power BI Desktop. Patrick also shows the new group functionality in the May 2018 release of Power BI Desktop.  KillaDBA - Migration Plan song - https://youtu.be/c2R7oMW2u0w   LET'S CONNECT!  KillaDBA - Twitter:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-desktop-sync-slicers-with-killadba/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-desktop-sync-slicers-with-killadba/",
+      "originalUrl": "https://youtube.com/watch?v=qPDjCuvKWCw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qPDjCuvKWCw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M8S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -924,11 +964,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-28T08:00:32-07:00",
+      "publishedDateTime": "2018-05-16T07:40:24-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/cnpndrrrD8I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qPDjCuvKWCw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1142,46 +1182,6 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-get-data-from-onedrive-business-and-personal-into-power-bi-desktop.md",
-      "title": "Get data from Onedrive Business and Personal into Power BI Desktop",
-      "excerpt": "In today's video I will show you how to get data from OneDrive Personal and Business in Power BI.    Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-get-data-from-onedrive-business-and-personal-into-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-get-data-from-onedrive-business-and-personal-into-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=I0KVU9iRMCA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I0KVU9iRMCA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M54S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-02-05T00:30:30-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/I0KVU9iRMCA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query",
         "Power BI Desktop"
       ]
     }

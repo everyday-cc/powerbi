@@ -82,6 +82,45 @@
       ]
     },
     {
+      "path": "_learning/videos/sqlbi-computing-a-measure-in-dax-studio.md",
+      "title": "Computing a measure in DAX Studio",
+      "excerpt": "You can use DAX Studio to evaluate one or more measures in your data model. This is the first step to write, test, and debug your DAX measures in a productive manner.  How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-computing-a-measure-in-dax-studio/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-computing-a-measure-in-dax-studio/",
+      "originalUrl": "https://youtube.com/watch?v=kAniA_N7sB8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kAniA_N7sB8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M59S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-30T09:01:04-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kAniA_N7sB8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-how-to-return-0-instead-of-blank-in-dax.md",
       "title": "How to return 0 instead of BLANK in DAX",
       "excerpt": "How to force a measure to return zero instead of blank, in order to highlight combinations of attributes with no data.\r \r Article and download: https://sql.bi/713576?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
@@ -204,8 +243,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 3158,
-        "average": 4.7197595
+        "count": 3159,
+        "average": 4.719848
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -236,6 +275,49 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
+      "title": "Describe Power BI Desktop models",
+      "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
+      "length": "PT20M",
+      "ratings": {
+        "count": 1799,
+        "average": 4.7565312
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     },
     {
@@ -341,44 +423,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/yC2uR6vOIVY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-create-stunning-reports-with-less-effort-with-this-setting.md",
-      "title": "Create stunning reports with less effort with this setting!",
-      "excerpt": "How can you with no effort besides the original set up, create stunning reports every single time? In this tutorial, i will show you how to set up a custom background for every new page automatically, so you reports wont look dull and white and will stand out among the crowds.  Link to convert image",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-stunning-reports-with-less-effort-with-this-setting/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-stunning-reports-with-less-effort-with-this-setting/",
-      "originalUrl": "https://youtube.com/watch?v=Y4CMU-iOd4I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y4CMU-iOd4I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M3S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-09-13T03:59:30-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Y4CMU-iOd4I/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1040,45 +1084,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ppM-mLckQfs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-get-only-the-rows-you-need-in-power-query-from-your-files.md",
-      "title": "Get only the rows you need in Power Query from your files.",
-      "excerpt": "In today's video I will show you how to find the rows you need and import those instead of importing everything and then filtering them.  Chapters: 00:00 Explain use case 00:40 Import only rows that contain a word 02:20 Get rid of tables that do not contain our word 03:10 Find words on only one column",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-get-only-the-rows-you-need-in-power-query-from-your-files/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-get-only-the-rows-you-need-in-power-query-from-your-files/",
-      "originalUrl": "https://youtube.com/watch?v=lpQp9P90yrg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lpQp9P90yrg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M27S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-09-27T03:35:02-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lpQp9P90yrg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
