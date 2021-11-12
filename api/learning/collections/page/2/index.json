@@ -426,7 +426,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
@@ -468,7 +468,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/automate-data-cleaning-power-query-social.png",
@@ -636,7 +636,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
@@ -678,7 +678,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/automate-data-cleaning-power-query-social.png",
@@ -3227,8 +3227,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 5096,
-            "average": 4.7598114
+            "count": 5098,
+            "average": 4.75971
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3269,8 +3269,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4133,
-            "average": 4.7067504
+            "count": 4135,
+            "average": 4.7068925
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3312,8 +3312,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 5391,
-            "average": 4.768874
+            "count": 5393,
+            "average": 4.768589
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3548,8 +3548,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2817,
-            "average": 4.7188497
+            "count": 2818,
+            "average": 4.71895
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3590,8 +3590,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3166,
-            "average": 4.7201514
+            "count": 3168,
+            "average": 4.719697
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3673,8 +3673,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2356,
-            "average": 4.767827
+            "count": 2359,
+            "average": 4.7676983
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3715,8 +3715,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2125,
-            "average": 4.716706
+            "count": 2127,
+            "average": 4.716032
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3757,8 +3757,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3062,
-            "average": 4.800457
+            "count": 3064,
+            "average": 4.800261
           },
           "provider": {
             "name": "Microsoft Learn",
