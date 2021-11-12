@@ -261,7 +261,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -992,8 +992,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4128,
-            "average": 4.7066374
+            "count": 4129,
+            "average": 4.7067084
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1035,8 +1035,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 5384,
-            "average": 4.768945
+            "count": 5385,
+            "average": 4.768802
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1213,8 +1213,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 5384,
-        "average": 4.768945
+        "count": 5385,
+        "average": 4.768802
       },
       "provider": {
         "name": "Microsoft Learn",
