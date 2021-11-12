@@ -450,8 +450,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 40,
-            "average": 4.85
+            "count": 41,
+            "average": 4.8536587
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -660,8 +660,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 40,
-            "average": 4.85
+            "count": 41,
+            "average": 4.8536587
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3312,8 +3312,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 5385,
-            "average": 4.768802
+            "count": 5386,
+            "average": 4.768845
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3590,8 +3590,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3165,
-            "average": 4.720063
+            "count": 3166,
+            "average": 4.7201514
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3673,8 +3673,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2354,
-            "average": 4.7676296
+            "count": 2355,
+            "average": 4.7677283
           },
           "provider": {
             "name": "Microsoft Learn",
