@@ -1701,8 +1701,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 37,
-            "average": 4.864865
+            "count": 38,
+            "average": 4.8421054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1785,8 +1785,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 22,
-            "average": 4.8636365
+            "count": 23,
+            "average": 4.826087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1911,8 +1911,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 1222,
-            "average": 4.711129
+            "count": 1223,
+            "average": 4.7113657
           },
           "provider": {
             "name": "Microsoft Learn",
