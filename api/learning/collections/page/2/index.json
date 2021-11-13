@@ -2932,7 +2932,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3276,8 +3276,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 5102,
-            "average": 4.759702
+            "count": 5103,
+            "average": 4.759749
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3486,8 +3486,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3172,
-            "average": 4.7200503
+            "count": 3173,
+            "average": 4.7201385
           },
           "provider": {
             "name": "Microsoft Learn",
