@@ -1,14 +1,14 @@
 ---
-title: "Self-study kit | Power BI Developer in a Day"
-excerpt: "In this video, we introduce the course labs and how you can get set up with the self-study kit. This is video 2 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the videos in"
-originalUrl: https://youtube.com/watch?v=X0P9Mdqx7sY
+title: "Self-study Kit | Power BI Developer in a Day"
+excerpt: "In this video, Peter Myers (Microsoft Most Valued Professional, and course developer) introduces the course labs and how you can get set up with the self-study kit. It is video 2 of 21.  The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required"
+originalUrl: https://youtube.com/watch?v=a9E8X0a_Mis
 type: video
 price: Free
-length: PT5M24S
-publishedDateTime: 2020-06-01T20:32:57Z
-heat: 58
+length: PT3M47S
+publishedDateTime: 2021-11-16T00:13:56Z
+heat: 166
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X0P9Mdqx7sY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a9E8X0a_Mis\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Microsoft
@@ -22,11 +22,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://i.ytimg.com/vi/X0P9Mdqx7sY/hqdefault.jpg
-    width: 480
-    height: 360
+  - url: https://i.ytimg.com/vi/a9E8X0a_Mis/maxresdefault.jpg
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "obovBq59UZlgbrgkkvCa/Ept3wN9zdGl1ZRXSUXiG1GmXUlu+YlANe6192xmaSTTcmM5KU1Q2J+xy4R4zbrbB6CD1v8Yi80Kv2AbFO2fLzSXaOGnuYQJ3fygmfO9cT8SFmiRoJHve6ItVkaUF/lqESKa5CFzZigw0H7HNwyzpN300AXrlfIeFV7SF0Z/RqkryrvsbNui+WAlC7IOhAPKnktm0Zye900Y1YQQ44VUNffk8GZExq7cPOYcDxMz1WG7QNRS0XA+HEhBr3+77GHisHasOPWeDsGUh9MKDyreZRdpRPfbD+sptXJhFsPwOMFoKeYEDvVx1ecFcWNdoHmzl2vGeT1jjgJOWUQdXQ2SePKGIqUNs6JCb/m82FyZLy/00XPjuOIRTg54jxQ5a+J/5HOCuWMRN1qqR8GXUV1SjpA=;vbIAy5Nmm8r2/N4zxuMqgA=="
+secured: "pAmbGNlcVrwcgtR2FAdvTgRU5vLlkjYA1k5i2WxgfUggI8h/IS12P3mTNXsHvbHpdVDWosTVCkgaiePihDYCsvRbVLzY8Vgpp34mqwVJkaxzdYP6TMEXSCc6rGk+WdwyYUB1fhcAWoXUEzaT3l26d/FFWjd8CYwK/H8joaE+7f49hmBM7EbP8sDZ0jqO8FTl0PuVTO+wryGlp9NfA6Y/1amgdZ8TCQ2F8qN3BjWvC2I680l0P6IehlP2yPMauqOwqBx5+7o3dW6V6Cq7HbVg0RtLVFGFZwvDazsomQ+yr+AbVwsExrEU+QG+kUOB1JYiR2mXIVNyuTkWk+Z5Fo15JF57kC7sqGLy3wC5yNU0levgouJR/H/8jyvvQZRA01MiXBC2tUadeBr28v0ohrbWvg==;dlQ7Ry5LFdE/c1gAZPS/0w=="
 ---
 
