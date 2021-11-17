@@ -321,7 +321,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-reports-social.png",
@@ -345,8 +345,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 25,
-            "average": 4.84
+            "count": 26,
+            "average": 4.8461537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3328,8 +3328,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 5133,
-            "average": 4.7586207
+            "count": 5134,
+            "average": 4.7586675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3370,8 +3370,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4168,
-            "average": 4.706574
+            "count": 4170,
+            "average": 4.7067146
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3538,8 +3538,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3190,
-            "average": 4.72069
+            "count": 3191,
+            "average": 4.720777
           },
           "provider": {
             "name": "Microsoft Learn",
