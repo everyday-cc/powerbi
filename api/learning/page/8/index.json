@@ -1717,8 +1717,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 48,
-            "average": 4.8958335
+            "count": 49,
+            "average": 4.897959
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2135,8 +2135,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 99,
-            "average": 4.676768
+            "count": 100,
+            "average": 4.68
           },
           "provider": {
             "name": "Microsoft Learn",
