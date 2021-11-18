@@ -18,7 +18,7 @@ website: https://t.co/sfMHqOSfBC
 twitter:
   username: awsaxton
   url: https://twitter.com/awsaxton
-  followers: 6697
+  followers: 6698
 
 linkedin:
   url: https://www.linkedin.com/in/guyinacube/
