@@ -162,7 +162,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 50,
+          "heat": 130,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -428,8 +428,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 48,
-            "average": 4.8125
+            "count": 49,
+            "average": 4.8163266
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -638,8 +638,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 48,
-            "average": 4.8125
+            "count": 49,
+            "average": 4.8163266
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4066,8 +4066,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2138,
-            "average": 4.7165575
+            "count": 2139,
+            "average": 4.71669
           },
           "provider": {
             "name": "Microsoft Learn",
