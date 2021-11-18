@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 38,
-            "average": 4.8421054
+            "count": 39,
+            "average": 4.8461537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -243,8 +243,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 50,
-            "average": 4.82
+            "count": 51,
+            "average": 4.8235292
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -453,8 +453,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 50,
-            "average": 4.82
+            "count": 51,
+            "average": 4.8235292
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1780,7 +1780,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-environment-social.png",
@@ -2640,8 +2640,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-calculations/",
           "length": "PT57M",
           "ratings": {
-            "count": 30,
-            "average": 4.3
+            "count": 31,
+            "average": 4.225806
           },
           "provider": {
             "name": "Microsoft Learn",
