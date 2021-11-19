@@ -22,6 +22,9 @@ items:
   - videos/microsoft-module-2-power-bi-embedded-analytics-part-1-of-2-power-bi-developer-in-a-day
   - videos/microsoft-module-2-power-bi-embedded-analytics-part-2-of-2-power-bi-developer-in-a-day
   - videos/microsoft-module-3-configure-permissions-part-1-of-2-power-bi-developer-in-a-day
+  - videos/microsoft-module-3-configure-permissions-part-2-of-2-power-bi-developer-in-a-day
+  - videos/microsoft-module-4-embed-power-bi-content-part-1-of-2-power-bi-developer-in-a-day
+  - videos/microsoft-module-4-embed-power-bi-content-part-2-of-2-power-bi-developer-in-a-day
 
 topics:
   - Power BI
