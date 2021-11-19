@@ -198,7 +198,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 130,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-interactive-experiences-social.png",
@@ -307,8 +307,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-teams/",
       "length": "PT27M",
       "ratings": {
-        "count": 13,
-        "average": 4.5384617
+        "count": 14,
+        "average": 4.571429
       },
       "provider": {
         "name": "Microsoft Learn",
