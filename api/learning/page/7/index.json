@@ -159,8 +159,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 7359,
-        "average": 4.770077
+        "count": 7361,
+        "average": 4.7701397
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1243,7 +1243,7 @@
             ]
           },
           "publishedDateTime": "2019-03-07T08:00:21-08:00",
-          "heat": 55,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/bjERMKH2blw/maxresdefault.jpg",
@@ -1531,8 +1531,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 54,
-            "average": 4.814815
+            "count": 55,
+            "average": 4.818182
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1741,8 +1741,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 54,
-            "average": 4.814815
+            "count": 55,
+            "average": 4.818182
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2274,8 +2274,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 5033,
-        "average": 4.7202463
+        "count": 5035,
+        "average": 4.71996
       },
       "provider": {
         "name": "Microsoft Learn",
