@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 28069,
-        "average": 4.7977486
+        "count": 28075,
+        "average": 4.7977204
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 100,
+      "heat": 99,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -114,8 +114,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 47023,
-            "average": 4.7721753
+            "count": 47026,
+            "average": 4.7721896
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -156,8 +156,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 22019,
-            "average": 4.7199693
+            "count": 22020,
+            "average": 4.7199817
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -454,8 +454,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 15525,
-        "average": 4.7585187
+        "count": 15527,
+        "average": 4.7585497
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -969,8 +969,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 22019,
-        "average": 4.7199693
+        "count": 22020,
+        "average": 4.7199817
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1012,8 +1012,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 25585,
-        "average": 4.732617
+        "count": 25586,
+        "average": 4.7326274
       },
       "provider": {
         "name": "Microsoft Learn",
