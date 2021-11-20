@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT31M
 ratings:
-  count: 15524
-  average: 4.7585673
+  count: 15525
+  average: 4.7585187
 heat: 86
 
 provider:
