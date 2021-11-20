@@ -480,7 +480,7 @@
             "domain": "absentdata.com"
           },
           "publishedDateTime": "2019-09-15T16:53:01-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/hhsAdo7UUXc/hqdefault.jpg",
@@ -3290,8 +3290,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2849,
-            "average": 4.7191997
+            "count": 2850,
+            "average": 4.7192984
           },
           "provider": {
             "name": "Microsoft Learn",
