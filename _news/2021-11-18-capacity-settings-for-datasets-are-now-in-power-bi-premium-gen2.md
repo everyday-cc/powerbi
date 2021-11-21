@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/capacity-settings-for-dat
 webUrl: "https://powerbi.microsoft.com/en-us/blog/capacity-settings-for-datasets-are-now-in-power-bi-premium-gen2/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:
