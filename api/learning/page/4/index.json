@@ -3107,7 +3107,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-calculations-social.png",
@@ -3802,8 +3802,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 22040,
-        "average": 4.7200546
+        "count": 22042,
+        "average": 4.72008
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -4166,8 +4166,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 8091,
-            "average": 4.7572613
+            "count": 8092,
+            "average": 4.7572913
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4208,8 +4208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 10085,
-            "average": 4.7721367
+            "count": 10087,
+            "average": 4.772182
           },
           "provider": {
             "name": "Microsoft Learn",
