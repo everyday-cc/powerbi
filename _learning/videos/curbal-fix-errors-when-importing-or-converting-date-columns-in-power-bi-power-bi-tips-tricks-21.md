@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M1S
 publishedDateTime: 2016-12-14T20:46:02Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6S29m0oR6EI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "HgZqP4nMqWk0j+IdF0jX5iQ0c6GgS4OVtM8TMPtuumEu+ZbkE3EqjZbPdFCZ6VMdjvwDT+tAUh4FoI0aO3Hi3xGaOhd3alA41fwWpvwGIp3nDFMOpt9qjeoqrqNo1Cqup1TLYjZI7EbgUTkvwh6vyUdGQdqXd9sQQCPXqdOh19SX9YW+YRIoWrqOfDxZDW7VtslBqaTV3g1Yh2z04HsE1c0uahRDKe54Q1ky5vhKWrDy/ys7zllVSvSzLaIeeEq/nQRQk159J2pGPsZ+vTi1KKOrP2yj1/lPZ1RlmH30469ffAj1XHSirB1ESAXwXYfhm4tXNHD408b3MPCZ7b7FpXgfPugiJFMkqTE85eNx4qtAU8ZbFSHwdbsBDSvgYxb0MDLDTO87hJc5nCeuIbYJkzhyAXHHO0Hf27+XZsRuJJ8=;6gg48HdFWPaTcelpzJfQ0A=="
+secured: "+HEiIHWcvv/Psyk2pVONHCnF61pD6GDhPmDFl5JGJfHk0ota2Yxqcmdy6CAIc2im4YWQiFFE51Eg8mG3loY+6JaCmpNk/2SNOBVW7VcWhklUVp3SaPP2KNIIpyk6dpep3W62djtmIC5H9d769Clyon0mqJehMwf0t8dQEgqvbmBGmx55PS3oEkBdPEaGmdYf5Zfmq5XrDVGjPMSd8jYwe7HP/uGJcxOMq8TKLHcwgZApRe9VUVSf2AhkELyqVeQgsmq10Yu01DdAGZ/TkKLoKPmav64f4jMEkjrqb0ftWqB/65YesUjfLGsJLoNQvb95sYVkSMfhSYpdzn8cnWC84ksxqczivO3bEHYui7ujV61w4Oa+JquPfdpgkmkfu9SCSHtr6VhzqfyN3LkFpdtOxtud3kq5NK22x6ex9+a9pGI=;L1Y97aYRGq5gK1oeHSEbyg=="
 ---
 
