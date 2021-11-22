@@ -2,7 +2,7 @@
 title: "Power BI Developer in a Day"
 excerpt: "The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the videos in the recorded sequence, starting with video 1 and ending with video 20."
 type: collection
-heat: 165
+heat: 105
 
 provider:
   name: Microsoft
@@ -25,6 +25,9 @@ items:
   - videos/microsoft-module-3-configure-permissions-part-2-of-2-power-bi-developer-in-a-day
   - videos/microsoft-module-4-embed-power-bi-content-part-1-of-2-power-bi-developer-in-a-day
   - videos/microsoft-module-4-embed-power-bi-content-part-2-of-2-power-bi-developer-in-a-day
+  - videos/microsoft-module-5-integrate-content-with-the-power-bi-client-apis-part-1-2-power-bi-developer-in-a-day
+  - videos/microsoft-module-5-integrate-content-with-the-power-bi-client-apis-part-2-2-power-bi-developer-in-a-day
+  - videos/microsoft-module-6-configure-data-permissions-part-1-of-3-power-bi-developer-in-a-day
 
 topics:
   - Power BI
