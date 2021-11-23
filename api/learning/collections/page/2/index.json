@@ -1432,8 +1432,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 91,
-            "average": 4.6373625
+            "count": 92,
+            "average": 4.630435
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2937,8 +2937,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 10108,
-            "average": 4.7722597
+            "count": 10109,
+            "average": 4.772282
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3625,8 +3625,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2149,
-            "average": 4.717543
+            "count": 2150,
+            "average": 4.7176743
           },
           "provider": {
             "name": "Microsoft Learn",
