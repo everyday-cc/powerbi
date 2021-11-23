@@ -281,7 +281,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 131,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -581,8 +581,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 63,
-            "average": 4.84127
+            "count": 65,
+            "average": 4.8153844
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -623,8 +623,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 50,
-            "average": 4.88
+            "count": 51,
+            "average": 4.882353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -708,8 +708,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 20,
-            "average": 4.85
+            "count": 21,
+            "average": 4.857143
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -791,8 +791,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 63,
-            "average": 4.84127
+            "count": 65,
+            "average": 4.8153844
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -833,8 +833,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 50,
-            "average": 4.88
+            "count": 51,
+            "average": 4.882353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -918,8 +918,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 20,
-            "average": 4.85
+            "count": 21,
+            "average": 4.857143
           },
           "provider": {
             "name": "Microsoft Learn",
