@@ -28,6 +28,9 @@ items:
   - videos/microsoft-module-5-integrate-content-with-the-power-bi-client-apis-part-1-2-power-bi-developer-in-a-day
   - videos/microsoft-module-5-integrate-content-with-the-power-bi-client-apis-part-2-2-power-bi-developer-in-a-day
   - videos/microsoft-module-6-configure-data-permissions-part-1-of-3-power-bi-developer-in-a-day
+  - videos/microsoft-module-6-configure-data-permissions-part-2-of-3-power-bi-developer-in-a-day
+  - videos/microsoft-module-6-configure-data-permissions-part-3-of-3-power-bi-developer-in-a-day
+  - videos/microsoft-module-7-automate-solution-management-part-1-of-2-power-bi-developer-in-a-day
 
 topics:
   - Power BI
