@@ -562,8 +562,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 181,
-        "average": 4.569061
+        "count": 182,
+        "average": 4.571429
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -730,8 +730,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-data-visualizations-power-bi/",
       "length": "PT18M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 1,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1186,8 +1186,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
       "length": "PT48M",
       "ratings": {
-        "count": 21,
-        "average": 4.857143
+        "count": 22,
+        "average": 4.818182
       },
       "provider": {
         "name": "Microsoft Learn",

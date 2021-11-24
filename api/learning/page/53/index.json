@@ -4,6 +4,84 @@
   "page": 53,
   "value": [
     {
+      "path": "_learning/videos/curbal-document-all-power-query-m-code-without-copy-pasting-it.md",
+      "title": "Document all Power Query M code without copy pasting it",
+      "excerpt": "In todays video I am going to show you a trick that Chris Webb shared on his blog recently: how to document all M code using Excel. #powerbi #curbal #powerquery  To be able to properly follow along, make sure you check out Monday's video: https://www.youtube.com/watch?v=3edQe2tSq7g  Chris Webb blog post:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-document-all-power-query-m-code-without-copy-pasting-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-document-all-power-query-m-code-without-copy-pasting-it/",
+      "originalUrl": "https://youtube.com/watch?v=fseh56DYeLc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fseh56DYeLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M52S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-05-15T09:20:19-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fseh56DYeLc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-document-your-powerpivot-model-with-dax-studio-power-bi-tips-tricks-15.md",
+      "title": "Document your PowerPivot model with DAX Studio - Power BI Tips & Tricks #15",
+      "excerpt": "Generate a list of measures, calculated columns, related tables and much more with this Excel Add-in.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-document-your-powerpivot-model-with-dax-studio-power-bi-tips-tricks-15/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-document-your-powerpivot-model-with-dax-studio-power-bi-tips-tricks-15/",
+      "originalUrl": "https://youtube.com/watch?v=dh9mnr_oN88",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dh9mnr_oN88\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M10S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-09-28T11:46:40-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dh9mnr_oN88/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dynamically-generate-tips-in-power-bi-for-your-audience.md",
       "title": "Dynamically generate tips in Power BI for your audience",
       "excerpt": "I have recently released my first template app which is free to download here: http://bit.ly/2othNWm and in that app I created a tip section on each page that regenarates each time someone refreshes the app or it gets automatically refreshed. If you want to know how I did that, check this video out!",
@@ -116,45 +194,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-embed-video-text-images-and-web-content-in-power-bi-service-power-bi-tips-tricks-40.md",
-      "title": "Embed video, text, images and web content in Power BI service - Power BI Tips & Tricks #40",
-      "excerpt": "Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1  Our PLAYLISTS: - Join our DAX Fridays! Series: https://goo.gl/FtUWUX - Power BI dashboards",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-embed-video-text-images-and-web-content-in-power-bi-service-power-bi-tips-tricks-40/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-embed-video-text-images-and-web-content-in-power-bi-service-power-bi-tips-tricks-40/",
-      "originalUrl": "https://youtube.com/watch?v=30-32G-QEWM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/30-32G-QEWM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M56S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-03-30T14:49:04-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/30-32G-QEWM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Service"
       ]
     },
     {
@@ -346,45 +385,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-export-power-query-data-into-sql-and-do-incremental-refresh-power-bi-tips-tricks-49.md",
-      "title": "Export Power Query data into SQL and do incremental refresh - Power BI Tips & Tricks #49",
-      "excerpt": "In today’s video I will show you how to export data from power query or power bi into SQL. Really useful for example if you want to come around the limitiation of the lack of increment loads functionality in Power BI.  Some important links: BIInsight blog: http://biinsight.com/exporting-power-bi-data-to-sql-server/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-export-power-query-data-into-sql-and-do-incremental-refresh-power-bi-tips-tricks-49/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-export-power-query-data-into-sql-and-do-incremental-refresh-power-bi-tips-tricks-49/",
-      "originalUrl": "https://youtube.com/watch?v=ANIZkTZO3eU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ANIZkTZO3eU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M1S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-08-14T11:35:23-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ANIZkTZO3eU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     },
     {
