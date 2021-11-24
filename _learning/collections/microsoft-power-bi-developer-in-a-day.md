@@ -31,6 +31,9 @@ items:
   - videos/microsoft-module-6-configure-data-permissions-part-2-of-3-power-bi-developer-in-a-day
   - videos/microsoft-module-6-configure-data-permissions-part-3-of-3-power-bi-developer-in-a-day
   - videos/microsoft-module-7-automate-solution-management-part-1-of-2-power-bi-developer-in-a-day
+  - videos/microsoft-module-7-automate-solution-management-part-2-of-2-power-bi-developer-in-a-day
+  - videos/microsoft-module-8-power-bi-embedded-analytics-licensing-power-bi-developer-in-a-day
+  - videos/microsoft-power-bi-embedded-analytics-playground-power-bi-developer-in-a-day
 
 topics:
   - Power BI
