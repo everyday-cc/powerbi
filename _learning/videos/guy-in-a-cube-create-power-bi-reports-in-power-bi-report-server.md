@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M7S
 publishedDateTime: 2017-06-06T13:37:42Z
-heat: 53
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/j1u3FffHkGo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "pg6Xb7BIl51v/G3Oj2OKqS7D5NeIIGYQcTR9XJ1N0sAlokdXcR3puvcG50fiwuxp1nuQL1MfnjaTBnP6hENOXQtoR2rxYE2727yzT8NPRRxHp1+vt2/DItm5nnddMpmgUYWz8oPFXNQwimfZniBDbkSv5K5ZHh9nBBdI+SwRa23UE/s29HUproLObAWidKxUDy2DoKcKBLBInMjZnRnDKvj2A66LMKJDtAAIfS/RAtOEHkfMhLWxY3qR/txurKj5lZWT9e3mc7jkPtKHAN1Giw+zGO1DtMNRdKj24vEvTLjYXOibYu7qIJhFmKQ1NiSA0aeH8UnHxeHCtpjFRWNYx+CzrduaT5fjCawA3MXT9Rxjx/1AL9X0/7h0Nskm2VpS0pErbmRVF4vFr5BmQdQApnfd7aaqRGuOk9o+Ufjy7M0=;kN2pu1HVmIYu/6PdRNTc7g=="
+secured: "JRoCam81W98p+mINS2Buryge5jU2gDPPDeADkD5HDn3wodHgSHUkwC9BTKc7COqLx94ehHU3eI6AyiChYg+5OWfEcPnYY7UEmsuvnsseIctKIN4ItMhZqxMD49Gy45Eyc0EwH2qtR3iMYMhD+AjUG3BbJkwSH5xAgbqp4SQu7wY2iQSygx9UJ1BaRZA8rIchXzNTigKn5gBwXXFf38WiElH5P21YTFmFOzWprvaoWFGC2uFWgUehGIyHusxxlw5d9ZRID0v2Hwuj3XVML7LiZLSmeUfnoEK20EO6+DIAOync5GO511OV1nn9kebdLp4wtKgMC4cgXAsu5GaQWRKdcKnn5+N0za3DEkyDLRAuIXDrldJHuwPGEamBiycophfXM0SD1F6gOkYK2oj5AmbZ5n5ulja6VT9r2KbJ7//+764=;vIq4Ri381F3JqvQkE/BKuQ=="
 ---
 
