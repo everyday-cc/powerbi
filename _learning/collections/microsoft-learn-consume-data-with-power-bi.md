@@ -4,7 +4,7 @@ excerpt: "Do you want to make business decisions backed by data? Learn how to do
 type: collection
 price: Free
 length: PT2H9M
-heat: 62
+heat: 141
 
 provider:
   name: Microsoft Learn
