@@ -986,8 +986,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-anomaly-detection-using-azure-iot-hub/",
       "length": "PT1H6M",
       "ratings": {
-        "count": 336,
-        "average": 4.610119
+        "count": 337,
+        "average": 4.611276
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1028,8 +1028,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 54,
-        "average": 4.8703704
+        "count": 55,
+        "average": 4.8727274
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1197,7 +1197,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-data-visualizations-power-bi/",
       "length": "PT18M",
       "ratings": {
-        "count": 1,
+        "count": 2,
         "average": 5.0
       },
       "provider": {

@@ -2648,8 +2648,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-calculations/",
           "length": "PT57M",
           "ratings": {
-            "count": 34,
-            "average": 4.2941175
+            "count": 35,
+            "average": 4.3142858
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2833,7 +2833,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
