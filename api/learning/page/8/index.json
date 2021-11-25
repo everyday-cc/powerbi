@@ -534,8 +534,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 28,
-            "average": 4.857143
+            "count": 29,
+            "average": 4.862069
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -617,8 +617,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 66,
-            "average": 4.818182
+            "count": 67,
+            "average": 4.80597
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -827,8 +827,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 66,
-            "average": 4.818182
+            "count": 67,
+            "average": 4.80597
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1315,8 +1315,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 8774,
-        "average": 4.7060633
+        "count": 8776,
+        "average": 4.7060165
       },
       "provider": {
         "name": "Microsoft Learn",
