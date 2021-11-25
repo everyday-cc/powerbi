@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M53S
 publishedDateTime: 2020-08-24T03:38:12Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/39Yed6hnKOE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "sWLtQZ3eGi4wEaw7GBXeNXU7GLVEW5v8KIy9xoyN8r7q4He+9jOn8ztIXJ2iDC2xQYqNrepNTeaiqZit3TmyX4q7oxk342ubR6t8Ue/sw3kC6PqCjQFZrpubKYndojDfJtgaV1k8ZEqi5USJyxo1dpQZN9zuH1qTMiD75VPGOLTjlMYRuYIHeyP1XRdT68OwdamFfLYWZyY+/JzneT/WeGuMsSNERtqSO/bztBlJou7aIst4+pkBp3chTDVw9wDk2el/mXLqsHXeLtVNIEsLO+OxdHpDh8jOC66Hc861/mH59647gzZtZtRIrL6fd0QxYdLJ4DYkm4KUX9SpYSsic39WZT+SWmsOCZh6qk6LJfU7/zHLvHSedWH2lZhKa8MDNM4JWec9Rs7Q88W24ch+4zZoG0f//OPX9k14SPNm5SA=;BWdAmN6irwqK5ob/VnjXVQ=="
+secured: "WNSesi+xc+Kik21mjY/HA11YYKhLzkRQLPuIumMUyVC0VKHDNI51an7jrnV3zMbG7e3hp/GayDQx5YQDCgc+oINEA8DRcM1qvGCBdr2tKNqrjY2X0oHVn4prNUGuhAE20OWcaH5hWtnw7c4PIsxEKfKWtczh5sE4fU49XZN/Uc76stkmd1VEJ/d/buTTGdnJj7lxxHzJoMdg5cA9dG/5XeGXZ6wdtxPQiZ7dFI0s4lq/Y4CSUWc2BNNO6NXt//rPW7dVDUfQLpNIt8YvNfwb/da+nn5rvirxzWrxQI33x2XYC5R17QKQuX0tcOACndkrCJT1oowrORIpZeVRN7rrqyuHZGikNxWMeTmNnGNRL+PYVW3TpWbJXJV/tHSbkH7TeK14wyF1zcFsCCpBQkZE2wRjPUIbMrti97oDpffTmJE=;e4DOjYb/QyXZkNsRhrWhzg=="
 ---
 
