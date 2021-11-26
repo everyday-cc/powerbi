@@ -156,8 +156,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 5071,
-        "average": 4.7201734
+        "count": 5072,
+        "average": 4.7202287
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -715,36 +715,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-page-level-security-workaround-in-power-bi.md",
-      "title": "Page Level Security workaround in Power BI",
-      "excerpt": "If you want to control the access to the Power BI report pages (or tabs) in a way that some users see some pages, and some others see other pages, we need something called page-level security. However, Power BI, as of today, doesn’t support visual-level or page-level security. There is a workaround to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-page-level-security-workaround-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-page-level-security-workaround-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=an7n2kSTBk0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/an7n2kSTBk0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M5S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-08-31T16:48:24-07:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/an7n2kSTBk0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-row-filtering-in-power-bi-and-power-query-remove-blank-rows-vs-remove-empty.md",
       "title": "Row Filtering in Power BI and Power Query   Remove Blank Rows Vs Remove Empty",
       "excerpt": "When you have blank values in your data table, you can use Power Query transformations to remove the row with blank values. There are two transformations that are used very often for this purpose: Remove Empty and Remove blank rows. These two transformations are not exactly the same. In this article,",
@@ -1047,6 +1017,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/_k_Qxb6pyCc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-41-lookupvalue-with-multiple-columns.md",
+      "title": "DAX Fridays! #41: LOOKUPVALUE with multiple columns",
+      "excerpt": "In todays DAX Friday video, we will learn how to use the DAX Function called LOOKUPVALUE: Lookupvalue is very similar to excel's VLookup but there are some critical differences that you need to understand if you want to use it. We will have two scenarios,: Scenario 1: we will do a lookupvalue with two",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-41-lookupvalue-with-multiple-columns/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-41-lookupvalue-with-multiple-columns/",
+      "originalUrl": "https://youtube.com/watch?v=iJfzfYt5Qws",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iJfzfYt5Qws\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M50S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-06-08T13:30:51-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iJfzfYt5Qws/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
