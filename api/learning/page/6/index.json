@@ -1453,8 +1453,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 461,
-            "average": 4.7700653
+            "count": 462,
+            "average": 4.7705626
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1737,8 +1737,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 71,
-            "average": 4.816901
+            "count": 73,
+            "average": 4.808219
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1947,8 +1947,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 71,
-            "average": 4.816901
+            "count": 73,
+            "average": 4.808219
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2821,8 +2821,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 8176,
-        "average": 4.7573385
+        "count": 8177,
+        "average": 4.757368
       },
       "provider": {
         "name": "Microsoft Learn",
