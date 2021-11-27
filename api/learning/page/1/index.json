@@ -179,14 +179,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-get-only-the-rows-you-need-in-power-query-from-your-files.md",
-      "title": "Get only the rows you need in Power Query from your files.",
-      "excerpt": "In today's video I will show you how to find the rows you need and import those instead of importing everything and then filtering them.  Chapters: 00:00 Explain use case 00:40 Import only rows that contain a word 02:20 Get rid of tables that do not contain our word 03:10 Find words on only one column",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-get-only-the-rows-you-need-in-power-query-from-your-files/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-get-only-the-rows-you-need-in-power-query-from-your-files/",
-      "originalUrl": "https://youtube.com/watch?v=lpQp9P90yrg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lpQp9P90yrg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M27S",
+      "path": "_learning/videos/curbal-how-to-keep-your-charts-on-powerpoint-and-ms-word-reports-automatically-updated-power-bi-excel.md",
+      "title": "How to keep your charts on PowerPoint and MS Word reports automatically updated!! | Power BI, Excel",
+      "excerpt": "In todays video I will you show you how to build your PowerPoint and Word reports so your charts will update automatically!!!  The data-witches blog: https://data-witches.com/2021/02/23/automatically-updating-word-or-powerpoint-with-power-bi-data/  Chapters: 00:00 intro 00:20 Proper credit to the data",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-keep-your-charts-on-powerpoint-and-ms-word-reports-automatically-updated-power-bi-excel/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-keep-your-charts-on-powerpoint-and-ms-word-reports-automatically-updated-power-bi-excel/",
+      "originalUrl": "https://youtube.com/watch?v=CWmqrEaSpsE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CWmqrEaSpsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M36S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -199,50 +199,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-09-27T03:35:02-07:00",
-      "heat": 134,
+      "publishedDateTime": "2021-10-18T01:38:57-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/lpQp9P90yrg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-controlling-drillthrough-in-excel-pivottables-connected-to-power-bi-or-analysis-services.md",
-      "title": "Controlling drillthrough in Excel PivotTables connected to Power BI or Analysis Services",
-      "excerpt": "Learn how to customize the drillthrough experience in Excel PivotTables connected to Power BI datasets or Analysis Services databases.\r Article and download: https://sql.bi/726459?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-controlling-drillthrough-in-excel-pivottables-connected-to-power-bi-or-analysis-services/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-controlling-drillthrough-in-excel-pivottables-connected-to-power-bi-or-analysis-services/",
-      "originalUrl": "https://youtube.com/watch?v=h4woNGohUBo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h4woNGohUBo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M1S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-10-20T03:00:29-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/h4woNGohUBo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/CWmqrEaSpsE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -320,23 +281,54 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-insights-in-power-bi-announcing-public-preview-for-power-bi-insights-september-2021-updates.md",
-      "title": "Insights in Power BI | Announcing Public Preview for Power BI Insights (September 2021 Updates)",
-      "excerpt": "Welcome to one interesting announcement from Microsoft. Happy to announce the Public Preview of \"Insights\" in Power BI. The first question arises in our mind how Insights feature is useful to us? The Insights feature helps users easily find and explore insights such as anomalies, trends, and KPI analysis",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-insights-in-power-bi-announcing-public-preview-for-power-bi-insights-september-2021-updates/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-insights-in-power-bi-announcing-public-preview-for-power-bi-insights-september-2021-updates/",
-      "originalUrl": "https://youtube.com/watch?v=KfEu5hK3pgE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KfEu5hK3pgE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M17S",
+      "path": "_learning/videos/radacad-book-overview-the-definitive-guide-to-power-query-in-power-bi-and-excel.md",
+      "title": "Book Overview: The Definitive Guide to Power Query in Power BI and Excel",
+      "excerpt": "Recently Leila and I published a series of two books under the name of The Definitive Guide to Power Query in Power BI and Excel. Both books are now available in ebook and paperback format on Amazon and Google Play Books. In this video, I'll explain some details about the book, the agenda, and who is",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-book-overview-the-definitive-guide-to-power-query-in-power-bi-and-excel/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-book-overview-the-definitive-guide-to-power-query-in-power-bi-and-excel/",
+      "originalUrl": "https://youtube.com/watch?v=HtvyiSkgpsg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HtvyiSkgpsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M39S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-09-22T03:46:26-07:00",
+      "publishedDateTime": "2021-09-20T20:38:34-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/KfEu5hK3pgE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/HtvyiSkgpsg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-pattern-find-start-and-end-date-of-task-from-children.md",
+      "title": "Power BI Pattern   Find Start and End Date of Task from Children",
+      "excerpt": "The project and task planning management systems have the concept of each task starting and ending with a date. Tasks can be a child of other tasks, and the parent tasks should take the whole range that the child task’s date includes. You need to parse the parent-child hierarchy of tasks (which can be",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-pattern-find-start-and-end-date-of-task-from-children/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-pattern-find-start-and-end-date-of-task-from-children/",
+      "originalUrl": "https://youtube.com/watch?v=8XS3fPF1Oas",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8XS3fPF1Oas\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M19S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-10-26T16:07:19-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8XS3fPF1Oas/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -948,8 +940,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 28429,
-            "average": 4.797918
+            "count": 28435,
+            "average": 4.7978196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -990,8 +982,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 47463,
-            "average": 4.772328
+            "count": 47464,
+            "average": 4.7723327
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1050,8 +1042,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 47463,
-        "average": 4.772328
+        "count": 47464,
+        "average": 4.7723327
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1169,8 +1161,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 28429,
-        "average": 4.797918
+        "count": 28435,
+        "average": 4.7978196
       },
       "provider": {
         "name": "Microsoft Learn",
