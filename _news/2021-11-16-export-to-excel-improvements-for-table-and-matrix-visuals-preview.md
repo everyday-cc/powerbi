@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/export-to-excel-improveme
 webUrl: "https://powerbi.microsoft.com/en-us/blog/export-to-excel-improvements-for-table-and-matrix-visuals-preview/"
 type: article
 quality: 174
-heat: 174
+heat: 175
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SHLzXTMI3Gk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
