@@ -204,8 +204,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 25833,
-        "average": 4.733132
+        "count": 25835,
+        "average": 4.733153
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -403,7 +403,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 57,
+          "heat": 56,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
@@ -427,8 +427,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 3256,
-            "average": 4.673833
+            "count": 3257,
+            "average": 4.673626
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -469,8 +469,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3012,
-            "average": 4.700531
+            "count": 3014,
+            "average": 4.700398
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -511,8 +511,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 3468,
-            "average": 4.7413497
+            "count": 3469,
+            "average": 4.7411356
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1178,8 +1178,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 8195,
-        "average": 4.757413
+        "count": 8196,
+        "average": 4.7574425
       },
       "provider": {
         "name": "Microsoft Learn",
