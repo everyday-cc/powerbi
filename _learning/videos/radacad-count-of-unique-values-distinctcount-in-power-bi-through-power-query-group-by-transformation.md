@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M29S
 publishedDateTime: 2020-02-27T03:03:57Z
-heat: 53
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7l4dYEjmgqA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "IOuSsR0SYGKUEuM3tcMGTax2z/fQrKxLQb3ndn7PbpdzydjiZuGJFdH4wVVaQUzij4l8FlFH3OCDqZPAEXYJ7sPb/Ap9ddaeEmlrRGRp4k+W4maLUghFsIBb6vW39qy+mgitL6U8IbUjVm78+zYw+SnlGefSrpocD5TDv18P9ZX++if+YiHytnKu7Wh/0WN59IXKtYxRonXHshpgt7cYxIrkMMkc7m4n7vJSAO4ljsNbW36oP4WLXHUAuDgExS4t2mDaPRSSywNj+zITZE1Lhpb7IMeqNVUri88SCWGOofZ9aONCIcm5YkQFrVZM2y2wwVJ+qKh0o0LFkX1EvwrFH9wk+711IDae2GGhVdWlMER55uWJLykYcrwy64XF2XosXwWA7xcnAh631Bl/9eeG2+K2hauDosnqNbo80cqRmDM=;f/4DTRrEevK6rKQRSxyP0w=="
+secured: "F8J7Csf8f2rds4xzMmlGGEICYWDH09WnyAYW3WLJTBKOFVSSk5HSgM3WftLNAZtGkRvlZNzrpg+sQSEaONXcvZCbEPwiH9d4TXnMN4fngWUCb+bA+w6sl/O3pgmQcXxsMfEH/4i5OcQfYgg1cTSPgP7UR9GzANztayfz8Ufb2Nqpr6XoIfo5aXS9zB3MG0a/LagRB/5L7cA2mXmFP6fWM6CiRoB/l+SJZ+hobU1Z3eyWIOdTHCQdw7777rEvPsX1sguPHzd9YOcwaGUIpVOkI+irxRZn55UTzWVKXQRrTpaLZ9JIC/J3sQwL/YVduvcagX7Tq7DZyuzb4NB74jsR731ROdA6SfndJk/hTMiixgarxz0jzMyR48t6bP1uc0BZSb8GDDSdDdWyHFWnurC2goNOSZEjBfawSWzmCbGYf2M=;3VK52/FnnbJNEzMWxkqfeA=="
 ---
 
