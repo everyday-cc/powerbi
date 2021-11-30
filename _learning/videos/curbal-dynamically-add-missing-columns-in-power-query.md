@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M
 publishedDateTime: 2020-10-30T13:27:27Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zUaVpgAdVGs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8MPqySVSjoPc205BKspztBsb+eTV7VIJphd4Hbd0awL8sOcis2iWetwChEGD4Xy/vodLYFXZJoP6U0LRos+8L2HrlGYbDkT2oVPLFDIDKC0Hi3pF70aZXvIPtntrSTMxiYG6du1XjVES+7Az03DSdf4WTdGWjhDfH2gIlJl8rehJ+c2hxWvZxtGyrxWsicETl1RLaffxPZlLC7bamP2hId5OhA8mtZzlOeYPG24xzEpY7BrcUee8kkvh9mtG7bbnz6FtoV2oMAn7aSM4n3TU5kQw7KdGGwMixK3OGCjtV0pncthx7ov3EEmAUK0D3zy5qv7FbCB5uJCzyasLb8hBA7cACmQv/AsNyqQciUewu8Ol+TGDzLBVPSQU/h6gGrzIJHx9yf9sDqkxGtaXg/CiGwbbNMkb5FWc0E0BEFaMjWY=;u0lSZZJP6bpQ9f6q9jk5lA=="
+secured: "ELMKAKdHKGVd/MexEG+Vhf+dhr5Wqgov2OvllxM6YaHcnCB3O0royc3CMVw3z4ZliER0splkzS3u8MFAvCwarOZKpvkiGLKLIfSnENg3tPnpqFfXflI9sfya0vXwf2U63P8q0+kMkOkHJdoCZ5ZDy7Vqa7Dl7cQbpMI6FUCVnArX051lynRG2cT1pitZJdTGZbM2pQzPOUhtEh7+pXs+tGZix+ZIG/76Z6UjhvCWUWuavF0rvKtAiViZtALO46zqbkLU2/TLke5knvz2SyQURg1zcc6jSd5kOSaMFUrFsITVNt8Xto9+imkV0v+vlHKjgQg7VOPXNXc1AG/SZyMy5PMFsmAGIrP9NywQiqSM4HCCJglVybqUPcEOcOIKzd4jnzbYvAheOcikgVJcCvkgVcI00rn8p53MSpEPkx5lPoY=;pBpQtME4u5RaNnHtVTKjZQ=="
 ---
 
