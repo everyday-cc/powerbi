@@ -834,8 +834,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 6120,
-        "average": 4.7723856
+        "count": 6121,
+        "average": 4.772423
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1036,8 +1036,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 56,
-        "average": 4.839286
+        "count": 57,
+        "average": 4.8421054
       },
       "provider": {
         "name": "Microsoft Learn",
