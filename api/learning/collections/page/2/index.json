@@ -528,7 +528,7 @@
             ]
           },
           "publishedDateTime": "2020-05-10T02:10:23-07:00",
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/b8oSgTOeYCE/maxresdefault.jpg",
@@ -1289,7 +1289,7 @@
             ]
           },
           "publishedDateTime": "2019-03-07T08:00:21-08:00",
-          "heat": 55,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/bjERMKH2blw/maxresdefault.jpg",
@@ -3232,8 +3232,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10905,
-            "average": 4.678496
+            "count": 10907,
+            "average": 4.678555
           },
           "provider": {
             "name": "Microsoft Learn",
