@@ -618,8 +618,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3143,
-            "average": 4.802418
+            "count": 3144,
+            "average": 4.8024807
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -797,8 +797,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 789,
-        "average": 4.732573
+        "count": 790,
+        "average": 4.7316456
       },
       "provider": {
         "name": "Microsoft Learn",
