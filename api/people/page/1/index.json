@@ -17,7 +17,7 @@
       "twitter": {
         "username": "awsaxton",
         "url": "https://twitter.com/awsaxton",
-        "followers": 6779
+        "followers": 6780
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/guyinacube/"
@@ -38,13 +38,91 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 106,
+      "heat": 127,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Adam Saxton",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/reza-rad.md",
+      "title": "Reza Rad",
+      "excerpt": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/reza-rad/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/reza-rad/",
+      "type": "profile",
+      "name": "Reza Rad",
+      "bio": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
+      "location": "New Zealand",
+      "website": "https://t.co/mnW39vaMYS",
+      "twitter": {
+        "username": "Rad_Reza",
+        "url": "https://twitter.com/Rad_Reza",
+        "followers": 7910
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rezarad/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 96,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Reza Rad",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/avi-singh.md",
+      "title": "Avi Singh",
+      "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/avi-singh/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/avi-singh/",
+      "type": "profile",
+      "name": "Avi Singh",
+      "bio": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
+      "location": "Seattle, WA",
+      "website": "https://www.learnpowerbi.com/",
+      "twitter": {
+        "username": "powerbipro",
+        "url": "https://twitter.com/powerbipro",
+        "followers": 5089
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/avichalsingh/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 87,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Avi Singh",
           "isCached": true
         }
       ],
@@ -85,7 +163,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 83,
+      "heat": 77,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/415691890080894976/g0hNL2mf_400x400.jpeg",
@@ -124,7 +202,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 65,
+      "heat": 71,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
@@ -161,7 +239,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 58,
+      "heat": 50,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
@@ -208,91 +286,13 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 50,
+      "heat": 42,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/625784770333519872/RrSqqUEZ_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Arun Ulag",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/avi-singh.md",
-      "title": "Avi Singh",
-      "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/avi-singh/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/avi-singh/",
-      "type": "profile",
-      "name": "Avi Singh",
-      "bio": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
-      "location": "Seattle, WA",
-      "website": "https://www.learnpowerbi.com/",
-      "twitter": {
-        "username": "powerbipro",
-        "url": "https://twitter.com/powerbipro",
-        "followers": 5089
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/avichalsingh/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Avi Singh",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/reza-rad.md",
-      "title": "Reza Rad",
-      "excerpt": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/reza-rad/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/reza-rad/",
-      "type": "profile",
-      "name": "Reza Rad",
-      "bio": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
-      "location": "New Zealand",
-      "website": "https://t.co/mnW39vaMYS",
-      "twitter": {
-        "username": "Rad_Reza",
-        "url": "https://twitter.com/Rad_Reza",
-        "followers": 7910
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/rezarad/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Reza Rad",
           "isCached": true
         }
       ],
