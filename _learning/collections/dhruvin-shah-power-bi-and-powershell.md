@@ -2,7 +2,7 @@
 title: "Power BI and PowerShell"
 excerpt: ""
 type: collection
-heat: 61
+heat: 60
 
 provider:
   name: Dhruvin Shah
