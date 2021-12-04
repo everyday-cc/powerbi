@@ -2140,7 +2140,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3302,8 +3302,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 5576,
-            "average": 4.769548
+            "count": 5578,
+            "average": 4.769631
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3594,8 +3594,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3147,
-            "average": 4.802034
+            "count": 3148,
+            "average": 4.801779
           },
           "provider": {
             "name": "Microsoft Learn",
