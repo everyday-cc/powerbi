@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/whats-new-in-power-query-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/whats-new-in-power-query-dataflows-november-2020/"
 type: article
 quality: 106
-heat: 106
+heat: 107
 published: true
 
 provider:
