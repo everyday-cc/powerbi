@@ -171,23 +171,23 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-insights-in-power-bi-announcing-public-preview-for-power-bi-insights-september-2021-updates.md",
-      "title": "Insights in Power BI | Announcing Public Preview for Power BI Insights (September 2021 Updates)",
-      "excerpt": "Welcome to one interesting announcement from Microsoft. Happy to announce the Public Preview of \"Insights\" in Power BI. The first question arises in our mind how Insights feature is useful to us? The Insights feature helps users easily find and explore insights such as anomalies, trends, and KPI analysis",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-insights-in-power-bi-announcing-public-preview-for-power-bi-insights-september-2021-updates/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-insights-in-power-bi-announcing-public-preview-for-power-bi-insights-september-2021-updates/",
-      "originalUrl": "https://youtube.com/watch?v=KfEu5hK3pgE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KfEu5hK3pgE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M17S",
+      "path": "_learning/videos/radacad-what-a-power-bi-hierarchy-is-and-how-to-use-it.md",
+      "title": "What a Power BI Hierarchy Is and How to Use it",
+      "excerpt": "Power BI hierarchies are a useful structure for drill-down and data exploration in reports. A hierarchy can be created simply and can add great value for you as a developer and end-users for better data analysis. In this article and video, I’ll explain what a Power BI hierarchy is and how to create it.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-a-power-bi-hierarchy-is-and-how-to-use-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-a-power-bi-hierarchy-is-and-how-to-use-it/",
+      "originalUrl": "https://youtube.com/watch?v=tZoBHwS_5rc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tZoBHwS_5rc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M15S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-09-22T03:46:26-07:00",
-      "heat": 131,
+      "publishedDateTime": "2021-09-20T17:43:21-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/KfEu5hK3pgE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/tZoBHwS_5rc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -201,67 +201,25 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-effective-reports.md",
-      "title": "Design Power BI reports",
-      "excerpt": "Because Power BI includes more than 30 core visuals, it can be challenging for a beginner to select the correct visual. This module will guide you through selecting the most appropriate visual type to meet your design and report layout requirements.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-reports/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 40,
-        "average": 4.9
-      },
+      "path": "_learning/videos/dhruvin-shah-next-generation-power-bi-buttons.md",
+      "title": "Next-Generation Power BI Buttons",
+      "excerpt": "(September 2021 Power BI Desktop Feature Summary) | NEW FORMATTING OPTIONS FOR POWER BI BUTTONS  Welcome to one more Power BI Desktop Update from September 2021. Microsoft has announced new formatting options for Power BI Buttons. Now we can build next-generation Power BI Buttons using Shape, Icon, Fill,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-next-generation-power-bi-buttons/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-next-generation-power-bi-buttons/",
+      "originalUrl": "https://youtube.com/watch?v=gcIzxcRiBac",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gcIzxcRiBac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M22S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
+      "publishedDateTime": "2021-09-23T05:06:08-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-reports-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/absent-data-channel-get-python-sample-datasets-in-power-bi.md",
-      "title": "Get Python Sample Datasets in Power BI",
-      "excerpt": "You can easily get sample datasets to practice with in Power BI by using just a few lines of code from Python.. You can easily achieve this with only 2 lines of code!  #python #powerbi #datasets",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-get-python-sample-datasets-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-get-python-sample-datasets-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=5-zWaAY68XQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5-zWaAY68XQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M21S",
-      "provider": {
-        "name": "Absent Data Channel",
-        "domain": "absentdata.com"
-      },
-      "publishedDateTime": "2021-11-03T19:33:49-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5-zWaAY68XQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/gcIzxcRiBac/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -270,6 +228,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/power-bi-tips-all-about-daxdo-milwaukee-power-platform-user-group.md",
+      "title": "All About DAX.do - Milwaukee Power Platform User Group",
+      "excerpt": "The Milwaukee Brew City User group is hosting the monthly Power BI User Group meeting.  Kevin Arnold Director of Architecture from Expert Analytics will be providing us a full demo of the website DAX.do  Visit PowerBI.tips : https://powerbi.tips  Visit Chicago User Group:  https://community.powerbi.com/t5/Chicago-Power-BI-User-Group/gh-p/pbi_chicago_usergroup",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-all-about-daxdo-milwaukee-power-platform-user-group/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-all-about-daxdo-milwaukee-power-platform-user-group/",
+      "originalUrl": "https://youtube.com/watch?v=LGGuWZn5Ls4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LGGuWZn5Ls4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H22M22S",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "publishedDateTime": "2021-09-28T07:17:40-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LGGuWZn5Ls4/maxresdefault_live.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -684,8 +673,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 28790,
-            "average": 4.7974644
+            "count": 28792,
+            "average": 4.797444
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -726,8 +715,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 47942,
-            "average": 4.7726836
+            "count": 47945,
+            "average": 4.772698
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -786,8 +775,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 47942,
-        "average": 4.7726836
+        "count": 47945,
+        "average": 4.772698
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -866,8 +855,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 28790,
-        "average": 4.7974644
+        "count": 28792,
+        "average": 4.797444
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1217,8 +1206,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 47942,
-            "average": 4.7726836
+            "count": 47945,
+            "average": 4.772698
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1259,8 +1248,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 22335,
-            "average": 4.7203045
+            "count": 22337,
+            "average": 4.7203293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1302,8 +1291,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 9928,
-            "average": 4.721998
+            "count": 9929,
+            "average": 4.7220263
           },
           "provider": {
             "name": "Microsoft Learn",
