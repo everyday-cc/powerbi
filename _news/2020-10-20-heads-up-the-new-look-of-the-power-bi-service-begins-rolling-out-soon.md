@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/heads-up-the-new-look-of-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/heads-up-the-new-look-of-the-power-bi-service-begins-rolling-out-soon/"
 type: article
 quality: 103
-heat: 103
+heat: 104
 published: true
 
 provider:
