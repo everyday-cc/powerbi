@@ -14,7 +14,7 @@ website: https://t.co/mnW39vaMYS
 twitter:
   username: Rad_Reza
   url: https://twitter.com/Rad_Reza
-  followers: 7919
+  followers: 7920
 
 linkedin:
   url: https://www.linkedin.com/in/rezarad/
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Reza Rad"
 
-secured: "9MXTcYPbU6yT7B0ywqL2GM+D1eSKUWuviyKdftgTKxDqTauRo6gkKb2i/HaSgW4TAbH5vhmP3wnJCv16x8BwVnHlsdPk5Tuzmea3Wu5ABtFsjweha00UyzRMipJs1a4zpIchBxnIewNY8qXNumu/MXklrCdJdEsEJgsKl9QgL9SuZjZnR9KbzfRz3xInuquJgq5t71+TdM4dB5lX2Q0pwAqG67U+pqgSbIhyb7ql6aB61hu5l1vPnbW5SWl+G4k1rjBz8P+fkGi20i9Z8CjoO48TUTMQ0apYyQjlgDgN5LXOOR286rjAvSFQDDcbeTnPP6pJc0nz23cuWkR1W5B8iELvjRhmBmcmNsVCqfT7UOLjHGNQSqe0M7a79Z7UHTXjdTi9kh+wtJKuy6DzNVexWES33xR3RlbpzpvYXx3CsbE=;FPioG1qcCM1pBarsddkPSA=="
+secured: "UruHa0J88VguSJTdm3/J0MqfnkJvs9Dyr5+YUikf28YEnL6F3n7qBzggr0+BMHyHkfwteczRg5DfI9Rdd8aMnFL+QO4cnfz8hwps45ho/mj9+Kq99kTCZOIwi7SjeoEhupZdePls7eb2k9DWn3ALhlC6+l24Chuh3HaIUg9JLWH3/XzbqbUR8AQsdf0z3z6lldmT+cTDT9pWlPbT7SGWACsJcV+DTvAMdaPhfF6j6/Afsu4JUpdtGR5mGYaz5HUq0dDTsnIPvnRq870cPhg7LkJ/U7STVWV5phu/uDjuSxMaw7gnhc4xx4dcSlPYuaZHQ4+G2hr0M3iO/DzuUSJU1pMrAQI5du/5y3ZI0a9SKwOkI2W22FRvxcfddX4EXrJmiae4QBInyn3aBZkLkSK1ZfFRSREqoO7t+vsbWEE03m4=;YXZY4kzlOCnOkDFoODkwuw=="
 ---
 
