@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-apis-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-apis-net-sdk-v4/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:
