@@ -4,7 +4,7 @@ excerpt: "I have been waiting for this feature to be delivered for a while. Unti
 webUrl: https://exceleratorbi.com.au/new-export-to-excel-format-in-power-bi/
 type: article
 publishedDateTime: 2021-11-22T22:09:21Z
-heat: 80
+heat: 50
 
 provider:
   name: Excelerator BI
