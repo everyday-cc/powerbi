@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/learn-the-skills-to-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/learn-the-skills-to-be-a-data-analyst-with-courses-on-python-excel-power-bi-and-more/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:
