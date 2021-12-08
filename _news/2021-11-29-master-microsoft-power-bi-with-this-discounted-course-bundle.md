@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/uk/deals/microsoft-power-bi-course-deal?amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/deals/microsoft-power-bi-course-deal?amp"
 type: article
 quality: 97
-heat: 97
+heat: 98
 published: true
 
 provider:
