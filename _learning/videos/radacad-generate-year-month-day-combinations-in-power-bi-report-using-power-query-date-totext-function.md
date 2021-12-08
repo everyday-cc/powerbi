@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M20S
 publishedDateTime: 2021-09-29T23:36:32Z
-heat: 55
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EtANwBVPIXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "x4jYADm4Gb5egm+ayjZRbei2KzxySR1IzXVt4+frojREtVm89/Lg+jH3L5GD5VWu6tq2Xva/Tk5ydvWVWBDLS4Ui/o8tQZ4wzIjGEzGO+jG080sQEtASl/WxnfsVbwtHYmfUSpkELnY/+Ovd/fRdcJz0URzAcXmkm9zWkhkcuZAzm/AWBa1J0sUyj2Y4NNPBTrjl1pFBOxAM3rMBjxP2VI1faviPthOCzxK+X9Y5XJ7+vpsM3giRypUjbGK5W30NrPbaywo/0NEWmZq3RbKV+7Yfi32Rg2wxzrfIWpShEdOcNgdt7x4NqZoRqU6aCDs8pE7CTd9WxX/GUXn1QB5Bp7QduwmmM3krxOFBL/vk4auOKYbDHtUsxuy1vg0Weiuc9SOeCBPeUhP11IzRUja73QA26Hb1fNYyTpXfvlsC6ac=;+rBta4qqiDG/Wg7JviWl4A=="
+secured: "fu/gPs2Fifa/q8YKVhwJF0DTPJJtluphF4VB8kRO06XBtohRAVGlWxINV+lGr6cZwkUCh7ouXdtUCTSLSsqSAQHW4U2iG4WiXWNZixke/iFsK++fKaAdcam1rlW7qJOIHHmTEzTSZWcfeWXg9agYRmzadRyI9eyxvUhFZRCcxxjmdzrH9veD8S8zyWTrdbjEy5ZUJ/t3zd9cKQLInEzLZdwfmR3aTpPHqVJWyOZXgq2M7dj3CUQjgBPtsDa7T8/k/09TA5/O5QYGurNa3/OVcfFCkmBqzBPEQC+JsJ3g3v/WmaAZ8kwcIrusK7DwIzQeQLqXQJtizIiQnaB3QSQlDuGftu8w8RR0d/X29nUizCnHmCRODvw1Wy9C1s0nEWLBk5irCxca3bowcTxBaQs6pgziDb+2UXZCYinVtG+3qbo=;jw7MPKZC0zMqjk9q/zaGOA=="
 ---
 
