@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 62,
-            "average": 4.903226
+            "count": 63,
+            "average": 4.888889
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 54,
-            "average": 4.888889
+            "count": 55,
+            "average": 4.890909
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -303,7 +303,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1014,7 +1014,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1704,8 +1704,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 3073,
-        "average": 4.703222
+        "count": 3075,
+        "average": 4.7034144
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1746,8 +1746,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 3318,
-        "average": 4.6751056
+        "count": 3319,
+        "average": 4.6752033
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1864,8 +1864,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 3706,
-        "average": 4.6732326
+        "count": 3707,
+        "average": 4.673321
       },
       "provider": {
         "name": "Microsoft Learn",
