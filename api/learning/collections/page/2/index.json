@@ -94,7 +94,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 53,
+          "heat": 133,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/automate-data-cleaning-power-query-social.png",
@@ -161,8 +161,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 30,
-            "average": 4.8333335
+            "count": 31,
+            "average": 4.83871
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -304,7 +304,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 53,
+          "heat": 133,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/automate-data-cleaning-power-query-social.png",
@@ -371,8 +371,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 30,
-            "average": 4.8333335
+            "count": 31,
+            "average": 4.83871
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3683,8 +3683,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2445,
-            "average": 4.7693253
+            "count": 2446,
+            "average": 4.7694197
           },
           "provider": {
             "name": "Microsoft Learn",
