@@ -1989,8 +1989,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 56,
-            "average": 4.892857
+            "count": 57,
+            "average": 4.894737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2091,7 +2091,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-filters-social.png",
@@ -2156,8 +2156,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 92,
-            "average": 4.7826085
+            "count": 93,
+            "average": 4.7849464
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2366,8 +2366,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 92,
-            "average": 4.7826085
+            "count": 93,
+            "average": 4.7849464
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2618,8 +2618,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4334,
-            "average": 4.707891
+            "count": 4338,
+            "average": 4.7081604
           },
           "provider": {
             "name": "Microsoft Learn",
