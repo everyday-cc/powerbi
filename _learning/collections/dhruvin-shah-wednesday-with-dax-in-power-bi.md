@@ -2,7 +2,7 @@
 title: "Wednesday with DAX in Power BI"
 excerpt: "Welcome to my new Power BI DAX Series. Every Wednesday, we will talk about different DAX functions."
 type: collection
-heat: 64
+heat: 63
 
 provider:
   name: Dhruvin Shah
