@@ -8,9 +8,9 @@
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-12-09-announcing-the-power-bi-app-for-microsoft-teams-is-now-available-in-the-us-government-community-cloud/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-power-bi-app-for-microsoft-teams-is-now-available-in-the-us-government-community-cloud/",
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-power-bi-app-for-microsoft-teams-is-now-available-in-the-us-government-community-cloud/",
-      "featuredContent": null,
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iyAmYqTRCLY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 71,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -49,7 +49,8 @@
         "news"
       ],
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power BI Desktop"
       ]
     },
     {
@@ -266,7 +267,7 @@
       "originalUrl": "https://mashable.com/uk/deals/microsoft-power-bi-course-deal",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 97,
       "tags": null,
       "images": [
         {
