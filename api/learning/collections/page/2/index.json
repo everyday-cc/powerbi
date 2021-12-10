@@ -2567,8 +2567,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11017,
-            "average": 4.6784062
+            "count": 11018,
+            "average": 4.6784353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3520,8 +3520,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2448,
-            "average": 4.769608
+            "count": 2450,
+            "average": 4.769796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3604,8 +3604,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3171,
-            "average": 4.8013244
+            "count": 3172,
+            "average": 4.8013873
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3840,8 +3840,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working/",
           "length": "PT31M",
           "ratings": {
-            "count": 105,
-            "average": 4.7238097
+            "count": 106,
+            "average": 4.6981134
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3965,8 +3965,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working/",
           "length": "PT31M",
           "ratings": {
-            "count": 105,
-            "average": 4.7238097
+            "count": 106,
+            "average": 4.6981134
           },
           "provider": {
             "name": "Microsoft Learn",
