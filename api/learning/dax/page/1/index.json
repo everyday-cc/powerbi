@@ -134,7 +134,7 @@
         ]
       },
       "publishedDateTime": "2020-09-03T03:00:12-07:00",
-      "heat": 69,
+      "heat": 70,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ePPi1LLX0sA/maxresdefault.jpg",
@@ -969,8 +969,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 4352,
-        "average": 4.70818
+        "count": 4353,
+        "average": 4.708247
       },
       "provider": {
         "name": "Microsoft Learn",
