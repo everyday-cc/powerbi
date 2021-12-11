@@ -149,83 +149,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-dynamic-power-bi-reports-using-parameters.md",
-      "title": "Dynamic Power BI reports using Parameters",
-      "excerpt": "In this video, Patrick shows you how you can use a parameter, within a Power BI report, to dynamically change the data in a report. This uses M Functions within Power Query and a second source that has the key values to pull. Then using a gateway to enable refresh.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dynamic-power-bi-reports-using-parameters/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dynamic-power-bi-reports-using-parameters/",
-      "originalUrl": "https://youtube.com/watch?v=iiNDq2VrZPY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iiNDq2VrZPY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M21S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-05-24T07:45:51-07:00",
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iiNDq2VrZPY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax.md",
-      "title": "Power BI date table: create using DAX",
-      "excerpt": "In this video, Adam looks at how to create a Power BI date table using DAX. The end result uses a combination of the GENERATE(), ROW() and CALENDARAUTO() DAX functions to create a calculated table resulting in a Power BI date table.  Using GENERATE and ROW instead of ADDCOLUMNS in DAX https://www.sqlbi.com/articles/using-generate-and-row-instead-of-addcolumns-in-dax/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=gyvhM5eiT0U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gyvhM5eiT0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M44S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-02-13T07:18:28-08:00",
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gyvhM5eiT0U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-power-bi-paginated-reports-in-a-day.md",
       "title": "Power BI Paginated Reports in a Day",
       "excerpt": "The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you watch the videos in the recorded sequence, starting with video 1 and ending with video 24.",
@@ -494,8 +417,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 16117,
-        "average": 4.7603774
+        "count": 16119,
+        "average": 4.760407
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -592,44 +515,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kiVXI7zjSzY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-bookmarks-selections-and-toggles.md",
-      "title": "Power BI Bookmarks, Selections and Toggles",
-      "excerpt": "In this video, Patrick shows how you can use bookmarks and selections to create interesting reports to show different aspects of your data. He also shows a very cool way to change between those selections that he picked up from one of his customers.  Bookmarks - https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-bookmarks/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-bookmarks-selections-and-toggles/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-bookmarks-selections-and-toggles/",
-      "originalUrl": "https://youtube.com/watch?v=_Afcj8mT5_Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Afcj8mT5_Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M25S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-10-25T06:46:11-07:00",
-      "heat": 73,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_Afcj8mT5_Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1592,6 +1477,203 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-the-ultimate-calendar-table.md",
+      "title": "Power BI: The Ultimate Calendar Table",
+      "excerpt": "Why is the Calendar table so important in Power BI? And what is the best way to create a Calendar Table? I show you in this video series. *Some videos can only be found inside the Learn Power BI Course. https://www.learnpowerbi.com 1) The Ultimate Calendar Table https://youtu.be/BtYn1hfdSAM  2) How to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-the-ultimate-calendar-table/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-the-ultimate-calendar-table/",
+      "originalUrl": "https://youtube.com/watch?v=BtYn1hfdSAM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BtYn1hfdSAM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M26S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-09-13T19:42:49-07:00",
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BtYn1hfdSAM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-data-analysis-in-power-bi.md",
+      "title": "Data analysis in Power BI",
+      "excerpt": "Report authors can use additional features to enhance their reports for analytical insights in their data with features like Q&amp;A and exporting. In this module, you will closely examine your data and Power BI reports and then extract value with deeper analysis. Additionally, you will learn how to sort data and how to present the report in a cohesive manner. You will learn how to get a statistical summary for your data and export data from Power BI. You will also apply and perform advanced analytics on the report for deeper and more meaningful data insights.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-data-analysis-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-data-analysis-in-power-bi/",
+      "length": "PT1H52M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-perform-analytics-power-bi.md",
+          "title": "Perform analytics in Power BI ",
+          "excerpt": "You will learn how to use Power BI to perform data analytical functions, how to identify outliers in your data, how to group data together, and how to bin data for analysis. You will also learn how to perform time series analysis. Finally, you will work with advanced analytic features of Power BI, such as Quick Insights, AI Insights, and the Analyze feature.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-perform-analytics-power-bi/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
+          "length": "PT51M",
+          "ratings": {
+            "count": 2960,
+            "average": 4.7199326
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 60,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/perform-analytics-power-bi-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-ai-visuals-power-bi.md",
+          "title": "Work with AI visuals in Power BI",
+          "excerpt": "This module describes the AI capabilities of Power BI.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-ai-visuals-power-bi/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
+          "length": "PT1H1M",
+          "ratings": {
+            "count": 3346,
+            "average": 4.7247458
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 67,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/ai-visuals-power-bi-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/perform-analytics-power-bi-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-ai-visuals-power-bi.md",
+      "title": "Work with AI visuals in Power BI",
+      "excerpt": "This module describes the AI capabilities of Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-ai-visuals-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
+      "length": "PT1H1M",
+      "ratings": {
+        "count": 3346,
+        "average": 4.7247458
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/ai-visuals-power-bi-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

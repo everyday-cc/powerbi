@@ -4,84 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_learning/videos/curbal-dax-fridays-36-union.md",
-      "title": "DAX Fridays! #36: UNION",
-      "excerpt": "In today's DAX Fridays! video we will go through the DAX function UNION. UNION function will append two tables using DAX language.   Link to pbi file: https://curbal.com/blog/glossary/union  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT  PREVIOUS VIDEO: https://www.youtube.com/watch?v=ZkieFAgH39Y",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-36-union/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-36-union/",
-      "originalUrl": "https://youtube.com/watch?v=QUJk6QLN05I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QUJk6QLN05I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M3S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-05-03T14:30:34-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QUJk6QLN05I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-42-substitute-multiple-values.md",
-      "title": "DAX Fridays! #42: SUBSTITUTE (multiple values)",
-      "excerpt": "In today's video, we will learn how to use the DAX function SUBSTITUTE.  Substitute changes text for another text. We will do two examples, how to substitute one value for another and how to substitute multiple values.   Northwind dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-42-substitute-multiple-values/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-42-substitute-multiple-values/",
-      "originalUrl": "https://youtube.com/watch?v=PoaQDakVI04",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PoaQDakVI04\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M31S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-06-16T01:29:24-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PoaQDakVI04/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-dax-fridays-47-networkdays.md",
       "title": "DAX Fridays! #47: NETWORKDAYS",
       "excerpt": "In today's video, I will show you how to calculate Networkdays using DAX.  Download the file here: https://curbal.com/blog/glossary/networkdays-dax  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT  PREVIOUS VIDEO: https://www.youtube.com/edit?o=U&video_id=SmXLgEHXSGc NEXT VIDEO: https://youtu.be/f1Si47372Pk",
@@ -489,6 +411,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/dKTdHc8V2Hc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where.md",
+      "title": "DAX Beginners - SUM Vs SUMX in Power BI - What, When and Where?",
+      "excerpt": "Welcome to Wed with Dax beginner series. During this episode, we will talk about two interesting DAX expressions. SUM and SUMX. We will compare both DAX expressions in detail. First, I will explain When to use SUM and when to use SUMX. We will talk about the difference between SUM and SUMX functions",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where/",
+      "originalUrl": "https://youtube.com/watch?v=bQWwj9w06K4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bQWwj9w06K4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M21S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-09-29T00:07:31-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bQWwj9w06K4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -968,45 +921,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-combine-power-bi-report-tooltips-using-dax.md",
-      "title": "Combine Power BI Report Tooltips using DAX",
-      "excerpt": "In this video, Patrick shows you how to combine Power BI Report Tooltips using DAX. Just a little bit of DAX! This can be useful when you want to use a single report tooltip for multiple Power BI visuals.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-combine-power-bi-report-tooltips-using-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-combine-power-bi-report-tooltips-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=uprJM3zbzWs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uprJM3zbzWs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M29S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-05-30T07:09:01-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uprJM3zbzWs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-finding-the-lowest-value-and-highlighting-in-dax-power-bi.md",
       "title": "Finding the lowest value and highlighting in DAX | Power BI",
       "excerpt": "Sometimes you want to highlight the lowest value in a Power BI visual. First you need to find it! Then you can highlight it. What if you want to ANIMATE it? Patrick shows you how to do just that!  ALLSELECTED() article:  https://www.sqlbi.com/articles/the-definitive-guide-to-allselected/  📢 Become a",
@@ -1032,6 +946,84 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/eqO4wFZQOPc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-hiding-future-dates-for-calculations-in-dax.md",
+      "title": "Power BI: Hiding future dates for calculations in DAX",
+      "excerpt": "Marco Russo joins Patrick to discuss how to hide future dates for calculations in DAX. Marco walks through Power BI Desktop with some examples that work and don't work.  Hiding future dates for calculations in DAX https://www.sqlbi.com/articles/hiding-future-dates-for-calculations-in-dax/  ******** LET'S",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-hiding-future-dates-for-calculations-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-hiding-future-dates-for-calculations-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=VXd1wl-5vKI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VXd1wl-5vKI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M31S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-13T04:49:26-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VXd1wl-5vKI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-tracing-your-dax-queries-in-power-bi.md",
+      "title": "Tracing your DAX queries in Power BI",
+      "excerpt": "Learn how you can trace your DAX queries when trying to troubleshoot or optimize Power BI reports and datasets. There are a few options and Adam walks you through them.  DAX Studio: https://daxstudio.org/  SQL Server Management Studio: https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-tracing-your-dax-queries-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-tracing-your-dax-queries-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=P0_5v2WIGcA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P0_5v2WIGcA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M12S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-06-10T08:00:09-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/P0_5v2WIGcA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

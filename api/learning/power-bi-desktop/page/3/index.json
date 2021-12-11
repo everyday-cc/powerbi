@@ -4,84 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-new-artificial-intelligence-capabilities-in-power-bi-desktop.md",
-      "title": "New Artificial Intelligence capabilities in Power BI Desktop",
-      "excerpt": "Power BI Desktop has new Artificial Intelligence (AI) capabilities in the November 2019 release. Sarina Stevens shows us what it is all about!  Documentation: https://docs.microsoft.com/power-bi/desktop-ai-insights  Connect with Sarina Stevens: https://twitter.com/StevensSarina  Guy in a Cube courses:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-new-artificial-intelligence-capabilities-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-new-artificial-intelligence-capabilities-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=FsK8OYagidY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FsK8OYagidY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M19S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-11-14T05:13:13-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FsK8OYagidY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-desktop-how-to-find-the-native-query-after-query-folding.md",
-      "title": "Power BI Desktop: How to find the native query after query folding",
-      "excerpt": "Have you wondered how to find the native query in Power BI Desktop after query folding does its thing? Do you even know what query folding is? In this video, Adam looks at how you can find the query that will be sent to your data source and a few things to be aware of. This applies to Power Query in",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-desktop-how-to-find-the-native-query-after-query-folding/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-desktop-how-to-find-the-native-query-after-query-folding/",
-      "originalUrl": "https://youtube.com/watch?v=eVDIHG4dflM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eVDIHG4dflM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M19S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-12-04T04:58:34-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eVDIHG4dflM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-using-dax-to-format-a-list-of-values-in-power-bi-desktop.md",
       "title": "Using DAX to format a list of values in Power BI Desktop",
       "excerpt": "Alberto Ferrari joins Patrick to walk through how you can use DAX to format a list of values within Power BI Desktop. This takes the concatenate values quick measure to the next level.  Original Quick Measure video - https://www.youtube.com/watch?v=SjSKCZtiNlI  Alberto's article - https://www.sqlbi.com/blog/alberto/2018/12/20/displaying-a-list-of-selected-months/",
@@ -1135,6 +1057,68 @@
       "topics": [
         "Power BI",
         "Power Query",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-all-about-new-updated-ribbon-experience-for-power-bi-desktop.md",
+      "title": "All About New Updated Ribbon Experience for Power BI Desktop",
+      "excerpt": "Microsoft rolled out New Ribbon Experience similar to Office Product in November 2019 update.   During this video, we will talk about What’s new in the New Power BI ribbon and What’s has been changed? The detailed information has been discussed in the video.  Below options are changed: Insert Tab Theme",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-all-about-new-updated-ribbon-experience-for-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-all-about-new-updated-ribbon-experience-for-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=1FhRz0pN_zI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1FhRz0pN_zI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M31S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1FhRz0pN_zI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-copy-data-from-power-bi-desktop-dataset-to-ms-excel.md",
+      "title": "Copy Data from Power BI Desktop Dataset to MS Excel",
+      "excerpt": "In this video we will learn how we can Copy/Import data from Power BI dataset to MS Excel. This is the most common questions arise, when we wish to copy entire Power BI Dataset model to Excel. Normal Copy table and Paste table will not suite best feasible for large set of data. At that time we need to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-copy-data-from-power-bi-desktop-dataset-to-ms-excel/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-copy-data-from-power-bi-desktop-dataset-to-ms-excel/",
+      "originalUrl": "https://youtube.com/watch?v=B9mJzgCTDSA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B9mJzgCTDSA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M5S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B9mJzgCTDSA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
         "Power BI Desktop"
       ]
     }
