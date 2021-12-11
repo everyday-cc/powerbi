@@ -7,7 +7,7 @@ originalUrl: "https://www.vietnambreakingnews.com/tag/error-when-refreshing-data
 webUrl: "https://www.vietnambreakingnews.com/tag/error-when-refreshing-data-in-power-bi/"
 type: article
 quality: 139
-heat: 140
+heat: 139
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iovrc1ZQRoc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -30,6 +30,6 @@ images:
     height: 227
     isCached: true
 
-secured: "dQY7z53n1uFKbylRWW13tPgVMYwoVBfXI/isTAaYW94JCtAjmz71c7wubcxqd0RshuIbE8Xh0Gt3Upx+R8LcuqmbQpQAnyXingJkYyZA8p6g6e4wYndn9Y0fz6a+08fzWWM/OPWOlPKxGLTA22q+ZT3/Z4w42eh8mCaOEeZXi3iAxmvV5xDni507Whida6wUTkJAWlq4LTxOhkgZyYqIh8OZyL5Fncu/8NYyII0XRjGwUgW+GuRm4irfV4D8ejvHmgzOmqNEoLCIBsUNJ0Ss5WklKaojpR6NRBzMlh5LLVew0385f4WNdoivGLErRQo7k45HIC1P73rju7JcjbTqXQkglKwfKRsS8tPwX/0oEGL21Vqjj5Snj5lUliXxjp5873wd2pLRuIG8bm+Hzz1xjcnx5Okk2utcxNmy1x3oXu5av4w8bV4+byX05b01jKBCqYorbKGqMQ3jGSTgrsy/rQ==;+jf77p1IuJGp9eaboGfQSQ=="
+secured: "Jjg96UT+9kQrn6SupUhmYMhn2GiqHGl+QPAR0Yi3rCPqXWiU5GKhZOE+IPISV06SytIAY008X5sRdDE1z2ASHVoLmX22+SLwaUvLHECXJY9DnOM3M+SdspbPQB+gk4WKzPXn/Ql7vzGZR7Lrjz9fJtSaWofWewrMUbWApLgajaT47rSjS+kQcZy6UGe3LZDXrnM0q2rQbDrS1Bqs++8C2X5pug0Q7+C5QfTswPCWD79laGogx3AGZoechUgRQq44ewl0STtINtlqnCSyMptOUpXfq0ekbDmn0k8cssd+6KKj0OT13bh7/IN0a+2cSEkyKECIxp9mFs9FVzsE0+n9A/ctocEAUX3MKh49BG5qR+5CaVPWMeEQeWdKYxV/itJYvLkHfqoL6dDlGXUrof90yqG202bgghXTZOXOTXe2U4YVTtC1Zv8fIMiss0h4ulOzUzaKOFHGZYp9c/r+XpXWFA==;K9SktDasL6jEqaLEsq6Piw=="
 ---
 
