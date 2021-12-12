@@ -376,8 +376,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2458,
-            "average": 4.7701383
+            "count": 2459,
+            "average": 4.769825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -460,8 +460,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3180,
-            "average": 4.8018866
+            "count": 3182,
+            "average": 4.8016973
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -520,8 +520,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 5184,
-        "average": 4.722029
+        "count": 5185,
+        "average": 4.72189
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -562,8 +562,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 2458,
-        "average": 4.7701383
+        "count": 2459,
+        "average": 4.769825
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -604,8 +604,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 5353,
-        "average": 4.7575192
+        "count": 5354,
+        "average": 4.7573776
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -646,8 +646,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 7534,
-        "average": 4.77064
+        "count": 7535,
+        "average": 4.7706704
       },
       "provider": {
         "name": "Microsoft Learn",
