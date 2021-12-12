@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/visualize-your-data-quick
 webUrl: "https://powerbi.microsoft.com/en-us/blog/visualize-your-data-quickly-from-power-apps-and-dynamics-365-apps-preview/"
 type: article
 quality: 70
-heat: 71
+heat: 70
 published: true
 
 provider:
