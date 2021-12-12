@@ -247,6 +247,86 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-review-performance-analyzer-in-this-power-bi-report-from-smart-power-bi.md",
+      "title": "Review Performance Analyzer in this Power BI Report from Smart Power BI",
+      "excerpt": "You should be reviewing performance of your Power BI Reports. This report from Smart Power BI helps you to visualize the results of Performance Analyzer. Let's check it out!  Performance Analyzer Documentation: https://docs.microsoft.com/power-bi/create-reports/desktop-performance-analyzer  ADVANCED",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-review-performance-analyzer-in-this-power-bi-report-from-smart-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-review-performance-analyzer-in-this-power-bi-report-from-smart-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=Z-J4n9uymQ0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z-J4n9uymQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M8S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-11-11T08:00:18-08:00",
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Z-J4n9uymQ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-power-bi-effective-filters.md",
+      "title": "Configure Power BI report filters",
+      "excerpt": "Report filtering is a complex topic because many techniques are available for filtering a Microsoft Power BI report. However, with complexity comes control, allowing you to design reports that meet requirements and expectations.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-filters/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-filters/",
+      "length": "PT45M",
+      "ratings": {
+        "count": 37,
+        "average": 4.891892
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-filters-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-214-create-dax-calculations-on-ranges-taken-from-a-slicer.md",
       "title": "DAX Fridays #214: Create DAX calculations on ranges taken from a slicer!!",
       "excerpt": "In today's video, I will show you how you can grab the values selected on a slicer and use them as a range to make calculations, for example: 1. Sales variance between multiple years 2. Rank across multiple years and many more!  Here you can download all the pbix files: https://curbal.com/donwload-center",
@@ -283,75 +363,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where.md",
-      "title": "DAX Beginners - SUM Vs SUMX in Power BI - What, When and Where?",
-      "excerpt": "Welcome to Wed with Dax beginner series. During this episode, we will talk about two interesting DAX expressions. SUM and SUMX. We will compare both DAX expressions in detail. First, I will explain When to use SUM and when to use SUMX. We will talk about the difference between SUM and SUMX functions",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where/",
-      "originalUrl": "https://youtube.com/watch?v=bQWwj9w06K4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bQWwj9w06K4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M21S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-09-29T00:07:31-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bQWwj9w06K4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-controlling-drillthrough-in-excel-pivottables-connected-to-power-bi-or-analysis-services.md",
-      "title": "Controlling drillthrough in Excel PivotTables connected to Power BI or Analysis Services",
-      "excerpt": "Learn how to customize the drillthrough experience in Excel PivotTables connected to Power BI datasets or Analysis Services databases.\r Article and download: https://sql.bi/726459?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-controlling-drillthrough-in-excel-pivottables-connected-to-power-bi-or-analysis-services/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-controlling-drillthrough-in-excel-pivottables-connected-to-power-bi-or-analysis-services/",
-      "originalUrl": "https://youtube.com/watch?v=h4woNGohUBo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h4woNGohUBo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M1S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-10-20T03:00:29-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/h4woNGohUBo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     },
     {
@@ -728,8 +739,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 29113,
-            "average": 4.7976503
+            "count": 29115,
+            "average": 4.7976303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -770,8 +781,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 48383,
-            "average": 4.7732882
+            "count": 48385,
+            "average": 4.7732973
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -830,8 +841,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 48383,
-        "average": 4.7732882
+        "count": 48385,
+        "average": 4.7732973
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -948,8 +959,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 29113,
-        "average": 4.7976503
+        "count": 29115,
+        "average": 4.7976303
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1074,8 +1085,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 48383,
-            "average": 4.7732882
+            "count": 48385,
+            "average": 4.7732973
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1116,8 +1127,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 22472,
-            "average": 4.7206745
+            "count": 22475,
+            "average": 4.7207117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1201,8 +1212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7535,
-            "average": 4.7706704
+            "count": 7537,
+            "average": 4.770731
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1452,8 +1463,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 16131,
-        "average": 4.7605233
+        "count": 16132,
+        "average": 4.760538
       },
       "provider": {
         "name": "Microsoft Learn",

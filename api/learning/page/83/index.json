@@ -4,36 +4,6 @@
   "page": 83,
   "value": [
     {
-      "path": "_learning/videos/radacad-report-page-tooltip-revolution-in-visualization-of-power-bi.md",
-      "title": "Report Page Tooltip Revolution in Visualization of Power BI",
-      "excerpt": "Report Page tooltip can be the layer between your mater-detail report design. You can customize the tooltip of your Power BI charts using this feature. Download the dataset and read more about it from here: https://radacad.com/report-page-tooltip-revolution-in-visualization-of-power-bi  Learn more about",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-report-page-tooltip-revolution-in-visualization-of-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-report-page-tooltip-revolution-in-visualization-of-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=6yAl7ZWyEZA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6yAl7ZWyEZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M10S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-09-17T10:38:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6yAl7ZWyEZA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-row-level-security-on-a-directquery-to-power-bi-dataset-composite-model-my-findings.md",
       "title": "Row Level Security on a DirectQuery to Power BI dataset composite model   My Findings",
       "excerpt": "With the DirectQuery to Power BI or Azure analysis services dataset, there are some limitations on the way that RLS (Row-level security) works. Considering that I have written a book and many blogs on this subject, It was fair to have a look at how this works. In this blog and video, you will learn about",
@@ -932,6 +902,45 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-blank-row-in-dax.md",
+      "title": "Blank row in DAX",
+      "excerpt": "VALUES and DISTINCT are two functions that differ in how they could add a blank row to the result (or not). Article and download: https://sql.bi/245557?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-blank-row-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-blank-row-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=XsyeImIK-7g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XsyeImIK-7g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M55S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-11-26T03:00:19-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XsyeImIK-7g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     }
   ],
