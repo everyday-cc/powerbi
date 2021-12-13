@@ -1572,8 +1572,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 32,
-            "average": 4.84375
+            "count": 33,
+            "average": 4.848485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1782,8 +1782,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 32,
-            "average": 4.84375
+            "count": 33,
+            "average": 4.848485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3235,8 +3235,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 5358,
-            "average": 4.757559
+            "count": 5359,
+            "average": 4.757604
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3505,7 +3505,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 57,
+          "heat": 137,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/row-level-security-power-bi-social.png",
@@ -3861,7 +3861,7 @@
             ]
           },
           "publishedDateTime": "2020-04-24T04:44:00-07:00",
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/qUmTxQHr6nY/maxresdefault.jpg",
@@ -3919,7 +3919,7 @@
         }
       ],
       "size": 3,
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/7CqXdSEN2k4/maxresdefault.jpg",
