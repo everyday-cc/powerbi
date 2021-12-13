@@ -14,7 +14,7 @@ website: https://www.learnpowerbi.com/
 twitter:
   username: powerbipro
   url: https://twitter.com/powerbipro
-  followers: 5101
+  followers: 5100
 
 linkedin:
   url: https://www.linkedin.com/in/avichalsingh/
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Avi Singh"
 
-secured: "aOZGAFdJv89ZrKzNIIvUATZS7+//VJdhtJ8YELkII8gIi5i48XYCVNrw1GVMBbx4KPJzJGJwOTdKdKbRQQneCFIkraz771e6PStc+GbwHGePcHSO3e7PqlqqJcXKpSzoBbsW5qjo3+FxapuIFNcog+Fa2pJzz1dyaWz9Fdcd8kpjEUzHpHhgt0EKoEbDl7agGt/DcbDfCF1EXGJn+dCp2BNz6wvh6+4Wfmi1YGmX72uAPoBBnK6SkKTSMZPhllhIX73MnXtTIJOKrpDhlxJLEDdgzqHQ8Eym61yAV9sakQOexkBWBWIzR/p6OAO3QPstO1GtulAZapW2oSmoQwF2kDp8aurJG320HbEph6zlBoG0m7HS3dzePnTqqUFFkHo/2SquD2JWgS1WcQs/pjNxkG8ZghzuGFVdmtfbeOny/2A=;/zSCO598DYcBP4HBuX4Uzw=="
+secured: "KvgAwZa9+rFes5COvP4JpAuI9oEpkUtbZd6ewdpECpiIkiwoB8Q+qPAL+yTycUla6JzQnyDKSKoPHHp6jjBrdbbWH8bDUfAiXlvTJTbxAJSMwEScp5wroYHPjmx4LcH9V2aUet73xhDF2TAfL6WSrhuugyAt+yoQfc3/CVqB8/P2fQiwBQgaL6gQWpEn76KQCYqOIW32nU7mPYUFpLb7RYQLFBwdMbTK6dZkzG3OlEs8h+4WhfMDO3+L9fERcDMoEgd/Q+XdcdTzIXooaUwL1DCeCxfMR2kv2aUzqp7zXNtvhVP+JmINOcBul+WGusdEJLnoUyBo25baz1kfw+hzyuSOb2qlDsxVZ5NAw/PQIR4/hiPuHGHC/ou4/c6MEKc1ZxqfWIAbzeqr32GHsDs9iYq9vo6XG1qr3KmxTz8Mdoo=;8neRvD8c5EQjVK0R+p21jw=="
 ---
 
