@@ -4,6 +4,45 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-taking-buttons-in-power-bi-desktop-to-the-next-level.md",
+      "title": "Taking Buttons in Power BI Desktop to the Next Level",
+      "excerpt": "Amanda Cofsky joins us to show how you can use buttons, in Power BI Desktop, to take your reports to the next level. Blank buttons can really make your Power BI Reports shine.  Connect with Amanda on Twitter: https://twitter.com/MissAmandaN   ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-taking-buttons-in-power-bi-desktop-to-the-next-level/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-taking-buttons-in-power-bi-desktop-to-the-next-level/",
+      "originalUrl": "https://youtube.com/watch?v=hEAtbGrlKhY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hEAtbGrlKhY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M48S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-04-25T06:02:35-07:00",
+      "heat": 79,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hEAtbGrlKhY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-connect-power-bi-to-sharepoint-list-sharepoint-folder-sharepoint-excel-file-.md",
       "title": "Connect Power BI to SharePoint List, SharePoint Folder, SharePoint Excel File 🔌",
       "excerpt": "Let me show you how you can connect Power BI to  00:20 SharePoint Folder 05:32 SharePoint Excel File 07:26 SharePoint List   ================================ 👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/",
@@ -155,8 +194,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 16193,
-        "average": 4.760267
+        "count": 16195,
+        "average": 4.760235
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -297,8 +336,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 48496,
-            "average": 4.773342
+            "count": 48505,
+            "average": 4.7733636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -339,8 +378,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 22502,
-            "average": 4.7207804
+            "count": 22505,
+            "average": 4.7208176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -424,8 +463,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7547,
-            "average": 4.77077
+            "count": 7548,
+            "average": 4.7708
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1406,45 +1445,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-insane-amazing-power-query-tip-to-quickly-change-data-sources-in-power-bi-and-excel.md",
-      "title": "INSANE AMAZING Power Query tip to quickly change data sources in Power BI and Excel",
-      "excerpt": "If you need to change your data source references in Power Query, you are probably doing them individually. We found an INSANE AMAZING tip to make you way more efficient and it works in Power BI and Excel!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-insane-amazing-power-query-tip-to-quickly-change-data-sources-in-power-bi-and-excel/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-insane-amazing-power-query-tip-to-quickly-change-data-sources-in-power-bi-and-excel/",
-      "originalUrl": "https://youtube.com/watch?v=XIq5vN5oPf8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XIq5vN5oPf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M38S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-25T08:00:09-08:00",
-      "heat": 69,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XIq5vN5oPf8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     }
   ],

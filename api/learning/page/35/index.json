@@ -4,37 +4,6 @@
   "page": 35,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-grouping-visuals-in-power-bi-desktop.md",
-      "title": "Grouping Visuals in Power BI Desktop",
-      "excerpt": "In this video, we will talk about how we can create group of visuals in Power BI Desktop. Grouping of visualization is very useful when we develop the Power BI report. It saves lots of our time.   To create Group in Power BI, from selection pane we need to select the visual and right click on it to convert",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-grouping-visuals-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-grouping-visuals-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=4mCU0qS3Cwg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4mCU0qS3Cwg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M28S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:51:54-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4mCU0qS3Cwg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-how-to-connect-cds-or-dataverse-table-in-power-bi.md",
       "title": "How to connect CDS or Dataverse Table in Power BI?",
       "excerpt": "During this session, we will learn, how we can connect CDS or Dataverse table in Power BI. Sometimes we need to connect our data verse or CDS table in Power BI. So, how we can connect? I will explain step by step information here. Also, we will learn how we can find out our Data verse table URL? Let’s",
@@ -906,6 +875,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/IkpyzOV-tpg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-what-are-table-functions-in-dax-114-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "What Are Table Functions In DAX - (1.14) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-what-are-table-functions-in-dax-114-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-what-are-table-functions-in-dax-114-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=aeycw4IW02E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aeycw4IW02E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M41S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aeycw4IW02E/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

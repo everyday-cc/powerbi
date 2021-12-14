@@ -4,6 +4,44 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/videos/sqlbi-specifying-multiple-filter-conditions-in-calculate.md",
+      "title": "Specifying multiple filter conditions in CALCULATE",
+      "excerpt": "The filter arguments in CALCULATE can reference multiple columns from the same table in a single predicate: This is possible since March 2021 in Power BI, before that it was possible to filter a single column reference. \r Article and download: https://sql.bi/705207?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-specifying-multiple-filter-conditions-in-calculate/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-specifying-multiple-filter-conditions-in-calculate/",
+      "originalUrl": "https://youtube.com/watch?v=jyxZxFT_pAY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jyxZxFT_pAY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M38S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-30T03:01:28-07:00",
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jyxZxFT_pAY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/collections/absent-data-channel-power-bi-overview-course-for-complete-beginners.md",
       "title": "Power BI Overview Course for Complete Beginners",
       "excerpt": "Get started with Power BI with this easy to follow free course on Power BI fundamentals",
@@ -2265,8 +2303,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 99,
-            "average": 4.787879
+            "count": 100,
+            "average": 4.79
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2475,8 +2513,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 99,
-            "average": 4.787879
+            "count": 100,
+            "average": 4.79
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3876,44 +3914,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/nCEMM6Ryees/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-make-your-power-bi-report-pop-with-a-custom-background.md",
-      "title": "Make your Power BI report POP with a custom background",
-      "excerpt": "Is your report plain or bland? Patrick shows you how you can easily make your Power BI report pop with a custom background. It's as easy as just getting PowerPoint and drawing some shapes.  Demo files: https://guyinacu.be/demofiles  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube --",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-make-your-power-bi-report-pop-with-a-custom-background/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-make-your-power-bi-report-pop-with-a-custom-background/",
-      "originalUrl": "https://youtube.com/watch?v=0QvovI3aycs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0QvovI3aycs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M39S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-23T05:27:51-07:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0QvovI3aycs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

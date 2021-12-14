@@ -4,48 +4,6 @@
   "page": 30,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-connect-power-platform-to-sap-azure.md",
-      "title": "Connect Power Platform to SAP on Azure",
-      "excerpt": "Connect Power Platform to SAP on Azure",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-connect-power-platform-to-sap-azure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-power-platform-to-sap-azure/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 16,
-        "average": 4.8125
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/azure-sap-connect-power-platform-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-dax-power-bi-iterator-functions.md",
       "title": "Use DAX iterator functions in Power BI Desktop models",
       "excerpt": "By the end of this module, you’ll learn about what the family of iterator functions can do and how to use them in your DAX calculations. Calculations will include custom summarizations, ranking, and concatenation.",
@@ -53,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 678,
-        "average": 4.7094398
+        "count": 679,
+        "average": 4.7098675
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -215,8 +173,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
       "length": "PT37M",
       "ratings": {
-        "count": 99,
-        "average": 4.787879
+        "count": 100,
+        "average": 4.79
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1117,6 +1075,45 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-convert-json-strings-to-tables-in-power-query-power-bi.md",
+      "title": "Convert JSON strings to tables in Power Query/ Power BI",
+      "excerpt": "In today's video I will show you how to convert JSON files in Power Query to a table easily, in basically 2 steps!!  Some additional resources: Meetup: https://www.meetup.com/preview/Sweden-Power-BI-User-Group/events/242804557  Import Json files from Erik: https://eriksvensen.wordpress.com/2014/09/15/specifying-json-query-in-power-query-example-statistics-sweden/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-convert-json-strings-to-tables-in-power-query-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-convert-json-strings-to-tables-in-power-query-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=uX2idV79P24",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uX2idV79P24\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M56S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-22T02:47:18-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uX2idV79P24/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     }
   ],
