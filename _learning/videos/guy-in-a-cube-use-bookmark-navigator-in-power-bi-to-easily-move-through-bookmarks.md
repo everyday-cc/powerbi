@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M3S
 publishedDateTime: 2021-12-08T16:00:07Z
-heat: 170
+heat: 168
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IdXK470YwAQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "NWHxXYeYx0GJ2+oIGFyOV1OqTcNuMCo1QJndplGNGw7+qA5BOOmq5KRwQhIkGN3JrUjswcqhfqLEym2vYXdEJXM9ePxP16IuAmSD7akTzRH/YSRS15qzMydhFHNSRLIfaOaPon7dRAj2zaJbByiEeXSklgJJu7IRyqCuXpiTq3MuD1Aa5QQTwmAn9FjBAtZOcTFsxuoViQ8W30oLpeGJKQo/Lq5ZucwMZ3EToQcV0fIAd2U46v010mdQ+R0q4rHROO1akYN6Sia3saVxrDIFVxd2M4p97Ih3z4zs5ZhlbSUaFBtGvQBjXKwl7pZy15lDhJNfNCiOAoldYNMdukoCPi9ZyjM1p74F+jcWrXcfP90CWxTBwa0Q76iKX8H0r0HTd0meD+fh6mvVcjnbM6sQO80ybdtkiVOLmA+oDqOPdt0=;fyvr9HhwcA5vi2xlcd0grg=="
+secured: "ocey+IR60nVrdAgXaAjsRxKI+fxrPi2uqnuAArTUbn8Gntp82N/VW2rdlmbExQ4zNjS9YvdACeIwqGmB1JumCVpS/1L6F0tnv1rNrYoo4gYXKoURCb5bA20bvfGvMLzDGb6TLwh5K0Y0LRY//yZSspA7lM0EH6Eneg6J+irOVV/7Qah0BIHcPzfUWj0HKkM5wLLA58cHB6ykzQfTLrcn5hdZUz0mzeE063HGMQ4ETJu9WDf7yV0iO5t0pit/bWaT/nbz8hXlUTMrh1Ej5bx6EkwXN6fBfmVsmMYtp7xXp2QXVXvvsbE6wZClFCuL4Ai8K2Octudf/oWko1mFlQtQUPCMOBZA6X9VCxj6Y7XXhkgjQK3VOEMSyxJB0OFb2k3tsxmESVixfrt4I+PEFrSRpva6FyfEBZ7p7zY2zdjBtRc=;r3sqL3xt8gRB0sHwLFEDIA=="
 ---
 

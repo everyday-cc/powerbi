@@ -496,7 +496,7 @@
             ]
           },
           "publishedDateTime": "2020-04-14T01:18:24-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/K1h3lY5y5to/maxresdefault.jpg",
@@ -1575,8 +1575,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 42,
-            "average": 4.714286
+            "count": 43,
+            "average": 4.6511626
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1784,8 +1784,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 42,
-            "average": 4.714286
+            "count": 43,
+            "average": 4.6511626
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3374,8 +3374,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3367,
-            "average": 4.7234926
+            "count": 3368,
+            "average": 4.7235746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3457,8 +3457,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2474,
-            "average": 4.7687955
+            "count": 2475,
+            "average": 4.768889
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3624,8 +3624,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 5376,
-            "average": 4.7565103
+            "count": 5377,
+            "average": 4.7565556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3666,8 +3666,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4374,
-            "average": 4.7087336
+            "count": 4375,
+            "average": 4.7085714
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3802,7 +3802,7 @@
             ]
           },
           "publishedDateTime": "2020-04-24T04:44:00-07:00",
-          "heat": 62,
+          "heat": 61,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7CqXdSEN2k4/maxresdefault.jpg",
@@ -3841,7 +3841,7 @@
             ]
           },
           "publishedDateTime": "2020-04-24T04:44:00-07:00",
-          "heat": 53,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/qUmTxQHr6nY/maxresdefault.jpg",
@@ -3899,7 +3899,7 @@
         }
       ],
       "size": 3,
-      "heat": 53,
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/7CqXdSEN2k4/maxresdefault.jpg",
