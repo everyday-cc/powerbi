@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT19M18S
 publishedDateTime: 2021-02-09T11:00:22Z
-heat: 54
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6WU7Ze32Q3w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Dt5GgNXQHnoj9s3QyIk9Jppso73dgLLwJP+UIVBASMf0f0B1OOoz64mmMZsM8RT1CPgazqntqo0kX4gtHTa63455xnqHvbD4/wolGFLMxLNPLGKUWw+LLV3kC2EUUa1Jh8BN6jLgmyuOYl0UC4Ai2T9jveOpBzY/Dn+15Os8NNIVA7K7S/6ZpX5ooeoY4f3ykTkWZ/r6l1wRev3Wre4UtO/uwZuUYUivjovhu8PlG7pwTeK6IHTrb/Gqmc4Vcqjw2frFRlRWC29jtHxMrTGdLaprKMEphqmhBPtg3HHMM48laV+oCsFHNgaCOULOlEaWHZDFz8FHZtB9+qDt0WXtCaTX6TOQrGeQsup0x4WLertsekemTImccBFE79dgameF/UKLy3z3sX/1K+Hx7bwT3HuIdco8syg/0+JGLduVG+I=;YiuW5CvIgDH57p9HQmuOTg=="
+secured: "giOh+W7gIo8j3rbqxqX671MLhKxeORTuXoGmLmkjYXIT1Jl7leBSHygmtgNNbldxVggClCkTTvoyXeh6wUea2L1BMj4LsMYiyMCiZWKG0yWqqqFWDrc4oXwUzeqA+KlqV7kCdxLnDRDvG33K95rBlZfiNV1Oxm1PSxM9ZdxpwJ6NQaq76NNXzpkZijCOBlJCcTMI8ntTJwqnsU5qKTMeV9K0L0D4QDpPZJdyJx/LOUX4xYlIGLMfDpQ/pGHzgmCX5EyIz8GVJGx7sYn2p9qRgfOt/es4IkmBTKKOvyWFqADy/Kau/WZ8v+OPYbCztLEzT4R0uWXIfv1uQWu+b4P6dHaW21Gz2zRrz5KLQzenyUF5DJeBvxMCYXriUrAkldlbFToCEkvjAOsQImyOKn51qkSuTOhHQ7kDSRtO8Ggkc8c=;zmXI3Vu+LiT4qfCAOomCZg=="
 ---
 
