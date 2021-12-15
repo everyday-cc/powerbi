@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/explore-free-virtual-work
 webUrl: "https://powerbi.microsoft.com/en-us/blog/explore-free-virtual-workshops-to-help-you-get-started-with-power-bi/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
