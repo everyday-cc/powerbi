@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M14S
 publishedDateTime: 2021-06-24T15:00:35Z
-heat: 55
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x7q1DHf8wE4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "gvMqe2rKy8CSeHiFPKcTZoV8YsGIqlhgQbuXoljawQX0Rs05XIPVPAOSRxKIbvUC9QRE1xVZAyr/UZI2nbdBH3oNUQL0bo6YpvwCT/8pnO+zwMxqfvv7MBc4DGNmvY2X4SlOvcCeZ1ezMXUSS5GZZOUCqjbKm5zKEDGebybq1l8WwHGV/EpwHhvAv2dx/OpsNnz+lutzWFJifobZwT5yk54PYMF9jd8nWhir5lDu2XtsddvzOkcNZn5mEcwhQpExicpCzqCvBuW+qToSREh3n+EkdwgPX9rCnc5YnZk/b4MuhgVFhU5ttaJX/hIQxIGQ2kKRIbSE9Y2hdmCnOFOAGO1t6HzQFCkSrrbApYAh4UNQF4hntYk+NNX4q+3KaMB7+vlHR7YXmLnZGQSnUDMFR0rkPDB1YfyGRflnwqV/Tz4=;hZh7OjCAFHTS25HuFYqv7A=="
+secured: "hX7+Oe1cTxVJ8E+gaar+grMZ6YH1uSb4qao4jTZ2k5TNNGpAFsMbLb/VRkJXEI0Hz4brO35/PdE6sbFJFGp9Whi1m/FeMTPfhtDPPrOT709DBIh6A/KcrbxvNs/DRq+5Yt6IPtQvzA7LcJ601NDQVW9cFAp5/d76JmlwzTN/QxpMmubDLBMOZ+B6FSKux2SAggg2Ak6SaqUNLXWDhF56kAHThvAsAIKqV41SwNweDaCIyh9HxeOtP8/QzV8sQupbobHIfY2ITr7aIkJCIpvXnKp5+LSA4pwLU0NY0Bdwk+fbmfpbbHs4GxxXWwSqhB3bDLJoBmxO90+9I3jW0k52R3k3mK9ShEqPboz6Ra7kETuYef/d5+fT6Yu6evbAHqej5/DjSYOJkoAmSMtlidjwwVKzr32FvALfjPc/EK8NLH8=;zGKI5jOyg4qjFxezkBu7nw=="
 ---
 
