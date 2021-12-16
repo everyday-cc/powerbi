@@ -2118,8 +2118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 75,
-            "average": 4.88
+            "count": 76,
+            "average": 4.881579
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2328,8 +2328,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 75,
-            "average": 4.88
+            "count": 76,
+            "average": 4.881579
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3332,8 +3332,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11061,
-            "average": 4.679143
+            "count": 11062,
+            "average": 4.6789913
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3366,8 +3366,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 8939,
-            "average": 4.7051125
+            "count": 8940,
+            "average": 4.7051454
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3491,8 +3491,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2975,
-            "average": 4.72
+            "count": 2976,
+            "average": 4.720094
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3626,7 +3626,7 @@
             ]
           },
           "publishedDateTime": "2020-04-24T04:44:00-07:00",
-          "heat": 60,
+          "heat": 59,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7CqXdSEN2k4/maxresdefault.jpg",
