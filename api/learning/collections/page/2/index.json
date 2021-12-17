@@ -2556,8 +2556,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 104,
-            "average": 4.673077
+            "count": 105,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3183,8 +3183,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11077,
-            "average": 4.6792455
+            "count": 11079,
+            "average": 4.679303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3217,8 +3217,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 8955,
-            "average": 4.705304
+            "count": 8956,
+            "average": 4.705337
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3342,8 +3342,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 5406,
-            "average": 4.756197
+            "count": 5407,
+            "average": 4.756242
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3384,8 +3384,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4396,
-            "average": 4.7081437
+            "count": 4397,
+            "average": 4.70821
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3788,8 +3788,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2485,
-            "average": 4.769014
+            "count": 2486,
+            "average": 4.769107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3806,7 +3806,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 133,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-manage-workspaces-power-bi-social.png",
