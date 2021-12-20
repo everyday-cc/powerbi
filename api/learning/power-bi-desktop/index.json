@@ -151,8 +151,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 1933,
-            "average": 4.749612
+            "count": 1934,
+            "average": 4.7497416
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -194,8 +194,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 1319,
-            "average": 4.6974983
+            "count": 1320,
+            "average": 4.697727
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -238,8 +238,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 925,
-            "average": 4.7427025
+            "count": 926,
+            "average": 4.7419004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -344,8 +344,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 22604,
-        "average": 4.7211113
+        "count": 22607,
+        "average": 4.7210155
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1014,8 +1014,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 925,
-        "average": 4.7427025
+        "count": 926,
+        "average": 4.7419004
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1057,8 +1057,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
       "length": "PT20M",
       "ratings": {
-        "count": 1933,
-        "average": 4.749612
+        "count": 1934,
+        "average": 4.7497416
       },
       "provider": {
         "name": "Microsoft Learn",
