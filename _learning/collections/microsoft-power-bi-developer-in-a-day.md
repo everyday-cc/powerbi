@@ -2,7 +2,7 @@
 title: "Power BI Developer in a Day"
 excerpt: "The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the videos in the recorded sequence, starting with video 1 and ending with video 20."
 type: collection
-heat: 67
+heat: 64
 
 provider:
   name: Microsoft
