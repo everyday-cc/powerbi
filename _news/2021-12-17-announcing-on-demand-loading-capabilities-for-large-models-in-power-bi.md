@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-on-demand-load
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-on-demand-loading-capabilities-for-large-models-in-power-bi/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
