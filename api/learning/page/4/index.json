@@ -1326,8 +1326,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3788,
-            "average": 4.6715946
+            "count": 3789,
+            "average": 4.6716814
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1512,8 +1512,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 8519,
-        "average": 4.7584224
+        "count": 8521,
+        "average": 4.758479
       },
       "provider": {
         "name": "Microsoft Learn",
