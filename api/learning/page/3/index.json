@@ -164,8 +164,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 10652,
-        "average": 4.773564
+        "count": 10656,
+        "average": 4.773555
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -892,7 +892,7 @@
             ]
           },
           "publishedDateTime": "2021-11-15T16:13:56-08:00",
-          "heat": 138,
+          "heat": 58,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/ZWKfjVzI7mY/maxresdefault.jpg",
