@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thewindowsclub.com/fix-power-bi-desktop-login-issues?amp
 cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/fix-power-bi-desktop-login-issues?amp"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:
