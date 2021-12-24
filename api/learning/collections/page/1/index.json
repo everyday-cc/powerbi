@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 29701,
-            "average": 4.798222
+            "count": 29702,
+            "average": 4.798229
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4855,8 +4855,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 74,
-            "average": 4.864865
+            "count": 75,
+            "average": 4.866667
           },
           "provider": {
             "name": "Microsoft Learn",
