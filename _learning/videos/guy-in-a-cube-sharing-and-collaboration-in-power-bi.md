@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M57S
 publishedDateTime: 2019-02-24T23:35:44Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pij4gkznI2g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jOoBrPaseCb59vsQKoC0k4YGxy9SXvK3LWjOumvbiDgNJGASzFOQsx8kj3YvYFmW872JDbzYVfz+yghfbvMHHxAp7POyzHPyb9rtJxOONND1morEU6/MdC0qaeE5DcALPLkFjHu7l84KsID6GgmeooBc/9t2WQIeL8G5zOFrKPdwPDy4UYUmCuqQ562hnSUOT7PF3zlX2M9k46mMmxG8z35FXXJrytHb9f3p8XYBbnf8S5vGq7SDlBi1cbO68lG41/+7GKQqxSDt+tSjPJphKzjNCZ31OzYFxSlUouXu3ZvktRZqLSpLyEXXgsJdVKIXJwbtE5e1zvrJcheW7z6QajPijyNfngS5EOgo/FuOnrsBbZSQjZpMcYGIKFgMLMunXOfn73xcy7L/TGyZoW1JU7fXLoBhbt/k/MgCh803+5M=;lKN18uYr1cYKwtu4r3se0Q=="
+secured: "/vdyMtg+pb5mfeuvEIbEUfJ9y6IOO5ZXPWVZimXLSK1eEGdgj+4Kn7Bkoq07B2+k1c8DD1MmmN5fAkMCA5EY9ir25Z1ZYVIl273jp1sMk9EeBvgL1DCHhfPmny+0iSqVmS94ajIcomKN5z/TUu2g0SYgxyEIwP2z+XIpLtkq0WyMz07vv6rFr60WoannlJqvzONRRsIc7539HE/1bpz50SWa6ZUDuzGQlc/w1QqiJPULMV8rWSwo9E7dKrRHLGusx055npP5kRg4wGqn6ATCxytZE6wM8EZ5lMHpu0EsyaErBVIAPmtFHNJ1MkrpsX5uMLrg4xohVYmNv9TIajKH5PgwyLjywOmI0cx4QC0rNCRd3MG8Kh1frMDNrB9jmAbPTqSxD2TJG8XJfpzAYcsF+siACYOERx9NzDj56jGuIPE=;5uwZsBzxf9TtD71BiqHfAA=="
 ---
 
