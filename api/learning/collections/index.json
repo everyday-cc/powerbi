@@ -4,131 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-data-analysis-in-power-bi.md",
-      "title": "Data analysis in Power BI",
-      "excerpt": "Report authors can use additional features to enhance their reports for analytical insights in their data with features like Q&amp;A and exporting. In this module, you will closely examine your data and Power BI reports and then extract value with deeper analysis. Additionally, you will learn how to sort data and how to present the report in a cohesive manner. You will learn how to get a statistical summary for your data and export data from Power BI. You will also apply and perform advanced analytics on the report for deeper and more meaningful data insights.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-data-analysis-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-data-analysis-in-power-bi/",
-      "length": "PT1H52M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-perform-analytics-power-bi.md",
-          "title": "Perform analytics in Power BI ",
-          "excerpt": "You will learn how to use Power BI to perform data analytical functions, how to identify outliers in your data, how to group data together, and how to bin data for analysis. You will also learn how to perform time series analysis. Finally, you will work with advanced analytic features of Power BI, such as Quick Insights, AI Insights, and the Analyze feature.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-perform-analytics-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
-          "length": "PT51M",
-          "ratings": {
-            "count": 3026,
-            "average": 4.719101
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/perform-analytics-power-bi-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-ai-visuals-power-bi.md",
-          "title": "Work with AI visuals in Power BI",
-          "excerpt": "This module describes the AI capabilities of Power BI.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-ai-visuals-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
-          "length": "PT1H1M",
-          "ratings": {
-            "count": 3434,
-            "average": 4.7242284
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 135,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/ai-visuals-power-bi-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 135,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/perform-analytics-power-bi-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/guy-in-a-cube-getting-started-with-power-bi.md",
       "title": "Getting Started with Power BI",
       "excerpt": "These videos will help you with getting started with Power BI. From Power BI Desktop to the Power BI service and items in between, this is a great way to get started.",
@@ -348,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 29733,
-            "average": 4.798305
+            "count": 29734,
+            "average": 4.7983117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -390,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 49130,
-            "average": 4.773947
+            "count": 49133,
+            "average": 4.77394
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -473,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 49130,
-            "average": 4.773947
+            "count": 49133,
+            "average": 4.77394
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -683,8 +558,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3817,
-            "average": 4.6719937
+            "count": 3818,
+            "average": 4.6720796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -725,8 +600,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 3420,
-            "average": 4.6730995
+            "count": 3422,
+            "average": 4.6732903
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -767,8 +642,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3159,
-            "average": 4.701804
+            "count": 3160,
+            "average": 4.7018986
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -809,8 +684,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 3638,
-            "average": 4.740792
+            "count": 3639,
+            "average": 4.740863
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1278,8 +1153,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 8576,
-            "average": 4.758512
+            "count": 8577,
+            "average": 4.758424
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1320,8 +1195,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 10704,
-            "average": 4.77429
+            "count": 10706,
+            "average": 4.774332
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1511,197 +1386,6 @@
           "url": "https://i.ytimg.com/vi/l-83AtuHqM0/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/guy-in-a-cube-get-started-with-power-bi-paginated-reports.md",
-      "title": "Get started with Power BI Paginated Reports",
-      "excerpt": "Patrick walks you through how to create your first Paginated Report for Power BI, Power BI Report Server or SQL Server Reporting Services.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/guy-in-a-cube-get-started-with-power-bi-paginated-reports/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/guy-in-a-cube-get-started-with-power-bi-paginated-reports/",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/guy-in-a-cube-getting-started-with-power-bi-paginated-reports-2021.md",
-          "title": "Getting started with Power BI Paginated Reports (2021)",
-          "excerpt": "Not sure what Power BI Paginated Reports are or how to use them? Patrick walks you through and points you to some great resources to get up and running quickly.  Power BI Paginated Reports require either Power BI Premium Per User or Power BI Premium capacity.  Paginated Report In a Day: https://docs.microsoft.com/power-bi/learning-catalog/paginated-reports-online-course",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-getting-started-with-power-bi-paginated-reports-2021/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-getting-started-with-power-bi-paginated-reports-2021/",
-          "originalUrl": "https://youtube.com/watch?v=XSIbRNXGgPQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XSIbRNXGgPQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT10M10S",
-          "provider": {
-            "name": "Guy in a Cube",
-            "domain": "guyinacube.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2021-01-13T08:00:20-08:00",
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/XSIbRNXGgPQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/guy-in-a-cube-power-bi-paginated-reports-data-source-dataset-and-parameters.md",
-          "title": "Power BI Paginated Reports: Data source, Dataset and parameters",
-          "excerpt": "Paginated reports in Power BI are now available. Patrick walks you through how to get started with a paginated report using Report Builder. In this video, he starts off with how to create an embedded data source, a dataset, and parameters.  To download Report Builder, check out this link: https://guyinacu.be/reportbuilder",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-paginated-reports-data-source-dataset-and-parameters/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-paginated-reports-data-source-dataset-and-parameters/",
-          "originalUrl": "https://youtube.com/watch?v=TEIdI5bFCSU",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TEIdI5bFCSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT9M32S",
-          "provider": {
-            "name": "Guy in a Cube",
-            "domain": "guyinacube.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2019-01-09T06:20:10-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/TEIdI5bFCSU/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "title": "Power BI Paginated Reports: Data source, Dataset and parameters",
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/guy-in-a-cube-power-bi-paginated-reports-visualizing-data.md",
-          "title": "Power BI Paginated Reports: Visualizing Data",
-          "excerpt": "Paginated reports in Power BI are now available. Now that you have data, Patrick walks you through how to build a matrix visual within the report. He also looks at how to work with expressions and formatting.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube --",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-paginated-reports-visualizing-data/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-paginated-reports-visualizing-data/",
-          "originalUrl": "https://youtube.com/watch?v=gleYD97WScI",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gleYD97WScI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT13M41S",
-          "provider": {
-            "name": "Guy in a Cube",
-            "domain": "guyinacube.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2019-01-09T06:20:10-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/gleYD97WScI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "title": "Power BI Paginated Reports: Visualizing Data",
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/guy-in-a-cube-how-to-create-sparklines-indicators-and-conditional-formatting-in-power-bi-paginated-reports.md",
-          "title": "How to create Sparklines, indicators and conditional formatting in Power BI Paginated Reports",
-          "excerpt": "Patrick walks finishes his look at Paginated Reports in Power BI. He shows you how to create sparklines, indicators and conditional formatting within the Paginated Report using Report Builder.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-to-create-sparklines-indicators-and-conditional-formatting-in-power-bi-paginated-reports/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-to-create-sparklines-indicators-and-conditional-formatting-in-power-bi-paginated-reports/",
-          "originalUrl": "https://youtube.com/watch?v=kvsi3Jwe-sI",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kvsi3Jwe-sI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT7M20S",
-          "provider": {
-            "name": "Guy in a Cube",
-            "domain": "guyinacube.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2019-01-09T06:20:35-08:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/kvsi3Jwe-sI/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "title": "How to create Sparklines, indicators and conditional formatting in Power BI Paginated Reports",
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XSIbRNXGgPQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],
@@ -2006,7 +1690,7 @@
             ]
           },
           "publishedDateTime": "2021-11-15T16:13:56-08:00",
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/a9E8X0a_Mis/maxresdefault.jpg",
@@ -2808,11 +2492,11 @@
       ]
     },
     {
-      "path": "_learning/collections/guy-in-a-cube-learn-all-about-power-bi-aggregations.md",
-      "title": "Learn all about Power BI Aggregations",
-      "excerpt": "Power BI aggregations are for more than just large data models! In this series, Patrick looks at the different aspects of Power BI aggregations.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/guy-in-a-cube-learn-all-about-power-bi-aggregations/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/guy-in-a-cube-learn-all-about-power-bi-aggregations/",
+      "path": "_learning/collections/guy-in-a-cube-get-started-with-power-bi-paginated-reports.md",
+      "title": "Get started with Power BI Paginated Reports",
+      "excerpt": "Patrick walks you through how to create your first Paginated Report for Power BI, Power BI Report Server or SQL Server Reporting Services.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/guy-in-a-cube-get-started-with-power-bi-paginated-reports/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/guy-in-a-cube-get-started-with-power-bi-paginated-reports/",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -2827,14 +2511,14 @@
       },
       "topItems": [
         {
-          "path": "_learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations.md",
-          "title": "The How and Why of Power BI Aggregations",
-          "excerpt": "Learn the how and why Power BI Aggregations can help your data model be more efficient. This video is part of a Power BI Aggregations series.  Aggregations Documentation: https://docs.microsoft.com/power-bi/desktop-aggregations  📢 Become a member: https://guyinacu.be/membership   *******************",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations/",
-          "originalUrl": "https://youtube.com/watch?v=EhGF372t0sU",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EhGF372t0sU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT9M1S",
+          "path": "_learning/videos/guy-in-a-cube-getting-started-with-power-bi-paginated-reports-2021.md",
+          "title": "Getting started with Power BI Paginated Reports (2021)",
+          "excerpt": "Not sure what Power BI Paginated Reports are or how to use them? Patrick walks you through and points you to some great resources to get up and running quickly.  Power BI Paginated Reports require either Power BI Premium Per User or Power BI Premium capacity.  Paginated Report In a Day: https://docs.microsoft.com/power-bi/learning-catalog/paginated-reports-online-course",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-getting-started-with-power-bi-paginated-reports-2021/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-getting-started-with-power-bi-paginated-reports-2021/",
+          "originalUrl": "https://youtube.com/watch?v=XSIbRNXGgPQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XSIbRNXGgPQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT10M10S",
           "provider": {
             "name": "Guy in a Cube",
             "domain": "guyinacube.com",
@@ -2847,14 +2531,13 @@
               }
             ]
           },
-          "publishedDateTime": "2020-03-04T08:00:04-08:00",
-          "heat": 53,
+          "publishedDateTime": "2021-01-13T08:00:20-08:00",
+          "heat": 56,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/EhGF372t0sU/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/XSIbRNXGgPQ/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
-              "title": "The How and Why of Power BI Aggregations",
               "isCached": true
             }
           ],
@@ -2866,14 +2549,14 @@
           ]
         },
         {
-          "path": "_learning/videos/guy-in-a-cube-configure-power-bi-aggregations.md",
-          "title": "Configure Power BI Aggregations",
-          "excerpt": "Learn to configure your Power BI Aggregations table to really increase the speed of your DAX queries. This does NOT require Power BI Premium!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-configure-power-bi-aggregations/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-configure-power-bi-aggregations/",
-          "originalUrl": "https://youtube.com/watch?v=kytYzjTXUHs",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kytYzjTXUHs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT6M30S",
+          "path": "_learning/videos/guy-in-a-cube-power-bi-paginated-reports-data-source-dataset-and-parameters.md",
+          "title": "Power BI Paginated Reports: Data source, Dataset and parameters",
+          "excerpt": "Paginated reports in Power BI are now available. Patrick walks you through how to get started with a paginated report using Report Builder. In this video, he starts off with how to create an embedded data source, a dataset, and parameters.  To download Report Builder, check out this link: https://guyinacu.be/reportbuilder",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-paginated-reports-data-source-dataset-and-parameters/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-paginated-reports-data-source-dataset-and-parameters/",
+          "originalUrl": "https://youtube.com/watch?v=TEIdI5bFCSU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TEIdI5bFCSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT9M32S",
           "provider": {
             "name": "Guy in a Cube",
             "domain": "guyinacube.com",
@@ -2886,14 +2569,14 @@
               }
             ]
           },
-          "publishedDateTime": "2020-03-11T08:00:10-07:00",
+          "publishedDateTime": "2019-01-09T06:20:10-08:00",
           "heat": 51,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/kytYzjTXUHs/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/TEIdI5bFCSU/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
-              "title": "Configure Power BI Aggregations",
+              "title": "Power BI Paginated Reports: Data source, Dataset and parameters",
               "isCached": true
             }
           ],
@@ -2905,14 +2588,14 @@
           ]
         },
         {
-          "path": "_learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations.md",
-          "title": "Why can't I define my Power BI Aggregations???",
-          "excerpt": "Trouble defining your Power BI Aggregations? Field selection all grayed out? Patrick has a tip for you!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.  🎓",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations/",
-          "originalUrl": "https://youtube.com/watch?v=V9aG-6wr1xQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V9aG-6wr1xQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M13S",
+          "path": "_learning/videos/guy-in-a-cube-power-bi-paginated-reports-visualizing-data.md",
+          "title": "Power BI Paginated Reports: Visualizing Data",
+          "excerpt": "Paginated reports in Power BI are now available. Now that you have data, Patrick walks you through how to build a matrix visual within the report. He also looks at how to work with expressions and formatting.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube --",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-paginated-reports-visualizing-data/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-paginated-reports-visualizing-data/",
+          "originalUrl": "https://youtube.com/watch?v=gleYD97WScI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gleYD97WScI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT13M41S",
           "provider": {
             "name": "Guy in a Cube",
             "domain": "guyinacube.com",
@@ -2925,14 +2608,14 @@
               }
             ]
           },
-          "publishedDateTime": "2020-03-17T08:00:22-07:00",
+          "publishedDateTime": "2019-01-09T06:20:10-08:00",
           "heat": 50,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/V9aG-6wr1xQ/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/gleYD97WScI/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
-              "title": "Why can't I define my Power BI Aggregations???",
+              "title": "Power BI Paginated Reports: Visualizing Data",
               "isCached": true
             }
           ],
@@ -2944,14 +2627,14 @@
           ]
         },
         {
-          "path": "_learning/videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations.md",
-          "title": "Are you HITTING your Power BI aggregations???",
-          "excerpt": "Are you not sure if you are hitting your Power BI Aggregations? Patrick shows you some tools you can use to verify if they are being used.  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations/",
-          "originalUrl": "https://youtube.com/watch?v=ivWGSnthTDw",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ivWGSnthTDw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT7M46S",
+          "path": "_learning/videos/guy-in-a-cube-how-to-create-sparklines-indicators-and-conditional-formatting-in-power-bi-paginated-reports.md",
+          "title": "How to create Sparklines, indicators and conditional formatting in Power BI Paginated Reports",
+          "excerpt": "Patrick walks finishes his look at Paginated Reports in Power BI. He shows you how to create sparklines, indicators and conditional formatting within the Paginated Report using Report Builder.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-to-create-sparklines-indicators-and-conditional-formatting-in-power-bi-paginated-reports/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-to-create-sparklines-indicators-and-conditional-formatting-in-power-bi-paginated-reports/",
+          "originalUrl": "https://youtube.com/watch?v=kvsi3Jwe-sI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kvsi3Jwe-sI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT7M20S",
           "provider": {
             "name": "Guy in a Cube",
             "domain": "guyinacube.com",
@@ -2964,14 +2647,14 @@
               }
             ]
           },
-          "publishedDateTime": "2020-03-18T08:00:15-07:00",
-          "heat": 50,
+          "publishedDateTime": "2019-01-09T06:20:35-08:00",
+          "heat": 51,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/ivWGSnthTDw/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/kvsi3Jwe-sI/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
-              "title": "Are you HITTING your Power BI aggregations???",
+              "title": "How to create Sparklines, indicators and conditional formatting in Power BI Paginated Reports",
               "isCached": true
             }
           ],
@@ -2983,14 +2666,13 @@
           ]
         }
       ],
-      "size": 6,
+      "size": 5,
       "heat": 61,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/EhGF372t0sU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/XSIbRNXGgPQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "title": "The How and Why of Power BI Aggregations",
           "isCached": true
         }
       ],
@@ -5214,6 +4896,388 @@
           "width": 1280,
           "height": 720,
           "title": "What is Power BI Embedded?",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/guy-in-a-cube-learn-all-about-power-bi-aggregations.md",
+      "title": "Learn all about Power BI Aggregations",
+      "excerpt": "Power BI aggregations are for more than just large data models! In this series, Patrick looks at the different aspects of Power BI aggregations.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/guy-in-a-cube-learn-all-about-power-bi-aggregations/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/guy-in-a-cube-learn-all-about-power-bi-aggregations/",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations.md",
+          "title": "The How and Why of Power BI Aggregations",
+          "excerpt": "Learn the how and why Power BI Aggregations can help your data model be more efficient. This video is part of a Power BI Aggregations series.  Aggregations Documentation: https://docs.microsoft.com/power-bi/desktop-aggregations  📢 Become a member: https://guyinacu.be/membership   *******************",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-how-and-why-of-power-bi-aggregations/",
+          "originalUrl": "https://youtube.com/watch?v=EhGF372t0sU",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EhGF372t0sU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT9M1S",
+          "provider": {
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-03-04T08:00:04-08:00",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/EhGF372t0sU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "The How and Why of Power BI Aggregations",
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/guy-in-a-cube-configure-power-bi-aggregations.md",
+          "title": "Configure Power BI Aggregations",
+          "excerpt": "Learn to configure your Power BI Aggregations table to really increase the speed of your DAX queries. This does NOT require Power BI Premium!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-configure-power-bi-aggregations/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-configure-power-bi-aggregations/",
+          "originalUrl": "https://youtube.com/watch?v=kytYzjTXUHs",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kytYzjTXUHs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT6M30S",
+          "provider": {
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-03-11T08:00:10-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/kytYzjTXUHs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "Configure Power BI Aggregations",
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations.md",
+          "title": "Why can't I define my Power BI Aggregations???",
+          "excerpt": "Trouble defining your Power BI Aggregations? Field selection all grayed out? Patrick has a tip for you!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.  🎓",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations/",
+          "originalUrl": "https://youtube.com/watch?v=V9aG-6wr1xQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V9aG-6wr1xQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M13S",
+          "provider": {
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-03-17T08:00:22-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/V9aG-6wr1xQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "Why can't I define my Power BI Aggregations???",
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations.md",
+          "title": "Are you HITTING your Power BI aggregations???",
+          "excerpt": "Are you not sure if you are hitting your Power BI Aggregations? Patrick shows you some tools you can use to verify if they are being used.  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations/",
+          "originalUrl": "https://youtube.com/watch?v=ivWGSnthTDw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ivWGSnthTDw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT7M46S",
+          "provider": {
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-03-18T08:00:15-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/ivWGSnthTDw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "Are you HITTING your Power BI aggregations???",
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EhGF372t0sU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "The How and Why of Power BI Aggregations",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/guy-in-a-cube-power-bi-administration.md",
+      "title": "Power BI Administration",
+      "excerpt": "This list includes all things related to administering Power BI. This includes dealing with licenses, working with Azure Active Directory and Office 365 and account issues.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/guy-in-a-cube-power-bi-administration/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/guy-in-a-cube-power-bi-administration/",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/guy-in-a-cube-power-bi-premium-what-is-v-core-pooling.md",
+          "title": "Power BI Premium: What is V-CORE pooling?!?",
+          "excerpt": "Adam breaks down v-core pooling with Power BI Premium. Explaining where the v-cores come from and how creating a Power BI Premium node affects the v-core pool.  Guy in a Cube Courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-premium-what-is-v-core-pooling/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-premium-what-is-v-core-pooling/",
+          "originalUrl": "https://youtube.com/watch?v=8AJbbdE0uKQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8AJbbdE0uKQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT9M14S",
+          "provider": {
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2019-09-12T08:00:04-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/8AJbbdE0uKQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/guy-in-a-cube-power-bi-administration-configure-help-urls.md",
+          "title": "Power BI Administration: Configure Help URLs",
+          "excerpt": "Adam looks at how a Power BI administrator can configure Help URLs within the Power BI Admin Portal. This is a must look at video for Power BI Administration!  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-administration-configure-help-urls/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-administration-configure-help-urls/",
+          "originalUrl": "https://youtube.com/watch?v=kn5VHDNb888",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kn5VHDNb888\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M35S",
+          "provider": {
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2019-03-26T08:00:26-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/kn5VHDNb888/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/guy-in-a-cube-power-bi-admin-roles-and-the-admin-portal.md",
+          "title": "Power BI Admin Roles and the Admin Portal",
+          "excerpt": "Adam looks at the Power BI Admin Portal and the roles you need to be able to access and manage your Power BI items. This consists of two potential roles within Azure Active Directory or Office 365.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-admin-roles-and-the-admin-portal/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-admin-roles-and-the-admin-portal/",
+          "originalUrl": "https://youtube.com/watch?v=bjERMKH2blw",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bjERMKH2blw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT9M45S",
+          "provider": {
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2019-03-07T08:00:21-08:00",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/bjERMKH2blw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/guy-in-a-cube-disable-free-signups-in-the-power-bi-service.md",
+          "title": "Disable free signups in the Power BI service",
+          "excerpt": "Learn how you can block free signups for the Power BI service. Free signups are also what are referred to as viral signups. This action can affect more than just Power BI, so be careful.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-disable-free-signups-in-the-power-bi-service/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-disable-free-signups-in-the-power-bi-service/",
+          "originalUrl": "https://youtube.com/watch?v=CyYLDbRBHDQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CyYLDbRBHDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT7M1S",
+          "provider": {
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2019-02-14T08:00:13-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/CyYLDbRBHDQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power BI Service"
+          ]
+        }
+      ],
+      "size": 27,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8AJbbdE0uKQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],

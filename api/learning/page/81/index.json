@@ -640,37 +640,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-icon-names-for-conditional-formatting-using-dax.md",
-      "title": "Power BI Icon Names for Conditional Formatting Using DAX",
-      "excerpt": "I have previously written about conditional formatting in Power BI, and how you can take one step further with using DAX to dynamically change the conditional formatting. Conditional formatting with DAX for colors is easy, you can use the color name or their hex code. But for Icons, it is slightly different.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-icon-names-for-conditional-formatting-using-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-icon-names-for-conditional-formatting-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=UCLCQaVeshs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UCLCQaVeshs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M38S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-11-15T15:33:39-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UCLCQaVeshs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-power-bi-is-too-much-for-one-person-roles-in-the-power-bi-development.md",
       "title": "Power BI Is Too Much for One Person   Roles in the Power BI Development",
       "excerpt": "Power BI is a tool that you can get started working with it in a few hours, but to use it in its full potential, these days, you require to have many skills. The variety of solutions and BI implementations is also dictating to have different roles, positions, jobs in the Power BI development market.",
@@ -789,6 +758,36 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-one-slicer-to-filter-other-slicers-based-on-items-that-has-value-only-without-bi-direction.md",
+      "title": "Power BI One Slicer to filter other slicers based on Items that has value only without BI Direction",
+      "excerpt": "In a star schema design, how you can filter one dimension by another dimension. How you can find all the products that this customer purchased or all customers who have purchased this product using two separate slicers. To learn more about star schema: https://radacad.com/power-bi-basics-of-modeling-star-schema-and-how-to-build-it",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-one-slicer-to-filter-other-slicers-based-on-items-that-has-value-only-without-bi-direction/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-one-slicer-to-filter-other-slicers-based-on-items-that-has-value-only-without-bi-direction/",
+      "originalUrl": "https://youtube.com/watch?v=cyOquvfhzNM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cyOquvfhzNM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M52S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-08-19T14:51:19-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cyOquvfhzNM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {

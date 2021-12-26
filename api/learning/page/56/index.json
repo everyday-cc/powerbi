@@ -4,44 +4,6 @@
   "page": 56,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-excel-mobile-and-geocoding-roundup-54.md",
-      "title": "Excel, Mobile and geocoding - Roundup #54",
-      "excerpt": "In today's roundup I have a post about using Excel to work with Power BI data, creating phone layouts for dashboards, some geocoding, and something a little fun.  ANALYSE POWER BI DATA IN EXCEL (@sobnz) http://biinsight.com/analyse-power-bi-data-in-excel/  Geocoding using R and Google Maps in Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-excel-mobile-and-geocoding-roundup-54/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-excel-mobile-and-geocoding-roundup-54/",
-      "originalUrl": "https://youtube.com/watch?v=JPZDpyobyTI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JPZDpyobyTI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M51S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-07-21T07:16:59-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JPZDpyobyTI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-exhibition.md",
       "title": "Exhibition",
       "excerpt": "For my third day here, I spent most of my time in the Exhibition hall interacting with folks. I did manage to catch a few small parts of some sessions. I then snuck out to attend the Bay Area Microsoft BI User Group which was in Mountain View.  Music by: https://soundcloud.com/jeff-kaale  SUBSCRIBE!",
@@ -156,44 +118,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-exploring-the-visio-visual-in-power-bi.md",
-      "title": "Exploring the Visio visual in Power BI",
-      "excerpt": "Want to explore locations with data? The Visio visual in Power BI helps you do just that! Patrick looks at how to set it up and help use your data to highlight areas within a Visio diagram.  Download Sample: https://guyinacu.be/visiosample  Documentation: https://support.microsoft.com/office/add-visio-visuals-to-power-bi-reports-4f09be62-f436-45c2-93b0-4a0f66b1f5a7",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-exploring-the-visio-visual-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-exploring-the-visio-visual-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=ZkL2jo3b_5M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZkL2jo3b_5M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M24S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-08-11T08:00:30-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZkL2jo3b_5M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-expressroute-trust-center-mobile-roundup-43.md",
       "title": "ExpressRoute, Trust Center, Mobile - Roundup #43",
       "excerpt": "Melissa Coates shows you how to get a demo environment up and running with Azure Data Catalog. Sam Lester shows how you what Reporting Services 2016 can do with Power BI Desktop files. Power BI has been added to the Microsoft Trust Center. And a recap of the updates for the Power BI Service and the Mobile",
@@ -267,45 +191,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-external-tools-in-power-bi-desktop-are-missing.md",
-      "title": "EXTERNAL TOOLS in Power BI Desktop... are MISSING???",
-      "excerpt": "Excited for External Tools in Power BI Desktop and... they are missing? What the heck! Adam breaks down how to get them within the ribbon of the July 2020 Power BI Desktop.  Tools downloads: https://sqlbi.com/tools  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-external-tools-in-power-bi-desktop-are-missing/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-external-tools-in-power-bi-desktop-are-missing/",
-      "originalUrl": "https://youtube.com/watch?v=jScicVBrr0s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jScicVBrr0s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M19S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-07-16T08:00:12-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jScicVBrr0s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     },
     {
@@ -1139,6 +1024,120 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Q9f46gAv3Fo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-good-bye-pass-ba-2016.md",
+      "title": "Good bye PASS BA 2016",
+      "excerpt": "Last day at the PASS Business Analytics conference. More time in the exhibition hall. Attended a few sessions and relaxed with some friends. Ended up doing a video walk in downtown with a friend. Which was awesome!  Music by https://soundcloud.com/jeff-kaale  SUBSCRIBE! https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-good-bye-pass-ba-2016/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-good-bye-pass-ba-2016/",
+      "originalUrl": "https://youtube.com/watch?v=gVrxfhD6Meg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gVrxfhD6Meg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M16S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-05-05T10:51:19-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gVrxfhD6Meg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-graphing-in-power-bi-updates-for-gateway-and-developer-and-more-may-3-2018.md",
+      "title": "Graphing in Power BI, updates for gateway and developer and more... (May 3, 2018)",
+      "excerpt": "Fun with Graphing in Power BI - Part 5-by-5 (@GregDeckler) https://community.powerbi.com/t5/Community-Blog/Fun-with-Graphing-in-Power-BI-Part-5-by-5/ba-p/407724  Power BI Architecture Guidelines (@Rad_Reza) http://radacad.com/power-bi-architecture-guidelines  Build a Collapsible Slicer Pane for Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-graphing-in-power-bi-updates-for-gateway-and-developer-and-more-may-3-2018/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-graphing-in-power-bi-updates-for-gateway-and-developer-and-more-may-3-2018/",
+      "originalUrl": "https://youtube.com/watch?v=dDPbbIYoons",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dDPbbIYoons\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M13S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-05-03T07:17:49-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dDPbbIYoons/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-guy-in-a-cube-hanging-out-with-andy-leonard-from-datadriventv.md",
+      "title": "Guy in a Cube hanging out with Andy Leonard from DataDriven.TV",
+      "excerpt": "Patrick and Adam were at SQL Saturday Atlanta. While there, they caught up with Andy Leonard from DataDriven.TV and participated in one of their podcasts. They did a Facebook live stream and posted this on their podcast channel. Adam had his camera equipment and also grabbed it. Here is the Guy in a",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-guy-in-a-cube-hanging-out-with-andy-leonard-from-datadriventv/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-guy-in-a-cube-hanging-out-with-andy-leonard-from-datadriventv/",
+      "originalUrl": "https://youtube.com/watch?v=_c9wcRDMI6w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_c9wcRDMI6w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M43S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-07-18T08:41:46-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_c9wcRDMI6w/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

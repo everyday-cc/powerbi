@@ -2,7 +2,7 @@
 title: "Learn all about Power BI Aggregations"
 excerpt: "Power BI aggregations are for more than just large data models! In this series, Patrick looks at the different aspects of Power BI aggregations."
 type: collection
-heat: 61
+heat: 60
 
 provider:
   name: Guy in a Cube

@@ -4,82 +4,6 @@
   "page": 59,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-loot-crate-unboxing-investigate-april-2017.md",
-      "title": "Loot Crate Unboxing - Investigate - April 2017",
-      "excerpt": "This month's LootCrate theme was Investigate. It included Jessica Jones, Stranger Things, X Files and Batman.  Affiliate Link if you want to help support Guy in a Cube: http://bit.ly/2cNY20R  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-loot-crate-unboxing-investigate-april-2017/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-loot-crate-unboxing-investigate-april-2017/",
-      "originalUrl": "https://youtube.com/watch?v=M6QYGvnIXVA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M6QYGvnIXVA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M15S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-04-30T12:14:49-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/M6QYGvnIXVA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-loot-crate-unboxing-july-2017-animation.md",
-      "title": "Loot Crate Unboxing - July 2017 (Animation)",
-      "excerpt": "This month's Loot Crate theme was Animation. It included Bob's Burger, Rick & Morty, Futurama and Teenage Mutant Ninja Turtles  Affiliate Link if you want to help support Guy in a Cube: http://bit.ly/2cNY20R  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube --",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-loot-crate-unboxing-july-2017-animation/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-loot-crate-unboxing-july-2017-animation/",
-      "originalUrl": "https://youtube.com/watch?v=0oIqiRxkq6A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0oIqiRxkq6A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M35S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-07-26T05:09:56-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0oIqiRxkq6A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-loot-crate-unboxing-primal-march-2017.md",
       "title": "Loot Crate Unboxing - Primal - March 2017",
       "excerpt": "This month's LootCrate theme was Primal. It included Logan, Winston from Overwatch, Jurassic Park and Predator.  Affiliate Link if you want to help support Guy in a Cube: http://bit.ly/2cNY20R  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube",
@@ -843,45 +767,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-multi-select-dynamic-titles-in-power-bi-desktop.md",
-      "title": "Multi-select Dynamic Titles in Power BI Desktop",
-      "excerpt": "After the dynamic titles in Power BI Desktop video, we had questions about how to do multi-select values. Patrick shows you how to do it!  Demo files: https://guyinacu.be/demofiles  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-multi-select-dynamic-titles-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-multi-select-dynamic-titles-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=3G3vzbTmHpU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3G3vzbTmHpU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M50S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-05-07T05:42:50-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3G3vzbTmHpU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-multiple-sign-ins-using-chrome-with-power-bi-or-office-365.md",
       "title": "Multiple sign-ins using Chrome with Power BI or Office 365",
       "excerpt": "In this video, I show you how you can use Chrome to have multiple logins to Power BI, or Office 365, without using incognito, or in-private or anything else.  This was a tip I got from Chris Webb, who found it from James Callaghan.  Chris Webb's Blog: https://blog.crossjoin.co.uk/2017/03/23/quick-tip-working-with-multiple-power-bi-subscriptionsaccounts/",
@@ -909,6 +794,44 @@
           "url": "https://i.ytimg.com/vi/gHEFK4ol5XI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-my-checklist-for-troubleshooting-power-bi-performance.md",
+      "title": "My CHECKLIST for troubleshooting Power BI Performance",
+      "excerpt": "We OPTIMIZE PERFORMANCE on a lot of models for Power BI. And, over the years, we start with the same first few things. Adam walks you through his steps.  Performance Analyzer: https://docs.microsoft.com/power-bi/create-reports/desktop-performance-analyzer  DAX Studio: https://daxstudio.org/  Tabular",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-my-checklist-for-troubleshooting-power-bi-performance/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-my-checklist-for-troubleshooting-power-bi-performance/",
+      "originalUrl": "https://youtube.com/watch?v=D9dm0-cp1_s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D9dm0-cp1_s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M37S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-05-20T08:00:17-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/D9dm0-cp1_s/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -1072,14 +995,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-new-way-to-create-measures-in-power-bi.md",
-      "title": "NEW way to create measures in Power BI!",
-      "excerpt": "There is a NEW way to create measures in Power BI with the July 2020 Power BI Desktop update. Patrick shows you how External Tools can help you.  Tabular Editor download: https://www.sqlbi.com/tools/  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-new-way-to-create-measures-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-new-way-to-create-measures-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=kuo3HOxY788",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kuo3HOxY788\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M50S",
+      "path": "_learning/videos/guy-in-a-cube-o365-syndication-and-purchasing-power-bi.md",
+      "title": "O365 Syndication and purchasing Power BI",
+      "excerpt": "I look at a roadblock you may encounter if you purchased O365 from a Syndicated Partner. You won't be able to purchase Power BI Pro for these offerings. I look at some workarounds you can use to get up and running with Power BI.  https://powerbi.microsoft.com/en-us/documentation/powerbi-admin-syndication-partner/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-o365-syndication-and-purchasing-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-o365-syndication-and-purchasing-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=C357phT94A8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C357phT94A8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M29S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -1092,11 +1015,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-07-21T08:00:24-07:00",
+      "publishedDateTime": "2016-03-01T11:26:45-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/kuo3HOxY788/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/C357phT94A8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1110,14 +1033,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-next-level-power-bi-date-picker.md",
-      "title": "NEXT LEVEL Power BI Date Picker!",
-      "excerpt": "Revisiting the Power BI Date Picker. Patrick takes it to the NEXT LEVEL and makes it more efficient!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-next-level-power-bi-date-picker/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-next-level-power-bi-date-picker/",
-      "originalUrl": "https://youtube.com/watch?v=mXi8sMmOOTU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mXi8sMmOOTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M22S",
+      "path": "_learning/videos/guy-in-a-cube-odata-differences-within-power-bi-and-how-to-refresh-your-data.md",
+      "title": "OData Differences within Power BI and how to refresh your data!",
+      "excerpt": "Last week we looked at the O365 Bubble and how we use Authentication to go in and out.  This week we show it in action!  We will look at one of the limitations to the existing Power BI service and how we can actually use the new Power BI Preview service to refresh data from an OData feed using oAuth",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-odata-differences-within-power-bi-and-how-to-refresh-your-data/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-odata-differences-within-power-bi-and-how-to-refresh-your-data/",
+      "originalUrl": "https://youtube.com/watch?v=-HRRd8RYHhw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-HRRd8RYHhw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M8S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -1130,11 +1053,87 @@
           }
         ]
       },
-      "publishedDateTime": "2020-09-09T08:00:23-07:00",
+      "publishedDateTime": "2015-06-09T13:42:14-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mXi8sMmOOTU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-HRRd8RYHhw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-omg-a-cpu-spike-on-my-power-bi-premium-capacity-what-now.md",
+      "title": "OMG a CPU Spike on my Power BI Premium capacity! What now???",
+      "excerpt": "You notice a CPU spike on your Power BI Premium capacity. OMG what do you do?!? Calm down, we tell you what to consider.  Optimizing Premium capacities: https://docs.microsoft.com/power-bi/admin/service-premium-capacity-optimize  📢 Become a member: https://guyinacu.be/membership   *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-omg-a-cpu-spike-on-my-power-bi-premium-capacity-what-now/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-omg-a-cpu-spike-on-my-power-bi-premium-capacity-what-now/",
+      "originalUrl": "https://youtube.com/watch?v=Im2HTkG-J7M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Im2HTkG-J7M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M59S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-07T08:00:06-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Im2HTkG-J7M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-on-premises-data-gateway-with-power-bi-spud-trooper.md",
+      "title": "On-premises Data Gateway with Power BI + Spud Trooper",
+      "excerpt": "I look at the new On-Premises Data Gateway and explain what has changed. I talk about it's use with PowerApps, Microsoft Flow and Logic Apps as well. Spud Trooper also joins in the discussion!   On-premises data gateway https://powerbi.microsoft.com/en-us/documentation/powerbi-gateway-onprem/  On-premises",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-on-premises-data-gateway-with-power-bi-spud-trooper/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-on-premises-data-gateway-with-power-bi-spud-trooper/",
+      "originalUrl": "https://youtube.com/watch?v=sd0rrlhnl8M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sd0rrlhnl8M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M40S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-07-19T07:26:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sd0rrlhnl8M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
