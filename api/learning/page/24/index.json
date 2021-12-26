@@ -4,24 +4,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_learning/articles/kasper-on-bi-refresh-the-table-fully-after-setting-up-incremental-refresh-with-tmsl.md",
-      "title": "Refresh the table fully after setting up incremental refresh with TMSL",
-      "excerpt": "I have seen this question a few times. When incremental refresh is setup, we cannot refresh the whole model. Some workarounds are deploying the model...The post Refresh the table fully after setting up incremental refresh with TMSL appeared first on Kasper On BI. ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/kasper-on-bi-refresh-the-table-fully-after-setting-up-incremental-refresh-with-tmsl/index.json",
-      "webUrl": "https://www.kasperonbi.com/refresh-the-table-fully-after-setting-up-incremental-refresh-with-tmsl/",
-      "provider": {
-        "name": "Kasper On BI",
-        "domain": "kasperonbi.com"
-      },
-      "publishedDateTime": "2020-09-17T07:52:16-07:00",
-      "heat": 50,
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/articles/kasper-on-bi-the-rise-of-self-service-bi-powerpivot-and-power-bi-and-how-it-changed-the-world-with-rob-collie.md",
       "title": "The rise of self-service BI, PowerPivot and Power BI and how it changed the world with Rob Collie",
       "excerpt": "In this episode of Kasper On BI we are talking about the rise of self-service BI and how that is different from traditional BI. It...\nThe post The rise of self-service BI, PowerPivot and Power BI and how it changed the world with Rob Collie appeared first on Kasper On BI.\n",
@@ -1315,8 +1297,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intelligent-environments-education-transformation-framework/",
       "length": "PT60M",
       "ratings": {
-        "count": 24,
-        "average": 4.9583335
+        "count": 26,
+        "average": 4.923077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1463,6 +1445,48 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-data-modeling-social.png",
+          "width": 1282,
+          "height": 642,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-modern-analytics-excel.md",
+      "title": "Transcend data analysis together with Power BI and Excel",
+      "excerpt": "This module introduces potential ways that people can use Excel and Power BI together. Power BI is a great tool for telling a story through visuals; occasionally, it's beneficial to use Excel for analysis. Excel can make a connection to a Power BI dataset, enabling you to analyze the data by using PivotTables.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-excel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-excel/",
+      "length": "PT2H7M",
+      "ratings": {
+        "count": 23,
+        "average": 4.826087
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-excel-social.png",
           "width": 1282,
           "height": 642,
           "isCached": true
