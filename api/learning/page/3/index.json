@@ -2280,8 +2280,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 114,
-            "average": 4.8157897
+            "count": 115,
+            "average": 4.8173914
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2365,8 +2365,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 50,
-            "average": 4.86
+            "count": 51,
+            "average": 4.8627453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2490,8 +2490,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 114,
-            "average": 4.8157897
+            "count": 115,
+            "average": 4.8173914
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2575,8 +2575,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 50,
-            "average": 4.86
+            "count": 51,
+            "average": 4.8627453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4351,8 +4351,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 8581,
-        "average": 4.7585363
+        "count": 8583,
+        "average": 4.7585926
       },
       "provider": {
         "name": "Microsoft Learn",
