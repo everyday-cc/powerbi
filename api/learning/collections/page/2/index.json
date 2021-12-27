@@ -802,8 +802,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 100,
-            "average": 4.61
+            "count": 101,
+            "average": 4.5940595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -844,8 +844,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 105,
-            "average": 4.704762
+            "count": 106,
+            "average": 4.688679
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3244,8 +3244,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 5483,
-            "average": 4.75725
+            "count": 5484,
+            "average": 4.757294
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3286,8 +3286,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4469,
-            "average": 4.7097783
+            "count": 4471,
+            "average": 4.7099085
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3571,8 +3571,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2519,
-            "average": 4.769353
+            "count": 2520,
+            "average": 4.768651
           },
           "provider": {
             "name": "Microsoft Learn",
