@@ -96,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
       "length": "PT34M",
       "ratings": {
-        "count": 52,
-        "average": 4.8653846
+        "count": 53,
+        "average": 4.8490567
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -114,7 +114,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 50,
+      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-data-modeling-social.png",
