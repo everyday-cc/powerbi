@@ -1888,8 +1888,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 32,
-            "average": 4.9375
+            "count": 33,
+            "average": 4.939394
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2097,8 +2097,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 32,
-            "average": 4.9375
+            "count": 33,
+            "average": 4.939394
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3825,8 +3825,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 5500,
-        "average": 4.7572727
+        "count": 5501,
+        "average": 4.757317
       },
       "provider": {
         "name": "Microsoft Learn",
