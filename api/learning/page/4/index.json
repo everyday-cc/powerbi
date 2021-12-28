@@ -945,8 +945,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 1339,
-            "average": 4.6960416
+            "count": 1340,
+            "average": 4.6955223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2375,8 +2375,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 118,
-            "average": 4.8135595
+            "count": 119,
+            "average": 4.815126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2417,8 +2417,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 85,
-            "average": 4.894118
+            "count": 86,
+            "average": 4.895349
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2460,8 +2460,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 53,
-            "average": 4.8490567
+            "count": 54,
+            "average": 4.851852
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2478,7 +2478,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-data-modeling-social.png",
@@ -2502,8 +2502,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 38,
-            "average": 4.8421054
+            "count": 39,
+            "average": 4.8461537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2585,8 +2585,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 118,
-            "average": 4.8135595
+            "count": 119,
+            "average": 4.815126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2627,8 +2627,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 85,
-            "average": 4.894118
+            "count": 86,
+            "average": 4.895349
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2670,8 +2670,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 53,
-            "average": 4.8490567
+            "count": 54,
+            "average": 4.851852
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2688,7 +2688,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-data-modeling-social.png",
@@ -2712,8 +2712,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 38,
-            "average": 4.8421054
+            "count": 39,
+            "average": 4.8461537
           },
           "provider": {
             "name": "Microsoft Learn",
