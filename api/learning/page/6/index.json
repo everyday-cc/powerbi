@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 120,
-            "average": 4.8166666
+            "count": 121,
+            "average": 4.818182
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 86,
-            "average": 4.895349
+            "count": 87,
+            "average": 4.8965516
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -244,8 +244,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 120,
-            "average": 4.8166666
+            "count": 121,
+            "average": 4.818182
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -286,8 +286,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 86,
-            "average": 4.895349
+            "count": 87,
+            "average": 4.8965516
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1861,8 +1861,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3046,
-            "average": 4.719304
+            "count": 3047,
+            "average": 4.719396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1903,8 +1903,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3449,
-            "average": 4.724558
+            "count": 3450,
+            "average": 4.7246375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2039,8 +2039,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 3046,
-        "average": 4.719304
+        "count": 3047,
+        "average": 4.719396
       },
       "provider": {
         "name": "Microsoft Learn",
