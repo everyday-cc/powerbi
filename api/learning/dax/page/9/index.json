@@ -4,85 +4,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_learning/videos/sqlbi-introducing-performance-analyzer-in-power-bi-desktop.md",
-      "title": "Introducing Performance Analyzer in Power BI Desktop",
-      "excerpt": "Performance Analyzer is the first diagnostic tool to find the slower parts of a report. Find the slowest DAX query before starting a deeper investigation using DAX Studio. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-performance-analyzer-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-performance-analyzer-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=1lfeW9283vA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1lfeW9283vA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M4S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-25T03:30:12-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1lfeW9283vA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-optimizing-dax-with-cardinality-estimation-computing-working-days.md",
-      "title": "Optimizing DAX with cardinality estimation computing working days",
-      "excerpt": "Learn how to estimate the cardinality of iterators computing the number of working days between two dates. Article and download: https://sql.bi/699689/?aff=yt  This is an important skill when optimizing DAX code.   How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-dax-with-cardinality-estimation-computing-working-days/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-dax-with-cardinality-estimation-computing-working-days/",
-      "originalUrl": "https://youtube.com/watch?v=zMKgjiqjATg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zMKgjiqjATg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35M5S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-18T03:00:26-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zMKgjiqjATg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-sorting-months-in-fiscal-calendars-in-dax.md",
       "title": "Sorting months in fiscal calendars in DAX",
       "excerpt": "This video shows a basic technique used to sort months according to a fiscal calendar, by using a couple of calculated columns and the “sort by column” feature of Power BI. Article and download: https://sql.bi/492713?aff=yt",
@@ -675,6 +596,45 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-6-dax-fridays-101-scalar-vs-table-vs-other-functions-explaining-common-dax-errors.md",
+      "title": "#6 DAX Fridays! 101: Scalar vs table vs other functions - Explaining common DAX errors.",
+      "excerpt": "Why do you get errors when you use some DAX functions as a measure or table or calculated column?  In today's video, we will explain the difference between scalar vs table vs other functions and explain the following errors: 1. Error when a table is expected but a value is returned 2. The expression",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-6-dax-fridays-101-scalar-vs-table-vs-other-functions-explaining-common-dax-errors/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-6-dax-fridays-101-scalar-vs-table-vs-other-functions-explaining-common-dax-errors/",
+      "originalUrl": "https://youtube.com/watch?v=oA_GYuoqgsY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oA_GYuoqgsY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M12S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-08T03:53:17-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oA_GYuoqgsY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-connect-to-a-power-bi-model-in-the-service-using-dax-studio.md",
       "title": "Connect to a power bi model in the service using DAX Studio",
       "excerpt": "You asked me to make a video when it was possible to connect power bi service to DAX Studio, so here it is :)  Two big \"but\"... 1. It works only with Power BI Premium 2. Read-only for now.  And here is the URL to connect: powerbi://api.powerbi.com/v1.0/myorg/workspacename  How about you let us know how",
@@ -1169,6 +1129,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6t6M_WzYpdY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-111-manual-forecasting-with-dax.md",
+      "title": "DAX Fridays! #111: Manual \"forecasting” with DAX",
+      "excerpt": "Most companies have a sales target for the year and even though Power BI has a forecasting feature, it does not give you the numbers, so how do you know if you will meet your target?  In today's video I will show you how to calculate how much you need to sale per month to achieve your sales target for",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-111-manual-forecasting-with-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-111-manual-forecasting-with-dax/",
+      "originalUrl": "https://youtube.com/watch?v=R_hB2hJv04I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R_hB2hJv04I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M58S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-18T00:43:16-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/R_hB2hJv04I/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

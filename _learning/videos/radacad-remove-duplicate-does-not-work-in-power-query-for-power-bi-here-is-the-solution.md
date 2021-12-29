@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M27S
 publishedDateTime: 2019-03-04T01:17:49Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mkpo6NFb7Io\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "V+f5A8Y4ZjDSzv6PpazH0YpRW3ZGFGUJoQSmQjijXP69r4MXeiCMK17ArG2i0m9QLz9eMWXu3Rcqdselh7LSafwmNT8J01Xl5Wxe5FaY3v2Xs5yUfiYw1PiBCdYeIRiA/l43ITHORknsS8dF8ZQl3xhRUFD7hBcTZdBgG2UhS81PLWXBFR/tRbXM3/v1xi1ane561RYf06HBIBh7lYdVNx2b8KRMBaeQ+tNeJ/JNjzz0fTrGrAINbF1uDmSbpOYFxdhYoYkjNZGNggvfLv5jdib9oieXcCDTh6/s5Ggk+N17BH7DImP7bezoIQEE5GE+m6bdogdJ9gQAUL++lbJ783yzawy3yF9pEgJikRGMXHeq4lBABD9lGL5bvl7bjcms6+gWq2J3dPv3DNlmQDGSbuNj1OKGd+mFnRid7jN6RGw=;sHR4Ja1Jm09AOKgr1C7/Hg=="
+secured: "XTWiD+Jeb+MIECUekbQwtCqTiYu22sN1x6GCgxoI6jZ/y/90UtAGFPNnzAoudL9Ebz2aGNFo1PWEkVhgyHVNG269TxiSU1v2kBSUayp4f/AFThpdmNJJAarNZX3WbTLmuDcDk0iszhgGnBscuAm/d5OyabwbV6vyxY1bXcbkQshsPVd5Xjf+9/qYGaG9YNIQnVXmyaFh00u/CHPiNT/OhJC8UBJqWAd3HStDvww5887K6sXxPahs0wJvcCJ8DozEiCkLUcHXp8ORUtwHD3qxml1ujZ9WpfoO+JbMpsUA+IZ6jJlxzXPqsXdmKXzSkIJBh7Na0HYwwFm5AKlD+NArSHEXGii0yJh8U+GwBtxDKt3st1ozN/Qk1HhseIZq9LHAcECZl8Af9oLoUTgfT5HCpX8N/xiTn/bTE2IhJ7kpuYY=;/dHWkg2kLldjIiq27M+dZg=="
 ---
 
