@@ -4,158 +4,6 @@
   "page": 37,
   "value": [
     {
-      "path": "_learning/videos/radacad-power-bi-from-and-to-date-filtering-with-one-slicer.md",
-      "title": "Power BI From and To Date Filtering with One Slicer",
-      "excerpt": "It happens that you might have two fields as From and To date (or Start and End date) in your dataset, and you want a date slicer in the report. The date slicer has to filter records in a way that the FROM and the TO dates are in the range of dates selected in the slicer. There are multiple ways of doing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-from-and-to-date-filtering-with-one-slicer/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-from-and-to-date-filtering-with-one-slicer/",
-      "originalUrl": "https://youtube.com/watch?v=W5n8-5Q7mII",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/W5n8-5Q7mII\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M57S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-12-01T14:44:04-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/W5n8-5Q7mII/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-is-too-much-for-one-person-roles-in-the-power-bi-development.md",
-      "title": "Power BI Is Too Much for One Person   Roles in the Power BI Development",
-      "excerpt": "Power BI is a tool that you can get started working with it in a few hours, but to use it in its full potential, these days, you require to have many skills. The variety of solutions and BI implementations is also dictating to have different roles, positions, jobs in the Power BI development market.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-is-too-much-for-one-person-roles-in-the-power-bi-development/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-is-too-much-for-one-person-roles-in-the-power-bi-development/",
-      "originalUrl": "https://youtube.com/watch?v=I-D7IXGXDXs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I-D7IXGXDXs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-07-07T23:44:28-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/I-D7IXGXDXs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-organizational-hierarchy-or-chart-of-accounts-with-parent-child-functions-in-dax.md",
-      "title": "Power BI Organizational Hierarchy or Chart of Accounts with Parent child functions in DAX",
-      "excerpt": "Power BI Organizational Hierarchy or Chart of Accounts with Parent child functions in DAX Here is link to my blog post if you want to follow step by step: http://radacad.com/parsing-organizational-hierarchy-or-chart-of-accounts-in-power-bi-with-parent-child-functions-in-dax",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-organizational-hierarchy-or-chart-of-accounts-with-parent-child-functions-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-organizational-hierarchy-or-chart-of-accounts-with-parent-child-functions-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=d7uyGqT2P4g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d7uyGqT2P4g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M2S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2018-07-08T20:58:58-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/d7uyGqT2P4g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-publish-to-web-questions-answered-free-method-of-sharing.md",
-      "title": "Power BI Publish to Web Questions Answered FREE method of Sharing",
-      "excerpt": "In today's video, I explained about Power BI Publish to Web. All Questions Answered. This is the FREE method of Sharing in Power BI. Read my article about Publish to Web here: https://radacad.com/power-bi-publish-to-web-questions-answered  Comparison of all methods of sharing in Power BI: https://radacad.com/power-bi-sharing-methods-comparison-all-in-one-review",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-publish-to-web-questions-answered-free-method-of-sharing/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-publish-to-web-questions-answered-free-method-of-sharing/",
-      "originalUrl": "https://youtube.com/watch?v=a3N321oUux4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/a3N321oUux4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M17S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-09-08T23:12:54-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/a3N321oUux4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-relationship-based-on-multiple-fields-in-power-bi-using-treatas-dax-function.md",
-      "title": "Relationship Based on Multiple Fields in Power BI Using TREATAS DAX Function",
-      "excerpt": "TreatAs is helpful for filtering, and it doesn't filter only based on one column, it can filter based on as many as columns you want. One of the challenges in Power BI relationships is creating a relationship based on multiple fields, I have previously explained a method you can use to create a compound",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-relationship-based-on-multiple-fields-in-power-bi-using-treatas-dax-function/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-relationship-based-on-multiple-fields-in-power-bi-using-treatas-dax-function/",
-      "originalUrl": "https://youtube.com/watch?v=_DuGkki0rfs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_DuGkki0rfs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-03-04T15:02:52-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_DuGkki0rfs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-relative-date-slicer-in-power-bi-simple-yet-powerful.md",
       "title": "Relative Date Slicer in Power BI   Simple yet Powerful",
       "excerpt": "If you are using a date slicer in your Power BI report, a relative date slicer is one of the options to consider for sure. This is a very simple type of slicer to use, but very effective in terms of options that it provides for the user to slice and dice the data. Let’s check it out in this short video.",
@@ -1018,6 +866,200 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Tyv0lDUK2rw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-introducing-lookupvalue.md",
+      "title": "Introducing LOOKUPVALUE",
+      "excerpt": "This video shows how to use LOOKUPVALUE, which is a handy function for any developer to have in their toolbelt. Article and download: https://sql.bi/670595?aff=yt Additional resources: Expanded tables (article): https://sql.bi/65647?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-lookupvalue/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-lookupvalue/",
+      "originalUrl": "https://youtube.com/watch?v=pmZ-gumL7H0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pmZ-gumL7H0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-06T12:30:11-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pmZ-gumL7H0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-introducing-performance-analyzer-in-power-bi-desktop.md",
+      "title": "Introducing Performance Analyzer in Power BI Desktop",
+      "excerpt": "Performance Analyzer is the first diagnostic tool to find the slower parts of a report. Find the slowest DAX query before starting a deeper investigation using DAX Studio. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-performance-analyzer-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-performance-analyzer-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=1lfeW9283vA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1lfeW9283vA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M4S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-25T03:30:12-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1lfeW9283vA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-optimizing-duplicated-dax-expressions-using-variables.md",
+      "title": "Optimizing duplicated DAX expressions using variables",
+      "excerpt": "This video describes how to use variables to optimize the performance of DAX expressions containing multiple instances of the same measure or the same sub-expression. There are two related articles and downloads: https://sql.bi/62887/?aff=yt (Optimizing duplicated DAX expressions using variables) https://sql.bi/67786/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-duplicated-dax-expressions-using-variables/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-duplicated-dax-expressions-using-variables/",
+      "originalUrl": "https://youtube.com/watch?v=dtFq-TvGL1M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dtFq-TvGL1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M48S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-07T03:00:13-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dtFq-TvGL1M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-optimizing-nested-iterators-in-dax.md",
+      "title": "Optimizing nested iterators in DAX",
+      "excerpt": "Possible optimization approaches to improve the performance of nested iterators in DAX. Article and download: https://sql.bi/70755/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-nested-iterators-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-nested-iterators-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=UtDP8KnWXy8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UtDP8KnWXy8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M31S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-11T03:00:06-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UtDP8KnWXy8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-power-bi-api-service-principal-account.md",
+      "title": "Power BI API Service Principal Account",
+      "excerpt": "Only for developers: how to create a service principal account to be used with the Power BI API. Special guest: Paolo Pialorsi https://piasys.com/techbites Article and download: https://sql.bi/679872?aff=yt  00:00 Presentation 01:00 Description of the demo: an application pushes data in real-time onto",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-power-bi-api-service-principal-account/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-power-bi-api-service-principal-account/",
+      "originalUrl": "https://youtube.com/watch?v=wMdpLApYnCU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wMdpLApYnCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M54S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-04T22:00:17-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wMdpLApYnCU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
