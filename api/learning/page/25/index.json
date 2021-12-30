@@ -4,36 +4,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_learning/videos/radacad-power-bi-get-data-from-multiple-files-in-a-folder-on-onedrive-for-business-no-gateway-needed.md",
-      "title": "Power BI Get Data from Multiple Files in a Folder on OneDrive for Business, No Gateway Needed",
-      "excerpt": "I have explained in another video previously about how to set up your Power BI to get data from a file in OneDrive for Business folder without needing gateway. That was a popular video, but I got questions about what if I want to get data from a folder in OneDrive for business but still want to do it",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-get-data-from-multiple-files-in-a-folder-on-onedrive-for-business-no-gateway-needed/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-get-data-from-multiple-files-in-a-folder-on-onedrive-for-business-no-gateway-needed/",
-      "originalUrl": "https://youtube.com/watch?v=zoH_9L9sPYs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zoH_9L9sPYs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M48S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-11T13:10:21-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zoH_9L9sPYs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-power-bi-one-slicer-to-filter-other-slicers-based-on-items-that-has-value-only-without-bi-direction.md",
       "title": "Power BI One Slicer to filter other slicers based on Items that has value only without BI Direction",
       "excerpt": "In a star schema design, how you can filter one dimension by another dimension. How you can find all the products that this customer purchased or all customers who have purchased this product using two separate slicers. To learn more about star schema: https://radacad.com/power-bi-basics-of-modeling-star-schema-and-how-to-build-it",
@@ -968,50 +938,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-modify-filter.md",
-      "title": "Modify DAX filter context in Power BI Desktop models",
-      "excerpt": "By the end of this module, you’ll be able to describe filter context, which is used to evaluate measure formulas. You’ll then learn why some calculations need to modify filter context and that it can be achieved by using the CALCULATE function. Additionally, you’ll learn how to configure the CALCULATE function with filters and filter modifiers.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-modify-filter/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-modify-filter/",
-      "length": "PT21M",
-      "ratings": {
-        "count": 634,
-        "average": 4.6451106
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/modify-dax-filter-context-power-bi-desktop-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-dax-power-bi-time-intelligence.md",
       "title": "Use DAX time intelligence functions in Power BI Desktop models",
       "excerpt": "By the end of this module, you’ll learn the meaning of time intelligence and how to add time intelligence DAX calculations to your model. These calculations will include year-to-date (YTD), year-over-year (YoY) growth, and others.",
@@ -1082,6 +1008,90 @@
         "Advanced"
       ],
       "heat": 51,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intelligent-environments-education-transformation-framework.md",
+      "title": "Intelligent environments - Education Transformation Framework",
+      "excerpt": "Develop safe and secure onsite and online environments. Use data analytics to optimize student outcomes and to create efficient, responsive, and sustainable processes and resources allocation.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-intelligent-environments-education-transformation-framework/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intelligent-environments-education-transformation-framework/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 28,
+        "average": 4.928571
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intelligent-environments-education-transformation-framework-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-intro-power-platform.md",
+      "title": "Power Platform - Introduction, business value, and demos",
+      "excerpt": "Explore the capabilities of Power Platform applications, as seen in demonstrations and customer case studies.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-intro-power-platform/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intro-to-power-platform-mba/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 3921,
+        "average": 4.7413926
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/intro-to-power-platform-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "course",
       "price": "Free",

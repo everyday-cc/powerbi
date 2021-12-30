@@ -4,6 +4,45 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/videos/sqlbi-how-to-debug-a-dax-measure.md",
+      "title": "How to debug a DAX measure",
+      "excerpt": "Use DAX Studio to run and debug a DAX measure: fix a calculation issue in a more productive environment and then copy the right formula back in Power BI. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/ VertiPaq Analyzer: https://www.sqlbi.com/tools/vertipaq-analyzer/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-how-to-debug-a-dax-measure/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-how-to-debug-a-dax-measure/",
+      "originalUrl": "https://youtube.com/watch?v=fU5EQBJDfOM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fU5EQBJDfOM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M26S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-08-20T03:00:15-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fU5EQBJDfOM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-introducing-define-table-in-dax-queries.md",
       "title": "Introducing DEFINE TABLE in DAX queries",
       "excerpt": "Learn the syntax and the use cases of the DEFINE TABLE statement in DAX. Article and download: https://sql.bi/696241/?aff=yt This syntax has been introduced in DAX since December 2020 and can be used in DAX queries only.  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide",
@@ -1116,45 +1155,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/KfbHkdXYwCw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-109-dax-formula-bar-improvements-off-track-tip.md",
-      "title": "DAX Fridays! #109: DAX formula bar improvements + off-track tip",
-      "excerpt": "It is Power week and we are looking at the improvements made by the power bi team on the DAX formula bar.  While showing that, I go offpist for a minute to give you my personal tips on best practices.  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-109-dax-formula-bar-improvements-off-track-tip/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-109-dax-formula-bar-improvements-off-track-tip/",
-      "originalUrl": "https://youtube.com/watch?v=dMJswLvt0hc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dMJswLvt0hc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M2S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-12-14T03:42:15-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dMJswLvt0hc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
