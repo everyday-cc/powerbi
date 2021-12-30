@@ -1897,7 +1897,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2020-01-19T00:18:57-08:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/0fs5v-TDkpk/maxresdefault.jpg",
@@ -2298,8 +2298,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 61,
-            "average": 4.819672
+            "count": 62,
+            "average": 4.822581
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2841,8 +2841,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 79,
-            "average": 4.835443
+            "count": 80,
+            "average": 4.8375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2883,8 +2883,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 65,
-            "average": 4.8923078
+            "count": 66,
+            "average": 4.8939395
           },
           "provider": {
             "name": "Microsoft Learn",
