@@ -113,7 +113,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 130,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-governance-social.png",
@@ -137,8 +137,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-collaboration/",
       "length": "PT33M",
       "ratings": {
-        "count": 54,
-        "average": 4.759259
+        "count": 55,
+        "average": 4.7636366
       },
       "provider": {
         "name": "Microsoft Learn",
