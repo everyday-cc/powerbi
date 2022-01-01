@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT16M57S
 publishedDateTime: 2020-06-03T15:00:37Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vOSzw40TohM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+pbh85bhtGfM/YqKWzkHgAyNqE9zDEn2v7npvHDAUw1jn1ICtRAHD8uSlFzoenXu4cgMMODNOFreFsHOqmxCtPUCsOnxjUoi0DnJaqPFT7M0TmSxKyRq9GtOzTKEXOwq60jbfcFDKwBK8fugSICYwHZ/MmZVFKpt2iaQBqF5oY6w296ppoaeuxFGUtv1uCMYtHPRwNH9mpMwY/YuRr2+QdARnxh3tpyYEiwJBubjsbmUz4WJzIMFX2RfBrDOEtt3r0Fhxa4UqbV47U5jg8uLkgDn543v3H3c/dRXBcQ1Pwss2xAKoMHc9Em3qBYm6R7IGJKKeA32drvnKMwomlbnemESeHfwDGr9t4Wp9FV8zKrF7AmqaemCIjPKP4rBMoBqwoUM7brQkPrxhmEewr3G5wXWOc+UXW+RJ7yxhWQpC3A=;xcK5UN+PPSIdCRjESbhLKA=="
+secured: "KwcMauSiLYSS+jYIQyjclYiVydgI632Xsl1DS6PQ2xeHVPMHOTwX1kYObVJzTOueLtDuz9IZ09PlI2N4MQSgA03FAoZaypTbLWE96ZiMgcTxZtkZwJE+pfCfgtYVpIxtoGsVN0zpWC6x8/WSqqN8qHKuFedKyUxI2Hku91iXGVxvP5NtjmrjKcqcZDdTjwnTMr2xvpJjaCKHJA8aGWitdWPZkBCTAZV7zVzE3gQKhdw/bO3iiL3R9Dfe5TgHY86KqAyTR6BxfByaGzGwcA1olZB5G9yBnTV2AEfCNZ/yzFs7VeDqMeZsI6qCOlq0qoVvdxip8SCWlwfWXYX7de8jmEmSBVScEzwZHdQb0suDsCpQhw4mCATMPxovVTq11OfiWf/gkXXBurAaWOOpbEmn9gYxeuT6AjMehzq+C8830is=;OWsH4jBUKXu+RuPcZ2xn8Q=="
 ---
 
