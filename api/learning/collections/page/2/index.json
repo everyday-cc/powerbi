@@ -3127,7 +3127,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 56,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/intro-to-power-bi-mobile-apps-social.png",
@@ -3145,7 +3145,7 @@
         }
       ],
       "size": 3,
-      "heat": 55,
+      "heat": 54,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
@@ -3317,8 +3317,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 5535,
-            "average": 4.7573624
+            "count": 5537,
+            "average": 4.7572694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3402,8 +3402,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 5840,
-            "average": 4.768322
+            "count": 5841,
+            "average": 4.7683616
           },
           "provider": {
             "name": "Microsoft Learn",
