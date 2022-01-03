@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 16685,
-        "average": 4.761822
+        "count": 16691,
+        "average": 4.7619076
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -862,8 +862,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3863,
-            "average": 4.673052
+            "count": 3864,
+            "average": 4.6731367
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1241,8 +1241,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 22878,
-        "average": 4.7213044
+        "count": 22881,
+        "average": 4.7212973
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3265,7 +3265,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-structure-social.png",
@@ -3501,8 +3501,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 952,
-            "average": 4.7394958
+            "count": 953,
+            "average": 4.739769
           },
           "provider": {
             "name": "Microsoft Learn",
