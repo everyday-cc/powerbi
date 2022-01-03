@@ -2561,7 +2561,7 @@
             "domain": "powerbi.tips"
           },
           "publishedDateTime": "2020-04-02T06:37:24-07:00",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/c-jZMzsvKnM/hqdefault.jpg",
@@ -2803,7 +2803,7 @@
             ]
           },
           "publishedDateTime": "2020-05-08T02:06:58-07:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/ZIJDv3J9kko/maxresdefault.jpg",
@@ -2908,8 +2908,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 8674,
-            "average": 4.7580123
+            "count": 8676,
+            "average": 4.757953
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2950,8 +2950,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 10827,
-            "average": 4.774822
+            "count": 10828,
+            "average": 4.7747507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2968,7 +2968,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 59,
+          "heat": 58,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/clean-transform-and-load-data-in-power-bi-social.png",
@@ -2986,7 +2986,7 @@
         }
       ],
       "size": 2,
-      "heat": 59,
+      "heat": 58,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-data-social.png",
@@ -3067,8 +3067,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9039,
-            "average": 4.706162
+            "count": 9040,
+            "average": 4.706195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3662,7 +3662,7 @@
             ]
           },
           "publishedDateTime": "2020-04-24T04:44:00-07:00",
-          "heat": 53,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7CqXdSEN2k4/maxresdefault.jpg",
