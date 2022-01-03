@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Medlabs & Pio-tech Sign an Agreement To Implement Lab Analytics (Labs Performance Analytics Dashboards) Using Microsoft Power Bi"
-excerpt: "MedLabs Consultancy Group, one of the largest networks of medical laboratories in the region, has signed an agreement with Pio-Tech, one of the leading companies in digital transformation and business acceleration to implement the Lab Analytics (Labs Performance Analytics Dashboards) using Microsoft Power BI system."
-publishedDateTime: 2021-12-27T08:20:00Z
-originalUrl: "https://www.albawaba.com/business/pr/medlabs-pio-tech-sign-agreement-implement-lab-analytics-labs-performance-analytics"
-webUrl: "https://www.albawaba.com/business/pr/medlabs-pio-tech-sign-agreement-implement-lab-analytics-labs-performance-analytics"
-ampWebUrl: "https://www.albawaba.com/amp/business/pr/medlabs-pio-tech-sign-agreement-implement-lab-analytics-labs-performance-analytics"
-cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/medlabs-pio-tech-sign-agreement-implement-lab-analytics-labs-performance-analytics"
+title: "MedLabs & Pio-Tech sign an agreement to implement Lab Analytics (Labs Performance Analytics Dashboards) using Microsoft Power BI"
+excerpt: "using Microsoft Power BI system. The Lab Analytics (Labs Performance Analytics Dashboards) system aims to enhance the decision-making process and the accuracy of data provided by the client’s ..."
+publishedDateTime: 2021-12-27T03:19:00Z
+originalUrl: "https://menafn.com/1103451144/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
+webUrl: "https://menafn.com/1103451144/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
 type: article
-quality: 28
-heat: 28
+quality: 8
+heat: 8
 published: false
 
 provider:
-  name: Al Bawaba News
-  domain: albawaba.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Power BI
 
 images:
-  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-12/2-2.jpg?itok=QL6kNHPo"
+  - url: "https://menafn.com/updates/pr/2021-12/27/pr_10679_5bab93bc_image_story.jpg"
     width: 4442
     height: 2833
     isCached: true
 
-secured: "NYm+x1SltbthJs55sTe3n1g4hijPk9CWEC1lAnmz7evrTM1r7t5nfELz9sepj4BSdWNvIRpYLpyztOdiZyDFEypsaW9gFrh2gjXHEI4G4bIgjr3aFC9UkzDnB4QttQ6yf3FCrEs9LLBRu+BU6XF67yN3fbtjQGc30hwMIeqpIQzD03HtBBvSCq6eqqoPHfAbMcaejkdQhQJFr9/K89A4bCMjxf01Plc3yVjWTpch6VBRmVNPH2PL6OMjlWZLnb8q1gKz5TSC8yVyy02gHqYltUj9ETF2J3aBj8ZkTc6D+wxxrB7wwfxeGBxJf3ty/Gfpn3Em8SLaNFfKJAAfUdo0y/4AE4BHjLonOBqcD0JvvMZap7NoLTXjCFDBuf4zMIpDqUi714iwyG9r8Nns/zpRR2JGtaV1ExxeXbNMmqijwkSG//OXUjCQRfmo9Wuy93DeZ9nc6JHnXc2yNmZ2cwpkQCEoBLCH47OXRFpBhXtMC8jKuI3+5KJeLiVZGXUjTLsfS3E3rRlLC31CC8JiVEX3Tg==;mMF/kEJf5J1jtBFyhERMaw=="
+secured: "1cRvr/zsyKT9JuD3RBrrsyUanaALMU7h9B1mhzsuHKL8xtFbU2fHEzL+nmgQO7k9nIKpWKpF4ERt5Ym/IY6y13AvTw8Kssqqy6P7sjCsFmjrXs/4KQcXOZ05f9+csGIn0CkFLAZ7uOYfrXpPtB5dU1NOMdR+N358IVgaxBtbS4S0saKGtfPgGXAltqgplhgVTNJVRTtrLaXyrUX5xFRvCi0z+FyTjPPCO2Ko9FWVkTsga6R5m5GL/S3Faju6AuFTfpjfROsrQXf0B9v50TUIE4Lq7+OpMDvQ2O2cUHeszoUWVwukWd8knHzPzKHI1v6BtCeaW8MMQqdS27/b9odTTVCzz4jUhyHdL+XJBJeWTGA=;WvwdxZlmRVT9x9ooYJplKg=="
 ---
 
