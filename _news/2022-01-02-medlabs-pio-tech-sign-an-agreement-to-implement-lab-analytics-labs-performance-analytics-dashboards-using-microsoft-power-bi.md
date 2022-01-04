@@ -2,9 +2,9 @@
 category: news
 title: "MedLabs & Pio-Tech sign an agreement to implement Lab Analytics (Labs Performance Analytics Dashboards) using Microsoft Power BI"
 excerpt: "using Microsoft Power BI system. The Lab Analytics (Labs Performance Analytics Dashboards) system aims to enhance the decision-making process and the accuracy of data provided by the client’s ..."
-publishedDateTime: 2022-01-02T13:41:00Z
-originalUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI&source=29"
-webUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI&source=29"
+publishedDateTime: 2022-01-02T10:15:00Z
+originalUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
+webUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
 type: article
 quality: 8
 heat: 8
@@ -23,6 +23,6 @@ images:
     height: 434
     isCached: true
 
-secured: "mnHmJX4oyy3V+0sASohfDb5gnA2Uz7da1NBxLCuq2ZbJByCwFJJlVnt/4V6wPY3o9s3K9hgbw1HQxP/EPL3l+9ivIJoxC8/S43HwnHvB3+sWPJyZJo1kDw1vRYLTO1842bBiLQuSLn2bihT+0u4v8XpfD+gKfrLOiLGXNqC9/QeiZWrKXKwgjvznwHYfcZrlt6KqJswhv/YPzh7LZniSb+xf1MDxTEx7ZPspleeEAazvIZ2bm71/0Z5aioRVBlZAHtgRbd+weft1IjT7JlyDU6mUoD/F4scMkrejcSHNuGjMsVU+LOlW09r1otq6dwiPWh/eviq+oT6tVPEi2eZcg6LSbBXWySwpvJ4UMZ8mssk=;AN8nUTWIVganQ73IAJRsXA=="
+secured: "vSYZwsLzlNavRYbYXbsZxZeufCcMpBiytwqyV7hWK2Meiw2c6JH/ieD4a3xo8yoh2VdRnC9eWkV70uXkGzjg+6+ptqexFEIhM2wEi2LtCTmNR1g6FobIAlAq6ueEInKox1ZD+Ee3tapgWxRYhiPOMIb5HEAA1XHL3zC+nPOqP9BcVVbCRIywIgg6twoplPn9QxhNBjm8w6jC9rNkIoFGX0B0+CdJE6TQLUObE5UumNxL/pTC00ful7Un3d2/Hrp+P53kCeOlBrDDZbOnPQktcaULLTEGLXgkDcOBn81uGbni1JtNXUPzkMVShF+1sEsTY0DBkNyHzsS0LVx5/fX1tsYDBc4kb+xEK2hqn/GZIvo=;eg8ASEyHYe+SuMp5SOYiaQ=="
 ---
 
