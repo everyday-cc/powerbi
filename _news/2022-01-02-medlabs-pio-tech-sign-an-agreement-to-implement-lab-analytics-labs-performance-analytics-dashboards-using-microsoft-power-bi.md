@@ -1,10 +1,10 @@
 ---
 category: news
 title: "MedLabs & Pio-Tech sign an agreement to implement Lab Analytics (Labs Performance Analytics Dashboards) using Microsoft Power BI"
-excerpt: "Amman, December 2021 <br /> <br /> MedLabs Consultancy Group, one of the largest networks of medical laboratories in the region, has signed"
-publishedDateTime: 2022-01-02T15:23:00Z
-originalUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI&source=29"
-webUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI&source=29"
+excerpt: "using Microsoft Power BI system. The Lab Analytics (Labs Performance Analytics Dashboards) system aims to enhance the decision-making process and the accuracy of data provided by the client’s ..."
+publishedDateTime: 2022-01-02T10:15:00Z
+originalUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
+webUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
 type: article
 quality: 8
 heat: 8
@@ -23,6 +23,6 @@ images:
     height: 434
     isCached: true
 
-secured: "RkT5ueRhwFFBSlT0SUWEP4WX5nt6jKJXJAOzDEbEpEBsAcPeugcAt0pI9+7VxnMJ4kJRDi87/GlKuc8a00eHBv70WGugJyuARWkl40HjbpH3g3Tn0CEN8ihANuWNfpBMs2VVpwS5gij8DkAQonxMatyADCbzNsfQEy+VQZSeGAV2IxZI/zrwmEWQIUkOytMeV6ZIowtYGoLamA1E2/lUn6BvRelw+cKJn3lrvrIFIS2F3agwstQNzZvt3CN1LyoeVtKhjsPFxvNQB3qNjuJFc2D/CMH3/GRJkHbyjieiuAMwm+janqS1FuD4MAEvin7IZ/+Uiel2seKsy+YwIuMB97k/9Ok+VfaZs5Rva5ocuMhSlGxnGiXyGNXja8Fvv8cSKEwQGWFHJPwvetgqPqR08OIiOO6KaT04qk7pH5ErqMuQQN/HzFx/wrMavdX6DeseZb1wISz072UyeUwAoWbhqf5F+uA6x5racnCVHXOy4P2k4KjHDhpq/VUOYaa9OUrr322IHHQew7xOXfxR4lCCcA==;KV/qCp2JydqnqtxB236eyg=="
+secured: "PNEGBLCoDHbMEmvKi9jEjRme7LfkFdNtXfxqWcQbRW5+jRbWRFWdr5E4Sn55bxwh3wmf9NxwYlu7S1r9H/H3XhY8x3dZatfXpZ2wWD0AKNxNppwmWfErGacqufUiPvcMfZsthnRiPyX/fId4cQW7a7KQ7wDQV8qZVLhV9AyrxzumhUbSrlFb50nntlNjyjhP/ngB15YRGtWd2h8Bjff5FL7sirF94fUYzCVeayCt6ZRmRMxuhoPX2/QIPM7H40iH+fADgRSvaXVLcb8PVtk0LeqJPp6VkZ0s1J6ekjvMlBDZe117tv3Ime4iujfTmykzHj3mGy/em8Z6Zo3ThfYBK4l9ZaquNH7J965KmEHbb6k=;zLXXyHPy9xHNiOrtyhM10Q=="
 ---
 
