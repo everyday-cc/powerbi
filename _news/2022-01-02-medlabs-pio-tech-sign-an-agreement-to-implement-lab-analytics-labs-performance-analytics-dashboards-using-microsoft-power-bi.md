@@ -2,9 +2,9 @@
 category: news
 title: "MedLabs & Pio-Tech sign an agreement to implement Lab Analytics (Labs Performance Analytics Dashboards) using Microsoft Power BI"
 excerpt: "using Microsoft Power BI system. The Lab Analytics (Labs Performance Analytics Dashboards) system aims to enhance the decision-making process and the accuracy of data provided by the client’s ..."
-publishedDateTime: 2022-01-02T10:15:00Z
-originalUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
-webUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
+publishedDateTime: 2022-01-02T13:41:00Z
+originalUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI&source=29"
+webUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI&source=29"
 type: article
 quality: 8
 heat: 8
@@ -23,6 +23,6 @@ images:
     height: 434
     isCached: true
 
-secured: "5uE3Vf2yEZwXw6qGQ5TeplP0BkpYGgOVXPQH6GjaE5azE4l274elsWDoPfoV8jFrAAKifxFU/GY9BZNqXRKpOipICsyhBTtOfF+OFj21hihkSFDpwFdsZQnrLcd/Uu7E1SZKu4OEZsko0qOGkCJUm6d3tnga97cnHMcoy+fM77AJ4QzVYmkrFNw5ciYHqruAQhoILndjvjlIMTWA1okPfQlDmRp/8eOGTL0yKsHcXouRiX7vj19N9OgtPNR1YacRU7lTiAQqc0VglGWA5bDaENkKwPm6DDfTMgOK4yRONnRGKm6G0ZVUL8QZ3tU0Y/np5zCZqwj6rt4LTETyv6viXmPyJXXtogYv40GsKp0Yzt0=;ZqfXPszHMNRGRQaKzUb/ng=="
+secured: "IuMWoVKW5qYrcsUXiBqbxHkLvcipI3klZzKLV9QAhg1i+4w7l6B6AQZ4LaBHoNC6FUCdSrErRTAFZZD2+KPFwnDfa/46g6CtbXrypniFuRlVHDKS6m5LAsbVp2Mmjjo1A0TMwzgARhEgMs9vkM0B/XreZvQMieZQ0kriNVCZco6PtNCpIxVmlFpPBYiThWvuBrCWNxVSG71PRobOq336xCge5ubxacNPSFyWh9xRpEND5U2K0wgmk8xsCSL7LDjAbw88s3E7cntzv4cvYTwkgUZwcTCYsk4LLPd/netNxi7aDCKdbciMFaLGj+8deWiRZEALa+DDR6D+DGDDwGDQIdOlshrwxB7Dyu5pBZtPJyo=;a7yJFrzJnRV3Vp7IP7yZLw=="
 ---
 
