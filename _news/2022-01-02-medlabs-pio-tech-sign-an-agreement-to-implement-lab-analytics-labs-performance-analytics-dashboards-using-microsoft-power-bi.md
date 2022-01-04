@@ -2,9 +2,9 @@
 category: news
 title: "MedLabs & Pio-Tech sign an agreement to implement Lab Analytics (Labs Performance Analytics Dashboards) using Microsoft Power BI"
 excerpt: "using Microsoft Power BI system. The Lab Analytics (Labs Performance Analytics Dashboards) system aims to enhance the decision-making process and the accuracy of data provided by the client’s ..."
-publishedDateTime: 2022-01-02T10:15:00Z
-originalUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
-webUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
+publishedDateTime: 2022-01-02T13:41:00Z
+originalUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI&source=29"
+webUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI&source=29"
 type: article
 quality: 8
 heat: 8
@@ -23,6 +23,6 @@ images:
     height: 434
     isCached: true
 
-secured: "PNEGBLCoDHbMEmvKi9jEjRme7LfkFdNtXfxqWcQbRW5+jRbWRFWdr5E4Sn55bxwh3wmf9NxwYlu7S1r9H/H3XhY8x3dZatfXpZ2wWD0AKNxNppwmWfErGacqufUiPvcMfZsthnRiPyX/fId4cQW7a7KQ7wDQV8qZVLhV9AyrxzumhUbSrlFb50nntlNjyjhP/ngB15YRGtWd2h8Bjff5FL7sirF94fUYzCVeayCt6ZRmRMxuhoPX2/QIPM7H40iH+fADgRSvaXVLcb8PVtk0LeqJPp6VkZ0s1J6ekjvMlBDZe117tv3Ime4iujfTmykzHj3mGy/em8Z6Zo3ThfYBK4l9ZaquNH7J965KmEHbb6k=;zLXXyHPy9xHNiOrtyhM10Q=="
+secured: "mnHmJX4oyy3V+0sASohfDb5gnA2Uz7da1NBxLCuq2ZbJByCwFJJlVnt/4V6wPY3o9s3K9hgbw1HQxP/EPL3l+9ivIJoxC8/S43HwnHvB3+sWPJyZJo1kDw1vRYLTO1842bBiLQuSLn2bihT+0u4v8XpfD+gKfrLOiLGXNqC9/QeiZWrKXKwgjvznwHYfcZrlt6KqJswhv/YPzh7LZniSb+xf1MDxTEx7ZPspleeEAazvIZ2bm71/0Z5aioRVBlZAHtgRbd+weft1IjT7JlyDU6mUoD/F4scMkrejcSHNuGjMsVU+LOlW09r1otq6dwiPWh/eviq+oT6tVPEi2eZcg6LSbBXWySwpvJ4UMZ8mssk=;AN8nUTWIVganQ73IAJRsXA=="
 ---
 
