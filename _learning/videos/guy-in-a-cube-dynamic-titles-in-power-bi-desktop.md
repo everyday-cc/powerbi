@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M27S
 publishedDateTime: 2019-04-28T21:21:41Z
-heat: 61
+heat: 62
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TYLKDPcvgK8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "jajDAS2YGREqcDoA9O/RpEILTOoObAEgGJaUoDMPlaHm/HgtOzy1rYQClTViBPNWUEpNFnL+G0SXz/2UDXL7SIit+E9AERbtItEFwI0DcaZxiV4zuTJsROCzG/v1YZbksmQb6NG0CkGxkYmz0HzbXtl2oG4WmCkJKFsFyDWjLvYYWsPyWLGDrYsUhT5f6MJtufmnsOTaFfrXXwNFRPHNK9p8K0SxMB2HZziA0QRWS8NnmgTxlZ1rJBHQIlJ1ehebZj0CwMzxbFVBbWnvvhDRumuuHAwYWTwoj6P2hrXBhYDubMFBKthUeocs0z3fYqJE9yLVjMl1wDM5FJTyRUyanPKl1tE+lZQEO0BcGKV0AJWWU70QUl3e9ouOOnKNnrD0BKfTm0CXFTWFV7hx8TWeZTxqoTkAn6czyPtG6mG+xwI=;jp0ZJizzdY26dwbsLUGYjA=="
+secured: "FYrLy9U666+DjiSglMx8yMPu1Pz09XHI4RNb/vuUMF1vDfYPXIq4lZLNXLcBYirCrGvIyP6Vt/eR5oVQytm6sybIAVEeo85uHWFEU9kck4cu3ypZ72idnwQHPOPeFxED5wiGtj+hc7DzJ9JxKfW0jbx7w4G97gtvkH8kkmCYgh2pxjnjZlaL6A2lSq7/p15YRGIr61yTOWyMUMltrcco5SPaRliYs3EfbgJrt/FRHbteEQJke+f5LIyiZVrQLNpMzdidPD6BOqVI+M5fuoHaaQs4H/fk6CqioBr1SgiNAxyb4SjCHfNhKqDVbSHiu0YJvdNb1/WqogEWwgSM301Gc7SKw+kAoemUaf+bnQGf4wHY3KbDDX0kZMPitzUkKPW6q4ox9L6kZWl7fxo127TkrMiO01rgiV1JUmMhTJ9Ydbw=;H8kcfp7wNdkkzf229Yfrsg=="
 ---
 
