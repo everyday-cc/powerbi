@@ -2,9 +2,9 @@
 category: news
 title: "MedLabs & Pio-Tech sign an agreement to implement Lab Analytics (Labs Performance Analytics Dashboards) using Microsoft Power BI"
 excerpt: "using Microsoft Power BI system. The Lab Analytics (Labs Performance Analytics Dashboards) system aims to enhance the decision-making process and the accuracy of data provided by the client’s ..."
-publishedDateTime: 2022-01-02T13:41:00Z
-originalUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI&source=29"
-webUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI&source=29"
+publishedDateTime: 2022-01-02T10:15:00Z
+originalUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
+webUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
 type: article
 quality: 8
 heat: 8
@@ -23,6 +23,6 @@ images:
     height: 434
     isCached: true
 
-secured: "IuMWoVKW5qYrcsUXiBqbxHkLvcipI3klZzKLV9QAhg1i+4w7l6B6AQZ4LaBHoNC6FUCdSrErRTAFZZD2+KPFwnDfa/46g6CtbXrypniFuRlVHDKS6m5LAsbVp2Mmjjo1A0TMwzgARhEgMs9vkM0B/XreZvQMieZQ0kriNVCZco6PtNCpIxVmlFpPBYiThWvuBrCWNxVSG71PRobOq336xCge5ubxacNPSFyWh9xRpEND5U2K0wgmk8xsCSL7LDjAbw88s3E7cntzv4cvYTwkgUZwcTCYsk4LLPd/netNxi7aDCKdbciMFaLGj+8deWiRZEALa+DDR6D+DGDDwGDQIdOlshrwxB7Dyu5pBZtPJyo=;a7yJFrzJnRV3Vp7IP7yZLw=="
+secured: "nB/N9SVhJJwqckxDvviVEo8vjHgyJCHe+mn7O3XdhDL2ADUboVFqKFjODPVZrk+WMwg8GSKlZmhxrBA5vkje66a+PUTBWLK+RIRPdgZb/BBOlPbTj5FRKR5ySF/xQXJAtjEHpQrr6N+wSHvkW6+Z2ZdfsgUV3KOut+m/f2xfcdSpRoYWq1AEOM5OIryQKXbyooalIGirSaALKg0YPrWk2pz6F82ZqYLkdAf5G9u4/Mc9boWOuNHuDSj5OihzhjCLw8NgyTfObrgmPjSih3edwtr+Ls42mAIoB3zLimHqY9Zapji4BgTlcxqyalE/XKN4ZEPkDQcHBiSd1pzDyuOLcBZS01SPseGl3Kf+Lv0LnCM=;cJWbGLkfk5ev8oSGcUc4DQ=="
 ---
 
