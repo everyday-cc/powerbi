@@ -423,8 +423,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 701,
-        "average": 4.71184
+        "count": 702,
+        "average": 4.7122507
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -800,8 +800,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intelligent-environments-education-transformation-framework/",
       "length": "PT60M",
       "ratings": {
-        "count": 29,
-        "average": 4.9310346
+        "count": 30,
+        "average": 4.9
       },
       "provider": {
         "name": "Microsoft Learn",
