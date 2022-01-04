@@ -2,9 +2,9 @@
 category: news
 title: "MedLabs & Pio-Tech sign an agreement to implement Lab Analytics (Labs Performance Analytics Dashboards) using Microsoft Power BI"
 excerpt: "using Microsoft Power BI system. The Lab Analytics (Labs Performance Analytics Dashboards) system aims to enhance the decision-making process and the accuracy of data provided by the client’s ..."
-publishedDateTime: 2022-01-02T13:41:00Z
-originalUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI&source=29"
-webUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI&source=29"
+publishedDateTime: 2022-01-02T10:15:00Z
+originalUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
+webUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
 type: article
 quality: 8
 heat: 8
@@ -23,6 +23,6 @@ images:
     height: 434
     isCached: true
 
-secured: "UBj4fi5PpT2rkCmKKBdAY1GWwInYCc52h+KvltkPxhb/+7K+8Ub2tqgSpldbrnQWFIWHDgkArQ/lPrGRRTPv6dSwXkI77wsTtMff9CDzH19QKbH4I3xnM9F3DDJH5ylLJjmPQCLvqCXTdF0jubrorBBoCsn+giDsXrLmATPYTH+zsgn7vpiwA1K9x6JcGfTvLfRhKU2bKgcfUvHtmjOYAFzH40CoaQNrONWvHJgwPwBrQ2a1hvmL0FV92Z74II+s0H8hXlEM+neN25EYOOXRh7JJ0rVWt+B6T9sQhGnbFnrbR7s82sA0EMN2wLw9W7FvEJY5cIlUXnIcxfL0LhJZpq+MQ/6hGfaY0uPjNvDLRWA=;r1ac579FzFR+p3yeGTiS6w=="
+secured: "5uE3Vf2yEZwXw6qGQ5TeplP0BkpYGgOVXPQH6GjaE5azE4l274elsWDoPfoV8jFrAAKifxFU/GY9BZNqXRKpOipICsyhBTtOfF+OFj21hihkSFDpwFdsZQnrLcd/Uu7E1SZKu4OEZsko0qOGkCJUm6d3tnga97cnHMcoy+fM77AJ4QzVYmkrFNw5ciYHqruAQhoILndjvjlIMTWA1okPfQlDmRp/8eOGTL0yKsHcXouRiX7vj19N9OgtPNR1YacRU7lTiAQqc0VglGWA5bDaENkKwPm6DDfTMgOK4yRONnRGKm6G0ZVUL8QZ3tU0Y/np5zCZqwj6rt4LTETyv6viXmPyJXXtogYv40GsKp0Yzt0=;ZqfXPszHMNRGRQaKzUb/ng=="
 ---
 
