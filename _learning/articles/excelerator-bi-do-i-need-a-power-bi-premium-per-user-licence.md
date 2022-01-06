@@ -4,7 +4,7 @@ excerpt: "As is often the case, the inspiration for many of my blog articles com
 webUrl: https://exceleratorbi.com.au/do-i-need-a-power-bi-premium-per-user-licence/
 type: article
 publishedDateTime: 2021-12-23T23:35:09Z
-heat: 80
+heat: 50
 
 provider:
   name: Excelerator BI
