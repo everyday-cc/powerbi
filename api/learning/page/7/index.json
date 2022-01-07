@@ -2450,8 +2450,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 107,
-            "average": 4.6728973
+            "count": 108,
+            "average": 4.6759257
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3054,8 +3054,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 6291,
-        "average": 4.7447147
+        "count": 6292,
+        "average": 4.7447553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3096,8 +3096,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 5874,
-        "average": 4.7679605
+        "count": 5876,
+        "average": 4.7680397
       },
       "provider": {
         "name": "Microsoft Learn",
