@@ -710,8 +710,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 61,
-        "average": 4.819672
+        "count": 62,
+        "average": 4.822581
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -923,8 +923,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/examine-data-visualizations-power-bi/",
       "length": "PT18M",
       "ratings": {
-        "count": 5,
-        "average": 4.6
+        "count": 6,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
