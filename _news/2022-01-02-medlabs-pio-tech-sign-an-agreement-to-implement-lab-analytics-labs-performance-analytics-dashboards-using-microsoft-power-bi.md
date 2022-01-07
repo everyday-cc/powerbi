@@ -2,9 +2,9 @@
 category: news
 title: "MedLabs & Pio-Tech sign an agreement to implement Lab Analytics (Labs Performance Analytics Dashboards) using Microsoft Power BI"
 excerpt: "using Microsoft Power BI system. The Lab Analytics (Labs Performance Analytics Dashboards) system aims to enhance the decision-making process and the accuracy of data provided by the client’s ..."
-publishedDateTime: 2022-01-02T10:15:00Z
-originalUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
-webUrl: "https://menafn.com/1103473962/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
+publishedDateTime: 2022-01-02T02:07:00Z
+originalUrl: "https://menafn.com/1103474004/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
+webUrl: "https://menafn.com/1103474004/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
 type: article
 quality: 8
 heat: 8
@@ -18,11 +18,11 @@ topics:
   - Power BI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-01/02/pr_12122_d0dc7e19_image_story.jpg"
+  - url: "https://menafn.com/updates/pr/2022-01/02/pr_12122_e8fe3dfe_image_story.jpg"
     width: 660
     height: 434
     isCached: true
 
-secured: "JKx3eNAUZTac2l22IKy//bPTpMA+xjXgNG86KLh4G0076+vH2t4TBwZyPpMUzGnhGFvWOgs71Gwg9jjgpIblSPhE/pmPBZwThuAQn6pQbYSxeZiGK1b9AOD67i8AzW7nX9/7ZqQEtPwCPNTJgKELBSX11sd57Tu1M45UmGDGbCKLJeGHro20KPW4xT1xuZJBTUktxHWu4W+/bwS470YVkTTxNmco5Gb/QObZ784FVC+kQ+ErTTy9v51Zbrm7DF5FNmn5+jljEsLBvrN8h+PtuHV7VFxWFbNmnBtWju8jrUH2QdJyHGPmbKPKtTEa8lB8rMNaAonxCF++kKiupiE3VMV/Jf9eoFXnU6LyN39BrXo=;BwsmvJphpcxHR+WAkF+KWQ=="
+secured: "BWwyasoxizVBWYWqKrxtv1s5fu2PcY7xj4O+2A2I5gDz1wDJ1Hj2JDYyXI2Z84NiXC/LD8R/oPxlTH85Jn3BGHKLnG206Hvx1fJTQl/kxMYU6zsKCKb0hqY4FROKkzxtRIHnUHOGZkht5zxbp8WmRukxxIYSTmTRlmlm68aPHKJnRtJvkt3vthpxLc0XHNpQfjwH1wjVRUSqN8LPg0kEcquC17R1fT4VjLWZwU5bjBSbzw/4a/ci+M/BWZHvFhgvrMQnRTagm7Nlae3UC0tERwQW7bzYyxtvXFKoDo5NPqU1lKuzsTSVn15FvJdbLO2hf0L/8urpSSdqLiHSyKTNbJs5uXU7oV7u6RqhMWzsvxs=;XkymQlyVTGrJGRc7YXlvQA=="
 ---
 
