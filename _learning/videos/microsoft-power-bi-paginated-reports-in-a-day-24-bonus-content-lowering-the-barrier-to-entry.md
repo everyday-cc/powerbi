@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 24: Bonus Content: Lowering the Barrier to Entry"
 
-secured: "2Ffro5aiefBdwD2Ch4tbxV6G6fzfTRSLl+eUj9cZs50gN3jMkKS7Eq5zAO0X/9JEvy8xF/Ye/+1ey3Gmj6gwDJD072xbZWycMc8k7xcOXZdso3MncO9j6OKvCKkM7QbrkJ1LdHkw1QCey0jyIFOzNSOe44BNcWn52mY2voWcvERvTVh1I+whjruymEcvVypRlrnicNCy5PLUtjHn+vBQoXfie1MdaXD/DzTD6nZxITM2BM7qNWXLUVbFqRqkqretTYikXj2NfsKcRDEGRWkv2YOGzVg/YkqYtLHmd234kOQOLY3ownEyA10zCd+aEfBO1CaXDWuGJP6bbxTwr1G6cwNCcEmYg63veXL8uAxDGtNOFiUN1werCSK7j2Q1ht0/gdPG2Th2mNuJTZ1X8l4UeWilFbM58sqF+SnqsusF8pQ=;A/S0HU0ofep1LVCSnVWCcQ=="
+secured: "sTo6T6uNkZ3LRwotEyFmQid9GgO4QPh9TP8xBd48EgEPqTmYMjWFMAnKxZoB20ipKhZIUB/b8CfMVSpwg8gC148Mh9dfBKldL//fxayAa18yxW7oStnLTc31N//IBNkAO6N3crc29aFsD6Hm5hbysRS1XhEaoKrTk0xlCVjZUqRaJwxmeJ6+VDgcIIj/UuqmvIhc/45XXs96zEMqSHX2h6FkWAmpolJ2ml/Vo204UVW0YXFk0jGhGc7qcrIy9pf+mBBHSP2g0URZSe8SqMmS+7XyYNg9NGBroDIfcWlEJ4DexKsP9xp4iWVuCtwAslOGZgyR+XW1XxjWKhYCpmOmAigW8x7kAsTYaipAmN/eX3sb6e//mRjMT/7aYC5FQzHRihbhyWouioRUlX6OmBaHJ90kNDhoSMTU4K4h6ElluVE=;pDA/tsALhkT/wue5PNDfow=="
 ---
 
