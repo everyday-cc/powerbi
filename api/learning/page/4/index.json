@@ -119,8 +119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 63,
-            "average": 4.873016
+            "count": 64,
+            "average": 4.859375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -329,8 +329,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 63,
-            "average": 4.873016
+            "count": 64,
+            "average": 4.859375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -454,8 +454,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 1992,
-            "average": 4.748996
+            "count": 1993,
+            "average": 4.74862
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -584,8 +584,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 833,
-            "average": 4.72509
+            "count": 834,
+            "average": 4.7242208
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -670,8 +670,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3892,
-            "average": 4.672919
+            "count": 3893,
+            "average": 4.6730027
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -712,8 +712,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 3483,
-            "average": 4.675567
+            "count": 3484,
+            "average": 4.67566
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2401,7 +2401,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-structure-social.png",
@@ -3365,8 +3365,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 11260,
-        "average": 4.6791296
+        "count": 11262,
+        "average": 4.679187
       },
       "provider": {
         "name": "Microsoft Learn",
