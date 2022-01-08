@@ -2606,7 +2606,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-organize-fields-social.png",
@@ -3290,8 +3290,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4554,
-            "average": 4.7110233
+            "count": 4555,
+            "average": 4.7110868
           },
           "provider": {
             "name": "Microsoft Learn",
