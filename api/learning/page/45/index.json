@@ -4,6 +4,48 @@
   "page": 45,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-create-paginated-reports-power-bi.md",
+      "title": "Create paginated reports  ",
+      "excerpt": "Paginated reports allow report developers to create Power BI artifacts that have tightly controlled rendering requirements. Paginated reports are ideal for creating sales invoices, receipts, purchase orders, and tabular data. This module will teach you how to create reports, add parameters, and work with tables and charts in paginated reports.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-paginated-reports-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
+      "length": "PT60M",
+      "ratings": {
+        "count": 3719,
+        "average": 4.739715
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-paginated-reports-power-bi-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-data-anomaly-search-using-iot-hub.md",
       "title": "Identify anomalies by routing data via IoT Hub to a built-in ML model in Azure Stream Analytics",
       "excerpt": "Learn about Azure IoT Hub message routing, and Stream Analytics anomaly detection. Start by creating an app that simulates issues with conveyor belt vibration. Then, use the Azure portal to route all the data for archiving in blob storage. Finish by routing the vibration data to anomaly detection, using a built-in ML model.",
@@ -602,8 +644,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intelligent-environments-education-transformation-framework/",
       "length": "PT60M",
       "ratings": {
-        "count": 36,
-        "average": 4.861111
+        "count": 37,
+        "average": 4.864865
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -981,8 +1023,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/",
       "length": "PT18M",
       "ratings": {
-        "count": 111,
-        "average": 4.6936936
+        "count": 112,
+        "average": 4.696429
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1065,8 +1107,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-infrastructure/",
       "length": "PT25M",
       "ratings": {
-        "count": 40,
-        "average": 4.725
+        "count": 41,
+        "average": 4.731707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1107,8 +1149,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
       "length": "PT16M",
       "ratings": {
-        "count": 111,
-        "average": 4.5765767
+        "count": 112,
+        "average": 4.580357
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1213,48 +1255,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-premium-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-effective-filters.md",
-      "title": "Configure Power BI report filters",
-      "excerpt": "Report filtering is a complex topic because many techniques are available for filtering a Microsoft Power BI report. However, with complexity comes control, allowing you to design reports that meet requirements and expectations.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-filters/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-filters/",
-      "length": "PT45M",
-      "ratings": {
-        "count": 47,
-        "average": 4.893617
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-filters-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
