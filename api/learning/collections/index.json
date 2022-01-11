@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 30535,
-            "average": 4.7985916
+            "count": 30538,
+            "average": 4.7985787
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 50061,
-            "average": 4.774495
+            "count": 50067,
+            "average": 4.7745023
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -541,8 +541,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 50061,
-            "average": 4.774495
+            "count": 50067,
+            "average": 4.7745023
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -583,8 +583,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 23000,
-            "average": 4.7214785
+            "count": 23002,
+            "average": 4.7214155
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -626,8 +626,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 10318,
-            "average": 4.7240744
+            "count": 10319,
+            "average": 4.7240043
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -668,8 +668,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7754,
-            "average": 4.7716017
+            "count": 7756,
+            "average": 4.771403
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1135,8 +1135,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3904,
-            "average": 4.6728997
+            "count": 3906,
+            "average": 4.673067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1177,8 +1177,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 3495,
-            "average": 4.6752505
+            "count": 3498,
+            "average": 4.675243
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1219,8 +1219,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3230,
-            "average": 4.700619
+            "count": 3232,
+            "average": 4.700186
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1261,8 +1261,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 3714,
-            "average": 4.7401724
+            "count": 3715,
+            "average": 4.7402425
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2111,8 +2111,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 8781,
-            "average": 4.758228
+            "count": 8785,
+            "average": 4.758224
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2153,8 +2153,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 10967,
-            "average": 4.7754173
+            "count": 10970,
+            "average": 4.7754784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4062,12 +4062,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-gain-insights-into-your-data-through-intelligent-tools-in-power-bi.md",
-      "title": "Gain insights into your data through intelligent tools in Power BI",
-      "excerpt": "Gain insights into your data through intelligent tools in Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-gain-insights-into-your-data-through-intelligent-tools-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-gain-insights-into-your-data-through-intelligent-tools-in-power-bi/",
-      "length": "PT3H28M",
+      "path": "_learning/collections/microsoft-learn-empower-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint.md",
+      "title": "Empower modern analytics and business intelligence data cultures with Excel, Power BI, MS Teams, and SharePoint",
+      "excerpt": "Excel is a Microsoft application that has been in use since 1985. You might be surprised that in addition to simple spreadsheets, Excel can enable modern analytics and business intelligence. In this Learning Path, you will learn how to modernize and empower data conversations within your organization using Excel & Power BI together with MS Teams, and SharePoint. You’ll gain awareness of the business intelligence landscape, technology capabilities, and their roles.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-empower-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-empower-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint/",
+      "length": "PT7H47M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -4085,57 +4085,15 @@
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-deliver-decision-making-insights-with-power-bi.md",
-          "title": "Deliver decision-making insights with Power BI",
-          "excerpt": "Deliver decision-making insights with Power BI",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-deliver-decision-making-insights-with-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deliver-decision-making-insights-with-power-bi/",
-          "length": "PT27M",
+          "path": "_learning/courses/microsoft-learn-modern-analytics-intro.md",
+          "title": "Introduction to modern analytics using Excel and Power BI",
+          "excerpt": "This module introduces the Microsoft modern analytics core suite of tools, including Office 365/Excel 2016+, Power Query, Data Model, Power BI Desktop, and Power BI service. By using modern analytics technologies, you and your organization can work faster, more efficiently, and smarter by using Excel together with Power BI.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-intro/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
+          "length": "PT37M",
           "ratings": {
-            "count": 4,
-            "average": 4.25
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 130,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure.md",
-          "title": "Build systems of insights for enterprise scale with Power BI and Azure",
-          "excerpt": "Build systems of insights for enterprise scale with Power BI and Azure",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/",
-          "length": "PT30M",
-          "ratings": {
-            "count": 5,
-            "average": 4.6
+            "count": 144,
+            "average": 4.8402777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4155,7 +4113,7 @@
           "heat": 51,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
               "width": 640,
               "height": 320,
               "isCached": true
@@ -4169,15 +4127,15 @@
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-advance-power-bi-premium-for-enterprise-analytics-market-beyond.md",
-          "title": "Advance Power BI Premium for the enterprise analytics market and beyond",
-          "excerpt": "Advance Power BI Premium for the enterprise analytics market and beyond",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-advance-power-bi-premium-for-enterprise-analytics-market-beyond/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/advance-power-bi-premium-for-enterprise-analytics-market-beyond/",
-          "length": "PT24M",
+          "path": "_learning/courses/microsoft-learn-automate-data-cleaning-power-query.md",
+          "title": "Automate data cleaning with Power Query",
+          "excerpt": "This module introduces Power Query in Microsoft Excel, a powerful data connection, cleaning, and shaping technology that is a core part of the Microsoft modern analytics suite of business intelligence tools.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-automate-data-cleaning-power-query/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
+          "length": "PT1H29M",
           "ratings": {
-            "count": 3,
-            "average": 5.0
+            "count": 100,
+            "average": 4.89
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4197,7 +4155,7 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/automate-data-cleaning-power-query-social.png",
               "width": 640,
               "height": 320,
               "isCached": true
@@ -4207,19 +4165,20 @@
           "type": "course",
           "price": "Free",
           "topics": [
-            "Power BI"
+            "Power BI",
+            "Power Query"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-gain-insights-into-usage-performance-of-your-power-bi-reports-to-increase-adopti.md",
-          "title": "Gain insights into usage and performance of your Power BI reports to increase adoption and reduce costs",
-          "excerpt": "Gain insights into usage and performance of your Power BI reports to increase adoption and reduce costs",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-gain-insights-into-usage-performance-of-your-power-bi-reports-to-increase-adopti/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/gain-insights-into-usage-performance-of-power-bi-reports-to-increase-adopti/",
-          "length": "PT24M",
+          "path": "_learning/courses/microsoft-learn-modern-analytics-data-modeling.md",
+          "title": "Introduction to foundations in data modeling",
+          "excerpt": "This module introduces the key concepts that are related to developing a well-organized data model.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-data-modeling/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
+          "length": "PT34M",
           "ratings": {
-            "count": 3,
-            "average": 4.6666665
+            "count": 65,
+            "average": 4.8615384
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4239,7 +4198,49 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-data-modeling-social.png",
+              "width": 1282,
+              "height": 642,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-modern-analytics-transition.md",
+          "title": "Transition from Excel to Power BI",
+          "excerpt": "Microsoft's Power BI combines the Power Query's extraction, transformation, and loading capabilities with DAX and a relational data model in a new application with new features.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-transition/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 47,
+            "average": 4.8510637
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-transition-social.png",
               "width": 640,
               "height": 320,
               "isCached": true
@@ -4257,7 +4258,217 @@
       "heat": 61,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-empowering-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint.md",
+      "title": "Empowering Modern Analytics and Business Intelligence Data Cultures with Excel, Power BI, MS Teams, and SharePoint",
+      "excerpt": "Excel is a Microsoft application that has been in use since 1985. You might be surprised that in addition to simple spreadsheets, Excel can enable modern analytics and business intelligence. In this Learning Path, you will learn how to modernize and empower data conversations within your organization using Excel & Power BI together with MS Teams, and SharePoint. You’ll gain awareness of the business intelligence landscape, technology capabilities, and their roles.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-empowering-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-empowering-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint/",
+      "length": "PT7H47M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-modern-analytics-intro.md",
+          "title": "Introduction to modern analytics using Excel and Power BI",
+          "excerpt": "This module introduces the Microsoft modern analytics core suite of tools, including Office 365/Excel 2016+, Power Query, Data Model, Power BI Desktop, and Power BI service. By using modern analytics technologies, you and your organization can work faster, more efficiently, and smarter by using Excel together with Power BI.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-intro/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
+          "length": "PT37M",
+          "ratings": {
+            "count": 144,
+            "average": 4.8402777
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-automate-data-cleaning-power-query.md",
+          "title": "Automate data cleaning with Power Query",
+          "excerpt": "This module introduces Power Query in Microsoft Excel, a powerful data connection, cleaning, and shaping technology that is a core part of the Microsoft modern analytics suite of business intelligence tools.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-automate-data-cleaning-power-query/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
+          "length": "PT1H29M",
+          "ratings": {
+            "count": 100,
+            "average": 4.89
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/automate-data-cleaning-power-query-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power Query"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-modern-analytics-data-modeling.md",
+          "title": "Introduction to foundations in data modeling",
+          "excerpt": "This module introduces the key concepts that are related to developing a well-organized data model.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-data-modeling/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 65,
+            "average": 4.8615384
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-data-modeling-social.png",
+              "width": 1282,
+              "height": 642,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-modern-analytics-transition.md",
+          "title": "Transition from Excel to Power BI",
+          "excerpt": "Microsoft's Power BI combines the Power Query's extraction, transformation, and loading capabilities with DAX and a relational data model in a new application with new features.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-transition/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
+          "length": "PT48M",
+          "ratings": {
+            "count": 47,
+            "average": 4.8510637
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-transition-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 8,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -5128,194 +5339,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/-6-n0FnFu-o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/collections/curbal-power-bi-licenses-explained-by-curbal.md",
-      "title": "Power BI Licenses explained by Curbal",
-      "excerpt": "A playlist on all videos on Power BI licenses.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/curbal-power-bi-licenses-explained-by-curbal/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/curbal-power-bi-licenses-explained-by-curbal/",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/curbal-power-bi-premium-licensing-explained-d49.md",
-          "title": "Power BI Premium licensing explained - D49",
-          "excerpt": "There is Power BI Premium A, EM and P. Do you know the difference between them? No? Here you have a video explaining them!   What to know when is profitable for you to move to premium? Check this video instead: https://youtu.be/5Uqq8OVnsvQ  #powerbi #curbal   Link to the licensing video Free, pro vs",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-power-bi-premium-licensing-explained-d49/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-power-bi-premium-licensing-explained-d49/",
-          "originalUrl": "https://youtube.com/watch?v=CQczRrUjTCc",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CQczRrUjTCc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT11M52S",
-          "provider": {
-            "name": "Curbal",
-            "domain": "curbal.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-04-14T01:16:54-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/CQczRrUjTCc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/curbal-power-bi-premium-vs-pro-vs-free-licensing-models-explained.md",
-          "title": "Power BI Premium vs Pro vs Free: Licensing models explained",
-          "excerpt": "In today’s One to Many series I talk about: 01:36 How Power BI started 04:10 The need for a new pricing model 05:50 Power BI Free and Pro features before and after the update 08:20 Power BI Premium features 10:52 Power BI Premium roadmap 16:50 Power BI Premium pricing  Some useful links: Power BI Lite",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-power-bi-premium-vs-pro-vs-free-licensing-models-explained/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-power-bi-premium-vs-pro-vs-free-licensing-models-explained/",
-          "originalUrl": "https://youtube.com/watch?v=kKLKv4QPlxE",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kKLKv4QPlxE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT21M10S",
-          "provider": {
-            "name": "Curbal",
-            "domain": "curbal.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-04-14T01:16:54-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/kKLKv4QPlxE/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/curbal-when-is-profitable-to-move-to-power-bi-premium.md",
-          "title": "When is profitable to move to Power BI Premium?",
-          "excerpt": "When is profitable to move to Power BI? How many Pro users before I should upgrade?  Lets go through power bi premium pricing to figure out when you should upgrade. #curbal #powerbi #powerbipremium   Here is the link to the premium licenses video: https://www.youtube.com/watch?v=CQczRrUjTCc and a video",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-when-is-profitable-to-move-to-power-bi-premium/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-when-is-profitable-to-move-to-power-bi-premium/",
-          "originalUrl": "https://youtube.com/watch?v=5Uqq8OVnsvQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5Uqq8OVnsvQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT7M51S",
-          "provider": {
-            "name": "Curbal",
-            "domain": "curbal.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-04-14T01:16:54-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/5Uqq8OVnsvQ/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/curbal-lesson-12-how-much-does-power-bi-cost.md",
-          "title": "Lesson 12: How much does Power BI cost?",
-          "excerpt": "Welcome to this Power BI Course! Subtitles for course are available in: English, Spanish and Persian.  View all lessons here: https://www.youtube.com/playlist?list=PLDz00l_jz6zx0wwS5HKFz5u-dEoAuRQMW  Persian Translation by: https://www.linkedin.com/in/seyed-sajad-mousavi-54035a139  Now that you have",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-lesson-12-how-much-does-power-bi-cost/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-lesson-12-how-much-does-power-bi-cost/",
-          "originalUrl": "https://youtube.com/watch?v=K1h3lY5y5to",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K1h3lY5y5to\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT5M36S",
-          "provider": {
-            "name": "Curbal",
-            "domain": "curbal.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2020-04-14T01:18:24-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/K1h3lY5y5to/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CQczRrUjTCc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -171,44 +171,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-how-to-keep-your-charts-on-powerpoint-and-ms-word-reports-automatically-updated-power-bi-excel.md",
-      "title": "How to keep your charts on PowerPoint and MS Word reports automatically updated!! | Power BI, Excel",
-      "excerpt": "In todays video I will you show you how to build your PowerPoint and Word reports so your charts will update automatically!!!  The data-witches blog: https://data-witches.com/2021/02/23/automatically-updating-word-or-powerpoint-with-power-bi-data/  Chapters: 00:00 intro 00:20 Proper credit to the data",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-keep-your-charts-on-powerpoint-and-ms-word-reports-automatically-updated-power-bi-excel/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-keep-your-charts-on-powerpoint-and-ms-word-reports-automatically-updated-power-bi-excel/",
-      "originalUrl": "https://youtube.com/watch?v=CWmqrEaSpsE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CWmqrEaSpsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M36S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-10-18T01:38:57-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CWmqrEaSpsE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/guy-in-a-cube-getting-started-with-power-bi.md",
       "title": "Getting Started with Power BI",
       "excerpt": "These videos will help you with getting started with Power BI. From Power BI Desktop to the Power BI service and items in between, this is a great way to get started.",
@@ -398,15 +360,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-deliver-decision-making-insights-with-power-bi.md",
-      "title": "Deliver decision-making insights with Power BI",
-      "excerpt": "Deliver decision-making insights with Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-deliver-decision-making-insights-with-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deliver-decision-making-insights-with-power-bi/",
-      "length": "PT27M",
+      "path": "_learning/courses/microsoft-learn-power-bi-admin-reach.md",
+      "title": "Broaden the reach of Power BI",
+      "excerpt": "Learn the various ways to share Power BI reports beyond your Power BI tenant.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-reach/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-reach/",
+      "length": "PT19M",
       "ratings": {
-        "count": 4,
-        "average": 4.25
+        "count": 38,
+        "average": 4.8421054
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -421,7 +383,49 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-reach-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-power-bi-excel-better-together.md",
+      "title": "Prepare to teach the module: Power BI & Excel better together",
+      "excerpt": "Prepare to teach the module: Power BI & Excel better together",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-excel-better-together/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-excel-better-together/",
+      "length": "PT54M",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
       ],
       "heat": 130,
       "images": [
@@ -844,8 +848,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 30535,
-            "average": 4.7985916
+            "count": 30538,
+            "average": 4.7985787
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -886,8 +890,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 50061,
-            "average": 4.774495
+            "count": 50067,
+            "average": 4.7745023
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -946,8 +950,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 50061,
-        "average": 4.774495
+        "count": 50067,
+        "average": 4.7745023
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -988,8 +992,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 30535,
-        "average": 4.7985916
+        "count": 30538,
+        "average": 4.7985787
       },
       "provider": {
         "name": "Microsoft Learn",
