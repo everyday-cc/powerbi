@@ -1161,8 +1161,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 37,
-            "average": 4.9459457
+            "count": 38,
+            "average": 4.9210525
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1203,8 +1203,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 41,
-            "average": 4.731707
+            "count": 42,
+            "average": 4.7380953
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1370,8 +1370,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 37,
-            "average": 4.9459457
+            "count": 38,
+            "average": 4.9210525
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1412,8 +1412,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 41,
-            "average": 4.731707
+            "count": 42,
+            "average": 4.7380953
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2601,8 +2601,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 4592,
-        "average": 4.711237
+        "count": 4595,
+        "average": 4.711208
       },
       "provider": {
         "name": "Microsoft Learn",
