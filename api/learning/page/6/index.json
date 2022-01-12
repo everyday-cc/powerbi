@@ -4,120 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/videos/curbal-share-power-bi-reports-and-apps-with-external-guests-for-free-azure-b2b.md",
-      "title": "Share Power BI reports and apps with external guests for free - Azure B2B",
-      "excerpt": "In todays video, I am going to show you how you can share power bi reports, dashboards, apps with external guests for free. (there are 3 licensing options for this).  Link to Power BI B2B docs: https://docs.microsoft.com/en-us/power-bi/admin/service-admin-azure-ad-b2b  Link to publish to web limitations:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-share-power-bi-reports-and-apps-with-external-guests-for-free-azure-b2b/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-share-power-bi-reports-and-apps-with-external-guests-for-free-azure-b2b/",
-      "originalUrl": "https://youtube.com/watch?v=Mm-902ry-qU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mm-902ry-qU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M16S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-27T01:10:24-07:00",
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Mm-902ry-qU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-going-crazy-with-power-bi-slicers-not-filtering-other-slicers.md",
-      "title": "Going CRAZY with Power BI slicers not filtering other slicers????",
-      "excerpt": "When you select an item in a Power BI Slicer, you want that to filter down the other slicers, but it doesn't happen. What the french toast??? We have you covered.  Download Sample: https://guyinacu.be/visuallevelsample  📢 Become a member: https://guyinacu.be/membership   *******************  Want to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-going-crazy-with-power-bi-slicers-not-filtering-other-slicers/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-going-crazy-with-power-bi-slicers-not-filtering-other-slicers/",
-      "originalUrl": "https://youtube.com/watch?v=o8K4Px_6AYQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o8K4Px_6AYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M12S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-02-19T05:31:23-08:00",
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/o8K4Px_6AYQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-overview-of-power-bi-workspaces.md",
-      "title": "Overview of Power BI Workspaces",
-      "excerpt": "Adam gives you an overview of Power BI Workspaces. This includes the My Workspace and App Workspaces within Power BI. This focuses on the new workspace experience.  Organize work in the new workspaces (preview) in Power BI https://docs.microsoft.com/power-bi/service-new-workspaces  Create the new workspaces",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-overview-of-power-bi-workspaces/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-overview-of-power-bi-workspaces/",
-      "originalUrl": "https://youtube.com/watch?v=1fS8MvcaBGE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1fS8MvcaBGE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M25S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-21T04:36:13-08:00",
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1fS8MvcaBGE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-conditional-formatting-by-another-column.md",
       "title": "Power BI Conditional Formatting By Another Column",
       "excerpt": "In this video, Patrick shows you how to use Power BI conditional formatting by another column in Power BI Desktop. Using conditional formatting by another column can help you provide context which leads to faster insights. Power BI capability arrived in the May 2018 release of Power BI Desktop.  LET'S",
@@ -264,23 +150,62 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-create-a-table-in-power-bi-using-enter-data-and-how-to-edit-it.md",
-      "title": "Create a Table in Power BI using Enter Data and How to Edit it",
-      "excerpt": "Sometimes you just need a new table with a few rows or columns to be added to your data model. One option to create that table is to use the Enter Data option in Power BI Desktop. In this article, I’ll explain how you can use it, and also; more important: How to edit the data of that table after creating",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-create-a-table-in-power-bi-using-enter-data-and-how-to-edit-it/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-create-a-table-in-power-bi-using-enter-data-and-how-to-edit-it/",
-      "originalUrl": "https://youtube.com/watch?v=i6GAKTU5Xe0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i6GAKTU5Xe0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M24S",
+      "path": "_learning/videos/radacad-month-over-month-calculation-in-power-bi-using-dax.md",
+      "title": "Month over Month Calculation in Power BI using DAX",
+      "excerpt": "When working with dates, one of the common types of analysis is period vs period, such as Year over year, and Month over month. In this article and video, I'll explain how you can use DAX to write calculations for month-over-month simply in any Power BI report. download the Power BI file and find the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-month-over-month-calculation-in-power-bi-using-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-month-over-month-calculation-in-power-bi-using-dax/",
+      "originalUrl": "https://youtube.com/watch?v=-GYw8x7hJao",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-GYw8x7hJao\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M9S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-06-13T19:21:53-07:00",
+      "publishedDateTime": "2021-05-31T15:49:21-07:00",
       "heat": 63,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/i6GAKTU5Xe0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-GYw8x7hJao/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-specifying-multiple-filter-conditions-in-calculate.md",
+      "title": "Specifying multiple filter conditions in CALCULATE",
+      "excerpt": "The filter arguments in CALCULATE can reference multiple columns from the same table in a single predicate: This is possible since March 2021 in Power BI, before that it was possible to filter a single column reference. \r Article and download: https://sql.bi/705207?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-specifying-multiple-filter-conditions-in-calculate/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-specifying-multiple-filter-conditions-in-calculate/",
+      "originalUrl": "https://youtube.com/watch?v=jyxZxFT_pAY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jyxZxFT_pAY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M38S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-30T03:01:28-07:00",
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jyxZxFT_pAY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -318,7 +243,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2019-03-19T10:12:07-07:00",
-          "heat": 53,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/tbFNzEamZyo/maxresdefault.jpg",
@@ -1545,187 +1470,34 @@
       ]
     },
     {
-      "path": "_learning/collections/power-bi-tips-dax-studio-tutorials.md",
-      "title": "DAX Studio Tutorials",
-      "excerpt": "DAX Studio is the tool for data model tuning.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/power-bi-tips-dax-studio-tutorials/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/power-bi-tips-dax-studio-tutorials/",
+      "path": "_learning/collections/power-bi-tips-tabular-editor-tutorials.md",
+      "title": "Tabular Editor Tutorials",
+      "excerpt": "Tabular Editor is an incredible Tool that enables users to manipulate a Tabular Model at lighting speeds.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/power-bi-tips-tabular-editor-tutorials/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/power-bi-tips-tabular-editor-tutorials/",
       "provider": {
         "name": "Power BI Tips",
         "domain": "powerbi.tips"
       },
       "topItems": [
         {
-          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell.md",
-          "title": "PowerBI.Tips - Tutorial - Introduction to DAX Studio - By Darren Gosbell",
-          "excerpt": "DAX Studio is the tool for data model tuning.  Darren Gosbell the creator of DAX Studio will be giving a live demo of his tool.    In this webinar we will be reviewing the following topics:  - What is DAX Studio?  - Why should I use DAX Studio?  - Getting started and connecting DAX Studio to various",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell/",
-          "originalUrl": "https://youtube.com/watch?v=jpZnCHRauPU",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jpZnCHRauPU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1H14S",
+          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-intro-to-tabular-editor.md",
+          "title": "PowerBI.Tips - Tutorial - Intro to Tabular Editor",
+          "excerpt": "Tabular Editor is an incredible Tool that enables users to manipulate a Tabular Model at lighting speeds.  Daniel Otykier is the creator of Tabular Editor.  This video will explain the basic functionalities of the program.    Watch the full Series: https://www.youtube.com/playlist?list=PLn1m_aBmgsbGvz4SsmO_fkeThjDUSWFkf",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-intro-to-tabular-editor/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-intro-to-tabular-editor/",
+          "originalUrl": "https://youtube.com/watch?v=c-jZMzsvKnM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c-jZMzsvKnM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H3M33S",
           "provider": {
             "name": "Power BI Tips",
             "domain": "powerbi.tips"
           },
-          "publishedDateTime": "2020-04-24T10:20:00-07:00",
-          "heat": 52,
+          "publishedDateTime": "2020-04-02T06:37:24-07:00",
+          "heat": 54,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/jpZnCHRauPU/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo.md",
-          "title": "PowerBI.Tips - Tutorial - Model Performance Tuning in DAX Studio - By Marco Russo",
-          "excerpt": "DAX Studio is the tool for data model tuning.  Marco Russo contributor to DAX Studio will be giving us a deep dive and demo around using DAX Studio for Model Performance Tuning.   You will not want to miss this event as Marco is a wealth of knowledge for all things Data Modeling!  Watch the Full Tutorial",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo/",
-          "originalUrl": "https://youtube.com/watch?v=ERGpV4yt30w",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ERGpV4yt30w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1H9M2S",
-          "provider": {
-            "name": "Power BI Tips",
-            "domain": "powerbi.tips"
-          },
-          "publishedDateTime": "2020-04-24T11:32:43-07:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/ERGpV4yt30w/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell.md",
-          "title": "PowerBI.Tips - Tutorial - DAX Studio Full Features Review - By Darren Gosbell",
-          "excerpt": "DAX Studio is the tool for data model tuning.  Darren Gosbell the creator of DAX Studio will be giving a live demo of his tool.    In this live webinar Darren will be giving a full overview of all the features of DAX Studio.  - https://daxstudio.org/documentation/features/  Watch the Full Tutorial Series:",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell/",
-          "originalUrl": "https://youtube.com/watch?v=SoqF-c4KtHQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SoqF-c4KtHQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1H23M11S",
-          "provider": {
-            "name": "Power BI Tips",
-            "domain": "powerbi.tips"
-          },
-          "publishedDateTime": "2020-04-24T13:46:32-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/SoqF-c4KtHQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo.md",
-          "title": "PowerBI.Tips - Tutorial - DAX Studio Query Performance Tuning - By Marco Russo",
-          "excerpt": "DAX Studio is the tool for data model tuning.  Marco Russo contributor to DAX Studio will be giving us a deep dive and demo around using DAX Studio for Query Performance Tuning.  You will not want to miss this event as Marco is a wealth of knowledge for all things Data Modeling!  Watch the Full Tutorial",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo/",
-          "originalUrl": "https://youtube.com/watch?v=d6ppyWQU-f0",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d6ppyWQU-f0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1H59S",
-          "provider": {
-            "name": "Power BI Tips",
-            "domain": "powerbi.tips"
-          },
-          "publishedDateTime": "2020-04-24T15:44:45-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/d6ppyWQU-f0/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        }
-      ],
-      "size": 5,
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jpZnCHRauPU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/collections/power-bi-tips-must-have-powerbi-tools.md",
-      "title": "Must Have PowerBI Tools",
-      "excerpt": "ALM ToolKit, DAX Studio, Tabular Editor and Monkey Tool",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/power-bi-tips-must-have-powerbi-tools/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/power-bi-tips-must-have-powerbi-tools/",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-alm-toolkit-with-christian-wade.md",
-          "title": "PowerBI.Tips - Tutorial - ALM ToolKit with Christian Wade",
-          "excerpt": "The ALM Toolkit is an excellent tool for aiding users with Tabular Model management.  Christian Wade has been generous enough to provide us with a detailed tutorial on the ALM ToolKit.    ALM Toolkit provides the following features: - Database Compare - Code Merging - Easy Deployments - Source-Control",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-alm-toolkit-with-christian-wade/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-alm-toolkit-with-christian-wade/",
-          "originalUrl": "https://youtube.com/watch?v=yKvMrQlUrCU",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yKvMrQlUrCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT42M29S",
-          "provider": {
-            "name": "Power BI Tips",
-            "domain": "powerbi.tips"
-          },
-          "publishedDateTime": "2020-04-14T15:58:12-07:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/yKvMrQlUrCU/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/c-jZMzsvKnM/hqdefault.jpg",
               "width": 480,
               "height": 360,
               "isCached": true
@@ -1739,23 +1511,23 @@
           ]
         },
         {
-          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell.md",
-          "title": "PowerBI.Tips - Tutorial - Introduction to DAX Studio - By Darren Gosbell",
-          "excerpt": "DAX Studio is the tool for data model tuning.  Darren Gosbell the creator of DAX Studio will be giving a live demo of his tool.    In this webinar we will be reviewing the following topics:  - What is DAX Studio?  - Why should I use DAX Studio?  - Getting started and connecting DAX Studio to various",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell/",
-          "originalUrl": "https://youtube.com/watch?v=jpZnCHRauPU",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jpZnCHRauPU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1H14S",
+          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-using-scripts-in-tabular-editor.md",
+          "title": "PowerBI.Tips - Tutorial - Using Scripts in Tabular Editor",
+          "excerpt": "Tabular Editor is an incredible Tool that enables users to manipulate a Tabular Model at lighting speeds.  Daniel Otykier is the creator of Tabular Editor.  In this video Daniel will explain how to effectively use scripting to automate repetitive tasks.    Scripting is by far the most powerful part of",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-using-scripts-in-tabular-editor/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-using-scripts-in-tabular-editor/",
+          "originalUrl": "https://youtube.com/watch?v=EHs5r3XCkO8",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EHs5r3XCkO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H9M31S",
           "provider": {
             "name": "Power BI Tips",
             "domain": "powerbi.tips"
           },
-          "publishedDateTime": "2020-04-24T10:20:00-07:00",
-          "heat": 52,
+          "publishedDateTime": "2020-04-02T09:04:55-07:00",
+          "heat": 51,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/jpZnCHRauPU/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/EHs5r3XCkO8/hqdefault.jpg",
               "width": 480,
               "height": 360,
               "isCached": true
@@ -1765,59 +1537,27 @@
           "type": "video",
           "price": "Free",
           "topics": [
-            "Power BI",
-            "DAX"
+            "Power BI"
           ]
         },
         {
-          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo.md",
-          "title": "PowerBI.Tips - Tutorial - Model Performance Tuning in DAX Studio - By Marco Russo",
-          "excerpt": "DAX Studio is the tool for data model tuning.  Marco Russo contributor to DAX Studio will be giving us a deep dive and demo around using DAX Studio for Model Performance Tuning.   You will not want to miss this event as Marco is a wealth of knowledge for all things Data Modeling!  Watch the Full Tutorial",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo/",
-          "originalUrl": "https://youtube.com/watch?v=ERGpV4yt30w",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ERGpV4yt30w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1H9M2S",
+          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-best-practice-analyzer-in-tabular-editor.md",
+          "title": "PowerBI.Tips - Tutorial - Best Practice Analyzer in Tabular Editor",
+          "excerpt": "Tabular Editor is an incredible Tool that enables users to manipulate a Tabular Model at lighting speeds.  Daniel Otykier is the creator of Tabular Editor.  In this video Daniel teaches us how to use the Best Practice Analyzer.    The Best Practice Analyzer can review your model for code errors, or common",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-best-practice-analyzer-in-tabular-editor/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-best-practice-analyzer-in-tabular-editor/",
+          "originalUrl": "https://youtube.com/watch?v=5WnN0NG2nBk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5WnN0NG2nBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H5M42S",
           "provider": {
             "name": "Power BI Tips",
             "domain": "powerbi.tips"
           },
-          "publishedDateTime": "2020-04-24T11:32:43-07:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/ERGpV4yt30w/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell.md",
-          "title": "PowerBI.Tips - Tutorial - DAX Studio Full Features Review - By Darren Gosbell",
-          "excerpt": "DAX Studio is the tool for data model tuning.  Darren Gosbell the creator of DAX Studio will be giving a live demo of his tool.    In this live webinar Darren will be giving a full overview of all the features of DAX Studio.  - https://daxstudio.org/documentation/features/  Watch the Full Tutorial Series:",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell/",
-          "originalUrl": "https://youtube.com/watch?v=SoqF-c4KtHQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SoqF-c4KtHQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1H23M11S",
-          "provider": {
-            "name": "Power BI Tips",
-            "domain": "powerbi.tips"
-          },
-          "publishedDateTime": "2020-04-24T13:46:32-07:00",
+          "publishedDateTime": "2020-04-03T08:59:09-07:00",
           "heat": 50,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/SoqF-c4KtHQ/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/5WnN0NG2nBk/hqdefault.jpg",
               "width": 480,
               "height": 360,
               "isCached": true
@@ -1827,16 +1567,45 @@
           "type": "video",
           "price": "Free",
           "topics": [
-            "Power BI",
-            "DAX"
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-using-devops-in-tabular-editor.md",
+          "title": "PowerBI.Tips - Tutorial - Using DevOps in Tabular Editor",
+          "excerpt": "Tabular Editor is an incredible Tool that enables users to manipulate a Tabular Model at lighting speeds.  Daniel Otykier is the creator of Tabular Editor.  In this video Daniel teaches us how to use Azure DevOps with Tabular Models.  This session is definately worth your time if you work in managing",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-using-devops-in-tabular-editor/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-using-devops-in-tabular-editor/",
+          "originalUrl": "https://youtube.com/watch?v=fzZgXe3MjhI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fzZgXe3MjhI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT1H24M5S",
+          "provider": {
+            "name": "Power BI Tips",
+            "domain": "powerbi.tips"
+          },
+          "publishedDateTime": "2020-04-07T09:01:43-07:00",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/fzZgXe3MjhI/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
           ]
         }
       ],
-      "size": 16,
+      "size": 4,
       "heat": 62,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/yKvMrQlUrCU/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/c-jZMzsvKnM/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -1846,6 +1615,199 @@
       "type": "collection",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/sqlbi-dax-studio-by-sqlbi.md",
+      "title": "DAX Studio by SQLBI",
+      "excerpt": "Discover and learn how to use DAX Studio with this series.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/sqlbi-dax-studio-by-sqlbi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/sqlbi-dax-studio-by-sqlbi/",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/sqlbi-improving-format-of-dax-code-by-using-dax-studio.md",
+          "title": "Improving format of DAX code by using DAX Studio",
+          "excerpt": "If it is not formatted... it is not DAX! Use DAX Formatter in DAX Studio and improve your formulas in Power BI! How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-improving-format-of-dax-code-by-using-dax-studio/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-improving-format-of-dax-code-by-using-dax-studio/",
+          "originalUrl": "https://youtube.com/watch?v=gTN5ai8j3PE",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gTN5ai8j3PE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT2M49S",
+          "provider": {
+            "name": "SQLBI",
+            "domain": "sqlbi.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-05-28T03:30:13-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/gTN5ai8j3PE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/videos/sqlbi-computing-a-measure-in-dax-studio.md",
+          "title": "Computing a measure in DAX Studio",
+          "excerpt": "You can use DAX Studio to evaluate one or more measures in your data model. This is the first step to write, test, and debug your DAX measures in a productive manner.  How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-computing-a-measure-in-dax-studio/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-computing-a-measure-in-dax-studio/",
+          "originalUrl": "https://youtube.com/watch?v=kAniA_N7sB8",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kAniA_N7sB8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M59S",
+          "provider": {
+            "name": "SQLBI",
+            "domain": "sqlbi.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-04-30T09:01:04-07:00",
+          "heat": 53,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/kAniA_N7sB8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/videos/sqlbi-filtering-a-measure-in-dax-studio.md",
+          "title": "Filtering a measure in DAX Studio",
+          "excerpt": "DAX Studio can evaluate one or more measures in a query. Marco Russo shows how to apply filters to a measure executed in DAX Studio. Continuous learning to improve your productivity!  How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-filtering-a-measure-in-dax-studio/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-filtering-a-measure-in-dax-studio/",
+          "originalUrl": "https://youtube.com/watch?v=ZIJDv3J9kko",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZIJDv3J9kko\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT2M23S",
+          "provider": {
+            "name": "SQLBI",
+            "domain": "sqlbi.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-05-08T02:06:58-07:00",
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/ZIJDv3J9kko/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/videos/sqlbi-improving-the-visualization-of-the-result-in-dax-studio.md",
+          "title": "Improving the visualization of the result in DAX Studio",
+          "excerpt": "You can improve the format string of the result of a query in DAX Studio. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-improving-the-visualization-of-the-result-in-dax-studio/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-improving-the-visualization-of-the-result-in-dax-studio/",
+          "originalUrl": "https://youtube.com/watch?v=23JrbkCZwBI",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/23JrbkCZwBI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT2M12S",
+          "provider": {
+            "name": "SQLBI",
+            "domain": "sqlbi.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-06-04T03:30:13-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/23JrbkCZwBI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        }
+      ],
+      "size": 13,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gTN5ai8j3PE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -2262,25 +2224,56 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-page-level-security-workaround-in-power-bi.md",
-      "title": "Page Level Security workaround in Power BI",
-      "excerpt": "If you want to control the access to the Power BI report pages (or tabs) in a way that some users see some pages, and some others see other pages, we need something called page-level security. However, Power BI, as of today, doesn’t support visual-level or page-level security. There is a workaround to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-page-level-security-workaround-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-page-level-security-workaround-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=an7n2kSTBk0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/an7n2kSTBk0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M5S",
+      "path": "_learning/videos/radacad-append-vs-merge-in-power-bi-and-power-query.md",
+      "title": "Append vs Merge in Power BI and Power Query",
+      "excerpt": "Combining two queries in Power Query or in Power BI is one of the most basic and also essential tasks that you would need to do in most of data preparation scenarios. There are two types of combining queries; Merge, and Append. Database developers easily understand the difference, but the majority of",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-append-vs-merge-in-power-bi-and-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-append-vs-merge-in-power-bi-and-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=qXH4WjCykLc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qXH4WjCykLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M33S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-08-31T16:48:24-07:00",
+      "publishedDateTime": "2018-09-10T00:48:41-07:00",
       "heat": 62,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/an7n2kSTBk0/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/qXH4WjCykLc/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-create-a-table-in-power-bi-using-enter-data-and-how-to-edit-it.md",
+      "title": "Create a Table in Power BI using Enter Data and How to Edit it",
+      "excerpt": "Sometimes you just need a new table with a few rows or columns to be added to your data model. One option to create that table is to use the Enter Data option in Power BI Desktop. In this article, I’ll explain how you can use it, and also; more important: How to edit the data of that table after creating",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-create-a-table-in-power-bi-using-enter-data-and-how-to-edit-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-create-a-table-in-power-bi-using-enter-data-and-how-to-edit-it/",
+      "originalUrl": "https://youtube.com/watch?v=i6GAKTU5Xe0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i6GAKTU5Xe0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M24S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-06-13T19:21:53-07:00",
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/i6GAKTU5Xe0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -2292,14 +2285,45 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-specifying-multiple-filter-conditions-in-calculate.md",
-      "title": "Specifying multiple filter conditions in CALCULATE",
-      "excerpt": "The filter arguments in CALCULATE can reference multiple columns from the same table in a single predicate: This is possible since March 2021 in Power BI, before that it was possible to filter a single column reference. \r Article and download: https://sql.bi/705207?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-specifying-multiple-filter-conditions-in-calculate/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-specifying-multiple-filter-conditions-in-calculate/",
-      "originalUrl": "https://youtube.com/watch?v=jyxZxFT_pAY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jyxZxFT_pAY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M38S",
+      "path": "_learning/videos/radacad-this-year-vs-last-year-calculation-in-power-bi-using-dax.md",
+      "title": "This year vs  Last year Calculation in Power BI using DAX",
+      "excerpt": "SamePeriodLastYear function in #DAX #PowerBI is one of functions that can be used for calculating this year value vs. last year. Download the dataset for this example from my blog article below: https://radacad.com/dateadd-vs-parallelperiod-vs-sameperiodlastyear-dax-time-intelligence-question  Learn",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-this-year-vs-last-year-calculation-in-power-bi-using-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-this-year-vs-last-year-calculation-in-power-bi-using-dax/",
+      "originalUrl": "https://youtube.com/watch?v=J4h17Kqyj4M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J4h17Kqyj4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M53S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-10-06T16:37:06-07:00",
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/J4h17Kqyj4M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-bidirectional-relationships-and-ambiguity.md",
+      "title": "Bidirectional relationships and ambiguity",
+      "excerpt": "Learn how to avoid ambiguity caused by bidirectional relationships in a Tabular model with Power BI or Analysis Services. Article and download: https://sql.bi/75696?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-bidirectional-relationships-and-ambiguity/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-bidirectional-relationships-and-ambiguity/",
+      "originalUrl": "https://youtube.com/watch?v=x3m7qzsVJqQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x3m7qzsVJqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M2S",
       "provider": {
         "name": "SQLBI",
         "domain": "sqlbi.com",
@@ -2312,11 +2336,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-03-30T03:01:28-07:00",
+      "publishedDateTime": "2020-11-17T03:00:19-08:00",
       "heat": 62,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/jyxZxFT_pAY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/x3m7qzsVJqQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

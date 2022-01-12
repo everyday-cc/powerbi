@@ -4,6 +4,163 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/videos/curbal-dax-fridays-90-understanding-lookupvalues-error.md",
+      "title": "DAX Fridays! #90: Understanding LOOKUPVALUES error",
+      "excerpt": "Have you got the following error when using the DAX function LOOKUPVALUES?  \"A table of multiple values was supplied where a single value was expected\"  in this video, I will show you why that error happens and what you need to do to resolve it and use the function as intended.  You dont know how to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-90-understanding-lookupvalues-error/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-90-understanding-lookupvalues-error/",
+      "originalUrl": "https://youtube.com/watch?v=e8OWQ7Xl3m0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e8OWQ7Xl3m0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M32S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-03T03:03:38-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/e8OWQ7Xl3m0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-93-maxx-fill-down-with-dax-and-power-query.md",
+      "title": "DAX Fridays! #93: MAXX | Fill down with DAX and Power Query",
+      "excerpt": "In todays video I am going to show you how to fill down columns with DAX and also with Power Query.  Enjoy!  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK    Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-93-maxx-fill-down-with-dax-and-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-93-maxx-fill-down-with-dax-and-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=vQIDJVkFW8o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vQIDJVkFW8o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M47S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-23T11:20:01-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vQIDJVkFW8o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-95-binning-frequency-and-relative-frequency-data-profiler.md",
+      "title": "DAX Fridays! #95: Binning, Frequency and relative frequency | Data profiler",
+      "excerpt": "This is the first of a series of videos about data profiling and descriptive statistics. In today's video, I will show you how to bin data,  calculate the frequency and relative frequency using DAX.  What you think about the series? let me know in the comment box.  Download file here: https://curbal.com/blog/glossary/median-dax-functions",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-95-binning-frequency-and-relative-frequency-data-profiler/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-95-binning-frequency-and-relative-frequency-data-profiler/",
+      "originalUrl": "https://youtube.com/watch?v=SFWHDWiqXzI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SFWHDWiqXzI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-30T09:11:21-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SFWHDWiqXzI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-97-standard-deviation-explained-who-is-the-best-player-lebron-or-durant.md",
+      "title": "DAX Fridays! #97: STANDARD DEVIATION EXPLAINED | Who is the best player, LeBron or Durant?",
+      "excerpt": "Who is the best player, Duran or LeBron? Let's find out using statistics and standard deviation.  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Download file here: https://curbal.com/blog/glossary/stdev-s-dax  More on STATISTCAL DAX FUNCTIONS here: https://www.youtube.com/playlist?list=PLDz00l_jz6zxc8iinR39euGqFm4SDabBf",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-97-standard-deviation-explained-who-is-the-best-player-lebron-or-durant/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-97-standard-deviation-explained-who-is-the-best-player-lebron-or-durant/",
+      "originalUrl": "https://youtube.com/watch?v=ekcrlfZyAhg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ekcrlfZyAhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M12S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-09-14T04:58:57-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ekcrlfZyAhg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-after-union-two-tables-data-goes-to-the-wrong-column-with-power-bi-dax.md",
       "title": "After Union Two tables, data goes to the wrong column with Power BI DAX?",
       "excerpt": "Most of us have used Union DAX expression in Power BI. Basically union, appends rows from both the table which are common. In Power BI, sometimes, when we perform Union operation, the combined data have some inconsistent mechanism, meaning one column's data merged with another column. The main reason",
@@ -508,6 +665,37 @@
       ]
     },
     {
+      "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo.md",
+      "title": "PowerBI.Tips - Tutorial - DAX Studio Query Performance Tuning - By Marco Russo",
+      "excerpt": "DAX Studio is the tool for data model tuning.  Marco Russo contributor to DAX Studio will be giving us a deep dive and demo around using DAX Studio for Query Performance Tuning.  You will not want to miss this event as Marco is a wealth of knowledge for all things Data Modeling!  Watch the Full Tutorial",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-query-performance-tuning-by-marco-russo/",
+      "originalUrl": "https://youtube.com/watch?v=d6ppyWQU-f0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d6ppyWQU-f0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H59S",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "publishedDateTime": "2020-04-24T15:44:45-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/d6ppyWQU-f0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-basics-of-time-intelligence-in-dax-for-power-bi-year-to-date-quarter-to-date-month-to-date.md",
       "title": "Basics of Time Intelligence in DAX for Power BI; Year to Date, Quarter to Date, Month to Date",
       "excerpt": "Download the dataset from my blog article here: https://radacad.com/basics-of-time-intelligence-in-dax-for-power-bi-year-to-date-quarter-to-date-month-to-date  Learn more about Power BI default date table or custom date table here: https://radacad.com/power-bi-date-dimension-default-or-custom-is-it-confusing",
@@ -539,23 +727,54 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-calculating-stock-on-hand-using-dax-power-bi-inventory-model.md",
-      "title": "Calculating Stock on Hand Using DAX   Power BI Inventory Model",
-      "excerpt": "You don't have always the luxury of having a snapshot fact table that has the stock on hand value for every single day, at every single workshop, and for every single product. Even if you want to build such a table, it can get easily gigantic. In this video, I am going to show you how you can use DAX",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-calculating-stock-on-hand-using-dax-power-bi-inventory-model/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-calculating-stock-on-hand-using-dax-power-bi-inventory-model/",
-      "originalUrl": "https://youtube.com/watch?v=Wr4o5uneFxc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wr4o5uneFxc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M31S",
+      "path": "_learning/videos/radacad-building-a-virtual-relationship-in-power-bi-basics-of-treatas-dax-function.md",
+      "title": "Building a Virtual Relationship in Power BI   Basics of TREATAS DAX Function",
+      "excerpt": "TreatAs is an interesting function with multiple use cases in Power BI. I thought it is good to explain it in a set of videos, the first one here is about what the TreatAs function is and how it can help to build filters and a virtual relationship between two tables. Let's see how you can use this function.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-building-a-virtual-relationship-in-power-bi-basics-of-treatas-dax-function/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-building-a-virtual-relationship-in-power-bi-basics-of-treatas-dax-function/",
+      "originalUrl": "https://youtube.com/watch?v=YCJjeD8wz5c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YCJjeD8wz5c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M1S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-01-29T00:51:37-08:00",
+      "publishedDateTime": "2020-03-03T21:20:28-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Wr4o5uneFxc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YCJjeD8wz5c/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-customers-grouped-by-the-count-of-their-orders-dynamic-segmentation-in-power-bi-using-dax-measures.md",
+      "title": "Customers Grouped by the Count of their Orders – Dynamic Segmentation in Power BI Using DAX Measures",
+      "excerpt": "In the previous part of this video, I explained what is the segmentation challenge, when you want to group data based on the aggregated result, and I explained a static method of creating aggregated tables and creating a relationship to the main detailed table. However, the caveat of that method is the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-customers-grouped-by-the-count-of-their-orders-dynamic-segmentation-in-power-bi-using-dax-measures/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-customers-grouped-by-the-count-of-their-orders-dynamic-segmentation-in-power-bi-using-dax-measures/",
+      "originalUrl": "https://youtube.com/watch?v=bRk0tofVn2c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bRk0tofVn2c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M36S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-02-25T01:08:22-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bRk0tofVn2c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -570,147 +789,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-creating-calendar-table-in-power-bi-using-dax-functions.md",
-      "title": "Creating Calendar Table in Power BI using DAX Functions",
-      "excerpt": "I have previously explained about using Power Query for creating calendar tables, However, some people still love to do that in DAX. There are a couple of DAX functions which makes the process of creating a calendar table very simple and easy; Calendar() and CalendarAuto(). In this short video, I'll",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-creating-calendar-table-in-power-bi-using-dax-functions/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-creating-calendar-table-in-power-bi-using-dax-functions/",
-      "originalUrl": "https://youtube.com/watch?v=_dd6kiYEm70",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_dd6kiYEm70\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M55S",
+      "path": "_learning/videos/radacad-dax-measure-in-the-axis-of-the-power-bi-report.md",
+      "title": "DAX Measure in the Axis of the Power BI Report",
+      "excerpt": "If you even need to show your DAX measures in a chart without a dimension to slice and dice it, you won’t get a great experience in the visual. In this video, I’ll share a trick that you can use to have a nice visualization like what you see in the above screenshot. Download the file and study more from",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dax-measure-in-the-axis-of-the-power-bi-report/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dax-measure-in-the-axis-of-the-power-bi-report/",
+      "originalUrl": "https://youtube.com/watch?v=CRs2CnW7tVU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CRs2CnW7tVU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M35S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2019-10-01T19:45:29-07:00",
+      "publishedDateTime": "2020-08-18T15:30:39-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/_dd6kiYEm70/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship.md",
-      "title": "DAX CrossFilter Function in Power BI   Write the Formula both directional but keep the relationship",
-      "excerpt": "If you are familiar with relationships in Power BI, you know that there are scenarios that you may need to change the direction of the relationship to a both-directional. A both-directional relationship comes at a cost, which is mainly the performance and ambiguity of the model. There is a way to write",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dax-crossfilter-function-in-power-bi-write-the-formula-both-directional-but-keep-the-relationship/",
-      "originalUrl": "https://youtube.com/watch?v=8--Yv18rhyA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8--Yv18rhyA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M39S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-06-30T18:29:17-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8--Yv18rhyA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-dynamic-banding-or-grouping-in-power-bi-using-dax-measures-choose-the-count-of-bins.md",
-      "title": "Dynamic Banding or Grouping in Power BI   Using DAX Measures   Choose the Count of Bins",
-      "excerpt": "Banding (or binning or grouping) is a scenario that can be implemented both statically and dynamically in Power BI. Dynamic banding means selecting the bin (or band) configuration, and the banding changes based on the user selection of the slicer. Imagine that we have a count of customers by their age",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dynamic-banding-or-grouping-in-power-bi-using-dax-measures-choose-the-count-of-bins/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dynamic-banding-or-grouping-in-power-bi-using-dax-measures-choose-the-count-of-bins/",
-      "originalUrl": "https://youtube.com/watch?v=LaBmDaf_PPM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LaBmDaf_PPM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M50S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-03-08T21:33:31-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LaBmDaf_PPM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-dynamic-banding-or-grouping-in-power-bi-using-dax-measures-choose-the-size-of-bins.md",
-      "title": "Dynamic Banding or Grouping in Power BI – Using DAX Measures – Choose the Size of Bins",
-      "excerpt": "In the previous video, I explained how to create dynamic bins by choosing the count of bins in a slicer in the Power BI report. In this video, I'll explain, how you can do it the other way around, which is by selecting the size of the bin, you will have bins and buckets dynamically generated. Download",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dynamic-banding-or-grouping-in-power-bi-using-dax-measures-choose-the-size-of-bins/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dynamic-banding-or-grouping-in-power-bi-using-dax-measures-choose-the-size-of-bins/",
-      "originalUrl": "https://youtube.com/watch?v=cbxVCa5lAcw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cbxVCa5lAcw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M36S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-03-09T20:29:22-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cbxVCa5lAcw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-find-a-text-term-in-a-field-in-power-bi-using-dax-functions.md",
-      "title": "Find a Text Term in a Field in Power BI Using DAX Functions",
-      "excerpt": "In Power BI, there are multiple ways of searching for a text term inside a text field, you can use Power Query for doing this operation or calculations in DAX. In this video, I'll explain some functions in DAX that you can use to do this calculation. Most of these functions can be used inside a measure",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-find-a-text-term-in-a-field-in-power-bi-using-dax-functions/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-find-a-text-term-in-a-field-in-power-bi-using-dax-functions/",
-      "originalUrl": "https://youtube.com/watch?v=pPJwIzPck1U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pPJwIzPck1U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M49S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-02-03T19:40:15-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pPJwIzPck1U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/CRs2CnW7tVU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -787,37 +882,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-icon-names-for-conditional-formatting-using-dax.md",
-      "title": "Power BI Icon Names for Conditional Formatting Using DAX",
-      "excerpt": "I have previously written about conditional formatting in Power BI, and how you can take one step further with using DAX to dynamically change the conditional formatting. Conditional formatting with DAX for colors is easy, you can use the color name or their hex code. But for Icons, it is slightly different.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-icon-names-for-conditional-formatting-using-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-icon-names-for-conditional-formatting-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=UCLCQaVeshs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UCLCQaVeshs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M38S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-11-15T15:33:39-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UCLCQaVeshs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-power-bi-modeling-tip-snapshot-table-or-dax-measures.md",
       "title": "Power BI Modeling Tip   Snapshot Table or DAX Measures",
       "excerpt": "I often get this question: “Is it better that I create this calculation as a snapshot table in Power Query (or T-SQL, or the data source), or write DAX measures for it?” If you ever had a scenario of creating a report of snapshots, you know what I mean. “Should I have a table for inventory stock on hand",
@@ -837,37 +901,6 @@
           "url": "https://i.ytimg.com/vi/fwQuK27F4yg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-relationship-based-on-multiple-fields-in-power-bi-using-treatas-dax-function.md",
-      "title": "Relationship Based on Multiple Fields in Power BI Using TREATAS DAX Function",
-      "excerpt": "TreatAs is helpful for filtering, and it doesn't filter only based on one column, it can filter based on as many as columns you want. One of the challenges in Power BI relationships is creating a relationship based on multiple fields, I have previously explained a method you can use to create a compound",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-relationship-based-on-multiple-fields-in-power-bi-using-treatas-dax-function/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-relationship-based-on-multiple-fields-in-power-bi-using-treatas-dax-function/",
-      "originalUrl": "https://youtube.com/watch?v=_DuGkki0rfs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_DuGkki0rfs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-03-04T15:02:52-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_DuGkki0rfs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],
