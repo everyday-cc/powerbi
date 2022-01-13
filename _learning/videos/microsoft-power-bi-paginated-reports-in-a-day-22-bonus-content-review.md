@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 22: Bonus Content: Review"
 
-secured: "ZYiRa1Y6vR9cVkFl8xKAs0FSG2yw+XQdNGuKPsl3AIZ3A7o7dSH0yzWkCcUTEcFLQQ/PrgNYTfd+SoicpvrOm2NsPQjF4M5+yC3nRdknf96amu1kSEfcZ5DWB7fbau/nfC6EoHlhHjFaONk5UFpNsnXUVOYRFwIydS1E8u1gcKa+P83FnXReY/GEknP37YgCtUMQU480bZVY/vk2SUFN+2aluqt0yk7OfcRT1GYsKWdVKksj/hEPRsvqqGtPdZMANW79Xc83HBKhfsw0va8VrRC8rkRJ8K4NAOUJZw/WGo5Kc92wayQQtfjpU7gEUsrTAaRqjshAeBxu+2d50QcFXA0+prGzSoMraEH3/e+I4FXUqd3Hr6WD5hvA6j2yIkbrpY9bAxbhftoY6IDZqXJN3DN6Up578zHqNpLYAvXsqbw=;lrRGpW4taRoCDrgeyoSZeg=="
+secured: "0Z/jQZ2cbKcFQpHu8BBsqy2mFA5mA7Fqj+wj651g1HTSlK1eb0I5/5+BhD1AwhXr1PEDlpObJjC7p5u3ivX2rmGXsrecJ/uoFCKd5N7W6URxbIK+fxrDZKcvx9gW3sfLqCgBKN/WUbMg0+LUKjas0kYYDtAK8W4bl/qG+fF8i2gjddh+8c4ulY36+ibfEDwbDexYLbU198cJ+3QrEMx6UEhxU/DwjX7ksMAl5cy2reKpwE3aBRqu0t11hPNxMJI7CUui0VDIMET3xo1nLh7XwFWZ1t4CJAjso5yTidHrlmsCjzwQ2wOJ+ybGuTOlmZhVLuCqdK+KzQrjFoCdNTmPfIHev0MrF5FR8gqV+n3OPpcwidbyp61SSFSqO1K5XAoMbKhAKm6hNCcj+2KsChKjodXhWkHf7mRJ23M9p6QMa2I=;YjXdW0cOfImxEXsUJXBGIQ=="
 ---
 
