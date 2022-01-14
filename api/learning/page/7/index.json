@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 3927,
-        "average": 4.674306
+        "count": 3928,
+        "average": 4.674389
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1989,8 +1989,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 103,
-            "average": 4.8932037
+            "count": 104,
+            "average": 4.894231
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2074,8 +2074,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 50,
-            "average": 4.86
+            "count": 51,
+            "average": 4.8627453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2199,8 +2199,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 103,
-            "average": 4.8932037
+            "count": 104,
+            "average": 4.894231
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2284,8 +2284,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 50,
-            "average": 4.86
+            "count": 51,
+            "average": 4.8627453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3012,7 +3012,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3333,8 +3333,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 5441,
-        "average": 4.723948
+        "count": 5442,
+        "average": 4.7239985
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3375,8 +3375,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 6343,
-        "average": 4.7441273
+        "count": 6344,
+        "average": 4.744168
       },
       "provider": {
         "name": "Microsoft Learn",
