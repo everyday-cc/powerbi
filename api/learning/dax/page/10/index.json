@@ -4,285 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-datesytd-example-ican-rule.md",
-      "title": "Power BI DAX Measures: Understanding Filter Context using DATESYTD Example (I.C.A.N. Rule)",
-      "excerpt": "For Power BI DAX Measures, one of the hardest concepts to grasp is the Filter Context. Or is it? I explain the “Filter Context” with the 4-easy-step approach of the I.C.A.N. Rule; using a DATESYTD Example. I. Incoming Filters C. CALCULATE does it’s Magic! A. Apply relationships (filters flow Across relationships)",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-datesytd-example-ican-rule/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-datesytd-example-ican-rule/",
-      "originalUrl": "https://youtube.com/watch?v=egTTUC_cKZY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/egTTUC_cKZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M40S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-07-11T04:45:10-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/egTTUC_cKZY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-sumx-example-ican-rule-part-1-of-2.md",
-      "title": "Power BI DAX Measures: Understanding Filter Context using SUMX Example (I.C.A.N. Rule) Part 1 of 2",
-      "excerpt": "For Power BI DAX Measures, one of the hardest concepts to grasp is the Filter Context. Or is it? I explain the “Filter Context” with the 4-easy-step approach of the I.C.A.N. Rule; using a SUMX Example. I. Incoming Filters C. CALCULATE does it’s Magic! A. Apply relationships (filters flow Across relationships)",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-sumx-example-ican-rule-part-1-of-2/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-sumx-example-ican-rule-part-1-of-2/",
-      "originalUrl": "https://youtube.com/watch?v=Rcw7wZT8aRs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rcw7wZT8aRs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M19S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-07-11T08:35:15-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Rcw7wZT8aRs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-sumx-example-ican-rule-part-2-of-2.md",
-      "title": "Power BI DAX Measures: Understanding Filter Context using SUMX Example (I.C.A.N. Rule) Part 2 of 2",
-      "excerpt": "For Power BI DAX Measures, one of the hardest concepts to grasp is the Filter Context. Or is it? I explain the “Filter Context” with the 4-easy-step approach of the I.C.A.N. Rule; using a SUMX Example. I. Incoming Filters C. CALCULATE does it’s Magic! A. Apply relationships (filters flow Across relationships)",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-sumx-example-ican-rule-part-2-of-2/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-sumx-example-ican-rule-part-2-of-2/",
-      "originalUrl": "https://youtube.com/watch?v=GZh_wAgIWI8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GZh_wAgIWI8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M24S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-07-11T20:06:01-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GZh_wAgIWI8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-the-ultimate-dax-measure-free-download-.md",
-      "title": "Power BI: The Ultimate DAX Measure (Free Download ⬇️)",
-      "excerpt": "It's a bird! It's a plane! It's the Ultimate DAX Measure! It can calculate anything and everything! Watch the video till the end! 👉 Download Power BI File in Video at https://web.learnpowerbi.com/download/  ➔ Links mentioned in the Video • Ultimate Calendar Download -https://www.youtube.com/watch?v=BtYn1hfdSAM&list=PL7GQQXV5Z8eczWqKFMDVoHMjTcpH3tgZm",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-the-ultimate-dax-measure-free-download-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-the-ultimate-dax-measure-free-download-/",
-      "originalUrl": "https://youtube.com/watch?v=WV5KxZRIzUE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WV5KxZRIzUE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M39S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-02-06T04:02:24-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WV5KxZRIzUE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-so-much-power-145.md",
-      "title": "Power BI Tutorial for Beginners: DAX. So much Power!! (1.4.5)",
-      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-so-much-power-145/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-so-much-power-145/",
-      "originalUrl": "https://youtube.com/watch?v=QiY98dG6bwQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QiY98dG6bwQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M44S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-05-07T05:43:22-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QiY98dG6bwQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-basics-of-dax-expression-in-power-bi.md",
-      "title": "Basics of DAX Expression in Power BI",
-      "excerpt": "There are a lot of resources about how to use each function. However, you always need to start with learning how the expression language works itself. You need to learn how to reference columns, and tables. what operators can be used, and what are the very simple basics of writing a DAX expression. In",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-basics-of-dax-expression-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-basics-of-dax-expression-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=GVAzp-YICnQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GVAzp-YICnQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M46S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-07-01T22:05:36-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GVAzp-YICnQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-basics-of-time-intelligence-in-dax-for-power-bi-year-to-date-quarter-to-date-month-to-date.md",
-      "title": "Basics of Time Intelligence in DAX for Power BI; Year to Date, Quarter to Date, Month to Date",
-      "excerpt": "Download the dataset from my blog article here: https://radacad.com/basics-of-time-intelligence-in-dax-for-power-bi-year-to-date-quarter-to-date-month-to-date  Learn more about Power BI default date table or custom date table here: https://radacad.com/power-bi-date-dimension-default-or-custom-is-it-confusing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-basics-of-time-intelligence-in-dax-for-power-bi-year-to-date-quarter-to-date-month-to-date/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-basics-of-time-intelligence-in-dax-for-power-bi-year-to-date-quarter-to-date-month-to-date/",
-      "originalUrl": "https://youtube.com/watch?v=x4KBv-GNohY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x4KBv-GNohY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M56S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-09-02T23:53:31-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/x4KBv-GNohY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-create-a-subset-of-the-table-in-power-bi-and-add-calculations-using-selectcolumns-dax-function.md",
-      "title": "Create a subset of the table in Power BI and add calculations using SELECTCOLUMNS DAX Function",
-      "excerpt": "Previously I explained the AddColumns function as a function that adds one or more columns to the existing table, In this article and video, I'll explain another similar and useful function with slightly different behavior: SelectColumns, and you will learn how you can use it in Power BI and DAX. Download",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-create-a-subset-of-the-table-in-power-bi-and-add-calculations-using-selectcolumns-dax-function/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-create-a-subset-of-the-table-in-power-bi-and-add-calculations-using-selectcolumns-dax-function/",
-      "originalUrl": "https://youtube.com/watch?v=AlROiaxK41c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AlROiaxK41c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M36S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-05-19T20:02:44-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AlROiaxK41c/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-creating-calendar-table-in-power-bi-using-dax-functions.md",
-      "title": "Creating Calendar Table in Power BI using DAX Functions",
-      "excerpt": "I have previously explained about using Power Query for creating calendar tables, However, some people still love to do that in DAX. There are a couple of DAX functions which makes the process of creating a calendar table very simple and easy; Calendar() and CalendarAuto(). In this short video, I'll",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-creating-calendar-table-in-power-bi-using-dax-functions/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-creating-calendar-table-in-power-bi-using-dax-functions/",
-      "originalUrl": "https://youtube.com/watch?v=_dd6kiYEm70",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_dd6kiYEm70\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M55S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-10-01T19:45:29-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_dd6kiYEm70/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-customer-retention-in-power-bi-dax-measures.md",
       "title": "Customer Retention in Power BI   DAX Measures",
       "excerpt": "Customer retention is one of the most common scenarios of data analysis, which is very useful for business. As a business, you would like to know how many new customers you have in each month, how many returning,  and how many lost customers. Knowing these, would help you to focus on the growth plan,",
@@ -711,45 +432,6 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-introducing-dax-101-videos.md",
-      "title": "Introducing DAX 101 videos",
-      "excerpt": "Introductive concepts and tasks to write DAX. Short and straight to the point!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-dax-101-videos/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-dax-101-videos/",
-      "originalUrl": "https://youtube.com/watch?v=VU4uCDQolSE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VU4uCDQolSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT35S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-30T23:16:16-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VU4uCDQolSE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-mark-as-date-table-in-power-bi.md",
       "title": "Mark as Date Table in Power BI",
       "excerpt": "Tabular models (including Power BI) require marking the Date table as a date table to get appropriate results with time intelligence calculations. This video explains why this setting is required. Article and download: https://sql.bi/670749",
@@ -1005,6 +687,405 @@
       ],
       "content": "\r\n",
       "type": "article",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-when-to-use-power-querym-vs-data-modellingdax.md",
+      "title": "When to use Power Query/M vs Data Modelling/DAX",
+      "excerpt": "Ken Puls and I decided we would do a live stream chat to talk about a topic of interest to Power BI people.  We put out a survey and 75% of the respondents wanted to hear about &#8220;when to use Power Query/M vs Data Modelling/DAX&#8221;.  It&#8217;s a really interesting topic [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-when-to-use-power-querym-vs-data-modellingdax/index.json",
+      "webUrl": "https://exceleratorbi.com.au/when-to-use-power-query-m-vs-data-modelling-dax/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2021-09-09T16:58:33-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/09/ken.png",
+          "width": 444,
+          "height": 250,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI",
+        "Power Query",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/collections/sqlbi-dax-puzzles.md",
+      "title": "DAX Puzzles",
+      "excerpt": "Short tests to challenge your DAX knowledge!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/sqlbi-dax-puzzles/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/sqlbi-dax-puzzles/",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/sqlbi-dax-puzzle-1.md",
+          "title": "DAX Puzzle #1",
+          "excerpt": "A small DAX Puzzle to test your DAX knowledge. Be careful, this is a very hard one!",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-dax-puzzle-1/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-dax-puzzle-1/",
+          "originalUrl": "https://youtube.com/watch?v=h-8IodunIkg",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h-8IodunIkg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M20S",
+          "provider": {
+            "name": "SQLBI",
+            "domain": "sqlbi.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-11-07T07:01:05-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/h-8IodunIkg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/videos/sqlbi-dax-puzzle-2.md",
+          "title": "DAX Puzzle #2",
+          "excerpt": "A small DAX Puzzle to test your DAX knowledge. Is it too easy? (sorry for the audio, backup mic was used this time)",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-dax-puzzle-2/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-dax-puzzle-2/",
+          "originalUrl": "https://youtube.com/watch?v=Nh9fzrq1Xqs",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nh9fzrq1Xqs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT4M38S",
+          "provider": {
+            "name": "SQLBI",
+            "domain": "sqlbi.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-11-07T07:01:17-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/Nh9fzrq1Xqs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/h-8IodunIkg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/absent-data-channel-create-a-dynamic-narrative-with-dax.md",
+      "title": "Create a Dynamic Narrative with DAX",
+      "excerpt": "Learn how to quickly create a dynamic narrative in minutes in Power BI. Use DAX to  add to the overall story telling of your data.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-create-a-dynamic-narrative-with-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-create-a-dynamic-narrative-with-dax/",
+      "originalUrl": "https://youtube.com/watch?v=Wl8DVfIhmcg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wl8DVfIhmcg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M17S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2020-07-25T20:26:24-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Wl8DVfIhmcg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/absent-data-channel-create-dynamic-personal-greetings-in-dax.md",
+      "title": "Create Dynamic Personal Greetings in DAX",
+      "excerpt": "Learn how to ultilze variables, the SWITCH Function, and LOOKUPVALUE to create a dynamic personal greeting on each report that could make someone's day",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-create-dynamic-personal-greetings-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-create-dynamic-personal-greetings-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=ctT0UKMeTbs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ctT0UKMeTbs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M15S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2020-08-02T20:29:49-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ctT0UKMeTbs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/absent-data-channel-dax-switch-vs-if-functions-which-is-better.md",
+      "title": "DAX: SWITCH VS IF Functions -Which is Better?",
+      "excerpt": "Learn when and why you should use the SWITCH Function in DAX. Follow this easy to follow tutorial with to see the advantages of your the SWITCH function in Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-dax-switch-vs-if-functions-which-is-better/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-dax-switch-vs-if-functions-which-is-better/",
+      "originalUrl": "https://youtube.com/watch?v=iKZEtEn-Inc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iKZEtEn-Inc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M54S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2020-07-27T20:36:12-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iKZEtEn-Inc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/absent-data-channel-dynamic-outlier-detection-and-visualization-with-dax-in-power-bi.md",
+      "title": "Dynamic Outlier Detection and Visualization with DAX in Power BI",
+      "excerpt": "Learn the theory and best methods to create a dynamic sensitive outlier detectionand customize it to your particular dataset.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-dynamic-outlier-detection-and-visualization-with-dax-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-dynamic-outlier-detection-and-visualization-with-dax-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=jkmGgYjwrNg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jkmGgYjwrNg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M12S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2020-08-20T18:46:49-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jkmGgYjwrNg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/absent-data-channel-how-to-use-calculate-in-power-bi.md",
+      "title": "How to Use CALCULATE in Power BI",
+      "excerpt": "This is one of the most import function to master in Power BI. You can filter your data and create complex measure such as year over year comparisons with ease with these easy to follow tutorial. More more help this function.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-how-to-use-calculate-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-how-to-use-calculate-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=B6w0IeLMZok",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B6w0IeLMZok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M25S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2020-07-25T19:59:10-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B6w0IeLMZok/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/absent-data-channel-multiple-scenario-analysis-in-power-bi.md",
+      "title": "Multiple Scenario Analysis in Power BI",
+      "excerpt": "Learn how to use map multiple What-If Parameters to do perform insightful scenario analysis using Power BI\r Contact me on Linkedin:\r https://www.linkedin.com/in/gaelimholland/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-multiple-scenario-analysis-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-multiple-scenario-analysis-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=dUHboiHE7JI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dUHboiHE7JI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M57S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2020-07-25T20:26:24-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dUHboiHE7JI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/absent-data-channel-sumx-simplified-finally-understand-with-excel-power-bi.md",
+      "title": "SUMX - Simplified. Finally Understand with EXCEL & POWER BI",
+      "excerpt": "WTF is SUMX!!? Stop the confusion by going back your roots in EXCEL. Follow this simple guide to get instant clarity.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-sumx-simplified-finally-understand-with-excel-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-sumx-simplified-finally-understand-with-excel-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=7JgbyhlhfyY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7JgbyhlhfyY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M45S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2020-08-10T18:11:57-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7JgbyhlhfyY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-3-dax-fridays-101-5-things-i-wish-somebody-told-me-when-i-started-learning-dax.md",
+      "title": "#3 Dax Fridays! 101:  5 things i wish somebody told me when I started learning DAX",
+      "excerpt": "3# Dax Fridays! 101:  5 things i wish somebody told me when I started learning DAX  I was completely clueless when I start learning DAX, so here are my top 5 things I wish somebody told me back then.  What are your tips?  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-3-dax-fridays-101-5-things-i-wish-somebody-told-me-when-i-started-learning-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-3-dax-fridays-101-5-things-i-wish-somebody-told-me-when-i-started-learning-dax/",
+      "originalUrl": "https://youtube.com/watch?v=tB5BDAzTHSM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tB5BDAzTHSM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M30S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-14T03:15:30-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tB5BDAzTHSM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "Power BI",
         "DAX"
