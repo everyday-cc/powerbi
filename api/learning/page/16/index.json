@@ -571,8 +571,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 3511,
-        "average": 4.726289
+        "count": 3512,
+        "average": 4.7263665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -613,8 +613,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 107,
-        "average": 4.8971963
+        "count": 108,
+        "average": 4.898148
       },
       "provider": {
         "name": "Microsoft Learn",

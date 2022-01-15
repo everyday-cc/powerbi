@@ -95,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 7300,
-        "average": 4.7428765
+        "count": 7301,
+        "average": 4.742912
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -137,8 +137,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 7801,
-        "average": 4.771568
+        "count": 7802,
+        "average": 4.771597
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1048,8 +1048,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4615,
-            "average": 4.711159
+            "count": 4616,
+            "average": 4.7112217
           },
           "provider": {
             "name": "Microsoft Learn",
