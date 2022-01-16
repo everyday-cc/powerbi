@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/the-customdata-feature-is
 webUrl: "https://powerbi.microsoft.com/en-us/blog/the-customdata-feature-is-now-generally-available-in-power-bi/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
