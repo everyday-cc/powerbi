@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M27S
 publishedDateTime: 2020-09-08T09:42:07Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IpFWnaV6hZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Efi2CrmOIfqbT1eAUhrQhQj5oT+Br8FBuFOz93b5B/Q96xbffbfEydU1KwqRbcU8sw+LgR9JK5Z0A45NtUeeg07urt6l2Cr4yp4d20qJPNEensGzL8YI8nh69v05T1RQaSI/Y5PTGYSbckivakACZrWLg5Zsv+O6p4wa2dmDEE8hcXJdW06wnVbQp55h54k4ccNGvBZ51a9GPYajeY8cYHXRPfNuBs84NG0nhMwB61J0mVOev7lvkkyA+61viR1DDZt6qQDNzSWzVPrZqICc7cv6QApXZQZ8EzkrT+8CcVSukwOzTxxy8b4aW2M3KvNzckJF7BG/P7x/EM0IzsYEuoFUdPfPP/S6UYhZgZ5HNxgOlKgcHCssp75b2XBZ+BXUoK4bEqhFUJSqRcWnNZrL4kmNYViPSC8tHVTuDJ0vaJk=;h62UD50vQR7ynjeIqfO3dQ=="
+secured: "AEU/scNba+LG6GXZ2DIO9DEArjO6ReBxFGU7bEW2N/syv4Vcmp3h5NXoIGPh/P1/D3k6UbCT8raGuiqKnxMYvbFEvdg2p3LU8i/7h/OKBiTweMLLm4ScfLiOdvN6ffo4otE8pbr6nhriACx2WPuTTi/AZJkunjZd6RaoUPjAU8zOxzncPT+BQDkPo/8qk7Se7TzSaZ7d0PsIkxpVb2yszKkC9Zr9ENm8tyBxBpDh+mEY9uEaOQNxlGUcHPAJHi1jBqRyFLWGYh1pWKnAgZSzBhLVXZRXTl8g/J5o9wJ2ejsFqy075LvX/9ZFqpYFYxys+FXsfL3ug2I0ZJwEK83n2LDz9Hr4S6F2JE85qEWLDrduYJyo+bxGZ6lv5w7mIyrQpzkdMl8SGvJHiv4ufJY5yP/Jj2IQtBJWGgQXR6cAKbw=;kK7B+oVD1iOoyYHqCjCllA=="
 ---
 
