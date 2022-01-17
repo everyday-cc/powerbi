@@ -1,28 +1,30 @@
 ---
 category: news
-title: "MedLabs & Pio-Tech sign an agreement to implement Lab Analytics (Labs Performance Analytics Dashboards) using Microsoft Power BI"
+title: "Medlabs & Pio-tech Sign an Agreement To Implement Lab Analytics (Labs Performance Analytics Dashboards) Using Microsoft Power Bi"
 excerpt: "using Microsoft Power BI system. The Lab Analytics (Labs Performance Analytics Dashboards) system aims to enhance the decision-making process and the accuracy of data provided by the client’s ..."
-publishedDateTime: 2021-12-27T03:19:00Z
-originalUrl: "https://menafn.com/1103451144/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
-webUrl: "https://menafn.com/1103451144/MedLabs-Pio-Tech-sign-an-agreement-to-implement-Lab-Analytics-Labs-Performance-Analytics-Dashboards-using-Microsoft-Power-BI"
+publishedDateTime: 2021-12-27T11:58:00Z
+originalUrl: "https://www.albawaba.com/business/pr/medlabs-pio-tech-sign-agreement-implement-lab-analytics-labs-performance-analytics"
+webUrl: "https://www.albawaba.com/business/pr/medlabs-pio-tech-sign-agreement-implement-lab-analytics-labs-performance-analytics"
+ampWebUrl: "https://www.albawaba.com/amp/business/pr/medlabs-pio-tech-sign-agreement-implement-lab-analytics-labs-performance-analytics"
+cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/medlabs-pio-tech-sign-agreement-implement-lab-analytics-labs-performance-analytics"
 type: article
-quality: 8
-heat: 8
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: Al Bawaba News
+  domain: albawaba.com
 
 topics:
   - Power BI
 
 images:
-  - url: "https://menafn.com/updates/pr/2021-12/27/pr_10679_5bab93bc_image_story.jpg"
+  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2021-12/2-2.jpg?itok=QL6kNHPo"
     width: 4442
     height: 2833
     isCached: true
 
-secured: "2f+Kj2y0xJP/xBP7Tp/TxGK/owTO7ImHo3Xh6EZu7UvmqQGufXIrB2ZOlaLyySA2xsCmA4mn4Rapg/3yMIQSOohjGYKJefD+SvXvPcpxmvI4vcyNp3A8hN1poE8nHbKz1PfL7FFlC7cPGvc4m4iJvBk6P0e7cb0JRD9uNL4unzt0PUe/VypEMju6KYT8SYQv3zggSeJb3gTFXijApQ64O13p86g61ugIH/rB3LkwtoYauZG54vbQPNKsQO+1geuAohK0lgVNEvJ49sWUMFXxETChFtTnkcffqEzUdMoy5VNq80bXth88o2FIlOn5iK9w999L+5qdVsF22FSAWYs99nMENHYWXpxpWD/wKKYZWkY=;Onf15ylNBAov1OFuj8g26A=="
+secured: "l5wdQh4ForLUBGtzYzN7swQ/gZd1yY2x6+R5jbRWetdVCINg5+xkdPEaGXOQUbwl150JoJYswJnER4VgOEzNVHtZBynwBJbccd04bmx2OP0xCgRFbzx1u1bS1OTbR8nrpFTcpRfSbzer2ibHwJEvZWiQ0jJcEHhI1j4FkMJ1h9oNqLXrLogyf51aSjJ0Y2DZt9QwN1w1vWmSRQhpWXgIvt459fZ74okukjlE9yaJMHRTC0/sJ+zIPOEoCzsM4ZSVwfj67VobVvd7Ep4rvv0KwK6UJnGVgZvrjihKrWdMf46upNCYtx5p+76SAWEb4rk6UHMaGVczag6dooa2Nc3BT2O5+ttjDw8nmHYBRni/8DE=;4qYHMQbBzjmhjkW2omW7aQ=="
 ---
 
