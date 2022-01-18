@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-to-visualise-sec
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-visualise-security-and-threat-information-in-power-bi/"
 type: article
 quality: 97
-heat: 97
+heat: 98
 published: true
 
 provider:
