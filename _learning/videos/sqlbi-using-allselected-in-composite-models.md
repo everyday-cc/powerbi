@@ -4,9 +4,9 @@ excerpt: "Using ALLSELECTED with no arguments in a remote model later used in a 
 originalUrl: https://youtube.com/watch?v=05JfQfDpWKU
 type: video
 price: Free
-length: PT28M16S
+length: PT19M32S
 publishedDateTime: 2022-01-18T11:01:19Z
-heat: 142
+heat: 204
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/05JfQfDpWKU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "xG9JnUeswn337v57hXqboQdoYKo3wu1w+p6g9aUEYvFrywcb/5SkVwpQwF3tSrlG94QQGJG1pu9GkLohd2fyaSp/mFwy01syjPRCeMLtoAIE3ksC0smSQSwZuPW0wGHw/cB2jTc/UZ2+r9SVqBA603lS4f59rlfCvshpptU9tbeQCvu2oA2qa2xK9K80fHubHAzaGWINN2Bimfphm6ta9dkC7OPpPSijUqvh0nXkWEcJ6sFLj5fGcMwwRtg8DiwYdg9j1Yn9YBiqT9Z6jk+FYFllfToycq4Fx1nIhSgNiQsqDhIH8IsHT9v0RSIGNdfQYEhSO+TMTqXAYU9baFh98qUaPfKyQ9usf3DY8xCKYIP8xSJ4FFJ37p3TnnxEJznXQvTJGvyg2dJgHTMyLRalsw==;rJ0HGSZXUwuuvAo4YC28VQ=="
+secured: "GbaYau/plnrTS8qkGMkTvVUPO4QI9XhAcVbWJyfKLlu4c8lWvmnT+z7255jtWgFC9L3O2nXMIK6slbm1OAm4CWZamnYYwUudLlQxjGEnX3fXQqQSkDF+7Rz0colPm70W3VNTybm36G4gMR55cjb9SOxJlr0FuXAWxJEIq60pPeMIwNmJLrnwsigppChoAbe59FmfQuzB55QJJXePqebPJo3YDGhMoikuKkVOWdZW718ZALM9KF6IzAnYDBBPqcLIR02jZWR1EvnKlCfzmbGHCr/fo3hn2mxSAOumv6NnkhjnWOfBJ95Z185FYe1wJwKBR0PRc2QKYeee+jXMat+XkwcHY4rFfL1YvYjkDK4udizIPbgGkwcrdSkrl/0BB65TyTl4OAd12yauTkyReaIEi/q9pcOdieVb9/y9fpn/K3g=;vWcIgXFTP3hVCMZHWAHtOw=="
 ---
 
