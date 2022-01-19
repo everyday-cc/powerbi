@@ -692,6 +692,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-use-a-kpi-in-a-table-within-power-bi.md",
+      "title": "Use a KPI in a table within Power BI",
+      "excerpt": "In this video, Adam shows you how you can import KPIs from Excel into Power BI. Once in Power BI, you can use the KPI in a table or matrix.  Import and display KPIs in Power BI https://docs.microsoft.com/power-bi/desktop-import-and-display-kpis  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-use-a-kpi-in-a-table-within-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-use-a-kpi-in-a-table-within-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=3_bLEIAhaDw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3_bLEIAhaDw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M54S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-02-05T05:31:01-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3_bLEIAhaDw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-use-other-tools-with-the-power-bi-data-model.md",
       "title": "Use other tools with the Power BI data model",
       "excerpt": "Patrick looks at other tools you can use against the Power BI Desktop diagnostic port besides DAX Studio. From clearing the model cache, to getting other information, this is a handy way to look at your Power BI Desktop file.  PowerShell - Get Diagnostic Port - https://gist.github.com/guyinacube/af42d725bc329d54f2c2480a61e8bf98",
@@ -806,44 +844,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-using-microsoft-flow-and-power-bi-to-help-teachers.md",
-      "title": "Using Microsoft Flow and Power BI to help teachers",
-      "excerpt": "In this video, Patrick shows how to use Power BI and Microsoft Flow to track attendance in the classroom. This is an idea to help spark your imagination for what is possible with Microsoft technologies.   Patrick talks about using expressions in Microsoft Flow. For more information on using expressions,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-using-microsoft-flow-and-power-bi-to-help-teachers/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-using-microsoft-flow-and-power-bi-to-help-teachers/",
-      "originalUrl": "https://youtube.com/watch?v=jRzlEiJl6Ik",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jRzlEiJl6Ik\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M6S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-10-11T07:24:16-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jRzlEiJl6Ik/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-using-onedrive-for-business-with-power-bi.md",
       "title": "Using OneDrive for Business with Power BI",
       "excerpt": "Sharon asked a question about how to get started with OneDrive for Business and then use that with Power BI. I look at how you can get up and running, and then look at how you can connect to documents within OneDrive from Power BI.  This also touches on your Organizational account and how that relates",
@@ -909,45 +909,6 @@
           "url": "https://i.ytimg.com/vi/oulR910VBrU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-using-precedence-to-force-power-bi-aggregations.md",
-      "title": "Using Precedence to force Power BI Aggregations",
-      "excerpt": "Are your Power BI Aggregations not matching? Setting Precedence can control which Power BI aggregation will be preferred. A little hint to help it on its way!  Documentation: https://docs.microsoft.com/power-bi/desktop-aggregations#aggregation-precedence  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-using-precedence-to-force-power-bi-aggregations/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-using-precedence-to-force-power-bi-aggregations/",
-      "originalUrl": "https://youtube.com/watch?v=VPTpRyzV2-A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VPTpRyzV2-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M6S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-25T08:00:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VPTpRyzV2-A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Using Precedence to force Power BI Aggregations",
           "isCached": true
         }
       ],
@@ -1062,6 +1023,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/M9Ra5hzjnPo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-what-does-power-bi-cost-including-power-bi-report-server.md",
+      "title": "What Does Power BI Cost? (Including Power BI Report Server)",
+      "excerpt": "What does Power BI cost? Adam has a lot of discussions around that. He will break down the Power BI cost and covers licenses, Power BI Premium and including Power BI Report Server and more! If you have ever asked yourself \"What does Power BI cost?\", this video is for you.  Power BI Pricing: https://powerbi.microsoft.com/pricing/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-does-power-bi-cost-including-power-bi-report-server/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-does-power-bi-cost-including-power-bi-report-server/",
+      "originalUrl": "https://youtube.com/watch?v=miGrO-Rpcms",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/miGrO-Rpcms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M8S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-07-15T04:51:35-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/miGrO-Rpcms/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
