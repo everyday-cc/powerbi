@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/crunch-data-better-t
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/crunch-data-better-than-ever-with-excel-and-power-bi/"
 type: article
 quality: 97
-heat: 97
+heat: 101
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/how-to-integrate-power-bi
 webUrl: "https://powerbi.microsoft.com/en-us/blog/how-to-integrate-power-bi-reporting-into-net-apps/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:
