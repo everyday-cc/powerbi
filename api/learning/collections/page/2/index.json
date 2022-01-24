@@ -2159,8 +2159,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 44,
-            "average": 4.6136365
+            "count": 45,
+            "average": 4.6222224
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2201,8 +2201,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-calculations/",
           "length": "PT57M",
           "ratings": {
-            "count": 38,
-            "average": 4.368421
+            "count": 39,
+            "average": 4.3846154
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3085,8 +3085,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 5726,
-            "average": 4.757073
+            "count": 5727,
+            "average": 4.7571154
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3127,8 +3127,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4686,
-            "average": 4.7108407
+            "count": 4687,
+            "average": 4.7109027
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3170,8 +3170,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6037,
-            "average": 4.767434
+            "count": 6038,
+            "average": 4.7674727
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3253,8 +3253,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3169,
-            "average": 4.721363
+            "count": 3171,
+            "average": 4.721539
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3378,8 +3378,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11417,
-            "average": 4.6792502
+            "count": 11418,
+            "average": 4.6791906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3412,8 +3412,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9163,
-            "average": 4.707192
+            "count": 9165,
+            "average": 4.707256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3537,8 +3537,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2616,
-            "average": 4.7725534
+            "count": 2618,
+            "average": 4.7727275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3579,8 +3579,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2327,
-            "average": 4.7211003
+            "count": 2328,
+            "average": 4.72122
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3621,8 +3621,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3359,
-            "average": 4.8029175
+            "count": 3361,
+            "average": 4.803035
           },
           "provider": {
             "name": "Microsoft Learn",
