@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsoft-power-bi-d
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-bi-data-analytics-goes-mainstream/"
 type: article
 quality: 97
-heat: 99
+heat: 97
 published: true
 
 provider:
