@@ -623,7 +623,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/add-measures-power-bi-desktop-social.png",
@@ -2399,8 +2399,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 178,
-            "average": 4.8370786
+            "count": 179,
+            "average": 4.837989
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2609,8 +2609,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 178,
-            "average": 4.8370786
+            "count": 179,
+            "average": 4.837989
           },
           "provider": {
             "name": "Microsoft Learn",
