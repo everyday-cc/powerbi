@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M50S
 publishedDateTime: 2020-10-27T03:53:28Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qZYyGG2L8gI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "S63mntcFi8dklWHELr6xUhhNEu2tnfnM5Ja1ia71xItk2qo70jhn7jnbL9UPpFzUtcnlm69TM4zAMCsgDCcVUAru6ABVgt5cuKOdNAwuuQvAI5ykRmXfzjQ8YcGQGCOUvPiK0J1DkjiaT2/StlgIdvq0ukDNLshvKF3tDWYFbHq/2liayzr+vf60FtYYuaxRjE/Lt/6TKmCPPNOpmy3MIZgr5VbAChNf2Hzc6JiSSXu7p1Y0Vyyfn9S12QVjzwsTUsEm6y/Gd9sqGWkmCX88bK8ynxfqhRs2ivF4t9vuntcQXz5563vMtjMxIuatBSxIWxlXwnQon7W3eUZOjRiX3mRX3NnvtLO+uMnUbhEpybbsWHfkFrkvugV0Ka+qJiem2kuQGC4za8fB6X4SJLrE6Yqckn2WsRX2a4fOFInd9Io=;+h/m3y9mnq8YsIflE0PpDQ=="
+secured: "dyPxYWDITrmCDBwPsu9/HayweierSqS+I42s1JxVdHU4fn+nbiaA5ax+zsNwnpnwE4V+XgBa0GjJ6wLY75VjmIGrH8g3WwSgAh751/eDcaEPM6qugsNlThr4el285+FQjqypV2lJd0rkWFdGz63USukspDPCx01jFAu0yoPEFF+xGonrxYPqAHZGjs29ZWjCURJFNekgOOfRnqg/lETEVTwuJwcl6DaRm9IOySGaUmdtGorhlvtEjquki6L7wNxC15dHYiZtKV/QLoGJYlo50nAQWKihkfbevQ1a/spSKovF/Wy2xS0uTwQPlaIykObqCp5XZAUmeuKJ/QGdqMvxivnCufdztRBYuPYx9GA4TWtJZ+s/AF1fKoaJp5xQELbwoA+UKJJ2xdVGJlFRCRnlu1cjzL7X4VBMAFzakFp+O8c=;FRzW/EqonBDljzeqlBvlsg=="
 ---
 
