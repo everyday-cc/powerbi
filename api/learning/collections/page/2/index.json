@@ -3412,8 +3412,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9165,
-            "average": 4.707256
+            "count": 9166,
+            "average": 4.707288
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3555,7 +3555,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 134,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-manage-workspaces-power-bi-social.png",
@@ -3579,8 +3579,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2329,
-            "average": 4.7213397
+            "count": 2330,
+            "average": 4.720601
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3657,7 +3657,7 @@
         }
       ],
       "size": 3,
-      "heat": 54,
+      "heat": 55,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-manage-workspaces-power-bi-social.png",
