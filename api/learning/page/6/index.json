@@ -623,7 +623,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/add-measures-power-bi-desktop-social.png",
@@ -2441,8 +2441,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 122,
-            "average": 4.9098363
+            "count": 123,
+            "average": 4.910569
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2651,8 +2651,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 122,
-            "average": 4.9098363
+            "count": 123,
+            "average": 4.910569
           },
           "provider": {
             "name": "Microsoft Learn",
