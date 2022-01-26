@@ -2246,8 +2246,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3572,
-            "average": 4.725924
+            "count": 3573,
+            "average": 4.726001
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3165,8 +3165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11435,
-            "average": 4.6790557
+            "count": 11436,
+            "average": 4.678909
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3241,8 +3241,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 165,
-            "average": 4.806061
+            "count": 166,
+            "average": 4.8012047
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3534,8 +3534,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2337,
-            "average": 4.720582
+            "count": 2338,
+            "average": 4.720701
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3576,8 +3576,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3366,
-            "average": 4.8030305
+            "count": 3367,
+            "average": 4.8030887
           },
           "provider": {
             "name": "Microsoft Learn",
