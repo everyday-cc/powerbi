@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M59S
 publishedDateTime: 2021-12-30T16:00:10Z
-heat: 60
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MttvudnaBD0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "gCfxJlLpOEgbPLG4a7LLqURZZbHyazqrVJWZLEDoEtYcKztZknr8J4f5UWjks7KUFw7kff9WkNBEReiXQAeGRCCG4qOq2SpDUTOHF/ZYShBfuEIMR9x7l2PIIxlLroOJDAtQDnrkuY74ir6OwJ4M1Jiq5F4kSbHRy4Jrm3HMgvNsD+MtgY7wCnVkVLeOsnntjmW7RlpIiPc1RqGeZO9YnxcC+KY1yY7BNHr5qkL8omzR+82HRYa91ZmBkZU5wmyzhgSGK5ILURVDn5NK7DJnc3Dw0Z5WlujTgifqylUvokFuY6wuIhQffvcu7wvitx7pWSHgfBN0Y9nwqzHezXMKRTQfnC7v+2nMyu0xtAFrCxzA7hNs6ueBJowprBI+/2eem8SAhgC9osX5zk16DN8Ng8Xb+hESs8DP4ijN4ylzsCs=;tyuM0g6hUcFTq0XnJPId8Q=="
+secured: "P7AFHK/nsgh8iC9UaYRnwlXEV1rAL/LCXsBW80w9F+jyuyyAUwsAR3OatlAoAjFk4WPa//NASao/SUdWFAtMHY9jnzN8wMoBACXvHslFjup71O88k8PcP9W5WalYCWEokvy6biMIHFYegoL5KaIxAo4vnQq2HQsGsH1NcM3rQL5PlUBr+gqzkNMh9aWa6vdkfF7hEItQ0+/6ckL1/6WOHskoFcm51ZrxjVi8jWF7RKjfCddHGJLQxWboUAHioSRXPAK1Cw0izEy1mZwg+hp9MKrRyQHxOYnL+rsLXpwCZndJDOyh4n4d0zWt9dSVP3NjHiRuueV0M7svmaar0gwB6Mmlr8LgkV+PKa3uc/lSvds3s2+BvyZ/y396V2FxrndhYLGnaeYi2tn81LMQqd2V039eZvMVTOGztpVdfNm4YwE=;OL564avAVcieEtN6N3LlDw=="
 ---
 

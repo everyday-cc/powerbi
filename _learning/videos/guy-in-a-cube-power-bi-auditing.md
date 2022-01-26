@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M13S
 publishedDateTime: 2016-08-23T16:05:29Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zj4kA39jV_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "eBGiqTpJ3BHjYAQd1Zk1OrQCUFqj++ozvC5JzASuVDrJdsmeEkQWKz1E9NGi7z7EPapFklto3tYotBmgQCPrNqLzyocZ8vvys0YpFYDVB0pjU2NTTS0yUg7F2waiB4atcWBK/Fn3xROQhPGz7sFKRaT/DcxfnKLG48rbWnjafiAb67quwiMFiwsmVbDxoaJ2lJP99tVtfqxxEKQTUB1ssRMdHsCklmmzFwMKxoLDDK1Qof1H8KPykDN3/SbEt4moSjz3sUHFlxzTIwsSHBN6CUZdx1Iq5CMC8Ipd3+EVpWeg9Uzpw0MTHYKZHn/hDmxRdC887LfrnNlgFEucD6j4JJEgkH7z4C6Pobe5icFMdjCT1o1A6VGkT1I0k6lZW/cj1sNlbvlyqesFNKje5eL2Bg7VWx5ABqMfE9kHOk4x+jY=;WAfvaZjX5yARPEzxKuPM4A=="
+secured: "pi17JUtpQj9LhBUSu8n6MhTXMytdf/qGIS/EE9iXvhRDhVdloy6hA6XZA5uTSOWa80kR63OpL3Ch3mcKNot+A8bHwzruMNb4pArdfZH3Lii4FMRyrflyUZmuJp1AT1IT+azP4Zqhi9nfEdKU4+HG56UISL7BePwoZX5kbacSXJs9N3e1K/+OyUU6qOLLIbnLYt//4SkZT6npYIbxhGVuoFc3UX4ZMrp0QwPWZMSYnP7ZL3XhlWzjr1oXBmFlVDb3b5153kr6T74MBLUPJwtjixL/wCdBO9J7pHI6SyAWTEt2Qb09EK+72PU+S2oaHVSsrNdVqym7e9Q6KZfNy+g5o7EKIHCx7SkAS+LSAuXt0ub42tQRrGPNyyGCyV8rYoj86KrLnSf9syYVJfQBngXVmmXEgb/zkEGqaz00TpBJ+Bg=;ZzgL41zCdrtrhiitAG1DQw=="
 ---
 
