@@ -4,6 +4,37 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/videos/radacad-conditional-column-in-power-bi-using-power-query-you-can-do-anything.md",
+      "title": "Conditional Column in Power BI using Power Query   You can do anything",
+      "excerpt": "There are many scenarios that you might want to implement a conditional expression. When the conditional expression's logic is on a row-by-row basis, the best is doing it in Power Query rather than DAX (there are exceptions always), The Add Conditional Column in Power Query is a very helpful option,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-conditional-column-in-power-bi-using-power-query-you-can-do-anything/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-conditional-column-in-power-bi-using-power-query-you-can-do-anything/",
+      "originalUrl": "https://youtube.com/watch?v=xNRtOZae71Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xNRtOZae71Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M4S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-10-27T20:41:38-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xNRtOZae71Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-generate-year-month-day-combinations-in-power-bi-report-using-power-query-date-totext-function.md",
       "title": "Generate Year Month Day Combinations in Power BI Report using Power Query Date ToText Function",
       "excerpt": "A common requirement when reporting data with a Date axis is to be able to see the year and the month in a short form beside each other. Formats such as 2021 Jan, or Jan 2021, or even Jan 21, or 2021-01 are very popular. In Power BI, ideally, you should have a Date dimension with columns for this. However,",
@@ -637,8 +668,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 170,
-        "average": 4.8058825
+        "count": 171,
+        "average": 4.8011694
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -721,8 +752,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 3999,
-        "average": 4.671668
+        "count": 4000,
+        "average": 4.67125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1189,45 +1220,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-bananas-power-bi-dataflows-has-come-a-long-way.md",
-      "title": "BANANAS! Power BI dataflows has come a long way...",
-      "excerpt": "Showing some #InsaneAmazing things you can do in Power BI dataflows. This is really bananas!  Power BI dataflows data source doc: https://docs.microsoft.com/power-bi/transform-model/service-dataflows-data-sources  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-bananas-power-bi-dataflows-has-come-a-long-way/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-bananas-power-bi-dataflows-has-come-a-long-way/",
-      "originalUrl": "https://youtube.com/watch?v=YWp4FKzIBxM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YWp4FKzIBxM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M9S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-02T08:00:14-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YWp4FKzIBxM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Dataflows"
       ]
     }
   ],
