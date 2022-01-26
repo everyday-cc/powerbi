@@ -1240,8 +1240,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 118,
-            "average": 4.601695
+            "count": 119,
+            "average": 4.605042
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1867,8 +1867,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3185,
-            "average": 4.722135
+            "count": 3186,
+            "average": 4.7222223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3129,8 +3129,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11439,
-            "average": 4.6789055
+            "count": 11440,
+            "average": 4.6788464
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3163,8 +3163,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9178,
-            "average": 4.707235
+            "count": 9179,
+            "average": 4.7071576
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3205,8 +3205,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 171,
-            "average": 4.8011694
+            "count": 172,
+            "average": 4.7965117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3288,8 +3288,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 5740,
-            "average": 4.757491
+            "count": 5742,
+            "average": 4.757576
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3456,8 +3456,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2628,
-            "average": 4.7732115
+            "count": 2629,
+            "average": 4.773298
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3540,8 +3540,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3370,
-            "average": 4.803264
+            "count": 3371,
+            "average": 4.8033223
           },
           "provider": {
             "name": "Microsoft Learn",
