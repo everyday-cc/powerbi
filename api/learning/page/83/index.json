@@ -4,6 +4,37 @@
   "page": 83,
   "value": [
     {
+      "path": "_learning/videos/radacad-dataflows-the-integration-solution-for-power-bi.md",
+      "title": "Dataflows The Integration Solution for Power BI",
+      "excerpt": "The webinar delivered to Bulgaria User Group",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dataflows-the-integration-solution-for-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dataflows-the-integration-solution-for-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=1TqfmfSnAqs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1TqfmfSnAqs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT49M52S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-05-16T14:17:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1TqfmfSnAqs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-day-of-year-and-day-of-quarter-dax-calculations-for-power-bi.md",
       "title": "Day of Year and Day of Quarter   DAX calculations for Power BI",
       "excerpt": "Power BI has some built-in, easy-to-use DAX functions to get the Day of Month and Day of the week, but nothing for Day of Year and Day of the quarter. These calculations, however, are very simple and easy to implement using other functions. This short blog and video explain a method to calculate those",
@@ -127,6 +158,37 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-explicit-vs-implicit-dax-measures-in-power-bi.md",
+      "title": "Explicit Vs Implicit DAX Measures in Power BI",
+      "excerpt": "Have you ever tried to connect to a Power BI dataset from Excel using Analyze in Excel? if yes, you might have had this experience that your values don’t show in Excel’s Pivot table as values. This is because those values are not explicit measures, they are implicit measures in Power BI. In this article",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-explicit-vs-implicit-dax-measures-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-explicit-vs-implicit-dax-measures-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=f7g6EvNGClQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f7g6EvNGClQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M57S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-08-10T15:30:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/f7g6EvNGClQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-fibonacci-sequence-understanding-the-power-query-recursive-function-for-power-bi.md",
       "title": "Fibonacci Sequence   Understanding the Power Query Recursive Function for Power BI",
       "excerpt": "Recursive functions in Power Query are not very popular, but sometimes very helpful when in need. In this post, I'll explain what a recursive function is, how it works, and explain it through a famous recursive example of Fibonacci Sequence. Download the code, and Power BI file from my blog article here:",
@@ -177,37 +239,6 @@
           "url": "https://i.ytimg.com/vi/0I5XnKsIT2o/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-fuzzy-grouping-in-power-bi-using-power-query.md",
-      "title": "Fuzzy Grouping in Power BI using Power Query",
-      "excerpt": "I have explained previously what fuzzy matching in Power BI is and how to use it. In this article and video, I’ll explain Fuzzy grouping. Fuzzy grouping in short means grouping text values by their similarity based on a threshold, rather than exact equal values. This option at the moment is available",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-fuzzy-grouping-in-power-bi-using-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-fuzzy-grouping-in-power-bi-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=17tTYWdhhEs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/17tTYWdhhEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M46S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-07-21T19:42:43-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/17tTYWdhhEs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],
@@ -734,37 +765,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-know-your-data-better-by-column-profiling-in-power-bi-using-power-query.md",
-      "title": "Know Your Data Better by Column Profiling In Power BI using Power Query",
-      "excerpt": "An essential step towards a better analytics solution is to know your data. You have to know your data to be able to determine key columns, to learn what transformations need to be done, and etc. Power Query provides a very useful way of knowing your data in Power BI. Power BI has features for column",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-know-your-data-better-by-column-profiling-in-power-bi-using-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-know-your-data-better-by-column-profiling-in-power-bi-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=r3B2mcewXSE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r3B2mcewXSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M44S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-07-26T20:29:10-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r3B2mcewXSE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     },
     {
