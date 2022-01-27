@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M24S
 publishedDateTime: 2020-01-20T07:33:10Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/as3UN_q9vcI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9bUdQOLAVgCxrfhG9y0YdKYPBTpvYkhEBJSZi4OT+Bon+LuO/F+qZsE/g1z7iuH4UTLilhxesVf5WGYBoTocLV3M9lzHQL8ew9bk+oM+EMN+kMref5DFUd/9l8ioGWAbXM30mwDw/YwNPiX5QPWYsP89cOY/4UkInlDG5M34pRiDoi22wz7OZoQ3i26zJxqQZw3McOSrxGknMwISd82dPEcB6wWP5BwpptZLsPSYgFY3pInAo9ciGOWijvf2+zJbFeBR6kXULbceSLdxNFtlq+wTVAuvY7OsEelUSz++VXj818UuLU0A0Ns0untMmJKAutnjz0zXWgV3pavS1c8Gu0ogOwsMqfrpfrOSt4bT5elzFAA7ujOZTIQ5uVDEz04wf6vjY5lD4Y0SKOXyt4NUyM1U7TRf3d+zd01aH2Kl7bQ=;UXP2NXBQcCrt2DnwJtTY8g=="
+secured: "qcv8yyFVAJ6wPeKvp84HHcrUhPLK/PoAEjXZEvxL5H7m4UR8/evBq/LOMHau+n8E8lM+OPMih+N0nwT9m4eb2ez5CrbmNyqYTov34R5D0LX5CovDfS/1/Nw6ZrBzf4Il59ETMWYz/ELfo0gdfP7JwFGBaTYtX/V4s6+h3dkp3raPA6Z1HF70+zb2YmsTLLaX2Rp/dak/Aw8XPJzquNWQ7cKEJoY/ZUZz0Vu5ElB1oF0VjoTjINlG1jcACIzURpKkeWc07KkbCkaTReC7ntNTjIUAptziews63yihH6+QhCDEIGvwJHZ1KnA0GVkRNHr+Y1IW4cs3LKPgAQaHHcwfbcb8hGINYtf05HuYvg43NOPSLr7OvYv36jolYE6TaftseOzzmH7nctHW8ZPVrCC1cdkEUIAuAGS5tGLVkVkIwh8=;zsWFE6J85zRpKdX0NKm6PA=="
 ---
 

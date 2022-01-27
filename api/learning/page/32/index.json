@@ -4,6 +4,83 @@
   "page": 32,
   "value": [
     {
+      "path": "_learning/videos/sqlbi-optimizing-duplicated-dax-expressions-using-variables.md",
+      "title": "Optimizing duplicated DAX expressions using variables",
+      "excerpt": "This video describes how to use variables to optimize the performance of DAX expressions containing multiple instances of the same measure or the same sub-expression. There are two related articles and downloads: https://sql.bi/62887/?aff=yt (Optimizing duplicated DAX expressions using variables) https://sql.bi/67786/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-duplicated-dax-expressions-using-variables/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-duplicated-dax-expressions-using-variables/",
+      "originalUrl": "https://youtube.com/watch?v=dtFq-TvGL1M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dtFq-TvGL1M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M48S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-07T03:00:13-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dtFq-TvGL1M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-power-bi-api-service-principal-account.md",
+      "title": "Power BI API Service Principal Account",
+      "excerpt": "Only for developers: how to create a service principal account to be used with the Power BI API. Special guest: Paolo Pialorsi https://piasys.com/techbites Article and download: https://sql.bi/679872?aff=yt  00:00 Presentation 01:00 Description of the demo: an application pushes data in real-time onto",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-power-bi-api-service-principal-account/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-power-bi-api-service-principal-account/",
+      "originalUrl": "https://youtube.com/watch?v=wMdpLApYnCU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wMdpLApYnCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT29M54S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-04T22:00:17-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wMdpLApYnCU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-show-last-13-months-based-on-user-single-slicer-selection.md",
       "title": "Show last 13 months based on user single slicer selection",
       "excerpt": "Article and download: {short_related_link}?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
@@ -537,8 +614,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
       "length": "PT20M",
       "ratings": {
-        "count": 2046,
-        "average": 4.7492666
+        "count": 2047,
+        "average": 4.749389
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -740,8 +817,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 109,
-        "average": 4.7798166
+        "count": 110,
+        "average": 4.7636366
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1087,14 +1164,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-2-ways-to-rotate-power-bi-tabs.md",
-      "title": "2 ways to rotate Power BI tabs",
-      "excerpt": "If you want to show your power bi report on a TV or web browser and have the tabs rotate at a interval you specify, this video is for you. I will show you two ways to do that.  Link to Google analytics template app: https://appsource.microsoft.com/en-us/product/power-bi/curbal.google-analytics-template-by-curbal?tab=Overview",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-2-ways-to-rotate-power-bi-tabs/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-2-ways-to-rotate-power-bi-tabs/",
-      "originalUrl": "https://youtube.com/watch?v=Jz6i1X5JOco",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jz6i1X5JOco\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M25S",
+      "path": "_learning/videos/curbal-2-ways-to-create-a-radial-bar-chart-in-power-bi.md",
+      "title": "2 ways to create a radial bar chart in  Power BI",
+      "excerpt": "In this video I am going to show you 2 ways to create a radial bar chart in Power BI. One, we will use the visuals available in Power BI to fake one and the second method we will use charticulator to create our own and make it easier.  Here is the link to the charticulator playlist: https://www.youtube.com/playlist?list=PLjS3oGhMuQ1S7Qf7-mBo_SFQyh6qHou4V",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-2-ways-to-create-a-radial-bar-chart-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-2-ways-to-create-a-radial-bar-chart-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=IpFWnaV6hZI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IpFWnaV6hZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M27S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -1107,11 +1184,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-10-28T05:41:55-07:00",
+      "publishedDateTime": "2020-09-08T02:42:07-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Jz6i1X5JOco/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/IpFWnaV6hZI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1121,8 +1198,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power Query"
+        "Power BI"
       ]
     },
     {
@@ -1165,14 +1241,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-3-ways-to-align-your-visuals-in-power-bi.md",
-      "title": "3 ways to align your visuals in Power BI",
-      "excerpt": "Did you know that nowadays you have 3 ways to align your visuals with Power BI?  Which way to use, depends on what you are trying to do and which elements you have available in your report.  Let me show you!  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-3-ways-to-align-your-visuals-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-3-ways-to-align-your-visuals-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=mjswinZeA0U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mjswinZeA0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M31S",
+      "path": "_learning/videos/curbal-39-4-cool-power-bi-desktop-bookmark-tips-you-need-to-know.md",
+      "title": "#39 4 cool Power BI Desktop bookmark tips you need to know",
+      "excerpt": "In today's video I will show you how to create 4 cool tricks with Power BI.   To download the sample file, go to our download center, community downloads and get file #39: https://curbal.com/donwload-center   I learned about this tricks from others so here is a link to the original content:  Hyperlinks:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-39-4-cool-power-bi-desktop-bookmark-tips-you-need-to-know/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-39-4-cool-power-bi-desktop-bookmark-tips-you-need-to-know/",
+      "originalUrl": "https://youtube.com/watch?v=OcxTUNlyIVw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OcxTUNlyIVw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M22S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -1185,49 +1261,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-01-16T04:41:12-08:00",
+      "publishedDateTime": "2017-11-21T11:04:59-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mjswinZeA0U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-33-import-from-pdf-into-power-bi-desktop.md",
-      "title": "#33 Import from PDF into Power BI Desktop",
-      "excerpt": "In today's video I will show you how to import data from a pdf file into Power BI using Imke Feldmann's R-script.  To download the file, go to Curbal's download center and the communty downloads and get gile #33: https://curbal.com/donwload-center  Install R in Power BI: https://www.youtube.com/watch?v=HcTdXgWGdS8",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-33-import-from-pdf-into-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-33-import-from-pdf-into-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=z15dF-jDXIo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z15dF-jDXIo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M49S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-22T01:12:27-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/z15dF-jDXIo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OcxTUNlyIVw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1238,19 +1276,18 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power Query",
         "Power BI Desktop"
       ]
     },
     {
-      "path": "_learning/videos/curbal-5-dax-fridays-101-order-of-evaluation-for-dax-formulas.md",
-      "title": "#5 DAX Fridays! 101: Order of evaluation for DAX formulas",
-      "excerpt": "It is time to get cracking again with some DAX 101, this time we will talk about in what order DAX executes its functions. Happy Friday!  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK   Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-dax-fridays-101-order-of-evaluation-for-dax-formulas/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-dax-fridays-101-order-of-evaluation-for-dax-formulas/",
-      "originalUrl": "https://youtube.com/watch?v=4ynvzlDnQkE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4ynvzlDnQkE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M15S",
+      "path": "_learning/videos/curbal-4-dax-fridays-101-what-is-context-transition-in-dax.md",
+      "title": "#4 DAX Fridays! 101: What is Context transition in DAX?",
+      "excerpt": "You  heard it before right? Context transition, but what is it? In this video I explains the basics, and .... it is easier that what you think!! Yey!!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-4-dax-fridays-101-what-is-context-transition-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-4-dax-fridays-101-what-is-context-transition-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=03E0f-RyRn4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/03E0f-RyRn4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M19S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -1263,11 +1300,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-07T04:56:19-08:00",
+      "publishedDateTime": "2020-06-03T01:54:55-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/4ynvzlDnQkE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/03E0f-RyRn4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1279,44 +1316,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-5-power-bi-tips-you-should-know.md",
-      "title": "5 Power BI tips you should know!!",
-      "excerpt": "In todays video, I am going to show you 5 tricks that you should know when working in Power BI, will make this easier...  BI elite course: https://training.bielite.com/courses/da-100-exam-prep-power-bi-certification/  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-power-bi-tips-you-should-know/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-power-bi-tips-you-should-know/",
-      "originalUrl": "https://youtube.com/watch?v=Cmcer6gJgJY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Cmcer6gJgJY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M20S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-03T01:28:26-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Cmcer6gJgJY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],
