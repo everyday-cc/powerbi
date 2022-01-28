@@ -18,6 +18,8 @@ items:
   - videos/guy-in-a-cube-power-bi-paginated-reports-visualizing-data
   - videos/guy-in-a-cube-how-to-create-sparklines-indicators-and-conditional-formatting-in-power-bi-paginated-reports
   - videos/guy-in-a-cube-link-from-a-power-bi-paginated-report-to-a-power-bi-report
+  - videos/guy-in-a-cube-bringing-paginated-into-power-bi-reports-insane-amazing
+  - videos/guy-in-a-cube-how-parameters-work-with-the-power-bi-paginated-visual
 
 topics:
   - Power BI

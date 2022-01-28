@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT12M49S
 publishedDateTime: 2020-12-16T16:00:08Z
-heat: 59
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZSyYegfA6PQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 360
     isCached: true
 
-secured: "hhsTAyAsVDo/lm85Pmd3SIv0A0HfklZ5fbjzLu7TbzLLPLjjE0t/7PZfdfGYRHCSXMPsBhHZ2LlJYIAxritQs3b4D22K+rS9lt+IMW+SQGIjDDjShBeWvXMCvKdOw0Ouqj81Ta81NszryH0b+mqnL2VsZqC/+hYnZYfasdKglgCQQ2Y89m4lYLMPdtPIZqubJGVKCIyE2gmtKdFwnw0gCEdn42GW0GTdop1yxNIco+jUOz3CP+5bS3TjF15pMRpL0UoBgnBqiSh+KNTLmOA1ak2quKYfl7VopCt+ZerLhk5WhGirGXkVb9uu5WK/cXKObdCvowACznXUF1o93oKd/v3DMXTQYqjDWA1PYPvdlWTaV24TnYj2H+sUOvEg0pocCHa+8zsbLY99RkBLtFpwLp9ppRbaFTIBzqgJaCV/csU=;OPCsC4yavcQa/yJ8ujU5+w=="
+secured: "TipSrioVet7PaiFIpboqvQWmULMmwR0kNTmNIFf/4MVvGWCx8QRF1XWYvThvns8D47k7t8g2YHiNsDCMGqb7Cexgv4jK27ZI4QpTzz6iCeREDyjBJ+3pHaa6q+V6SIjJgEveOO8c3JwLULnhPN1eb7Ive1Sq1JuJd/1IluRDLmIxmTI8RyKhnednNmcoVYc2KyjLiwyQWuiMMiMKuz1m98RoEpU+SBozKqmsZwo5bZIm8JjMdoFeIDSy9GiDrez6EU8UxPw1gT3vtJRQk3liGl7hOEHY9c5BBDZ/31vWqrTEz+cUUXaKMJ5rvnDqlq10AU/51IOaZ3dzSu2bHOaTjUmhtuEUPQLqu3kyW/Bw+spgPP5r+1MQnuGflgZQP3y1P+yqdQO/tTdEF35m0ulqPMLr9r9YvdRjZJo8KCr2CSY=;uxUfjKwZ6kGXTOe8/xZvxQ=="
 ---
 
