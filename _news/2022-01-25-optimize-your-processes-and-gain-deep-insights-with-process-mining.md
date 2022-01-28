@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/optimize-your-processes-a
 webUrl: "https://powerbi.microsoft.com/en-us/blog/optimize-your-processes-and-gain-deep-insights-with-process-mining/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
