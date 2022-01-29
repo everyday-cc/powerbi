@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M19S
 publishedDateTime: 2017-07-11T19:17:23Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5cz2NhYlIuo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "tX5UTuLYzav+OWlWV/NTDdCnq+7lSdS4OCkzNsM2X+Mck6UlkY2Df5fKQCj/8IUrUQKOsOmi/OC02On1gZlRulFMUqLijiBJwmhI/UpWTCoZbbHVyKvJodhdY0fsAEztzQfiUByDCrZt2W7MN+YZZzHY1oSrqd47O+PGTrcOHlnPcvdp3fIzRP47HlhkMCkqXLwMyW/uEc2Q3Q7/oTMBbwu8yNRfBrtwq2yHZvqrwLGfBUA0etQ1mE2yADL49bF4aKkWT8MaRijR+UbKtwGwmuUPC4UJozayyhc4RebKiAVsa61ZHd2CPben0dzv19NYGa8FKnHQDnTpFCEL6DfgVs+3La/sN2nq4DbagUuGmXbDQXwWVNxUGpuf4skHg25LImZu/OMtj5hVnvuZtfQgnoVNUjaZ2c4Vr9Xfn87X5n0=;M8Ht7Y4iJSQigKUpJuDGJA=="
+secured: "0lRPs3iml+cystsykgnGfzocsf0iPfk3z5XCXCuc0jn7AbituqjOXl9srnfwbxWgwCROCL0NdkZCNjBrURXoKas30WY/z/Pc70lRl70gs9V7uJ5x8rHLJokdaQjoX8LXvgIvV9K6W7NeWL7Chp8+nkHFws4vF6EAisRxKTvapvMz+6MFrIDUjvK99mNiAhCgh8xiIGNUP2agmLwm8m3kOYjjNDAFEkPiLKU3h40A57oIc5mxQbeNZ8QW3JwoJ20OWHNhy5RVj9BCeqONV/z1jKmhPt79faA3e3dx9QXGsgpJmXmrMqu0fC+LZR1f4a7gvbQwpeyRqiNahdouTXgdrr+hkad4KclgVhpCwVK3fAaC4GKqYgNHgwyp57UETnygNCnvVctzQ7Sv8SfT0Q7EVx/lK2AmeqmSTBA4dZNHo5k=;8hP6JOTEDxTuDxOfjXxqnQ=="
 ---
 

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT20M4S
 publishedDateTime: 2021-05-11T09:00:34Z
-heat: 73
+heat: 60
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d8Rm7dwM6gc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "PW+9JtuOo40oVIPqEX7Br3WtwN5+42WjEqYlJhRkEaJXdQTcjtjs/uEm2RTsUPHcB2iL+/A92Gs1eSbN6z99KXWHk5Ox5r07nOg1KjQyKMaU4xboA8tZMKZ//WIDjAyPBPV2Q9pAs0hU2CafLm2fN/rFWNpEoaB4UHqhZVpLm5bPCuyndKcVmogpSKST9yNVKCJGWaQMOasK0V0lbN2LfLqLuZV4Z6GmfVbV9nYFhExZI8gqNupr4IPQxXSBZDmBDvQg4rkQhU2+LOaVbLDaHjU2DkQpPKkZBItD3Ms7M1f5Tzo9Q4c+s4KbdLV5iQBdjRyzV3vTtuGeHigLKnFXzbWz711rqNvZOCrj259jP4q/AcoXtuXnxChBlNg1ukeUa9/RsrPJeFdTfvprcHGs3xVvEDlEYU7orK64XB+vHgE=;Seljikyno23uFJTS3oOcSw=="
+secured: "cW2Cp+m2oRJ3G8XOHSA0bHqyv8tzbxMGYu9V6XKi7kEn0pXEOOp5Py+X9yq9y5z1Op2whRqQvd4YITQnENm5/Q16OCq0HE/QaYRQoDuS6FH0s1B8BhtO6MC4DrKdS2OrutniX4QgfULcD+FNkL5eNkv/Thh/MOB+JIHrCJX9NePxHCS6M9cR8QliBQOHQihxvGLzXT9VaBLD6q9ZM/uUW+uaBsgxx7N3DO0nILY0BjunSeWEgY93SRmfzBlX2WCjzP+X+mRkYHoSlW+Ttbmv+5Mx80uVkuuiBoSSKkDP2sgByoYk3Gl73tkrmDt56rqjCR7vcY+Z5rd2+mjm+BKdigXoXR9u4H9bprECipIi1MWZic2QamMAuhXvpCxFNYCNkztXhYnew9OYTwzNLWWqPTbEmpwGSRWj9LSmfPpQjEw=;UCGRQJqC/Qjzb/HA+4SeDA=="
 ---
 
