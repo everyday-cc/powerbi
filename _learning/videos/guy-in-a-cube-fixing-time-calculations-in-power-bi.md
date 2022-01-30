@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M26S
 publishedDateTime: 2017-07-05T15:24:12Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e8SXO4SaszY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Fixing Time Calculations in Power BI"
 
-secured: "eVArhi5Nn1WTYZqePIcrFnOxDESyKCFGa4iaYJzmbpgIk97qjABmNY+XJdbRsiWfK87TbvtOcl83k0nqSITqUBGPmJlqmoDflg2haFCnY+UwsEk9focVOwRO/seKVSIGcBZzEWesnJBvEcdu7K+gm3lVScDLYeB3arVeTwym8vbJ6p7iobNDkJlylvsT+yuVJBZ8vmBKJkymkVlESImtJL4mrObtlzVCMidRMoiy5SBfm0rfhqD5thgqirlCKtuQzdlrKyVs+7L6gNm7fjc0oZw0AYAQ8s/SMyY38knvN58MKqvaAqOIaNfT/9mTBVvg/AYDWlONvKPyhWVh3UlRKFRINAS5pvNs0q5buDoot6Fw5RQWgmXyxPZEN3aJtp2nZ1R9vyQz1ntWf09AEGnrlijZRks91TqfEMRqIO4RX0M=;alcaOXPUkWz4fS81Jp+SXA=="
+secured: "1z/idBDNGNx563R+wQ//i6kFUnygrBV/0yAdP47NqKd2CXt3hhHI62BTw9RsnEVeSZqWt9fOOvHNfandt9i/3xb2y6V4w/n9SE+UBODfhcYEzECDYmQ7MwQLePc228xDW7b2eA7geDH43yZPHe9FKOf7wZxHfkLm0xI4nvwgoorjnAd22tlF8bkXTpAlF+r0J6fye+TggE9eR1GoPFe/jHAJZWjK1pSbhvV7RGNEV4lHtiVZn2/DBKSgVCbuSMndDqGHEez9AyuAt3zu6sjC7OAr8oqcQsmz48yIMNCOJT0OEvmJBAu+4D4U31OYn9yEw6YXWKpQaROuEaaAXtC6kP0qQOr+0T7p2aE9JtJstZtmkNSwcHlRl23chKHOklZG4QhxLTdRxoaIWDdcagYV4TNoJ8ThfSDnJxtGF7W7gGM=;Fomql2nr9ZB0sDHyIHEaVA=="
 ---
 
