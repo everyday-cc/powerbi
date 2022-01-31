@@ -2015,7 +2015,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3363,7 +3363,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 132,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
@@ -3387,8 +3387,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 193,
-            "average": 4.7979274
+            "count": 194,
+            "average": 4.7989693
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3423,7 +3423,7 @@
         }
       ],
       "size": 3,
-      "heat": 56,
+      "heat": 53,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
@@ -3554,8 +3554,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3399,
-            "average": 4.8022947
+            "count": 3401,
+            "average": 4.802411
           },
           "provider": {
             "name": "Microsoft Learn",
