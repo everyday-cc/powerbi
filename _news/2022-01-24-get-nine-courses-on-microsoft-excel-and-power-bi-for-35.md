@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/2022-ultimate-microsoft-excel-power-bi-ce
 webUrl: "https://www.engadget.com/2022-ultimate-microsoft-excel-power-bi-certification-bundle-deal-sale-155551561.html"
 type: article
 quality: 77
-heat: 78
+heat: 79
 published: true
 
 provider:
