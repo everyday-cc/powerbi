@@ -2,7 +2,7 @@
 title: "CALCULATE in DAX"
 excerpt: "Learn many details about the most important DAX function: CALCULATE!"
 type: collection
-heat: 66
+heat: 67
 
 provider:
   name: SQLBI
