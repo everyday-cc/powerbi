@@ -178,8 +178,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 6104,
-        "average": 4.7667103
+        "count": 6105,
+        "average": 4.7667484
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -220,8 +220,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 7430,
-        "average": 4.743203
+        "count": 7431,
+        "average": 4.743238
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1118,8 +1118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6104,
-            "average": 4.7667103
+            "count": 6105,
+            "average": 4.7667484
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1178,8 +1178,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 3643,
-        "average": 4.6758165
+        "count": 3644,
+        "average": 4.6759057
       },
       "provider": {
         "name": "Microsoft Learn",
