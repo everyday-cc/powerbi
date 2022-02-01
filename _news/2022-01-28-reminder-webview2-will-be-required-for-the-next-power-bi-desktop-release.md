@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/reminder-webview2-will-be
 webUrl: "https://powerbi.microsoft.com/en-us/blog/reminder-webview2-will-be-required-for-the-next-power-bi-desktop-release/"
 type: article
 quality: 103
-heat: 106
+heat: 107
 published: true
 
 provider:
