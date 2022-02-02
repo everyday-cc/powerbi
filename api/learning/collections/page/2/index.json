@@ -2284,7 +2284,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3429,8 +3429,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2368,
-            "average": 4.720439
+            "count": 2369,
+            "average": 4.720557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3707,8 +3707,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3222,
-            "average": 4.7222223
+            "count": 3223,
+            "average": 4.721998
           },
           "provider": {
             "name": "Microsoft Learn",
