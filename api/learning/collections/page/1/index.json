@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 31881,
-            "average": 4.7988143
+            "count": 31896,
+            "average": 4.798784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 51623,
-            "average": 4.7754297
+            "count": 51637,
+            "average": 4.7754517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -541,8 +541,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 51623,
-            "average": 4.7754297
+            "count": 51637,
+            "average": 4.7754517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -583,8 +583,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 23524,
-            "average": 4.7227087
+            "count": 23526,
+            "average": 4.722732
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -626,8 +626,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 10607,
-            "average": 4.72471
+            "count": 10608,
+            "average": 4.724736
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -668,8 +668,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7935,
-            "average": 4.7720227
+            "count": 7936,
+            "average": 4.7720513
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -877,8 +877,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 3865,
-            "average": 4.7368693
+            "count": 3866,
+            "average": 4.7369375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1153,8 +1153,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 9148,
-            "average": 4.759729
+            "count": 9154,
+            "average": 4.759777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1195,8 +1195,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 11400,
-            "average": 4.774737
+            "count": 11402,
+            "average": 4.7747765
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5266,8 +5266,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 86,
-            "average": 4.837209
+            "count": 87,
+            "average": 4.8390803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5308,8 +5308,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 66,
-            "average": 4.848485
+            "count": 67,
+            "average": 4.850746
           },
           "provider": {
             "name": "Microsoft Learn",

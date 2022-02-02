@@ -1270,8 +1270,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 86,
-            "average": 4.837209
+            "count": 87,
+            "average": 4.8390803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1312,8 +1312,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 66,
-            "average": 4.848485
+            "count": 67,
+            "average": 4.850746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1480,8 +1480,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 86,
-            "average": 4.837209
+            "count": 87,
+            "average": 4.8390803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1522,8 +1522,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 66,
-            "average": 4.848485
+            "count": 67,
+            "average": 4.850746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1582,8 +1582,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 5593,
-        "average": 4.7250133
+        "count": 5595,
+        "average": 4.724933
       },
       "provider": {
         "name": "Microsoft Learn",
