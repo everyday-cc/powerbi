@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 100,
-            "average": 4.86
+            "count": 101,
+            "average": 4.8613863
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1766,8 +1766,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 139,
-            "average": 4.8920865
+            "count": 140,
+            "average": 4.892857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1976,8 +1976,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 139,
-            "average": 4.8920865
+            "count": 140,
+            "average": 4.892857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2390,8 +2390,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 7451,
-        "average": 4.743256
+        "count": 7452,
+        "average": 4.7432904
       },
       "provider": {
         "name": "Microsoft Learn",
