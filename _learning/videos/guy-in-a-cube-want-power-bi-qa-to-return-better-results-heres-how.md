@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M20S
 publishedDateTime: 2020-01-21T03:54:15Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x1VbHE4ROJs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 360
     isCached: true
 
-secured: "6TyOc09iSgwtrhysO/K8+Z4u/7E5RWi1L+J53s5PMW4x+Ob1R+hOoibfpDTWk6ScMkUapZUm7HprJAyBZgk8UbiXPHESv7k+OX4EYgkUH+GEj+2O9I2BKcCAs1DwW3RkZ9jke/sOK6WFmSwOOJ5o4YyX/KFdndi1s+aAhIpAa+7jeVviMoJZE6fdwwtrQS4NrI18wo6CrttgjJr6LBJoKvkHDdP8qSlinURRof23pZ89nFzGwhFar2Pv8q4dzgH04ipvb1ij8Q4tfD4JTWH277g2F2OLGkHL/LUfrwA03OyhCiHT1RZgkZMSEBKo24PvevsXsWDChojd1n89JWunr+WjdnWVF1tQGbfB2TnLp7W9IWQLeDNGWqHkyP5juFSsIX7t6APTLqhOjnyrin4qE+gXZTEACXPYixZCCvBTlls=;eXQmlfK4Ubzyhq5sCn2tfQ=="
+secured: "rw/Spy+jINWAVkEsTJBfKNyIdR5cO07F4KGBe6HUhPngSGWpYYBUonYWBbrjfZQwpBkCSGmArWInZH/MsOiLWnMJEngWGG8c6NgXObnsqfO1LeH9r+R02UIrP425vsmUYokXvzcrQ9nQeahwmz72d4674pghBn5wyItHvabypI8sHMaYBy7gxEB2F7Fg59u9Lg5rtrycc/8NxbAooYUxDsbyl6ubH7/uLbWHd7GbF7T+voZbfK0QhHeWkqqAgCZJMsS+g17HvIOQZ3iqCIT67FSVbyfFP4SDxbV51grL+iCpH34iAIv8hTk7ZHhUCSnqD9Op3nYwSAUHkS/fgl+IdQSdVWRQL9oC4+RoIIfoom3RMPKhArPriWDZapT5BKIpJgBEpqmaBJxU19+PK2AdAvHhQlohWDQiZfGiohMfb7A=;gBaCXGHAQyLaGwQCXIxzlw=="
 ---
 
