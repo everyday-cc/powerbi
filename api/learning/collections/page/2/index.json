@@ -2905,7 +2905,7 @@
             "domain": "powerbi.tips"
           },
           "publishedDateTime": "2020-04-24T10:20:00-07:00",
-          "heat": 53,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/jpZnCHRauPU/hqdefault.jpg",
@@ -3064,8 +3064,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11520,
-            "average": 4.679167
+            "count": 11521,
+            "average": 4.6791077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3082,7 +3082,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 141,
+          "heat": 61,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -3265,8 +3265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4761,
-            "average": 4.710145
+            "count": 4762,
+            "average": 4.710206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3753,8 +3753,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3417,
-            "average": 4.803044
+            "count": 3418,
+            "average": 4.803101
           },
           "provider": {
             "name": "Microsoft Learn",
