@@ -857,8 +857,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 150,
-            "average": 4.8133335
+            "count": 151,
+            "average": 4.8145695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -982,8 +982,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 150,
-            "average": 4.8133335
+            "count": 151,
+            "average": 4.8145695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1160,8 +1160,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 736,
-        "average": 4.705163
+        "count": 737,
+        "average": 4.705563
       },
       "provider": {
         "name": "Microsoft Learn",
