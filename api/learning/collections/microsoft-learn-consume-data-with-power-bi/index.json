@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 61,
+      "heat": 59,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -63,7 +63,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 56,
+      "heat": 54,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
@@ -87,8 +87,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 219,
-        "average": 4.762557
+        "count": 220,
+        "average": 4.7636366
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -105,7 +105,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 59,
+      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-power-bi-mobile-apps-social.png",
