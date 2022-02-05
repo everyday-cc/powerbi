@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/power-bi-and-azure-as-the-futur
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/amp/"
 type: article
 quality: 97
-heat: 97
+heat: 98
 published: true
 
 provider:
