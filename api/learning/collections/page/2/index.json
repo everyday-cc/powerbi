@@ -2213,8 +2213,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3635,
-            "average": 4.725447
+            "count": 3636,
+            "average": 4.7255225
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2422,8 +2422,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 65,
-            "average": 4.830769
+            "count": 66,
+            "average": 4.8333335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3359,7 +3359,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 59,
+          "heat": 139,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
