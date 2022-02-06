@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M44S
 publishedDateTime: 2018-02-13T15:18:28Z
-heat: 62
+heat: 65
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gyvhM5eiT0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "zzqRxdQ3vwrlJ3eEAJK2LxnYHaHXBB1nfWI1TgPpg7HYSGeXbHJb5dzR4uLx+9+H5Y7EgyDoMihVRihesQSHWXUTEU0zPOkAjmAMnM/BaESeq7FSkQlE7Mz27l3aqwxEUIj2/BuS3jLpsBUwn+klne2snbGX96UrYIn+MJBaHNsmDKLDi3hAcnRcBubvOSNbW7mBMWx6r6llpccR8QCp/Afd2iVed1iNV/H8/3P0Ui5Igp/rIBLuUiS3QbDVEkclZW0VZfhAZuEli8GZg9oQWjTpD69Vmn+s0NzmDwssbe3O1fGt/b+YZgiwOJ/K6WRTQJd4Urpxs8COxQSqRwDD2yv8OFqmSsFKif95d56s2VcVXnyfJCil74bTTsKXoAkXx/GK4agmYFRm335FQPfvLCwfnXyCIApFyVHNNLdi3rTrYz/5FcvFvCn5sCQiAXKQ;LBvZ0c0famhjU872mRUSIA=="
+secured: "evm7nSjPFLUw908NUOmro0SKyLN/tONmOLxyXrKnXxp6HtMGYRfVPagBoaoOqpEsNJNRZfv7dh1FJPWpkvw53qURkiaDUuKz/Abugod3MvZlueh1rlX2bdPv0HdT85bRml681NyjboWiKCDfCtESAsoANbolgHCSNa4knD4sS3WrAb2Zc+3IQQmTDyey1m3matqJR8cZqEp0OW9DKrFybxzMwXrDorqbVY+uIOPyKNvPzGZG3YE1utdQeTz8OEOSQ365a4D6FYtrjV2gEi3q88xdx2ylgVFU9kMsTGULxGUu2+We2F2aBvHSQNecSYnL7+232LAk+qYFlBGiuRWB2A7rt+oWsVKoAsmWOxWM6+lqHGzfOc4Aj7tRgg/JNaIMCj2IxQATQNknj5yiDKsT2Wnumw3QqxN3CzgDTM3A2s7kt2RfJxIP/IDIQ2OzY9P/;VHHcpOT+aOM0nGUoGPLUAg=="
 ---
 
