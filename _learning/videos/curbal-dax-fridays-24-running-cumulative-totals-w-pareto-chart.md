@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT15M44S
 publishedDateTime: 2017-02-02T20:24:11Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d-Jk1j2G3nw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "PStfCDY+XvZoEtLjdrE4TDedLTf9Jsce5prscitpVz/lMCvBdOWnZ/EgTPEEYPPKjO6kmCNZkFk8mm00L3/FbO7WOjGP6VzWs8YmCZyr085EY3Qnriq+ZpI/EY20AtbrokXKNPN7rG7FnUP0Lc8vUSxPeGRKcHBVHNgk3sJGTLGPl0qOmASTylbGXuF7NQMiPQ4Lg2azUTEM9kGZ/2SuMXaI5wXo0Nz3gZvAurQ4H2u6SYd4xBEO0m8J3yIl9VzX3tNTVhe44HdENT1aB+Mg0vFlLaG0FWt90SpBGjHyi5cYGhp2IzQWHxI6f3/nhMCijASu76fTkzaNbpnMY95R0wpiaYLsrIJLJIV3TExGRNhR14Bmipn+AP1+TkyNs4GNKKCyQK+85yCg/0nzWURx6Cp+GHHCszs2co5lUMUa66M=;BYdA8ryHEdDfufZC67HY3g=="
+secured: "VU3+e5K1qe6bM7cywMpM3p8FSF4goOP2vVezR4GqVL85gZvHqHtVemxSaWSwrR/Cosxo+X7H3eeVK4dH8UGsPrlrV5qP3z4pFpvp5QXExdujdrXGS84KHoV7pQDqudKRNz93/KXjDEEz9ba5mEXRPOkpG/7vYHRySpNv6vfBGGBjwd4muOlOtHJJ9Zq8PmETdadinU2srmE5uzMWCuH5BBa3yiLZhSq1E3ArF/QzsCwJ/RXthLwrEwbxyPXE1c2m6UECPikZNqvLC8xnL4+ZQpjI3hmfkYIFErDVjqXB1mRprPxEEc5U49tlIncFrB55/7PLS7JVSCGvIHURLN1dlWv3Nx/6RYq99TbAiD8NnwH714CfWmmx1Vl3YaRFz0QtA3emI5ynNCQuRlBUhkkol9FMX9Tu89qwQGlFCERNVvE=;RNWQR5Jvb5j2GK5iB3xOiw=="
 ---
 
