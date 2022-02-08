@@ -4,6 +4,36 @@
   "page": 84,
   "value": [
     {
+      "path": "_learning/videos/radacad-introduction-to-power-bi-designer.md",
+      "title": "Introduction to Power BI Designer",
+      "excerpt": "Video starts with Power BI Components explanation, then introduction to Power BI Designer which is the Editor for Power Query, Power Pivot, and Power View. Deployment to Power BI site, building dashboards and reports, and Power Q&A is demoed. Power BI App is also showed in the demo",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-introduction-to-power-bi-designer/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-introduction-to-power-bi-designer/",
+      "originalUrl": "https://youtube.com/watch?v=ZFxWXdQnJ-g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZFxWXdQnJ-g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M35S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-01-21T14:33:43-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZFxWXdQnJ-g/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-iot-with-cortana-intelligence-raspberry-pi-3-and-a-weather-sensor.md",
       "title": "IoT with Cortana intelligence Raspberry Pi 3 and a weather sensor",
       "excerpt": "in this video you will see how we can check the weather of a room in power BI using Raspberry Pi3, weather station and power BI, huckster website help me to develop this:https://www.hackster.io/windowsiot/build-hands-on-lab-iot-weather-station-using-windows-10-5b818f also the full detail of how to set",
@@ -153,6 +183,36 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-offset-columns-for-the-date-table-flexibility-in-relative-date-filtering-for-power-bi.md",
+      "title": "Offset Columns for the Date Table   Flexibility in Relative Date Filtering for Power BI",
+      "excerpt": "I have written previously provided an all-in-one script for the date dimension, and also wrote an article about the relative date slicer. However, sometimes you cannot use the relative date slicer (timezone issue can be one example), adding offset columns help to overcome that challenge, and still be",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-offset-columns-for-the-date-table-flexibility-in-relative-date-filtering-for-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-offset-columns-for-the-date-table-flexibility-in-relative-date-filtering-for-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=4-hhO5jXPEk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4-hhO5jXPEk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M55S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-05-07T10:19:32-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4-hhO5jXPEk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -367,25 +427,25 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-dax-back-to-basics-scalar-vs-tabular-functions.md",
-      "title": "Power BI DAX Back to Basics   Scalar Vs Tabular Functions",
-      "excerpt": "DAX is the analytical language in Power BI. Learning this language, however, comes with some difficulties. Part of that challenge is the way that functions work in DAX. Learning the output of functions is an important element of learning how and where you can use them. In this video, I'll explain two",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-dax-back-to-basics-scalar-vs-tabular-functions/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-dax-back-to-basics-scalar-vs-tabular-functions/",
-      "originalUrl": "https://youtube.com/watch?v=MI7WIwBFhU0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MI7WIwBFhU0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M26S",
+      "path": "_learning/videos/radacad-power-bi-date-or-calendar-table-best-method-dax-or-power-query.md",
+      "title": "Power BI Date or Calendar Table Best Method   DAX or Power Query",
+      "excerpt": "So you want to create a date or calendar table in Power BI, and you search for ways to do that. Then you will find many different approaches for that. Some of the approaches are using Power Query, some are using DAX. Which method is the best? What is the actual difference between a date table created",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-date-or-calendar-table-best-method-dax-or-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-date-or-calendar-table-best-method-dax-or-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=s2FeGeJtzSE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s2FeGeJtzSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M33S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2020-04-15T17:29:54-07:00",
+      "publishedDateTime": "2021-10-06T15:49:47-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/MI7WIwBFhU0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/s2FeGeJtzSE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -394,6 +454,7 @@
       "price": "Free",
       "topics": [
         "Power BI",
+        "Power Query",
         "DAX"
       ]
     },
@@ -459,23 +520,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-filter-pane-customize-the-color-font-and-style.md",
-      "title": "Power BI Filter pane   Customize the Color Font and Style",
-      "excerpt": "You can apply filters on visualizations in Power BI using the Filter pane. Filters can be applied in scopes of the report, page, or visual level. I explained that in this article. You can also customize the filter’s pane so that it hides or locks filters from the user’s view. And last but not least,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-filter-pane-customize-the-color-font-and-style/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-filter-pane-customize-the-color-font-and-style/",
-      "originalUrl": "https://youtube.com/watch?v=uM9pgEO4CkE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uM9pgEO4CkE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M1S",
+      "path": "_learning/videos/radacad-power-bi-file-clean-up-in-a-few-steps.md",
+      "title": "Power BI File Clean up In a Few Steps",
+      "excerpt": "If you have a Power BI file for a while, you realize the model gets bigger and bigger. Not only the file size but also the number of pages, tables, fields. You will get to some steps that it would be really hard to find which tables and fields are useful and which are not. Every time you have to search",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-file-clean-up-in-a-few-steps/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-file-clean-up-in-a-few-steps/",
+      "originalUrl": "https://youtube.com/watch?v=UD9PbWxrU8Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UD9PbWxrU8Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M34S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-07-11T15:11:01-07:00",
+      "publishedDateTime": "2021-06-27T22:10:22-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/uM9pgEO4CkE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UD9PbWxrU8Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -580,25 +641,25 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-licensing-walk-through-guide.md",
-      "title": "Power BI Licensing Walk through Guide",
-      "excerpt": "Licensing in Power BI is not a complicated one, however, understanding that which features are included in which licensing plan is always a question from users. In this post, you will learn about all different licensing plans in Power BI, the scenarios to use the licensing for, and scenarios that you",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-licensing-walk-through-guide/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-licensing-walk-through-guide/",
-      "originalUrl": "https://youtube.com/watch?v=YiVfrx0svJo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YiVfrx0svJo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M6S",
+      "path": "_learning/videos/radacad-power-bi-is-too-much-for-one-person-roles-in-the-power-bi-development.md",
+      "title": "Power BI Is Too Much for One Person   Roles in the Power BI Development",
+      "excerpt": "Power BI is a tool that you can get started working with it in a few hours, but to use it in its full potential, these days, you require to have many skills. The variety of solutions and BI implementations is also dictating to have different roles, positions, jobs in the Power BI development market.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-is-too-much-for-one-person-roles-in-the-power-bi-development/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-is-too-much-for-one-person-roles-in-the-power-bi-development/",
+      "originalUrl": "https://youtube.com/watch?v=I-D7IXGXDXs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I-D7IXGXDXs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2019-10-03T18:32:13-07:00",
+      "publishedDateTime": "2020-07-07T23:44:28-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/YiVfrx0svJo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/I-D7IXGXDXs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -627,6 +688,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/zf1ZkBO-D2Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-pattern-find-start-and-end-date-of-task-from-children.md",
+      "title": "Power BI Pattern   Find Start and End Date of Task from Children",
+      "excerpt": "The project and task planning management systems have the concept of each task starting and ending with a date. Tasks can be a child of other tasks, and the parent tasks should take the whole range that the child task’s date includes. You need to parse the parent-child hierarchy of tasks (which can be",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-pattern-find-start-and-end-date-of-task-from-children/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-pattern-find-start-and-end-date-of-task-from-children/",
+      "originalUrl": "https://youtube.com/watch?v=8XS3fPF1Oas",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8XS3fPF1Oas\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M19S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-10-26T16:07:19-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8XS3fPF1Oas/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -670,25 +761,25 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-quick-tip-the-formula-bar-in-power-query.md",
-      "title": "Power BI Quick Tip: the Formula Bar in Power Query",
-      "excerpt": "Often you do the transformation in Power Query using the graphical interface, but having the formula bar visible, makes it much easier to understand or change the transformations. In this short blog and video, I'll explain that. read my blog with more details here: https://radacad.com/power-bi-quick-tip-the-formula-bar-in-power-query",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-quick-tip-the-formula-bar-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-quick-tip-the-formula-bar-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=G-OHpN1vYLo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G-OHpN1vYLo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M2S",
+      "path": "_learning/videos/radacad-power-bi-theme-customize-colors-fonts-and-visual-appearance-for-multiple-objects.md",
+      "title": "Power BI Theme   Customize Colors Fonts and Visual Appearance for Multiple Objects",
+      "excerpt": "If you build a report for an enterprise, you might be limited to use the organization-approved colors. It is also useful to have your reports following a template of colors, and fonts, which might look like your signature of the report. In Power BI, you can do that with Theme. In this article, I’ll explain",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-theme-customize-colors-fonts-and-visual-appearance-for-multiple-objects/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-theme-customize-colors-fonts-and-visual-appearance-for-multiple-objects/",
+      "originalUrl": "https://youtube.com/watch?v=K83vD6DwFvI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K83vD6DwFvI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M34S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-02-25T14:10:38-08:00",
+      "publishedDateTime": "2021-06-24T14:30:03-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/G-OHpN1vYLo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/K83vD6DwFvI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -696,8 +787,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power Query"
+        "Power BI"
       ]
     },
     {
@@ -812,98 +902,6 @@
           "url": "https://i.ytimg.com/vi/nKVEgeshlMM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-reference-from-another-query-in-dataflow-no-premium-needed-power-platform-dataflows.md",
-      "title": "Reference from Another Query in Dataflow   No Premium Needed   Power Platform Dataflows",
-      "excerpt": "I have previously explained one of the benefits of Power Platform dataflows, which was the ability to refresh the data as many times as you want (on a scheduled basis), and the ability to refresh even with the frequency of a minute. Another useful feature of Power Platform dataflows is the ability to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-reference-from-another-query-in-dataflow-no-premium-needed-power-platform-dataflows/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-reference-from-another-query-in-dataflow-no-premium-needed-power-platform-dataflows/",
-      "originalUrl": "https://youtube.com/watch?v=tRUWHQBvEfs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tRUWHQBvEfs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M29S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-12T19:45:32-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tRUWHQBvEfs/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Dataflows"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-refresh-power-bi-queries-through-power-platform-dataflows-unlimited-times-with-any-frequency.md",
-      "title": "Refresh Power BI Queries Through Power Platform Dataflows   Unlimited Times with Any Frequency",
-      "excerpt": "If you don't have a Power BI Premium capacity license, then you are limited to refresh your dataflows up to eight times a day, with the frequency of 30 minutes. The good news for you is that you have a way to do unlimited refreshes and with whatever frequency you like using Power Platform Dataflows.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-refresh-power-bi-queries-through-power-platform-dataflows-unlimited-times-with-any-frequency/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-refresh-power-bi-queries-through-power-platform-dataflows-unlimited-times-with-any-frequency/",
-      "originalUrl": "https://youtube.com/watch?v=1vqkYcG8s40",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1vqkYcG8s40\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M8S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-05T19:09:53-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1vqkYcG8s40/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Dataflows"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-relative-date-slicer-for-your-local-time-zone-in-power-bi.md",
-      "title": "Relative Date Slicer for Your Local Time Zone in Power BI",
-      "excerpt": "If you have used the relative date slicer and you are not living at a timezone close to UTC, then you have seen that the Power BI Date slicer is not much of a use, because you have to still adjust it with your local time zone. I have previously written a couple of articles related to this issue and ways",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-relative-date-slicer-for-your-local-time-zone-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-relative-date-slicer-for-your-local-time-zone-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=lcNIRAh2pg8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lcNIRAh2pg8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M42S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-05-10T23:46:20-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lcNIRAh2pg8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],
