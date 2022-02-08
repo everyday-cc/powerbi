@@ -348,7 +348,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-add-calculated-tables-social.png",
@@ -436,8 +436,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 11490,
-        "average": 4.7747607
+        "count": 11492,
+        "average": 4.7748
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1181,8 +1181,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 5860,
-        "average": 4.759215
+        "count": 5861,
+        "average": 4.759256
       },
       "provider": {
         "name": "Microsoft Learn",
