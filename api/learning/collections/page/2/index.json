@@ -2557,8 +2557,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 5883,
-            "average": 4.7594767
+            "count": 5885,
+            "average": 4.759558
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2599,8 +2599,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4828,
-            "average": 4.7112675
+            "count": 4830,
+            "average": 4.711387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2642,8 +2642,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6172,
-            "average": 4.7676606
+            "count": 6173,
+            "average": 4.767698
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3428,8 +3428,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 250,
-            "average": 4.744
+            "count": 252,
+            "average": 4.7380953
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3553,8 +3553,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3660,
-            "average": 4.725683
+            "count": 3661,
+            "average": 4.725485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3891,7 +3891,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 133,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/row-level-security-power-bi-social.png",
