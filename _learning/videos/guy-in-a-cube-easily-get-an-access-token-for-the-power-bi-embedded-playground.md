@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M22S
 publishedDateTime: 2019-04-03T12:31:41Z
-heat: 54
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f7HLyiAk-lQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "wmwH9DlyoGmtnVaTwuwMbi1jIfTAg2l5FSWTuKdj+HskNx/lu1v+LpLWHGYZlRcOE7QIE+Tm87P4kPlnGFHZC7swI/lkZ7iuoLOvFAYjoFqYWw58UsdRN7nuIwCAAWLMyxLBP7GuIwcUisqsUnLPBU8BQ4+3aamabhbhAKYksvxYJIhTi5ufySVa1jQExLu1yJlUDX2gdbtM+V2oZObm0o3823R10huNrABkI5JxNxxgqORszx59W1WEzbexvbsnE04CSB5SbnT0vKs6Ut+NLPEB1Q29X2ouRmOR9YJdBnVrNQu1AteW7IE2V/9wNOQRjKsPrJDfUdA++F0260IW9hEA9JKitSVJAjHHSiGRhNW3jEA5DAvXkbxa1VkOn6MkJiwg8CUm/AaHAbgAktnx7hja0u3+CO4NG7NgJavFOL4=;yckmaOWE3Loaqs9GnvKDGQ=="
+secured: "v3zm6zpJk3aX1KqBJJ1BMX+E0rUok3i5eRpF2jYGvLe3JxVoe0GTP88Ud6T4WyBlse2z48t/q8d1IdvJDQTSxlYrw4jnJeIVrTcyDGorULnTvsdP9Fdlhg7MlzEJVWfVqEARzMcyMI9SbNf1EEHu3FCg44xq0NkFZIvNBWXWgY1SiSfoXLizsU7rNLML5j214PRwHG8JVF/fvwukj0XvKzgMKT1225Ls6ZjFpW/TZ4QMdCSzfyUhDhYKqKy9u6VuQvpjmVj5WD3qRK8zb6VoPMVXPAy+whVY7eE6Y6koUIq3UJvRlgDNOYnXkxzG7LN3mvJ5dBbDQGIETzmiwYHFCG3UnhM3zSZQOZ5eTNCQKBpFSmF4ep9VUG3f2i6KIFbJuviEXD/sFlM2uFTh9Im5UcFDSIBEiWiOXCTDhFGKGDQ=;lCTHWXfs+//KwkZhhctrHQ=="
 ---
 

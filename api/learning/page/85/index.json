@@ -4,6 +4,36 @@
   "page": 85,
   "value": [
     {
+      "path": "_learning/videos/radacad-r-custom-visual-for-power-bi-overview-how-to-set-up.md",
+      "title": "R Custom Visual for Power BI -Overview how to Set up",
+      "excerpt": "This is the second part video of Creating Custom Visual using R and JSON for Power BI, in this video where we ale to set up the environment has been explained.  see the first video from: https://www.youtube.com/watch?v=ji11fuOQaqk also, the code is here 1- Open R Studio and install below packages install.packages(\"ggplot2\")",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-r-custom-visual-for-power-bi-overview-how-to-set-up/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-r-custom-visual-for-power-bi-overview-how-to-set-up/",
+      "originalUrl": "https://youtube.com/watch?v=nKVEgeshlMM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nKVEgeshlMM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M41S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-08-01T17:33:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nKVEgeshlMM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-reference-from-another-query-in-dataflow-no-premium-needed-power-platform-dataflows.md",
       "title": "Reference from Another Query in Dataflow   No Premium Needed   Power Platform Dataflows",
       "excerpt": "I have previously explained one of the benefits of Power Platform dataflows, which was the ability to refresh the data as many times as you want (on a scheduled basis), and the ability to refresh even with the frequency of a minute. Another useful feature of Power Platform dataflows is the ability to",
@@ -66,6 +96,36 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-relative-date-slicer-for-your-local-time-zone-in-power-bi.md",
+      "title": "Relative Date Slicer for Your Local Time Zone in Power BI",
+      "excerpt": "If you have used the relative date slicer and you are not living at a timezone close to UTC, then you have seen that the Power BI Date slicer is not much of a use, because you have to still adjust it with your local time zone. I have previously written a couple of articles related to this issue and ways",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-relative-date-slicer-for-your-local-time-zone-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-relative-date-slicer-for-your-local-time-zone-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=lcNIRAh2pg8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lcNIRAh2pg8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M42S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-05-10T23:46:20-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lcNIRAh2pg8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-report-page-tooltip-revolution-in-visualization-of-power-bi.md",
       "title": "Report Page Tooltip Revolution in Visualization of Power BI",
       "excerpt": "Report Page tooltip can be the layer between your mater-detail report design. You can customize the tooltip of your Power BI charts using this feature. Download the dataset and read more about it from here: https://radacad.com/report-page-tooltip-revolution-in-visualization-of-power-bi  Learn more about",
@@ -83,6 +143,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6yAl7ZWyEZA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-row-level-security-on-a-directquery-to-power-bi-dataset-composite-model-my-findings.md",
+      "title": "Row Level Security on a DirectQuery to Power BI dataset composite model   My Findings",
+      "excerpt": "With the DirectQuery to Power BI or Azure analysis services dataset, there are some limitations on the way that RLS (Row-level security) works. Considering that I have written a book and many blogs on this subject, It was fair to have a look at how this works. In this blog and video, you will learn about",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-row-level-security-on-a-directquery-to-power-bi-dataset-composite-model-my-findings/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-row-level-security-on-a-directquery-to-power-bi-dataset-composite-model-my-findings/",
+      "originalUrl": "https://youtube.com/watch?v=IX6FgC3cRwI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IX6FgC3cRwI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M18S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-12-30T16:19:33-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IX6FgC3cRwI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -398,6 +488,36 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-streamline-power-bi-refresh-refresh-dataset-after-a-successful-refresh-of-dataflow.md",
+      "title": "Streamline Power BI Refresh   Refresh dataset after a successful refresh of dataflow",
+      "excerpt": "Do you have a Power BI dataset that gets data from a dataflow? have you ever thought; “can I get the dataset refreshed only after the refresh of dataflow completed and was successful?” The answer to this question is yes, you can. One of the recent updates from the data integration team of Power BI made",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-streamline-power-bi-refresh-refresh-dataset-after-a-successful-refresh-of-dataflow/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-streamline-power-bi-refresh-refresh-dataset-after-a-successful-refresh-of-dataflow/",
+      "originalUrl": "https://youtube.com/watch?v=WkJn1aatBp4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WkJn1aatBp4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M39S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-01-06T19:02:58-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WkJn1aatBp4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-subscription-pattern-in-power-bi-dax-measure-for-active-subscribers-or-open-tickets-for-all-dates.md",
       "title": "Subscription Pattern in Power BI   DAX Measure for Active Subscribers or Open Tickets For All Dates",
       "excerpt": "One of the common patterns of a data model is the subscription pattern. In this pattern, we have subscriptions (or tickets, or issues, or whatever else you want to call it) open date and close date. The way that this data is stored in a table makes it a bit challenging to get informative insight out",
@@ -549,37 +669,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-topn-dax-function-how-it-works-in-power-bi-comparison-against-the-top-group.md",
-      "title": "TOPN DAX Function   How it works in Power BI   Comparison against the top group",
-      "excerpt": "TOPN is a function in DAX that gives you the ability to select the top items from a table based on an expression. In this article and video, I’ll explain how to use the TopN function in DAX either to create a calculated table or to use it in a measure to achieve analysis such as; comparison with the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-topn-dax-function-how-it-works-in-power-bi-comparison-against-the-top-group/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-topn-dax-function-how-it-works-in-power-bi-comparison-against-the-top-group/",
-      "originalUrl": "https://youtube.com/watch?v=FlSpuVKVRmA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FlSpuVKVRmA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M45S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-05-26T16:47:16-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FlSpuVKVRmA/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-using-charticulator-for-replanting-tree-over-time-in-different-region-of-new-zealand.md",
       "title": "Using Charticulator  for Replanting tree over Time in Different Region of New Zealand",
       "excerpt": "In this chart, I have explained how to create a chart that each point of data shows coordination of the New Zealand Regio and in each data point you can see the amount of replanting for each year, I use Charticulator to draw this chart,  the original dataset is from Stat of New Zealand. But I made some",
@@ -687,36 +776,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/B_Bq2SjNkSE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-what-should-be-your-salary-in-2021-if-you-work-with-power-bi.md",
-      "title": "What should be your Salary in 2021 if you work with Power BI",
-      "excerpt": "The Power BI 2021 Salary survey was popular enough to get some interesting results. In this post, I am sharing the result of that survey (which is filled by the public) as a Power BI report. The report gives you an overall idea of how much the minimum, maximum, and average salary should be based on geo-location",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-should-be-your-salary-in-2021-if-you-work-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-should-be-your-salary-in-2021-if-you-work-with-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=xQ_rZxAROjk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xQ_rZxAROjk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M53S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-01-11T10:15:26-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xQ_rZxAROjk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -867,83 +926,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-analyzing-the-performance-of-distinctcount-in-dax.md",
-      "title": "Analyzing the performance of DISTINCTCOUNT in DAX",
-      "excerpt": "Analyze the performance of a DAX measure based on a DISTINCTCOUNT calculation and evaluate possible optimizations. Article and download: https://sql.bi/432941/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-analyzing-the-performance-of-distinctcount-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-analyzing-the-performance-of-distinctcount-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=7SwD6953G6s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7SwD6953G6s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M24S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-04T03:00:23-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7SwD6953G6s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-choosing-between-date-or-integer-to-represent-dates-in-power-bi-and-tabular.md",
-      "title": "Choosing between Date or Integer to represent dates in Power BI and Tabular",
-      "excerpt": "This video provides you with the technical knowledge to choose between using a Date or an Integer to create the relationship between your fact table and the Date dimension.\r Article and download: https://sql.bi/717512?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-choosing-between-date-or-integer-to-represent-dates-in-power-bi-and-tabular/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-choosing-between-date-or-integer-to-represent-dates-in-power-bi-and-tabular/",
-      "originalUrl": "https://youtube.com/watch?v=DKNS1fCp-zQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DKNS1fCp-zQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M11S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-08-03T03:00:48-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DKNS1fCp-zQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],
