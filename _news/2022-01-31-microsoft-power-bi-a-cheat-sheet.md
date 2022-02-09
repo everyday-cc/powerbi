@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/microsoft-power-bi-a-smart-pers
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-power-bi-a-smart-persons-guide/amp/"
 type: article
 quality: 97
-heat: 99
+heat: 97
 published: true
 
 provider:
