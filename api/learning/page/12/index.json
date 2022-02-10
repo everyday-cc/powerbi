@@ -4,6 +4,97 @@
   "page": 12,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-call-power-bi-rest-api-with-dynamic-access-token-from-power-bi-desktop-power-bi-rest-api-part-two.md",
+      "title": "Call Power BI Rest API with Dynamic Access Token From Power BI Desktop |Power BI Rest API | Part Two",
+      "excerpt": "During this series, we will explore Rest APIs in Power BI. Sometimes, we need to build Power BI Admin report by consuming Power BI Admin APIs. During this session we will learn the same thing.   During the first step we have registered Power BI App to Azure Portal. If you haven’t gone through that video,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-call-power-bi-rest-api-with-dynamic-access-token-from-power-bi-desktop-power-bi-rest-api-part-two/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-call-power-bi-rest-api-with-dynamic-access-token-from-power-bi-desktop-power-bi-rest-api-part-two/",
+      "originalUrl": "https://youtube.com/watch?v=N8qYRSqRz84",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N8qYRSqRz84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M15S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-08-10T19:22:21-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N8qYRSqRz84/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-forecasting-in-power-bi.md",
+      "title": "Forecasting in Power BI",
+      "excerpt": "In this video, we will learn how we can forecast our data in Power BI. We will be discussing which visualization supports forecasting in Power BI. We can perform forecasting with a Line chart in Power BI.  In this video, we have taken an example of a real-life scenario to forecast our data.  Stay Connected",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-forecasting-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-forecasting-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=zl8F3e9SO2c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zl8F3e9SO2c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M29S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-29T21:38:48-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zl8F3e9SO2c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-how-to-display-sharepoint-images-to-power-bi.md",
+      "title": "How to Display SharePoint Images to Power BI?",
+      "excerpt": "During this session, we will learn how we can display SharePoint Images to Power BI. Most of the time we have a question in our mind that, how we can load SharePoint Document Library Images to Power BI? The procedure is very simple and straight forward. We need to use SharePoint Folder connector to load",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-how-to-display-sharepoint-images-to-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-how-to-display-sharepoint-images-to-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=tsQM8MKxxcc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tsQM8MKxxcc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M35S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-03-10T03:33:52-08:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tsQM8MKxxcc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-how-to-sync-two-slicers-on-the-same-page-in-power-bi.md",
       "title": "How to Sync Two Slicers on the Same Page in Power BI?",
       "excerpt": "During this session, we will talk about Advanced Properties for the Sync Slicer in Power BI. Sometimes we have a scenario where want functionality that if we select some value from the slicer the same value should be selected from another slicer on the same page. At that time how we can achieve this",
@@ -654,174 +745,15 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-consume-data-with-power-bi.md",
-      "title": "Consume data with Power BI",
-      "excerpt": "Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-consume-data-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-consume-data-with-power-bi/",
-      "length": "PT2H9M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-power-bi-service.md",
-          "title": "Explore what Power BI can do for you",
-          "excerpt": "As a consumer, you'll work in the Power BI service to review and interact with content that has been shared with you. This module provides the foundational information that you need to work effectively in the Power BI service.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-intro-to-power-bi-service/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
-          "length": "PT1H9M",
-          "ratings": {
-            "count": 11595,
-            "average": 4.678913
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 60,
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-analyze-explore-data-power-bi.md",
-          "title": "Analyze data with Power BI",
-          "excerpt": "This module goes beyond viewing and exploring your content and explains how to interact with it by working with reports and dashboards to uncover and share new business insights.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-analyze-explore-data-power-bi/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
-          "length": "PT60M",
-          "ratings": {
-            "count": 9254,
-            "average": 4.706397
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 54,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-intro-to-power-bi-mobile-apps.md",
-          "title": "Get to your data on the go with the Power BI Mobile apps",
-          "excerpt": "As a consumer, you'll use the Power BI mobile app to review and interact with the content that is available to you in the Power BI service while you're on the go. This module provides the information that you need to work effectively with the Power BI mobile apps.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-intro-to-power-bi-mobile-apps/index.json",
-          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
-          "length": "PT1H29M",
-          "ratings": {
-            "count": 252,
-            "average": 4.7380953
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://docs.microsoft.com/learn/achievements/intro-to-power-bi-mobile-apps-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-paginated-reports-power-bi.md",
-      "title": "Create paginated reports  ",
-      "excerpt": "Paginated reports allow report developers to create Power BI artifacts that have tightly controlled rendering requirements. Paginated reports are ideal for creating sales invoices, receipts, purchase orders, and tabular data. This module will teach you how to create reports, add parameters, and work with tables and charts in paginated reports.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-paginated-reports-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
-      "length": "PT60M",
+      "path": "_learning/courses/microsoft-learn-ai-visuals-power-bi.md",
+      "title": "Work with AI visuals in Power BI",
+      "excerpt": "This module describes the AI capabilities of Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-ai-visuals-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
+      "length": "PT1H1M",
       "ratings": {
-        "count": 3903,
-        "average": 4.7376375
+        "count": 3661,
+        "average": 4.725485
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -841,9 +773,9 @@
       "heat": 56,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-paginated-reports-power-bi-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/ai-visuals-power-bi-social.png",
+          "width": 643,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -855,15 +787,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intro-to-power-bi-mobile-apps.md",
-      "title": "Get to your data on the go with the Power BI Mobile apps",
-      "excerpt": "As a consumer, you'll use the Power BI mobile app to review and interact with the content that is available to you in the Power BI service while you're on the go. This module provides the information that you need to work effectively with the Power BI mobile apps.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-intro-to-power-bi-mobile-apps/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
-      "length": "PT1H29M",
+      "path": "_learning/courses/microsoft-learn-create-dashboards-power-bi.md",
+      "title": "Create dashboards in Power BI",
+      "excerpt": "Microsoft Power BI dashboards are different than Power BI reports. Dashboards allow report consumers to create a single artifact of directed data that is personalized just for them.  Dashboards can be comprised of pinned visuals that are taken from different reports. Where a Power BI report uses data from a single dataset, a Power BI dashboard can contain visuals from different datasets.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-dashboards-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
+      "length": "PT1H8M",
       "ratings": {
-        "count": 252,
-        "average": 4.7380953
+        "count": 3390,
+        "average": 4.69941
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -878,14 +810,100 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 56,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/intro-to-power-bi-mobile-apps-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/create-dashboards-power-bi-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-write-formulas.md",
+      "title": "Write DAX formulas for Power BI Desktop models",
+      "excerpt": "In this module, you'll learn how to write DAX formulas to create calculated tables, calculated columns, and measures, which are different types of model calculations. Additionally, you'll learn how to write and format DAX formulas, which consist of expressions that use functions, operators, references to model objects, constants, and variables.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-write-formulas/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 1454,
+        "average": 4.7028885
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
           "width": 640,
           "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-visuals-power-bi.md",
+      "title": "Work with Power BI visuals",
+      "excerpt": "Learn how to choose from the exceptional visuals that Power BI makes available to you. Formatting visuals will direct the user’s attention to exactly where you want it, while helping to make the visual easier to read and interpret. You will also learn about how to use key performance indicators (KPIs).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
+      "length": "PT1H13M",
+      "ratings": {
+        "count": 4079,
+        "average": 4.6709976
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
+          "width": 640,
+          "height": 318,
           "isCached": true
         }
       ],
@@ -1049,161 +1067,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-81-calculatetable.md",
-      "title": "DAX Fridays! #81: CALCULATETABLE",
-      "excerpt": "In todays video we are going to cover the DAX function CALCULATETABLE.  CALCULATETABLE allows you to create virtual tables that you can then filter using multiple conditions and use that table to make further calculations.   What is the difference between CALCULATETABLE and CALCULATE?  The first one",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-81-calculatetable/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-81-calculatetable/",
-      "originalUrl": "https://youtube.com/watch?v=aA8zIJ-qcO8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aA8zIJ-qcO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M37S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-05-11T03:35:28-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aA8zIJ-qcO8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-list-dates-between-two-dates-in-power-query.md",
-      "title": "List dates between two dates in Power Query",
-      "excerpt": "Need to create a list of dates between a start date and end date? Well, let's look at how Imke did it in the Power BI community, it will blow your mind :) #curbal #powerquery #mlanguage #powerbi  Here is the thread on the Power BI community, where you can find Imke's code: https://community.powerbi.com/t5/Desktop/M-Power-Query-help-for-table-merge-Conditional-Cross-Join/m-p/478272#M222561",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-list-dates-between-two-dates-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-list-dates-between-two-dates-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=u3HLseZxSj4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u3HLseZxSj4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M49S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-03-11T05:15:36-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/u3HLseZxSj4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-manage-data-source-credentials-in-power-bi-desktop.md",
-      "title": "Manage data source credentials in Power BI Desktop",
-      "excerpt": "Learn how to manage your data source credentials in Power BI. I will show you how to:  Secure, hide your API key in the store credentials Delete your data source credentials in Power BI Edit your data source credentials in Power BI    Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-manage-data-source-credentials-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-manage-data-source-credentials-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=DG8p6vOuktU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DG8p6vOuktU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M33S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-24T13:56:30-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DG8p6vOuktU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-modify-individual-cells-without-write-permissions-in-power-bi-write-back-in-power-bi.md",
-      "title": "Modify individual cells without write permissions in Power BI  | Write back in Power BI",
-      "excerpt": "In this video I am show you how to write back to a source you dont own. Links to mentioned sources:  Create an index with DAX: https://youtu.be/qUmTxQHr6nY  Create a rowid with dax:  https://youtu.be/WzpqBLApSBU  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-modify-individual-cells-without-write-permissions-in-power-bi-write-back-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-modify-individual-cells-without-write-permissions-in-power-bi-write-back-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=-dRDKbm-v6Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-dRDKbm-v6Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M28S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-04-29T03:14:08-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-dRDKbm-v6Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

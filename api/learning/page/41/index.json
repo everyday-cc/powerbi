@@ -4,6 +4,310 @@
   "page": 41,
   "value": [
     {
+      "path": "_learning/videos/microsoft-embedded-playground-power-bi-developer-in-a-day.md",
+      "title": "Embedded Playground | Power BI Developer in a Day",
+      "excerpt": "In this video, Ali Hamud, Senior Software Engineer, demonstrates five Power BI Embedded Playground showcases. This is video 20 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-embedded-playground-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-embedded-playground-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=U3qeQRwWhRc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/U3qeQRwWhRc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M10S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-01T13:38:02-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/U3qeQRwWhRc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-module-2-embedded-analytics-part-22-power-bi-developer-in-a-day.md",
+      "title": "Module 2: Embedded analytics (Part 2/2) | Power BI Developer in a Day",
+      "excerpt": "In this video, Adam Saxton, Principal Program Manager, demonstrates a sample Power BI embedded analytics solution that monitors warehouse operations. This is video 7 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-2-embedded-analytics-part-22-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-2-embedded-analytics-part-22-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=7Jda5x7Qe7Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Jda5x7Qe7Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M7S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-01T13:34:23-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7Jda5x7Qe7Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-module-3-acquiring-access-power-bi-developer-in-a-day.md",
+      "title": "Module 3: Acquiring access | Power BI Developer in a Day",
+      "excerpt": "In this video, you’ll learn about token types and theory to acquire access and embed tokens. This is video 8 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the videos in the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-3-acquiring-access-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-3-acquiring-access-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=3dYCMTsDT3c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3dYCMTsDT3c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M7S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-01T13:34:41-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3dYCMTsDT3c/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-module-3-configure-permissions-part-2-of-2-power-bi-developer-in-a-day.md",
+      "title": "Module 3: Configure Permissions (Part 2 of 2) | Power BI Developer in a Day",
+      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional, and course developer) demonstrates configuring and applying permissions. It is video 10 of 21.  The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-3-configure-permissions-part-2-of-2-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-3-configure-permissions-part-2-of-2-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=xSr2y7BpbIA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xSr2y7BpbIA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M17S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-11-19T08:46:29-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xSr2y7BpbIA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-module-4-embed-power-bi-content-part-1-of-2-power-bi-developer-in-a-day.md",
+      "title": "Module 4: Embed Power BI Content (Part 1 of 2) | Power BI Developer in a Day",
+      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional, and course developer) and Noam Raveh (product manager) describe techniques to register an Azure Active Directory application, which NuGet packages to import, and how to programmatically embed Power BI content. It is video 11 of 21.  The",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-4-embed-power-bi-content-part-1-of-2-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-4-embed-power-bi-content-part-1-of-2-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=6OYk8iUj0yo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6OYk8iUj0yo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M16S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-11-19T08:46:29-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6OYk8iUj0yo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-module-4-embed-power-bi-content-part-2-of-2-power-bi-developer-in-a-day.md",
+      "title": "Module 4: Embed Power BI Content (Part 2 of 2) | Power BI Developer in a Day",
+      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional, and course developer) demonstrates how to develop with the Power BI REST API and embedding Power BI reports in an ASP.NET MVC web app. It is video 12 of 21.  The Power BI Developer in a Day online course empowers you as an app developer",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-4-embed-power-bi-content-part-2-of-2-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-4-embed-power-bi-content-part-2-of-2-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=BxxjpCk5z-s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BxxjpCk5z-s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M35S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-11-19T08:46:29-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BxxjpCk5z-s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-module-4-embedding-content-part-15-power-bi-developer-in-a-day.md",
+      "title": "Module 4: Embedding content (Part 1/5) | Power BI Developer in a Day",
+      "excerpt": "In this video, you’ll learn about techniques to register an Azure Active Directory application. This is video 9 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the videos in",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-4-embedding-content-part-15-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-4-embedding-content-part-15-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=caKS8PQJnyo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/caKS8PQJnyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M9S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-01T13:34:56-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/caKS8PQJnyo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-module-4-embedding-content-part-25-power-bi-developer-in-a-day.md",
+      "title": "Module 4: Embedding content (Part 2/5) | Power BI Developer in a Day",
+      "excerpt": "In this video, Peter Myers demonstrates fast-tracking a Power BI embedded project by using the Embedding Setup Tool. You’ll learn about creating additional Power BI content. This is video 10 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-4-embedding-content-part-25-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-4-embedding-content-part-25-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=XbYt8ZX3q9k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XbYt8ZX3q9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M40S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-01T13:35:10-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XbYt8ZX3q9k/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-module-4-embedding-content-part-35-power-bi-developer-in-a-day.md",
       "title": "Module 4: Embedding content (Part 3/5) | Power BI Developer in a Day",
       "excerpt": "In this video, you’ll learn about NuGet packages to import, and how to programmatically embed Power BI content. This is video 11 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch",
@@ -384,6 +688,44 @@
       ]
     },
     {
+      "path": "_learning/videos/microsoft-module-7-automate-solution-management-part-1-of-2-power-bi-developer-in-a-day.md",
+      "title": "Module 7: Automate Solution Management (Part 1 of 2) | Power BI Developer in a Day",
+      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional, and course developer) and Amit Shuster (Product manager) describe how to automate solution management using the Microsoft Graph API, Power BI API, and Azure Resource Management (ARM) API. It is video 18 of 21.  The Power BI Developer in",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-7-automate-solution-management-part-1-of-2-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-7-automate-solution-management-part-1-of-2-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=hkVHOHZ_jm4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hkVHOHZ_jm4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M28S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-11-19T11:52:55-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hkVHOHZ_jm4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/microsoft-module-7-embedding-licensing-power-bi-developer-in-a-day.md",
       "title": "Module 7: Embedding licensing | Power BI Developer in a Day",
       "excerpt": "In this video, we describe Power BI embedding licensing and compare different products. You’ll also learn about licensing guidance.  This is video 19 of 20.    Please note: licensing information is current at the time of recording, which was May 2020   The Power BI Developer in a Day online course empowers you as an",
@@ -748,278 +1090,6 @@
           "url": "https://i.ytimg.com/vi/ERGpV4yt30w/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-using-devops-in-tabular-editor.md",
-      "title": "PowerBI.Tips - Tutorial - Using DevOps in Tabular Editor",
-      "excerpt": "Tabular Editor is an incredible Tool that enables users to manipulate a Tabular Model at lighting speeds.  Daniel Otykier is the creator of Tabular Editor.  In this video Daniel teaches us how to use Azure DevOps with Tabular Models.  This session is definately worth your time if you work in managing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-using-devops-in-tabular-editor/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-using-devops-in-tabular-editor/",
-      "originalUrl": "https://youtube.com/watch?v=fzZgXe3MjhI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fzZgXe3MjhI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H24M5S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2020-04-07T09:01:43-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fzZgXe3MjhI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-add-or-edit-columns-when-importing-data-from-analysis-services-into-power-bi.md",
-      "title": "Add or Edit Columns When Importing Data from Analysis Services into Power BI",
-      "excerpt": "If you use SQL Server Analysis Services as a data source for Power BI, you have two types of connection; Live Connection or Import Data. If you use Import Data, you can select columns and measures to be imported into Power BI. However, what if you want to add more columns to it, or edit something? In",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-add-or-edit-columns-when-importing-data-from-analysis-services-into-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-add-or-edit-columns-when-importing-data-from-analysis-services-into-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=as3UN_q9vcI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/as3UN_q9vcI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M24S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-19T23:33:10-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/as3UN_q9vcI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-age-banding-in-power-bi-using-power-query-merge-queries-based-on-between.md",
-      "title": "Age Banding in Power BI using Power Query   Merge Queries Based on Between",
-      "excerpt": "Age banding is a common scenario in analytics, and I have explained how it is possible in many different ways. One of the methods I have explained was using DAX measures and the TREATAS function. Sometimes, however, the age banding can be static, and Power Query can be used for the calculation, which",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-age-banding-in-power-bi-using-power-query-merge-queries-based-on-between/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-age-banding-in-power-bi-using-power-query-merge-queries-based-on-between/",
-      "originalUrl": "https://youtube.com/watch?v=RMjXEEzNiGk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RMjXEEzNiGk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M56S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-07-19T22:06:40-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RMjXEEzNiGk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-aggregation-to-speed-up-the-performance-of-a-power-bi-report-even-if-all-imported.md",
-      "title": "Aggregation to speed up the performance of a Power BI report even if all IMPORTED",
-      "excerpt": "One of the questions I normally get after presenting about aggregations in Power BI is that, does the aggregation works only for Composite mode and in scenarios to speed up the DirectQuery? or does it work in import mode as well? This video is about this question and shows how you can speed up your model",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-aggregation-to-speed-up-the-performance-of-a-power-bi-report-even-if-all-imported/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-aggregation-to-speed-up-the-performance-of-a-power-bi-report-even-if-all-imported/",
-      "originalUrl": "https://youtube.com/watch?v=EukzA4vbl2w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EukzA4vbl2w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M42S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-11-30T20:04:06-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EukzA4vbl2w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-best-practice-for-power-bi-workspace-roles-setup.md",
-      "title": "Best Practice for Power BI Workspace Roles Setup",
-      "excerpt": "Power BI workspaces are not like old days, that we had Edit access and View access anymore. You have more options for roles in a workspace, and in my courses, I have found that many people choose the incorrect role without knowing what the role does. In this video, I'll explain all the roles in the workspace,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-best-practice-for-power-bi-workspace-roles-setup/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-best-practice-for-power-bi-workspace-roles-setup/",
-      "originalUrl": "https://youtube.com/watch?v=I7om73MQ3q8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I7om73MQ3q8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M28S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-04-13T17:52:43-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/I7om73MQ3q8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-compare-period-over-period-breakdown-in-power-bi-using-the-waterfall-chart.md",
-      "title": "Compare Period Over Period Breakdown in Power BI Using the Waterfall Chart",
-      "excerpt": "The Waterfall chart is a good visualization to show you changes on value over a sequence, The sequence can be time, or date or workflow steps, etc. There is also an ability in this chart that may not be visible to everyone, and that is the breakdown option of this chart. You can use the chart without",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-compare-period-over-period-breakdown-in-power-bi-using-the-waterfall-chart/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-compare-period-over-period-breakdown-in-power-bi-using-the-waterfall-chart/",
-      "originalUrl": "https://youtube.com/watch?v=SBclk7VA8Ew",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SBclk7VA8Ew\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M12S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-25T16:51:41-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SBclk7VA8Ew/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-composite-model-directquery-and-import-data-combined-evolution-begins-in-power-bi.md",
-      "title": "Composite Model DirectQuery and Import Data Combined Evolution Begins in Power BI",
-      "excerpt": "Read the step by step blog post here: http://radacad.com/composite-model-directquery-and-import-data-combined-evolution-begins-in-power-bi",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-composite-model-directquery-and-import-data-combined-evolution-begins-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-composite-model-directquery-and-import-data-combined-evolution-begins-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=C0nHSaz5ITg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C0nHSaz5ITg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M35S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2018-07-24T16:14:34-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/C0nHSaz5ITg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-create-custom-visual-bullet-chart-with-charticulator-with-two-categories.md",
-      "title": "Create Custom Visual Bullet Chart with Charticulator with two categories",
-      "excerpt": "In this short video, I have explained how to use Charticulator for creating a Bullet chart with two categories.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-create-custom-visual-bullet-chart-with-charticulator-with-two-categories/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-create-custom-visual-bullet-chart-with-charticulator-with-two-categories/",
-      "originalUrl": "https://youtube.com/watch?v=xS6GyVpt7lY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xS6GyVpt7lY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M14S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-09-20T23:07:19-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xS6GyVpt7lY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-creating-calendar-table-in-power-bi-using-dax-functions.md",
-      "title": "Creating Calendar Table in Power BI using DAX Functions",
-      "excerpt": "I have previously explained about using Power Query for creating calendar tables, However, some people still love to do that in DAX. There are a couple of DAX functions which makes the process of creating a calendar table very simple and easy; Calendar() and CalendarAuto(). In this short video, I'll",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-creating-calendar-table-in-power-bi-using-dax-functions/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-creating-calendar-table-in-power-bi-using-dax-functions/",
-      "originalUrl": "https://youtube.com/watch?v=_dd6kiYEm70",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_dd6kiYEm70\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M55S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-10-01T19:45:29-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_dd6kiYEm70/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],

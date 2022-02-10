@@ -4,6 +4,318 @@
   "page": 34,
   "value": [
     {
+      "path": "_learning/videos/curbal-dax-fridays-157-eomonth-calculate-no-of-days-in-a-month-with-missing-dates-on-month.md",
+      "title": "DAX Fridays! #157: EOMONTH | Calculate no of days in a month with missing dates on month.",
+      "excerpt": "Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-157-eomonth-calculate-no-of-days-in-a-month-with-missing-dates-on-month/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-157-eomonth-calculate-no-of-days-in-a-month-with-missing-dates-on-month/",
+      "originalUrl": "https://youtube.com/watch?v=FH_xI9Y7J_A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FH_xI9Y7J_A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M52S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-07T08:31:31-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FH_xI9Y7J_A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-164-this-you-need-to-know-about-firstnonblank-and-firstnonblankvalues.md",
+      "title": "DAX Fridays! #164: This you need to know about FIRSTNONBLANK and FIRSTNONBLANKVALUES",
+      "excerpt": "DAX Fridays! #164: This you need to know about FIRSTNONBLANK and FIRSTNONBLANKVALUES  It is power week, which means that the power bi team has released a new power bi desktop update and this time we are going to review the new DAX functions FIRSTNONBLANKVALUES and LASTNONBLANKVALUES as well as compare",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-164-this-you-need-to-know-about-firstnonblank-and-firstnonblankvalues/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-164-this-you-need-to-know-about-firstnonblank-and-firstnonblankvalues/",
+      "originalUrl": "https://youtube.com/watch?v=RzE4W1IhR0c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RzE4W1IhR0c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M4S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-19T07:43:50-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RzE4W1IhR0c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-172-left-right-len-search-split-text-by-character-in-dax.md",
+      "title": "DAX Fridays! #172: LEFT, RIGHT, LEN, SEARCH - Split text by character in DAX",
+      "excerpt": "In today's video, I will show you how to split text by a character using DAX and why this search error happens and how to solve it: The search Text provided to function 'SEARCH' could not be found in the given text.  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-172-left-right-len-search-split-text-by-character-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-172-left-right-len-search-split-text-by-character-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=Tkqc5pOWAKY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tkqc5pOWAKY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M9S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-15T05:39:03-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Tkqc5pOWAKY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-173-8-best-practices-for-time-intelligence-in-power-bi.md",
+      "title": "DAX Fridays! #173: 8 Best practices for Time Intelligence  in Power BI",
+      "excerpt": "Follow this rules to get your time intelligence functions working in Power BI.  Disable auto date/Time: https://www.youtube.com/watch?v=d4yAzhIQqNk  Avoid bi-directional relationships in calendars: https://www.youtube.com/watch?v=IlxqDCIuarU  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-173-8-best-practices-for-time-intelligence-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-173-8-best-practices-for-time-intelligence-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=mAZR5Hf0NYQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mAZR5Hf0NYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M8S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-22T01:56:40-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mAZR5Hf0NYQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-179-use-a-slicer-to-highlight-values-instead-of-filter-them-in-power-bi-.md",
+      "title": "DAX Fridays! #179: Use a slicer to highlight values instead of filter them in Power BI 😎",
+      "excerpt": "Did you know that you can use a slicer in Power BI to highlight values instead of filtering them?  Let me show you the technique here, but if you are up for it, give it a go before and let us know what you came up to!  Pass multiple values from a slicer: https://www.youtube.com/watch?v=_k_Qxb6pyCc  iscrossfilter",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-179-use-a-slicer-to-highlight-values-instead-of-filter-them-in-power-bi-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-179-use-a-slicer-to-highlight-values-instead-of-filter-them-in-power-bi-/",
+      "originalUrl": "https://youtube.com/watch?v=DLq5i1mlFqg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DLq5i1mlFqg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M15S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-07T03:27:13-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DLq5i1mlFqg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-183-how-to-deal-with-multiple-dates-in-power-bi.md",
+      "title": "DAX Fridays! #183: How to deal with multiple dates in Power BI",
+      "excerpt": "So you have order date, shipped date, required date....and only one calendar. How do you manage that in power bi and DAX?  This scenario is often called role playing dimensions and in this video I will show you two ways to solve it. :) Happy Friday!!  Links to videos mentioned: Introduction to data modeling:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-183-how-to-deal-with-multiple-dates-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-183-how-to-deal-with-multiple-dates-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=aVcHCfOAtZA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aVcHCfOAtZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M41S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-08-21T02:44:21-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aVcHCfOAtZA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-184-show-last-label-only-on-a-line-chart-in-power-bi.md",
+      "title": "DAX Fridays! #184: Show last label only on a line chart in Power BI",
+      "excerpt": "Displaying only the last label on a line chart is quite a common scenario that is not supported in Power BI by default, so in today's vide I am going to show you how to do that with a little bit of DAX magic!  And sorry I forgot the link to the blog: https://datastud.dev/pages/projects  Here you can",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-184-show-last-label-only-on-a-line-chart-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-184-show-last-label-only-on-a-line-chart-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=tGL7C2gLOsE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tGL7C2gLOsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M26S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-08-31T07:55:56-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tGL7C2gLOsE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-189-which-function-is-faster-to-count-rows-count-or-countrows.md",
+      "title": "DAX Fridays #189: Which function is faster to count rows: COUNT OR COUNTROWS?",
+      "excerpt": "Which DAX function will count the rows of a table faster: COUNT or COUNTROWS?  Lets find out shall we?  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-189-which-function-is-faster-to-count-rows-count-or-countrows/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-189-which-function-is-faster-to-count-rows-count-or-countrows/",
+      "originalUrl": "https://youtube.com/watch?v=6kBI7AHnMd0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6kBI7AHnMd0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M4S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-21T04:42:41-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6kBI7AHnMd0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-191-create-a-last-invoice-calculation-the-process-calculation-and-troubleshooting.md",
       "title": "DAX Fridays #191: Create a last invoice calculation: the process, calculation and troubleshooting",
       "excerpt": "So, how do you need to think when creating a DAX measures? Do you create the measure in one step? Do you break it down in small steps? How do you troubleshoot it?  In today's video I am going to show you the steps you need to take to create a DAX measure and troubleshoot it. The measure is : last invoice",
@@ -860,315 +1172,6 @@
         "Power BI",
         "DAX",
         "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-battle-192-hasonefilter-vs-hasonevalue-vs-isfiltered-vs-iscrossfiltered.md",
-      "title": "DAX FRIDAYS BATTLE #192: HASONEFILTER vs HASONEVALUE vs ISFILTERED vs ISCROSSFILTERED",
-      "excerpt": "It is time for another DAX Fridays battle, and in todays episode I am going to show you the difference between HASONEFILTER, HASONEVALUE, ISFILTERED and ISCROSSFILTERED.  ENJOY!!  Here you can download all the pbix file 192 AT: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-battle-192-hasonefilter-vs-hasonevalue-vs-isfiltered-vs-iscrossfiltered/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-battle-192-hasonefilter-vs-hasonevalue-vs-isfiltered-vs-iscrossfiltered/",
-      "originalUrl": "https://youtube.com/watch?v=_ABW2iF8xzk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_ABW2iF8xzk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M2S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-12-07T08:36:30-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_ABW2iF8xzk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-decompress-gzip-files-using-power-bi-and-get-access-to-eu_eurostat-data.md",
-      "title": "Decompress gzip files using Power BI and get access to @EU_Eurostat data.",
-      "excerpt": "In today's video, I will show you how to access Eurostat open data using power bi.  Most data is stored in gzip files and you need to know how to decompress gzip files to be able to get the data. I will show you two methods in this video.  Link to Eurostat data portal: https://ec.europa.eu/eurostat/data/database?node_code=demo_gind",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-decompress-gzip-files-using-power-bi-and-get-access-to-eu_eurostat-data/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-decompress-gzip-files-using-power-bi-and-get-access-to-eu_eurostat-data/",
-      "originalUrl": "https://youtube.com/watch?v=S_lgoF-MCm4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S_lgoF-MCm4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M7S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-13T01:27:47-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/S_lgoF-MCm4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-difference-between-duplicate-and-reference-a-query-in-power-query.md",
-      "title": "Difference between duplicate and reference a query in Power Query",
-      "excerpt": "In this video I am going to show you the difference between duplicate and reference a query in Power Query and what you can use them for.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-difference-between-duplicate-and-reference-a-query-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-difference-between-duplicate-and-reference-a-query-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=i_JHm-b3Jes",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i_JHm-b3Jes\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M26S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-10-28T06:42:48-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/i_JHm-b3Jes/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-disable-refresh-in-power-bi-for-local-sources-and-more.md",
-      "title": "Disable refresh in Power Bi for local sources and more   ...",
-      "excerpt": "You have asked me if it is possible to disable refresh on local sources and the answer is yes in the Power BI Desktop, cant say the same about the Service though....   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-disable-refresh-in-power-bi-for-local-sources-and-more/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-disable-refresh-in-power-bi-for-local-sources-and-more/",
-      "originalUrl": "https://youtube.com/watch?v=uxsQUArF2Ts",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uxsQUArF2Ts\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M43S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-06-18T04:37:36-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uxsQUArF2Ts/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-document-all-power-query-m-code-without-copy-pasting-it.md",
-      "title": "Document all Power Query M code without copy pasting it",
-      "excerpt": "In todays video I am going to show you a trick that Chris Webb shared on his blog recently: how to document all M code using Excel. #powerbi #curbal #powerquery  To be able to properly follow along, make sure you check out Monday's video: https://www.youtube.com/watch?v=3edQe2tSq7g  Chris Webb blog post:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-document-all-power-query-m-code-without-copy-pasting-it/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-document-all-power-query-m-code-without-copy-pasting-it/",
-      "originalUrl": "https://youtube.com/watch?v=fseh56DYeLc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fseh56DYeLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M52S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-05-15T09:20:19-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fseh56DYeLc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dynamic-m-query-parameters-explained-how-it-works-security-concerns-and-limitations.md",
-      "title": "Dynamic M Query parameters explained: How it works, security concerns and limitations",
-      "excerpt": "In todays video I am going to go through dynamic M query parameters:  00:00 Intro on M query parameters 00:00 Security risks to be aware of 00:00 Limitations with M query parameters 00:00 Dynamically change the x-axis with query parameters  Link to Microsoft documentation: https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-dynamic-m-query-parameters#potential-security-risk",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dynamic-m-query-parameters-explained-how-it-works-security-concerns-and-limitations/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dynamic-m-query-parameters-explained-how-it-works-security-concerns-and-limitations/",
-      "originalUrl": "https://youtube.com/watch?v=c1mezIySFf8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c1mezIySFf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M10S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-30T07:44:33-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/c1mezIySFf8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dynamically-remove-columns-that-contain-a-specific-word-in-the-header-power-query.md",
-      "title": "Dynamically remove columns that contain a specific word in the header - Power Query",
-      "excerpt": "It is very common when importing data from excel or pdfs that you get a lot of empty columns. In today's video I will show you how to remove those columns dynamically using power query.  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dynamically-remove-columns-that-contain-a-specific-word-in-the-header-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dynamically-remove-columns-that-contain-a-specific-word-in-the-header-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=PZKlcgCZX6w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PZKlcgCZX6w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M58S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-04T02:26:00-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PZKlcgCZX6w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-easily-get-data-from-unicef-oecd-and-many-more-without-api-knowledge-sdmx-connector-power-bi.md",
-      "title": "Easily get data from Unicef, OECD and many more without API knowledge | SDMX connector Power BI",
-      "excerpt": "In todays video I will show you how to get data from international organizations easily in Power BI.  Linkedin group: https://www.linkedin.com/groups/12540722/  Discord channel: https://discord.gg/eMsHvzxqY7  .StatCam: Cambodian statistics http://camstat.nis.gov.kh/?locale=en&start=0  Pacific countries",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-easily-get-data-from-unicef-oecd-and-many-more-without-api-knowledge-sdmx-connector-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-easily-get-data-from-unicef-oecd-and-many-more-without-api-knowledge-sdmx-connector-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=7UWyXJ7qRTo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7UWyXJ7qRTo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M33S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-10-25T03:32:10-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7UWyXJ7qRTo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],
