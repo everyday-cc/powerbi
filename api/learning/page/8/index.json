@@ -2004,7 +2004,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-infrastructure-social.png",
@@ -2213,7 +2213,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-infrastructure-social.png",
@@ -2656,8 +2656,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6182,
-            "average": 4.7680364
+            "count": 6183,
+            "average": 4.7680736
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3386,8 +3386,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 6182,
-        "average": 4.7680364
+        "count": 6183,
+        "average": 4.7680736
       },
       "provider": {
         "name": "Microsoft Learn",
