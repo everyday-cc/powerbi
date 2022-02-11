@@ -524,8 +524,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 18042,
-        "average": 4.76333
+        "count": 18046,
+        "average": 4.763216
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -858,8 +858,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 9317,
-            "average": 4.760438
+            "count": 9319,
+            "average": 4.760382
           },
           "provider": {
             "name": "Microsoft Learn",
