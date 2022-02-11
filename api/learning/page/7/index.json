@@ -1385,7 +1385,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 131,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1594,8 +1594,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 88,
-            "average": 4.8295455
+            "count": 89,
+            "average": 4.8314605
           },
           "provider": {
             "name": "Microsoft Learn",
