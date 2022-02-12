@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/how-to-share-your-power-bi-dash
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-to-share-your-power-bi-dashboards-and-reports/amp/"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:
