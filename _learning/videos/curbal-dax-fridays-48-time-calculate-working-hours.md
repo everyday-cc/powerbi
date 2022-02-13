@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M51S
 publishedDateTime: 2017-08-24T20:11:12Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f1Si47372Pk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "BE7YrLxMcQHcRpayDJyD40t9H3G2I+gglCI1YOZOMLyvEDq3VSXQx0ifJb3rfE/Itegy9yghJDX/70CnC4rN6nCMDx8a7DlQYV4R45nlQdwSFvEFlRNEB4o+D/AJbNB1pVBtoZO5QE5dQFUKLQzouNx9xJ9Incd5kZ9kqBtvoHfEhh4SrYYatPbOW8B5pq1LkyP95pR/ollXAipvyfBjT1XiG0t/MHrS6fmriwkc4qe5xs6+pAG8zCQjDlj3rfo/I5RT8vqfL0fQBCsAhl9cH4w9OqCIlgOD4caD16xL6NpjpZueW/u4uxeohn45rYErf/z26YVMHSPtunlxqqhzKx6BiyyRq4dfmEenItjBuIVFhUnOLCkA2Bok/Pum9Fqle7tM3U7LUkvvG3gbUvDj80kr6RgU16jcEBhyKPnvPcs=;xJ/95/Fd42ofN1LZu/d3Qw=="
+secured: "B150+R9TI/GbKCtHHjC3oqxQkeKQx9eSfxenh2hCr7Le0xxHPCZozvQG0Ogqyoz+FEDDYnVWpyMXYKGOXf4GneVUyMb3AW+HMzlb9MOMxwG75eADWeW7AqL+dkAAB6hj6aUTmlchtbBGW7NrFsSgALFqgq/8GpztkJp1mPmwyv+7HQuEnMdjnuGL8/YSXdxy4GWw1EiRX4kXZbpi13MwYNQ2GPJ51r/p4rD6m9PaeTh1UuMkTw6kqqfSZBAjOe4O9ebasLpLkfNFL/yiRYdOfmWqzvK7HbVCO+z+7JLtEFSFhbh0sKJqNPcvmr7z52UKOFUFQzPQW7H8Ie/elvHTt8yxBAAfz1ToCfnWleyt8vfBvevN+2K5yVDBl5RL5Ng0Cf8b44r9ZrT+ipyFxRrLF3poAj5XcNBStkRc7ZjX/sw=;XDr7en7A9MMfpP0/4GJD+g=="
 ---
 
