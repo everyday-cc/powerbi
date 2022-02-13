@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 9332,
-            "average": 4.7603946
+            "count": 9334,
+            "average": 4.760339
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 11605,
-            "average": 4.7749248
+            "count": 11606,
+            "average": 4.774858
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -136,8 +136,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 11605,
-        "average": 4.7749248
+        "count": 11606,
+        "average": 4.774858
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -255,8 +255,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 23746,
-        "average": 4.7236166
+        "count": 23748,
+        "average": 4.72364
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -273,7 +273,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 73,
+      "heat": 76,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
@@ -564,8 +564,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 9332,
-        "average": 4.7603946
+        "count": 9334,
+        "average": 4.760339
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2181,8 +2181,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 11624,
-        "average": 4.679284
+        "count": 11625,
+        "average": 4.6793118
       },
       "provider": {
         "name": "Microsoft Learn",
