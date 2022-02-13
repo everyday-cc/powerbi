@@ -17,7 +17,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2022-02-07T00:51:04-08:00",
-      "heat": 132,
+      "heat": 131,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6ArFD3hrkQA/maxresdefault.jpg",
@@ -186,8 +186,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 2098,
-            "average": 4.749285
+            "count": 2099,
+            "average": 4.7494044
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1079,8 +1079,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
       "length": "PT20M",
       "ratings": {
-        "count": 2098,
-        "average": 4.749285
+        "count": 2099,
+        "average": 4.7494044
       },
       "provider": {
         "name": "Microsoft Learn",
