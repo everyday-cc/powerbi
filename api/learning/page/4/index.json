@@ -2917,7 +2917,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-requirements-social.png",
@@ -3946,8 +3946,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 9343,
-            "average": 4.7601414
+            "count": 9345,
+            "average": 4.7601924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3988,8 +3988,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 11617,
-            "average": 4.7742963
+            "count": 11618,
+            "average": 4.7742295
           },
           "provider": {
             "name": "Microsoft Learn",
