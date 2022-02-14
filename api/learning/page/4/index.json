@@ -2097,8 +2097,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 62,
-            "average": 4.774194
+            "count": 63,
+            "average": 4.7777777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2616,7 +2616,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-requirements-social.png",
@@ -3645,8 +3645,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 9349,
-            "average": 4.7602954
+            "count": 9350,
+            "average": 4.7603207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3687,8 +3687,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 11626,
-            "average": 4.774213
+            "count": 11629,
+            "average": 4.774271
           },
           "provider": {
             "name": "Microsoft Learn",
