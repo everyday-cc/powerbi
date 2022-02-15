@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M38S
 publishedDateTime: 2018-07-16T15:11:29Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VmiAla2SATQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "tX2GNnxk1WnEn+YjSAiK7AgiwB+AqLwqlEr73+skUOZVc3HrePJ7dmM9HGJYmrV9Rm8ytUe7CXJiamwKQwEmkifnOKF7JEiBwBQlAQvwihEqNRlCtGIQ5mERegQ3I4gJpSml5izumGRUXHiuxsHcxluxftYawGDQfrEHTlbOR9InCPM3fGcSeRrbCyQHqyKgUrlNX2LUwra0pDyCJRCVF5nii5tpIiWS00j4YzfPgYwobP/YJBehi0EzkDClyLHI1/NJCgVW2xC2OtJbeL8LOTBgSh559/dsme7EIzLv0BwHUgccrq4COXIBUt/6J7CzUIrxboBNidyJcrF6UoEZ0zw2vr5VropWqxSHtoKKQudHJ4UaN8IUlYnoL9ug5AeV8BcEaxqDnBcxJhdR4YljRF710eOKpeHYBU1+Ev4gPpY=;ZmIuDmbWQTrsiGJD30GehQ=="
+secured: "KGpjKpJHR1E3A202MgMiknERVOeep/gowzrDgWlybEqlZL0LDBY6c7E/GpGAMeT42as89P9lYAIXzxt1F5n6zBsbDSLKQWWVWhfli/1HYHEpbyXlU26PW4Ev3XdkWICaecEyROqxxXfvAUXhuiXykiXAF7k47AqdK5BFqSVT/mmXyXoJrXw+KURm1FBIF3UZvYjQWTpSS7AwOwihgAz3YG9oNeUlyKd6xFXowG4oZyCtzqkRBkXahxlvjB8+P2jP0lWTdMZUGJUQOxca0jMcEmVjTQ4bsjWwsnJfwHx5Aa7Hv8Ds2ETazQhvWod39wcYiuEROIWBm4jMzDlJCSqZ3mGKUKIlpkPEKaFSJuolAgmHjt0M/lOQLuLju4cbfoGBtJJ84NQoZF5fWEnG4n9hCfzeR9wQp+VE2lPOOvqLOgE=;st9NER7ZaFgf0WR+fs6Imw=="
 ---
 
