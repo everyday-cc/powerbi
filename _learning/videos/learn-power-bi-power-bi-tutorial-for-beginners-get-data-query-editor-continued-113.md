@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M51S
 publishedDateTime: 2017-05-08T10:46:44Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G7UI2jI43vw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "A0E6CgzPVuUEXBASBVqN1WBeD13WwLW+EIvUxRfd72errS7ESVpvQWBFMsbwIRuGFw+cC2BZTaCTdh0wxHOT0gCVmvi8krqwQRoVBPLA058mlRIiwhKTcCMAEvhTHbEPritT2PMFVY1KJfqzA1aTL1/XA6AwcKgcdB1/wk7QQHa+HM9Ezh7v4AVppS90PHX1S8fMnUdDWwTs8X7y2tETSduZZiv4Jh0uFLXBoU5Ql/Y7ZZQ04FWwNm7RjDJvJ4XZGpWnV8MH5IP9Usa7mMAgqT3YsoUy+288q5T5QQ7WhyZSXFTaR8azEKK2mjmAI7cz2JBGTfHlWcNSpHmM0eUNK0zPBdGuJs0+cw0RLHimio8CEA8hZVAMoTqn2OzlXXyk5BxX161MWh5stQpemK+yJcc2/6c05AxFfGmT6N+eW8I=;piK0fiCm9XU35J+Yr2szVA=="
+secured: "YONork+2UQlzdNBGeDb87QgkqYNezj/A2ii1qMSDs4gFYgLTCf3kwojdcCbNRRd5cNd3wvjaaMbFWoDX73kB3NXRoiLuy5ixf4CIWNzItyvw5W8r0IkNrBo+6MaqgfVHl/WxoA4jFaP76MwWD+OkodPHiASOEFxGIHzd48QaaWypv13iEU6W/MV+NbX6pRlh7AfnXWfCmgCP8b1aZ1cODFlkbei+WrNdNoonVpjxMdKrMU8DC2/9SAr8ZqOvVW77ijli8BBJsjoBKH7bUGEnZzohKTh3fkE/t8rk1WQFuStgpkHHdkJI2REsmW0ocA9T9IFdhT5V+g2qUlwMBQE5zPHqsv+JahMlPRtxPe6u1fPOD6aDpvR5+iryfW+dWQrdX8htj7HM9WVCU/F/NRNasaiRZiBCIxoLelKHFy/oRLQ=;g9+tsdb2EE3OpvbX1qDogA=="
 ---
 
