@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4H34M43S
 publishedDateTime: 2019-06-21T03:44:15Z
-heat: 50
+heat: 
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TOml5Pbfp2w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Power BI
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
-secured: "vXNuaIG8ZDb6r1g7dT8LXqJjevVwZfi614W8GyOEu79Q5zd3wh8AWa77RXvnqN1UzZbvwTbKCXpIrMH7fSI2ZPQ5HGZojgexBt1geXuK9/idct88bv+w7oxMtWwEVModAlaUZ8vQyn4y+F4bjZZjaMC+/02Q8eX3UozbYptI2vhsIG2fRmjIp6EGN2A9SP18jhbVjBkIOQYgf5tMsRFish3jca/6W4bGUpVEpnzRdyTDAVSpw+wuMuxoAYKFlZ1GTkoLrYfiDi9K5Jb7oKZyrvtSJC97cyZrA+Q7rqA4V6NNBQdyE9kNwK9p/QGNzlVTGJMHM63tPFmhlyAQCKOG33ubgA1mU7Qfgy0KwVg1k7lYUY/7GMP/30gTlRykwhauwpEoo16AC2kaUzbgHiAcmQ==;LJJuN9qw2XIWy6mmf5YwRg=="
+secured: "RPlKfl6twVZGq0FrMYNGmiSlhy0rwx7sFkKK+gTyQpaSU94Fgh5Jcmbzs1V6ZIFoo4TtYSeb/5o7ROJynWs/oIYKR43A1+M/v9ohvqIiceDRYBWShYaxf6HnxUHluzKC3uL+KVz716cAD7bJ/yveJ0fHWFQAEiiTb9iFhsRCdUgBhDwxRNSiClDJEuJZI+5OUcAOektWycFxJdyaZzqu53AkAzl9wqlqrRAfeE770a/1TTY9pz0aHabj290xQKz7iIoBBS00XV2beogpVciIqGkF47w7zwJLAwP67WjbKlQ/kHeFRgHsfeZKsC+GLU2ak1NWNneoFrbKhTibYRT8Mkr5bhi3m0i3Xxo/pVjLsMdACcUY8507o2SNBbkJ2yMJIR5jV3pmKZYYYifaMu0nZQ==;W5+ekpsy9OwwDXSB5YueTA=="
 ---
 
