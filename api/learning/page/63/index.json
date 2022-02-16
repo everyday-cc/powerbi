@@ -4,6 +4,66 @@
   "page": 63,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-new-model-view-updates-in-power-bi.md",
+      "title": "New Model View Updates in Power BI",
+      "excerpt": "With November 2020 Power BI Desktop, we have a new Model View available for exploring. During this video, I am going to talk about how the new Model view will be looking like in Power BI Desktop. Power BI Desktop launched some new icons for the Model view. We need to upgrade our Model view first. Once",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-model-view-updates-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-model-view-updates-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=lkUFS3CzItc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lkUFS3CzItc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M57S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-11-29T06:12:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lkUFS3CzItc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-new-power-bi-experience-in-microsoft-teams.md",
+      "title": "New Power BI Experience in Microsoft Teams",
+      "excerpt": "During this session, we will be talking about the new Power BI experience in Microsoft Teams. During Ignite 2020, Microsoft announced a feature that, users can use Power BI Service from teams without leaving the context of Teams.   This feature is very useful for modern workspace users where we can use",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-power-bi-experience-in-microsoft-teams/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-power-bi-experience-in-microsoft-teams/",
+      "originalUrl": "https://youtube.com/watch?v=db-VftNq_58",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/db-VftNq_58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M24S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-19T04:22:47-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/db-VftNq_58/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-new-ribbon-vs-old-ribbon-experience-in-power-bi-desktop-whats-changed.md",
       "title": "New Ribbon Vs Old Ribbon Experience in Power BI Desktop - What’s Changed?",
       "excerpt": "In this vlog, we will talk about the difference between the New Power BI Desktop ribbon Vs old Power BI Desktop ribbon in detail.  Microsoft recently introduce new Ribbon for Power BI Desktop in November 2019 update. If you did not update your Power BI desktop, please update the Power BI Desktop and",
@@ -125,36 +185,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-pie-chart-rotation-in-power-bi.md",
-      "title": "Pie Chart Rotation in Power BI",
-      "excerpt": "Welcome to one more Short Tip and Trick on Power BI. In this video, we will talk about how we can apply Rotation for Power BI Pie and Donut Chart. Currently, pie and donut chart slices are drawn in clockwise order, beginning at the twelve o’clock position, which often results in the final slices being",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-pie-chart-rotation-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-pie-chart-rotation-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=9UWDF8cGMeA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9UWDF8cGMeA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M26S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-12-16T21:28:39-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9UWDF8cGMeA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-power-bi-june-feature-summary-area-chart-transparency-sliders.md",
       "title": "Power BI June Feature Summary - Area chart transparency sliders",
       "excerpt": "Welcome to Power BI Desktop June 2021 Feature Summary. During this Short Power BI Tip, we will learn how we can apply transparency for Area and Stacked Area Chart in Power BI. Earlier, the transparency value set the default to 60%. During this session, we will learn how we can set transparency for Area",
@@ -245,36 +275,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-power-bi-tip-display-selected-item-from-the-slicer-to-the-slicer-header.md",
-      "title": "Power BI Tip - Display Selected Item from the Slicer to the Slicer Header",
-      "excerpt": "In this video we will talk about how we can display the selected item from the slicer to the slicer header.  We all know that we can have single select and multi select dropdown option available for the slicer. When we select the single item from the slicer, it will display the selected item to the header",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-tip-display-selected-item-from-the-slicer-to-the-slicer-header/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-tip-display-selected-item-from-the-slicer-to-the-slicer-header/",
-      "originalUrl": "https://youtube.com/watch?v=pBWR4EF3Wzc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pBWR4EF3Wzc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M39S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pBWR4EF3Wzc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-powerbitip-create-animated-gauge-with-dynamic-title-in-power-bi.md",
       "title": "PowerBITip - Create Animated Gauge with Dynamic Title in Power BI",
       "excerpt": "This video covers a short demo or idea to create the Animated Gauge Chart within the Power BI with the combination of the slicers.  Article is coming soon!! Download Power BI File using URL: https://github.com/Dhruvinshah16/Power-BI/tree/master/PBI-AnimatedGaugeChart     Contact me for any Questions,",
@@ -302,37 +302,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-powerquery-tips-split-multiple-columns-to-rows-at-once.md",
-      "title": "PowerQuery Tips – Split Multiple Columns to Rows at Once",
-      "excerpt": "In this vLog, we will learn about splitting multiple columns to the rows at once using the PowerQuery. We can easily split single column using the OOTB option very easily, but what if, you have multiple column which needed the split operation? At that time we need to use function Text.Split() and Table.FromColumn()",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-powerquery-tips-split-multiple-columns-to-rows-at-once/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-powerquery-tips-split-multiple-columns-to-rows-at-once/",
-      "originalUrl": "https://youtube.com/watch?v=9wFVAWLvZMc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wFVAWLvZMc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M58S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9wFVAWLvZMc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     },
     {
@@ -549,36 +518,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-remove-users-from-power-bi-workspace-using-power-bi-powershell-power-bi-and-powershell.md",
-      "title": "Remove Users From Power BI Workspace Using Power BI PowerShell | Power BI and PowerShell",
-      "excerpt": "In this video, we will learn how we can remove the users from the Power BI Workspace using Windows PowerShell.   Power BI PowerShell provides us with the flexibility to remove user permission from the specific Workspace. In this video, we will learn how we can remove the user using the PowerShell Script.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-remove-users-from-power-bi-workspace-using-power-bi-powershell-power-bi-and-powershell/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-remove-users-from-power-bi-workspace-using-power-bi-powershell-power-bi-and-powershell/",
-      "originalUrl": "https://youtube.com/watch?v=r3Ou7AGLI-I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r3Ou7AGLI-I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M25S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-02-02T20:08:08-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/r3Ou7AGLI-I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-resolve-contact-your-admin-to-enable-code-creation-error-while-using-publish-to-web-option.md",
       "title": "Resolve “Contact your admin to enable code creation” Error while using Publish to web option",
       "excerpt": "In this video, we will talk about how we can resolve an error – “Contact your admin to enable code creation”. To publish this report on the web, ask your Power BI admin if they will allow you to create new publish to web embed codes. Once they turn that on, you will be able to publish this report to",
@@ -716,6 +655,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/JEZo7wdrtUw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-small-multiples-in-power-bi.md",
+      "title": "Small Multiples in Power BI",
+      "excerpt": "Welcome to my new Power BI session on Small Multiples in Power BI. “Small Multiples”- a new feature rolled out during December 2020 Power BI Desktop Update. Small Multiples is available as a Preview feature at this moment. This is a very cool feature we can use with our stacked bar and column charts,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-small-multiples-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-small-multiples-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=0LpN-K4eppo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0LpN-K4eppo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M29S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-12-16T22:37:37-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0LpN-K4eppo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -907,6 +876,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-tip-hide-filter-pane-from-the-power-bi-desktop.md",
+      "title": "Tip - Hide Filter Pane from the Power BI Desktop",
+      "excerpt": "In this video, we will talk about how we can easily hide the filter pane from the Power BI Desktop.  During December 2019, Microsoft rolled out a feature to hide the Filter Pane from the Power BI Desktop.  If you really like this video don’t forget to subscribe to my channel.  *************** Contact",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-tip-hide-filter-pane-from-the-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-tip-hide-filter-pane-from-the-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=YlCpvqduVKU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YlCpvqduVKU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M57S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:51:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YlCpvqduVKU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     }
   ],
