@@ -6,9 +6,11 @@ publishedDateTime: 2022-02-17T10:20:22Z
 originalUrl: "https://powerbi.microsoft.com/en-us/blog/create-stunning-mobile-optimized-power-bi-reports-with-mobile-layouts-new-visual-formatting-pane-preview/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/create-stunning-mobile-optimized-power-bi-reports-with-mobile-layouts-new-visual-formatting-pane-preview/"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 170
+heat: 170
+published: true
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vNK4xygN8Xw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Microsoft
@@ -20,6 +22,7 @@ provider:
 
 topics:
   - Power BI
+  - Power BI Desktop
 
 images:
   - url: "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png"
@@ -27,6 +30,6 @@ images:
     height: 630
     isCached: true
 
-secured: "Aqc8+Tq/1hOTI1Nr9vznT4dw0bCGcumz5GxdANgnPko79t/4IbpjPnLN8guDPgsFV8VmD1d0EhTNoheMD4ETWRtE1IZGgICHQBfVLufVpsPVocJjoJaWC3Uip8VRZXh1B2HStuONFJY1CCQ5h/6GKqN68Xy+aWhKZm/mScLjHWDJ60JzjH5wlybpCXrQ9PP7ZdYIhcU5hYl8OrHMS2WDo87H+bNxpsRG87GpFU+7FB27DIo0cZtrxHBe3XYPXgCnAw39DoRB0G12n/QOePcyoyQel1MydQ8+Hn8Mc+2JDyT5sO2MiOsPhfUs9fTk4PBCvgzms2nkc16ZMhPpBXt2q8zJbaiFDknIVpc3JzCNCKE=;YCvJr7DpaZd/A/bOF6duAQ=="
+secured: "eSYgH9Eu5I/+mCwHeBxsIqHwewB79eCvIG+GzN13cMf9MiwIJXkuPDFU23goU9lryXb227fLKsE+89shCYvDP5ZgtDt/Zurvur0Vs4fFfeKO4bc3gLpC783VYF6Q8d9HoszjX0HjsYAXCzw1YoS0h2Dqgcd+Br3O1QvgcYwj+Y3TsSonmo2sKAnrYk8CAAFUAlBoF4AR7uTMWojg6vWcgu/pGKgPN0qT8gEQGu5wjCywq0tJQFlBilF68gCchfAY6EmDK+MKwdoX9uq1v0sCdoUHyNRroKn4c+C4odyaCSuHZi8x8MHMi149+0zL3BP//JSM4RYbdlHHTdeSXpEaetD/Cz+ECqNoIBZyxTmxL+wPOSx2p6oACSNkNTOTUiGlQriWav6jw6aLFSWZSpwKEnlR2GbSvjYgJZz35XW6vFg=;CReqO4/a22Fi8BRGk5Z2nA=="
 ---
 
