@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/inforiver-no-code-partner
 webUrl: "https://powerbi.microsoft.com/en-us/blog/inforiver-no-code-partner-innovation-for-end-user-self-service-inside-power-bi/"
 type: article
 quality: 82
-heat: 83
+heat: 82
 published: true
 
 provider:
