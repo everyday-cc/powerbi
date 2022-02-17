@@ -1529,7 +1529,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-intro-social.png",
@@ -2598,8 +2598,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4866,
-            "average": 4.711056
+            "count": 4867,
+            "average": 4.711116
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2616,7 +2616,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 56,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-measures-dax-power-bi-social.png",
@@ -2641,8 +2641,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6236,
-            "average": 4.768762
+            "count": 6238,
+            "average": 4.768676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2724,8 +2724,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 114,
-            "average": 4.6578946
+            "count": 115,
+            "average": 4.6608696
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2766,8 +2766,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 46,
-            "average": 4.630435
+            "count": 47,
+            "average": 4.638298
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2808,8 +2808,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-calculations/",
           "length": "PT57M",
           "ratings": {
-            "count": 39,
-            "average": 4.3846154
+            "count": 40,
+            "average": 4.4
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2850,8 +2850,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-organize-fields/",
           "length": "PT52M",
           "ratings": {
-            "count": 32,
-            "average": 4.5625
+            "count": 33,
+            "average": 4.5757575
           },
           "provider": {
             "name": "Microsoft Learn",
