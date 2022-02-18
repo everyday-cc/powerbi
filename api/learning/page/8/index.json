@@ -511,7 +511,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 131,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -602,8 +602,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 135,
-            "average": 4.7703705
+            "count": 136,
+            "average": 4.772059
           },
           "provider": {
             "name": "Microsoft Learn",
