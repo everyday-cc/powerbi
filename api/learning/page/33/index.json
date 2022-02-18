@@ -685,8 +685,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 56,
-        "average": 4.75
+        "count": 57,
+        "average": 4.754386
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -854,8 +854,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-data-connectivity/",
       "length": "PT50M",
       "ratings": {
-        "count": 49,
-        "average": 4.632653
+        "count": 51,
+        "average": 4.5686274
       },
       "provider": {
         "name": "Microsoft Learn",
