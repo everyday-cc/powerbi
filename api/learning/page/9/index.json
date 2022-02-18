@@ -118,8 +118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 71,
-            "average": 4.7746477
+            "count": 72,
+            "average": 4.7777777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -996,8 +996,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-organize-fields/",
           "length": "PT52M",
           "ratings": {
-            "count": 33,
-            "average": 4.5757575
+            "count": 34,
+            "average": 4.5882354
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1474,8 +1474,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 8071,
-        "average": 4.772023
+        "count": 8074,
+        "average": 4.772108
       },
       "provider": {
         "name": "Microsoft Learn",
