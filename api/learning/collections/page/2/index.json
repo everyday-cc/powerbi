@@ -1447,7 +1447,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-environment-social.png",
@@ -2098,8 +2098,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 94,
-            "average": 4.8404255
+            "count": 95,
+            "average": 4.8421054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2283,7 +2283,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2517,8 +2517,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6249,
-            "average": 4.767643
+            "count": 6250,
+            "average": 4.76768
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3227,8 +3227,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11684,
-            "average": 4.6798186
+            "count": 11686,
+            "average": 4.6796165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3261,8 +3261,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9299,
-            "average": 4.706205
+            "count": 9301,
+            "average": 4.7060533
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3303,8 +3303,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 299,
-            "average": 4.7257524
+            "count": 300,
+            "average": 4.72
           },
           "provider": {
             "name": "Microsoft Learn",
