@@ -397,8 +397,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 9454,
-        "average": 4.7601013
+        "count": 9455,
+        "average": 4.760127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1523,7 +1523,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-add-calculated-tables-social.png",
@@ -3440,8 +3440,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 76,
-            "average": 4.8421054
+            "count": 77,
+            "average": 4.844156
           },
           "provider": {
             "name": "Microsoft Learn",
