@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 131,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
@@ -96,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
       "length": "PT34M",
       "ratings": {
-        "count": 110,
-        "average": 4.8
+        "count": 111,
+        "average": 4.8018017
       },
       "provider": {
         "name": "Microsoft Learn",
