@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 55,
+      "heat": 54,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/manage-datasets-in-power-bi-social.png",
@@ -95,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 3481,
-        "average": 4.804079
+        "count": 3482,
+        "average": 4.8041353
       },
       "provider": {
         "name": "Microsoft Learn",
