@@ -2683,8 +2683,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 52,
-            "average": 4.576923
+            "count": 53,
+            "average": 4.5849056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2743,7 +2743,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-calculations-social.png",
@@ -3203,7 +3203,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",

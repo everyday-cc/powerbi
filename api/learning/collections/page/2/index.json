@@ -2436,8 +2436,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 52,
-            "average": 4.576923
+            "count": 53,
+            "average": 4.5849056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2496,7 +2496,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-calculations-social.png",
@@ -2956,7 +2956,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3625,8 +3625,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 5976,
-            "average": 4.7583666
+            "count": 5978,
+            "average": 4.7584476
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3710,8 +3710,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6267,
-            "average": 4.767991
+            "count": 6269,
+            "average": 4.7679057
           },
           "provider": {
             "name": "Microsoft Learn",
