@@ -3,7 +3,7 @@ name: "Avi Singh"
 bio: "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge"
 location: Seattle, WA
 type: "profile"
-heat: 72
+heat: 57
 
 affiliation:
   name: Learn Power BI
@@ -14,7 +14,7 @@ website: https://www.learnpowerbi.com/
 twitter:
   username: powerbipro
   url: https://twitter.com/powerbipro
-  followers: 5168
+  followers: 5167
 
 linkedin:
   url: https://www.linkedin.com/in/avichalsingh/
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Avi Singh"
 
-secured: "r1eaxNj/hNGHpUWEsDdS7/xRHPR2zfviI/TWl6AnIiynuGmEjDgYZvCKLdYuAzXZ5y8zB/Tiehh5Ilr+GjCxKLwvTU2uf06Gcgo+Ni3NPouEJVUjl2Fl161tbKjiX96mUIxbQ8m0P3YUDG1nTKY6zQv5UPs/RsbLpIaOMMGR2oBrDfwkFkT1wIBQNry96i0B6WxThsfKYdUK3uSsj0OG4WFC94ZZVgA7UMtIuz81yVBlW+UD3h+aLf/hBvotcZ/YGsB9tCgsNfueAg02rqBS7Xmrx/dxyk/rt6TztZsmw3YXFB1RFUWkfuhPOQ1LHGlbCvkhS/Key3wUoFKB6vTVuIG4b0ySqpVXQI6ugoncx6S1PriLMeLd7lag4z7gl/k4U54hudatMZ0hhG+mb+wPjc0qebwgXWZwsRdsXirNkX4=;Tarxox/N9GXFlbik0GVC9A=="
+secured: "g4seIEDYOk+TLDm15Aph1fhECLKMCBsbN+3pZdO3Ob0eCJRu/WiVZfqAHrERparZiQHAEcgBLMhxnh2qYOfgNB0rwDLc/CG++XYMDFtgfXqAdD16oM4NHVVCGtJE37iaqEU4QH8TrJpi9ds5GDp3ugnhuXFWeZgdGW/OS+LrfF+uySdhXfSBF6hkwXMuksfrHqz6sTY631FJHvjtsKg4Kj5F53EM8V4B1kp1avBlFMqWKzKORPaX+t+7DWK/Htry8opuiho/ErjP9E2H06qUgH6FFT0uktkk6Ot2ctEpjtNgBsBfqCZ07fDjW86BPL9sAcvm2ci5cnY/tNWTX3vlJQdSoBvnvdExIWmi47B6kq19IGB2enn33d0heqf+wcTAhqBFO519QaS61r/YiTAhPvWII3zIhpQk1LCZmLVxaFA=;t/mon83/SzjhMH6gzG7n/Q=="
 ---
 
