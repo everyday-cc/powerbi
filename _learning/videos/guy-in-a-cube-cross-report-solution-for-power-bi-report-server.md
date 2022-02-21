@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M36S
 publishedDateTime: 2020-02-10T00:48:05Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S-OE1T1_k3Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "cZInNcnZJbW/hwX+jEeOU7wAK4WCzqdprYWKLA7DX4Xk8ONHHk4kj36LTVTut8dgxLPmNGpZUEBlRwZa1+fFdXQewi+GtRM7Tr078ZqsbIE62+ksYpqju648Xkh8AAJCLzwdDITymphO51rCbcQ/EA62rJpFqEySPfdgcdusv+AwbaOgGUeJ9Bd137MMQiJQGepHGHO8WwWYEPosn1quIyD9gpCReExdlEPw+9yDQpQBYhO8f45Yb7132fdRoFEy4F9u0n5hDWmL+3udg7D2QLFTraYFPXwX6ZLWWL0z0MssCNfITqtHVvajROXbJww+kV8z8BvJ5m7fs9PYeQ8jBtE7kbu2ATlp8UjCIhUosj5V50CDOVo/dBT3Ybyo4GU9d6mFMyFI4NI3BgPFD/NQBFfo8VHfC2f5A2RtQmjHg6c=;AsX/Hs2ZdZdx2qmvTiDNUQ=="
+secured: "A/LHROOMstopFisRJTPN2+6othD9DOonnjwWKMZf7wexZIg5H9Qq9RPsYgFN1QFx881/8XDAP2FMyk5zCWxFU66AXnAAN0N2Un8LBQotL/PcfeSkv4rhFK+0Q51ZSL8kE94PPwiwCcy2RgPV33EIbxLBt4aozADgmO7qYup39IHEiZOMT3/qNd6PYSiRe8yN6uJeAX8aKK2ViS4R0GVkeOhqpIXLLGwrBc6nFtp3Uv7GVYaFXORYcybpdvMYcW5nvEgFnww2BNJy8Cektw9pW9WeGlO90yzaB2tSzpGQwwgQa4sidnL3+/0HG/Yaw+wMKrTUbmmOg9t6IddJxRXwfZqwDpQBVYiXfX2GP6BFzP9Oxm/uwnJfoBSkHAJox/om81khbKzwccDKNTzdj1FYktzS+HbPQVtRDww958joMNM=;8aabHrr41pWwnIjK9fLRKA=="
 ---
 
