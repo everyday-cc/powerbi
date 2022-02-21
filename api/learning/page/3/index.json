@@ -2863,8 +2863,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 124,
-            "average": 4.717742
+            "count": 125,
+            "average": 4.72
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2905,8 +2905,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 73,
-            "average": 4.780822
+            "count": 74,
+            "average": 4.783784
           },
           "provider": {
             "name": "Microsoft Learn",

@@ -144,8 +144,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 490,
-            "average": 4.763265
+            "count": 491,
+            "average": 4.7637477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -428,8 +428,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 225,
-            "average": 4.8133335
+            "count": 226,
+            "average": 4.8141594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -573,7 +573,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 133,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-transition-social.png",
@@ -638,8 +638,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 225,
-            "average": 4.8133335
+            "count": 226,
+            "average": 4.8141594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -783,7 +783,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 133,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-transition-social.png",
