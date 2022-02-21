@@ -4,7 +4,7 @@ excerpt: "As an administrator, how do you foster collaboration and share Power B
 type: collection
 price: Free
 length: PT1H15M
-heat: 61
+heat: 60
 
 provider:
   name: Microsoft Learn
