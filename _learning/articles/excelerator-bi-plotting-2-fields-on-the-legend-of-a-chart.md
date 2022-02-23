@@ -4,7 +4,7 @@ excerpt: "At a recent training course, one of the students asked if it was possi
 webUrl: https://exceleratorbi.com.au/plotting-2-fields-on-the-legend-of-a-chart/
 type: article
 publishedDateTime: 2022-02-17T01:32:20Z
-heat: 130
+heat: 80
 
 provider:
   name: Excelerator BI
