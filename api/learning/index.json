@@ -187,74 +187,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-combining-refresh-and-real-time-with-hybrid-tables-in-power-bi.md",
-      "title": "Combining refresh and real time with Hybrid Tables in Power BI",
-      "excerpt": "Tired of having to wait for the next refresh to see current data in your Power BI Report? Hybrid Tables is here to help you! Patrick looks at how you can use this feature to have an imported table that uses DirectQuery for the most recent data that hasn't been imported yet. BANANAS!  Announcement Blog:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-combining-refresh-and-real-time-with-hybrid-tables-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-combining-refresh-and-real-time-with-hybrid-tables-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=HckuKYlx8kk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HckuKYlx8kk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M28S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-01-13T08:00:07-08:00",
-      "heat": 140,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HckuKYlx8kk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-skills-needed-for-a-power-bi-developer.md",
-      "title": "Skills needed for a Power BI Developer",
-      "excerpt": "So you want to become a Power BI Developer, and wonder what skills you need to learn, what are the best resources to learn from, and where to start? This is an article and video explaining those in detail and helping you in your journey to become a Power BI Developer. Find all the links in my blog article",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-skills-needed-for-a-power-bi-developer/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-skills-needed-for-a-power-bi-developer/",
-      "originalUrl": "https://youtube.com/watch?v=Yau0tVP0H8U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yau0tVP0H8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-12-07T11:34:37-08:00",
-      "heat": 136,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Yau0tVP0H8U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/guy-in-a-cube-getting-started-with-power-bi.md",
       "title": "Getting Started with Power BI",
       "excerpt": "These videos will help you with getting started with Power BI. From Power BI Desktop to the Power BI service and items in between, this is a great way to get started.",
@@ -333,7 +265,7 @@
             ]
           },
           "publishedDateTime": "2021-01-21T08:00:02-08:00",
-          "heat": 81,
+          "heat": 82,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/B_bAKrXAUh0/maxresdefault.jpg",
@@ -444,25 +376,25 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-import-azure-active-directory-users-into-power-bi-an-step-toward-dynamic-row-level-security.md",
-      "title": "Import Azure Active Directory Users into Power BI   An Step toward Dynamic Row Level Security",
-      "excerpt": "A question that I often get when I explain what the dynamic row-level security in Power BI is and how it works, is that; how can we get all the users in an Active Directory tenant imported into Power BI? There are other benefits also to import Azure Active Directory (AAD) users loaded into Power BI for",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-import-azure-active-directory-users-into-power-bi-an-step-toward-dynamic-row-level-security/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-import-azure-active-directory-users-into-power-bi-an-step-toward-dynamic-row-level-security/",
-      "originalUrl": "https://youtube.com/watch?v=5lgfWkRKxgM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5lgfWkRKxgM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M",
+      "path": "_learning/videos/learn-power-bi-how-to-clean-messy-data-using-power-bi-query-editor-example-clean-names-with-comma-dash-space.md",
+      "title": "How to Clean 🧹 Messy Data using Power BI Query Editor? Example: Clean Names with Comma, Dash, Space",
+      "excerpt": "Want to get your Power BI Questions answered? 👉Visit https://www.LearnPowerBI.com/question In this video we answer the question sent in by Wico (Netherlands), on how to clean up messy data using Query Editor in Power BI. Wico was looking to clean “Names” (First Name and Last Name) where data had multiple",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-how-to-clean-messy-data-using-power-bi-query-editor-example-clean-names-with-comma-dash-space/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-how-to-clean-messy-data-using-power-bi-query-editor-example-clean-names-with-comma-dash-space/",
+      "originalUrl": "https://youtube.com/watch?v=kX4pfWh2LYQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kX4pfWh2LYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M48S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2021-12-09T18:20:15-08:00",
-      "heat": 133,
+      "publishedDateTime": "2021-12-15T06:00:21-08:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5lgfWkRKxgM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/kX4pfWh2LYQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -497,6 +429,49 @@
       "type": "article",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-enterprise-grade-etl-data-preparation-using-dataflows.md",
+      "title": "Explore enterprise-grade ETL and data preparation using dataflows",
+      "excerpt": "Explore enterprise-grade ETL and data preparation using dataflows",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-enterprise-grade-etl-data-preparation-using-dataflows/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-enterprise-grade-etl-data-preparation-using-dataflows/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 5,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Dataflows"
       ]
     },
     {
@@ -536,6 +511,44 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-understanding-the-interactions-between-composite-models-and-calculation-groups.md",
+      "title": "Understanding the interactions between composite models and calculation groups",
+      "excerpt": "This video explains how composite models and calculation groups work together. Indeed, they might show a very unique behavior that a good DAX developer must understand well to build sound models.\r Article and download: https://sql.bi/736563?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-understanding-the-interactions-between-composite-models-and-calculation-groups/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-understanding-the-interactions-between-composite-models-and-calculation-groups/",
+      "originalUrl": "https://youtube.com/watch?v=7Spn2FDxvGw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Spn2FDxvGw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M7S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-01-04T03:01:19-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7Spn2FDxvGw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -763,8 +776,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 53120,
-            "average": 4.7762423
+            "count": 53124,
+            "average": 4.7762594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -823,8 +836,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 53120,
-        "average": 4.7762423
+        "count": 53124,
+        "average": 4.7762594
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1046,8 +1059,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 53120,
-            "average": 4.7762423
+            "count": 53124,
+            "average": 4.7762594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1088,8 +1101,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 24063,
-            "average": 4.7245564
+            "count": 24065,
+            "average": 4.7245793
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1271,8 +1284,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 29006,
-        "average": 4.7374334
+        "count": 29007,
+        "average": 4.7374425
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1343,8 +1356,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 18456,
-        "average": 4.7626247
+        "count": 18457,
+        "average": 4.7626376
       },
       "provider": {
         "name": "Microsoft Learn",
