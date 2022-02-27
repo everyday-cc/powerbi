@@ -841,8 +841,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 76,
-            "average": 4.7763157
+            "count": 77,
+            "average": 4.7792206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -883,8 +883,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 66,
-            "average": 4.7727275
+            "count": 67,
+            "average": 4.776119
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3157,8 +3157,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 9548,
-            "average": 4.760578
+            "count": 9549,
+            "average": 4.7606034
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3293,8 +3293,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 9548,
-        "average": 4.760578
+        "count": 9549,
+        "average": 4.7606034
       },
       "provider": {
         "name": "Microsoft Learn",
