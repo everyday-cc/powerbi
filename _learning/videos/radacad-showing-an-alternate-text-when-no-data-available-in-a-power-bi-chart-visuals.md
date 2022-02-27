@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT4M40S
 publishedDateTime: 2020-10-30T03:17:09Z
-heat: 53
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KxZAEmV-oLE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "zgvTtWnwiVHzrRGy/rcENSqhY3QxxGo7HMr5CH2gTgpkIbWbzQkLwWaW76jO4ZON/32fa2A2zbQLb8LhRefkCETmHrwCWkyuxwOb0BgeVV65al8ezuzZbj+0pt80taBi1wi0Li03zNDKBVmEoexwWEWcZp4jkFGXJ9lCaVU342BxqOe8iXf0vRIxQKxb3p2paDIdd7EFcBZc24u3cjnpOUuOlRL7NOu5gaFqMvmFpBVRpRIjeqdnpbBMQQEP4z7e7mxWjK6Z+gXiqjqhrRcsMFm0eB7DpqoXb3G8/6MTSb4IuLc5YLZgj+4oWzgkI0XZt4+1fo3Wd4p/nN9a1p0T2/Sni3GABy2+B3TzUP8r6F8MCuDTE1mxi6eXbPgjDt/9DIsx3Pz9RkVDn0KRxmtiYWeedg383lwwDjNi1JWcWWE=;v+03Qqkq2VOBjz+DzQia+g=="
+secured: "gsDK+ScjdSZRVXhf4PCJ5zd0aAMCkYjTKbdigy7kOJtVZ4EZHExVUgveFuADoqtyWBiC1vu/CXiZKUwT6sY769LhPSnCSbQAIZ410j5r+mdeecbLHC1gdR+GZa2DbtYc+le7JDXTdeWGlyQIbd+Js466cm6Vddglyg7fvpH8fnJYjjFEgvH922RkU1Pu0IKAton+ZT7HxrmuXAO/sPGJ1mWg/9QoNQg/vjTIwZfEUaG2RZnC2M6SL81n3tNlFbQxvOZSC9ETvbFjr2BvND9EpqCQNzI2z9chb5LMSSXb21FTyLTXgd4pOUMtQD9vfwas2HBlvdOON+GUiEhYFyHPAsmJhvLQWVcOTTd7TnyJSWhOvTV6GGyDY/qoFkv2Co+bH7zBzfwRnz+XzhNX9ivKEnB/vyDzR3iRHy1JH/fgYVo=;OtWhHSz3YCbqpCxcI752uw=="
 ---
 
