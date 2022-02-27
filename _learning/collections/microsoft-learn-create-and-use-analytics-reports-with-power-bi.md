@@ -4,7 +4,7 @@ excerpt: "This learning path introduces you to Power BI, and teaches you to use 
 type: collection
 price: Free
 length: PT6H22M
-heat: 86
+heat: 79
 
 provider:
   name: Microsoft Learn
