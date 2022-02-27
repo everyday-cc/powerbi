@@ -227,66 +227,53 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-automate-data-cleaning-power-query.md",
-      "title": "Automate data cleaning with Power Query",
-      "excerpt": "This module introduces Power Query in Microsoft Excel, a powerful data connection, cleaning, and shaping technology that is a core part of the Microsoft modern analytics suite of business intelligence tools.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-automate-data-cleaning-power-query/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
-      "length": "PT1H29M",
-      "ratings": {
-        "count": 175,
-        "average": 4.8742857
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/automate-data-cleaning-power-query-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-how-to-clean-messy-data-using-power-bi-query-editor-example-clean-names-with-comma-dash-space.md",
-      "title": "How to Clean 🧹 Messy Data using Power BI Query Editor? Example: Clean Names with Comma, Dash, Space",
-      "excerpt": "Want to get your Power BI Questions answered? 👉Visit https://www.LearnPowerBI.com/question In this video we answer the question sent in by Wico (Netherlands), on how to clean up messy data using Query Editor in Power BI. Wico was looking to clean “Names” (First Name and Last Name) where data had multiple",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-how-to-clean-messy-data-using-power-bi-query-editor-example-clean-names-with-comma-dash-space/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-how-to-clean-messy-data-using-power-bi-query-editor-example-clean-names-with-comma-dash-space/",
-      "originalUrl": "https://youtube.com/watch?v=kX4pfWh2LYQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kX4pfWh2LYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M48S",
+      "path": "_learning/videos/learn-power-bi-power-bi-dashboards-for-specialty-coffee-industry-with-greg-baerg.md",
+      "title": "Power BI Dashboards for Specialty Coffee Industry with Greg Baerg",
+      "excerpt": "👉 Interested in becoming a Power BI Consultant like Greg? Join our Upcoming Event at https://web.learnpowerbi.com/consultant/   👉 Connect with Greg Baerg on LinkedIn at https://www.linkedin.com/in/gregbaerg/   👉 Get access to all the #PowerBIConference Sessions at https://www.PowerBIConference.com/recording",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-dashboards-for-specialty-coffee-industry-with-greg-baerg/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-dashboards-for-specialty-coffee-industry-with-greg-baerg/",
+      "originalUrl": "https://youtube.com/watch?v=S6T2gtiT_CI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S6T2gtiT_CI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M46S",
       "provider": {
         "name": "Learn Power BI",
         "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2021-12-15T06:00:21-08:00",
+      "publishedDateTime": "2022-01-05T09:00:17-08:00",
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/S6T2gtiT_CI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-sandbox-an-environment-to-learn-power-bi-service-for-free.md",
+      "title": "Power BI Sandbox   An Environment to Learn Power BI Service for Free",
+      "excerpt": "A question I often get from many students is: \"How can I practice Power BI service features if I do not have a Power BI Account?\". Not having a Power BI account can happen because of many scenarios; your company might close this option so that the process be only channeled through a specific process",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-sandbox-an-environment-to-learn-power-bi-service-for-free/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-sandbox-an-environment-to-learn-power-bi-service-for-free/",
+      "originalUrl": "https://youtube.com/watch?v=9ZMUHj--MVs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9ZMUHj--MVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M53S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-01-26T19:38:17-08:00",
       "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/kX4pfWh2LYQ/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9ZMUHj--MVs/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -296,7 +283,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power BI Service"
       ]
     },
     {
@@ -321,48 +309,6 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-prepare-to-teach-module-add-interactivity-features.md",
-      "title": "Prepare to teach the module: Add interactivity features",
-      "excerpt": "Prepare to teach the module: Add interactivity features",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-prepare-to-teach-module-add-interactivity-features/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-add-interactivity-features/",
-      "length": "PT24M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
       "topics": [
         "Power BI"
       ]
@@ -404,6 +350,36 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-import-azure-active-directory-users-into-power-bi-an-step-toward-dynamic-row-level-security.md",
+      "title": "Import Azure Active Directory Users into Power BI   An Step toward Dynamic Row Level Security",
+      "excerpt": "A question that I often get when I explain what the dynamic row-level security in Power BI is and how it works, is that; how can we get all the users in an Active Directory tenant imported into Power BI? There are other benefits also to import Azure Active Directory (AAD) users loaded into Power BI for",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-import-azure-active-directory-users-into-power-bi-an-step-toward-dynamic-row-level-security/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-import-azure-active-directory-users-into-power-bi-an-step-toward-dynamic-row-level-security/",
+      "originalUrl": "https://youtube.com/watch?v=5lgfWkRKxgM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5lgfWkRKxgM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-12-09T18:20:15-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5lgfWkRKxgM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -818,8 +794,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 53291,
-            "average": 4.7763977
+            "count": 53293,
+            "average": 4.776406
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -860,8 +836,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 24139,
-            "average": 4.7244706
+            "count": 24140,
+            "average": 4.7244406
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -903,8 +879,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 10906,
-            "average": 4.726664
+            "count": 10907,
+            "average": 4.7266893
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -945,8 +921,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 8153,
-            "average": 4.7714953
+            "count": 8154,
+            "average": 4.771523
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1309,8 +1285,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 33267,
-            "average": 4.799501
+            "count": 33268,
+            "average": 4.799507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1351,8 +1327,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 53291,
-            "average": 4.7763977
+            "count": 53293,
+            "average": 4.776406
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1411,8 +1387,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 53291,
-        "average": 4.7763977
+        "count": 53293,
+        "average": 4.776406
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1453,8 +1429,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 29136,
-        "average": 4.7374725
+        "count": 29138,
+        "average": 4.737422
       },
       "provider": {
         "name": "Microsoft Learn",
