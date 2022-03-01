@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M2S
 publishedDateTime: 2020-12-07T16:36:30Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_ABW2iF8xzk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5uKzdLdeVnaGSHE0himjpBLHpN0uSYJ7+tUg/dj2x3eg1LAiWM2cMq/LJZLVzQPPCKw9REfrnN1WZVuvC6N9wLzs++dSYiefQQYXZBiqLS7lDX6Ph80IauHjgUnkhdu1R9mlO2JAnabq7pode59HcALn+syqJ8Y0T1Gl+FsWwgP4SAbhhR9iiSjbH4gPrDze54MV1PKqdWgNInKF21CWSHMXkEhmqmME70ghx4ijoepJDdsbXh+HP7QWRvDa6mtI64acHDWcPbb11wiqvQG+oVohGQk2Rd0RB4d88VJ/AJy/+P1zgFa6RDC/w+6nQJi3iVMKr4qFUVi+rQk9B85r49QJ0uM0AmVH27LHKD6ES3RnQL5e70gGSBhiwsxOFaqdbI7yKABRjztO12kdgHC5xVXkuWbPgE8RV8o89M+KKzw=;TMSJx3lB/nHtaGToW3PWXA=="
+secured: "zbgxmDtxzE43Cysr+laLocvani4xmRNpVXQGZqn6GiQ9JPto9gtKPiPUO//B376NUm9zz/8gv9N60f2n7v9rAyFrcodE4rFcACMWwYjkvfaI8mp7QWoNCO4hFzf4lvPHp8JsFWdyrki6VdP2NM/5hDXpweXHS8pRTH6PYlPEDOODpIT+2b5Q5wN0RG6CJAmGDST4O1G7Qf1hsPoNp0XNkZ1nBrmi7mFL1TPzdjakxYXi8jCDWAjaNhGTSJPuNcycBf89+9vSiL53fiH8M3J1RO27ezkR2CW2oYYZL3DGFtixlFyxGkF5UoBuPG6uPhZwpmT7c9woGn6p0U8TN3nEd3zvIJqznI6JNY0eNlmKiipiYjBL6s6ZyGPqD8gNyIAtMoNr1qguai9Io7OQ855h6w37/laGeEYsL/bl1P9W590=;LAKzNIoUw3J+Is0J2xkZxQ=="
 ---
 
