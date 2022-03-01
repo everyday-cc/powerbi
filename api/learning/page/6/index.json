@@ -1160,8 +1160,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 151,
-            "average": 4.7880793
+            "count": 152,
+            "average": 4.7894735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1807,7 +1807,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png",
@@ -1919,8 +1919,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 907,
-            "average": 4.732084
+            "count": 908,
+            "average": 4.732379
           },
           "provider": {
             "name": "Microsoft Learn",
