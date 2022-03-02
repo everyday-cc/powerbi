@@ -2,7 +2,7 @@
 name: "Seth Bauer"
 bio: "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI."
 type: "profile"
-heat: 57
+heat: 41
 
 affiliation:
   name: Power BI Tips
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Seth Bauer"
 
-secured: "Zdy0yfSupjDhSEMqMq2cEkj/nBmpcdspHxMA7xXvWsLbFgza/38czGMu/bSnUF4QhN8ZKdRb73b22fgpRycS/Nzpg+/Unl4GNmarWs6hU40AZ9MZDknyycVqOZvEgibLVfXymkJVeETDuzEcI3K59DjbksjZqLWh3rGBsfMi3IchB7DJK5NWWPinrhS+XU9qcNrruEbsYtV0a8RT/gnPQ5JDHbwtY8wQWarfb8vRYrtRxDc9lvinoUuNKU5aRFYoFXh5hsfabu6KkTB7cGcMNoze8Bibr0W4apmEBcm1onYNbtxP+kqkaRDxBRztY1J8Xla2X0/xnvsBoyfmAUraXgqiyx94vISzCWwl44WCl6qOKLb14LsMGXHY2c9QMRs/ckEa7gXdkuaULraa8Mdcdwd8WHUHZEe6J7HvbtV7/dI=;WD+jzmW4xLYk/jEikUWrHA=="
+secured: "Gtc7PeVDQRFbwW3udfEzs9jZEHK0mVvjMHO1lTkTMK96JY9Kr8LbSwMjvqPWDL2xXLKOMkzuzjrJgz4Xx9GZJl4F8N50DxB4rH9iQJSijSWML2ekXJMpgrNhys5qFgbvah0CBMpU4dRVLhLErKC5RTak6iqCj+IvufnoiRxahysIwpB9PiuNcJ28V8AeWy89AuTuGs3Rbn0tpW5v6Lg/F7BUlAVF5WzyXQjU37RKRiX8Bd04bS4JKOFE1cVw7iLv49LZ7ZegyHVBgYnV5PFLF+ml5J0R4NSlx9p3vLlNhytszVnb1AjGQ0rNtJe4mOkcHHXD/ex6oDvcf8GTKMOEnuvrxWKeT+2jKOCiaBYrAZwycKtVPao7C7FgIRYk8EJTq1y/Idy16uZNzPFfR9jzis753xwZoUI6gckdjKmGsjc=;NEV1bItE60RvX7BzETdPNw=="
 ---
 
