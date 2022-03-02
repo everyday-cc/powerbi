@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M26S
 publishedDateTime: 2017-03-15T20:57:05Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ibuN4DzCl5c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Create reports in the browser for Power BI Embedded and other updates"
 
-secured: "M+aUzYXoooEu5L8Z7aYkNzIeDcGV4wrD00hLevTsp16/mdvi6ZzAFNK+0dec8PCrrBoBFGcPNm3h46oWnf0v9CuMRJClb/VIN/jHAp1RKAsEjeMeUVZAF/V2XvAg/wg87PGpGOZb/JCUQ8+sg4Mf1MjMwqSnohfsVLawI0OrFQkrl+fb6ZRXxCTedHiDWcoFNrEexqYqSmwk3N3XDfFyMTeaB79QfM9cbme8yUSl1oIqUtCTsnisgG/jL5fuqiKCBl4y9qG6NZunuWVCGfekoMVYMdlEjK1uk2eOoFMBEo/xDWiO+wVqCOdYDTLnleSYDOqk/OTQjXAFuEU/c4ywLOVdHVYY4f/rb/ciGCXgce7uderxl634F7bsHTxUM4AGhMpJ+g2Zq0QvN/GvWvhz5roJrRCPYpihDZ7zqpQRDLs=;UVOymyGh+/6Nd3Bc56k6gA=="
+secured: "aKNqE5ln9E4tGM9f++NazY/6GjQPDniJlxiFqcplefp78YVOEOjzkN2lQmUaOgGqz3Sdb/++FXkxkRvVBoDVYgGPVgmjP1HXETIAzXD0xTdV9enqO/yHrbdJ00uAwkyj0ZSJUWcObxwgsQ3KZHUw9UpeKSmyI+xipnXYiu/o3shixPN0+aoro7n5rpUir4OzNLRWl6kGEmXP0HE7unb2ON5Tshl3wevipMWerLWBpzWeRojOrJyIPHTq1yjw4RRNEWybcyqIO+pBQ3Aa8ivIhYglBomhwZ/QhJVHeXa6OK2lE0+Hsb6KtZRrBwLzEj5uW7NGBa2eciV6AJkcNNRFCB6eitnwbFSZHi+JZ+eeogqNNVSTaXEkdx16mvOLA3VssT8Fx7Hg36EI6sx11iUynXAUdDQZQPwyBftWMOktBmI=;ZnQ1Tx/eGLVArKDHwm66tg=="
 ---
 
