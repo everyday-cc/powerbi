@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/how-to-add-a-background-image-t
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-to-add-a-background-image-to-your-reports-in-microsoft-power-bi/amp/"
 type: article
 quality: 93
-heat: 93
+heat: 94
 published: true
 
 provider:
