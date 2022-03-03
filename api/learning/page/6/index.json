@@ -2134,8 +2134,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 128,
-            "average": 4.859375
+            "count": 129,
+            "average": 4.860465
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2176,8 +2176,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 109,
-            "average": 4.825688
+            "count": 110,
+            "average": 4.827273
           },
           "provider": {
             "name": "Microsoft Learn",

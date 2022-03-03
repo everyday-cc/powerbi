@@ -540,8 +540,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 18658,
-        "average": 4.7632117
+        "count": 18659,
+        "average": 4.763224
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1127,7 +1127,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 140,
+          "heat": 60,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-reports-with-power-bi-desktop-social.png",
@@ -1169,7 +1169,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 58,
+          "heat": 138,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-dashboards-power-bi-social.png",
