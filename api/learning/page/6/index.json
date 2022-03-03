@@ -2095,8 +2095,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 129,
-            "average": 4.860465
+            "count": 130,
+            "average": 4.8615384
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2322,7 +2322,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/automate-data-cleaning-power-query-social.png",
@@ -2532,7 +2532,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/automate-data-cleaning-power-query-social.png",
@@ -2682,8 +2682,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 6056,
-            "average": 4.759247
+            "count": 6057,
+            "average": 4.7587914
           },
           "provider": {
             "name": "Microsoft Learn",
