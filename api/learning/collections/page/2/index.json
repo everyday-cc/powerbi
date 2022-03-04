@@ -2325,7 +2325,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-data-connectivity-social.png",
@@ -3087,8 +3087,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3773,
-            "average": 4.724092
+            "count": 3774,
+            "average": 4.7241654
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3170,8 +3170,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 6072,
-            "average": 4.757905
+            "count": 6073,
+            "average": 4.757945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3255,8 +3255,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6365,
-            "average": 4.76685
+            "count": 6366,
+            "average": 4.7668867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3497,8 +3497,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2781,
-            "average": 4.774182
+            "count": 2782,
+            "average": 4.774263
           },
           "provider": {
             "name": "Microsoft Learn",
