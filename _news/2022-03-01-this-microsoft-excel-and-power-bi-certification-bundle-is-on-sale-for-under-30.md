@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/uk/deals/excel-bi-course-bundle?amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/uk/deals/excel-bi-course-bundle?amp"
 type: article
 quality: 93
-heat: 93
+heat: 94
 published: true
 
 provider:
