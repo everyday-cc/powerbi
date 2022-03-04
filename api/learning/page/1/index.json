@@ -187,14 +187,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-add-a-little-info-to-your-sparkline-in-power-bi.md",
-      "title": "Add a little info to your Sparkline in Power BI",
-      "excerpt": "Have you checked out sparklines in Power BI? Patrick explores how to set them up and also how you can be creative with them to add additional context to your reports!  KPI Video: https://www.youtube.com/watch?v=zHzSBNES6jE  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-add-a-little-info-to-your-sparkline-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-add-a-little-info-to-your-sparkline-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=NkRVaRUVO7s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NkRVaRUVO7s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M22S",
+      "path": "_learning/videos/guy-in-a-cube-combining-refresh-and-real-time-with-hybrid-tables-in-power-bi.md",
+      "title": "Combining refresh and real time with Hybrid Tables in Power BI",
+      "excerpt": "Tired of having to wait for the next refresh to see current data in your Power BI Report? Hybrid Tables is here to help you! Patrick looks at how you can use this feature to have an imported table that uses DirectQuery for the most recent data that hasn't been imported yet. BANANAS!  Announcement Blog:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-combining-refresh-and-real-time-with-hybrid-tables-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-combining-refresh-and-real-time-with-hybrid-tables-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=HckuKYlx8kk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HckuKYlx8kk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M28S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -207,43 +207,13 @@
           }
         ]
       },
-      "publishedDateTime": "2022-01-12T08:00:10-08:00",
-      "heat": 142,
+      "publishedDateTime": "2022-01-13T08:00:07-08:00",
+      "heat": 155,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/NkRVaRUVO7s/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/HckuKYlx8kk/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-import-azure-active-directory-users-into-power-bi-an-step-toward-dynamic-row-level-security.md",
-      "title": "Import Azure Active Directory Users into Power BI   An Step toward Dynamic Row Level Security",
-      "excerpt": "A question that I often get when I explain what the dynamic row-level security in Power BI is and how it works, is that; how can we get all the users in an Active Directory tenant imported into Power BI? There are other benefits also to import Azure Active Directory (AAD) users loaded into Power BI for",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-import-azure-active-directory-users-into-power-bi-an-step-toward-dynamic-row-level-security/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-import-azure-active-directory-users-into-power-bi-an-step-toward-dynamic-row-level-security/",
-      "originalUrl": "https://youtube.com/watch?v=5lgfWkRKxgM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5lgfWkRKxgM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-12-09T18:20:15-08:00",
-      "heat": 134,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5lgfWkRKxgM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],
@@ -281,31 +251,54 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-easy-financial-reporting-that-will-make-both-it-and-the-business-happy-.md",
-      "title": "EASY Financial reporting that will make both IT and the business happy 😃",
-      "excerpt": "Do you find financial reporting complex? Would you like to be able to combine the best features of Power BI with the best features in Excel to be able to do easy financial reporting? Then click play and let me show you!  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-easy-financial-reporting-that-will-make-both-it-and-the-business-happy-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-easy-financial-reporting-that-will-make-both-it-and-the-business-happy-/",
-      "originalUrl": "https://youtube.com/watch?v=IISYzTaIyu4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IISYzTaIyu4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M57S",
+      "path": "_learning/videos/radacad-power-bi-sandbox-an-environment-to-learn-power-bi-service-for-free.md",
+      "title": "Power BI Sandbox   An Environment to Learn Power BI Service for Free",
+      "excerpt": "A question I often get from many students is: \"How can I practice Power BI service features if I do not have a Power BI Account?\". Not having a Power BI account can happen because of many scenarios; your company might close this option so that the process be only channeled through a specific process",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-sandbox-an-environment-to-learn-power-bi-service-for-free/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-sandbox-an-environment-to-learn-power-bi-service-for-free/",
+      "originalUrl": "https://youtube.com/watch?v=9ZMUHj--MVs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9ZMUHj--MVs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M53S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2022-02-01T00:22:13-08:00",
+      "publishedDateTime": "2022-01-26T19:38:17-08:00",
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9ZMUHj--MVs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Service"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-sort-legend-in-power-bi.md",
+      "title": "Sort Legend in Power BI",
+      "excerpt": "Welcome to Power BI Tips and Tricks Video. This is a short and sweet video demonstrating the functionality to apply Sort on Legend values in Power BI. We can now adjust the sort direction for items in our legends! This will also help to reorder some of the data in visuals like stacked column charts,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-sort-legend-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-sort-legend-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=MuyweUNSo9g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MuyweUNSo9g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M2S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-12-15T07:36:54-08:00",
       "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/IISYzTaIyu4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/MuyweUNSo9g/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -576,8 +569,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 33619,
-            "average": 4.7992206
+            "count": 33626,
+            "average": 4.799203
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -618,8 +611,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 53644,
-            "average": 4.7764335
+            "count": 53651,
+            "average": 4.776388
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -678,8 +671,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 33619,
-        "average": 4.7992206
+        "count": 33626,
+        "average": 4.799203
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -758,8 +751,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 53644,
-        "average": 4.7764335
+        "count": 53651,
+        "average": 4.776388
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1055,8 +1048,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 53644,
-            "average": 4.7764335
+            "count": 53651,
+            "average": 4.776388
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1097,8 +1090,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 24293,
-            "average": 4.7250237
+            "count": 24295,
+            "average": 4.725046
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1140,8 +1133,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 10962,
-            "average": 4.727057
+            "count": 10965,
+            "average": 4.727041
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1182,8 +1175,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 8199,
-            "average": 4.7718015
+            "count": 8200,
+            "average": 4.771829
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1319,8 +1312,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 29314,
-        "average": 4.7378044
+        "count": 29317,
+        "average": 4.737831
       },
       "provider": {
         "name": "Microsoft Learn",
