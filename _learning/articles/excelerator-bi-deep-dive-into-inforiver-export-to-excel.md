@@ -4,7 +4,7 @@ excerpt: "This is a further article in my series where I share with you what I h
 webUrl: https://exceleratorbi.com.au/deep-dive-into-inforiver-export-to-excel/
 type: article
 publishedDateTime: 2022-02-22T19:55:21Z
-heat: 80
+heat: 81
 
 provider:
   name: Excelerator BI
