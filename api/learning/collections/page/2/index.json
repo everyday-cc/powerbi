@@ -2325,7 +2325,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-data-connectivity-social.png",
@@ -3170,8 +3170,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 6077,
-            "average": 4.75794
+            "count": 6078,
+            "average": 4.7579794
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3212,8 +3212,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 4973,
-            "average": 4.7106376
+            "count": 4975,
+            "average": 4.710754
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3255,8 +3255,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6367,
-            "average": 4.7669234
+            "count": 6368,
+            "average": 4.7669597
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3338,8 +3338,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11840,
-            "average": 4.6794763
+            "count": 11841,
+            "average": 4.679419
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3497,8 +3497,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2783,
-            "average": 4.7743444
+            "count": 2784,
+            "average": 4.7744255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3539,8 +3539,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2470,
-            "average": 4.716599
+            "count": 2471,
+            "average": 4.716714
           },
           "provider": {
             "name": "Microsoft Learn",
