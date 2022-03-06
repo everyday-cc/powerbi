@@ -3,8 +3,8 @@ category: news
 title: "Enter the Data-Driven Future the Right Way With Power BI Courses"
 excerpt: "This post will tell you all the reasons why learning Power BI will be one of the best business investments you made this year."
 publishedDateTime: 2022-02-24T09:56:00Z
-originalUrl: "https://bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/?amp"
-webUrl: "https://bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/?amp"
+originalUrl: "https://bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/"
+webUrl: "https://bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/"
 ampWebUrl: "https://bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/?amp"
 cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/?amp"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 567
     isCached: true
 
-secured: "NSHJlpI2QRaS0i+HMjZhuzPS3CAzZpUa0Oqj3yL3RXlnBZI08BJCT/D0sSCqQ+QL5ohoCMowuppZp5s6xDxGPRX6R2mtKNpKf01qcFmHwMXsM8LIxNMlQzhjZPggexTeQc7Pa5Um3fMNcw0hWT027Y+Bjbkwk8dVAXRK5TFKBsyBEmevfFOf6s8Kwxu4TtfYX+DxjgoxamJjajAwxipA92LEUDj19qs2olFMqYpXi9xX+9t7+SpqSm92G8NRSfed9HjuNgtawzORAl6rJlKWfzEyLAO1/Qx2pexRLvf1aby48zI+Adhw6tKbmTz3cxLadlO96NaDiHnHy97YQKqfoic8kVCs7t7um5HfVvNLU3jJWewwjQqor2CO7cu87+GwyfuYxM5N1ZWnVHjHIGKEyIW5oS3zEIxTmQdZa6W6md16f67HYKerp0u6GEUemmffiY9p4MkTjbKywDGqmT/IBTmTH3OfUWDBlJyiywEvQ5h1x43P6eUkevbaX3WCh3/SUPOkJNQpFjJy3bqhhXwHzQ==;QJ8ixaIJSotQyMJSfZ+Ytw=="
+secured: "6ELnMhDZ/zuB9YF7B0UxiP4ghFJKQGPY4OOrF858YWjZ9GQiC688XrcfsCjifE6kgjueWNv5it6d9ni746Froi4qh8hLMHlqvtd6zhP1QW0UElUmilK0Z4kBYS6uRA9uEDM/+SGhDmTdhjMNH1nRe+rOH337aYYvyI2tZ+cLhk0pZhtMi67SdZcbzf6dkOOjCmbNkfrT5I4K5bP9Q3/OSAz5Zzi0hLlEyU7IrIXhhQVQ1NVUemNvdJy5Ywl4nfOgVJ6O6CnJMZbQWmVSzx6aRjezHK3S6wyV9ZcTvBeOobJbzmJGbG9CVfaw/2ySdwtQXTYO3KM/2uip1lSKT2hOhbEP6+4Bw6zTwpFa6rLiajA=;k3UWMAP33zlUuQ4YaHo8ZA=="
 ---
 
