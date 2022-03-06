@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT14M43S
 publishedDateTime: 2020-10-28T16:00:14Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zp_TC-UMpy8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -25,6 +25,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2MiZwF05UWJ8hOdseJdhAMlRcJYkekyHqamRC0WDeyE3MrMe/t1N4dzIGdhh9T8XKs9pslbVg4LY1IlrrNt5yAa8kHxU96LxR8lzrmw8LrNODD+10hvgA7RQwqx0XYgwGNXojlItClI0xlEIg2ppmx7kqKb1wu1SjmFr4Ql+eAgnglgYleL0+X3T0TdQBCGNm9+IMAb7kHiP//ykj5MNT/FXdQR3fJdUQmENkFdvgyM0ExKzPQQzmqTOUwOqJNl4coxuq4T23iUak4wXTPWw2k/bDHaRoLQexo1rLtabYU77FlacJVDgWcWBxQUVlL2ihV8uCqsFt1ejwvtcDhXeXiu0sq5Equ42xQojuu6rCQ3xZAny1tRrOsXTj3l1rVVtiaC45+SfBBScF3lIXBFtJWv9lj2lH9JwVzRiCbHwvys=;IfTDldIlZWx6nYVpC0DtEw=="
+secured: "SUV/tyvMzq8Hske0Mn6ox9Q/o54hW7SgjgEDiBtDaquIP/qoCKidd9BvYtgRyXSqx0oomgaTwB0xIDV8wcj1nUYl9zvcmXxGom5eX/qtqgoSqqX3ZU4je8q2m79cbN086B6SIbBNBQW7yegy1cBp+eN+pSFr++1lhOsP0F7uLVi3vS5cdEFUirHi0vMSOLSyaDVWBI9DLwX8s7jD0b5teEKoNWv5wP/UfN4Wj4hoyOki3k23M9TNLiXXHJX4LhqrAAP2Q75X/jJx30o3s0oiYuqG5qobQCRs/cuMSVbudN2gulhyn20oNE3AWjVeiYdyxi+rBw52T9eUcCjgcfY5jbjWHiMhP+AAZOg4saUlfWcpYe4IAwPN+j3EVvDfArmcODI71ZqyrcnX7SrZI3GKcUYG8A67j0J/xc3K3S8ohlo=;H23PfYYsE2a/gYp03Re4PQ=="
 ---
 
