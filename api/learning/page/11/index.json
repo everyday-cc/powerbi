@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2786,
-            "average": 4.774587
+            "count": 2787,
+            "average": 4.774668
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -451,8 +451,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 4034,
-        "average": 4.739217
+        "count": 4035,
+        "average": 4.739281
       },
       "provider": {
         "name": "Microsoft Learn",
