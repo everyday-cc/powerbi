@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 56,
+      "heat": 57,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -63,7 +63,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 54,
+      "heat": 53,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
@@ -105,7 +105,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 52,
+      "heat": 56,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-power-bi-mobile-apps-social.png",
