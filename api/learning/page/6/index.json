@@ -858,8 +858,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 146,
-            "average": 4.869863
+            "count": 147,
+            "average": 4.8707485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -900,8 +900,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 119,
-            "average": 4.8403363
+            "count": 120,
+            "average": 4.8416667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1067,8 +1067,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 3822,
-            "average": 4.677394
+            "count": 3823,
+            "average": 4.6774783
           },
           "provider": {
             "name": "Microsoft Learn",
