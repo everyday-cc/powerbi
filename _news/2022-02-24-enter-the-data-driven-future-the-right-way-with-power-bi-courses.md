@@ -3,8 +3,8 @@ category: news
 title: "Enter the Data-Driven Future the Right Way With Power BI Courses"
 excerpt: "This post will tell you all the reasons why learning Power BI will be one of the best business investments you made this year."
 publishedDateTime: 2022-02-24T09:56:00Z
-originalUrl: "https://bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/"
-webUrl: "https://bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/"
+originalUrl: "https://bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/?amp"
+webUrl: "https://bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/?amp"
 ampWebUrl: "https://bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/?amp"
 cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/?amp"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 567
     isCached: true
 
-secured: "3aBTAFDAghienUpRtbVZPYbPtIJW6NWZVseSys8YIsze0DE1JYTPAthDRVEjoS+pj2pxzwJj8ENHM0gqTeav3u4LZvw2+VIGuEYHJDN+nsH4gouAHjduEcMhWfvYTEJ3Y39Nqr3RgvJzDUlhL4GrbSmCQyf/JMlfgIwi+TkrU3acpIRU8MoGnLLGRBEn6VGMAlKR0clZDmtWUwBOTw5EzgLsRlcwd8paEcl7Qg7IQlbDFXgDGKl9XBjjPgCuUcfGDGS7vRQo0LLFeS2ypEdUjl81+gc2+DdO86Ubbn/V6xGqNj3Pwyp0TrJGIreMDSj2ABdbHSX2fYqIreEh0yVQ8Zto9vMdVDkdRwHQ9EuwViA=;vWF+QmaNBIUVdj0b5N2GxA=="
+secured: "/mU0Rj3l0r8/dslZ1Poj4c7MUQqr6YErJdCrMQlMrxYKFzn7FdOcxtZxIU80K/3F3SVnXdEZOXWeFM9MEzNv/rwErGxRTINFhMxuJP1cCXG2T1gyJGi94xDdvrr2SRY1yTUjz+/To9QRisGpxWA9LAkeOKbg9cYvAhRrxOb9eLqk8vJtRkSlMH2daGEp8lehaiZF11coRqfLW9BTPbW5KdBD3MIlazMQK2ZZ/lBh9QC0z+I+ikS/yt3tkXKL4W35OEIKHMs7Qspohh/YGpF54aFOW+GsHBKHHVcp0MQPq2Bk7xYhV1+Z1QywDQT9FVEINjZe8UXRRCxR+mzrIzZM6TcTPtKJbGJceVO6Kh4FlyQ=;5UiZxwrdE2GQ3uBG4pK4ZA=="
 ---
 
