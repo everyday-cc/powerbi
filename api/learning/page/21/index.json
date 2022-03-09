@@ -4,68 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_learning/videos/radacad-document-a-power-bi-file-and-report-in-a-few-clicks-all-dax-code-visualization-power-query-scripts.md",
-      "title": "Document a Power BI file and report in a few clicks   all DAX code visualization Power Query scripts",
-      "excerpt": "In this article and video, I’ll share with you how to document everything from a Power BI file in a few clicks. The document output will have all the DAX code (measures, columns, and tables) with the expressions, the tables with the Power Query scripts, information about visualization such as how many",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-document-a-power-bi-file-and-report-in-a-few-clicks-all-dax-code-visualization-power-query-scripts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-document-a-power-bi-file-and-report-in-a-few-clicks-all-dax-code-visualization-power-query-scripts/",
-      "originalUrl": "https://youtube.com/watch?v=mRbeLl0TO14",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mRbeLl0TO14\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M16S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-05-27T15:09:46-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mRbeLl0TO14/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-dynamically-change-the-format-of-values-in-power-bi.md",
-      "title": "Dynamically change the format of values in Power BI",
-      "excerpt": "Can you change the format of a measure or a value in Power BI dynamically? Is it possible to set a value to be a percentage sometimes, and sometimes to be a currency? can you change the currency format? The answer to all these questions is yes. In this short video, I am going to show you how you can",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dynamically-change-the-format-of-values-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dynamically-change-the-format-of-values-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=LBBvO2ZXq9g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LBBvO2ZXq9g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M1S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-10-06T16:50:55-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LBBvO2ZXq9g/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-how-to-organize-workspaces-in-a-power-bi-environment.md",
       "title": "How to organize workspaces in a Power BI environment",
       "excerpt": "The question I often get in my Power BI architecture consulting sessions is that; “How should we organize our workspaces? should we have one workspace with all the reports in it? or multiple? should we split it based on each report? business unit? or something else?” In this article and video, I’ll explain",
@@ -442,8 +380,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 9398,
-        "average": 4.7052565
+        "count": 9399,
+        "average": 4.705288
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -654,8 +592,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 180,
-        "average": 4.788889
+        "count": 181,
+        "average": 4.7900553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1092,6 +1030,84 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/jBPLm5BHl2c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-127-calculate-same-period-last-month-in-dax.md",
+      "title": "DAX Fridays! #127: Calculate Same period last Month in DAX",
+      "excerpt": "Comparing periods is something you should always do as it adds context to your data, but how do you calculate Same period last month? PREVIOUSMONTH function will give you the entire previous month, so how do you do it? #powerbi #curbal #dax #daxfridays  Here is  one of the many ways to do it.   Get Northwind",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-127-calculate-same-period-last-month-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-127-calculate-same-period-last-month-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=-xBYtOVyMTs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-xBYtOVyMTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M27S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-05-17T06:30:25-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-xBYtOVyMTs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-13-earlier.md",
+      "title": "DAX Fridays! #13: EARLIER",
+      "excerpt": "Learn how to use the function EARLIER in DAX/ Powerpivot.  Link to pbix and excel file: https://curbal.com/blog/glossary/earlier-dax  EARLIER is mostly used in the context of calculated columns.  The performance of EARLIER might be slow because it theoretically, it might have to perform a number of operations",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-13-earlier/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-13-earlier/",
+      "originalUrl": "https://youtube.com/watch?v=lyhS2txtZ44",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lyhS2txtZ44\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M52S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-11-17T13:44:28-08:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lyhS2txtZ44/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

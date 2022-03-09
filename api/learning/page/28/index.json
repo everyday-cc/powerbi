@@ -4,83 +4,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_learning/videos/curbal-how-to-create-hierarchies-in-power-query.md",
-      "title": "How to create hierarchies in Power Query",
-      "excerpt": "If you want to create hierarchies in Power BI, you need to structure your data in a special way, so they get displayed as hierarchies in Power BI.  In todays video I will show you how to model your data in Power Query, so your hierarchies are displayed correcly.  Link to Advance fill down techniques:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-create-hierarchies-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-create-hierarchies-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=MK1jwHz8hoc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MK1jwHz8hoc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M17S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-08T04:19:42-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MK1jwHz8hoc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-how-to-create-the-json-report-theme-fileeasily.md",
-      "title": "How to create the JSON report theme file....easily",
-      "excerpt": "You can customize the look and feel of the Power BI reports using the formatting pane for each specific visual or you can speed up the process by using a JSON file.  This feature (the JSON file) has been available for quite a while but on the September 2017 update of Power BI Desktop, they allow us to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-create-the-json-report-theme-fileeasily/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-create-the-json-report-theme-fileeasily/",
-      "originalUrl": "https://youtube.com/watch?v=IXnXMmuwKzE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IXnXMmuwKzE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M58S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-04-22T02:47:18-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IXnXMmuwKzE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-how-to-embed-power-bi-in-sharepoint-online.md",
       "title": "How to embed Power BI in Sharepoint Online",
       "excerpt": "In this video I will show you how to embed Power BI in SharePoint online.  To be able to do that you need the following: 1. A Power BI Pro license 2. Sharepoint Online 3. First Release activated in Office 365 4. Create a new site   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
@@ -1138,6 +1061,68 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-convert-date-time-from-local-time-to-utc-time-using-power-query.md",
+      "title": "Convert Date time from Local Time to UTC time using Power Query",
+      "excerpt": "In this session I am going to talk about how we can convert datetime from one timezone to UTC timezone in power query.  sometimes there are situations where we need to convert our local date time value to UTC time value.  In Power Query we have some functions using which we can convert our local date",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-convert-date-time-from-local-time-to-utc-time-using-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-convert-date-time-from-local-time-to-utc-time-using-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=SqLOsn4pA2k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SqLOsn4pA2k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M53S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-05-12T17:57:07-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SqLOsn4pA2k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-create-hierarchy-slicer-in-power-bi-desktop.md",
+      "title": "Create Hierarchy Slicer in Power BI Desktop",
+      "excerpt": "In this video, we will learn, how we can create a Hierarchy Slicer in Power BI Desktop. Microsoft recently introduced Hierarchy Slicer as a part of the OOTB slicers.  In this video, we will learn how to create a hierarchy slicer using OOTB slicer option. Also, we will check the different formatting properties",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-create-hierarchy-slicer-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-create-hierarchy-slicer-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=JVma1RhHJfg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JVma1RhHJfg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M15S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:52:50-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JVma1RhHJfg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     }
   ],
