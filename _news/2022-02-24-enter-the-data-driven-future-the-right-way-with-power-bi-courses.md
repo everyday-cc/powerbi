@@ -3,8 +3,8 @@ category: news
 title: "Enter the Data-Driven Future the Right Way With Power BI Courses"
 excerpt: "This post will tell you all the reasons why learning Power BI will be one of the best business investments you made this year."
 publishedDateTime: 2022-02-24T09:56:00Z
-originalUrl: "https://bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/?amp"
-webUrl: "https://bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/?amp"
+originalUrl: "https://bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/"
+webUrl: "https://bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/"
 ampWebUrl: "https://bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/?amp"
 cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/business/enter-the-data-driven-future-the-right-way-with-power-bi-courses/?amp"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 567
     isCached: true
 
-secured: "CKyRCV1rnYpMJ3c/cOD71avAdd4JbWZiHQ+ynteO4kWTWjYtFWvRRvEH3zPvgrQ8LDtH3ENuYqZ/owdATva+bjWm47OQD+yaXUrHr0wUx6Sb2QkmUi+fuYqg9o9bhnPZZ3M0gvdDTVTp8pca25xTJHcsomAvpkfSmgiYlN6gcHDqJTslM2RJSj9+Gfp5jKz4zAP7Kzz2uAZM55/jp54nzj/RhyRxkAz2S6JbuRqob/zpxPxY2SfsXBiwMpuT8JTOzkhPiaAF+xqvd+IX894/vJxx+gK0HbbADo5IJRdc0P6JvAw/RNZ/nOcZvw/bfonWOEcqa88uwQLKZQ58Vod/2ZcxvFWDzpt7Dy2ijrPYdHmZeru4caoPnsESUmZxtXlQBlQ2pioe/vMvHI0UVASRAKs+aioLAwUTtmOcPpMLVQPOnhtTwdRtHkfc7fFwmHXc63UN2rDMlPGD6zlgck9tSc2RG9fqEAJGDZ2qZGHGKVuZKAXj3y//h2Cy/EKh+sg7XK2VHQoYIWTq3mW3gCpZkA==;RL2+cI4L1o135TKb1BmNZw=="
+secured: "3aBTAFDAghienUpRtbVZPYbPtIJW6NWZVseSys8YIsze0DE1JYTPAthDRVEjoS+pj2pxzwJj8ENHM0gqTeav3u4LZvw2+VIGuEYHJDN+nsH4gouAHjduEcMhWfvYTEJ3Y39Nqr3RgvJzDUlhL4GrbSmCQyf/JMlfgIwi+TkrU3acpIRU8MoGnLLGRBEn6VGMAlKR0clZDmtWUwBOTw5EzgLsRlcwd8paEcl7Qg7IQlbDFXgDGKl9XBjjPgCuUcfGDGS7vRQo0LLFeS2ypEdUjl81+gc2+DdO86Ubbn/V6xGqNj3Pwyp0TrJGIreMDSj2ABdbHSX2fYqIreEh0yVQ8Zto9vMdVDkdRwHQ9EuwViA=;vWF+QmaNBIUVdj0b5N2GxA=="
 ---
 
