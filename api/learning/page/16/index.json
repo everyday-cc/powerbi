@@ -629,8 +629,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 9472,
-        "average": 4.70587
+        "count": 9475,
+        "average": 4.705541
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -713,8 +713,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 3650,
-        "average": 4.803014
+        "count": 3652,
+        "average": 4.8031216
       },
       "provider": {
         "name": "Microsoft Learn",
