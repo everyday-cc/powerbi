@@ -3141,7 +3141,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 59,
+          "heat": 139,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
@@ -3226,7 +3226,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 139,
+          "heat": 59,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
@@ -3444,8 +3444,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12054,
-            "average": 4.6788616
+            "count": 12055,
+            "average": 4.6788883
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3478,8 +3478,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9475,
-            "average": 4.705541
+            "count": 9476,
+            "average": 4.7054663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3812,8 +3812,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3652,
-            "average": 4.8031216
+            "count": 3654,
+            "average": 4.8029556
           },
           "provider": {
             "name": "Microsoft Learn",

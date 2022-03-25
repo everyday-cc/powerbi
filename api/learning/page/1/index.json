@@ -186,15 +186,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-optimize-model-power-bi.md",
-      "title": "Optimize a model for performance in Power BI ",
-      "excerpt": "Data Analysis eXpression (DAX) language is a key feature of Power BI. It is used to create calculated columns, calculated tables, and measures. In this module, you will learn how to use DAX to solve typical analytics problems. You will learn about one of the most popular DAX functions, CALCULATE, and how it can override the default behavior of Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-optimize-model-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
-      "length": "PT43M",
+      "path": "_learning/courses/microsoft-learn-design-model-power-bi.md",
+      "title": "Design a data model in Power BI ",
+      "excerpt": "The process of creating a complicated data model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great data model is about simplifying the disarray. A star schema is one way to simplify a data model, and you’ll learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you’ll learn about improving performance with your Power BI data models.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-design-model-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
+      "length": "PT2H8M",
       "ratings": {
-        "count": 6530,
-        "average": 4.76585
+        "count": 6243,
+        "average": 4.757168
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -214,9 +214,9 @@
       "heat": 139,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
           "width": 643,
-          "height": 321,
+          "height": 322,
           "isCached": true
         }
       ],
@@ -228,52 +228,56 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-add-a-little-info-to-your-sparkline-in-power-bi.md",
-      "title": "Add a little info to your Sparkline in Power BI",
-      "excerpt": "Have you checked out sparklines in Power BI? Patrick explores how to set them up and also how you can be creative with them to add additional context to your reports!  KPI Video: https://www.youtube.com/watch?v=zHzSBNES6jE  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-add-a-little-info-to-your-sparkline-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-add-a-little-info-to-your-sparkline-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=NkRVaRUVO7s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NkRVaRUVO7s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M22S",
+      "path": "_learning/courses/microsoft-learn-explore-data-power-bi.md",
+      "title": "Explore data in Power BI",
+      "excerpt": "Turn your business intelligence data into data insights by creating and configuring Power BI dashboards.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-data-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 6844,
+        "average": 4.7483926
+      },
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-01-12T08:00:10-08:00",
-      "heat": 138,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 139,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/NkRVaRUVO7s/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://docs.microsoft.com/learn/achievements/explore-data-with-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-to-pivot-or-unpivot-that-is-the-question.md",
-      "title": "To Pivot or Unpivot? That is the question!",
-      "excerpt": "Sometimes your data isn't shaped the right way. Have you tried the Pivot or Unpivot methods in Power Query? They can help get your data looking the right way for your Power BI reports!  Pivot columns https://docs.microsoft.com/en-us/power-query/pivot-columns  Unpivot columns https://docs.microsoft.com/en-us/power-query/unpivot-column",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-to-pivot-or-unpivot-that-is-the-question/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-to-pivot-or-unpivot-that-is-the-question/",
-      "originalUrl": "https://youtube.com/watch?v=li0c6R6UpCw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/li0c6R6UpCw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M19S",
+      "path": "_learning/videos/guy-in-a-cube-make-your-power-bi-mobile-reports-pop.md",
+      "title": "Make your Power BI mobile reports POP",
+      "excerpt": "You wanted better control over your Power BI Mobile Report layouts? Look no further. Michal Heldy joins us to walk us through how to get the most out of this new enhancement in Power BI Desktop!  Connect with Michal Foster Heldy https://www.linkedin.com/in/michal-foster-heldy-70870b13/ https://twitter.com/Michal36040600",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-make-your-power-bi-mobile-reports-pop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-make-your-power-bi-mobile-reports-pop/",
+      "originalUrl": "https://youtube.com/watch?v=vjcWToSAlZ8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vjcWToSAlZ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M31S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -286,13 +290,13 @@
           }
         ]
       },
-      "publishedDateTime": "2021-12-29T08:00:33-08:00",
+      "publishedDateTime": "2022-02-23T03:44:54-08:00",
       "heat": 134,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/li0c6R6UpCw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
@@ -637,8 +641,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 34994,
-            "average": 4.7994514
+            "count": 34999,
+            "average": 4.79948
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -679,8 +683,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 55166,
-            "average": 4.776946
+            "count": 55174,
+            "average": 4.7769604
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -739,8 +743,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 55166,
-        "average": 4.776946
+        "count": 55174,
+        "average": 4.7769604
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -897,8 +901,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 34994,
-        "average": 4.7994514
+        "count": 34999,
+        "average": 4.79948
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1000,8 +1004,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 55166,
-            "average": 4.776946
+            "count": 55174,
+            "average": 4.7769604
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1042,8 +1046,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 24964,
-            "average": 4.7251244
+            "count": 24970,
+            "average": 4.72511
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1060,7 +1064,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 78,
+          "heat": 81,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
@@ -1085,8 +1089,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 11229,
-            "average": 4.7275805
+            "count": 11230,
+            "average": 4.727605
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1127,8 +1131,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 8384,
-            "average": 4.771708
+            "count": 8385,
+            "average": 4.771735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1163,7 +1167,7 @@
         }
       ],
       "size": 6,
-      "heat": 93,
+      "heat": 97,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
@@ -1446,8 +1450,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 30157,
-        "average": 4.7386346
+        "count": 30160,
+        "average": 4.7386603
       },
       "provider": {
         "name": "Microsoft Learn",

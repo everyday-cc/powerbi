@@ -418,6 +418,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
+      "title": "Get data with Power BI Desktop",
+      "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
+      "length": "PT1H15M",
+      "ratings": {
+        "count": 24970,
+        "average": 4.72511
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 81,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi.md",
       "title": "How to create a Export to Excel / CSV button in Power BI",
       "excerpt": "In todays video I will show you how to create and export to excel or CSV button in Power BI!! Take a look!  Chapters: 00:00 Intro 01:30 Export to CSV button 05:15 Apply the flow to the button 05:30 Format the flow button 06:00 Check if the flow run sucessfully 08:00 Export to excel button 09:30 Pre-requisites",
@@ -683,49 +726,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
-      "title": "Get data with Power BI Desktop",
-      "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
-      "length": "PT1H15M",
-      "ratings": {
-        "count": 24964,
-        "average": 4.7251244
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     },
     {

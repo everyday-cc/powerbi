@@ -1792,7 +1792,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 59,
+          "heat": 139,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
@@ -1877,7 +1877,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 139,
+          "heat": 59,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
@@ -1946,15 +1946,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-model-power-bi.md",
-      "title": "Design a data model in Power BI ",
-      "excerpt": "The process of creating a complicated data model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great data model is about simplifying the disarray. A star schema is one way to simplify a data model, and you’ll learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you’ll learn about improving performance with your Power BI data models.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-design-model-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
-      "length": "PT2H8M",
+      "path": "_learning/courses/microsoft-learn-optimize-model-power-bi.md",
+      "title": "Optimize a model for performance in Power BI ",
+      "excerpt": "Data Analysis eXpression (DAX) language is a key feature of Power BI. It is used to create calculated columns, calculated tables, and measures. In this module, you will learn how to use DAX to solve typical analytics problems. You will learn about one of the most popular DAX functions, CALCULATE, and how it can override the default behavior of Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-optimize-model-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
+      "length": "PT43M",
       "ratings": {
-        "count": 6243,
-        "average": 4.757168
+        "count": 6530,
+        "average": 4.76585
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1974,9 +1974,9 @@
       "heat": 59,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
           "width": 643,
-          "height": 322,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -1988,15 +1988,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-data-power-bi.md",
-      "title": "Explore data in Power BI",
-      "excerpt": "Turn your business intelligence data into data insights by creating and configuring Power BI dashboards.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-data-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
-      "length": "PT53M",
+      "path": "_learning/courses/microsoft-learn-visuals-in-power-bi.md",
+      "title": "Use visuals in Power BI",
+      "excerpt": "Create and customize visuals to present data in compelling and insightful ways.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-in-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
+      "length": "PT1H16M",
       "ratings": {
-        "count": 6842,
-        "average": 4.748319
+        "count": 8385,
+        "average": 4.771735
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2016,7 +2016,7 @@
       "heat": 59,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-data-with-power-bi-desktop-social.png",
+          "url": "https://docs.microsoft.com/learn/achievements/create-visuals-power-bi-desktop-social.png",
           "width": 800,
           "height": 400,
           "isCached": true

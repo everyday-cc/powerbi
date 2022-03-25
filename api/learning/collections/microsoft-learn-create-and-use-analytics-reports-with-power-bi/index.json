@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 55166,
-        "average": 4.776946
+        "count": 55174,
+        "average": 4.7769604
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 24964,
-        "average": 4.7251244
+        "count": 24970,
+        "average": 4.72511
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 78,
+      "heat": 81,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
@@ -96,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 11229,
-        "average": 4.7275805
+        "count": 11230,
+        "average": 4.727605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -138,8 +138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 8384,
-        "average": 4.771708
+        "count": 8385,
+        "average": 4.771735
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -180,8 +180,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 6842,
-        "average": 4.748319
+        "count": 6844,
+        "average": 4.7483926
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -198,7 +198,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 59,
+      "heat": 139,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/explore-data-with-power-bi-desktop-social.png",
