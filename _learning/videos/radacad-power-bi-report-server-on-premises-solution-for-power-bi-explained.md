@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT19M57S
 publishedDateTime: 2018-08-08T06:57:03Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B6OPcxxc7Zk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0khuQ5SJ+UYcRW6Ix09Wfenok3yOUhrC05BBZoXMrASfI3NwZqHN1PHYOp7x0YmuiArOFK0WRUt/JY9TX3JtUoIAQ0IlpMfjIvBIili5926sb3nxSOda8P5lW7uYx09jf9qI4gxXa1MORnRwd6A51RZONiE9XTMH4dLdtDDZryONSyKyB0rKhLAM93GQJTaLD3Mc2NmMCvoP2zi+jAtPmAMYhF9QpevjjtF+qMGYyGQ+f1+cnmlvWa7TOn4dttHSoD1WRxVtQ+iEzoWue1QwKJz2ZPbgP6WIVDHpH9Ap5ecqoR6zTqkzbVwq0bu79WnoKpM3nj4a7J4DgRrKmTOsTsIEUOv7/eJJu54/CL1WqojfyXINi1S4sqNVRuUaTlHKJs/JixluSf896ZiF7DPGMDLx6DVfdNJN1MNKw6VqkDs=;WdnRtPH0FTu7oKcfTnzBXA=="
+secured: "ARnia+hsrqZ9QNZW1muoInCWl6GcSXN4WT2N3FG1y9Yl0Yr2OKhq8uLvMr0mJH6uB+Ylsq4PYRjYO0ma1Y3SUoFGluhGy6mMy6dSYJtkciMX21eowC0XRX4AoxzL2NayPBf8cMUIap4zoDD3M+yFZaQoZ1bpiJiI1wA7UAZol2V/H/SgwRhJ8OzH4j0iGuhwbXWrClPPUru+owZ5jRsl9lEkpACvh7ydscVrnA+fnwsDSIRp2mILeScBjqGL686JultzVhVKwmQqoE+6EcJiJB9/1IV4xwqeZW+akByVO+rc/dxrAdthDflhWd5RSW5fSh3BgpMF/w4SaH4gd2gDPo8CLWvBoh17jCehgzwFkZT3kgtfpACTGEaUBXoUunPzAjlLJ86xOKOwDUiJGdFuIYimMBwq7wjcnG9K64M1h7E=;ko2WQimK1NkRdBEpFIMIUw=="
 ---
 
