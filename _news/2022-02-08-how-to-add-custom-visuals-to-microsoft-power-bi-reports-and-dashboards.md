@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/how-to-add-custom-visuals-to-mi
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-to-add-custom-visuals-to-microsoft-power-bi-reports-and-dashboards/amp/"
 type: article
 quality: 97
-heat: 100
+heat: 97
 published: true
 
 provider:
