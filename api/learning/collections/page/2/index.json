@@ -1737,7 +1737,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-reach-social.png",
@@ -1946,7 +1946,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-reach-social.png",
@@ -3127,8 +3127,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6532,
-            "average": 4.7659216
+            "count": 6533,
+            "average": 4.7658043
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3856,7 +3856,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 5,
+            "count": 6,
             "average": 5.0
           },
           "provider": {

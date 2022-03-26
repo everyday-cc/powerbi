@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 284,
-        "average": 4.778169
+        "count": 285,
+        "average": 4.7789474
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -155,7 +155,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 131,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-filters-social.png",
