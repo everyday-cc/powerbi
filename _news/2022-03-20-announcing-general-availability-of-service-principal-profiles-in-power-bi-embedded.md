@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-general-availa
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-of-service-principal-profiles-in-power-bi-embedded/"
 type: article
 quality: 81
-heat: 81
+heat: 85
 published: true
 
 provider:
