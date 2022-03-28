@@ -287,7 +287,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 131,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1041,8 +1041,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4333,
-            "average": 4.6704364
+            "count": 4334,
+            "average": 4.670512
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1059,7 +1059,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
@@ -1083,8 +1083,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 3900,
-            "average": 4.678718
+            "count": 3901,
+            "average": 4.6788
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1125,8 +1125,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3578,
-            "average": 4.697876
+            "count": 3579,
+            "average": 4.697681
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1167,8 +1167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4130,
-            "average": 4.733898
+            "count": 4131,
+            "average": 4.733721
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1420,8 +1420,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 19230,
-        "average": 4.7632346
+        "count": 19235,
+        "average": 4.763296
       },
       "provider": {
         "name": "Microsoft Learn",
