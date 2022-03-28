@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 53,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 3896,
-        "average": 4.678388
+        "count": 3897,
+        "average": 4.6784706
       },
       "provider": {
         "name": "Microsoft Learn",
