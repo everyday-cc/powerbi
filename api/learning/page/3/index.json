@@ -412,8 +412,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 290,
-            "average": 4.77931
+            "count": 291,
+            "average": 4.780069
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -621,8 +621,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 277,
-            "average": 4.8194947
+            "count": 279,
+            "average": 4.8207884
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -831,8 +831,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 277,
-            "average": 4.8194947
+            "count": 279,
+            "average": 4.8207884
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1420,8 +1420,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 19226,
-        "average": 4.7633414
+        "count": 19228,
+        "average": 4.763262
       },
       "provider": {
         "name": "Microsoft Learn",
