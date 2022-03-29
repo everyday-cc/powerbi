@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-march-2022-featu
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-march-2022-feature-summary/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
