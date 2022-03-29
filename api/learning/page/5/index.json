@@ -1544,8 +1544,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4135,
-            "average": 4.7337365
+            "count": 4136,
+            "average": 4.733801
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1948,8 +1948,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 19246,
-        "average": 4.7632236
+        "count": 19250,
+        "average": 4.763221
       },
       "provider": {
         "name": "Microsoft Learn",
