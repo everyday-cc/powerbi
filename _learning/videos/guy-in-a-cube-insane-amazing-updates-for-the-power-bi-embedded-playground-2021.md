@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT7M30S
 publishedDateTime: 2021-03-11T16:00:01Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ikWESY4sHc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7Eqdys3tPzlsBP7iYnle8bfQyUf7mFrvfx+Z8dpN2Xgc8P04VQjlllDjYZ9854PEtmyni0Pq1VbJWe8gpt8JyAwtLLAs6OalSvCTVwtPSbsquhmGjVwCBxBHdKlDQJkeYwmoGL2DwTNyesFP/ToHUbq5aTKSWGzV3yNoJ5oEVOTQFclzdHyMuCZSjAfju7gdr6BISjugC5NgwepI/Lo2JpmvFWfxNDZJaLVigW+shYS5jJiMHUagSVFyfaw/IFJOdIh7UP45ZN43dHG9/H0vEeu3CLptCILj/UWX4KHAhH704C/lKkDKoSl7/EQfrytAy+61q6ltylNcEywG8Ipsj7JbLDwAB1X7CgXcWb3h6/6LBOxiek3tiVstOc+8TFihL/R6Estc8rw0Drp7/o8W8tAhwPtOwtPHNktTVjDxBno=;zfvY0xvj/Zw3tMd+zdwNWg=="
+secured: "yPzNmc+OASY+ylGUGNXPNxmr3kY8Q9WFBneQ/b4H2h2J9Zu9ssb8Lk9ctVSRk9ueylu+q273JjmkGC3pY9HtvAENJHarLUcvRC42UWq3gFn89aT21BVXm+MdyKg69JEswbj2mbhE5RUvj8rlyp35Mgy20Hi057WatsTgjf470lM2Lcs3+UKEs0O/si+WBjCc4ADNXjulr9+q5mdZwJsO/Dlq5N7ZumtQrLsCNBlJROClksqN2ueNfEJNwyuxwcmlWIQ6ZZRS67pKEv6RlkEgdxUs0I2lAUzHAzpWAGYPm+ZLR7X8uzKWJmXtX/Z6RWt+khjjmk/NoTtr8mb5oIyhYn+xR3czEzeaFxCyJhp2jbXT7H6lxRN7AiiV4YfctJacSsUUnQNJ97PT7NppSirYqHdupofhEj/GaXzx8HQHYKQ=;JZlo+GaTNQsXm4rTCAKclg=="
 ---
 

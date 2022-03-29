@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M44S
 publishedDateTime: 2018-10-17T12:32:18Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RnrCKn5ykCc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "wEMsOSmZkhrlkH0A+OERdrK6N22d3xLLtdil3yQShs/ydRfCcKUk2w2VfUxEtUYp3ffoWnK4tanU1dLMMs7+HseuMHVpkMoboPPLES+zpjLTXjNOHlpIPcP5ugfo3auZGfpSUkrz0aaY7ern78oZtaRhmvLergvmqpxvQVxgUIf9UBPzPkIX8vbL0c/5uuaNzeSWd+JvDhsJVU0uvE5rvhBYgbljmJXEsWdITxlNASAMPjLZ9xrUupCcattQwRF2aIBBHbepFqcUoVNdj1IsQ+VdQqn09/ULB2cIgYQflAnfuWJHBJ/73yZH66Be3KTwSOTv04h1D2Pks52H6LUTEphWSzXAHQkXTWCBcrv7b+Um2VILEQ0wuvmOxdlzsjm5f2feVgw0YNIxSP7cIr/uT1thVwK1C6kX2j1pst1v3Gg=;5OZbbVgdLScoM95TlDSy2Q=="
+secured: "1daTg7EmST2z/dnRNGfpGeoexno9167Iz2L4bcBNNxvMJLd01XdETO3yJ+2mEwLI2vdb/cUcK2AhygCcCNvCrkg/zw19c27wt1p93POJBwAE8q3hNkdaCr3psdY+suzEClVpLGUNNmheVyNdPjYQvjAlaT6Th6ddUhd00anD4VM+1DZ/9xsGi7suhR/IAoWOfh60yexQ6xpP87Vb7MS71bPwKWP5Mfti9/f5jRJKGK3H8YasbCL3Hya9qpVBnFjOeZmvuNQuucHz7mRJNqy9YW331TD+MLc5RVJ7Q4HTDYoa1eXiWqnJw6824jB7IJYayGeYwzrta/4tssrky7SwaM0FP+ls7FzPs5vlxDo/iPkzC9Aj6NDOXkyQgSx1SwXiEQvYt5hUALu5a78EEfYMNGIbwPV6f7Gv/5/m3lnHFUk=;PvbPgz4Pq8qilWtdw+3oag=="
 ---
 
