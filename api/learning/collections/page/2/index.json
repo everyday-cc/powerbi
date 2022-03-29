@@ -3020,8 +3020,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 6268,
-            "average": 4.7563815
+            "count": 6269,
+            "average": 4.7564206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3105,8 +3105,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6553,
-            "average": 4.7656035
+            "count": 6554,
+            "average": 4.7654867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3188,8 +3188,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12072,
-            "average": 4.679092
+            "count": 12074,
+            "average": 4.6790624
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3222,8 +3222,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9487,
-            "average": 4.705597
+            "count": 9489,
+            "average": 4.7056594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3667,8 +3667,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2549,
-            "average": 4.712044
+            "count": 2550,
+            "average": 4.711765
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4042,7 +4042,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 4,
+            "count": 5,
             "average": 5.0
           },
           "provider": {
