@@ -711,8 +711,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3586,
-            "average": 4.6979923
+            "count": 3587,
+            "average": 4.697798
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1600,8 +1600,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 299,
-            "average": 4.7826085
+            "count": 300,
+            "average": 4.7833333
           },
           "provider": {
             "name": "Microsoft Learn",
