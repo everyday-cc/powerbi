@@ -3062,8 +3062,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 5147,
-            "average": 4.7114825
+            "count": 5148,
+            "average": 4.7115383
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3188,8 +3188,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12084,
-            "average": 4.678583
+            "count": 12086,
+            "average": 4.6785536
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3264,8 +3264,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 512,
-            "average": 4.7382812
+            "count": 513,
+            "average": 4.736842
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3727,7 +3727,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 134,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/row-level-security-power-bi-social.png",
