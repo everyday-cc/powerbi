@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/see-whats-new-for-power-b
 webUrl: "https://powerbi.microsoft.com/en-us/blog/see-whats-new-for-power-bi-at-the-microsoft-business-applications-launch-event/"
 type: article
 quality: 83
-heat: 84
+heat: 85
 published: true
 
 provider:
