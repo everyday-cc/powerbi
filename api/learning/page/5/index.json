@@ -1397,8 +1397,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 121,
-            "average": 4.8099174
+            "count": 122,
+            "average": 4.7786884
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1650,8 +1650,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 12097,
-        "average": 4.6784325
+        "count": 12101,
+        "average": 4.678291
       },
       "provider": {
         "name": "Microsoft Learn",
