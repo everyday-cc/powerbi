@@ -2217,7 +2217,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3231,8 +3231,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6563,
-            "average": 4.7653513
+            "count": 6564,
+            "average": 4.765387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3356,8 +3356,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3888,
-            "average": 4.722994
+            "count": 3889,
+            "average": 4.723065
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3592,8 +3592,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2868,
-            "average": 4.7730126
+            "count": 2869,
+            "average": 4.773092
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3676,8 +3676,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3672,
-            "average": 4.8036494
+            "count": 3673,
+            "average": 4.803703
           },
           "provider": {
             "name": "Microsoft Learn",
