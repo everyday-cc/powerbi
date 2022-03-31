@@ -1998,8 +1998,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12093,
-            "average": 4.678409
+            "count": 12094,
+            "average": 4.678436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2217,7 +2217,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3676,8 +3676,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3673,
-            "average": 4.803703
+            "count": 3674,
+            "average": 4.803756
           },
           "provider": {
             "name": "Microsoft Learn",

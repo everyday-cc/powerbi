@@ -792,8 +792,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 358,
-        "average": 4.8631287
+        "count": 359,
+        "average": 4.8635097
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1576,7 +1576,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 136,
+          "heat": 56,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
