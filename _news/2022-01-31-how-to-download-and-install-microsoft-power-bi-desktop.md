@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/blog/microsoft-office/how-to
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/blog/microsoft-office/how-to-download-and-install-microsoft-power-bi-desktop/"
 type: article
 quality: 94
-heat: 94
+heat: 95
 published: true
 
 provider:
