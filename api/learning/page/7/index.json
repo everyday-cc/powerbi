@@ -2098,8 +2098,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 2274,
-            "average": 4.7541776
+            "count": 2276,
+            "average": 4.7543936
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2743,8 +2743,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 6031,
-        "average": 4.726745
+        "count": 6032,
+        "average": 4.7267904
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2785,8 +2785,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 8419,
-        "average": 4.771113
+        "count": 8421,
+        "average": 4.7711673
       },
       "provider": {
         "name": "Microsoft Learn",
