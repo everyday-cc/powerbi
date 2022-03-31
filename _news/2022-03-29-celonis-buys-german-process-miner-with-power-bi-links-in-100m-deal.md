@@ -3,8 +3,8 @@ category: news
 title: "Celonis buys German process miner with Power BI links in $100m deal"
 excerpt: "Celonis has bought Process Analytics Factory (PAF), a firm that integrates its technology with Microsoft's Power BI platform, in a deal said to be worth $100m. The two German companies claim the merger will help users on Microsoft's popular Power Platform benefit from output data from Celonis's process mining,"
 publishedDateTime: 2022-03-29T10:01:00Z
-originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/29/celonis_buys_process_analytics_factory/"
-webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/29/celonis_buys_process_analytics_factory/"
+originalUrl: "https://www.theregister.com/2022/03/29/celonis_buys_process_analytics_factory/?td=amp-keepreading-btm"
+webUrl: "https://www.theregister.com/2022/03/29/celonis_buys_process_analytics_factory/?td=amp-keepreading-btm"
 ampWebUrl: "https://www.theregister.com/AMP/2022/03/29/celonis_buys_process_analytics_factory/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/29/celonis_buys_process_analytics_factory/"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 432
     isCached: true
 
-secured: "Ypeqpoj8y9eTfpaHASu+SpYfEzJoZUkjDnwTZ1hh3pgDpyhe/UvcPtfvGuhRpVnQ+51dhq9W/8zxIQOoTGwKoNHcN28mLPUtkQP0lHH8zX9rqaFKM8EVxoGTPjHXKcnw8UeIRy/zqsnKTL4/B6AlLW2wQTvPcSttMKladIHOjHD+mf4/BIosmpQnZj3pNAbaaMSKTeemOIu5ZTFx9t6w/CDcdE/ZWHehR6Mf1767ziDQC660oXo+EhctEnjZ/ryckPC+HqJTcs6Nny3bPw4JvUox1+lsz60qIIQQUPRS2OgUPo9aiN0MNjYW5oRs/fss3Z0XeVEggIHSWo+tu6cRvJmjcp8H1AgRQige/byiZyA=;aMKnBr6HwfWPo75iGN+BIw=="
+secured: "rH+XTQrgxoBqxptUTl+Nn3bWv0gJ02MV3sUsmD/+KcHCxqeB0mLsayRbRGpw3WCHDSDFFq8+Yd73On4XPGCW+pPYVGF8EO4TFCfFmlXkaUXhcmjo9XoRApmMzElBOm7PceIeErZ2eEL8SgWoULatx8VxqSGUaIIuqxBcSEgjmS4yrGuLcAnaTvneJGvoyiJVoYMkpn61+W8YeKK2iHf4013HCj/dJsZCwZK5cqxN1PjEbjWwKPjKk8BS7YajDw8VERrGsRSne0GsEsHQeCsOjpEuoZY+baarzKSQ5FdI03LTUkxqDoTIqLExsi0IXKkxzqV9mHiiYlLOBCULvQUhBLbmEse7Wb8cEhHwFlE2AR8=;laF8JyNOzV9kleevBRS9MQ=="
 ---
 
