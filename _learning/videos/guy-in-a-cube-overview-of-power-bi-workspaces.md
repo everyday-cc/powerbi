@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M25S
 publishedDateTime: 2019-02-21T12:36:13Z
-heat: 62
+heat: 64
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1fS8MvcaBGE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9NeSu0/2AFBOXUyAUuseIbfL/UsrhdzwVyP3vieWgy9VWZIxwBuZnJFc/xtOA+Z/gRN0OiuxAbJXeMvuDy2ELDuHCsxePsANW+SE+CVEAIaOZVQiXjuQiqcD2HQqmTU3o4sW+cyJMrYbJBZH54fkz8MDX/hL0jpX/7bx7Js0OKy7GSpZmGk5hA65k6vI+Zrfg8D1ATVyKhAe2qASm7tXJnNYEE+XpDupJ8tbMXOswd9r9eA2cH6YjNFWoxeJfAibMsmLwj5RJMhDkeeBlCfdH1Nxua3NI9OHvybmSw7N6Pj0GRRA81cstRBrFnee8fx7DF4L9NH9RsgdGW8uHy4zlAAVQuEu87y4fE+M0k9BPOBgkqLi9nch+aiL8MAdvLaOZH4VXcLystN8pS05daFYqNoP+X6KbuTySr7lpRQM8KU=;jvRyPF6vWCu0xa5OGCFoFw=="
+secured: "uik+Decrk+jjSlfjE9Cxjw2ON0U3DDmpElTkgWLYFYv5HrHs51zBcR/9JkrJ+hvlwKihLLnC8W8zu0DYnC0+YfACct99yKKEh9TqvGy9fB04vi+ZROMQWWruOFIsD6x4HYu5JfGTw5KEKElrGVJLuD4bIUw2qTS/bAf7BbLPQa8tCbCXIIA97kx72eLZr6Wx2MGNmsCCuovlLVytKIJTAN7Isnwu4cGuEiEajFr1gKZsWlEK0LnmLW+6OwyZX5Hs+uf7jYp0czS/9dKeO22SI8cyGW0jm27ZG0WQnZhtU5f3RA62kAZXQSi9/zK9+w288aS7DhBLQMEF4huHdWsAJDzATeOpEWT+FPHMsT1lqquB3EGgUfQ/ID68Ds3FNvU7Nkynn/sJ3jD5MvMTuQACzQ7lIXuu/zAqDAyrVQa08s8=;PNBHw3M2AuoRR/xzUGaKaA=="
 ---
 
