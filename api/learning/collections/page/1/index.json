@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 35347,
-            "average": 4.7992473
+            "count": 35360,
+            "average": 4.79918
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 55634,
-            "average": 4.777061
+            "count": 55644,
+            "average": 4.777065
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 55634,
-            "average": 4.777061
+            "count": 55644,
+            "average": 4.777065
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -390,8 +390,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 25140,
-            "average": 4.72502
+            "count": 25142,
+            "average": 4.7249227
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -433,8 +433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 11307,
-            "average": 4.7277794
+            "count": 11309,
+            "average": 4.727739
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -475,8 +475,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 8425,
-            "average": 4.771276
+            "count": 8426,
+            "average": 4.771303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2097,8 +2097,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 12406,
-            "average": 4.775109
+            "count": 12407,
+            "average": 4.775127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2180,8 +2180,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4359,
-            "average": 4.670337
+            "count": 4360,
+            "average": 4.670413
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2222,8 +2222,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 3918,
-            "average": 4.678918
+            "count": 3919,
+            "average": 4.679
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2883,8 +2883,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 310,
-            "average": 4.790323
+            "count": 311,
+            "average": 4.7909966
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5444,8 +5444,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 959,
-            "average": 4.728884
+            "count": 961,
+            "average": 4.7294483
           },
           "provider": {
             "name": "Microsoft Learn",
