@@ -4,9 +4,9 @@ excerpt: "There are multiple websites that offer Power BI interview questions an
 originalUrl: https://youtube.com/watch?v=sVDd9fLyImM
 type: video
 price: Free
-length: P0D
+length: PT1H29M50S
 publishedDateTime: 2022-03-30T12:58:54Z
-heat: 130
+heat: 237
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sVDd9fLyImM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 800
     isCached: true
 
-secured: "60DCQcfXmN2koZtJkKAbdyfCy/rxkKfzZqwflnOFRDC7aJGPMBUwbpWQ37pGylfMTbI6+FcHr6JGg02nf7vu3WMPK+5Z6WHNzJF7lvzGZ4V7Vf2tkk3vxFNH6SAvZknTOYQ1B+zZJskXsmvvYr1yJBh+KzB+NnInY53bc80ouI5vAsTDOfanWcAQzX3P+3/C64X2DFef9cfngFLsoL5YLoiCwXQLvNYc4ruBPtSwDuP7qyCiijt07ZI7HDI8gZY7poGGLCre+k0vo41AsQQ2XRPL3HmjMybEjpFuPegy3Pw1PLSDo5+3k5Wx93XwIaKhd94+yXHc7bmrW2JQIQRfIRJwuZpFkBc8QVowqeWE4qmtyyu+KEqTvlxJ7Y5lT/CYQOk11D+tUuXYjjQea74WdR/gxI0CEBAUW/eteHES7kI=;38cVUE+Yyi++KSGA9yRVwg=="
+secured: "7QrsXfoJd+yXCTULX12St27ky5qe+ohMfwVH50RiKFEQhWple4jntAFemcrj2sJkhx6aDpfR5wFuEA+Id9dkVv8UaElJzxTzC+Jpp8/k+3STg12P2tR6VRYMYKaU2KgCTcUKQtC3QwLNvCCrfJ0gG4qJWCRG6ARrC+bsfDdTdJrG0UmRrY5OCUcNmmcnQtUQE21ADoMVlS2jIyKesX5xy2xliXYMv406xXMpHq+ZdFklIM5uhhdWW71LfQbgFNF+Ri95TW2dZmUXgVf7l3yf/dfKvQ+/pZx0uuvbTGde2AiwzHnSSuUTi/2rBOpmwzeVFynJRUZ64GLs7rvglr6IcbKQcHt0N5HIPbWvdGKD3ZroXFFg8HmVMZtOXn51rstoCO52JQd00tb7NyaqVLFTf4REHQpqOSaOaUDic7tI8h4=;wVDTRjpJ96OhVW94aNGneg=="
 ---
 
