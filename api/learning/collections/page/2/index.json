@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 213,
-            "average": 4.892019
+            "count": 214,
+            "average": 4.8925233
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2189,8 +2189,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9512,
-            "average": 4.7058454
+            "count": 9513,
+            "average": 4.705666
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3235,8 +3235,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6568,
-            "average": 4.7655296
+            "count": 6569,
+            "average": 4.7655654
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3596,8 +3596,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2877,
-            "average": 4.771637
+            "count": 2878,
+            "average": 4.7717166
           },
           "provider": {
             "name": "Microsoft Learn",
