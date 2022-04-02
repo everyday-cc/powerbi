@@ -1448,7 +1448,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-environment-social.png",
@@ -3289,7 +3289,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 56,
+          "heat": 136,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-manage-workspaces-power-bi-social.png",
@@ -3355,8 +3355,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3683,
-            "average": 4.803964
+            "count": 3684,
+            "average": 4.8040175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3523,8 +3523,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6574,
-            "average": 4.7655916
+            "count": 6575,
+            "average": 4.7656274
           },
           "provider": {
             "name": "Microsoft Learn",
