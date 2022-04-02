@@ -3,8 +3,8 @@ category: news
 title: "Celonis buys German process miner with Power BI links in $100m deal"
 excerpt: "Celonis has bought Process Analytics Factory (PAF), a firm that integrates its technology with Microsoft's Power BI platform, in a deal said to be worth $100m. The two German companies claim the merger will help users on Microsoft's popular Power Platform benefit from output data from Celonis's process mining,"
 publishedDateTime: 2022-03-29T10:01:00Z
-originalUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/29/celonis_buys_process_analytics_factory/"
-webUrl: "https://go.theregister.com/feed/www.theregister.com/2022/03/29/celonis_buys_process_analytics_factory/"
+originalUrl: "https://www.theregister.com/2022/03/29/celonis_buys_process_analytics_factory/?td=keepreading-top"
+webUrl: "https://www.theregister.com/2022/03/29/celonis_buys_process_analytics_factory/?td=keepreading-top"
 ampWebUrl: "https://www.theregister.com/AMP/2022/03/29/celonis_buys_process_analytics_factory/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/03/29/celonis_buys_process_analytics_factory/"
 type: article
@@ -25,6 +25,6 @@ images:
     height: 432
     isCached: true
 
-secured: "fQ/elbKTTNIDbwCjAJOqIlme0rUAs0uVgimd6IEqIvyKsuYyd66AaI+XPrL5cnm4rO2K04NXxmdeOUnN/bX/EUV1T2hIAF9NUymcsGq1/27OnUT1wVpBazIdHUAi+jjvC9I2F2W+Zs97BSRVVyeC6q6r4C+HEOBb5DOwcP72RA39nQau+Kdm+u3S80pljyDSPE9a9kbMPQcdOG50bOukraVcep1vh/H68xtjukEunnspyvJSzO+5BFjK6K1eNLRNPBRN3qtz72XvLdogNNk6W1UmoO/cg/ZA6ltNQHA6VK9zn3cAqwvqg5YjN6Ia3Ia0Yg9C2FQqcSz2Dwnn3AYocmLtwaQid7qh+3HBuxn3tFEoP2HjPa/9+hHJlWSq073YR+ayLlsiJANpIoks3dkatVjNfZW+v81AemvnhPeXcln78lK/zNy7T15t178iZIKeBWjwvYR9a8o5krhG4aUQ6FGJf/8MDhg7eqCbJTIfbsCIKukV/REYraoQFctKV1tIT1f5hu+18Cy1KEsUWoND1Q==;jJtPZBLdBTgC/FTCpAmLbA=="
+secured: "I3NBWmDeVyuVh6QovAVr/+63QK/uMpiR2JPJfAijYyuATiaABa7ob4exDCVG/1CuOl9LUdms6aZwUX7hnbfdNufRiqCfVmRTappQl0uuIRSuH6To/Vt/yewcIKjHNEB3QIzMOIFDdy2eXmp98oH4XT2KJg9MTbVIsJwUJ+kJpSVon9FWAK9BCptlunC2fXk3Efr0nyfyMz8UPXNc17DpfDBMDeIrf1dGWbaMeWV80E8Zh0ingoc8spC275ouqvtE1Q9jkRUHZGEyN3STqjebhxjRhB0aoFvvzXMRKwUmxDjccereYxMNvA8kmlZ72wQylY30xxNFVSMNR1/O+N2ohGM9wLPPVDVR8s+2pAxrauI=;e6TE5LeTgErmn3qbCv76fQ=="
 ---
 
