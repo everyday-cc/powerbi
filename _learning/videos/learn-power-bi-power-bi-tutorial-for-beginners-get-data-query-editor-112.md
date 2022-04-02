@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M36S
 publishedDateTime: 2017-05-08T10:48:02Z
-heat: 58
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hw6-DNhgOos\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "DYIujAnJp3HXdi2kgzOMVNNA5ExF3EHSHlNiZA4cCdkZAShFIunCK6flBhmRPwfUzEM8+G2WwGosbLzr0tu4ouBnD7fG2sZ10SdM+zff9E4J3WdOI7knVAnE1qLNoepwP5E57oncxaN8Kvdoflyy/JAsqszLCJHYkN0GxTR1js4LdwYrXp5TxZte+QdH4OVPK6YCY1oY3P6h5h+40Ls91/lJbLiJxH4DgfuNNm0Qbps7Mjgxd+JWpfxPvOCWxF3DI7QYrUheCZXRT3bz+ruevOags1C9hVisEQTaKTtw1xmxc4Q5coTx6SdFE/RmM39Mk96cZPzTZlXsZ2/SpWShFerQdky7YZlPZpJaWx+zG0fWAY6Oex/0TgHr3BwR2sWJxXuATAHS9aeEThDM4jt/o6idOI48QgE5eGz2mrfTYcrpI2BDJ5res+DrbAREzis0;3m9a8uefYGz8/Dll/H68mQ=="
+secured: "pqJ4gOyU0o+rOCgBXE2A1mzHMUYqxDC/vpvsUBKNQHmFY9vePGO1v3iGtHp8KpdWnPYT26XwaVehsD7x/7J9aw+hoeCyuG5CPOz0uyTpqftxjcpUUUORJ6wxn1HhF7GgTf8sqpO/HZj5smdYlf3OI8JJ4R+Y8TlWmGz5qa8YVenFoYPoq9neW1WfBlqRwSJR54lvB/Ma4JKJLFbvk+QjUilV26OVILn7wAqPM+3jnoFWVuamoF7T2YOUBCma/7gs5EOsLJb9aNIN5scFKgYoVvnGhKsWuLPXQlUEkp5KusWcCamd6XPBzO0KMSSrrdpRzHdk2W6CI8l3/2TKU5aDYkJwffK/s5zD1pX0g1Wgq1PtzQqTlcJcAj8asKykt1gJwaH6T4TdV6emxeGVlBhTHJosLMr4A9QAlouNxhVW9ktZIcRBOcUsXrPGoxC9GT73;mpYtI3MD24nvnz+X/XxcVg=="
 ---
 
