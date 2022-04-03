@@ -627,8 +627,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/architect-analytics/",
       "length": "PT41M",
       "ratings": {
-        "count": 44,
-        "average": 4.590909
+        "count": 45,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1224,8 +1224,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 1586,
-        "average": 4.7099624
+        "count": 1587,
+        "average": 4.710145
       },
       "provider": {
         "name": "Microsoft Learn",
