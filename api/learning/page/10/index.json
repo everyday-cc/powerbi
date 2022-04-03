@@ -4,44 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-using-r-visuals-with-power-bi.md",
-      "title": "Using R Visuals with Power BI",
-      "excerpt": "You can take advantage of the R Script showcase to start using R Visuals with your reports. These provide great examples of what your R Script should look like to interact with data and you can compare how your visual looks to the example.   R Script Showcase - http://community.powerbi.com/t5/R-Script-Showcase/bd-p/RVisuals",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-using-r-visuals-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-using-r-visuals-with-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=Y88s8Vra_1g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y88s8Vra_1g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M31S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-10-21T06:31:16-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Y88s8Vra_1g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-what-you-need-to-know-about-publish-to-web-in-power-bi.md",
       "title": "What you NEED to know about Publish to Web in Power BI",
       "excerpt": "You NEED to be aware of how Publish to Web works in Power BI and how to prevent data exposure.  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.  🎓 Guy in a",
@@ -776,8 +738,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9521,
-            "average": 4.7057033
+            "count": 9522,
+            "average": 4.7057343
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -818,8 +780,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 539,
-            "average": 4.721707
+            "count": 541,
+            "average": 4.722736
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -901,8 +863,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 6302,
-            "average": 4.7554746
+            "count": 6303,
+            "average": 4.755513
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -986,8 +948,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6578,
-            "average": 4.7652783
+            "count": 6579,
+            "average": 4.765314
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1046,8 +1008,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 9521,
-        "average": 4.7057033
+        "count": 9522,
+        "average": 4.7057343
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1123,6 +1085,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-clean-data-power-bi.md",
+      "title": "Clean, transform, and load data in Power BI",
+      "excerpt": "Power Query has an incredible amount of features that are dedicated to helping you clean and prepare your data for analysis. You will learn how to simplify a complicated model, change data types, rename objects, and pivot data. You will also learn how to profile columns so that you know which columns have the valuable data that you’re seeking for deeper analytics.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-clean-data-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
+      "length": "PT2H1M",
+      "ratings": {
+        "count": 12419,
+        "average": 4.7749414
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/clean-transform-and-load-data-in-power-bi-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-design-model-power-bi.md",
       "title": "Design a data model in Power BI ",
       "excerpt": "The process of creating a complicated data model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great data model is about simplifying the disarray. A star schema is one way to simplify a data model, and you’ll learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you’ll learn about improving performance with your Power BI data models.",
@@ -1130,8 +1134,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 6302,
-        "average": 4.7554746
+        "count": 6303,
+        "average": 4.755513
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1256,8 +1260,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
       "length": "PT21M",
       "ratings": {
-        "count": 245,
-        "average": 4.836735
+        "count": 246,
+        "average": 4.8292685
       },
       "provider": {
         "name": "Microsoft Learn",
