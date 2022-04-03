@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 55716,
-            "average": 4.777084
+            "count": 55717,
+            "average": 4.7770877
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 55716,
-            "average": 4.777084
+            "count": 55717,
+            "average": 4.7770877
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1902,8 +1902,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 10072,
-            "average": 4.758042
+            "count": 10073,
+            "average": 4.758066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1962,7 +1962,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 59,
+          "heat": 60,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/clean-transform-and-load-data-in-power-bi-social.png",
@@ -2814,8 +2814,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 178,
-            "average": 4.7865167
+            "count": 179,
+            "average": 4.7877097
           },
           "provider": {
             "name": "Microsoft Learn",
