@@ -1129,8 +1129,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 115,
-            "average": 4.808696
+            "count": 116,
+            "average": 4.8103447
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1339,8 +1339,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 115,
-            "average": 4.808696
+            "count": 116,
+            "average": 4.8103447
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2151,7 +2151,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
