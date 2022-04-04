@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M34S
 publishedDateTime: 2021-10-07T15:00:01Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1dRhH-EO-rI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ugZH81oknmn9UfNfQwoouFruMGBrMAo11niii7cCvJuVngPIR5IK+H+FFxsBieZ0YMPz38uZg9Fgm9J+ac/eh/1aelBz9j722uf9i7dkoY2FnX/vFpuFtvZsifnaykVvsn15pOTC33Fd9Q+ghnPl6+z8JIzdLeQ/ypP0JPdi8R4t6PqK/Fy6mGap8Ag0BqwyADOi3WywQv+5GHFmYgwkZ3TsxNtww+Zvo7vDhuvVH9lOKQ17nh+olQf9xqp3jPDSq2+t6ZuY8eUq/pPEGx5Z0m1UH+nmr5RtPwPoyGfxEozvTLtudU2O1uh4mBeMpllKRGedUjPLr8CVHJtKEowYVkEfiWAcNKsJ2dQBYGORw2bJTY9cpEuwprF7Eb93Am2PFy265fDdmpg6S8pgQ5nZ3dRPxdlBhxxpDyTwCUkQzMs=;pRd5MyWFaBn6owsNW6096w=="
+secured: "IwTq1+Snl/hSVubi3vpUSOYW7fpPCeRpw7CWr5hsh90JPo7kQ42R63qLVXbWpsXupsALJz/UfU2i0oamjMogxRnryMSYhgdn3j6e10DBgmAP5hnC8xA5DXQPcyrIVcmrD0NrMt3e8ca4Zpw+TleyAxweBSdyWzv2LcBJQRqM73ulTBCPtiN0Z/d/oJ7JFJQALPREo2q4IfgDakiVw9iJE6U2fwzsS7gHYJPLEovpDNWRb83bL+pLQMWMNrDoAo3jIJrIHI/k5u9wlt7oyUkzHxTjo/pCRNfbNhRK2/+BAW3av5uV58OG9xbs7f+Bx4wtwKr0FPEnVHARsX6yiMxbS6QuruOxdnstyLnL/5NGS/p0XsfLKtSh6+PblQ3qcL6P3HkEkobi4ZckVlvtah5iAsHzGK0RyfFXjDZPkxOSchM=;0U4OcqhqAuV/x2VIwNdHjw=="
 ---
 

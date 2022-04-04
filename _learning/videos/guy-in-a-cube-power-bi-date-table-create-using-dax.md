@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M44S
 publishedDateTime: 2018-02-13T15:18:28Z
-heat: 61
+heat: 63
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gyvhM5eiT0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "UkAAwhlQemw/grdlfyVotWd6DkepW7dEiXDusbMNR1WlVNKUePNw14QVqfvMZcep0I54QdnW0xwZSJCZgFIoaikezD5eg99EnRPQP8hDHsnJxxygcZzH19qFSdJ8Rq2I0nIlnS8vSyGnzNetfa8WznNlwlRbShNknl/Ob5n9o5QRNBNODpLS9PXPyjDPDUkrPpNRK0hN8OBWlz7dDUKuruGncyvo5Jju4PDSRLJjps8HfaxQk9ZbqRB53ZztNKdhXhHNZrGFkSf0RR5Zd/pPCCzzTdElXom5hIDbhuAJa4QZ6qCTT373TAAJSyDE+MqIEWwutF1aqBpOI4THUWXenTau5qEaukHoXkSOGk5TL4EVgeDfuEYUkcyEy6d0KPN85CpDZEnjksOTSVqw2nBsMoMutpNVUpZ6IARDKWHCAo8+kGLAr5ffUTE1zrmwTrIM;e2Cj7JhI5meo6HHgWrervQ=="
+secured: "UTIUofSyrpeViTS+PHQFD28uxcyri6pgVAKsEMC2JJeh82XfHPWhYJt/h8NYUYQtw7+XS50atLquuhVsz6n6ga1BQRHlfcJVYVGRjdFAPpiHCLnaSFmemYazPNm8CuPPI+jQZJb82Dqo3Q+z8gfvPUeRAlzfxfB6e3pbO5EdEPopZsqunjcWwaWT57CAl9jshQQq+u/Fyc92QtRGdmpUSJakIBrmlyKWvHIxHsF8kPGhYS4Fdfa0RzPsvZrotMiUcLWu9mHL08g1dcsPLQNvOK5RH/vb5SgsDWWnMDNF/KnYnNRxO37OsWDVKGRUj6fO8amwS2TPbRza8Zxq4XsKKSJIF3SdPvlDiASWgmruq+cmFXIrumc+iP57ToHrsaneSxBJdG8P6tVbXor2hyXoXBjyc8olD7EsTxszH3h3yBd0UlPRbxE+cmvbaQqOfZqG;uxtgMfQsFqipuqDokFG3sQ=="
 ---
 
