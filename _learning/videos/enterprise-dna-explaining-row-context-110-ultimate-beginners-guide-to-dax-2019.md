@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M15S
 publishedDateTime: 2018-03-06T03:22:17Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A0sBJxCoXx8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "hUMfUsizRm+qknArEeQNNwbzGp2sqRHLzjIF1hL6iaXvQFHmCToOP1/C8j1BkoEdgib7VcidctW8T129wv2tGuJdSVPoFhvINi6jGYJ6PoqzkluRb5iEOy7jX1oozG/5tMVditEqcjhUWHYw36E6uz+FhCQrm5x57mF0OoMan6pbFZ3XgF2NqtdkNqn6DoFFpB/K9dZkU5WG+ANrmqayygPO220tZLN11YOW0iWhX/KfGEY0c9v0laQDwlHJOC3+REoCqYxMv7jPhoB55nhHUN/eyvbZDqZJG07wNFogm/h5oTn35P2pA4kCwrv+2J3J986bP1WPPvkz8iGoD+Reehxf9mEsZ1sqyB6XfQRqONHnEAvwv0GYiYYkvNu5oTF3cReDLsQ6YU9C3JZ4olN6DLU6f6a46gkyyT75LGl0/NU=;CEOPF8FizYPXap6mysvHDA=="
+secured: "0fwK8nMFzs+7vloRqrde3j4DJY/UOQ1DaL8SP2IBHpFL2uEY6Mbwh2Z5VJU8tgvTuto91TaXIsH/i7KCzV+jm3uf4vpwPqsQ/eG57qQTqLolWJeIflMjtY9kN9ANgJZFnWlipsQmOm5CI30ZHyb6HZXKo4ZuaswngFWtxoHMsB611eZ37HSjoQxhK+Fr3ezjJkKqxVSoCiaEFQ2Dg1LLHpUeI3Mk341NvXYERfL3k5/WxAm1xyhsv9mRgwvmR68GJwUJTZyc4gao5IoUStptFJKzVHnt6ZBW35fKFi5g6uhvaLqqKOr1xSCmONrNycn1b4bJlcvBCQf3KDUjez0ZPbQEZdNCwLfV4LWCK9LmiUglK+rnUow7IQ9cR+ooEDVGfVIooKq7obtK036adfgnxYNUNh6JoRbIC8F5FhlNsWg=;NE2pEKiz2kmFkxjvSSsrZw=="
 ---
 
