@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2022-03-29T03:01:24-07:00",
-      "heat": 156,
+      "heat": 139,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -1487,8 +1487,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 2285,
-            "average": 4.7549233
+            "count": 2286,
+            "average": 4.7550306
           },
           "provider": {
             "name": "Microsoft Learn",
