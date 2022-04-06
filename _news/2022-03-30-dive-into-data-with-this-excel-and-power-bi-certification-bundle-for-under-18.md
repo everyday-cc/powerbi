@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/dive-into-data-with-this-excel-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dive-into-data-with-this-excel-and-power-bi-certification-bundle/"
 type: article
 quality: 93
-heat: 96
+heat: 95
 published: true
 
 provider:
