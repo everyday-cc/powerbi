@@ -575,8 +575,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4155,
-            "average": 4.7347775
+            "count": 4156,
+            "average": 4.7348413
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -937,7 +937,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 138,
+          "heat": 58,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-requirements-social.png",
@@ -1486,8 +1486,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 12462,
-        "average": 4.7752366
+        "count": 12465,
+        "average": 4.775291
       },
       "provider": {
         "name": "Microsoft Learn",
