@@ -4,7 +4,7 @@ excerpt: "Paginated Reports have been available in Power BI since 2019.  They s
 webUrl: https://exceleratorbi.com.au/poor-mans-paginated-reports-in-power-bi/
 type: article
 publishedDateTime: 2022-04-04T07:45:43Z
-heat: 130
+heat: 131
 
 provider:
   name: Excelerator BI
