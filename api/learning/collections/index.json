@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 35698,
-            "average": 4.7993445
+            "count": 35700,
+            "average": 4.7992716
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 55995,
-            "average": 4.777212
+            "count": 56000,
+            "average": 4.777214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 55995,
-            "average": 4.777212
+            "count": 56000,
+            "average": 4.777214
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -434,7 +434,7 @@
           "length": "PT1H7M",
           "ratings": {
             "count": 11375,
-            "average": 4.726681
+            "average": 4.7267694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -986,8 +986,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 12465,
-            "average": 4.775291
+            "count": 12468,
+            "average": 4.775345
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1457,8 +1457,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 3938,
-            "average": 4.680041
+            "count": 3939,
+            "average": 4.680122
           },
           "provider": {
             "name": "Microsoft Learn",
