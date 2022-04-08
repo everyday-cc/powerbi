@@ -1351,8 +1351,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 144,
-            "average": 4.625
+            "count": 145,
+            "average": 4.6275864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3059,8 +3059,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9551,
-            "average": 4.7046385
+            "count": 9554,
+            "average": 4.7045217
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3184,8 +3184,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 6341,
-            "average": 4.755717
+            "count": 6342,
+            "average": 4.7557554
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3881,8 +3881,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 9,
-            "average": 4.7777777
+            "count": 10,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
