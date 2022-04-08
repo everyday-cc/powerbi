@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/managing-power-bi-subscri
 webUrl: "https://powerbi.microsoft.com/en-us/blog/managing-power-bi-subscriptions-just-got-easier/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
