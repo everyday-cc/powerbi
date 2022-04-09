@@ -847,8 +847,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2567,
-        "average": 4.7117257
+        "count": 2568,
+        "average": 4.711838
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1100,8 +1100,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-teams/",
       "length": "PT27M",
       "ratings": {
-        "count": 86,
-        "average": 4.8139534
+        "count": 87,
+        "average": 4.816092
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1142,8 +1142,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
       "length": "PT48M",
       "ratings": {
-        "count": 120,
-        "average": 4.8
+        "count": 121,
+        "average": 4.801653
       },
       "provider": {
         "name": "Microsoft Learn",
