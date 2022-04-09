@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/cloud/cognos-vs-power-bi/"
 webUrl: "https://www.eweek.com/cloud/cognos-vs-power-bi/"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:
