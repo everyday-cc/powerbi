@@ -521,7 +521,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/add-measures-power-bi-desktop-social.png",
@@ -2535,8 +2535,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 133,
-            "average": 4.7518797
+            "count": 134,
+            "average": 4.7537313
           },
           "provider": {
             "name": "Microsoft Learn",
