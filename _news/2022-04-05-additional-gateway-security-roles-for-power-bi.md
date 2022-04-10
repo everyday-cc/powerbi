@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/additional-gateway-securi
 webUrl: "https://powerbi.microsoft.com/en-us/blog/additional-gateway-security-roles-for-power-bi/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:
