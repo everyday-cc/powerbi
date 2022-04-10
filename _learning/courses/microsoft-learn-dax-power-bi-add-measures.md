@@ -8,7 +8,7 @@ length: PT13M
 ratings:
   count: 975
   average: 4.729231
-heat: 132
+heat: 52
 
 provider:
   name: Microsoft Learn
