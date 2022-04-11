@@ -462,6 +462,57 @@
       ]
     },
     {
+      "path": "_news/2022-03-25-power-bi-vs-tableau-business-intelligence-tools-comparison.md",
+      "title": "Power BI vs. Tableau: Business intelligence tools comparison",
+      "excerpt": "an uppercase character (A through Z) or a lowercase (a through z) character (no spaces). Power BI vs. Tableau: Business intelligence tools comparison Your email has been sent Power BI and Tableau ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-25-power-bi-vs-tableau-business-intelligence-tools-comparison/index.json",
+      "webUrl": "https://www.techrepublic.com/article/power-bi-vs-tableau/",
+      "originalUrl": "https://www.techrepublic.com/article/power-bi-vs-tableau/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2020/11/istock-1168019993.jpg?x79677",
+          "width": 1254,
+          "height": 837,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/power-bi-vs-tableau/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/power-bi-vs-tableau/amp/",
+      "publishedDateTime": "2022-03-24T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-03-20-announcing-general-availability-of-service-principal-profiles-in-power-bi-embedded.md",
       "title": "Announcing general availability of service principal profiles in Power BI Embedded",
       "excerpt": "I&#8217;m happy to announce a new method that allows a much larger number of customer tenants per one service principal by introducing a service principal “child” named service principal profile. Each service principal profile can administer a customer tenant, and the number of profiles per service principal",
@@ -1194,57 +1245,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-how-to-jazz-up-your-reports-by-adding-a-background-image-in-microsoft-power-bi.md",
-      "title": "How to jazz up your reports by adding a background image in Microsoft Power BI",
-      "excerpt": "Image: Mark Kaelin How to jazz up your reports by adding a background image in Microsoft Power BI Your email has been sent Sometimes, a report needs a little extra style to get the message across.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-02-10-how-to-jazz-up-your-reports-by-adding-a-background-image-in-microsoft-power-bi/index.json",
-      "webUrl": "https://www.techrepublic.com/article/how-to-add-a-background-image-to-your-reports-in-microsoft-power-bi/",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-add-a-background-image-to-your-reports-in-microsoft-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/06/featurepowerbibackground.png",
-          "width": 1188,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/how-to-add-a-background-image-to-your-reports-in-microsoft-power-bi/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-to-add-a-background-image-to-your-reports-in-microsoft-power-bi/amp/",
-      "publishedDateTime": "2022-02-10T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
