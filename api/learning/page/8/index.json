@@ -2081,7 +2081,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-organize-fields-social.png",
@@ -2457,7 +2457,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2541,8 +2541,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 12541,
-        "average": 4.7742605
+        "count": 12544,
+        "average": 4.7743144
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2583,8 +2583,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 6369,
-        "average": 4.755378
+        "count": 6371,
+        "average": 4.7554545
       },
       "provider": {
         "name": "Microsoft Learn",
