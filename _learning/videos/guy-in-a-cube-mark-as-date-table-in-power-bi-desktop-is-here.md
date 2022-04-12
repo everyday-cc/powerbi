@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M13S
 publishedDateTime: 2018-02-14T14:21:23Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i8aKjGZd5kY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "OvqLzAsSPROr+udz6CmPK1Of9TYTzq4894OXWzramAFZsxNQHtDF90cKZoGXhqrdDbXCXzsqnRZqSHWbBmPTb6sIe7uTISfvCCDHFGvHILo5v8ZveJbjO+wgWTjXUr7RzJKOBDvGff5JRixALHUX2rUWXmk8TRhovGKo8cX8MBeO/5FZZdhUtXIEFc+0RzT0Pxo4X/VfndK770FNsLDkRvh8gdWAsQqh+MQ9fNH+fxyMI4J7V8bB3/JBFF2wSYdBbtrpjzKYgl5IydYkh+nAwyvFW2mOmr8b/KFhMxwCFZ3DbVHGYO132l9B88DrBaWxV1uPp+p1MPDWs+wVEWU/r3iMdXmHMeRAbBi2ZHWlKuvkTffoWIxou4F1AN3JlCxDwwiuIbNEIBbdLgXLlAmrNkvSnnI+67ztEvzhy39WoN0=;SYwf7axwGnkKeE+lGqHKgQ=="
+secured: "NOxS+XJpPc63u1l/JMS/Qdn2JFRKNF2FYVz0k7sLHy1VlLGhX3Ud9XiTvijAuNa4KuFzmXVCSlOGn409At82cysfxkExPZPpttrBKaJUJbbK835fx2yITHwTcvKVTji9tb6HTIP6gcb0xpisaWnvQ4MveiK57Jp/amZzZyjNNlnFm2BvJ0fcBqXEdYvx9MnEKf1OlbiqwHSXARQGbOMrpYppeq2uddpjPfFGO/p9LE3YmhDi9tORPXxHQbB9TC2t+g+EGN0bPgSEnz3pCCu6BmCPeSMhucwSEdxvAKbzkWGeo62+YWORPuonNez2mGOnyJf88q+d4gOIL5QJRAMv93UL5aAtJGWpQ+mo5mI3138qNiODE5cny1iF2Y5uBCVU9xWWxgr8971jreZYUCelIY9ErJhNd2Fevaa8nBZigPg=;xqfeVmu5Yz6/NEprQv/DMA=="
 ---
 

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M59S
 publishedDateTime: 2020-03-25T11:50:52Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Owp7DYMw1ug\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "luht6ku8l+ED0jzNvyEKoAWRnpgag1bmaVqxnsSVU+8i1CyCCubePV6klVGzPkNUsxvjyp+oo7bpK7QcHez4RkJDupoL4uUieihmFxUzvx2qKVkuuZt+5WYeM1K7dyplyQjokajQt8Y/Pbo3n9FzWOp66u4S0CzyNekDLhEiUh9f2dRVMaZSw78NIaLuM2AYwZb0okck9mQ9pgLTm4lnT09zPXt+0/C1DrMe9m+vS331x2HPH3Gww+9wqBOVisrkN4ESTgUYbl9R6m0/bc0jP273JyyxJWGauPG+LicWustb3WJwsvui3coXhVDt72vebUAQW9sF+N6ro9M65pJoRsVEclZMtebfFgs92UVephSwpCLsZPfg0qfDiXlS7AESFGM48tgC6mdAHYWgWuSLJQC3aXkerMLcDHB342R+b/s=;UG2f0w47M6HKfJ58fzJdHw=="
+secured: "uFSYtQ+m0Ton1squxsO/oryandoNPR/j07nI9oTStCxD/A1WD0HX4nZcaxwbFs9QCH1XH1HyhkdmZV0D8XsZBWTOE8o6zgDUftnGSPVeOWBCbV5Ovpi5neusSulZKKzDbj/08tjY0P3p9cUnhjigtTWF/pyErJlaff7vj2n/iSycGJ35XjEXyXjuXVA13Uibiqju4fESAJ+lpI3Zf9GvI2tf7zF/ZzeI5FRZPxmUc5dyr9XoQtTh5iweZ4BgVejix3JGPaX3DPc7P4US7csKHxyT8IB0b0XK9NqSvIcafRI/CWvX+8mROOYOddrl2Hp1tos1v/oA/1FI0Dk6zsNNQIGPR35sV6gYCACswzghKN1SxTeOENbsXlKS85mp/mtXZjLwhbHiqvLnjGbotwb3OV2zZ2cDDDBbTcE7SPnxHyc=;YDczjhrq/ntKRZZCP+SJMQ=="
 ---
 
