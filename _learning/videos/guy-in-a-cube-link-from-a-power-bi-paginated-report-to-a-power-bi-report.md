@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M43S
 publishedDateTime: 2019-01-16T13:23:10Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nucth8mG2LA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Link from a Power BI Paginated report to a Power BI report"
 
-secured: "Z+U3+QqlSxH7J7nETUrUBR7mg+D2ZM4NZ53lvLAtnWYyBF3eY2Hx2eEaWYKmkYxGCBINsHHPEPljErYzp3kba//KrakrfTRufIlZOJO5h+azWFFvTOnm5aVZHTVaEF18Z+pC0YhxadZNM6j3KQY5vgFr8JsDKAgH9vQl7bniLMc+/FcdyBUM030wnkPuYTqDvIVsxaNdEK7xyCCE/AV3AinGFJgP1BucFa3mKBqp/WoVV8Tc1dm1oCOakTeudjY071b6HoIbgUEZvvId7bYdRQh8MJrqt9kbFHgFbW8Gry6BILNxBj9+HwwtQjKsl8MLijWRLD9yYwOB0USchr1i6XXJR52tjEDu6JvLDs/6F9cMG4w/dcK2VsVL1T5sEwerq38ZH3uMxbts+EhMpC/u2Ktuf2uuOAf/tPwxsdLSyM8=;l5QRuvZfH4KtTRJyLiKrxQ=="
+secured: "63Eoi4LUS9ytFdZE0vBtHif+TTwKtiXUZRxMCCm5ift8r4pDlkCdYpm8SezrjVTZjhB/yNGi92dyzZ0TrCAU/HZ8bYDGF+PqBRsMgT3wRmA+T5KwKbzscCCdQ9NC/3k5fzpkUGJXioVhnyopPWnDtOWHnIY5/A/+Ld7wePy9jJETpGNsHqcBYrHv6iqjpwFbQoIrkoHQlkPAlBoS8ETfWbdfplz2301ul//nc6B0FYO81U0GNCku3ydhOInEzUTiARbFE9DNUJv6ZatLw+Qti42zNmhgTEynkSHwj5R/DaiTt4RZfP8TE9gpEqA74d+QSwH1plJZJ3tiYIE/HMxW0MkwZSJmDAZTOLtLZX0NYr8L87mDkHp7MZ2DF5RfyYUa/xcASg+XVwRvYMQfsQLtI2G/UUP9SkJ5beCxqaKMc5A=;0b+SCnRN4ef8aXxccFHQ3A=="
 ---
 
