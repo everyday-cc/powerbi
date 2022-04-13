@@ -626,8 +626,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 13,
-            "average": 4.923077
+            "count": 14,
+            "average": 4.928571
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1339,8 +1339,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-modify-filter/",
       "length": "PT21M",
       "ratings": {
-        "count": 739,
-        "average": 4.6481733
+        "count": 741,
+        "average": 4.6491227
       },
       "provider": {
         "name": "Microsoft Learn",
