@@ -1282,8 +1282,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 137,
-            "average": 4.70073
+            "count": 138,
+            "average": 4.7028985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3316,8 +3316,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12242,
-            "average": 4.6772585
+            "count": 12243,
+            "average": 4.677285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3837,8 +3837,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3723,
-            "average": 4.8039217
+            "count": 3724,
+            "average": 4.803974
           },
           "provider": {
             "name": "Microsoft Learn",
