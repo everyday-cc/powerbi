@@ -1551,8 +1551,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 52,
-            "average": 4.769231
+            "count": 53,
+            "average": 4.773585
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1653,7 +1653,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-automate-social.png",
@@ -1760,8 +1760,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 52,
-            "average": 4.769231
+            "count": 53,
+            "average": 4.773585
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1862,7 +1862,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-automate-social.png",
@@ -1927,8 +1927,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 303,
-            "average": 4.8250823
+            "count": 304,
+            "average": 4.8223686
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1945,7 +1945,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
@@ -1969,8 +1969,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 230,
-            "average": 4.869565
+            "count": 231,
+            "average": 4.865801
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2137,8 +2137,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 303,
-            "average": 4.8250823
+            "count": 304,
+            "average": 4.8223686
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2155,7 +2155,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
@@ -2179,8 +2179,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 230,
-            "average": 4.869565
+            "count": 231,
+            "average": 4.865801
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3353,8 +3353,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 6635,
-        "average": 4.766089
+        "count": 6637,
+        "average": 4.7661595
       },
       "provider": {
         "name": "Microsoft Learn",
