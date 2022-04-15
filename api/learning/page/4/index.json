@@ -1286,8 +1286,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 388,
-            "average": 4.775773
+            "count": 391,
+            "average": 4.7723784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1556,7 +1556,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 136,
+          "heat": 56,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
@@ -1582,8 +1582,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1124,
-            "average": 4.7428827
+            "count": 1125,
+            "average": 4.743111
           },
           "provider": {
             "name": "Microsoft Learn",
