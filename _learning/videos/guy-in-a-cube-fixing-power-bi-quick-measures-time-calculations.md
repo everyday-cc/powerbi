@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Fixing Power BI Quick Measures - Time calculations"
 
-secured: "RJsnd1PM0zVfRrd+P4Y9d1cyljP+stxBtOPmDKVlUp02xBCpiAlzqtkZcFEFVvI/ONxU+Us/4V+z+XdW5lhkRs+UgF6BRI+tszXR1UlwWRCGP9AgDg1vdcrIR1xxXPwhOHn+h1IccwkNH47t5b7zosn3Pu3z5pjaI+K4BLHffsQR5cIjDoKdlP5WtuUEkh/qZeO39Bsol6h2aZQeaL1dFBh4E6Qh/EiYhjakd7AkCgPQTO8HbKNJKWtAR9lDd+TqUNJrw0rNhGYGFql9R+74Z1tVIa/083DZVGXSy/Ok+SvCcdu2HhRTkcBlyUdMhJG8zzuDdypXSbXjhEnrRQ8sqO0lAi7qXKXC6WN3Aedg4036lrbKQtajuw8XWUZ56+9IcIpwLnfWq/mDRbcQBF9j2Q14q5jh8oRQ9dpIubhA7vc=;z0rka0P/hwUpcZMkGuGoJA=="
+secured: "svzOrg6dOsd7HnJVLDhwJIzNK8TTDCcBzKoPHI0+7E1bzTXHLzCV6/2KcBl85r/fJX/1wAMBiXxNtuuy0V90nfxQYVw92ORa/9+ACIpaL3z/4N5Ikxx198BajFAR+mwPzAhMUpkcqwUDOjlnD2hKybxOCVbavpZaqnFfiqsonShEoy/vY2J4lqVPeqhGfKLTROQGMKkCy2BlCC5yj6VKcxh9u8wI1KEjarJ6ZOAYAdo/S9h0yRj+CqRFZp59dBmJ2euplB/UYdTZ+0cjxi9xQmcI9rDTYFsV/40ZvtmiKw33WJ42i9MvUzarVdxgA7/FT/+Wem6Yv/lTwL7OvyT5M7EzBR4iEAd9qzHhn3upm6/TjWbeVctdAbOXXJ8+s4ylR/XcEqFRoYmOqAMWK+47pC6eJTkA2X48zgwdnWIih5c=;ovKWQzsUPcpG1S/NFne1ZA=="
 ---
 
