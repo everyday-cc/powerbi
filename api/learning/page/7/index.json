@@ -1368,8 +1368,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 147,
-            "average": 4.632653
+            "count": 148,
+            "average": 4.635135
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2808,8 +2808,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 12575,
-        "average": 4.7743936
+        "count": 12577,
+        "average": 4.7744293
       },
       "provider": {
         "name": "Microsoft Learn",

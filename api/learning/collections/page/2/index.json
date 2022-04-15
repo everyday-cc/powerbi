@@ -1580,8 +1580,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 147,
-            "average": 4.632653
+            "count": 148,
+            "average": 4.635135
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3565,8 +3565,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3935,
-            "average": 4.723253
+            "count": 3936,
+            "average": 4.7233233
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3732,8 +3732,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3727,
-            "average": 4.804132
+            "count": 3728,
+            "average": 4.8041844
           },
           "provider": {
             "name": "Microsoft Learn",
