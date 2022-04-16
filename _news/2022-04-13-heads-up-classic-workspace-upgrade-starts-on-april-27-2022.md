@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/heads-up-classic-workspac
 webUrl: "https://powerbi.microsoft.com/en-us/blog/heads-up-classic-workspace-upgrade-starts-on-april-27-2022/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
