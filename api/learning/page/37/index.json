@@ -4,6 +4,36 @@
   "page": 37,
   "value": [
     {
+      "path": "_learning/videos/radacad-custom-functions-made-easy-in-power-bi.md",
+      "title": "Custom Functions Made Easy in Power BI",
+      "excerpt": "I have written a lot about Power Query M scripting language, and how to create custom functions with that. With recent updates of Power BI Desktop, creating custom functions made easier and easier every month. This started with bringing Parameters a few months ago and adding source query for the function",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-custom-functions-made-easy-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-custom-functions-made-easy-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=fGKGDVEtcOU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fGKGDVEtcOU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M44S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-05-22T16:20:00-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fGKGDVEtcOU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-customers-grouped-by-count-of-their-orders-static-segmentation-in-power-bi.md",
       "title": "Customers Grouped by Count of Their Orders   Static Segmentation in Power BI",
       "excerpt": "One of the interesting calculation challenges in BI systems is a segmentation or grouping on a numeric value, based on an occurrence of another value. As an example; You might want to know How many customers ordered once, twice, three times or more. The challenge is that the data in the transactional",
@@ -878,36 +908,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/a3N321oUux4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-report-server-on-premises-solution-for-power-bi-explained.md",
-      "title": "Power BI Report Server on premises Solution for Power BI Explained",
-      "excerpt": "Read more in the blog post below: http://radacad.com/power-bi-report-server-power-bi-in-on-premises-world",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-report-server-on-premises-solution-for-power-bi-explained/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-report-server-on-premises-solution-for-power-bi-explained/",
-      "originalUrl": "https://youtube.com/watch?v=B6OPcxxc7Zk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B6OPcxxc7Zk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M57S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2018-08-07T23:57:03-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B6OPcxxc7Zk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

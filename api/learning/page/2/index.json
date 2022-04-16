@@ -73,36 +73,6 @@
       ]
     },
     {
-      "path": "_learning/videos/absent-data-channel-import-google-trends-in-python-and-power-bi.md",
-      "title": "Import Google Trends in Python and Power BI",
-      "excerpt": "Learn how to get Google Trends data in Python and Power with just a few lines of code.  You quickly get tons of keywords and date ranges with a few simple lines of Python. This code can easily transferred to Power BI so that this data can easily be uploaded  You can find the code here: Chapters.  0:40",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-import-google-trends-in-python-and-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-import-google-trends-in-python-and-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=MvLF9v6wqTo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MvLF9v6wqTo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M",
-      "provider": {
-        "name": "Absent Data Channel",
-        "domain": "absentdata.com"
-      },
-      "publishedDateTime": "2022-04-02T10:00:00-07:00",
-      "heat": 80,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live.md",
       "title": "Power BI Get Data: Import vs. DirectQuery vs. Live",
       "excerpt": "Import vs. DirectQuery vs. Live connection. Which do you choose and why in Power BI? Adam looks at the three options when creating reports in Power BI Desktop.   DirectQuery in SQL Server 2016 Analysis Services Whitepaper https://blogs.msdn.microsoft.com/analysisservices/2017/04/06/directquery-in-sql-server-2016-analysis-services-whitepaper/",
@@ -380,8 +350,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 30821,
-        "average": 4.738782
+        "count": 30824,
+        "average": 4.738775
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1272,8 +1242,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 2319,
-            "average": 4.7520485
+            "count": 2320,
+            "average": 4.7521553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1455,6 +1425,48 @@
         "Power BI",
         "Power BI Desktop",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-power-bi.md",
+      "title": "Introduction to Power BI",
+      "excerpt": "Introduction to Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-introduction-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
+      "length": "PT31M",
+      "ratings": {
+        "count": 19615,
+        "average": 4.7637525
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 67,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/introduction-power-bi-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

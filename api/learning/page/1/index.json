@@ -308,74 +308,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-power-bi-goals-create-scorecard-and-manual-goals-in-power-bi.md",
-      "title": "Power BI Goals - Create Scorecard and Manual Goals in Power BI",
-      "excerpt": "Welcome to the Power BI Goals Step by Step Beginner tutorial series, During this session, we will talk about how to create Scorecard and Manual Goals in Power BI. To get started with Goals we need to create a Scorecard in Power BI. Once ou scorecard is created, we can add the Goals within the same scorecard.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-goals-create-scorecard-and-manual-goals-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-goals-create-scorecard-and-manual-goals-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=88-JKP7-3PY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/88-JKP7-3PY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M10S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2022-02-03T04:39:48-08:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/88-JKP7-3PY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-is-a-parameter-filtered-in-power-bi-paginated-reports.md",
-      "title": "Is a parameter filtered in Power BI Paginated Reports???",
-      "excerpt": "How do you know if a parameter was filtered in your Power BI Paginated Reports? Was a slicer used in the Power BI report that is using the Paginated visual? Adam shows you a way you can find out!  Create and use the paginated report visual https://docs.microsoft.com/en-us/power-bi/visuals/paginated-report-visual",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-is-a-parameter-filtered-in-power-bi-paginated-reports/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-is-a-parameter-filtered-in-power-bi-paginated-reports/",
-      "originalUrl": "https://youtube.com/watch?v=YU1VjMEOw9Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YU1VjMEOw9Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M18S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-02-03T05:52:12-08:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YU1VjMEOw9Y/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/articles/excelerator-bi-exploding-measures-using-tabular-editor-3.md",
       "title": "Exploding Measures using Tabular Editor 3",
       "excerpt": "What?! Exploding Measures I hear you say. Exploding, expanding, use which ever word you like; what I mean is when you want to remove any refence to a measure INSIDE another measure. Example Consider the 3 measures below. Total Sales = SUM(Sales[ExtendedAmount]) Total All Product Sales = CALCULATE([Total",
@@ -402,15 +334,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-intelligent-environments-education-transformation-framework.md",
-      "title": "Intelligent environments - Education Transformation Framework",
-      "excerpt": "Develop safe and secure onsite and online environments. Use data analytics to optimize student outcomes and to create efficient, responsive, and sustainable processes and resources allocation.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-intelligent-environments-education-transformation-framework/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/intelligent-environments-education-transformation-framework/",
-      "length": "PT60M",
+      "path": "_learning/courses/microsoft-learn-mapping-learning-to-power-bi.md",
+      "title": "Prepare to teach the module: Map learning to Power BI",
+      "excerpt": "Prepare to teach the module: Map learning to Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-mapping-learning-to-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/map-learning-to-power-bi/",
+      "length": "PT1H15M",
       "ratings": {
-        "count": 101,
-        "average": 4.8613863
+        "count": 0,
+        "average": 0.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -425,19 +357,96 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/intelligent-environments-education-transformation-framework-social.png",
-          "width": 1281,
-          "height": 641,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-how-to-get-data-from-an-rest-api-in-power-bi-for-rookies.md",
+      "title": "How to get data from an REST API in Power BI for rookies",
+      "excerpt": "Do you want to get data from an REST API, but are not sure how to do it? Well, Chuck Norris and myself will walk you through the steps.  Chuck norris API: https://api.chucknorris.io/   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-get-data-from-an-rest-api-in-power-bi-for-rookies/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-get-data-from-an-rest-api-in-power-bi-for-rookies/",
+      "originalUrl": "https://youtube.com/watch?v=FuGZoRkRmyI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FuGZoRkRmyI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M21S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-02-21T03:51:59-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-sorting-the-y-axis-in-power-bi-yes-you-need-a-hack-for-that.md",
+      "title": "Sorting the Y-axis in Power BI | Yes, you need a hack for that.",
+      "excerpt": "Prefer to read? Check it out here: https://curbal.com/curbal-learning-portal/sort-y-axis-in-power-bi-visuals  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-sorting-the-y-axis-in-power-bi-yes-you-need-a-hack-for-that/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-sorting-the-y-axis-in-power-bi-yes-you-need-a-hack-for-that/",
+      "originalUrl": "https://youtube.com/watch?v=bfOPuA11gVE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bfOPuA11gVE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M24S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-02-15T01:54:29-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -854,8 +863,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 36142,
-            "average": 4.799402
+            "count": 36146,
+            "average": 4.7994246
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -896,8 +905,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 56526,
-            "average": 4.7772884
+            "count": 56530,
+            "average": 4.7772865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -956,8 +965,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 56526,
-        "average": 4.7772884
+        "count": 56530,
+        "average": 4.7772865
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1090,8 +1099,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 56526,
-            "average": 4.7772884
+            "count": 56530,
+            "average": 4.7772865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1175,8 +1184,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 11481,
-            "average": 4.7255464
+            "count": 11482,
+            "average": 4.7255707
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1315,8 +1324,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 36142,
-        "average": 4.799402
+        "count": 36146,
+        "average": 4.7994246
       },
       "provider": {
         "name": "Microsoft Learn",
