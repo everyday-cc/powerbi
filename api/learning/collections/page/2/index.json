@@ -1429,8 +1429,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 148,
-            "average": 4.635135
+            "count": 149,
+            "average": 4.6375837
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1573,7 +1573,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-collaboration-social.png",
@@ -3208,8 +3208,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12267,
-            "average": 4.677264
+            "count": 12268,
+            "average": 4.6772904
           },
           "provider": {
             "name": "Microsoft Learn",
