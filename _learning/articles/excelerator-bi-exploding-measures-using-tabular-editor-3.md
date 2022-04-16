@@ -4,7 +4,7 @@ excerpt: "What?! Exploding Measures I hear you say. Exploding, expanding, use wh
 webUrl: https://exceleratorbi.com.au/expanding-measures-using-tabular-editor-3/
 type: article
 publishedDateTime: 2022-04-13T03:00:35Z
-heat: 130
+heat: 133
 
 provider:
   name: Excelerator BI
