@@ -4,7 +4,7 @@ excerpt: "Analyze your Planview Enterprise data in Power BI http://blogs.msdn.co
 originalUrl: https://youtube.com/watch?v=bm5WrPyEu4I
 type: video
 price: Free
-length: PT3M49S
+length: PT3M50S
 publishedDateTime: 2015-10-15T16:11:43Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2oCNPjX2bNDxRVodfu9XAki9JRCFGDXKwGZPtR9wpbtfyI7MjVXGbbtgIcVTEI5Emle68BKRIkGZfvF+riZ7mHd8q7g8Xbhe2JnwXT+VHFXMBqgZq2eUp6ClWA23iw+w35brqYkVA/HLK3a+Q+3IKRdboKVyg9gQ50DMEutJvFYs9dD6pb97jVWIHCpF7H8br7cfQVtwThPBhxmtjfShIhsg/k0rWAuIqidKoKKhl7y9zWbkENAK5ozonjutpvmJ9M9JKdkr9LVv8kvYqGexeRPjhkPJm6JibB0/tWTete74MQCslV3on81kljMEvGHgBiiVp6FmX5CmG5DrjOrLsEcTi0jCql7xBTIWZVn/StJGi8a3zo3ez0euOVT5zmFBCrGXn9VLwcyoFY3+NaGDNZCTOas1nfmJs2CGNiL3mV0=;GuYv4noq1QC1OP89VEoTZQ=="
+secured: "NaNvhzNrm7z7b4B6kerJjwhRG1kToOCuRb7oCHmdeVmcV0Xw6HiaCErjBX8SOeB7lb53DHtWO9lvsSwrWqmZZIzC8JaMzr0jJ4pprOYrNrrWCp2X6CiKizOy/b9w0uVcktR7MDA/kx4eo+ifpQzwENvq09ABiOEJiZNsH4bbLRT0tZefg2ixuYoOrkcDj8h+HEk1A4934nXyt1v5zYNJHzKhJPdAeeIv4HavoYn80W6dgylap74go5G+6rq0SSDQI/M8soyk+gYvpAGJZm773lkLBAYygA2d6dMmgg3a/xopzE1+gE9LXybDvEnx9klWqa2U0G9/EsxNdNSabspHj0DwYzVROkfwnG8CY4uoAc9NgXETbXplgfdwXwBjNuAh8ICQgb0AELALDr4f1eWLO1Bw4WaNYkGdG8WtqSiNdqQ=;J8O/ZTCuDJl/6VGOCy9nzw=="
 ---
 
