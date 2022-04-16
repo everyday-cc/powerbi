@@ -1513,8 +1513,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 88,
-            "average": 4.7727275
+            "count": 89,
+            "average": 4.775281
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3367,8 +3367,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3556,
-            "average": 4.728909
+            "count": 3557,
+            "average": 4.7289853
           },
           "provider": {
             "name": "Microsoft Learn",
