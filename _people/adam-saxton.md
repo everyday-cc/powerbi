@@ -3,7 +3,7 @@ name: "Adam Saxton"
 bio: "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube"
 location: Conroe, TX
 type: "profile"
-heat: 42
+heat: 72
 
 affiliation:
   name: Microsoft
@@ -18,7 +18,7 @@ website: https://t.co/sfMHqOSfBC
 twitter:
   username: awsaxton
   url: https://twitter.com/awsaxton
-  followers: 7269
+  followers: 7270
 
 linkedin:
   url: https://www.linkedin.com/in/guyinacube/
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Adam Saxton"
 
-secured: "fBgRBsTYKFSK2Sz97ocjkbMCapi7NDwTuf66PX+/5Vr5P7WWncccVsqgZpe/TMzR2EgB4TC7eil4P9byrcQ13VdNddgLOlMCPyE7LHOwtM3kmtzy4PzXCMAVdKDGVvl6sUOKDuVvi3y+9crDk75A+b0zLboRClbC8DlOrYZmR75QMJeub8IBnu8Sv/c8VRSW9Ph075xCPy67Ns4/InP1H5YN9jggNXyzj+E0Y1AFy7vpz416gCT6gfgd/MM+oXBCGYeUxkWf9Bbcfwn/lmcp9eZuEOx3iZzX/9kiByjX2Z9hPaGLcdkM6fInmuvzNUkZDA7OnWZXc6C6z5/HBXiEDdREjlndgVuNUscIuT/lU8n1OQYv1P+aIESA4HkOpup/LLSYUxKzRvDfrVGQTTYLh6lJMqIdRLzJs7ExHb63koE=;f8U9zHpZFgV0tHJU+WnVKA=="
+secured: "5MF7ClAlzqgOw9uMAQ9qltoYXI1D5SpEw6p4ddY1npHRlC150y5J8viC7QO3OgVfYv63HwmWXM4LyelscozBihuiQYKjaKeoHuG1OliAeyC5ncfnVqtENfhEPxQy//S3Im246A8YEXga57RyrPrE2kaLmS7Qi1V28gEskz6a273YrJT51xNQhuxdNHulcrIFY8dcklShj6DlvcDqVksLqJE3ZDRWdGD88RMs+wqY3Ii0tBGeoqin60/DaB/D4L10UgFYCdmBLagFAO5FYDRi9nsM69RD95dwVBO2B99U4/a5aMAMZQ756arsP0o+IJaEk2/oKeQmv5CdT4G+1Kx2pkEqCQRyU0CQtmb7V+q/xn7wqZ/D/bM/JRlxc5mQhb6k/vRSavZXL3wt18S1sJCSxH6EqkR9pu+8jiWBEyUjA8A=;XHIaCsGrlDhfM/dk/VE/5Q=="
 ---
 
