@@ -55,7 +55,7 @@
         "domain": "learnpowerbi.com"
       },
       "publishedDateTime": "2019-04-30T16:11:09-07:00",
-      "heat": 199,
+      "heat": 191,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/AGrl-H87pRU/maxresdefault.jpg",
@@ -230,7 +230,7 @@
         "domain": "radacad.com"
       },
       "publishedDateTime": "2022-04-12T14:29:55-07:00",
-      "heat": 137,
+      "heat": 134,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -304,55 +304,18 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-the-best-way-to-combine-files-in-power-bi-so-you-dont-lose-columns-part-2.md",
-      "title": "The BEST way to combine files in Power BI so you don’t lose columns - Part 2",
-      "excerpt": "In a previous video ( https://www.youtube.com/watch?v=UY3hIV-THcg ) , I showed you how to combine files without losing columns and you had a ton of questions that I will address in this video:  How to promote headers inside a table How that will prevent columns from combining the wrong way How to add",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-the-best-way-to-combine-files-in-power-bi-so-you-dont-lose-columns-part-2/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-the-best-way-to-combine-files-in-power-bi-so-you-dont-lose-columns-part-2/",
-      "originalUrl": "https://youtube.com/watch?v=hJF2dPfIeaM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hJF2dPfIeaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M26S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+      "path": "_learning/courses/microsoft-learn-modern-analytics-publish-share.md",
+      "title": "Secure, publish, and share data in Power BI",
+      "excerpt": "This module reviews securing, sharing, and publishing Microsoft Power BI reports as part of Power BI service.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-publish-share/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-publish-share/",
+      "length": "PT49M",
+      "ratings": {
+        "count": 66,
+        "average": 4.757576
       },
-      "publishedDateTime": "2022-01-21T02:27:39-08:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-26-december-2021-update.md",
-      "title": "Power BI Paginated Reports in a Day - 26: December 2021 Update",
-      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional - Data Platform, and course developer) describes and demonstrates new capabilities and features added to #Microsoft #PowerBI paginated reports since the last update for December 2020 was recorded.    For more information about the online",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-26-december-2021-update/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-26-december-2021-update/",
-      "originalUrl": "https://youtube.com/watch?v=tPasEyezQnc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tPasEyezQnc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M17S",
       "provider": {
-        "name": "Microsoft",
+        "name": "Microsoft Learn",
         "domain": "microsoft.com",
         "images": [
           {
@@ -363,32 +326,34 @@
           }
         ]
       },
-      "publishedDateTime": "2022-02-04T09:04:28-08:00",
-      "heat": 131,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tPasEyezQnc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-publish-share-social.png",
+          "width": 1282,
+          "height": 642,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/curbal-push-the-button-to-find-your-closest-customerbike-share-in-power-bi.md",
-      "title": "Push the button to find your closest customer/bike share.... in Power BI",
-      "excerpt": "Would you like to push a button on your phone and find where your closest customer/supplier/bike is?  Let me show you how here!  Previous video to find closest point: https://youtu.be/5nkPRsD-olM  Here you can download the pbix file number 71 at : https://curbal.com/donwload-center  SUBSCRIBE to learn",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-push-the-button-to-find-your-closest-customerbike-share-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-push-the-button-to-find-your-closest-customerbike-share-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=ebhwGkvG530",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ebhwGkvG530\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M14S",
+      "path": "_learning/videos/curbal-sorting-the-y-axis-in-power-bi-yes-you-need-a-hack-for-that.md",
+      "title": "Sorting the Y-axis in Power BI | Yes, you need a hack for that.",
+      "excerpt": "Prefer to read? Check it out here: https://curbal.com/curbal-learning-portal/sort-y-axis-in-power-bi-visuals  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-sorting-the-y-axis-in-power-bi-yes-you-need-a-hack-for-that/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-sorting-the-y-axis-in-power-bi-yes-you-need-a-hack-for-that/",
+      "originalUrl": "https://youtube.com/watch?v=bfOPuA11gVE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bfOPuA11gVE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M24S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -401,7 +366,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-03-09T08:05:54-08:00",
+      "publishedDateTime": "2022-02-15T01:54:29-08:00",
       "heat": 130,
       "images": [
         {
@@ -416,6 +381,45 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-differences-between-int-and-convert-in-dax.md",
+      "title": "Differences between INT and CONVERT in DAX",
+      "excerpt": "How do you convert a DAX expression into an integer value? There are small differences between INT and CONVERT in DAX that may end up returning different results in arithmetic expressions.\r Article and download: https://sql.bi/742452?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-differences-between-int-and-convert-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-differences-between-int-and-convert-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=NNwA8Iy4i84",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NNwA8Iy4i84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M49S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-02-15T03:01:05-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -723,44 +727,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-good-kpis-bad-kpis-and-the-north-star-metric-a-power-bi-goals-pre-guide.md",
-      "title": "Good KPIs, Bad KPIs and the north star metric | A Power BI Goals 🏆 pre-guide",
-      "excerpt": "Are you using Power BI Goals? 🏆  A good KPI should show you whether you are taking the right path toward your strategic goals.  But be careful! There are thousands of KPIs to choose from and if you choose the wrong one, then you are measuring something that doesn’t align with your goals or even takes",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-good-kpis-bad-kpis-and-the-north-star-metric-a-power-bi-goals-pre-guide/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-good-kpis-bad-kpis-and-the-north-star-metric-a-power-bi-goals-pre-guide/",
-      "originalUrl": "https://youtube.com/watch?v=Oke891n48E0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Oke891n48E0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M56S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-04-07T01:46:23-07:00",
-      "heat": 101,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-what-is-power-bi.md",
       "title": "What is Power BI?",
       "excerpt": "In this video, Adam looks at what is Power BI. While people may see bits and pieces of Power BI, they may not understand holistically what Power BI is. From Power BI Desktop to the Power BI service and the mobile app, Power BI is a full suite of tools for your visualization and reporting needs.  Power",
@@ -813,6 +779,44 @@
         "domain": "learnpowerbi.com"
       },
       "publishedDateTime": "2022-04-06T09:00:20-07:00",
+      "heat": 98,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-good-kpis-bad-kpis-and-the-north-star-metric-a-power-bi-goals-pre-guide.md",
+      "title": "Good KPIs, Bad KPIs and the north star metric | A Power BI Goals 🏆 pre-guide",
+      "excerpt": "Are you using Power BI Goals? 🏆  A good KPI should show you whether you are taking the right path toward your strategic goals.  But be careful! There are thousands of KPIs to choose from and if you choose the wrong one, then you are measuring something that doesn’t align with your goals or even takes",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-good-kpis-bad-kpis-and-the-north-star-metric-a-power-bi-goals-pre-guide/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-good-kpis-bad-kpis-and-the-north-star-metric-a-power-bi-goals-pre-guide/",
+      "originalUrl": "https://youtube.com/watch?v=Oke891n48E0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Oke891n48E0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M56S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-04-07T01:46:23-07:00",
       "heat": 97,
       "images": [
         {
@@ -860,8 +864,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 56559,
-            "average": 4.7773476
+            "count": 56562,
+            "average": 4.7773595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -902,8 +906,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 25523,
-            "average": 4.723857
+            "count": 25524,
+            "average": 4.723868
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -945,8 +949,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 11486,
-            "average": 4.725579
+            "count": 11487,
+            "average": 4.7256026
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1070,8 +1074,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 36174,
-            "average": 4.799442
+            "count": 36178,
+            "average": 4.799436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1112,8 +1116,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 56559,
-            "average": 4.7773476
+            "count": 56562,
+            "average": 4.7773595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1172,8 +1176,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 56559,
-        "average": 4.7773476
+        "count": 56562,
+        "average": 4.7773595
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1396,8 +1400,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 36174,
-        "average": 4.799442
+        "count": 36178,
+        "average": 4.799436
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1464,8 +1468,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 25523,
-        "average": 4.723857
+        "count": 25524,
+        "average": 4.723868
       },
       "provider": {
         "name": "Microsoft Learn",
