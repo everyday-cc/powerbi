@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 85,
+      "heat": 84,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
@@ -1185,8 +1185,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 822,
-        "average": 4.720195
+        "count": 823,
+        "average": 4.7193193
       },
       "provider": {
         "name": "Microsoft Learn",
