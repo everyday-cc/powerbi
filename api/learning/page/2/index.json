@@ -629,8 +629,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 19622,
-        "average": 4.7635307
+        "count": 19625,
+        "average": 4.763516
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -873,7 +873,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 134,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-dashboards-power-bi-social.png",
@@ -1715,8 +1715,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 295,
-            "average": 4.827119
+            "count": 296,
+            "average": 4.824324
           },
           "provider": {
             "name": "Microsoft Learn",
