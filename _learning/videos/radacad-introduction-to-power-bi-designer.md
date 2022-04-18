@@ -4,7 +4,7 @@ excerpt: "Video starts with Power BI Components explanation, then introduction t
 originalUrl: https://youtube.com/watch?v=ZFxWXdQnJ-g
 type: video
 price: Free
-length: PT21M35S
+length: PT21M34S
 publishedDateTime: 2020-01-21T22:33:43Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "N/irWwAjc3N/MDOLgcN/6vFJg3Sy3w8fw36uJoqpTRAQcBZYxmk6D86sn4xp0TFRc1gpROdd2CYNjdiQDpE8krD0uC0gcD2u3vydRWvVHADaeOgmH/N0mDvhjlxogbTLngSlWy+qYQO4FF8OwE8vL1u0tT09ALnvCQQxY3TZM6SDmanAv9oV/a+Ug6BOcqpG06nMjOQY9bajSPxA1We5ErRYgAwA5Pyp49lnwet58cxwtfWXwKsn9K/YU/uoFWM/gR+uSi14Cqu//dd2dn35S2JuBCBLezlKTzv/2grzVcamgGyVMuanIXDUoykHC0SV5luOGIw4FkyM/gVsvYns6qUQCYOHhKC8dK/MBqQhHtI3h32i1URt9yUY5PGBpvPuP8/Q+BaJ3Hn0rweu5CiN+oUOgnIKaGrCgSC6Nb5q+Pg=;QA2kiYL7Yko8Kuf7cLbv+g=="
+secured: "FplTq5Vjrp1//wsMWfgMFlqd4pXcNsP7GK12t3AciyQKlU79Ri51ngyvbtkg/0aTeIj7WleiJEbhoY8MJLI7qLNrGZ+RbicXvmgc0kKnKl0vDXuN+mIv0RFAgYs7aUDqIQ4St3ZplR0ZxFAmFZAOKOCCdQaSC5nv0ybl90QK2mMuTHP4Zex/9Vy0+yy+JVtbCgIv4wC9EUc6GBFKRLP9jDTQ/ooKQV9mx6m8rUkcSJ9N/DDIFckBFp0feVX/nd9rBUOL5/KxzirhhFzUTnNjygPJ/9VKBTmhNmqqYW0f4qSPHfNOJHnqzaqatk0hEkvZ0ZWFYqkKT8zxhrzN3+j9NikRtj4aoZexZRstYGqFFOwAO5KnlrgTUJADQqLUFZecIJUFb2FOoyG55OLmOMxIelzyPnfVOaxd2ajx1IqTefk=;EPeNiUdzoOpjddeZRTPCfA=="
 ---
 

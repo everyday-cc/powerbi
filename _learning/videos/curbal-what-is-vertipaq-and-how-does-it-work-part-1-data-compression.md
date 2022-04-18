@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M12S
 publishedDateTime: 2020-05-10T09:10:23Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b8oSgTOeYCE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "b8uCAdZ9GrMDB00KDC94wkldNRoyztUJqfxgZ4uGj5nmNh8pCUQP4ROPl+wl7oy77lhyNhj3MgxpRPhrlzIv834LdCR7345I3UFueWBu9KxE7CKXCvli2whA9CAbX9UyLyjjRSDuW3Ii2z8DQQPzfqlNdZ1JaGDFQMWfwqcAkvvEpPbuhS09v8ssEhRxtZh+7xX3n81yXvIgsjdBA3GaP0rbl5PwXAjHJq3lTthY1gwHnO9IM1Ih5vOygDHGV1YnTrkm44p6UYLcugynxjQVUvKoMlQ8pgJYibZBlTRLoSYOHHbf2kGtaMZQZpcAG9vbiGoDfzzygFkrK446zGwRroEvm7blRGdhG6LBwRW0KngB41FudVSjjFqKH6fmsRZWqpGXlu1Arpg1I9icvz16O/3/7xypCc/P9rB+EYmKZVo=;7KxHteQw9396y/yuWHpTkA=="
+secured: "ytSPzgqVzDhVKpK0HE88CKHoc+GROVI+RYLfOlGixg8jjf6LybgmGHAdM6gQJeOeT2K+Gv48M5O4wbJgZvK+IDsBvqGAQYlE150SjJjky2Ll/QwXnTK1vsUhmR3sD80KNaFpPSijvs6pcbzxUtoox6DgBzR7j42o7TqRkxDfKSw9nv7cJIP5tnjCxXqoTQ7P24HMK2eYF1fY9NpvJ009mAnYijINQ0dYfjPCnA8+lqDk6QgX/NGGeO4sam+NbubckQz/SYHpUjncVEMoccddrr7yTmC9KIVVVTIasRxu0jYnidsdbttUUcmwKL0bVg1jd23pfmsAYQj/BLsz4z4GT/fNTjo+16MM3S4pqd9MLap3wclif5Fst5mOt8AfYlg6MUNRm063I4EKkuWFVSYTHqp6jlEH9/eJEXmqZdigVt0=;g8caOFahL0rwLUydOK4vCw=="
 ---
 
