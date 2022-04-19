@@ -362,8 +362,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 6265,
-        "average": 4.7739825
+        "count": 6266,
+        "average": 4.7740183
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -649,8 +649,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 824,
-        "average": 4.7196603
+        "count": 825,
+        "average": 4.72
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1234,8 +1234,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 92,
-        "average": 4.7826085
+        "count": 93,
+        "average": 4.7849464
       },
       "provider": {
         "name": "Microsoft Learn",
