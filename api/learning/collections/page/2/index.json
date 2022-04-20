@@ -1057,7 +1057,7 @@
             ]
           },
           "publishedDateTime": "2017-10-11T07:34:50-07:00",
-          "heat": 56,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/iEHfUuoZseo/maxresdefault.jpg",
@@ -1326,7 +1326,7 @@
             ]
           },
           "publishedDateTime": "2019-03-07T08:00:21-08:00",
-          "heat": 57,
+          "heat": 55,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/bjERMKH2blw/maxresdefault.jpg",
@@ -2056,8 +2056,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 316,
-            "average": 4.829114
+            "count": 317,
+            "average": 4.829653
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2266,8 +2266,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 316,
-            "average": 4.829114
+            "count": 317,
+            "average": 4.829653
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3312,8 +3312,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 6442,
-            "average": 4.7552004
+            "count": 6445,
+            "average": 4.7553144
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3354,8 +3354,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 5299,
-            "average": 4.710134
+            "count": 5300,
+            "average": 4.710189
           },
           "provider": {
             "name": "Microsoft Learn",
