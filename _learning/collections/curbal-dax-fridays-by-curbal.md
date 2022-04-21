@@ -240,6 +240,7 @@ items:
   - videos/curbal-dax-fridays-212-values-vs-selectedvalue-to-conditional-format-a-line-chart
   - videos/curbal-dax-fridays-213-year-to-date-same-period-previous-years-in-one-measure
   - videos/curbal-dax-fridays-214-create-dax-calculations-on-ranges-taken-from-a-slicer
+  - videos/curbal-dax-fridays-215-previous-row-in-dax-non-accumulated-values
 
 topics:
   - Power BI
