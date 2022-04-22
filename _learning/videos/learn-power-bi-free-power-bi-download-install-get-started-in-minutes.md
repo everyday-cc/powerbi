@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M17S
 publishedDateTime: 2018-12-05T04:03:41Z
-heat: 63
+heat: 60
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5Fv-I9xQkcc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "SZ9C1dNFTETSjauZXJqIz0gYcoryQv0xNaHfdKb3Ap/4IKeqzs05MfMB/mk/zfCQ/jpbKkQDNIMwp6bSKkTf6CzvI4kqNjewb1Go5+ED2b8D7JtT8UcDXNpbhp6+U5ymGEhIJHsFUNuiGbpJ8cSxE1POczpAXDjCEjW/MisMHKpUTkQD7MLWMYHRs0Ch/4GckveFuScNcMXDgFMLp4OHIboxGgGG5P3Tvm6PeWCeGdxu85p2TKCm0wX18zag+MmsEvCfouCAwAnChigiYCceEXQeKx9QC8xVRJeAgDq2MJ68vMXHu0ACwhpxoe5byKauzhNmJ9K66QDDgnmhWT243C/mZlIRsDjIxoAgTUd9fI3Qd3CIDLoaKRQRfptrrKZvyAJkbhkBWwj7NiRwvSBNsRwwSpOBN+xQKpOQ9g9GOLkUhYeF2wQzZ7G/Bh9bNKuh;QIlHw0d6elvuGWaeH+Spig=="
+secured: "cpYi6dELNTFrYolyPek1kiOtHLbjs8JR52q4mFRwMustZUCnt1xrGI0EJvjbhuChPpkS+Vgtw2i/r/ynLuHMwNqqF+nyQwk6UeLU867zdiaKQ49OAUZIXmp4AwCG7LjjVRL/CINCgrqR4Jr4IUMTeEhFlPd6/B+CyvVniMhCBcAiO1522XB0bUPLoQwGzFNjEN3oKi/IVF6XZy+lSs/oJaWIa9FqiLvlUOfKhanFTB8copPcI6c8MIIXXzg8TsgWV04aXt8kJOxQxFbLBVfJi20I8wrIathPDmISWXp+gzf3UR7Z7VnDRc0g88/6q1qVRF08M5q9baY6HjZP/wLXmOQ1nr0kLGMyHQ4zQ+cyVdhiUNjRHP4ssX3t9+FWtRkSCsOhBu2KSksEFhHAguGTcPJEtbW/FmrqCxbkl9eXXAgkw63HfayLyQPV7lhva8k6;MwOiBOXxSP+QFxNAd0C48g=="
 ---
 
