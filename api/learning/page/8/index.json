@@ -1589,7 +1589,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-collaboration-social.png",
@@ -3305,8 +3305,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 5309,
-        "average": 4.7103033
+        "count": 5311,
+        "average": 4.710224
       },
       "provider": {
         "name": "Microsoft Learn",
