@@ -3088,7 +3088,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3355,8 +3355,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 638,
-            "average": 4.716301
+            "count": 639,
+            "average": 4.71518
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3591,8 +3591,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3576,
-            "average": 4.7284675
+            "count": 3577,
+            "average": 4.727425
           },
           "provider": {
             "name": "Microsoft Learn",
