@@ -1433,8 +1433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 2346,
-            "average": 4.7523446
+            "count": 2347,
+            "average": 4.75245
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2870,7 +2870,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -3037,8 +3037,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 6479,
-            "average": 4.7558265
+            "count": 6482,
+            "average": 4.7557855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3079,8 +3079,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 5321,
-            "average": 4.709829
+            "count": 5322,
+            "average": 4.7098837
           },
           "provider": {
             "name": "Microsoft Learn",
