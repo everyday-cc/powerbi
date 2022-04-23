@@ -2960,7 +2960,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3644,8 +3644,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3760,
-            "average": 4.8042555
+            "count": 3761,
+            "average": 4.8043075
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3922,8 +3922,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 199,
-            "average": 4.839196
+            "count": 200,
+            "average": 4.835
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4047,8 +4047,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 199,
-            "average": 4.839196
+            "count": 200,
+            "average": 4.835
           },
           "provider": {
             "name": "Microsoft Learn",
