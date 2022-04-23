@@ -285,8 +285,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 12687,
-            "average": 4.7740993
+            "count": 12688,
+            "average": 4.7741175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -494,8 +494,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4206,
-            "average": 4.7339516
+            "count": 4207,
+            "average": 4.7340145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -554,8 +554,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 12687,
-        "average": 4.7740993
+        "count": 12688,
+        "average": 4.7741175
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1286,8 +1286,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 6478,
-        "average": 4.755789
+        "count": 6479,
+        "average": 4.7558265
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1328,8 +1328,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 569,
-        "average": 4.8629174
+        "count": 570,
+        "average": 4.8631577
       },
       "provider": {
         "name": "Microsoft Learn",
