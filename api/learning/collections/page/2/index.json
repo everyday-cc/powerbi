@@ -1908,8 +1908,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 321,
-            "average": 4.8317757
+            "count": 322,
+            "average": 4.8322983
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2118,8 +2118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 321,
-            "average": 4.8317757
+            "count": 322,
+            "average": 4.8322983
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3182,7 +3182,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 142,
+          "heat": 62,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
@@ -3332,8 +3332,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12349,
-            "average": 4.676816
+            "count": 12351,
+            "average": 4.6768684
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3366,8 +3366,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9622,
-            "average": 4.704635
+            "count": 9623,
+            "average": 4.704666
           },
           "provider": {
             "name": "Microsoft Learn",
