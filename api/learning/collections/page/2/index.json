@@ -818,8 +818,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 49,
-            "average": 4.897959
+            "count": 50,
+            "average": 4.9
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1027,8 +1027,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 49,
-            "average": 4.897959
+            "count": 50,
+            "average": 4.9
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2301,7 +2301,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3179,8 +3179,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 5325,
-            "average": 4.7098594
+            "count": 5327,
+            "average": 4.70978
           },
           "provider": {
             "name": "Microsoft Learn",
