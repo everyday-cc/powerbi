@@ -4,7 +4,7 @@ excerpt: "I always tell people in my training classes that the best way to becom
 webUrl: https://exceleratorbi.com.au/real-life-power-bi-demo-what-size-water-tank-do-i-need/
 type: article
 publishedDateTime: 2022-03-01T22:34:04Z
-heat: 130
+heat: 50
 
 provider:
   name: Excelerator BI
