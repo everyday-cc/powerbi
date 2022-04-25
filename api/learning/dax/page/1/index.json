@@ -103,7 +103,7 @@
         ]
       },
       "publishedDateTime": "2022-04-12T03:01:41-07:00",
-      "heat": 92,
+      "heat": 97,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -2287,8 +2287,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 5327,
-        "average": 4.70978
+        "count": 5329,
+        "average": 4.7098894
       },
       "provider": {
         "name": "Microsoft Learn",
