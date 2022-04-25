@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 65,
+      "heat": 63,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-data-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 12714,
-        "average": 4.774343
+        "count": 12715,
+        "average": 4.774361
       },
       "provider": {
         "name": "Microsoft Learn",

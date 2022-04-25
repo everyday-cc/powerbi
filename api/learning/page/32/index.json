@@ -141,7 +141,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-trusted-data-use-azure-purview/",
       "length": "PT29M",
       "ratings": {
-        "count": 9,
+        "count": 10,
         "average": 5.0
       },
       "provider": {
@@ -1143,8 +1143,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
       "length": "PT21M",
       "ratings": {
-        "count": 320,
-        "average": 4.81875
+        "count": 321,
+        "average": 4.8193145
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1227,8 +1227,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-user-experience/",
       "length": "PT59M",
       "ratings": {
-        "count": 105,
-        "average": 4.7619047
+        "count": 107,
+        "average": 4.766355
       },
       "provider": {
         "name": "Microsoft Learn",
