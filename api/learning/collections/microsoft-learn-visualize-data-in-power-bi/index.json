@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 4457,
-        "average": 4.67265
+        "count": 4460,
+        "average": 4.671973
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 133,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
@@ -95,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 3666,
-        "average": 4.695581
+        "count": 3667,
+        "average": 4.695664
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -137,8 +137,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 4213,
-        "average": 4.7339187
+        "count": 4215,
+        "average": 4.734045
       },
       "provider": {
         "name": "Microsoft Learn",
