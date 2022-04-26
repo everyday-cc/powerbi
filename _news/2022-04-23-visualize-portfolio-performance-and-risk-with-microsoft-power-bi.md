@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/professional/blog/visualize-portfolio-pe
 webUrl: "https://www.bloomberg.com/professional/blog/visualize-portfolio-performance-and-risk-with-microsoft-power-bi/"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -27,6 +27,6 @@ images:
     height: 488
     isCached: true
 
-secured: "0ZaeS6YpaKlsC3EJSCWD5spEjLSyD4Y2unl5fyklVZnqSxGx17v9cscZCIoHuUaCIQ8+ZjBt2/5IPEcuAHSa9kZtt3K/bQoq7p58eVA8iB0I1tSYT6uuvbSrRzUEMGx3jKeuAkfYxNTw3EmF8pWrjaeJyadWw1ip3/bghrHONlC0fSOlRFJyxhAE9kxM1DOUdQd1VHjWA3xGrgmwjwRvenHX6y0JjpqxFTuzRz9m4zdB1ywkEyoEpByVdjB8cCaBWJt1KToxDUBQSHtvnUcs3oxqhIlehm8TEcKboMAgVDf2Jn5e5irvcKPTMbQOeTxv2yczex20Qi+04+AVp9FndarXo8AfdaNdHdWxNofAFto=;3LwrNI4ZXKRBHypvIecbnw=="
+secured: "Jo9QOwiFRwT8J91dgjMdsxTLT28zHo8NrzwRW6PLUANPWc6b964E6r/pvYU8YtJQ2lbLWYywvwFIQ5Z3dHi6MvvlkYJV9NiaTr9uflReEyL08FFn0Et/FAWTYAMbrN54VLLTUmMNYB90qA5jLicSjO8FLQyDYJxAah/r9vML4jR+rFJruJEuNxjSsycjXo5mm7rJA5xA6LHDA7QE+aqUpMB44Ox4nnHBl+1eEv+JIiD906OkzcLjCHwCfhCzZ1mHc62DUSZa/VX2Dy4PWQ9EM+gos3+cRZ5FRUk77mCARvsd17YzkBcZ+6XisiUcJTY/Eu5TK9c+WSHfixIUFkj5HTlGzB42vLYJV+iJr/UT9mE=;U8dY19108nfja9YWV7OS3Q=="
 ---
 
