@@ -1188,8 +1188,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 322,
-            "average": 4.8198757
+            "count": 323,
+            "average": 4.8204336
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1582,7 +1582,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-intro-social.png",
@@ -2168,8 +2168,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 19787,
-        "average": 4.7633295
+        "count": 19788,
+        "average": 4.763291
       },
       "provider": {
         "name": "Microsoft Learn",
