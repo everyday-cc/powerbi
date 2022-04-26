@@ -250,8 +250,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
       "length": "PT20M",
       "ratings": {
-        "count": 2352,
-        "average": 4.752551
+        "count": 2354,
+        "average": 4.7527614
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -979,8 +979,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 831,
-        "average": 4.7208185
+        "count": 832,
+        "average": 4.719952
       },
       "provider": {
         "name": "Microsoft Learn",
