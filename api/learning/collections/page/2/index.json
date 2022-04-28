@@ -287,8 +287,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 1636,
-            "average": 4.7114916
+            "count": 1637,
+            "average": 4.7110567
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3386,8 +3386,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6728,
-            "average": 4.766498
+            "count": 6729,
+            "average": 4.766533
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3948,8 +3948,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2602,
-            "average": 4.7136817
+            "count": 2603,
+            "average": 4.713792
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3990,8 +3990,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3775,
-            "average": 4.8045034
+            "count": 3776,
+            "average": 4.804555
           },
           "provider": {
             "name": "Microsoft Learn",
