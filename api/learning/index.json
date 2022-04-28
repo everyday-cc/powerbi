@@ -141,6 +141,45 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-2-free-cheat-sheets-for-power-bi.md",
+      "title": "2 FREE Cheat Sheets for Power BI",
+      "excerpt": "Confused about what joins to use when merging tables? How about what is the difference between pivot and unpivot?  These cheat sheets will help you remember and understand the difference in no time.  Joins video: https://youtu.be/PNdxy0c1Shg Pivot vs unpivot vs transpose: https://www.youtube.com/watch?v=hGj2axffxHo&ab_channel=Curbal",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-2-free-cheat-sheets-for-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-2-free-cheat-sheets-for-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=_UKnsCSsRx4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_UKnsCSsRx4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M30S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-04-28T06:10:58-07:00",
+      "heat": 213,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-join-and-transform-tables-cheat-sheet-for-power-bi.md",
       "title": "Join and Transform tables Cheat Sheet for Power BI",
       "excerpt": "Confused about what joins to use when merging tables? How about what is the difference between pivot and unpivot?  These cheat sheets will help you remember and understand the difference in no time.  Joins video: https://youtu.be/PNdxy0c1Shg Pivot vs unpivot vs transpose: https://www.youtube.com/watch?v=hGj2axffxHo&ab_channel=Curbal",
@@ -262,6 +301,82 @@
       },
       "publishedDateTime": "2022-04-27T19:32:08-07:00",
       "heat": 152,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-a-little-trick-for-sharepoint-online-images-in-power-bi.md",
+      "title": "A little trick for SharePoint Online Images in Power BI",
+      "excerpt": "Using secure images in Power BI reports can be a pain! Patrick has a little trick for you to using images from SharePoint Online though. Check this out!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-a-little-trick-for-sharepoint-online-images-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-a-little-trick-for-sharepoint-online-images-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=EowHdhy-Nio",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EowHdhy-Nio\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M31S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-02-16T03:55:59-08:00",
+      "heat": 134,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-who-doesnt-like-free-power-bi-training-2022.md",
+      "title": "Who doesn't like FREE Power BI training??? (2022)",
+      "excerpt": "There are a lot of free Power BI training options out there for business analysts and there is now training beyond that for your organization. Adam explores the latest free options that Microsoft has to grow and learn Power BI!  Matthew's Blog: https://ssbipolar.com/2021/06/07/free-power-bi-intro-training-from-microsoft/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-who-doesnt-like-free-power-bi-training-2022/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-who-doesnt-like-free-power-bi-training-2022/",
+      "originalUrl": "https://youtube.com/watch?v=q5nxFcvrnqw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q5nxFcvrnqw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M51S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-03-24T03:04:06-07:00",
+      "heat": 134,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -467,106 +582,20 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-a-technique-to-count-anything-in-power-query-and-some-in-dax-too.md",
-      "title": "A technique to count anything in Power Query and some in DAX too",
-      "excerpt": "In todays video I will show you a technique to count any text in a cell in Power query and DAX.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-a-technique-to-count-anything-in-power-query-and-some-in-dax-too/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-a-technique-to-count-anything-in-power-query-and-some-in-dax-too/",
-      "originalUrl": "https://youtube.com/watch?v=8u69q5LA3x0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8u69q5LA3x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M37S",
+      "path": "_learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view.md",
+      "title": "New Format Pane for Power BI Mobile View",
+      "excerpt": "Create stunning, mobile-optimized Power BI reports with mobile layout’s new visual formatting pane (Preview). During this video we will talk about how we can use separate formatting Pane for Power BI Mobile Reports. Have you ever created a mobile-optimized report and struggled with its design? Did you",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view/",
+      "originalUrl": "https://youtube.com/watch?v=i9WF5sC6HjU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i9WF5sC6HjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M26S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2022-03-14T03:20:42-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-can-patrick-handle-the-challenge.md",
-      "title": "Can Patrick handle the challenge???",
-      "excerpt": "Can Patrick handle the challenge that Alex Powers presented to him? Can he actually complete the challenges of the Power Query 30 day Query Folding challenge? Let's find out...  These are great for both Power BI and Microsoft Excel!  30 Day Challenge - Query Folding https://www.youtube.com/watch?v=9sV3hIn8VTY&list=PLKW7XPyNDgRCorKNS1bfZoAO3YSIAVz3N",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-patrick-handle-the-challenge/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-patrick-handle-the-challenge/",
-      "originalUrl": "https://youtube.com/watch?v=twsuBaiPaCk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/twsuBaiPaCk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M53S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-03-23T08:00:34-07:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-sorting-the-y-axis-in-power-bi-yes-you-need-a-hack-for-that.md",
-      "title": "Sorting the Y-axis in Power BI | Yes, you need a hack for that.",
-      "excerpt": "Prefer to read? Check it out here: https://curbal.com/curbal-learning-portal/sort-y-axis-in-power-bi-visuals  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-sorting-the-y-axis-in-power-bi-yes-you-need-a-hack-for-that/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-sorting-the-y-axis-in-power-bi-yes-you-need-a-hack-for-that/",
-      "originalUrl": "https://youtube.com/watch?v=bfOPuA11gVE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bfOPuA11gVE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M24S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-02-15T01:54:29-08:00",
-      "heat": 130,
+      "publishedDateTime": "2022-03-11T00:54:52-08:00",
+      "heat": 131,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -774,45 +803,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-blown-away-by-column-from-examples-in-power-query.md",
-      "title": "Blown AWAY by Column From Examples in Power Query",
-      "excerpt": "Column From Examples, in Power Query, keeps blowing our mind! Patrick shows you an example where he wanted to extract some data. Will Column From Examples work? Of course, it will! Check this out!  Add a column from examples in Power BI Desktop https://docs.microsoft.com/power-bi/create-reports/desktop-add-column-from-example",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-blown-away-by-column-from-examples-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-blown-away-by-column-from-examples-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=BSmmNgO_EOU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BSmmNgO_EOU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M56S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-04-20T08:00:09-07:00",
-      "heat": 105,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics.md",
       "title": "Get started with Microsoft data analytics",
       "excerpt": "Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need to true BI in the enterprise.",
@@ -843,8 +833,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 36865,
-            "average": 4.7990775
+            "count": 36874,
+            "average": 4.798937
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -885,8 +875,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 57350,
-            "average": 4.7770705
+            "count": 57365,
+            "average": 4.777042
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -945,8 +935,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 36865,
-        "average": 4.7990775
+        "count": 36874,
+        "average": 4.798937
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -987,8 +977,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 57350,
-        "average": 4.7770705
+        "count": 57365,
+        "average": 4.777042
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1129,8 +1119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 57350,
-            "average": 4.7770705
+            "count": 57365,
+            "average": 4.777042
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1171,8 +1161,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 25821,
-            "average": 4.724062
+            "count": 25822,
+            "average": 4.7240725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1214,8 +1204,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 11628,
-            "average": 4.724544
+            "count": 11629,
+            "average": 4.724568
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1256,8 +1246,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 8615,
-            "average": 4.769936
+            "count": 8616,
+            "average": 4.769963
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1309,6 +1299,45 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-blown-away-by-column-from-examples-in-power-query.md",
+      "title": "Blown AWAY by Column From Examples in Power Query",
+      "excerpt": "Column From Examples, in Power Query, keeps blowing our mind! Patrick shows you an example where he wanted to extract some data. Will Column From Examples work? Of course, it will! Check this out!  Add a column from examples in Power BI Desktop https://docs.microsoft.com/power-bi/create-reports/desktop-add-column-from-example",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-blown-away-by-column-from-examples-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-blown-away-by-column-from-examples-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=BSmmNgO_EOU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BSmmNgO_EOU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M56S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-04-20T08:00:09-07:00",
+      "heat": 97,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-215-previous-row-in-dax-non-accumulated-values.md",
       "title": "DAX Fridays #215: Previous row in DAX non-accumulated values",
       "excerpt": "I showed you on a previous video how to get previous row using dax on an accumulated column: https://www.youtube.com/watch?v=mLZ4KISPcZ8  In today's video we will do it for non-accumulated values!  If you need a refresher on DATEADD function, here it the explainer video: https://www.youtube.com/watch?v=iw-WfZM9L3U",
@@ -1330,7 +1359,7 @@
         ]
       },
       "publishedDateTime": "2022-04-19T06:44:14-07:00",
-      "heat": 93,
+      "heat": 92,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -1482,36 +1511,6 @@
           "url": "https://i.ytimg.com/vi/-ip7mKUdwRg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-subscription-get-report-updates-in-email.md",
-      "title": "Power BI Subscription   Get Report Updates In Email",
-      "excerpt": "Have you ever wondered is it possible to have updates of the Power BI report to be emailed to you (or some other colleagues) on a daily basis? Power BI, fortunately, has this feature, it is called Subscription. Subscriptions are helpful ways to send an up-to-date version of the report and dashboard to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-subscription-get-report-updates-in-email/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-subscription-get-report-updates-in-email/",
-      "originalUrl": "https://youtube.com/watch?v=f_Y471pKWh0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f_Y471pKWh0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M42S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2022-04-20T16:57:58-07:00",
-      "heat": 85,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
           "isCached": true
         }
       ],

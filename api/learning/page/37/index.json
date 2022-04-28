@@ -4,6 +4,44 @@
   "page": 37,
   "value": [
     {
+      "path": "_learning/videos/curbal-how-to-translate-power-bi-reports-or-any-text-live.md",
+      "title": "How to translate Power BI reports (or any text) Live",
+      "excerpt": "Have you ever had the need to work with a Power BI file in a different language that those you know? Or travelled somewhere where you couldnt speak the language?  In today's video, I will show you how to translate any text live. No more language barriers :)  Here you can download all the pbix files:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-translate-power-bi-reports-or-any-text-live/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-translate-power-bi-reports-or-any-text-live/",
+      "originalUrl": "https://youtube.com/watch?v=takLaQs5VCE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/takLaQs5VCE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M48S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-08T01:35:24-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/takLaQs5VCE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-import-multiple-pdfs-as-data-sources-for-power-bi.md",
       "title": "Import multiple pdfs as data sources for Power BI",
       "excerpt": "*****NOTE: I did this too fast: you can of course import the names and path of the pdf files using Get Data- From Folder******  This video is a continuance of the video published previously: How to import pdf into power bi. https://www.youtube.com/watch?v=z15dF-jDXIo  In this video you will learn how",
@@ -1062,37 +1100,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-dax-code-formatter-in-power-bi.md",
-      "title": "DAX Code Formatter in Power BI",
-      "excerpt": "Mostly we are using the complex DAX formula in our Power BI report. So, we have a question that how we can format our DAX formula in Power BI? Is there any way to format our DAX code so that it looks nice? Yes, now we can format our Power BI DAX Code using an External tool called Tabular Editor.  Before",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-dax-code-formatter-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-dax-code-formatter-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=vFCefuS1ItQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vFCefuS1ItQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M41S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-03-27T19:13:30-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vFCefuS1ItQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     }
   ],
