@@ -2745,7 +2745,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3038,8 +3038,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 620,
-        "average": 4.8693547
+        "count": 622,
+        "average": 4.869775
       },
       "provider": {
         "name": "Microsoft Learn",
