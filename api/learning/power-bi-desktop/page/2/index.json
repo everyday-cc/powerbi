@@ -674,8 +674,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1140,
-        "average": 4.741228
+        "count": 1141,
+        "average": 4.7405787
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -760,8 +760,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 833,
-        "average": 4.7202883
+        "count": 835,
+        "average": 4.718563
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -804,8 +804,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-modify-filter/",
       "length": "PT21M",
       "ratings": {
-        "count": 753,
-        "average": 4.6533866
+        "count": 755,
+        "average": 4.6529803
       },
       "provider": {
         "name": "Microsoft Learn",
