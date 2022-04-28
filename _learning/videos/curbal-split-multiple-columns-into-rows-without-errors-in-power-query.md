@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M55S
 publishedDateTime: 2020-06-22T10:41:02Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V5X-wo0wVw0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "QM3kjCeBFleS+idaHAswpEpHYoTaqliQcBIraE6kfPHLSMPSy/0QEzmABzBfGn7Wu45WTI//9/vKIGmI853eiL22RKiApZuYQoO0EvmCuppScN8lEvxDWenWDyq09qQHQosd5ipbBR9n1jCiJHyD9h9Exee3pUdlvlJbgQ3JzSfH/VS8WF940ddfRdL+bbESQUnvK3O1X5dZ75z4ONXF0bhrl5QgQoToUfs0IEwMzIdzF+4g5N60F3ylI9ItiVEvhj03cZAigtlGUEOf6oLFDA3VBFckVOlzG1DFtu5z60Fu+qtzcq28M+s4qkvjizCLmiwseptrfghdE+OjCQUg6zwLLj75XhUJYa0yVjaWXwHLZcMs/zNRzcDx4FzDfrT5W6T6+tG+HixEJ2ELY69kHf60UchSPKtVTwoo7UTA3XQ=;8ba+eKRbtY6G0OOo3Du4gA=="
+secured: "FMrUyTPH/fXbSdRZ6iBJ2YJgCQ58aVvmOOWk7/VV/CrvGays+pSfVgyZmyOb1qv+5xwFShbXZx/LsCOXNf1+e4YPsPbcAve4rzs9rYM660rx9MTRzX8RFQxs6kFwRmigNoqjrhtEdxPNgmLxvl0TPDmSw8jggGPQA+P1zBtjFNCD0EndnG922B2TOMeQXzTc5eEcAl9QdiZif6NmLoUV0qXZW7HYuSJvEGyqHT8DVpedhUbPEQ/V/NOj7Y9sZURpck63UHv+XJx1ulghPeteqdbsFvmhivhWYWVfuTanKgDfOejqwSD6qT0BBejNcqwEUX4vHCnrtqb897OX9ELzB7JMPObfol1Pz+QYRJLv3XbZPQVOWdIzbEGyqWZUtf/lDwWGyagMphzyN/YkbjJedptkuvN11+2smplB9OJhats=;oFF+pHtFhPS1ocjuBfNiyw=="
 ---
 
