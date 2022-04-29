@@ -19,7 +19,7 @@ items:
   - videos/absent-data-channel-frequently-bought-together-items-with-python-and-power-bi
   - videos/absent-data-channel-create-power-bi-calendar-table-with-python-fast-detailed-and-simple
   - videos/absent-data-channel-get-python-sample-datasets-in-power-bi
-  - videos/absent-data-channel-import-google-trends-in-python-and-power-bi
+  - videos/absent-data-channel-google-trends-in-python-and-power-bi
   - videos/absent-data-channel-decision-tree-in-power-bi
 
 topics:
