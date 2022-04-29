@@ -4,7 +4,7 @@ excerpt: "We walk through a first look at the new Charticulator visual from Micr
 originalUrl: https://youtube.com/watch?v=kjtAN_iSnR8
 type: video
 price: Free
-length: PT47M59S
+length: PT48M12S
 publishedDateTime: 2021-04-17T21:28:46Z
 heat: 50
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ElQfL5sBRjsBpMRE5/dHzieR/ZC948Xgbpc4IS/DGlaUPQSo4B4vFvjOISpg5Xv/Pw2GZvUsUDGA2ShAd2CcP0to1Oh3DGkb/CpNNoGuFmgpEca+VKcMYkV9t9RwX1sCLb3hHCSkhr//Q2KR4FgGs71YujLR1NNzcP/cgvcY4ltgVi+jK5bV2fEI54wJZVjvDoLFS8dRswUWBCm4eidFK2ke2ANoILhRomC1OsJ4XF2ZwEwb5FjsH119E8Of1dahAjiyYOBQAiC4HiprD/NmbMX+Xq9OP8e/ZVTya1C2i02m7jQq+YTCFnHAqbav3EFzB3shE6FbtB1vV32Xwe4VFFcV5nM0S5Yy3eGUTrFEpsKUknKtryYnWbliDviogP14NcZWghCrgea3Uiv9lrYJB2VPz6uTTBj7cev4KXdEXUg=;BfU0Gddk0Wp/znVBr63mAQ=="
+secured: "Q2/Io/UTU7rH6jBYolkO+v2Bdgco0dkrfUc0EroLtFq3tLXGxnFTYHTs0ZptU4YUdreCTq5fsVFh0e8AM0KhIY5sToeKCrbwfet4bL+ETOsdOSWBA4eSyAvRhYj4vVdDCvrg9xVo9JvkSsrfnGb9oXErXRHo2GIAmzvNYPfmyoRZf7Qu5MvudQYP22Tr9cT5G21qslia5N3Q8mscKTssKOzo/oik1JberxVtP3wB/yWyAhXzNRJK5B0SLyjX6fSXTkjGZAVL/SuK7N2hLUaePZE2zFHtpXpULLETnToZ8X4KnvvXNPd2ERK/+vBBxxZJPpb3n/qvSEvQixa3jM9Bs0oLExRlhwgf2d8QJaoBiTilShYpvTiJLE2va3HHw/x1qNQy09yTGlcr8ArZZaKjGTjTuCusFgsR0dIkT00taV4=;BfhBHNZXcLHtuebOLzW6fQ=="
 ---
 
