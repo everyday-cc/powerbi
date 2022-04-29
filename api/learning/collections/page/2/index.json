@@ -2315,7 +2315,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-content-social.png",
@@ -3863,8 +3863,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2605,
-            "average": 4.7140117
+            "count": 2606,
+            "average": 4.7141213
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3905,8 +3905,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3778,
-            "average": 4.8046584
+            "count": 3779,
+            "average": 4.8047104
           },
           "provider": {
             "name": "Microsoft Learn",
