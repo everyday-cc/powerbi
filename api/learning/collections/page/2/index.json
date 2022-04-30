@@ -2690,7 +2690,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-calculations-social.png",
@@ -3215,8 +3215,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 6530,
-            "average": 4.7557425
+            "count": 6531,
+            "average": 4.755627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3257,8 +3257,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 5360,
-            "average": 4.7110076
+            "count": 5361,
+            "average": 4.710875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3862,8 +3862,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2607,
-            "average": 4.714231
+            "count": 2608,
+            "average": 4.713957
           },
           "provider": {
             "name": "Microsoft Learn",
