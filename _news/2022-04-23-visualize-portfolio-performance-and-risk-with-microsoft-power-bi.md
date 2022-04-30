@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Visualize portfolio performance and risk with Microsoft Power BI"
-excerpt: "You can seamlessly create portfolio report dashboards in Microsoft Power BI that can be shared with your team or clients. PORT Enterprise users can take the portfolio they have loaded in PORT and ..."
+excerpt: "You can seamlessly create portfolio report dashboards in Microsoft Power BI that can be shared with your team or clients. Underpinning this new reporting flexibility is Bloomberg Query Language ..."
 publishedDateTime: 2022-04-22T17:58:00Z
 originalUrl: "https://www.bloomberg.com/professional/blog/visualize-portfolio-performance-and-risk-with-microsoft-power-bi/"
 webUrl: "https://www.bloomberg.com/professional/blog/visualize-portfolio-performance-and-risk-with-microsoft-power-bi/"
@@ -27,6 +27,6 @@ images:
     height: 488
     isCached: true
 
-secured: "o4NttqjjBKm2rXna4GP7waAFaTRdxQ4fCuOWtEzSeZl7JBkUifwEMG2tiVnKWcVtW+7wD3DaNcltqRtDhDnW6lNFxM2l+sbhZH6S0UaWqnJE0SKxlpr6TD2oAsi9U9qIu3DwxuLwgJYgLR3hI6JeBrtBHKynb6t6noeUadplCwTkosZQDvpJrG4VdneCuxveknxfzqrgLjN8xhFRGZtPtFFle+VwKHqYrmwimEgzjBdZf6jD3S622Mx76twUhg2bV/o1Y0vqKoESn6/LjldG5wjqYp1LJY5XSKfAnqpcoB9amAZHIZJvO0syB+Hdh8RmtbHyfcLz/5dCLmV/73eRUnw7yrrPjHqbw1ihBOLhOvI=;ucOClTLWoOzgYELDqHJqjA=="
+secured: "wh768upIcRRLayrhrWcwV0tJ21vTYffAfIBf35DSxEo2OoMU7O5dB7uw3rgX9uD/sln3gVmBo6y9KAvoDacrH4Dys+rzbKjMVUj4Z6tAVn9c9IzmlroLvyQ86CyZTKVHop33CLTjfIK25RQFQ5GA1wmC2H+BJO2hmjbynz2khDQMUxDkssPQCWDmTWRItVViAmqPWVAX6oYcTteeYRVLIIHazNozzuetLiUDVDtg25PsWVo80EL3QEdnc16pjsf4szr92StdpMUy3GGsl3RF1GRODGBPl2W46a+z57mSErcM3JDVLAg1kF0ovcYwUTvgXL0NqK9lVqyhpF7mAj+pQ4avaxMHhPPnpUGl/Aln2m4=;OyPnBi+QzKcfen83AJx1rA=="
 ---
 
