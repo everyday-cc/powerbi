@@ -1181,7 +1181,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2211,8 +2211,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 635,
-        "average": 4.8692913
+        "count": 638,
+        "average": 4.869906
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2253,8 +2253,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 12408,
-        "average": 4.676902
+        "count": 12409,
+        "average": 4.676928
       },
       "provider": {
         "name": "Microsoft Learn",
