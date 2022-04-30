@@ -1770,7 +1770,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-premium-social.png",
@@ -1979,7 +1979,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-premium-social.png",
@@ -3257,8 +3257,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 5359,
-            "average": 4.7109537
+            "count": 5360,
+            "average": 4.7110076
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3383,8 +3383,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12405,
-            "average": 4.676824
+            "count": 12406,
+            "average": 4.67685
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3542,8 +3542,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3601,
-            "average": 4.7278533
+            "count": 3602,
+            "average": 4.727929
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3904,8 +3904,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3780,
-            "average": 4.804762
+            "count": 3782,
+            "average": 4.8048654
           },
           "provider": {
             "name": "Microsoft Learn",
