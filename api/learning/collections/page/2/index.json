@@ -1059,7 +1059,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-collaboration-social.png",
@@ -1793,8 +1793,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 253,
-            "average": 4.873518
+            "count": 254,
+            "average": 4.8700786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2003,8 +2003,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 253,
-            "average": 4.873518
+            "count": 254,
+            "average": 4.8700786
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3348,8 +3348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 6536,
-            "average": 4.755814
+            "count": 6537,
+            "average": 4.7558513
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3451,7 +3451,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 55,
+          "heat": 135,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
@@ -3469,7 +3469,7 @@
         }
       ],
       "size": 3,
-      "heat": 55,
+      "heat": 57,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
@@ -3516,8 +3516,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12414,
-            "average": 4.676897
+            "count": 12416,
+            "average": 4.676949
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3842,8 +3842,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2611,
-            "average": 4.7135196
+            "count": 2612,
+            "average": 4.7136292
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3884,8 +3884,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3788,
-            "average": 4.8043823
+            "count": 3789,
+            "average": 4.804434
           },
           "provider": {
             "name": "Microsoft Learn",
