@@ -94,7 +94,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-infrastructure-social.png",
@@ -160,8 +160,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 59,
-            "average": 4.59322
+            "count": 60,
+            "average": 4.6
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -303,7 +303,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-infrastructure-social.png",
@@ -369,8 +369,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 59,
-            "average": 4.59322
+            "count": 60,
+            "average": 4.6
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2277,8 +2277,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 11661,
-        "average": 4.7244663
+        "count": 11662,
+        "average": 4.7244897
       },
       "provider": {
         "name": "Microsoft Learn",
