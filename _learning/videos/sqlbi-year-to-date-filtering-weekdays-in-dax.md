@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT5M10S
 publishedDateTime: 2020-09-08T10:00:15Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JS-K2faCiCc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YsIFwcrghZ59ptf0RlL/9IhMNoRGZ0mYo2YOmEiDL1q07jUrS5TZxlMqhqEThsuclC+chifDebMiCDX/mbVlJWt4lRG4ZrhdXkY8aW+lz9aI74focCCR1IB0Lb4glrbhaO8/qBaMJ9monODsULopI9k3+27mbPVwaujhCEBEhjQFnfUYOdi5Ovz5ueAkyQPKWYLr1XVbAePxUaBJgoc4p830jPkYmpOSUHIZgkwYIKqFPr60KyR+df3OEOI5wkAPEVLRaU84YUnTSoPq24Zzd6h4dg7Bu1tVQgWz4MQlCxLGhhKsmHy7TTo9I8w82sdQRy6LxNLxO4/DmSofJnOL6z/0V1/x4hH+HavMwJiVM9QJ3PicJLrZtsq3pDmqv39V7aNPS051lML2J4Ul/9CxB8EfocsBzncwMvkzqcmAk7E=;ehdVrY0nY5YKjEkJAJaEjQ=="
+secured: "XHOObaTcmj+DNXq/6Wfu/1az5kY9sAWZ/Tuto3Bk8A1y2zwtzKry6xBD2YhKRN8ZrOjPW6opvnJl70HzVUoou+txFqFWZsmOlYgfGaA17yhbsGvNiHQ9yv9A7vm3DJrPxAgiIJQ3FdWGCnqB0m2iQfHd9l123XSdQUsdDZZONCl8GcPomHAJDkb6GOFau8RcjE9tzzogltgZ43p7yiCPi/PZGjJoV9Y66YQdCCdtSC6gaAjSYPUV/ZYfrYX4xNFszNy1YRhHNHFuv1vji+k8U/X/ArQOVkDcsTgHfHtFQ/Z895MMIBfKnl/PCW4/3OZz5BeOzfItrTrEHoVuLrdidPptg3ZNGlHGvTf3g8/BY5ZAGNzZWAmjjSe6mTk+Akh5BYCS3+YPxKe+so0ovEVvjcbTJsdhAWg73lBWOHrMGqk=;rF9+Ufa76CFddhjXxwzx6g=="
 ---
 
