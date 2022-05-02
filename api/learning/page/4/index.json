@@ -1405,8 +1405,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 332,
-            "average": 4.834337
+            "count": 334,
+            "average": 4.8293414
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1447,8 +1447,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 255,
-            "average": 4.8705883
+            "count": 256,
+            "average": 4.859375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1615,8 +1615,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 332,
-            "average": 4.834337
+            "count": 334,
+            "average": 4.8293414
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1657,8 +1657,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 255,
-            "average": 4.8705883
+            "count": 256,
+            "average": 4.859375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3283,8 +3283,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 7050,
-        "average": 4.747234
+        "count": 7051,
+        "average": 4.74727
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3325,8 +3325,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 11667,
-        "average": 4.724522
+        "count": 11669,
+        "average": 4.7245693
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3667,8 +3667,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 8171,
-        "average": 4.7461753
+        "count": 8172,
+        "average": 4.7462068
       },
       "provider": {
         "name": "Microsoft Learn",
