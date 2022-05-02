@@ -1928,7 +1928,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-intro-social.png",
@@ -3182,8 +3182,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3612,
-            "average": 4.727575
+            "count": 3613,
+            "average": 4.72765
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3224,8 +3224,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 3992,
-            "average": 4.723447
+            "count": 3994,
+            "average": 4.7235856
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3307,8 +3307,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 6545,
-            "average": 4.7555385
+            "count": 6546,
+            "average": 4.755423
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3392,8 +3392,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6753,
-            "average": 4.766178
+            "count": 6754,
+            "average": 4.7662125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3551,8 +3551,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 684,
-            "average": 4.7192984
+            "count": 685,
+            "average": 4.719708
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3787,8 +3787,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2954,
-            "average": 4.7711577
+            "count": 2955,
+            "average": 4.770897
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3829,8 +3829,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2614,
-            "average": 4.7138486
+            "count": 2616,
+            "average": 4.7133026
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3871,8 +3871,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3794,
-            "average": 4.804692
+            "count": 3795,
+            "average": 4.8044796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4246,8 +4246,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 22,
-            "average": 4.818182
+            "count": 23,
+            "average": 4.826087
           },
           "provider": {
             "name": "Microsoft Learn",
