@@ -850,8 +850,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 248,
-            "average": 4.790323
+            "count": 249,
+            "average": 4.791165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2598,8 +2598,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 12834,
-            "average": 4.774505
+            "count": 12835,
+            "average": 4.774523
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3303,8 +3303,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 12834,
-        "average": 4.774505
+        "count": 12835,
+        "average": 4.774523
       },
       "provider": {
         "name": "Microsoft Learn",
