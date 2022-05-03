@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M38S
 publishedDateTime: 2021-11-15T23:33:39Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UCLCQaVeshs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "+p0lJZWhf4PUz2X8ce2xYFEdEk9b1xBOGoqWavdzBIAWR1NkV3kaB+1TYSqLwuh2lXEUC19KA7Xz+7WbsewwO9fXT9hHfQR5e3a5jz4nDdwX+YDBhKxcbbc35Wk1KaarrtYKJHdjjZhtTcjV4C1DdIX3oRSzNAuygx0Ak3ov+a51WILwcRE+UwUn5ZF1vKQkSmhaySa6jtqFOZ+IaQMzSD319pZqT1zop0z9SrYWslGXEBMPHRb8ELTvZDAbph7UsDlJ2JlLLrYFqdDYc2XnT8xbe5VCukjDlVYLHGd4y42rD6WgWHKB9zqrvV+gnJaKT4VEHBPhhny/6FAYCM5jS6hHU8v+xtthG7fx1j7CG3GXYldoBmOjzRQgMUF11SqL63s615qVuzw0rNYkdWWdP44ezIeKw0YRUqHsjOJz83c=;9DmemrNxro3RhSwamUWI2g=="
+secured: "OGYM+NV2mbVs5WqLRsdNNbuPWTuKAHxZwa8/g2iBG08AZkPPIQS5gBaiJpv/dF+o8fQHWrr2TNjoGlSfTaYfGb477430Nw2wzGTbBTE8hvnr1UwfaOce16f4g+ZJGGu0/yyB30W6uaQLUeG2U93zl0tcNZmehGQ/J/tF6LY8Ll2F8eOkwcWZF5oVifcOaho7T0w/dmDjz8jGMjQxH34Tr0ss7WZsARcm4nCgmAxH+8MCG5gvqgb2CyOAyjGcDwDlqmT1jykrhPlwHNyDEnZq9l3m4v5B4Em4poY2rfe0MhJGh2b9GK0YGhzti7iQEPFbcNTMkf+XitX0UuWBNOaOaJTCeo1/LsvXZdA+5zQvlJncvjsLNX+NaG6/3mdtW/rYRdxX4mE0PCgVjscwg9kiuumU3UJvpmncXDsauBh5Zyc=;twSA5v4otnYujZ7cI9iylg=="
 ---
 
