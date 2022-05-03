@@ -269,8 +269,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2616,
-            "average": 4.7133026
+            "count": 2617,
+            "average": 4.7130303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -311,8 +311,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3795,
-            "average": 4.8044796
+            "count": 3796,
+            "average": 4.804268
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -371,8 +371,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 6199,
-        "average": 4.7252784
+        "count": 6200,
+        "average": 4.7253227
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -455,8 +455,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 5375,
-        "average": 4.7108836
+        "count": 5376,
+        "average": 4.7109375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -540,8 +540,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 685,
-        "average": 4.719708
+        "count": 686,
+        "average": 4.7201166
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -582,8 +582,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2616,
-        "average": 4.7133026
+        "count": 2617,
+        "average": 4.7130303
       },
       "provider": {
         "name": "Microsoft Learn",
