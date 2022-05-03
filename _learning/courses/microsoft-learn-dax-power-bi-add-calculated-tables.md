@@ -7,7 +7,7 @@ price: Free
 length: PT19M
 ratings:
   count: 1150
-  average: 4.7373915
+  average: 4.7408695
 heat: 51
 
 provider:
