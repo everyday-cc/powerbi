@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Dataquest launches new Microsoft Power BI Certification Scholarship: Improving Representation in Data"
-excerpt: "Upon completing the Dataquest Power BI training program, recipients will receive a free opportunity to take the Exam PL-300 Microsoft Power BI Data Analyst. SAN FRANCISCO (PRWEB) April 27 ..."
-publishedDateTime: 2022-04-27T18:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/04/p26849952/dataquest-launches-new-microsoft-power-bi-certification-scholarship-improving-representation-in-da"
-webUrl: "https://www.benzinga.com/pressreleases/22/04/p26849952/dataquest-launches-new-microsoft-power-bi-certification-scholarship-improving-representation-in-da"
-ampWebUrl: "https://www.benzinga.com/amp/content/26849952"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26849952"
+excerpt: "Dataquest is excited to announce they are partnering with Microsoft to offer 500 scholarships to applicants from underrepresented groups who seek to start a career in the data field. Upon completing t"
+publishedDateTime: 2022-04-27T18:25:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/04/n26849933/dataquest-launches-new-microsoft-power-bi-certification-scholarship-improving-representation-in-da"
+webUrl: "https://www.benzinga.com/pressreleases/22/04/n26849933/dataquest-launches-new-microsoft-power-bi-certification-scholarship-improving-representation-in-da"
+ampWebUrl: "https://www.benzinga.com/amp/content/26849933"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/26849933"
 type: article
 quality: 42
 heat: 42
@@ -25,6 +25,6 @@ images:
     height: 1043
     isCached: true
 
-secured: "1C0XiCP5Y4pTk1ucvSmH5CYC24WGW9TkpWr4XHPRnGM3Zesw/1Q77GHJr0bv3ZpCVOjGP0VERSAKJycmkhNUYU2SlJZGanCfIpZ3hzJME93F34dZzX7s1eOu2NcfbZdpBO8I05P08gPpYN0/MdJSNB5dqGg1kOUrNLX16IJtHQIezWL0cKfE5m9yDlEpVvG1opkSDiGxbN33Hi24kZgTytO5ctn1qLemm3FXL6OHVF8S/O35WwI2Nmjm9FIHt8qE2qainUCoJ+/YtD/U7ipI/swo01SsucNJTTEsFWh6+Bo1FTXZW3VDRrRJWhMBWBiNj14IRM5AhZJIiiQjhGftVIaIRm7vucb6+/o1wkh5jZo=;kW95eASu5XvvCBSyAUxZ3w=="
+secured: "5TqEkzRXjjkGeO2218vPz1nLgnPv3NATZLlEWf4Bj8slOLWuFYdRtYUsdRetq7YrQaJ0LJ74tnIpia8jlj1qzZFw0XwLowP3S9nH5JxKwvsW6pt0+XzsNrqLTkEgk8DmvjzcuDzABIRQ3bSsCCP3Vy258qIzd51gX76SkxVo3rKlQIWILeckwijF76QyRewjScD8wcw1bKDpM69dMS36yiWLkumVprIxdyBWUpXoUma9d/+Bl8bBiKDpIYabjd/DzFxEFxjqmnHOHFataYmji8oO9EoVxbDSTI5WHNGVEiPe1CbepTt10Bc8UT3Mzzqwg1CnP2UTZZwaDMYOx/KabXzWI+8Zd9ltjdohn06Wbm0=;dPqYXRlYA3dxwt31z19lXg=="
 ---
 
