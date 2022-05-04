@@ -4,9 +4,9 @@ excerpt: "This Austin User Group presentation is all about the Basics of Chartic
 originalUrl: https://youtube.com/watch?v=3-6-iPhbmhQ
 type: video
 price: Free
-length: PT1H19M28S
+length: PT1H34M13S
 publishedDateTime: 2021-08-12T01:09:09Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3-6-iPhbmhQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "VsKJK0KDU05EYzf57xg23XZ/vOawTL9JZhBDDqVX36ql7V2rs4G81C06Hu7HpoilVpSAWtO2TPgUfO6swCMETEIsP01CNCbxE7urKVJvdalLHiMNpsIGZ3Pv7o4BvGfb5KNeN2NodOBtACM18wlI2x6O52xYlREQq+m335ZBUDIJjaBpLrpia60S2I5ZM5fNnlGUIk+/v4cT6mpVm7zYhuKxBDjUdHVQsFTElYv94Fjee8j0+eKBc8zSdOKYNxyLOdKiq7AwHOpNavPxlMwplfbj/POpiKkkl5d9Y8xnhdc8suSzSXj67/jZ/lmKWxCtHeZlsUkr3U9b9W4KP6o39aWwSsycWPeP2GZ67hGG4wv+sHvmG/FFG0Jpr7bAxuiQlpqC6cj2pGD4q0F7Gb8zH47dJoCi1jyqmqLY6hT1Ht0=;qq7D+JTXw8rV9qWJRXhiBA=="
+secured: "OrOVV+ZrquNowIRaG3qB5P+NspRYp4d7epoaNrk1kFg9w43709tR6S3TltUhcwGZJSJgeBRnnd/zB5u/lbSoFEmrzKGMSCmKT8Psi2iW9spLun/WcsljXBVUYImOW2RsPD0TGCTOtZjNd52ozzjImlULY8ZZd22HkGWMs7hiWPU8wW+Y0btnt8DImMLIYShA3XclJT4ofKVpaKtzFRn/O5c5B0JVMNl8ZNuCSyZbIpgCM+9s7HhRTM9aLJeJgmVKuujcEPSPdOyZOiZ9h9UYGs1XZgaMqYTIkxQMD8FV9iWxhHyTzsWWQTJ0l69BsN0V1uC162Ptz1oYFDVqurkK1YaCy9WQ8LD3WXRNcsbDKyubjXqTC11VGEf9TsB4peZbEExvwnkcAzqLOBS/gelG/YAl0lUZCWvzo5lxNbNt3Tc=;ru1L7LViH2rrVh4WLdvFTw=="
 ---
 
