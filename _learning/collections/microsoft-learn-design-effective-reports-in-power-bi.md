@@ -4,7 +4,7 @@ excerpt: "This learning path introduces a design process to design and deliver c
 type: collection
 price: Free
 length: PT3H52M
-heat: 62
+heat: 64
 
 provider:
   name: Microsoft Learn
