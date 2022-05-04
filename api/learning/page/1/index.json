@@ -355,112 +355,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-who-doesnt-like-free-power-bi-training-2022.md",
-      "title": "Who doesn't like FREE Power BI training??? (2022)",
-      "excerpt": "There are a lot of free Power BI training options out there for business analysts and there is now training beyond that for your organization. Adam explores the latest free options that Microsoft has to grow and learn Power BI!  Matthew's Blog: https://ssbipolar.com/2021/06/07/free-power-bi-intro-training-from-microsoft/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-who-doesnt-like-free-power-bi-training-2022/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-who-doesnt-like-free-power-bi-training-2022/",
-      "originalUrl": "https://youtube.com/watch?v=q5nxFcvrnqw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q5nxFcvrnqw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M51S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-03-24T03:04:06-07:00",
-      "heat": 137,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-pl-300-power-bi-exam-prep-connecting-to-data-sources.md",
-      "title": "PL 300 Power BI Exam Prep Connecting to data sources",
-      "excerpt": "If you want to pass the PL-300 exam, there are some areas in that your skills will be assessed, and one of those is identifying and connecting to the data source and changing data source settings. Power BI Supports over 140 data sources, each data source has some connection configurations. In this video,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-pl-300-power-bi-exam-prep-connecting-to-data-sources/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-pl-300-power-bi-exam-prep-connecting-to-data-sources/",
-      "originalUrl": "https://youtube.com/watch?v=baV1hfnOnoo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/baV1hfnOnoo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M19S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2022-04-27T19:32:08-07:00",
-      "heat": 137,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-revisiting-a-power-bi-solution-with-dynamic-m-parameters.md",
-      "title": "Revisiting a Power BI solution with Dynamic M Parameters",
-      "excerpt": "Dynamic M Parameters for SQL are here in Power BI! YES!!! Let's revisit a Power BI solution and how we can take it to the next LEVEL using these!  LEVEL UP Power BI Conditional Drill with Paginated reports!  https://youtu.be/43CwBmaym8Q  Teo Lachev's Blog: https://prologika.com/power-bi-dynamic-m-query-parameters-reloaded/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-revisiting-a-power-bi-solution-with-dynamic-m-parameters/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-revisiting-a-power-bi-solution-with-dynamic-m-parameters/",
-      "originalUrl": "https://youtube.com/watch?v=L-wqwzj0-Xo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L-wqwzj0-Xo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M23S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-03-10T08:00:11-08:00",
-      "heat": 136,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-how-to-create-excel-like-fixedabsolute-reference-a1-in-power-bi-.md",
       "title": "Power BI: How to Create Excel Like Fixed/Absolute Reference $A$1 in Power BI 💡",
       "excerpt": "👉 Do you have a Power BI Question? Get Your Answer at https://www.learnpowerbi.com/question In this Power BI Question & Answer Episode, we cover a question by Saï Equilibrio: How to Create Excel Like Fixed/Absolute Reference $A$1 in Power BI 👉 Download the Power BI file used in Video: https://web.learnpowerbi.com/download",
@@ -491,28 +385,106 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-can-patrick-handle-the-challenge.md",
-      "title": "Can Patrick handle the challenge???",
-      "excerpt": "Can Patrick handle the challenge that Alex Powers presented to him? Can he actually complete the challenges of the Power Query 30 day Query Folding challenge? Let's find out...  These are great for both Power BI and Microsoft Excel!  30 Day Challenge - Query Folding https://www.youtube.com/watch?v=9sV3hIn8VTY&list=PLKW7XPyNDgRCorKNS1bfZoAO3YSIAVz3N",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-patrick-handle-the-challenge/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-patrick-handle-the-challenge/",
-      "originalUrl": "https://youtube.com/watch?v=twsuBaiPaCk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/twsuBaiPaCk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M53S",
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-iterator-functions.md",
+      "title": "Use DAX iterator functions in Power BI Desktop models",
+      "excerpt": "By the end of this module, you’ll learn about what the family of iterator functions can do and how to use them in your DAX calculations. Calculations will include custom summarizations, ranking, and concatenation.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-iterator-functions/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
+      "length": "PT12M",
+      "ratings": {
+        "count": 843,
+        "average": 4.7200475
+      },
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-03-23T08:00:34-07:00",
-      "heat": 132,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/use-dax-iterator-functions-power-bi-desktop-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-azure-data-services-for-modern-analytics.md",
+      "title": "Explore Azure data services for modern analytics",
+      "excerpt": "Understand analytics solutions in the Azure data ecosystem. Explore the architecture of a scalable analytics solution to meet business needs.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-azure-data-services-for-modern-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-data-services-for-modern-analytics/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 18,
+        "average": 4.888889
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view.md",
+      "title": "New Format Pane for Power BI Mobile View",
+      "excerpt": "Create stunning, mobile-optimized Power BI reports with mobile layout’s new visual formatting pane (Preview). During this video we will talk about how we can use separate formatting Pane for Power BI Mobile Reports. Have you ever created a mobile-optimized report and struggled with its design? Did you",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view/",
+      "originalUrl": "https://youtube.com/watch?v=i9WF5sC6HjU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i9WF5sC6HjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M26S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-03-11T00:54:52-08:00",
+      "heat": 130,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -1055,8 +1027,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 37169,
-            "average": 4.798811
+            "count": 37176,
+            "average": 4.7988486
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1097,8 +1069,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 57711,
-            "average": 4.776923
+            "count": 57718,
+            "average": 4.77695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1157,8 +1129,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 57711,
-        "average": 4.776923
+        "count": 57718,
+        "average": 4.77695
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1199,8 +1171,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 37169,
-        "average": 4.798811
+        "count": 37176,
+        "average": 4.7988486
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1264,8 +1236,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 57711,
-            "average": 4.776923
+            "count": 57718,
+            "average": 4.77695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1306,8 +1278,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 25959,
-            "average": 4.7236795
+            "count": 25963,
+            "average": 4.723684
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1349,8 +1321,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 11694,
-            "average": 4.7249017
+            "count": 11697,
+            "average": 4.7249722
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1391,8 +1363,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 8655,
-            "average": 4.770306
+            "count": 8657,
+            "average": 4.770359
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1451,8 +1423,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 31420,
-        "average": 4.739497
+        "count": 31422,
+        "average": 4.739482
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1508,6 +1480,36 @@
       },
       "publishedDateTime": "2022-04-21T08:00:06-07:00",
       "heat": 90,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-pl-300-power-bi-exam-prep-connecting-to-data-sources.md",
+      "title": "PL 300 Power BI Exam Prep Connecting to data sources",
+      "excerpt": "If you want to pass the PL-300 exam, there are some areas in that your skills will be assessed, and one of those is identifying and connecting to the data source and changing data source settings. Power BI Supports over 140 data sources, each data source has some connection configurations. In this video,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-pl-300-power-bi-exam-prep-connecting-to-data-sources/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-pl-300-power-bi-exam-prep-connecting-to-data-sources/",
+      "originalUrl": "https://youtube.com/watch?v=baV1hfnOnoo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/baV1hfnOnoo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M19S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-04-27T19:32:08-07:00",
+      "heat": 87,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",

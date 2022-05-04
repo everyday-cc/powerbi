@@ -4,6 +4,67 @@
   "page": 42,
   "value": [
     {
+      "path": "_learning/videos/radacad-how-to-organize-workspaces-in-a-power-bi-environment.md",
+      "title": "How to organize workspaces in a Power BI environment",
+      "excerpt": "The question I often get in my Power BI architecture consulting sessions is that; “How should we organize our workspaces? should we have one workspace with all the reports in it? or multiple? should we split it based on each report? business unit? or something else?” In this article and video, I’ll explain",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-organize-workspaces-in-a-power-bi-environment/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-organize-workspaces-in-a-power-bi-environment/",
+      "originalUrl": "https://youtube.com/watch?v=xYszSWidi_Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xYszSWidi_Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M18S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-01-18T14:27:27-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xYszSWidi_Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-how-to-read-merged-cells-from-excel-in-power-bi-using-power-query.md",
+      "title": "How to read Merged Cells from Excel in Power BI using Power Query",
+      "excerpt": "Learn more about Power Query: https://radacad.com/category/power-query",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-read-merged-cells-from-excel-in-power-bi-using-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-read-merged-cells-from-excel-in-power-bi-using-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=xH7DMBS0Kog",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xH7DMBS0Kog\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-09-06T07:30:51-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xH7DMBS0Kog/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-how-to-reduce-the-size-of-power-bi-file-in-a-few-steps.md",
       "title": "How to Reduce the Size of Power BI file in a few Steps",
       "excerpt": "One of the performance considerations of a Power BI file is to reduce the size of it as much as possible. This also helps with the speed of development, because smaller files loads faster and easier in the Power BI Desktop. One way to reduce the size significantly is to find which columns are consuming",
@@ -842,66 +903,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/jBP66FRatsY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-what-is-premium-per-user-license-for-power-bi-and-what-is-it-good-for.md",
-      "title": "What is Premium Per User License for Power BI, and What is it good for",
-      "excerpt": "One of the great news in Microsoft Ignite 2020 is the announcement of a new licensing plan for Microsoft Power BI, called Premium Per User, or Premium Gen2. In this article, I'll explain what that is, and how this can be helpful for Power BI users. Read my article here to find links to study more: https://radacad.com/what-is-premium-per-user-license-for-power-bi-and-what-is-it-good-for",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-is-premium-per-user-license-for-power-bi-and-what-is-it-good-for/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-is-premium-per-user-license-for-power-bi-and-what-is-it-good-for/",
-      "originalUrl": "https://youtube.com/watch?v=DI838QOD-VY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DI838QOD-VY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M40S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-09-22T15:57:09-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DI838QOD-VY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-what-is-the-direction-of-relationship-in-power-bi.md",
-      "title": "What is the Direction of Relationship in Power BI",
-      "excerpt": "download link for AdventureWorksDW Excel File:  https://1drv.ms/x/s!Am-kkqG8zbmQgcdyAhOk7MXgWd56rw",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-is-the-direction-of-relationship-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-is-the-direction-of-relationship-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=EnubM2UkESU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EnubM2UkESU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M56S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2018-07-10T22:52:51-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/EnubM2UkESU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
