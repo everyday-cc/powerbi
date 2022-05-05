@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=jAxSH7_6paI
 webUrl: https://everyday.cc/powerbi/learning/videos/power-bi-tips-charticulator-custom-visuals-with-daniel-marsh-patrick/
 type: video
 price: Free
-length: PT1H39M13S
+length: PT1H51M20S
 publishedDateTime: 2021-03-11T17:17:55Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "TUTRk55/L/JLYkDMd7/VX0mCkTvjv0LggD5t1G4+hOnPQRoDrwU1laRCFgPPyb1XqG+Su3ao1gwwbgMdr/5SWPD2v5JEepzG6kYqvlQ3IgU0gLwu7hfhbvCLsfnmnWH8Zw1iZ6I5cD9CLkVYCH4kaXaHNgUIzCK4N836SLDWRsHTPa316vm1gVOK+lWil2UZJB8MU7Q6X4BAQ6mfvn4X++kAt2eFAgaKiDxWlpIvN/kxpJPDjqpKHU/Q0LngvbsT4D4FRmJCTegWceTIRY2rUzIRsx/2/Qf3G1qpXsESG8wcafs6+Ehltw+9Spks+4bDWc5zVpj5bGZZqAgQnTBeyooOTO3VP0ii/Gm+uNEUln61g4h8oZvvt4cFHk/4s9QmGmzA4+uqhfqrB94NPs3rTsMpGsX1kY/vHUaGOvlOx7I=;FVOImfgKZaBHpoQUPy8B1w=="
+secured: "+h9CtWjWnlf9eZXFtwpc+pUQAblWLJ2GcU7yUY2qB9+yepzTaVqH5+XxEaE3/1e2AiWspj3/Muz8YN9FmhvMV0m5RRJEdxrYS6EZsSPmxxoIkD3s6QxsLnFxKu3tY1iGDlz1nhFIClyzMYBML5MPiv7RNmfv3TaNILg4d3qtnVNCKx/pvVcH1DX/QbWPWWn57vFJZHs9nGSxa09MZCEgU9U/zAlY11eUqZQFr70kkJu5Lx2M1ois9aPUDmXiZeK2jojD9MQsRu8WRNbclCCh1mt6DSgS0XzK457jxTvmPLg8DiqBrrvN8E8LsuS+0iSPMSAQ4t6zbH8Ne/mPhpWOZyiHlNw9uSzl4QtDrKmxBB46BCVrAnHMaUtyOjf736meJcKVzdaB5TQHZDu+PId9IwWrcOVrQR9g6hkpQVIUPJU=;ccvzBN/0HrDy+1QiqsHEpA=="
 ---
 
