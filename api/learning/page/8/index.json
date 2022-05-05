@@ -303,7 +303,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -537,8 +537,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6776,
-            "average": 4.7650533
+            "count": 6777,
+            "average": 4.7650876
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1267,8 +1267,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 6776,
-        "average": 4.7650533
+        "count": 6777,
+        "average": 4.7650876
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1908,8 +1908,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 11701,
-        "average": 4.724981
+        "count": 11702,
+        "average": 4.725004
       },
       "provider": {
         "name": "Microsoft Learn",
