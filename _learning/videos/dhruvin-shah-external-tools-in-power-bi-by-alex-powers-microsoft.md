@@ -5,7 +5,7 @@ originalUrl: https://youtube.com/watch?v=Yj7WECx5-go
 webUrl: https://everyday.cc/powerbi/learning/videos/dhruvin-shah-external-tools-in-power-bi-by-alex-powers-microsoft/
 type: video
 price: Free
-length: PT1H12M1S
+length: PT1H24M
 publishedDateTime: 2021-03-30T05:46:34Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "6XNEiOEbuk/Ul0k2F9IRFhCTZfBddQt9ISsSCDOeI0zg570jJIKMKKiE2UMFukWx7+TWRP0MQHBehOUpb2I3D80YVD5As6Luum2fDoRrTihyazj/YMLsE1VZQckjsNyWtTPQpBmQ4qfDoWAdvLCBBdJ+W5oxcSM4HlkN5cRyJsTiIcNuy5TdjKxdPxZHGeubQhqKagN6Iyq1GnPp9l2RdaBNFSquGspeQ62rMFVe27Q9QEd8FKXLmI0Q88+13QUrVbyhQvYGLwSJu72VEuvzTYaynM0Rd18OlRFXRJvOP2CKg+Mtz0vkEffleD7JZLkGfp1yHHT/+jj0Qnt99q2CIgdaAaBkz+y5+NVgzS0iCkSL7rOGJPh05i4dDLaa7WI/CqVZtnXz1LIRDDToPu+q0C3rItr0WiE0YQY4Md28wjY=;tmDJNCFwQSDuApddWpOQgQ=="
+secured: "BQLTA6kfP8emes+MP2NR2ketxxeUDJrYXgBErcDC7ptruhHTDVuSW/OUt4OBZjRYXlLomtC2tnMxYp7ITAV1fI6Pld+Q01Y1OMsQuzAn6bpX/lpingOVwJEDWynmwE8tOIRAHwUuy3lJ1yHsPGi2KILjbxmIorhfSsbMHahNTgMY1LupIajAXAjlm/aV0LsOZZGrc6nRD0JmbZizwRcdyA64J9BiRnfoudthL9KNLi8IisgccHfEqRk1s2w/+zZ2mNP7Jhb3jNpMLrMRY+jR+ICuk01t9mF4bafSXMohLjKct5v7LVzt0wDuOAHbLEKb4oRG/68GoqQzk0cvx5DxifMW2mAJd8pBzTh+1OdWy45nhZ2tvdEdi074VUzBuTMnwwPVoNZ+73myNnnT9aBQoclukHVeV0FoI2m64SdvWzo=;/pBvjTfnV9Sg0oOuhuGEmg=="
 ---
 
