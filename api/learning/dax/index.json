@@ -1651,8 +1651,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1153,
-            "average": 4.741544
+            "count": 1154,
+            "average": 4.741768
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2006,7 +2006,7 @@
             "domain": "enterprisedna.co"
           },
           "publishedDateTime": "2020-05-05T20:00:14-07:00",
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/ILVRJQ22cjs/maxresdefault.jpg",
@@ -2068,7 +2068,7 @@
             "domain": "enterprisedna.co"
           },
           "publishedDateTime": "2020-05-01T01:57:50-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/eoHSi2kQNCA/maxresdefault.jpg",
