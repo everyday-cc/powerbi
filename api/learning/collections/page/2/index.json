@@ -1904,7 +1904,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 6,
+            "count": 7,
             "average": 5.0
           },
           "provider": {
@@ -1946,7 +1946,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-select/",
           "length": "PT29M",
           "ratings": {
-            "count": 4,
+            "count": 5,
             "average": 5.0
           },
           "provider": {
@@ -1988,7 +1988,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-permissions-content/",
           "length": "PT33M",
           "ratings": {
-            "count": 4,
+            "count": 5,
             "average": 5.0
           },
           "provider": {
@@ -2030,7 +2030,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-content/",
           "length": "PT31M",
           "ratings": {
-            "count": 3,
+            "count": 4,
             "average": 5.0
           },
           "provider": {
@@ -3733,8 +3733,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9680,
-            "average": 4.704339
+            "count": 9681,
+            "average": 4.7043695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3775,8 +3775,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 697,
-            "average": 4.7216644
+            "count": 698,
+            "average": 4.722063
           },
           "provider": {
             "name": "Microsoft Learn",
