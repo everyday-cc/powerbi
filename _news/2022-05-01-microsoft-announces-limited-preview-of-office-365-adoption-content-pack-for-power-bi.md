@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-announces-limited-preview-of-of
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-announces-limited-preview-of-office-365-adoption-content-pack-for-power-bi/"
 type: article
 quality: 90
-heat: 91
+heat: 92
 published: true
 
 provider:
