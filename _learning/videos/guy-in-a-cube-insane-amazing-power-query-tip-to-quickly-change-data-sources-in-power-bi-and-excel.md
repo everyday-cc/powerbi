@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT5M38S
 publishedDateTime: 2021-02-25T16:00:09Z
-heat: 68
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XIq5vN5oPf8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "q1jHxFRun2g6UEcB9MTl2zCzN+OOL3+QXT7cOXnygJ9W+h7Wdjd9hfw1qM+7jYOtrEPKuni/oL5oK0kh0MZ5CAQu84Kx16/abc+rmYrQiOKiBG6AoQ+15j8bRCPPrslbNTndhzm2ykbcy/4U0ZEpHnubz1/vPE7URcsyXkXil94eU2BGDV+jk7RrQ4krNbLVGAAPd6suoCgdiD0SOFoNmDcQm+1x04C+oZP3qYzw5Fyr6E4wyOz3/FlxMLjixovhLgYymQjlNsIuRD+z7HPyXcsNMI9Bev9sJ2iNdriov5HFYkAdaBGR3NbT1+l0knjp85hXmuTOPR+T0+qKN4zL4Q1EmXaSdhJDDyXjlbpFlnRXRxO+QaaDb/OAAYUxmfko98SZEPFcwnSLJx8OH16zjSuc1fX65wTo5HgsUPFc/oo=;TEpCE+ShxHgWzTqcMLATaQ=="
+secured: "ksaTEc+h8xm6McF3XDFRC4mzulBstctqKdeUtfyg+In2CwBNC21W6wmJPG90b2wpWlA8ajdW96yCT4LTKb1b8J2uCWlqqdxTbhRj8E8WGs76eRGGE0cjfO4YrJ+67OR8pM48Xayom8W9xjvYJjN/ahNFDGgw2B1rgvVdlNtHGKqADuzaKts3QEkYh0+3E0Mvjb36TcCnHDYSw3iKYsr3Heid5RV4esbsUohM9W6TajmGGZ2kGH4CV6BDroImmEVDUaIBkKQ279C6iEhlc0y/Zg9fbnojwH0kg3F+c8roaHJBcQjPqI7lrAJqqc0zEqwrifYTTWnF6+lUFX9M59F2Ou2kCUSIYY6CbNIRV2lL582qhoLtEVbrwatqZRcpObeEvhXzrYKH07m0WMqtd2fIPutmoS1f1BzP2YQpFWpYZpE=;FkRwskV2HjnVPfxcM6nlDQ=="
 ---
 
