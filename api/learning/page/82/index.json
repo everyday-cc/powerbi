@@ -4,6 +4,36 @@
   "page": 82,
   "value": [
     {
+      "path": "_learning/videos/radacad-azure-ml-with-power-bi-sanddance.md",
+      "title": "AZURE ML with Power BI  SandDance",
+      "excerpt": "Learn how to use Azure ML and Power BI SandDance Visualization",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-azure-ml-with-power-bi-sanddance/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-azure-ml-with-power-bi-sanddance/",
+      "originalUrl": "https://youtube.com/watch?v=eOjFGduG8P0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eOjFGduG8P0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M23S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2017-06-06T03:06:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eOjFGduG8P0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-basics-of-dax-expression-in-power-bi.md",
       "title": "Basics of DAX Expression in Power BI",
       "excerpt": "There are a lot of resources about how to use each function. However, you always need to start with learning how the expression language works itself. You need to learn how to reference columns, and tables. what operators can be used, and what are the very simple basics of writing a DAX expression. In",
@@ -877,36 +907,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/_ubNovnNx5k/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-currency-exchange-rate-converter-power-bi-function-part-1.md",
-      "title": "Currency Exchange Rate Converter Power BI Function   Part 1",
-      "excerpt": "If you ever need to convert amounts from one currency to another, you face the challenge that currency rates are not constant. They change every day. You either need to keep an up-to-date table of all new currency rates and use that in your Power BI solution, or use a function that gets the rate from",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-currency-exchange-rate-converter-power-bi-function-part-1/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-currency-exchange-rate-converter-power-bi-function-part-1/",
-      "originalUrl": "https://youtube.com/watch?v=rCsUao3UtMM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rCsUao3UtMM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M49S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-23T20:53:56-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rCsUao3UtMM/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
