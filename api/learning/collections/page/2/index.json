@@ -1804,7 +1804,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
@@ -2014,7 +2014,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
@@ -3959,8 +3959,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12477,
-            "average": 4.6774063
+            "count": 12479,
+            "average": 4.6774583
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3993,8 +3993,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9684,
-            "average": 4.704461
+            "count": 9685,
+            "average": 4.7044916
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4035,8 +4035,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 705,
-            "average": 4.720567
+            "count": 706,
+            "average": 4.720963
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4470,7 +4470,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
