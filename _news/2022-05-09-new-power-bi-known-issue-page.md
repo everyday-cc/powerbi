@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/new-power-bi-known-issue-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/new-power-bi-known-issue-page/"
 type: article
 quality: 189
-heat: 190
+heat: 191
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LTdpe2ENW4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
