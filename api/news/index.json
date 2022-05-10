@@ -8,9 +8,9 @@
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-09-new-power-bi-known-issue-page/index.json",
       "webUrl": "https://powerbi.microsoft.com/en-us/blog/new-power-bi-known-issue-page/",
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/new-power-bi-known-issue-page/",
-      "featuredContent": null,
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LTdpe2ENW4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 87,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -49,7 +49,8 @@
         "news"
       ],
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power BI Desktop"
       ]
     },
     {
