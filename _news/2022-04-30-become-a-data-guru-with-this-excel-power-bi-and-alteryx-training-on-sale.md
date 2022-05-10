@@ -9,7 +9,7 @@ ampWebUrl: "https://mashable.com/deals/april-30-microsoft-certification?amp"
 cdnAmpWebUrl: "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/deals/april-30-microsoft-certification?amp"
 type: article
 quality: 95
-heat: 95
+heat: 96
 published: true
 
 provider:
