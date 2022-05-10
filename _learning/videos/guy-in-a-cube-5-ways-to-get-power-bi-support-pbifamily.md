@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M22S
 publishedDateTime: 2019-08-11T11:58:34Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OK9i3tuzUMc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "5 ways to get Power BI Support #pbifamily"
 
-secured: "7amBcPzejyZuFC2ztD0eGEVWMLdFk6/9mzHt3AJ7KoO+EuW2nAzFaUhc0pcWkXp4m5ppyNGL8YzdFsDatB8V70ys9Y054NSl+oUHVBoOOGYwPp5m9v513GZ5uRoliz3MxIYLwjpW35hqf+XZCHIPMhbLzCDZfyDsXBSrnF+JzRn6axEkRzCaQi8jgYKrfDi+8GsoAuKaD+RhFBa58VBJD0A00kOgF+QM1pJJ+d5L37viZDkOowh9fdwLt3uRXUaPV+OAKLrK0F59BMf+299Gv/64IJwfCkF/DrFeGHxlOpm1r52HDh0JOLPm57JE04ByenGMSwZg2xYAyRhqx3MAljEsE4tNsa2WyiFnz/9dtJcHdHVyPzPHxQXe9QhsfvgZpkyNpM/2YEBglblyDI+WPSPEhaO2kfOhwPi3aWybFP4=;UtzEPuL5ShYgFGBG6g4YaA=="
+secured: "n5H5F3FBZBWTOgKHz+HoB3kFYxFYWFplibXgwHr4E9T28y0M7iftyC+w+mzx9fBb2hdNRi5H7ys/4L4mtbcVK84es2vnuUA4cy50ZCL951O/hz1WTZiRkq5kTqjhLm5GxHQzDwJHb4nnGtKJ0wnO5eiNnhuylumEre3hkKeDf+C1Gd+B5xrmRjgt4SB36YlLf/42Ees0UejAOjPjlroQHZKsB8r5A965kOIEV6nxCfoShZToKNSqkpTIhObU+NQs8VtopCz5tD4wphcH2UqmsOMC/s+QIXvChZCg3kG77rg+Xzej+W4CWlMgEKmHW5gFqezVEbEndw5KW9FQ5AmFQe35w+n04f1smyZRW0uaOfx3qWQNtOyMmg2Noq3pw+Qju8efNUIJoUyQHT99MZTsfbSbXKgZRF/X7TkPADa+AYU=;B5aR8agY0bSh6Uz0K0D1YQ=="
 ---
 
