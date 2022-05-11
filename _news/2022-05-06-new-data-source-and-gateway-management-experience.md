@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/new-data-source-and-gatew
 webUrl: "https://powerbi.microsoft.com/en-us/blog/new-data-source-and-gateway-management-experience/"
 type: article
 quality: 72
-heat: 76
+heat: 74
 published: true
 
 provider:
