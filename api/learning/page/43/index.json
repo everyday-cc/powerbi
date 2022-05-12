@@ -4,6 +4,157 @@
   "page": 43,
   "value": [
     {
+      "path": "_learning/videos/radacad-power-bi-subscription-get-report-updates-in-email.md",
+      "title": "Power BI Subscription   Get Report Updates In Email",
+      "excerpt": "Have you ever wondered is it possible to have updates of the Power BI report to be emailed to you (or some other colleagues) on a daily basis? Power BI, fortunately, has this feature, it is called Subscription. Subscriptions are helpful ways to send an up-to-date version of the report and dashboard to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-subscription-get-report-updates-in-email/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-subscription-get-report-updates-in-email/",
+      "originalUrl": "https://youtube.com/watch?v=f_Y471pKWh0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f_Y471pKWh0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M42S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-04-20T16:57:58-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-theme-customize-colors-fonts-and-visual-appearance-for-multiple-objects.md",
+      "title": "Power BI Theme   Customize Colors Fonts and Visual Appearance for Multiple Objects",
+      "excerpt": "If you build a report for an enterprise, you might be limited to use the organization-approved colors. It is also useful to have your reports following a template of colors, and fonts, which might look like your signature of the report. In Power BI, you can do that with Theme. In this article, I’ll explain",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-theme-customize-colors-fonts-and-visual-appearance-for-multiple-objects/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-theme-customize-colors-fonts-and-visual-appearance-for-multiple-objects/",
+      "originalUrl": "https://youtube.com/watch?v=K83vD6DwFvI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K83vD6DwFvI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M34S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-06-24T14:30:03-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/K83vD6DwFvI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-relationship-based-on-multiple-fields-in-power-bi-using-treatas-dax-function.md",
+      "title": "Relationship Based on Multiple Fields in Power BI Using TREATAS DAX Function",
+      "excerpt": "TreatAs is helpful for filtering, and it doesn't filter only based on one column, it can filter based on as many as columns you want. One of the challenges in Power BI relationships is creating a relationship based on multiple fields, I have previously explained a method you can use to create a compound",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-relationship-based-on-multiple-fields-in-power-bi-using-treatas-dax-function/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-relationship-based-on-multiple-fields-in-power-bi-using-treatas-dax-function/",
+      "originalUrl": "https://youtube.com/watch?v=_DuGkki0rfs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_DuGkki0rfs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-03-04T15:02:52-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_DuGkki0rfs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-search-in-power-bi-table-visual-using-a-slicer-for-contains-character-criteria.md",
+      "title": "Search in Power BI Table Visual Using a Slicer For Contains Character Criteria",
+      "excerpt": "If you have a lot of text in a table visual in Power BI and want to search to find all texts with a specific character in it, I have a solution for you. You can have an alphabet slicer and use it to filter the table visual, the trick is to combine it with a measure and use it as a parameter table. let's",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-search-in-power-bi-table-visual-using-a-slicer-for-contains-character-criteria/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-search-in-power-bi-table-visual-using-a-slicer-for-contains-character-criteria/",
+      "originalUrl": "https://youtube.com/watch?v=LYXOR4RXggs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LYXOR4RXggs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M34S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-03-31T16:11:00-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LYXOR4RXggs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-share-different-visual-pages-with-different-security-groups-in-power-bi.md",
+      "title": "Share Different Visual Pages with Different Security Groups in Power BI",
+      "excerpt": "I have written a dozen of blogs and a book about Power BI row-level security and the security on the dataset. However, I always get this question that: \"What if I want some people to see only a few pages of my report, and some others to see other pages?\" or \"How can I put security for different pages",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-share-different-visual-pages-with-different-security-groups-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-share-different-visual-pages-with-different-security-groups-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=Iy1ZjToy-B8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Iy1ZjToy-B8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M28S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-01-15T19:13:46-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Iy1ZjToy-B8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-stop-dax-cumulative-total-calculation-in-power-bi.md",
       "title": "Stop DAX Cumulative Total Calculation in Power BI",
       "excerpt": "Did it happen to you that you have calculated a cumulative total (such as running total, or year to date, etc) either using the quick measures or by writing the DAX expression yourself, and then realizing that the calculation happens even for the periods without any real data? For example, you want to",
@@ -839,137 +990,6 @@
       "type": "article",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-case-fatality-rate-for-covid-in-australia.md",
-      "title": "Case Fatality Rate for COVID in Australia",
-      "excerpt": "I am writing an off-topic article today but I promise I will circle back later in the week with a follow up article bringing it back on topic. In this article, I am going to share a COVID report I built today, and later in the week I will post [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-case-fatality-rate-for-covid-in-australia/index.json",
-      "webUrl": "https://exceleratorbi.com.au/infection-fatality-rate-for-covid-in-australia/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-07-19T01:22:47-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/05/Power-Query-Academy-Logo-450x216.png",
-          "width": 450,
-          "height": 216,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-compare-any-two-of-anything-in-power-bi.md",
-      "title": "Compare Any Two of Anything in Power BI",
-      "excerpt": "I have been increasingly recording videos as my method of sharing tips and techniques for getting more out of Power BI. Some concepts are best documented (traditional blogging) and some are just easier for everyone if it is a video. That is the case again for today. Compare Any Two [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-compare-any-two-of-anything-in-power-bi/index.json",
-      "webUrl": "https://exceleratorbi.com.au/compare-any-two-of-anything-in-power-bi/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-06-28T05:16:26-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/06/compare-any-2-of-anything.png",
-          "width": 745,
-          "height": 383,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-copy-measures-between-2-power-bi-files.md",
-      "title": "Copy Measures Between 2 Power BI Files",
-      "excerpt": "I first wrote this article back in Jan-2019 and have decided to come back and update it now.  With the recent enhanced External Tools Toolbar in Power BI Desktop, there has never been a better time to start to learn how to use these tools. Have you ever wondered if [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-copy-measures-between-2-power-bi-files/index.json",
-      "webUrl": "https://exceleratorbi.com.au/copy-measures-between-2-power-bi-files/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2020-08-17T16:35:13-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/08/2-windows.png",
-          "width": 960,
-          "height": 371,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-correcting-source-data-in-power-bi.md",
-      "title": "Correcting Source Data in Power BI",
-      "excerpt": "This article continues to build on my COVID Case Fatality Rate report for Australia. Something happened with the global source data this week – in short, it was wrong. This is a global database and I am sure there are many people diligently trying to keep the data up to [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-correcting-source-data-in-power-bi/index.json",
-      "webUrl": "https://exceleratorbi.com.au/correcting-source-data-in-power-bi/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-07-29T18:35:07-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/incorrect-data.png",
-          "width": 625,
-          "height": 250,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-dataflows-101.md",
-      "title": "Dataflows 101",
-      "excerpt": "Matt here.  I want to do a brief introduction prior to handing over to Roland.  I have known Roland for a couple of years now &#8211; he is a member of the Sydney Power BI User Group.  What I didn&#8217;t know until very recently is that he has the same [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-dataflows-101/index.json",
-      "webUrl": "https://exceleratorbi.com.au/dataflows-101/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2022-03-28T12:55:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/03/DataFlow-101-Practical-Guide-For-Business-Users-Blog.png",
-          "width": 750,
-          "height": 500,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI",
-        "Dataflows"
       ]
     }
   ],
