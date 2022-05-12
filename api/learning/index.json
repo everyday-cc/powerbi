@@ -481,56 +481,14 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-build-simple-dashboard.md",
-      "title": "How to build a simple dashboard",
-      "excerpt": "How to build a simple dashboard",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-build-simple-dashboard/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 6262,
-        "average": 4.723571
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 135,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/build-simple-dashboard-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-revisiting-a-power-bi-solution-with-dynamic-m-parameters.md",
-      "title": "Revisiting a Power BI solution with Dynamic M Parameters",
-      "excerpt": "Dynamic M Parameters for SQL are here in Power BI! YES!!! Let's revisit a Power BI solution and how we can take it to the next LEVEL using these!  LEVEL UP Power BI Conditional Drill with Paginated reports!  https://youtu.be/43CwBmaym8Q  Teo Lachev's Blog: https://prologika.com/power-bi-dynamic-m-query-parameters-reloaded/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-revisiting-a-power-bi-solution-with-dynamic-m-parameters/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-revisiting-a-power-bi-solution-with-dynamic-m-parameters/",
-      "originalUrl": "https://youtube.com/watch?v=L-wqwzj0-Xo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L-wqwzj0-Xo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M23S",
+      "path": "_learning/videos/guy-in-a-cube-composite-models-in-power-bi-and-storage-modes-what-to-pick.md",
+      "title": "Composite models in Power BI and Storage modes - what to pick???",
+      "excerpt": "When using composite models in Power BI, you have a choice for how to store your tables. Storage mode gives you options, but why would I pick one versus the other for my dimension tables? Adam has you covered!  Use composite models in Power BI Desktop https://docs.microsoft.com/power-bi/transform-model/desktop-composite-models",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-composite-models-in-power-bi-and-storage-modes-what-to-pick/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-composite-models-in-power-bi-and-storage-modes-what-to-pick/",
+      "originalUrl": "https://youtube.com/watch?v=-jvnjx-264c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-jvnjx-264c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M36S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -543,8 +501,38 @@
           }
         ]
       },
-      "publishedDateTime": "2022-03-10T08:00:11-08:00",
+      "publishedDateTime": "2022-04-06T08:00:01-07:00",
       "heat": 134,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-design-tip-design-for-mobile-device.md",
+      "title": "Power BI Design Tip   Design for Mobile Device",
+      "excerpt": "Power BI is a mobile-friendly reporting solution. Every report that you generate can be viewed on the Mobile too. However, it doesn’t mean that the report is designed for mobile, or in other words; it doesn’t mean that is it a mobile report page. You have to make some changes, and take some extra considerations",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-design-tip-design-for-mobile-device/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-design-tip-design-for-mobile-device/",
+      "originalUrl": "https://youtube.com/watch?v=Igkqp-UQzJo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Igkqp-UQzJo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M11S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-04-10T15:28:13-07:00",
+      "heat": 131,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -587,27 +575,31 @@
       ]
     },
     {
-      "path": "_learning/articles/excelerator-bi-plotting-2-columns-on-the-legend-of-a-chart.md",
-      "title": "Plotting 2 Columns on the Legend of a Chart",
-      "excerpt": "At a recent training course, one of the students asked if it was possible to add two different columns on the legend of a line chart, so that when a selection is made on a second slicer the chart splits to reveal multiple lines. Given others in the class showed [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-plotting-2-columns-on-the-legend-of-a-chart/index.json",
-      "webUrl": "https://exceleratorbi.com.au/plotting-2-columns-on-the-legend-of-a-chart/",
+      "path": "_learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view.md",
+      "title": "New Format Pane for Power BI Mobile View",
+      "excerpt": "Create stunning, mobile-optimized Power BI reports with mobile layout’s new visual formatting pane (Preview). During this video we will talk about how we can use separate formatting Pane for Power BI Mobile Reports. Have you ever created a mobile-optimized report and struggled with its design? Did you",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view/",
+      "originalUrl": "https://youtube.com/watch?v=i9WF5sC6HjU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i9WF5sC6HjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M26S",
       "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2022-02-16T17:32:20-08:00",
+      "publishedDateTime": "2022-03-11T00:54:52-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/09/Demystifying-DAX-Side-Bar-Ad.jpg",
-          "width": 626,
-          "height": 359,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "article",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "Power BI"
       ]
@@ -872,8 +864,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 37624,
-            "average": 4.7988253
+            "count": 37631,
+            "average": 4.798756
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -914,8 +906,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 58232,
-            "average": 4.77715
+            "count": 58239,
+            "average": 4.777177
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -974,8 +966,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 58232,
-        "average": 4.77715
+        "count": 58239,
+        "average": 4.777177
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1132,8 +1124,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 37624,
-        "average": 4.7988253
+        "count": 37631,
+        "average": 4.798756
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1197,8 +1189,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 58232,
-            "average": 4.77715
+            "count": 58239,
+            "average": 4.777177
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1239,8 +1231,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 26164,
-            "average": 4.7238955
+            "count": 26167,
+            "average": 4.7238126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1282,8 +1274,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 11795,
-            "average": 4.7245445
+            "count": 11796,
+            "average": 4.7245674
           },
           "provider": {
             "name": "Microsoft Learn",

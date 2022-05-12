@@ -4,6 +4,45 @@
   "page": 21,
   "value": [
     {
+      "path": "_learning/videos/sqlbi-apply-and-logic-to-multiple-selection-in-dax-slicer.md",
+      "title": "Apply AND Logic to Multiple Selection in DAX Slicer",
+      "excerpt": "When you apply a multiple selection to a slicer or to a filter, you obtain a logical OR condition between selected items. This video shows how to implement a logical AND condition in a measure instead of the standard OR one. Article and download: https://sql.bi/26121?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-apply-and-logic-to-multiple-selection-in-dax-slicer/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-apply-and-logic-to-multiple-selection-in-dax-slicer/",
+      "originalUrl": "https://youtube.com/watch?v=tONOosN1xAs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tONOosN1xAs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M50S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-12-15T03:00:14-08:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tONOosN1xAs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-calculate-in-dax-02-add-single-column-filter.md",
       "title": "CALCULATE in DAX #02: Add single column filter",
       "excerpt": "By default, a column filter in CALCULATE overwrites the existing filter over the same column. How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt CALCULATE function: https://dax.guide/calculate/?aff=yt",
@@ -556,8 +595,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 9697,
-        "average": 4.7048573
+        "count": 9699,
+        "average": 4.7045054
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -598,8 +637,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1166,
-        "average": 4.738422
+        "count": 1167,
+        "average": 4.738646
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -683,8 +722,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2646,
-        "average": 4.713152
+        "count": 2647,
+        "average": 4.71326
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1122,45 +1161,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/IdMsKbHfyn4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-167-calculate-previous-row-using-dax.md",
-      "title": "DAX Fridays! #167: Calculate previous row using DAX",
-      "excerpt": "You have been asking me, how do I calculate previous row in Power  BI using DAX so I can get new cases on the corona dataset? , and this is exactly what we are going to do in this video.  Link to previous videos mentioned in this video: Link to how to get corona data: https://www.youtube.com/watch?v=4vfAz7XDuH0",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-167-calculate-previous-row-using-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-167-calculate-previous-row-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=mLZ4KISPcZ8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mLZ4KISPcZ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M56S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-23T04:26:24-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mLZ4KISPcZ8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
