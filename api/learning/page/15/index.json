@@ -472,8 +472,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2644,
-            "average": 4.712935
+            "count": 2645,
+            "average": 4.7130437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -616,8 +616,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 4117,
-        "average": 4.681321
+        "count": 4118,
+        "average": 4.681399
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -658,8 +658,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2644,
-        "average": 4.712935
+        "count": 2645,
+        "average": 4.7130437
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -700,8 +700,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
       "length": "PT21M",
       "ratings": {
-        "count": 388,
-        "average": 4.811856
+        "count": 390,
+        "average": 4.8128204
       },
       "provider": {
         "name": "Microsoft Learn",
