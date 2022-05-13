@@ -4,7 +4,7 @@ excerpt: "Using ALLSELECTED with no arguments in a remote model later used in a 
 originalUrl: https://youtube.com/watch?v=05JfQfDpWKU
 type: video
 price: Free
-length: PT28M16S
+length: PT19M32S
 publishedDateTime: 2022-01-18T11:01:19Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "IFI621OwpDPU4UA3g3E7NvzU4uiy8LNr7+qPhS3uIdveKKrpLxjJLldjrnqgmmsQqFID0vguLuujn8PBnQruy2wZiks0FB/O2I9F6fncgk7wssSNC0KhDr7d8WXfBuWUSzvKEVOiKzYgMocrNAa65SrZjdprmRwJiiTwJQKY7PzPRdnYp9BzFokGTU/INXZKBdnjc2XtzPzDCw+lrK6YJoXM8HZ5tomXbd4YaqgsK9aHCcRwFyfQ1xrBtHwxqqtHaUzSIXYrwpfQnM/CkWgzz9QS19IkXVREqtPJ4CUNVkAbVF85PCVFTkFYRajnT7lEJFbKkjD6JeAfXD61wGFv0ivUfNa3T8MqVuGx4bcEl/L9qQkJ8JLdluVL7zJfuruWoBYRx40ZEEwNJBMyqO8iGIttbGiWiTZicKTjRCrgMAk=;fLzEnlWTBRweHSmnmTxU8w=="
+secured: "eNztbHZ2uuW2FIXN6aBOv6Nh4w4PAzQMUtyiuXQI5wVWRogGky7gKaruzgVL43OW+F7dEi8yN6Uf1qE8lOlqD6umYO2mdNrjg60P7hZNQ/gdKjPX4pMSd7HC7OlOXnUz54gSuD56za72w81LYo36zxTLAVLJW1uzlE/IpU5dXO+HBJl2gYKKC9ViWSwDq2uaiWgtVHPYDBoXLCybFU1DlxWhOww6pGoaB4AqJVOSiOza97iIbhP/X7Rzl+jl5BuhM85i/gf0EE8baoIO5hITJN4jjvRW2yL3+t8GKidwXNuUnG5B7qRLlRdoiUjSWp8LVw2o8sngGzY8qVFEMP82NmTHUQLcU54RNivWBAUiaMQ6T0Mfjj0Ns/zAgos+IQstWk01UKDa7PmWxlDRrNqFrSP7mUA7y16ESVEl5lsISho=;mZuCpXgfLV7MRlmPkYgYbg=="
 ---
 
