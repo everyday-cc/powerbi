@@ -4,7 +4,7 @@ excerpt: "How do you convert a DAX expression into an integer value? There are s
 originalUrl: https://youtube.com/watch?v=NNwA8Iy4i84
 type: video
 price: Free
-length: PT7M50S
+length: PT7M49S
 publishedDateTime: 2022-02-15T11:01:05Z
 heat: 50
 
@@ -28,6 +28,6 @@ images:
     height: 800
     isCached: true
 
-secured: "QbxLeLfgtFRURA1Vvb+BC7G6yb9Q4sHaYzUFJxImvG3oWBZeoq3kJlX8a0o0VbNd7mRwsrtyUpK03tfmLOIQsbuRXLWeT8hboefFsnsAZrlI+gLAzuqTZ4LQFHt0ZIcSwzps64NeuIXuHcGL9+dg1u+mCBwD/179UoNkg8obHXAp1JQw/FD4FT0xp3ZcWyjdL0VCa6JvSMweh2GPkhFqNFOJNtFkHRvMdlFFmrmDrgAGzYasi7bgfCbJQLCB4NSM30za/Yq/ODFZEq5R/QZc0O5zscleJRnt5EHkkxWKwuwfdI1kmNiBHPgaU924AxSL+9QOWpx+pf0AozDdcpkZn34lMBxt8nzTyJAj1Ejg+Se/orV7+TYmOEi1vaTS8Ww7CbcTRfYU/Mc9EQYLpcCDLBlE9hPoEOu8mtErg+I8vfA=;gfjaW2ObGdnOR3UMi/eaYg=="
+secured: "0yAjotL5emJUyhSSAeM5RterWCKRdfTrCa4yCGt3VnYNIrjr7rsieTb/zQ6RD9i+lAOV0SuBtjB1JOhSQYHTbi8l/027VPEV0NTIT56TwCV1gjetay7k/kFj3fZ5MGcSgPFaIf7jwp3V+xjtEmgSWSInI9DUFHxYryKv0eiSVM7dennpY0/Srj0JWMbHn0rC0rXPzEDgofbLdapcFoF6uc1bAS5RKshr2qgWEGUTxy/qReLRicmH2YPgksbMSw9uZYcstfoKdd8GW4qEmkAtjqv4RtvXhGuVUD7HTkwvbNlZ3mx9KJ7iG9Dko3vb2cBSZBz5PG2e2bJveCqWKeMABj6hkRhXZGmGzHcv1z1VJqh65OO2Y26lScf/z6c1/kGM1SUTjq7vBXGNPjVUDwp5k6JeMO82bdHHzFPWDLsgubg=;/HoJ8qF+y9Flr6edOEZxFw=="
 ---
 
