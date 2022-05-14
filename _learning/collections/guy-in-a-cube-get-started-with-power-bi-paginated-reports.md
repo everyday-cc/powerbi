@@ -2,7 +2,7 @@
 title: "Get started with Power BI Paginated Reports"
 excerpt: "Patrick walks you through how to create your first Paginated Report for Power BI, Power BI Report Server or SQL Server Reporting Services."
 type: collection
-heat: 64
+heat: 63
 
 provider:
   name: Guy in a Cube
