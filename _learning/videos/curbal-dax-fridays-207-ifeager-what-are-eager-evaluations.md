@@ -4,7 +4,7 @@ excerpt: "In today's DAX Fridays! video I will talk about eager evaluations and 
 originalUrl: https://youtube.com/watch?v=mbs4vwhnspM
 type: video
 price: Free
-length: PT7M54S
+length: PT6M38S
 publishedDateTime: 2021-05-03T12:56:07Z
 heat: 50
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7kAyOVjab+8LhlEQfefZmXOGvpeSNr+OLAXHDC/pEvJ25PHyj/bQFpx02z4K9IhoAgUFfAY3VnFd75brTO7meyIskPAe+sWB+zDoGHuBcOyN5F0izyak57bkkKttQifbiY79dJuK/WvSJkt0OWTWpOMQmb3Qq1uxWYXBFRBhXa8ufsuWwb+Ne6NNWukweox4A4FEMe+3rXnUhFyMevLzrYQu7e3plGlKckrilMQpJcze84SruBaPqPDyeqp0HZHNyHfqnwE5PEXlNrVnBhfji989oCRCpAIj4bz6amSvFyO5bp/qWejY2uUfS6+0D7DeutXyfYcyspxVBxNBoZKv28S69P5YqfgO5pPrT0d19jQ/ChticXAxgTkH2JsR69Q66HSweJhqNE0q8LqwfhGse/yiGBZhmhu8CTvs9fC7IQQ=;MXg8p2FgSXRDAy8IGZNZPQ=="
+secured: "GDbM3SOjDwPinHPwwnnKQIHCKUTdDUoO0goGBAZXBDCLnDMcRq9pPPXfbdzRT3Y4xYVx3prPQkTwRy/sSCKDYxGW5i84IUyyoQ2oXqn2kmVJ1iNUru3EMCkyx9mz8IsfhzvQajnz7plbfbydn6GZyWp4MhJZLJ7t0tyZIWnHLnikmafgDx54HcQ8fQo8e+ZeSQHCpXNgRDBd4qdE3aajgB+i/b9YtYlBmTdDfHGO6fL/sqV+b1I0u5rrE59GKG6ZRNSXscKy+xNRGZihPk20hRbKaNg6MYaDzlIUd5zGXV66YmnEEP8N8GpFha7EabCeEXRlLAfHZA0cRgg7OejCLME9877Mt/dpvcDb1MbL2cXMQnoMo4qdAdFmok0lcuC+vG0bNEvWNpKFIS+/Q/9Pui7Zy6L/gq91LiUwJljT3C4=;WAtkGiRJA33F9nQwcCkRRA=="
 ---
 
