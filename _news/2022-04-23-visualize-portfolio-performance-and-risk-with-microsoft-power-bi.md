@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/professional/blog/visualize-portfolio-pe
 webUrl: "https://www.bloomberg.com/professional/blog/visualize-portfolio-performance-and-risk-with-microsoft-power-bi/"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:
