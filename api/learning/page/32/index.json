@@ -95,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 100,
-        "average": 4.79
+        "count": 101,
+        "average": 4.7524753
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1055,8 +1055,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-premium/",
       "length": "PT19M",
       "ratings": {
-        "count": 51,
-        "average": 4.901961
+        "count": 52,
+        "average": 4.9038463
       },
       "provider": {
         "name": "Microsoft Learn",
