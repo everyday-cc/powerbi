@@ -3359,8 +3359,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 5478,
-            "average": 4.711756
+            "count": 5480,
+            "average": 4.711679
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3712,7 +3712,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 133,
+          "heat": 53,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/row-level-security-power-bi-social.png",
@@ -3964,8 +3964,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9712,
-            "average": 4.704901
+            "count": 9713,
+            "average": 4.7048287
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4006,8 +4006,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 739,
-            "average": 4.722598
+            "count": 741,
+            "average": 4.7219973
           },
           "provider": {
             "name": "Microsoft Learn",
