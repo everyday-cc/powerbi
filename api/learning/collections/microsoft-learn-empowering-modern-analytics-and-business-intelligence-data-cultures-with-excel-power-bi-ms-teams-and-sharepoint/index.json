@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 271,
-        "average": 4.8523984
+        "count": 272,
+        "average": 4.852941
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -180,8 +180,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 105,
-        "average": 4.7238097
+        "count": 106,
+        "average": 4.726415
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -223,8 +223,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-publish-share/",
       "length": "PT49M",
       "ratings": {
-        "count": 74,
-        "average": 4.756757
+        "count": 75,
+        "average": 4.733333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -283,7 +283,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 130,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-excel-social.png",
