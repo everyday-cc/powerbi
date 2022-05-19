@@ -4,7 +4,7 @@ excerpt: "Updated May 2022 I update this blog article regularly to keep track of
 webUrl: https://exceleratorbi.com.au/extract-numerical-data-points-from-an-image/
 type: article
 publishedDateTime: 2022-05-11T23:00:52Z
-heat: 81
+heat: 80
 
 provider:
   name: Excelerator BI
