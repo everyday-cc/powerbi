@@ -1636,7 +1636,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-environment-social.png",
@@ -3645,8 +3645,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 7168,
-        "average": 4.7484655
+        "count": 7169,
+        "average": 4.7485003
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3687,8 +3687,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 838,
-        "average": 4.8639617
+        "count": 839,
+        "average": 4.864124
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3729,8 +3729,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 8322,
-        "average": 4.746455
+        "count": 8324,
+        "average": 4.746516
       },
       "provider": {
         "name": "Microsoft Learn",
