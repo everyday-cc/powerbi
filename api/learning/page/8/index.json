@@ -1461,8 +1461,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 94,
-            "average": 4.755319
+            "count": 95,
+            "average": 4.7578945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2213,8 +2213,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 354,
-            "average": 4.822034
+            "count": 355,
+            "average": 4.822535
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2423,8 +2423,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 354,
-            "average": 4.822034
+            "count": 355,
+            "average": 4.822535
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3488,8 +3488,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 830,
-        "average": 4.8638554
+        "count": 831,
+        "average": 4.8640194
       },
       "provider": {
         "name": "Microsoft Learn",

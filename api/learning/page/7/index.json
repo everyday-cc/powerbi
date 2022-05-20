@@ -1149,7 +1149,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 131,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1282,8 +1282,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 5513,
-            "average": 4.7110467
+            "count": 5514,
+            "average": 4.711099
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1533,8 +1533,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 5513,
-        "average": 4.7110467
+        "count": 5514,
+        "average": 4.711099
       },
       "provider": {
         "name": "Microsoft Learn",
