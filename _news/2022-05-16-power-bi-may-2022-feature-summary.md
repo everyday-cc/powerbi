@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-may-2022-feature
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-may-2022-feature-summary/"
 type: article
 quality: 189
-heat: 190
+heat: 189
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LTdpe2ENW4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
