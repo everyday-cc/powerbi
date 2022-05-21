@@ -1342,7 +1342,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-governance-social.png",
@@ -2327,8 +2327,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 5527,
-            "average": 4.7112355
+            "count": 5528,
+            "average": 4.711288
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3057,8 +3057,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 4175,
-        "average": 4.682874
+        "count": 4176,
+        "average": 4.68295
       },
       "provider": {
         "name": "Microsoft Learn",
