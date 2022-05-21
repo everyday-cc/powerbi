@@ -611,8 +611,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 361,
-            "average": 4.822715
+            "count": 362,
+            "average": 4.8232045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -629,7 +629,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 55,
+          "heat": 135,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
@@ -821,8 +821,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 361,
-            "average": 4.822715
+            "count": 362,
+            "average": 4.8232045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -839,7 +839,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 55,
+          "heat": 135,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
@@ -1118,8 +1118,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1188,
-            "average": 4.736532
+            "count": 1189,
+            "average": 4.7367535
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2513,8 +2513,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 7182,
-        "average": 4.7482595
+        "count": 7183,
+        "average": 4.7482944
       },
       "provider": {
         "name": "Microsoft Learn",

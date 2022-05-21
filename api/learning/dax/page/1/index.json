@@ -17,7 +17,7 @@
         "domain": "radacad.com"
       },
       "publishedDateTime": "2022-05-18T20:32:12-07:00",
-      "heat": 177,
+      "heat": 146,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -1104,8 +1104,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1188,
-            "average": 4.736532
+            "count": 1189,
+            "average": 4.7367535
           },
           "provider": {
             "name": "Microsoft Learn",

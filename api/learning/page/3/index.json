@@ -149,8 +149,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 10819,
-            "average": 4.7570014
+            "count": 10822,
+            "average": 4.757069
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -191,8 +191,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 13111,
-            "average": 4.7753797
+            "count": 13114,
+            "average": 4.7754307
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -251,8 +251,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 10819,
-        "average": 4.7570014
+        "count": 10822,
+        "average": 4.757069
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -515,8 +515,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 13111,
-        "average": 4.7753797
+        "count": 13114,
+        "average": 4.7754307
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1005,8 +1005,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4314,
-            "average": 4.7315717
+            "count": 4315,
+            "average": 4.7316337
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1852,8 +1852,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 595,
-            "average": 4.7462187
+            "count": 596,
+            "average": 4.7466445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1894,8 +1894,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 424,
-            "average": 4.799528
+            "count": 425,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
