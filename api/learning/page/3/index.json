@@ -244,8 +244,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 2460,
-            "average": 4.754878
+            "count": 2461,
+            "average": 4.7549777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -287,8 +287,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 1699,
-            "average": 4.711595
+            "count": 1700,
+            "average": 4.711765
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -331,8 +331,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1190,
-            "average": 4.7369747
+            "count": 1192,
+            "average": 4.7374163
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -374,8 +374,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1035,
-            "average": 4.7227054
+            "count": 1036,
+            "average": 4.722973
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1475,8 +1475,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 7190,
-        "average": 4.7479835
+        "count": 7191,
+        "average": 4.7478795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2473,7 +2473,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -2810,8 +2810,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 6346,
-        "average": 4.724078
+        "count": 6347,
+        "average": 4.723964
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2852,8 +2852,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 5530,
-        "average": 4.7112117
+        "count": 5532,
+        "average": 4.711316
       },
       "provider": {
         "name": "Microsoft Learn",
