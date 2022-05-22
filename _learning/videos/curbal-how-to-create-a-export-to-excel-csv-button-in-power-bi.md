@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT14M20S
 publishedDateTime: 2021-04-21T11:04:38Z
-heat: 76
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BnTipbooeP0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "feWrdv5m7Ve2OPsBmy+hulSTbqb0av6Om3gjO5Vvx/TeP4iP2PsXw2o1YVE1tU3o7AiyBiuWO/FiNVrcZkqWxeV5rjavHImI6hjavQuiWXauAMXwjieeAUGGUc0j58raxqQLa8+iD7SJCr3hjAi6kWBh9WvCkSJ3GM8AJeIyzGnu05QKTJrATEn1IDcDHI2sUwjQELP4iFcnAT+0dyiy0mCGOyFd8bng6Sw8NHzb2u5Ll3jyFGnZjrL21R/xupM7hid0LYpoZ5GdrKthKFfB2tvU0h48Cf1lkSx6YkTPVAdLsVjDdAp5qOGvrpCwS0FrY06Yhil39D4UZ7TvnZW1d453EMznZevr1D3PnDPDCp/MoKaXfQUg9AH1oV55DGQ/4FKycJRdbCxjMsuCALdC6pDehonB7JJ4OaUOMJw/XwM=;NRuOfynnpeu+r8/4M7WfdQ=="
+secured: "bwfFXcI//cjhm7AvmUb/Lissco9/lIBfNdHJXNRwm4OcksYGS627oKdefCWexo7BVvsg0sht2j/PbTDDHWgey250tcurIS7rwdKI2a/x28SnMfzbENud3Rf0rd/D9yGjM6K/x1xZP0CNlxeYOuKlKsJxTk66uNvY3kJQxyjfcg7kFtiXLdKaRf6d1+bpqwUY5mFUcnJQIsxgrdrqxIa8JJa09jEPgGjDTbVr1SIOV6sUJDou5NauZHUM6fnlib/YbDmZCc0V11KNM0UuKVc3h4pAi+n/sFo8hAW/9sDeWr0F4WtvVE6wSxrhLhsTggvHvqBeV/pDHAPzJCvslphQ/XX7gAoh1SjpuCnZINDoiTF3TaqQoQoNfDS9Y3iGuiYUVpYEGbZVQARE7lhRlg2y15Pof3CneDjUK4LWz1M+O90=;qnhWlVaP4SZsbPnCZhWrmw=="
 ---
 
