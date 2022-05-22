@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/sanddance-power-bi-custom
 webUrl: "https://powerbi.microsoft.com/en-us/blog/sanddance-power-bi-custom-visual-updates/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

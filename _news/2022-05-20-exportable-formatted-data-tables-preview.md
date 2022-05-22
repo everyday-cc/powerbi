@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/exportable-formatted-data
 webUrl: "https://powerbi.microsoft.com/en-us/blog/exportable-formatted-data-tables-preview/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
