@@ -3294,7 +3294,7 @@
             ]
           },
           "publishedDateTime": "2020-04-30T09:01:04-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/kAniA_N7sB8/maxresdefault.jpg",
@@ -3722,8 +3722,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3015,
-            "average": 4.7688227
+            "count": 3016,
+            "average": 4.7685676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3764,8 +3764,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2668,
-            "average": 4.7147675
+            "count": 2669,
+            "average": 4.7145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3806,8 +3806,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3888,
-            "average": 4.803498
+            "count": 3889,
+            "average": 4.8032913
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3899,7 +3899,7 @@
             ]
           },
           "publishedDateTime": "2020-04-24T04:44:00-07:00",
-          "heat": 53,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/7CqXdSEN2k4/maxresdefault.jpg",
