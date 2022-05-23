@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Embedding with Power BI - What's the difference?"
 
-secured: "g6EPrzvt6tfOSgeqm4abEtYAFmVC39VZch6CDTVUaKijiMx1tk7gaBa9z/P+7wWemhc7YMye1I116Pw4shu+4RV/njj5tzawqK2pb6guKb/SPsVeviTYjxasrbFuz+hbXX4HAtrD16mpHg2DqHrGzu9Ut8/v1rFZr3HpTmznn0aj18S7bDVU8HQHcHS84eXZwqSz5RMRqACe4kJqKvzB4z5TXSITZ8+fyRUQhcFvtAjoBgAMaVcVFahoflv1KgGexGgdRX3RXJlXjBeR5HepcGzYg7oHx7Vk/Y5Gi+tDR1y4PGTvTLs1hCyNkYl9QYzr5LIEjgJmIUj++jn5B2YpoFflQQNOgt0r+BPw5QfudO3Yl18pO7OriQdpVDtdm/Yw5nmt+c34G20Bcm0Qm6qYHSzr59+lwQgIZPimNBhrZdw=;fKJmnrLN1l3bWvhcTBceqQ=="
+secured: "rUI7HHMXM3/MygDMaZThkXEPLfAgSfmMqmZnARhhKX7JTtObccC1hDgCEd6ag7bCxhoI7mhuEkbK+A6rL1BREN7CbCJFFP5ELLNd0kuxFmYgim+cAa9ClxvOH/3CvLWvl96KFVrP5AcNWVwa3+R+W3b0kfXV+9F6QdKfOenWh3/yoCDaYlK7GWmf8EarMjQJ/nWdMx7IJ/kCnIsay9ttB+Mxf7WesOaAJf3e/HY9pPcL8DR+j6N1AD37wygY6Sig7Z+MF8Kff0EEqH5SSoLwquSuDaom2deOVzAuOrBbErHZMwgSTilhRj10EIPOEHKMQOxBHZDfTps1h+JWzulyS16gG3YZMqZ4uxtnr873feFEL0gaUtTvIFF+OXwQDO7Gy639S2yoQjw5EkzLKkGf2fRqYlGxw3iyLpNYw6J6/1M=;pFP9clj4vys1/cx+4Vbfrw=="
 ---
 
