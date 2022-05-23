@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3H42M37S
 publishedDateTime: 2020-04-10T20:33:06Z
-heat: 52
+heat: 
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z3DHsL05wzQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Power BI
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
-secured: "jxkkS8pgjrqKGYD/i3U2YdusB3BMGmyz543vAOYZGjsn3Y7odo98jIb9WWZV+nRg6UEh3ZHScl/EflkzxJFZlmVzZ1DmvLk2EPK5sqCl541i4AuuNg6J0aLIzUZNqFI0yNBLq4CMvBUr0sgNsHqspxpp/8CX+ydl3qUq57AfshQswt8MTeJjl7oADeBqZWJP/eLXahYAhSg5oujcl6q4s1ng211Dgx20mb0nYZfc96aKz15qDq86la7BHpH/m/5dVquwqxORkNZiWcmW5BZfiJ1BowFGJFlG+FadwUb0rsjZ9KgJ8HY8R7hbplHLGxqtxtbK3zLk9xTVe/X7LYSZN1OrGTMQz/VO/ORm+1r18jIRTesocN/qG61pWRVLz3wueTDcLouNiHL57jhyWrLjUg==;WY+fapZIc/yB6auj867IBw=="
+secured: "/bWIR0usoMkfYxWpmd31+MMEQ7keGCPvHZO88rivlHF+oIyGetUXskrdv7KbEn+W9Nq/41/7GIU4wYBC//cZOuID/1wBUDLRDim8F8BVChPaubvB+OldwW7LtGqaoj79GTwrN7IcCjIEKIqPtOrTd1VrSWo+Oio90fmC/8svOt9WYMWVDFbd62GTQGhfBZMOYdM8oytv+fBZintCmANj+hj59mTk7JPnmjcBNE9rKVq9UGTLHZ18kJaPM82nsO4JO32RUEyJw8OOnnRLyofbs0Ks6NN7f8FWqIzIgGaU3AbG7aJ1BcCsz56ezp5rIWXSQKOYFuQfUc58Z7/RnSX9ilgeNWJpnmI63al1P6pGF6KdbmH3lxQw8kn2Nv9Pj22+M6bwJCFDQmcfqlRzBtk6Qw==;bumrfhNdXLItSxv+FmXMaA=="
 ---
 
