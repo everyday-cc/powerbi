@@ -1616,8 +1616,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 871,
-        "average": 4.859931
+        "count": 873,
+        "average": 4.860252
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1658,8 +1658,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 11952,
-        "average": 4.725569
+        "count": 11953,
+        "average": 4.725592
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1700,8 +1700,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 8364,
-        "average": 4.746652
+        "count": 8366,
+        "average": 4.7467127
       },
       "provider": {
         "name": "Microsoft Learn",
