@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/looker-vs-power-bi/"
 webUrl: "https://www.eweek.com/big-data-and-analytics/looker-vs-power-bi/"
 type: article
 quality: 77
-heat: 79
+heat: 77
 published: true
 
 provider:
