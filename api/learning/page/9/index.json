@@ -224,8 +224,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 149,
-            "average": 4.691275
+            "count": 150,
+            "average": 4.693333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2251,8 +2251,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 6904,
-        "average": 4.764919
+        "count": 6906,
+        "average": 4.764842
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2293,8 +2293,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 4631,
-        "average": 4.6698337
+        "count": 4633,
+        "average": 4.669976
       },
       "provider": {
         "name": "Microsoft Learn",
