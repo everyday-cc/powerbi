@@ -2162,7 +2162,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-content-social.png",
@@ -3483,8 +3483,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3039,
-            "average": 4.768345
+            "count": 3040,
+            "average": 4.768421
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3567,8 +3567,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 3914,
-            "average": 4.8040366
+            "count": 3916,
+            "average": 4.8038816
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4397,7 +4397,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
