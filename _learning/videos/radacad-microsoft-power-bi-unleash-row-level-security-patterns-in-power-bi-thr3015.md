@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT21M24S
 publishedDateTime: 2019-06-16T19:07:02Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dGpX8-4adkY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "fzwk1HJ0i83FbIE06AHPJuPI9f0Ntk6LTO++ZCSllZJcqUpTbi/c3mXfDAERzg71wSMazXSRUk684h80kGebtbJ4KEjiRYrZ5rMu7dc+W16/Pd1fnQdSVLQZhWYjcjdRc8bEDjXMZ0Fl3iQicXQwZZxPvZfhemdx2ub25g20kPQLjWB+s0CHZIH70USlDWwYljSIym26tyrgUBvZkqIlLLulk/L5HXDvKDcTHZJPI2lff5P5YKw1vwzYVFlkk0qclWo0TSL9G2+p/F0UQpRS7EJM1xBfuD0hXS3yqIaz82Q2aqXgsT0zj/Uor8Chahg3dVOm0C8RvDL5w6oGqoY4vWV1kD/Vqy7PFq8sLML6EVD+prL10jOpSWa0HegyTp8sClb8h4JX7uNfo2c/z0VCaWtlEi/9Y7oo3XS+SszEGqU=;s+8AnXgoz7wXzWMjRpdJVA=="
+secured: "rWR/Gym1z9ZKuFqiCFlkq2jvmI5AaZttFtSyu+iB22DFeEGtUfMEu6UeW/ZPmG4kBCJFvfUOA5VUvIow6l8BDc4UHdpZ8hKEd4nCdmyyxUrcYZf1Nt8TjdxXk4vlJOOuNApdxlX87d99QuJ+rnXDKHOFcQq5nFH5pXxnYOQI3X17z7RzHjzy5x3HXuG8yWsonoKn4j1ZEbGcBvyxi1OoTvUt2Wi3R8GMRdy48OUv0E9QBAQWl3Of5zmRO1NxLbcpk/OD9eKlpWNQc10lp9+95Bp72Ku6PQNlazyZ8wi55QByez791CPcKMCtDw27Pp6bejFM4sZvbXHqH73hBS1seI+VVY73UAGZ6xn1TkwrkdkI04Y/YwCT8fcsh3IHy8px4K4CdlZBNXiSw/CtG2wgWRyS4dva5WK9dVbMfDwiqWY=;zVJVbjkUKBuuSXSR0Yo82w=="
 ---
 
