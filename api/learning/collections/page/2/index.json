@@ -3501,7 +3501,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 58,
+          "heat": 138,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-manage-workspaces-power-bi-social.png",
@@ -3603,7 +3603,7 @@
         }
       ],
       "size": 3,
-      "heat": 58,
+      "heat": 59,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-manage-workspaces-power-bi-social.png",
