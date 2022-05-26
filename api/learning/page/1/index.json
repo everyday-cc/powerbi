@@ -496,14 +496,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-revisiting-a-power-bi-solution-with-dynamic-m-parameters.md",
-      "title": "Revisiting a Power BI solution with Dynamic M Parameters",
-      "excerpt": "Dynamic M Parameters for SQL are here in Power BI! YES!!! Let's revisit a Power BI solution and how we can take it to the next LEVEL using these!  LEVEL UP Power BI Conditional Drill with Paginated reports!  https://youtu.be/43CwBmaym8Q  Teo Lachev's Blog: https://prologika.com/power-bi-dynamic-m-query-parameters-reloaded/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-revisiting-a-power-bi-solution-with-dynamic-m-parameters/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-revisiting-a-power-bi-solution-with-dynamic-m-parameters/",
-      "originalUrl": "https://youtube.com/watch?v=L-wqwzj0-Xo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L-wqwzj0-Xo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M23S",
+      "path": "_learning/videos/guy-in-a-cube-some-tips-for-your-data-labels-in-power-bi.md",
+      "title": "Some tips for your data labels in Power BI",
+      "excerpt": "Charts can be hard to understand sometimes. Ambiguity is never a good thing. Here are some tips for using data labels in Power BI to help your consumers better understand the meaning of the values.   📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-some-tips-for-your-data-labels-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-some-tips-for-your-data-labels-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=gyOKFSVYEew",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gyOKFSVYEew\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M28S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -516,45 +516,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-03-10T08:00:11-08:00",
-      "heat": 135,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-create-elegant-lists-using-dax-and-the-smart-narrative-visual-in-power-bi.md",
-      "title": "Create ✅ELEGANT LISTS using DAX and the smart narrative visual in Power BI",
-      "excerpt": "Sometimes you want to add explanatory text in the form of lists (ex. top 3 sales people) to your visuals to add more context or increase the understanding of your report.  In todays video, I will show you how to do that with the smart narrative visual and some dax.  Here you can download all the pbix",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-elegant-lists-using-dax-and-the-smart-narrative-visual-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-elegant-lists-using-dax-and-the-smart-narrative-visual-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=6L1YmLjmzXA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6L1YmLjmzXA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M26S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-03-07T04:53:12-08:00",
+      "publishedDateTime": "2022-03-17T08:00:22-07:00",
       "heat": 134,
       "images": [
         {
@@ -568,8 +530,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
@@ -792,6 +753,44 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-good-kpis-bad-kpis-and-the-north-star-metric-a-power-bi-goals-pre-guide.md",
+      "title": "Good KPIs, Bad KPIs and the north star metric | A Power BI Goals 🏆 pre-guide",
+      "excerpt": "Are you using Power BI Goals? 🏆  A good KPI should show you whether you are taking the right path toward your strategic goals.  But be careful! There are thousands of KPIs to choose from and if you choose the wrong one, then you are measuring something that doesn’t align with your goals or even takes",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-good-kpis-bad-kpis-and-the-north-star-metric-a-power-bi-goals-pre-guide/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-good-kpis-bad-kpis-and-the-north-star-metric-a-power-bi-goals-pre-guide/",
+      "originalUrl": "https://youtube.com/watch?v=Oke891n48E0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Oke891n48E0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M56S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-04-07T01:46:23-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/articles/excelerator-bi-how-many-employees-by-period.md",
       "title": "How Many Employees by Period",
       "excerpt": "I have many reasons for sharing content online. The main reasons are that I like sharing what I know, but also that I want to document how to complete a task for future reference. My article today ticks both of those boxes. How Many Employees by Period I&#8217;m calling this [...]Read More »",
@@ -856,27 +855,27 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-oops-forgot-to-show-this.md",
-      "title": "Oops! Forgot to show this...",
-      "excerpt": "Oops! Forgot to show how we added the Power BI Report page tooltip from our sparkline video. Well, here it is!  Add a little info to your Sparkline in Power BI https://www.youtube.com/watch?v=NkRVaRUVO7s  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-oops-forgot-to-show-this/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-oops-forgot-to-show-this/",
-      "originalUrl": "https://youtube.com/watch?v=LTHTuX8TZZw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LTHTuX8TZZw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M",
+      "path": "_learning/videos/curbal-push-the-button-to-find-your-closest-customerbike-share-in-power-bi.md",
+      "title": "Push the button to find your closest customer/bike share.... in Power BI",
+      "excerpt": "Would you like to push a button on your phone and find where your closest customer/supplier/bike is?  Let me show you how here!  Previous video to find closest point: https://youtu.be/5nkPRsD-olM  Here you can download the pbix file number 71 at : https://curbal.com/donwload-center  SUBSCRIBE to learn",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-push-the-button-to-find-your-closest-customerbike-share-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-push-the-button-to-find-your-closest-customerbike-share-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=ebhwGkvG530",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ebhwGkvG530\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M14S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-03-09T03:46:15-08:00",
+      "publishedDateTime": "2022-03-09T08:05:54-08:00",
       "heat": 130,
       "images": [
         {
@@ -962,8 +961,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 38642,
-            "average": 4.798846
+            "count": 38646,
+            "average": 4.7988667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -980,7 +979,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 110,
+          "heat": 112,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -1004,8 +1003,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 59354,
-            "average": 4.7775044
+            "count": 59361,
+            "average": 4.777514
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1064,8 +1063,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 59354,
-        "average": 4.7775044
+        "count": 59361,
+        "average": 4.777514
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1137,6 +1136,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
+      "title": "Discover data analysis",
+      "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-analytics-microsoft/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 38646,
+        "average": 4.7988667
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 112,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-join-and-transform-tables-cheat-sheet-for-power-bi.md",
       "title": "Join and Transform tables Cheat Sheet for Power BI",
       "excerpt": "Confused about what joins to use when merging tables? How about what is the difference between pivot and unpivot?  These cheat sheets will help you remember and understand the difference in no time.  Joins video: https://youtu.be/PNdxy0c1Shg Pivot vs unpivot vs transpose: https://www.youtube.com/watch?v=hGj2axffxHo&ab_channel=Curbal",
@@ -1173,48 +1214,6 @@
       "topics": [
         "Power BI",
         "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-data-analytics-microsoft.md",
-      "title": "Discover data analysis",
-      "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-analytics-microsoft/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 38642,
-        "average": 4.798846
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 110,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     },
     {
@@ -1324,8 +1323,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 59354,
-            "average": 4.7775044
+            "count": 59361,
+            "average": 4.777514
           },
           "provider": {
             "name": "Microsoft Learn",
