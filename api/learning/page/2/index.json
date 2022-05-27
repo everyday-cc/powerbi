@@ -73,8 +73,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 59449,
-            "average": 4.7776413
+            "count": 59461,
+            "average": 4.7776694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -115,8 +115,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 26696,
-            "average": 4.724715
+            "count": 26699,
+            "average": 4.724746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -158,8 +158,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 12022,
-            "average": 4.725753
+            "count": 12025,
+            "average": 4.725655
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -299,8 +299,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 32277,
-        "average": 4.741178
+        "count": 32282,
+        "average": 4.741218
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -409,8 +409,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 20606,
-        "average": 4.763855
+        "count": 20611,
+        "average": 4.7639127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -527,8 +527,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 26696,
-        "average": 4.724715
+        "count": 26699,
+        "average": 4.724746
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -867,7 +867,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2022-05-17T06:45:39-07:00",
-      "heat": 83,
+      "heat": 82,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
