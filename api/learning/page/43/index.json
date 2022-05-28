@@ -179,8 +179,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-power-platform-to-sap-azure/",
       "length": "PT33M",
       "ratings": {
-        "count": 28,
-        "average": 4.785714
+        "count": 29,
+        "average": 4.793103
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -432,8 +432,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-modify-filter/",
       "length": "PT21M",
       "ratings": {
-        "count": 793,
-        "average": 4.6569986
+        "count": 794,
+        "average": 4.6574306
       },
       "provider": {
         "name": "Microsoft Learn",
