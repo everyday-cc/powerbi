@@ -4,49 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
-      "title": "Get data with Power BI Desktop",
-      "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
-      "length": "PT1H15M",
-      "ratings": {
-        "count": 26773,
-        "average": 4.724611
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 94,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-a-new-way-to-manage-gateways-in-power-bi.md",
       "title": "A new way to manage gateways in Power BI!!!",
       "excerpt": "We now have a new way to manage gateways within Power BI and it is a much-welcomed update! Adam walks you through the experience to get you ready for it!  New data source and gateway management experience https://powerbi.microsoft.com/blog/new-data-source-and-gateway-management-experience/  📢 Become",
@@ -85,6 +42,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
+      "title": "Get data with Power BI Desktop",
+      "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
+      "length": "PT1H15M",
+      "ratings": {
+        "count": 26776,
+        "average": 4.7246413
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 89,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-power-bi.md",
       "title": "Introduction to Power BI",
       "excerpt": "Introduction to Power BI",
@@ -92,8 +92,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 20691,
-        "average": 4.7641006
+        "count": 20694,
+        "average": 4.7641344
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -172,8 +172,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 32346,
-        "average": 4.7412663
+        "count": 32348,
+        "average": 4.7412825
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -566,8 +566,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 10989,
-            "average": 4.758031
+            "count": 10991,
+            "average": 4.7580748
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -608,8 +608,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 13312,
-            "average": 4.77479
+            "count": 13314,
+            "average": 4.7746735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -668,8 +668,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 13312,
-        "average": 4.77479
+        "count": 13314,
+        "average": 4.7746735
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -749,8 +749,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 12070,
-        "average": 4.7255177
+        "count": 12075,
+        "average": 4.725631
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -929,8 +929,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 661,
-            "average": 4.742814
+            "count": 662,
+            "average": 4.743202
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -971,8 +971,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 470,
-            "average": 4.7638297
+            "count": 471,
+            "average": 4.7643313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1013,8 +1013,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 342,
-            "average": 4.75731
+            "count": 344,
+            "average": 4.758721
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1055,8 +1055,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 199,
-            "average": 4.758794
+            "count": 200,
+            "average": 4.76
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1115,8 +1115,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 10989,
-        "average": 4.758031
+        "count": 10991,
+        "average": 4.7580748
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1233,8 +1233,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 8920,
-        "average": 4.769955
+        "count": 8924,
+        "average": 4.770058
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1375,8 +1375,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4659,
-            "average": 4.670745
+            "count": 4661,
+            "average": 4.670886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1417,8 +1417,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 4223,
-            "average": 4.6841106
+            "count": 4226,
+            "average": 4.6840982
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1459,8 +1459,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3821,
-            "average": 4.697723
+            "count": 3823,
+            "average": 4.697881
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1501,8 +1501,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4356,
-            "average": 4.7327824
+            "count": 4359,
+            "average": 4.7329664
           },
           "provider": {
             "name": "Microsoft Learn",
