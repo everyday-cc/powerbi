@@ -499,7 +499,7 @@
             "domain": "absentdata.com"
           },
           "publishedDateTime": "2020-07-26T06:01:35-07:00",
-          "heat": 53,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/CW-Er8slv9k/hqdefault.jpg",
@@ -3207,8 +3207,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 371,
-            "average": 4.8247976
+            "count": 372,
+            "average": 4.8252687
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3417,8 +3417,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 371,
-            "average": 4.8247976
+            "count": 372,
+            "average": 4.8252687
           },
           "provider": {
             "name": "Microsoft Learn",
