@@ -4,6 +4,36 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-is-power-bi-certification-worth-it-exam-da-100-exam-70-778-certified-data-analyst.md",
+      "title": "Is Power BI Certification Worth It? 💲💲💲 (Exam DA-100 / Exam 70-778 / Certified Data Analyst…)",
+      "excerpt": "You may be considering taking the Microsoft Power BI Certification Exams…but should you? But before you put in the time, effort and money $$$...shouldn't you ask yourself \"Is Power BI Certification Even Worth It?\"  I am going to tell you 3 reasons you should and 3 reasons you shouldn't take these exams.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-is-power-bi-certification-worth-it-exam-da-100-exam-70-778-certified-data-analyst/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-is-power-bi-certification-worth-it-exam-da-100-exam-70-778-certified-data-analyst/",
+      "originalUrl": "https://youtube.com/watch?v=9pacZN8CU4E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9pacZN8CU4E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M3S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2021-04-13T18:52:16-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9pacZN8CU4E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-is-power-bi-consulting-a-safe-path-for-you-in-2021-whats-helping-what-can-go-wrong-.md",
       "title": "Is Power BI Consulting a Safe Path for You in 2021? What's Helping 👍 & What Can Go Wrong 👎?",
       "excerpt": "Want to learn the 5-Steps to become a successful Power BI Consultant? 👉 Sign Up for our Free Webinar on Thu Jan 21: https://web.learnpowerbi.com/consultant/  In the new year of 2021, are you thinking about creating a side-income or full-time income as a \"Power BI Consultant\"? Then you must learn the",
@@ -193,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3744,
-            "average": 4.724893
+            "count": 3746,
+            "average": 4.72504
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -318,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 6824,
-            "average": 4.754543
+            "count": 6826,
+            "average": 4.754175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -360,8 +390,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 5613,
-            "average": 4.711919
+            "count": 5614,
+            "average": 4.71197
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -403,8 +433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 6949,
-            "average": 4.7648582
+            "count": 6950,
+            "average": 4.764604
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -463,8 +493,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 5613,
-        "average": 4.711919
+        "count": 5614,
+        "average": 4.71197
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -548,8 +578,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 4228,
-        "average": 4.683302
+        "count": 4229,
+        "average": 4.683377
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -590,8 +620,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 3744,
-        "average": 4.724893
+        "count": 3746,
+        "average": 4.72504
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -632,8 +662,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 4665,
-        "average": 4.6711683
+        "count": 4667,
+        "average": 4.671309
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1313,48 +1343,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/connect-and-analyze-your-microsoft-dynamics-365-data-social.png",
           "width": 800,
           "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-optimize-model-power-bi.md",
-      "title": "Optimize a model for performance in Power BI ",
-      "excerpt": "Data Analysis eXpression (DAX) language is a key feature of Power BI. It is used to create calculated columns, calculated tables, and measures. In this module, you will learn how to use DAX to solve typical analytics problems. You will learn about one of the most popular DAX functions, CALCULATE, and how it can override the default behavior of Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-optimize-model-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
-      "length": "PT43M",
-      "ratings": {
-        "count": 6949,
-        "average": 4.7648582
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
-          "width": 643,
-          "height": 321,
           "isCached": true
         }
       ],
