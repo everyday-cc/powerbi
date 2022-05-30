@@ -4,7 +4,7 @@ excerpt: "I have many reasons for sharing content online. The main reasons are t
 webUrl: https://exceleratorbi.com.au/how-many-employees-by-period/
 type: article
 publishedDateTime: 2022-05-24T00:39:48Z
-heat: 130
+heat: 80
 
 provider:
   name: Excelerator BI
