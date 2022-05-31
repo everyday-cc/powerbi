@@ -1293,8 +1293,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 16,
-            "average": 4.9375
+            "count": 17,
+            "average": 4.9411764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1335,8 +1335,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-select/",
           "length": "PT29M",
           "ratings": {
-            "count": 9,
-            "average": 4.888889
+            "count": 10,
+            "average": 4.9
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2778,8 +2778,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 6968,
-        "average": 4.7646384
+        "count": 6969,
+        "average": 4.7645288
       },
       "provider": {
         "name": "Microsoft Learn",
