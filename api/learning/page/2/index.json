@@ -147,8 +147,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 20763,
-        "average": 4.7647257
+        "count": 20770,
+        "average": 4.764805
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -408,8 +408,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 26809,
-        "average": 4.7247195
+        "count": 26810,
+        "average": 4.7247295
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1077,8 +1077,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 11027,
-            "average": 4.7582297
+            "count": 11028,
+            "average": 4.7582517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1119,8 +1119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 13355,
-            "average": 4.774242
+            "count": 13357,
+            "average": 4.774276
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1179,8 +1179,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 13355,
-        "average": 4.774242
+        "count": 13357,
+        "average": 4.774276
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1221,8 +1221,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 11027,
-        "average": 4.7582297
+        "count": 11028,
+        "average": 4.7582517
       },
       "provider": {
         "name": "Microsoft Learn",
