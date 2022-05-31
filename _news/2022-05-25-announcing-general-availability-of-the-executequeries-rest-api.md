@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-general-availa
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-of-the-executequeries-rest-api/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
