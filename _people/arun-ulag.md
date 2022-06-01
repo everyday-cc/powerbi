@@ -18,7 +18,7 @@ website: https://t.co/FklqJqbSAZ
 twitter:
   username: arunulag
   url: https://twitter.com/arunulag
-  followers: 4687
+  followers: 4689
 
 linkedin:
   url: https://www.linkedin.com/in/arunulag/
