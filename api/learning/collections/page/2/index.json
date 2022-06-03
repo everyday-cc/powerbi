@@ -2267,7 +2267,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-intro-social.png",
@@ -2667,8 +2667,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 146,
-            "average": 4.657534
+            "count": 147,
+            "average": 4.659864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2751,8 +2751,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-calculations/",
           "length": "PT57M",
           "ratings": {
-            "count": 50,
-            "average": 4.4
+            "count": 51,
+            "average": 4.4117646
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3731,8 +3731,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3083,
-            "average": 4.7693806
+            "count": 3084,
+            "average": 4.7694554
           },
           "provider": {
             "name": "Microsoft Learn",
