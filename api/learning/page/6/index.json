@@ -1059,8 +1059,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 380,
-            "average": 4.818421
+            "count": 381,
+            "average": 4.8188977
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1269,8 +1269,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 380,
-            "average": 4.818421
+            "count": 381,
+            "average": 4.8188977
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1706,7 +1706,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-intro-social.png",
@@ -2250,7 +2250,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2315,8 +2315,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 2512,
-            "average": 4.754379
+            "count": 2513,
+            "average": 4.7544765
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2445,8 +2445,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1053,
-            "average": 4.719848
+            "count": 1054,
+            "average": 4.7201138
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2812,8 +2812,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 6482,
-        "average": 4.723079
+        "count": 6483,
+        "average": 4.723122
       },
       "provider": {
         "name": "Microsoft Learn",
