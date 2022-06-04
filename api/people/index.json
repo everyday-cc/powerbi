@@ -17,7 +17,7 @@
       "twitter": {
         "username": "arunulag",
         "url": "https://twitter.com/arunulag",
-        "followers": 4709
+        "followers": 4710
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/arunulag/"
@@ -38,7 +38,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 121,
+      "heat": 112,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/625784770333519872/RrSqqUEZ_400x400.jpg",
@@ -64,7 +64,7 @@
       "twitter": {
         "username": "Rad_Reza",
         "url": "https://twitter.com/Rad_Reza",
-        "followers": 8706
+        "followers": 8707
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rezarad/"
@@ -77,7 +77,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 115,
+      "heat": 101,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
@@ -90,36 +90,28 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/adam-saxton.md",
-      "title": "Adam Saxton",
-      "excerpt": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/adam-saxton/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/adam-saxton/",
+      "path": "_people/avi-singh.md",
+      "title": "Avi Singh",
+      "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/avi-singh/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/avi-singh/",
       "type": "profile",
-      "name": "Adam Saxton",
-      "bio": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
-      "location": "Conroe, TX",
-      "website": "https://t.co/sfMHqOSfBC",
+      "name": "Avi Singh",
+      "bio": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
+      "location": "Seattle, WA",
+      "website": "https://www.learnpowerbi.com/",
       "twitter": {
-        "username": "awsaxton",
-        "url": "https://twitter.com/awsaxton",
-        "followers": 7403
+        "username": "powerbipro",
+        "url": "https://twitter.com/powerbipro",
+        "followers": 5363
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/guyinacube/"
+        "url": "https://www.linkedin.com/in/avichalsingh/"
       },
       "affiliation": {
         "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
       "topics": [
         "Power BI"
@@ -127,10 +119,10 @@
       "heat": 92,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Adam Saxton",
+          "title": "Avi Singh",
           "isCached": true
         }
       ],
@@ -150,7 +142,7 @@
       "twitter": {
         "username": "patrickdba",
         "url": "https://twitter.com/patrickdba",
-        "followers": 7406
+        "followers": 7407
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/patrickdleblanc/"
@@ -184,39 +176,47 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/avi-singh.md",
-      "title": "Avi Singh",
-      "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/avi-singh/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/avi-singh/",
+      "path": "_people/adam-saxton.md",
+      "title": "Adam Saxton",
+      "excerpt": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/adam-saxton/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/adam-saxton/",
       "type": "profile",
-      "name": "Avi Singh",
-      "bio": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
-      "location": "Seattle, WA",
-      "website": "https://www.learnpowerbi.com/",
+      "name": "Adam Saxton",
+      "bio": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
+      "location": "Conroe, TX",
+      "website": "https://t.co/sfMHqOSfBC",
       "twitter": {
-        "username": "powerbipro",
-        "url": "https://twitter.com/powerbipro",
-        "followers": 5362
+        "username": "awsaxton",
+        "url": "https://twitter.com/awsaxton",
+        "followers": 7404
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/avichalsingh/"
+        "url": "https://www.linkedin.com/in/guyinacube/"
       },
       "affiliation": {
         "path": "",
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
       "topics": [
         "Power BI"
       ],
-      "heat": 71,
+      "heat": 82,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Avi Singh",
+          "title": "Adam Saxton",
           "isCached": true
         }
       ],
@@ -236,7 +236,7 @@
       "twitter": {
         "username": "Mike_R_Carlo",
         "url": "https://twitter.com/Mike_R_Carlo",
-        "followers": 2534
+        "followers": 2535
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/michaelcarlo/"
@@ -273,7 +273,7 @@
       "twitter": {
         "username": "Seth_C_Bauer",
         "url": "https://twitter.com/Seth_C_Bauer",
-        "followers": 2064
+        "followers": 2065
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/seth-bauer/"
@@ -286,7 +286,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 50,
+      "heat": 42,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
