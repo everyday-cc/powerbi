@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-goals-is-now-met
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-goals-is-now-metrics-and-is-moving-to-ga/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

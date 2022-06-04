@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-datamart-in-power-bi/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
