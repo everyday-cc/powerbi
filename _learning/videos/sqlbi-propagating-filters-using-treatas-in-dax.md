@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT19M18S
 publishedDateTime: 2021-02-09T11:00:22Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6WU7Ze32Q3w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "yRuZsS6y0HmMnvK57qdhCgUdsNntxq5EMy2ImLpq2nsG46B3h3jk5GBFFiQZN2w163vGb5wBu0TuufRaOHwhAt1Ufpi16/iocb/rcb+NWv4ouTLfTYBd3V5dG5v+S01egS496y8sG2jZcWn71NBR+sl37LopeoDYPXTe0sLS1INi20a5cOi9a2PjCkxQ1GS2s7nBhpOHVr3NIhh2H50++QiO70KkWY+z5cfbynp1Cxca5GhfKE1UYDRcZ7x8QWqUVWLRscLn6XFEBKBvXOfuvN5CYPQv0kkpOIDxPLdIhdhpw/KRKwA+4xu1Y3s6wsMXEMg2c4uuuxowlnuZw54WoLYoWvbeOQYEjZtGjvCbL8mhR1YyXdO/0cV0GBQ5PImdTjM50fs4Ww/uixAaVUpBQf+/lGT4iavf4dqZUfYwSMg=;GyX8l/dd9Q9SHTAwQa93rA=="
+secured: "PORnOgj/3X1343R24781MmSWHxReSog9GDMazfYH/8Oiy72d8qO5VE82cgs6jaw7256ZuYV3m3UUGUpL3J4Vgj11qULQiq312GvMWVMj0jnq1AF9hMT6HQUBe1KdSRz1lKapOCBr37KetOE+SxiwauMlvqh+y3MwuORNzYIWD3g1dP/gaKbUnP3BxIDGcf3I0/oiAz7FrlxO21Ah6P7CL/GOi9JYnck0g/TVvU4n6Z8kf6Zz0Zv/QckM3tbmz7vaOOqbEVAGIPhDyZPkgRYG4On1qjk3l/39dG7dV0+pLwiNRhscvCXHzvosWsm1eOxR5Gia09hsaG/jig53Sa6rE8e48VDYTEt0UM9gVgNX9RWNH4c88QrZ5OtivQp8fEPsSJj6xq3kBKUvODdVxSa+BY+vGVzW9apzAlRzLNlj1pA=;7KDP7M/ao0gLPo3Pn/H2Xw=="
 ---
 
