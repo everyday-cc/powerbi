@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT15M41S
 publishedDateTime: 2018-05-22T01:51:55Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9SV2VnYbgg4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Z2vd2iMvOEQU+k569TB8gfcBg8AYb+QoyshRNmaSM7AfV+RsfhnjSVE0IQn3vodEIMl9cAKRC2CczTm1qrnbcdsVayujquzLGTxwVUeWJU3MBT2u602fZrF2NdbBNnLJek9q4aOAGJjgLmYu0bELSG6EvX/aUkP22dQGd8TTlylpBEYcNoGtuB5I6sGatK+m/n3UbzNmy10cUw+3yzYJ2bYsqbEai54ja4BczDJqzN1stn3iRLsdI3e9kkoXGSHgQ9LqTTekbL9U3QyW6Qc0+ChnXkCGv1xPLLKHgvISxfw7ZIvtB5dHuGFiQtqVbjjjed0t8MAMod5sxpnFp3ByPaG71nBvdruP1HWuGLiEganzEnW5PbKHj5ADMrplAFjvYWX+/xaVe7ZV46mD4d68J4G53SZho9kiT2lbzov0m7M=;xyeyHdSuXf5wmTTMrXWL+g=="
+secured: "nzVtv/MJvGjVS0qiRCX9DMLp3mjgB9HUPS+Dk+XEs7wPZcOmiSrFquJw9JGwhyM3kIn7yhrISic4/yXxaP2pw6b0DXhiLpx5bFWFTwJNw10sMhqTPPQi9xL6p/xktTfJY0NI9KVywHyxUOvVRyhSj+SHnfzIzemMw1IsShhsR4zxQVzMUFUJwcSVUEglH/OJiMP60mGj+R7pJNk2RmYxgLeFAZo5NKGckrtpRgryOAqG43FgTtfufseQ7Ii2euc2HYk08eGpJR4qJV6d2dZTby7ryChFplfusnv+RS7e3e44+gUsLeUSg5eqr1+WkHndZfMUWWPmKe+ERXAMPdEXy9EQK3IP/1y1Ogi0e6TSuXvc96Q4hMhGLBVED/edSKLODEzAqwPA5esNnUqrYJ6cVgZVwmPKeXjTxhpFO/a61kk=;2JMLVgjhl+mZd775C+HwuA=="
 ---
 
