@@ -199,8 +199,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 1038,
-        "average": 4.8535647
+        "count": 1039,
+        "average": 4.852743
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -241,8 +241,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 8541,
-        "average": 4.747219
+        "count": 8542,
+        "average": 4.747132
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -656,8 +656,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 5675,
-            "average": 4.711894
+            "count": 5676,
+            "average": 4.711945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -699,8 +699,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7012,
-            "average": 4.7648315
+            "count": 7013,
+            "average": 4.7648654
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -952,8 +952,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 7012,
-        "average": 4.7648315
+        "count": 7013,
+        "average": 4.7648654
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -994,8 +994,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 9004,
-        "average": 4.770102
+        "count": 9005,
+        "average": 4.7700167
       },
       "provider": {
         "name": "Microsoft Learn",
