@@ -857,8 +857,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-reach/",
           "length": "PT19M",
           "ratings": {
-            "count": 56,
-            "average": 4.75
+            "count": 57,
+            "average": 4.754386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1066,8 +1066,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-reach/",
           "length": "PT19M",
           "ratings": {
-            "count": 56,
-            "average": 4.75
+            "count": 57,
+            "average": 4.754386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2298,7 +2298,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3517,8 +3517,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3087,
-            "average": 4.769679
+            "count": 3088,
+            "average": 4.769754
           },
           "provider": {
             "name": "Microsoft Learn",
