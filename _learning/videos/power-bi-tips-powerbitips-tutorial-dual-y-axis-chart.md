@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M3S
 publishedDateTime: 2019-10-23T20:40:30Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KmZRjGQ9pdQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "d6lz/Yqwu1TC2RT5IWv/rEWW2twAerhyE7j1+Pk6X6SY3a09VeIl79c84TgEAt8Pjnq/2gBaY5Cu3Phjrt/o7b6PNreMcDItZ9TUevuZyRg0E2HQkDO473cpayrvHknQxPvaX9fH6LUGG0KNYq1XuY0KOTmKriI2pq84urTF7Y76XBpZZcEGG3Ztl5EGlebwW7GLJVfC1oEhXk8nrahNXztssLGOx/HKGhsKfHbGyEgwrB0epOir9GH69ieFOy1taiABbbtp1zyyaDH3N1O6bUPIU0RKkMOGzsb5Qtefbnbf9SMzGCC+JJLoe2m0MLCvbZDKNmpNm/GkIfUqRdS9RaiTBJs0q6qV8BUZovlqciOY1rXoqmHMFfpQmg5eqKlJcUp6uLUHBMEReU6WTixRLQUkrUr7Wkd+ycBx9aku6AI=;8ExKDyZCm9lCLlHHhi0tNQ=="
+secured: "RPGMarVg+Jr+TtrLK7nAfvpIaREgWHuPuYvxCx0DE8tChahdKRL4oz1gr/1kG1UTl+vGP9JOHgEyfH/3bA3a6/VTabCn1zEeccnvYm4aZz0/WvFDKr3/vcnKBLbHNExjkFAoVsahytvGNcKH8lkfM7bG2HLLgd9hPxaK8n4FP0hr8XiwAAcF930OO7PBNt/huQf6LjXWDkCD+kGIgD6yHvkm6pI+d4ufGs02Hc2qwhqTMPzq0ruvnuDiEzdDbo/1SYAbXv2OvfBw5PsUPl+WihleNS/q4m1yRVG5erh3VMWu6GowI06X/ol8PkETbVbaNd482E5fff4j+CWs/lCIZCcNk6Y1T1k8v0pzwvPi+mn+TcFxZDPb1WhwtQSScseWCv3CRHkSOswaPqMnRaXC+tXXOWYPA4bZXpy4gSzCTwM=;kYGfT9l2bOYC8EFifL7xgA=="
 ---
 
