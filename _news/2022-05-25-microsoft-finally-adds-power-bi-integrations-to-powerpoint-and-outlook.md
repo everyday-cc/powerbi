@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/data-insights/business-intelligence-bi/367
 webUrl: "https://www.itpro.co.uk/data-insights/business-intelligence-bi/367780/microsoft-adds-power-bi-to-outlook-powerpoint"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:
