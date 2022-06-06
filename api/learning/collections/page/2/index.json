@@ -3103,8 +3103,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 6925,
-            "average": 4.7533574
+            "count": 6926,
+            "average": 4.753393
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3145,8 +3145,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 5696,
-            "average": 4.71243
+            "count": 5697,
+            "average": 4.71248
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3188,8 +3188,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7025,
-            "average": 4.7646976
+            "count": 7026,
+            "average": 4.764731
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3750,8 +3750,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9789,
-            "average": 4.704975
+            "count": 9790,
+            "average": 4.705005
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4167,8 +4167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 36,
-            "average": 4.888889
+            "count": 37,
+            "average": 4.891892
           },
           "provider": {
             "name": "Microsoft Learn",
