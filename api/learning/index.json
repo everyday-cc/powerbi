@@ -217,28 +217,28 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-the-wrong-answers-to-30-common-power-bi-interview-questions-2022.md",
-      "title": "The wrong answers to 30 common Power BI interview questions 2022",
-      "excerpt": "There are multiple websites that offer Power BI interview questions and answers and after reviewing them, I have collected 30 common Power BI interview questions that have wrong answers and together we will figure out what the right answer is.\r \r Join me and lets clarify those topics once and for all!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-the-wrong-answers-to-30-common-power-bi-interview-questions-2022/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-the-wrong-answers-to-30-common-power-bi-interview-questions-2022/",
-      "originalUrl": "https://youtube.com/watch?v=sVDd9fLyImM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sVDd9fLyImM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H29M50S",
+      "path": "_learning/videos/guy-in-a-cube-demystifying-custom-partitions-in-power-bi.md",
+      "title": "Demystifying Custom Partitions in Power BI",
+      "excerpt": "We talk about Incremental Refresh a lot, but what if you need custom partitions in Power BI? How do you even create those? They look scary! Patrick takes the mystery away and walks you through how you can create them.  Partitions in tabular models https://docs.microsoft.com/analysis-services/tabular-models/partitions-ssas-tabular",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-demystifying-custom-partitions-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-demystifying-custom-partitions-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=6CRqdsLjHNA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6CRqdsLjHNA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M21S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-03-30T05:58:54-07:00",
-      "heat": 131,
+      "publishedDateTime": "2022-04-21T08:00:06-07:00",
+      "heat": 132,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -255,14 +255,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-composite-models-in-power-bi-and-storage-modes-what-to-pick.md",
-      "title": "Composite models in Power BI and Storage modes - what to pick???",
-      "excerpt": "When using composite models in Power BI, you have a choice for how to store your tables. Storage mode gives you options, but why would I pick one versus the other for my dimension tables? Adam has you covered!  Use composite models in Power BI Desktop https://docs.microsoft.com/power-bi/transform-model/desktop-composite-models",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-composite-models-in-power-bi-and-storage-modes-what-to-pick/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-composite-models-in-power-bi-and-storage-modes-what-to-pick/",
-      "originalUrl": "https://youtube.com/watch?v=-jvnjx-264c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-jvnjx-264c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M36S",
+      "path": "_learning/videos/guy-in-a-cube-so-we-just-wait.md",
+      "title": "So, we just wait???",
+      "excerpt": "What's up with the wait time in Power BI Dataflows? Do we just live with it? What's going on and what can we do about? Adam, has you covered!  Understanding and optimizing dataflows refresh https://docs.microsoft.com/power-bi/transform-model/dataflows/dataflows-understand-optimize-refresh  📢 Become",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-so-we-just-wait/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-so-we-just-wait/",
+      "originalUrl": "https://youtube.com/watch?v=t6_uRHLWiMQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t6_uRHLWiMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M31S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -275,8 +275,8 @@
           }
         ]
       },
-      "publishedDateTime": "2022-04-06T08:00:01-07:00",
-      "heat": 131,
+      "publishedDateTime": "2022-03-16T08:00:24-07:00",
+      "heat": 130,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -1137,8 +1137,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 39408,
-            "average": 4.799254
+            "count": 39410,
+            "average": 4.799264
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1179,8 +1179,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 60269,
-            "average": 4.7776303
+            "count": 60275,
+            "average": 4.777636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1239,8 +1239,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 39408,
-        "average": 4.799254
+        "count": 39410,
+        "average": 4.799264
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1304,8 +1304,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 60269,
-            "average": 4.7776303
+            "count": 60275,
+            "average": 4.777636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1346,8 +1346,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 27014,
-            "average": 4.7247353
+            "count": 27017,
+            "average": 4.724766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1389,8 +1389,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 12216,
-            "average": 4.7257695
+            "count": 12218,
+            "average": 4.7258143
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1431,8 +1431,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 9029,
-            "average": 4.7702956
+            "count": 9030,
+            "average": 4.7703214
           },
           "provider": {
             "name": "Microsoft Learn",
