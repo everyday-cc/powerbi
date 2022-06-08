@@ -713,8 +713,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-ml-model-with-azure-stream-analytics/",
       "length": "PT1H20M",
       "ratings": {
-        "count": 364,
-        "average": 4.6923075
+        "count": 365,
+        "average": 4.6931505
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1134,8 +1134,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 894,
-        "average": 4.7080536
+        "count": 895,
+        "average": 4.7083797
       },
       "provider": {
         "name": "Microsoft Learn",
