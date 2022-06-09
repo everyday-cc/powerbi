@@ -41,8 +41,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2746,
-        "average": 4.717043
+        "count": 2747,
+        "average": 4.717146
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -83,8 +83,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
       "length": "PT41M",
       "ratings": {
-        "count": 416,
-        "average": 4.766827
+        "count": 417,
+        "average": 4.767386
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -900,44 +900,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-try-limiting-rows-when-creating-reporting-for-big-data-in-power-bi.md",
-      "title": "Try limiting rows when creating reporting for big data in Power BI",
-      "excerpt": "Working with more data than you can use in Power BI Desktop on your machine? Patrick has a trick for you to work with the subset of data locally and all the data in the service without using Premium!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-try-limiting-rows-when-creating-reporting-for-big-data-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-try-limiting-rows-when-creating-reporting-for-big-data-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=_zYvybVMk7k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_zYvybVMk7k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M1S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-03-30T05:07:55-07:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-understanding-the-basics-of-power-bi-premium.md",
       "title": "Understanding the basics of Power BI Premium",
       "excerpt": "What is Power BI Premium? Let's look at how you can use it within Power BI. From benefits to how to acquire, this should get you up to speed.  Ideas Item Paginated reports in Pro https://ideas.powerbi.com/forums/265200-power-bi-ideas/suggestions/35959420-paginated-reports-please-make-it-available-in-pr",
@@ -1102,6 +1064,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-conditional-column-in-power-bi-using-power-query-you-can-do-anything.md",
+      "title": "Conditional Column in Power BI using Power Query   You can do anything",
+      "excerpt": "There are many scenarios that you might want to implement a conditional expression. When the conditional expression's logic is on a row-by-row basis, the best is doing it in Power Query rather than DAX (there are exceptions always), The Add Conditional Column in Power Query is a very helpful option,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-conditional-column-in-power-bi-using-power-query-you-can-do-anything/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-conditional-column-in-power-bi-using-power-query-you-can-do-anything/",
+      "originalUrl": "https://youtube.com/watch?v=xNRtOZae71Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xNRtOZae71Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M4S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-10-27T20:41:38-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xNRtOZae71Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     }
   ],
