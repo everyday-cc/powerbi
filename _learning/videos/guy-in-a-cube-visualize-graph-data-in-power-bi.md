@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT6M43S
 publishedDateTime: 2020-10-08T15:00:14Z
-heat: 54
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z14DV4_Liw4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YusJH2/HV6bDP0jqiNWy3ei3W8Jnq5RWqg6QwD11h/7/pY/XApGO/9C5uXqi6K8ZaN6oxx5JFqkzqfQWWDd2suM7zu5T+m7iY7lWp6AxC1Z+VHztiKxRqOfG8zS4mFyTxg36+aJsVtdTPWT1BXwoqyhEmE9LWFbmYVL6xKIbPhw3cx3bOjYnHmgQUlGgaDU37FjV4XYan/s8dFOtOfsyU0Q5T1AvSC/2B/9WUGejMT6BL60vJtBO76NLfvdpAofSy21s7ldYAPIC4Wy25nDKoid4h1Sp2BmrWWYnKiQxxiTLUXFsdYiYbbIp/GvPqNMVpNOQOZvjHC3O/1bZNlFU02YrTY7Kah+z3gEP+EJNso4OatLA04XAbBy+lL7qaAPs9bh5eLZpmbsd5b8CvUngF481mGRFebxjkVyVvmndRdg=;oTfPcnwTlpZjYU40NNKodQ=="
+secured: "LNccDh1qxc6j/P8mgQdBg2m5GTYckFb3FWB9u1TYh73IEXW67SusYf9x1IlDJK19Glee+BniHscyo3nYyN6J9FkXS90jzrOnoEgTdbzRBhThYb4K5FObhmz1ep0ojgAl9mPCbuFXWyGUgAqvu2Z29ikOcJrDzDv9cu5N0Km4h69h/ZQzmTMAL6XreY3JQFdlUrGwYsIz0vSYmviOTYgjggjMeeuniQ5919Apxhn/jnTZtBx7Vb0rie2Gkt+goQiNrc9b//xswzuYXJli7v5XZDjUnK4K0vrrrjqCnDdLpKUorYgVcFtayK4FD0NozyvHOH3CIa/CVjy2urBp0ofcjoOBXO9xdIurZAbI2VQG25oGS4pVK0OlSB9lMf1qJUsF6UN0jPrW20B9Qog7Z6RVyetXux+eWbaWxdhAqlCc5TQ=;zQuxFsRps7xU8BZ3DGAlMQ=="
 ---
 
