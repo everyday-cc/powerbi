@@ -1236,8 +1236,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 160,
-            "average": 4.61875
+            "count": 161,
+            "average": 4.621118
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1905,8 +1905,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4175,
-            "average": 4.724072
+            "count": 4176,
+            "average": 4.724138
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2826,8 +2826,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3117,
-            "average": 4.770292
+            "count": 3118,
+            "average": 4.7703657
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2868,8 +2868,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2744,
-            "average": 4.717201
+            "count": 2745,
+            "average": 4.71694
           },
           "provider": {
             "name": "Microsoft Learn",
