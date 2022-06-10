@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 06: Designing Report Layouts - Part 3"
 
-secured: "0oe5T0UBsB7e6xM5I8nkpfkgovlHila2kUphwbs1iwYvjkHyH9aapg5klj1ZMwxLI0e+NTD25LJkqEBpln+RFKohK1uJgkZ+FUCHQj4qqqQk+mp8/Z/UUtOQVm3ENVjQGs1LYRc+yapmHXJaCgNDdKk4vZSQKPLY+kaX12JGk522QUZYnXYgFdkGs9Dn2Ub/FPY40yYmHsYhlfziox5zkpjlKLZZcb/1GHz9lvq3hu10r3Iw+ijweCQ4LQ5dBBMb2RmKMdXH7G+twyHV+9VinKM9mUds6Trs/IJO/3Bw30PykFppaKsxsHKmOvYPPp7iANRgOCvyph7n+MayddP5RIUYE9/U1L1o7wONQx/nj5G5Z13y9C1J21RR4sBdYmXUvCIU79/h9Bshls9n2dhQLzITnlzuR+uweTcYVpA2VHo=;JtZH6als5A/vGBXcDp1tGQ=="
+secured: "gnOXOKMLqJq6vfzqP2D+sJt4HulmpAcCypzBmRdzQRNGaL4IEg5nfi5oOIms6U732kSLM84w13jAsH2g/dz9Gar/GN4Ic1VMqk2hTVzIKlhxQSwTxrnAKfqI20NIXGIt77YBODEV2Y51MzFTuXxij+3re3Uqc496BRndQvlY0a6ISpW90GQaZsu7O0CEhxaoe0tCNdPmB3W6sG/E4w6GzfMj3fF/Sv9drDJLp2KMH6D31GBNNe7z+tpgOVu6QGWnzW4BfAUvRXUeriAz4YEOfY9haIerFXghb2fPd1ODEJ+17hnpM/CF0h9SzbdPsz7eIU4R4lW6PocScd2ZYbD03z3q0AY0/285iMARCdT+4evkBiXgmuVnlgaHcBRj3Z8Ver/TvgPvXP7ujPqAzRPG0k5cR8uijRldvzvPW4gvE6I=;XlyIhpcdwzXGF0iew6NFwQ=="
 ---
 
