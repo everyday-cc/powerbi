@@ -14,7 +14,7 @@ website: https://t.co/mnW39vaMYS
 twitter:
   username: Rad_Reza
   url: https://twitter.com/Rad_Reza
-  followers: 8776
+  followers: 8777
 
 linkedin:
   url: https://www.linkedin.com/in/rezarad/
