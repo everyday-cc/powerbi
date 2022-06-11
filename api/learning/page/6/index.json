@@ -1179,7 +1179,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 134,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png",
@@ -1846,8 +1846,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 8618,
-        "average": 4.749014
+        "count": 8619,
+        "average": 4.748811
       },
       "provider": {
         "name": "Microsoft Learn",
