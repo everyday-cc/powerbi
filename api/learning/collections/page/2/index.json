@@ -1701,8 +1701,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 391,
-            "average": 4.815857
+            "count": 392,
+            "average": 4.8163266
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1743,8 +1743,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 297,
-            "average": 4.851852
+            "count": 298,
+            "average": 4.852349
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1911,8 +1911,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 391,
-            "average": 4.815857
+            "count": 392,
+            "average": 4.8163266
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1953,8 +1953,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 297,
-            "average": 4.851852
+            "count": 298,
+            "average": 4.852349
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3621,8 +3621,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2754,
-            "average": 4.717139
+            "count": 2755,
+            "average": 4.7172413
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3681,7 +3681,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 57,
+          "heat": 137,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/row-level-security-power-bi-social.png",
