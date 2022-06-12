@@ -1938,7 +1938,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-intro-social.png",
@@ -2798,8 +2798,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 296,
-            "average": 4.8547297
+            "count": 297,
+            "average": 4.851852
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3008,8 +3008,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 296,
-            "average": 4.8547297
+            "count": 297,
+            "average": 4.851852
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4486,8 +4486,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 4325,
-        "average": 4.6862426
+        "count": 4326,
+        "average": 4.6863155
       },
       "provider": {
         "name": "Microsoft Learn",
