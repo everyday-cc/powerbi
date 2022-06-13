@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/reminder-of-features-bein
 webUrl: "https://powerbi.microsoft.com/en-us/blog/reminder-of-features-being-removed-with-the-next-release-of-sql-server/"
 type: article
 quality: 72
-heat: 73
+heat: 74
 published: true
 
 provider:
