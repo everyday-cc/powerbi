@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/streaming-dataflows-in-po
 webUrl: "https://powerbi.microsoft.com/en-us/blog/streaming-dataflows-in-power-bi-premium-now-available-in-public-preview/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:
