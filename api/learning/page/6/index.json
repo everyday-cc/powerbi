@@ -4,44 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-how-to-get-a-date-table-easily-in-power-bi.md",
-      "title": "How to get a DATE TABLE easily in Power BI",
-      "excerpt": "Do you use a central date table for your Power BI datasets? There is a LOT of POWER in having one. Adam shows you different ways to create one including a really simple easy option that's BANANAS!  REDUCE Power BI dataset size by 60% with ONE CHECKBOX??? https://www.youtube.com/watch?v=RnDdDlozcdo  Bravo",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-to-get-a-date-table-easily-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-to-get-a-date-table-easily-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=WybnTHDl-AM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WybnTHDl-AM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M48S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-04-14T08:00:30-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-make-your-power-bi-report-pop-with-a-custom-background.md",
       "title": "Make your Power BI report POP with a custom background",
       "excerpt": "Is your report plain or bland? Patrick shows you how you can easily make your Power BI report pop with a custom background. It's as easy as just getting PowerPoint and drawing some shapes.  Demo files: https://guyinacu.be/demofiles  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube --",
@@ -783,8 +745,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 6995,
-            "average": 4.7525377
+            "count": 6996,
+            "average": 4.752573
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -825,8 +787,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 5751,
-            "average": 4.7115283
+            "count": 5753,
+            "average": 4.711629
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -928,8 +890,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 5751,
-        "average": 4.7115283
+        "count": 5753,
+        "average": 4.711629
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -971,8 +933,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 176,
-        "average": 4.7670455
+        "count": 177,
+        "average": 4.7683616
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1013,8 +975,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 6995,
-        "average": 4.7525377
+        "count": 6996,
+        "average": 4.752573
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1242,6 +1204,44 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-avoid-the-full-refresh-with-incremental-refresh-in-power-bi-premium.md",
+      "title": "Avoid the full refresh with Incremental Refresh in Power BI (Premium)",
+      "excerpt": "Is the full refresh of Incremental Refresh taking a long time? Or, even timing out? Patrick shows you how you can avoid the full refresh and refresh each partition individually when using Power BI Premium!  Handling deletes within Incremental Refresh in Power BI: https://www.youtube.com/watch?v=nKVrl0ec6uE",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-avoid-the-full-refresh-with-incremental-refresh-in-power-bi-premium/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-avoid-the-full-refresh-with-incremental-refresh-in-power-bi-premium/",
+      "originalUrl": "https://youtube.com/watch?v=5AWt6ijJG94",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5AWt6ijJG94\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M42S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-27T08:00:05-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5AWt6ijJG94/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

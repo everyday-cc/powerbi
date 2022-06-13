@@ -4,37 +4,6 @@
   "page": 87,
   "value": [
     {
-      "path": "_learning/videos/radacad-power-bi-dax-back-to-basics-scalar-vs-tabular-functions.md",
-      "title": "Power BI DAX Back to Basics   Scalar Vs Tabular Functions",
-      "excerpt": "DAX is the analytical language in Power BI. Learning this language, however, comes with some difficulties. Part of that challenge is the way that functions work in DAX. Learning the output of functions is an important element of learning how and where you can use them. In this video, I'll explain two",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-dax-back-to-basics-scalar-vs-tabular-functions/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-dax-back-to-basics-scalar-vs-tabular-functions/",
-      "originalUrl": "https://youtube.com/watch?v=MI7WIwBFhU0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MI7WIwBFhU0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M26S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-04-15T17:29:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MI7WIwBFhU0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-power-bi-dax-relatedtable-function-get-the-subtable-related-to-the-current-row.md",
       "title": "Power BI DAX RelatedTable Function   Get the subtable related to the current row",
       "excerpt": "There are multiple functions that can help when you work with tables that are connected through relationships. One of these functions is Relatedtable. This function gives you the subtable from the other table for all the rows related to the current row. For example, all sales transactions (from the Sales",
@@ -63,6 +32,66 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-design-pattern-for-top-n-values-for-each-group-static.md",
+      "title": "Power BI design Pattern for Top N values for each group Static.",
+      "excerpt": "Power BI design Pattern for Top N values for each group is a static approach for calculating the top n values of a group. for a dynamic approach, you can use DAX (I will explain in the next video)",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-design-pattern-for-top-n-values-for-each-group-static/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-design-pattern-for-top-n-values-for-each-group-static/",
+      "originalUrl": "https://youtube.com/watch?v=MF6JJDjxJkY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MF6JJDjxJkY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M51S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-03-28T18:03:16-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-design-tip-design-for-mobile-device.md",
+      "title": "Power BI Design Tip   Design for Mobile Device",
+      "excerpt": "Power BI is a mobile-friendly reporting solution. Every report that you generate can be viewed on the Mobile too. However, it doesn’t mean that the report is designed for mobile, or in other words; it doesn’t mean that is it a mobile report page. You have to make some changes, and take some extra considerations",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-design-tip-design-for-mobile-device/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-design-tip-design-for-mobile-device/",
+      "originalUrl": "https://youtube.com/watch?v=Igkqp-UQzJo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Igkqp-UQzJo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M11S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-04-10T15:28:13-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -885,36 +914,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-relative-date-slicer-for-your-local-time-zone-in-power-bi.md",
-      "title": "Relative Date Slicer for Your Local Time Zone in Power BI",
-      "excerpt": "If you have used the relative date slicer and you are not living at a timezone close to UTC, then you have seen that the Power BI Date slicer is not much of a use, because you have to still adjust it with your local time zone. I have previously written a couple of articles related to this issue and ways",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-relative-date-slicer-for-your-local-time-zone-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-relative-date-slicer-for-your-local-time-zone-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=lcNIRAh2pg8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lcNIRAh2pg8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M42S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-05-10T23:46:20-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lcNIRAh2pg8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],
