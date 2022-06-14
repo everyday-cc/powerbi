@@ -1841,7 +1841,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2241,8 +2241,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 2540,
-            "average": 4.7547245
+            "count": 2541,
+            "average": 4.754821
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2302,7 +2302,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
@@ -2738,8 +2738,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 1138,
-        "average": 4.8532515
+        "count": 1140,
+        "average": 4.853509
       },
       "provider": {
         "name": "Microsoft Learn",

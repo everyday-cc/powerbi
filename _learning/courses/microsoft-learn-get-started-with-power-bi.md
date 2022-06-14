@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT47M
 ratings:
-  count: 60852
-  average: 4.7770987
-heat: 98
+  count: 60856
+  average: 4.7770967
+heat: 97
 
 provider:
   name: Microsoft Learn
