@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M20S
 publishedDateTime: 2019-07-17T21:46:42Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nAePfbGOEQE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "aTNY+A3cT4Stc7cl0sqFMmP2MWjlZGlFFe84BRBuEYxtUTixzwfcA0Uc4q7e3LWbfWfnnsEyp7VdUfH0xijHCL5Sk2GMbXUnMYmHT5djpl+N0kVePfYkqp6kxuhkdacHlPHvE2idFZ6JqSTa9uDaoInkmL+a9u/Oq8Q+k73w8jyIp1p2y5ju+KBF3VKL3GwXoVPtZkau9L7Wf2gmmC0osvzxnZNTufn4PNwh+soXSFEOSbIRJW9lecf4VIPjOfmE+jPIKU154SjObZ6psYgQwehg5jAaH7iwf6K5L6JVsLoZMzgGlQlodwdm1K0ddelKEks7jtHA0Z86jEcoVkS+ojmYUEDxukRC2iK6MQEMOq0RC8zjkCfiVq3Not9ThNtD07EyEgyFEjUtnMCcLmamxYnmJyAGOJ0Ivj7Pf1R9ngM=;qNdNvoT1Ll7sKNLSQZBofw=="
+secured: "TsexS/kImohahZgCivzDg3clWRt6oUKMelBBYGwafx01ZguruPV6GHSCUWynj2QONFizDOLCq1vsh583QvYhQRZs3ZZab+IawqiLTFGhTjtqyGNsfFzeuq+yX0PLowNllS3RTZCGbSWggsKk8zqFAavFQmwdJ5Mdr9PkDo/vW50kVEJGiuQ+sGIHLqtjhYcSso/uDSZXQGAF1eSzgOlbyCBaaleZQUf9in48OmODgmX3kwce+xFb+c97EaLUGXaJj/IvlBV7q2IGc+jSlmVrhyOxLzdG1hLpmItG0THvOahHxLYh29zX/JIYV96KC6iP+Hp/FIQ3QFMYevkbBpE7cCABZDNXqOIf59+DNzgClTMUJg8cc062Au8G05PFGqCHv+KpIWcaTGhO8qjLZ7LPZP+Y0BzdosnKXAqOWMPgcOg=;r4oe2UM2NVSTz0x2PxJ5YA=="
 ---
 
