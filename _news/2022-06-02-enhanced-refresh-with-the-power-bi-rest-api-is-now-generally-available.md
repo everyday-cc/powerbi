@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/enhanced-refresh-with-the
 webUrl: "https://powerbi.microsoft.com/en-us/blog/enhanced-refresh-with-the-power-bi-rest-api-is-now-generally-available/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

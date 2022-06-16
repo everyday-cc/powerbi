@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/composite-models-on-sql-s
 webUrl: "https://powerbi.microsoft.com/en-us/blog/composite-models-on-sql-server-analysis-services/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
