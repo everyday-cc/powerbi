@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M9S
 publishedDateTime: 2018-12-12T10:45:37Z
-heat: 68
+heat: 66
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/twBUmqVOGgg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "PmI5CPr6IFJO/5uqD2I3w/1dGZgqA+sFsjVCopgHsZ6/UQhrdnpqSMvrwtsUszXzfBw2+oX/2c20U+f5k+PRWHKjN8vEetLdm68y3fj2bPQQyNeVjLK/43BIbm2kr0Da7zg4dTqQyMZBVOB7VuALQCYSTIa4lDuuTRyOqgIKDuHoNM60fAgsoeQ0PNzL092frFSVzXXKYhnmA5uOzQFjZK0bbOosV7jVarKQoJV7CRra9w745d9p86yVNqd1CcOcl4g2gYGvYejluu+qfEjfDMGcrwr/gLjzjCKUL4pSTIpUSuToH3bQGtAE8nRKp7dO1IGinkOK1KUmX8MFmdRdyTiGacF2RnC1UwG44woizqVhJWSGiq25FgwxZJyna7mf0KCN16FZvJUfkSeVXrOZsx8VOdfqtuqQlhy0cb261P8=;/EcvAQmR6pdtwNZgrKcM0Q=="
+secured: "WArzik28PTZvYerwToJ4kkoyz03urxWqAZsp1iSIlAZW8DWp6xbsV9xlGxLgIWJmxNSUhqihiEwU9IsPrr4VGtklwGSHe5W9OVigF35QoN9Y6OM9BXj2z7EgRKFwQe91qs6Z6nxcjNCrdFTpqOb7C5G8Dkoi2TMTULvwyWoDvkQUopZUzDoOQ6W9dzCt0nO4CUruy8ZrvK5rErUx56Sl2/ZFltTA6MI/4waS3GT8so1tiY8aqtSvQ70hevPIk8zY7Gy1dS7q7CPG75oLjtq0ZWx85muDF4FES8ULdVBiqH4utEX/J2Vrdr3zTVWgvQeF/T9fGfKWzIG/1zPBGuUc+cYp0twkYeXLoApe6c6nq+STQx60tPRICBnk8b28shtUZMLs7uSss69p9vZx4VuVZBKo5IVYjTUEEG1aQj6C6KBeYTarxILfxQ/ktnXy7Jx7;GGlGPqf1ZtKoPB22ZpECvA=="
 ---
 
