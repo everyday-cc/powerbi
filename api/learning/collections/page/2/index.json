@@ -1725,8 +1725,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 163,
-            "average": 4.6257668
+            "count": 164,
+            "average": 4.628049
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1767,8 +1767,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 152,
-            "average": 4.6973686
+            "count": 153,
+            "average": 4.6993465
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1809,8 +1809,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 98,
-            "average": 4.765306
+            "count": 99,
+            "average": 4.767677
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1851,8 +1851,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 87,
-            "average": 4.781609
+            "count": 88,
+            "average": 4.784091
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3918,8 +3918,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 851,
-            "average": 4.733255
+            "count": 852,
+            "average": 4.733568
           },
           "provider": {
             "name": "Microsoft Learn",
