@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-intro/",
       "length": "PT34M",
       "ratings": {
-        "count": 25,
-        "average": 4.92
+        "count": 26,
+        "average": 4.923077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-select/",
       "length": "PT29M",
       "ratings": {
-        "count": 15,
-        "average": 4.9333334
+        "count": 16,
+        "average": 4.6875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -155,7 +155,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 130,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-content-social.png",
