@@ -1269,8 +1269,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
       "length": "PT41M",
       "ratings": {
-        "count": 499,
-        "average": 4.773547
+        "count": 500,
+        "average": 4.774
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1311,8 +1311,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 4084,
-        "average": 4.804603
+        "count": 4086,
+        "average": 4.804699
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1353,8 +1353,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 4820,
-        "average": 4.6748962
+        "count": 4822,
+        "average": 4.675031
       },
       "provider": {
         "name": "Microsoft Learn",
