@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT9M35S
 publishedDateTime: 2021-02-03T16:00:08Z
-heat: 74
+heat: 75
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NA2wlqfjX34\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "4wuhJOpD8FPdz378VnkONjhJk0Jg0hPT7WSyinO96B4CZeX4zUjqpLCAcisn311TZVjbIxWXKhjv9m+zK/hssDQxMsXI6KeCH6wckBIu4CgvpmSdy/nKKlp0XbMoLKxfoP2QhgvEXptHTORY8ZyORGRuWlKODoYhfEcS0hpx8B4hNqw6UrGx6M9jk3Vq+uGSXk45eq8mplIHB0+vd+lCo3+qEWcN/zPf+o2qQ9YYq9y4ePq/2vJzvibGH5XvRpxBcBZFGpqVyvUQ9jM3zj4aTcqEr9vV8B+6LSNnUI48zlmkKOypiKJ68bdpjXTA4DKF/Zh4V1lfdx7rEQvvibhzAZo3DZhTHK0N7eZFV6xTp6oAWYstY5T8ekxOZR1JdZ/ekrc10osC/rfagbD0RwBQjcaFS4nWkHPHo+preSXrC8c=;CAIKhcJiR05wV0wO7vPbeg=="
+secured: "bipqvPN/lxy1IQdty+FQoBkGEhgQnMxBKwf/ZYZDUMbhmqKAEiTeipZ/AOC8ZmgjqoIYAqdMlHbFRKmGnoAhybGyMk21zgKw5qbVYF64oXpZxnAQOg+62ElGKiw6vY8z00GdITfZr/xzdgghtKWtc3ABrvNFKx8VokEB+YyISPZ/i+SCN8esxg02aJCO0ambbI/6DT6U9BdBkUXTbK6YnE3TMnmmSr1jztB9TkaEhHwGDG9GBCqAZmkmwSCvKQ6W3paNHynN03wmc426Lt8ri+GmslR1wGpygNXp9633b+6/STSBVAUTKwch7tKUHcLcO6NQ9dTpJ4eiJeKmpgBnR+vmSqynW7cPWASFMZUWLtNDlaILAjSRElkPwEb31oApcbAsa2MeBTySaVAO0rqDlUf3q0IVq5iGR5qs3cr8TVI=;oAHiqmylA/C3ee1w6j8WRw=="
 ---
 
