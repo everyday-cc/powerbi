@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M7S
 publishedDateTime: 2018-03-20T15:10:00Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QiwxT9ndefY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "3 ways to try Power BI"
 
-secured: "kuK7obgmxfU3tNfnkuuKs5SUVvXBQieeCmEQ7NVgOaWIGl3vrhg1GKNtFMXAhH5KSd9Zivc6Nu4eKXiLcvhI4XxgRsolgF+Li5w4iStJobKLwmjt5JjfE+of4L3T8xtTzS7O+7Pv07tXAxK9FX7dQzNbiJalLlCgJQLFEJwgykFnn3sdivCjDewtz8hQRJR5a6GxSyq0QWL/Wy7n5KN8kyaDqwqPaOIw3FyMCTC4IJEIzqz0d6N/UEfEd89pGTtKpQYXTMoM22AxMx2csRxzQxmgr9NypHGpRrlbixWxZZFkOieKOiyK4BZn/GQdADhDCN7zoDoeEzXitYmZ5+kWdpoj4SfTNSWg8LBTuHTU/YZVtlyjNmkm35BU+BADsntmPux9IcmNw67N61ghude6ghBXpbV1oB8tifHLcYYGhmA=;6HWr7NqcXIplJY36ptEo0A=="
+secured: "jxzHCGUtDYMSmIrX6JrAqd69T1HM3sVhpYZzcVTYpE7oKhlMjPyECpByg5jWNrayUVES3bkd+BSTuqzATcJ1XOhdQ2q9FA92ueaUFLale+rOeKh24y0UpTH+dA8tBUOikXPhe0Oy0RLoIdwmWv+Am9cVIJS+OscM/xamhgvPvicHCR8WReGJ2ax4Ald2gQRH8XoJPrdef2ZVBVafZzPqopdpYyCIzGmuFHZW/EL8bvwO0ZISppjJ0E9WatPf8pZTnM5IibMDyWvUFX5ilv9/0wgfMRmCfUtx8qt2RRKBKDrPjSX5dObliDgZDVHcUOjgvvFm8DNHesuZnC17ftB2e7skJD65wVs7AZIHq3HD0gC33BGRwdi6HPd2qDTGiypgE9ms4MVrr+UWfQ3R7PDIrnxoSBo4PZqqa3lTKuowkQs=;I3Oma+JcTh4+CymrhrZ5fg=="
 ---
 
