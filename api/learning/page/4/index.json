@@ -1606,8 +1606,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 57,
-            "average": 4.894737
+            "count": 58,
+            "average": 4.8965516
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1648,8 +1648,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 61,
-            "average": 4.7540984
+            "count": 62,
+            "average": 4.7580647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1815,8 +1815,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 57,
-            "average": 4.894737
+            "count": 58,
+            "average": 4.8965516
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1857,8 +1857,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 61,
-            "average": 4.7540984
+            "count": 62,
+            "average": 4.7580647
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4028,8 +4028,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 1235,
-        "average": 4.8412957
+        "count": 1236,
+        "average": 4.841424
       },
       "provider": {
         "name": "Microsoft Learn",
