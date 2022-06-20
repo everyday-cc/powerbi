@@ -2,17 +2,17 @@
 category: news
 title: "Alpha Serve Has Released Power BI Connector on ServiceNow Store"
 excerpt: "DELAWARE CITY, Del., June 06, 2022 (GLOBE NEWSWIRE) -- Alpha Serve has created the Power BI Connector to help organizations add their ServiceNow information as a data source to Power BI and be ..."
-publishedDateTime: 2022-06-06T15:20:00Z
-originalUrl: "https://fox8.com/business/press-releases/globenewswire/8566440/alpha-serve-has-released-power-bi-connector-on-servicenow-store/"
-webUrl: "https://fox8.com/business/press-releases/globenewswire/8566440/alpha-serve-has-released-power-bi-connector-on-servicenow-store/"
+publishedDateTime: 2022-06-06T15:42:00Z
+originalUrl: "https://fox4kc.com/business/press-releases/globenewswire/8566440/alpha-serve-has-released-power-bi-connector-on-servicenow-store/"
+webUrl: "https://fox4kc.com/business/press-releases/globenewswire/8566440/alpha-serve-has-released-power-bi-connector-on-servicenow-store/"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: FOX8 Cleveland
-  domain: fox8.com
+  name: FOX4 Kansas City
+  domain: fox4kc.com
 
 topics:
   - Power BI
@@ -23,6 +23,6 @@ images:
     height: 282
     isCached: true
 
-secured: "/t/B5YNdaYhy6DbDtdnj/F+Bb6pYr8FlbqCXznrtHQdIekpQPn8FM1YarIXHg3nMupwPz7y978Wb+nS0e8A+1Ag5oWy2+w9sPEHvBWB34w6zBK+EXxruYc1Sf+QkdNGUFxw/UbctjjSmSrvdjWD/02fdKY4/0ixbmq/uXdHzxtZrVkct/7PTeEt303yf4hlJAVizHu1lc9fuYjfagbvjtI0xh5tociLL89zvR1oT8YnUdeUktrL/KIEakM0Rzt5o78yx3BkOyOwaGMat/5pT4MEZTGuP7XIQSYVvuoPQtupRM3z9bazjeUOOOkqqn6pFWTKSPnCzULscOi6w/5cCi4ajdWicU+RZqzENaVy6ppI=;BH4r8jWJhewtZ5O61AYYMA=="
+secured: "bERotE7je7/RhCnKu4qTWg/lKrGPverRoy2Yzrjc+b8lg1n1YjZ02H0dZV5ZlBcFbA5A2yKCad/AUOm1zlv0Ixv+9XDGP+yjIcWlt69Clc8TzmEk3y0SjHvXMs7k8ZA1KqwXZyxvP9+x6k1KABNAd/UuA2MfXsSKuiomzKV231oftIEPoDrr+t97Ig9hoLfWP4wTKvV3aSvfzpamX5l6USYOIJsWLyhi3idQZ2pfTEOKICNlaQRnhaUkrcWmAH1LbKMvT24Q+DgFELixL/+6+jyie0eAQfJ9ne2e1BTq54A0JTCKpmhVTjMXZJx7h13vgleO5T7nDvFeJii85gLZVf1G/P/2pcIlY7iRcCO52A0=;fkNpKIreFNWzFC2pOdTQ4w=="
 ---
 
