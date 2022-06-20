@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT8M31S
 publishedDateTime: 2021-01-28T16:23:13Z
-heat: 65
+heat: 81
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-ip7mKUdwRg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Qy6YS1tGFUdm867peE6qkaQiMsnxbyeSNysyAZRtq+tJ4WXVdYWRS06kVpFkpQK8PMYIuiSy4dZDhEaL7ALqEFHaFEaXuL1vF+XKKnqIIScBO+ikOGN+DxX4BMuBTvPIIdUezdyCyLgOCktSSr+g9ZfYE+pScJk1cZTv2KF6pYk2aogaEpN3GrA0i6RDm+PfNnMTTnqkA3I5Xd9FNJBcrFdNO4vAmHMyIzJiT47U9DRdeszWfraRnc46apryLZJdF82/XA38Gd0rvmQqdqlRJ0kj9Jr365rIjvpLuf2MsijpFndVhSBJ6fLW++e8Rk6V95Snspz7I3tsjgA6+rm1Kve7qEoBj2hGZDAgBqS7r9vXNY4AoPjDVuhh6rbi37+nwq7zdVR289Qu2+Fv461ldwDP06v3UuSu9SOqjW9M7xc=;WRQuOFYA8fnaJfIoUMz7og=="
+secured: "4dika+Kz4V7qTW2MNrdP5YhU4JgNopHl5xKlCLN5SjrcdcSBmta7n04WOY/38IUhi35n/Oe5W7D3E/2zWSaJvhdEZFP28umhl2JyosHaDqzewoqLmS2yU3NbYcz9Nz84h2kYzFPS683PjHKU5jRlbbqvlvs5ROD+Aq2G3IC945ZHS/HYrg2caGKGNBAxXqxJI9rWQ2pGeYcJ0ybkzmfsMe8KCZxwRSgKWVv4EGD262AHm2WO7/qOCOSAmR5X+ZMVSJWHwD4N2l3tddL05zJ7RgiUJ75PDSTplO20HCOh7+9HMy5Izcv7PKRQLRDHbBqwZEon2Vz9sWZXmhq+FojuPvLbIszIjbyRDDEfWazd3Uj0aVPMxX68mnJmpb2NghGsPSSODdT84IgrPb+OxsDxa54iP6QS2P18CLT4cmcVuT4=;QisHaXyr8XDt2R1ncVVhhA=="
 ---
 
