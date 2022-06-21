@@ -7,7 +7,7 @@ price: Free
 length: PT20M
 ratings:
   count: 2569
-  average: 4.7551575
+  average: 4.7547684
 heat: 54
 
 provider:

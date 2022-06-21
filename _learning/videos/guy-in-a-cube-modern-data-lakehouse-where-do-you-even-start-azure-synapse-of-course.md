@@ -1,0 +1,32 @@
+---
+title: "Modern Data Lakehouse? Where do you even start??? Azure Synapse of course!"
+excerpt: "Trying to get started with a Modern Data Lakehouse? There are so many options today. Where do you even begin? Patrick and Stijn help you get a handle on it with Azure Synapse Analytics!  Stijn Wynants https://twitter.com/SQLStijn  Building a Modern Lakehouse Data Warehouse with Azure Synapse Analytics:"
+originalUrl: https://youtube.com/watch?v=zQnyy2-58Ns
+type: video
+price: Free
+length: PT13M54S
+publishedDateTime: 2022-06-21T15:00:35Z
+heat: 208
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zQnyy2-58Ns\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Guy in a Cube
+  domain: guyinacube.com
+  images:
+    - url: https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+
+images:
+  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "JtNHqrOXCnb+y6zjA9xGSGvyp55q9bT3c2TrH1pxZlP/QjlyNKLHZIBIDh9gaVeyYBQmcKRco41D1yj94M6jMwm/ecY3Fu/dnQ1/fWARgPRfJvZh5lxoJFoJe1/yViielSYhbRrfkzFrcHPDWkkXXEVaMZdCoOOVPtuahw8I1Saey8hE4MxaPnPfjWMsLPegKGxsO36ahMP0So/nsSjALvDqJBJS2m+WwBW6d5dY4rFDrQLu7lZqX9uXKHysMeJb9mJ125TsdxIM4cOrsofVNhyjA03mubxNVRaxZ2Dqi720S4xAeRBd2LYF7MCdAE0f9eL4McmIZiC0cM03VXnnzToSro/07ntcfCnMmNr2WW7wR1HrFsKSIRA1flSFeNTo/B6q0BPMuPddK7c82rz+YA==;BRAKvQ9XtBBuS/Tg3w7X8w=="
+---
+

@@ -1730,7 +1730,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2657,8 +2657,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 3891,
-        "average": 4.7262917
+        "count": 3892,
+        "average": 4.7261047
       },
       "provider": {
         "name": "Microsoft Learn",
