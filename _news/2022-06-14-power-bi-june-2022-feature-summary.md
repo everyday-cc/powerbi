@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-june-2022-featur
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-june-2022-feature-summary/"
 type: article
 quality: 189
-heat: 190
+heat: 189
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gu_5Q3z-qpc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -30,6 +30,6 @@ images:
     height: 630
     isCached: true
 
-secured: "olhG/DPOJLlsDOzO3dBijW5aqLMezXZVbvzquUdYCqbt7SLRdF30EmsEFNeyWp5qoGCQ59+B+JWNKDGCtb7ZThENEANTZ16KlpJZOvaMv0djb1BBXGGG1biHzMcdk3PY4Ed+C+j07JIUFYFHXP3zqn2kWzsJUyivnrwNLuONRs4RzcSNbFJN2yfnX1kcIR24TXy+TMKgusOgZuy8AtyeaFB7V6ZW0PJ0f3NwQ+Ed0qSUU0EDDehy5Weh2W5BW4lA5456yfGPkRADOxJswpzQLWY2rVDl7vpxWpgBYjQbV749n7NT9rngmy4X9wIBRP1lJGaujhoIg23xZxlon2ok8A+BfQaKYbYZm92bk2/9zzljGIe71jsWxPDGCaHJusrF7uKlhxyaeNIrEQesTv0b/4c1zwFntTOulKcgXXbqgubiQ9v5DgTG6IcfYmFfWJD97T8ld4/Gx3GDer7rI0vx2A==;ON0EQ5u4cjXq+NV3tlxn2g=="
+secured: "hqLh7ruYYp69BzrtWq0b0WPsSFyBGFHnb7GmCz2qsmEiNCkJNhSSQDxMILMU6QpyTYE7ldz/yIw1NbwQ29qVZqoIzCpEwn+7N/aWkIP2MNTntumQ6n6mZvrP3tQO4p44TVPutsTxVsk//y/sbmI63crvXw6Bt/gCuGvcSiJQoT5j78eDbgi5PAvjtiH33iOt8obP8FxJRL0OlPTe/ut18H0PP9bhirfYQmSys4PY7huZm64DSTOL4B/NuF3Znm+jiOTcC2CNI4ZdJY1gPxny1ADahDTcFUqqE1NEj7+graE7KfmdUjmbqBZzT8u7LEU0PbUZ8a73ytTWFDaa0s4to8uQ1gSiJipNhYgpkutjVYKEdZPa8YKchwhcRV2xvZHvRQGQXHKAuXyE6inEphdbQF11mUtjHNv5aqXExEz98tEO7OzMJnvdFUMCKUYTTcLSTWjeh8N3X6F3ZgB/ngtwMA==;x6Fuis3VdMWxPxCVcq7M1w=="
 ---
 
