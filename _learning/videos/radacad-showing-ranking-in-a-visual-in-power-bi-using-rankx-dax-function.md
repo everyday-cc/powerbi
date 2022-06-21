@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M52S
 publishedDateTime: 2021-05-25T21:38:26Z
-heat: 56
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FCWVX8W1QZk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "DUdLxMpxbXU/8xbyJF6aAZj5yr2Ml8DfHkMY4QfBQNpg7Knvw0ev/Vi5O4kmHJtZLATL01aGvzxv/HQTPPEv/XgMU/3UbFInxVT+9mbDEfDhZPsHqflZBkGQt4+TG5DcrVDhwDVXZUJYx5wYYm3JAZF1MPMggJO0fMx1ljkaxNMXkfs3kFLxavBx1J5GqKePftb2mAuvZGaLIjFLHj8gAVpfZDEU6IufuW/suVAM15oXGhtsmzU2UKcQQTkPBvUc0ROCXMv27HUOn11NvEd060k+HJo3jrx8jzFvGQXzoEqbVa60nFxfDvOMTVi9eLb+qHqJUaLIrw4uqGn5giFWX33pGNs3jqL4rod8dDUCOdwBHbKxU7azAD2SuSUhseMdQ0RBW1VaekB1HP9azVc9oU+vw2NZOyUzH0/ikQslPYg=;jeQbDnRuLLMnCHAUiunDtg=="
+secured: "DZKYRIANyvlyUGdRP4wxLnvJ6Fv1ktLu/4RvEBE+dx644kCEmQmd/HphKlOVfRBO45sLRofxLGfhmGcbsad27mcwD9Ivf3HKYZ08hkBgxUldqi7GxBePH1o60qiAiKgE8crKJTrrQC1HIMAv2V397od3EmcqiFOS8gQ2tqoq8DniNEKsM2vkSOpOobKutAEJTS55SABXjiQYmATfHpqhZESBiAi8hrpoEV5dtbzZ3EQBHXHdutA3KXpJVBNY3p2fWttIXCLfFpOeR+b7jDyt7tFZ7dhJoEmlSqvZw8hiIrBLzBm2B2Ipy6VIhpTZ3WpLhmfRo7XbWuN5BG5Y50/j3yJQzBXXeO3sVJnvSjSpled1+dOxGkGkUNeCoeaBrUj5qeB6bDV8sd43LHpzZKiWvzV831p/b8WEjNZRB7Taf0s=;HvURs19xIcn2fhq1MQ1Jhw=="
 ---
 
