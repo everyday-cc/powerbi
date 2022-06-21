@@ -352,8 +352,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 1246,
-        "average": 4.8386836
+        "count": 1248,
+        "average": 4.838141
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3310,8 +3310,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-organize-fields/",
           "length": "PT52M",
           "ratings": {
-            "count": 44,
-            "average": 4.4545455
+            "count": 45,
+            "average": 4.4666667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3788,8 +3788,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 4410,
-        "average": 4.6873016
+        "count": 4412,
+        "average": 4.6869903
       },
       "provider": {
         "name": "Microsoft Learn",
