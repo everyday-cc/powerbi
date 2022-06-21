@@ -290,8 +290,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 578,
-            "average": 4.752595
+            "count": 580,
+            "average": 4.7534485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -434,8 +434,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 12475,
-        "average": 4.727455
+        "count": 12476,
+        "average": 4.7274766
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -476,8 +476,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 8793,
-        "average": 4.7500286
+        "count": 8797,
+        "average": 4.7499146
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -816,8 +816,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 7558,
-        "average": 4.75086
+        "count": 7561,
+        "average": 4.750959
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1034,8 +1034,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 11432,
-        "average": 4.7597094
+        "count": 11433,
+        "average": 4.759731
       },
       "provider": {
         "name": "Microsoft Learn",
