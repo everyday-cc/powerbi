@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Alpha Serve Has Released Power BI Connector on ServiceNow Store"
-excerpt: "Alpha Serve has created the Power BI Connector to help organizations add their ServiceNow information as a data source to Power BI and be able to use it for their specific business reporting and ..."
-publishedDateTime: 2022-06-06T15:01:00Z
-originalUrl: "https://www.digitaljournal.com/pr/alpha-serve-has-released-power-bi-connector-on-servicenow-store"
-webUrl: "https://www.digitaljournal.com/pr/alpha-serve-has-released-power-bi-connector-on-servicenow-store"
+excerpt: "Alpha Serve has created the Power BI Connector to help organizations add their ServiceNow information as a data source to Power BI and be able to use it for their specific business reporting and analytics needs."
+publishedDateTime: 2022-06-06T15:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-6-6-alpha-serve-has-released-power-bi-connector-on-servicenow-store"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-6-6-alpha-serve-has-released-power-bi-connector-on-servicenow-store"
 type: article
-quality: 37
-heat: 37
+quality: 17
+heat: 17
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Power BI
 
-images:
-  - url: "https://cdn.newswire.com/files/x/ab/3c/5f3499257e6273e9a74063384a28.jpg"
-    width: 512
-    height: 282
-    isCached: true
-
-secured: "js+Sfva96V6gBckSwdD21jSmP4GR6lmxrIXz/OeBsInX+7b5nPe6u17N0yzal4DEm/MP7SNsyms83jUNVFq3WHSjf00PX+qMw57opuq/F/b0FeCyfyjgX7hX9U+Pd2NIJMv60n2btdwkyIyFuiRf0NMCJGgo5p//zV22WE64t8DNaJuP556w8T/656iW84w7Uys6Yuk7eyb/sIEG5WnH1WIoVyPnudAbJvaWM8dsaqJ4YUXYsMrzpOjgv77KqqHwU34tNaYckRfy8/0nDvtBw+Lw20hs5npZGgF9bCHZND9oQB/GAenn5+R9WJN57v3huOvSJEmsD0zEyJx5AiNYCCLFWZhjfNYPO1zX54wd0+I=;wo62W+j46CM3xZSE9g4SEg=="
+secured: "DJV+2QUz1IQEOnDNKvEDkSBgQy7QfxpMsdQf3iiQGceAaRiTXvu1Slznd26pQbwwUeJ8n7XGL0ts7VO8GMPZr1DDGfrXYUw3yMPyucjIpkY931qSZFXEe4ZSlMFZMO2WX6Q8LYA9jnVDAwpw++dhLyR4/AODjYxWh9UhyuYOGmMyM3a2MUUzz0bGk2DQgLZSbuo5YKqE0+7QqwsK43uq83Rr5NIEfpyzNRRxSjp541jC0uADkVvvNurhMXe5ZGjyB5JNK316+J8qlW105thj7qMwYF6yxAv6tCF0Ttrz6azDHFdcPuRyGgFOq23j2mcnGllMSSGPkmHLuU97KiETGgDM04t9hx5112L/Jo69Cbp6SGCNO1B3s4ivaF6bsyRULbW5ZnYJZy3AxYjGmhreKZ0OG15mUAyfOaPn+Sj3sPy3auMYVkMw89TbthgTtXAhNuf67Sdj7xIwvkZ/s/aC80DGM/7qNqWNZfuLW3Wu00LAbtbI8/fzsCs4Um2DrBkFqZj7OR4JW28RjxE+leRwMA==;5dg533M1xWnSE8zX8RpVyw=="
 ---
 
