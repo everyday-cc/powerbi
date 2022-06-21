@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Alpha Serve Has Released Power BI Connector on ServiceNow Store"
-excerpt: "DELAWARE CITY, Del., June 06, 2022 (GLOBE NEWSWIRE) -- Alpha Serve has created the Power BI Connector to help organizations add their ServiceNow information as a data source to Power BI and be ..."
-publishedDateTime: 2022-06-06T15:42:00Z
-originalUrl: "https://fox4kc.com/business/press-releases/globenewswire/8566440/alpha-serve-has-released-power-bi-connector-on-servicenow-store/"
-webUrl: "https://fox4kc.com/business/press-releases/globenewswire/8566440/alpha-serve-has-released-power-bi-connector-on-servicenow-store/"
+excerpt: "Alpha Serve has created the Power BI Connector to help organizations add their ServiceNow information as a data source to Power BI and be able to use it for their specific business reporting and ..."
+publishedDateTime: 2022-06-06T15:01:00Z
+originalUrl: "https://www.digitaljournal.com/pr/alpha-serve-has-released-power-bi-connector-on-servicenow-store"
+webUrl: "https://www.digitaljournal.com/pr/alpha-serve-has-released-power-bi-connector-on-servicenow-store"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: FOX4 Kansas City
-  domain: fox4kc.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Power BI
@@ -23,6 +23,6 @@ images:
     height: 282
     isCached: true
 
-secured: "jP+YPm0qXEFj1nk72SsCBrJPv/iNcCZcdOEb2fD3suDEUlURbXLyG8Pl8do73SlUhc9zPbS9rvwtUTfmeLkXyl5bWf4PQAd8m27bSUItPOymma2Wd8XBPYL8Ry0WbNJP5bKUYMRaLZXY9SDVc33ekY4kWyez8zBpZdTaTyXZVjTbgsF50Wo0Q3OA/kSUqRiIYqafHJRJupBU/ju7Y3Cz1AMp1dX6GnyQThpVWReTd08vVmTOC2Ug+tkOSH0KIkR/0hl/UveN1NcjUxO0e8g+ocoQHy9j4ALMrPbcsYhpe6BwuRsYXZ8UCClniRQQzYjlgyYAyjNHzhfqLN+oxMNAtBwC1e7a2BdXDn4aHJQ+IIs=;OtGkocZ81TNvpD55FQFQuQ=="
+secured: "JnOd2op5PTulXPji7OZMPgOME1aa+np1ZDAHKkGv2cZbovDL9AxDylL9Sof5bdDYZ5sFkvI2SIaSHpj049NZaPxi4eyIsVKoaNAuSFU7yAJ7JVFQUi7GfQeYWo+sS8AkjIV/og9n8pnCbGMqoWtfKEqsrxltOYTOl4Y6yqZPxRzfM70g2Hn2XkEBhmJSyNhfzojZCp7XgOYz2pfB4OJ9th36gL5Nosu1exmtLOaStzjWdYk+AlO6b9SCmOxpwE7q91MnTMeXXnqD4RUsBN1jY6AxJKdcg/S3SjYs+HRg7KXe63a+sn9c+YuNvnQVnVuep/b9ih2/s223Tmwold0yJfMY4kFqMkFG3Uf1WTeJIgw=;oREdSWAMjYcCj/30lWsSCA=="
 ---
 
