@@ -2489,8 +2489,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-permissions-content/",
           "length": "PT33M",
           "ratings": {
-            "count": 12,
-            "average": 4.8333335
+            "count": 13,
+            "average": 4.8461537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2531,8 +2531,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-content/",
           "length": "PT31M",
           "ratings": {
-            "count": 10,
-            "average": 4.8
+            "count": 11,
+            "average": 4.7272725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3598,8 +3598,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3202,
-            "average": 4.769831
+            "count": 3203,
+            "average": 4.769903
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3682,8 +3682,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4108,
-            "average": 4.804771
+            "count": 4110,
+            "average": 4.8048663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3918,8 +3918,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12731,
-            "average": 4.6782656
+            "count": 12732,
+            "average": 4.678291
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3952,8 +3952,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9839,
-            "average": 4.705763
+            "count": 9841,
+            "average": 4.7058225
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3994,8 +3994,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 863,
-            "average": 4.736964
+            "count": 864,
+            "average": 4.7372684
           },
           "provider": {
             "name": "Microsoft Learn",
