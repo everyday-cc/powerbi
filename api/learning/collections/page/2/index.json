@@ -2185,7 +2185,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-intro-social.png",
@@ -3553,8 +3553,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3206,
-            "average": 4.7701187
+            "count": 3207,
+            "average": 4.7698784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3595,8 +3595,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2808,
-            "average": 4.7143874
+            "count": 2809,
+            "average": 4.714489
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3637,8 +3637,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4116,
-            "average": 4.804908
+            "count": 4117,
+            "average": 4.804469
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3949,8 +3949,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 866,
-            "average": 4.7378755
+            "count": 867,
+            "average": 4.738178
           },
           "provider": {
             "name": "Microsoft Learn",
