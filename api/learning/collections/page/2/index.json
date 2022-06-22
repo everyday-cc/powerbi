@@ -1778,8 +1778,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 164,
-            "average": 4.628049
+            "count": 165,
+            "average": 4.630303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2507,7 +2507,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-permissions-content-social.png",
@@ -3952,8 +3952,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9841,
-            "average": 4.7058225
+            "count": 9842,
+            "average": 4.7058525
           },
           "provider": {
             "name": "Microsoft Learn",
