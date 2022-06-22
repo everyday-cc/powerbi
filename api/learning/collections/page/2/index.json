@@ -3050,7 +3050,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3598,8 +3598,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3203,
-            "average": 4.769903
+            "count": 3204,
+            "average": 4.769975
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3918,8 +3918,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12733,
-            "average": 4.678316
+            "count": 12734,
+            "average": 4.6781845
           },
           "provider": {
             "name": "Microsoft Learn",
