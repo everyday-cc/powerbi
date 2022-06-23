@@ -339,8 +339,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3901,
-            "average": 4.725968
+            "count": 3902,
+            "average": 4.726038
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -567,8 +567,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 258,
-        "average": 4.7751937
+        "count": 259,
+        "average": 4.776062
       },
       "provider": {
         "name": "Microsoft Learn",
