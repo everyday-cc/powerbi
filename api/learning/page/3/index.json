@@ -481,8 +481,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4874,
-            "average": 4.6754208
+            "count": 4875,
+            "average": 4.675487
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -523,8 +523,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 4437,
-            "average": 4.687627
+            "count": 4438,
+            "average": 4.687697
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1832,8 +1832,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 543,
-            "average": 4.762431
+            "count": 544,
+            "average": 4.7628675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1907,8 +1907,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 853,
-            "average": 4.7409143
+            "count": 854,
+            "average": 4.7412176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3203,8 +3203,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 1310,
-        "average": 4.8366413
+        "count": 1311,
+        "average": 4.836003
       },
       "provider": {
         "name": "Microsoft Learn",
