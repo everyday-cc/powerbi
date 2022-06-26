@@ -17,6 +17,7 @@ items:
   - videos/guy-in-a-cube-what-the-heck-is-a-power-bi-gateway-cluster
   - videos/guy-in-a-cube-using-single-sign-on-with-the-power-bi-gateway
   - videos/guy-in-a-cube-power-bi-user-lookup-with-the-gateway-using-active-directory
+  - videos/guy-in-a-cube-why-cant-power-bi-connect-to-my-cloud-source
 
 topics:
   - Power BI
