@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Get an embed token for your Power BI dashboards and reports"
 
-secured: "+QdDbBlNLhOAzQagoFYaxua8IOf7vv0V2Whr7Z0w9TqWfOLuJK2+SuC208Bo/Ycje66PVnENBE4yKm72dxFDZdRaEffxHHS3sbEhMkwjM/iNVzHvqg5FivYmt0HnmNQs1ZZWOCqylYiIu0vOoKUX9x2Xd7y6eRMVMZmZqxILEKCDkXKpCUHpT5SAwHZduwD+Y/1MzB04zrlhJpYVdr6um5HTho/jr5mevw2QrId4fwG91/ucZXWGR97Gh6Y+haIuxvZjU7o0YDwdi7mkVDTiekln2dYCjnMnEmKRKaHI3QIacAWa+qVnkgU07Ejo69MyWqZbo6iv0X51iVuVIBOsms8+9W6QG+XmXaHDoNVLUNjoN1MAwq5GuwQVPsRRTO8Yp6jxwzfb/z6H+zmaTb4NlOlQJVt9duMKdvVEiDoRZnk=;DZD39fPEoPZpZnqNJvTtZQ=="
+secured: "sCTnvTYXebnsX5oKFDZhl8Do5IdFyCvHMLz7/HJBGcZcplqn5apbeQFmsY0KRLVZ8ygZ4o/OtzB5TA2ECN/BqlD1UiQWS/mZoK+PMAdwkNU6+VSm/ssmG1KPkvaMmbv9mJN1AIKcn2pNtUi3OQsa0rof+d2wONkjym0pl+sCgS+wxK3aebfPcEQR66ReyQGaSrCFhrSfkTYQTRxs+xDjuemXNXgryPO+JFudXrckh8pevwf7g6V8qhagwEhyFGPfTOfDReBqdUDO3+OC7aM7+HHB6upORrcl9tSkaMrV5NcOcxQWI0NSdRa7b++n0/efRYHrWH9KwR2ErTO5eJ95fNOHN9R6chF0GDRWOxG7JdO7ZC03tnjvmwgf/arH2sx1G+q0E5rk+7v151C9Ks0IR/7cv3pgVNyPQHgSyUd+89o=;TSwnsE/TYmhP1G7NnQrfsg=="
 ---
 
