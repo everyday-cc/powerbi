@@ -390,7 +390,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-transition-social.png",
@@ -600,7 +600,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-transition-social.png",
@@ -665,8 +665,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7154,
-            "average": 4.753285
+            "count": 7155,
+            "average": 4.7533193
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -750,8 +750,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7180,
-            "average": 4.767131
+            "count": 7181,
+            "average": 4.7671633
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1543,8 +1543,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 7180,
-        "average": 4.767131
+        "count": 7181,
+        "average": 4.7671633
       },
       "provider": {
         "name": "Microsoft Learn",
