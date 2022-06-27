@@ -20,6 +20,7 @@ items:
   - videos/curbal-what-is-vertipaq-and-how-does-it-work-part-1-data-compression
   - videos/curbal-why-is-vertipaq-so-fast-part-2-columnar-database
   - videos/curbal-why-is-vertipaq-so-fast-part-3-segment-elimination
+  - videos/curbal-the-performance-analyzer-review-part-1-may-2019-power-bi-desktop-update
   - videos/curbal-file-to-analyze-json-file-from-the-performance-analyzer-in-power-bi-part-2
   - videos/curbal-query-folding-to-improve-power-bi-performance
   - videos/curbal-dax-fridays-140flat-tables-or-models-in-power-bi-which-one-should-i-choose-and-why
