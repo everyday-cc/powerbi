@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/power-bi-template-apps-update-capability-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-template-apps-update-capability-is-now-available-in-preview/"
 type: article
 quality: 97
-heat: 97
+heat: 98
 published: true
 
 provider:
