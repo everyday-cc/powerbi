@@ -18,6 +18,7 @@ items:
   - videos/curbal-when-is-profitable-to-move-to-power-bi-premium
   - videos/curbal-lesson-12-how-much-does-power-bi-cost
   - videos/curbal-what-is-power-bi-premium-per-user-license
+  - videos/curbal-power-bi-embedded-changes-on-free-licenses-and-analytics-challenge-2-one2many-series
 
 topics:
   - Power BI

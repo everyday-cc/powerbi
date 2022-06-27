@@ -16,11 +16,9 @@ items:
   - videos/curbal-json-theme-guide-and-file-for-power-bi-by-curbal
   - videos/curbal-deep-dive-on-how-to-create-power-bi-themes-with-a-json-file
   - videos/curbal-reviewing-the-json-editor-power-bi-desktop-update-december-2019
-  - videos/curbal-convert-json-strings-to-tables-in-power-query-power-bi
   - videos/curbal-change-title-size-color-font-and-backgrounds-with-the-json-theme-file
   - videos/curbal-one-tip-to-work-easier-with-json-theme-file-in-power-bi
-  - videos/curbal-how-to-create-the-json-report-theme-fileeasily
-  - videos/curbal-recover-your-json-and-pictures-from-within-power-bi
+  - videos/curbal-get-files-inside-a-power-bi-report-unzip-a-power-bi-file
   - videos/curbal-35-report-theme-gallery-and-json-tools-power-bi-tips-tricks
 
 topics:

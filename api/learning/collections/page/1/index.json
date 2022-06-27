@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 40964,
-            "average": 4.7988234
+            "count": 40965,
+            "average": 4.798828
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 61964,
-            "average": 4.7777743
+            "count": 61969,
+            "average": 4.777776
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 61964,
-            "average": 4.7777743
+            "count": 61969,
+            "average": 4.777776
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -390,8 +390,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 27736,
-            "average": 4.725447
+            "count": 27740,
+            "average": 4.7254868
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -433,8 +433,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 12579,
-            "average": 4.728277
+            "count": 12580,
+            "average": 4.7282987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -558,8 +558,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 11559,
-            "average": 4.759495
+            "count": 11562,
+            "average": 4.7594705
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -600,8 +600,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14016,
-            "average": 4.77383
+            "count": 14018,
+            "average": 4.7738624
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1819,8 +1819,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4883,
-            "average": 4.6760187
+            "count": 4884,
+            "average": 4.676085
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1861,8 +1861,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 4441,
-            "average": 4.687908
+            "count": 4442,
+            "average": 4.6879783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3670,8 +3670,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 856,
-            "average": 4.7418222
+            "count": 857,
+            "average": 4.7421236
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5082,14 +5082,14 @@
           ]
         },
         {
-          "path": "_learning/videos/curbal-convert-json-strings-to-tables-in-power-query-power-bi.md",
-          "title": "Convert JSON strings to tables in Power Query/ Power BI",
-          "excerpt": "In today's video I will show you how to convert JSON files in Power Query to a table easily, in basically 2 steps!!  Some additional resources: Meetup: https://www.meetup.com/preview/Sweden-Power-BI-User-Group/events/242804557  Import Json files from Erik: https://eriksvensen.wordpress.com/2014/09/15/specifying-json-query-in-power-query-example-statistics-sweden/",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-convert-json-strings-to-tables-in-power-query-power-bi/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-convert-json-strings-to-tables-in-power-query-power-bi/",
-          "originalUrl": "https://youtube.com/watch?v=uX2idV79P24",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uX2idV79P24\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT9M56S",
+          "path": "_learning/videos/curbal-change-title-size-color-font-and-backgrounds-with-the-json-theme-file.md",
+          "title": "Change title size, color, font and backgrounds with the JSON theme file",
+          "excerpt": "In todays video, I am going to show you how to change the title size, font and color and visual background, as well as report background using power bi JSON theme files. I will also share mine for those of you that are curbal members.  To download go to the dowload center and memberhsip downloads and",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-change-title-size-color-font-and-backgrounds-with-the-json-theme-file/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-change-title-size-color-font-and-backgrounds-with-the-json-theme-file/",
+          "originalUrl": "https://youtube.com/watch?v=l3389KbpEtA",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l3389KbpEtA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT6M21S",
           "provider": {
             "name": "Curbal",
             "domain": "curbal.com",
@@ -5106,7 +5106,7 @@
           "heat": 50,
           "images": [
             {
-              "url": "https://i.ytimg.com/vi/uX2idV79P24/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/l3389KbpEtA/maxresdefault.jpg",
               "width": 1280,
               "height": 720,
               "isCached": true
@@ -5116,12 +5116,11 @@
           "type": "video",
           "price": "Free",
           "topics": [
-            "Power BI",
-            "Power Query"
+            "Power BI"
           ]
         }
       ],
-      "size": 9,
+      "size": 7,
       "heat": 60,
       "images": [
         {
@@ -5309,7 +5308,7 @@
           ]
         }
       ],
-      "size": 5,
+      "size": 6,
       "heat": 60,
       "images": [
         {
