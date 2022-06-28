@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M47S
 publishedDateTime: 2021-07-29T23:58:15Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0I5XnKsIT2o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "0wUj110rYt+HBZqiF+NAHd6wBZ66M58XiGB2uJbj5C4/pf4iAJZXse5e+GJg+O1EuqCI2gc5K+S/JNBLTyCCTe32Sa/oZ9zKfmlJyFnh3tIeup9ms86AAVeEzpkmNRSUO2E/NtX9Gc+EAebbfkhnAmNck3XNSz29ig79odvY8eyjw6SLaRLswH52egZSKmA4sGrmZJDsOrZzq8KslEhrBJRtcebVLBsE5wZuYVD86vN8AK1G1XZ9BmvW2naze9XScgCDUhtK37vggPXfoWUpSvNli6ahnWifHobmfyptsop5Zz52/FLXadIlz9kdDyz9uCoR7VYS29yo76tW9dqhbS4z+DVDC73KFQC4jHza9okoiTDW6imenVv/SIimQCgZKy0dryjQuE5B4AOXffG73ae9ncJ9EQCO3ft4ulU/JWo=;Lrw0kzJcM9G/fPrI4qPiEQ=="
+secured: "0vL1i1mewENfYC4hP4Ee/Mnuytv+LIUDdZhAP+S32XAEmIVgzbf35YyJ+MiUFat7QSBO/vtR9bYkni1RZ2FoCzdPyrWhieEmCvaswMEX/9gAA107M5w/lqlYAtUjVkhkauTNX4ktpOCPprfGUnb23VC/s7Qeuw4KpYIYRP3ZnesMDABqvMN+lAxEb96eYG4kWufIGlwwC0g7qg2k7GK6I+YRDFsnL66EhPLMCflj6lAblmZPjU3QXeOF638l0co/q7veJ7p2U0HOgfmGHB5KG70bbTJv15lD2QIx7yBEOB30SJMqa32GeRmJvYi1Sk75VQFozYppLFWmcEjh0aihXsPGR38MAqOHH5e4PcEa3GcSabhzdgu7F6XOC98F03qf3RhZvyzT1Da/KPMHPvGbK+qgfgipAw9xx4J7b9Nb0H4=;LMYpUoRQYpO5YYuKVfvn1Q=="
 ---
 
