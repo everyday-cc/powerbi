@@ -4,7 +4,7 @@ excerpt: "The May 2022 version of Power BI Desktop includes a very interesting a
 webUrl: https://exceleratorbi.com.au/field-parameters-in-power-bi/
 type: article
 publishedDateTime: 2022-05-17T23:22:36Z
-heat: 130
+heat: 50
 
 provider:
   name: Excelerator BI
