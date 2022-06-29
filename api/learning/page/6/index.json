@@ -4,6 +4,36 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-how-to-use-power-bi-parameters-to-create-dynamic-power-bi-reports.md",
+      "title": "How to Use Power BI Parameters to Create Dynamic Power BI Reports",
+      "excerpt": "👉 Access the complete Power BI Parameters Playlist here: https://www.youtube.com/watch?v=twBUmqVOGgg&list=PL7GQQXV5Z8edKDvKYzglGfCwKo3HvTToS 👉 Download Power BI File in Video at https://web.learnpowerbi.com/download/  There are two kinds of Power BI Parameters. - Power BI Query Parameters: By changing",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-how-to-use-power-bi-parameters-to-create-dynamic-power-bi-reports/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-how-to-use-power-bi-parameters-to-create-dynamic-power-bi-reports/",
+      "originalUrl": "https://youtube.com/watch?v=twBUmqVOGgg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/twBUmqVOGgg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M9S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-12-12T02:45:37-08:00",
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/twBUmqVOGgg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-kpi-visual-in-power-bi-explained.md",
       "title": "KPI Visual in Power BI Explained",
       "excerpt": "If you are showing an important measure value in the report, and you want to compare it with a target and see if it meets the target or not, The KPI visual comes in handy. The KPI Visual’s behavior, however, might be a bit hard to understand, In this article and video, I explained how this visual works,",
@@ -990,8 +1020,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 889,
-        "average": 4.7401576
+        "count": 890,
+        "average": 4.7404494
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1356,44 +1386,6 @@
           "url": "https://i.ytimg.com/vi/RnDdDlozcdo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-row-level-security-and-object-level-security-together-in-power-bi-yup.md",
-      "title": "Row-Level Security and Object-Level Security together in Power BI??? Yup!",
-      "excerpt": "Struggling with using Row-Level Security (RLS) together with Object-Level Security (OLS) in Power BI? You think it can't be done? Think again! Patrick shows you how to use both together.  Announcement Blog: https://powerbi.microsoft.com/blog/object-level-security-ols-is-now-generally-available-in-power-bi-premium-and-pro/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-row-level-security-and-object-level-security-together-in-power-bi-yup/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-row-level-security-and-object-level-security-together-in-power-bi-yup/",
-      "originalUrl": "https://youtube.com/watch?v=ZYO7wGKVM0Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZYO7wGKVM0Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M23S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-04-27T08:00:17-07:00",
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
           "isCached": true
         }
       ],
@@ -1807,8 +1799,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3943,
-            "average": 4.727365
+            "count": 3944,
+            "average": 4.727434
           },
           "provider": {
             "name": "Microsoft Learn",
