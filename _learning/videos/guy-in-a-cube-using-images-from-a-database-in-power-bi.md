@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT9M19S
 publishedDateTime: 2020-11-18T16:00:04Z
-heat: 55
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q82yzcfkqAc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8OLhojkelT1NyB3S1fTxgEAkMBnXD2bfQwyJfj8HMS9oyTaN3GUktzPI3JopG2d88qqV4WV6Lv8yxDk2yDe6+zhnKivZtujBLvLyvMSZ4G26ndpjYSjhj2rzYCgdghUdP4FpwB4d0pkAfbU8NqLIoAV5NKIor3pxFEU9bPPNsJEfRoD0yEP0iYxTDT/BCZZw/wSHEWW7qja27CX0WnCOpAasaLoA62uPVIb7uHM8evujuF9Axw2rUeqTByIAGeJKEPp8vewW2omBeC200ZmIFsyAyemNc3W0GXtwmwts9vxOv9OkR7J/65mcyzTaMOcEGtAr5zza+xy1vq4TX08goYin3RWtWe0BD4ryR/z3FEKsP+P2/muDvOI6H+SOg05w2KYIwzCi0oK1t/J9dza6xMTMxbhJOjASuvv8cLDFtFY=;0w1bigdw1yUhQzeiv3kQYw=="
+secured: "kSywyAibt9sGkGx90+genmim+ziG4bD0Dj6+cp0DO4Nc7oBZ0d6UJ4gWKF1CG6VB3445ClHnvpp7d1p8bBoTMM5BDDCAYWJPW6Xd0CAKgG657BU8MuxUBPy9nf3hdJ5ncUklxpe8N2V+Z/z6vCiwiFGpG0CjrdsVJfR6D37puglD36GOn7wlyeStvOuA3bcynuPepKEkb/Ygq1rf2z9bZDvhD7OU0J3784gUAkb6YXg5okSOb3xysaFx4z6tsaXx56bQ1XM73Edltg6kbuEqTT4uAkXrAi2z/qxyGDVmojYtoWf/yBASULxqdeaqZO7XV9YNN1x8NY0HGNeUsew2OfyHcqJ3vnctviXi163L3EpkYlBZljmHNDNJ1XaD0vrlYt0IT1nNksnwMW6H8HWooVXRBm8IctzKCJh16hPEiow=;M/J6aXe1qbeKtSde0Yempw=="
 ---
 
