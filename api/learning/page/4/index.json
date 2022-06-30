@@ -302,8 +302,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 11635,
-        "average": 4.7592607
+        "count": 11636,
+        "average": 4.7592816
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -641,8 +641,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 1374,
-        "average": 4.838428
+        "count": 1377,
+        "average": 4.83878
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1342,8 +1342,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 896,
-            "average": 4.741071
+            "count": 898,
+            "average": 4.741648
           },
           "provider": {
             "name": "Microsoft Learn",
