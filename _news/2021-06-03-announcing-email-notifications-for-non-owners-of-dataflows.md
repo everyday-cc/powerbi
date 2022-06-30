@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-email-notifica
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-email-notifications-for-non-owners-of-dataflows/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
