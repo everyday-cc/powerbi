@@ -240,6 +240,7 @@ items:
   - videos/curbal-dax-fridays-213-year-to-date-same-period-previous-years-in-one-measure
   - videos/curbal-dax-fridays-214-create-dax-calculations-on-ranges-taken-from-a-slicer
   - videos/curbal-dax-fridays-215-previous-row-in-dax-non-accumulated-values
+  - videos/curbal-dax-fridays-216-networkdays-function-is-finally-here
 
 topics:
   - Power BI
