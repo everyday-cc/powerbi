@@ -4,9 +4,9 @@ excerpt: "In today's video I am going to show you how the new NETWORKDAYS functi
 originalUrl: https://youtube.com/watch?v=hL4wCObZ52w
 type: video
 price: Free
-length: PT4M57S
+length: PT4M1S
 publishedDateTime: 2022-06-30T09:41:08Z
-heat: 130
+heat: 240
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hL4wCObZ52w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 800
     isCached: true
 
-secured: "SmqdW2q0LCN0aGjGmhoKGj8lNBvQayKpT1rd8reWQB5ZiObbjr35y8HLseLXWeKt37hyPStdOkAcPya7zBLLXazBVWO0gIfKv68UW4eC7DXJ9FWKLwzTU6zC4kwb9pJ4ZdUKZhW8StH5T6fqS7iALjFNk74DJfRrLawZgw6p6Q+B1r54uWLKfSXfNj0doZ8RZRCQ5W3M+0mBYlSCuFpqqvw+5xm7JN3X27r2kGQ7iEuOq6TeKCRE7Y1SW3/sQWljAWTs3PQxU8MS8qNr4etU+XqJGj33w0hhQYa4/UOVb2fQ+wQRQsnaqiOQe938iQFGowz0x+cdGpP3MtAIe6ItE+1Z96QNv16oZHAmPIRahc0XVsy1c7RdE5I3G0zvw4HBXlnQ4IO4CEVrkQibxDoFHw==;3KJMNbaTqWCnnfW97s05oQ=="
+secured: "xSTJJ0CYNU2gvgt7nrolBG91JS9LP2VtZlrPXp6N7rFZni0iFEN/mPjf22E++rHbOsGCGaAhfLK6sOy/0lGJ8z4et+eGq1WQEu+FqNZiStCHN+YR7F0OjZJZNQ0DXO3iMVDmQTP9lMNn1H+Swxj5hdvh+QNgP6g+eHzwlQBB4Mx6NLQ4Wb6hvyYa7KhYYvFvMSeH/3TZvu1MYRGCCH0esEEmTabSgjUNqti3mxocRoJhXbKS927BoWyJmX8/Juf/hwdQpLIMxGC8yUQUk6R8FGChSU7jQFEv0ILpyB5qG6hfWwkoh/PoXvjTHBpQ35m+c2ynOQcXAm8npoZyGLC4kAFbUEvFDkKnF9k/e84J86Znf3L4rYvzUorlQZiKo61ZBxuw3geXQfo6aqvRphbylrDWD79yX2BaJoBjEvPROUk=;gHYnN9SK3sSKinajXODNUg=="
 ---
 
