@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M52S
 publishedDateTime: 2017-11-08T12:09:20Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tn0P_1RLZaI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "o8I9q56xqe0el4ufxT63l5FW1cRDExk4DpxQwOzJySpiAl+DymHFNe4b0lWB7hYyWV+FTU7VijDFxYVGOfSnk1YJjVMW067sPsfYstkKFr1q/1a1zVGUfv74FucAo4BQaVQ1eLNbYmMeRdnBR4fwERvU3zzgwTsNDyREXyCxIkM1Rzz8kdm4O8r3yGyjvI4MdHbvEZoV1CHUFT8p7gXwu6U0YKTqRtq6GM8ICzVkUeIl+1LU+EcdFdRnWwKUWpXelOM0aY4EUE/+8H3aq9MLq21gJq+NElXvFn+3jJrCefkry/QFVJNAFnraF3WYxp+2Kumbq9hVwZEakUpNcwU5bC4N3EjBlfJ3sSBy/kKPOQqiVh2bhpnwnttjzvwlgqYDiQq82iiFS9054YVbvQHTBqwKSeSXzTF+xwHKp0ciVew=;Oyw/rCsJ1/SWPlYBzg+Yvw=="
+secured: "NYLeagIe5DeejlmnRKE8Er2qpLK6gvP4FiKGGb+m6KNLPBCnA7IXsmntXE+csZq+5CsaKkNk5O8cpD/4YbUXZlNApR+mNBUPSY89uXiw0tx0Bq/NMYNDH5Phc83iAWNjdL0oD6MkzlkI9IhCmWTgjiPZ0nAXc1dWrAoU7OWIx6q+fNgOr8XF955BACHVLx5JmcLwp9OUYB0514Mg/7pLSY1vAU9H94LLlMc5JiHAmmjPSj+8jC9E4nFPukCP8E10F+qVuSti1wQ5Wjj9uuZ/6tNmNKjG1LArnkalkV0OFYSFKLCb5gT06ZnMn7kRqWfhbqswKV1l2B05SdXvQ1ddSQignnKYLw//W6tQ2HdDnWWEQmtRkJPLLqN1x8nmX/4QAcwYogvQ/G2P1CfbEZ7mHPx6pbpixGmw4VIZEas2+cc=;I0XwCLMDec3Ssi4mVtjWrA=="
 ---
 
