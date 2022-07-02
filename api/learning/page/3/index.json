@@ -390,8 +390,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 1399,
-        "average": 4.838456
+        "count": 1400,
+        "average": 4.8378572
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1364,8 +1364,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 4044,
-            "average": 4.6948566
+            "count": 4045,
+            "average": 4.694932
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1466,8 +1466,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 14125,
-        "average": 4.7736635
+        "count": 14127,
+        "average": 4.773696
       },
       "provider": {
         "name": "Microsoft Learn",
