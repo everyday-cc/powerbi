@@ -193,6 +193,215 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-embed-power-bi-analytics.md",
+      "title": "Embed Power BI analytics",
+      "excerpt": "This learning path teaches you how to embed Power BI content in apps, develop programmatic solutions using the Power BI REST API and the Power BI Client APIs, enforce row-level security (RLS) for embedded content, automate common Power BI setup tasks, configure a development environment, and determine appropriate licensing.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-embed-power-bi-analytics/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-embed-power-bi-analytics/",
+      "length": "PT3H27M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-power-bi-embedded-intro.md",
+          "title": "Introduction to Power BI embedded analytics",
+          "excerpt": "Learn how developers can programmatically embed analytics in their apps, and about no-code embedding options for simpler requirements.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-intro/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-intro/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 36,
+            "average": 4.9444447
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-intro-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-power-bi-embedded-select.md",
+          "title": "Select a Power BI embedded analytics product",
+          "excerpt": "Learn how to select a Power BI embedded analytics product.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-select/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-select/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 20,
+            "average": 4.95
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-select-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-power-bi-embedded-permissions-content.md",
+          "title": "Set up permissions to embed Power BI content",
+          "excerpt": "Learn which settings and permissions to use for internal and external users of your app with embedded Power BI content.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-permissions-content/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-permissions-content/",
+          "length": "PT33M",
+          "ratings": {
+            "count": 14,
+            "average": 4.857143
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-permissions-content-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-power-bi-embedded-content.md",
+          "title": "Embed Power BI content",
+          "excerpt": "Learn about embedding Power BI content.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-content/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-content/",
+          "length": "PT31M",
+          "ratings": {
+            "count": 12,
+            "average": 4.75
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-content-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 7,
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-intro-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-use-dax-in-power-bi-desktop.md",
       "title": "Use DAX in Power BI Desktop",
       "excerpt": "This learning path introduces Data Analysis Expressions (DAX) and provides you with foundational skills required to enhance data models with calculations. It starts by describing Power BI Desktop model structure and how it can be enhanced with DAX calculations. It then describes how you can write DAX formulas and the different types of model calculations, including calculated tables and columns, and measures. Evaluation contexts are introduced, and subsequent lessons describe how to write DAX formulas that modify filter context. Finally, you learn to write DAX expressions using time intelligence functions and iterator functions.",
@@ -266,8 +475,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 1789,
-            "average": 4.7115707
+            "count": 1790,
+            "average": 4.711732
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -310,8 +519,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1258,
-            "average": 4.734499
+            "count": 1259,
+            "average": 4.73471
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3252,8 +3461,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 6719,
-        "average": 4.7261496
+        "count": 6720,
+        "average": 4.726042
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3318,48 +3527,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
           "width": 643,
           "height": 322,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-publish-share-power-bi.md",
-      "title": "Publish and share in Power BI",
-      "excerpt": "Publish and share your Power BI reports and dashboards to teammates in your organization or to everyone on the web.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-publish-share-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
-      "length": "PT1H4M",
-      "ratings": {
-        "count": 8939,
-        "average": 4.750867
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/publish-and-share-with-power-bi-desktop-social.png",
-          "width": 800,
-          "height": 400,
           "isCached": true
         }
       ],
