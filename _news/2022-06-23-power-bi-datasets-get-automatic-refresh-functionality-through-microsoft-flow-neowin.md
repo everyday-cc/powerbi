@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/power-bi-datasets-get-automatic-refres
 webUrl: "https://www.neowin.net/news/power-bi-datasets-get-automatic-refresh-functionality-through-microsoft-flow/"
 type: article
 quality: 70
-heat: 70
+heat: 72
 published: true
 
 provider:
