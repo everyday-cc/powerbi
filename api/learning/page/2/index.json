@@ -72,8 +72,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 11688,
-            "average": 4.75924
+            "count": 11691,
+            "average": 4.759302
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -114,8 +114,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14137,
-            "average": 4.773785
+            "count": 14138,
+            "average": 4.7738013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -174,8 +174,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 11688,
-        "average": 4.75924
+        "count": 11691,
+        "average": 4.759302
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -354,8 +354,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4926,
-            "average": 4.6764107
+            "count": 4927,
+            "average": 4.676274
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -616,8 +616,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 27938,
-        "average": 4.725714
+        "count": 27943,
+        "average": 4.7257276
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -659,8 +659,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 14137,
-        "average": 4.773785
+        "count": 14138,
+        "average": 4.7738013
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -701,8 +701,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 33543,
-        "average": 4.741824
+        "count": 33547,
+        "average": 4.741825
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1522,7 +1522,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 55,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
