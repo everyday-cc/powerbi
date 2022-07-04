@@ -337,8 +337,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 546,
-            "average": 4.7637362
+            "count": 547,
+            "average": 4.7641683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -454,8 +454,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 648,
-            "average": 4.7530866
+            "count": 649,
+            "average": 4.753467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -496,8 +496,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 597,
-            "average": 4.762144
+            "count": 598,
+            "average": 4.762542
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1018,8 +1018,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 21815,
-        "average": 4.7663536
+        "count": 21816,
+        "average": 4.766364
       },
       "provider": {
         "name": "Microsoft Learn",

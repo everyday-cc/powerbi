@@ -3772,8 +3772,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 5952,
-            "average": 4.7145495
+            "count": 5953,
+            "average": 4.7145977
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4335,8 +4335,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 39,
-            "average": 4.8717947
+            "count": 40,
+            "average": 4.875
           },
           "provider": {
             "name": "Microsoft Learn",
