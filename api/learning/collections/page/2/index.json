@@ -3815,8 +3815,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7248,
-            "average": 4.76766
+            "count": 7250,
+            "average": 4.767724
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4051,8 +4051,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3956,
-            "average": 4.726744
+            "count": 3957,
+            "average": 4.7268133
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4176,8 +4176,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12816,
-            "average": 4.6772003
+            "count": 12817,
+            "average": 4.6772256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4210,8 +4210,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9889,
-            "average": 4.7056327
+            "count": 9890,
+            "average": 4.7056623
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4377,8 +4377,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 48,
-            "average": 4.875
+            "count": 49,
+            "average": 4.877551
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4502,8 +4502,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3263,
-            "average": 4.7716823
+            "count": 3264,
+            "average": 4.771446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5086,8 +5086,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-real-time-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 8,
-            "average": 4.875
+            "count": 9,
+            "average": 4.888889
           },
           "provider": {
             "name": "Microsoft Learn",

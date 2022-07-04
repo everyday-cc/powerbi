@@ -355,7 +355,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 50,
+          "heat": 130,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1018,8 +1018,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 21816,
-        "average": 4.766364
+        "count": 21818,
+        "average": 4.7663856
       },
       "provider": {
         "name": "Microsoft Learn",
