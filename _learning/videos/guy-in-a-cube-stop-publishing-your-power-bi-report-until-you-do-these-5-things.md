@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT10M15S
 publishedDateTime: 2020-09-23T15:00:12Z
-heat: 56
+heat: 61
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rsS7E5tOtDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "5zepxFB7TMMuTa9xcifbKL1jWODwc5zApFJOhxw4+yFkUbmhvGH3rzSHrk76FrGziCqaDI1K5hGKDFZQoA8BgQM8teiNsbcX3gxfbc6fXqtHmiTEJyp+8Ffvl7y/P0aiOMcPYrJdMmS8yELAowIwk8ntnz4LZrpAg60edeIBPdEP5pdko+Dh4A97lpVhgHh6335UYjLUYrbvO3VXv3rftead6vKat0Qrvq5pm9J/rHnjR2oCnzqXK6Dzy9XkoNVhbyITC5I8ENs/UAyjiiL41sAWBKHF0JbhzS8dHDJKKoNuqU1m97hKsqQma8PDNmAY0DNgWpYFBLL/SKgUee2EBd7TCtYyZDRLemLXe7rqVuAZv3dFkMxoqSzEo/lqFMT75N3/nvORCz3DMLmw2kLu67KMnRahPe6Ys7azcJMEQ8E=;lMheBn5FK8+TIBZrW+It5g=="
+secured: "l9nsey+EULo0bFwxOUFcZZBw8FyBL7c9dXo2oLSKGW1wzH0fs9Lz/hl7QJEn+lduS7rXorBI14AJQLHCen0fwrdpctVyqSvXQ54ne6LuP7WZc5aetldLGiNGZfNQq9D9OGl9tEZjvBo7wRo+GA9dJxem1uBvIZI9fkVZXs4p2yDaYGw6l79atiiTgD7jFkL9cMy/ZVbr9KGDRUWGi5dIWZKrqH5vn105hbPEmsGASjr3nQgfalLwZHfBgWSPSpkRRm9qdTMP0EACPvhfdX9lojZCyk1wrpWl+553MdH43qXH2ecZMWvochKhagaLu9onQJB1YtD9ZIqeP+7Kh5AYK1VKxs+9AvGErAIS1gslxnrNIKM13q/NodVIQbe/VXyepxESMSChMgugexSYeUzrEFfhfJVoo0O5RrYq61I1tds=;vI48YRcuzK9aNrFlCO62NQ=="
 ---
 
