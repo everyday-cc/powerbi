@@ -530,8 +530,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9892,
-            "average": 4.705722
+            "count": 9893,
+            "average": 4.7057514
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -799,8 +799,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 9892,
-        "average": 4.705722
+        "count": 9893,
+        "average": 4.7057514
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1293,8 +1293,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
       "length": "PT41M",
       "ratings": {
-        "count": 599,
-        "average": 4.762938
+        "count": 600,
+        "average": 4.7633333
       },
       "provider": {
         "name": "Microsoft Learn",
