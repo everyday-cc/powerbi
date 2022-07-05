@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M21S
 publishedDateTime: 2020-07-03T12:41:40Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vHQjMn8L0Xw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "w2dCiDSfG8mBtJA3T5a22CWvujQQc6WGW1z93X5xBP7gxbPRSTq+hJoovsJ6Uxqe/cpkPf3E+63fq3JDpmV1iGPwpB9t8X+hkWT9XRgMj04+/a7XNz6NLWul1nJSKJgUzygyzO5cbqTZpDBT8EPzxM2vpU2IiRYIaB1Y9DwGqmGsRtYjhJDRruHdBEHjqsRwbeJanF+X4+9Z4nUs5SEJRRoQXpIm1G69PsCF55olDUS9z7reD4aItpkdAMBn9YWClhDuSRUcOVQJXtfnI3zmz5pcfGpeitxZhdc+P1MrKFYuZ1NFr6oPGVKVprmAR6KWTa6qD32RnDz6x5OivLHc4UmPIanPk+mqCu3TjLR4J4k02ZY2Ye1oy4uBlL5LhDGvPX5Cit3L2H62yaM69SAbkqfkJb8nhbozGw+ZPsF/wok=;1C7vo6oklodJ/YjfrNzzag=="
+secured: "IMU+iZrtl+Tn9N547QuEaP7gVCEih3Etk3Z8kG5/Px9+viQ4KAqdidSglZF7EsFIClFxpehnBOB3f5PlydoC4gLSV6tv2v2MhrLyebJbb2AzNb1KeoRyvxhJhg9LAf4nwECFytW8mtAYvlNZ/0YPpVTqWkh7EDiSWgYRQehqrEQt9npOitHDENGUaktLmzJavGnxPW3E6jIZWOnFTHwAG+egrYFPHdYfBBRQmO46SrBeL34dtDNBjMK7wm02TFeuqOEcyOTgc9XSVYtRjK11jIk/G76JW2x5CtOZLXI8RvmPQjVQd+Ky/vJbghejS9MoCIaxkKYZOaJX1Zs+xH5YlSsFEdR0sRXHABheoQ69LE71GIiuTVopHGqz7dsJtASQP7Y59+k+uQHzOmgpa2yGyhoAoMiLNGwo3ewD/e7HBH0=;wWqcTpLAv1fnt4ZOmXnN0g=="
 ---
 
