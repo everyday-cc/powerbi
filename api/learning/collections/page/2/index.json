@@ -3713,8 +3713,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7253,
-            "average": 4.752792
+            "count": 7256,
+            "average": 4.752894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3923,8 +3923,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4352,
-            "average": 4.7267923
+            "count": 4353,
+            "average": 4.7268553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5236,8 +5236,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-scalability-power-bi/",
           "length": "PT23M",
           "ratings": {
-            "count": 1,
-            "average": 1.0
+            "count": 2,
+            "average": 3.0
           },
           "provider": {
             "name": "Microsoft Learn",
