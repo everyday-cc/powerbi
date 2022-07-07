@@ -2,7 +2,7 @@
 title: "Vertipaq Engine explained in Power BI"
 excerpt: ""
 type: collection
-heat: 62
+heat: 61
 
 provider:
   name: Curbal
