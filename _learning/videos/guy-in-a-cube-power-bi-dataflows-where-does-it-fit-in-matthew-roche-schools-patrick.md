@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT13M36S
 publishedDateTime: 2019-09-29T18:31:59Z
-heat: 57
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lXq9GDfpv0Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "H/Qtn+B5j0itqOlbqGU5l9yQ/cMwM32naBdsoGkBYMKe79vKFk+VB4HbpQ1tbwoFJg9rPSl+8VIQHu1cyVCYw2hbIRQmOHEic4Wij0snMaVAv4w3VOMWd0A6yebXt3ku1alxQhRj/4b5y1XQ0cO2go/b50d4HjpyopPfFX02uypynUMWCubDHQ8XBf1bSXNrQ0fEboiSVKt680/anUnlZ5bqk3HRZV3LlefCwXX9U5LGMQExjeZIPieT48NaLZXZ+WQ/RkPqdPBYjayFdJjxDK237yGd5xvA+1ta9+KUg7pCJoKsjEjVRJNu+RdoKL0994OybwtTErPiXUPZ5wkTKwsG0QH2ZfYY/o9rx6nir/UmGulq+47yGhIXTMoFSPya/2CB3H2MvWA2Y3mkM8lDhvpycuisPoU04u8s3xcZ+7U=;o9JnkRyckS3sRJAX3jhVKw=="
+secured: "manLhx/sewaVIAncayONS4GJbRS+9qDBpEVEhBZzGiOGLRRakxA5CrTaNSJt4UI4Y+3cJK60teNmS5he4+sD/SjvUc+YoI56gc9uRR+dfE758nF6xU4kmIkJO0znl7i25QjkwP5AxIMHCje6qqePwNbmFVeAcxhyHO07BN8awHa3vh4Xq4VfYOdkphZNMKLIyYx27sNO+CeVBMSi8rEYEihRUut5bpAK1N0g1TYmTFkZGzusy+yHpJKC3iE1el1YU6h2v0ql8NcqO3PHQGV8umOP/4+CW+ypAMzqDb2zlndTCn6lDeN9XmaTAF3hHg8N4rnmOlYi7y77X/FGpeYHu5BM31YowpYdF5HFmqSCPRYY03BHXXptRfQcVGz7o1JoUSnhaG39J7rVsZOS1iwwevw/qpadkWdQ2hbn2BnUQMo=;rhYe8HPv3FFEUWeOtuOtYw=="
 ---
 
