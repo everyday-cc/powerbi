@@ -224,14 +224,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-dataflows-vs-datamarts-whats-the-difference.md",
-      "title": "Power BI dataflows vs datamarts: What's the difference???",
-      "excerpt": "Are you excited about datamart in Power BI? What about dataflows? Should you even use dataflows anymore? Do we just datamart all the things? Let's have a look!  Introduction to datamarts https://docs.microsoft.com/power-bi/transform-model/datamarts/datamarts-overview  Comparing dataflows to datamarts",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-dataflows-vs-datamarts-whats-the-difference/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-dataflows-vs-datamarts-whats-the-difference/",
-      "originalUrl": "https://youtube.com/watch?v=-ZAPAk_ANbk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-ZAPAk_ANbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M44S",
+      "path": "_learning/videos/guy-in-a-cube-row-level-security-and-object-level-security-together-in-power-bi-yup.md",
+      "title": "Row-Level Security and Object-Level Security together in Power BI??? Yup!",
+      "excerpt": "Struggling with using Row-Level Security (RLS) together with Object-Level Security (OLS) in Power BI? You think it can't be done? Think again! Patrick shows you how to use both together.  Announcement Blog: https://powerbi.microsoft.com/blog/object-level-security-ols-is-now-generally-available-in-power-bi-premium-and-pro/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-row-level-security-and-object-level-security-together-in-power-bi-yup/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-row-level-security-and-object-level-security-together-in-power-bi-yup/",
+      "originalUrl": "https://youtube.com/watch?v=ZYO7wGKVM0Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZYO7wGKVM0Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M23S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -244,8 +244,8 @@
           }
         ]
       },
-      "publishedDateTime": "2022-06-01T08:00:00-07:00",
-      "heat": 146,
+      "publishedDateTime": "2022-04-27T08:00:17-07:00",
+      "heat": 140,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -258,8 +258,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Dataflows"
+        "Power BI"
       ]
     },
     {
@@ -490,20 +489,20 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-export-formatted-data-tables-to-excel-in-power-bi.md",
-      "title": "Export Formatted Data Tables to Excel in Power BI",
-      "excerpt": "During this video, we will learn how we can export formatted Data tables to Excel. Now in Power BI Service, we have new feature called - \"Formatted Tables \" and using it one Paginated report is created behind the scenes and we can format the tables as well. Once it is exported to Excel, it is preserving",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-export-formatted-data-tables-to-excel-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-export-formatted-data-tables-to-excel-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=2_zCCOVXTGE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2_zCCOVXTGE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M33S",
+      "path": "_learning/videos/learn-power-bi-power-bi-how-to-use-maps-visual-qa-with-vinny-shorts.md",
+      "title": "Power BI: How to Use Maps Visual? Q&A with Vinny #Shorts",
+      "excerpt": "👉 If you have any questions, just leave us a comment.  👉 Check out our Power BI Tutorial https://youtu.be/AGrl-H87pRU ================================ #PowerBI #PowerBIBeginner #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-how-to-use-maps-visual-qa-with-vinny-shorts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-how-to-use-maps-visual-qa-with-vinny-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=BBt5w3mWpYg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BBt5w3mWpYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2022-05-31T02:50:50-07:00",
-      "heat": 132,
+      "publishedDateTime": "2022-04-13T17:03:26-07:00",
+      "heat": 131,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -520,27 +519,19 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-215-previous-row-in-dax-non-accumulated-values.md",
-      "title": "DAX Fridays #215: Previous row in DAX non-accumulated values",
-      "excerpt": "I showed you on a previous video how to get previous row using dax on an accumulated column: https://www.youtube.com/watch?v=mLZ4KISPcZ8  In today's video we will do it for non-accumulated values!  If you need a refresher on DATEADD function, here it the explainer video: https://www.youtube.com/watch?v=iw-WfZM9L3U",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-215-previous-row-in-dax-non-accumulated-values/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-215-previous-row-in-dax-non-accumulated-values/",
-      "originalUrl": "https://youtube.com/watch?v=fAinaG2gGq4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fAinaG2gGq4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M9S",
+      "path": "_learning/videos/radacad-power-bi-design-tip-design-for-mobile-device.md",
+      "title": "Power BI Design Tip   Design for Mobile Device",
+      "excerpt": "Power BI is a mobile-friendly reporting solution. Every report that you generate can be viewed on the Mobile too. However, it doesn’t mean that the report is designed for mobile, or in other words; it doesn’t mean that is it a mobile report page. You have to make some changes, and take some extra considerations",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-design-tip-design-for-mobile-device/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-design-tip-design-for-mobile-device/",
+      "originalUrl": "https://youtube.com/watch?v=Igkqp-UQzJo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Igkqp-UQzJo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M11S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2022-04-19T06:44:14-07:00",
+      "publishedDateTime": "2022-04-10T15:28:13-07:00",
       "heat": 131,
       "images": [
         {
@@ -554,8 +545,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
@@ -742,8 +732,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 41690,
-            "average": 4.79928
+            "count": 41700,
+            "average": 4.7993045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -784,8 +774,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 62732,
-            "average": 4.777769
+            "count": 62737,
+            "average": 4.7777867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -844,8 +834,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 62732,
-        "average": 4.777769
+        "count": 62737,
+        "average": 4.7777867
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -886,8 +876,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 41690,
-        "average": 4.79928
+        "count": 41700,
+        "average": 4.7993045
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1105,8 +1095,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 62732,
-            "average": 4.777769
+            "count": 62737,
+            "average": 4.7777867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1147,8 +1137,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 28089,
-            "average": 4.725729
+            "count": 28093,
+            "average": 4.725768
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1190,8 +1180,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 12731,
-            "average": 4.7275157
+            "count": 12734,
+            "average": 4.7275796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1232,8 +1222,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 9457,
-            "average": 4.770223
+            "count": 9458,
+            "average": 4.7702475
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1445,8 +1435,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 33707,
-        "average": 4.7415075
+        "count": 33714,
+        "average": 4.741413
       },
       "provider": {
         "name": "Microsoft Learn",
