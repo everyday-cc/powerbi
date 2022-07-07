@@ -1687,7 +1687,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -2175,8 +2175,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 7719,
-        "average": 4.7517815
+        "count": 7720,
+        "average": 4.7516837
       },
       "provider": {
         "name": "Microsoft Learn",
