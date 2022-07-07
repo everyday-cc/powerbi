@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-june-2022-featur
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-june-2022-feature-summary/"
 type: article
 quality: 189
-heat: 190
+heat: 191
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gu_5Q3z-qpc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
