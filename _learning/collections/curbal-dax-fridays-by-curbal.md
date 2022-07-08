@@ -180,7 +180,7 @@ items:
   - videos/curbal-dax-fridays-161firstnonblank-value-of-a-measure
   - videos/curbal-5-dax-fridays-101-order-of-evaluation-for-dax-formulas
   - videos/curbal-dax-fridays-163-best-practices-when-using-error-functions-in-dax
-  - videos/curbal-dax-fridays-164-this-you-need-to-know-about-firstnonblank-and-firstnonblankvalues
+  - videos/curbal-dax-fridays-164-this-you-need-to-know-about-firstnonblank-and-firstnonblankvalue
   - videos/curbal-dax-fridays-165-create-an-index-based-on-two-or-more-columns-using-dax
   - videos/curbal-dax-fridays-166-compare-spread-after-the-first-100-cases-recreating-the-financial-times-graph
   - videos/curbal-3-dax-fridays-101-5-things-i-wish-somebody-told-me-when-i-started-learning-dax
