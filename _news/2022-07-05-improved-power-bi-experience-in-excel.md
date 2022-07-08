@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/improved-power-bi-experie
 webUrl: "https://powerbi.microsoft.com/en-us/blog/improved-power-bi-experience-in-excel/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:
