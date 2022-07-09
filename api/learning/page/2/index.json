@@ -125,8 +125,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 33757,
-        "average": 4.741446
+        "count": 33758,
+        "average": 4.7414536
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -573,7 +573,7 @@
         ]
       },
       "publishedDateTime": "2020-09-03T03:00:12-07:00",
-      "heat": 77,
+      "heat": 76,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ePPi1LLX0sA/maxresdefault.jpg",
