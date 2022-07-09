@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/create-a-power-bi-datamar
 webUrl: "https://powerbi.microsoft.com/en-us/blog/create-a-power-bi-datamart-in-minutes/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
