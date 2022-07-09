@@ -1829,8 +1829,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1159,
-            "average": 4.7394304
+            "count": 1160,
+            "average": 4.739655
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2769,7 +2769,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-organize-fields-social.png",
@@ -3556,8 +3556,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7287,
-            "average": 4.7539454
+            "count": 7288,
+            "average": 4.753979
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3641,8 +3641,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7297,
-            "average": 4.767439
+            "count": 7298,
+            "average": 4.7674704
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4328,8 +4328,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 47,
-            "average": 4.87234
+            "count": 48,
+            "average": 4.875
           },
           "provider": {
             "name": "Microsoft Learn",
