@@ -119,8 +119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 192,
-            "average": 4.78125
+            "count": 193,
+            "average": 4.7823834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -649,8 +649,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 1462,
-        "average": 4.837209
+        "count": 1463,
+        "average": 4.837321
       },
       "provider": {
         "name": "Microsoft Learn",
