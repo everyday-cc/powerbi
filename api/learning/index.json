@@ -224,28 +224,28 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-a-deep-dive-on-field-parameters-when-how-and-why-you-should-use-them.md",
-      "title": "A deep dive on field parameters: When, how and why you should use them.",
-      "excerpt": "I asked you if you wanted another filed parameters video and you overwhelmingly said yes, so here it is:  Chapters: 00:00 Intro 01:00 First use case: change dimensions 02:55 Pros and cons of first use case 03:55 Second use case: change measures 06:09 Third use case: filter field parameters with another",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-a-deep-dive-on-field-parameters-when-how-and-why-you-should-use-them/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-a-deep-dive-on-field-parameters-when-how-and-why-you-should-use-them/",
-      "originalUrl": "https://youtube.com/watch?v=5vLBnrPyPgc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5vLBnrPyPgc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M47S",
+      "path": "_learning/videos/guy-in-a-cube-getting-started-with-azure-synapse-analytics.md",
+      "title": "Getting started with Azure Synapse Analytics",
+      "excerpt": "Not sure where to begin with Azure Synapse Analytics? Patrick gets you started and teaches you the clicks to get up and running quickly!   Get Started with Azure Synapse Analytics https://docs.microsoft.com/azure/synapse-analytics/get-started  Learn how you can become an Azure Synapse Influencer: http://aka.ms/synapseinfluencers",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-getting-started-with-azure-synapse-analytics/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-getting-started-with-azure-synapse-analytics/",
+      "originalUrl": "https://youtube.com/watch?v=tWFAxOI7CF0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tWFAxOI7CF0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M11S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-05-19T04:06:35-07:00",
-      "heat": 133,
+      "publishedDateTime": "2022-05-24T08:00:34-07:00",
+      "heat": 135,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -300,66 +300,6 @@
       ]
     },
     {
-      "path": "_learning/videos/absent-data-channel-decision-tree-classifier-machine-learning-in-power-bi.md",
-      "title": "Decision Tree Classifier - Machine Learning in Power BI",
-      "excerpt": "Learn how to build a machine learning decision tree classifier in Power BI with some simple code. In the tutorial you will learn how to modify and visualize the model output so that you get the best results  This will be achieved with simple Python code. You can find the associated files below on the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-decision-tree-classifier-machine-learning-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-decision-tree-classifier-machine-learning-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=5Ey1Fd-t4lY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5Ey1Fd-t4lY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M46S",
-      "provider": {
-        "name": "Absent Data Channel",
-        "domain": "absentdata.com"
-      },
-      "publishedDateTime": "2022-04-20T01:22:56-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-datamart-components.md",
-      "title": "Power BI Datamart components",
-      "excerpt": "What is a Power BI Datamart underneath? Can you connect to the database generated by Power BI Datamart? how the Dataset associated with the Datamart can be used? Is there a linage view? In this article and video, I'll explain These and you will learn about the components of a Power BI Datamart.  Learn",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-datamart-components/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-datamart-components/",
-      "originalUrl": "https://youtube.com/watch?v=eizc2cxuioQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eizc2cxuioQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M48S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2022-05-22T19:53:02-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-july-16-2022-member-chat-2nd-half.md",
       "title": "🔴 Power BI tips from the Pros - LIVE (July 16, 2022) (Member Chat 2nd Half)",
       "excerpt": "Join us live as we answer your questions about Power BI!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats take priority 👉 Do NOT re-post",
@@ -381,6 +321,66 @@
         ]
       },
       "publishedDateTime": "2022-07-06T05:16:24-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-fix-duplicate-value-error-in-power-bi-shorts.md",
+      "title": "Fix Duplicate Value Error in Power BI #Shorts",
+      "excerpt": "👉 If you have any questions, just leave us a comment.  👉 Check out our Power BI Tutorial https://youtu.be/AGrl-H87pRU ================================ #PowerBI #PowerBIQuestion #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-fix-duplicate-value-error-in-power-bi-shorts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-fix-duplicate-value-error-in-power-bi-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=UwmsOhe-DZ8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UwmsOhe-DZ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2022-05-17T09:00:21-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-how-to-use-maps-visual-qa-with-vinny-shorts.md",
+      "title": "Power BI: How to Use Maps Visual? Q&A with Vinny #Shorts",
+      "excerpt": "👉 If you have any questions, just leave us a comment.  👉 Check out our Power BI Tutorial https://youtu.be/AGrl-H87pRU ================================ #PowerBI #PowerBIBeginner #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-how-to-use-maps-visual-qa-with-vinny-shorts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-how-to-use-maps-visual-qa-with-vinny-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=BBt5w3mWpYg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BBt5w3mWpYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2022-04-13T17:03:26-07:00",
       "heat": 130,
       "images": [
         {
@@ -810,8 +810,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 41813,
-            "average": 4.799488
+            "count": 41817,
+            "average": 4.7994833
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -852,8 +852,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 62864,
-            "average": 4.7777743
+            "count": 62867,
+            "average": 4.777785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -912,8 +912,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 62864,
-        "average": 4.7777743
+        "count": 62867,
+        "average": 4.777785
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1030,8 +1030,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 41813,
-        "average": 4.799488
+        "count": 41817,
+        "average": 4.7994833
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1095,8 +1095,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 62864,
-            "average": 4.7777743
+            "count": 62867,
+            "average": 4.777785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1137,8 +1137,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 28144,
-            "average": 4.725661
+            "count": 28146,
+            "average": 4.7256804
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1180,8 +1180,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 12760,
-            "average": 4.7270374
+            "count": 12761,
+            "average": 4.727059
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1222,8 +1222,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 9478,
-            "average": 4.770099
+            "count": 9479,
+            "average": 4.7701235
           },
           "provider": {
             "name": "Microsoft Learn",
