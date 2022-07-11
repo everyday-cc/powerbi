@@ -1236,8 +1236,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 39,
-            "average": 4.8717947
+            "count": 40,
+            "average": 4.875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1445,8 +1445,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 430,
-            "average": 4.8093023
+            "count": 431,
+            "average": 4.809745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1655,8 +1655,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 430,
-            "average": 4.8093023
+            "count": 431,
+            "average": 4.809745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2719,7 +2719,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3555,8 +3555,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 11809,
-            "average": 4.75832
+            "count": 11812,
+            "average": 4.7583814
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3597,8 +3597,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14266,
-            "average": 4.773728
+            "count": 14267,
+            "average": 4.7737436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3722,8 +3722,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6006,
-            "average": 4.7149515
+            "count": 6007,
+            "average": 4.714999
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3765,8 +3765,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7304,
-            "average": 4.7676616
+            "count": 7306,
+            "average": 4.767725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3848,8 +3848,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3990,
-            "average": 4.728822
+            "count": 3991,
+            "average": 4.7286396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3973,8 +3973,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3290,
-            "average": 4.7714286
+            "count": 3291,
+            "average": 4.771498
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4536,8 +4536,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4595,
-            "average": 4.7353644
+            "count": 4596,
+            "average": 4.735422
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5036,8 +5036,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 54,
-            "average": 4.851852
+            "count": 55,
+            "average": 4.8545456
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5078,8 +5078,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 34,
-            "average": 4.882353
+            "count": 35,
+            "average": 4.885714
           },
           "provider": {
             "name": "Microsoft Learn",
