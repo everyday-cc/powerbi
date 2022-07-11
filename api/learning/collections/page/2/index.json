@@ -2719,7 +2719,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3555,8 +3555,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 11812,
-            "average": 4.7583814
+            "count": 11816,
+            "average": 4.7582936
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3597,8 +3597,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14267,
-            "average": 4.7737436
+            "count": 14268,
+            "average": 4.7737594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3765,8 +3765,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7306,
-            "average": 4.767725
+            "count": 7307,
+            "average": 4.767757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4015,8 +4015,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2882,
-            "average": 4.7151284
+            "count": 2883,
+            "average": 4.7141867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4057,8 +4057,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4230,
-            "average": 4.805201
+            "count": 4231,
+            "average": 4.805247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4452,8 +4452,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 12,
-            "average": 4.9166665
+            "count": 13,
+            "average": 4.923077
           },
           "provider": {
             "name": "Microsoft Learn",

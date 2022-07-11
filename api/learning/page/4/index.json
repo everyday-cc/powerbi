@@ -1935,7 +1935,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3071,8 +3071,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 11812,
-            "average": 4.7583814
+            "count": 11816,
+            "average": 4.7582936
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3113,8 +3113,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14267,
-            "average": 4.7737436
+            "count": 14268,
+            "average": 4.7737594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3173,8 +3173,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 14267,
-        "average": 4.7737436
+        "count": 14268,
+        "average": 4.7737594
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3249,8 +3249,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 1482,
-        "average": 4.8380566
+        "count": 1484,
+        "average": 4.837601
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3291,8 +3291,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 9016,
-        "average": 4.7505546
+        "count": 9017,
+        "average": 4.750582
       },
       "provider": {
         "name": "Microsoft Learn",
