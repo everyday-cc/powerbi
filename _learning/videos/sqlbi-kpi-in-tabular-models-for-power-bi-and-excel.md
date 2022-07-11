@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M58S
 publishedDateTime: 2020-10-26T19:30:17Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ux-dGDvH0fE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2MJPMnnzzcIlwfc9zmkEKkoMrD6GAGfvGmax1zcMLEzQTITiEzn+D7xL8wGTUTNHcnG+a7b5ukEuRAnxKP3L3rwS2muNlcHZE9DIkCg/MXql/Xj5QZfaOVQ9JUangeordsp0zqER7Mwu2P/ektk3aBFA11ikWgI6hZJ9XCFViayHEJxlYlbQfOJFpNv2IABQnIriHKEnnqrOfWJQBV5Wp5OrPgFY6+xpasbMyMFAMjNYYw+Je85kSAmp4CUfzUYFJpPkuPisq0g7EL6TefM2STqaDxq4UZDNbqKtJ3wqn68B5FC2ihRTUr8yLgGBAzGtYZw7Z3mki4AZr8J6V9spJ8JWmLX+7T2fb2NybX8Mdq0M7aeT4bXgV1jY1JJ2riWuINNifMU8OD2jgevmgNBOh/+WeeMa9/GSWfhD+3AcJo0=;6pTjkygrGWPH8+n7GE19QA=="
+secured: "NXkBqcN50IqKwnjwf/ngepi+mgtL5mw3mAFrmb7uyCk/X6Zj4ddXGOYib0yJbVhtZhTR1wNj2i/EMmk1mq8emWpwQ2AdmKWdxeVgYuf6aK1qxHr5s2jjeAJeTl6yxp0iaLh5Qowf2aGmM5Juxci5K51lE6ow9JUXkPZO3Vf1Yl7vcZEv6F4DWLbgd+ya42Brelz67aB/UMCEW24z5vSd2kDF9T7oNdVUYn7XWkpXn67yG15P+K5fz0pr9QY8ne/thqo8em2sqelYWEWjdB7Go9mVjpqlEi150L1GdPTkoHH2IhktmvTA3YnIyHcb8O7Wy5bzBkY9a0Jz/pF6uc+eFcJBLsh0IuSo7/PZrEzzdb/jJKUKUoR0QZ25VnUiWa5rFA7fHgXZy6f0Zu8ROYgdBZ69gpaGqfUMvJpdwXw3xQo=;er8iWWMwG3COQNEoOZLNJA=="
 ---
 
