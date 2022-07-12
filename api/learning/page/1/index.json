@@ -4,6 +4,45 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/videos/curbal-extract-function-in-power-query-removes-all-the-text-here-is-how-to-fix-it.md",
+      "title": "Extract function in Power Query removes all the text? Here is how to fix it.",
+      "excerpt": "Sometimes when you extract text in Power Query, instead of removing the text you specified, it removes the entire text. In this video I will show you when it happens and how to get around the problem.  00:00 Intro 02:00 How to do it on rows 03:00 How to do it on column headers  Here you can download",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-extract-function-in-power-query-removes-all-the-text-here-is-how-to-fix-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-extract-function-in-power-query-removes-all-the-text-here-is-how-to-fix-it/",
+      "originalUrl": "https://youtube.com/watch?v=JikBsGFfBDA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JikBsGFfBDA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M16S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-07-07T01:17:15-07:00",
+      "heat": 238,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-tutorial-from-beginner-to-pro-desktop-to-dashboard-in-60-minutes-.md",
       "title": "Power BI Tutorial From Beginner to Pro ⚡ Desktop to Dashboard in 60 Minutes ⏰",
       "excerpt": "This Complete Power BI Tutorial takes you Step-by-Step as you use Power BI Desktop to create a beautiful Power BI Dashboard. 👉 Download Power BI Files in Video at https://web.learnpowerbi.com/download?content=20190501  ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
@@ -132,82 +171,6 @@
       },
       "publishedDateTime": "2022-02-07T08:19:49-08:00",
       "heat": 165,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-getting-started-with-azure-synapse-analytics.md",
-      "title": "Getting started with Azure Synapse Analytics",
-      "excerpt": "Not sure where to begin with Azure Synapse Analytics? Patrick gets you started and teaches you the clicks to get up and running quickly!   Get Started with Azure Synapse Analytics https://docs.microsoft.com/azure/synapse-analytics/get-started  Learn how you can become an Azure Synapse Influencer: http://aka.ms/synapseinfluencers",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-getting-started-with-azure-synapse-analytics/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-getting-started-with-azure-synapse-analytics/",
-      "originalUrl": "https://youtube.com/watch?v=tWFAxOI7CF0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tWFAxOI7CF0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M11S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-05-24T08:00:34-07:00",
-      "heat": 141,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-my-excel-file-is-in-the-cloud-why-isnt-refresh-working-in-power-bi.md",
-      "title": "My Excel file is in the cloud! Why isn't refresh working in Power BI???",
-      "excerpt": "Pulling data from an Excel document in the cloud? Is your Power BI dataset not refreshing? Adam looks at why this could be the case and how to get it working.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-my-excel-file-is-in-the-cloud-why-isnt-refresh-working-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-my-excel-file-is-in-the-cloud-why-isnt-refresh-working-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=CYSMZxaXNLk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CYSMZxaXNLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M23S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-05-04T08:00:11-07:00",
-      "heat": 135,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -413,36 +376,6 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-dashboard-employee-benefits-dashboard-by-kyle-m-power-bi-challenge.md",
-      "title": "Power BI Dashboard: Employee Benefits Dashboard 📊 by Kyle M. [Power BI Challenge]",
-      "excerpt": "Watch Kyle M. show you what's possible in Power BI in just 30 days! ➔ What results can *you* get in just 30-Days? Join our 30-Day Power BI Challenge and find out. 👉 https://www.learnpowerbi.com/challenge  ➔ Connect with Kyle McWhinnie on LinkedIn at https://www.linkedin.com/in/kyle-mcwhinnie/  ================================",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-dashboard-employee-benefits-dashboard-by-kyle-m-power-bi-challenge/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-dashboard-employee-benefits-dashboard-by-kyle-m-power-bi-challenge/",
-      "originalUrl": "https://youtube.com/watch?v=kI4O_f7epsE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kI4O_f7epsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M12S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2022-05-25T09:00:32-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-track-all-your-social-media-channels-easily-in-power-bi-social-media-tracker-template-included-.md",
       "title": "Track all your social media channels EASILY in Power BI | Social media tracker template included 😊",
       "excerpt": "Track all your social media channels EASILY in Power BI | Social media tracker template included 😊  I finally was able to create a Power BI report to track all my social media accounts and not only I am going to share it with you, I will also show you how I created it so you can do it too.  About Funnel:",
@@ -481,28 +414,20 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-extract-function-in-power-query-removes-all-the-text-here-is-how-to-fix-it.md",
-      "title": "Extract function in Power Query removes all the text? Here is how to fix it.",
-      "excerpt": "Sometimes when you extract text in Power Query, instead of removing the text you specified, it removes the entire text. In this video I will show you when it happens and how to get around the problem.  00:00 Intro 02:00 How to do it on rows 03:00 How to do it on column headers  Here you can download",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-extract-function-in-power-query-removes-all-the-text-here-is-how-to-fix-it/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-extract-function-in-power-query-removes-all-the-text-here-is-how-to-fix-it/",
-      "originalUrl": "https://youtube.com/watch?v=JikBsGFfBDA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JikBsGFfBDA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M16S",
+      "path": "_learning/videos/dhruvin-shah-export-formatted-data-tables-to-excel-in-power-bi.md",
+      "title": "Export Formatted Data Tables to Excel in Power BI",
+      "excerpt": "During this video, we will learn how we can export formatted Data tables to Excel. Now in Power BI Service, we have new feature called - \"Formatted Tables \" and using it one Paginated report is created behind the scenes and we can format the tables as well. Once it is exported to Excel, it is preserving",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-export-formatted-data-tables-to-excel-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-export-formatted-data-tables-to-excel-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=2_zCCOVXTGE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2_zCCOVXTGE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M33S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2022-07-07T01:17:15-07:00",
-      "heat": 130,
+      "publishedDateTime": "2022-05-31T02:50:50-07:00",
+      "heat": 132,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -515,8 +440,79 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power Query"
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-subscription-get-report-updates-in-email.md",
+      "title": "Power BI Subscription   Get Report Updates In Email",
+      "excerpt": "Have you ever wondered is it possible to have updates of the Power BI report to be emailed to you (or some other colleagues) on a daily basis? Power BI, fortunately, has this feature, it is called Subscription. Subscriptions are helpful ways to send an up-to-date version of the report and dashboard to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-subscription-get-report-updates-in-email/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-subscription-get-report-updates-in-email/",
+      "originalUrl": "https://youtube.com/watch?v=f_Y471pKWh0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f_Y471pKWh0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M42S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-04-20T16:57:58-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-workplace-analytics-teams-insights.md",
+      "title": "Measure Teams collaboration with the Teams insights dashboard in Workplace Analytics",
+      "excerpt": "Learn how to prepare and generate useful data using the Workplace Analytics Power BI Teams insights dashboard.  Analyze Microsoft Teams adoption trends from the populated reports.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-workplace-analytics-teams-insights/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-teams-insights/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 118,
+        "average": 4.618644
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -819,7 +815,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 41942,
+            "count": 41947,
             "average": 4.79939
           },
           "provider": {
@@ -861,8 +857,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 62974,
-            "average": 4.7777815
+            "count": 62979,
+            "average": 4.777783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -921,7 +917,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 41942,
+        "count": 41947,
         "average": 4.79939
       },
       "provider": {
@@ -1077,8 +1073,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 62974,
-        "average": 4.7777815
+        "count": 62979,
+        "average": 4.777783
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1287,8 +1283,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 62974,
-            "average": 4.7777815
+            "count": 62979,
+            "average": 4.777783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1329,8 +1325,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 28188,
-            "average": 4.725734
+            "count": 28190,
+            "average": 4.7257185
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1372,8 +1368,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 12782,
-            "average": 4.7268815
+            "count": 12785,
+            "average": 4.726946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1414,8 +1410,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 9498,
-            "average": 4.770373
+            "count": 9500,
+            "average": 4.770421
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1467,44 +1463,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-whats-up-with-the-different-joins-in-azure-sql-and-azure-synapse.md",
-      "title": "What's up with the different JOINS in Azure SQL and Azure Synapse?",
-      "excerpt": "Not sure what the different JOINs mean in Azure Synapse Analytics and Azure SQL Database? Patrick walks you through the different types to get you on the right path!  Joins (SQL Server) https://docs.microsoft.com/sql/relational-databases/performance/joins?view=sql-server-ver16  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-whats-up-with-the-different-joins-in-azure-sql-and-azure-synapse/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-whats-up-with-the-different-joins-in-azure-sql-and-azure-synapse/",
-      "originalUrl": "https://youtube.com/watch?v=ZEcQ13TaIWA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZEcQ13TaIWA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M12S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-06-28T08:00:16-07:00",
-      "heat": 84,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-measures-vs-calculated-columns-in-dax-and-power-bi.md",
       "title": "Measures vs. calculated columns in DAX and Power BI",
       "excerpt": "What are the differences between measures and calculated columns in DAX and Power BI? All the answers in this short video. Do you want to know more? Start with Introducing to DAX free course: https://www.sqlbi.com/p/introducing-dax-video-course/ Go deeper with Mastering DAX: https://www.sqlbi.com/p/mastering-dax-video-course/",
@@ -1541,6 +1499,36 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-key-influencer-visual-in-power-bi.md",
+      "title": "Key Influencer Visual in Power BI",
+      "excerpt": "Welcome to Power BI & AI Visualization Step by Step Series! During this video, we will talk about one AI Powered Key Influencer Visual in Power BI. Sometimes, there is a need wherein we want to analyze different factors which are affecting our business outcome. To analyze this, we can use AI Powered",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-key-influencer-visual-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-key-influencer-visual-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=kWGKj7CH7M8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kWGKj7CH7M8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M3S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-06-29T04:52:21-07:00",
+      "heat": 81,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],
