@@ -310,8 +310,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7309,
-            "average": 4.7538652
+            "count": 7311,
+            "average": 4.753659
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -540,8 +540,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 4602,
-        "average": 4.735767
+        "count": 4604,
+        "average": 4.735882
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -624,8 +624,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 969,
-        "average": 4.748194
+        "count": 971,
+        "average": 4.7476826
       },
       "provider": {
         "name": "Microsoft Learn",
