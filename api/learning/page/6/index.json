@@ -2151,7 +2151,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 131,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -2554,8 +2554,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 14302,
-        "average": 4.773039
+        "count": 14304,
+        "average": 4.7730007
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2596,8 +2596,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 1501,
-        "average": 4.838774
+        "count": 1503,
+        "average": 4.838989
       },
       "provider": {
         "name": "Microsoft Learn",
