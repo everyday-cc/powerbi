@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/preview-data-is-now-avail
 webUrl: "https://powerbi.microsoft.com/en-us/blog/preview-data-is-now-available-in-the-dataset-details-page/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
