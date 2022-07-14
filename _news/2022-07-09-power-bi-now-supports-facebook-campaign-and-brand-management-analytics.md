@@ -7,7 +7,7 @@ originalUrl: "https://www.neowin.net/news/power-bi-now-supports-facebook-campaig
 webUrl: "https://www.neowin.net/news/power-bi-now-supports-facebook-campaign-and-brand-management-analytics/"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:
