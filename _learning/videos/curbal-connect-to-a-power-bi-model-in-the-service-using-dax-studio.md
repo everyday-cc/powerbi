@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M31S
 publishedDateTime: 2019-03-26T12:13:22Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/F-hoiNq9RfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "cFH+4QcielLaq0Ucv7IGH0BgNoQzqBflRII4N5O7B5dRLUwr1vDB5OSJc5vYMbHn8pt635IGc1g5vdArGrWqLLij4topIeePkYi9MH+nIu/zmditLz7dpB54i06ZT4Lt0YknzwZmJdfsEnF24jfvmctDPHTOEuB3dtXjZiIB2ZiieC2Z7d1JOVaREqWtVUBPFhEEDTNTrtVoH8+7+ZjRjtLzt4JuX5Mu4LA7YRqKhaC69rVEUx+Z6cH3ZV7O2AD0HBusYPa0KVZwwaEaE8JEx8DZFQQVlzmgWdr/au+tXvNzumsZHMzlW8C2xp6LJqRvBHkN4Qkm/9iAtC0KQlNeFtIaWIQSaOjvtxNmhzSJwdVfZvLDiaW4plfBtmhYEPTIirXZoF0br1IMb42/B8RLUUZC2UnqHeBTZcVUDQslBoo=;FU2+LQMxhkonoN4fpj95eQ=="
+secured: "vbuO0s4el8nHgVTGWJ/cvE/GoNotaKb325//4JNDdxSVPRyRkaYIGIPYWfzzD23Y5ZZh7jxUFMyvNxx8pp+hZsFvDalwOfye+mMwV7FKsCdGbveqM+QFD7WTmU3a8hXlErqnc/VRJjJ6Qj4uNVzTlMn2xSiSa9AzvK2luqZfO9N3DZomzXvDdOpcUk8PfiDc9HYqv089QpbjkfAmJMAf41Y6+d4DkbTjCNACFrAOmgUnqKIW9Mi78PdBTAGfKCldmdeA4qB/DlSpM7kxPuCHg2r+S5faOFOOMv4LkATAvlvPN0I6Ebpg7nWRQQ75f9zYdbYUewo6Uqu3sQ0+rMXdAcLBZNMD/3wDDtp+K87QljNIpeZZIecdyqJ5f5MQwziV1FoYIuCnGoxOPfY0z21UGxX8JhYFS6+L6un58dGrX6g=;QfvVCbc9ynU5iOb65qTe+g=="
 ---
 
