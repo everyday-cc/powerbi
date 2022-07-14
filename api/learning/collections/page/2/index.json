@@ -1948,7 +1948,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-intro-social.png",
@@ -3799,8 +3799,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6025,
-            "average": 4.714191
+            "count": 6026,
+            "average": 4.714072
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4321,8 +4321,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4244,
-            "average": 4.804901
+            "count": 4245,
+            "average": 4.8047113
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4404,8 +4404,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3996,
-            "average": 4.728729
+            "count": 3997,
+            "average": 4.7285466
           },
           "provider": {
             "name": "Microsoft Learn",
