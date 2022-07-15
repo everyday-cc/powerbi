@@ -17,12 +17,6 @@ provider:
 topics:
   - Power BI
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
-secured: "+Co6+LQYs337L4+YVIPAse98FIbr+UjOEDkowKu6nH/eXkTulJh71Y/rFAA8vLmgIgiCVCA6tw8rOXPa+M1l038Eklr6B36UzUvPxVABdcajZPmAMPHkJnr4SNrWO6UYjsAS1txw1DvGRxrUJATEGSQvcCvLPs512yP3XwDwNWXKux9zZ33rIlZgsiqBFJGmZBNurism6ZjeLf95sGI1m8w3cfHBXC5QZRiD1xHqv19DmHbXqBE6ePwj77KUx9scYRRFrQ34iN+yvvMaAuJttrBE5eY5U6RFI0hhdSiIb8zJGlH5ESAYXyGMzf98GpI1188WJwz3r9Db2qU3Pr+L1+87ErDUz+YduBKbznyQA0NP9pIymuWRZ4LvA7Ily23lCUDfekjRoplJwTT4QazZ5g==;KlfmEIbbWi5rpGDAszkxFg=="
+secured: "iOiYHsxZr8/2c5njKfdxWOu4pqjeuqSW/OooResMz965JNHpRbPK+BUHpS39Uqyuz73lUQFOy9RA0rDCuf638zaMusz7uzg6ZbCE5x+a7h36STCuc8u6bRyF+0MTuIiaG6vPR7Z5xWe/WZz1LsHpH1jv8h6ofF7WbtOclcQCWHtdrZ/B6dp7gBqqOA9VYljXjnGtMGKhFFa0109vHFOiUGX6zTHYO6tOgq3zpsJtnNCDz9hvW/QYHeYGkC1Cesf6WgD24/TS+6oXKVEROPDMK7+x8G4c6hoKv42FkFwnGxgA9LbLGBGHIU6vLHNq20A5xzyWrvrCGOVM/G4VWNS6Eahw5NaMWSTYbPGWYsVdewwS/n/r3FvSMTZkVATUoCkhvlAdtJZ9cH/d+sw6YDZ/hw==;HZX4njso034mD1tyvOkojw=="
 ---
 
