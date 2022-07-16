@@ -80,49 +80,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
-      "title": "Get data with Power BI Desktop",
-      "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
-      "length": "PT1H15M",
-      "ratings": {
-        "count": 28315,
-        "average": 4.726046
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 79,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-5-ideas-to-take-power-bi-reports-to-the-next-level.md",
       "title": "5 IDEAS to take Power BI reports to the NEXT LEVEL",
       "excerpt": "Struggling with making good Power BI reports? Adam has 5 ideas to help you take your reports to the NEXT LEVEL! You don't have to be a graphic artist to get there either!  Custom Background https://www.youtube.com/watch?v=0QvovI3aycs  Tooltips https://www.youtube.com/watch?v=z1Z1axRSMzM  Conditional",
@@ -155,48 +112,6 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-power-bi.md",
-      "title": "Introduction to Power BI",
-      "excerpt": "Introduction to Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-introduction-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 22095,
-        "average": 4.766146
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/introduction-power-bi-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -421,6 +336,49 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
+      "title": "Get data with Power BI Desktop",
+      "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
+      "length": "PT1H15M",
+      "ratings": {
+        "count": 28316,
+        "average": 4.726056
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 77,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     },
     {
@@ -1224,8 +1182,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 11919,
-            "average": 4.7592916
+            "count": 11920,
+            "average": 4.759312
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1266,8 +1224,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14361,
-            "average": 4.7731357
+            "count": 14363,
+            "average": 4.773167
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1326,8 +1284,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 11919,
-        "average": 4.7592916
+        "count": 11920,
+        "average": 4.759312
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1397,6 +1355,36 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-datamart-what-is-it-and-why-you-should-use-it.md",
+      "title": "Power BI Datamart – What is it and Why You Should Use it",
+      "excerpt": "One of the newest additions to the Power BI components is the Datamart. Power BI Datamart is more than just another feature, it is a major milestone where the development of Power BI solutions will be revolutionized based on that. This is a feature that helps both citizen data analysts and developers.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-datamart-what-is-it-and-why-you-should-use-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-datamart-what-is-it-and-why-you-should-use-it/",
+      "originalUrl": "https://youtube.com/watch?v=BQHB-MpIKpQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BQHB-MpIKpQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M4S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-05-22T19:20:41-07:00",
+      "heat": 71,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

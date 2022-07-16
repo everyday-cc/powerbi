@@ -1846,8 +1846,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enforce-power-bi-model-security/",
           "length": "PT36M",
           "ratings": {
-            "count": 14,
-            "average": 4.785714
+            "count": 15,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3966,8 +3966,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4391,
-            "average": 4.7280803
+            "count": 4392,
+            "average": 4.7281423
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4361,8 +4361,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3310,
-            "average": 4.771299
+            "count": 3312,
+            "average": 4.771437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5112,8 +5112,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 61,
-            "average": 4.852459
+            "count": 62,
+            "average": 4.854839
           },
           "provider": {
             "name": "Microsoft Learn",
