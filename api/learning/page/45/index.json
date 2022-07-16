@@ -845,8 +845,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 60,
-            "average": 4.85
+            "count": 61,
+            "average": 4.852459
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1313,8 +1313,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 335,
-        "average": 4.8358207
+        "count": 336,
+        "average": 4.8363094
       },
       "provider": {
         "name": "Microsoft Learn",
