@@ -1,22 +1,28 @@
 ---
 category: news
 title: "MyOnlineTrainingHub Offers Learning Software to Utilize Microsoft Excel and Power BI"
-excerpt: "July 14, 2022) - MyOnlineTrainingHub offers learning software to utilize Microsoft Excel and Power BI. MyOnlineTrainingHub, an online learning platform is helping users to learn how to utilize Microsoft Excel and Power BI through well-explained videos,"
-publishedDateTime: 2022-07-14T23:06:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-7-14-myonlinetraininghub-offers-learning-software-to-utilize-microsoft-excel-and-power-bi"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-7-14-myonlinetraininghub-offers-learning-software-to-utilize-microsoft-excel-and-power-bi"
+excerpt: "New York, New York–(Newsfile Corp. – July 14, 2022) – MyOnlineTrainingHub offers learning software to utilize Microsoft Excel and Power BI. MyOnlineTrainingHub, an online learning platform ..."
+publishedDateTime: 2022-07-14T23:15:00Z
+originalUrl: "https://www.digitaljournal.com/pr/myonlinetraininghub-offers-learning-software-to-utilize-microsoft-excel-and-power-bi"
+webUrl: "https://www.digitaljournal.com/pr/myonlinetraininghub-offers-learning-software-to-utilize-microsoft-excel-and-power-bi"
 type: article
-quality: 10
-heat: 10
+quality: 30
+heat: 30
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Power BI
 
-secured: "HpEvMSzLyZI2vil6Dlj3NH3gsyHkzd93AB06bEIxGMtxiU0BJaMUo+oEPJQSUv2Scv+Eqo2OlqK5WkphYe4sdS4CHYnL+8cOykoUftvGGt+MaUMdLN7CM3UrqwFmRymoDbr8OZ5Hpx35Zn1VJSbKMpFhKEhPgfIINJpQAAA9SKkXS2qp/DNQzvBNrX/RNnHkkQh8VRS/zrktN6/ij3YE8LinKIqeakw8elt79oR5fQuU/viMRbYClC6XgCg5UjjjP4Nl4M05+H9zL7YywIN2PKttqoG8Ev1q5ARCAOm7njVpOA3Mntx/OUZWL9RfWC0IRzvmdaZR8fTq+yba9OuYqVZXMrSLFmFuz0ZQYtwtRjC4Vxu4JhsyCySbfVBir6MHQApd7UrX6ZAzFAWrTZYjhznj3K0Ua2qS7YX0egxINl11WtWoly5xzeCMBUwBMPCokNwhgeZNCfN9HW7Qu5Chmzur4ZUVLvPbo12vBhsipLH7C/9nfv8Fx0Tdzt62VXPLoMKmZyCW/spQLarjBeajkg==;ZWxT0skWUcoLt7jHRh92hA=="
+images:
+  - url: "https://images.newsfilecorp.com/files/8896/130927_7f0dc8e3a4e93acc_001.jpg"
+    width: 550
+    height: 339
+    isCached: true
+
+secured: "9u7ZlhfXdv8aMbMNSMbbG1qJYFuk6H10iq4ftjfOIKcXBoAsZLE3YcqLaq02dixo7+f81TZyxY91O3bvOozEI1nTlg+XvRxDxX7rGRGzy6m2iUJeedb6vsg0TMdxD9bb+lqVMXHW97uNWSEATu9G1hM488L6UMx3IGWU963iCXvyena2n5hnucG+/cQvCLVZ6f8Zn73Bg+5mf9Kl0NfxQ/Vh6edOMtOqrxEm+BOzsDGfjAUA7vnb6C8EM+K6sFGxhhKLdVtUPHI3efUlOy4TyYAEzzUyyBp9AiLNtm9+j/fnvOw2xbtP7HmJG64tJmLMpa46xoU+XrNWgQcFQXj7qvVe+uYTc2tteCKs5NIMAds=;QN9xLn2E4klPH7wmoRaaQQ=="
 ---
 
