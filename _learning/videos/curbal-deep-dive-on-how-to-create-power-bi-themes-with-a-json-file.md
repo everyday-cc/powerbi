@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT21M32S
 publishedDateTime: 2020-04-22T09:47:18Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/653WPu_v9Ec\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "BMuUpmVlMAt2LJ4f/d62dhCbC0tyS/Cem54dQXZKzPFxrxdIMVZjMhquOzNi/tAKH3aALC6SyN7UHEVRkMoVTK/qasnzK4GNEdaAVAJVszQulYI9QEMzANvEQ9467WeadoqoqesAl1bbdCtqaAFAZ5HcM+YqscWPnIZfPX7H21ULUaqdAkIfsMV2f7YZ3d8OYD68t7nBqSatC5+bG5r1eesVapCQ2mXoDoQlgw+SHLw2OmIMKCG3y0PH0mvJoOHItftSfh3Uvd/R0sX4u1aaBS/FxpqS/Td4JeGgKe9DYCkrCNn93YabgSGmlDTERohRxeODLQPXsJnr37l1tO8j4/Ag6aS0gyDqZ2hjBabOnqTRfGuJZlGZaqByuI7gjofbGElY3Q9nfowH2YKwVNnWfYvF+xl7qToxVgSp6YimRsY=;h92VUXxn5v/jwz7ou5f73g=="
+secured: "AKEclz1cnBhXhk4kyT40/Gg/Vpn/XoU38a//PemVDHnsUR0si/1jsMGanEkdoMMlqGGgyHgLDraiG6L61ctuSqRKsKTdlmXZ8CktM4F7JWcbKBv3P2Bb7U/Vhqsy/LunO1ZWMczJFsH9VcDfUwqx00/GqNYnWeDXQUPa6HqpIN9aP5Gz2/CYATiIASpIw+QTlcSb72hdaAe3I05oNXz7mgo9hbAaZQL78zx9TdmE5VWXEc2ig6d78F/GBTjnlmag+GbT9SeD4Kox4U9v9IYUNGrDNm9jkrgf6qLX9CGf35pvATz8sHdr8t6IVRVk26+MHOUFB4ackl01qLfUaa3b55nv55/OA/Tdj1vnHFeYoaWiRzqyL1iKmoEar94cKZQQaTaGKjmZeQcciZLC3mx9vxXEn3xMUxtNEgfoDcCaIrs=;P9YqWL4arGiiSaoU3jByLw=="
 ---
 
