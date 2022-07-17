@@ -179,28 +179,28 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-publish-from-power-bi-desktop-for-external-users.md",
-      "title": "Publish from Power BI Desktop for External Users",
-      "excerpt": "Have you ever wanted to publish from Power BI Desktop to a different organization? External Users publishing!!! I show you how you can log in as an external user in Power BI Desktop and then publish. BANANAS!!!  Ross Couldrey LinkedIn: https://www.linkedin.com/in/rosscouldrey/  Distribute Power BI content",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-publish-from-power-bi-desktop-for-external-users/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-publish-from-power-bi-desktop-for-external-users/",
-      "originalUrl": "https://youtube.com/watch?v=x1xMxRXQ2So",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x1xMxRXQ2So\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M42S",
+      "path": "_learning/videos/curbal-learn-how-to-create-stunning-maps-in-power-bi-gartner-remake.md",
+      "title": "Learn how to create STUNNING maps in Power Bi | Gartner remake",
+      "excerpt": "It is finally here!!! In today's video I will show you how to recreate the map that the Power BI team created for the Gartner summit EMEA.  You can get the file here: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyzing-the-UN-s-Sustainable-Development-Goals-at-Gartner-Data/td-p/2527235  Here",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-learn-how-to-create-stunning-maps-in-power-bi-gartner-remake/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-learn-how-to-create-stunning-maps-in-power-bi-gartner-remake/",
+      "originalUrl": "https://youtube.com/watch?v=OQuKwy6eEDk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OQuKwy6eEDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M57S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-06-16T08:00:29-07:00",
-      "heat": 139,
+      "publishedDateTime": "2022-06-07T01:25:30-07:00",
+      "heat": 135,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -213,33 +213,54 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power BI Desktop"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-demystifying-custom-partitions-in-power-bi.md",
-      "title": "Demystifying Custom Partitions in Power BI",
-      "excerpt": "We talk about Incremental Refresh a lot, but what if you need custom partitions in Power BI? How do you even create those? They look scary! Patrick takes the mystery away and walks you through how you can create them.  Partitions in tabular models https://docs.microsoft.com/analysis-services/tabular-models/partitions-ssas-tabular",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-demystifying-custom-partitions-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-demystifying-custom-partitions-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=6CRqdsLjHNA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6CRqdsLjHNA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M21S",
+      "path": "_learning/videos/learn-power-bi-is-power-bi-free-or-paid-the-good-news-and-bad-news-tips-on-getting-started.md",
+      "title": "Is Power BI Free or Paid? The Good News and Bad News + 💡 Tips on Getting Started",
+      "excerpt": "Is Power BI Free or Paid? It’s a simple question, with a not so simple answer. But we’d break it down for you and show you what’s free and how you can get it. 👉 After this video, start Learning Power BI with our #1 Ranked Tutorial: https://youtu.be/AGrl-H87pRU ==Topics Covered== 00:00 Introduction 00:25",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-is-power-bi-free-or-paid-the-good-news-and-bad-news-tips-on-getting-started/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-is-power-bi-free-or-paid-the-good-news-and-bad-news-tips-on-getting-started/",
+      "originalUrl": "https://youtube.com/watch?v=jd_sa2B6Ddw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jd_sa2B6Ddw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M22S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2022-04-21T08:00:06-07:00",
-      "heat": 134,
+      "publishedDateTime": "2022-06-15T10:04:29-07:00",
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-export-formatted-data-tables-to-excel-in-power-bi.md",
+      "title": "Export Formatted Data Tables to Excel in Power BI",
+      "excerpt": "During this video, we will learn how we can export formatted Data tables to Excel. Now in Power BI Service, we have new feature called - \"Formatted Tables \" and using it one Paginated report is created behind the scenes and we can format the tables as well. Once it is exported to Excel, it is preserving",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-export-formatted-data-tables-to-excel-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-export-formatted-data-tables-to-excel-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=2_zCCOVXTGE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2_zCCOVXTGE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M33S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-05-31T02:50:50-07:00",
+      "heat": 131,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -277,48 +298,6 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-embedded-content.md",
-      "title": "Embed Power BI content",
-      "excerpt": "Learn about embedding Power BI content.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-content/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-content/",
-      "length": "PT31M",
-      "ratings": {
-        "count": 12,
-        "average": 4.75
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-content-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
       "topics": [
         "Power BI"
       ]
@@ -364,7 +343,7 @@
             ]
           },
           "publishedDateTime": "2021-01-14T08:21:12-08:00",
-          "heat": 100,
+          "heat": 96,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -402,7 +381,7 @@
             ]
           },
           "publishedDateTime": "2021-01-21T08:00:02-08:00",
-          "heat": 74,
+          "heat": 76,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/B_bAKrXAUh0/maxresdefault.jpg",
@@ -803,7 +782,7 @@
         ]
       },
       "publishedDateTime": "2021-01-14T08:21:12-08:00",
-      "heat": 100,
+      "heat": 96,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -850,8 +829,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 42229,
-            "average": 4.7995214
+            "count": 42230,
+            "average": 4.799526
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1071,8 +1050,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 42229,
-        "average": 4.7995214
+        "count": 42230,
+        "average": 4.799526
       },
       "provider": {
         "name": "Microsoft Learn",
