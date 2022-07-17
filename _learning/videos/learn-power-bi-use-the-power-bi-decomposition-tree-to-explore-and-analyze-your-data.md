@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M15S
 publishedDateTime: 2019-12-04T17:00:02Z
-heat: 60
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5_wN-kUIcGs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "8BqfHPwN/OimfbZgvs1utb8k253PX2NoX5i30udRiqVfICd/6w9spyGNo5fTwh71blPU7K3me3W0nJaN/C/hnnffBxjsO7wOqcyfZ1VpZcFbreKGIsm4ZBjutpVYryH6mum+19PeO81I3yUau34Vq8rGpX2nUigm/QxGA4c223ZGaOf0t1TTMXBNFx6vCCxlDdjyl/fF2QO1A2FD7LnK+iMlGfNlMzA8/qnY/4cJTFVTlDfDPThPCjn67RrVorrYOiPWMPpMhWJYg3affSDoc5WkaJMM5HnaQodcVk1dWVfJ0nQDhpfyyB6jABGYeRgEdsptnKaD/hses8CbiY6UFCdWgqtfHcyGquhR6GRAEE1UhPdo9kzthRkrNOWwE+jn96V3b5AqO2HkIPj+xGLEo+bhes1tg79P+MG+AFUCutc=;X2PS5T1/GUDanl1OoFcc2g=="
+secured: "gO+UB+h2Famz0sM0ty20A+qI6JxoMJgqOfL0igSf+BMR/Ux07xlHLS7sF8kj/DJI2005NwhZ9iqsBHNXlaaxlgDbNQ3hYq8G23Zlj2OGa9LaxcDm0wUZyRyFpTccNZmTtNK5KJp5ktV/bkKIzL6yyrx19T7kJCqrjb0hoocIW9zb2ysddrnFWOVFKt0DF6psMmgLNq0Uw5ORDJWKHrS5scp0+m+v4mZq6AYacDjgPqiPEFiR8y/gzblj0aY+hiHDeN98o5jA19cKzB8HOXbcIdREaQFMejUmyfYLLxNzkagPmAAZk5fbcbB74OvvIHwv7GAAOx3p3fwECw4PfMCbDeamiBudBSfRqWxIwFzhjABTkVCBxm0RZiEfrzMlTQWgadjxjAkVNvsOpn7AGwmz26SgfHYD7e6GCLa8WWp5O+w=;PGeLP66nEEQbb7InTnIc1Q=="
 ---
 

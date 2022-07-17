@@ -1984,8 +1984,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-power-bi-model-relationships/",
           "length": "PT45M",
           "ratings": {
-            "count": 21,
-            "average": 4.857143
+            "count": 22,
+            "average": 4.8636365
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2070,8 +2070,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-calculation-groups/",
           "length": "PT1H3M",
           "ratings": {
-            "count": 17,
-            "average": 4.647059
+            "count": 18,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3644,8 +3644,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6040,
-            "average": 4.7142386
+            "count": 6041,
+            "average": 4.714286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4916,8 +4916,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 55,
-            "average": 4.8727274
+            "count": 56,
+            "average": 4.875
           },
           "provider": {
             "name": "Microsoft Learn",
