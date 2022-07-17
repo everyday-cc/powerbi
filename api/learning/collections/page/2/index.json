@@ -2522,7 +2522,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-organize-fields-social.png",
@@ -3692,8 +3692,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6041,
-            "average": 4.714286
+            "count": 6042,
+            "average": 4.714333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3735,8 +3735,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7344,
-            "average": 4.76811
+            "count": 7345,
+            "average": 4.7680054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3943,8 +3943,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12880,
-            "average": 4.6770186
+            "count": 12881,
+            "average": 4.676966
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4102,8 +4102,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3313,
-            "average": 4.7715063
+            "count": 3314,
+            "average": 4.771575
           },
           "provider": {
             "name": "Microsoft Learn",
