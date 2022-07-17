@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thewindowsclub.com/how-to-download-and-use-power-bi-desk
 cdnAmpWebUrl: "https://www-thewindowsclub-com.cdn.ampproject.org/c/s/www.thewindowsclub.com/how-to-download-and-use-power-bi-desktop?amp"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
