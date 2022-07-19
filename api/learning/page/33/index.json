@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 61,
-        "average": 4.885246
+        "count": 62,
+        "average": 4.887097
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-filters/",
       "length": "PT45M",
       "ratings": {
-        "count": 291,
-        "average": 4.7525773
+        "count": 292,
+        "average": 4.7534246
       },
       "provider": {
         "name": "Microsoft Learn",
