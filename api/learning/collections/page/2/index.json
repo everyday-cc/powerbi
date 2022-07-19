@@ -2939,8 +2939,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 77,
-            "average": 4.662338
+            "count": 78,
+            "average": 4.6282053
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2999,7 +2999,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-calculations-social.png",
@@ -3566,8 +3566,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14395,
-            "average": 4.7729073
+            "count": 14397,
+            "average": 4.7729387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5047,8 +5047,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4624,
-            "average": 4.735943
+            "count": 4625,
+            "average": 4.736
           },
           "provider": {
             "name": "Microsoft Learn",
