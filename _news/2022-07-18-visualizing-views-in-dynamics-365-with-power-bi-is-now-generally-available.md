@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/visualizing-views-in-dyna
 webUrl: "https://powerbi.microsoft.com/en-us/blog/visualizing-views-in-dynamics-365-generally-available/"
 type: article
 quality: 85
-heat: 85
+heat: 86
 published: true
 
 provider:
