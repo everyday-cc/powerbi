@@ -2,7 +2,7 @@
 title: "Power BI Overview Course for Complete Beginners"
 excerpt: "Get started with Power BI with this easy to follow free course on Power BI fundamentals"
 type: collection
-heat: 61
+heat: 60
 
 provider:
   name: Absent Data Channel
