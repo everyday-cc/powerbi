@@ -6,8 +6,8 @@ publishedDateTime: 2022-07-14T23:37:00Z
 originalUrl: "https://www.theobserver.ca/newsfile/130927-myonlinetraininghub-offers-learning-software-to-utilize-microsoft-excel-and-power-bi"
 webUrl: "https://www.theobserver.ca/newsfile/130927-myonlinetraininghub-offers-learning-software-to-utilize-microsoft-excel-and-power-bi"
 type: article
-quality: 30
-heat: 30
+quality: 10
+heat: 10
 published: false
 
 provider:
@@ -17,12 +17,6 @@ provider:
 topics:
   - Power BI
 
-images:
-  - url: "https://smartcdn.gprod.postmedia.digital/nexus/wp-content/uploads/2021/11/newsfile-104620.jpg"
-    width: 500
-    height: 375
-    isCached: true
-
-secured: "6KHsFXsyBqhl7if50xS9fv7MV+/spT4tHIaqXxWCaSauS0F/ojkUPZrlxjt81UOrkkPpLh7GdDzHywgai26JHnqWlC6ZJsp0PyVGXtW7vMPAG96gk3pb43eQYytAemToTqs2ECTBZr/3G+eLzSuaJVg591zYsPdNXLlZsbR5syBHYa0leewcsVyGIY4m3DOdpz39wEy+p8xzjgrCeeFczeL+6AE3ZcRkIzuCrnX/5P7I6YLxhOJrdjtLoeX1OK10aJScd1ELqh39DK6UIl0+q3eSX2kGDw0LYQ/68Od45ujvEjlA8wKubUHG6hZYt2x8iNRM6zgNNpKfQD9G8EoS5WAs/qhaMJNS4z70t8N1a28=;TAcCIQBImxgVKtNGX8wFFg=="
+secured: "q+7jobLaPEd8nA/azvpfsRFwer/sKw0pn7BPXKV4QBhPgNjZfF4vjCNyxXFRKTzkIYVP3M7WekdF6X1kHxj5lW3k3RiRkb/uRuGD0+yCu+RfcFWZ9JUrZTLBfs8vp+x1cS4XFaasc0uuIMm++TlIjI436m0ymXRHj9IzNSAwf9UwMyqyMatjydG7ZrCxgQn5peTxRUsiYL/EaFXesJHeJ2v+IeOWCxbpVqM/1aRirsY2me6dIxDYFw+YIABVRSyOTFDBbgQqoiw+3X/EAqbvbSRNZJK4u2Yrn1JpEjsSf7lxquYtCxBm0YI7a+uLKm8EGD3ZV+zi0wBBdicW5p++Q4/uIF9GALlty1HfpUbn1dE=;jU8CtXzRkrwhYfA46KZSXA=="
 ---
 
