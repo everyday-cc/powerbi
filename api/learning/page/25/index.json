@@ -905,8 +905,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 14,
-            "average": 4.785714
+            "count": 15,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1030,8 +1030,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-real-time-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 26,
-            "average": 4.730769
+            "count": 27,
+            "average": 4.703704
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1293,8 +1293,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-real-time-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 26,
-        "average": 4.730769
+        "count": 27,
+        "average": 4.703704
       },
       "provider": {
         "name": "Microsoft Learn",
