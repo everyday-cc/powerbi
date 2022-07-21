@@ -670,8 +670,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 340,
-        "average": 4.8382354
+        "count": 341,
+        "average": 4.83871
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -839,8 +839,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-power-platform-to-sap-azure/",
       "length": "PT33M",
       "ratings": {
-        "count": 29,
-        "average": 4.793103
+        "count": 30,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -923,8 +923,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-power-bi-model-relationships/",
       "length": "PT45M",
       "ratings": {
-        "count": 22,
-        "average": 4.8636365
+        "count": 23,
+        "average": 4.869565
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1007,8 +1007,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1289,
-        "average": 4.731575
+        "count": 1290,
+        "average": 4.731783
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1138,8 +1138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1174,
-        "average": 4.738501
+        "count": 1175,
+        "average": 4.7387233
       },
       "provider": {
         "name": "Microsoft Learn",
