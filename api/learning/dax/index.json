@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2022-07-19T03:00:20-07:00",
-      "heat": 241,
+      "heat": 204,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -1808,8 +1808,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 1832,
-            "average": 4.7112446
+            "count": 1834,
+            "average": 4.710469
           },
           "provider": {
             "name": "Microsoft Learn",
