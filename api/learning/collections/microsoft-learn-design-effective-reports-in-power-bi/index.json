@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 56,
+      "heat": 57,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-structure-social.png",
@@ -221,8 +221,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-ui/",
       "length": "PT32M",
       "ratings": {
-        "count": 289,
-        "average": 4.8200693
+        "count": 290,
+        "average": 4.8206897
       },
       "provider": {
         "name": "Microsoft Learn",
