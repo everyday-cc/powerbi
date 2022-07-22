@@ -225,6 +225,44 @@
       ]
     },
     {
+      "path": "_learning/videos/sqlbi-fields-parameters-in-power-bi.md",
+      "title": "Fields parameters in Power BI",
+      "excerpt": "This video analyzes the dynamic parameters feature in Power BI, unveiling some of the internals of its implementation.\r IMPORTANT: While this feature is in preview, you must enable it in Power BI Desktop in Options / Global / Preview Features / Field parameters. If you do not enable the feature, also",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-fields-parameters-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-fields-parameters-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=TufnsAxJsjs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TufnsAxJsjs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M38S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-05-24T03:00:32-07:00",
+      "heat": 153,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-variables-in-power-query-how-and-practical-use-case.md",
       "title": "Variables in power query | How and practical use case",
       "excerpt": "In this video I will show you filter your table by the last available record using variables in Power Query.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
@@ -261,74 +299,6 @@
       "topics": [
         "Power BI",
         "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-datamart-what-is-it-and-why-you-should-use-it.md",
-      "title": "Power BI Datamart – What is it and Why You Should Use it",
-      "excerpt": "One of the newest additions to the Power BI components is the Datamart. Power BI Datamart is more than just another feature, it is a major milestone where the development of Power BI solutions will be revolutionized based on that. This is a feature that helps both citizen data analysts and developers.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-datamart-what-is-it-and-why-you-should-use-it/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-datamart-what-is-it-and-why-you-should-use-it/",
-      "originalUrl": "https://youtube.com/watch?v=BQHB-MpIKpQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BQHB-MpIKpQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M4S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2022-05-22T19:20:41-07:00",
-      "heat": 146,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-getting-started-with-azure-synapse-analytics.md",
-      "title": "Getting started with Azure Synapse Analytics",
-      "excerpt": "Not sure where to begin with Azure Synapse Analytics? Patrick gets you started and teaches you the clicks to get up and running quickly!   Get Started with Azure Synapse Analytics https://docs.microsoft.com/azure/synapse-analytics/get-started  Learn how you can become an Azure Synapse Influencer: http://aka.ms/synapseinfluencers",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-getting-started-with-azure-synapse-analytics/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-getting-started-with-azure-synapse-analytics/",
-      "originalUrl": "https://youtube.com/watch?v=tWFAxOI7CF0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tWFAxOI7CF0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M11S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-05-24T08:00:34-07:00",
-      "heat": 141,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     },
     {
@@ -521,20 +491,66 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-how-to-create-aging-reports-by-binsbuckets-shorts.md",
-      "title": "How to Create Aging Reports 👵 by Bins/Buckets #Shorts",
-      "excerpt": "👉 If you have any questions, just leave us a comment.  👉 Check out our Power BI Tutorial https://youtu.be/AGrl-H87pRU ================================ #PowerBI #PowerBIBeginner #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-how-to-create-aging-reports-by-binsbuckets-shorts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-how-to-create-aging-reports-by-binsbuckets-shorts/",
-      "originalUrl": "https://youtube.com/watch?v=gih7tgAZmP8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gih7tgAZmP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43S",
+      "path": "_learning/videos/guy-in-a-cube-reduce-the-queries-being-sent-with-incremental-refresh-in-power-bi.md",
+      "title": "Reduce the queries being sent with Incremental Refresh in Power BI!",
+      "excerpt": "Have you noticed some extra queries being sent when using Incremental Refresh in Power BI? Patrick explains why this could happen and a potential workaround.  Privacy Levels:  https://docs.microsoft.com/power-bi/enterprise/desktop-privacy-levels  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-reduce-the-queries-being-sent-with-incremental-refresh-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-reduce-the-queries-being-sent-with-incremental-refresh-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=LKzIkr1NaOM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LKzIkr1NaOM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M7S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2022-05-13T21:53:29-07:00",
-      "heat": 130,
+      "publishedDateTime": "2022-05-26T08:00:10-07:00",
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-view-your-power-bi-reports-directly-in-outlook-the-good-and-the-bad.md",
+      "title": "View your Power BI reports directly in Outlook! (the good and the bad)",
+      "excerpt": "Microsoft has integrated Power BI within outlook, so you can now see Power BI reports without leaving the application. There are some if and buts, so stay tuned till the end of the video so you dont miss any important detail!  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-view-your-power-bi-reports-directly-in-outlook-the-good-and-the-bad/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-view-your-power-bi-reports-directly-in-outlook-the-good-and-the-bad/",
+      "originalUrl": "https://youtube.com/watch?v=SP7k0PJ3JoE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SP7k0PJ3JoE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M18S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-05-25T00:28:16-07:00",
+      "heat": 131,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -696,8 +712,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 42582,
-            "average": 4.7996335
+            "count": 42586,
+            "average": 4.799629
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -738,8 +754,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 63667,
-            "average": 4.777907
+            "count": 63678,
+            "average": 4.7778826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -798,8 +814,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 63667,
-        "average": 4.777907
+        "count": 63678,
+        "average": 4.7778826
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -978,8 +994,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 63667,
-            "average": 4.777907
+            "count": 63678,
+            "average": 4.7778826
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1020,8 +1036,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 28488,
-            "average": 4.725639
+            "count": 28489,
+            "average": 4.7256484
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1063,8 +1079,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 12925,
-            "average": 4.727582
+            "count": 12927,
+            "average": 4.727315
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1165,8 +1181,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 42582,
-        "average": 4.7996335
+        "count": 42586,
+        "average": 4.799629
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1322,8 +1338,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 34225,
-        "average": 4.7415633
+        "count": 34232,
+        "average": 4.7415867
       },
       "provider": {
         "name": "Microsoft Learn",
