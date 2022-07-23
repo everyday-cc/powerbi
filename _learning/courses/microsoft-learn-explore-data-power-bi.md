@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT53M
 ratings:
-  count: 7831
-  average: 4.752139
-heat: 58
+  count: 7832
+  average: 4.752043
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "ysVqvBdEmbrtSfEtlb5sYEWnxQ4iddoeA3DShxIEKlXK6Po4lVUdEFqXuHd15XTTvNEfiDDWvb8ppCdL5gvLDcuqywDl0xaGK4iIsSZUU5yRMjTJLxElaBXAopL00QmQ/IqOxwm63Fi08CEUoYPxvv4gqmx+WLm5s78EtmCn6MT/Eo2mokZdgyNol8dI/1Jp414yystpw/RQGxSTmb8KUyX+PLsDwGEy1jvUmbTO155zxrKHNTCI9IrbuYIj43V3FIlHTW9eyK7/EDjDhyD2KEZ1xCrtCe8HABoMOcTgYCuzyVdeHB/KojmUyYVVyPQZmsT/lr4JeAsHI+Jv3urxJx5YRGIvm00MLLfhIeTlkjoisFRTVpV/FlHc5Uncm410qwlU7OEllL2Q8tZUhI5YMIqfHiSIyr2oLR58wCfgWIc=;ORX+IqFy0TUlhr9HckV5lQ=="
+secured: "znsyJqLtdLAHl99uxDK3mE93vMgjCM0xjWJ3uVigkeBDUw6oMbwgHPIeUwBcDXx7ZBKIEDcLujuH7Z8nJnSEN0WjCrAss65+CqlOWD1RlT0V7n0l3p/nVGWBS/Jsi22+CDHvBezZsDLh/zFN3a4m2XQNQ5bzsR3zi3U3+D2OMQEq+UzbpYXIJ8Vav+jK6Hht43ZeQKgbalKdOumC1s1nVsGUJYLNjoPRIySIRGrByMhS2EDodHp508s8JBIwcoQcV0j2Lv1FmBLsUlO2j0+D8d5Upp8bOe3T7Be1WKxBN26LEFcA1ddxXaKhU8Q2OM7kcDB+Hr48AbgC3ShJ0/qe+Lz/EJBg8lVx29OxcMRb4oTzrVwsUVbCoaszWcDfQWHFBZji7BmzcO+7z/udomZwelICQgLV3EuPvA5v0tKnW6I=;8NpypfrAvzg/0m8Thz9DCw=="
 ---
 
