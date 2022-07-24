@@ -3721,8 +3721,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7402,
-            "average": 4.7526345
+            "count": 7403,
+            "average": 4.752668
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3889,8 +3889,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3353,
-            "average": 4.7709513
+            "count": 3354,
+            "average": 4.7710195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5035,8 +5035,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 69,
-            "average": 4.8550725
+            "count": 70,
+            "average": 4.857143
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5077,8 +5077,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 75,
-            "average": 4.866667
+            "count": 76,
+            "average": 4.868421
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5119,8 +5119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 47,
-            "average": 4.8510637
+            "count": 49,
+            "average": 4.857143
           },
           "provider": {
             "name": "Microsoft Learn",
