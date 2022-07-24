@@ -4,48 +4,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-admin-premium.md",
-      "title": "Provision Premium capacity in Power BI",
-      "excerpt": "Learn about the differences between Power BI Pro and Power BI Premium, and how Power BI Premium manages capacity resources.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-premium/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-premium/",
-      "length": "PT19M",
-      "ratings": {
-        "count": 64,
-        "average": 4.90625
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-premium-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-power-bi-admin-reach.md",
       "title": "Broaden the reach of Power BI",
       "excerpt": "Learn the various ways to share Power BI reports beyond your Power BI tenant.",
@@ -137,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-filters/",
       "length": "PT45M",
       "ratings": {
-        "count": 297,
-        "average": 4.7508416
+        "count": 298,
+        "average": 4.751678
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -263,8 +221,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-user-experience/",
       "length": "PT59M",
       "ratings": {
-        "count": 211,
-        "average": 4.8009477
+        "count": 212,
+        "average": 4.792453
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1231,6 +1189,48 @@
       "ratings": {
         "count": 0,
         "average": 0.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-understand-concepts-of-data-analytics.md",
+      "title": "Understand concepts of data analytics",
+      "excerpt": "Explore key concepts of data analytics, including types of analytics, data, and storage. Explore the analytics process and tools used to discover insights.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-understand-concepts-of-data-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-concepts-of-data-analytics/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 76,
+        "average": 4.868421
       },
       "provider": {
         "name": "Microsoft Learn",
