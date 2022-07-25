@@ -20,6 +20,7 @@ levels:
 items:
   - courses/microsoft-learn-choose-power-bi-model-framework
   - courses/microsoft-learn-understand-scalability-power-bi
+  - courses/microsoft-learn-create-manage-scalable-power-bi-dataflows
 
 topics:
   - Power BI

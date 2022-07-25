@@ -3658,8 +3658,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3359,
-            "average": 4.7713604
+            "count": 3361,
+            "average": 4.771497
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3742,8 +3742,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4302,
-            "average": 4.8054395
+            "count": 4304,
+            "average": 4.8055296
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3825,8 +3825,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7412,
-            "average": 4.7525635
+            "count": 7415,
+            "average": 4.7526636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3867,8 +3867,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6099,
-            "average": 4.7147074
+            "count": 6102,
+            "average": 4.7148476
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3910,8 +3910,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7396,
-            "average": 4.7678475
+            "count": 7397,
+            "average": 4.767879
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3993,8 +3993,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12939,
-            "average": 4.677487
+            "count": 12941,
+            "average": 4.6775365
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4027,8 +4027,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9960,
-            "average": 4.70502
+            "count": 9961,
+            "average": 4.7049494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4152,8 +4152,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4049,
-            "average": 4.726599
+            "count": 4050,
+            "average": 4.7266665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4277,8 +4277,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 22,
-            "average": 4.909091
+            "count": 23,
+            "average": 4.9130435
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4319,8 +4319,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-real-time-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 36,
-            "average": 4.75
+            "count": 37,
+            "average": 4.756757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4361,8 +4361,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4652,
-            "average": 4.734953
+            "count": 4654,
+            "average": 4.7350664
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5214,9 +5214,52 @@
           "topics": [
             "Power BI"
           ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-manage-scalable-power-bi-dataflows.md",
+          "title": "Create and manage scalable Power BI dataflows",
+          "excerpt": "Create Power BI transformation logic for reuse across your organization with Power BI dataflows. Learn how to combine Power BI dataflows with Power BI Premium for scalable ETL, and practice creating and consuming dataflows.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-manage-scalable-power-bi-dataflows/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-scalable-power-bi-dataflows/",
+          "length": "PT1H12M",
+          "ratings": {
+            "count": 1,
+            "average": 5.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Dataflows"
+          ]
         }
       ],
-      "size": 2,
+      "size": 3,
       "heat": 50,
       "images": [
         {
