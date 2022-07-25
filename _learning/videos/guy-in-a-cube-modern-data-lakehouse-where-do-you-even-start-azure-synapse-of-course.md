@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT13M54S
 publishedDateTime: 2022-06-21T15:00:35Z
-heat: 58
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zQnyy2-58Ns\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 800
     isCached: true
 
-secured: "y9p1VsvqB7oPH/7SJSAhwrIGzy0H5V1ZBWvi2Gr71xd88DZAdzmqNXVOgejHzuAgNjFJC1O5eVcI/zrRWBtCJkGL4LvUuM2fujwDsRIIqP6sED5PyMxrK99bRYPQskG7dx+5y7Sgbenr70645yhfmR/jG9AfjofLt42W9ZDaeSshgGbtOJuuZFz5aVWDtPgN7V/qg6PCAg2Wpe4lRIs2iZ0f9AssOEcY90tseviyq/y4cvgSYcJ6OK7yVVHWaQ7Py/IuAnYjKvRKEvmO/el5Q4C5YEpEa10WXS2XF/K6UbaPooghWH4BTpysooH6dN6c3GY/yAkJgbjOngdQt6mBYnwkWJMJtYboQXunPc1ZTaVCqTs/4KvVt/zlb6sCVDy1wd6GryXB6bOk/skCnDi1hCulJNdrwDxli2MFiOSXA9A=;w+Sig1C2hzKlMNMqpk9m0g=="
+secured: "+RJKKKnCars+tQA+pMyVEZYbgmprk1VmBiopi22q9J0TFK0VDmDNmdM52TBCN/GZcBvRRilacxMzQTf/x/KYoY9sJXEEr16bp/gsk+t6p0CGpFddw/YoQkZMSLgBAatv5aRz+WQGd8WLXqIKjstwg8x4TWEGMkhzQm1JTYgF08YSS/DPXHdlwqlkfZQ2pAVHzveopAcd9wChFX4YXDIdPnDREAAbzlNABnuNCujCKpbsOg4gNHUgGi4add7j2oqi1Rkv9XJZfrG+5JadXi6Cf4N4U4Pb7nxnh+vQLb/EXQ3GGOWfclSTxmR3sgtQOpiPkevZjnGgP4//i2cgldMxkfr4LbrhdZgbf11BHCPYvTEXybjnxrB1olOi3HYu864ueV3Y23Ybk2mHsSGDTZIMvfRzQZGi9MGc9GCq4uXEru4=;YWbIrbb7Q1L1R85AJ9Iw1Q=="
 ---
 

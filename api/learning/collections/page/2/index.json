@@ -654,7 +654,7 @@
             ]
           },
           "publishedDateTime": "2019-03-07T08:00:21-08:00",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/bjERMKH2blw/maxresdefault.jpg",
@@ -1721,7 +1721,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-content-social.png",
@@ -3833,8 +3833,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7392,
-            "average": 4.767857
+            "count": 7393,
+            "average": 4.7678885
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4451,8 +4451,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4650,
-            "average": 4.7348385
+            "count": 4651,
+            "average": 4.7348957
           },
           "provider": {
             "name": "Microsoft Learn",
