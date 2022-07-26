@@ -2936,8 +2936,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-monitor/",
           "length": "PT11M",
           "ratings": {
-            "count": 101,
-            "average": 4.6534653
+            "count": 102,
+            "average": 4.6568627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3883,8 +3883,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2926,
-            "average": 4.7132607
+            "count": 2927,
+            "average": 4.711992
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4176,8 +4176,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12943,
-            "average": 4.6775866
+            "count": 12944,
+            "average": 4.6776114
           },
           "provider": {
             "name": "Microsoft Learn",
