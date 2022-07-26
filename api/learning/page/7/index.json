@@ -1863,8 +1863,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enforce-power-bi-model-security/",
           "length": "PT36M",
           "ratings": {
-            "count": 18,
-            "average": 4.8333335
+            "count": 19,
+            "average": 4.8421054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2420,8 +2420,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 12085,
-        "average": 4.7585435
+        "count": 12088,
+        "average": 4.758521
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -3504,7 +3504,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3848,8 +3848,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3367,
-            "average": 4.771607
+            "count": 3368,
+            "average": 4.7716746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3890,8 +3890,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2929,
-            "average": 4.7121882
+            "count": 2930,
+            "average": 4.7122865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3932,8 +3932,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4313,
-            "average": 4.8059354
+            "count": 4316,
+            "average": 4.8060703
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4015,8 +4015,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7421,
-            "average": 4.752729
+            "count": 7422,
+            "average": 4.752762
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4100,8 +4100,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7401,
-            "average": 4.7680044
+            "count": 7402,
+            "average": 4.768036
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4183,8 +4183,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12946,
-            "average": 4.677661
+            "count": 12947,
+            "average": 4.6776857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4217,8 +4217,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9964,
-            "average": 4.7045364
+            "count": 9965,
+            "average": 4.704566
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4342,8 +4342,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4055,
-            "average": 4.726757
+            "count": 4056,
+            "average": 4.7268243
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4384,8 +4384,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4436,
-            "average": 4.7281337
+            "count": 4437,
+            "average": 4.7281947
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4551,8 +4551,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4655,
-            "average": 4.7351236
+            "count": 4656,
+            "average": 4.7351804
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5051,8 +5051,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 78,
-            "average": 4.8717947
+            "count": 79,
+            "average": 4.873418
           },
           "provider": {
             "name": "Microsoft Learn",
