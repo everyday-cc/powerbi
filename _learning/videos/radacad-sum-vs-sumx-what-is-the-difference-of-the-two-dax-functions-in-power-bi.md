@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M59S
 publishedDateTime: 2019-09-26T20:46:04Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-3snD-VOqik\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "zFWju2UFwSvrSKqfQdlmL6tJwtumDVA90HoV/2GEN+bHQ9m56xJdDWYG2bvxn9MV0cqTvk9MQ73mj0zOn6hTdok7udUoEis/lVADVZ2f/NCmmVtwfA6+gQeVif3QtDwCblfYomSWG2iSXzGW5jH7DTpt9p6QMPQ5mWV/ZogHWSFfP0STSEwzUM35Fg7HnQNB0qjHaBHAOeqLNj4Utrp/kNMLtHggRQIiYN7UcS1ju6Bpgu0GnfsCyLPIJRRAT+SdspIPDYtbZEKX6ohnDcvRomTMPbRtrcHQDWb13Gd9/zwUQicBOOw+draeIhUWmWlgtq/gMzTaIA5UPXUj/nlFWGw2mYJFy7yF5AtK0e3hsm9jkGgiXFQIjIlqZ3KVbAOCWzaOXtoBQYfOiorqaCGB95c1WB4isIjRzS8uzmbwG3U=;2FCreJT2GzrZZ7Cu9qGPwg=="
+secured: "HZE4rF8XE+iTXX0wD7lPSSGv8wKTTOCcSaDpk2/jagul/v/L5iAKSbLbNh9XAekHnE9kg/rqGYbfePIeFQzi1Eaqqmr1ijth8OIog+a9fk1ZSm/o2A2JueQ6FX5/BpBL90SXVQSlP0BhFyQIzUCSmHLo2nrpP6x1jSYJtuoI9XczBPvSscoYRGw5WbVC2e9srxmHfV0W7JttOCrxY7N/K+e+HKV/mcrPqJdOEyMfmdEvshvGLJuw7O3qZn6yYiKwLFzDsdeK3ivgu0t4kDuYQZYx4y36excEEavv+0LTYoW6ycnoD75Jb2lyaeelN3CJ1fpVwAgFry5Ey4T1R+T2/n02UCeyyEOJFEbarB3fBg1jtKKlg+JERCeYD+qKkFHS6fiV7M6wTZs5mf/MOtNHNtFboFRAtE/YyKwwYk4feKk=;3KvM2cxWkfI8d7S6cDcgIQ=="
 ---
 
