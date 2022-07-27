@@ -3,7 +3,7 @@ name: "Mike Carlo"
 bio: "Consultant for Concurrency for all things PowerBI. With over 11 years of data experience I'm making waves by deploying PowerBI into local Milwaukee Companies."
 location: United States
 type: "profile"
-heat: 50
+heat: 57
 
 affiliation:
   name: Power BI Tips
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Mike Carlo"
 
-secured: "xf6QxrUo3LqTdzY7iQSMZ71aaNpbU5RGzmE/mdZDdTRmuSUDnk56bVaCcL/3V9H9/C9FYEksLeYjIP2+h5AsKdsUXQgD7y8S1HuMGYFTIPFXPlyjSIblX8rxoBo7v1eHkViQ4GPHQX/h6+E69C1sISIy596w1BD9yU1m5v4NZt3utaSPlrogTV1lzepYsBhj7PJHUG2ZDwGyuXKbd80/qBX5+NxRU0r1Qw6ar1OBMMpl0G+eNl9+F+hLktiSFxULDKbeUZ/+UIcMomrfM56x5bjgO4aiQ2k+jA8knCG47AlekCJK5Jdm0ZqOKMIqbiHkZfxt+N10amzpc0QrHBKPkX3GVUUU5ti2YIy0OvjfRNgnP/o0e/Jd7fUF0sTpQ7gyRh24uLbKOG5TkvyCvKJbY4uup1Fsbr0EhZG8ezjRbuA=;TpbNi6lCnZHgZUwfGeaT2w=="
+secured: "q/nH/qsUCCY1FrHWgl5zPsiT9IFsD6ZDhxQAEOVPyiVPihW5CvqVMRxCOr8abEe0p6ipgs/dD2UWghmMpmhtzTPJjK40NFpHJ0wlXK/OIRAJkWBSRKQT0zZ1yCHZLg+Z54wlnqGe0xD7dshb6RU3scBhTMfg2sevontqqt1486L7d1yBPPxLlCUgqxm4Z36mz9hvStcL/aFZszg1vuqjMbBpK9o0n3li5N6HWJvjP4GpOjcIC4jdS1FoBJEY0VYUlyl/VlLwEt05y0vhNRZXiVNF3+eDYuzEz2BkyTPSumwVi3CJxLen0Xso9rKCF5MTKGgzD4qoEbP3DGUyUVCi5POr7lg5+keCDfFSsaoAB13okIqfB2HhHsbjC87330quwohf21zr3Z6a69rXhji+DCC/Wyp+fcD5CzE/AVfdvZ0=;TBU1pCBkrFnoEYrabSdbaQ=="
 ---
 
