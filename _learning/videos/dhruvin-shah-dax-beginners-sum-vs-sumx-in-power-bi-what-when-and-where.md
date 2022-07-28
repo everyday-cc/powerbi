@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M21S
 publishedDateTime: 2021-09-29T07:07:31Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bQWwj9w06K4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "17CgzYhQHdbzdkcU30OJCYl608VuhtBRUDb4je5+2bUVYKU2MC7G8K5obyvBOTPnqFrZddI3dECxpxtwRU6b6/MrobOoFW2RReyGuhgTVIDHxFLJBLcUZ3WWCeM/MEBwEqm3IZL9CA0axXxg2NpJtAYM5FYI9BZ+S9NPdqoBCgKj/2rqAPC+Y10DTZ0fQKVyYWdrTcB7YDXSZLxiFys+FHwRZxksq418d+cEuCNjo4sv5jNyTq5if3M0GbGQVlp0nQrbv/+mDrlEonKQlARSf3Qsw5UNCZ+S7wHegX1SyPjoeGmwcbOzh/g4xmfm+XDGvia0Jhpge4YluwR/S5TftxzZeKsGOQmVGEqITrBRzohSDrKMCPSpXd1UL0WBy3OgSyq2eEFWqw1PwlFKeV/tcQjqugJyH5vDFvjevEG4xtE=;EgeUSTJKz4eG/hfTB2HfMg=="
+secured: "UK+MLb40L/yuvNimeORikpnOfQLcdMfpPhmNyUYYvCnbA1GWi9lyNtk674JK85MAXIYwVbflifQsIl1D2g7oylEMdtjXeAXO0pL7R+cyHvmeb4BhaKQTAfpiOCHhJW82/pXNLBP7U3q/Ok5FyqKAyFxlpsaY17U3mzMnv/ulN5ijrhuyTqcKQ7PkvlnDvqeSceObI5fsvCTMSY1Kxhu66qVt/YkSdAwYgWuvnTrnuSO8l+X7j07cbmv81BppFqJE8SH6vA2OeRAbBkDL13qV3tceFaD99hP/L1m2tSifd31OABfstJwmZOX59C+/T9Mc53tY65MmY9rGTPKtm+flWByT9acLpkvjHBhnzo5k9gQwgB++htaybl2XxYXJ17qtXgnF6zqFIlPLUxwwG6PzGi4zYFF3pmL5z5TurUSHH70=;xA0oPdkt8U+nepRzlYcGxA=="
 ---
 
