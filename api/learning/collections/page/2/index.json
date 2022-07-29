@@ -1208,7 +1208,7 @@
             ]
           },
           "publishedDateTime": "2017-10-11T07:34:50-07:00",
-          "heat": 54,
+          "heat": 53,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/iEHfUuoZseo/maxresdefault.jpg",
@@ -4289,8 +4289,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12958,
-            "average": 4.677728
+            "count": 12959,
+            "average": 4.677753
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4365,8 +4365,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 976,
-            "average": 4.735656
+            "count": 977,
+            "average": 4.735926
           },
           "provider": {
             "name": "Microsoft Learn",
