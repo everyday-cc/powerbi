@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M5S
 publishedDateTime: 2021-06-23T15:00:00Z
-heat: 55
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aKNVLXSHRNY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "CJr1f1GcNUL8C1Ws6tL8Ap4uDLtbMpTppPJaHYv8n7nZpEL0PK0Jqyx9PUzS5/rxGWOAlGR8FQ2fG9P5fcR4HgrlBQaJEIgojKsFp74qizYOBIuXepn4n8I8qb0tXnsajEG9RKprBG5i4U9AwAAbuvTCsUk2oOvBKF8c+6WY4G2S/MA4l6tRrK2415hRFQNmy3kQNLNLRRfHfqzZem9TWqXs7KzwYu8tcHV/ONZODymzcIkd79icZONwjXCANHu5KS/M+rujX2Gk703r4CyzFeX3l7tG0G7atYwkYSiwc+SiEUMl3EIG2RCQamxhOk9ISz1+uaWU05rYqMy5JHdQqhpPhlbNjYGZ+Htc0jtO1katWpl2scz/HNcpSWKaeN6WlwF0AX9uwauCtwIO97EXhtIjMNw5uIRR/V7f15rAUx8=;KBN0x4T5Xt6JKoNioZdCaw=="
+secured: "GYNtiahMumP8l2qvvrbfCFYLhambFbOltI/nWL3QmJUsneTwgDCMd9Zf2rc1oQyA3QBgpcMgDpIATkDSy/Ds+yBxK1kJaJD2P34Z1VWfheXBEHbULsM0HO7Z8da5QgJ8JDpa1KsF2gS3xUoviBL5wEWZvBp81jYAp1tnO2KXdP713cp8VzQvHyM8zkunn1KUEnYk0SKCcGDOQkHj4q7Oe2NESz7Z3Hbdog1fuNssdJQBpsiRm1TZrUH6avUSdppw/lsbsl4895QMYeaM3fi4065hKueRUsWj2XOphNh5zofAHVso/OxaMs0KO2DgCqNCS9Rr0OoEYUj+rdb/0311Ft+HN1els2Sh82AO7lFqRXeVADg8mUIIr+QKifaY508NB5XEQcLj6JUtY5MR1Ee4YJ0S6/hbciWHQb0oJ7t5MG0=;/h8R0zCLnUu4wV61qVUYIA=="
 ---
 

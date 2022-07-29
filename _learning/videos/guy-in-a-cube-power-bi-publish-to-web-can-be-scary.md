@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT6M43S
 publishedDateTime: 2020-09-24T15:00:09Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gJFKFnOd-hU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "wVNFkG/5/C95Jf8EwTjq5wzh58Yl/FgFGsfugmsnBFdu+XdguEwWM+D5ICMPJ7UOA1NjO23FPr0h5mw1ilbUYsNizCeDsqB0jqAmAotHqLm/VV9K2uZptbzicZ+Tst+O9P5LiR88UIiiWtH4j+339kfh5XXnXvVRTYfIGGH6oapb/wnY4z8NNXJHqw3AR8klQa1f+73OptadRAzYpDKphqHw7As+oeZVrk9zhfmO+Pl7dXVMsva3OyrXxSk94vW3LbnxB1vurRuqb7S0GZbZrlphqLXZlxkycsvDUaGAiNHuQ4/N+UIx44UJiLLxVkMLxYnGeGV/lgb8hO7XaLOo9jNcygEiblkSJ6nPIkYFiLtUggicB7o/F1nc7wgp7L5cFSo7nZQUUcaP/4KPW0GT2o9F3d6cBKSXve3f0G6r5MA=;GHH+KyBrmjzDjiV4dJ1/sw=="
+secured: "mpV+SUV9B5U8+NobgTYIOYIT/5h5IZANAAHqbUqevidX0TChMcp2A28n+/66HU4GHj58A7YgVsNVfVQdz4E13JJvQekkNN8cKjNbiNf1E0MeCVBOEotsWwJsmeV9fMORQ4i+OcaDQbSNvDb1gBWLpxpk995uomVc/TwWhydAkE8PevHBJF2O9sH3jnAK7iGTFQk9S95Np3Eds7hgBpZLEAxX4h2rLZGCyhVozaD3V0nnBjkpuKJ5AsCWaoZU2BE5aX1R0BTf10w8HfftVt9Dt0NUd5m4HuFOW2Jucxz+AqOf/32qKPwpdj6AS8Ru8tyXhn1kw4p9qm+qzs7vMm/O6rokiE6IpoL9oshcLZBz6qh2IJ4360Wp58Xq7NQreJcykvX4gzXJahrNVZFOqvoETvyEqjc4agPbfZ2hLArXtWI=;rCNFNi0DSifC4T5VqX6l3A=="
 ---
 
