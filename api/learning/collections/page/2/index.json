@@ -1153,7 +1153,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-governance-social.png",
@@ -2534,7 +2534,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-governance-social.png",
@@ -3949,8 +3949,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 12965,
-            "average": 4.6777477
+            "count": 12966,
+            "average": 4.6777725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3983,8 +3983,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 9980,
-            "average": 4.7046094
+            "count": 9981,
+            "average": 4.704639
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4359,8 +4359,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4338,
-            "average": 4.8068233
+            "count": 4340,
+            "average": 4.8069124
           },
           "provider": {
             "name": "Microsoft Learn",

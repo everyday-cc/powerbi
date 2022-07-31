@@ -102,8 +102,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1080,
-            "average": 4.7462964
+            "count": 1081,
+            "average": 4.746531
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -311,8 +311,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 12189,
-            "average": 4.7582245
+            "count": 12190,
+            "average": 4.7582445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -353,8 +353,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14646,
-            "average": 4.7714734
+            "count": 14648,
+            "average": 4.771368
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -622,8 +622,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 14646,
-        "average": 4.7714734
+        "count": 14648,
+        "average": 4.771368
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -664,8 +664,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 12189,
-        "average": 4.7582245
+        "count": 12190,
+        "average": 4.7582445
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2307,8 +2307,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1130,
-            "average": 4.719469
+            "count": 1131,
+            "average": 4.719717
           },
           "provider": {
             "name": "Microsoft Learn",
