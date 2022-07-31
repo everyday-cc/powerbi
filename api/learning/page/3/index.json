@@ -144,8 +144,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 771,
-            "average": 4.769131
+            "count": 772,
+            "average": 4.76943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -478,8 +478,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 4640,
-            "average": 4.6890087
+            "count": 4641,
+            "average": 4.6890755
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2264,8 +2264,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1305,
-            "average": 4.7340994
+            "count": 1306,
+            "average": 4.734303
           },
           "provider": {
             "name": "Microsoft Learn",
