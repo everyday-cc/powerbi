@@ -1404,7 +1404,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
@@ -3768,8 +3768,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6166,
-            "average": 4.7131042
+            "count": 6167,
+            "average": 4.7131505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3811,8 +3811,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7438,
-            "average": 4.7676797
+            "count": 7439,
+            "average": 4.767576
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4172,8 +4172,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3394,
-            "average": 4.7719507
+            "count": 3395,
+            "average": 4.7720175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4256,8 +4256,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4345,
-            "average": 4.8071346
+            "count": 4346,
+            "average": 4.807179
           },
           "provider": {
             "name": "Microsoft Learn",
