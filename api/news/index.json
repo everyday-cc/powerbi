@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-01-on-premises-data-gateway-july-2022-update-is-now-available.md",
+      "title": "On-premises data gateway July 2022 update is now available",
+      "excerpt": "On-premises data gateway July 2022 update",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-01-on-premises-data-gateway-july-2022-update-is-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-july-2022-update-is-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-july-2022-update-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T04:03:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-power-bi-ideas-site-improvement-updates.md",
       "title": "Power BI Ideas site improvement updates",
       "excerpt": "Our Ideas site has been the main place for you to leave suggestions. the past year we have made improvements to the ideas site to keep the site secure, spam free and allow users to submit ideas through the Ideas portal.\r\n\r\nMany of you have since shared feedback and suggestions on how we can further improve",
@@ -134,6 +185,57 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-metric-visual-is-now-available-in-preview.md",
+      "title": "Metric visual is now available in preview",
+      "excerpt": "Metrics visual is now available.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-19-metric-visual-is-now-available-in-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/metric-visual-is-now-available-in-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/metric-visual-is-now-available-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1149,108 +1251,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-announcing-general-availability-of-automatic-aggregations.md",
-      "title": "Announcing general availability of automatic aggregations",
-      "excerpt": "Today, we are excited to announce General Availability (GA) of automatic aggregations, along with several important improvements. By using automatic aggregations in Power BI Premium, you can unlock cloud-scale data volumes for interactive analysis. Automatic aggregations import data into the dataset",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-24-announcing-general-availability-of-automatic-aggregations/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-of-automatic-aggregations/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-of-automatic-aggregations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T03:49:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-composite-models-on-sql-server-analysis-services.md",
-      "title": "Composite models on SQL Server Analysis Services",
-      "excerpt": "SQL Server 2022 Analysis Services will support composite models and it is now ready for you to try out with the CTP2 that has just launched. After you install this CTP for SQL Server 2022 on a server, tabular models are hosted on that server can now be used to create a composite model with.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-24-composite-models-on-sql-server-analysis-services/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/composite-models-on-sql-server-analysis-services/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/composite-models-on-sql-server-analysis-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T03:05:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
