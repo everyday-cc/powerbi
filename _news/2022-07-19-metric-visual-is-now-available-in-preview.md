@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/metric-visual-is-now-avai
 webUrl: "https://powerbi.microsoft.com/en-us/blog/metric-visual-is-now-available-in-preview/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
