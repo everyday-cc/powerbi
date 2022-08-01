@@ -3809,8 +3809,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7470,
-            "average": 4.751941
+            "count": 7471,
+            "average": 4.751974
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3894,8 +3894,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7434,
-            "average": 4.767689
+            "count": 7436,
+            "average": 4.767886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4255,8 +4255,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3392,
-            "average": 4.772111
+            "count": 3393,
+            "average": 4.7718835
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4956,8 +4956,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 32,
-            "average": 4.875
+            "count": 33,
+            "average": 4.878788
           },
           "provider": {
             "name": "Microsoft Learn",
