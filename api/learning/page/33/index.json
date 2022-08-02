@@ -4,6 +4,33 @@
   "page": 33,
   "value": [
     {
+      "path": "_learning/articles/excelerator-bi-dataflows-101.md",
+      "title": "Dataflows 101",
+      "excerpt": "Matt here.  I want to do a brief introduction prior to handing over to Roland.  I have known Roland for a couple of years now &#8211; he is a member of the Sydney Power BI User Group.  What I didn&#8217;t know until very recently is that he has the same [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-dataflows-101/index.json",
+      "webUrl": "https://exceleratorbi.com.au/dataflows-101/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2022-03-28T12:55:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/03/DataFlow-101-Practical-Guide-For-Business-Users-Blog.png",
+          "width": 750,
+          "height": 500,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
       "path": "_learning/articles/excelerator-bi-deep-dive-into-inforiver-export-to-excel.md",
       "title": "Deep Dive into InfoRiver Export to Excel",
       "excerpt": "This is a further article in my series where I share with you what I have learnt about the InfoRiver custom visual.  As good as Power BI is, it will take Microsoft many more years to make it fully featured.  Microsoft Excel is 37 years old, and I can assure [...]Read More »",
@@ -157,33 +184,6 @@
       "type": "article",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-extract-tabular-data-from-power-bi-service-to-excel.md",
-      "title": "Extract Tabular Data From Power BI Service to Excel",
-      "excerpt": "Level: Intermediate Updated: 10 Nov 2020 I first wrote this article about how to get tabular data from the Power BI Service into Excel back in Jan 2017.  The benefits of extracting tabular data are still the same as they were back then however the process of extracting the tabular data [...]Read More",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-extract-tabular-data-from-power-bi-service-to-excel/index.json",
-      "webUrl": "https://exceleratorbi.com.au/extract-tabular-data-power-bi-service-excel/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2020-11-09T13:40:19-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/01/export.png",
-          "width": 500,
-          "height": 250,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI",
-        "Power BI Service"
       ]
     },
     {
