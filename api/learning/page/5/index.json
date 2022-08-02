@@ -816,8 +816,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 12218,
-            "average": 4.7583075
+            "count": 12222,
+            "average": 4.7583046
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -858,8 +858,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 14678,
-            "average": 4.771154
+            "count": 14680,
+            "average": 4.7711854
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -959,7 +959,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 134,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
@@ -1127,8 +1127,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 14678,
-        "average": 4.771154
+        "count": 14680,
+        "average": 4.7711854
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1169,8 +1169,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 22458,
-        "average": 4.7659187
+        "count": 22460,
+        "average": 4.765717
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1932,8 +1932,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1090,
-            "average": 4.746789
+            "count": 1091,
+            "average": 4.747021
           },
           "provider": {
             "name": "Microsoft Learn",
