@@ -694,8 +694,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1099,
-            "average": 4.7443132
+            "count": 1101,
+            "average": 4.7447777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -712,7 +712,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 137,
+          "heat": 57,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-requirements-social.png",
@@ -1280,8 +1280,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 4204,
-            "average": 4.696242
+            "count": 4206,
+            "average": 4.6961484
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1322,8 +1322,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4687,
-            "average": 4.733518
+            "count": 4688,
+            "average": 4.733575
           },
           "provider": {
             "name": "Microsoft Learn",
