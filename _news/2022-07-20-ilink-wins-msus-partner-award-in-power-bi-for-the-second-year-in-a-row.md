@@ -1,28 +1,28 @@
 ---
 category: news
 title: "iLink Wins MSUS Partner Award in Power BI for the Second Year in a Row"
-excerpt: "Microsoft announced that iLink Digital had won the 2022 Microsoft US Partner Award in Power BI. The Microsoft US Partner Award (MSUS) program complements the global Microsoft Partner of the Year ..."
-publishedDateTime: 2022-07-20T13:00:00Z
-originalUrl: "https://www.digitaljournal.com/pr/ilink-wins-msus-partner-award-in-power-bi-for-the-second-year-in-a-row"
-webUrl: "https://www.digitaljournal.com/pr/ilink-wins-msus-partner-award-in-power-bi-for-the-second-year-in-a-row"
+excerpt: "Microsoft announced that iLink Digital had won the 2022 Microsoft US Partner Award in Power BI. The Microsoft US Partner Award (MSUS) program complements the global Microsoft Partner of the Year Award program and highlights U."
+publishedDateTime: 2022-07-20T13:11:00Z
+originalUrl: "https://apnews.com/press-release/Newswire/technology-6d8be9230364f336c9f9cab115b81840"
+webUrl: "https://apnews.com/press-release/Newswire/technology-6d8be9230364f336c9f9cab115b81840"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Power BI
 
 images:
-  - url: "https://cdn.newswire.com/files/x/df/3a/3348fa855e186e20f9805bdea87c.jpg"
-    width: 512
-    height: 267
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "+w+l/Doxv2XI/aGt7edDgQHr6Y4dbgSYCvimuRs8TIb7/Yjfz77DV4tloe3RDOgL65V6bxzzZFzAqXfXd4ucStfi6BrikHu0lreWgVTkd8nuevoGiS6cvb63s50INluGKpuZosBwQeMjddSOVKCNN3F10LFbUQY4ADa2mYHlblhmwtV9o1XwrkZFzBfHa8U0iR+6ov/LTIS2HAMdbnRsnlTvM6F1+miLCI/UgZ2s5DGPFJKeb/SblAdWZnlgXln37nPzxA0H8S9vJX+nEaBFBSFVJfjuEsS6WhMA6LHY/ozcRu2jPQ+62VWsN9ypQHQw6NpTsFJv3lI1zEdczOZa3A0q+guALEt9EwT4nPn7sMQ=;+Rk/RYZPDEuj3jbr/OTBUg=="
+secured: "LmaSW8YKXo5hI/a4tXsaoWGiNCXBSEgtxQaoP6W0GvaGKekcwpdzhQ7k8oISTVsU9ZqtKLwfoU993EfxH4SPOrvuWm7fNpPq17VM7jMPSnZv+nfBwiWujd85rqPySXZtVxAHYL1C0Jety/EkVePAzIaHGVSHTBolOEpt1lbd5eOU9YOXAd1y4dfGmGgG+JlwO/RQaNwdA4zMyPwHttk/1J9bx3mdwGqtppKL7/ShaNqC/hPuPIzQZOIIUmIz4Ml8fwgmCFkE+SCvLier65AOR3suuM2FtADl0OusQ+l5DP43vDXIkA5RKg1/jDDR/nE3UxzeY25Ga4TtWNX/3t7D/qi3wY1tCJAkIH8cNbetqew=;B/PvUXDvNls2PV7xZR2dSw=="
 ---
 
