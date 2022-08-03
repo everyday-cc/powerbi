@@ -4,6 +4,107 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/radacad-exception-reporting-in-power-bi-catch-the-error-rows-in-power-query.md",
+      "title": "Exception Reporting in Power BI Catch the Error Rows in Power Query",
+      "excerpt": "To build a robust BI system, you need to cater for errors and handle errors carefully. If you build a reporting solution that the refresh of that fails everytime an error occurs, it is not a robust system. Errors can happen by many reasons, In this video, I’ll show you a way to catch potential errors",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-exception-reporting-in-power-bi-catch-the-error-rows-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-exception-reporting-in-power-bi-catch-the-error-rows-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=EHfsD8G3hhc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EHfsD8G3hhc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M38S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-11-01T07:20:56-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EHfsD8G3hhc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-remove-digits-or-keep-them-in-power-bi-using-power-query.md",
+      "title": "Remove Digits or Keep them in Power BI Using Power Query",
+      "excerpt": "There are a couple of useful actions that help a lot in cleaning data; removing digits, or keeping digits and removing everything else. In this short video, I’ll explain a simple method to do that using Power Query. Codes are in my blog article here: https://radacad.com/remove-digits-or-keep-them-in-power-bi-using-power-query",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-remove-digits-or-keep-them-in-power-bi-using-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-remove-digits-or-keep-them-in-power-bi-using-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=pZVS3O-4Jb4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pZVS3O-4Jb4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M59S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-05-13T00:25:47-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pZVS3O-4Jb4/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-avoid-refresh-errors-with-missing-columns-in-power-bipower-query.md",
+      "title": "Avoid refresh errors with missing columns in Power BI/Power Query",
+      "excerpt": "Have you refreshed Power BI files and got errors due to missing columns or unwanted columns? Here I show you how to avoid new columns for getting added and refresh error from missing columns.  I learnt this by watching Microsoft Power BI webinar with Chris Webb: https://info.microsoft.com/CO-PowerBI-WBNR-FY16-06Jun-21-Amazing-Things-with-Power-BI-Registration.html?Is=Website",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-avoid-refresh-errors-with-missing-columns-in-power-bipower-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-avoid-refresh-errors-with-missing-columns-in-power-bipower-query/",
+      "originalUrl": "https://youtube.com/watch?v=YCCMCIktTdQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YCCMCIktTdQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M11S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-04-25T08:02:34-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YCCMCIktTdQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-d30-how-to-connect-google-sheet-with-power-bi.md",
       "title": "#D30 How to connect Google Sheet with Power BI",
       "excerpt": "In today’s video I will show you how to import data from Google sheets/ Google Docs into Power BI.  Link to the pbix file: Go to our Download Center: https://curbal.com/donwload-center and select community downloads and get #30.  Link to github: https://github.com/ruthpozuelo/Power-BI-functions-and-scripts",
@@ -347,6 +448,45 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-inside-power-query-reference-queries-for-power-bi-and-excel.md",
+      "title": "Inside Power Query reference queries for Power BI and Excel",
+      "excerpt": "Chris Webb joins Patrick to look at what happens when you use reference queries for Power Query. This applies to both Power BI and Excel. Chris also looks at how change the behavior to make things a bit faster.  Data Privacy Blog: https://blog.crossjoin.co.uk/2018/12/27/data-privacy-settings-data-refresh-performance-power-bi-excel/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-inside-power-query-reference-queries-for-power-bi-and-excel/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-inside-power-query-reference-queries-for-power-bi-and-excel/",
+      "originalUrl": "https://youtube.com/watch?v=3uKNNZqBIkg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3uKNNZqBIkg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M57S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-10T07:45:08-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3uKNNZqBIkg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-how-to-cross-join-in-power-bi-using-power-query-the-smart-and-the-dumb-way.md",
       "title": "How to Cross Join ❌ in Power BI Using Power Query: The Smart and the Dumb Way!",
       "excerpt": "How can you create a Cross Join in Power BI using Power Query? Watch the video to learn: 1. What is a Cross Join? 2. When to Use a Cross Join? 3. The Dumb Way to Cross Join (Yes, I was doing it for years) 4. The Smart Way to Cross Join  Links Mentioned in the Video: 👉 Power BI: The Ultimate Calendar",
@@ -378,23 +518,23 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-query-power-pivot-excel-power-bi-ppep.md",
-      "title": "Power BI Tutorial for Beginners: Power Query, Power Pivot, Excel, Power BI (PPEP)",
-      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysgMsPwC4&list=PL7GQQXV5Z8ef2SjkDpLnvsz7TAQjlzlpO This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files).",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-query-power-pivot-excel-power-bi-ppep/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-query-power-pivot-excel-power-bi-ppep/",
-      "originalUrl": "https://youtube.com/watch?v=82dexCjXnr0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/82dexCjXnr0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M12S",
+      "path": "_learning/videos/radacad-add-leading-zeros-to-a-number-in-power-bi-using-power-query.md",
+      "title": "Add Leading Zeros to a Number in Power BI Using Power Query",
+      "excerpt": "There are a lot of situations where you need to add some leading zeros to a number. A common example of this is to create a month-year combination code using both month and year, and making sure the month is always two digits, regardless of being 1 or 12. There are many different ways of doing that in",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-add-leading-zeros-to-a-number-in-power-bi-using-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-add-leading-zeros-to-a-number-in-power-bi-using-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=Xf1oNtIzy0s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xf1oNtIzy0s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M12S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2017-02-09T08:13:33-08:00",
+      "publishedDateTime": "2021-09-28T13:15:40-07:00",
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/82dexCjXnr0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Xf1oNtIzy0s/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -440,23 +580,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-exception-reporting-in-power-bi-catch-the-error-rows-in-power-query.md",
-      "title": "Exception Reporting in Power BI Catch the Error Rows in Power Query",
-      "excerpt": "To build a robust BI system, you need to cater for errors and handle errors carefully. If you build a reporting solution that the refresh of that fails everytime an error occurs, it is not a robust system. Errors can happen by many reasons, In this video, I’ll show you a way to catch potential errors",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-exception-reporting-in-power-bi-catch-the-error-rows-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-exception-reporting-in-power-bi-catch-the-error-rows-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=EHfsD8G3hhc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EHfsD8G3hhc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M38S",
+      "path": "_learning/videos/radacad-parse-json-data-in-a-column-using-power-query-in-power-bi.md",
+      "title": "Parse JSON data in a column using Power Query in Power BI",
+      "excerpt": "In this short video, I have explained how to pars a column that has JSON data.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-parse-json-data-in-a-column-using-power-query-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-parse-json-data-in-a-column-using-power-query-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=MJsZaWO9Uho",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MJsZaWO9Uho\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M5S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2019-11-01T07:20:56-07:00",
+      "publishedDateTime": "2020-12-07T16:26:48-08:00",
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/EHfsD8G3hhc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/MJsZaWO9Uho/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -471,23 +611,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-left-outer-join-what-it-is-and-how-to-use-it-in-power-bi-and-power-query.md",
-      "title": "Left Outer Join   What it is and how to use it in Power BI and Power Query",
-      "excerpt": "Merging two tables is one of the fundamental operations in any BI or database system. In this video, you will learn what is LEFT JOIN and how you can apply it using Power Query and Power BI. To learn more about it, read my blog here: https://radacad.com/choose-the-right-merge-join-type-in-power-bi  *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-left-outer-join-what-it-is-and-how-to-use-it-in-power-bi-and-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-left-outer-join-what-it-is-and-how-to-use-it-in-power-bi-and-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=NXaK6aCouoY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NXaK6aCouoY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M33S",
+      "path": "_learning/videos/sqlbi-comparing-dax-calculated-columns-with-power-query-computed-columns.md",
+      "title": "Comparing DAX calculated columns with Power Query computed columns",
+      "excerpt": "Learn how to choose between DAX and Power Query when a table needs to compute additional columns. Article and download: https://sql.bi/439946/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-comparing-dax-calculated-columns-with-power-query-computed-columns/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-comparing-dax-calculated-columns-with-power-query-computed-columns/",
+      "originalUrl": "https://youtube.com/watch?v=-x2dLTtKiR8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-x2dLTtKiR8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M5S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-11-03T14:25:55-08:00",
+      "publishedDateTime": "2021-01-28T03:00:19-08:00",
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/NXaK6aCouoY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-x2dLTtKiR8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -498,38 +646,8 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-remove-digits-or-keep-them-in-power-bi-using-power-query.md",
-      "title": "Remove Digits or Keep them in Power BI Using Power Query",
-      "excerpt": "There are a couple of useful actions that help a lot in cleaning data; removing digits, or keeping digits and removing everything else. In this short video, I’ll explain a simple method to do that using Power Query. Codes are in my blog article here: https://radacad.com/remove-digits-or-keep-them-in-power-bi-using-power-query",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-remove-digits-or-keep-them-in-power-bi-using-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-remove-digits-or-keep-them-in-power-bi-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=pZVS3O-4Jb4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pZVS3O-4Jb4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M59S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-05-13T00:25:47-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pZVS3O-4Jb4/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
+        "Power Query",
+        "DAX"
       ]
     },
     {
@@ -988,123 +1106,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/_5HKai6oR78/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays.md",
-      "title": "Managing changing column names in Power Query #10: (M)agic (M)ondays",
-      "excerpt": "In today's video, I will show how to manage column headers that changes names so your power bi file does not break when you refresh it.  This tip is from Lars Schreiber and here is the link to his blog post and how to do this in power query: http://power-bi-usergroup.blogspot.se/2015/12/dealing-with-tables-with-changing.html",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays/",
-      "originalUrl": "https://youtube.com/watch?v=yBJr0sAc-m4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yBJr0sAc-m4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M46S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-07-06T11:40:32-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yBJr0sAc-m4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-remove-duplicates-on-multiple-columns-5-magic-mondays.md",
-      "title": "Remove duplicates on multiple columns -#5 (M)agic (M)ondays",
-      "excerpt": "In today's video I will show you how to remove duplicates from multiple columns in Power Query.  It is very easy to use and it will save you some steps and workarounds.  Link to PowerBI file: http://gofile.me/2kEOD/IQIaYrz8k   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-remove-duplicates-on-multiple-columns-5-magic-mondays/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-remove-duplicates-on-multiple-columns-5-magic-mondays/",
-      "originalUrl": "https://youtube.com/watch?v=IU1ciyGQF3M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IU1ciyGQF3M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M27S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-05-24T05:43:48-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IU1ciyGQF3M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-split-multiple-columns-into-rows-without-errors-in-power-query.md",
-      "title": "Split multiple columns into rows without errors in Power Query",
-      "excerpt": "Sometimes when reading PDF files in power query, the tables created with get multiple rows into one on all columns, and the split function in power query does not work to split them.  In todays video, I will show you how to split multiple columns into rows in one step and how to avoid errors depending",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-split-multiple-columns-into-rows-without-errors-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-split-multiple-columns-into-rows-without-errors-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=V5X-wo0wVw0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V5X-wo0wVw0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M55S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-22T03:41:02-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/V5X-wo0wVw0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
