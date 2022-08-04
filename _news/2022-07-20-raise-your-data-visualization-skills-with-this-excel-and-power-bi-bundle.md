@@ -7,7 +7,7 @@ originalUrl: "https://mashable.com/deals/july-19-excel-and-power-bi-bundle"
 webUrl: "https://mashable.com/deals/july-19-excel-and-power-bi-bundle"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:
