@@ -1,0 +1,32 @@
+---
+title: "Here's a BANANAS report design idea!"
+excerpt: "There are many things you can do in a Power BI report that aren't super complex. Here are a few ideas to get you thinking! If Adam can do this, you definitely can! Shout out to Chris Hamill for this design!  Chris Hamill: https://twitter.com/ChrisHamill17  Info Panel Video: https://www.youtube.com/watch?v=yYr_SlG8bpw"
+originalUrl: https://youtube.com/watch?v=ffIgsMS3-8c
+type: video
+price: Free
+length: PT7M42S
+publishedDateTime: 2022-08-04T15:00:35Z
+heat: 262
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ffIgsMS3-8c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Guy in a Cube
+  domain: guyinacube.com
+  images:
+    - url: https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+
+images:
+  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "eaX7H2PZmOUGOecJNPZM1ZOckasJK/9lN39kEB9g+R1CzU/aT1AyeyjL95A2fQu8hYvMrNzbd/2L7cDEJG75xveAa+NwC4E3WU253f2/CRiJyqm8Kr35CSeLAhySXdmDkwttws9TKutCUOVxhTayS2AZLbLEMyWrPYoDcuCQ/gg7BHHgmuJ7urugPyW09uruo+EWxVuxKGzyjvK71+seirWgwDeXoYX1smehZx++CKHZssu+H4FMENmfWQqP68zkhA9k1/BEPSUNYHDjm+yP8xIyPa2mfWde4k/hb2Qqt0Y9h/2525RJLLJ4BnWmj8h5LapQhNCzx34RdthqEMPdgpAxKNkkruY/vpCXiczheEyAzBA02gdJzJRu7kgxVlh6Trorjmuo5YINl95ltc9jPw==;JpN1Pn/W9YraDs4vWPszBQ=="
+---
+
