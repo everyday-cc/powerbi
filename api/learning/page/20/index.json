@@ -667,8 +667,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3402,
-            "average": 4.770723
+            "count": 3403,
+            "average": 4.7707906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -853,8 +853,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 355,
-        "average": 4.828169
+        "count": 356,
+        "average": 4.828652
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -938,8 +938,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 3402,
-        "average": 4.770723
+        "count": 3403,
+        "average": 4.7707906
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -980,8 +980,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 1871,
-        "average": 4.710315
+        "count": 1872,
+        "average": 4.71047
       },
       "provider": {
         "name": "Microsoft Learn",
