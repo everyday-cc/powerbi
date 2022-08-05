@@ -872,8 +872,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 107,
-            "average": 4.775701
+            "count": 108,
+            "average": 4.7777777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2430,8 +2430,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6187,
-            "average": 4.713108
+            "count": 6188,
+            "average": 4.7131543
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2473,8 +2473,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7469,
-            "average": 4.7675724
+            "count": 7471,
+            "average": 4.767501
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2533,8 +2533,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 6187,
-        "average": 4.713108
+        "count": 6188,
+        "average": 4.7131543
       },
       "provider": {
         "name": "Microsoft Learn",
