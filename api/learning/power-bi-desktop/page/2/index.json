@@ -152,14 +152,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-create-dynamic-query-parameters-in-power-bi-desktop-power-bi-tips-tricks-47.md",
-      "title": "Create Dynamic Query Parameters in Power BI Desktop  - Power BI Tips & Tricks #47",
-      "excerpt": "Create Dynamic Query Parameters, filter your reports with them and create a template using Power BI.  Links mentioned in the video:  Chris Webb blog: https://blog.crossjoin.co.uk/2016/08/30/data-driven-power-bi-desktop-parameters-using-list-queries/  Rio Summer Olympics Report: https://www.youtube.com/watch?v=tZXY9RZwd3U",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-dynamic-query-parameters-in-power-bi-desktop-power-bi-tips-tricks-47/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-dynamic-query-parameters-in-power-bi-desktop-power-bi-tips-tricks-47/",
-      "originalUrl": "https://youtube.com/watch?v=0B3kmAsEJHY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0B3kmAsEJHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M11S",
+      "path": "_learning/videos/curbal-document-your-power-bi-desktop-models-with-dax-studio.md",
+      "title": "Document your Power BI Desktop models with DAX Studio!",
+      "excerpt": "Extract a list of measures, tables, etc, from your Power BI model with DAX Studio.  Download the PPUtility add-in here: http://www.sqlbi.com/tools/power-pivot-utilities  Link to DAX STUDIO: https://daxstudio.codeplex.com/  Our Playlists: - - Join our DAX Fridays! Series: https://goo.gl/FtUWUX - - Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-document-your-power-bi-desktop-models-with-dax-studio/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-document-your-power-bi-desktop-models-with-dax-studio/",
+      "originalUrl": "https://youtube.com/watch?v=rYlIp1PrBcA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rYlIp1PrBcA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M39S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -172,91 +172,13 @@
           }
         ]
       },
-      "publishedDateTime": "2017-07-06T04:25:26-07:00",
+      "publishedDateTime": "2016-09-27T13:04:01-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0B3kmAsEJHY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/rYlIp1PrBcA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-open-your-power-bi-desktop-model-in-excel-with-just-one-click-two-methods.md",
-      "title": "Open your Power BI Desktop model in Excel with just one click (two methods)",
-      "excerpt": "It is now possible to download your Power BI desktop data into Excel with a simple click and I am going to show you two methods in this video. Enjoy!  Erik Svensen tool: https://eriksvensen.wordpress.com/2020/07/27/powerbi-external-tool-to-connect-excel-to-the-current-pbix-file/  Changes in Power Shell",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-open-your-power-bi-desktop-model-in-excel-with-just-one-click-two-methods/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-open-your-power-bi-desktop-model-in-excel-with-just-one-click-two-methods/",
-      "originalUrl": "https://youtube.com/watch?v=CjwEKSKlSyI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CjwEKSKlSyI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M52S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-11T04:10:41-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CjwEKSKlSyI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-scrape-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks.md",
-      "title": "Scrape data from multiple pages on a website with Power BI Desktop - Power BI Tips & Tricks",
-      "excerpt": "Have you come across a website that has data you need but it is presented in multiple pages? Downloading page by page can be frustrating and time consuming. In this short video, I will show you how to iterate multiple pages on a website to import the data using Power BI.  LINK to NFL site: http://www.nfl.com/stats/categorystats?tabSeq=2&offensiveStatisticCategory=TEAM_PASSING&conference=ALL&role=TM&season=2015&seasonType=REG",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-scrape-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-scrape-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=6PZSZ53iSos",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6PZSZ53iSos\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M15S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-03-17T03:40:26-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
           "isCached": true
         }
       ],
@@ -266,7 +188,46 @@
       "topics": [
         "Power BI",
         "Power BI Desktop",
-        "Power Query"
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-network-navigator-visual-in-power-bi-desktop.md",
+      "title": "Network Navigator visual in Power BI Desktop",
+      "excerpt": "Link to file: http://gofile.me/2kEOD/DGYPMz2l1   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1  Our PLAYLISTS: - Join our DAX Fridays!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-network-navigator-visual-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-network-navigator-visual-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=OWW9vLW9sq4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OWW9vLW9sq4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M21S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-12-20T02:58:15-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OWW9vLW9sq4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     },
     {
@@ -340,23 +301,23 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-create-hierarchy-slicer-in-power-bi-desktop.md",
-      "title": "Create Hierarchy Slicer in Power BI Desktop",
-      "excerpt": "In this video, we will learn, how we can create a Hierarchy Slicer in Power BI Desktop. Microsoft recently introduced Hierarchy Slicer as a part of the OOTB slicers.  In this video, we will learn how to create a hierarchy slicer using OOTB slicer option. Also, we will check the different formatting properties",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-create-hierarchy-slicer-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-create-hierarchy-slicer-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=JVma1RhHJfg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JVma1RhHJfg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M15S",
+      "path": "_learning/videos/dhruvin-shah-introducing-new-format-pane-in-power-bi-desktop.md",
+      "title": "Introducing New Format Pane in Power BI Desktop",
+      "excerpt": "During this video, we will talk about the new format pane in Power BI Desktop. Now we have consistent and easier formatting experience for our Power BI report. During this video, I will demonstrate all-new enhancements that has been rolled out as New format pane preview. We will also compare the new",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-introducing-new-format-pane-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-introducing-new-format-pane-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=6mmkyaboZ_E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6mmkyaboZ_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M24S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-03-25T04:52:50-07:00",
+      "publishedDateTime": "2021-11-30T03:28:12-08:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/JVma1RhHJfg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6mmkyaboZ_E/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -371,23 +332,23 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-grouping-visuals-in-power-bi-desktop.md",
-      "title": "Grouping Visuals in Power BI Desktop",
-      "excerpt": "In this video, we will talk about how we can create group of visuals in Power BI Desktop. Grouping of visualization is very useful when we develop the Power BI report. It saves lots of our time.   To create Group in Power BI, from selection pane we need to select the visual and right click on it to convert",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-grouping-visuals-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-grouping-visuals-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=4mCU0qS3Cwg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4mCU0qS3Cwg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M28S",
+      "path": "_learning/videos/dhruvin-shah-reminder-install-webview2-to-get-latest-updates-from-power-bi-desktop.md",
+      "title": "Reminder - Install WebView2 to Get Latest Updates from Power BI Desktop",
+      "excerpt": "This video, is the reminder for the updating your system with WebView2 if you want to receive, Power BI Desktop updates from February 2022. Microsoft is making the switch to better optimize our development and release process . It also means that you’ll automatically get the latest security patches as",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-reminder-install-webview2-to-get-latest-updates-from-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-reminder-install-webview2-to-get-latest-updates-from-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=6ArFD3hrkQA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6ArFD3hrkQA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M55S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-03-25T04:51:54-07:00",
+      "publishedDateTime": "2022-02-07T00:51:04-08:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/4mCU0qS3Cwg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6ArFD3hrkQA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -802,6 +763,46 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-3-best-practices-when-transforming-data-in-power-bi-desktop.md",
+      "title": "3 Best practices when transforming data in Power BI Desktop",
+      "excerpt": "In this video, I go through the what I believe are best practices for cleaning your data in Power BI: 1. Rename your query steps 2. Change Data types to all columns 3. Write comments on query Steps (juni 2016 update) and other tricks.  Here is a link to the Power BI file, if you want to check it out:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-3-best-practices-when-transforming-data-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-3-best-practices-when-transforming-data-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=QecfgdobATM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QecfgdobATM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M29S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-03-05T07:08:53-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QecfgdobATM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-33-import-from-pdf-into-power-bi-desktop.md",
       "title": "#33 Import from PDF into Power BI Desktop",
       "excerpt": "In today's video I will show you how to import data from a pdf file into Power BI using Imke Feldmann's R-script.  To download the file, go to Curbal's download center and the communty downloads and get gile #33: https://curbal.com/donwload-center  Install R in Power BI: https://www.youtube.com/watch?v=HcTdXgWGdS8",
@@ -921,14 +922,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-document-your-power-bi-desktop-models-with-dax-studio.md",
-      "title": "Document your Power BI Desktop models with DAX Studio!",
-      "excerpt": "Extract a list of measures, tables, etc, from your Power BI model with DAX Studio.  Download the PPUtility add-in here: http://www.sqlbi.com/tools/power-pivot-utilities  Link to DAX STUDIO: https://daxstudio.codeplex.com/  Our Playlists: - - Join our DAX Fridays! Series: https://goo.gl/FtUWUX - - Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-document-your-power-bi-desktop-models-with-dax-studio/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-document-your-power-bi-desktop-models-with-dax-studio/",
-      "originalUrl": "https://youtube.com/watch?v=rYlIp1PrBcA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rYlIp1PrBcA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M39S",
+      "path": "_learning/videos/curbal-create-dynamic-query-parameters-in-power-bi-desktop-power-bi-tips-tricks-47.md",
+      "title": "Create Dynamic Query Parameters in Power BI Desktop  - Power BI Tips & Tricks #47",
+      "excerpt": "Create Dynamic Query Parameters, filter your reports with them and create a template using Power BI.  Links mentioned in the video:  Chris Webb blog: https://blog.crossjoin.co.uk/2016/08/30/data-driven-power-bi-desktop-parameters-using-list-queries/  Rio Summer Olympics Report: https://www.youtube.com/watch?v=tZXY9RZwd3U",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-dynamic-query-parameters-in-power-bi-desktop-power-bi-tips-tricks-47/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-dynamic-query-parameters-in-power-bi-desktop-power-bi-tips-tricks-47/",
+      "originalUrl": "https://youtube.com/watch?v=0B3kmAsEJHY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0B3kmAsEJHY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M11S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -941,13 +942,91 @@
           }
         ]
       },
-      "publishedDateTime": "2016-09-27T13:04:01-07:00",
+      "publishedDateTime": "2017-07-06T04:25:26-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/rYlIp1PrBcA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/0B3kmAsEJHY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-embed-microsoft-visio-in-power-bi-desktop.md",
+      "title": "Embed microsoft visio in Power BI Desktop",
+      "excerpt": "In today's video I will show you a step-by-step tutorial on how to use visio and embed it in Power BI.   Link to the visio and power bi file: http://gofile.me/2kEOD/QMev6rAjs   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-embed-microsoft-visio-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-embed-microsoft-visio-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=vQfWBxbxrjc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vQfWBxbxrjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M2S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-09-26T10:06:12-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vQfWBxbxrjc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-scrape-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks.md",
+      "title": "Scrape data from multiple pages on a website with Power BI Desktop - Power BI Tips & Tricks",
+      "excerpt": "Have you come across a website that has data you need but it is presented in multiple pages? Downloading page by page can be frustrating and time consuming. In this short video, I will show you how to iterate multiple pages on a website to import the data using Power BI.  LINK to NFL site: http://www.nfl.com/stats/categorystats?tabSeq=2&offensiveStatisticCategory=TEAM_PASSING&conference=ALL&role=TM&season=2015&seasonType=REG",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-scrape-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-scrape-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=6PZSZ53iSos",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6PZSZ53iSos\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M15S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-03-17T03:40:26-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
@@ -957,66 +1036,27 @@
       "topics": [
         "Power BI",
         "Power BI Desktop",
-        "DAX"
+        "Power Query"
       ]
     },
     {
-      "path": "_learning/videos/curbal-network-navigator-visual-in-power-bi-desktop.md",
-      "title": "Network Navigator visual in Power BI Desktop",
-      "excerpt": "Link to file: http://gofile.me/2kEOD/DGYPMz2l1   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1  Our PLAYLISTS: - Join our DAX Fridays!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-network-navigator-visual-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-network-navigator-visual-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=OWW9vLW9sq4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OWW9vLW9sq4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M21S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-12-20T02:58:15-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OWW9vLW9sq4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-introducing-new-format-pane-in-power-bi-desktop.md",
-      "title": "Introducing New Format Pane in Power BI Desktop",
-      "excerpt": "During this video, we will talk about the new format pane in Power BI Desktop. Now we have consistent and easier formatting experience for our Power BI report. During this video, I will demonstrate all-new enhancements that has been rolled out as New format pane preview. We will also compare the new",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-introducing-new-format-pane-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-introducing-new-format-pane-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=6mmkyaboZ_E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6mmkyaboZ_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M24S",
+      "path": "_learning/videos/dhruvin-shah-create-hierarchy-slicer-in-power-bi-desktop.md",
+      "title": "Create Hierarchy Slicer in Power BI Desktop",
+      "excerpt": "In this video, we will learn, how we can create a Hierarchy Slicer in Power BI Desktop. Microsoft recently introduced Hierarchy Slicer as a part of the OOTB slicers.  In this video, we will learn how to create a hierarchy slicer using OOTB slicer option. Also, we will check the different formatting properties",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-create-hierarchy-slicer-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-create-hierarchy-slicer-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=JVma1RhHJfg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JVma1RhHJfg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M15S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-11-30T03:28:12-08:00",
+      "publishedDateTime": "2020-03-25T04:52:50-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6mmkyaboZ_E/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/JVma1RhHJfg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1031,31 +1071,23 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-5-things-you-didnt-know-about-power-bi-desktop.md",
-      "title": "5 things you didn't know about Power BI Desktop",
-      "excerpt": "Patrick shows you 5 things you didn't know about Power BI Desktop. Some potentially hidden things that may not be obvious and will help you out when creating Power BI reports within Power BI Desktop.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton --",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-5-things-you-didnt-know-about-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-5-things-you-didnt-know-about-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=82ddX3BuGng",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/82ddX3BuGng\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M1S",
+      "path": "_learning/videos/dhruvin-shah-grouping-visuals-in-power-bi-desktop.md",
+      "title": "Grouping Visuals in Power BI Desktop",
+      "excerpt": "In this video, we will talk about how we can create group of visuals in Power BI Desktop. Grouping of visualization is very useful when we develop the Power BI report. It saves lots of our time.   To create Group in Power BI, from selection pane we need to select the visual and right click on it to convert",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-grouping-visuals-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-grouping-visuals-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=4mCU0qS3Cwg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4mCU0qS3Cwg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M28S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2019-03-13T14:10:40-07:00",
+      "publishedDateTime": "2020-03-25T04:51:54-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/82ddX3BuGng/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4mCU0qS3Cwg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1070,70 +1102,23 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-6-things-to-get-a-little-more-out-of-your-power-bi-desktop-machine.md",
-      "title": "6 things to get a little more out of your Power BI Desktop machine",
-      "excerpt": "Machine running slow with Power BI Desktop? One of these 6 things may help you out.  Download PDF: https://guyinacu.be/6perftipspdf  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-6-things-to-get-a-little-more-out-of-your-power-bi-desktop-machine/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-6-things-to-get-a-little-more-out-of-your-power-bi-desktop-machine/",
-      "originalUrl": "https://youtube.com/watch?v=uFvf4HaJDMw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uFvf4HaJDMw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M46S",
+      "path": "_learning/videos/dhruvin-shah-search-bar-in-power-bi-desktop.md",
+      "title": "Search bar in Power BI Desktop",
+      "excerpt": "During this February 2021 Power BI Desktop Update, Microsoft rolled out one new feature where we can Search for different actions from Power BI Desktop. Now, we have a new search bar in Power BI Desktop. Based on the current report’s state,  this will show appropriate actions here. Stay tuned throughout",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-search-bar-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-search-bar-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=8MMyPjLAw30",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8MMyPjLAw30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M46S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-02-09T17:02:04-08:00",
+      "publishedDateTime": "2021-02-23T20:25:40-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/uFvf4HaJDMw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-column-profiling-in-power-bi-desktop.md",
-      "title": "Column Profiling in Power BI Desktop",
-      "excerpt": "Adam walks through column profiling within the Power BI Desktop. This includes the latest updates with the general availability (GA) within the April 2019 Power BI Desktop release.  Demo files: https://guyinacu.be/demofiles  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-column-profiling-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-column-profiling-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=WN1cvJGutT8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WN1cvJGutT8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-05-07T13:53:07-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WN1cvJGutT8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8MMyPjLAw30/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

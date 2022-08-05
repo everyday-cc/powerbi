@@ -80,25 +80,25 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-architecture-best-practice.md",
-      "title": "Power BI Architecture Best Practice",
-      "excerpt": "Using Power BI is simple. However, using it properly needs a good architecture. In a multi-developer environment, the architecture of a Power BI implementation should allow multiple developers to work on the same solution at the same time. On the other hand, the Power BI architecture should be designed",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-architecture-best-practice/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-architecture-best-practice/",
-      "originalUrl": "https://youtube.com/watch?v=P3_iRFVP4Eo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P3_iRFVP4Eo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M46S",
+      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-from-beginner-to-pro-desktop-to-dashboard-in-60-minutes-.md",
+      "title": "Power BI Tutorial From Beginner to Pro ⚡ Desktop to Dashboard in 60 Minutes ⏰",
+      "excerpt": "This Complete Power BI Tutorial takes you Step-by-Step as you use Power BI Desktop to create a beautiful Power BI Dashboard. 👉 Download Power BI Files in Video at https://web.learnpowerbi.com/download?content=20190501  ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-from-beginner-to-pro-desktop-to-dashboard-in-60-minutes-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-from-beginner-to-pro-desktop-to-dashboard-in-60-minutes-/",
+      "originalUrl": "https://youtube.com/watch?v=AGrl-H87pRU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AGrl-H87pRU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H3M31S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2022-08-03T18:58:22-07:00",
-      "heat": 199,
+      "publishedDateTime": "2019-04-30T16:11:09-07:00",
+      "heat": 186,
       "images": [
         {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
+          "url": "https://i.ytimg.com/vi/AGrl-H87pRU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -131,7 +131,7 @@
         ]
       },
       "publishedDateTime": "2022-08-02T03:00:24-07:00",
-      "heat": 198,
+      "heat": 179,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -149,25 +149,25 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-from-beginner-to-pro-desktop-to-dashboard-in-60-minutes-.md",
-      "title": "Power BI Tutorial From Beginner to Pro ⚡ Desktop to Dashboard in 60 Minutes ⏰",
-      "excerpt": "This Complete Power BI Tutorial takes you Step-by-Step as you use Power BI Desktop to create a beautiful Power BI Dashboard. 👉 Download Power BI Files in Video at https://web.learnpowerbi.com/download?content=20190501  ✅ Subscribe to always get my latest videos: https://www.youtube.com/powerbipro?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-from-beginner-to-pro-desktop-to-dashboard-in-60-minutes-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-from-beginner-to-pro-desktop-to-dashboard-in-60-minutes-/",
-      "originalUrl": "https://youtube.com/watch?v=AGrl-H87pRU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AGrl-H87pRU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H3M31S",
+      "path": "_learning/videos/radacad-power-bi-architecture-best-practice.md",
+      "title": "Power BI Architecture Best Practice",
+      "excerpt": "Using Power BI is simple. However, using it properly needs a good architecture. In a multi-developer environment, the architecture of a Power BI implementation should allow multiple developers to work on the same solution at the same time. On the other hand, the Power BI architecture should be designed",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-architecture-best-practice/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-architecture-best-practice/",
+      "originalUrl": "https://youtube.com/watch?v=P3_iRFVP4Eo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P3_iRFVP4Eo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M46S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2019-04-30T16:11:09-07:00",
-      "heat": 186,
+      "publishedDateTime": "2022-08-03T18:58:22-07:00",
+      "heat": 176,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AGrl-H87pRU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
@@ -444,15 +444,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-row-level-security-power-bi.md",
-      "title": "Implement row-level security",
-      "excerpt": "Row-level security (RLS) allows you to create a single or a set of reports that targets data for a specific user. In this module, you will learn how to implement RLS by using either a static or dynamic method and how Microsoft Power BI simplifies testing RLS in Power BI Desktop and Power BI service.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-row-level-security-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
-      "length": "PT9M",
+      "path": "_learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure.md",
+      "title": "Build systems of insights for enterprise scale with Power BI and Azure",
+      "excerpt": "Build systems of insights for enterprise scale with Power BI and Azure",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-systems-of-insights-for-enterprise-scale-with-power-bi-azure/",
+      "length": "PT30M",
       "ratings": {
-        "count": 4368,
-        "average": 4.8072343
+        "count": 5,
+        "average": 4.6
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -467,14 +467,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 136,
+      "heat": 131,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/row-level-security-power-bi-social.png",
-          "width": 643,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -486,28 +486,28 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-using-keepfilters-in-dax.md",
-      "title": "Using KEEPFILTERS in DAX",
-      "excerpt": "This video explains how to use KEEPFILTERS to intersect instead of overriding an existing filter context in DAX. Using FEEPFILTERS simplifies the code and improves performance.\r Article and download: https://sql.bi/751682?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-using-keepfilters-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-using-keepfilters-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=AshR4OYdMBg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AshR4OYdMBg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M22S",
+      "path": "_learning/videos/curbal-view-your-power-bi-reports-directly-in-outlook-the-good-and-the-bad.md",
+      "title": "View your Power BI reports directly in Outlook! (the good and the bad)",
+      "excerpt": "Microsoft has integrated Power BI within outlook, so you can now see Power BI reports without leaving the application. There are some if and buts, so stay tuned till the end of the video so you dont miss any important detail!  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-view-your-power-bi-reports-directly-in-outlook-the-good-and-the-bad/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-view-your-power-bi-reports-directly-in-outlook-the-good-and-the-bad/",
+      "originalUrl": "https://youtube.com/watch?v=SP7k0PJ3JoE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SP7k0PJ3JoE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M18S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-06-08T03:00:23-07:00",
-      "heat": 135,
+      "publishedDateTime": "2022-05-25T00:28:16-07:00",
+      "heat": 131,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -520,20 +520,19 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-design-power-bi-application-lifecycle-management-strategy.md",
-      "title": "Design a Power BI application lifecycle management strategy",
-      "excerpt": "The use of OneDrive, Git repositories, and Power BI deployment pipelines allows us to follow application lifecycle management techniques. This reduces administrative overhead and provides continuity in the development process.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-design-power-bi-application-lifecycle-management-strategy/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-power-bi-application-lifecycle-management-strategy/",
-      "length": "PT25M",
+      "path": "_learning/courses/microsoft-learn-dataverse-teams-power-bi.md",
+      "title": "Create reports with Power BI and Dataverse for Teams",
+      "excerpt": "Dataverse for Teams - Build your first report with Power BI and Dataverse for Teams.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dataverse-teams-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dataverse-teams-power-bi/",
+      "length": "PT35M",
       "ratings": {
-        "count": 3,
-        "average": 4.6666665
+        "count": 288,
+        "average": 4.7777777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -548,14 +547,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 131,
+      "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://docs.microsoft.com/learn/achievements/dataverse-teams-power-bi-social.png",
+          "width": 1280,
+          "height": 641,
           "isCached": true
         }
       ],
@@ -662,44 +661,6 @@
           "url": "https://i.ytimg.com/vi/4zsL2qOJ7iI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-5-key-questions-to-ask-before-you-start-your-power-bi-project.md",
-      "title": "5 key questions to ask before you start your Power BI project",
-      "excerpt": "At the beginning of each Power BI project I always ask this 5 questions to make sure I am on track already from the beginning.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-key-questions-to-ask-before-you-start-your-power-bi-project/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-key-questions-to-ask-before-you-start-your-power-bi-project/",
-      "originalUrl": "https://youtube.com/watch?v=-8m6cPvbkak",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-8m6cPvbkak\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M5S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-07-15T05:58:47-07:00",
-      "heat": 114,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
           "isCached": true
         }
       ],
@@ -818,8 +779,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 43373,
-            "average": 4.799691
+            "count": 43382,
+            "average": 4.7997093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -860,8 +821,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 64466,
-            "average": 4.777976
+            "count": 64471,
+            "average": 4.7779465
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -920,8 +881,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 64466,
-        "average": 4.777976
+        "count": 64471,
+        "average": 4.7779465
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1078,8 +1039,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 43373,
-        "average": 4.799691
+        "count": 43382,
+        "average": 4.7997093
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1120,8 +1081,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 34728,
-        "average": 4.742225
+        "count": 34732,
+        "average": 4.742255
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1359,6 +1320,44 @@
       },
       "publishedDateTime": "2022-07-25T18:05:44-07:00",
       "heat": 90,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-5-key-questions-to-ask-before-you-start-your-power-bi-project.md",
+      "title": "5 key questions to ask before you start your Power BI project",
+      "excerpt": "At the beginning of each Power BI project I always ask this 5 questions to make sure I am on track already from the beginning.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-key-questions-to-ask-before-you-start-your-power-bi-project/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-key-questions-to-ask-before-you-start-your-power-bi-project/",
+      "originalUrl": "https://youtube.com/watch?v=-8m6cPvbkak",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-8m6cPvbkak\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M5S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-07-15T05:58:47-07:00",
+      "heat": 89,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",

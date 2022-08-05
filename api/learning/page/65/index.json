@@ -4,37 +4,6 @@
   "page": 65,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop.md",
-      "title": "Load Microsoft Dataverse for Teams table data in Power BI Desktop",
-      "excerpt": "Microsoft Dataverse for teams provides us the flexibility to prepare relational database tables. Now, let’s say we want to prepare further reporting based on Dataverse for Teams data. So, how can we do that? How can we load Microsoft Dataverse for Teams table data to Power BI Desktop? You will get to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=AJokCht9IeI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AJokCht9IeI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M28S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-12-01T21:00:59-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/AJokCht9IeI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-microsoft-build-2021-power-bi-announcements.md",
       "title": "Microsoft Build 2021 - Power BI Announcements",
       "excerpt": "Welcome to my short session on the summary for Microsoft Build Power BI Announcements. During May 2021, 25 Day 01 Microsoft announce 5 cool things for Power BI. Some announcements are launched, some are planned during July this year. Let's talk about each announcement in detail here with me!!  Top 5",
@@ -125,6 +94,36 @@
       ]
     },
     {
+      "path": "_learning/videos/dhruvin-shah-monitor-dataflow-refresh-history-using-power-bi-dashboard.md",
+      "title": "Monitor Dataflow Refresh History using Power BI Dashboard",
+      "excerpt": "Welcome to one more newly rolled out feature by Microsoft. Sometimes as an admin, we want to know and want to manage Dataverse tables to report over our dataflow refresh history. To access these tables, it is suggested to use Dataverse connector in Power BI to set up your dashboard. During this entire",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-monitor-dataflow-refresh-history-using-power-bi-dashboard/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-monitor-dataflow-refresh-history-using-power-bi-dashboard/",
+      "originalUrl": "https://youtube.com/watch?v=86ihwquL5S8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/86ihwquL5S8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M17S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-04-10T04:54:39-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-navigate-ribbon-component-through-keyboard-shortcuts-power-bi-ribbon-short-cuts.md",
       "title": "Navigate Ribbon Component through Keyboard Shortcuts – Power BI Ribbon Short Cuts",
       "excerpt": "Keyboard Shortcuts – Power BI Ribbon Short Cuts  In this video, we will discuss the Key tips for the new Power BI ribbon. With February update of Power BI Desktop, now we have keyboard shortcuts using which we can navigate in between Menuabar and other ribbon components.  In this video, we will cover",
@@ -204,6 +203,36 @@
           "url": "https://i.ytimg.com/vi/YJZOHHfJYKw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view.md",
+      "title": "New Format Pane for Power BI Mobile View",
+      "excerpt": "Create stunning, mobile-optimized Power BI reports with mobile layout’s new visual formatting pane (Preview). During this video we will talk about how we can use separate formatting Pane for Power BI Mobile Reports. Have you ever created a mobile-optimized report and struggled with its design? Did you",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view/",
+      "originalUrl": "https://youtube.com/watch?v=i9WF5sC6HjU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i9WF5sC6HjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M26S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-03-11T00:54:52-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
@@ -367,6 +396,36 @@
       ]
     },
     {
+      "path": "_learning/videos/dhruvin-shah-overview-of-power-bi-apps.md",
+      "title": "Overview of Power BI Apps",
+      "excerpt": "In this video, first we will talk What is a Power BI App? An App is a Power BI content type which allows to combine dashboards, reports all in one place bundled together.  Here, we will cover the following concepts.  We will start with the explanation of What is a Power BI App? Then we will talk about",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-overview-of-power-bi-apps/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-overview-of-power-bi-apps/",
+      "originalUrl": "https://youtube.com/watch?v=mjc9PrPzf-k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mjc9PrPzf-k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M41S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:51:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mjc9PrPzf-k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-permission-model-for-power-bi-report-while-integrating-with-ms-teams-power-bi-and-ms-teams-part-2.md",
       "title": "Permission Model for Power BI report while Integrating with MS Teams | Power BI and MS Teams| Part 2",
       "excerpt": "Welcome to Power BI and MS Teams Integration step by step series. My self Dhruvin Shah and I have divided this entire session into three different parts.  Part 1: Integrate Power BI Report, Report from Apps and Paginated Report to MS Teams using Power BI Tab in MS Teams. https://youtu.be/67-jriuocxc",
@@ -444,6 +503,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9UWDF8cGMeA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-power-apps-visual-for-power-bi-build-live-application-with-power-apps-visual-inside-power-bi.md",
+      "title": "Power Apps Visual for Power BI | Build Live Application with Power Apps Visual inside Power BI",
+      "excerpt": "In this video, we will talk about Power Apps visualization inside the Power BI. We will talk the step by step procedure that you should know about the Power Apps visualization inside the Power BI.  First, we will build a Power BI report with the DirectQuery Mode of SQL Server. We will configure a Gateway",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-apps-visual-for-power-bi-build-live-application-with-power-apps-visual-inside-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-apps-visual-for-power-bi-build-live-application-with-power-apps-visual-inside-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=ppCwRDV_28o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ppCwRDV_28o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M56S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-04-27T21:50:24-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ppCwRDV_28o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -637,37 +726,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-power-query-tip-add-sequential-number-using-the-index-column-in-power-bi.md",
-      "title": "Power Query Tip - Add Sequential Number using the Index Column in Power BI",
-      "excerpt": "In this video, we will learn, how we can easily add the sequence for the rows using the PowerQuery. In Power Query we can add the sequence number using the Index. Let’s see how to add the Index column in the Power BI.  If you really like this video don’t forget to subscribe to my channel. ***************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-query-tip-add-sequential-number-using-the-index-column-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-query-tip-add-sequential-number-using-the-index-column-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=HhwBb-_beh4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HhwBb-_beh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M20S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HhwBb-_beh4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-powerbitip-create-animated-gauge-with-dynamic-title-in-power-bi.md",
       "title": "PowerBITip - Create Animated Gauge with Dynamic Title in Power BI",
       "excerpt": "This video covers a short demo or idea to create the Animated Gauge Chart within the Power BI with the combination of the slicers.  Article is coming soon!! Download Power BI File using URL: https://github.com/Dhruvinshah16/Power-BI/tree/master/PBI-AnimatedGaugeChart     Contact me for any Questions,",
@@ -695,6 +753,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-powerquery-tips-split-multiple-columns-to-rows-at-once.md",
+      "title": "PowerQuery Tips – Split Multiple Columns to Rows at Once",
+      "excerpt": "In this vLog, we will learn about splitting multiple columns to the rows at once using the PowerQuery. We can easily split single column using the OOTB option very easily, but what if, you have multiple column which needed the split operation? At that time we need to use function Text.Split() and Table.FromColumn()",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-powerquery-tips-split-multiple-columns-to-rows-at-once/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-powerquery-tips-split-multiple-columns-to-rows-at-once/",
+      "originalUrl": "https://youtube.com/watch?v=9wFVAWLvZMc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wFVAWLvZMc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M58S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9wFVAWLvZMc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -816,98 +905,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-qa-visualization-natural-language-generation-visualization-in-power-bi-desktop.md",
-      "title": "Q&A Visualization - Natural Language Generation Visualization in Power BI Desktop",
-      "excerpt": "In this vLog, we will discuss about new rolled out feature by Microsoft during October 2019 update which is new Q&A visualization for the Power BI Desktop. This Q&A visualization is the first visual which supports NLG (Natural Language Generation). In easy term we can say that, we can ask the question",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-qa-visualization-natural-language-generation-visualization-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-qa-visualization-natural-language-generation-visualization-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=v-wmfg8uJaY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v-wmfg8uJaY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M59S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/v-wmfg8uJaY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-quick-edit-power-bi-paginated-report-from-power-bi-service.md",
-      "title": "Quick Edit Power BI Paginated Report from Power BI Service",
-      "excerpt": "Now, we can perform Quick Edit for Paginated Report from Power BI Service itself. This new feature has been introduced with May 2021 Power BI Desktop Update. When you select your Power BI Paginated Report there is an option, Edit in Power BI Report Builder. This will launch a new screen to open Report",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-quick-edit-power-bi-paginated-report-from-power-bi-service/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-quick-edit-power-bi-paginated-report-from-power-bi-service/",
-      "originalUrl": "https://youtube.com/watch?v=fV4UKNFL3MM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fV4UKNFL3MM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M33S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-05-23T21:44:49-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fV4UKNFL3MM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Service"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-quick-way-to-find-out-which-property-of-power-bi-visual-is-supporting-conditional-formatting.md",
-      "title": "Quick way to find out which property of Power BI Visual is Supporting Conditional Formatting",
-      "excerpt": "In this video, we will giving you one tip of Power BI Desktop.  We know gradually so many properties of Power BI Desktop now supports conditional formatting.  So, how can we easily know which property will support this feature?  Here is a quick tip for it..  Try this and share your opinion to comment",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-quick-way-to-find-out-which-property-of-power-bi-visual-is-supporting-conditional-formatting/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-quick-way-to-find-out-which-property-of-power-bi-visual-is-supporting-conditional-formatting/",
-      "originalUrl": "https://youtube.com/watch?v=mxNkdKNhCN0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mxNkdKNhCN0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M2S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-05-12T18:42:49-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mxNkdKNhCN0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],
