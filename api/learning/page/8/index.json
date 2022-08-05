@@ -956,8 +956,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-monitor/",
           "length": "PT11M",
           "ratings": {
-            "count": 104,
-            "average": 4.644231
+            "count": 105,
+            "average": 4.6476192
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1601,7 +1601,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2435,8 +2435,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7467,
-            "average": 4.7675104
+            "count": 7469,
+            "average": 4.7675724
           },
           "provider": {
             "name": "Microsoft Learn",
