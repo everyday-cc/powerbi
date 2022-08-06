@@ -4,31 +4,23 @@
   "page": 40,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-use-custom-visuals-in-power-bi.md",
-      "title": "Use Custom Visuals in Power BI",
-      "excerpt": "Watch how you can get customer visuals in Power BI from the marketplace, or use internal custom visuals that you may have within your organization.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-use-custom-visuals-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-use-custom-visuals-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=tDfKcPoiOwU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tDfKcPoiOwU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M6S",
+      "path": "_learning/videos/learn-power-bi-power-bi-ultimate-calendar-table-gets-week-offsets.md",
+      "title": "Power BI: Ultimate Calendar Table gets Week Offsets",
+      "excerpt": "Download Ultimate Calendar Table: http://www.learnpowerbi.com/bonus-download We make another tweak to the \"Ultimate Power BI Calendar\", by adding Week Offsets based on the request by Keith Tran. ✅ Subscribe to always get my latest videos: https://goo.gl/P79Hcr  See information below on the complete \"Ultimate",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-ultimate-calendar-table-gets-week-offsets/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-ultimate-calendar-table-gets-week-offsets/",
+      "originalUrl": "https://youtube.com/watch?v=NKr2TizM-KU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NKr2TizM-KU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M39S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2019-02-10T07:38:29-08:00",
+      "publishedDateTime": "2017-10-18T13:50:26-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tDfKcPoiOwU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/NKr2TizM-KU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -42,31 +34,23 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-use-power-bi-web-from-example-over-multiple-urls.md",
-      "title": "Use Power BI Web From Example over multiple URLs",
-      "excerpt": "Wil Reynolds asked an awesome question about how to use multiple URLs with the web from example Power BI feature. The magic is with Power Query functions and parameters. Patrick has you covered!  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-use-power-bi-web-from-example-over-multiple-urls/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-use-power-bi-web-from-example-over-multiple-urls/",
-      "originalUrl": "https://youtube.com/watch?v=s_5Jk8_fHjA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s_5Jk8_fHjA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M42S",
+      "path": "_learning/videos/learn-power-bi-power-bi-win-loss-percentage-for-dynamicscrm-funnel-step-by-step-example.md",
+      "title": "Power BI Win-Loss Percentage for Dynamics/CRM Funnel (Step-by-Step Example)",
+      "excerpt": "Your mission today is to help Kevin calculate Win-Loss% using CRM Data and the magic of Power BI. 👉 Download Power BI File in Video at https://web.learnpowerbi.com/download/  Calculate the win or loss percentage and easily track it over time.  ➔ Links mentioned in the Video • Power BI Tutorial for Beginners",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-win-loss-percentage-for-dynamicscrm-funnel-step-by-step-example/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-win-loss-percentage-for-dynamicscrm-funnel-step-by-step-example/",
+      "originalUrl": "https://youtube.com/watch?v=xpPnvB7m9DY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xpPnvB7m9DY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M25S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2019-02-25T04:30:46-08:00",
+      "publishedDateTime": "2019-05-14T23:29:50-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/s_5Jk8_fHjA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xpPnvB7m9DY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -80,31 +64,53 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-want-power-bi-qa-to-return-better-results-heres-how.md",
-      "title": "Want Power BI Q&A to return BETTER RESULTS? Here's how!",
-      "excerpt": "We show you how to tune Power BI Q&A to get better responses to your questions. Just a few clicks to make things better!  Download Sample: https://guyinacu.be/qandatoolingsample  *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-want-power-bi-qa-to-return-better-results-heres-how/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-want-power-bi-qa-to-return-better-results-heres-how/",
-      "originalUrl": "https://youtube.com/watch?v=x1VbHE4ROJs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x1VbHE4ROJs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M20S",
+      "path": "_learning/videos/learn-power-bi-real-power-bi-project-presentations-apr-24-talk-power-bi-live-subscribe-join.md",
+      "title": "Real Power BI Project Presentations  (Apr 24) 🔴Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "Want to see how real consultants work on real Power BI projects? Join us LIVE and watch the project presentations by Power BI Professionals in our Pro+ program.  👉 Want to become a successful Power BI Consultant? Check out our Pro+ Program at https://www.LearnPowerBI.com/proplus 👉 For more info on",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-real-power-bi-project-presentations-apr-24-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-real-power-bi-project-presentations-apr-24-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=4gGHQ0esaVA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4gGHQ0esaVA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H5M9S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2020-01-20T19:54:15-08:00",
+      "publishedDateTime": "2020-04-24T13:25:34-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/x1VbHE4ROJs/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4gGHQ0esaVA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-real-power-bi-project-presentations-nov-1-talk-power-bi-live-subscribe-join.md",
+      "title": "Real Power BI Project Presentations (Nov 1) 🔴Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "Want to see how real consultants work on real Power BI projects? Join us LIVE and watch the project presentations by Power BI Professionals in our Pro+ program.  👉 Want to become a successful Power BI Consultant? Check out our Pro+ Program at https://www.LearnPowerBI.com/proplus 👉 For more info on",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-real-power-bi-project-presentations-nov-1-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-real-power-bi-project-presentations-nov-1-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=imlx-KNKiMo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/imlx-KNKiMo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H28M57S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-09-13T04:49:44-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/imlx-KNKiMo/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -118,33 +124,63 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-does-power-bi-cost-including-power-bi-report-server.md",
-      "title": "What Does Power BI Cost? (Including Power BI Report Server)",
-      "excerpt": "What does Power BI cost? Adam has a lot of discussions around that. He will break down the Power BI cost and covers licenses, Power BI Premium and including Power BI Report Server and more! If you have ever asked yourself \"What does Power BI cost?\", this video is for you.  Power BI Pricing: https://powerbi.microsoft.com/pricing/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-does-power-bi-cost-including-power-bi-report-server/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-does-power-bi-cost-including-power-bi-report-server/",
-      "originalUrl": "https://youtube.com/watch?v=miGrO-Rpcms",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/miGrO-Rpcms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M8S",
+      "path": "_learning/videos/learn-power-bi-tutorial-de-power-bi-en-espanol-ser-data-pro-en-60-minutos-.md",
+      "title": "Tutorial de Power BI en Español: Ser Data Pro en 60 Minutos ⏰",
+      "excerpt": "Welcome to Power BI Tutorial in Spanish (Tutorial de Power BI en Español), presented by Diego Lopez. 👉 Download Tutorial Files (Descarga los archivos aquí): https://serdatapro.com/powerbipro ▶️Topics Covered◀️ (click to jump to topic) 04:27 – Conectándose a Fuentes de Datos 07:47 – Trabajando en el",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-tutorial-de-power-bi-en-espanol-ser-data-pro-en-60-minutos-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-tutorial-de-power-bi-en-espanol-ser-data-pro-en-60-minutos-/",
+      "originalUrl": "https://youtube.com/watch?v=lbhDZ5yHjM8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lbhDZ5yHjM8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H1M57S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2020-02-19T09:00:11-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lbhDZ5yHjM8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-embedded-playground-power-bi-developer-in-a-day.md",
+      "title": "Embedded Playground | Power BI Developer in a Day",
+      "excerpt": "In this video, Ali Hamud, Senior Software Engineer, demonstrates five Power BI Embedded Playground showcases. This is video 20 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-embedded-playground-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-embedded-playground-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=U3qeQRwWhRc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/U3qeQRwWhRc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M10S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-07-15T04:51:35-07:00",
+      "publishedDateTime": "2020-06-01T13:38:02-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/miGrO-Rpcms/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/U3qeQRwWhRc/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -156,33 +192,33 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-the-heck-are-build-permissions-in-power-bi.md",
-      "title": "What the heck are BUILD PERMISSIONS in Power BI?!?",
-      "excerpt": "Adam look at Power BI build permissions with shared datasets. Taking the mystery out of how you can interact with datasets and know what to do if you can't use it. This also looks at how Power BI free users can use shared datasets with Power BI Premium.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-the-heck-are-build-permissions-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-the-heck-are-build-permissions-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=3c7pMFloNeI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3c7pMFloNeI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M25S",
+      "path": "_learning/videos/microsoft-module-2-embedded-analytics-part-22-power-bi-developer-in-a-day.md",
+      "title": "Module 2: Embedded analytics (Part 2/2) | Power BI Developer in a Day",
+      "excerpt": "In this video, Adam Saxton, Principal Program Manager, demonstrates a sample Power BI embedded analytics solution that monitors warehouse operations. This is video 7 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-2-embedded-analytics-part-22-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-2-embedded-analytics-part-22-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=7Jda5x7Qe7Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Jda5x7Qe7Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M7S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-08-25T06:27:41-07:00",
+      "publishedDateTime": "2020-06-01T13:34:23-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/3c7pMFloNeI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/7Jda5x7Qe7Q/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -194,33 +230,33 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-tool-do-you-use-to-optimize-your-power-bi-dataset.md",
-      "title": "What tool do you use to optimize your Power BI dataset?",
-      "excerpt": "Need some help optimizing your Power BI Dataset but don't want to hand over your Power BI Desktop file? Patrick shows you some tools to get information to help with optimizing assistance! These are tools we use EVERYDAY!  DAX Studio https://daxstudio.org/  Bravo for Power BI https://bravo.bi/  Tabular",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-tool-do-you-use-to-optimize-your-power-bi-dataset/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-tool-do-you-use-to-optimize-your-power-bi-dataset/",
-      "originalUrl": "https://youtube.com/watch?v=67WrcH4pFnI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/67WrcH4pFnI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M40S",
+      "path": "_learning/videos/microsoft-module-3-acquiring-access-power-bi-developer-in-a-day.md",
+      "title": "Module 3: Acquiring access | Power BI Developer in a Day",
+      "excerpt": "In this video, you’ll learn about token types and theory to acquire access and embed tokens. This is video 8 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the videos in the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-3-acquiring-access-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-3-acquiring-access-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=3dYCMTsDT3c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3dYCMTsDT3c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M7S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-06-15T08:00:05-07:00",
+      "publishedDateTime": "2020-06-01T13:34:41-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
+          "url": "https://i.ytimg.com/vi/3dYCMTsDT3c/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -232,31 +268,31 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-whats-this-power-bi-report-filtered-by.md",
-      "title": "What's this Power BI report filtered by???",
-      "excerpt": "Struggling with understanding what is filtering your visual or Power BI report? Patrick walks you through how you can tell what is going on.  SQLBI Filter Context: https://www.sqlbi.com/articles/displaying-filter-context-in-power-bi-tooltips/  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-whats-this-power-bi-report-filtered-by/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-whats-this-power-bi-report-filtered-by/",
-      "originalUrl": "https://youtube.com/watch?v=ZGQE1WZtD5M",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZGQE1WZtD5M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M22S",
+      "path": "_learning/videos/microsoft-module-3-configure-permissions-part-2-of-2-power-bi-developer-in-a-day.md",
+      "title": "Module 3: Configure Permissions (Part 2 of 2) | Power BI Developer in a Day",
+      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional, and course developer) demonstrates configuring and applying permissions. It is video 10 of 21.  The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-3-configure-permissions-part-2-of-2-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-3-configure-permissions-part-2-of-2-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=xSr2y7BpbIA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xSr2y7BpbIA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M17S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2021-10-27T08:00:17-07:00",
+      "publishedDateTime": "2021-11-19T08:46:29-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZGQE1WZtD5M/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xSr2y7BpbIA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -270,33 +306,33 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-why-doesnt-export-to-excel-work-with-power-bi-row-level-security-rls.md",
-      "title": "Why doesn't Export to Excel work with Power BI Row-Level Security (RLS)???",
-      "excerpt": "Scenario is you want to use export to excel when viewing Power BI Row-Level Security (RLS) as someone else. RLS doesn't appear to work. Patrick breaks it down.  Download sample: https://guyinacu.be/rlsexportsample  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-doesnt-export-to-excel-work-with-power-bi-row-level-security-rls/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-doesnt-export-to-excel-work-with-power-bi-row-level-security-rls/",
-      "originalUrl": "https://youtube.com/watch?v=gpFRS5q6FiI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gpFRS5q6FiI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M2S",
+      "path": "_learning/videos/microsoft-module-4-embedding-content-part-15-power-bi-developer-in-a-day.md",
+      "title": "Module 4: Embedding content (Part 1/5) | Power BI Developer in a Day",
+      "excerpt": "In this video, you’ll learn about techniques to register an Azure Active Directory application. This is video 9 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the videos in",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-4-embedding-content-part-15-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-4-embedding-content-part-15-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=caKS8PQJnyo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/caKS8PQJnyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M9S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-02-24T04:52:03-08:00",
+      "publishedDateTime": "2020-06-01T13:34:56-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/gpFRS5q6FiI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/caKS8PQJnyo/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -308,33 +344,33 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-why-isnt-my-agg-hitting-when-using-distinctcount-in-power-bi.md",
-      "title": "Why isn't my Agg hitting when using DISTINCTCOUNT in Power BI???",
-      "excerpt": "Using Aggregations in Power BI? Have some DISTINCTCOUNT in your measures? Wondering why the queries are slow and not hitting the aggs? Patrick shows you what is going on! Get ready for some DAX fusion!  DAX Fusion: https://dax.tips/2019/08/05/dax-fusion/  Aggregations Documentation: https://docs.microsoft.com/power-bi/transform-model/aggregations-advanced",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-isnt-my-agg-hitting-when-using-distinctcount-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-isnt-my-agg-hitting-when-using-distinctcount-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=lTkWAfrMwOg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lTkWAfrMwOg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M46S",
+      "path": "_learning/videos/microsoft-module-4-embedding-content-part-25-power-bi-developer-in-a-day.md",
+      "title": "Module 4: Embedding content (Part 2/5) | Power BI Developer in a Day",
+      "excerpt": "In this video, Peter Myers demonstrates fast-tracking a Power BI embedded project by using the Embedding Setup Tool. You’ll learn about creating additional Power BI content. This is video 10 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-4-embedding-content-part-25-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-4-embedding-content-part-25-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=XbYt8ZX3q9k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XbYt8ZX3q9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M40S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-05-11T08:00:25-07:00",
+      "publishedDateTime": "2020-06-01T13:35:10-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
+          "url": "https://i.ytimg.com/vi/XbYt8ZX3q9k/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -346,33 +382,33 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-writing-your-first-sql-statement.md",
-      "title": "Writing your first SQL Statement!",
-      "excerpt": "New to writing T-SQL? Patrick walks you through your first SQL statement. Great foundation to have when working with SQL Server or Azure Synapse Analytics!  Download SQL Server Management Studio https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms  Download and install Azure",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-writing-your-first-sql-statement/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-writing-your-first-sql-statement/",
-      "originalUrl": "https://youtube.com/watch?v=Q_fKhmwRifo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q_fKhmwRifo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M",
+      "path": "_learning/videos/microsoft-module-4-embedding-content-part-35-power-bi-developer-in-a-day.md",
+      "title": "Module 4: Embedding content (Part 3/5) | Power BI Developer in a Day",
+      "excerpt": "In this video, you’ll learn about NuGet packages to import, and how to programmatically embed Power BI content. This is video 11 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-4-embedding-content-part-35-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-4-embedding-content-part-35-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=mXmFrHuYVh8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mXmFrHuYVh8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M31S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-05-31T08:00:21-07:00",
+      "publishedDateTime": "2020-06-01T13:35:28-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
+          "url": "https://i.ytimg.com/vi/mXmFrHuYVh8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -384,25 +420,33 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-3-reasons-why-no-one-should-be-a-power-bi-consultant-.md",
-      "title": "3 Reasons Why *NO ONE* Should be a Power BI Consultant ☠️⚠️🚧🛑",
-      "excerpt": "Want to learn the 5-Steps to become a successful Power BI Consultant? 👉 Sign Up for our Free Webinar on Thu Jan 21: https://web.learnpowerbi.com/consultant/  If you are thinking about creating a side-income or full-time income as a \"Power BI Consultant\"…then you must first watch this video. I share",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-3-reasons-why-no-one-should-be-a-power-bi-consultant-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-3-reasons-why-no-one-should-be-a-power-bi-consultant-/",
-      "originalUrl": "https://youtube.com/watch?v=LdZXrVe9g14",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LdZXrVe9g14\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M32S",
+      "path": "_learning/videos/microsoft-module-4-embedding-content-part-45-power-bi-developer-in-a-day.md",
+      "title": "Module 4: Embedding content (Part 4/5) | Power BI Developer in a Day",
+      "excerpt": "In this video, Peter Myers demonstrates how to develop with the Power BI REST API and embedding Power BI reports. This is video 12 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-4-embedding-content-part-45-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-4-embedding-content-part-45-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=9YNm90K8FhA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9YNm90K8FhA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M45S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-01-13T09:16:37-08:00",
+      "publishedDateTime": "2020-06-01T13:35:44-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/LdZXrVe9g14/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/9YNm90K8FhA/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -414,25 +458,33 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-5-steps-to-master-power-bi-are-you-missing-a-step-.md",
-      "title": "5 Steps to Master Power BI: Are You Missing a Step? 🤔",
-      "excerpt": "How can you master Power BI? Even though there are 1000s of videos and training lessons available for Power BI…why do some people still struggle to master Power BI? To feel confident and comfortable using Power BI? Why do they keep getting stuck? Unable to cross the learning-doing gap?  Imagine if you",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-5-steps-to-master-power-bi-are-you-missing-a-step-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-5-steps-to-master-power-bi-are-you-missing-a-step-/",
-      "originalUrl": "https://youtube.com/watch?v=wM8x4eA3wdc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wM8x4eA3wdc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M34S",
+      "path": "_learning/videos/microsoft-module-4-embedding-content-part-55-power-bi-developer-in-a-day.md",
+      "title": "Module 4: Embedding content (Part 5/5) | Power BI Developer in a Day",
+      "excerpt": "In this video, Peter Myers demonstrates how to embed Power BI dashboards and the Q&A experience. This is video 13 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the videos",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-4-embedding-content-part-55-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-4-embedding-content-part-55-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=hnZ7IWHrMFU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hnZ7IWHrMFU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M57S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-10-14T09:00:14-07:00",
+      "publishedDateTime": "2020-06-01T13:36:06-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/wM8x4eA3wdc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/hnZ7IWHrMFU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -444,447 +496,31 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-advanced-power-bi-bookmark-options-datadisplaycurrent-page.md",
-      "title": "Advanced Power BI Bookmark Options (Data/Display/Current Page)",
-      "excerpt": "If you use Power BI Bookmarks you may not have used the advanced bookmarking options for  ➔ Bookmark Data ➔ Bookmark Display  ➔ Bookmark Current Page I talk about these options and show you were these can really help you out when using Power BI Bookmarks in advanced scenarios.  ================================",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-advanced-power-bi-bookmark-options-datadisplaycurrent-page/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-advanced-power-bi-bookmark-options-datadisplaycurrent-page/",
-      "originalUrl": "https://youtube.com/watch?v=PHS6OCSnE_g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PHS6OCSnE_g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M44S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-09-30T09:00:08-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PHS6OCSnE_g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-dax-measures-filter-context-explained-in-simple-terms-using-the-ican-principle.md",
-      "title": "DAX Measures: Filter Context Explained in Simple Terms using the I.C.A.N. Principle",
-      "excerpt": "For Power BI DAX Measures, one of the hardest concepts to grasp is the Filter Context. Or is it? I explain the “Filter Context” using the 4-easy step approach of the I.C.A.N. Principle. ==  I. Incoming Filters ==  C. CALCULATE does it’s Magic! ==  A. Apply relationships (filters flow Across relationships)",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-dax-measures-filter-context-explained-in-simple-terms-using-the-ican-principle/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-dax-measures-filter-context-explained-in-simple-terms-using-the-ican-principle/",
-      "originalUrl": "https://youtube.com/watch?v=SlQJaryCLy4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SlQJaryCLy4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M23S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-07-10T03:33:30-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SlQJaryCLy4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-dax-time-intelligence-functions-for-beginners-with-jeffrey-wangtalk-power-bi-live.md",
-      "title": "DAX Time Intelligence Functions for Beginners with Jeffrey Wang🔴Talk Power BI LIVE",
-      "excerpt": "Datetime related calculations are some of the most common, yet confusing, calculations for people who are new to Power BI. Time intelligence calculations, e.g. month-over-month growth, year-to-date total, etc. are even more difficult to get right consistently. In this session I will reveal how Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-dax-time-intelligence-functions-for-beginners-with-jeffrey-wangtalk-power-bi-live/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-dax-time-intelligence-functions-for-beginners-with-jeffrey-wangtalk-power-bi-live/",
-      "originalUrl": "https://youtube.com/watch?v=U86045UGoW8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/U86045UGoW8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H34M29S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-06-19T11:23:11-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/U86045UGoW8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-excel-power-bi-microsoft-teamsa-heros-journey.md",
-      "title": "Excel + Power BI + Microsoft Teams...a Hero's Journey",
-      "excerpt": "Find out how Excel, Power BI, Microsoft Teams and Office 365 can all work together to help you be a Data Superhero! 👉 Connect with Olaf https://www.linkedin.com/in/olafhubel/ 👉 Join the LearnPowerBI Family: https://web.learnpowerbi.com/waitlist-invite/ Watch Olaf's Detailed Demo https://youtu.be/MC898-_9yK4",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-excel-power-bi-microsoft-teamsa-heros-journey/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-excel-power-bi-microsoft-teamsa-heros-journey/",
-      "originalUrl": "https://youtube.com/watch?v=Zxd0FqrZf58",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Zxd0FqrZf58\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M57S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-05-02T08:45:53-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Zxd0FqrZf58/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-fix-duplicate-value-error-in-power-bi-shorts.md",
-      "title": "Fix Duplicate Value Error in Power BI #Shorts",
-      "excerpt": "👉 If you have any questions, just leave us a comment.  👉 Check out our Power BI Tutorial https://youtu.be/AGrl-H87pRU ================================ #PowerBI #PowerBIQuestion #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-fix-duplicate-value-error-in-power-bi-shorts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-fix-duplicate-value-error-in-power-bi-shorts/",
-      "originalUrl": "https://youtube.com/watch?v=UwmsOhe-DZ8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UwmsOhe-DZ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT30S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2022-05-17T09:00:21-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-how-to-create-a-power-bi-composite-model-and-whats-new.md",
-      "title": "How to Create a Power BI Composite Model and What’s New!",
-      "excerpt": "Find out what’s new with Power BI Composite Models and learn how to create one step-by-step.  • Composite Models combine the Import and Direct Query Mode • Find out why Composite Models may hold the key to bring IT & Business together ===Power BI Resources=== 👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-how-to-create-a-power-bi-composite-model-and-whats-new/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-how-to-create-a-power-bi-composite-model-and-whats-new/",
-      "originalUrl": "https://youtube.com/watch?v=043x57_b1Oc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/043x57_b1Oc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M20S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-08-30T00:26:37-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/043x57_b1Oc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-learn-dax-by-studying-common-problems-encountered-by-real-world-users-talk-power-bi-live.md",
-      "title": "Learn DAX by Studying Common Problems Encountered by Real-World Users 🔴Talk Power BI LIVE",
-      "excerpt": "We will learn the DAX programming language by examining several issues frequently reported by DAX users through PowerBI Desktop frowns.  Why is this interesting?  DAX training has consistently been one of the top asks from Power BI users. In this TalkPowerBI session, Jeffrey Wang is going to show you",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-learn-dax-by-studying-common-problems-encountered-by-real-world-users-talk-power-bi-live/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-learn-dax-by-studying-common-problems-encountered-by-real-world-users-talk-power-bi-live/",
-      "originalUrl": "https://youtube.com/watch?v=WSfc2hY1_dQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WSfc2hY1_dQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H11M57S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-03-27T10:48:53-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WSfc2hY1_dQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-apps-and-app-workspaces-how-to-distribute-power-bi-content-to-a-large-audience.md",
-      "title": "Power BI Apps and App Workspaces: How to distribute Power BI content to a Large Audience",
-      "excerpt": "Power BI Apps are a terrific way to distribute your Power BI content to a large audience.  You can \"Publish App\" to Entire Organization or specific individuals and groups. Then any user (within the Group you provided Access to) can click \"Get Apps\" to consume your App - which comprises the Dashboards,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-apps-and-app-workspaces-how-to-distribute-power-bi-content-to-a-large-audience/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-apps-and-app-workspaces-how-to-distribute-power-bi-content-to-a-large-audience/",
-      "originalUrl": "https://youtube.com/watch?v=xVP1TRUHMwQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xVP1TRUHMwQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M11S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-08-21T04:07:35-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xVP1TRUHMwQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-dashboard-challenge-executive-dashboards-that-connect-company-systems-by-poorni-g.md",
-      "title": "Power BI Dashboard Challenge: Executive Dashboards 📊 that Connect Company Systems, by Poorni G.",
-      "excerpt": "What results can a Power BI Beginner get in just 30-Days? Watch Poorni G. show you how she was able to connect various company systems and build executive dashboards for senior management. Giving them a never before seen view of their business.  ➔ What results can you get in just 30-Days? Join our 30-Day",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-dashboard-challenge-executive-dashboards-that-connect-company-systems-by-poorni-g/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-dashboard-challenge-executive-dashboards-that-connect-company-systems-by-poorni-g/",
-      "originalUrl": "https://youtube.com/watch?v=D_8r3Mzdts0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D_8r3Mzdts0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M46S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2022-05-18T17:09:59-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-dashboards-for-specialty-coffee-industry-with-greg-baerg.md",
-      "title": "Power BI Dashboards for Specialty Coffee Industry with Greg Baerg",
-      "excerpt": "👉 Interested in becoming a Power BI Consultant like Greg? Join our Upcoming Event at https://web.learnpowerbi.com/consultant/   👉 Connect with Greg Baerg on LinkedIn at https://www.linkedin.com/in/gregbaerg/   👉 Get access to all the #PowerBIConference Sessions at https://www.PowerBIConference.com/recording",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-dashboards-for-specialty-coffee-industry-with-greg-baerg/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-dashboards-for-specialty-coffee-industry-with-greg-baerg/",
-      "originalUrl": "https://youtube.com/watch?v=S6T2gtiT_CI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/S6T2gtiT_CI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M46S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2022-01-05T09:00:17-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/S6T2gtiT_CI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-drill-through-5-different-alternatives-that-may-be-better-for-you.md",
-      "title": "Power BI Drill Through: 5 Different Alternatives That May be Better For You!",
-      "excerpt": "Power BI Drill Through isn’t always the best option to show more detail. There are alternatives that may work better for you. We cover the top 5:  1️⃣ Cross Filter 2️⃣️ Tooltips & Report Page Tooltips 3️⃣ Dynamic Link to External Report 4️⃣ Dynamic Link to Power BI Report 5️⃣️ Using Bookmarks 👉 Catch",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-drill-through-5-different-alternatives-that-may-be-better-for-you/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-drill-through-5-different-alternatives-that-may-be-better-for-you/",
-      "originalUrl": "https://youtube.com/watch?v=B7mtd_9UKyU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B7mtd_9UKyU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M19S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-10-09T09:00:02-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B7mtd_9UKyU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-relationships-many-to-manyone-too-many.md",
-      "title": "Power BI Relationships: Many to Many...One too Many?",
-      "excerpt": "FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download ✅ Subscribe to always get my latest videos: https://goo.gl/P79Hcr 👪 Join our Facebook Group https://www.facebook.com/groups/talkpowerbi  ===Most Popular Playlists===",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-relationships-many-to-manyone-too-many/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-relationships-many-to-manyone-too-many/",
-      "originalUrl": "https://youtube.com/watch?v=nCH79tIf_80",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nCH79tIf_80\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M13S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-05-19T15:21:27-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nCH79tIf_80/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-select-top-row-in-each-category-powerbipuzzle-.md",
-      "title": "Power BI: Select Top Row in Each Category?! #PowerBIPuzzle 🤔",
-      "excerpt": "👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/ 00:00 Outline Problem & Approach 02:26 Solution 1: Thought Process 05:08 Solution 1: Steps 10:50 Solution 2: Thought Process (Use a Tie-Breaker) 12:20 Solution 2: Steps  Let me show you how you can select the “Top",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-select-top-row-in-each-category-powerbipuzzle-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-select-top-row-in-each-category-powerbipuzzle-/",
-      "originalUrl": "https://youtube.com/watch?v=WmAHSuasfFw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WmAHSuasfFw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M52S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-09-14T09:00:07-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WmAHSuasfFw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-calculated-column-131.md",
-      "title": "Power BI Tutorial for Beginners: DAX. Calculated Column (1.3.1)",
-      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-calculated-column-131/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-calculated-column-131/",
-      "originalUrl": "https://youtube.com/watch?v=n6GgFAsLXFs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n6GgFAsLXFs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M31S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-05-07T07:57:09-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/n6GgFAsLXFs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-get-data-query-editor-continued-113.md",
-      "title": "Power BI Tutorial for Beginners: Get Data. Query Editor Continued... (1.1.3)",
-      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-get-data-query-editor-continued-113/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-get-data-query-editor-continued-113/",
-      "originalUrl": "https://youtube.com/watch?v=G7UI2jI43vw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G7UI2jI43vw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "path": "_learning/videos/microsoft-module-5-integrate-content-with-the-power-bi-client-apis-part-1-2-power-bi-developer-in-a-day.md",
+      "title": "Module 5: Integrate Content with the Power BI Client APIs (Part 1/ 2)| Power BI Developer in a Day",
+      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional, and course developer) and Amit Shuster (Product manager) describe how to use the Power BI Client APIs to enhance the application experience. It is video 13 of 21.  The Power BI Developer in a Day online course empowers you as an app developer",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-5-integrate-content-with-the-power-bi-client-apis-part-1-2-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-5-integrate-content-with-the-power-bi-client-apis-part-1-2-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=cFnI-1s2LIM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cFnI-1s2LIM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT6M51S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2017-05-08T03:46:44-07:00",
+      "publishedDateTime": "2021-11-19T11:49:16-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/G7UI2jI43vw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/cFnI-1s2LIM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -898,23 +534,107 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-get-data-self-documenting-awesomeness-114.md",
-      "title": "Power BI Tutorial for Beginners: Get Data. Self-Documenting Awesomeness! (1.1.4)",
-      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-get-data-self-documenting-awesomeness-114/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-get-data-self-documenting-awesomeness-114/",
-      "originalUrl": "https://youtube.com/watch?v=0d9zqMlTF9E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0d9zqMlTF9E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M35S",
+      "path": "_learning/videos/microsoft-module-5-integrating-content-with-javascript-api-part-12-power-bi-developer-in-a-day.md",
+      "title": "Module 5: Integrating content with JavaScript API (Part 1/2) | Power BI Developer in a Day",
+      "excerpt": "In this video, you’ll learn how to use the Power BI JavaScript API to enhance the application experience. This is video 14 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-5-integrating-content-with-javascript-api-part-12-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-5-integrating-content-with-javascript-api-part-12-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=wmeEEHQmQqw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wmeEEHQmQqw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M18S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2017-05-08T03:47:10-07:00",
+      "publishedDateTime": "2020-06-01T13:36:28-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0d9zqMlTF9E/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wmeEEHQmQqw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-module-5-integrating-content-with-javascript-api-part-22-power-bi-developer-in-a-day.md",
+      "title": "Module 5: Integrating content with JavaScript API (Part 2/2) | Power BI Developer in a Day",
+      "excerpt": "In this video, Peter Myers introduces the Power BI Embedded Playground, and demonstrates how to add client-side filtering and a context menu. This is video 15 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-5-integrating-content-with-javascript-api-part-22-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-5-integrating-content-with-javascript-api-part-22-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=TSEjZl0dGfM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TSEjZl0dGfM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M19S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-01T13:36:43-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TSEjZl0dGfM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-module-6-configure-data-permissions-part-1-of-3-power-bi-developer-in-a-day.md",
+      "title": "Module 6: Configure Data Permissions (Part 1 of 3) | Power BI Developer in a Day",
+      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional, and course developer) and Amit Shuster (Product manager) describe how to restrict access to data by mapping application users to dataset roles. It is video 15 of 21.  The Power BI Developer in a Day online course empowers you as an app developer",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-6-configure-data-permissions-part-1-of-3-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-6-configure-data-permissions-part-1-of-3-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=NQymN6flkKk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NQymN6flkKk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M14S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-11-22T08:48:25-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NQymN6flkKk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -928,23 +648,145 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-bi-create-report-151.md",
-      "title": "Power BI Tutorial for Beginners: Power BI. Create Report (1.5.1)",
-      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-bi-create-report-151/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-bi-create-report-151/",
-      "originalUrl": "https://youtube.com/watch?v=ojP1HP7yvU8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ojP1HP7yvU8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M6S",
+      "path": "_learning/videos/microsoft-module-6-enforcing-row-level-security-part-13-power-bi-developer-in-a-day.md",
+      "title": "Module 6: Enforcing Row-level security (Part 1/3) | Power BI Developer in a Day",
+      "excerpt": "In this video, learn how to limit access to data by mapping application users to dataset roles. This is video 16 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you watch the videos",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-6-enforcing-row-level-security-part-13-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-6-enforcing-row-level-security-part-13-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=8O4hzGI8FFg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8O4hzGI8FFg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M2S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2017-05-07T07:04:40-07:00",
+      "publishedDateTime": "2020-06-01T13:37:02-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ojP1HP7yvU8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8O4hzGI8FFg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-module-6-enforcing-row-level-security-part-23-power-bi-developer-in-a-day.md",
+      "title": "Module 6: Enforcing Row-level security (Part 2/3) | Power BI Developer in a Day",
+      "excerpt": "In this video, learn how you can define effective identity to programmatically enforce row-level security (RLS). This is video 17 of 20.    The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power BI content. We recommend you",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-6-enforcing-row-level-security-part-23-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-6-enforcing-row-level-security-part-23-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=8mxg8LtLx4I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8mxg8LtLx4I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M43S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-01T13:37:17-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8mxg8LtLx4I/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-module-7-embedding-licensing-power-bi-developer-in-a-day.md",
+      "title": "Module 7: Embedding licensing | Power BI Developer in a Day",
+      "excerpt": "In this video, we describe Power BI embedding licensing and compare different products. You’ll also learn about licensing guidance.  This is video 19 of 20.    Please note: licensing information is current at the time of recording, which was May 2020   The Power BI Developer in a Day online course empowers you as an",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-7-embedding-licensing-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-7-embedding-licensing-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=ipmip6ARnks",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ipmip6ARnks\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M49S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-01T13:37:48-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ipmip6ARnks/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-module-8-power-bi-embedded-analytics-licensing-power-bi-developer-in-a-day.md",
+      "title": "Module 8: Power BI Embedded Analytics Licensing | Power BI Developer in a Day",
+      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional, and course developer) and Alon Baram (Senior product manager) describe Power BI embedding licensing and compare different products. Licensing guidance is presented too. Note that licensing information is current at the time of recording,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-8-power-bi-embedded-analytics-licensing-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-8-power-bi-embedded-analytics-licensing-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=y6zp04btvVw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y6zp04btvVw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M24S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-11-19T11:53:27-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/y6zp04btvVw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -958,23 +800,293 @@
       ]
     },
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-bi-publish-and-create-dashboard-153.md",
-      "title": "Power BI Tutorial for Beginners: Power BI. Publish and Create Dashboard (1.5.3)",
-      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-bi-publish-and-create-dashboard-153/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-power-bi-publish-and-create-dashboard-153/",
-      "originalUrl": "https://youtube.com/watch?v=tHiz-JDsAwk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tHiz-JDsAwk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M31S",
+      "path": "_learning/videos/microsoft-power-bi-embedded-analytics-playground-power-bi-developer-in-a-day.md",
+      "title": "Power BI Embedded Analytics Playground | Power BI Developer in a Day",
+      "excerpt": "In this video, May Hartov (Software engineer) and Liav Zayde (Software engineer) describe and demonstrate the Power BI Embedded Analytics Playground. It is video 21 of 21.  The Power BI Developer in a Day online course empowers you as an app developer with the technical knowledge required to embed Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-embedded-analytics-playground-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-embedded-analytics-playground-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=DLYlDDF3mNw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DLYlDDF3mNw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M50S",
       "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2017-05-07T07:55:32-07:00",
+      "publishedDateTime": "2021-11-19T11:53:39-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tHiz-JDsAwk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/DLYlDDF3mNw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-16-visualizing-report-data-part-3.md",
+      "title": "Power BI Paginated Reports in a Day - 16: Visualizing Report Data - Part 3",
+      "excerpt": "In this video, we introduce the data visualization templates  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you watch the videos in the recorded",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-16-visualizing-report-data-part-3/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-16-visualizing-report-data-part-3/",
+      "originalUrl": "https://youtube.com/watch?v=dliLsRvQB-c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dliLsRvQB-c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M15S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-17T21:33:17-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dliLsRvQB-c/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": "Power BI Paginated Reports in a Day - 16: Visualizing Report Data - Part 3",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-17-visualizing-report-data-part-4.md",
+      "title": "Power BI Paginated Reports in a Day - 17: Visualizing Report Data - Part 4",
+      "excerpt": "In this video, we demonstrate adding data bars and indicators to the table report.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you watch",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-17-visualizing-report-data-part-4/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-17-visualizing-report-data-part-4/",
+      "originalUrl": "https://youtube.com/watch?v=5yHxuRRP_eU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5yHxuRRP_eU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M10S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-17T21:33:46-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5yHxuRRP_eU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": "Power BI Paginated Reports in a Day - 17: Visualizing Report Data - Part 4",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-18-adding-interactive-features-part-1.md",
+      "title": "Power BI Paginated Reports in a Day - 18: Adding Interactive Features - Part 1",
+      "excerpt": "In this video, we describe adding interactive features.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you watch the videos in the recorded",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-18-adding-interactive-features-part-1/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-18-adding-interactive-features-part-1/",
+      "originalUrl": "https://youtube.com/watch?v=LInMHpTEaI0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LInMHpTEaI0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M20S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-17T22:10:44-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LInMHpTEaI0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": "Power BI Paginated Reports in a Day - 18: Adding Interactive Features - Part 1",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-20-beyond-report-development-part-1.md",
+      "title": "Power BI Paginated Reports in a Day - 20: Beyond Report Development - Part 1",
+      "excerpt": "In this video, we describe how to publish reports to the Power BI service, and also cover consuming, delivering, and embedding paginated reports. Finally, we discuss when it's a good choice to create a paginated report instead of a Power BI report.  The Power BI Paginated Reports in a Day online course",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-20-beyond-report-development-part-1/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-20-beyond-report-development-part-1/",
+      "originalUrl": "https://youtube.com/watch?v=1CgDVDslwvs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1CgDVDslwvs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M53S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-17T22:12:09-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1CgDVDslwvs/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": "Power BI Paginated Reports in a Day - 20: Beyond Report Development - Part 1",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-25-december-2020-update.md",
+      "title": "Power BI Paginated Reports in a Day - 25: December 2020 Update",
+      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional - Data Platform, and course developer) and Chris Finlan (Principal Program Manager) describe and demonstrate new capabilities and features added to #Microsoft #PowerBI paginated reports since the online course was recorded.    For more information",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-25-december-2020-update/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-25-december-2020-update/",
+      "originalUrl": "https://youtube.com/watch?v=-7M4muS_3BI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-7M4muS_3BI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M44S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-12T13:00:31-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-7M4muS_3BI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-26-december-2021-update.md",
+      "title": "Power BI Paginated Reports in a Day - 26: December 2021 Update",
+      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional - Data Platform, and course developer) describes and demonstrates new capabilities and features added to #Microsoft #PowerBI paginated reports since the last update for December 2020 was recorded.    For more information about the online",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-26-december-2021-update/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-26-december-2021-update/",
+      "originalUrl": "https://youtube.com/watch?v=tPasEyezQnc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tPasEyezQnc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M17S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-02-04T09:04:28-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tPasEyezQnc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/power-bi-tips-austin-power-bi-user-group-charticulator-101.md",
+      "title": "Austin Power BI User Group - Charticulator 101",
+      "excerpt": "This Austin User Group presentation is all about the Basics of Charticulator. We also go through three demos of visual creations. 1. Build a fancy Bar chart mirroring what is done in desktop 2. Cool chart with stacked bars and scatter plot 3. Box and Whisker chart  Follow Mike on LinkedIn: https://www.linkedin.com/in/michaelcarlo/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-austin-power-bi-user-group-charticulator-101/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-austin-power-bi-user-group-charticulator-101/",
+      "originalUrl": "https://youtube.com/watch?v=3-6-iPhbmhQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3-6-iPhbmhQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H19M28S",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "publishedDateTime": "2021-08-11T18:09:09-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3-6-iPhbmhQ/maxresdefault_live.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
