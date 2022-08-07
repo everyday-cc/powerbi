@@ -443,6 +443,57 @@
       ]
     },
     {
+      "path": "_news/2022-07-19-revamped-look-for-power-bi-mobile-is-now-available.md",
+      "title": "Revamped look for Power BI Mobile is now available",
+      "excerpt": "Microsoft's recent improvements to Power BI include URL parameters for paginated reports, changes to summarized data export behavior, and new settings to tackle issues related to capacity.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-19-revamped-look-for-power-bi-mobile-is-now-available/index.json",
+      "webUrl": "https://www.neowin.net/news/revamped-look-for-power-bi-mobile-is-now-available/",
+      "originalUrl": "https://www.neowin.net/news/revamped-look-for-power-bi-mobile-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329716_powerbi-3_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/revamped-look-for-power-bi-mobile-is-now-available/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/revamped-look-for-power-bi-mobile-is-now-available/",
+      "publishedDateTime": "2022-07-19T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-executequeries-rest-api-versus-xmla-endpoints-at-scale.md",
       "title": "ExecuteQueries REST API versus XMLA endpoints at scale",
       "excerpt": "Power BI APIs can support you at any scale, but there is no one-size-fits-all API. The ExecuteQueries API is a great choice at small scale. For large-scale solutions, switch to XMLA endpoints and host your datasets on Power BI Premium.",
@@ -1184,57 +1235,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-06-10T00:28:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-enhanced-refresh-with-the-power-bi-rest-api-is-now-generally-available.md",
-      "title": "Enhanced refresh with the Power BI REST API is now generally available",
-      "excerpt": "General availability announcement for Enhanced Refresh with the Power BI REST API. Perform fine-grain refresh operations for improved scalability.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-06-02-enhanced-refresh-with-the-power-bi-rest-api-is-now-generally-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/enhanced-refresh-with-the-power-bi-rest-api-is-now-generally-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/enhanced-refresh-with-the-power-bi-rest-api-is-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
