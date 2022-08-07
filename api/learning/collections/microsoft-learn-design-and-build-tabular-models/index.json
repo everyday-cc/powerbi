@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-power-bi-model-relationships/",
       "length": "PT45M",
       "ratings": {
-        "count": 30,
-        "average": 4.8333335
+        "count": 32,
+        "average": 4.8125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1195,
-        "average": 4.7372384
+        "count": 1196,
+        "average": 4.737458
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -97,8 +97,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-calculation-groups/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 29,
-        "average": 4.793103
+        "count": 30,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
