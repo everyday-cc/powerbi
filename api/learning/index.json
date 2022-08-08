@@ -255,51 +255,28 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-dax-previous-month-to-date-quarter-to-date-and-year-to-date-calculations.md",
-      "title": "Power BI DAX   Previous Month to Date, Quarter to Date, and Year to Date Calculations",
-      "excerpt": "If you want to compare the sales up to a particular day and compare it with the previous period (month, quarter, or year) but up to that particular day in that period, then it is called previous month-to-date, previous quarter-to-date, and previous year-to-date. These calculations can be more helpful",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-dax-previous-month-to-date-quarter-to-date-and-year-to-date-calculations/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-dax-previous-month-to-date-quarter-to-date-and-year-to-date-calculations/",
-      "originalUrl": "https://youtube.com/watch?v=pNs-JCPj57c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pNs-JCPj57c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M39S",
+      "path": "_learning/videos/sqlbi-fields-parameters-in-power-bi.md",
+      "title": "Fields parameters in Power BI",
+      "excerpt": "This video analyzes the dynamic parameters feature in Power BI, unveiling some of the internals of its implementation.\r IMPORTANT: While this feature is in preview, you must enable it in Power BI Desktop in Options / Global / Preview Features / Field parameters. If you do not enable the feature, also",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-fields-parameters-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-fields-parameters-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=TufnsAxJsjs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TufnsAxJsjs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M38S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2022-05-18T20:32:12-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-getting-started-with-power-bi-datamart.md",
-      "title": "Getting Started with Power BI Datamart",
-      "excerpt": "In the previous video, you learned what is a Datamart and the use cases of that in a Power BI implementation. In this article and video, you will have your first experience with Datamarts and learn through an example about what it is and how it works in detail. The interesting thing in all the steps",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-getting-started-with-power-bi-datamart/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-getting-started-with-power-bi-datamart/",
-      "originalUrl": "https://youtube.com/watch?v=rSDNWv4ck3k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rSDNWv4ck3k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M36S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2022-05-22T19:38:34-07:00",
-      "heat": 132,
+      "publishedDateTime": "2022-05-24T03:00:32-07:00",
+      "heat": 141,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -316,28 +293,58 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-why-isnt-my-agg-hitting-when-using-distinctcount-in-power-bi.md",
-      "title": "Why isn't my Agg hitting when using DISTINCTCOUNT in Power BI???",
-      "excerpt": "Using Aggregations in Power BI? Have some DISTINCTCOUNT in your measures? Wondering why the queries are slow and not hitting the aggs? Patrick shows you what is going on! Get ready for some DAX fusion!  DAX Fusion: https://dax.tips/2019/08/05/dax-fusion/  Aggregations Documentation: https://docs.microsoft.com/power-bi/transform-model/aggregations-advanced",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-isnt-my-agg-hitting-when-using-distinctcount-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-isnt-my-agg-hitting-when-using-distinctcount-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=lTkWAfrMwOg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lTkWAfrMwOg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M46S",
+      "path": "_learning/videos/radacad-power-bi-datamart-components.md",
+      "title": "Power BI Datamart components",
+      "excerpt": "What is a Power BI Datamart underneath? Can you connect to the database generated by Power BI Datamart? how the Dataset associated with the Datamart can be used? Is there a linage view? In this article and video, I'll explain These and you will learn about the components of a Power BI Datamart.  Learn",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-datamart-components/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-datamart-components/",
+      "originalUrl": "https://youtube.com/watch?v=eizc2cxuioQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eizc2cxuioQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M48S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-05-22T19:53:02-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-understanding-the-optimization-of-switch.md",
+      "title": "Understanding the optimization of SWITCH",
+      "excerpt": "The SWITCH function in DAX has been optimized over the years, and it is helpful to know what makes the optimization work best.\r \r  \r Article and download: https://sql.bi/754856?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-understanding-the-optimization-of-switch/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-understanding-the-optimization-of-switch/",
+      "originalUrl": "https://youtube.com/watch?v=Thw6np7EfoM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Thw6np7EfoM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M28S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-05-11T08:00:25-07:00",
-      "heat": 130,
+      "publishedDateTime": "2022-06-28T03:00:28-07:00",
+      "heat": 131,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -970,8 +977,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 43489,
-            "average": 4.7995815
+            "count": 43495,
+            "average": 4.7995863
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1012,8 +1019,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 64578,
-            "average": 4.777974
+            "count": 64584,
+            "average": 4.777979
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1072,8 +1079,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 64578,
-        "average": 4.777974
+        "count": 64584,
+        "average": 4.777979
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1114,8 +1121,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 43489,
-        "average": 4.7995815
+        "count": 43495,
+        "average": 4.7995863
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1187,44 +1194,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-5-key-questions-to-ask-before-you-start-your-power-bi-project.md",
-      "title": "5 key questions to ask before you start your Power BI project",
-      "excerpt": "At the beginning of each Power BI project I always ask this 5 questions to make sure I am on track already from the beginning.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-key-questions-to-ask-before-you-start-your-power-bi-project/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-key-questions-to-ask-before-you-start-your-power-bi-project/",
-      "originalUrl": "https://youtube.com/watch?v=-8m6cPvbkak",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-8m6cPvbkak\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M5S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-07-15T05:58:47-07:00",
-      "heat": 79,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi.md",
       "title": "Create and use analytics reports with Power BI",
       "excerpt": "This learning path introduces you to Power BI, and teaches you to use and build business intelligence reports.",
@@ -1255,8 +1224,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 64578,
-            "average": 4.777974
+            "count": 64584,
+            "average": 4.777979
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1297,8 +1266,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 28887,
-            "average": 4.725413
+            "count": 28891,
+            "average": 4.725416
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1315,7 +1284,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 65,
+          "heat": 66,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
@@ -1340,8 +1309,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 13105,
-            "average": 4.726593
+            "count": 13109,
+            "average": 4.726524
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1418,7 +1387,7 @@
         }
       ],
       "size": 6,
-      "heat": 78,
+      "heat": 79,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
@@ -1429,6 +1398,44 @@
       ],
       "content": "\r\n",
       "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-5-key-questions-to-ask-before-you-start-your-power-bi-project.md",
+      "title": "5 key questions to ask before you start your Power BI project",
+      "excerpt": "At the beginning of each Power BI project I always ask this 5 questions to make sure I am on track already from the beginning.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-key-questions-to-ask-before-you-start-your-power-bi-project/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-key-questions-to-ask-before-you-start-your-power-bi-project/",
+      "originalUrl": "https://youtube.com/watch?v=-8m6cPvbkak",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-8m6cPvbkak\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M5S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-07-15T05:58:47-07:00",
+      "heat": 79,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
