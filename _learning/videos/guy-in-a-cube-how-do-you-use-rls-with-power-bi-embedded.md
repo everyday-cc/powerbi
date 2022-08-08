@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M50S
 publishedDateTime: 2020-07-09T15:00:28Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yNF-_l2f7w0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "pQx43QHC7Idd35c4i+Z8YuLjum1KedOKD1FV3Wh8HetZwavoEAHawQ+AiIAcKio+xXUe57HoTuY6rYAbStD+X0iqAFedpP8HWX+lcGLP6efh9tSWN4sdGfHrk0PIJrWiYjD4sxN8mFR12vB1YaYJq8qdxbmJKFH+Fj//kYtDn5JjFOPPVpmco6UbP1Iy2yO63xLP6UlINNOru8XAFrHXfc/URqiCIJ/ka5hG9DUwL+85BwC44+EpPi1+SGwQRlaYr+dxGhUtRj6pZSsLGdrzGk+Kx5+SiZivUhEJKg65GGFJ98x7uCt30bmmtFloTvHs10Lrol+F+rWGEVLGCZHQhn0b9uOfMQJYUnw/6Us1hSJRvGbq8+KyfSaATHv4qxJBj3+Y3MUgPHKlXYkl69GbrU2LHgNyCMlOxyjs9jjNon8=;JO4R2jiEyD6j6gHYAxHiHA=="
+secured: "N+YX95V/nm+LIVY4k1UQC8Ctf85H6Dt7sxdXmk2z4IGcdc33OkjF4PUMCEgU6li9dDnBL5xbHcoxjUssnrmQhFo+u129yr66PFK83+VTUVdYGTzu1ecZVwX+a0nG08krvvXHNQVB0V5296HPVRiTU/OJSljbSHxkCOZoTqlcBbti0+buVBvYEt2fM1WLYuWi0z5H1Z88jEEzAn2CqFi+7yj1agk1pcBydNm8f1mljjOt9/OZ0DqwodZE3cPJKj7naSi5kJ1wym+UsEK5888amfHtGE9C8RHcwBMqwKsQ9YGzPbxlOPr43s0K3ulKZvAH/W16Aa0YObHOB9edsWVPhS5OM0Dm4okUzrwgmiUnE2MfOSvJYYN3p1B//C3jRIELUw+/2ENi0uDK+35OLaJzXXw+tL6rZWDF0+mVKkxdXe0=;g4URWVec3b+KxIrSjrP38g=="
 ---
 
