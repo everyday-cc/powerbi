@@ -8,7 +8,7 @@ length: PT29M
 ratings:
   count: 3416
   average: 4.771077
-heat: 50
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 321
     isCached: true
 
-secured: "Vvk3q1CnXbsoFnC7xzjPC13HZ532xR3/Vk9/aa98pNAJ24N0iE04qqkzelFALBsNPL5A34rEUveGYNs64LSYpOsHNy+MMZANTxWp7CB3IO1Ogcv6/ygNkQ2x2rRFOKE2sNc/Sg1nipoFCGekUigBACoc/md/W/7p8n4YraCCCdxOfYO9iWwkB6Lhe15QxjOX4hdvzXwOvWg66/9cPwyNE/bQyUHMtnom7KpRSPj0cbWEKf0N/jvoF1qS3XehTb4FQVYeW8a44hhcXJRP1ygMX/BUtz8+VADTd0Vc+BBhPX9y6B+6Xo6zzFvTweKuGAjwY2hl0Moi8ddYvbTOiPJTum84uZzMamkwB6QRA5KIhO4HLSiaXhYjFU15goIMvUlqQgnPUzNO4XwUUz8+x4TvPBJtKbX0Q/gVZ4HXx6mvFNk=;Q6qAhAD18h9lwlP79eOlAw=="
+secured: "GCANpMLvh51B9fYnsdtszbE/3V2EiismO0ESagOK9JLJD2F6kXjIZgA5i2U/vALAqkNU+6S7T6yY1SPwQ+D9flfn9vHn41wvFVYdEZTBQzfNle4W6T3ekYWYy/rIfkXCg/CycyMG+RDp73/A+gPfmye5H+SmxLhWQQcSjBqoQJtbNpQ+5ERDiq5359hXzf2BDjVkQumQ/M4ufoiCIkVEs5CKp2/tdjtOudr6dp8s+Ww4uqeQRc7HqIKTQ8SYFl9hO9VPgyeldxf8C9YhaJ9kz4w85xZEjfeQmRKF528slqNSdfyZTcPVSAtwGj5/IUI2+qH4jRY1W2PLcO3EZcVEfO1xqxxLYkBV/ILXvxWK+cc6ZD12rsaUbKUTJqRRrsp9DWazqUn819Ud3fGI1EcsruoNm8viRvwaBB8Vl+ZNBT8=;j/D4B3UZgJmFd5KQ3K+X+g=="
 ---
 
