@@ -214,8 +214,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 1002,
-        "average": 4.735529
+        "count": 1003,
+        "average": 4.7357926
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1131,7 +1131,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-deployment-pipelines/",
       "length": "PT42M",
       "ratings": {
-        "count": 20,
+        "count": 21,
         "average": 5.0
       },
       "provider": {
@@ -1173,8 +1173,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-filters/",
       "length": "PT45M",
       "ratings": {
-        "count": 320,
-        "average": 4.7375
+        "count": 321,
+        "average": 4.738318
       },
       "provider": {
         "name": "Microsoft Learn",
