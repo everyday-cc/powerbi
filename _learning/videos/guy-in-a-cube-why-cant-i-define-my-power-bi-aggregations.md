@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Why can't I define my Power BI Aggregations???"
 
-secured: "WSJkqZ3y5ZGxwN1gCJfULvN+R5wKpwyMluLo27nW7f4/9VS+c87yspz92O9rkftsxqwJwZxYgpaQVGf5Ua9XMQOj2xnUKLPx5IFcgohUnrI9yAnByQ4DLulG2VmUV/VSF5DHwGfaxuhz6/fsZe8q8bEuol+H+QEOuEFWgdEMhYcl/iBZpRO3ATGZGXTMkGVU8iA5s63IiQrj8lfQNSjrepQBBeV/qP00XjnRIvgD7Up9aeHKgP9I7SYStiwyAMk7ESElkN1h4AI+hQycBDiLJNLSRdRhKYJDlIIxR/jAsOQRhFPKDMjw3OgCF/yQZ+jHPTw4oqDlRFvDAwMVwixdETIu2ADemnfo8pYFZjpS19+RCplHCJ1JPuoHY4iwLqjcvOK1NeR6WBB/4ujQA8Sw82eWlqF0x+M3hFX3fD+OV+E=;LtA6YxYfGsx1rs1Uo2eQzw=="
+secured: "WjdRIJGnt/1+jwQE3EQb/X/AXI12PDfg+xrGgKl0lVCwuw0x8vWwKPiSLhT5T8NMxfgdFjxH/nrTdSZAKgY6OPAYfJAoOE4ZQzmHTmx8s96/BQfX6wsJUmRO50pZvC3iA+hQGCmm8wLUsd/FmrcUQ/UziO6daR8PO9Iy4fyqzSNnpyRmLvo6o3Hya+pcfXdoihiDoikk85R6mqJFwKM9cmP2L2ZtmgqRDHFbanZcl1zOsz7UxhxBTahVmRep4/6e1eYusGvX7TtknZZH/IiNIFr5ws3IXwdFzdoQ73my2nZ4XJ8F5j+6kmNwf5CzS6uFEdDl5SFgOYdt4WtGyhwuLWczC4s5O5r8qYd9/0JnqTHDfAh0p6+aC38xXYQbfUbxnBlKYx0Y8zflzESVSYaxqGTtJBWkL3A43b1/LRGWKy8=;NQ9lQfpxGu62U7xv3Wo4XQ=="
 ---
 
