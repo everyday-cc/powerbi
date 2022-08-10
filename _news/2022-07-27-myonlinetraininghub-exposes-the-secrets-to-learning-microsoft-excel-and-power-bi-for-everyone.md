@@ -1,28 +1,22 @@
 ---
 category: news
 title: "MyOnlineTrainingHub Exposes The Secrets To Learning Microsoft Excel And Power BI For Everyone"
-excerpt: "MyOnlineTrainingHub, an online learning platform has finally exposed the secrets to learning Microsoft Excel and Power BI for anyone – professionals, students, artisans, and everyone ..."
-publishedDateTime: 2022-07-27T10:25:00Z
-originalUrl: "https://www.digitaljournal.com/pr/myonlinetraininghub-exposes-the-secrets-to-learning-microsoft-excel-and-power-bi-for-everyone"
-webUrl: "https://www.digitaljournal.com/pr/myonlinetraininghub-exposes-the-secrets-to-learning-microsoft-excel-and-power-bi-for-everyone"
+excerpt: "MyOnlineTrainingHub Exposes The Secrets To Learning Microsoft Excel And Power BI For Everyone. MyOnlineTrainingHub, an online learning platform has finally exposed"
+publishedDateTime: 2022-07-27T10:20:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-7-27-myonlinetraininghub-exposes-the-secrets-to-learning-microsoft-excel-and-power-bi-for-everyone"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-7-27-myonlinetraininghub-exposes-the-secrets-to-learning-microsoft-excel-and-power-bi-for-everyone"
 type: article
-quality: 26
-heat: 26
+quality: 6
+heat: 6
 published: false
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Power BI
 
-images:
-  - url: "https://lh6.googleusercontent.com/2woMmATeECc_sztNZx6LbtJrNOKpT-71uCSHuLXz7xF9lG4ykwhQ0N_UmPKlP4R0Y84hNPixw_W4IErCSZVHTL42FJjLxjsrbOTq9unY1fU4ONxS1ZYqChjD9bBOAz4L__F_hxeBMuKemd4YlMiTs1M"
-    width: 1275
-    height: 785
-    isCached: true
-
-secured: "jjaoLFs2e3gk3pLQ2fM2kn1tD+G4CDIk25waUIfBcTBZjvWtHR/rlWLZ512srdbiJVRsAbebbVpMDTwnwSwiXF/ywVBitxFc/7ZnHV2Q0QyjQ3d1Q6RjydlCz/tL8p0wLcDksDKShhlSeAWDKIypOMoIKz+LNqmzFC41foH+bkSfHt/fUG+AZyECqxnhlcjuL1KIPUmGnLdwKLbdsJHZMTKnFkZDLw8ASPwrQwPz1Vr/ai5dHIEHkt+QPhNpsgkFSYKlKb20trax6yR8mIa1sBl57EAPF0ipVoty1xEDZzkc+DdvfhoZYPoh6pRugOUyXj06VHGIrBjx1EGM+rY59jxr6NFT8c/Uz7K39/Au0/0=;nW9nc6zlWyHyiwgPobZeWA=="
+secured: "IvmJ0yOQ4Ln1rprNjNwelzx38Blnt6dQyk1BeG+aY2E4zRHmlF77lmySRfLArv3uE+GJRH+wa+IthkKKrHG3oUZgajZuiytCLiHy0TPeh75m7OLRoNVw7UhFAedLEHnnpQ5qfhtJOSm9RO19usyOwAK2J/wpANQJBahwfa81zlXL+PlI4r4iBhyRJlRXfWMthjEaS6j+YZQBTLiLQzN/jYGDcktus+/uUhk9LpDe9eVRYzjQHQtI6Hfomtj29u1ZR53eR5y2CDcgIc8f0o3Z0FTxo2xjR236wwEnPvS8Q/lQXUBKkCBMkLmkyEQ5+6DfLW/SiSb20HpeYteWFDnp2zvEtMLSHIsj4DdS5ncoQ8Iif1kNIivEEmvJIqV7Eq2WroBx9OiRDQnjWzoxPTCh3vukUbWx9kqVFndCyJP/UfLg6UwTvW2Mc3n6q90+Sil3uWY3wg/sgRmflskFBSp1/oivKNMS6BqjttRKRUNZvZuHMXxszIOWs29zs29VK0ckFA/CE3aTDO4C6YwT/qT1xQ==;avbhcdL98aLCJUlVQ2aCAw=="
 ---
 
