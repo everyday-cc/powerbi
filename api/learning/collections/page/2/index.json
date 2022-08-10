@@ -3100,7 +3100,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-data-connectivity-social.png",
@@ -4466,8 +4466,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-real-time-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 46,
-            "average": 4.7826085
+            "count": 47,
+            "average": 4.787234
           },
           "provider": {
             "name": "Microsoft Learn",
