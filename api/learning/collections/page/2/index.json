@@ -1594,7 +1594,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-environment-social.png",
@@ -2203,8 +2203,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1196,
-            "average": 4.737458
+            "count": 1198,
+            "average": 4.7378964
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4099,8 +4099,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13020,
-            "average": 4.677496
+            "count": 13021,
+            "average": 4.6775208
           },
           "provider": {
             "name": "Microsoft Learn",
