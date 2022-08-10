@@ -1,28 +1,28 @@
 ---
 category: news
 title: "This Excel and Power BI certification bundle is on sale for under £30"
-excerpt: "TL;DR: The 2022 Ultimate Microsoft Excel and Power BI Certification Bundle(opens in a new tab) is on sale for £29, saving you 98% on list price. Excel is an incredibly useful program with a vast ..."
-publishedDateTime: 2022-07-30T05:24:00Z
-originalUrl: "https://mashable.com/uk/deals/best-excel-and-power-bi-bundle"
-webUrl: "https://mashable.com/uk/deals/best-excel-and-power-bi-bundle"
+excerpt: "TL;DR: The 2022 Ultimate Microsoft Excel and Power BI Certification Bundle is on sale for £29, saving you 98% on list price. Excel is an incredibly useful program with a vast array of ..."
+publishedDateTime: 2022-07-30T04:06:00Z
+originalUrl: "https://www.aol.com/excel-power-bi-certification-bundle-040000260.html"
+webUrl: "https://www.aol.com/excel-power-bi-certification-bundle-040000260.html"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - Power BI
 
 images:
-  - url: "https://helios-i.mashable.com/imagery/articles/03Xq1ScHQgpCj4koWM07DZk/hero-image.fill.size_1200x675.v1658912738.jpg"
+  - url: "https://s.yimg.com/ny/api/res/1.2/pUqvs_59lVD68pe24I1eQQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/G8TEoIAMGnTUISJFXR8bXQ--~B/aD03MDI7dz0xMjQ4O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_mashable_370/dfc7f5a1d0b9b14071de00b9e7d9c534"
     width: 1200
     height: 675
     isCached: true
 
-secured: "rHujhzT8sa/4312wouzs0kqWE/FgvRZL47QGXR5JORidTW3lmQF3sOkqE/RsXc4CkZXe7Q7CYS30IdToHo8rb+A+EW8sbLHXowz4fYyXWUrKhlNlMXGLpyxB5ZfvpWDgGCm1vL0gOLdXgdytqqHKh5WXbEJ+Qe2chT8ZRb0Mjb4S8TQuiijhwBGst11JAYszo/PhK6nUYkO4urydghnv44WYWBDVrsbkVFx/jRdWXbNn8AnFbJ/KQtrCxsZFbnF/RXtEUQ1k5vwZIa8HLboLK9ey3QtVxpV/l2bj//VC7qIST37MrLZ7aZ/RfcDylzPByUsagorBE4h600bKXTARu68mr3z4QAk+xlWs8+KnGPs=;U1r5YS66nYk3iDBZgKz/Kg=="
+secured: "2Ba+MXLA1xw6H1iSgxAoE/KjdWUBXMpZR4pZcdkNJZCwujgMWLi+dQceBRIXx55lJNmX0bieaRGq0NGOaXyejZ49Knra+bNJv00jZ9ifqXqxK6qYby7loDMbSnJIDTIyBSo4/KOPnw5LtLDB3vL6ufONH++AM09kklFzRuLXsdf3Ao7ailjk7OyXlIVNg8hPl7NqbCr1F0vWIlJWZ7CDmG33v/ZrB++rVqoxYPDj/jCEFKKzToqgKhuU/+mrH/05BBx1rs2qOpBuQQ9a+s0hyyPoZf8THzw3vYptK/ORkIgwguM0nVDy/JoWQRsSsND+04Qztn+e12syz52v/tNptcsXofOq/I5Ms9oN1tOrEVw=;Xk+KF9qXOefVyIizCChErA=="
 ---
 
