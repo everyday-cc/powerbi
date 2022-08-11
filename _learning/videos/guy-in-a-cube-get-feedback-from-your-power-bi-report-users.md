@@ -1,0 +1,32 @@
+---
+title: "Get feedback from your Power BI report users!"
+excerpt: "What if you could find out what your users want directly from your Power BI Reports? What if users could submit bugs and feedback for your report? Adam shows you a way to do it!  Connect with Chris: https://twitter.com/ChrisHamill17  📢 Become a member: https://guyinacu.be/membership \r \r *******************"
+originalUrl: https://youtube.com/watch?v=0WfITrMl0hc
+type: video
+price: Free
+length: PT5M35S
+publishedDateTime: 2022-08-11T15:00:00Z
+heat: 207
+
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0WfITrMl0hc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+
+provider:
+  name: Guy in a Cube
+  domain: guyinacube.com
+  images:
+    - url: https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg
+      width: 50
+      height: 50
+
+topics:
+  - Power BI
+
+images:
+  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "Wa8qp4pKZQntm1/jK6i76xVWVtX7vM8dhdNJpwbhcLeVnMcoLqJCBrUU7enZMPV2fi2ea35tTbjodEEzljvJ1NDPASo+72bWz08gnbMMPTOC9zaOJZJLXTZgf00YVwImDg7l+/fx0Hcx8Fq+/FXlL/9+q+Fej0GclBKwdDXBhWdhiTc9Uiwh84KgVyrWj6Lgpz1DNJKJYGnboxvCqk/4NHCXHS0S9xONEEdm4qRWdzrI/LPwxD8DWOwjBM2KX2aeFIWIoaJOfSk6V0A1vuGPOAgJ2a0srSuRXlUROnQ9Qav4xDXoH8qh76xdJG/Jr+x0Z7Mdpovg3aGZgcz6xDm/DDcdE0qKC4x4cQZmYnfTwDIhdLlAtARPSFD2iLTryzoNmbu975ztDjT9j6AiTMiYIg==;lX29ha4YwzPCtihjUyKesw=="
+---
+
