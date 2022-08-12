@@ -743,8 +743,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1200,
-        "average": 4.7366667
+        "count": 1201,
+        "average": 4.736886
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -787,8 +787,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 1886,
-        "average": 4.712089
+        "count": 1887,
+        "average": 4.711712
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2022-08-10T08:00:01-07:00",
-      "heat": 323,
+      "heat": 254,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -1799,8 +1799,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 1886,
-            "average": 4.712089
+            "count": 1887,
+            "average": 4.711712
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1843,8 +1843,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1324,
-            "average": 4.7326283
+            "count": 1325,
+            "average": 4.73283
           },
           "provider": {
             "name": "Microsoft Learn",
