@@ -3756,8 +3756,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7556,
-            "average": 4.751985
+            "count": 7557,
+            "average": 4.752018
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3798,8 +3798,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6238,
-            "average": 4.713049
+            "count": 6239,
+            "average": 4.713095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4244,8 +4244,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 100,
-            "average": 4.84
+            "count": 101,
+            "average": 4.841584
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5154,8 +5154,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 25,
-            "average": 4.84
+            "count": 26,
+            "average": 4.8461537
           },
           "provider": {
             "name": "Microsoft Learn",
