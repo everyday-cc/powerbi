@@ -20,6 +20,7 @@ provider:
 
 topics:
   - Power BI
+  - DAX
 
 images:
   - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png

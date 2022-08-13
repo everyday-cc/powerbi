@@ -27,6 +27,13 @@ items:
   - videos/sqlbi-using-concatenatex-in-dax
   - videos/sqlbi-mark-as-date-table-in-power-bi
   - videos/sqlbi-computing-totals-by-summing-visible-values-in-dax
+  - videos/sqlbi-sorting-months-in-fiscal-calendars-in-dax
+  - videos/sqlbi-row-context-in-dax
+  - videos/sqlbi-filter-context-in-dax
+  - videos/sqlbi-introducing-calculate-in-dax
+  - videos/sqlbi-understanding-context-transition
+  - videos/sqlbi-using-keepfilters-in-dax
+  - videos/sqlbi-variables-in-dax
 
 topics:
   - Power BI
