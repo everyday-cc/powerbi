@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT9M19S
 publishedDateTime: 2021-01-04T21:35:21Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZsZkYOAcABI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "a4riZWA9lrQ/trAtQmekJCM4vVIbOem9BHokRaVwSbppn6QEddYmWBdQYEH/PYO+22FZD7+1v3xeSxLYd6N4eRmaPpAEAJtkVgi73tOcOXT6gA6/bZpdJnUuMLI9otwS6eGbbJ4t1FpOGqWBFaHTkOvT/y431lNanCxbJKIui6nOr+c1rwXQi+Jnr0v16Qee52MqXKO1BDODyio7BX7Z9hi106FpgYR03RzgbYgyWY+ZFfXkN+nonrx7Cj3v12f8nV2lAcc4rq8bTrCQY4+Kl0If+jgfudLeyyVI9CFAm8yYBpOteebL0+yNWK1x8rO7l/23q0gDJoujLWghdgJdhRFY4ZhYnY7wa6awnGEF/mRdGK9hnddCEde4Q8agMDdTD7YTsKIXYw5VU8OM6RQJCD2XjOnbDD8nT7uV5kGIDh4=;M8RRN1yJXm556Dtap29YRQ=="
+secured: "v/PrSWVXGT1p0vftxOP5zI9ihPyYykXlwZGQ3X9xyShafoSqEqONXY6lIgjd7EEvyoxTogel+ThoVOHKaVefQHT09xHVz0sDvsbspRJxErwdfXiZiajoDDkgblxzr9xpXvS5707Jb5eQXtDdPfFTs/vmD896FzsVVdmLZSO3LZbh7svG0WFn1Z4vzBAdEEUPJt00bg8y7umNB7thSZSxPd7bRQRnYPGKjThZvU9Lm2m40co01yXh0stB5Fe4HcWG9CWJUT5PUgYjUDd3J7MXk9wXDKXyG++Nwkp+3pDZdlLmoR9MLrKfpVLZdVHx/IuEWI83uzcLLJ4zHfCB3tNbx52QtX5OT+tf19M5RjzhkO7sn7OBtCrDyD/Czh5vMTq7xaw5kSIB6r1Uzowmt1tj3iScWuzWA8v8WrDCpTh822U=;dQYCQIf7weczb3TmRhxn9g=="
 ---
 
