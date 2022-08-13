@@ -3692,8 +3692,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7564,
-            "average": 4.7515864
+            "count": 7565,
+            "average": 4.7516193
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4311,8 +4311,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3427,
-            "average": 4.7706447
+            "count": 3429,
+            "average": 4.7707787
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4353,8 +4353,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2978,
-            "average": 4.708865
+            "count": 2980,
+            "average": 4.70906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4395,8 +4395,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4401,
-            "average": 4.8070893
+            "count": 4403,
+            "average": 4.807177
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5048,8 +5048,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-real-time-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 50,
-            "average": 4.8
+            "count": 51,
+            "average": 4.7843137
           },
           "provider": {
             "name": "Microsoft Learn",

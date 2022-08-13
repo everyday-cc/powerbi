@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2978,
-        "average": 4.708865
+        "count": 2980,
+        "average": 4.70906
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -474,8 +474,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-real-time-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 50,
-        "average": 4.8
+        "count": 51,
+        "average": 4.7843137
       },
       "provider": {
         "name": "Microsoft Learn",
