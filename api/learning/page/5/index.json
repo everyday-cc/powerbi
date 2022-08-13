@@ -2047,8 +2047,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-reach/",
           "length": "PT19M",
           "ratings": {
-            "count": 74,
-            "average": 4.756757
+            "count": 75,
+            "average": 4.76
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2256,8 +2256,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-reach/",
           "length": "PT19M",
           "ratings": {
-            "count": 74,
-            "average": 4.756757
+            "count": 75,
+            "average": 4.76
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3781,7 +3781,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
