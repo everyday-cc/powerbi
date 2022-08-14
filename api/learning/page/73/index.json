@@ -4,6 +4,46 @@
   "page": 73,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-visual-vocab-power-query-keyboard-shortcuts-power-bi-dataflows-and-more-december-17-2018.md",
+      "title": "Visual Vocab, Power Query Keyboard Shortcuts, Power BI Dataflows and more... (December 17, 2018)",
+      "excerpt": "Financial Times Visual Vocabulary: Power BI Edition (@SQLJason) http://sqljason.com/2018/12/financial-times-visual-vocabulary-power-bi-edition.html  Power Query Advanced Editor keyboard shortcuts (@Dmaslyuk) https://xxlbi.com/blog/pq-advanced-editor-keyboard-shortcuts/  Power BI Developer community November",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-visual-vocab-power-query-keyboard-shortcuts-power-bi-dataflows-and-more-december-17-2018/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-visual-vocab-power-query-keyboard-shortcuts-power-bi-dataflows-and-more-december-17-2018/",
+      "originalUrl": "https://youtube.com/watch?v=EC-yNtr7RXs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EC-yNtr7RXs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M7S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-12-16T09:46:37-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EC-yNtr7RXs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query",
+        "Dataflows"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-visualize-graph-data-in-power-bi.md",
       "title": "Visualize Graph Data in Power BI",
       "excerpt": "Have you wondered how to visualize graph data? No, not Microsoft Graph. Graph Networks! Adam shows you how you can do this in Power BI Desktop.  Download sample: http://guyinacu.be/graphdatasample  Microsoft Graph API: https://docs.microsoft.com/graph/overview  Graphs and Networks https://www.mathworks.com/help/matlab/graph-and-network-algorithms.html",
@@ -414,44 +454,6 @@
           "url": "https://i.ytimg.com/vi/ZGQE1WZtD5M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-whats-up-with-the-different-joins-in-azure-sql-and-azure-synapse.md",
-      "title": "What's up with the different JOINS in Azure SQL and Azure Synapse?",
-      "excerpt": "Not sure what the different JOINs mean in Azure Synapse Analytics and Azure SQL Database? Patrick walks you through the different types to get you on the right path!  Joins (SQL Server) https://docs.microsoft.com/sql/relational-databases/performance/joins?view=sql-server-ver16  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-whats-up-with-the-different-joins-in-azure-sql-and-azure-synapse/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-whats-up-with-the-different-joins-in-azure-sql-and-azure-synapse/",
-      "originalUrl": "https://youtube.com/watch?v=ZEcQ13TaIWA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZEcQ13TaIWA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M12S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-06-28T08:00:16-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
           "isCached": true
         }
       ],
@@ -882,44 +884,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-writing-your-first-sql-statement.md",
-      "title": "Writing your first SQL Statement!",
-      "excerpt": "New to writing T-SQL? Patrick walks you through your first SQL statement. Great foundation to have when working with SQL Server or Azure Synapse Analytics!  Download SQL Server Management Studio https://docs.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms  Download and install Azure",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-writing-your-first-sql-statement/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-writing-your-first-sql-statement/",
-      "originalUrl": "https://youtube.com/watch?v=Q_fKhmwRifo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q_fKhmwRifo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-05-31T08:00:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-yes-block-classic-workspaces-in-power-bi-even-from-microsoft-teams.md",
       "title": "YES!!! BLOCK Classic Workspaces in Power BI. Even from Microsoft Teams!",
       "excerpt": "The ability to BLOCK classic workspaces from being created in Power BI is finally here! Adam shows you how to implement and what to consider. Create Microsoft Teams without the worry!  Blog: https://powerbi.microsoft.com/blog/announcing-you-can-now-block-classic-workspace-creation/  📢 Upcoming Administration",
@@ -1095,6 +1059,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/MTl-gIeVMyk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-5-mistakes-business-leaders-make-when-starting-with-power-bi-talk-power-bi-live-march-19-2021.md",
+      "title": "5 Mistakes Business Leaders Make when Starting with Power BI 🔴Talk Power BI LIVE March 19, 2021",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 👉 To Learn More & Submit Your Questions Go To https://www.LearnPowerBI.com/talk 👉 Join the LearnPowerBI Family to Dial-In Using the 📞 Phone Line: https://www.LearnPowerBI.com/training  Hello,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-5-mistakes-business-leaders-make-when-starting-with-power-bi-talk-power-bi-live-march-19-2021/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-5-mistakes-business-leaders-make-when-starting-with-power-bi-talk-power-bi-live-march-19-2021/",
+      "originalUrl": "https://youtube.com/watch?v=CDc9pS3WRVg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CDc9pS3WRVg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M16S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2021-03-19T10:07:54-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CDc9pS3WRVg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

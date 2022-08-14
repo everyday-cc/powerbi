@@ -3746,8 +3746,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7573,
-            "average": 4.750165
+            "count": 7574,
+            "average": 4.750198
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3831,8 +3831,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7530,
-            "average": 4.7681274
+            "count": 7531,
+            "average": 4.7681584
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4039,8 +4039,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 108,
-            "average": 4.7777777
+            "count": 110,
+            "average": 4.7636366
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4099,7 +4099,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 134,
+          "heat": 57,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4449,8 +4449,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4412,
-            "average": 4.8066635
+            "count": 4413,
+            "average": 4.8062544
           },
           "provider": {
             "name": "Microsoft Learn",
