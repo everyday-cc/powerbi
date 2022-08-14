@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-august-2022-feat
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-august-2022-feature-summary/"
 type: article
 quality: 189
-heat: 191
+heat: 192
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wiznd0dn29k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"

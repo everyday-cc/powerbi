@@ -1,28 +1,28 @@
 ---
 category: news
 title: "This Excel and Power BI certification bundle is on sale for under £30"
-excerpt: "TL;DR: The 2022 Ultimate Microsoft Excel and Power BI Certification Bundle(opens in a new tab) is on sale for £29, saving you 98% on list price. Excel is an incredibly useful program with a vast ..."
-publishedDateTime: 2022-07-30T05:24:00Z
-originalUrl: "https://mashable.com/uk/deals/best-excel-and-power-bi-bundle"
-webUrl: "https://mashable.com/uk/deals/best-excel-and-power-bi-bundle"
+excerpt: "TL;DR: The 2022 Ultimate Microsoft Excel and Power BI Certification Bundle is on sale for £29, saving you 98% on list price. Excel is an incredibly useful program with a vast array of ..."
+publishedDateTime: 2022-07-30T04:06:00Z
+originalUrl: "https://www.aol.com/excel-power-bi-certification-bundle-040000260.html"
+webUrl: "https://www.aol.com/excel-power-bi-certification-bundle-040000260.html"
 type: article
-quality: 77
-heat: 77
-published: true
+quality: 37
+heat: 37
+published: false
 
 provider:
-  name: Mashable
-  domain: mashable.com
+  name: AOL
+  domain: aol.com
 
 topics:
   - Power BI
 
 images:
-  - url: "https://helios-i.mashable.com/imagery/articles/03Xq1ScHQgpCj4koWM07DZk/hero-image.fill.size_1200x675.v1658912738.jpg"
+  - url: "https://s.yimg.com/ny/api/res/1.2/dc1v0B_qMUbUPtoNzQ3hKg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_mashable_370/dfc7f5a1d0b9b14071de00b9e7d9c534"
     width: 1200
     height: 675
     isCached: true
 
-secured: "Y3hdo04MwS85uztzSYxh2yYA0fVB9FQriOW4sKIrtwZmLv6RAwcMj8hRkV5xnNQUsDLlwOfUUtFSNJfWAMaOZH+Iu3Us5tdUSVnVym2JpDRbOn98PnYSVFKQgr2laXo+GOvCr87YjIrexc7NsmwfDueUteM7Z8WhrwRETpOmb7e40FlCAXsm6PgGrEuYgF+H1uAZycAf9A8whJOXjJw+n2pStUSKVu2lrAsrZV4dwe/LC16znrByg0Cf8a4aRF5ND/Lzal1csEaijX7elptj+NVQ9iZ7azpYAmW3UCcZ2H+eSc9TA1tLUiYVBnUYStQJG6H1KGiUDlDbCidRJmpbCFc1xqV6HlRPP0R/1XyIwkc=;SS4FOCMTGlUFceB+kJpZgw=="
+secured: "lNhAdQXFTt662DJHPaY2sYWlnRv0+/Myf4zQM6r1U9aeRoKF7xJgrdGAFYSUvGyjCHoAXG0nzREUT+s+m6xDvdoOeHIgqzQhFLDg/tg0QgViY3BC+Nl1m1T1sw4IbMvNKbHNrggjEukPpZrbx8YByMchkcuVu1O7368aujMw8j+yy0ngzsuLJbIdIdNar13DpGGGDZcy5ahbIh+famYnmZupexHKmeb/KrJrybUCf9pgo+fS+rN4ziwosX8Y/yd6r2yLlzfN9EJPFW1QdyzB1v/JMuxrYRdNzmsA5rNz0hlxfO5HpCa7XozoOYuUsVlD1mEuBfx0WLQqR7O33Cub2b97Z+XR71u/2u5X9iZDN3E=;FyMdI0K3eCIPJfjUagW4ag=="
 ---
 
