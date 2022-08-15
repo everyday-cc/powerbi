@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/analysis-services-server-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/analysis-services-server-properties-in-power-bi-premium-are-now-in-public-preview/"
 type: article
 quality: 82
-heat: 84
+heat: 83
 published: true
 
 provider:
