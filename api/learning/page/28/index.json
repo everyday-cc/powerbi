@@ -873,7 +873,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-power-bi-assets/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3,
+            "count": 4,
             "average": 5.0
           },
           "provider": {
@@ -1511,8 +1511,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 6378,
-        "average": 4.7759485
+        "count": 6379,
+        "average": 4.775984
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1755,7 +1755,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-power-bi-assets/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 3,
+        "count": 4,
         "average": 5.0
       },
       "provider": {

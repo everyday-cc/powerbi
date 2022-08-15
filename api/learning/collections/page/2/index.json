@@ -1447,8 +1447,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 50,
-            "average": 4.9
+            "count": 51,
+            "average": 4.901961
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2494,8 +2494,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 161,
-            "average": 4.6459627
+            "count": 162,
+            "average": 4.6419754
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4058,8 +4058,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7576,
-            "average": 4.750264
+            "count": 7577,
+            "average": 4.750165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4100,8 +4100,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6256,
-            "average": 4.713395
+            "count": 6257,
+            "average": 4.713441
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4143,8 +4143,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7532,
-            "average": 4.768189
+            "count": 7533,
+            "average": 4.7679543
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5331,7 +5331,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-power-bi-assets/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 3,
+            "count": 4,
             "average": 5.0
           },
           "provider": {
