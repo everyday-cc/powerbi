@@ -4,6 +4,36 @@
   "page": 18,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-how-to-display-sharepoint-images-to-power-bi.md",
+      "title": "How to Display SharePoint Images to Power BI?",
+      "excerpt": "During this session, we will learn how we can display SharePoint Images to Power BI. Most of the time we have a question in our mind that, how we can load SharePoint Document Library Images to Power BI? The procedure is very simple and straight forward. We need to use SharePoint Folder connector to load",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-how-to-display-sharepoint-images-to-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-how-to-display-sharepoint-images-to-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=tsQM8MKxxcc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tsQM8MKxxcc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M35S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-03-10T03:33:52-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tsQM8MKxxcc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-introducing-new-format-pane-in-power-bi-desktop.md",
       "title": "Introducing New Format Pane in Power BI Desktop",
       "excerpt": "During this video, we will talk about the new format pane in Power BI Desktop. Now we have consistent and easier formatting experience for our Power BI report. During this video, I will demonstrate all-new enhancements that has been rolled out as New format pane preview. We will also compare the new",
@@ -314,44 +344,6 @@
         ]
       },
       "publishedDateTime": "2022-02-16T03:55:59-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-a-new-way-to-manage-gateways-in-power-bi.md",
-      "title": "A new way to manage gateways in Power BI!!!",
-      "excerpt": "We now have a new way to manage gateways within Power BI and it is a much-welcomed update! Adam walks you through the experience to get you ready for it!  New data source and gateway management experience https://powerbi.microsoft.com/blog/new-data-source-and-gateway-management-experience/  📢 Become",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-a-new-way-to-manage-gateways-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-a-new-way-to-manage-gateways-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=L18HEAnBqTo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L18HEAnBqTo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M23S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-05-19T08:00:09-07:00",
       "heat": 52,
       "images": [
         {

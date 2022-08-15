@@ -304,27 +304,27 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-216-networkdays-function-is-finally-here.md",
-      "title": "DAX Fridays #216: NETWORKDAYS function is finally here!!",
-      "excerpt": "In today's video I am going to show you how the new NETWORKDAYS function works.  00:00 Intro 00:15 Networkdays except sat and sun 01:30 Exclude other non working days 02:15 Exclude holidays and non working days  NETWORKDAYS works almost the same as Excel and it counts the number of working days between",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-216-networkdays-function-is-finally-here/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-216-networkdays-function-is-finally-here/",
-      "originalUrl": "https://youtube.com/watch?v=hL4wCObZ52w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hL4wCObZ52w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M1S",
+      "path": "_learning/videos/guy-in-a-cube-a-new-way-to-manage-gateways-in-power-bi.md",
+      "title": "A new way to manage gateways in Power BI!!!",
+      "excerpt": "We now have a new way to manage gateways within Power BI and it is a much-welcomed update! Adam walks you through the experience to get you ready for it!  New data source and gateway management experience https://powerbi.microsoft.com/blog/new-data-source-and-gateway-management-experience/  📢 Become",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-a-new-way-to-manage-gateways-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-a-new-way-to-manage-gateways-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=L18HEAnBqTo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L18HEAnBqTo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M23S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-06-30T02:41:08-07:00",
+      "publishedDateTime": "2022-05-19T08:00:09-07:00",
       "heat": 132,
       "images": [
         {
@@ -338,19 +338,18 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/curbal-blurred-images-in-power-bi-here-is-how-to-fix-it.md",
-      "title": "Blurred images in Power BI? Here is how to fix it.",
-      "excerpt": "Are your images in Power BI blurred? Let me show you how to fix that here.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1  Our PLAYLISTS: - Join",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-blurred-images-in-power-bi-here-is-how-to-fix-it/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-blurred-images-in-power-bi-here-is-how-to-fix-it/",
-      "originalUrl": "https://youtube.com/watch?v=ex5Bh79RWrE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ex5Bh79RWrE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M54S",
+      "path": "_learning/videos/curbal-view-your-power-bi-reports-directly-in-outlook-the-good-and-the-bad.md",
+      "title": "View your Power BI reports directly in Outlook! (the good and the bad)",
+      "excerpt": "Microsoft has integrated Power BI within outlook, so you can now see Power BI reports without leaving the application. There are some if and buts, so stay tuned till the end of the video so you dont miss any important detail!  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-view-your-power-bi-reports-directly-in-outlook-the-good-and-the-bad/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-view-your-power-bi-reports-directly-in-outlook-the-good-and-the-bad/",
+      "originalUrl": "https://youtube.com/watch?v=SP7k0PJ3JoE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SP7k0PJ3JoE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M18S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -363,8 +362,8 @@
           }
         ]
       },
-      "publishedDateTime": "2022-07-13T03:00:04-07:00",
-      "heat": 131,
+      "publishedDateTime": "2022-05-25T00:28:16-07:00",
+      "heat": 130,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -419,27 +418,19 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-july-16-2022-member-chat-2nd-half.md",
-      "title": "🔴 Power BI tips from the Pros - LIVE (July 16, 2022) (Member Chat 2nd Half)",
-      "excerpt": "Join us live as we answer your questions about Power BI!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats take priority 👉 Do NOT re-post",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-july-16-2022-member-chat-2nd-half/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-july-16-2022-member-chat-2nd-half/",
-      "originalUrl": "https://youtube.com/watch?v=3_vWXYZk1TM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3_vWXYZk1TM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "P0D",
+      "path": "_learning/videos/learn-power-bi-power-bi-dashboard-employee-benefits-dashboard-by-kyle-m-power-bi-challenge.md",
+      "title": "Power BI Dashboard: Employee Benefits Dashboard 📊 by Kyle M. [Power BI Challenge]",
+      "excerpt": "Watch Kyle M. show you what's possible in Power BI in just 30 days! ➔ What results can *you* get in just 30-Days? Join our 30-Day Power BI Challenge and find out. 👉 https://www.learnpowerbi.com/challenge  ➔ Connect with Kyle McWhinnie on LinkedIn at https://www.linkedin.com/in/kyle-mcwhinnie/  ================================",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-dashboard-employee-benefits-dashboard-by-kyle-m-power-bi-challenge/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-dashboard-employee-benefits-dashboard-by-kyle-m-power-bi-challenge/",
+      "originalUrl": "https://youtube.com/watch?v=kI4O_f7epsE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kI4O_f7epsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M12S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2022-07-06T05:16:24-07:00",
+      "publishedDateTime": "2022-05-25T09:00:32-07:00",
       "heat": 130,
       "images": [
         {
@@ -1014,8 +1005,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
           "length": "PT23M",
           "ratings": {
-            "count": 43903,
-            "average": 4.799672
+            "count": 43909,
+            "average": 4.799631
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1056,8 +1047,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 65047,
-            "average": 4.778068
+            "count": 65056,
+            "average": 4.778099
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1116,8 +1107,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/",
       "length": "PT23M",
       "ratings": {
-        "count": 43903,
-        "average": 4.799672
+        "count": 43909,
+        "average": 4.799631
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1196,8 +1187,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 65047,
-        "average": 4.778068
+        "count": 65056,
+        "average": 4.778099
       },
       "provider": {
         "name": "Microsoft Learn",
