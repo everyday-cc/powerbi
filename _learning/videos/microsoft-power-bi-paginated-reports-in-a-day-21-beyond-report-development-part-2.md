@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 21: Beyond Report Development - Part 2"
 
-secured: "seHbCOm0Q6YJnxL0o2PHylUlPsoQyqvNOcgxIx9/te1VZXdXSZCxzzU0v47YY9e0jI+PkFrFjaMnF7+rM4TmMYPj2q4x2aY9V3zzXg97dfkkQ0rmBK+w/o1wA4beiWsLucBF6A8+/EEzSdqIdyqDCRwl+VC/1Ub68xIuMc5r4CpguPkhaxrxrXKz8euEGyHZZVt6NYUwTOth9dVpD4DtGPRUeOEKO/C80Fz7SuWRRpj7aM2Y2FB4cl2vzL51nC9SUxIvJsJXOr1UKry4B84AKIpZfKRBCxau8e4h1Rlcvp0hw3eq7pJFe2NA2SGrJWuNH0mdW1LgfW/fWJTQJkwnno2zzbTtIaxiG4YAz0CiDfUmv8Q+tI56TG9+lFW3pc+2dkb/Ml6Oht7FcIhiWR246KwifnKy3l+/ABU+3B43Xh8=;3b8Ada+8N2FM4PLoEugcVg=="
+secured: "IQcg3D/om4DTsxLsidRdUkTo3CA1KNiaInXGAdw/u2TDJS7DCTXLUMzuady+SPg2iowFvLJKmtBqKVA47W/0gHip88XCC0YYU5ZeiJlJpy83l0g8UsYl0gmgcBHnVgYnFM5GlpbkdChjj/tr4Tk1ssxsorYXo7PqPTXny5JEZmwskTHd1EZ+jO6m/plxdQueXP8YZzNfYX+Srb1BuGuxXlNS7EvNfWbm5B1HpZk/keJp1+f4eDvSVTV0fvyKp5Ah6zzAeqXSZhWSQkusHlgkr8yX+ZMBdCyI2JvZF1Lu5x9zwyB/czLXKW6zDT9zyttuIFO5CastJCWFLazlOdDsfXLSaJvwhNRHzztr0qHgzzh2SZ2vP1bQTc9+IVlGEPfeuhbFPOpBrmf7GJ3s42yI6mp4JArcZ7YsuyCVPD68aQc=;TER9pLVzBsThO8VbFzsdpQ=="
 ---
 
