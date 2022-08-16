@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/executequeries-rest-api-v
 webUrl: "https://powerbi.microsoft.com/en-us/blog/executequeries-rest-api-versus-xmla-endpoints-at-scale/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:

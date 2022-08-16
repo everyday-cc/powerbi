@@ -62,7 +62,7 @@
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-august-2022-feature-summary/",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wiznd0dn29k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "highlight": null,
-      "heat": 192,
+      "heat": 189,
       "tags": null,
       "images": [
         {
@@ -165,7 +165,7 @@
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-power-bi-app-is-available-in-microsoft-teams-mobile/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -267,7 +267,7 @@
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/analysis-services-server-properties-in-power-bi-premium-are-now-in-public-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -349,6 +349,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-30-this-excel-and-power-bi-certification-bundle-is-on-sale-for-under-30.md",
+      "title": "This Excel and Power BI certification bundle is on sale for under £30",
+      "excerpt": "TL;DR: The 2022 Ultimate Microsoft Excel and Power BI Certification Bundle(opens in a new tab) is on sale for £29, saving you 98% on list price. Excel is an incredibly useful program with a vast ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-30-this-excel-and-power-bi-certification-bundle-is-on-sale-for-under-30/index.json",
+      "webUrl": "https://mashable.com/uk/deals/best-excel-and-power-bi-bundle",
+      "originalUrl": "https://mashable.com/uk/deals/best-excel-and-power-bi-bundle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/03Xq1ScHQgpCj4koWM07DZk/hero-image.fill.size_1200x675.v1658912738.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -615,7 +657,7 @@
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/executequeries-rest-api-versus-xmla-endpoints-at-scale/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -666,7 +708,7 @@
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/visualizing-views-in-dynamics-365-generally-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -769,7 +811,7 @@
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-july-2022-feature-summary/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1218,57 +1260,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-updates-to-full-report-attachments-for-email-subscriptions-in-premium-gen2.md",
-      "title": "Updates to full report attachments for email subscriptions in Premium Gen2",
-      "excerpt": "There are several updates coming to email subscriptions that use full report attachments that we want to make you aware of, including extending the maximum length of reports to 50 pages, appearance in the Gen2 metrics app, and deprecation in the original version of Power BI Premium.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-06-14-updates-to-full-report-attachments-for-email-subscriptions-in-premium-gen2/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/updates-to-full-report-attachments-for-email-subscriptions-in-premium-gen2/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/updates-to-full-report-attachments-for-email-subscriptions-in-premium-gen2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
