@@ -757,7 +757,7 @@
             ]
           },
           "publishedDateTime": "2019-03-07T08:00:21-08:00",
-          "heat": 53,
+          "heat": 56,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/bjERMKH2blw/maxresdefault.jpg",
@@ -3676,8 +3676,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4151,
-            "average": 4.7246447
+            "count": 4152,
+            "average": 4.724711
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4053,8 +4053,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7539,
-            "average": 4.7680063
+            "count": 7540,
+            "average": 4.7679043
           },
           "provider": {
             "name": "Microsoft Learn",
