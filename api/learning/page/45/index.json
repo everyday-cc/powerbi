@@ -4,48 +4,6 @@
   "page": 45,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-manage-power-bi-artifacts-use-microsoft-purview.md",
-      "title": "Manage Power BI artifacts by using Microsoft Purview",
-      "excerpt": "Improve data governance and asset discovery using Power BI and Microsoft Purview integration.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-manage-power-bi-artifacts-use-microsoft-purview/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-power-bi-artifacts-use-microsoft-purview/",
-      "length": "PT20M",
-      "ratings": {
-        "count": 27,
-        "average": 4.851852
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-mapping-learning-to-power-bi.md",
       "title": "Prepare to teach the module: Map learning to Power BI",
       "excerpt": "Prepare to teach the module: Map learning to Power BI",
@@ -341,6 +299,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-modern-analytics-transition.md",
+      "title": "Transition from Excel to Power BI",
+      "excerpt": "Microsoft's Power BI combines the Power Query's extraction, transformation, and loading capabilities with DAX and a relational data model in a new application with new features.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-transition/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
+      "length": "PT48M",
+      "ratings": {
+        "count": 181,
+        "average": 4.78453
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-transition-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-monitor-data-real-time-power-bi.md",
       "title": "Monitor data in real-time with Power BI",
       "excerpt": "Describe real-time analytics in Power BI using automatic page refresh, real-time dashboards, and auto-refresh in paginated reports.",
@@ -516,8 +516,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-governance/",
       "length": "PT12M",
       "ratings": {
-        "count": 110,
-        "average": 4.7818184
+        "count": 111,
+        "average": 4.783784
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -558,8 +558,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-infrastructure/",
       "length": "PT25M",
       "ratings": {
-        "count": 68,
-        "average": 4.7647057
+        "count": 69,
+        "average": 4.768116
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1097,6 +1097,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-power-bi-embedded-permissions-content.md",
+      "title": "Set up permissions to embed Power BI content",
+      "excerpt": "Learn which settings and permissions to use for internal and external users of your app with embedded Power BI content.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-permissions-content/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-permissions-content/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 18,
+        "average": 4.8333335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-permissions-content-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-power-bi-embedded-select.md",
       "title": "Select a Power BI embedded analytics product",
       "excerpt": "Learn how to select a Power BI embedded analytics product.",
@@ -1212,48 +1254,6 @@
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-tableau-analytics.md",
-      "title": "Perform analytics in Power BI for Tableau users",
-      "excerpt": "This module provides guidance on how to apply analytics to data to gain greater insight.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-analytics/",
-      "length": "PT36M",
-      "ratings": {
-        "count": 52,
-        "average": 4.6538463
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-analytics-social.png",
-          "width": 1280,
-          "height": 641,
           "isCached": true
         }
       ],
