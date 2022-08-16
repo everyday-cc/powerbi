@@ -440,7 +440,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 131,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -565,8 +565,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 2763,
-            "average": 4.7542524
+            "count": 2764,
+            "average": 4.7539797
           },
           "provider": {
             "name": "Microsoft Learn",
