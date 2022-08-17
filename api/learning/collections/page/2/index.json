@@ -3800,8 +3800,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7593,
-            "average": 4.750428
+            "count": 7594,
+            "average": 4.750461
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4697,8 +4697,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 42,
-            "average": 4.904762
+            "count": 43,
+            "average": 4.9069767
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4739,8 +4739,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-real-time-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 51,
-            "average": 4.7843137
+            "count": 52,
+            "average": 4.7884617
           },
           "provider": {
             "name": "Microsoft Learn",
