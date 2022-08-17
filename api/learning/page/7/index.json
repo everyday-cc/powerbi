@@ -1446,7 +1446,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 131,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -2000,8 +2000,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 1849,
-        "average": 4.845863
+        "count": 1852,
+        "average": 4.8455725
       },
       "provider": {
         "name": "Microsoft Learn",
