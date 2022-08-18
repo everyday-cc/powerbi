@@ -14,7 +14,7 @@
         "domain": "exceleratorbi.com.au"
       },
       "publishedDateTime": "2022-08-09T17:12:03-07:00",
-      "heat": 86,
+      "heat": 84,
       "images": [
         {
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/08/intellisense.gif",
@@ -38,8 +38,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 29137,
-        "average": 4.72595
+        "count": 29139,
+        "average": 4.725969
       },
       "provider": {
         "name": "Microsoft Learn",
