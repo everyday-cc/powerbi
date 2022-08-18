@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT9M35S
 publishedDateTime: 2021-02-03T16:00:08Z
-heat: 75
+heat: 72
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NA2wlqfjX34\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "dZJMcvx1Wim2Ly7PsBjrqb2vAMDmWG1guChNLDL8yVYH8FlnfeC2IxhPg6jST+ipc0eq28wvYFiuKW0ddgZ8/ZFy0rJ09cwJmXr5cvM4WBXNaarLb2v1gK9yTCmXAqHSTnrTuj0X+Eg0ay/3S75tUyeNZNRD83eDBKmCbVrD/X7O1DkQaHTEBq89nAHFWNdYPFaIdhsM0hEAClro/HWtSeJ2HNBt2ZZMER3zmloG/qSbsP1zEVLUzFf0HpZRYKFZBeq/nZOjCXGItqefrvtfOjawhSCK5foKPNwkBxg3SRNYM3KOe6bP2AU82S5rUaySMbdD6Kag1tZp1105XQ6dg2L1U8maBREDZlPi7Pwn7IdtMRTlAMupCC/LLj5tjqkOw1SvFDp66YfrenWmhFQHyG6Qlme57FrdHRdFR5bDLys=;WqV/2wmNufNbduXEaf384g=="
+secured: "k5aMB+vsBjAlFN/VGoCXzOPRQXSp04QJs4dNKD3ndWmj6aXtDvLE+gVskOswYGbld81JeWb4M9/g8/7Plfnr+nyl3chuBKycbvY2KJ+rgnHBo+NFkMheDDlJpMHrmJWDDwr74ldbcTJG4c7TT/Q5KL8vkveSPYlLUtwv6mYv7eUq7NXxDe7ztdDCTyLe7XgA29I4OpzI/2gx/GLQM9q0s4gAPNWMap2ynCQP35rsSaYsBLo40ZFK9Su3wcSD4nfAV2yIjgn3DDhhEhZ86UZRQu7NOMOUK3JoDvnqduaj9jBZgTVBarfY9NmKU3w86QsBXW2Ab+toYq8Wdy86nU12P1VHRjTwdG7tc21pixYL0ZY1+AUTuJs4xuKSRgiVp8rCzqzClLRD1cwr/OZVYlACcnSzXHgJQB66UCfQGjrbO+o=;zqburnBlW3xvKNF77y3m9g=="
 ---
 
