@@ -4,9 +4,9 @@ excerpt: "In this video, I have explained how I create my data model using the P
 originalUrl: https://youtube.com/watch?v=7Nx0i9pNiv0
 type: video
 price: Free
-length: PT17M51S
+length: PT15M44S
 publishedDateTime: 2022-08-16T20:21:26Z
-heat: 177
+heat: 148
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7Nx0i9pNiv0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "yW+UQpWQixTrMU3gzErvONRztegv7+uSEBD++J0HwHZ1Eu+MYuyxaA71eX0f6Hj6bPq8raiEql6Ij+/dxn1+v0j9URjr6D7Rp3OeBjYzNmYRdFIXJorbZvsGBz+K5LoRVLVg6/o9D+tTxcv4isOjrjUUcBPrzg+DAwUB+L3Li9ZbgcaUuEDlPKKGnkmDlt9HMdevES0X2L7NOhp/7hncc+c9KweG4L0dKTUDQrW7OmjyvFzhA4Dk8c4HmwR72hE2r+PV/8DRJ27QbX2jL0WpGa1h/jxFzHrnShj6pXDBDrT7lVyjMzVuR4MLrjEptbaXgxrGuFErRusWfk6FoMDhfld2ep8+xTybAQ6EEtFHtyYFIm5zdFH8TBlkf/YHjJF6aTo+969kwm+stBjCWiduxqLV1tGBl71D8L//5TgmcbQ=;dVs9fVOfLWvJ1muc09hk+g=="
+secured: "pkeD6CPT9phEsMRwHMTIuaJBodztwVHl3iZEVmEK82FuVtCeDqy9Rwr3+ebp0L5Sg1DiEOW2OdK+vMD9Napw0DK4yAqJfpSGLtAXajHCuKPyI1ROQ80E/GDlLMahx+ZvvNOaJ++eTVtXMWJuAPCYGrTQ9rttm6x/+9Ml10n0YwFDloqdi620EBfWVzLf3EiT9RgNMup2S6pATakuI5e4GwKXunGgyeJ16rGfYi8jOjWeMYbdBRnbkVirpis73+w758TrdRzs16e7kplAMf5HFmzryWOHCa2SbAol1huOn7PjvokuEFb6ASCJJHjBkpgzHFgnbTL5MyGa26N7MtPGHk/YAy8iSXRiqBH+y/c5SSw15pvMh6nWTPSwlOfLNqa85xaWm3gpJLgGd/3PObTYoA8e/wqlw54TEOnVi9HTGZk=;GPTqPakNRxXqRP/LmaWd8w=="
 ---
 
