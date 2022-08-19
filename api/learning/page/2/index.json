@@ -72,8 +72,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 65345,
-            "average": 4.7783
+            "count": 65349,
+            "average": 4.778313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -114,8 +114,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 29190,
-            "average": 4.725899
+            "count": 29194,
+            "average": 4.725937
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -259,8 +259,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 35224,
-        "average": 4.742136
+        "count": 35225,
+        "average": 4.742143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1000,8 +1000,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 22901,
-        "average": 4.765294
+        "count": 22903,
+        "average": 4.7652707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1296,8 +1296,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 12542,
-            "average": 4.757455
+            "count": 12543,
+            "average": 4.7574744
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1440,8 +1440,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 29190,
-        "average": 4.725899
+        "count": 29194,
+        "average": 4.725937
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1515,14 +1515,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-how-to-design-stunning-power-bi-reports-from-initial-sketches-to-final-result.md",
-      "title": "How to design stunning Power BI reports: From initial sketches to final result",
-      "excerpt": "You have asked me how I design my Power BI reports and this video I will show you how I created my last Power BI report and how I went about doing that.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-design-stunning-power-bi-reports-from-initial-sketches-to-final-result/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-design-stunning-power-bi-reports-from-initial-sketches-to-final-result/",
-      "originalUrl": "https://youtube.com/watch?v=yEYQBbQiNZ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yEYQBbQiNZ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M55S",
+      "path": "_learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query.md",
+      "title": "How to filter a table to show only most recent date by group in Power Query",
+      "excerpt": "It is a best practice to load in Power Bi only the data that you need. In today's video, I will show you how you can filter a table by the last date available.   Chapters: 00:00 Intro 00:30 Explain the use case 01:00 The solution Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=hidJ5T_DYQ0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hidJ5T_DYQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M57S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -1535,13 +1535,13 @@
           }
         ]
       },
-      "publishedDateTime": "2022-07-15T05:54:50-07:00",
+      "publishedDateTime": "2021-02-22T02:35:23-08:00",
       "heat": 73,
       "images": [
         {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
+          "url": "https://i.ytimg.com/vi/hidJ5T_DYQ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -1549,7 +1549,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query"
       ]
     }
   ],

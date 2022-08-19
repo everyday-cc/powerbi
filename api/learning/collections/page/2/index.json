@@ -1361,7 +1361,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-infrastructure-social.png",
@@ -1570,7 +1570,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-infrastructure-social.png",
@@ -3697,8 +3697,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7619,
-            "average": 4.750098
+            "count": 7621,
+            "average": 4.750164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4310,8 +4310,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13066,
-            "average": 4.677866
+            "count": 13067,
+            "average": 4.677891
           },
           "provider": {
             "name": "Microsoft Learn",
