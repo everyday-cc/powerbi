@@ -1361,7 +1361,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-infrastructure-social.png",
@@ -1570,7 +1570,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-infrastructure-social.png",
@@ -2013,8 +2013,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 214,
-            "average": 4.780374
+            "count": 215,
+            "average": 4.7813954
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2055,8 +2055,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 181,
-            "average": 4.78453
+            "count": 182,
+            "average": 4.785714
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2223,8 +2223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 214,
-            "average": 4.780374
+            "count": 215,
+            "average": 4.7813954
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2265,8 +2265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 181,
-            "average": 4.78453
+            "count": 182,
+            "average": 4.785714
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3739,8 +3739,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6308,
-            "average": 4.7144895
+            "count": 6309,
+            "average": 4.7145348
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3865,8 +3865,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4171,
-            "average": 4.723088
+            "count": 4173,
+            "average": 4.723221
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4143,8 +4143,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3452,
-            "average": 4.7711473
+            "count": 3453,
+            "average": 4.7712135
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4344,8 +4344,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10034,
-            "average": 4.704604
+            "count": 10035,
+            "average": 4.7046337
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5178,8 +5178,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-power-bi-application-lifecycle-management-strategy/",
           "length": "PT25M",
           "ratings": {
-            "count": 4,
-            "average": 4.75
+            "count": 5,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
