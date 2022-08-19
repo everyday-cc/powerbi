@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M15S
 publishedDateTime: 2016-03-17T10:40:26Z
-heat: 51
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6PZSZ53iSos\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 800
     isCached: true
 
-secured: "4d3CRLiHnr5O68juCjzunHSy1lsuKNuZ7om7tN993POac60L6rMuBNERJX4PoIyWjSMwoYxsY3s+xpBbNw+E/hL5b0tyw7f6oUAJb544vjbU/KUlKVS/wqGc2++RtfNYhom4JLTvAOPshd1KV1y4PVs6WhBg3Qo+3YKDe2dOvz3muYbdVkPtfspTxbFxbXRdBksIyr5hiY1ArCWdFX/DJAs6XRADLXj9bgj6qfpS1b6LdiDFfG8lXuKXuJhcZlzz8yFVPwj5Ob3GD22txiSKgM6CJA9YnkXOwb9ft/tUiHxl7SmmQ87E22iFcWYPdcf1S8HOjed5S8nbNdXMttCDYV2IdfokKKYY1WEqisBSu4zGcyvJPOvuSIHsyftoou5edGiI3plCYE8GYylKq4sgzT//jgokkzgnNxFusZWQS5w=;HQ7yl7suIeNKnZgvWHnj/w=="
+secured: "ov+p3P6mvo5TwBg7a/Jobtrse0BvPbmk0fKP5gdUWBHqBffB/B1u6zQMRAuQh2CRX4dgsFCssKtOQdjzsD1oZlqPPYdayVSdB363dlwRssS4RUu307s4ZOWW3WQfxfq3UqOEk1zg7MX14gCLWOBGgLSbIKC1uy9ldihuFUjTuij5AHv3yB4dJqDnft9tCOfruTjZiSWL/cAtAj9T8CCMGNbAtqRuW4l2OrA2Ax/SxApmS8ZlH7S/r+cGYq1hJE38X1gIAm5iQ66Ja6xLJ07sLkeTxdn+JI0A8OdSfMYtGwFMvmsAjY3hvVu4hQPOvzB0avN2xwTXUVYYiv6fW8cdkT+LTm4MdRyXvh25nw1aSgI9aQ1gan52xLF722QOUa4X0+iG+tYse8u+eqd1lyysZDp5pKaSPmmF649pt9tZh88=;d2w8VbRMHeOEXmqxc7de0g=="
 ---
 
