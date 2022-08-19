@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-the-power-bi-a
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-the-power-bi-app-is-available-in-microsoft-teams-mobile/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
