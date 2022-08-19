@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M44S
 publishedDateTime: 2017-08-24T15:05:13Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4Km6HmydY7A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Ragged Hierarchies in Analysis Services with Power BI and Excel"
 
-secured: "b+b5YHQzEl6YJuSOpWj1lzn4qcA0jvMQe8vnkLvGY25UWYCZBE8Js4fBwg5uEJ4NP5ELO2WPbU6Ef6H51Gab5zyRFESdr7TKqbqW2+vpmpb2p2xbrhzC67HoLvsKIzgls1r+ffVv3Dk9OF64nRyclsEVhoGYvUV2mWHtfqsWk+e/RNgMUV1/Al7bgFG2oRDzLVM0IE1SMPp4/uHEupVxxINRhX5/ukBmGVoMcW+g3wQ/VshafyZur/DYE1w5vWQclzMaGNsw9ONz2P8I0y8riHGtsfEcpJ5ulGLs/glT1BhWJHJonXu0fQA8U0VQ2A3U/AJfx5z7QrieIktqaGpjVOrsbWOEOvI/SS+Hqw4kzAbkfRtkHIUoMslj/KWIOuyQB/UcKioA4OVvFoeUHHLXHe9q2FjOFAm72EB2T4r06tc=;Z35gOnQyg9UYnYRDizj3bA=="
+secured: "y8SeVN1IgucG5UDzkDGVVch5eDGPtNejTeY30g2kKWqsmMb5w/RAk8P43yJOawTLTOoLJM+cZE7LPKGJnRuTVSJ7mEYg4eXFyZJD/0AOjRZYlMxe3QfcTyNwD6ZqWgJVXYH4vnOhvkhOA58fnQf4RxK+FWvOwxEm2Ix+PkPsa6QnN14HdAU+SVY30p2+3KOrVGNsEIQiywTOjLuTiBqJv2DCwbPOdLB2yorbEUl7VRwE/Mzf+m6sA321kxri4Cie4Gwam6QtYAgpg9khk07+ut4ewz6RSX3X9nVKTlyWBue3MsfvxvEiPPVdOF7/RXKswtF2D3xXTVah0CITfD9e+rqs/zjPc25BJotibCdU8tCHCRJicO7SRzEzB8r9yL/+/i8byCpF5Ra3flVCrsMh5mA2RNrlHUGuXRJXn+QY3Rg=;6yHW6JAR+Bli/XYXxQA/6A=="
 ---
 
