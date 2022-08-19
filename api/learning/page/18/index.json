@@ -621,8 +621,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4442,
-            "average": 4.8061686
+            "count": 4444,
+            "average": 4.806256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -765,8 +765,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 4728,
-        "average": 4.68676
+        "count": 4729,
+        "average": 4.6868258
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -849,8 +849,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 4442,
-        "average": 4.8061686
+        "count": 4444,
+        "average": 4.806256
       },
       "provider": {
         "name": "Microsoft Learn",
