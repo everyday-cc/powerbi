@@ -7,7 +7,7 @@ price: Free
 length: PT37M
 ratings:
   count: 487
-  average: 4.8069816
+  average: 4.809035
 heat: 51
 
 provider:
