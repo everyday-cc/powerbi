@@ -18,7 +18,7 @@ website: https://t.co/F5FuW6Huqh
 twitter:
   username: patrickdba
   url: https://twitter.com/patrickdba
-  followers: 7528
+  followers: 7529
 
 linkedin:
   url: https://www.linkedin.com/in/patrickdleblanc/
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Patrick LeBlanc"
 
-secured: "UfgYzyKc+RyU1AwZLVwM0311DVqQpFgY4D4P/XMAc18Iecb5wZHBO0gJ2WXmSxSppy8W1Tc5xXK+dctbXF8O3r34RgnnLP8EZzUrs/ZREhQVCBF1y+tcLJR3p8/kOYMPrzsa3RvEyNinlMLWoUpdEy8JbmKt5njHSIxqyGEOeU1Ur3X+LeN/j8liqxwONoH2S2l6vDool1yoYHAUc5El73okmYr3u3KgGRZizRdtWjktmnoiPauiMOPB4oefxttN6pvFj84G1ELd9WZcGatlU6O9GC1EXXkr48RypkkUbx5WWJz9VR9Rk3gNYL765Q6yGbpoOBQWbU8IzVwB5Qzoss1Nl49moH1VIicVUA5aD9OTrwBswtJNzAZcSGxgbbZuCyGcCueCgdetWlsi1VYaRDrXhvbDFkEwvvHSiTqGs1c=;5g2ureds390CPvZBc3s/bw=="
+secured: "VKOmlZ1vnukdwX4aqNagwTimqzMqCHlb2+EJgOGf8eoWdvelmMaC7mj2a8t6cEA8tgroZBKDhkZd1QdJ4aKA3LSxhjZUhQ9BvUUB5834Ojx3RQewM5J5GW17V1meSKuOONcDmUovW3e5NHWA9gzoRo9tEHgsS4HZzd24eenscySuS73vm6qAHfqudjRbHMnPjsGNxUQsugrLPhYLfnbPbkPTxN7sZ06r6Dc4WhRW4cx2nNz9eZpVVbtFaILcptG9/weDLzgRfro7KtmYBtr7TfOLw8c8FJ9+hrqDPr1ep+vud34RdG7dVZw2lEfWcXXvkaYP5JKypebQs0HvwgKOZBTbMn9xa88V1xrbBMfrsZL7WaNTGc5PH0PP6NlYAo5+a+F5wwsjN/u6v9PgIVDvrYBQZE2fW514+DiQCthyRww=;hA37aQLwRoGMOZDKkTyGBw=="
 ---
 
