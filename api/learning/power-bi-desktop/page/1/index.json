@@ -14,7 +14,7 @@
         "domain": "exceleratorbi.com.au"
       },
       "publishedDateTime": "2022-08-09T17:12:03-07:00",
-      "heat": 80,
+      "heat": 84,
       "images": [
         {
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/08/intellisense.gif",
@@ -56,7 +56,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 76,
+      "heat": 75,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png",
