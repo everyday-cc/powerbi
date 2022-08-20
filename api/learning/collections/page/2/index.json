@@ -1760,8 +1760,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1207,
-            "average": 4.738194
+            "count": 1208,
+            "average": 4.7384105
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3796,8 +3796,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7629,
-            "average": 4.750426
+            "count": 7632,
+            "average": 4.750524
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4006,8 +4006,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4541,
-            "average": 4.7269325
+            "count": 4542,
+            "average": 4.7269926
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4173,8 +4173,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4448,
-            "average": 4.80643
+            "count": 4450,
+            "average": 4.805618
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4443,8 +4443,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10035,
-            "average": 4.7046337
+            "count": 10036,
+            "average": 4.7046633
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4652,8 +4652,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4737,
-            "average": 4.733587
+            "count": 4738,
+            "average": 4.733643
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5295,7 +5295,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
