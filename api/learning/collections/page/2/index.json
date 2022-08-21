@@ -3165,7 +3165,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3896,8 +3896,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7565,
-            "average": 4.767746
+            "count": 7566,
+            "average": 4.767645
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4188,8 +4188,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4450,
-            "average": 4.805618
+            "count": 4452,
+            "average": 4.805705
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5042,8 +5042,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4739,
-            "average": 4.7336993
+            "count": 4740,
+            "average": 4.733333
           },
           "provider": {
             "name": "Microsoft Learn",
