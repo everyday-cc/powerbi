@@ -5167,8 +5167,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 121,
-            "average": 4.7933884
+            "count": 122,
+            "average": 4.795082
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5376,7 +5376,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-power-bi-assets/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 6,
+            "count": 7,
             "average": 5.0
           },
           "provider": {
