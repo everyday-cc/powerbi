@@ -64,7 +64,7 @@
         ]
       },
       "publishedDateTime": "2022-08-10T08:00:01-07:00",
-      "heat": 103,
+      "heat": 99,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -268,8 +268,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
           "length": "PT20M",
           "ratings": {
-            "count": 2785,
-            "average": 4.755476
+            "count": 2786,
+            "average": 4.7555637
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1359,7 +1359,7 @@
             "domain": "absentdata.com"
           },
           "publishedDateTime": "2020-07-25T19:59:10-07:00",
-          "heat": 54,
+          "heat": 53,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/80i8rLQtO3o/hqdefault.jpg",
@@ -2116,8 +2116,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 6318,
-        "average": 4.714783
+        "count": 6319,
+        "average": 4.7148285
       },
       "provider": {
         "name": "Microsoft Learn",
