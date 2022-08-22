@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/postgresql-connector-for-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/postgresql-connector-for-the-virtual-network-data-gateway/"
 type: article
 quality: 174
-heat: 175
+heat: 174
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wiznd0dn29k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -30,6 +30,6 @@ images:
     height: 630
     isCached: true
 
-secured: "E0kTvd0rHpoyTFJA+bM7138Rfbj+Ra/vPlEx7J27/BsMnYi+rapOhQ+kIkZ6VxaPwcph1+qtPpBCTk/5nTqnr86c908WSvnbzXq/qCoU6qkF+R9StiR1sXWyg6z9/qnZOgXJm5ozKmk68pXOWpwT22cqd7EtdQN0kH3mNiyjRWD0pkqzyTEV2pavhWDih66796gSK8Mds2mV8pfpyU5RDamC23fWvMWHktdlSJ5DQ5cRWc6NbDjvaBQCJGkODuL6nHAx9v8iY2YBBSxaq5+hRYUNjcwQH0diila8H/4ahImyUDgT2YO8DdYbF6oFTzltumX+07ii/LyWU8r5t86WmtQ8VC1Kl3z1lTM6RrWArG0fOJOw4PTD5tsfFoKnpHoKByBALyVgs4kU0tQiJ3qOkYqTRb/TSJJN6mK1Ri7JjYKYvnbW0u1GT1Jjf+CJh7C3JIOInK0pn+VDiNu5M/RXAg==;KFTCrF2hd16RKalRdtAVew=="
+secured: "TSUAX88i3BrIttDIBxNfPhm88FMBjdyTqt2GecMDyuV/K/9QXfHjqlTxNRTfj7ws42FKJImABPPEUpVQHvcntECyLWnellSWyk6IpbvKDc7P/1bXVJ0hnj8bPalByqhIV3JzvfPTYD/ZGeI+NUhXiK6fZPQ9Zut4J0dTn6wXTrMZJH3nYDxk+KLwScyN58Vjdn9W3f9629uZWJTZhPH41yV4044xLfeuCC8s3Mv/ej6broopNYJlpssou+EPhzFZ1f6gRWNbs6FrQGnDkc/hjCBkcOOPheFG1mDPNMhSZw95Unb9zdMb/ajY4+0uOY39U9TtfruFdoM4x+cm3TWmKDS6f/GmP/1LiRiGhHaHMBDWMEZLIbJI0PKAlPz0ZZZ15r8l31j+d+fyQuzC7M/vqbpjb88/IPaRiNL//D8F4gTTlc5Z6DgHdPpyIHh2j/jyz+lxYOspV3AujkIKegOAgQ==;A35l61OUsUKKkcZgZEMpWg=="
 ---
 
