@@ -206,8 +206,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
           "length": "PT47M",
           "ratings": {
-            "count": 65402,
-            "average": 4.778218
+            "count": 65407,
+            "average": 4.778235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -248,8 +248,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 29222,
-            "average": 4.7257547
+            "count": 29223,
+            "average": 4.725764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -291,8 +291,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 13247,
-            "average": 4.727108
+            "count": 13248,
+            "average": 4.7271285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -432,8 +432,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-started-with-power-bi/",
       "length": "PT47M",
       "ratings": {
-        "count": 65402,
-        "average": 4.778218
+        "count": 65407,
+        "average": 4.778235
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -856,8 +856,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/",
       "length": "PT31M",
       "ratings": {
-        "count": 22934,
-        "average": 4.7652392
+        "count": 22935,
+        "average": 4.7652497
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -898,8 +898,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/introduction-power-platform/",
       "length": "PT21M",
       "ratings": {
-        "count": 35257,
-        "average": 4.7422357
+        "count": 35258,
+        "average": 4.742243
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1539,8 +1539,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 4737,
-            "average": 4.6869326
+            "count": 4738,
+            "average": 4.686999
           },
           "provider": {
             "name": "Microsoft Learn",
