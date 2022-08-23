@@ -7,7 +7,7 @@ price: Free
 length: PT21M
 ratings:
   count: 868
-  average: 4.776498
+  average: 4.775346
 heat: 51
 
 provider:

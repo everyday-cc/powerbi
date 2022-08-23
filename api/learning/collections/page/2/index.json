@@ -1211,8 +1211,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 489,
-            "average": 4.809816
+            "count": 490,
+            "average": 4.810204
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1421,8 +1421,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 489,
-            "average": 4.809816
+            "count": 490,
+            "average": 4.810204
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2763,8 +2763,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1343,
-            "average": 4.736411
+            "count": 1344,
+            "average": 4.736607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3579,8 +3579,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15033,
-            "average": 4.7723675
+            "count": 15037,
+            "average": 4.772428
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3704,8 +3704,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6331,
-            "average": 4.715053
+            "count": 6332,
+            "average": 4.715098
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3983,8 +3983,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4182,
-            "average": 4.7238164
+            "count": 4183,
+            "average": 4.723882
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4828,7 +4828,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
