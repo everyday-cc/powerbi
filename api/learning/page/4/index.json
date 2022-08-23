@@ -1049,8 +1049,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 29243,
-        "average": 4.725883
+        "count": 29245,
+        "average": 4.725902
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2828,8 +2828,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 868,
-            "average": 4.775346
+            "count": 869,
+            "average": 4.7756042
           },
           "provider": {
             "name": "Microsoft Learn",
