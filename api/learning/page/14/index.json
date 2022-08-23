@@ -654,8 +654,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4183,
-            "average": 4.723882
+            "count": 4185,
+            "average": 4.7240143
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -840,8 +840,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 3464,
-        "average": 4.7716513
+        "count": 3465,
+        "average": 4.771717
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -882,8 +882,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 4745,
-        "average": 4.6866174
+        "count": 4746,
+        "average": 4.686262
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -966,8 +966,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
       "length": "PT43M",
       "ratings": {
-        "count": 7573,
-        "average": 4.7670674
+        "count": 7574,
+        "average": 4.767098
       },
       "provider": {
         "name": "Microsoft Learn",
