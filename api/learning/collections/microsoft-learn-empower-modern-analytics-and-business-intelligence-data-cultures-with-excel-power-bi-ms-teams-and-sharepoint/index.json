@@ -96,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
       "length": "PT34M",
       "ratings": {
-        "count": 217,
-        "average": 4.774194
+        "count": 218,
+        "average": 4.7752295
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -156,7 +156,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 130,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-transition-social.png",
@@ -265,8 +265,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-excel/",
       "length": "PT2H7M",
       "ratings": {
-        "count": 112,
-        "average": 4.767857
+        "count": 113,
+        "average": 4.7699113
       },
       "provider": {
         "name": "Microsoft Learn",
