@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-modify-filter/",
       "length": "PT21M",
       "ratings": {
-        "count": 876,
-        "average": 4.665525
+        "count": 877,
+        "average": 4.6659064
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -55,8 +55,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1210,
-        "average": 4.738843
+        "count": 1212,
+        "average": 4.739274
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1094,48 +1094,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-effective-user-experience.md",
-      "title": "Enhance Power BI report designs for the user experience",
-      "excerpt": "Enhance Power BI report designs for the user experience",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-user-experience/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-user-experience/",
-      "length": "PT59M",
-      "ratings": {
-        "count": 237,
-        "average": 4.772152
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-user-experience-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-power-bi-embedded-automate.md",
       "title": "Automate Power BI solution management",
       "excerpt": "Learn to automate Power BI solution management.",
@@ -1185,8 +1143,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-content/",
       "length": "PT31M",
       "ratings": {
-        "count": 12,
-        "average": 4.75
+        "count": 13,
+        "average": 4.769231
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1249,6 +1207,48 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-integrate-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-power-bi-embedded-permissions-analytics.md",
+      "title": "Enforce data permissions for Power BI embedded analytics",
+      "excerpt": "Learn to enforce data permissions for Power BI embedded analytics.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-permissions-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-permissions-analytics/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 7,
+        "average": 4.714286
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-permissions-analytics-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
