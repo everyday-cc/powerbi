@@ -4,7 +4,7 @@ excerpt: "Readers of my blog may have read this previous article from Roland whe
 webUrl: https://exceleratorbi.com.au/field-parameters-useful-ui-design/
 type: article
 publishedDateTime: 2022-07-14T23:59:55Z
-heat: 50
+heat: 130
 
 provider:
   name: Excelerator BI
