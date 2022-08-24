@@ -2545,8 +2545,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-select/",
           "length": "PT29M",
           "ratings": {
-            "count": 26,
-            "average": 4.8461537
+            "count": 27,
+            "average": 4.851852
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3548,8 +3548,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7674,
-            "average": 4.750456
+            "count": 7675,
+            "average": 4.7504888
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3590,8 +3590,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6349,
-            "average": 4.715231
+            "count": 6351,
+            "average": 4.714848
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3633,8 +3633,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7585,
-            "average": 4.767172
+            "count": 7586,
+            "average": 4.767071
           },
           "provider": {
             "name": "Microsoft Learn",
