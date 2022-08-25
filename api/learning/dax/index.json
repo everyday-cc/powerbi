@@ -14,7 +14,7 @@
         "domain": "exceleratorbi.com.au"
       },
       "publishedDateTime": "2022-08-22T13:55:15-07:00",
-      "heat": 135,
+      "heat": 136,
       "images": [
         {
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/09/Demystifying-DAX-Side-Bar-Ad.jpg",
@@ -1792,8 +1792,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 6364,
-        "average": 4.714802
+        "count": 6365,
+        "average": 4.7148466
       },
       "provider": {
         "name": "Microsoft Learn",

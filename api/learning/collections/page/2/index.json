@@ -2440,8 +2440,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1212,
-            "average": 4.739274
+            "count": 1213,
+            "average": 4.7386646
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3756,7 +3756,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4225,8 +4225,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4471,
-            "average": 4.8060837
+            "count": 4472,
+            "average": 4.806127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4384,8 +4384,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1034,
-            "average": 4.732108
+            "count": 1035,
+            "average": 4.731401
           },
           "provider": {
             "name": "Microsoft Learn",
