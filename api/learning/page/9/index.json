@@ -496,8 +496,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-select/",
           "length": "PT29M",
           "ratings": {
-            "count": 27,
-            "average": 4.851852
+            "count": 28,
+            "average": 4.857143
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1476,8 +1476,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 9829,
-        "average": 4.768949
+        "count": 9830,
+        "average": 4.7689724
       },
       "provider": {
         "name": "Microsoft Learn",
