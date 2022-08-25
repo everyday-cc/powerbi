@@ -302,6 +302,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-explore-azure-data-services-for-modern-analytics.md",
+      "title": "Explore Azure data services for modern analytics",
+      "excerpt": "Understand analytics solutions in the Azure data ecosystem. Explore the architecture of a scalable analytics solution to meet business needs.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-azure-data-services-for-modern-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-data-services-for-modern-analytics/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 136,
+        "average": 4.7352943
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-data-analytics-scale.md",
       "title": "Explore data analytics at scale",
       "excerpt": "Describe data analytics at scale and understand the roles of a data team. Learn about the responsibilities of an enterprise data analyst and what tools are available to build scalable solutions.",
@@ -765,8 +807,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-automate/",
       "length": "PT12M",
       "ratings": {
-        "count": 71,
-        "average": 4.633803
+        "count": 72,
+        "average": 4.638889
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -933,8 +975,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
       "length": "PT16M",
       "ratings": {
-        "count": 181,
-        "average": 4.5911603
+        "count": 182,
+        "average": 4.5934067
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -975,8 +1017,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-reach/",
       "length": "PT19M",
       "ratings": {
-        "count": 75,
-        "average": 4.76
+        "count": 76,
+        "average": 4.763158
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1207,48 +1249,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-integrate-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-embedded-permissions-analytics.md",
-      "title": "Enforce data permissions for Power BI embedded analytics",
-      "excerpt": "Learn to enforce data permissions for Power BI embedded analytics.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-permissions-analytics/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-permissions-analytics/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 7,
-        "average": 4.714286
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-permissions-analytics-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
