@@ -1689,8 +1689,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 164,
-            "average": 4.7012196
+            "count": 165,
+            "average": 4.70303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3572,8 +3572,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6356,
-            "average": 4.715072
+            "count": 6358,
+            "average": 4.714533
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4427,8 +4427,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 50,
-            "average": 4.88
+            "count": 51,
+            "average": 4.882353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4469,8 +4469,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-real-time-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 59,
-            "average": 4.8135595
+            "count": 60,
+            "average": 4.8166666
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4511,8 +4511,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4752,
-            "average": 4.733586
+            "count": 4753,
+            "average": 4.733642
           },
           "provider": {
             "name": "Microsoft Learn",
