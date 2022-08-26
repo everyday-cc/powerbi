@@ -678,8 +678,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 765,
-            "average": 4.7647057
+            "count": 766,
+            "average": 4.765013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1093,8 +1093,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
       "length": "PT2H8M",
       "ratings": {
-        "count": 7696,
-        "average": 4.7510395
+        "count": 7697,
+        "average": 4.751072
       },
       "provider": {
         "name": "Microsoft Learn",
