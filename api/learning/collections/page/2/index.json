@@ -2211,8 +2211,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-power-bi-model-relationships/",
           "length": "PT45M",
           "ratings": {
-            "count": 44,
-            "average": 4.8636365
+            "count": 45,
+            "average": 4.866667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3982,8 +3982,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4198,
-            "average": 4.723916
+            "count": 4200,
+            "average": 4.7235713
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4024,8 +4024,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4563,
-            "average": 4.7264957
+            "count": 4564,
+            "average": 4.726556
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4191,8 +4191,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4477,
-            "average": 4.8061204
+            "count": 4479,
+            "average": 4.8062067
           },
           "provider": {
             "name": "Microsoft Learn",
