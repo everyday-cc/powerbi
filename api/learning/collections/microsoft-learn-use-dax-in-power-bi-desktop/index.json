@@ -72,7 +72,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 54,
+      "heat": 53,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
@@ -98,8 +98,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1349,
-        "average": 4.7353597
+        "count": 1350,
+        "average": 4.7355556
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -202,7 +202,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 131,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/use-dax-iterator-functions-power-bi-desktop-social.png",
@@ -360,8 +360,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-solve-problems/",
       "length": "PT35M",
       "ratings": {
-        "count": 15,
-        "average": 4.5333333
+        "count": 16,
+        "average": 4.5625
       },
       "provider": {
         "name": "Microsoft Learn",
