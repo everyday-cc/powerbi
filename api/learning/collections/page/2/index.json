@@ -2006,7 +2006,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-infrastructure-social.png",
@@ -2215,7 +2215,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-infrastructure-social.png",
@@ -4107,8 +4107,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3480,
-            "average": 4.7727013
+            "count": 3481,
+            "average": 4.772479
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4684,8 +4684,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4758,
-            "average": 4.7337117
+            "count": 4759,
+            "average": 4.7337675
           },
           "provider": {
             "name": "Microsoft Learn",
