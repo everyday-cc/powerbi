@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT18M25S
 publishedDateTime: 2022-05-10T10:00:26Z
-heat: 62
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lMuDz6ViU1w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 800
     isCached: true
 
-secured: "2+fyKYOw3QT/0CEA5VYQRwC5Ma4Cg8JCZpvBJPXQd+XbgScBmwDKD3RnAqOuXoWv4DlM79jbKsvXLIeIjj+tV19JjSNSL88vcIWd7sHMNUgZ5sUgTDCS2ySLQWPPB/ks0bNz/iT8qDv/CXgnQ4OENVS27rEm38oiFBajMAWI8/9Rrd8jUGD5qJ5A5qQeEqVxz4aRG04OYs2pIUePIEc6mpj3nH49MZVcZE9LEF8JowFmEc1z+yjwQronwH5qo+umV2Vb6t7+uB6qhne4rNeZlWOR5sItOyizDew2jfopYKa+FyKlM2huQAQVfBza3kXsLsuDhakViGOLHEaEpm34ZaERQR9tXMfAEBpgRnuJmQdvVjqIRt9AB4Ne1nUAKImzjAqtJ/xMfZ0/ZbaGzdiYZK6kasuMgzt/oMC6DoFDgd8=;QX1e6SSFAe+X7X8kV6DQzg=="
+secured: "uEr+CrviaBNzyBZYYy6daXdfdzj90Clwsjc6fxqEtSLzBxcIIonAOIN5LJ4FsLE6koPL8+WhHVgyZnuaH/Ve15BiWRj1uuvdWajFfpNmjjOOb5gK4KLHocYPhritTGr9cx+H4YNHNnhXIHE1ZvBIvmb/cJwQuzsF5BSk6yJ02sv4GezV3plH0bzcdYMxuv+zl0tbyEOrqfS4AZhGslUxdBNuW2YQeZhIz8d3TB4T7BG2DphN0fArnVhqvJmYa7LAI47Srrtt4AfBe6oQSmKO6IogFMLrDQ9oJCRg/S9uZKjRcXs79FJt9z6WwI+j6oNDV1NukF/5Kf2tJMVxv3U8ZjcJ42cC+rzF72lSJVNRD7LtIiPrdgRXw9TlJF1XnKvckfxefmv04W3Akje3BmxYBp1snDB9/uxkv2k7O5imkak=;mykgC/T0J0HFX+CUJWJVDg=="
 ---
 
