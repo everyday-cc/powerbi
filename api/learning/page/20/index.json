@@ -964,8 +964,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 3019,
-        "average": 4.706194
+        "count": 3020,
+        "average": 4.706291
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1133,8 +1133,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-user-experience/",
       "length": "PT59M",
       "ratings": {
-        "count": 240,
-        "average": 4.775
+        "count": 241,
+        "average": 4.7759337
       },
       "provider": {
         "name": "Microsoft Learn",
