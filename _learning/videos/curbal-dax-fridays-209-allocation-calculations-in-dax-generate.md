@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M12S
 publishedDateTime: 2021-05-17T12:14:09Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NVZVn82WxLA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "l7uiUa6u1dnAtemFNzGdc1C1Wk5E8DLU3qaT/Wc9QPRN5HZQS+xr2YN1YXIAs2lD5c8blMGcASyC2QdPiJEhC8o535ow3sEtUKrrjK5ckahimFphG0e2CGX4lbhk7ej7mI1VJFqfaYxwymTjdlmWVWVHjXjSRE538xvVBg9JQffXy7Kj89SR7slquoiH1KxGfbIH0O4aRRLD20g4qU2H2V7bIUNdMrSztcNtB+NEQrFKvOOE7DIw00ETu2D/1hJ4ynT4G5iPO2fDalqHpcYAem5gInkWVWPUKtXMuqoR3A0Cpibg8irHTX0JbHfd8sfxwGWyFVK397OgD2vAPuqP9UtandXLUgg0TVHKdftUSSIh+PkvVZT60ez50CjX9l9Yx2nG+V05PgTZA+ZTVf7wlMZiE1Cn12RdmiQ1K1CznmQ=;2PDLS85Vdls5OlJxlXtUOw=="
+secured: "STIGI//ijdAdw6rIsR/15UbMLg9JdlaT68I68KRZvK1qMcycZiwya08+Z71Q5OeNlH8mrOkblTxGnYI2sWEnx8e9j45XOLFnudnW8NCqFNhI3ZaPBLjgScKcrnMULpgep9Gl2SL3bChc18/ylmvXYEI8wgzc7Ufnig1+v3lUm4c1gq2ttNrgph2+4IanVuZRavW+4O9OO6b/5MjVPTOw9VnTA2jRkZAdFBVazeZUUplAOkoJZi4QeBquh4vUqxrh3I5UTgNErfgVpeGPHSSBCRUzMcb+HwVQCWin5gdjXyNhDehKyTM6qtS0OM2Qecf/y73e0KggiaZU7giKV5boIJ5LXaWRCHwlZR9QLJ9boMlbg3Z7MthoHIlDdDi2o+Fuj+RhChAw18usrpsOXkE5wZKMQBH16kd0Y+MHpOLqRRQ=;TpjX7bZW1nGYkR9Ha+7Dvg=="
 ---
 

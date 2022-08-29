@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M19S
 publishedDateTime: 2019-03-15T16:40:45Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qdcAoZU8B8Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "HIphhXckpaYvcsQcMgONg+0oyJCfj6QzDtO75cBIjDTyDFaNXII5yCgAzj3c5tbqGba/OZhZtC+1NyeRD/bHEUDc2pjH0OlOzsO+AZ7vMNiUiUA4OqJGrxFauQAUFe4Urh+K/hp05pgX1AGVqnnkfnLm3a7TXMUzRxsT7XLGS1ilW2k2tTXCwwPnZ/X9rDLQ47rrQTy7AUBQXDGYVGdcnt+P72Fs6vhx6d10h7hGhwrOhsKFRLUJmw2Hr2Z8waFeEt3pZ0+TjtL4LgPom+xoevyHPK8HEbBQqG6BpTRfNVfxHPttydZlKg87Q1YtRtHE7ONZTt33wKjImatevuy5+jRD6JyFAxrDDUQvwMQINSVz6shN/DbuJzCH4m3TReZa4nxRj2iiq7KOrKREPhwNtpjfbZDDVbAUPBnMJYGrM7w=;bDeuaqDtKzxQfyQV0DWXxA=="
+secured: "TuroO+JV9Ua759a9AX+J5I3kWeAiWzLbEbRh4v+QqTPcir/vAPZr1XNLU2ATWUAxeiUHay//z5fFyIt6llIghOqkaE7udAOKcHROBlf1AAS/bVOhtu+EcSZlPQIhV7GsmUkQuSVC4NcXYdyGBguDNk+Xtv1Y760U+Q4VVVOxN7gP6ag2yax6aER4Xb27RxiiodczjE0VpbgFcA2stfETJduyQV8e3kqKLRrvk1h956Oy5Y3Q97z98+VWgAJPqqPw3D76QmVQCni4fYSPC4lnm7gvL91zCxCqPQDFF9kzWjVAdzWGnsmB6/FGdetKagyIlqSKBNP9EcLrHgg3urFlDJguZ95eYoV3/XVop5BPOQ55g2xSbODyfCJQnOe1NGVoViJo5hAbFgDr9UdHO4Dw5hrvfmH0ksxDd+fRA6GtD8c=;6GyyR7OiXXGKbZAWYBmIlw=="
 ---
 
