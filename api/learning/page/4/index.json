@@ -1869,8 +1869,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-power-bi-model-relationships/",
           "length": "PT45M",
           "ratings": {
-            "count": 47,
-            "average": 4.87234
+            "count": 48,
+            "average": 4.875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2289,8 +2289,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 505,
-            "average": 4.8158417
+            "count": 507,
+            "average": 4.816568
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2499,8 +2499,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 505,
-            "average": 4.8158417
+            "count": 507,
+            "average": 4.816568
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3396,7 +3396,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",

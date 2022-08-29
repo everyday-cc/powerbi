@@ -343,8 +343,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3488,
-            "average": 4.7715025
+            "count": 3490,
+            "average": 4.7707734
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -571,8 +571,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 6401,
-        "average": 4.776441
+        "count": 6402,
+        "average": 4.776476
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -605,8 +605,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 3488,
-        "average": 4.7715025
+        "count": 3490,
+        "average": 4.7707734
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -773,8 +773,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-structure/",
       "length": "PT21M",
       "ratings": {
-        "count": 897,
-        "average": 4.7770348
+        "count": 898,
+        "average": 4.7772827
       },
       "provider": {
         "name": "Microsoft Learn",
