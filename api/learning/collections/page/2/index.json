@@ -3866,8 +3866,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6380,
-            "average": 4.7147336
+            "count": 6381,
+            "average": 4.7146215
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3909,8 +3909,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7618,
-            "average": 4.7671304
+            "count": 7619,
+            "average": 4.76703
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3992,8 +3992,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4213,
-            "average": 4.72395
+            "count": 4215,
+            "average": 4.7238436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4159,8 +4159,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3022,
-            "average": 4.705824
+            "count": 3023,
+            "average": 4.7055902
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4201,8 +4201,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4488,
-            "average": 4.8063726
+            "count": 4490,
+            "average": 4.8060136
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4614,7 +4614,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
