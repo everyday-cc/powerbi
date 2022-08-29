@@ -2909,7 +2909,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3824,8 +3824,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7713,
-            "average": 4.7515883
+            "count": 7715,
+            "average": 4.751523
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3909,8 +3909,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7617,
-            "average": 4.767231
+            "count": 7618,
+            "average": 4.7671304
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3992,8 +3992,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4212,
-            "average": 4.723884
+            "count": 4213,
+            "average": 4.72395
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4034,8 +4034,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4576,
-            "average": 4.727054
+            "count": 4577,
+            "average": 4.7268953
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4117,8 +4117,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3490,
-            "average": 4.7707734
+            "count": 3493,
+            "average": 4.7706842
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4159,8 +4159,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3020,
-            "average": 4.706291
+            "count": 3022,
+            "average": 4.705824
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4201,8 +4201,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4487,
-            "average": 4.8065524
+            "count": 4488,
+            "average": 4.8063726
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5138,8 +5138,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 56,
-            "average": 4.875
+            "count": 57,
+            "average": 4.859649
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5180,8 +5180,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/monitor-data-real-time-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 64,
-            "average": 4.8125
+            "count": 65,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5222,8 +5222,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-paginated-reports-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 4769,
-            "average": 4.733487
+            "count": 4771,
+            "average": 4.7331796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5389,7 +5389,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-power-bi-assets/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 8,
+            "count": 9,
             "average": 5.0
           },
           "provider": {

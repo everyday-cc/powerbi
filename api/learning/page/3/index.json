@@ -1334,8 +1334,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 770,
-            "average": 4.766234
+            "count": 771,
+            "average": 4.766537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1740,8 +1740,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 12693,
-        "average": 4.7580557
+        "count": 12695,
+        "average": 4.758015
       },
       "provider": {
         "name": "Microsoft Learn",
