@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M15S
 publishedDateTime: 2020-08-25T12:00:15Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YtIdcCYnZ9w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "EQ9dSwmxS+kODMBDs24xludUNN65bDgOGltzOTCnUMuoOu34gqowbfeQDX6r2PXWZiUWyCo18c3vDVRvBVYauxEIV4iu/6EQ2QduUHE2xCk231sKMQR9CB7Ab04o5DiityIAn6r/psn3b4CkTKUnoBCi+TKbpWPa4r5LzXHglbGHcdyi88qZv8GkxTkywDToHwWSXkIZWgGIiFgh31nFQqXX893eiRW6UN9MSZSqvhaksFuXvPPp5AP8uH0M7I8LiMZFnDV1neAYmsqoKG1mWBbPp78Eq/DqQWB1SDASPBRatPr1YYhuiAgWEg48ECCW6nPIzebZKWK9ER1ovY4/Hy0WpxwXwfaSJgVQyHXpQC1ee3q1Sqj1ffjuu16fyByfg6k2WVcyt6KKmjnQhnJsKjErYb46FmqZ6CPn/7KvsM8=;L+MYsH4UfLO6YTa+IFg8rQ=="
+secured: "/Rcr76QeR863DMUR24CWDZvbG85XmlA+WienJsKJNtVb/beEU8IJj+zvDPhXsJWB+hRlO5SjA1goM2p7G78SjmPBy2gEIC9lydgnM02A633L09vUgGm5bwaDTHArY7e88lfq349jS/rWflOpX3OjlSS09gHqTH+ls5NCe5INkch9v0ICOm6xF+htRQaO9FrNCY+Lu8yuVPtoykJZZHtiAJJXaRq+79puHKxv8dVfslhtgY4FXjm4DC5MBcIIdr1qdohR41JIEZHuPNJ5nDvKXH30xZmuzkmItsuj3ghRwaXn6zR1/0VQxWjHPJwy/Cc4p9FTypVjJaqpacX3S08Oohmy2RkIOy6C9qnUSrbtBbeVted34xB/yj6dnf/rYqm2jiNvHmDEgt7TBYzUFzZVGQ8UtD1AMcSlJndflUacpiY=;hRLUI3JaT4+T0YSFcSyALw=="
 ---
 
