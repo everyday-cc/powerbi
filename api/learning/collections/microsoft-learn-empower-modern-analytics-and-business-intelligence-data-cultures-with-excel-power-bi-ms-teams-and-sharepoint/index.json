@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 50,
+      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
@@ -223,8 +223,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-publish-share/",
       "length": "PT49M",
       "ratings": {
-        "count": 109,
-        "average": 4.761468
+        "count": 110,
+        "average": 4.7636366
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -2,7 +2,7 @@
 title: "Tabular Editor Tutorials"
 excerpt: "Tabular Editor is an incredible Tool that enables users to manipulate a Tabular Model at lighting speeds."
 type: collection
-heat: 61
+heat: 64
 
 provider:
   name: Power BI Tips
