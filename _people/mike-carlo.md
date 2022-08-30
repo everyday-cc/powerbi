@@ -14,7 +14,7 @@ website: https://t.co/Z3zO6dilSk
 twitter:
   username: Mike_R_Carlo
   url: https://twitter.com/Mike_R_Carlo
-  followers: 2591
+  followers: 2592
 
 linkedin:
   url: https://www.linkedin.com/in/michaelcarlo/
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Mike Carlo"
 
-secured: "U2LbWKttgv005F0lelvtcsL8jMzBmgUUr2B/1qgDysZKwxYdES+gFA4iSVXH1NKKMEHEwIgcmGHh8iNQtVb5sixliGgUciUatQPiLQ1kEmVcro8pGYr5dxd8wakXMeN9wWaVwZkgVitrHdnMJgvWhZiwwPgkrf9eWmEr269fAUo6nwcy1WYhoizaTJ6wM6LUXaCItiGPE5LJR1GJTAuv9Zt5MJmkjAM9WGAInHsek0DdgA0S46cB4iHT/sxJhYClMWty07VAdLD9UBeD5d8oVlkwIXVO0QouHIf9A43+/z4ffT5sgUTMh/O5+l3EL1f5YoOu2tUtpv/IBIkJOk1yB2EoGYkFK/STmgQW1T+HH6C052djlRPAhHd4fZdoWCaWcRO0F+omP2N4ia9LwoBftKQL95eAYlUr0y1xev/qEB0=;dyLmRyXGkRzxLw7dvhweuQ=="
+secured: "mHoRvXhpclhJkg4xZdVq1uLRZK4fxv+NKnbnCNu0Cygwo0J4XBArk0xpHlQRcB8oEEusMepTqxBz+vmmDtBAKEFgSGX7rwJwY4ojt8WarKFRV/Cw/JuLgP+jtKyVRKq1G+E67niourJ3XlyDbrOzdvMF6XXuRPrWTXE8O5+vblH2+L9vLfzmV2b9vnb4IEFDquMWFZfO3aqvUFaMcJiOdkwjy6N42QpJhKstwR6PKez7mEyWPKra2PHsuz77AgTRwlvv6C6OcFc0DkLiOzQVjns9boEil3NFZi+YmXK5Rn5/VlowUi3s4XWSBMBv9HiGa20lJjIEOoKK4di4RkmNs98DhzJiw8maSzk2wuSmAAovugFHv+tHDu6gWcmEZ8JkozX1CfgYVYc0bsbozKFmkm/fpKVVAe+4066UNRQxlkQ=;T5+L2nhwAsLjwiV0klgzfA=="
 ---
 
