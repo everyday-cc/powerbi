@@ -180,8 +180,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-power-bi-model-relationships/",
       "length": "PT45M",
       "ratings": {
-        "count": 48,
-        "average": 4.875
+        "count": 49,
+        "average": 4.877551
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -392,8 +392,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/",
       "length": "PT20M",
       "ratings": {
-        "count": 2815,
-        "average": 4.7548847
+        "count": 2816,
+        "average": 4.7549715
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -567,8 +567,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 1920,
-        "average": 4.715625
+        "count": 1921,
+        "average": 4.715773
       },
       "provider": {
         "name": "Microsoft Learn",
