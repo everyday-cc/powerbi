@@ -227,8 +227,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 5276,
-            "average": 4.67627
+            "count": 5277,
+            "average": 4.676331
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -311,8 +311,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 4309,
-            "average": 4.6966815
+            "count": 4310,
+            "average": 4.6967516
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -601,8 +601,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 2024,
-        "average": 4.8438735
+        "count": 2025,
+        "average": 4.8439507
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1709,8 +1709,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1281,
-            "average": 4.7470727
+            "count": 1283,
+            "average": 4.747467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1835,8 +1835,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 351,
-            "average": 4.7378917
+            "count": 352,
+            "average": 4.7386365
           },
           "provider": {
             "name": "Microsoft Learn",

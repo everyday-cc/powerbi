@@ -1049,8 +1049,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3029,
-            "average": 4.7055135
+            "count": 3030,
+            "average": 4.7052803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1151,8 +1151,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 3029,
-        "average": 4.7055135
+        "count": 3030,
+        "average": 4.7052803
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1235,8 +1235,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 1281,
-        "average": 4.7470727
+        "count": 1283,
+        "average": 4.747467
       },
       "provider": {
         "name": "Microsoft Learn",
