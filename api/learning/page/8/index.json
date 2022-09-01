@@ -393,7 +393,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-intro-social.png",
@@ -2444,8 +2444,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 7173,
-        "average": 4.7278686
+        "count": 7175,
+        "average": 4.7279444
       },
       "provider": {
         "name": "Microsoft Learn",
