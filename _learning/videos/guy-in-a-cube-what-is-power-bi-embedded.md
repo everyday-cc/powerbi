@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M4S
 publishedDateTime: 2017-10-11T14:34:50Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iEHfUuoZseo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "What is Power BI Embedded?"
 
-secured: "wRPArtdI/h6JjxwFjypo7U+eGFcbtn2f94gZB+E/wGcKf6wuuyZMLwYipPjzhMHX4nuIo8d6BxD4YLR6SFtFrcjJswogFwLV0cNTctha8E9D3Vc4AFLlv95xUTLSQik/TGUBixRrEwd5LJFdTBXXwL6IZBb7E3/gcXqWPHBY+p/AUPWz4fQCp7NzaJr1JV8Q6wvzK36h8dGxfvDUX85+niNzuy0J7tEWHUjExEDo/Bk2wrZvCORPwsmJLXhtcbHNop8gj8WrwVrDn12rQJCW4xbRYMdLyCtIdsg+bskL/WhT3fGy5skw0K0ZO3eAhVoda+2bCecpfVLISVi3X5fTGygLcpeeEdbfZGEOYc/1+94hZLeUKXi9Aa9IArPu1V4zJzMdrqhoKLBO1zotRAzD/3FByQaFEd5wxpFTqrhdxtiLNtbCGSEeyyzF/OpGHhBC;JDN1mH1+bWEqjZNIGrjVew=="
+secured: "TD84ZfXYGy7uMF+r97tPilrbBSWsbrMi3+muRALSHunwRj3JsKVASPBJK7PrT5fJeo1cBk1RthSgJsgpunp2BxTpY5Mea9p5ufnMKYyesOQbO8bbk0aXlTo2nnK5DW3xmPMiPv7QevPHvLCeb/Df9BofzSa69K6fTommaqa6NpU6QHvXv+htLob5CNMM2rU53DbpIbPjwp/XUBNrJoVAypLnVmaXeCkFF4Nte8lSnFgj6ZMmuQsdvIEI1b24MGediU5E9uoekomHKyCDzcb650Rs6v9Hl350u85aPp6I2RrcQdSAMvIN4XYT/vOu+gUZ84tPvS/7KKQTqsPAvEgk7ZwM1skShAvbnlDil86jvET09wsX8+de7Y08eB6y2KQsD7JV3gcsNGvppsYKZEKmM2s30JPbUDhoQ+qgjvw+KuEi02Ijr3qGFt3r8987SdKb;39GV7HVtZYADUTrkYa3wuA=="
 ---
 
