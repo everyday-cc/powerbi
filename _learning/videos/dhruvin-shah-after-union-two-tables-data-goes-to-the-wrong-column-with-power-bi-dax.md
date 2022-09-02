@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M50S
 publishedDateTime: 2020-10-27T03:53:28Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qZYyGG2L8gI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YBz67n8i6ufl3ke0uJZ4tjRMwJB1UFAWJqTpIMyg2GiAxNpw4kCsgFlPIOi+/LEk4tervl/+oFJnlh7WYONuUTZtCHwQQpJyl3IznB1olaNl8Qb0a+vuYKdRdx9VZhYgddF5Xfrs0TXfVApHMGfGOEuhABNVBCcb7gDeCKQL6HGptmkF5UYD0mJeowrJRTkSux/TGYKbvCit21y4Ps2qQ0ElYPMDxjwsNBEXmqheEMzCHhzLe57+cDtgmg7soHJCaK2KdCTAF/hj6IE/oEYzOKdBskhZJhLbpuVchTxAxfOu7951qklLK9SUGWJ8r6Q05CrpLCAvW7kPtmBeRsKBiqUz6yrmC3zx6dyQ05gouiRyC/0qIsdNf2VH7TPtSwgmRpx3/z0DjzxaOS/ijGv4JsWDLsECh1vud1Vh3z7k9Yc=;2vL42U7HRUszjWNgDT1wKg=="
+secured: "LeakxRLX/w0CDlVi0rst5SxQG4s2XlcYv3soOKPy1CPQFwlzRWR9wSAisP2d6W5n7cvFaHG9P4GLUgMbmHDap3OXaV4lT5PveCVsyVmYHGJzzmlybgmKZ51YOGtV4yyHeWqN0KdFiU5Qw2FGlIlUDrPrJwmeiB39IUIk0jILrkjnH2Sa02H2mdIqHMxvahQa5WlxwVpvU4aUm3bj0QsjMMAI/6tjOghN8inCRLBpLKict+SDt8Iv1t7QI0PpQgBL4EppsnJ68XkP9qMRjLIjrTplafMBMXGRKneuLUCCWqPujK7e8rGb68oeDxG5vIjFSTzBTawfpYMHdeYxSuGWP23xntHPdMusT1ow0W+LUTXIunadOYq34L3tvf0Wu89YUINx/8ZFDlLNRlmF99DOjv0C9hqPtDKaxhMHDwcdJYY=;OypoN/ADUtmm/zE6F5yJfQ=="
 ---
 
