@@ -1383,8 +1383,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1219,
-            "average": 4.7391305
+            "count": 1220,
+            "average": 4.7385244
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2783,8 +2783,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 7183,
-        "average": 4.728108
+        "count": 7185,
+        "average": 4.7280445
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2825,8 +2825,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 9425,
-        "average": 4.749284
+        "count": 9426,
+        "average": 4.749204
       },
       "provider": {
         "name": "Microsoft Learn",

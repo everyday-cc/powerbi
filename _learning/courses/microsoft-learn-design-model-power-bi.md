@@ -7,7 +7,7 @@ price: Free
 length: PT2H8M
 ratings:
   count: 7770
-  average: 4.7512226
+  average: 4.75148
 heat: 63
 
 provider:
