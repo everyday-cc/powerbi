@@ -1793,7 +1793,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-intro-social.png",
@@ -4499,8 +4499,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 63,
-            "average": 4.857143
+            "count": 64,
+            "average": 4.859375
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4708,8 +4708,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 140,
-            "average": 4.785714
+            "count": 141,
+            "average": 4.787234
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4750,8 +4750,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 99,
-            "average": 4.7171717
+            "count": 100,
+            "average": 4.71
           },
           "provider": {
             "name": "Microsoft Learn",
