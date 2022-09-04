@@ -2184,8 +2184,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enforce-power-bi-model-security/",
           "length": "PT36M",
           "ratings": {
-            "count": 35,
-            "average": 4.8
+            "count": 36,
+            "average": 4.8055553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4052,8 +4052,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10068,
-            "average": 4.7048073
+            "count": 10069,
+            "average": 4.704737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4094,8 +4094,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1054,
-            "average": 4.7305503
+            "count": 1055,
+            "average": 4.729858
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4515,7 +4515,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4557,7 +4557,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4617,7 +4617,7 @@
         }
       ],
       "size": 3,
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4664,8 +4664,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 151,
-            "average": 4.7417216
+            "count": 152,
+            "average": 4.743421
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4706,8 +4706,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 141,
-            "average": 4.787234
+            "count": 143,
+            "average": 4.79021
           },
           "provider": {
             "name": "Microsoft Learn",
