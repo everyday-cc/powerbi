@@ -747,8 +747,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 779,
-            "average": 4.766367
+            "count": 780,
+            "average": 4.766667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2397,7 +2397,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2589,8 +2589,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 1926,
-            "average": 4.7149534
+            "count": 1927,
+            "average": 4.7151012
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3236,8 +3236,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 29597,
-        "average": 4.7254114
+        "count": 29598,
+        "average": 4.7253866
       },
       "provider": {
         "name": "Microsoft Learn",
