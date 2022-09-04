@@ -4177,8 +4177,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3514,
-            "average": 4.769209
+            "count": 3515,
+            "average": 4.7692747
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4748,8 +4748,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 101,
-            "average": 4.712871
+            "count": 103,
+            "average": 4.7184467
           },
           "provider": {
             "name": "Microsoft Learn",
