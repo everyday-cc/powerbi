@@ -2473,8 +2473,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 184,
-            "average": 4.597826
+            "count": 185,
+            "average": 4.6
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2515,8 +2515,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 167,
-            "average": 4.6946106
+            "count": 168,
+            "average": 4.696429
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3395,8 +3395,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 783,
-            "average": 4.7662835
+            "count": 785,
+            "average": 4.765605
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3520,8 +3520,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 63,
-            "average": 4.888889
+            "count": 64,
+            "average": 4.890625
           },
           "provider": {
             "name": "Microsoft Learn",
