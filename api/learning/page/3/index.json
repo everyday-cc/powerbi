@@ -641,8 +641,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 12814,
-            "average": 4.7587795
+            "count": 12815,
+            "average": 4.758798
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1084,8 +1084,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/",
       "length": "PT31M",
       "ratings": {
-        "count": 7211,
-        "average": 4.727361
+        "count": 7212,
+        "average": 4.727399
       },
       "provider": {
         "name": "Microsoft Learn",
