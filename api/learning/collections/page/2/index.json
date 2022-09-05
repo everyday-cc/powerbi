@@ -1338,8 +1338,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 780,
-            "average": 4.766667
+            "count": 781,
+            "average": 4.7669654
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1607,7 +1607,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-content-social.png",
@@ -3224,8 +3224,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1361,
-            "average": 4.7354884
+            "count": 1362,
+            "average": 4.735683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4797,8 +4797,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13118,
-            "average": 4.6779995
+            "count": 13119,
+            "average": 4.6780243
           },
           "provider": {
             "name": "Microsoft Learn",
