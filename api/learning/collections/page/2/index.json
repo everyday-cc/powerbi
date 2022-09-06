@@ -2704,8 +2704,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 166,
-            "average": 4.6445785
+            "count": 167,
+            "average": 4.6467066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2746,8 +2746,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 85,
-            "average": 4.6588235
+            "count": 86,
+            "average": 4.662791
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2788,8 +2788,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-tableau-calculations/",
           "length": "PT57M",
           "ratings": {
-            "count": 56,
-            "average": 4.339286
+            "count": 57,
+            "average": 4.3508773
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4165,8 +4165,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4539,
-            "average": 4.805023
+            "count": 4540,
+            "average": 4.805066
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4248,8 +4248,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13132,
-            "average": 4.6781144
+            "count": 13135,
+            "average": 4.678188
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4282,8 +4282,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10076,
-            "average": 4.7046447
+            "count": 10077,
+            "average": 4.7046742
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4532,8 +4532,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 157,
-            "average": 4.751592
+            "count": 158,
+            "average": 4.753165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4574,8 +4574,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 144,
-            "average": 4.7916665
+            "count": 145,
+            "average": 4.793103
           },
           "provider": {
             "name": "Microsoft Learn",
