@@ -2164,8 +2164,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-select/",
           "length": "PT29M",
           "ratings": {
-            "count": 28,
-            "average": 4.857143
+            "count": 29,
+            "average": 4.793103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3805,8 +3805,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-model-power-bi/",
           "length": "PT2H8M",
           "ratings": {
-            "count": 7799,
-            "average": 4.7513785
+            "count": 7800,
+            "average": 4.7514105
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3890,8 +3890,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/optimize-model-power-bi/",
           "length": "PT43M",
           "ratings": {
-            "count": 7685,
-            "average": 4.7673388
+            "count": 7686,
+            "average": 4.7673693
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4293,8 +4293,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13136,
-            "average": 4.6781363
+            "count": 13137,
+            "average": 4.678161
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4452,8 +4452,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 62,
-            "average": 4.7419353
+            "count": 63,
+            "average": 4.7460318
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4577,8 +4577,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 159,
-            "average": 4.754717
+            "count": 160,
+            "average": 4.75625
           },
           "provider": {
             "name": "Microsoft Learn",
