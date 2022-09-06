@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/",
       "length": "PT37M",
       "ratings": {
-        "count": 517,
-        "average": 4.818182
+        "count": 518,
+        "average": 4.816602
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
@@ -71,7 +71,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 50,
+      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/automate-data-cleaning-power-query-social.png",
@@ -96,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/",
       "length": "PT34M",
       "ratings": {
-        "count": 233,
-        "average": 4.7596564
+        "count": 234,
+        "average": 4.7606835
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -138,8 +138,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-transition/",
       "length": "PT48M",
       "ratings": {
-        "count": 195,
-        "average": 4.7743587
+        "count": 196,
+        "average": 4.7755103
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -156,7 +156,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-transition-social.png",
@@ -180,8 +180,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 148,
-        "average": 4.6621623
+        "count": 149,
+        "average": 4.6644297
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -223,8 +223,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-publish-share/",
       "length": "PT49M",
       "ratings": {
-        "count": 112,
-        "average": 4.75
+        "count": 113,
+        "average": 4.7522125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -307,8 +307,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/learn/modules/modern-analytics-teams/",
       "length": "PT27M",
       "ratings": {
-        "count": 158,
-        "average": 4.810127
+        "count": 159,
+        "average": 4.811321
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -325,7 +325,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 52,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-teams-social.png",
