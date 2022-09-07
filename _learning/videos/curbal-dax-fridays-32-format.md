@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT14M52S
 publishedDateTime: 2017-03-30T19:49:13Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Aeoaf1KCx90\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "PZ79O+IiwDDks/+xzWXhKyIdE9joutfsz/r2hYEot6MP3y1W/WHTe2a3yGwKS8IpqGFOWIk95AreGfawbsx6oj+xwsgWzZYilXV3d75BKJB0vDUZLA6u1PkWQOEBVd2kpVmTrHef1lHwJd1Bs/T2tG14mvCO7vOt0FypKXZAYjPCFjmPdARZyOpbSnkdIti3QQO/aElpAzkQ00VvL4FKSFhatXl49VUUgHs+7nUk3HwnyW5RXUZnl7XXFtXPJC01dNH/oANG7YHmwnwTAkULGkSAXiMXp+DWCfwcVviH90LRC/QZFXp+w/96hF8YnhmEqUV6YEPeAYxBD9l8xFpzblwm0G8drPWix5xiH2MsU5kAUcVSFFpDZ29ctqIx2EwYUMrf7BGgSqAsOOLEB8FdRumjeo1tvyEHMmlDeeZ6GzM=;Whm5GBVTNrROsy4HRKq4Kg=="
+secured: "nZ5a730Lz09Q5STrvaJade++PaLguU2H2nHWI34M0JH1KxFeQiB37WKXW5WiEGvz/6XR3aIv4MDNltDBY+vYkNqZ1pbrDo7nA/+AFNVizQX98RoVAHB0qNbszNqNTtnMHviLCBDvYh6DmOF5hO9N+L0E+5fNYRCNaBqgxSqkT0456EvtI0sFbed7odmjP76k7yUz7B5mrIYZo+ohFDV/u9IUW23noHI5oV+fUH3McrIHOwDfQD5P+0wf2givNfhRkzT1K59rKK8ZIyk5PSCDSp25rRC9+PhBcMqnfbsVWdEACLt241WhaKUmEH/IN/TIHuxPPHCSre5YGSy3HkkkyNyXuPkihabuqiwNoeJh4MsSCz/sWM1HwgTUN8RuZJxajeO9Y6FEmyqRGXy0W438sFeJFP09yUQNpE5wjnkgk4w=;aANuw02HCxlEXQvkK6G8AA=="
 ---
 
