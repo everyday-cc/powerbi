@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 45312,
-            "average": 4.7993026
+            "count": 45322,
+            "average": 4.7992806
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,7 +52,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 284,
+          "heat": 288,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -76,7 +76,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 66430,
+            "count": 66439,
             "average": 4.778037
           },
           "provider": {
@@ -94,7 +94,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 308,
+          "heat": 311,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
@@ -112,7 +112,7 @@
         }
       ],
       "size": 2,
-      "heat": 308,
+      "heat": 311,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -136,7 +136,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 66430,
+        "count": 66439,
         "average": 4.778037
       },
       "provider": {
@@ -154,7 +154,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 308,
+      "heat": 311,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
@@ -201,7 +201,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 66430,
+            "count": 66439,
             "average": 4.778037
           },
           "provider": {
@@ -219,7 +219,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 308,
+          "heat": 311,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
@@ -243,8 +243,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 29672,
-            "average": 4.7254314
+            "count": 29675,
+            "average": 4.7254252
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -286,8 +286,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 13440,
-            "average": 4.7263393
+            "count": 13442,
+            "average": 4.72638
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -328,8 +328,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 9938,
-            "average": 4.7687664
+            "count": 9940,
+            "average": 4.7688127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -388,8 +388,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 45312,
-        "average": 4.7993026
+        "count": 45322,
+        "average": 4.7992806
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -406,7 +406,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 284,
+      "heat": 288,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -430,8 +430,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 36076,
-        "average": 4.7420444
+        "count": 36080,
+        "average": 4.742073
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -472,8 +472,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 29672,
-        "average": 4.7254314
+        "count": 29675,
+        "average": 4.7254252
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -553,8 +553,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 23389,
-        "average": 4.7657447
+        "count": 23392,
+        "average": 4.7657747
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -577,6 +577,48 @@
           "url": "https://docs.microsoft.com/learn/achievements/introduction-power-bi-social.png",
           "width": 643,
           "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-data-driven-story-power-bi.md",
+      "title": "Create a data-driven story with Power BI reports",
+      "excerpt": "Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-driven-story-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
+      "length": "PT1H44M",
+      "ratings": {
+        "count": 4834,
+        "average": 4.687629
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 220,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/create-reports-with-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -618,8 +660,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 12867,
-            "average": 4.7582965
+            "count": 12871,
+            "average": 4.7582936
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -660,8 +702,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15332,
-            "average": 4.7730236
+            "count": 15335,
+            "average": 4.773068
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -720,8 +762,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 15332,
-        "average": 4.7730236
+        "count": 15335,
+        "average": 4.773068
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -762,8 +804,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 13440,
-        "average": 4.7263393
+        "count": 13442,
+        "average": 4.72638
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -804,8 +846,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 12867,
-        "average": 4.7582965
+        "count": 12871,
+        "average": 4.7582936
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -967,8 +1009,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10081,
-            "average": 4.704791
+            "count": 10082,
+            "average": 4.7048206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1009,8 +1051,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1062,
-            "average": 4.7297554
+            "count": 1063,
+            "average": 4.7300096
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1069,8 +1111,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 10081,
-        "average": 4.704791
+        "count": 10082,
+        "average": 4.7048206
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1111,8 +1153,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 9938,
-        "average": 4.7687664
+        "count": 9940,
+        "average": 4.7688127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1191,8 +1233,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 9459,
-        "average": 4.749022
+        "count": 9460,
+        "average": 4.7490487
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1213,48 +1255,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/publish-and-share-with-power-bi-desktop-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-data-power-bi.md",
-      "title": "Explore data in Power BI",
-      "excerpt": "Turn your business intelligence data into data insights by creating and configuring Power BI dashboards.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-data-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-data-power-bi/",
-      "length": "PT53M",
-      "ratings": {
-        "count": 8110,
-        "average": 4.752281
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 169,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/explore-data-with-power-bi-desktop-social.png",
           "width": 800,
           "height": 400,
           "isCached": true
@@ -1298,8 +1298,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 5325,
-            "average": 4.6769953
+            "count": 5327,
+            "average": 4.6771164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1358,7 +1358,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 140,
+          "heat": 220,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-reports-with-power-bi-desktop-social.png",
@@ -1382,8 +1382,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 4345,
-            "average": 4.696663
+            "count": 4346,
+            "average": 4.6967325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1424,8 +1424,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4819,
-            "average": 4.7337623
+            "count": 4820,
+            "average": 4.7338176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1460,7 +1460,7 @@
         }
       ],
       "size": 4,
-      "heat": 168,
+      "heat": 174,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
@@ -1471,6 +1471,48 @@
       ],
       "content": "\r\n",
       "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-data-power-bi.md",
+      "title": "Explore data in Power BI",
+      "excerpt": "Turn your business intelligence data into data insights by creating and configuring Power BI dashboards.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-data-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-data-power-bi/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 8110,
+        "average": 4.752281
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 169,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/explore-data-with-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -1609,7 +1651,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 155,
+          "heat": 156,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-measures-dax-power-bi-social.png",
@@ -1634,8 +1676,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 7693,
-            "average": 4.767321
+            "count": 7696,
+            "average": 4.7674117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1694,8 +1736,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 7693,
-        "average": 4.767321
+        "count": 7696,
+        "average": 4.7674117
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1774,8 +1816,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 7242,
-        "average": 4.7278376
+        "count": 7243,
+        "average": 4.727875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1868,7 +1910,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 155,
+      "heat": 156,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-measures-dax-power-bi-social.png",
@@ -1893,8 +1935,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 5325,
-        "average": 4.6769953
+        "count": 5327,
+        "average": 4.6771164
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1915,48 +1957,6 @@
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-paginated-reports-power-bi.md",
-      "title": "Create paginated reports  ",
-      "excerpt": "Paginated reports allow report developers to create Power BI artifacts that have tightly controlled rendering requirements. Paginated reports are ideal for creating sales invoices, receipts, purchase orders, and tabular data. This module will teach you how to create reports, add parameters, and work with tables and charts in paginated reports.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-paginated-reports-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
-      "length": "PT15M",
-      "ratings": {
-        "count": 4819,
-        "average": 4.7337623
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 140,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/create-paginated-reports-power-bi-social.png",
           "width": 640,
           "height": 320,
           "isCached": true

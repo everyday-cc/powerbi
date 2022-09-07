@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 155,
+      "heat": 156,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-measures-dax-power-bi-social.png",
@@ -138,7 +138,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 99,
+          "heat": 100,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
@@ -244,7 +244,7 @@
         }
       ],
       "size": 9,
-      "heat": 118,
+      "heat": 120,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png",
@@ -366,7 +366,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 99,
+      "heat": 100,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
