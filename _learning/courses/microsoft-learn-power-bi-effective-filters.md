@@ -1,14 +1,14 @@
 ---
 title: "Configure Power BI report filters"
 excerpt: "Report filtering is a complex topic because many techniques are available for filtering a Microsoft Power BI report. However, with complexity comes control, allowing you to design reports that meet requirements and expectations."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-filters/
+webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-effective-filters/
 type: course
 price: Free
 length: PT45M
 ratings:
   count: 359
   average: 4.7437325
-heat: 53
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/power-bi-effective-filters-social.png
-    width: 640
-    height: 320
+    width: 1281
+    height: 641
     isCached: true
 
-secured: "AumUEqpwws9A+6RNXDimIvmY72Csm6DjbH3xhxXG5sElCVTtJtB8jXbWuHH/jlRn7INCR0XZpyYIRVWvBf4+LiO75J3V9XZbQ4YQ9vPUfwTw2mMzTTJ0ov3q26yW0zlXhQt18+0xsBm4YZ+m+EqxmKQFHa5BxwlPEhUFUX4dxgXmwe9Vfww173SpZKzuHfnk6EtC68pdp86/52PQZTUtdmkm3etlztdQhOD9rNBYQHxY1NM1hJRicoR6A0VMckcL5vIZoXxapvsdofMtBKWOHgcqnSnTrs1utsgAezkaXN2TDY5Zyz5Q6ysqb4RiBh9u/u5/yIPHg4khVZsoGE7dpEgV21o+PpeJCh3YSQdSL5qJAw/hrkv39fv5cyMxbLl8kNJ0R8ItYUtejGXFl/gsdtTiJXyMmOFkrTLMgXWnEF4=;DoH5jeBEtgbDtCBgGhqXfg=="
+secured: "/T15XwaSZABW+LVRwLNgzHBgfeR0ueMBBrzPQ9pFIW58MBh3Da8rRyvtRmbNfG9QB778g37Re8hxDlRwag5rNAfNUZimDoly6Zs5sUFCQhyRInpbsAyWw7p4+KJL1f9M6arJJU2n8SRxhhoZs3ZUV32plAWFCev64SeUC+nH4B/JavfiARMJNtGmlcyT8nIy+fy+eWPzMey+ba/aDLYC+lpcBtug/ZsxfQmV+GQZkt8F5gN4o0smONUX4KthEQOvk1AClSB6hH5jost0SXDiYVB6W/puR8z50JB8ygdgnWdVsnPyaaQEb4n2nJStHpqKs1bUNlehoS9QI90mzBdKlu0BBjaFLb1hXkXzFZ/S2QhUgBnc8EyODZ6x0NA2je4hXW59JkIx3FLmSiliwDkzMQ==;PVjoeaGMseb5E+7SXHZNcQ=="
 ---
 

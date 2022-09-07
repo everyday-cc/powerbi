@@ -1,14 +1,14 @@
 ---
 title: "Describe Power BI Desktop models"
 excerpt: "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/dax-power-bi-models/
+webUrl: https://docs.microsoft.com/en-us/training/modules/dax-power-bi-models/
 type: course
 price: Free
-length: PT20M
+length: PT29M
 ratings:
   count: 2834
   average: 4.755822
-heat: 54
+heat: 115
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 321
     isCached: true
 
-secured: "BWJ336vBDV4099ftiKx84aOVBs6ZtSjDUHuRJ2P6fqdY6G8NGnVIADh/PBc2ZZH13VjHwhqSX/EHWgAQoFXpCrkQXO8AOGwcu0XA12d/1m4G7ZPRS5h+yce7thQWlYhyJpvmXIdcyu1KsikzdNq+g8dMmzoveWhJxU3yZDkdJ/ryIXTdhijKqT976ZWwX/xlFVG58tFKZpjcrQm5JxjDkNx9wJPqTRXWFMzMOHUIN7y1W/L52Z7Smkp4po63+Tei7ZjTklNDISRzU9jDHpaPE2qAnSq1ZBkP3cTHDiBn69zVaXC77pZjkktTHYxsZiM73RTHbTkb613XUyzlHXdbyWZMm/3iYzZjS7g35WJuah/YLS8IoX/ROflF2DU/QNMcobpXWSFCX3WrAyvJ9VhI0it5u7Xy3NAEd4nV1kyS2Hw=;pJao7EMwbS8yEmq+jrme+Q=="
+secured: "1bojuUnNI+xv0oIRXIdME/nyasa9zMmBMSecC33eyBQeDSZyIaC452a6fGcy1QHRtJsb5JpWm8kfyu17DYwZfjQqAdg1I5XmoQGciitGV2yyJBwGxBi6X4P3rtSoyWRKDYg3YE5n902l4cN1JYxbuSsZLg6L86z1RGCDjh7MkOZKVRETvHqd7MRh4p9Q08kXUkqWPtZ9FxwvFj65YLtfBX05y2Mgv8vbS7v56IiRJUKaLpbx51btkxLhRhmNQ0rj5lxrDcIYg67OOYEhscDfVdaSfMT4JyNZqCZFELLYxX1NfXtOBcWuiQYBjXjN500wOcxGNYJEI/H5webimsVSyJ3i11Ihvo9c4tfteO4an8WEvZwAb2bc+ZubhLcgLnhRjXpTtZTBnAdhllb+n7a3zA==;YDBBt9TqhHdufpITm1Py2g=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Establish a data access infrastructure in Power BI"
 excerpt: "Learn how to establish a data access infrastructure for accessing all your data within Power BI."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-infrastructure/
+webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/
 type: course
 price: Free
 length: PT25M
 ratings:
   count: 73
   average: 4.780822
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/power-bi-admin-infrastructure-social.png
-    width: 640
-    height: 320
+    width: 641
+    height: 321
     isCached: true
 
-secured: "goaCMGGFOnoMJXiKD347tVg9jKcgwYsOeBJqPD5x4sNbfahOHxzm42MrSxXz4bPJz4QTKwXduTYVsx8AL1iZgOfZr1Mst6y8L9YQeZarnkFeABOXRYiLj74yXwWQTaZqe/WnJYq40ma+fs9r5fHWvXYkNjFCeUbjb/TND7dxWcISMAOXiWDeY615OXiilT/m3OI0g6GiYwVOT7e3PR5M4Te4kUncHr1OqC0EXY5eZbvwFNmpmE/kNRoD3JQO9L6iGIH34zJb0/E1lriEWhDm8dBU3UK4sQnhYI8m9OJk6rlPIUVDtAKdNqm36uQBp51yZTyUUV/LD51SVNWJmKunhjFGH9Thy7FQ40IzCyAOcylakr4HDdJsYi09JWSduXkaWQWEw+ynLoqYRodOnv4X3mXeEt2fIVErsjMO2YAwD9c=;eIwHlAOftpuieHL6FmFaoQ=="
+secured: "0GoSQZoF7EQB45GZCo9jEx80THxZGNh0SPW2kSPZihx2LwvaqXlvtCAe6GVVr4VB7CPIl6Pr7f38UGxeXZFLvrSz2Zx1zB7ET65uv68CWJrHNswbk/uaEwXkFuLDSwGAD8a0tafwbY/2u/fb0FaMUAk0yc3KQ1ACPJhu7o7Bwz9qJMc92UfJMCmyf8OG6+3uyVXPeHrNBBMC5gaRvsYx9y1ONFSWd4jbfCXbIF2sfxsXMwEgobDN8wo2fkBQ2vMTCVtxw5yGJ14sz4LAvHWZjS+0vrqtjD9Qhl5UnSwRx673ZNIJ9SAXWeTzqGCgMu8vESqk0Qc/Oak8sqXlDlVc4IUsjnj2/ufWncrITkKAe4qSFyMaNFp6UX1huGPsdooB6zCroJIPmRP+detnSw22/g==;M8ZAkoKD1CUUaX8WWHwaeg=="
 ---
 

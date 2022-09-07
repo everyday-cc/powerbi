@@ -1,14 +1,14 @@
 ---
 title: "Manage datasets in Power BI "
-excerpt: "In Power BI, you can build multiple reports from a single dataset. This means that if you change the dataset, all the reports will be updated with that change. It also means that you can do the work of cleaning and prepping data a single time, instead of repeatedly for each report. Once a dataset has been deployed, you'll want to automatically refresh it, so the users see the most current data in their reports. By using the Power BI gateway, it's possible to retrieve data from on-premise data sources, for instance a SQL Server that might be in your organization’s data center."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-datasets-power-bi/
+excerpt: "With Microsoft Power BI, you can build multiple reports from a single dataset, meaning that if you change the dataset, all reports will be updated with that change. Additionally, you can clean and prep data once rather than repeatedly for each report."
+webUrl: https://docs.microsoft.com/en-us/training/modules/manage-datasets-power-bi/
 type: course
 price: Free
 length: PT32M
 ratings:
-  count: 3054
-  average: 4.706287
-heat: 53
+  count: 3055
+  average: 4.7060556
+heat: 117
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 321
     isCached: true
 
-secured: "93+Xl4izvPhb3UdBXnVMHRGykFcurZGBB7NTyifKeeLM+Q1AMd8UcOl02ZKLN5GqCDFi/mcuGcilr2ZV0aferRGy6rMJigI9Vq8i2PQ7CfFAXgOD7b/BXUU91rwDcPGTY/L1CEE5x4fBwevOF5SzgrRLq6vzmKlcUMF1V8eFTD8DumWl9oJH7cuCjBVMSyBZ//I0CUBIBZU/OHP6IFFnh1bs1a7gGJ0HIfeSL9O/DLlnkV0PJnOBODwfk2CTIIlACael7urzj5wzwFxVczX8I6+yAaO4eSoHhJXynNXe1r4NwOtrFZ1MBakBSXt1uh/avqoC8iUsbL+9VCTVyAO/TSphAulFZJfpBNQztUMFQn1o/wXBMYCIbSw7Rh+T3ajeFF+lSHrHAriQZs8u9Kn2liFJmNJpaGwPt2rJv0WCR6k=;hYduU1WE4X46cpwaQXg3QQ=="
+secured: "XbL6BcAnIN8zSEnsiX92KZmmufOBHsg3Uw4YT2AUs8ejg0oL5Bf5U29KjAbANVi231Mtp0zzR2Fq5X5RGOc2cj1Zw4GUMIfRkhBUT9OcYliYq580+Nb+lBHwOzmfE1oscS6RPBClirI+Xq3FIB6p7EJCdxONrwN2ya3Q+QaGvYmb8QE+cHaKoq9Jn0EersbKMQciWlnch6F5paB+r090X3ZLxvVTAufVvt/p5oOQPjzNxj05xhnfUmeUxLpJhkuLhG+nlUzOhikKOSEVqC24xg2Cg+JqNd1bkZBBY4SuwsYNH7yZ3yWTeuqrknpzFncVZDHMkxrqiOMg+EDZUkpoOYsv3nyjLUqcxAv22f6lGFY1PYPG7W7SnHw4PiyurymyzTS76RAb6HMdMFE5XDEhaw==;RQ1xwoQDSPhTnl0br60JJg=="
 ---
 

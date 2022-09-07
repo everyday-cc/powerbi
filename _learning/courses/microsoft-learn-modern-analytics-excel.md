@@ -1,14 +1,14 @@
 ---
 title: "Transcend data analysis together with Power BI and Excel"
 excerpt: "This module introduces potential ways that people can use Excel and Power BI together. Power BI is a great tool for telling a story through visuals; occasionally, it's beneficial to use Excel for analysis. Excel can make a connection to a Power BI dataset, enabling you to analyze the data by using PivotTables."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/modern-analytics-excel/
+webUrl: https://docs.microsoft.com/en-us/training/modules/modern-analytics-excel/
 type: course
 price: Free
 length: PT2H7M
 ratings:
   count: 117
   average: 4.7777777
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 642
     isCached: true
 
-secured: "2+H6n0dq/GrpLamyTWumxsPPRE7EVF2jwQe3GuAiSLDmqey2ibqxQx9Bg2z2Rsqy8u15SAzzuPRad6c5yamJtdYj2bx9LFmWpxHPEvSJpAm64TzO1mvbdGIiSX844+1yNjbiRe8Wc8caSBj43gEL0piGlBecsjg27tnTd+6lwDljxeKi2ZppAh2sr7JFRoBYO+cvlvXLdKyr/TRSVpIneLq/C6QH9z0zRK04IIFgoTa7btHjdlkYkUykRtqagOhCd4I5QLDqPjQBrpKhA+/ugdXMXXA1MGOpU39/QjSbDovsq1I4zuxdE5nhQ+TWbznNe2IzZFPDkTQ8pg2SP6GiE9Vr1WrQpV53jeLi6FMKDv/pdy8Ps0zCbV/QtF00505C5ma8+MsjyeLgMhQNVFh/dLAvITkxghrAYAU7EdDKI48=;Oetm1lDiCdCTp6DHe/udMQ=="
+secured: "5Upz3YTNShpztie3t0sMsqVZgWJdoxjlUGGT7sXo0XGNp9qPBg59A4xDkGavT0Z1S5WGTY+32k2IxktnpgybiH0Uua+llBNFz2xu3PcIAFObnf8rcWZj4kCKIlLA2K4DJOrLgN1aK750wmoeVf30Uu+ItgXeQ8WAkPCPrrbEol2kT4gSUTnzAR/lv0B6Cv7ggjn88mVX/4XYf7gLEnWg0nho9cSvv1j1NeiKW6f9TCLfoBVPR+xWY0+3cnIJ5sE8E0eDb0H2LgcviGz7FuQwqcWzrdllSQ5hZq0EhdQ7r54FqP39IeE/RntBaNLyp4/2nbMAGJ4Z69+gVSAATEb3uehJ4OagyW3CfnmNa14xUwveeYltAZB0Svws6dIBvmfSyUngkYZVWeKM/Xq0QQ5AgQ==;5afgXjBx/OpVMSo0N8kwXQ=="
 ---
 

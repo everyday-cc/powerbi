@@ -1,14 +1,14 @@
 ---
 title: "Introduction to modern analytics using Excel and Power BI"
 excerpt: "This module introduces the Microsoft modern analytics core suite of tools, including Office 365/Excel 2016+, Power Query, Data Model, Power BI Desktop, and Power BI service. By using modern analytics technologies, you and your organization can work faster, more efficiently, and smarter by using Excel together with Power BI."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/modern-analytics-intro/
+webUrl: https://docs.microsoft.com/en-us/training/modules/modern-analytics-intro/
 type: course
 price: Free
 length: PT37M
 ratings:
   count: 520
   average: 4.8115387
-heat: 51
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png
-    width: 640
-    height: 320
+    width: 1281
+    height: 641
     isCached: true
 
-secured: "R0vPMKnu4HDKy2aCkAOWqs4cxTKGCCIRwxnDr14Wy6x3AL02RveiCljj5R5htXV6AFRQ6FeKpklSAa5AQpWIK0zQKYJmDdjdXOxngBTbKAEJQhE7b4kHJ1ZUO48+KseRnNxi9D/IXfstn0x2io026XNE6xU6M+MOkWw4WECyEbuzLmIkB6XJTtoRNMyqtiu81pbYJfzTYLajStvkZYr0mqp1iy0ifdTWRt7gBaUyDpXfogUYrh0WK9P67SJ6/n4grfslK/Zbv/DmY6wHsjtqBfF6mPTBG+uqkzIG4gep6aNcOOy6rAWMpN/wkB6QR1+WH1wyYcrEAfNQlFKme5LKj+YvLFjUgF/RiKR0iueb6+9b7PnifaL5pinr6UcRKhXGeDR8+pGxR4yiGwJzsmiTb5nYSVYMA57wStjegUw5Y2Q=;q9NGxfhL382WU8YW1GLFSg=="
+secured: "QWAuWPFg0Bg4uT3+kFGM+b12hg8WkSjRGnkpY9Mo8qVLqi/w3Efvxje4ChUf54ulrD/PYlGMpgByxOUUiJ+eZX+kwc/xwGdKcaIpB0drfz/Fo3tGfLjk+e+0OZnLTSK6EoSnmOXtPSl2Jr8KEggkM6NpXVdfoE0ETAyCCxa78csIn+IA/70rc57XtpGNLpn90VYP3b1wTCteDZdTXQtVPFEn9DImfL4HVxogDZ6Wq3rD3cT1vaQnTqqn6Fr1DUr6nXrw35DzacVwNaq9ilrstXdXD6IqlqH3tb6PlvwBkIT8i8oCv7ob9/oQXdBrCNsPnfUwmo27dHCdp0ouNxn2eVgp6UqJikT7oYEnFhg8hc0kkIK7Og5tlEt8oD30koYXyDLiiYCeptLxfm3mbgy7lg==;j046iC3ecs1VhrLwLbZPMQ=="
 ---
 

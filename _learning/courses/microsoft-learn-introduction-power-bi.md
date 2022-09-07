@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Power BI"
 excerpt: "Introduction to Power BI"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/introduction-power-bi/
+webUrl: https://docs.microsoft.com/en-us/training/modules/introduction-power-bi/
 type: course
 price: Free
-length: PT31M
+length: PT46M
 ratings:
-  count: 23382
-  average: 4.7656746
-heat: 74
+  count: 23384
+  average: 4.7656946
+heat: 235
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/introduction-power-bi-social.png
-    width: 800
-    height: 400
+    width: 643
+    height: 322
     isCached: true
 
-secured: "WE8ib/P6SvlkVg6fkv+D028l+2prmnZ7k8XYSfIo1K9gDaAv6fz4txJeiIXvizD/UMRL4KcxscbgijVRDm2THkf5DpOziYwkqWl7ILBnYJjk53RBss0+Bj/sOb0in4qS2++nXsf/h7HA2UYG6hov1xJUiiqkivo5ExE+QtDt4l8lsu2YkDMvq6TNKGe7dkeNRLGBFsiIHi849dIj8zG6aNLjdUIPp2OhFBv9EQZRraHXKDrHYsxa30ymt0hvniYuigwjF9MVr5374FOffN04lJ4WlGj+2acZ3imETqynvS9UcXTKvPzlyaDnERPv0jUZwHqA4CO4zKKjUzDcr64tIByGhkE+AW+DvZmKIZOFrvVp7rTgCA6n0g3eqlYfoyl0+XCi+q3IyFJvxb538WNk3M9zi6ge8ZmngLhT3DUGXYA2zUjLKXg51GFtOMGq2rWH;mojZV4/SA5tOt2tDdh3jhA=="
+secured: "6HbzGjntRkrVw0STHAuk8Oy5mYw1jZLFJpV84Z1I+5Catchtp0mOM/3z7JH9jxP9Si79TShALYo2/FPV8cCfoPfbEpbssa0NLymciuejyDPFiQQYxvYjnWo0hnCLB1NxNv+Jw7NLSp9Q3Y8pprGWU8hdgwd/VTglQvBj/p1OGCpG8IOQWGMmf0Rszn97iOkmr3CQ+xKl1aDzeS6iIWG/4ikokTID+szJwi1PCe4JpCJH9PEMZoFSRvdHVnAW1St3STURVTrGhDyZRIXq+Tddly1QHr5YhXbMLiZSZ59XxCTQ4C2S6kbhSAlfMUtzUNHVF9DSEFsIx6O41fuYDfuLIP+QG/oxT/fqa3kbHz9lTMEQlXIYrfyoArMtydGDzi1EerdsE/5Ukxm9HI9ZcxVL/Q==;z1VUJ5sdi4uU4ZD02K2Kcg=="
 ---
 

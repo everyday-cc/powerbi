@@ -1,14 +1,14 @@
 ---
 title: "Introduction to foundations in data modeling"
 excerpt: "This module introduces the key concepts that are related to developing a well-organized data model."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/modern-analytics-data-modeling/
+webUrl: https://docs.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/
 type: course
 price: Free
 length: PT34M
 ratings:
   count: 236
   average: 4.762712
-heat: 50
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/modern-analytics-data-modeling-social.png
-    width: 1282
-    height: 642
+    width: 1281
+    height: 641
     isCached: true
 
-secured: "71k6KEHDbWnNdW4vL7wVnnPETnaicl8aOURfrmUw0UoT9c1UvrjfhWxiN4tpfh/pJvWaDZdui0C3fPatwlpC789W7j3ZFzawtOTIpE1jzPpcH9zhcmkfo9gURNpTant9Yzf7qjt+cGU0q0SbIVfvQE4tXB/uXkypK1hlYG28TAAwmREUIFOBWSfcJXGlJ/nEILvEdqCNk3GzhGeplVmN/WIUrwrfqEUpGZDHqw8xoGBM0ZOmVk1FKLDRhRB9BhyvTNeUp3WKBFrovb+SO1pYp2WUMEmxOZB5pQPg7V+I83XhLa0hiMTh8SM3pfmD/qVRmS6yzvTwnGf1u/DwcSXprhtKVHSxbKsUyxesRokAcfn9JLlInQnaP6a9/Z5fyUP5qu1U18PArjDDzOxl+vqUlh9ex+1OC2Wz7sUjARWOq1s=;YC76pEotYg+xHFHIiyPfsg=="
+secured: "qp4zWxh+Uh2Rd2PTYoztatALpbS8Wh5JbPML/Kmo2Ntv9S6LKGejosZhjKFOOk1+rc8FGelps66SkYlmGS2tQdR2oU6Y0tbUJKhK2rHg/M4aHZ/NHFV1uzepWdGwFSq6lkCCA8ZOMWjSIaIS0tkMLjNmbjYSG42F2NkBGDVODnX10WcAA+XfJC3YuQmFpdtpTLssumA1nkS7tqhT20e//EOH6a2HgCAecQ74Nn9LffxPFoS19Hg0i4qKYtpeMPu7KM2Dm4+Q7JwkYp7+/CMO5/N1iRlG1zqBVE3jj37+AkzB7hEBsJO9vgbXfvq86OjOIsl2WAI50j+5mNEO8yrpoPDQCvZHiyUXV99RB8hiDwPWsN5KGYWXBtf9I1SGxjRa6b8Koq+N8ym4zApZYBSCsA==;sRw9ZEKjtqK2UAbSwuWjMg=="
 ---
 

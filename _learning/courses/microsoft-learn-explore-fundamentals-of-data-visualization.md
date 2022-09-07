@@ -1,14 +1,14 @@
 ---
 title: "Explore fundamentals of data visualization"
 excerpt: "Learn the fundamental principles of analytical data modeling and data visualization, using Microsoft Power BI as a platform to explore these principles in action."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-fundamentals-data-visualization/
+webUrl: https://docs.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/
 type: course
 price: Free
 length: PT38M
 ratings:
-  count: 2327
-  average: 4.8173614
-heat: 83
+  count: 2329
+  average: 4.817089
+heat: 107
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/5-explore-fundamentals-of-data-visualization-social.png
+    width: 1281
+    height: 641
     isCached: true
 
-secured: "guRU3kfemlG5gXokZPEGOihm/wlYCbKDbb1KryGPrD6R0h4psN1n5g2PgO9sHVh4dLXYsy6variG5EFWriIzT1SCTOnSe57aDYKwhgZh0K7UXXVRb4O8j6RXwBUEO3jDE5w43+kCO9v1RGoiDhlVDGidIvJio34kNvfqpQUge+Jre3yaNTQCMwrSoQNi+QSwH6lEr0/VkfWHvh9Yyc/rvFehw+Lf5atyc7Aoib4cJ5dE4p6rOM1EU7OcuKCodN0QJFxx5ZvHjY7zFjICSOY/ZTnlhMhmrLXOtDfb5cOKe3HOYP18mGh59Fj2I8CqGwSvr2cGZ9cURNoCxcZ8WJJvkm/beTWdtDlczrq3CQNIXfK0SxnrTQs25HZzYblxX3sgbQ6z0EHBjkdwvfr9T3ywmgE+ME8VRRcJHQrR5gHnEcg=;5jQ/tSdKv9ccDKFflOseVQ=="
+secured: "aP5gk9rbP191YX8pmlbvNdj/9dGA/dutrTRsWBA3TGdg4Pysyo8GOzvtD5P6qYJp8PdHRISZtK1db0q/1mqbL4Dxd+0sYyIR2NDVfmKR45GXsTUVY2OAqku6UF0rOcNdj9IhY01DJ8sARbFPGYwIOwZkBNHN4+kTXD34HH55EqljMF9yqetwEYsCNS/bcRBqJHgg3FZ3RoYGQVzc/oLZ3+WlPVXzE5oWoMrSda6auNuEV93lWVwj/FVkgRoLFChQZUMV6wV434EBQd6uhbVTannvz6GNBkaK6r7hWoGoigJLcQ9a1wuhdXXnS6HCZq8KmLNNhYks/MDoR2SBjEOtEQS9H+r5WRgCFz/hRESf0u108wu5bWlaVLeMUUx6bZxpJnEkAdrVyXwxpQlorHXTCw==;LswwCBmUXAfGTGDf08+Byg=="
 ---
 

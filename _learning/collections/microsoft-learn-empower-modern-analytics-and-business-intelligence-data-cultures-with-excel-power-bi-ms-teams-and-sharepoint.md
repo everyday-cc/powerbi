@@ -4,7 +4,7 @@ excerpt: "Excel is a Microsoft application that has been in use since 1985. You 
 type: collection
 price: Free
 length: PT7H47M
-heat: 61
+heat: 75
 
 provider:
   name: Microsoft Learn
@@ -32,8 +32,8 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png
-    width: 640
-    height: 320
+    width: 1281
+    height: 641
     isCached: true
 
 secured: "t6J+2J1S4onoN68Hg6yd28NXinzMdBX1dImwEoSQXVSpqGJuqWYYY9pBnNRpHnuWh1zZoJ5z8GVAGCidC5bX7AAGiqPIvLQMdBC4v7c2WXEEhBYOPVh4pC2k0Q9s5xDUbM8sYq788cofzKU3czcxN2ev/HeHR39gNjkKHLXmJbEuHfQPPNg11kf4pCIULU1tO09mm2Uli8GVbcRR0tVLB6Md3M8qGFwkbm/gZBX1IAbM7T5/lLQEMHxk53yrvt49bcjopplp1PfVYxcQvdOYa0YnnGIUiUkzcZyjqQe3xi274z0uFzOgHICmNjqavl/5bE3nagxno+V1Rb/BjDMiJGDkmokhiw3qPKTGoPpF7rA=;eWceoRNxPFMGhsDs3i618g=="

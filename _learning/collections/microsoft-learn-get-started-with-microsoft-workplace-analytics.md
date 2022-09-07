@@ -4,7 +4,7 @@ excerpt: "Collaboration is a key component of knowledge-worker success. Workplac
 type: collection
 price: Free
 length: PT2H31M
-heat: 50
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -25,9 +25,9 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/analyze-collaboration-and-engagement-with-ways-working-dashboard-in-workplace-analytics-social.png
+    width: 643
+    height: 322
     isCached: true
 
 secured: "u1+RlNesYa8TT/6oR0uUfbDAJElae2SwejP1XdTygMuFFFYC7Gbf0YBmMt7dpINBj3c2m9rsNSU1Gpvpx9ys+K9YCxNEsZtmD5tOCISg1eGuEeJx1LnvqmpeCPbBOpbGag4AkGlHWJTGqplwx+B32GIut1ObF7YrcoBEvZOQ4SuGhcqZCbrmqxhHktAYwEBaILSwwc0OQTSspLIg+ZLduufccmbmcSdVbVEY8QGN9loe6dnIwUTvVuAsAzN1nWaWjiG0IjOe3L8vAH7NQNHual4E0NLA8GWncDQF+HS4fpZmyzpiPlBXE9Ecr4yc4+DR5VZWEwS7x2Fp1w0otU9gZGPqP1kRkitsNNSPFDI3tcM=;KiJ3/Qkga9Z6sV8OYNTMVQ=="

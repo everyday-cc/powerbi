@@ -1,14 +1,14 @@
 ---
 title: "Understand the Power BI administrator role"
 excerpt: "Learn how to administer Power BI to support business decisions backed by data."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-intro/
+webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-admin-intro/
 type: course
 price: Free
 length: PT16M
 ratings:
   count: 185
   average: 4.6
-heat: 50
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/power-bi-admin-intro-social.png
-    width: 640
-    height: 320
+    width: 641
+    height: 321
     isCached: true
 
-secured: "6dmqxaioz50MLCbVgfx85ctA3LqnykvsFkksImqTIb2k8xdtrDwr0EUZtziUrtNwMVLS7AiR40Wq0z9ENQz2bXOAGbe83RdcuSTF0BAtRij9jlFJ5IwHii4RTxwa/Xkq1PVzznKhdO3lnxJLxTKczhdx3YMNAuMhPwz+TN77e3hoTHxzCddUkb6kiQCzzBF5cRKJltAQKUau2WywjNV1HOm9fkDH4HKLNKalHti9onvTG6o9jnydWpf9G/oPafx9/DzMocTTkrqCFuWRYc/XwKLG8MZVMG1ePygAePULW/WHiXUL5fvUCUTrgkfR6Jw9sb//4HSCinFEADSEW/6PWBGqYzdhvj8h6vrnvJoFQ8ZmVKO2c8gx7x4TE/ZZlF3uVOdKMxxOJL4I6B+rkjPZazFmbYCKJINx1grX5oECVJI=;n/yWClkaDoGvX1r2QLDcxQ=="
+secured: "XEhDVquaanRu4TA+q9xvVHhvwRmI6SAAKEnd0amxRxUz6yWRQ8WcltEKbHXkG4M9g5NfUNuhEEVTLzug4OI6vh9ctdcJjwXX7uYTK+V1a17DmhOHuuGMxYM/1pItlu1uWFutrAVdB6H52FJRIzvxuPU+yBeuBISRfQl7lXBdRFv2apQJJUWZcSaMR9exFY9lTqN7YfDEh4YaniqmJqeH1Ia9Fsn3nBsiIJqsU/ZBjtI8uPPrbtfE8TJ+uysFlLtCg6Y4sR443mSqTY+RoIPO43ZIiXUSt006DKoPAjIM42c1nLk86FK8tXOrHDzT34Er+oF1IXw7QJhhwm1OgEvmuUTJt2NoKBkpZZPstLK3fP1Gol0xt14nL28Y6/4+EMc5T/uH/PDttCq1uCB0IyNVtw==;EVzNDuu0CL1EQThaVL72HQ=="
 ---
 

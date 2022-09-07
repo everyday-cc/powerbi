@@ -1,14 +1,14 @@
 ---
-title: "Facilitate collaboration and sharing"
+title: "Facilitate collaboration and sharing in Power BI"
 excerpt: "Learn how to collaborate and share dashboards and reports with coworkers."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-collaboration/
+webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/
 type: course
 price: Free
 length: PT33M
 ratings:
   count: 99
   average: 4.8080807
-heat: 50
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/power-bi-admin-collaboration-social.png
-    width: 640
-    height: 320
+    width: 641
+    height: 321
     isCached: true
 
-secured: "VnnqqufpWHmC4E0tvrg248iOJ1WiGXxs/Kb/7gWCgDEmY7QRy5zlvV8/2r2jbNCI9bpmgqgswVBGIMFN5kwvmiolQlyHN9UAV+jzesIUR7lP/7pZxJlWW6Ur0esQPYbzticgLdTCm10diWa4mnVvbMHdRGVNi1L3Gx2JI+lfRVeRefb16GpXetxHMqV3bf3gr9dQvLkbgDTecArtL3NixPw2cB8OaR13r9D5fz6hG2SJybrVPn9ZX6a60OO0vWxAAJKOajdut4St4Eg+SOPCo1OzBlMBjSZvB7tRcpii5r27w2eKQ3xe+ziPYVIDWfnS0zaeS3QCC2Gh6qapym6Z6332z3JgUnjUdm4sjxtJBibyvGjP2BUz9yPvwdWhGZuP38JUVKp/b6MlQ4I5dsvlynuy0sIhN8PrT2jr58WzROY=;FK6vPwb3m5ZB3krND0BAQQ=="
+secured: "lbERoDqvFuGzhuaexrEcUUaK/MW3ZvJXVXUx/DREaAMMEYMGO+r0tnTxRQVBW2wrn1ODjw27NMP7sDNqnoBF8Q3hVmahiER0hHfs7ici3lhj016RNtRbc7fXHKzhwdrmxaY5cTD41+5zKTU7MKVIOrIHt5DDNBhkMsIR9hXIMNDGWfy0M0B2+h6gfU5I0kSfH3np07/0Blv2A5xupWsgGd+6Fq4xMLUHkfCIiI0pZVEuzz0MxM3XW3DKnBAsr6aUSb275yMUxjQPjU7wrpkazVfxeXpyDzLvPxEHy/hE8Ysl1Xfuides+7lwQfFehEUGbrCftgYpO783HW26lvGkjtOdD/reIgXKr16Xc6iPCtePdTdIU/Cz0M66bIAhGgZ7/dznv1rxLoI/9+iObezWcQ==;KTCjC08PYmoO1g5R+ZszDA=="
 ---
 

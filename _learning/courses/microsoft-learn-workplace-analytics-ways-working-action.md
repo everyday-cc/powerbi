@@ -1,14 +1,14 @@
 ---
-title: "Drive organizational change with Microsoft Workplace Analytics and MyAnalytics"
-excerpt: "After using Microsoft Workplace Analytics and Power BI to generate insights about your employees’ work behaviors, you’ll learn about the Microsoft 365 features that can be tools to implement and measure the changes you’ve identified. You’ll learn how to initiate common change practices and what tools and tactics are the most useful."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working-action/
+title: "Drive organizational change with Microsoft Viva Insights (Workplace Analytics and MyAnalytics)"
+excerpt: "After using Microsoft Viva Insights with Workplace Analytics and Power BI to generate insights about your employees’ work behaviors, you’ll learn about the Microsoft 365 features that can be tools to implement and measure the changes you’ve identified. You’ll learn how to initiate common change practices and what tools and tactics are the most useful."
+webUrl: https://docs.microsoft.com/en-us/training/modules/workplace-analytics-ways-working-action/
 type: course
 price: Free
 length: PT40M
 ratings:
   count: 229
   average: 4.8296943
-heat: 50
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/drive-organizational-change-with-microsoft-workplace-analytics-social.png
+    width: 643
+    height: 321
     isCached: true
 
-secured: "htvpYuv56VesG/t6QJuARHresn2jtECbD2ydZ7phw3IqDIsAW31RraFl2SHkKBQDm5Ki+5NrfKfBzMho6KAPGxoCLfnLGc6AU7l2rUYfESMHRn3/8h4F1aZiWeKLh9BK1aI+H9xQK6AnSyM4zzMN5dVmxfoLf3CzK5DUKB86/2syB68qZITCYNbG3zauMqWiNUAgJby8hVsVb29ePNqWxVo1l0rw294vPhfzc3l9ItHXR2TRbEEugDE96vjP8KvtXn0NlmDWHXqxnduabBP+M0JRcfutasaj32J6Q6IZYNmLau+sXy0D7+B777NMNsfkFspF+XcYrdkZFvkYd1XbowhxF+lzJlzJB5EYZIBeICMURKlcsG6VNLX3KunAHqhPeMaziDFJBfop23RdY5u7MmlAKtVfDPBbmECn4aqrjH0=;I41FHNULFCsDotPj2CR1nA=="
+secured: "7fQrdYuZbi5Ff8lRPSVuz2jEYxyytxL8ozps4YIU+i707x24oKKgxyVkqcQ6aMWi5wXHr/S0LfjQBuRebNk64b+fhs/tzzGy0e3uB0BVeh9c1EYLLA65qAM0Td1dK7DgF3Cyn8YxzOGDuScMPEWp5eL4ee3BQAcasqqeBIzYtk23wZUMyYfI0H/CMa2O83XbdmBa7Q5OrnaCKuGqezVTVcudX5xW/U2cBOuwCcKEnvhs1SSWUMgE/roobBAzkKrk+ACHEM7PPgggYB7j7XbmmW51NJxWmp6/YLV9izejudRUWxaWDozJnAnzTEMfJ5JkeUA9vDoP5sidEhPSG6snY/fU7ASn03EUkWtIxRiGkRNRKCJieSh3eRs4vVvFf/BuiZTFV93NJ4h/ZOKxjlBLwQ==;XKvOBsy3xiubBmZ3OviJUg=="
 ---
 

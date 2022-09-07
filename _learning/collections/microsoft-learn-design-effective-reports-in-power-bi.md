@@ -4,7 +4,7 @@ excerpt: "This learning path introduces a design process to design and deliver c
 type: collection
 price: Free
 length: PT3H52M
-heat: 64
+heat: 93
 
 provider:
   name: Microsoft Learn
@@ -30,8 +30,8 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/power-bi-effective-requirements-social.png
-    width: 640
-    height: 320
+    width: 1281
+    height: 641
     isCached: true
 
 secured: "UmBuDuJIajBaFDql6ky2juyFyMYpW8hwdQ5XF7etnZqQO3to2bjLOaavubG+8RZ85sYfQIU19Nd0Sra4DRVbSoPGGlWQphX8ktVG1poGnMJFnjKeuk5gfzpXHFWkpd8SipTLtvl9z3f3KTIqCMj+eexnHoB+WJA2fThAytUh1nDIXqLS8s9sb6TwinfdnuPSV8oFiApEsVx8xydHVQMNjurlnUU7Uoib4oyoDWQ+oeS2555o11vCzKsnRXuMvLhahMwIwBTGfsWLkhEnjrr4UWlUUsyVIH4aJgistDp2SrVAe7A5wLfMqoXYKv4fg5MOBB6wTvBg1vjsfDzYx6sR3t6NzkCaFr48rMlS1axJlUI=;02KtpcjVKHolvKzEYn536w=="

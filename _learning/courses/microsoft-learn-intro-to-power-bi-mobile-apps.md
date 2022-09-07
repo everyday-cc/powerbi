@@ -1,14 +1,14 @@
 ---
 title: "Get to your data on the go with the Power BI Mobile apps"
 excerpt: "As a consumer, you'll use the Power BI mobile app to review and interact with the content that is available to you in the Power BI service while you're on the go. This module provides the information that you need to work effectively with the Power BI mobile apps."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-power-bi-mobile-apps/
+webUrl: https://docs.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/
 type: course
 price: Free
 length: PT1H29M
 ratings:
   count: 1061
   average: 4.7295003
-heat: 52
+heat: 81
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/intro-to-power-bi-mobile-apps-social.png
-    width: 640
-    height: 320
+    width: 1282
+    height: 642
     isCached: true
 
-secured: "yHjiyaUfzLYAo0Fms/dm5rKO/PEczcZA/fLSFg2vozG8New8rKTk6jUC5kRJsHfJFX4HyVK8QgeiYr+tM+iPjINspGyJdBxGnhG3qlx82TdKaNeKHdPvIWJ0eBzRRrSzVpqXLSAxEAKo+8c5clEeP/e9hrR8CiynMa8kYs1iQ02PwI+tRH4PqwAzmtLj1ECo/fwijrYvKFU01QFjTF/Y+kjPWmds5F9uHK7yJjAASwAqZV8zmJYy0CWsiUWrdA+dIEJ6kEY4t4OFDPTqqW0HtQZ840waKgfXhG8dDwYpP3Rccq6DGIz8Lqcq7bWWEq5sgoua/d096JURJj7c8E6I6A3oqtpQOirw4W7Y8+NHf0hB/FsLHJl0tuBm8QwujPB2/VnyDzHWbYYOr4WSDFge18UUl3sKMJWFTtGTd2/Fxxg=;TMdPIFemraxYSl+LcQ17uA=="
+secured: "gV2cl9U08uGaeAPvbuQpvXXVDs4SB5IKpqbZwhPrQW/yttNpKgzvxxAUf1UIGqfek3WemUscdp7YGokZxhTd91uV6XzwBWdlDb/EATYoa6uObY7iM/MeBtnBSFC61YsfKb0liYCeyuD810eCFFxsSyNjClYPiNcHqnCVWh3FsAYBBu97Q192RVZY+F/bMMWqgAbMhBv/+kED1x0TcwNx7XsLY6PB2RY2efzi5SCzIkP7dWEjaiuLSE9cB8o7xhNakQyFPtd73qHHu1QUHIqMx1CaLVQDaUB/8uF0KgeMWZ2moRt4seJsgdCMZhieBPOirJV4Y+4Y+MslFTYpHIJO4wRjDyCXA2QREMG9ZydPXtjhQKSI/wQp2ZTXihZFP6vvt3Anj7vVTIJqGwOhO6tdsA==;EiuC9MdchPbn2bA9l5brMQ=="
 ---
 

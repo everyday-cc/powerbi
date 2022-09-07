@@ -1,14 +1,14 @@
 ---
 title: "Create Power BI model relationships"
 excerpt: "Power BI model relationships form the basis of a tabular model. Define Power BI model relationships, set up relationships, recognize DAX relationship functions, and describe relationship evaluation."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-power-bi-model-relationships/
+webUrl: https://docs.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/
 type: course
 price: Free
-length: PT45M
+length: PT1H30M
 ratings:
   count: 49
   average: 4.877551
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/create-power-bi-model-relationships-social.png
+    width: 1281
+    height: 641
     isCached: true
 
-secured: "OVDspwKyyvlzJnC6R5VMChuxBTKjg7AE/ENEFzViLp/K3c9SzuKbzEqIgP++stACZVxbzZMtd0xgli8H+Np+nkb8NBksSKvkdXxLdk1/uOXHA4rsLjMrSdSKxHdr6nXUGcoO7KxdQR01ZloVWo8lBQFTcgwMeUQGZExXu4sw5egB1//0gHG5Sga7AfCWCrDhgMYmpApvFRSHruW8XKJUx/oyH4T/QFLHgswEk50QFmq5gt7LBxuxsBPzbSPefdt7yl+/p5oCVu36f9JeuM4NxanztGrOWdzzdzC/rysepvSFzezSUMjf3l/6P/2WlhTexgjeThFjg7mM/jwJTfBOrDkGn9q5BPPuL2NCkWNKj0iM5+dERiUxVjDnfFa0MyOAn8L8w0u1amBgaqazK/NffaD6ZbmZDztKvYxVcJ4sWJU=;uPEPQk/N4ICWxzO6oPpFoQ=="
+secured: "vk48JcD3czT33VkKrh40YiCRKgHxa2kirRSGstMPCf5RrRMRHUBXl+RTSzzvWkjr+V+7i+uZYuR1ln0Am/NAF93BkCIxb6TWXdM6VTWckXb3eT8dTe6E/XfMpoGKNKVGpjKJ6z/bIepCBO2m+6uY8RrgPpSpkmkdb6r3w7qKxuZys+f+bZHbA71Uov972utVAGZjJoG3zBGotOC8Ei22kh3S46NQuSx2FgGikf5HNEnyCfVwyYaTkrlmAB47YYSEsFf2x3bF1s9jqfAZoL/RVnQ0yjfyUm49XnWedj0t06qgjGKq0NyMcEB0NPcp/2yc1hz/CyS5T3xCcuyq3qih+NtYI371usbXkrfvwI4sXlrjiLWts/RGenv/a0/GpJciUBCEdccJGe443PbIy2erBQ==;4v5znvB/BLtW0osQW6zF5g=="
 ---
 

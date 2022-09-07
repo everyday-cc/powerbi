@@ -1,14 +1,14 @@
 ---
 title: "Understand advanced data visualization concepts"
 excerpt: "Create cohesive, inclusive, and efficient Power BI reports to effectively communicate results."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/understand-advanced-data-visualization-concepts/
+webUrl: https://docs.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/
 type: course
 price: Free
 length: PT25M
 ratings:
   count: 65
   average: 4.8461537
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/understand-advanced-data-visualization-concepts-social.png
+    width: 1280
+    height: 641
     isCached: true
 
-secured: "zP9203lGehixhp9vBWObHQap1TZ9RvUPIl1Fnxenmj2swzhhQiH+QHNMLpsQfOIvBs+UKI0mNB8ipkV1obuILpQBcqUYduvED/tKPi4qdrz+1ePtt1TUxzzCT5A21CaY9mYSsuWkoouynxddVzwCKG2Gtqgif9bZyVZQW2twLRtx+gYXmqMwN4zxmWYpsgmiU5aJAN4TvYLdWGYcQ5v6tYxUwWYY0/Ugj/TE/vLPvH4lQFfuCJl9TG0TfHZCelCajUhS1oRNDT8PKBHAMrnvoUop7HNf6q5gyC+Mjq5Act8WWgorFzkKHZVUtJWSShZaI8VRGIBXI0XhgNzPwLAjzVk2UgwDGggUBa2g73GwxX3mWVuY9vKPYwR8TSdCeRGE8i5fxx9BuA8Y6p1r1EtqUNIgrjH8b9rEQd15fHM6XUE=;t0sdg0iEh1A3pXufad/neA=="
+secured: "3fCvuUOcWqMrZ07eq+CoeD4gxTIP//U4hO0UHBgICjmMsZsUx6mZaK9oDir3Hn0jPo12NXEqDFH603HKS11QlpdYDPxM4q9dmg6YXT9LlJuPUEbrUjBLZJyAttCG4o0mS83kvuiN6xD+q6cChP2HQXoP+klP/Zy5En16SK8PEAM6T7wAoDqT5PVxC6SRKcuErd8XRg1+x5qJcgMBFu+yV0URQN1mQLgLfZKoUglCaUGAAlYg7yvYQb0GdLM3crWyZLk/EYCQQb/PgYBOUeKrmoJ0Yle4MF79owdijfrylkimUo2lNyfb7rch927EN0BYDfFnBeAojMlHo/faDrWvDCYjvdHze7cALgYQDQEpccbbOti/JDesPsif3LlsL+MCKseOmTml0WidrYxiuloxwA==;In1JVZntgZgWgChUDvfjPw=="
 ---
 

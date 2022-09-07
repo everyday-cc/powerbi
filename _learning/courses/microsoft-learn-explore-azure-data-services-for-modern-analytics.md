@@ -1,14 +1,14 @@
 ---
 title: "Explore Azure data services for modern analytics"
 excerpt: "Understand analytics solutions in the Azure data ecosystem. Explore the architecture of a scalable analytics solution to meet business needs."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-azure-data-services-for-modern-analytics/
+webUrl: https://docs.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/
 type: course
 price: Free
 length: PT18M
 ratings:
   count: 160
   average: 4.75625
-heat: 51
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/explore-azure-data-services-for-modern-analytics-social.png
+    width: 1281
+    height: 641
     isCached: true
 
-secured: "083CNiv5ws9SQnsOaFHEGCS+kqwcJ53spR/3VMQ+kaYTkbwTeUoEh7uynXEJ80BbBaCXh8vQ8AoRfPVvx4ropjpBP+v8620aE4djvLGd5kyyALPWYXnOeUB0nDhvf3qTKP6kcBj6bXwnecWfCou8+XzXOwxF4QLo1WftAeAyGMupb2N6hoaxLsRTiwb9edlp++Hta0330QEY/xUHmC8FlJHyrHxvPxwGvoYfYx7M6AxfylN5UCoFJJ9nu+YLzCdU3H9ev8uz2mHYD5ON+T74Z7AjFWxzJqvW1fyfJKQ8XjV/ExOIvF1xK9zlVLeeoFod5qmGSrYaCi+AltyJlAUcn5isGLAEzf6RmUYoLfDBz+ViCrLlhCIMUq11+4wQkoV9/Zu+haj3S/tVpRXmRMcWNOLALlJFj8n6Ayf4cuWwvxQ=;hCPbcwRnCyi/TK5KjrXfnA=="
+secured: "F/Do4TkC2CWroDp6F0odBjzb/HeHqYKgp1EZRLG6y/eYyjbkLYePmm+Mctmeo2qxTYtsXC96O7YfRQqhC0MOWu1Kz5xebIISujSgqPgv5LjAtBEQ5ihcQkbLFjgxtakEK0zK3kwf6G9JM2jHVlqj28fl9+dzmcWUZY/8F8pGcyB5PSnGa7TZ+DZ1SLA0os4vUZRniLq7O5ni4VJtKt1uu/wzYMd5dz/BKn0AII4zZTAh5a7VFInhucHxdwvGYWVqOVy7IZzYG9afDQTIAdHJuuJVehgj5s8qK/SIAVx7yifeSt1BRLoodmDrR6t91Et6PP9tNoDO/fNV0x8Orz0kSa5PNGLlDXPtcCl3Tg1TSWOL4S5k2LU7VgLIcUjlEvVYJ5k5bak+6SBQlMGtpII8GA==;LPpV+8HjhmoruzzIa0xlGg=="
 ---
 

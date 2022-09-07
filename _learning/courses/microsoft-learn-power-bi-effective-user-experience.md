@@ -1,14 +1,14 @@
 ---
 title: "Enhance Power BI report designs for the user experience"
 excerpt: "Enhance Power BI report designs for the user experience"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-user-experience/
+webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/
 type: course
 price: Free
 length: PT59M
 ratings:
   count: 248
   average: 4.778226
-heat: 50
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/power-bi-effective-user-experience-social.png
-    width: 640
-    height: 320
+    width: 1281
+    height: 641
     isCached: true
 
-secured: "dbidlp5EmdHnOb0NPqtHOjtkPXekv7lo23nHSLGC/OpHw6Tj3Pm12lloaCLndyhsXzNKh6qmpt24+zqiITGBX6Vo/e2G4gnwmMeZK/73pKU80k77UkqffQyFt2V3bf4UiHowW7m8WDC4Y2LrUZvMHJ5fl+/rmN7GG9iajnFx95PKEmvWlSDKc2m+0nz/4fjDPNWwj+m8dvbjS/kTPTo9bnQHFXKSC7pRIf1rKd7BPN65EzHczCw7mrkXyty5eojrJfvXHTl8tEF4njvC00iBYZnkw4jPVplfjLB3BzYPoKNVn+3nqA2iigPX65PDhNuW/5P0Hrlit7Boz5tt9YDgygEHXuc3dvJnV+/cwfnG1tfIPmvM8YxmfwzickEaZCw1QQF3sSVgydDkjl/AAENVUxv6jCv/a4rPwg36kt6656E=;RuRr8TiZ+f/AQ3yuI2Drcg=="
+secured: "8c8S8fEl3srWIW0WLj/Dh5tP3/58JsbtS+c596ULxSbvn+HYpRMAWtebKAv5Jo9UhTmgrFd2M+zAbmexkehBenbE9S2wW+WxUqwxFBALQyOHPhuY+TxHffEgc/U+xqBfYn+Q2/GHCd8JDmeGIHjp9Ystp3E5SPqPx8EK1GD0ZokjUz2jM6Njl0N7Xcxko9FWRhU4fl8JydXgHz213PDlUcABNXM2rgtq1IZfxl5mctp+amK1LN1RuJtUsg8Br5tYipghTnpFLtZnzio1XAvcp0FFuwVbNg7SQAlcm2hhd9La7L+jKswLOdqcVB3agOh4qGp3mz9e766nhP9s3HIgNy5Ad5fsHh8wVHKddGaWwQW+VUVHnZh09KZs6zDeljunl4elO1YegQt7vPFspa0Ckg==;YY3jkQTnha5NIokXfXuaGg=="
 ---
 

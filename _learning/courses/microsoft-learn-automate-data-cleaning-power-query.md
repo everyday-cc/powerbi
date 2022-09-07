@@ -1,14 +1,14 @@
 ---
 title: "Automate data cleaning with Power Query"
 excerpt: "This module introduces Power Query in Microsoft Excel, a powerful data connection, cleaning, and shaping technology that is a core part of the Microsoft modern analytics suite of business intelligence tools."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/automate-data-cleaning-power-query/
+webUrl: https://docs.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/
 type: course
 price: Free
 length: PT1H29M
 ratings:
   count: 386
   average: 4.816062
-heat: 52
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -27,10 +27,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/automate-data-cleaning-power-query-social.png
-    width: 640
-    height: 320
+    width: 1281
+    height: 641
     isCached: true
 
-secured: "QCRo8KeIxnu23zrZh3f8NG22mEvBPHTAdfbQDtrjWtYYkbX5Yk4VKu6tZmp8kRbOTczuqELCpSbH4HyMxsqQFPYWEr+L7YtDLIOoTPGltzcvAfOLZKPHm/ey3raLF1tOTk8H3l/svrbExkDd9uJ3aOAcXr+Ug44PE4ARnbIUu60rNyBcfRwiqDA2Y82IZdq5Gz+4OmNill90XuPCNSIQSmLafbV9WxIEvUvV0VOpJrE+XJfCKNWivBPtI5uSWCFR7zz4XGJEuySH4dENn0o6l4Own2/C3XfCZBOKKFzP3nQBbPnDrLugJpyCfxe5cucjzNpMcCVXrOnEPdlxfq0oKuPONnHRvq2YEY5CmMbcZDGR7ZBw8Af9bf+Gx0/DD3iRu1OeVGukJlAH/zRcTsE8qvm3dfjxuZTT49YZrzAZ+Ig=;x9z9aGuMG9ILZBIiPMQA+w=="
+secured: "im3gQgeBeGi8LARhTY3sxguLN3c2BiL2e/UfrO/wJrx76SckC9CZkolqI8m6/LZLwgkuffKDvJMGdPMkCtkfEo2M7MJHi4/lgleerB7w5xtA+yX4Odlu44yuMLF2J5hB6u7A+5rFGYfN2032EQIc5buNm/4SOTcOCN560EZAHnosGEtvXvyqt4iUmN4RmAd2haBr0N3jMBTj/bitoQvKuSad8RqVhGtKBG3mAHJgLPChjqpA1orF3Y4Lr871Lkcy67Lx0N4HeLn9GjOj42VGfriQWrDKE9QH+B0d7echh1G/Uu6wnT/No6wJ6iPXTFSYTpPS5Hhffkh9kQVmxYNHIlhXUo8DrfNkd0vbW9AAfRrDzdyD789Gr0O6oFiEhZWON/8IF558ibpGs5CLDZs6uQ==;vBTPzWsZDuBKud04BX2GQg=="
 ---
 

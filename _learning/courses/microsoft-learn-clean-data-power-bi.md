@@ -1,14 +1,14 @@
 ---
 title: "Clean, transform, and load data in Power BI"
 excerpt: "Power Query has an incredible amount of features that are dedicated to helping you clean and prepare your data for analysis. You will learn how to simplify a complicated model, change data types, rename objects, and pivot data. You will also learn how to profile columns so that you know which columns have the valuable data that you’re seeking for deeper analytics."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/clean-data-power-bi/
+webUrl: https://docs.microsoft.com/en-us/training/modules/clean-data-power-bi/
 type: course
 price: Free
 length: PT2H1M
 ratings:
-  count: 15321
-  average: 4.772926
-heat: 68
+  count: 15323
+  average: 4.772956
+heat: 208
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 321
     isCached: true
 
-secured: "pdoV5NfdiNJ6yvZq7IiOYpIFX4SQe0OlKe7u8DLxeCB2rB9MHW2a9gf3CPL+gUok6bV4RunI+TH7sCq0/pxePFY7Leq31vQXYaUsTJe7NhYcOVcj/YtIOAdHprW0012b00oolASdqobBWpMi8g7r3s2vcHbKCGvZPv3FV2/Sq2X75fZZKMPujgJMaRj9NVY7txvs+ti2+6Lm1Yt4M/CphsBVAro+liDxinzzOP6zJQhfJw9ERoyqBDl71Do1xopxXccmt5r+WaC8VmwC6ZKOdVMwFtSC7vts+I6gVkGmG4g3w0fpVPgiG2HgeTttJSc6hedQ00MFaXXkKr2pXzxwacwWeVGw3mcczitg5eL5/DZWijg2x24MCyCxwuBgIkhZOPTU2j9uGZOPvp3wENm0w6tnE+ekzG25FbKpehm7s3WqzPgTtla3SDJRZsPaVeJM;w2RlUBApIYM8Ua+QUkGA8w=="
+secured: "uIhIx4Jet+qKfVfD+jA3rED/OebtV3dgzSHqAzEsc5DmQxlP4usJqYsJN/ST6frgzSNIwNiEah9uhy/L1g5Lze7pY3WKs6jzEfLtDQdiH9lrlvqncFRitGneZo342yzD8TWtoviO+VRPWH422yVfjIr1IBiUuhMjjYlzqXxnMFxAMaBfaJauSzXUcUmlFvNwFNtCCNFXqwbFHb6QM2G/GjPoKRIpp180Jgi0sk26GveY0bm/vDs+hX+wV3H+OhxixJkx3NJ0iCbIYT77dwXhyXV6UH69ZACnn87PFV5uMzqY0Ya8VKYgkFTRcyisLeulh3R1RM6H3upZhNvpgFv7zJ7aczVcwC/FJGMEZkoMakR0yev/Fp+bjdTjteUWH+myExGoiLmwiyLDz+YBLOveYw==;wxbtN44ES1n+yyz13Tw4Yg=="
 ---
 

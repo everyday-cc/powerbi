@@ -1,14 +1,14 @@
 ---
 title: "Explore data analytics at scale"
 excerpt: "Describe data analytics at scale and understand the roles of a data team. Learn about the responsibilities of an enterprise data analyst and what tools are available to build scalable solutions."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/explore-data-analytics-scale/
+webUrl: https://docs.microsoft.com/en-us/training/modules/explore-data-analytics-scale/
 type: course
 price: Free
 length: PT29M
 ratings:
   count: 106
   average: 4.726415
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/explore-data-analytics-at-scale-social.png
+    width: 1281
+    height: 641
     isCached: true
 
-secured: "a8snErzZw1O9g4EJd8huXO1MMCti/EJpLrbHxdZsKkbP7IlpOu0PfysjQvSpQ2KSG4K8ey184sVS+urKGBS37N7Rz6JkIfzpKKdiKX6LvmNQ3aVxXZnqlVarP2hCkCxsLnymjbFozVzpEZCuDO5FFiyEtkEJ1NNFM3o9M2Glmx5fKjgT3Oukf2Ho/psN2yuQGzTjPSkWC7nQpnJ1M8DoN8cBl9Ln+VQwpy/3FiCJaiXC5n3/yyeOD4QzNHv6+fXvTgQZuYrCI7IB5fu87ZrTpl5Ew+SputO163jZM8stK7ekDlKLf48rSfgOXxQGC7I3oFFM0RXrx5qUEsI3Ah/jdVsk2yn9jm8TEmpSAF3dxwnLjP5A7UuVkYyTttNG/12ZiRiKcGVCSNmlM8yeaokof+Fn72tsYNKvt/9iBa/4CrU=;i5iGdfpZsSl4k5EreusrFg=="
+secured: "Bkh1OM8q6k138Nz+WnT95+GGPQbFVNhVdUN4lhZ50ij4/sen38zMHJ+cdhCXfIZBn7QzGS+J2zksAC4tAWW0PHAJSDqOUpsM+blOb6l7a8O7Jz29uTZfAPs+scMRvu8G5R0k3YWUQJDinOqYTWKylPwXw6rwOL/BN8kw8rtQqimgzbF1UojfAt7CQwMfUC74/mD1QUQodR38Y/k8+1F4CYUCfoRZhwU1yMuj4PeMSduXInkMloi7lQFucLyUiIIebXm1QBmWxBSfDmbPOdZOz/Qn1cqxY8SQ5MhYqwXy0r2Bb+mxCmba86nmuR1GUc9+mD5KZbVgm/h5aEW0St+txozHqEXnrqu8sXGHg5B2XOoydJjLX3oxJeVYjCelSMuITZsZZocQ+pJ317U2R5hGEQ==;ZJZn9Esx+ltYKwzamev/fg=="
 ---
 

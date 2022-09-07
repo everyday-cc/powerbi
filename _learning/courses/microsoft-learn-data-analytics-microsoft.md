@@ -1,14 +1,14 @@
 ---
 title: "Discover data analysis"
 excerpt: "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/data-analytics-microsoft/
+webUrl: https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/
 type: course
 price: Free
-length: PT23M
+length: PT36M
 ratings:
-  count: 45288
-  average: 4.799329
-heat: 99
+  count: 45295
+  average: 4.799338
+heat: 281
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "gimSPFN0L8xPmYXhMS6NN33fMCJ9P7Gj0ejG7r5/7oyz49nvZhkDfXI5vGwh9jrCOLgnwLeXm8pEi/Q5cehct10BVfQyki2YRRyZGJwYoDrrtqPP3+XpC4SlKf1E7jx9Vs3SP/IGGKQauTFAY674TIvumlnOfP9HGQFHVbA5s7bEd7zQ0DwVLvEsWlYNL2+8c34innA7VGzB3ejjEjG5l9wyfHRocXcfKza0f/jGX+e9447AluVuYIv1vlUg0t2TK8vHObis4TydykvsrrL4f5x8AdWBvEVT72JWqraqlqwoOio9oHPIl3c5TlQLh5B1TUW5/Cwlo8wjcEd9y+D0pkRQDD9XsC6rwQzjsManPK94/oA2QHKaXMRxz7a3QQtYmGvect3WY9Tdnk3NLrgmCRndGDJYTAbtNV2Iv7tkl+qBe/lar72+Yc81DHtM7jRP;Qb1mKDG75ZpkHjwtYw0xEA=="
+secured: "9472lYX7JSHtNAY9oB+gUqP/zKxrDkFviMyBbBKliZZV8kl24R8BqyyazwfkoW2bLAqw/og41xmZPQQFCNx860w1sq3qTolLu7bfQY9SPd5/BK1Fz/xPmZok8S7kznpT0LbUq8AGI7VZ93Vxl4xkRPCx6wKs/ADFIgiyqFu+MyCL5BvSCOU53Nb5oxRzmYzeuW+NDE4O2+xyLd7OfCYIItcW37Hu3aah5gmkYSO1OlfQt7xu30dEBAb2XHw3k3rrQA6kd2D4ih1BwUQiX1XAYG5i0bfIujfpq0tcTUvC1AS7SDcxXcCm4YuwLD5lqkUJaEw+livqUKMZCXWKU5PyRgiuVKw7SqVTqeyf6NQ6Xfu6a/ei3EruoQdOD9tQtGLDHBZglmXARk6Fyq5oy/xdsg==;Jx3gS+YJnZ/PhWK2/e6P+Q=="
 ---
 

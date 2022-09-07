@@ -1,14 +1,14 @@
 ---
 title: "Design interactive data experiences with Power BI Desktop"
 excerpt: "Power BI enables report authors to produce interactive reports using visuals, slicers, bookmarks, and more."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/modern-analytics-interactive-experiences/
+webUrl: https://docs.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/
 type: course
 price: Free
 length: PT56M
 ratings:
   count: 149
   average: 4.6644297
-heat: 50
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -27,10 +27,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/modern-analytics-interactive-experiences-social.png
-    width: 640
-    height: 320
+    width: 1281
+    height: 641
     isCached: true
 
-secured: "776eLpptVtm9HlWAQlG1BXIB4NiwBc+ptM59/EDaKS7OS1RqWtfvsx/v+nIZUacGnNB+FmC+eYPBEpo5+FprRen7wBip2rJmn2lXt6aeFbuh33v8qqvmVaNIXywMiT/X62LEjXqexurrPv8d9AwI2ry4jVQ01t0G+UdRcNUtqm1s28wxIlS236ZJZ5U0a+16NTRq6vSYegq8YOOBZUKr6C2tnZDKcV3PCGR7TceYgAUhixzfoZeEwSACQ4YzxuomZ9TYHp5BX/g+VovyTPkeiVgvs557o7yuPtnFBV+nyFs0SRfpZceFgX3zPU2ZLh+UUk4HiKRoOyqxga+JAEmtPJ2vgD8jXLziuZZCCjPBxOoZEcfJRHDxzvvVgkd9nF6fZlqY0AR8wA9qQsXuyYijT5YpNjpW+Vc/LY1ToBFX0Fg=;TNM8Akdy8wJT6MPgdeiArA=="
+secured: "UWxJY4drUDuTqr2nIKi/OA5h2Jr6tPOXhZprjZyXuyEGY3DKxTf4j5TTNi5JLSgmqndZuNa9+nAHjEkxX4qE44KJfsNj8PbJBaYRC3er3Bg9QjrP+t6GK+gxtl1+MQidcH8BcjEZm1RIuUzKccr2XYmAi4LUqS0jHRiLcwk+TM2KS0LtljKZJafDOrM66eucb581PKA8QC93Hcnv8IRBx9jYhlwmJN7ZL0l5GFKyrc9zwc1ONkzgYqniw+sS2Kfmr1sUhkUJIoBJgXw5M4kXze7fYVUcM+0+GnPz0fALSK0JMySKvHOmJc+VCZsJmPqdzw8LQa2+U8Q7m1zQgl+ESYAfoKRuxURfKlzHqoRBY5T1I5wki2lQ+lqPmKO0m0vFas5O2JWQXjpVZQc9h9B+dw==;sNreUBGqZOLB+tICsLgNmg=="
 ---
 

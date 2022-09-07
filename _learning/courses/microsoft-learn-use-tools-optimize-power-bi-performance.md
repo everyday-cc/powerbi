@@ -1,7 +1,7 @@
 ---
 title: "Use tools to optimize Power BI performance"
 excerpt: "Use tools to develop, manage, and optimize Power BI data model and DAX query performance."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/use-tools-optimize-power-bi-performance/
+webUrl: https://docs.microsoft.com/en-us/training/modules/use-tools-optimize-power-bi-performance/
 type: course
 price: Free
 length: PT1H25M
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "a27XmM8p46JaZ4+e54YEddxTLkPpZadYglvva+mYHZie2i91vDcoTVHJxxSnfT/tQzYnGjXGzrnAIErsExd0v6VPNRHfgBp/DUjHNObHdGROOVgXrXVBYMk94nVObDvANmN6XrLwf9dU+DIQsJhm0MSnG2+CvGUcar0r58bmUQMlocEqgK9+UkxVPsEZkHGgX34HnYf5aCgUJTjkbccD1GE7kp91LyQflxEUrvJnU0nTV1/cS05VJREMu2jB2EMG1hMHyVm9D8SpV/Co4a5cibbG+2uic2hed0UaAUPwrTCYX5JIaVmaDWOO/no/lCrb+CyY8yjb9woog3d4MKvj+zDJUbnQuhkNWiCw+WeGneW1IUP9N1vFXYg7yAJmBsnwTMCAaWzS5bEAoiJ2Nd3NJDIroOzAI7iWxe2lbaUEyGc=;QM2t3mTg5uNfSl7zGtFklA=="
+secured: "9hbQjICXi2DaGg0GTxFRJB5Yfg6Bx3s0JKIM8VfIG9+FSGGrTz8+GIG+nfht2l4EaVwYeiD9SU4cXV7H+8VegPTyjtAanPtqNiFU4iW56qpBgFPINmok2ltJGxH606UNeEvM5WZ/bp6k9NaNFFvZ45DtY+bc5+7AqBQTpLE3OhtERryBk55n1GdZu2MV/udikoaq9kFqgwXZHDGYpPYGPwDrVerzpGyPFwDTCgaCom9u6iSZJSXHEy5Vv58vHYdb4RU0LxhEVaFW7OETMx1LiGeiwCuRiBb1+GohkufXvLvzB20DtpiNUAdZgvu4cdrUcMl+f/hyYNeuxgRbXM4TwWGMvKjVbrajb5e6jFqZUPbkO01WADfFsAX+rJAocvJVAIYOK2vb3kZ3P3QX+JcV9Q==;aHKau1QKe6iRxtztTNKaRQ=="
 ---
 

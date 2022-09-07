@@ -1,14 +1,14 @@
 ---
 title: "Design Power BI reports"
 excerpt: "Because Power BI includes more than 30 core visuals, it can be challenging for a beginner to select the correct visual. This module will guide you through selecting the most appropriate visual type to meet your design and report layout requirements."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-reports/
+webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-effective-reports/
 type: course
 price: Free
 length: PT41M
 ratings:
   count: 790
   average: 4.765823
-heat: 54
+heat: 74
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/power-bi-effective-reports-social.png
-    width: 640
-    height: 320
+    width: 1281
+    height: 641
     isCached: true
 
-secured: "80ZFt59LhkOyxn9C91m0o3wEq8H1nIJs3t+xecPtmAI01uP7R5WeadIT16u2BiGHFixUGZIB0QDa+KFloHFPOvBv7fudCosPPj0rkruWO7pAcPYOMzTVgjz1ReY5nWEvP864FzVC3qi4PTxnfsT3vEpVnDjysuRWVX0rRt/cVLefO0MvyeX1EK9rMOsVRksTmfE/bo9cojTLdGbyKva0cTCnVhrBopB3PqzESbIbkSrPGCmvMK16bWqV9c4DAdrOunQ4aPFLVtbCVHUuB1hqIscZShCn6xN0Cr7ogXdU2RHkEW2zxRjnqDF6+9SUBzGLDPiw5BR+0qpLwIrqZUi69WDiDPhvCqM39ZhL/RC5uPnG1QklRVDsBrh2949s8LAz5IOD/rNGiQJw39+4/a9z2FzlnFGubt42k0A8PVlZU6I=;HU6+XB3lqpTln25oEFPl4w=="
+secured: "7w+sh2vMD+CZKg7O99/a7UYdJrn3D45q58ARbHsSR/YubaM/hXfK9vvxDXsXv8y+yhj3V6Roy+DSxeGycZ1t5wfjUQJvHG0KfytTw2YrFubYqBrD/0d5Exip24S53R0Epc8qBVAjRw8Xqkl61qkIYclnXCiIHG3YtQoJbezlx6/IjIGRz69gkwlLTeWeAImkV9+Djd0/Ic37f5juB0Sf8kPO+h1z0TA8QitmXKkDMWI1OXT5CWDLdxdDUW9QH6ahm92SM9D7EprtpeI2Y/U3jkcSlpjZC4oqTaYq1XB/vA4MQM/Vk1OdalrrsbJI7pEmttN16UNt1bB+iN1pZj4HS0Du1MKXNChZdq5zdYojazBmA4oUW7BvG+MD5llZWbH1wmAggiwcp8AaaPZyTAGPvA==;cs3aBhu0Ml4mR4OlFaIZPA=="
 ---
 

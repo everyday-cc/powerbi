@@ -1,14 +1,14 @@
 ---
 title: "Analyze data with Power BI"
 excerpt: "This module goes beyond viewing and exploring your content and explains how to interact with it by working with reports and dashboards to uncover and share new business insights."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/analyze-data-power-bi/
+webUrl: https://docs.microsoft.com/en-us/training/modules/analyze-data-power-bi/
 type: course
 price: Free
 length: PT60M
 ratings:
   count: 10078
   average: 4.7047033
-heat: 51
+heat: 181
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 321
     isCached: true
 
-secured: "KOzk/AyckoU6EzTblRUTza2eMKXI7WVpMoVqJ2Qjc7tWV9RUpecmuiEnarUIlVyoQkRX2pRpt/rPH75H6413OsBSWCEiMYQieuy3hlIp9U5FAxBavgn3kQmY1qbaAbV+kOVSPubzJGK8x38MdCWg35gLL49JVEGOVaiEOZUd13P89FWhYCnLQhSxVGpFMyppcO6AytOCLZ59QNRURW8LdAnxpfp4FphSBvMPW+JcUR2NG0yrEfCyguFEWzwHRGgicPt/CgYRGH1zgsEM6KjLdgwLXXObPYEW6hUbEQt+21M9k5myzbnwr4ABcnvVm0HFtzzbPQFgZ3VyBFBtWvoIW+RA98jXaOjhBmb1BTyuFGrJffbaUDTvDylfD3U+bylPDZNt4S37JCUSuDL7dSP2ymPucTP160C/HWiP1oiDkPg=;LWVZD7PGSLbYTFL6Kuxy3w=="
+secured: "0P+pmUIYY9PBfRC5GUFDc8CA0xzBD25u/MVSo/6aoYXW5e/8EyLSobrqe5v0TLeeZLN4wYNk8FZO+TTh837TgkwhIpOlUwKQpdCXN/YLKYUyyPPWIoPDpQYWmRGDK/SQzpLgD2Nrjp2o5yWEmuRWNxakew5WtY3GBxKf3DaQwSxtlK/hCs3qjufrUDcxVi6wVvl0OPpqC1DbOhgdFs1OyLW4tav5fB1szcXqlgHcCxlCzWwWicYHCC6ZsBa5OOvrzxCpLGcq+SBygN+ai1EcY+6wFaQ4lVDxKSoQQehzrpmUI53gSJy/0Lw2FyElFPawA9yAYUSelKJMvtLvy1z+v/QcXXJgoExtux8XVdm6woYLPiowPtARIXzUJIctyEWBa7fLKNZyY8EBYYbz/mVJAA==;q/r25geE+g8Eyfly9RDTcg=="
 ---
 

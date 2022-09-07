@@ -1,14 +1,14 @@
 ---
 title: "Broaden the reach of Power BI"
 excerpt: "Learn the various ways to share Power BI reports beyond your Power BI tenant."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-reach/
+webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-admin-reach/
 type: course
 price: Free
 length: PT19M
 ratings:
   count: 77
   average: 4.766234
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/power-bi-admin-reach-social.png
-    width: 640
-    height: 320
+    width: 641
+    height: 321
     isCached: true
 
-secured: "OpRch+Gqr4cWczpJvI8owg57p/LhNzvxrhJ0dngGLTvAzy1GvbY8kzPskUqb1SmVsakDUowEQ9r+YlIT7QEbrPTGS/po417HCSe1adXITvRKIffnSOwCw/lBWSnv6o0b6/NhWyRFB3PoL631aG61f5Dw2nLtNc+iw5l8DTZ9Np02tLLv9ikvKut/7spz3hhGXA10ffprQi3dNsrW6zupOZbOexg91pg51RqZAwTi/tj3lm0WpdDKkAkNA5AotOfrHYMxP2u7dicsjg6p3LRUtd8gJDatR7cHtYv9/ey+D0bCR73eM8eBMam6IebkPg51/jsTFHZ7msc8XH5a0Ea/WmJdl+nkkreY4UQTWLTempqpWIVnCeGFSG3Pn0G3oX7HcHp4Ta6PYW4sWm4ywtlrMCF3P9iQdlnd2SEvjc+9xBs=;MooYYl0kv9I/Gc7AgBkkSQ=="
+secured: "nNlm6LJvRGWu2t6RcskBUxbcTreulNHOVqUhjTtlvIQ8Tfm42TPcr++nzqU4qSqmF0We8a7kL/o9My8uzaQK/3gMnPozckEk3Z61PqLH8VI2BNCuTC45Zcu3mP9AfFZvON6dXw7y4VPyaK631DEkHxpBKqOJNlg4/AuVPOvgnYqnLrcWgvJR0qZLv4/xChuIsqZO8XsGfeVU3+QJSAh3IGsKL+54zkAe5vxle9U9SEACvr3YqVytbjPRh/DlvDpw1eIYpgQpYcqba9o09JIcTZpW6M6K6yoYFTHDCLGsz76AZrcY4dU4xSuBAilVXWJNx+Pd7/YM1pfQQzMso5OuxquGeWT298M6Ls4y9n8hNNeM6ONmqRNqqCR8BexxogZpdDgg8UVUnvBtmseL1zPQ+A==;cZybf14uGmss5dSRjIr5lg=="
 ---
 

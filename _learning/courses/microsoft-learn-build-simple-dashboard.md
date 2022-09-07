@@ -1,14 +1,14 @@
 ---
-title: "How to build a simple dashboard"
-excerpt: "How to build a simple dashboard"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/build-simple-dashboard/
+title: "How to build a dashboard"
+excerpt: "How to build a dashboard"
+webUrl: https://docs.microsoft.com/en-us/training/modules/build-simple-dashboard/
 type: course
 price: Free
-length: PT31M
+length: PT41M
 ratings:
   count: 7239
   average: 4.727863
-heat: 61
+heat: 162
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "PS80f4CNnYDS82KgWN2dqilG9/fZ3RuO4d0IE6t2D9ik9RsuXVBSWleEb3u7xdSAfe8oyF3Jj81MP3mHvNPSp1Rc5cjI89wFkYYub4NMoXTnb/fTiz6GTeOroPl5lqNgF4p2qhgnqcapMfgVs3HJ1RM95eyff4kS3WDoYqnO4rFsOX/RlAmIP9Q3z9/a1ZUS9Qm0lIvrrQI9pbkqsc9SoI56QSxvHR27duIRuEslVrt8+V1STZMCZkOTSOfCVyh9jyM2FpCn5w4+gLiJ1GG3TBVyTmzixy9iJiqFt862yHmriP94jCD2u8cQOvD9rnEoKJixlvNrVqofdIjaF0pwKi3JrjglFNlec+8ddWyi67Z/LlLvs08Vo1KfX631yV5LxRvvlGoLzphAWuowG/JvY3fly9Kn8+7oPDQ1i+E4CFY=;pn6Td8CGxoLNrm7UyEm+4Q=="
+secured: "RLsaRr67RGSkigqvEk1MgYyWnGXutbcetB1sn4d1nbE0FC/EzpUxkXkuwYJR16dOetw9yxuC+cCYvlgQM1ZnbxClFiFKycZIRPLCvqCCuPPDeS1fzec+LPRVBqnFYQCmYHvFC6wJGJqqkL0iBjNMYcbr1Ew6Qeo+Z4uQY4fgz9IjvZiYi/3Ek/8408CHPf4Y0YHMF1tryMhbff7MuBiDqku8IbCcdODJXVKiKhhh3labObRpIRhIyS3NQSAyEMVSuq0jLQMWSKzm+HGnXcvHpMDEZLA40h67Ph++EZxYy6qMBeX+qV5Fst7r2ojJj2K5EXT0B9YyWJcKtGTISe1ikvjpuCtq0TmQLfoBeXxmCklJCPnUkewWxi+RZG90ig9KLqRJsi5HjTrEDNZwm5HStA==;5J1Dm52PH9tHuKmx2xdVjw=="
 ---
 

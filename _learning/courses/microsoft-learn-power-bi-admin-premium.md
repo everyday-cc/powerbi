@@ -1,14 +1,14 @@
 ---
 title: "Provision Premium capacity in Power BI"
 excerpt: "Learn about the differences between Power BI Pro and Power BI Premium, and how Power BI Premium manages capacity resources."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-premium/
+webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-admin-premium/
 type: course
 price: Free
 length: PT19M
 ratings:
   count: 73
   average: 4.917808
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/power-bi-admin-premium-social.png
-    width: 640
-    height: 320
+    width: 641
+    height: 321
     isCached: true
 
-secured: "Vq+4HDP/lDazyUFaIjzLt1AkmJ6RQ5y5ghwd/fU6ULEICgR6JB9F5SFA6NjgBveVzrX6jFmiUUooQP/igGRO2Var13EXzbltrkjNbnT186xocCbM/g+/JTq7FWsmAvjVc58f0WvzfUy+awPm3SjuW9Jwlg5VRMvg7+ZN0E0hhKg86O5nVgNXLSNlYrx6exZU8S7FO8pPXuXAqE+8eTW4VI07m2ioYXmLfEfW2T4y56zXE0mgpVFKQNvAyZg/BuFxM+KSdr534Yyf6dvXHkbvtm2nnqFNgp6BRo/6CWcnWKFlsWDuIJ/Z+bqnSMscuVsofgHy7GPbpIKGgCcagPmYeEx6EU1gaFtzBcEHbb88Q32cWe3UK65q6G6zFRXOyjFoxU1tUNR8jM6fK2tl3azDqthFwLEYuP8swa6jZM0NBZ0=;wen2o7P0TkC/OHH3LKVHIg=="
+secured: "NQNhwHmAIe4MsEfZ9hiB8PjD6T0h4BqgSQYtUk2+yMdyYZgC8pc/5YF6L49pWUD8rQOcre/CAaivRPvQgLTU4Xaqm1oghRCvIpJtktaJJybsAOYSZrs4DIFBCo/f1itI+Lq7KCznPAxN0KbsfKBnVMoLpSaCXF3Sk0W0yKxZbkqF+oI8MYfeU+likiRIi8NP9iBWQOPxcmlMQ22bG8X4O4LZoa0S7FnuGBy3DaBzaFgez6hzXl2EidbhJ721I0om+dzMgH+BulIKvlF77j70joWda8n43VxX6lQQ5Utg+qKDp1ZYzkDIMDh67rE6f+o8aYyA0D3zTVW/VlGy+5ugiLms7cuXm4oya30pXcr0pEEgHUoqz+9g6i/GmCcIUxiS80aRZ0QL6SOEBobddVW9pw==;unHBPhOQdVXYJ0cGSn9Zmg=="
 ---
 

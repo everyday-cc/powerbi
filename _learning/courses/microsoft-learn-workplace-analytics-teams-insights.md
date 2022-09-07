@@ -1,14 +1,14 @@
 ---
-title: "Measure Teams collaboration with the Teams insights dashboard in Workplace Analytics"
-excerpt: "Learn how to prepare and generate useful data using the Workplace Analytics Power BI Teams insights dashboard.  Analyze Microsoft Teams adoption trends from the populated reports."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-teams-insights/
+title: "Measure Teams collaboration with the Microsoft Teams insights dashboard in Power BI through Workplace Analytics with Viva Insights"
+excerpt: "Learn how to prepare and generate actionable data by using Workplace Analytics with Viva Insights and the Teams insights dashboard in Power BI.  Analyze Microsoft Teams adoption trends from the populated Power BI reports."
+webUrl: https://docs.microsoft.com/en-us/training/modules/workplace-analytics-teams-insights/
 type: course
 price: Free
 length: PT28M
 ratings:
   count: 118
   average: 4.618644
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/measure-teams-collaboration-with-the-teams-insights-dashboard-in-workplace-analytics-social.png
+    width: 643
+    height: 322
     isCached: true
 
-secured: "LcOC29HGxEK/0atZM+nYiLHEEzRA+8NMBM1mQA1ser/7nmHdcIegpVaQWJnjI6TF4uaTHjDsyv52NHOvN+vk4NSG1d8zsaA+HgcVMnjXX36ctNR23h7HhFKloF1bgZo4oVAkUh1GieJ3OJJgkyECD+sNDPp78GH+kR5bmOVHz8VWZ5+TX0mXZbiW4yGkHD4fc68va8TpBgfzbpncyesvcFdCawRiAqPu6jCEcIY2tq1p60rWASJOHhp1vvzOfhLlkOTy0vwqnOGTA8jGlWDBENaDjpiNfSp6w7mwl34LZHFq85oldSqvbbulTpZ2i3YI2hE2C0Rid838dYhrsBG7IhxDimf1roKCiIywxuvIo0Y8qLC9xz6kPODgW69p9tAMouQRnPp0VHAOSvwyNZ0rbQygnQCwEaXdbqIJFhKGJTQ=;6Le2z5g1LuqRHqYM7s9FZw=="
+secured: "cHzFcNvO+XhXG7df9nE6bv1i1rjLbiYGbQjDUEGlsxEVQXCs48aGqSdL+pquLxtZiPbz79z6qzL+XnMaJ5MLT0CmxXRZwRi89iS5v+b6DmtQxgCTGtoIieS1zVYHXOYpVRIc5yq69comC/R3vkXWRLrnkgAeO9aE/EbOo+vPWgZgZVOIxks4tgSgiHhCGLFL/wK+2bePxqQzj6hNo0sorYIK4ddFfU+Y7/NwEoh4egSaDD4Uxh7W860iwd0Vs4j/EUDpXxizbeAZFezgIE0Vi5zBGgD651UKsRCrSp8Tm2Kv/Ps2/jcGNkU8fy+8fwTwIA77JQIOndT1U/OIwNjoKZgWz+bq071URHWEXhJ/0R705YvGKUQVL3C6cnL4mpt0bZq8SkmCyaZ45ZRyguWf2w==;CEazBWUnH1vkZsfglleI+w=="
 ---
 

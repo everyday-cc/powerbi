@@ -1,7 +1,7 @@
 ---
-title: "Integrate content with the Power BI client APIs"
-excerpt: "Learn to use Power BI client APIs to develop solutions that respond to subscribable events and interact with Power BI content."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/power-bi-embedded-integrate/
+title: "Integrate content with Power BI client APIs"
+excerpt: "Learn how to use Power BI client APIs to develop solutions that respond to subscribable events and interact with Power BI content."
+webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-embedded-integrate/
 type: course
 price: Free
 length: PT28M
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/power-bi-embedded-integrate-social.png
-    width: 640
-    height: 320
+    width: 1280
+    height: 641
     isCached: true
 
-secured: "vBPwPjMUPsmcyz9cMw9odiK8rRBfhLEizycggUaEWmKrcxBiw20W449w2+/YEKtwX51tcNXwGMR1SsvgQOxdwq0756ZDZ+iyP6SoDtWRuiWz1i16xVfNnDG++D4fAt8ifMA95CTW4Zw4hD6WAqsxMBYW6KrOPoxheOhlxAEyZzyLXemyhXtpTd8zm+ruiAh0IY7/ySFCCZ37LV9an/8VgzbJx80o6sgOPr+fU4poOoy4nnUn0PDkkknvlByT0bA0fud4J8jjs/2YRY5rVkzSxlkRce4hx/8dbxbLj5HcIZbbQM+cF2l2hRQx6s7pXFbNVZ96L1giPEB1y42MIObmLEcmvdHY5tGzzfTN2i7EcjoNb7wLpAU9WWFTvRWrlqrnT+aeNTPFxsJQPEJSj0zYEvvL11NOJy4JQ6goTUxOFuU=;0fVtaRmA3Hj4ekz3GZ6XDw=="
+secured: "aey4ocaQS/z5duw6SK/Pgzy+4KsyD7i91kmK66Bm207nLKI36EFj+JuxBJX7dNA5tCGV8bSwA2UGMxkyFcHpFzlPMKsQ/CyvJSo+DDfmPCmaRkcaC+P5CVA1eWwp4MihVZETBhrxnWwn99JPctKghadtIg8MICu/Mfl0d1POcCJ/4EniUoQx3uD3vRFWvLnTveVO5UvuETLUYAkLN6KsHK3ItHMNFhpIphuwES0aBY2n4kMdZ2gVGU+mDC9792OjSUv0hWh9rlAn8hf9sIT/vXa9sfKiwiYuo9Ys8JWG5kjBYXBUImjyrhMkwn5QfkK+4x6lI3wj9U+uGAqOXDCaylwg7o7K85DWozjr57dmpAGKB/tg6HwkofOM9rbDSeazX7v+Ev4RQf9P4U8vMPPPpA==;5Q8AcvEX+P3W9LEnOziPSg=="
 ---
 

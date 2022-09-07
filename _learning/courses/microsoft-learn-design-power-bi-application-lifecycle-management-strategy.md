@@ -1,7 +1,7 @@
 ---
 title: "Design a Power BI application lifecycle management strategy"
 excerpt: "The use of OneDrive, Git repositories, and Power BI deployment pipelines allows us to follow application lifecycle management techniques. This reduces administrative overhead and provides continuity in the development process."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/design-power-bi-application-lifecycle-management-strategy/
+webUrl: https://docs.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/
 type: course
 price: Free
 length: PT25M
@@ -30,6 +30,6 @@ images:
     height: 320
     isCached: true
 
-secured: "i4uEr7ukCHUxegsJKLQeSq0zly9OTevz36zyiABRdPuFYirNjAZxY9KwhZMd3/PrCMvfk8pokrg1IX+gdd7AGSFsqfTic5i0WNqaezvhtbhnlDJ6fPAE6dUfce3zARjW0o8HpCEnl+NjPuR2o2XTnh88x7W/p+lrhWQY/9kggkKKKAe9fXrbLyDvA8ubI+eNjbPHspyDATcYsaGBsFkc/FsSjFWLTAWp+6bdKSMG8JtFgru8MUjMoFgW7P2Pw45pCdYPMlE8IYRyVtyOvOAL5U19x+TiGozfp9uirkDAVKpn9VoaZZiHJI0o7OvE5oB035EgxhNBEWxXQc0QG7c3I1bfhm6yU6lpUmADoTlx//60Ht6tvfo2VSxpSI8KXoxcRViw5tEJCssaQC6trMGWuP+YVDOreJoPQlnRKWNGR5g=;EjQHHxVBWTN+zuUBiq03HQ=="
+secured: "ZhsAwho65cLXxAHapLOCLXFIo4DrsZ6z9oiRcWHB3MFTodBcGV3Q/jZa2cxskOSF7h9Yiup9kvz8nVje43V+8vw/d4cQz72rfwSzkS2onJWgD7sasyrfqjj4HDGIy7Gz59prTBuFyuCYgI2XuxD3DS1NaXkZgEeirCvfTXRbZdFygnq7pO65PXSPx3wRKkpSB44r13GXi3E6oDsLjGlh43v+Lq7QfZjBgqB68J42ETa8LBZL5ugDc/Jv1x/9Ja5XxZJxVtDq63oYxKrWnyaI5KbTUvwUPed7A5z/R9vJ8eHHaSb2eHC3kiugISy0ohxQfUMMpv0PdbPRYYryq31KxAQypR2fnIr68hKBVT1nxEBwoKDbOEq9tjr85YjBKI3gCX7240Yjny74PU4TTVQLpg==;niAnZ6ub+lGWO+W1LSjsdQ=="
 ---
 

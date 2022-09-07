@@ -1,7 +1,7 @@
 ---
-title: "Manage Power BI artifacts by using Microsoft Purview"
+title: "Manage Power BI assets by using Microsoft Purview"
 excerpt: "Improve data governance and asset discovery using Power BI and Microsoft Purview integration."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/manage-power-bi-artifacts-use-microsoft-purview/
+webUrl: https://docs.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/
 type: course
 price: Free
 length: PT20M
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/4-manage-power-bi-artifacts-by-using-azure-purview-social.png
+    width: 1281
+    height: 641
     isCached: true
 
-secured: "BkFdjL4aDGr1B3ZuuHYAHIsevZ2DUpw282RkFJMZ5CVltGOkfdR3IsthL+YsR5zmS2dO4rA28KzszmFmEacez95aZQL4hHiMnUO0wxDSIEylGIV6sPbnc00MOIafx9d71LAzpxyRbtBmp5th9k9xb+GN/GULjJxhJQivuBua8hgF/5gMMXrixBs66i8M/iScbr8U4zRRT3SJvqDnvMiStiRVzl2cV/pwMKzRgaKqSGXBOdCXnphYLT/d99jXC6ExZ4Dk8n9P/OWYTjGbVgWVE8GtLju6kfz8GYNVSMeQIV0afM9qUWzcv1sLqg7FQdDuar0zglrzr3jkpHI2MG36Ox6OAf4ygz6Wlbzm82IYOMuT5k9MCFAgLm79p2WllHjEX8YCLjkhTTa1g/l3FuXg+U/sBRHXmA+N5cuPLCINV+o=;UvWQBr5bTTqr5C4fqmsvwA=="
+secured: "2kjsCnGUpZq6/z806Jkn0rKLZg3Dm1bv1fTBVXXyDICukITTMSp7Bl7YEKUVwjn8SvnVkUnTQhyxpatl1cg6MAt5N4jNDdTroUOT1a65GnBJ7ixE1Jz1FNvHiJ2hb9m+eUvXbu35JyxWOMdTihVJegQ1TvvufS5k7+wltjqqKvoPshjkEvJQJeZit2AeNU509j0BITPZT2gohleencKXD3CMlmeCvizEI+a+HwNoeoGQwXbC4OPcsu8S3zWeUXT3G9PXeg+F+demiuZD0daM/SoQiAB6Jt17C4ibaK7IfpBKewqOyE5YhaDbJMpjms0cuby+2GKQ4GwjyO0ZULrTu455eKIYkd8vgTPuYzFUAHwjoJ6/hl+YCDsnAa7yJ+ZeCBhnTz6+yIVVvVM7CyWITg==;tqytgK5xg9ntNNOcdWe4sw=="
 ---
 

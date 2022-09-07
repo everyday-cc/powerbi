@@ -1,14 +1,14 @@
 ---
 title: "Introduction to creating measures using DAX in Power BI"
 excerpt: "Data Analysis Expressions (DAX) is a programming language that is used throughout Microsoft Power BI for creating calculated columns, measures, and custom tables. It is a collection of functions, operators, and constants that can be used in a formula, or expression, to calculate and return one or more values. You can use DAX to solve a number of calculations and data analysis problems, which can help you create new information from data that is already in your model."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-measures-dax-power-bi/
+webUrl: https://docs.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/
 type: course
 price: Free
 length: PT2H40M
 ratings:
   count: 6451
   average: 4.715548
-heat: 56
+heat: 155
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 321
     isCached: true
 
-secured: "O1vYZnJ01yhA540PtMGdzoQRmhVadfQQosI9kGEpM557pOm9RxMSubsAGA3FgYcDE2Qf/KtGbf4Iu+7me97awCADF7gbLHI93/6mbJ5jAJBuX1/HSKml/RopeJJecdQS/Fh9XukbdYCU8njFZBAVhh9Dh5SbjNhVKPhjC0p9fNWvdXghHPwEPEgBF3OecY4TZNH3KbTWx2SO7qBuCYbaLgRDjBfOlYVIOUatAqAGzGuZ7T7ByP2Som3R20fuD7eV4yLFYWvQIJcwBFMAXkCp5MzGG8/vQ/vtPFJbXtUgKNOHwzmmgCEtgHSYPQlAJ5BR7X7Te9BE9eFFDumfDP6F1niyq0y4gu0EvdXXKr5k2dDOTLgljR7DuWE++tbv67iHHY5YnKJ1agsvzLDw6QobO1VIeUfBwlwclfrbr04JyDc=;Wo2P0jRrUuUos6H10K6zCw=="
+secured: "gyrRlqiSZQvcLcNOUZh1TlqkhyuYyYtYd7OkcvRAj860wkp/x2bc5X0Jf+f3ekht5WpLAm7SBaUjccKuWHMuAgFrFTJWnuQI50E+H7epE32J+jFJAKEr2TT9IVgSXD+714J1LWzL94VGChV9bTIjmo8Jr7HMNGZgrc7BbjQ7/yx0EaiD0XXdpt+U0U3tuIro/MWVbjan87PbXh/TJZgK5BkMwyqoEV7zi4R7irOfD1TGuanAJ21Yz1ksMfi6qj5OgWvCtfa3+moTNUBoQMDaE/IlkWyIwV+7G0LXmyawE9Nnt13Wn1fhnZKKA8OzZn260XeKgxnzxmDQETzPh655EZSeUrdxNwqNDzWa5dtjbiaDxlz5O42fvqga0GL6WuFruvFghcTGhOCjYUxoAl0mOA==;knHHKE13qNTi6NtFm0gb8g=="
 ---
 

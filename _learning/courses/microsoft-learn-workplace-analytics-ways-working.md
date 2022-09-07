@@ -1,14 +1,14 @@
 ---
-title: "Analyze collaboration and engagement using the Workplace Analytics Ways of working assessment dashboard"
-excerpt: "Learn to evaluate collaboration culture and employee experience with a Power BI template using Workplace Analytics data."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-ways-working/
+title: "Analyze collaboration and engagement using the Ways of working assessment dashboard in Power BI"
+excerpt: "Learn to evaluate collaboration culture and employee experience with a Power BI template by using Viva Insights data in Workplace Analytics."
+webUrl: https://docs.microsoft.com/en-us/training/modules/workplace-analytics-ways-working/
 type: course
 price: Free
 length: PT31M
 ratings:
   count: 165
   average: 4.721212
-heat: 50
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/analyze-collaboration-and-engagement-with-ways-working-dashboard-in-workplace-analytics-social.png
+    width: 643
+    height: 322
     isCached: true
 
-secured: "sGsRzHuGGJn7VmaJbFq8YBtS+1xrUzrSW+Dyn8q4VBVjcZv2oBfgwfJfWhSE8KuTPuGAcRHk0jYY2wStgi6nNW5dmXOzHO77GCLepghQhMXVuJGJtBvw3oawXWJBgfW9/QXIQbmnPnQ7dDRez6iJxsNNIQ5Zgr9w0X1obR2W8ggbdk98Tv0Pua1Xmmv+iarANTTByQ7fxvf03DRlRj1LdD/VbJGYSI64sO6oX65oC3rHSZc56Yb80x8HhSv19fDrclrZmD393wD7arj0j4xByrSibRhyRSUjcq3i+QvC1nKT7LpObfeWKtMMECEJUlSmrEmQpv5jAY8bmTw4SrwrpGRfMCF6eA9MT6J6aq/WMAdSjqr5HB7kDs5K6DNkeqTNdLI6eCU3Tssh/iWhXimWX5cxKwEhCaJlIPqs7wUbW9c=;hAo/wMfTy7WSFjHE2t4oLA=="
+secured: "3+MlkFasg0anRfaYeudnXmV3WGYibMO8OrkwL72/pcTr6JwjunL8qHWaZH+qvrsnHu7jJz5niZkKedh6Tg6ELXTEsxemrXSHcha0r2P7JuPRqBgd3JQMxYeMBMQsxMKc/yDBWyFGfN6CvXKSRWIcgQgJOOx7C0/k6YYKnfLnGA4KgOo9wo1NTQn3o2Lk+1TFoDtlHUt9SeVUdXnazcgRXq0Drqoxl5XeHCoIv7k+/Naiw1yzE7MGvk7DM2JZr93vS8BZhUbVwPTqaNS6KWReKX6crQ5vUptCr+qAxLG4uAc3VQzWB8+xJ0IW7JQdrpQ/C/qMKgnq/lbjXKRoTGD/pFKRFyPOlnJLuP8vf+e7DG97JtDSxKtuI5sdSbO9BmySBT9z2rc1l2nMdrInw9y1Cw==;Dz67tsYyjZLEfkJFwm+Wug=="
 ---
 

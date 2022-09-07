@@ -1,14 +1,14 @@
 ---
 title: "Monitor data in real-time with Power BI"
 excerpt: "Describe real-time analytics in Power BI using automatic page refresh, real-time dashboards, and auto-refresh in paginated reports."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/monitor-data-real-time-power-bi/
+webUrl: https://docs.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/
 type: course
 price: Free
-length: PT43M
+length: PT1H28M
 ratings:
   count: 77
   average: 4.7792206
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/monitor-data-real-time-power-bi-social.png
+    width: 1281
+    height: 641
     isCached: true
 
-secured: "S7leSiPTRVLUKXdY5U8xLWmd+v9qvyxLRXm5NC1LeVPTlSYkpkPk93YkZKtZqpHHNyuJwgkiGVcTlutR5YbGNg20sAKk5/oOzzzBY+0yi3QDPw3ZywAcQvry4LD3USBoqcbeEQiuXqCiJZhlb5EPS2nBTY0962C/oMyES6uIQvraAzWr6/CRzW0UZrDGDSDpD0BurOIcWqR/IKb5QPIoba3JfaYxtBjl/SbaN8vCdQqTJ3fjruL1agz+3U5G44Av/+rtuzNDRtGukUluT9h4tsj2WeSM3fxZxdh3xL2N2hNHTGBpkh8TsaIeYUvk+aA6mQ+55SwujBSHhlpMUaj1jLvwJ1xBK7nL+Z0dkjD6xfeBjz1aG0hPnSE9gYU7Txu8YsmJlo1j0poAFS2cuIBs2/a2MvTrq9dPZjQq+niXOfI=;FEYPXxqFYuJxVY1yrk5k9Q=="
+secured: "YDBfsvhSrWOBTjdATheKnEBuHE1pOZseizSIdYolWhIANpi23iOMovw5JW1miS8TqSA91dE1V31tSYo7bqYyVNJNo+5KYuPwn8UM8F3+yidDMwRJyawcVmzFUgL9mFG+q/vK0L10lylrDCCWJHtvbD1TxFC+ZaS7G8ZzKd+/1FAjWqrneExKm2rTQF/uBJkVSMPIBc5ScMeMwMN4APW/p4YNfF0nw/bf8Zh2IxEoHce84AUt0Xg3njMyDd3PLuOTbLGcWKr4RzotndHObTZLc4XcN2dkvgM2XFvfljMz6JcnVOROOhTQMSa3CGb9jJT8j2lXJ9BYcqhCxbfaAz6nApA6CLTVa+2u6bZuPfJyJkQns33yp6xkf9ed3X0giHNcDzwaiisMjR15nP/T/202Sg==;xi2hd/36PuJ1NZDMC42Kaw=="
 ---
 

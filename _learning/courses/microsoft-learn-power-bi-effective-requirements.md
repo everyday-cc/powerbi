@@ -1,14 +1,14 @@
 ---
 title: "Scope report design requirements"
 excerpt: "Gathering appropriate inputs to scope your report design requirements involves identifying your audience, determining the suitable report types, and defining their interface and experience requirements. This module provides you with a strong foundation on which to learn how to plan your report design requirements."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/power-bi-effective-requirements/
+webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-effective-requirements/
 type: course
 price: Free
 length: PT34M
 ratings:
-  count: 1317
-  average: 4.747912
-heat: 57
+  count: 1318
+  average: 4.7473445
+heat: 87
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/power-bi-effective-requirements-social.png
-    width: 640
-    height: 320
+    width: 1281
+    height: 641
     isCached: true
 
-secured: "n5GG9v8+lB7Zd2qA4wK2tRkf8/MJufGapplXUmZqM6JhV4sua/dz45cMVwm6eeu/CPRfzGnG5Api79MM/hSbiJ6VRIuywJSU4xnqNXwHkg0cin9ogXSv6Oq8Mwz4XAeALsfeTY8hyzPVscREsE687MQIEYSfG3JPTlW4H3LvHzqFhluSAiBCizk7HwC48Q1KFvJB21x2UhiQD97lIskOxwrIbpucjcaP8n5MAxK/Z3FxmRNHU7Ti6TbyFXFbc9yO2EMQnZG2wzU4HV9hmNtJp9FirWba/MlzE30l0vLJhQ7tW/66NIcjyno40z/qWT9vBZ80iY8GxEDehPhtu5/UImI7UWCn0ZPRq339EoQKkGCtb86BU7fcC3yAUl2USHMdzwL9xlgj+QAfp9lvQQr5QR14VYYvrFNy0wcdJjQi+kE=;/tGdf7b+SrEghYG8lXA1nA=="
+secured: "ohwxCJw3gOQQhassi9loMGMLmOy8JSCmDTmovXwo9HCyJYTHEuoIBkgAijwADX7Dji9sFf99QJHWp+DyrZ4sOeBam3/HUjwjd1kFTXZt4YLzSPj9mLBgKte9POU1d2HzvosfcAFagDOrTi1e/Own8JBLmYWMo4t3XYO/Nx174ehWrCqDyYN5MhPzO5ErtpJ8yGtotC37/epPYOXykrNnwBSZDWy/v0oTlEuW5hNeDWNAQTvzTvDUQSjeODCzJMA8F7l79Sbyna9IgjZZJcojnz7ap937UKViowS2sM3lGgslm2ufBJwE7zQBxSLzFLpuYzfg4tD+6g6RiZeTQDwMF0RIFtvCWz+IY1O2TwWbj4H6vJPS+fn2EGpENsn6SFMFnaHZDcQlraShLjBHKMLoIA==;HGSpOfEdBZHZ10/f2smi7A=="
 ---
 

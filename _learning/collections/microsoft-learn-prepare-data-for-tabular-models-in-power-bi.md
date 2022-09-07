@@ -26,9 +26,9 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/choose-power-bi-model-framework-social.png
+    width: 1281
+    height: 641
     isCached: true
 
 secured: "GQDSwNVBreVG0Zr/6RjxeDUgI3qT02nkVbkd0gVkDj8NDrTF4LNIlKw8AeXYfzHPlXtwkDV9O4oEwjcxx164OHs/eOKOyXGRCJezWBnDAssK6zt0PhVT6VXC0pE/y97FEK73yTKwEl1IV5oJtPYfUnltJ0Siaz5D4P1y65zDros/2GdxbD1go/7q+jCl3aF8yBApLxlbpiNvxB49FC/u/I5vqKI25IzlbntkpC2KXCdF6vWmplwtrs864SDBtBw52sD1QF6dxX6A+HiquVURxgKhE6D/bSnDkNsQMcdbwUBWUzEueR+6FtIoKOWWjm8k7bo3Cp79JUvnfOi44cuhLaCiwNhSEAN+1HtDAcfMTmQ=;z8dGR4Ayv7Pcl+bP8vI2SQ=="

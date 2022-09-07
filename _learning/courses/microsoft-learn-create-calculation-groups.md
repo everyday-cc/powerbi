@@ -1,14 +1,14 @@
 ---
 title: "Create calculation groups"
 excerpt: "Power BI, calculation groups, enterprise data analyst"
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-calculation-groups/
+webUrl: https://docs.microsoft.com/en-us/training/modules/create-calculation-groups/
 type: course
 price: Free
 length: PT1H3M
 ratings:
   count: 40
   average: 4.85
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/create-calculation-groups-social.png
+    width: 1282
+    height: 642
     isCached: true
 
-secured: "oizZ66VXsgI+2s0f8qlWgyOyd2irYfpz7/FyRQGsliBKFUAncgHwE/5c0D+jkg+qxkUGmyW05iKg5zZ2YiApBz7MKal9nY++yiBdB6lzCoE/Q5O53NRmfO0rMfP6PDCQ5iYIgfDviZrR5itXCuOh8yl4U3+bzIFA8oEXzoxvwerBaMv0OIUpzcX3Q1Xe8hLR5D7g1O0snOd716r0dqgrLdavIUQxMc5jC/PBtjcLOfeKG1MiRWJ/9Tn+Mli1D9obRr8HPS8f6SZbnFI0gGa0nvUEmK3aWWIm6r3kqlM31yxNrCd0fX/asWz2ygeX6zKlcI4qZ3ZELWs+n/XTvli5cwofKricfhS84W3mAJyxPzKndN+BMhVWCNUMvuMJiNxgM8vNsaXg6bsNVryp/S118ERdY0awp/PdQrgPjPwAvhk=;M6QXH+NBcrxkdIHflIAXSQ=="
+secured: "C9Ve92NrRYZCZ7o0THtQQZB8YV1EQzRgOdo9O3b6QKSNxDatBo0cZtsB3SFXzTFiSiZ4xoquFLlYkdji+HZ+Z0FSk20A40GSWmKwrNpwdpsWRTlNve3VQAMUh6+bWg9FzHPoJ/0iK0ZneepM//y8EerFvHdjUO9barUyVW1dBXleqlM1FFTN3zACYYea9oGomSk+Tangj9x+Y++bniWzZZBNKTtHlpcNlDn+WcCXHX/8Lb6R2DITi3BXCvaaRYQduKYU6I5NKmp4Au9ULHrNEreqN0gc2erQurMWeFqCsJXseoMH8y64TLJaG9SKbJoLmmt9VtM8h681/EVmzulZwiET86jCsITkPSN5ZupJKen0Wfu3B/qj+POcJlllpFRlydDCmqN75i0IwP2YQ9lLaQ==;djOqBJEhcBqDYzWovt7pRg=="
 ---
 

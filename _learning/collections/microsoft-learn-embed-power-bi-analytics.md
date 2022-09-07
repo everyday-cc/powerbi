@@ -4,7 +4,7 @@ excerpt: "This learning path teaches you how to embed Power BI content in apps, 
 type: collection
 price: Free
 length: PT3H27M
-heat: 60
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -31,8 +31,8 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/power-bi-embedded-intro-social.png
-    width: 640
-    height: 320
+    width: 1280
+    height: 640
     isCached: true
 
 secured: "jqlVRuqW4PPYl4mtHBCNTbhgcRbDOmyf6ko3ZrRQWNtsbdwy2ru3BnY0+g94DEuUfCgmVFNbzokWwXxT4GckL2UjLY6KDhzuYIeROzoxkuKhXi8sDoKQhvu00NccTC+/eGsU8XAuqPkOPao1umu6gmyoPg0IZUH5gZuV7LDRdQQCebxQ9bTbp5lrsoYdgdPEsmZxvDlTaB/LhbLJxkg/0eb+qow+zbXnezVIoeqXwErXn+KrywPOGcv5/9punoI+1LFtFlyh4lIm+/jAOtQJk+kAyg9upvcZXoSgS9fpFC7IS0nnh3YvKoUQjN44QpDkIsAzhe0XmINEwv+OmNUuy99GpdxUN4zNetr+XPxvM5g=;laRBEnVQfMm06poL1OElpQ=="

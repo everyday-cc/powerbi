@@ -1,14 +1,14 @@
 ---
 title: "Provide governance in a Power BI environment"
 excerpt: "Learn the fundamental rules, regulations, and policies of a BI governance approach."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-governance/
+webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-admin-governance/
 type: course
 price: Free
 length: PT12M
 ratings:
   count: 115
   average: 4.791304
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/power-bi-admin-governance-social.png
-    width: 640
-    height: 320
+    width: 641
+    height: 321
     isCached: true
 
-secured: "ySsz9JirDUKzqIAR4BrU4cGHmrloge1USUuzFAkx3NTqkzbsSQNsUuWaSZaOBynif+PVK2ku6In2rYLlUU24GE2VKrAmazNcfJyI+cSNhgVvjL4eo7uWIeg4pYb7jmzyGbhyO+jIIYsQy+hcl92KJYe0Q5xgPFeQ2NZchCjDAJqG0bpJU5xi4U3KztlKgV3X40HoCWd6e1SivkZg9zLh3vXGZTEPIPO6DWuw5TY/fKEVsaNwKNQJ/V1cVgJip73FFSJ7K0sYU8XDJDPE9UqOZKaGdhr2zRr2ou2IaAqvLjtiLn91srEftFlLZxMvDxLFDv8C3HrW6nNCwZnjmrS+jPJhphxXy9ugE8yYk+mmWHyCOjGReiVaMpIjvaeK2NS7308vmjBtK6/1Esy07rFgkFl42Gf+Y6/sYvALHYBPA0w=;GcmNdO+yIjaYxsym6sqkeg=="
+secured: "sdjc8QrWOyhF+IKFaZFG73SETOnkSE6dGsZ0Rtg2pAGjOm9m+Cw0vfAA6LyreDoezQTy+dtlzmntzav6UozT9mPRswCkRhbUKGN8qnfIfql6Ot//jcxWrqm2+kwtw1ePVnkWHs03aH6NvG3WVffbCm3bfgXOdRVRWLfruEP48QkG8DdXhsftatG+i3thijGapZuNbrAQcCdifDyE89G8zhMe407WFJv0DsqrrGg8UQKvdGTe/uwQfF02o6xx80fNa+0sRHwvsg8PTPRMuzuW/cY6fjNv/IJ6wzcL2uwvvIToyD0Cb6z+wXiTKl61gso9kIf+vVj6hU8JHqnkWrwy3jP/p1Wb+y5X07HfE+lZarAPY6DXb4DqqxHAIh5FIl3SD4cdR4pVqhmYY2HfjNIUvQ==;mPYRSJs8z8VRwdDpGr2gew=="
 ---
 

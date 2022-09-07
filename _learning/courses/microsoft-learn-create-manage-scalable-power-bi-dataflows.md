@@ -1,7 +1,7 @@
 ---
 title: "Create and manage scalable Power BI dataflows"
 excerpt: "Create Power BI transformation logic for reuse across your organization with Power BI dataflows. Learn how to combine Power BI dataflows with Power BI Premium for scalable ETL, and practice creating and consuming dataflows."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/create-manage-scalable-power-bi-dataflows/
+webUrl: https://docs.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/
 type: course
 price: Free
 length: PT1H12M
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "L2W6STnWZf9Vm40j2LiW4PbJEmxSEW1SoFYpnBQlF7arEezbp6m+d1ek7P10S4pj6+AKJVpW+OlUW4zqe6a6hoW9RKDgts5tyvJAM7GoAnM/4ZDCZm/3iuX9I2B/t5JaXWwVLlemmI1aLbxdFOHdcH3KNmHaS8mqaxlWVeVkWVsXAB1XuT4ZVBvkPhR+1Oq03sDHysMIMTiTkCKK/41m4LvTYFHbn7XoEWIBpklB9bkdl8+UUuvocJo5jAf/AOCovcnb9TilPaSXdoM/Mmz7Hx3lwJlE9tJlpJgcwdd8WAchXbwmSr0bTNXfndiqWaLqAl2IunnY6aT3cw52DoC/w2cvTzL5qrK7DvNZ/N8/Q9a3XAcEe4K94N9NTLFTX/5ZMQNoDmiyn7fgrLTdrMGs4hSLPacYs5t35pt47KxLyPk=;8tasgonoteIAnQd0lO1ilg=="
+secured: "OvkCM0IOK7ngPzMzEq/bnkgynripQKtaPn1JKJGt0Myi6H/IFWdn6AUAZehp6nywgaj8l+hWb3MI0B/dzL+OxSaZFb65Pxa/xcNi9j7Um44imy39W/PW7Z6dlrYJ7HYJ0+7MTOQS6DIpZAd6zQhvQLUMb5fVWMlxyCSl4K8KeO1b6NVGfCsWmeLDS/bOm58P7j+1AuzxdsBjUUcUuo0XB3zckUJSqDfqOimhN0a6UG1Jz3SXFPJYsks9x3j1viFTN5/GA3FJfZMS35TdgoZbcSnVVFA4i7QMJrT67bQa3+j3P/pnjkbupOduD03/5kfLofbnWUDIhE38MmQNyuAWeSmlUQHQ6J7TU+dh/4m2QCAywHjV1DgZP/IeNrmV7n6RgTOR1in0wztMyEnHylINuQ==;D/0YXxeTb5DFpy2klMOvjw=="
 ---
 

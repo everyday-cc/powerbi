@@ -1,7 +1,7 @@
 ---
 title: "Choose a Power BI model framework"
 excerpt: "Describe Power BI data model frameworks, their benefits and limitations, and features to help optimize your Power BI data models."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/choose-power-bi-model-framework/
+webUrl: https://docs.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/
 type: course
 price: Free
 length: PT46M
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/choose-power-bi-model-framework-social.png
+    width: 1281
+    height: 641
     isCached: true
 
-secured: "/3ViIhbSrElHous1OgyKlhi9DAM0DYPDFgpqNu0oRQ5EV3h1i993dwHgA/CJWd34D0Bt8WwkeYR5EyVMaqZ9cK+VksXONotzEql3dmeLhUPL6wRmHw67ArNAF4/9ky6XWA+6m6FV1b3OmOWt2/STXAFAcOfWA9KzmtdRTykq9AJXWFhwBzJQ+hoUZ5bNM0MWOq8X1yIGrVD+XqHv6skSKYUWTqC6jXnAkZiuseCHMsTX+jPUlpG90H/0VpzbRV3XMS/BesdvFMDdpilLE+9AQCA86MrM3DK+itGRIxjE9E/WtP4O/vxz3s9XdrRcQo4gvafLnaHVzcPu1xUpVB6QwK2alwgywC8yjHmrGvFQQuepGIwX5DS1Qbp26yp0Aqvg8vlEcT9JKIK00RMxlUar7pu+gElpVosvsNiT7Wm+tGo=;rAF4vuBNyI2Q0q9SEjJdiw=="
+secured: "QJsbZHuBix3TzLfMd12I/oDDZ0mROV6/a7O0yELhvCl6BFfbie8my9l0loVYg8DMDoVtKzmPqUF6dtDarEq/nuG7vJSy91AQbHWraYxbyO7HWZiHkQp7PkfRGycFf3OjWL0egWwRkLFrXFslxLOzTyuNyLjVAhejEYwHazjqpXuRfEBvLFMaipC9wA95rhJTWY7luo2rTGFby3v02ZfJ9A7F9ATbvOI51P/rcfL/+QD7yQmCWndiPByl1TlReodezy+a3QJnJ3hR3YKnGEIuzYjPvTMczfmSYjjJ5YmypfLuBsz0RyZwn3q75zx8tZwRHprSXSh/YiOTPluaS5FnnmA2b1czuP2Ou1I8/uvl2KYqIFlPJjH9e43ChuBLMuGCAW5+smO3ZIbBk1k3M3M36Q==;jIW6MtG0zYkhmOFU8iYJ2w=="
 ---
 

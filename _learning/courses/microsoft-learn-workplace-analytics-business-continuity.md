@@ -1,14 +1,14 @@
 ---
-title: "Evaluate shifts in work patterns with the Business continuity dashboard in Microsoft Workplace Analytics"
-excerpt: "Learn how to set up and interpret the results from the Workplace Analytics Power BI Business continuity dashboard. Generate insights from the behavioral data to help navigate shifts in employee and team work patterns."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/workplace-analytics-business-continuity/
+title: "Evaluate shifts in work patterns with the Business continuity dashboard in Power BI from Viva Insights"
+excerpt: "Learn how to set up and interpret the results from the Business continuity dashboard in Power BI through Viva Insights. Generate insights from the behavioral data to help navigate shifts in employee and team work patterns."
+webUrl: https://docs.microsoft.com/en-us/training/modules/workplace-analytics-business-continuity/
 type: course
 price: Free
 length: PT39M
 ratings:
   count: 73
   average: 4.767123
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/evaluate-shifts-in-work-patterns-with-the-business-continuity-dashboard-in-workplace-analytics-social.png
+    width: 643
+    height: 321
     isCached: true
 
-secured: "FF+ZakUIDsAOCLt46aeAWH5LtDLE6iANzzJWkFAcdaG5OG59gvOH089jd46G9pQnrfP4GvVTC6eATP8wSmPDyPoP57YegUNT+MGN7KfDuODITpsaQhONOOOughn0g72IXlourLQywxYVoL5KPjOHcGEYV8csoDbNLTv1PyyT+V8/7A0BwQAEMF83udK92TS00sG8MqR2J9i1fsxU0B98ip+LZ8T8UpJgzNZpTsvrG71cdDZTyT6CGLrUSOYzZKVhGXMEIUX2exPHxwx1vCdB1o9oajwBnYGoyqNguPfpAFA9ni8iSgJWc2mFiYID7p+oyo3jp6OoVfXkq8/u2VnbzvrjeAlm3Vd0eZ42BjdEeteE5CcmNLQwubyca7xCG0PQrW96vnHcDkBwwBfN98cWi9rOP+ryaTm9ko2q8qT5HGg=;ISzoqLcOE9yopV/FgU6Tdw=="
+secured: "uBW+C93li0uKOruOVEzOv7pHTXpZqRKYQhvjtafKNiVOOVL0eBm6FZELCzJmGTDxyCSVpaB81hjrr7fU5IgJICrkHRQDh0NDzG7fNFqWM13EavzUBUN5lCcLrArOvNvNXnvK+1HkdaZLpL6WUZOE70ZnH5F7yFCYqRtLKuPx2jaxQBJm6qyBeOyBx7uUKeG5lS2UCbG0JMFwifXR8lbPY0rHM+rCedmAqWov7sWLHlT8aBKNh6aDSR7w/TKt+OqOYsUhJ0QKvaWkn+67DTVn1idKhuPkOsswTCw/yCFs/eklrACWAJFkbezPB7QO/YzHdsuwTbRItclddNqVxmRJbkB4Q+6wFtuV3kmgAsepboKShbgvsHbCGSFiuo4XE2GLkSd3VvGa5cYAzB9trdLuTg==;xhM9ODqGmVRURoqlWlRdRA=="
 ---
 

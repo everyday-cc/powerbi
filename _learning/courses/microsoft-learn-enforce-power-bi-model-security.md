@@ -1,14 +1,14 @@
 ---
 title: "Enforce Power BI model security"
 excerpt: "Enforce model security in Power BI using row-level security and object-level security."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/enforce-power-bi-model-security/
+webUrl: https://docs.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/
 type: course
 price: Free
-length: PT36M
+length: PT39M
 ratings:
   count: 36
   average: 4.8055553
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
-    width: 640
-    height: 320
+  - url: https://docs.microsoft.com/learn/achievements/enforce-power-bi-model-security-social.png
+    width: 1281
+    height: 641
     isCached: true
 
-secured: "C70tavIE3QU5Nnbhmigw8kmWlRLj/Gl/w7SyznPcpyzZU8JBY/scXAP3OqF/xSbOx4XJ86ZrQkytz+S6brEyapz4L5BMf9R0wOzkF3GrfmjVdmeIj6MDMaJCXE7mTqRUuzDBcVWzKL5fB0gDFOjQxr+KrDlmNNnoY6hdrcLX4WPelev7n+71Fj6nn1dH15guYRujBk+UEtJw6rKeHvt3NM/GUxn3/T/dTETu4ConCIhR9izmdpeo1s5XbuamvKnRxWQii03qCj/gZrJ0jNT7f8Wr6xkxvCKvgmwypZkR10Zym5UcYAhSPICkjGb2Go4twBcWAyKuDVQggb1B6w9oeURtVHhg19TDTP9S9cQDTRzqvhMGLFgsFNY1umZWixvtSakhwFC3j7g/g5ASRZyh/EnDnNOx2yNaM8dOG8er09g=;wj7so7v5dfcMpsWBh30w+g=="
+secured: "4aozr8NKA4GEgN2DTWC6owRXJ/CgPGjd3kjH8/udjLTrqM8dFY4518FfDxgSx6H7qFAEAgwI1hdQXZWRXyV0hHZH88DM0mZzlSwdYHuj2pky8N3S2JpdI68KA+6H42q2tk6MAfVzmy6hFy9y2OxTJPA8GtpFNQhmhB3FJBXH0LmtLIt+FOIo8s4Ibah1W1j7hrJ8UpFKyeOpLgLFv88LxCSL2R1HSDs2GZwBnAM8THgrx1SpN3tR4shH749pRDZG0WWoi/fipfijrMAzI7qFZNMUZ8cQBF4b948ixoupcUg0NyCpVJxNpPxyo3cgc+Y4MJVF6JqJHzc/mIZPlzs28otCxmoOCJbTpqXokyKAIu3fVr+pKtrbourlXSBiKvCmtSVXStLk0TuS1oSDwFoMqw==;Z2LvLM7A8tFEaS1/og297g=="
 ---
 

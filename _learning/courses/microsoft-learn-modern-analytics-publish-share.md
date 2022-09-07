@@ -1,14 +1,14 @@
 ---
 title: "Secure, publish, and share data in Power BI"
 excerpt: "This module reviews securing, sharing, and publishing Microsoft Power BI reports as part of Power BI service."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/modern-analytics-publish-share/
+webUrl: https://docs.microsoft.com/en-us/training/modules/modern-analytics-publish-share/
 type: course
 price: Free
 length: PT49M
 ratings:
   count: 113
   average: 4.7522125
-heat: 50
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 642
     isCached: true
 
-secured: "WefocAVSWSEyDrSG/2f/LHE+h8RNTBQJN2Vd+eHNRvDWf2zwPCOTUOFgno9+3cfATOOjsaTg1pVIkXzhM3NRvgOJK1l1pATlMHkAQiQStAQJdFF7Y1BUcXrpBSfItrPHte/IFTIOXUiDdCxBzrTub6TbN3D0X0fxYxN8WTbSzIRsUCuwfgCyISyEQ9/Qs1Z0ZWdsWDaSUIJG7XSkh32WDSqnWCRUDZco9eCTDlvHIVIoajbtdf4qsnDXFmlnECR485YRlCoDjNJGcaefPIGtPur0eRchwL9iJu9EV1x+uEqwaZUX5pgFm/9G2/v6sDQClcVY3z3i/fmz+IjxVdR6yb/CtoDK8JnIzgWk+XRQTDcxBWB9ySlnDhXmOgV2KiK2m4qKvZieafF+v5O5pYyZcjH2Ddr49lWeky8nNHFWzx0=;EBTePdOHWWIm/HiTnebdcQ=="
+secured: "MpPxPTXogmeW3cluEEvDWHuQMwYYG8V7xYvfJcgu9NDazPxrmgE9amq21HhGpXrrQMBx0PwaeH9DEahcLlSYGvykhM7YSGikcAWDeJbbhbIJSSmUgP+14gX90vVR2/F5fc/OeOgn2G69P7PRtWLouG8ZytIYB/NAgz9GCxy8vV+1gH++4CZ1g55WZ4vaPQZAOVvNmAeS3/sx1DD/lTuKOt3ilvxjzkMle6KBLJEyUqh2wko3itdSy9ctsprlhFHm4wFmXPQJj+W4moXHTASbuHGRoK38VJN8b4KK1X/jjg5xjQFpSXXy+c03rSkvzubpanVejrBQ3I879BQhHPSAhOrzacnWNeS3KlGwc7oStluaak370gC8vqLGyXSVMaGPj2/nKPA2ijvxmdqWHi7odQ==;/oIYG2mA39TF2IAkQjvHEA=="
 ---
 

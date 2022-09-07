@@ -1,14 +1,14 @@
 ---
 title: "Establish a Power BI environment"
 excerpt: "This module covers topics relating to establishing a Power BI environment within Office 365 containers."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/power-bi-admin-environment/
+webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-admin-environment/
 type: course
 price: Free
 length: PT18M
 ratings:
   count: 168
   average: 4.696429
-heat: 50
+heat: 55
 
 provider:
   name: Microsoft Learn
@@ -26,10 +26,10 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/power-bi-admin-environment-social.png
-    width: 640
-    height: 320
+    width: 641
+    height: 321
     isCached: true
 
-secured: "tlCRjXSVxhfN3qTUmQsWhO4g0ViSjlCKItXZoy5kWebB6uK4+qVHbl7kqKklG+xQbyBJs1AxJzlQJBvfO/0qT2VPoMLsphZcgDLxqwMahDsR8WdIHeORdxgt/shx78syTBnXeZ0issqD7Saa6ONIo8zWn7U4vK3AAKUZzd6aUrRsah+TxW8ZjLNmMo1c/6wE5UeJP1N8PIKDqa1O/1slXEYGt/OKcQtV1ibKoqVM6HPobrDD4hMw7OpOYqq9l+3uo9WYFL6xlrR4382fB+UlCVk3x4JGKK20ssMvmhwR2nyGF9DFwkYlg3kekoHZSuLHzGBRBqKGXo9m5qZ3gFQl7d2ZKTsx88mdls/ciz4dzDMmlJNKatZFTat+dmUdqPmQc/WfcbnohXOSnOAusMuH97jYNdNo/c6t+Kd0d2Cbzh8=;KX0B2sc6uEMw5NIMtC3Uzg=="
+secured: "+i9VT2gb0G9S8Eq8baMxz6W/Qy2rsaX0YiHlZP4ZzwkEkxYrr7FJ23AzfJw6uQMyhRaQPt/UiSIoeEhMtmXJA20f5LfDdlLyltBrhGlIB4tDnya6QgK10H02Bj7mdDTrSkUThdW1M9mSkMPO4sAd81WirWehq6GBdkybicwZzCUap4C/dUzm8TTYkrNCYXOJzeGIgcHk+HCJYUaVIm3Gy0ZYQVghFs30a2KHikkIX67r0+VfdfP/P9BWs9k4HupTa2pKfoCfQP09adSliyiPEc1/ZXwPzGG1nDiDztDS6e/AE8OlGOZLzy4LHCi0KAri08B7NMVRq2RGZdNV7TVsEbkXVfbglJ9L6Sq9BPS1htbj2GVnMPccMd4EnaozNNQr+S8x+Ihaz47+WlW04gJpJA==;w7ZRduICCkhNVvol1IiIOQ=="
 ---
 

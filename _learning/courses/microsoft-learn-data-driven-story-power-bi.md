@@ -1,14 +1,14 @@
 ---
 title: "Create a data-driven story with Power BI reports"
 excerpt: "Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports."
-webUrl: https://docs.microsoft.com/en-us/learn/modules/data-driven-story-power-bi/
+webUrl: https://docs.microsoft.com/en-us/training/modules/data-driven-story-power-bi/
 type: course
 price: Free
 length: PT1H44M
 ratings:
   count: 4832
   average: 4.687914
-heat: 58
+heat: 139
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 400
     isCached: true
 
-secured: "KeH50nrHcGk5t0VmCif+ZkiwwB2/OBkY55iz10kzCcVh9MpoYJZJv0BPOs5HuoOy0sGgtNY21SLEYd/FUjDx9/a+4ZCWCZ8E/FohgrCF+fFXo+Sf2nwwHoDtib01scytl9JtIh/1loFuJ13w6pLu6dyEU7F5PExf/mVI/8SnVh0P/QjrJjbOFTezvh52TshZo7i7x1rI3KPX3auexo3060+a8rlRxAN2UKC2clXmDsNLdn0MeSvu3vtSflOywMCkaC3oJddukwV/R9uzgxtXxv4zdUMLBgxmL32HVwcpLrMjgJe0Yt0OBPn2iO919vXAJMCgXWFoQNtigxD1C86XRTNQNZN161gFQFnZLOsZTyXg01FxxYV/w6EVegsHERETgCEmu0XQOFKmiS8Njvb+F5exY/x6AaaTuEgwfO9Qrbk=;XZFMPF3lGSYx9molpqSm/w=="
+secured: "KFT3zAU0HofEUNlM8vQUrAvyQin9Rk3HSDrvvmFf7fp6dD9W2ohAnWX5EdaPiVjKbxtKgGykCxBFsgJQUgmHYMZiPbnTyJThSua6Of9cB/46YLbllKw8eSPZNesSap5cLsfcr6KcW4mH+7jneC4ujiB4JqtfIhxc9BvIlnUeAqQnoJNG2xuqFZLrp1mPDHHsbqfPVXukB2DPTfZpHZvYrfZQ4uDSl6gdMO+gHomwusD/ksM0JkFConZfK8k6ZvoQwEF3muzCLzvHD/sFeVIxbDNthMzL84Mc35HQ8cn3/S6SRW1kDXhADXPPkcxk2MT9vckbfz4EVGfhevwrEkVlPKAPwMwILW7vJ2T1SLJSfGfjU3sDKFGgRyKFPROCeVkKEhvj21+tkoUae40s1Dt6kw==;wuhb6Ij6QNKNfntrI0TTUQ=="
 ---
 

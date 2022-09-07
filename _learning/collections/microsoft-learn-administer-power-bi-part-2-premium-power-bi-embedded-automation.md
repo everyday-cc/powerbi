@@ -4,7 +4,7 @@ excerpt: "As an administrator, how do you foster collaboration and share Power B
 type: collection
 price: Free
 length: PT1H15M
-heat: 60
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -28,8 +28,8 @@ topics:
 
 images:
   - url: https://docs.microsoft.com/learn/achievements/power-bi-admin-premium-social.png
-    width: 640
-    height: 320
+    width: 641
+    height: 321
     isCached: true
 
 secured: "MXoxXInf+6dDpfUZ8iVGbNWgN+g0rxbOPy6jy1n72f3Yvj9FDybdyVWAkrle18vnQC2f5p+g0Ry8uBHGLzNCZTjMVDq3ertuofQFSjJyxfV9HyQJ/0TmFFDnth+lPtKEkgfe1VhsjzoGWffuNM0thz6C6Unm4fLu/S7w+5L2P4b1198/wE0oU2Xe34YOeXN5icLvN88GYCXjQzr2WbbSSrEw5why3L+NR7L/3bSDhgE/3Re3q+UK5LiyQP3j5QPgF16/4lFX4g7fEz89agXqglyP5r2H1xSQqLCyLh3mEDle3XukwGogyL9GEVOwiCdDdzs+tl9uvw33GqavMvNF2QQwzTfrj9r8EC7nfX2Ic5Y=;USJh6U2aJ0zC5l1QkVXAhQ=="
