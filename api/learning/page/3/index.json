@@ -130,8 +130,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 1320,
-        "average": 4.7477274
+        "count": 1322,
+        "average": 4.7473526
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -391,7 +391,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 81,
+      "heat": 82,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/intro-to-power-bi-mobile-apps-social.png",
@@ -706,8 +706,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
       "length": "PT21M",
       "ratings": {
-        "count": 928,
-        "average": 4.773707
+        "count": 929,
+        "average": 4.7739506
       },
       "provider": {
         "name": "Microsoft Learn",
