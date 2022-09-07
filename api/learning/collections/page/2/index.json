@@ -4743,8 +4743,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 65,
-            "average": 4.753846
+            "count": 66,
+            "average": 4.6969695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4970,7 +4970,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 140,
+          "heat": 141,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-paginated-reports-power-bi-social.png",
