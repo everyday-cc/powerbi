@@ -71,7 +71,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 143,
+      "heat": 63,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/automate-data-cleaning-power-query-social.png",
@@ -180,8 +180,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 149,
-        "average": 4.6644297
+        "count": 150,
+        "average": 4.653333
       },
       "provider": {
         "name": "Microsoft Learn",
