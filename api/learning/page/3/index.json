@@ -1113,8 +1113,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 521,
-            "average": 4.8119
+            "count": 522,
+            "average": 4.8084292
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1131,7 +1131,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 67,
+          "heat": 68,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
@@ -1240,8 +1240,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 197,
-            "average": 4.7664976
+            "count": 198,
+            "average": 4.767677
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1323,8 +1323,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 521,
-            "average": 4.8119
+            "count": 522,
+            "average": 4.8084292
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1341,7 +1341,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 67,
+          "heat": 68,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png",
@@ -1450,8 +1450,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 197,
-            "average": 4.7664976
+            "count": 198,
+            "average": 4.767677
           },
           "provider": {
             "name": "Microsoft Learn",
