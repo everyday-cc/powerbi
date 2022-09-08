@@ -1392,8 +1392,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 579,
-            "average": 4.773748
+            "count": 580,
+            "average": 4.774138
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1509,8 +1509,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1223,
-            "average": 4.739166
+            "count": 1224,
+            "average": 4.739379
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4992,8 +4992,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4824,
-            "average": 4.733831
+            "count": 4825,
+            "average": 4.7338862
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5075,8 +5075,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/",
           "length": "PT25M",
           "ratings": {
-            "count": 10,
-            "average": 4.8
+            "count": 11,
+            "average": 4.818182
           },
           "provider": {
             "name": "Microsoft Learn",
