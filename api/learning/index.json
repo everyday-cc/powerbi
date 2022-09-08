@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 45361,
-            "average": 4.7991004
+            "count": 45365,
+            "average": 4.799118
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -52,7 +52,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 290,
+          "heat": 291,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 66492,
-            "average": 4.778003
+            "count": 66494,
+            "average": 4.77801
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -94,7 +94,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 318,
+          "heat": 321,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
@@ -112,7 +112,7 @@
         }
       ],
       "size": 2,
-      "heat": 318,
+      "heat": 321,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -136,8 +136,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 66492,
-        "average": 4.778003
+        "count": 66494,
+        "average": 4.77801
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -154,7 +154,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 318,
+      "heat": 321,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
@@ -201,8 +201,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 66492,
-            "average": 4.778003
+            "count": 66494,
+            "average": 4.77801
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -219,7 +219,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 318,
+          "heat": 321,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
@@ -243,8 +243,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 29691,
-            "average": 4.725304
+            "count": 29695,
+            "average": 4.7252398
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -286,8 +286,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 13451,
-            "average": 4.726414
+            "count": 13454,
+            "average": 4.726401
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -328,8 +328,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 9945,
-            "average": 4.768728
+            "count": 9946,
+            "average": 4.768751
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -388,8 +388,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 45361,
-        "average": 4.7991004
+        "count": 45365,
+        "average": 4.799118
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -406,7 +406,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 290,
+      "heat": 291,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -430,8 +430,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 36110,
-        "average": 4.7419553
+        "count": 36115,
+        "average": 4.741991
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -448,7 +448,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 266,
+      "heat": 267,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/introduction-power-platform-social.png",
@@ -472,8 +472,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 29691,
-        "average": 4.725304
+        "count": 29695,
+        "average": 4.7252398
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -515,8 +515,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 23412,
-        "average": 4.7657614
+        "count": 23413,
+        "average": 4.7657714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -533,7 +533,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 237,
+      "heat": 238,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/introduction-power-bi-social.png",
@@ -618,8 +618,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 12884,
-            "average": 4.758305
+            "count": 12886,
+            "average": 4.7583423
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -636,7 +636,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 200,
+          "heat": 201,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/get-data-social.png",
@@ -660,8 +660,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15343,
-            "average": 4.7731214
+            "count": 15345,
+            "average": 4.7730856
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -720,8 +720,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 15343,
-        "average": 4.7731214
+        "count": 15345,
+        "average": 4.7730856
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -755,6 +755,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-get-data.md",
+      "title": "Get data in Power BI",
+      "excerpt": "You will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. You will also learn how to improve performance while retrieving data.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
+      "length": "PT1H25M",
+      "ratings": {
+        "count": 12886,
+        "average": 4.7583423
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 201,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-data-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-model-data-power-bi.md",
       "title": "Model data in Power BI",
       "excerpt": "Connect Power BI to multiple data sources to create reports. Define the relationship between your data sources.",
@@ -762,8 +804,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 13451,
-        "average": 4.726414
+        "count": 13454,
+        "average": 4.726401
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -797,48 +839,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-get-data.md",
-      "title": "Get data in Power BI",
-      "excerpt": "You will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. You will also learn how to improve performance while retrieving data.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
-      "length": "PT1H25M",
-      "ratings": {
-        "count": 12884,
-        "average": 4.758305
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 200,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/get-data-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-power-bi-service.md",
       "title": "Explore what Power BI can do for you",
       "excerpt": "As a consumer, you'll work in the Power BI service to review and interact with content that has been shared with you. This module provides the foundational information that you need to work effectively in the Power BI service.",
@@ -846,8 +846,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 13143,
-        "average": 4.6782317
+        "count": 13144,
+        "average": 4.678256
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -910,8 +910,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 9945,
-        "average": 4.768728
+        "count": 9946,
+        "average": 4.768751
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -975,8 +975,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13143,
-            "average": 4.6782317
+            "count": 13144,
+            "average": 4.678256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1009,8 +1009,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10084,
-            "average": 4.7047796
+            "count": 10085,
+            "average": 4.704809
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1111,8 +1111,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 10084,
-        "average": 4.7047796
+        "count": 10085,
+        "average": 4.704809
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1140,44 +1140,6 @@
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-what-is-the-salary-of-a-power-bi-dev-data-analyst-data-engineer-salary-calculator-with-power-bi.md",
-      "title": "What is the salary of a Power BI dev/ Data Analyst/ Data Engineer? | Salary calculator with Power BI",
-      "excerpt": "Would you like to know if you are getting enough pay as a Power BI developer or data analysis or data engineer? Or are you thinking about changing jobs and would like to know which roles pay best?   To answer these questions I have partnered with Bright Data to get the raw data from the job listing sites:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-what-is-the-salary-of-a-power-bi-dev-data-analyst-data-engineer-salary-calculator-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-what-is-the-salary-of-a-power-bi-dev-data-analyst-data-engineer-salary-calculator-with-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=picgIBU8U4U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/picgIBU8U4U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M55S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-08-25T05:24:15-07:00",
-      "heat": 183,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -1340,8 +1302,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 4838,
-            "average": 4.6876807
+            "count": 4839,
+            "average": 4.6875386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1382,8 +1344,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 4350,
-            "average": 4.6970115
+            "count": 4351,
+            "average": 4.6968513
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1400,7 +1362,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 135,
+          "heat": 136,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-dashboards-power-bi-social.png",
@@ -1424,8 +1386,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4822,
-            "average": 4.7339277
+            "count": 4823,
+            "average": 4.7337756
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1812,8 +1774,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 7252,
-        "average": 4.727937
+        "count": 7253,
+        "average": 4.7279744
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1921,6 +1883,44 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-what-is-the-salary-of-a-power-bi-dev-data-analyst-data-engineer-salary-calculator-with-power-bi.md",
+      "title": "What is the salary of a Power BI dev/ Data Analyst/ Data Engineer? | Salary calculator with Power BI",
+      "excerpt": "Would you like to know if you are getting enough pay as a Power BI developer or data analysis or data engineer? Or are you thinking about changing jobs and would like to know which roles pay best?   To answer these questions I have partnered with Bright Data to get the raw data from the job listing sites:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-what-is-the-salary-of-a-power-bi-dev-data-analyst-data-engineer-salary-calculator-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-what-is-the-salary-of-a-power-bi-dev-data-analyst-data-engineer-salary-calculator-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=picgIBU8U4U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/picgIBU8U4U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M55S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-08-25T05:24:15-07:00",
+      "heat": 153,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
