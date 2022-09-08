@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 4840,
-        "average": 4.6876035
+        "count": 4841,
+        "average": 4.687668
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 141,
+      "heat": 142,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-reports-with-power-bi-desktop-social.png",
@@ -238,7 +238,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 139,
+      "heat": 140,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/row-level-security-power-bi-social.png",
@@ -379,7 +379,7 @@
             ]
           },
           "publishedDateTime": "2021-01-14T08:21:12-08:00",
-          "heat": 98,
+          "heat": 103,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -417,7 +417,7 @@
             ]
           },
           "publishedDateTime": "2021-01-21T08:00:02-08:00",
-          "heat": 76,
+          "heat": 77,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/B_bAKrXAUh0/maxresdefault.jpg",
@@ -528,14 +528,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-how-to-design-stunning-power-bi-reports-from-initial-sketches-to-final-result.md",
-      "title": "How to design stunning Power BI reports: From initial sketches to final result",
-      "excerpt": "You have asked me how I design my Power BI reports and this video I will show you how I created my last Power BI report and how I went about doing that.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-design-stunning-power-bi-reports-from-initial-sketches-to-final-result/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-design-stunning-power-bi-reports-from-initial-sketches-to-final-result/",
-      "originalUrl": "https://youtube.com/watch?v=yEYQBbQiNZ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yEYQBbQiNZ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M55S",
+      "path": "_learning/videos/curbal-blurred-images-in-power-bi-here-is-how-to-fix-it.md",
+      "title": "Blurred images in Power BI? Here is how to fix it.",
+      "excerpt": "Are your images in Power BI blurred? Let me show you how to fix that here.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1  Our PLAYLISTS: - Join",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-blurred-images-in-power-bi-here-is-how-to-fix-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-blurred-images-in-power-bi-here-is-how-to-fix-it/",
+      "originalUrl": "https://youtube.com/watch?v=ex5Bh79RWrE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ex5Bh79RWrE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M54S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -548,75 +548,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-07-15T05:54:50-07:00",
-      "heat": 134,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-top-5-things-to-get-started-with-azure-synapse-analytics.md",
-      "title": "Top 5 things to get started with Azure Synapse Analytics",
-      "excerpt": "Getting started with Azure Synapse Analytics? Here are 5 things you should know as you begin your journey! Already been using Synapse SQL dedicated pools? Are you aware of these items?   Connect with Shane: https://www.linkedin.com/in/shanerisk/   Best Practices: https://docs.microsoft.com/azure/synapse-analytics/sql/best-practices-dedicated-sql-pool",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-top-5-things-to-get-started-with-azure-synapse-analytics/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-top-5-things-to-get-started-with-azure-synapse-analytics/",
-      "originalUrl": "https://youtube.com/watch?v=mGZ9cZ5fPww",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mGZ9cZ5fPww\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M18S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-08-09T08:00:34-07:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-is-power-bi-free-or-paid-the-good-news-and-bad-news-tips-on-getting-started.md",
-      "title": "Is Power BI Free or Paid? The Good News and Bad News + 💡 Tips on Getting Started",
-      "excerpt": "Is Power BI Free or Paid? It’s a simple question, with a not so simple answer. But we’d break it down for you and show you what’s free and how you can get it. 👉 After this video, start Learning Power BI with our #1 Ranked Tutorial: https://youtu.be/AGrl-H87pRU ==Topics Covered== 00:00 Introduction 00:25",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-is-power-bi-free-or-paid-the-good-news-and-bad-news-tips-on-getting-started/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-is-power-bi-free-or-paid-the-good-news-and-bad-news-tips-on-getting-started/",
-      "originalUrl": "https://youtube.com/watch?v=jd_sa2B6Ddw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jd_sa2B6Ddw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M22S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2022-06-15T10:04:29-07:00",
+      "publishedDateTime": "2022-07-13T03:00:04-07:00",
       "heat": 131,
       "images": [
         {
@@ -628,6 +560,86 @@
       ],
       "content": "\r\n",
       "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-create-a-chart-with-images-in-power-bi.md",
+      "title": "Create a chart with images in Power BI",
+      "excerpt": "Want to create a chart using images in Power BI? Let me show you how!  Get download 076 - Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1  Our PLAYLISTS:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-a-chart-with-images-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-a-chart-with-images-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=eIzDa9Yl_dk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eIzDa9Yl_dk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M54S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-06-14T04:57:14-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-deliver-decision-making-insights-with-power-bi.md",
+      "title": "Deliver decision-making insights with Power BI",
+      "excerpt": "Deliver decision-making insights with Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-deliver-decision-making-insights-with-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/deliver-decision-making-insights-with-power-bi/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 4,
+        "average": 4.25
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -804,7 +816,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 139,
+          "heat": 140,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/row-level-security-power-bi-social.png",
@@ -911,8 +923,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 2840,
-            "average": 4.755282
+            "count": 2841,
+            "average": 4.755016
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -929,7 +941,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 116,
+          "heat": 117,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png",
@@ -1139,44 +1151,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-conditional-formatting-with-field-parameters-in-power-bi.md",
-      "title": "Conditional Formatting with Field Parameters in Power BI???",
-      "excerpt": "You are excited about Field Parameters in Power BI, but then realize you can't use conditional formatting with them. What the french toast! Don't despair! Patrick and Adam have some ways to get this working.  Matthias K. Question https://youtu.be/ksmNfa_K8GQ?t=1011  Let report readers use field parameters",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-conditional-formatting-with-field-parameters-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-conditional-formatting-with-field-parameters-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=KOeT9Dsk-xo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KOeT9Dsk-xo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M40S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-09-01T08:00:10-07:00",
-      "heat": 118,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
       "title": "Describe Power BI Desktop models",
       "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
@@ -1184,8 +1158,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 2840,
-        "average": 4.755282
+        "count": 2841,
+        "average": 4.755016
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1202,7 +1176,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 116,
+      "heat": 117,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png",
@@ -1343,8 +1317,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 2383,
-        "average": 4.811582
+        "count": 2385,
+        "average": 4.81174
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1455,6 +1429,82 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-conditional-formatting-with-field-parameters-in-power-bi.md",
+      "title": "Conditional Formatting with Field Parameters in Power BI???",
+      "excerpt": "You are excited about Field Parameters in Power BI, but then realize you can't use conditional formatting with them. What the french toast! Don't despair! Patrick and Adam have some ways to get this working.  Matthias K. Question https://youtu.be/ksmNfa_K8GQ?t=1011  Let report readers use field parameters",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-conditional-formatting-with-field-parameters-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-conditional-formatting-with-field-parameters-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=KOeT9Dsk-xo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KOeT9Dsk-xo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M40S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-09-01T08:00:10-07:00",
+      "heat": 104,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-what-is-power-bi-2021.md",
+      "title": "What is Power BI? (2021)",
+      "excerpt": "You have heard of Power BI, but not quite sure what it actually is. You probably come from Excel land and want to know more about how you can take your data to the next level.   Adam summarizes the Power BI platform to help you understand how it fits into your business and work flow. Whether you are",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-is-power-bi-2021/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-is-power-bi-2021/",
+      "originalUrl": "https://youtube.com/watch?v=Vqz2d7pTOV8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vqz2d7pTOV8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M49S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-14T08:21:12-08:00",
+      "heat": 103,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-dax-power-bi-write-formulas.md",
       "title": "Write DAX formulas for Power BI Desktop models",
       "excerpt": "In this module, you'll learn how to write DAX formulas to create calculated tables, calculated columns, and measures, which are different types of model calculations. Additionally, you'll learn how to write and format DAX formulas, which consist of expressions that use functions, operators, references to model objects, constants, and variables.",
@@ -1538,44 +1588,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-is-power-bi-2021.md",
-      "title": "What is Power BI? (2021)",
-      "excerpt": "You have heard of Power BI, but not quite sure what it actually is. You probably come from Excel land and want to know more about how you can take your data to the next level.   Adam summarizes the Power BI platform to help you understand how it fits into your business and work flow. Whether you are",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-is-power-bi-2021/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-is-power-bi-2021/",
-      "originalUrl": "https://youtube.com/watch?v=Vqz2d7pTOV8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vqz2d7pTOV8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M49S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-14T08:21:12-08:00",
-      "heat": 98,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-design-effective-reports-in-power-bi.md",
       "title": "Design effective reports in Power BI",
       "excerpt": "This learning path introduces a design process to design and deliver compelling Power BI reports. It begins by describing a proven design process created by leading report design experts. The process encompasses phases to understand the report users and their requirements, explore pleasing report designs, and develop reports all the way into production.",
@@ -1606,8 +1618,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1326,
-            "average": 4.7473607
+            "count": 1327,
+            "average": 4.747551
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1785,44 +1797,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-the-tale-of-two-caches.md",
-      "title": "The Tale of Two Caches",
-      "excerpt": "Want to optimize performance in Power BI? Of course, you do! In order to do that, you need to understand the two caches that are at play and how they affect your optimization efforts. Marco Russo helps explain!  DAX Studio 3 https://daxstudio.org  Connect with SQLBI: Website: https://sqlbi.com YouTube:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-tale-of-two-caches/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-tale-of-two-caches/",
-      "originalUrl": "https://youtube.com/watch?v=Q-CFumllLNg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q-CFumllLNg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M33S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-08-31T08:00:30-07:00",
-      "heat": 94,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-using-related-and-relatedtable-in-dax.md",
       "title": "Using RELATED and RELATEDTABLE in DAX",
       "excerpt": "Why and when to use RELATED and its companion function RELATEDTABLE: two common DAX functions that are required when using a row context with relationships.\r Article and download: https://sql.bi/751669?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX:",
@@ -1859,6 +1833,44 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-the-tale-of-two-caches.md",
+      "title": "The Tale of Two Caches",
+      "excerpt": "Want to optimize performance in Power BI? Of course, you do! In order to do that, you need to understand the two caches that are at play and how they affect your optimization efforts. Marco Russo helps explain!  DAX Studio 3 https://daxstudio.org  Connect with SQLBI: Website: https://sqlbi.com YouTube:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-tale-of-two-caches/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-tale-of-two-caches/",
+      "originalUrl": "https://youtube.com/watch?v=Q-CFumllLNg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q-CFumllLNg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M33S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-08-31T08:00:30-07:00",
+      "heat": 92,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {

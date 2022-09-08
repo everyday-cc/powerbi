@@ -4,6 +4,107 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/radacad-showing-ranking-in-a-visual-in-power-bi-using-rankx-dax-function.md",
+      "title": "Showing Ranking in a Visual in Power BI using RANKX DAX function",
+      "excerpt": "If you want to show the ranking in a Power BI visual, one way is to use a visual that supports that, such as a Ribbon chart. Another way, which is a more common way, is to write a calculation for rank, and RANKX is a DAX function that can help you with that. In this article and video, I explain how that",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-showing-ranking-in-a-visual-in-power-bi-using-rankx-dax-function/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-showing-ranking-in-a-visual-in-power-bi-using-rankx-dax-function/",
+      "originalUrl": "https://youtube.com/watch?v=FCWVX8W1QZk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FCWVX8W1QZk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M52S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-05-25T14:38:26-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FCWVX8W1QZk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-this-year-vs-last-year-calculation-in-power-bi-using-dax.md",
+      "title": "This year vs  Last year Calculation in Power BI using DAX",
+      "excerpt": "SamePeriodLastYear function in #DAX #PowerBI is one of functions that can be used for calculating this year value vs. last year. Download the dataset for this example from my blog article below: https://radacad.com/dateadd-vs-parallelperiod-vs-sameperiodlastyear-dax-time-intelligence-question  Learn",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-this-year-vs-last-year-calculation-in-power-bi-using-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-this-year-vs-last-year-calculation-in-power-bi-using-dax/",
+      "originalUrl": "https://youtube.com/watch?v=J4h17Kqyj4M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/J4h17Kqyj4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M53S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-10-06T16:37:06-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/J4h17Kqyj4M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-calculate-in-dax-09-values-vs-keepfilters.md",
+      "title": "CALCULATE in DAX #09: VALUES vs. KEEPFILTERS",
+      "excerpt": "Learn the difference between using VALUES and KEEPFILTERS in CALCULATE. How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt CALCULATE function: https://dax.guide/calculate/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-calculate-in-dax-09-values-vs-keepfilters/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-calculate-in-dax-09-values-vs-keepfilters/",
+      "originalUrl": "https://youtube.com/watch?v=LKj4GLJA-lw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LKj4GLJA-lw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M35S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-11-05T03:00:13-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LKj4GLJA-lw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-how-to-return-0-instead-of-blank-in-dax.md",
       "title": "How to return 0 instead of BLANK in DAX",
       "excerpt": "How to force a measure to return zero instead of blank, in order to highlight combinations of attributes with no data.\r \r Article and download: https://sql.bi/713576?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
@@ -160,6 +261,45 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-dax-fridays-145-summarizecolums.md",
+      "title": "DAX Fridays! #145: SUMMARIZECOLUMS",
+      "excerpt": "In today's #daxfridays we will cover the DAX function SUMMARIZECOLUMNS and compare it to SUMMARIZE.  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-145-summarizecolums/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-145-summarizecolums/",
+      "originalUrl": "https://youtube.com/watch?v=IdMsKbHfyn4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IdMsKbHfyn4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M15S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-03T06:08:01-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IdMsKbHfyn4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-165-create-an-index-based-on-two-or-more-columns-using-dax.md",
       "title": "DAX Fridays! #165: Create an index based on two or more columns using DAX",
       "excerpt": "DAX Fridays! #: Creaye an index based on multiple columns using DAX  Do you need to create an index based on multiple columns using DAX? Here is a detailed guide on how to do it. At the end of the video I will disclose the solution for the quiz I gave you two weeks ago.    Links you might need:  Earlier",
@@ -199,14 +339,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-213-year-to-date-same-period-previous-years-in-one-measure.md",
-      "title": "DAX Fridays! #213 : Year-to-date Same period previous years IN ONE MEASURE!",
-      "excerpt": "In todays video I will show you how to calculate year to date for the same period previous years, all in one measure!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-213-year-to-date-same-period-previous-years-in-one-measure/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-213-year-to-date-same-period-previous-years-in-one-measure/",
-      "originalUrl": "https://youtube.com/watch?v=T4i1ebJMhUk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T4i1ebJMhUk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M24S",
+      "path": "_learning/videos/curbal-dax-fridays-200-calculate-the-max-of-a-measure.md",
+      "title": "DAX Fridays #200: Calculate the MAX of a measure",
+      "excerpt": "In today's video, we will go through how to calculate the MAX (or MIN) of a measure and how to troubleshoot it to get the correct results.  Happy Friday!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-200-calculate-the-max-of-a-measure/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-200-calculate-the-max-of-a-measure/",
+      "originalUrl": "https://youtube.com/watch?v=DAvzV-4Li7A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DAvzV-4Li7A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M45S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -219,11 +359,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-11-01T02:51:37-07:00",
+      "publishedDateTime": "2021-03-12T02:18:33-08:00",
       "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/T4i1ebJMhUk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/DAvzV-4Li7A/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -238,14 +378,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-battle-187-rankx-vs-topn.md",
-      "title": "DAX Fridays Battle #187: RANKX vs TOPN",
-      "excerpt": "You have asked me many times to explain the difference between RANKX and TOPN and it is finally here.  Links to related videos: 00:30 Calculate vs calculatetable https://www.youtube.com/watch?v=P4B9FbzrotM  01:55 Scalar vs table vs other DAX functions https://www.youtube.com/watch?v=oA_GYuoqgsY  05:56",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-battle-187-rankx-vs-topn/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-battle-187-rankx-vs-topn/",
-      "originalUrl": "https://youtube.com/watch?v=SQ_IstiM5ME",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SQ_IstiM5ME\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M14S",
+      "path": "_learning/videos/curbal-dax-fridays-25-wrong-grand-totals-in-power-bi.md",
+      "title": "DAX Fridays! #25: Wrong Grand Totals in Power BI",
+      "excerpt": "In today's video we will go through why sometimes Power BI grand totals dont add up and what to do to fix it.  Link to Power BI file used in the video, get file #41 on the community downloads folder: https://curbal.com/donwload-center  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-25-wrong-grand-totals-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-25-wrong-grand-totals-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=ufHOOLdi_jk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ufHOOLdi_jk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M25S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -258,42 +398,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-09T04:10:47-07:00",
+      "publishedDateTime": "2017-02-09T12:16:05-08:00",
       "heat": 55,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/SQ_IstiM5ME/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-bi-dax-for-beginners-average-averagea-averagex.md",
-      "title": "Power BI DAX for Beginners: AVERAGE, AVERAGEA, AVERAGEX",
-      "excerpt": "Welcome to the complete Power BI DAX Beginner Series. During this session, we will discuss the AVERAGE function in DAX. AVERAGE function in Power BI DAX has lots of variations. During this session, we will cover AVERAGE, AVERAGEA, AVERAGEX. So, Let's get started!  The Episode covers the following information:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-dax-for-beginners-average-averagea-averagex/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-dax-for-beginners-average-averagea-averagex/",
-      "originalUrl": "https://youtube.com/watch?v=Xoarx0QJeZ8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Xoarx0QJeZ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M48S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-10-07T04:58:06-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Xoarx0QJeZ8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ufHOOLdi_jk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -806,25 +915,33 @@
       ]
     },
     {
-      "path": "_learning/videos/absent-data-channel-year-over-year-and-month-over-month-calculations-in-power-bi.md",
-      "title": "Year over Year and Month over Month Calculations in Power BI",
-      "excerpt": "Learn how to quickly produce time intelligence calcution in Power BI using these easy to follow DAX equations. Elevate your time series analysis.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-year-over-year-and-month-over-month-calculations-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-year-over-year-and-month-over-month-calculations-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=80i8rLQtO3o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/80i8rLQtO3o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M50S",
+      "path": "_learning/videos/curbal-2-dax-fridays-101-introduction-to-filter-and-row-context.md",
+      "title": "#2 DAX Fridays! 101: Introduction to filter and row context",
+      "excerpt": "Are you new to DAX and want to learn what those things called filter context and row context are? I will attempt to do just that in today's video. Let me know how I did in the comments :) #dax #powerbi #daxfridays #curbal  Happy friday!  DAX 101 playlist: https://www.youtube.com/playlist?list=PLDz00l_jz6zwdC_xdTp_QANkHYIzs1BJG&disable_polymer=true",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-2-dax-fridays-101-introduction-to-filter-and-row-context/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-2-dax-fridays-101-introduction-to-filter-and-row-context/",
+      "originalUrl": "https://youtube.com/watch?v=xV-KwuSDFMQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xV-KwuSDFMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M14S",
       "provider": {
-        "name": "Absent Data Channel",
-        "domain": "absentdata.com"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-07-25T19:59:10-07:00",
+      "publishedDateTime": "2019-06-28T04:30:46-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/80i8rLQtO3o/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/xV-KwuSDFMQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -876,14 +993,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-how-to-create-stunning-multicards-in-power-bi-with-a-little-bit-of-dax.md",
-      "title": "How to create STUNNING multicards in Power BI with a little bit of DAX",
-      "excerpt": "In this video I am going to show you how, with a little bit of DAX, you can create stunning multicards.  Emoji wesite: https://unicode-table.com/  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-create-stunning-multicards-in-power-bi-with-a-little-bit-of-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-create-stunning-multicards-in-power-bi-with-a-little-bit-of-dax/",
-      "originalUrl": "https://youtube.com/watch?v=IDCcGiRvk2g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IDCcGiRvk2g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M28S",
+      "path": "_learning/videos/curbal-dax-fridays-204-slice-by-the-results-of-a-measure.md",
+      "title": "DAX Fridays #204: Slice by the results of a measure",
+      "excerpt": "Have you ever wanted to turn your measure into a slicer? Here is how you do  it!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r \r Our PLAYLISTS:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-204-slice-by-the-results-of-a-measure/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-204-slice-by-the-results-of-a-measure/",
+      "originalUrl": "https://youtube.com/watch?v=xO9Caya9Qxw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xO9Caya9Qxw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M59S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -896,42 +1013,11 @@
           }
         ]
       },
-      "publishedDateTime": "2022-03-03T03:47:20-08:00",
+      "publishedDateTime": "2021-04-14T03:46:27-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-create-a-comparison-report-in-power-bi.md",
-      "title": "Create a Comparison Report in Power BI",
-      "excerpt": "Sometimes there are situations where we need to compare one category with another and need to create a comparison report in Power BI. Then, how we can build a Power BI report which shows a comparison between categories from the same table? Here, I have explained the entire start to end procedure, for",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-create-a-comparison-report-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-create-a-comparison-report-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=DGRCLcfUHM4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DGRCLcfUHM4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M31S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-03-09T02:14:11-08:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DGRCLcfUHM4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/xO9Caya9Qxw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -946,31 +1032,31 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-dynamic-labels-in-power-bi-using-dax.md",
-      "title": "Dynamic labels in Power BI using DAX",
-      "excerpt": "In this video, Patrick uses a little DAX, and the SelectedValue function, to get you some dynamic labels in your Power BI reports.  For more information about SelectedValue, check out Marco Russo's blog on the function - https://www.sqlbi.com/articles/using-the-selectedvalue-function-in-dax/  LET'S CONNECT!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dynamic-labels-in-power-bi-using-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dynamic-labels-in-power-bi-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=fSHcLxA9rY4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fSHcLxA9rY4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M1S",
+      "path": "_learning/videos/curbal-dax-fridays-212-using-inactive-relationships-in-slicers-userelationship.md",
+      "title": "DAX Fridays #212: Using inactive relationships in slicers | USERELATIONSHIP",
+      "excerpt": "In today's video we will tak about inactive relationshipls, when and how to create them and how you can use them in slicers.  00:00 Intro 00:20 Present the use case 01:50 Show issues without inactive relationships 03:00 When and how to use inactive relationships 04:20 Use userelationship to activate",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-212-using-inactive-relationships-in-slicers-userelationship/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-212-using-inactive-relationships-in-slicers-userelationship/",
+      "originalUrl": "https://youtube.com/watch?v=X9rkpt7-LNQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X9rkpt7-LNQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M36S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2017-10-18T06:58:50-07:00",
+      "publishedDateTime": "2021-05-12T05:16:54-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/fSHcLxA9rY4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/X9rkpt7-LNQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -985,31 +1071,31 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-analyzing-a-slow-report-query-in-dax-studio.md",
-      "title": "Analyzing a slow report query in DAX Studio",
-      "excerpt": "Investigate a slow query in a Power BI report using DAX Studio, looking at the query plan and the server timings. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/ Optimizing DAX Workshop: https://www.sqlbi.com/p/optimizing-dax-video-course/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-analyzing-a-slow-report-query-in-dax-studio/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-analyzing-a-slow-report-query-in-dax-studio/",
-      "originalUrl": "https://youtube.com/watch?v=C5HBhlLUFsE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C5HBhlLUFsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M33S",
+      "path": "_learning/videos/curbal-dax-fridays-81-calculatetable.md",
+      "title": "DAX Fridays! #81: CALCULATETABLE",
+      "excerpt": "In todays video we are going to cover the DAX function CALCULATETABLE.  CALCULATETABLE allows you to create virtual tables that you can then filter using multiple conditions and use that table to make further calculations.   What is the difference between CALCULATETABLE and CALCULATE?  The first one",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-81-calculatetable/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-81-calculatetable/",
+      "originalUrl": "https://youtube.com/watch?v=aA8zIJ-qcO8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aA8zIJ-qcO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M37S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2020-07-16T03:00:11-07:00",
+      "publishedDateTime": "2018-05-11T03:35:28-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/C5HBhlLUFsE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aA8zIJ-qcO8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1020,85 +1106,6 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-calculate-in-dax-06-using-allselected.md",
-      "title": "CALCULATE in DAX #06: Using ALLSELECTED",
-      "excerpt": "Learn how to correctly use ALLSELECTED in CALCULATE to compare a number with visual totals. How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt CALCULATE function: https://dax.guide/calculate/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-calculate-in-dax-06-using-allselected/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-calculate-in-dax-06-using-allselected/",
-      "originalUrl": "https://youtube.com/watch?v=UehWR5wWWEo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UehWR5wWWEo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M15S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-15T03:00:22-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UehWR5wWWEo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-comparing-dax-calculated-columns-with-power-query-computed-columns.md",
-      "title": "Comparing DAX calculated columns with Power Query computed columns",
-      "excerpt": "Learn how to choose between DAX and Power Query when a table needs to compute additional columns. Article and download: https://sql.bi/439946/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-comparing-dax-calculated-columns-with-power-query-computed-columns/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-comparing-dax-calculated-columns-with-power-query-computed-columns/",
-      "originalUrl": "https://youtube.com/watch?v=-x2dLTtKiR8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-x2dLTtKiR8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M5S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-28T03:00:19-08:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-x2dLTtKiR8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query",
         "DAX"
       ]
     }

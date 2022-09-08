@@ -199,45 +199,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-146-ignore-rollupgroup-rollupaddissubtotals.md",
-      "title": "DAX Fridays! #146: IGNORE, ROLLUPGROUP, ROLLUPADDISSUBTOTALS",
-      "excerpt": "Link to resources mentioned in the video: Summarize : https://www.youtube.com/watch?v=-Ola264bKXk Addcolumns+summarize : https://www.youtube.com/watch?v=hoIsIsa6b4M Summarize + rollupgroup: https://www.youtube.com/watch?v=V0lLgLVL1xg Summarizecolumns:  https://www.youtube.com/watch?v=IdMsKbHfyn4  Get",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-146-ignore-rollupgroup-rollupaddissubtotals/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-146-ignore-rollupgroup-rollupaddissubtotals/",
-      "originalUrl": "https://youtube.com/watch?v=ao1o3LeFMPQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ao1o3LeFMPQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M33S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-10-03T06:07:31-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ao1o3LeFMPQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-dax-fridays-147-isonorafter.md",
       "title": "DAX Fridays! #147: ISONORAFTER",
       "excerpt": "In today's video we are going to go through the DAX function called ISONORAFTER.  Happy Friday everybody!!   Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK   Here you can download all the pbix files: https://curbal.com/donwload-center",
@@ -263,6 +224,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ho0OJNBukUw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-149-removefilters.md",
+      "title": "DAX Fridays! #149: REMOVEFILTERS",
+      "excerpt": "In today's video, we will go through the new dax function that was introduced on Aug 2019 called REMOVEFILTERS.   Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK   Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-149-removefilters/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-149-removefilters/",
+      "originalUrl": "https://youtube.com/watch?v=LdlbddP9C_U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LdlbddP9C_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M56S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-14T05:29:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LdlbddP9C_U/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -512,84 +512,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-16-dateadd.md",
-      "title": "DAX Fridays #16: DATEADD",
-      "excerpt": "DATEADD is a really useful function to create sets of dates backwords or forward from a point in time. It is used for Previous date calculations. In this video, I show you how it works.  Link to DAX Studio: https://daxstudio.codeplex.com/  Link to YTD video and Power BI file: https://www.youtube.com/watch?v=5WGOTsYngCI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-16-dateadd/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-16-dateadd/",
-      "originalUrl": "https://youtube.com/watch?v=iw-WfZM9L3U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iw-WfZM9L3U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M55S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-12-08T11:04:58-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iw-WfZM9L3U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-160-random-sample-using-dax.md",
-      "title": "DAX Fridays 160: Random SAMPLE using DAX",
-      "excerpt": "Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r \r Our PLAYLISTS:\r - Join our DAX Fridays! Series: https://goo.gl/FtUWUX\r - Power BI dashboards",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-160-random-sample-using-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-160-random-sample-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=ULQz5PDbgaE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ULQz5PDbgaE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M6S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-11-29T07:40:50-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ULQz5PDbgaE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-dax-fridays-161firstnonblank-value-of-a-measure.md",
       "title": "DAX Fridays! #161:FIRSTNONBLANK value of a measure",
       "excerpt": "In today's video I will show you how to get the top value of a measure so we can crack the billionaire's algorithm.  Link if you want to play with the report: https://app.powerbi.com/view?r=eyJrIjoiY2E2NWFhZGUtYTU4Ni00ODkwLWIyYjAtZDAxZjhmMTgxY2Y5IiwidCI6IjRmMWNiNzZmLTlhODUtNDc3Mi04MWIwLTVkYWVjZjlmYTQyMCIsImMiOjh9",
@@ -654,6 +576,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/SqEMY3JkIYU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-164-this-you-need-to-know-about-firstnonblank-and-firstnonblankvalues.md",
+      "title": "DAX Fridays! #164: This you need to know about FIRSTNONBLANK and FIRSTNONBLANKVALUES",
+      "excerpt": "DAX Fridays! #164: This you need to know about FIRSTNONBLANK and FIRSTNONBLANKVALUES  It is power week, which means that the power bi team has released a new power bi desktop update and this time we are going to review the new DAX functions FIRSTNONBLANKVALUES and LASTNONBLANKVALUES as well as compare",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-164-this-you-need-to-know-about-firstnonblank-and-firstnonblankvalues/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-164-this-you-need-to-know-about-firstnonblank-and-firstnonblankvalues/",
+      "originalUrl": "https://youtube.com/watch?v=RzE4W1IhR0c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RzE4W1IhR0c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M4S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-19T07:43:50-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RzE4W1IhR0c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -849,6 +810,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fp7AtCepFUA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-173-8-best-practices-for-time-intelligence-in-power-bi.md",
+      "title": "DAX Fridays! #173: 8 Best practices for Time Intelligence  in Power BI",
+      "excerpt": "Follow this rules to get your time intelligence functions working in Power BI.  Disable auto date/Time: https://www.youtube.com/watch?v=d4yAzhIQqNk  Avoid bi-directional relationships in calendars: https://www.youtube.com/watch?v=IlxqDCIuarU  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-173-8-best-practices-for-time-intelligence-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-173-8-best-practices-for-time-intelligence-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=mAZR5Hf0NYQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mAZR5Hf0NYQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M8S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-05-22T01:56:40-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mAZR5Hf0NYQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1137,14 +1137,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-183-use-blank-as-date-in-some-dax-functions.md",
-      "title": "DAX Fridays #183: Use blank() as date in some DAX functions?",
-      "excerpt": "Yes, you can :) and in this video I will show you how it works and when it doesnt.  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r \r Our PLAYLISTS:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-183-use-blank-as-date-in-some-dax-functions/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-183-use-blank-as-date-in-some-dax-functions/",
-      "originalUrl": "https://youtube.com/watch?v=h5jaHmufbtI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h5jaHmufbtI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M5S",
+      "path": "_learning/videos/curbal-dax-fridays-183-how-to-deal-with-multiple-dates-in-power-bi.md",
+      "title": "DAX Fridays! #183: How to deal with multiple dates in Power BI",
+      "excerpt": "So you have order date, shipped date, required date....and only one calendar. How do you manage that in power bi and DAX?  This scenario is often called role playing dimensions and in this video I will show you two ways to solve it. :) Happy Friday!!  Links to videos mentioned: Introduction to data modeling:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-183-how-to-deal-with-multiple-dates-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-183-how-to-deal-with-multiple-dates-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=aVcHCfOAtZA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aVcHCfOAtZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M41S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -1157,11 +1157,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-08-24T04:22:47-07:00",
+      "publishedDateTime": "2020-08-21T02:44:21-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/h5jaHmufbtI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/aVcHCfOAtZA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

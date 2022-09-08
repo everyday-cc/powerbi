@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 45385,
-            "average": 4.7991185
+            "count": 45389,
+            "average": 4.799136
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 66513,
-            "average": 4.7780585
+            "count": 66523,
+            "average": 4.778092
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -136,8 +136,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 66513,
-        "average": 4.7780585
+        "count": 66523,
+        "average": 4.778092
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -201,8 +201,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 66513,
-            "average": 4.7780585
+            "count": 66523,
+            "average": 4.778092
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -243,8 +243,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 29708,
-            "average": 4.7251244
+            "count": 29710,
+            "average": 4.725143
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -304,7 +304,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 201,
+          "heat": 202,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/model-data-with-power-bi-desktop-social.png",
@@ -388,8 +388,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 45385,
-        "average": 4.7991185
+        "count": 45389,
+        "average": 4.799136
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -423,6 +423,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-automating-your-formatted-tables-in-power-bi.md",
+      "title": "Automating your formatted tables in Power BI!",
+      "excerpt": "Wondering how you can take advantage of the Formatted Tables feature in Power BI and automate the output to email? Jason Himmelstein shows you how you can do this with Power Automate!  Connect with Jason: https://twitter.com/jasehimm https://www.linkedin.com/in/jasonhimmelstein/ https://bifocal.show/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-automating-your-formatted-tables-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-automating-your-formatted-tables-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=5ZjO1ImFmh4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ZjO1ImFmh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M34S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-09-07T08:00:06-07:00",
+      "heat": 290,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-introduction-power-platform.md",
       "title": "Introduction to Microsoft Power Platform",
       "excerpt": "Introduction to Microsoft Power Platform",
@@ -430,8 +468,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 36140,
-        "average": 4.741976
+        "count": 36153,
+        "average": 4.7418747
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -472,8 +510,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 29708,
-        "average": 4.7251244
+        "count": 29710,
+        "average": 4.725143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -515,8 +553,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 23422,
-        "average": 4.7656903
+        "count": 23424,
+        "average": 4.7657104
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -544,44 +582,6 @@
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-automating-your-formatted-tables-in-power-bi.md",
-      "title": "Automating your formatted tables in Power BI!",
-      "excerpt": "Wondering how you can take advantage of the Formatted Tables feature in Power BI and automate the output to email? Jason Himmelstein shows you how you can do this with Power Automate!  Connect with Jason: https://twitter.com/jasehimm https://www.linkedin.com/in/jasonhimmelstein/ https://bifocal.show/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-automating-your-formatted-tables-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-automating-your-formatted-tables-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=5ZjO1ImFmh4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5ZjO1ImFmh4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M34S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-09-07T08:00:06-07:00",
-      "heat": 228,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -618,8 +618,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 12894,
-            "average": 4.75826
+            "count": 12897,
+            "average": 4.7582383
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -660,8 +660,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15353,
-            "average": 4.7729435
+            "count": 15358,
+            "average": 4.772887
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -678,7 +678,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 210,
+          "heat": 211,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/clean-transform-and-load-data-in-power-bi-social.png",
@@ -696,7 +696,7 @@
         }
       ],
       "size": 2,
-      "heat": 210,
+      "heat": 211,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/get-data-social.png",
@@ -720,8 +720,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 15353,
-        "average": 4.7729435
+        "count": 15358,
+        "average": 4.772887
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -738,52 +738,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 210,
+      "heat": 211,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/clean-transform-and-load-data-in-power-bi-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-get-data.md",
-      "title": "Get data in Power BI",
-      "excerpt": "You will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. You will also learn how to improve performance while retrieving data.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
-      "length": "PT1H25M",
-      "ratings": {
-        "count": 12894,
-        "average": 4.75826
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 201,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/get-data-social.png",
           "width": 643,
           "height": 321,
           "isCached": true
@@ -822,12 +780,54 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 201,
+      "heat": 202,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/model-data-with-power-bi-desktop-social.png",
           "width": 800,
           "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-get-data.md",
+      "title": "Get data in Power BI",
+      "excerpt": "You will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. You will also learn how to improve performance while retrieving data.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
+      "length": "PT1H25M",
+      "ratings": {
+        "count": 12897,
+        "average": 4.7582383
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 201,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/get-data-social.png",
+          "width": 643,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -864,7 +864,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 199,
+      "heat": 200,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -993,7 +993,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 199,
+          "heat": 200,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1009,8 +1009,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10086,
-            "average": 4.7048383
+            "count": 10087,
+            "average": 4.704868
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1111,8 +1111,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 10086,
-        "average": 4.7048383
+        "count": 10087,
+        "average": 4.704868
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1153,8 +1153,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 9467,
-        "average": 4.749023
+        "count": 9469,
+        "average": 4.749076
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1278,7 +1278,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 146,
+          "heat": 147,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
@@ -1302,8 +1302,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 4840,
-            "average": 4.6876035
+            "count": 4841,
+            "average": 4.687668
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1320,7 +1320,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 141,
+          "heat": 142,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-reports-with-power-bi-desktop-social.png",
@@ -1446,8 +1446,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 7812,
-        "average": 4.751664
+        "count": 7815,
+        "average": 4.7516313
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1511,8 +1511,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 7812,
-            "average": 4.751664
+            "count": 7815,
+            "average": 4.7516313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1553,8 +1553,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6462,
-            "average": 4.7157226
+            "count": 6463,
+            "average": 4.715612
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1596,8 +1596,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 7706,
-            "average": 4.767584
+            "count": 7707,
+            "average": 4.767484
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1656,8 +1656,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 7706,
-        "average": 4.767584
+        "count": 7707,
+        "average": 4.767484
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1736,8 +1736,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 7259,
-        "average": 4.7280617
+        "count": 7260,
+        "average": 4.7280993
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1812,8 +1812,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 6462,
-        "average": 4.7157226
+        "count": 6463,
+        "average": 4.715612
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1911,7 +1911,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 146,
+      "heat": 147,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",

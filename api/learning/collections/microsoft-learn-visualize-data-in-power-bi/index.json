@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 146,
+      "heat": 147,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 4840,
-        "average": 4.6876035
+        "count": 4841,
+        "average": 4.687668
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 141,
+      "heat": 142,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/create-reports-with-power-bi-desktop-social.png",

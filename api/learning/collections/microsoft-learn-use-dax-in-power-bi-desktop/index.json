@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 2840,
-        "average": 4.755282
+        "count": 2841,
+        "average": 4.755016
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 116,
+      "heat": 117,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-models-social.png",
@@ -202,7 +202,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 80,
+      "heat": 81,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/use-dax-iterator-functions-power-bi-desktop-social.png",
