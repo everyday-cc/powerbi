@@ -798,8 +798,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4649,
-            "average": 4.727038
+            "count": 4650,
+            "average": 4.7268815
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -858,8 +858,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 4649,
-        "average": 4.727038
+        "count": 4650,
+        "average": 4.7268815
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -900,8 +900,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 10090,
-        "average": 4.7048564
+        "count": 10091,
+        "average": 4.7048855
       },
       "provider": {
         "name": "Microsoft Learn",
