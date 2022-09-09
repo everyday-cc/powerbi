@@ -587,8 +587,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 1003,
-        "average": 4.7118645
+        "count": 1004,
+        "average": 4.7121515
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -675,8 +675,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 151,
-        "average": 4.655629
+        "count": 152,
+        "average": 4.6578946
       },
       "provider": {
         "name": "Microsoft Learn",

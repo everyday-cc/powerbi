@@ -4,6 +4,32 @@
   "page": 46,
   "value": [
     {
+      "path": "_learning/articles/excelerator-bi-dynamic-commentary-in-power-bi.md",
+      "title": "Dynamic Commentary in Power BI",
+      "excerpt": "Today is another in my series where I am building out my COVID report for Australia. There are a few things I cover in the video today.  The main &#8220;new&#8221; concept is the dynamic commentary, but I also show you some more warts and all insider view of building a [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-dynamic-commentary-in-power-bi/index.json",
+      "webUrl": "https://exceleratorbi.com.au/dynamic-commentary-in-power-bi/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2021-09-20T18:14:17-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/09/Thumbnail-e1632139127781.jpg",
+          "width": 750,
+          "height": 422,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/articles/excelerator-bi-dynamic-formatting-of-switch-measures.md",
       "title": "Dynamic Formatting of Switch Measures",
       "excerpt": "History of Switch Measures Using a switch measure to toggle results is a mature and common technique used in Power BI and Power Pivot for Excel. For example, a switch measure can be used to toggle what appears on a chart so that the end user can easily switch the [...]Read More »",
@@ -754,32 +780,6 @@
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/10/093020_2217_WaterfallCh4.png",
           "width": 481,
           "height": 304,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-what-is-power-bi-and-why-should-i-care.md",
-      "title": "What is Power BI and Why Should I Care?",
-      "excerpt": "As my regular readers may know, I am the co-organiser and co-founder for the official Power BI User Group here in Sydney.  During the period where COVID has impacted our ability to congregate face to face, Iman and I have been running virtual, online meetup events.  Last week I presented [...]Read More",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-what-is-power-bi-and-why-should-i-care/index.json",
-      "webUrl": "https://exceleratorbi.com.au/what-is-power-bi-and-why-should-i-care/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-02-19T20:11:14-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/02/What-is-Power-BI-Featured-Image-2.jpg",
-          "width": 750,
-          "height": 426,
           "isCached": true
         }
       ],
