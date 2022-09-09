@@ -471,8 +471,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 23451,
-        "average": 4.765511
+        "count": 23453,
+        "average": 4.765531
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -577,8 +577,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 29723,
-        "average": 4.7250614
+        "count": 29726,
+        "average": 4.725022
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -941,8 +941,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 12908,
-            "average": 4.758212
+            "count": 12910,
+            "average": 4.758172
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -983,8 +983,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15375,
-            "average": 4.772943
+            "count": 15379,
+            "average": 4.773002
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1043,8 +1043,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 12908,
-        "average": 4.758212
+        "count": 12910,
+        "average": 4.758172
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1239,8 +1239,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 15375,
-        "average": 4.772943
+        "count": 15379,
+        "average": 4.773002
       },
       "provider": {
         "name": "Microsoft Learn",
