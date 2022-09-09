@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M13S
 publishedDateTime: 2018-03-09T10:31:49Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_FuL3kYoF0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "bxadKY/8zDhfjAlS/7CAUKlo+AbePLAaEEAT3skqmPwjLDlQ1asZ+Uk73K5EV5sKys5/7G/kdMqffVVNG7hoCLQiwbQ0MSjsfmjY9T7RYtA5p0GULUHyUk11KNHBNAoSp63NOLalLWuuaMnTM0fCOagsgMNKSTfbzLz8m8WBDuNbYhdjAu2A/CrMVZvI2ucGu30qrLEll5owm/kt1ZztKU6cbX3qcIJPfKwGjJx0zEIWf/5RD/Yh68m4jJ+fm2s8uJtN+XrR9DNLWn3EFqzFT9h85p/r12Fy9pYJ4WNu9O2nb0qigksusOjnMtEEvDSjDhUvmA7ozytZZ9s8cCK18ejUq1mmul0ur7WMqTcgbxEmJuGpSsh//mHUXCuE7rt/NtB5qEXS3oBomaYqtNl0QurUvelzqd4mJRm6DJq7+vc=;QCAoBmUcrKLROKofYPeS2Q=="
+secured: "RSkMODAyjaYOKsxjv1z4AMZiVnskRyopoJQBwfeP3MGThYyR+M4Z+T7gaacOfLRflAtp1xYeszFmBkcPD26hcs7mZ9HepbZrIZmpmMYjL+o5RBo0dxgtp9OOl7HXhrRMqrq5uv3LDMVIB/P3lwa7h2pikm0vgXtTs+3aCv892EAMiem26Ido/YHp++GEPRfzbSzWkKHEhHDLWtdy1On7ZFiw9WxKaUusbE3AnAre8vbQEgI11eVEtj0+oWl8WXHF/wbn8jZPc2JDKrKyEkEGcBJn7g6yVxrGEmFQ6b08l4LTemKaaWTXIkYg6gYySZQUGxjDZFipSKQsVytShcyt/TkgeciHCNiBxysWQyaM2rCjnXGkfqRx/wdWxljTAcOWu0c6P3bWvrMQ+P5x1grtcJ0zJDqd8awzpRaUo3d7NZk=;IAJjTbs1M3Q+/6DHFLwzlg=="
 ---
 
