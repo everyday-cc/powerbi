@@ -4,7 +4,7 @@ excerpt: "Power BI administrators manage every aspect of their tenant. This lear
 type: collection
 price: Free
 length: PT1H15M
-heat: 62
+heat: 60
 
 provider:
   name: Microsoft Learn
