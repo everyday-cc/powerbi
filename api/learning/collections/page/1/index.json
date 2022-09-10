@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 45487,
-            "average": 4.799239
+            "count": 45490,
+            "average": 4.7992306
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 66624,
-            "average": 4.778113
+            "count": 66628,
+            "average": 4.7781115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 66624,
-            "average": 4.778113
+            "count": 66628,
+            "average": 4.7781115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -390,8 +390,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 29749,
-            "average": 4.725033
+            "count": 29752,
+            "average": 4.724993
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -558,8 +558,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 12930,
-            "average": 4.7580047
+            "count": 12932,
+            "average": 4.758042
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -600,8 +600,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15397,
-            "average": 4.7729425
+            "count": 15399,
+            "average": 4.772972
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2789,8 +2789,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 1938,
-            "average": 4.7162023
+            "count": 1939,
+            "average": 4.7163486
           },
           "provider": {
             "name": "Microsoft Learn",
