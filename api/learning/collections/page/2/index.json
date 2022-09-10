@@ -3024,8 +3024,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 7720,
-            "average": 4.767228
+            "count": 7721,
+            "average": 4.767258
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3911,7 +3911,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 57,
+          "heat": 137,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
@@ -4338,8 +4338,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 167,
-            "average": 4.760479
+            "count": 168,
+            "average": 4.7559524
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4714,8 +4714,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4833,
-            "average": 4.7339125
+            "count": 4834,
+            "average": 4.733968
           },
           "provider": {
             "name": "Microsoft Learn",

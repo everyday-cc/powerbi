@@ -575,7 +575,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 57,
+          "heat": 137,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
@@ -868,8 +868,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 2848,
-        "average": 4.754565
+        "count": 2849,
+        "average": 4.7546506
       },
       "provider": {
         "name": "Microsoft Learn",
