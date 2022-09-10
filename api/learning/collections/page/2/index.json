@@ -644,7 +644,7 @@
             ]
           },
           "publishedDateTime": "2020-05-10T02:10:00-07:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/IRPEAIgZeY8/maxresdefault.jpg",
@@ -682,7 +682,7 @@
             ]
           },
           "publishedDateTime": "2020-05-10T02:10:00-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/513vtuMw5bY/maxresdefault.jpg",
@@ -3781,8 +3781,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4654,
-            "average": 4.7271166
+            "count": 4655,
+            "average": 4.727175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4065,8 +4065,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3066,
-            "average": 4.706458
+            "count": 3067,
+            "average": 4.706228
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4107,8 +4107,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4566,
-            "average": 4.805081
+            "count": 4567,
+            "average": 4.805124
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4719,8 +4719,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4830,
-            "average": 4.7337475
+            "count": 4833,
+            "average": 4.7339125
           },
           "provider": {
             "name": "Microsoft Learn",
