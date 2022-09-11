@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M20S
 publishedDateTime: 2020-05-20T15:00:37Z
-heat: 62
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z1Z1axRSMzM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7Zc+JHJGzpv58KFl4jkVx0q+jefZR3x0IXs06sQBfUftpiRyao74/RBw9gON6KG4/rLOncn5pjOrgFbABS2+grdCflQ+jNxipw8a16sABYLsp9uBVtsI8lS5ssy6Bv1Tj32hOUtikYKnj3iADVggzfVJrnDKKlV+KcX44YOKK+d+LhxrlmMrGCYa2V7QIPMmpZstUGO0wVYBCWVZ8MJBt14YRvDFuC3bOCFZ7M2opLTwfBYe/HNIegzPL7mZBjKPAfan6Hkmae8P72uVdpxp4+Q6RTC/eenbbBjaNHIecHddEIGk0ApY/Pjtz0p1hniCPw8+7qxEIrxA5rm8Ns3Fzpp0+YftPZiBL4opDqVkcuZpu9NeocmrQH5oK4aYzrk5n/jTb13IK1L6NlaNIQ9evEaY2EmVkdEreT7ZSbfcYKlU0tb4OHodPlS5SKtvVA1D;+6LnP75wX53oKJa0Qe/DNA=="
+secured: "Fl/rrl1cFwhSO3AzOFL6DmPxDZ9/GLLuRB1IclGXgnoBiC0o4i/466lLp2LrfV2hBC2J7JT2k2XfOugep5Hl99PVFf2pFPLFI1SKRHJB2NVsfdF0q5/bxBU6S9hsRecZlkgmxB8RFglYh7Wc8ogAmCfOOYQNXlVV3u1C96leub1afkV5wEVftmKoc45xf0zNhn0cXkO1eGV1J/fGlpMxQ681E/v/l6ARi2B41/Sl8G1z6lQ10hUESD+8fFwGtfEMQeBwas960KeTzsC6JoRcOM/uWiwz06p/2He4Lm4qPkFGiBoKpdaVTvV2JPCzvnPTqUHqgZJQX9qacAgSnYJM/sBLp+MX0D/zctbZGdVGh0Oev/ziMeIOfF+g1u76oPLbcJ5N33Qqv9zNqsHP6flAAk9K+9FK8260egfwi8JrlRTaHtOuZPmi20u3hwKQdAeV;qlRb1aNYo6EXpulN6lrOaA=="
 ---
 

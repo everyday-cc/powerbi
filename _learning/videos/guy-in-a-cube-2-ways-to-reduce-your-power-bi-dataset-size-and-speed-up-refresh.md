@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT17M24S
 publishedDateTime: 2019-08-22T10:32:29Z
-heat: 63
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c-ZqToc85Yc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Ft6e7vZ8Vr8XZSPUL7mFlLgogp3zsASuawOaA+PaQmr/PYFbIgFrDLYugEvWVVXogMaEF02yf7f0sXlLr9sWO9NZDKdgQVya7ent4jzhXewDyrbvJuLOb6qcpiQdJJN3u5xOmL4P4PLXDKt3Yi245H1Lyst7NyuaoTfb4U2YZz2DUMPNRJ7XgejaVmx6HCWq8RQDc/8UQDRFu699CzbU2XLZGAxmUe1/wqNvOUz3I/GgY1C8Xlj12elM7WirBCTjRe7oPiUkaQZ/yllG6qsmtjtnvl5cQgLN/msIhONXRZbsdFebEr742U6UglIaPvN8gIK0jeeGoOYVxeXr2tuGKtORrc8znPMhzw9aUIjhyzwcZJ2yvlEETxzrYUqt4Q9apVmL8ETLRig8cBaoGTp7uczhhLzHOBpIzNdisthDd0zTv228rklEGV1EHgHzLXBn;+q/Mj7/+fX+OM4+PFYo5KQ=="
+secured: "Z5E62+ZKS5SJKaw+uJe1rL5RmuCV/2MAQSC22US70d0Ylj8VdYcNqLODkKf5qNAdKDsjuecXByVo3JYPk3hSRDRCyGw6yYr5NjFK+dtjiHGvv6bfSctEE93KviISPxLVoFhpbDi6QzpFgFczl4YuDvFnBwJtRcI3EgmAGszrTaud2MR9MZ1NvH+EEk1dxIIZGbFGZqIxY00jrT/QMRdAi3Uqby6rM5A1c6stVpUKVyYzxJMubZMRCz0SpB7DdA2RV6wkBKhCAopifIMP930mesDKYtw8mf/9sh3i3so6IztlUT9WcJ0KpaP8MpyBx89CQViFEsmYh+DDFPViXQpn2RjVXCCIH+GNEY98YNeyj3g5+Xc7e1eldhwNdmuhQ1JGSSO6JqyfvdmR0t74pifYR9zqNgr22cJj75PGGtBxv3puJFxfiVt6gKfLo8/J5e4U;KBZVl2hRh9LAyuAI8NF/zg=="
 ---
 
