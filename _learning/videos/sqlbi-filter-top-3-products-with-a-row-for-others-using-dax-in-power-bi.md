@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT36M46S
 publishedDateTime: 2021-01-04T20:30:16Z
-heat: 56
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nVvlEHKr_0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9/m2mECdqcWNaLIy/1vbxL6PRgNZ7Xp1eK0vfb+e2ASKsBlBUinAPthJRmiPnFJZpjejUpUuH75U4E3b4MrFBVWGmt6KzP0NeZqjHxHwMmvKups8CNEo+Uf9xuEv6FuVcwp8q92uOMMIa2QkJAX/NCYkzF2ugViOTFTvPLyaiwdjdrXl4yhf3xtsnhq7nEY3b7v2B2szlsubEjwTQF8PagjUqqJT2V/KHmp9ZzIrrA7VqWegkHcwqzLkNXuo9sszIhD0uu3VqGzoSdJFe74qbfmx32MgMTSNZmKVBSdNcB9ebh5Aq9VgF53E+Ov56W6MOPvkjruKgShQ+VKBcdQpR+mP4JJgd341RzS1ujFUVCXpAVSlt8xYyFJKhVqfbNbMQXjC6/at8zC+neWKMKGHHxzqHijcsjuI5A5uRbkpX0g=;kI5ILNZKZceSIce9ZZsuLQ=="
+secured: "GaysUzebQSzL9U/ZPVXDf61o92quHJG3hGQhaq5XAJsyh9NJ+o4v7iY5nij7Edmyz/qCtPedXyNE+kBmX4vP+2D/nMaB/0NSfiyU5PC3eZ40BMif3c0YuNMSKzIJ1LE8l1e+B3XOkgtgAnORBs6fmTye6Xa19ibe8T+/CBHtcpM7f6BkTKcJEde9rAKihkwziOQ12lqWXJSzFdWn3U2JNHS/unjGYt9EOR8DM33ZLncszRGq7x989BrlM9lqWLZ6moO7awxZPPhtBsrplEtKLN/sB/SAPASH1uIOMhIKqGVMKOIkDNbyXBEdM18VjRR+047ztNGOWliJYTqdoWFhVFi7KNBBDo9rEIW+W6CFQCXntjpx6oMPAwTk0dTKqyXcEfFXlewrTakEXpXM5a6WTBIGOzdxeD5hqUETd7Ox3oM=;8BNFoxQbJO44aTs8wl6hMw=="
 ---
 
