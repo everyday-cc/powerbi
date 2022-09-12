@@ -127,8 +127,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 23508,
-        "average": 4.765654
+        "count": 23509,
+        "average": 4.765664
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -273,8 +273,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 12955,
-            "average": 4.7580857
+            "count": 12956,
+            "average": 4.7581043
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -417,8 +417,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 12955,
-        "average": 4.7580857
+        "count": 12956,
+        "average": 4.7581043
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -965,7 +965,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 56,
+          "heat": 54,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/dax-power-bi-write-formulas-social.png",
