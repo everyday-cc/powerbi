@@ -1043,8 +1043,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
           "length": "PT1H30M",
           "ratings": {
-            "count": 49,
-            "average": 4.877551
+            "count": 50,
+            "average": 4.88
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3191,8 +3191,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 7843,
-        "average": 4.7513704
+        "count": 7844,
+        "average": 4.7514024
       },
       "provider": {
         "name": "Microsoft Learn",
