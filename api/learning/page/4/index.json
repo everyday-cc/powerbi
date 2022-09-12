@@ -2366,8 +2366,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 947,
-            "average": 4.774023
+            "count": 948,
+            "average": 4.7732067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2576,8 +2576,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 1947,
-            "average": 4.7170005
+            "count": 1949,
+            "average": 4.717291
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2620,8 +2620,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1380,
-            "average": 4.7289853
+            "count": 1381,
+            "average": 4.729182
           },
           "provider": {
             "name": "Microsoft Learn",
