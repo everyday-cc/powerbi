@@ -1772,8 +1772,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1228,
-            "average": 4.7394137
+            "count": 1229,
+            "average": 4.738812
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2837,7 +2837,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3902,8 +3902,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4656,
-            "average": 4.727234
+            "count": 4657,
+            "average": 4.727292
           },
           "provider": {
             "name": "Microsoft Learn",
