@@ -802,8 +802,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3079,
-            "average": 4.7031503
+            "count": 3081,
+            "average": 4.7030187
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -946,8 +946,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 6504,
-        "average": 4.713561
+        "count": 6505,
+        "average": 4.713605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -989,8 +989,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 4861,
-        "average": 4.68669
+        "count": 4863,
+        "average": 4.6868186
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1031,8 +1031,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 3079,
-        "average": 4.7031503
+        "count": 3081,
+        "average": 4.7030187
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1073,8 +1073,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 1350,
-        "average": 4.7444444
+        "count": 1354,
+        "average": 4.7437224
       },
       "provider": {
         "name": "Microsoft Learn",
