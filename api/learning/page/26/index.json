@@ -72,8 +72,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13162,
-            "average": 4.6785445
+            "count": 13163,
+            "average": 4.678569
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -273,8 +273,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4665,
-            "average": 4.726688
+            "count": 4666,
+            "average": 4.7267466
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -333,8 +333,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 4665,
-        "average": 4.726688
+        "count": 4666,
+        "average": 4.7267466
       },
       "provider": {
         "name": "Microsoft Learn",

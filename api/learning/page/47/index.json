@@ -532,8 +532,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 67,
-            "average": 4.7014923
+            "count": 68,
+            "average": 4.7058825
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -717,7 +717,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/understand-concepts-of-data-analytics-social.png",
