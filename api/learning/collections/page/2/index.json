@@ -1953,8 +1953,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1230,
-            "average": 4.737398
+            "count": 1231,
+            "average": 4.737612
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2458,8 +2458,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 201,
-            "average": 4.761194
+            "count": 202,
+            "average": 4.7623763
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2668,8 +2668,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 201,
-            "average": 4.761194
+            "count": 202,
+            "average": 4.7623763
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3838,8 +3838,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6495,
-            "average": 4.7145495
+            "count": 6497,
+            "average": 4.7146378
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3964,8 +3964,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3548,
-            "average": 4.769448
+            "count": 3549,
+            "average": 4.7695127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4318,8 +4318,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10100,
-            "average": 4.7048516
+            "count": 10101,
+            "average": 4.7048807
           },
           "provider": {
             "name": "Microsoft Learn",
