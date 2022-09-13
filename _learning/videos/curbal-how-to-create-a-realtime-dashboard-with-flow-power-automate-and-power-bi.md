@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT15M26S
 publishedDateTime: 2020-01-17T14:40:01Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/O6aEzXAFEqw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "WCW/l+NWg5fDukXuFNM/F6x7hmftIEb6G7M9Jj3x23q27YPn3ZYlc4GnMwXhOe5ClH4uV+E75aAEMnPRWP3jcXhGA8Y7+mL58LoJNcj9IezwnyHL7ehuK0UWXMiIMvMugu44XHnEsFzeCnamMSiFXaBGx4Mv6HKCHoL6fk74bBzHKzP4CUPHJIlVundkF5Hl9EdKfsJNMV15EcmDT9SsgC22WvUNT40pwOx+alqA6aGf+rcinABnMjmMaT4YOX5X8x3b+tC8xMSCCP2KpDTKxVkTduHnhYhATLPU9btHJ4rulwsqZbjLlzOQMSqrDxFYfTwuiDR+RRPbKeikAsGsCNQDngkLna7Es+lFDWNF+HarP0uNIIYOtGL5bL/dkqt2d2iyt5yK2CqESrKrxEh1GrCudLGzYxVpNuzGV/zRZjA=;vTW7OSJhABrKyIdlKgnN/Q=="
+secured: "/PI+LgWj8ksnqAB/juYgJRxJ6QcLt2Vth4zhvjIDEm3pHCUVVhyoX//N15/Omseway+JBn03J89NKsPnddhfJOUlD7wEu2mr6y4NsM7GM20uOKyjs/VZQ2tFLdy9SqaQ9B0uawEezwuA/p9SF3CyRhhv5WH/CVsz+ZBvgARgmSaN3pUkgtV464ULuQofs7845l9H8p5i8JrvFjd7eEcSXMav6Tc8NlkP2OvaA+lnCkH4BZm3PlIyfAUuhdPEskvcGG68BgnTxBcr9nxW9y4isnnsiq/8aiyPW0q1yop3zfmpDeLGAoC2+0LbPMduzXi2kRqteRp+lqkJE6sSnDNP36KcFhq0hr0PosFM57swkHD80yDVYEJN4IqzT5G8+jt6E6dhRGFs+5lJXvfDAhbHVLuDINlm65ZFXrikFP+xJaw=;+jgRYmY1y0Bko+BXbzRQsw=="
 ---
 
