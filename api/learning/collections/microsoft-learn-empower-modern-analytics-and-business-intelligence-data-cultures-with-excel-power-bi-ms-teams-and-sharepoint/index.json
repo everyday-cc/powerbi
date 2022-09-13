@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 394,
-        "average": 4.812183
+        "count": 395,
+        "average": 4.8126583
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -241,7 +241,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 130,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-publish-share-social.png",
