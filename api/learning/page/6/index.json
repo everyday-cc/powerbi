@@ -2426,8 +2426,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1355,
-            "average": 4.7439113
+            "count": 1358,
+            "average": 4.7444773
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2510,8 +2510,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 808,
-            "average": 4.7648516
+            "count": 809,
+            "average": 4.765142
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2678,8 +2678,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 1951,
-            "average": 4.717068
+            "count": 1952,
+            "average": 4.717213
           },
           "provider": {
             "name": "Microsoft Learn",
