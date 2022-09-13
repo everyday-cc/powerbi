@@ -513,7 +513,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-collaboration-social.png",
@@ -1266,8 +1266,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 15444,
-        "average": 4.7727275
+        "count": 15447,
+        "average": 4.7725124
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1883,8 +1883,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 7323,
-        "average": 4.7270246
+        "count": 7324,
+        "average": 4.7270617
       },
       "provider": {
         "name": "Microsoft Learn",

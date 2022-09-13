@@ -777,8 +777,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4283,
-            "average": 4.7226243
+            "count": 4284,
+            "average": 4.7224555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -963,8 +963,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 4370,
-        "average": 4.697483
+        "count": 4371,
+        "average": 4.697552
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1131,8 +1131,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 4283,
-        "average": 4.7226243
+        "count": 4284,
+        "average": 4.7224555
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1173,8 +1173,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 9500,
-        "average": 4.7492633
+        "count": 9501,
+        "average": 4.7492895
       },
       "provider": {
         "name": "Microsoft Learn",

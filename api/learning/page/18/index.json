@@ -531,8 +531,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3550,
-            "average": 4.7695775
+            "count": 3552,
+            "average": 4.769707
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -615,8 +615,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4580,
-            "average": 4.805022
+            "count": 4581,
+            "average": 4.805064
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -675,8 +675,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 3550,
-        "average": 4.7695775
+        "count": 3552,
+        "average": 4.769707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -717,8 +717,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 6498,
-        "average": 4.7143736
+        "count": 6500,
+        "average": 4.714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -844,8 +844,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 1346,
-        "average": 4.744428
+        "count": 1349,
+        "average": 4.744255
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -886,8 +886,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 4580,
-        "average": 4.805022
+        "count": 4581,
+        "average": 4.805064
       },
       "provider": {
         "name": "Microsoft Learn",
