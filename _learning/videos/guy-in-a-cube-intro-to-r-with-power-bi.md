@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M48S
 publishedDateTime: 2021-07-21T15:00:10Z
-heat: 53
+heat: 56
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NomSliJK3s4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "q0/fB6xHlaaE6RQb6LKxXPn6+wANqsP/z2UwMRbgUhM6ylJZQoYgUDBXCNQTncX4Pw2l1rYOV6Uvxo/rHxXCJIDcgOuueYOw2L+CmJ6A7mXQXT8ZsWeCjEDg65NSb4kDjDuWtX2GgTHo1VYssRXOHBtGTCKP+4BOIuPwEYDLvtfqult8jLbGmM3q10bF+Xw/VgEaqOtRBEAzTBkVa+U436Q7L0mAdyIdAEScT6IaiuEYjPwM4HKNjDdtkXaa2clfvwXUWLkfdJpuPikuVoYmNudu6PgedT9GabPYZHHpq1bHOt6U01zWs4xGrj9TMOInQQTJkpA024rXSfqORS/S+9AbyDrc8D9A9ClxhkuwOCI7viVrQe7NQnHhwvFfCPekvyxx+gDZeQaEJ5w8MFmZ4cYcpowCp5oGlvBU7qWIU4A=;3etxQ2NrjkVUHp0nSK0Cbg=="
+secured: "SVIGS+q7iz+vgDMT8/RfgkYlzfmbWqsczxoKm9okgr2I2gZwUo3+kLgFg3ZECgcNZ5KcboieYa1N8qoHOmmM1Spe+OwbAqZMKbx/BzZhzdtTopZ00pPa9ukHq9BEdW/ZKBeSvvZo0u6ixpNjz6np2cjfyNcq9ZnKm2Bq1/kwqFY0FOHPZmFP9tUW0LYYLwQGUNiDhufoAksxR7oAT0V3jC1kBRx4AASTX5JN6vb3TWbwyH32M42b9b0wHjXQnDTZLAQ0+Zz+n7RaFoGtsLF1MCALOtaGV1E2jvHojX1lJ3Uhkvz4Hj8UPYz7FSH8rHK8fbHUFsud3n/iWyhOR14Y54slrVeqnRv7vIB1ajsEZOIE1CTEN8saJ8afVoPLtP3US8j+APtbyGNEnhnwntopVkCxBdFsb2XcHp2C8bCkyog=;t1U0JDBejl1AUqwnAC8avw=="
 ---
 
