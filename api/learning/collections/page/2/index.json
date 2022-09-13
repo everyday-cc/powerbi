@@ -1428,7 +1428,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-collaboration-social.png",
@@ -1911,8 +1911,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
           "length": "PT1H30M",
           "ratings": {
-            "count": 50,
-            "average": 4.88
+            "count": 51,
+            "average": 4.882353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3020,7 +3020,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-collaboration-social.png",
@@ -3796,8 +3796,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 7859,
-            "average": 4.7517495
+            "count": 7860,
+            "average": 4.751654
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3838,8 +3838,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6497,
-            "average": 4.7146378
+            "count": 6498,
+            "average": 4.7143736
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3881,8 +3881,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 7741,
-            "average": 4.766697
+            "count": 7742,
+            "average": 4.7665977
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4006,8 +4006,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3078,
-            "average": 4.703054
+            "count": 3079,
+            "average": 4.7031503
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4048,8 +4048,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4578,
-            "average": 4.804937
+            "count": 4580,
+            "average": 4.805022
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4443,8 +4443,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4281,
-            "average": 4.7224946
+            "count": 4283,
+            "average": 4.7226243
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4568,8 +4568,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 69,
-            "average": 4.811594
+            "count": 70,
+            "average": 4.8142858
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4652,8 +4652,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4842,
-            "average": 4.7337875
+            "count": 4843,
+            "average": 4.7336364
           },
           "provider": {
             "name": "Microsoft Learn",
