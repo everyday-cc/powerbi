@@ -512,8 +512,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1177,
-        "average": 4.723874
+        "count": 1178,
+        "average": 4.7241087
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1071,8 +1071,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 23,
-        "average": 4.652174
+        "count": 24,
+        "average": 4.6666665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1115,8 +1115,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/",
       "length": "PT35M",
       "ratings": {
-        "count": 36,
-        "average": 4.5277777
+        "count": 37,
+        "average": 4.5405407
       },
       "provider": {
         "name": "Microsoft Learn",
