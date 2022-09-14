@@ -787,8 +787,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 955,
-            "average": 4.773822
+            "count": 956,
+            "average": 4.7730126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1038,8 +1038,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 4374,
-            "average": 4.6975307
+            "count": 4376,
+            "average": 4.696755
           },
           "provider": {
             "name": "Microsoft Learn",
