@@ -3,7 +3,7 @@ name: "Reza Rad"
 bio: "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI "
 location: New Zealand
 type: "profile"
-heat: 96
+heat: 124
 
 affiliation:
   name: RADACAD
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Reza Rad"
 
-secured: "FYYfz1AfmJsETo1+CE+mW+/06BS4i2bi6543Ut1uaj/qZzhzBEDzgh3fn/ls1KGW8v83hW0PYAClN9GFsG0JbThVRPDGV901c1i4D49VzWn4mEgc2S9ECVjpfa5ofkhY/Ctg2Hh2uPuebU8pTRidkDWc72Cx4Y8pesVW8+vmR2YNmqaWh7O5vNFomioRBjreaYUU2gwT/eeU+IJ1FtMGFL38GKvy69FCNfKktQP4+CWOiPhGNw9v3pLYJsLa0yzX7e9PemOY3i5+viG4h9DSsWNZ2z5LtZBKH+osmI/EejdxBoTm05gI3NYbnxIniVDRRKGQ/rpQj/s9l1BfjYDrH5lZ44Zo7vbDcJJVf3urz8/Xr+fvobD/dla2e1N5aFsVFPx+4lVLw81YkkLZ/p1n+CFACXoBCbsH8LNQnACtzkQ=;g1m/nngru/O5Espih1x7Sw=="
+secured: "KFb6dbn8IoQa/Lc6VoJ2zFUZyn5166oekoB77fkSb2ocmny3L928APKIHiQsbB+VsXIzzQ2P9Mir+vqhOzLa5dJOKsdtDB/xPLXYKr1hwdYD8pLA34pjbmX/8l7BrS5twmObuW2dpn5pPwRAJfQiUfoE+dVIQ5PQEN/CeWDQ4C7+58GIYubiQ3ckyw1UEZZMiTOWkFlITb0yjPZ/SqZVfzaIoAY/SvLWVRHw7MiujMKuVza72oVuGMk7pba3GRJUItl3ndwMYq+4OjPvLUL6AMo0Ew++NeDHfBcA8JKV1ijrOklnNkjdDuLWfVmI/thlRmG1pXRINEO5wnubGFyhfE98RMw6kA43ivj4C3ex73l8N7OqShgXEMcoCnDBCDS+G1MsWH86s5tNL+MOihJjaQ70f9jMC0XRAMKtBcs+2nM=;UeTGFFnSPeHt6YSakBu3yg=="
 ---
 
