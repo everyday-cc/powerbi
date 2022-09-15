@@ -790,8 +790,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3559,
-            "average": 4.769317
+            "count": 3561,
+            "average": 4.769166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -832,8 +832,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3089,
-            "average": 4.7031403
+            "count": 3090,
+            "average": 4.703236
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -874,8 +874,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4596,
-            "average": 4.805048
+            "count": 4597,
+            "average": 4.8050904
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -976,8 +976,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 4853,
-        "average": 4.7337728
+        "count": 4855,
+        "average": 4.7338824
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1018,8 +1018,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 1954,
-        "average": 4.7175026
+        "count": 1955,
+        "average": 4.717647
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1062,8 +1062,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 3089,
-        "average": 4.7031403
+        "count": 3090,
+        "average": 4.703236
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1104,8 +1104,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
       "length": "PT41M",
       "ratings": {
-        "count": 812,
-        "average": 4.76601
+        "count": 813,
+        "average": 4.766298
       },
       "provider": {
         "name": "Microsoft Learn",
