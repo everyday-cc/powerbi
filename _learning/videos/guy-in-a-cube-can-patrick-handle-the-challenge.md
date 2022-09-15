@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M53S
 publishedDateTime: 2022-03-23T15:00:34Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/twsuBaiPaCk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 800
     isCached: true
 
-secured: "fntX+ZCXQR/khOBXjSldVC0Zx/yPWmkLVBmTztjlr4xdlAfYRX6dJli0+BvyyR+YoflgDr6BAHh8CI6GR0llYStTQnT8S0aj+PawqlUZevYP7E2eK7sDyD2JZpBYrfr768TH4+AYWEJ3ayNqB/4xpLeff2rwAHTK4y8nmv8mbtJxYze5Enuw+6bzN8xkm5bNSbNGcmd+iSQw/Ns6C3OGBJcL/9OhybY4J6gU96Mjw/0+aRs8BganCQRKf7COwK6sbhoV2vpJLFF6U236kSeYfR6kFlkVbNMmWrBP0kMIm1ds19vE/OmDp/rrAQzIpmWKPN3p4P/KGc6aKw93yBzDZXjwRygdEbE1P+nK30yTylZoDBh7C5/ogTWahJzTwZZCFYcyb97IqZWVpEQC9alKt1rDl6W83OEz4uFRdQlyQ0g=;J8i26paEonsr9OHZnPlnpQ=="
+secured: "epJsMTGUH/fM9Mlcbk2zURmIVS50eRlJMT0XfjJV2+/oFiruTG2Fg2yYpfkLOUJtyXqST8M0fY3Udw1/FSnE+hi/LOrGirl/AM6xHWKzY4aawB1QrVbclVRMYUFUYh731trPTOXTMeJfD/3cydYJ789Hofzik2KAevNAhrT5QmlUKx8xHFCyW9AFLjmpfoihCuIFkg1mXuRBDW5UVkI4HCNofUem1yjuHBQGehuI4XJBhD+KqoBe3lWkfUaiu4qmn9jHmwY/hc2mOrhBBzxAiP+JYKbaoZyPnV/4ol0qGhAzwhQgYByTYtBuYn18JyqI/kDLDZ828oFzaGuuqbxeAoUgD3sea1c8vP7ZVwvgEXxc9uLLw8wMTZhWhaUvjY9CLAApECMWHyWUZpWM+dC7h7k39Ri4oZsZvHOah3LVDVo=;4vxN3mCVrOQA6X8sY7/E9w=="
 ---
 
