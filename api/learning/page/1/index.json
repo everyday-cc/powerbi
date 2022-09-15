@@ -187,62 +187,59 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-analyze-explore-data-power-bi.md",
-      "title": "Analyze data with Power BI",
-      "excerpt": "This module goes beyond viewing and exploring your content and explains how to interact with it by working with reports and dashboards to uncover and share new business insights.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-analyze-explore-data-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
-      "length": "PT60M",
-      "ratings": {
-        "count": 10109,
-        "average": 4.7048173
-      },
+      "path": "_learning/videos/sqlbi-rolling-average-with-working-days-in-dax.md",
+      "title": "Rolling average with working days in DAX",
+      "excerpt": "This article shows how to compute a rolling average (useful to smooth out charts) taking into account only the working days.\r \r Article and download: https://sql.bi/757611?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-rolling-average-with-working-days-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-rolling-average-with-working-days-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=mOVDGFyfWYg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mOVDGFyfWYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M44S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 134,
+      "publishedDateTime": "2022-07-19T03:00:20-07:00",
+      "heat": 137,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png",
-          "width": 643,
-          "height": 321,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-shared-datasets-what-is-it-how-does-it-work-and-why-should-you-care.md",
-      "title": "Power BI Shared Datasets: What is it, How does it work, and Why should you care?",
-      "excerpt": "Have you ever had a situation where you want to re-use part of the model in another report? Imagine two report visualizers in your team who want to create Power BI report visualizations from your data model. You have already done some modeling and calculations. How can this be done the best way without",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-shared-datasets-what-is-it-how-does-it-work-and-why-should-you-care/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-shared-datasets-what-is-it-how-does-it-work-and-why-should-you-care/",
-      "originalUrl": "https://youtube.com/watch?v=ENZm_7jWU4Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ENZm_7jWU4Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M12S",
+      "path": "_learning/videos/dhruvin-shah-apply-conditional-formatting-on-power-bi-data-labels.md",
+      "title": "Apply Conditional Formatting on Power BI Data Labels",
+      "excerpt": "In this video, we will learn about applying conditional formatting for Power BI Data Labels. Most of the time, we have a requirement where we need to represent Data Labels color conditionally. Let's say in sales case, I want to show Profit Data Labels as the green color and Loss data as Red color. How",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-apply-conditional-formatting-on-power-bi-data-labels/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-apply-conditional-formatting-on-power-bi-data-labels/",
+      "originalUrl": "https://youtube.com/watch?v=aSkgt12imEs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aSkgt12imEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M41S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
       },
-      "publishedDateTime": "2022-07-27T22:49:32-07:00",
-      "heat": 133,
+      "publishedDateTime": "2022-08-14T07:06:56-07:00",
+      "heat": 132,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -259,14 +256,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-blurred-images-in-power-bi-here-is-how-to-fix-it.md",
-      "title": "Blurred images in Power BI? Here is how to fix it.",
-      "excerpt": "Are your images in Power BI blurred? Let me show you how to fix that here.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1  Our PLAYLISTS: - Join",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-blurred-images-in-power-bi-here-is-how-to-fix-it/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-blurred-images-in-power-bi-here-is-how-to-fix-it/",
-      "originalUrl": "https://youtube.com/watch?v=ex5Bh79RWrE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ex5Bh79RWrE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M54S",
+      "path": "_learning/videos/curbal-extract-function-in-power-query-removes-all-the-text-here-is-how-to-fix-it.md",
+      "title": "Extract function in Power Query removes all the text? Here is how to fix it.",
+      "excerpt": "Sometimes when you extract text in Power Query, instead of removing the text you specified, it removes the entire text. In this video I will show you when it happens and how to get around the problem.  00:00 Intro 02:00 How to do it on rows 03:00 How to do it on column headers  Here you can download",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-extract-function-in-power-query-removes-all-the-text-here-is-how-to-fix-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-extract-function-in-power-query-removes-all-the-text-here-is-how-to-fix-it/",
+      "originalUrl": "https://youtube.com/watch?v=JikBsGFfBDA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JikBsGFfBDA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M16S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -279,8 +276,8 @@
           }
         ]
       },
-      "publishedDateTime": "2022-07-13T03:00:04-07:00",
-      "heat": 131,
+      "publishedDateTime": "2022-07-07T01:17:15-07:00",
+      "heat": 130,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -293,7 +290,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -337,7 +335,7 @@
             ]
           },
           "publishedDateTime": "2021-01-14T08:21:12-08:00",
-          "heat": 98,
+          "heat": 99,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -630,8 +628,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 45787,
-            "average": 4.7987204
+            "count": 45788,
+            "average": 4.7987247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -648,7 +646,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 114,
+          "heat": 115,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -672,8 +670,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 66943,
-            "average": 4.7781096
+            "count": 66949,
+            "average": 4.7781296
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -708,7 +706,7 @@
         }
       ],
       "size": 2,
-      "heat": 114,
+      "heat": 115,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -732,8 +730,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 45787,
-        "average": 4.7987204
+        "count": 45788,
+        "average": 4.7987247
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -750,7 +748,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 114,
+      "heat": 115,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
@@ -812,8 +810,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 66943,
-        "average": 4.7781096
+        "count": 66949,
+        "average": 4.7781296
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -893,8 +891,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 36597,
-        "average": 4.740061
+        "count": 36601,
+        "average": 4.740007
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -973,8 +971,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 2819,
-        "average": 4.7743883
+        "count": 2828,
+        "average": 4.7740455
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1107,7 +1105,7 @@
         ]
       },
       "publishedDateTime": "2021-01-14T08:21:12-08:00",
-      "heat": 98,
+      "heat": 99,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -1230,8 +1228,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 66943,
-            "average": 4.7781096
+            "count": 66949,
+            "average": 4.7781296
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1315,8 +1313,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 13535,
-            "average": 4.725674
+            "count": 13536,
+            "average": 4.7256947
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1357,8 +1355,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 9998,
-            "average": 4.768654
+            "count": 9999,
+            "average": 4.7686768
           },
           "provider": {
             "name": "Microsoft Learn",

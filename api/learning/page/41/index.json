@@ -4,6 +4,45 @@
   "page": 41,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-blown-away-by-column-from-examples-in-power-query.md",
+      "title": "Blown AWAY by Column From Examples in Power Query",
+      "excerpt": "Column From Examples, in Power Query, keeps blowing our mind! Patrick shows you an example where he wanted to extract some data. Will Column From Examples work? Of course, it will! Check this out!  Add a column from examples in Power BI Desktop https://docs.microsoft.com/power-bi/create-reports/desktop-add-column-from-example",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-blown-away-by-column-from-examples-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-blown-away-by-column-from-examples-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=BSmmNgO_EOU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BSmmNgO_EOU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M56S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-04-20T08:00:09-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-case-of-the-broken-power-bi-incremental-refresh.md",
       "title": "Case of the Broken Power BI Incremental Refresh",
       "excerpt": "Are you using Power BI incremental refresh? Have you had it not work even though you set everything up? In this video, Patrick looks at a scenario where Power BI incremental refresh was broken. He then looks at a way to get Power BI incremental refresh working properly.  LET'S CONNECT!  Guy in a Cube",
@@ -1098,44 +1137,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ibPi4aF_-9I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-auditing.md",
-      "title": "Power BI Auditing",
-      "excerpt": "In this video, I look at the Power BI Auditing feature that was made available a few weeks ago. I show how to turn it on and how to search. This can be helpful with understanding who is doing what within your organization.  Offical Docs: https://powerbi.microsoft.com/en-us/documentation/powerbi-admin-auditing/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-auditing/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-auditing/",
-      "originalUrl": "https://youtube.com/watch?v=zj4kA39jV_4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zj4kA39jV_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M13S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-08-23T09:05:29-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zj4kA39jV_4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
