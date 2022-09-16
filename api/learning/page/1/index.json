@@ -4,44 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-whats-the-real-size-of-your-data-model-in-power-bi.md",
-      "title": "What's the real size of your data model in Power BI?",
-      "excerpt": "From Power BI Desktop, to Task Manager, to different spots in the Power BI service - why are the sizes different? What's going on? How can you tell what the real size is? Well, it depends! Marco Russo joins Patrick to explain.  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-whats-the-real-size-of-your-data-model-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-whats-the-real-size-of-your-data-model-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=vI7kVVHxsiM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vI7kVVHxsiM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M58S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-09-14T08:00:47-07:00",
-      "heat": 297,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-apps-for-multiple-audiences-has-arrived.md",
       "title": "Power BI Apps for multiple audiences has arrived!",
       "excerpt": "This has been a feature that has been asked for long time! The ability to control who can see what content within a published Power BI App! You can now serve up multiple audiences within a single app.  Announcing Public Preview of Multiple Audiences for Power BI Apps https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-multiple-audiences-for-power-bi-apps/",
@@ -64,6 +26,44 @@
       },
       "publishedDateTime": "2022-09-15T08:00:28-07:00",
       "heat": 269,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-whats-the-real-size-of-your-data-model-in-power-bi.md",
+      "title": "What's the real size of your data model in Power BI?",
+      "excerpt": "From Power BI Desktop, to Task Manager, to different spots in the Power BI service - why are the sizes different? What's going on? How can you tell what the real size is? Well, it depends! Marco Russo joins Patrick to explain.  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-whats-the-real-size-of-your-data-model-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-whats-the-real-size-of-your-data-model-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=vI7kVVHxsiM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vI7kVVHxsiM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M58S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-09-14T08:00:47-07:00",
+      "heat": 245,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -187,69 +187,96 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-manage-workspaces-power-bi.md",
-      "title": "Create and manage workspaces in Power BI ",
-      "excerpt": "This module explains how you can share reports and datasets with your users and how to create a deployment strategy that makes sense for you and your organization. Furthermore, you will learn about data lineage in Microsoft Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-manage-workspaces-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 3566,
-        "average": 4.7692094
-      },
+      "path": "_learning/videos/guy-in-a-cube-heres-a-bananas-report-design-idea.md",
+      "title": "Here's a BANANAS report design idea!",
+      "excerpt": "There are many things you can do in a Power BI report that aren't super complex. Here are a few ideas to get you thinking! If Adam can do this, you definitely can! Shout out to Chris Hamill for this design!  Chris Hamill: https://twitter.com/ChrisHamill17  Info Panel Video: https://www.youtube.com/watch?v=yYr_SlG8bpw",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-heres-a-bananas-report-design-idea/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-heres-a-bananas-report-design-idea/",
+      "originalUrl": "https://youtube.com/watch?v=ffIgsMS3-8c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ffIgsMS3-8c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M42S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 136,
+      "publishedDateTime": "2022-08-04T08:00:35-07:00",
+      "heat": 147,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-manage-workspaces-power-bi-social.png",
-          "width": 643,
-          "height": 321,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/curbal-conditional-format-the-power-bi-line-chart-with-a-gradient-schema.md",
-      "title": "Conditional format the Power BI line chart with a gradient schema",
-      "excerpt": "If you want the data to do all the talking for you, conditional formatting a line chart with a gradient schema is one way. Let me show you how to do it here.  For other types of conditional formatting: For markers: https://youtu.be/yG5t4XBMVU8 For highlighting: https://youtu.be/cSbLdv6KRxI   Here you",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-conditional-format-the-power-bi-line-chart-with-a-gradient-schema/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-conditional-format-the-power-bi-line-chart-with-a-gradient-schema/",
-      "originalUrl": "https://youtube.com/watch?v=k5c-KtU2k_U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k5c-KtU2k_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M32S",
+      "path": "_learning/videos/sqlbi-variables-in-dax.md",
+      "title": "Variables in DAX",
+      "excerpt": "Using variables in DAX makes the code easier to read, faster, and easier to debug. Learn how and when to use variables, along with why they are so important in any DAX expression.\r Article and download: https://sql.bi/760161?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-variables-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-variables-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=NbbE39gwVVo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NbbE39gwVVo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M46S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-07-05T01:52:44-07:00",
+      "publishedDateTime": "2022-08-02T03:00:24-07:00",
+      "heat": 138,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-shared-datasets-what-is-it-how-does-it-work-and-why-should-you-care.md",
+      "title": "Power BI Shared Datasets: What is it, How does it work, and Why should you care?",
+      "excerpt": "Have you ever had a situation where you want to re-use part of the model in another report? Imagine two report visualizers in your team who want to create Power BI report visualizations from your data model. You have already done some modeling and calculations. How can this be done the best way without",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-shared-datasets-what-is-it-how-does-it-work-and-why-should-you-care/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-shared-datasets-what-is-it-how-does-it-work-and-why-should-you-care/",
+      "originalUrl": "https://youtube.com/watch?v=ENZm_7jWU4Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ENZm_7jWU4Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M12S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-07-27T22:49:32-07:00",
       "heat": 133,
       "images": [
         {
@@ -456,44 +483,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-is-it-a-known-issue-in-power-bi.md",
-      "title": "Is it a KNOWN ISSUE in Power BI?",
-      "excerpt": "Hitting issues with Power BI can be frustrating. Having to call support can be even more frustrating! What if there was a way to see if it was a known issue in Power BI???  Power BI Support page and awareness https://support.powerbi.com  Power BI Known Issues documentation https://aka.ms/powerbiknownissues",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-is-it-a-known-issue-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-is-it-a-known-issue-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=vTEaSRyVPxI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vTEaSRyVPxI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M53S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-07-14T08:00:37-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-tips-from-the-pros-live-w-chris-finlan-sept-26-2020-member-chat-2nd-half.md",
       "title": "🔴 Power BI tips from the Pros - LIVE /w Chris Finlan (Sept 26, 2020) (Member Chat 2nd Half)",
       "excerpt": "Join us live as we answer your questions about Power BI! With special guest, Chris Finlan! Get your Power BI Premium per User questions and of course anything else Power BI related.  Connect with Chris: Twitter: https://twitter.com/cmfinlan YouTube: https://www.youtube.com/user/cfinlan Blog: https://christopherfinlan.com/",
@@ -539,8 +528,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 36699,
-        "average": 4.7398295
+        "count": 36711,
+        "average": 4.739642
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -604,8 +593,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 45872,
-            "average": 4.7986355
+            "count": 45881,
+            "average": 4.798566
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -646,8 +635,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 67042,
-            "average": 4.7782135
+            "count": 67050,
+            "average": 4.7782254
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -706,8 +695,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 45872,
-        "average": 4.7986355
+        "count": 45881,
+        "average": 4.798566
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -786,8 +775,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 67042,
-        "average": 4.7782135
+        "count": 67050,
+        "average": 4.7782254
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -905,8 +894,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 2925,
-        "average": 4.7678633
+        "count": 2933,
+        "average": 4.7681556
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1085,8 +1074,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 67042,
-            "average": 4.7782135
+            "count": 67050,
+            "average": 4.7782254
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1127,8 +1116,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 29900,
-            "average": 4.7245483
+            "count": 29902,
+            "average": 4.724567
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1170,8 +1159,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 13546,
-            "average": 4.7256017
+            "count": 13547,
+            "average": 4.7256217
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1212,8 +1201,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 10009,
-            "average": 4.768808
+            "count": 10010,
+            "average": 4.7688313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1387,8 +1376,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 23663,
-        "average": 4.7649493
+        "count": 23669,
+        "average": 4.764967
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1535,8 +1524,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 29900,
-        "average": 4.7245483
+        "count": 29902,
+        "average": 4.724567
       },
       "provider": {
         "name": "Microsoft Learn",
