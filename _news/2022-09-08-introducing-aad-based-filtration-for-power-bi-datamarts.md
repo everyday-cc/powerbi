@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/introducing-aad-based-fil
 webUrl: "https://powerbi.microsoft.com/en-us/blog/introducing-aad-based-filtration-for-power-bi-datamarts/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
