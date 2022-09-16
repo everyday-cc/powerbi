@@ -604,8 +604,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1234,
-        "average": 4.73825
+        "count": 1235,
+        "average": 4.7384615
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1019,8 +1019,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/intelligent-environments-education-transformation-framework/",
       "length": "PT60M",
       "ratings": {
-        "count": 262,
-        "average": 4.847328
+        "count": 263,
+        "average": 4.847909
       },
       "provider": {
         "name": "Microsoft Learn",
