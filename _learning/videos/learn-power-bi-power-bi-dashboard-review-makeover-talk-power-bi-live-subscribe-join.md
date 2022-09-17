@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4H34M43S
 publishedDateTime: 2019-09-27T21:46:14Z
-heat: 
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TOml5Pbfp2w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Power BI
 
-secured: "IRYoG+QxGE305RnC6nuKy5wFOP3UuGTMq9XBE03uwxbOFPfyeAUxx/7tAMzR1/bSw5ZldmW/OKqI1CO3XjSox2FQoFeSfovFHn+1GTyhxTKj3EdlXpwQe2U+LIOjOTJGM8Pcs0AFqYS9BEDXBQeu6u9CfowBcQEq18Bg/FHOI4iKyB7OmEcZ4A7lFKLYt6jiQR/xLXDlq6+042Tc5IGZVzmhjnm74OBslHKXp8wCipr4NBwjKPOn58p6zZJTvgFHGqsL4N9HA3mHUECNjj4PvFysDg5Aw1775nEVjelBIBtYmhmlEfqDejTprcxI+uNQJL5Fp++RiWoV7NXRwPrh7xLkrwalYL0ZjJCsKaeC8y2GXV9kbsgqMmJWKjrzYEgG8xmN7/+wp6OsqSfz9S0QeQ==;gSSFT7Bab0bTv6lCq5rAuA=="
+images:
+  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "Ee4T0PBiqgFV7KHk0lhZo2IbI3TZ09T7B8qr4/3FsXGSQhZu6yIwaCFL4f5K0OImnBvmGd/FF9SYF2YHXlQGKFESiHvp8/iItaDXLV6l1YRgc379vTMpAPMxIsUc70BT7kVuuVx2jaDu8IPEwKq5WOKQj59uIw6dWGMqfoHAgqpmIehML82ANkVEB6VMQkrH+SgrLWUfSfu1keFQaLHk7Er9C/I6Tmkw/oj2N9e56/rS5EdPSDNLsHZV3H9pHDbBNlYVf5r3b7F7I+irs39ALg2tAhPrfdiw5ANCKtu4EqgAVIsh6QpdQ1N4Zf6BG+0LnjeFD76aoyb1+GAMwLmLp7eGilLwgjxJFQdGiim0JDlBSLfayOYu+/pFWn2BM5yphW5097hve2cl9u1UiA3+Vg==;QeApSew7UyR4N3C5Ng/vBA=="
 ---
 
