@@ -439,8 +439,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3577,
-            "average": 4.76908
+            "count": 3578,
+            "average": 4.769145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -523,8 +523,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4610,
-            "average": 4.8052063
+            "count": 4611,
+            "average": 4.8052483
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -583,8 +583,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 1969,
-        "average": 4.7171154
+        "count": 1970,
+        "average": 4.717259
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -669,8 +669,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 4610,
-        "average": 4.8052063
+        "count": 4611,
+        "average": 4.8052483
       },
       "provider": {
         "name": "Microsoft Learn",
