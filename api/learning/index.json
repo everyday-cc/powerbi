@@ -187,15 +187,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-excel-better-together.md",
-      "title": "Prepare to teach the module: Power BI & Excel better together",
-      "excerpt": "Prepare to teach the module: Power BI & Excel better together",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-excel-better-together/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-excel-better-together/",
-      "length": "PT54M",
+      "path": "_learning/courses/microsoft-learn-design-data-model-power-bi.md",
+      "title": "Clean, transform, and load data in Power BI",
+      "excerpt": "Learn how to clean, transform, and load data in Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-design-data-model-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/design-data-model-power-bi/",
+      "length": "PT2H1M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 85,
+        "average": 4.717647
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -212,15 +212,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
+      "heat": 139,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -229,56 +221,52 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-wrap-up.md",
-      "title": "Prepare to teach the module: Questions and Wrap-up",
-      "excerpt": "Prepare to teach the module: Questions and Wrap-up",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-wrap-up/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/wrap-up/",
-      "length": "PT32M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
+      "path": "_learning/videos/guy-in-a-cube-modern-data-lakehouse-where-do-you-even-start-azure-synapse-of-course.md",
+      "title": "Modern Data Lakehouse? Where do you even start??? Azure Synapse of course!",
+      "excerpt": "Trying to get started with a Modern Data Lakehouse? There are so many options today. Where do you even begin? Patrick and Stijn help you get a handle on it with Azure Synapse Analytics!  Stijn Wynants https://twitter.com/SQLStijn  Building a Modern Lakehouse Data Warehouse with Azure Synapse Analytics:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-modern-data-lakehouse-where-do-you-even-start-azure-synapse-of-course/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-modern-data-lakehouse-where-do-you-even-start-azure-synapse-of-course/",
+      "originalUrl": "https://youtube.com/watch?v=zQnyy2-58Ns",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zQnyy2-58Ns\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M54S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
+      "publishedDateTime": "2022-06-21T08:00:35-07:00",
+      "heat": 134,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/curbal-conditional-format-the-power-bi-line-chart-with-a-gradient-schema.md",
-      "title": "Conditional format the Power BI line chart with a gradient schema",
-      "excerpt": "If you want the data to do all the talking for you, conditional formatting a line chart with a gradient schema is one way. Let me show you how to do it here.  For other types of conditional formatting: For markers: https://youtu.be/yG5t4XBMVU8 For highlighting: https://youtu.be/cSbLdv6KRxI   Here you",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-conditional-format-the-power-bi-line-chart-with-a-gradient-schema/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-conditional-format-the-power-bi-line-chart-with-a-gradient-schema/",
-      "originalUrl": "https://youtube.com/watch?v=k5c-KtU2k_U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k5c-KtU2k_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M32S",
+      "path": "_learning/videos/curbal-power-bi-embedded-changes-on-free-licenses-and-analytics-challenge-2-one2many-series.md",
+      "title": "Power BI Embedded, Changes on Free Licenses and Analytics Challenge - #2 One2Many Series",
+      "excerpt": "In this video I will talk about the changes that were made on the Power BI embedded feature after June 1st 2017, I will discuss the updates on the free license as well as the possibility to upgrade to the pro license if you meet a certain criteria and finally I will encourage you to participate on Microsoft's",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-power-bi-embedded-changes-on-free-licenses-and-analytics-challenge-2-one2many-series/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-power-bi-embedded-changes-on-free-licenses-and-analytics-challenge-2-one2many-series/",
+      "originalUrl": "https://youtube.com/watch?v=0N2tnABcAN8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0N2tnABcAN8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M15S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -291,7 +279,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-07-05T01:52:44-07:00",
+      "publishedDateTime": "2022-06-27T00:02:23-07:00",
       "heat": 130,
       "images": [
         {
@@ -431,8 +419,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 3092,
-        "average": 4.7564683
+        "count": 3095,
+        "average": 4.756381
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -724,8 +712,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 45969,
-            "average": 4.7986035
+            "count": 45971,
+            "average": 4.798612
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -766,8 +754,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 67154,
-            "average": 4.778345
+            "count": 67159,
+            "average": 4.778347
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -826,8 +814,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 67154,
-        "average": 4.778345
+        "count": 67159,
+        "average": 4.778347
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -868,8 +856,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 36831,
-        "average": 4.739649
+        "count": 36836,
+        "average": 4.7396026
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -949,8 +937,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 45969,
-        "average": 4.7986035
+        "count": 45971,
+        "average": 4.798612
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1167,8 +1155,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 67154,
-            "average": 4.778345
+            "count": 67159,
+            "average": 4.778347
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1209,8 +1197,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 29930,
-            "average": 4.7244906
+            "count": 29931,
+            "average": 4.7244663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1354,8 +1342,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 23728,
-        "average": 4.764624
+        "count": 23731,
+        "average": 4.7646537
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1372,7 +1360,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 83,
+      "heat": 82,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/introduction-power-bi-social.png",
