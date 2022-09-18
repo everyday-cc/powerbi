@@ -1608,7 +1608,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-intro-social.png",
@@ -3664,8 +3664,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 7915,
-            "average": 4.7508526
+            "count": 7917,
+            "average": 4.7509155
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3706,8 +3706,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6543,
-            "average": 4.712823
+            "count": 6544,
+            "average": 4.7127137
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4603,8 +4603,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 176,
-            "average": 4.755682
+            "count": 177,
+            "average": 4.757062
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5020,8 +5020,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 69,
-            "average": 4.710145
+            "count": 70,
+            "average": 4.714286
           },
           "provider": {
             "name": "Microsoft Learn",
