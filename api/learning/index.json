@@ -187,28 +187,20 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-fast-billions-of-rows-with-azure-data-explorer-adx.md",
-      "title": "FAST - Billions of rows with Azure Data Explorer (ADX)",
-      "excerpt": "Have you tried Azure Data Explorer? We look at how ADX can support large amounts of data and query at blazing fast speeds. it truly is BANANAS! And you can try it for FREE!  Connect with Tzvia: https://www.linkedin.com/in/tzvia/ https://twitter.com/tzvia  What is Azure Data Explorer? https://docs.microsoft.com/azure/data-explorer/data-explorer-overview",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-fast-billions-of-rows-with-azure-data-explorer-adx/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-fast-billions-of-rows-with-azure-data-explorer-adx/",
-      "originalUrl": "https://youtube.com/watch?v=wDfcX3EPZL0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wDfcX3EPZL0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M32S",
+      "path": "_learning/videos/radacad-what-is-power-bi-dataflow-and-why-you-should-use-it.md",
+      "title": "What is Power BI Dataflow and Why you should use it",
+      "excerpt": "Dataflows are an important component in the Power BI architecture. Using them can enhance the development and maintenance of your Power BI solution significantly. However, there are many Power BI implementations that are not using this functionality, even though it is already more than three years passed",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-is-power-bi-dataflow-and-why-you-should-use-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-is-power-bi-dataflow-and-why-you-should-use-it/",
+      "originalUrl": "https://youtube.com/watch?v=oW1jyK2sgHg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oW1jyK2sgHg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M36S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2022-07-26T08:00:25-07:00",
-      "heat": 131,
+      "publishedDateTime": "2022-07-25T18:05:44-07:00",
+      "heat": 133,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -225,15 +217,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-power-bi-model-relationships.md",
-      "title": "Create Power BI model relationships",
-      "excerpt": "Power BI model relationships form the basis of a tabular model. Define Power BI model relationships, set up relationships, recognize DAX relationship functions, and describe relationship evaluation.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-power-bi-model-relationships/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
-      "length": "PT1H30M",
+      "path": "_learning/courses/microsoft-learn-analytics-excel.md",
+      "title": "Prepare to teach the module: Analytics in Excel",
+      "excerpt": "Prepare to teach the module: Analytics in Excel",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-analytics-excel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analytics-excel/",
+      "length": "PT2H6M",
       "ratings": {
-        "count": 52,
-        "average": 4.8846154
+        "count": 1,
+        "average": 5.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -253,9 +245,9 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-power-bi-model-relationships-social.png",
-          "width": 1281,
-          "height": 641,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -617,8 +609,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 3059,
-        "average": 4.7603793
+        "count": 3061,
+        "average": 4.7605357
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -721,8 +713,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 45958,
-            "average": 4.798642
+            "count": 45960,
+            "average": 4.798651
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -763,8 +755,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 67138,
-            "average": 4.778337
+            "count": 67143,
+            "average": 4.7783537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -823,8 +815,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 67138,
-        "average": 4.778337
+        "count": 67143,
+        "average": 4.7783537
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -946,8 +938,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 45958,
-        "average": 4.798642
+        "count": 45960,
+        "average": 4.798651
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1202,8 +1194,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 67138,
-            "average": 4.778337
+            "count": 67143,
+            "average": 4.7783537
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1329,8 +1321,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 10015,
-            "average": 4.7688465
+            "count": 10017,
+            "average": 4.768893
           },
           "provider": {
             "name": "Microsoft Learn",
