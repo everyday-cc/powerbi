@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2022-09-15T08:00:28-07:00",
-      "heat": 272,
+      "heat": 269,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -93,7 +93,7 @@
         ]
       },
       "publishedDateTime": "2022-09-14T08:00:47-07:00",
-      "heat": 171,
+      "heat": 168,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -187,98 +187,82 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-embedded-select.md",
-      "title": "Select a Power BI embedded analytics product",
-      "excerpt": "Learn how to select a Power BI embedded analytics product.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-select/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-embedded-select/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 33,
-        "average": 4.757576
-      },
+      "path": "_learning/videos/curbal-track-all-your-social-media-channels-easily-in-power-bi-social-media-tracker-template-included-.md",
+      "title": "Track all your social media channels EASILY in Power BI | Social media tracker template included 😊",
+      "excerpt": "Track all your social media channels EASILY in Power BI | Social media tracker template included 😊  I finally was able to create a Power BI report to track all my social media accounts and not only I am going to share it with you, I will also show you how I created it so you can do it too.  About Funnel:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-track-all-your-social-media-channels-easily-in-power-bi-social-media-tracker-template-included-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-track-all-your-social-media-channels-easily-in-power-bi-social-media-tracker-template-included-/",
+      "originalUrl": "https://youtube.com/watch?v=dqGZZuquSdk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dqGZZuquSdk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M43S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
+      "publishedDateTime": "2022-07-06T07:21:18-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-embedded-select-social.png",
-          "width": 1280,
-          "height": 641,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-tableau-calculations.md",
-      "title": "Create Power BI calculations for Tableau users",
-      "excerpt": "This module provides guidance on Power BI calculation concepts, and how to create and edit calculations.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-calculations/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-tableau-calculations/",
-      "length": "PT57M",
-      "ratings": {
-        "count": 57,
-        "average": 4.3508773
-      },
+      "path": "_learning/videos/radacad-power-bi-paginated-report-perfect-for-printing.md",
+      "title": "Power BI Paginated Report   Perfect for Printing",
+      "excerpt": "If you want to print a Power BI report and have a tabular visual in your report (such as a table or matrix), then your options are limited. Fortunately, Power BI Paginated report can help with that. In this article and video, I’ll explain the paginated report and the differences between that and a normal",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-paginated-report-perfect-for-printing/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-paginated-report-perfect-for-printing/",
+      "originalUrl": "https://youtube.com/watch?v=MTi9RLMFV98",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MTi9RLMFV98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M39S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
+      "publishedDateTime": "2022-08-17T23:50:04-07:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-calculations-social.png",
-          "width": 1280,
-          "height": 641,
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-fast-billions-of-rows-with-azure-data-explorer-adx.md",
-      "title": "FAST - Billions of rows with Azure Data Explorer (ADX)",
-      "excerpt": "Have you tried Azure Data Explorer? We look at how ADX can support large amounts of data and query at blazing fast speeds. it truly is BANANAS! And you can try it for FREE!  Connect with Tzvia: https://www.linkedin.com/in/tzvia/ https://twitter.com/tzvia  What is Azure Data Explorer? https://docs.microsoft.com/azure/data-explorer/data-explorer-overview",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-fast-billions-of-rows-with-azure-data-explorer-adx/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-fast-billions-of-rows-with-azure-data-explorer-adx/",
-      "originalUrl": "https://youtube.com/watch?v=wDfcX3EPZL0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wDfcX3EPZL0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M32S",
+      "path": "_learning/videos/guy-in-a-cube-100th-power-bi-qa-live-stream-august-20-2022-member-chat-2nd-half.md",
+      "title": "🔴 100th Power BI Q&A Live Stream!!! (August 20, 2022) (Member Chat 2nd Half)",
+      "excerpt": "Join us live as we answer your questions about Power BI!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats take priority 👉 Do NOT re-post",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-100th-power-bi-qa-live-stream-august-20-2022-member-chat-2nd-half/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-100th-power-bi-qa-live-stream-august-20-2022-member-chat-2nd-half/",
+      "originalUrl": "https://youtube.com/watch?v=y7E4eElq9iI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y7E4eElq9iI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "P0D",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -291,7 +275,7 @@
           }
         ]
       },
-      "publishedDateTime": "2022-07-26T08:00:25-07:00",
+      "publishedDateTime": "2022-08-15T04:49:00-07:00",
       "heat": 130,
       "images": [
         {
@@ -698,8 +682,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 3132,
-        "average": 4.7560663
+        "count": 3136,
+        "average": 4.7557397
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -763,8 +747,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 46008,
-            "average": 4.7986436
+            "count": 46012,
+            "average": 4.7986393
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -805,8 +789,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 67191,
-            "average": 4.7783484
+            "count": 67193,
+            "average": 4.77834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -865,8 +849,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 46008,
-        "average": 4.7986436
+        "count": 46012,
+        "average": 4.7986393
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -907,8 +891,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 36864,
-        "average": 4.7395563
+        "count": 36869,
+        "average": 4.7395644
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1025,8 +1009,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 67191,
-        "average": 4.7783484
+        "count": 67193,
+        "average": 4.77834
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1167,8 +1151,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 67191,
-            "average": 4.7783484
+            "count": 67193,
+            "average": 4.77834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1209,8 +1193,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 29945,
-            "average": 4.7245283
+            "count": 29947,
+            "average": 4.7245135
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1252,8 +1236,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 13568,
-            "average": 4.725899
+            "count": 13569,
+            "average": 4.7259192
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1294,8 +1278,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 10021,
-            "average": 4.768686
+            "count": 10022,
+            "average": 4.7687087
           },
           "provider": {
             "name": "Microsoft Learn",
