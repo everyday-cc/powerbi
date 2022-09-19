@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT7M32S
 publishedDateTime: 2021-02-01T10:14:58Z
-heat: 54
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y3bOyNpJuXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "kEeWYGaoXFkk72UfQkTLRBzlWEpAay3uZNVnNrAYU5bBwO8lrWqQ4IUkImOY1BMfGAYtYFIeYkvWdpHHt7jB3v0FHhHezSLUsJNK3wEjdbXQu8/i8rAnRufzHrB+pk3fYi9TPQE3Lbyb4lfbc9yoCSerJxUufIYw9ebIf1UhB88M43gYBiAK/yay9+x0AGRbWTmQ9AGFCba32lj3Cqs6MrvqkDUcQiFclmo5/Eb+uicsVDKYbOxHMmu0VzLKx3jIXcvQFU8eRCX7TVg38H9CtWEMV5EPquMqZioFfzYKs8uMDLCXduE9ljQvkQuGd2ieXsrxC9QHLZWO9f0xXUlKFsrtC5/+K3R530NJndua8gsHtR74fOgz4PsxsE0G5HoQ2oRgA1bbd0KUeZgawntutA4/QyyrewFXffS3bAJXR74=;B7WWYgivclw3X5mFITOZfA=="
+secured: "ueil8/FBI+t1LucMhtQAAUE2M6eV9a+fjqCraOi3+QJdbqvDfzitkUigqRg2wMsEYWsg37JJfQV1k38Btkex7wkeeU0UmksQFLvHBFsVx3ouBaGTweAYHuE1Nv6kwRv2kZB0Y3AOyko2n+4ZBMT/zwjcj/9DOaJloch+ZZG5BwwARWLKTG2eAePmvpZ0wB4qum3qUgt/9MUyTBcnGzchxb51ovB2mBSpcejvGMqouou9Pfj/kV1fOLbHBNKMA1u6rI6luEvdsQFYiVmAzAXsccQFrnG+5qwEcnrAf/h6ifs4NHQA2kQ2L3qIOLHVgIROAl2VH1hM9yaGQYqEfYZk9am7rfAK3693/knSR8a15tiy6EebOnuBXHUbXwOqNryuukxwVL73D2NuBQzNUcuCWPIoWXyZXrYmU2gz7iLT+Qk=;d8GFgXUWQkKcaSP+gCPSrA=="
 ---
 
