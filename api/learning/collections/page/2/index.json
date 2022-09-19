@@ -3766,8 +3766,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 7931,
-            "average": 4.750473
+            "count": 7936,
+            "average": 4.75063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3808,8 +3808,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6553,
-            "average": 4.7128034
+            "count": 6555,
+            "average": 4.712586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3851,8 +3851,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 7796,
-            "average": 4.76629
+            "count": 7798,
+            "average": 4.766222
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3976,8 +3976,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3098,
-            "average": 4.7030344
+            "count": 3099,
+            "average": 4.7024846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4288,8 +4288,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10118,
-            "average": 4.7046847
+            "count": 10119,
+            "average": 4.704714
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4330,8 +4330,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1091,
-            "average": 4.7277727
+            "count": 1092,
+            "average": 4.728022
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4455,8 +4455,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4694,
-            "average": 4.726672
+            "count": 4695,
+            "average": 4.7267303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4538,8 +4538,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 179,
-            "average": 4.7597766
+            "count": 181,
+            "average": 4.762431
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4580,8 +4580,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 166,
-            "average": 4.8012047
+            "count": 167,
+            "average": 4.8023953
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5289,8 +5289,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
           "length": "PT42M",
           "ratings": {
-            "count": 33,
-            "average": 4.818182
+            "count": 34,
+            "average": 4.8235292
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5331,7 +5331,7 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 13,
+            "count": 14,
             "average": 5.0
           },
           "provider": {

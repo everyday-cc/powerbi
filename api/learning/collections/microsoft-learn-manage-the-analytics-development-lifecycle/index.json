@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
       "length": "PT42M",
       "ratings": {
-        "count": 33,
-        "average": 4.818182
+        "count": 34,
+        "average": 4.8235292
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,7 +95,7 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 13,
+        "count": 14,
         "average": 5.0
       },
       "provider": {

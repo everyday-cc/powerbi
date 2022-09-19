@@ -496,8 +496,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3098,
-            "average": 4.7030344
+            "count": 3099,
+            "average": 4.7024846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -640,8 +640,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1397,
-        "average": 4.731568
+        "count": 1398,
+        "average": 4.7317595
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -683,8 +683,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 1386,
-        "average": 4.7460318
+        "count": 1387,
+        "average": 4.746215
       },
       "provider": {
         "name": "Microsoft Learn",
