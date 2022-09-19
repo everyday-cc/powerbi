@@ -979,8 +979,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1385,
-            "average": 4.745848
+            "count": 1386,
+            "average": 4.7460318
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1021,8 +1021,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 973,
-            "average": 4.7738953
+            "count": 974,
+            "average": 4.7741275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1358,8 +1358,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 7425,
-        "average": 4.7257915
+        "count": 7426,
+        "average": 4.7256937
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3736,7 +3736,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-intro-social.png",

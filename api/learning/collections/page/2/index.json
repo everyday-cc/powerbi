@@ -627,7 +627,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-intro-social.png",
@@ -1447,8 +1447,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 73,
-            "average": 4.890411
+            "count": 74,
+            "average": 4.891892
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1741,8 +1741,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 249,
-            "average": 4.746988
+            "count": 250,
+            "average": 4.748
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1783,8 +1783,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 207,
-            "average": 4.763285
+            "count": 208,
+            "average": 4.764423
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1951,8 +1951,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 249,
-            "average": 4.746988
+            "count": 250,
+            "average": 4.748
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1993,8 +1993,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 207,
-            "average": 4.763285
+            "count": 208,
+            "average": 4.764423
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3766,8 +3766,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 7928,
-            "average": 4.750631
+            "count": 7931,
+            "average": 4.750473
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3934,8 +3934,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3580,
-            "average": 4.7692738
+            "count": 3581,
+            "average": 4.769338
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4018,8 +4018,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4614,
-            "average": 4.805375
+            "count": 4615,
+            "average": 4.804767
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4413,8 +4413,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4314,
-            "average": 4.722995
+            "count": 4315,
+            "average": 4.723059
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4455,8 +4455,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4693,
-            "average": 4.726614
+            "count": 4694,
+            "average": 4.726672
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4538,8 +4538,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 177,
-            "average": 4.757062
+            "count": 179,
+            "average": 4.7597766
           },
           "provider": {
             "name": "Microsoft Learn",
