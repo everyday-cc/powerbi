@@ -53,6 +53,58 @@
       ]
     },
     {
+      "path": "_news/2022-09-19-userculture-dax-function-now-supported-in-power-bi-premium.md",
+      "title": "USERCULTURE DAX function now supported in Power BI Premium",
+      "excerpt": "Support for the DAX UserCulture function in Power BI Premium is now available.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-19-userculture-dax-function-now-supported-in-power-bi-premium/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/userculture-dax-function-now-supported-in-power-bi-premium/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/userculture-dax-function-now-supported-in-power-bi-premium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-announcing-power-bi-report-and-dataset-management-in-power-apps-solutions.md",
       "title": "Announcing Power BI report and dataset management in Power Apps Solutions",
       "excerpt": "Announcing public preview on managing Power BI reports and datasets native components in Power Apps Solution ",
@@ -215,7 +267,7 @@
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-component-for-vue-js-applications-is-now-available/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -521,7 +573,7 @@
       "originalUrl": "https://www.eweek.com/enterprise-apps/power-bi-vs-sisense/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1217,48 +1269,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-raise-your-data-visualization-skills-with-this-excel-and-power-bi-bundle.md",
-      "title": "Raise your data visualization skills with this Excel and Power BI bundle",
-      "excerpt": "TL;DR: As of July 19, you can get The 2022 Ultimate Microsoft Excel & Power BI Certification Bundle(opens in a new tab) for just $34.99 instead of $1800 — that's a 98% discount. Excel is an ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-20-raise-your-data-visualization-skills-with-this-excel-and-power-bi-bundle/index.json",
-      "webUrl": "https://mashable.com/deals/july-19-excel-and-power-bi-bundle",
-      "originalUrl": "https://mashable.com/deals/july-19-excel-and-power-bi-bundle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/026deNNBEvzZpfe3zChRdP2/hero-image.fill.size_1200x675.v1658158429.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

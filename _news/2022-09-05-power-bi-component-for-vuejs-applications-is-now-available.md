@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-component-for-vu
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-component-for-vue-js-applications-is-now-available/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:
