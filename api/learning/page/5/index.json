@@ -380,8 +380,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 5398,
-            "average": 4.674509
+            "count": 5399,
+            "average": 4.674569
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -464,8 +464,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 4402,
-            "average": 4.6965017
+            "count": 4403,
+            "average": 4.6965704
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -506,8 +506,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4878,
-            "average": 4.7341123
+            "count": 4879,
+            "average": 4.7341666
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -759,8 +759,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 15596,
-        "average": 4.772057
+        "count": 15600,
+        "average": 4.771859
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2500,8 +2500,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 586,
-            "average": 4.7730374
+            "count": 587,
+            "average": 4.773424
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2575,8 +2575,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1390,
-            "average": 4.744604
+            "count": 1391,
+            "average": 4.7447877
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2954,8 +2954,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 7448,
-        "average": 4.725564
+        "count": 7450,
+        "average": 4.7255034
       },
       "provider": {
         "name": "Microsoft Learn",
