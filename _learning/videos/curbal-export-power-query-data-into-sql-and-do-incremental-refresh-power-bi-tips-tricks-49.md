@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT18M1S
 publishedDateTime: 2017-08-14T18:35:23Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ANIZkTZO3eU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "fWQK7PXAb69rB5rxFcHcAQp/LhF3nRbC/4V/th2OfErRc57g0wUxs19Hl7bxGJsNxQIlQ+hB2YeMqZEPmVzTdNgrXfTk2u4M3/9Ta0tSA/aXlTAeLKhgYVcXurQ2RR2bwW972e4Ff6bIaOtROjqeKcR46tCIaNgT1JTUmvLxkhVCrNu/aViVNzelGkTApq+kPJ5n7GULJ9/+IAASisZC049ols6AcN/5XUDwLCEtft/NideC5HJNuU1Wu8wa3K5q2By1/59N98zMtWIFVO4xnLRo0mYrOnVzkDsMLEEdonhGn4EL0svOfr4fivW6vgaO7bOvmJ1WRblErCuJM9OPv89JO8CWDBk3hhcTu5HgXGKNdQa8TwrsxKhFc1F+/wxAbHDY97DsIznTipKxoxgdCoTD94xTECBRIhB9bwMfMJU=;NOhawChN0snbJHM0JUyNEQ=="
+secured: "9h5z+6NGzHKrUubtEv+QgRb1/ty6kdIAWyL4cN/dJI/C6ixEVA6MovmqLvvsaQ3gmawhGxtOFN5Vr9+8V5Arx/cU9oqLY3vBUF/s56vuwG0HkXoOGwJsuzxVCK4HxFMMzYR7IOf/IZtSxBV2DIA81G3FyieNvZOu46E4hWO6vSl6arjfvJ2Srw9EvKRYV+9Bep5dXSp53H08v6kFFtwfDlASphxb3l1d9McNcPxt0DUusHS6zLDj3GEriT38UnaVHPpl1iibd7fF4s1mvGsQEXCMWXR8BUaDVGGZcgixKzXNztq5W/2xaA4I2vxzyD+j0HCf/9kyqqDTpt3iJXLNF2XuJ3/K/bG86iFHEBWB8EGUMganAiZCpQpNMNXC5q8aNgxum2FGvHXY6PRmDCvADf1K/am2Qn21Acn92MxnAEo=;HmSYXbz1dabzjC+uKZOA7A=="
 ---
 
