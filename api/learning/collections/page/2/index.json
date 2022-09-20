@@ -1590,7 +1590,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-calculation-groups-social.png",
@@ -3675,8 +3675,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 7944,
-            "average": 4.7507553
+            "count": 7945,
+            "average": 4.750661
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3717,8 +3717,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6562,
-            "average": 4.7128925
+            "count": 6564,
+            "average": 4.7128277
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3760,8 +3760,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 7804,
-            "average": 4.7662735
+            "count": 7805,
+            "average": 4.7663035
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4038,8 +4038,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3101,
-            "average": 4.702677
+            "count": 3102,
+            "average": 4.7027726
           },
           "provider": {
             "name": "Microsoft Learn",
