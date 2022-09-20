@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/enterprise-apps/power-bi-vs-sisense/"
 webUrl: "https://www.eweek.com/enterprise-apps/power-bi-vs-sisense/"
 type: article
 quality: 77
-heat: 78
+heat: 79
 published: true
 
 provider:
