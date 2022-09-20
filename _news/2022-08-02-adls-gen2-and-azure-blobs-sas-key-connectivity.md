@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/adls-gen2-and-azure-blobs
 webUrl: "https://powerbi.microsoft.com/en-us/blog/adls-gen2-and-azure-blobs-sas-key-connectivity/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
