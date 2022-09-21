@@ -52,7 +52,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -2435,8 +2435,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 550,
-            "average": 4.798182
+            "count": 553,
+            "average": 4.799277
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2477,8 +2477,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 402,
-            "average": 4.8134327
+            "count": 403,
+            "average": 4.8138957
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2520,8 +2520,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 251,
-            "average": 4.7330675
+            "count": 252,
+            "average": 4.7222223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2645,8 +2645,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 550,
-            "average": 4.798182
+            "count": 553,
+            "average": 4.799277
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2687,8 +2687,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 402,
-            "average": 4.8134327
+            "count": 403,
+            "average": 4.8138957
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2730,8 +2730,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 251,
-            "average": 4.7330675
+            "count": 252,
+            "average": 4.7222223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4067,8 +4067,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4325,
-            "average": 4.7236996
+            "count": 4326,
+            "average": 4.7237635
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4504,8 +4504,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 186,
-            "average": 4.763441
+            "count": 187,
+            "average": 4.7647057
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4546,8 +4546,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 171,
-            "average": 4.8011694
+            "count": 172,
+            "average": 4.8023257
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4588,8 +4588,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 123,
-            "average": 4.739837
+            "count": 124,
+            "average": 4.7419353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4606,7 +4606,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/explore-data-analytics-at-scale-social.png",
@@ -4624,7 +4624,7 @@
         }
       ],
       "size": 3,
-      "heat": 54,
+      "heat": 53,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/explore-azure-data-services-for-modern-analytics-social.png",
@@ -4880,8 +4880,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4887,
-            "average": 4.734602
+            "count": 4888,
+            "average": 4.734452
           },
           "provider": {
             "name": "Microsoft Learn",
