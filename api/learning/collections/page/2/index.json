@@ -52,7 +52,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -144,8 +144,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 587,
-            "average": 4.773424
+            "count": 588,
+            "average": 4.7738094
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2057,8 +2057,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1238,
-            "average": 4.7382874
+            "count": 1239,
+            "average": 4.7384987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2435,8 +2435,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 553,
-            "average": 4.799277
+            "count": 555,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2562,8 +2562,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 208,
-            "average": 4.764423
+            "count": 209,
+            "average": 4.755981
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2645,8 +2645,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 553,
-            "average": 4.799277
+            "count": 555,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2772,8 +2772,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 208,
-            "average": 4.764423
+            "count": 209,
+            "average": 4.755981
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3942,8 +3942,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3108,
-            "average": 4.702381
+            "count": 3109,
+            "average": 4.7024765
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4067,8 +4067,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4326,
-            "average": 4.7237635
+            "count": 4327,
+            "average": 4.7238274
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4880,8 +4880,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4888,
-            "average": 4.734452
+            "count": 4889,
+            "average": 4.734506
           },
           "provider": {
             "name": "Microsoft Learn",
