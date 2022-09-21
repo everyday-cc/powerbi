@@ -390,8 +390,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 28,
-        "average": 4.714286
+        "count": 29,
+        "average": 4.724138
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -889,8 +889,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
       "length": "PT34M",
       "ratings": {
-        "count": 252,
-        "average": 4.7222223
+        "count": 254,
+        "average": 4.7165356
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -973,8 +973,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 158,
-        "average": 4.64557
+        "count": 159,
+        "average": 4.6415095
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1016,8 +1016,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-publish-share/",
       "length": "PT49M",
       "ratings": {
-        "count": 124,
-        "average": 4.7419353
+        "count": 125,
+        "average": 4.736
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1058,8 +1058,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-teams/",
       "length": "PT27M",
       "ratings": {
-        "count": 165,
-        "average": 4.787879
+        "count": 166,
+        "average": 4.7650604
       },
       "provider": {
         "name": "Microsoft Learn",
