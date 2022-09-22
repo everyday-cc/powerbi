@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT14M42S
 publishedDateTime: 2022-04-20T23:57:58Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f_Y471pKWh0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "HVjx1ZHxIYtcwG5dsEhs+iOgAS5TV9sWI+eFm/+xJfsyCBf8xUg7eH4ulpmEEG+SbF0gR184nmw45ZXcN8x9p9GKRbsXqL7qH1ZcSBI2HUpcbXvQv+/3dSYvXUT19OLmMo/gRlDRWdnA10wAU3snw9Un22tfJAEE4GtGO7uLnaU/VivFNzwpVTWVBe8VIHw5lCQ11htY+xoIFvL9Rb+s97jt8AxA/o2Yox9ZqIPfJRpogUXQ4mZW5+ePJJznMTVqmkaPFzU3P2XydDJmvkEtMQV1Y50JhiimFAFYrUVFwXCa65hvP91eyUhEwYfzeVr6BIqDsHVjvkYuegORRfRFaaAw/7tZ8qnbjCOmhyOyq4YapmlJnJUsmnRLW4/GmsXz0Ps9qGw22iY3gElUD2FtP3dVrcxrQwXOmiIZgTpyHbY=;TlqycGAzs8Mp5SKIRWaraw=="
+secured: "0ZjkeQpT+00NWN7u1bIwx0N+q7l93g2lCUv2s2iPN+ctUr5EB9rcTdnbrkJrS0oveaHAg/qNxVFWIfipxuIstkWblRvuwKhzazis675hifjXn9dn/AbIOj3egBCVMOR05G88qDT9b+Gehbjie4lmYzx8HlALI98VQatDBnfjTc90BUI43fnOK+dgu5GbEdZgymua2CEB5jo1N6LVJuVHJtX9JtthYdBmgwzN3GWdgn+XpzcfR2mohT86kNji+DbxPVs2jOVe4N9gM1mrFNVnQlzCOfsHnhHZYAByVSPMseP9lhWWcBKFVzeIeULgRn1f2gzUeOz1c4zNDLp4PcCNUIOx9aGPyTWWctFr/2jezqiqRC3cdoVW+h4DBGx9h8Ig/RUoJRhm2aOMPreqtS4zD7Pdgg/oSKUsfFC9iw/WgTU=;d2H/FMa4f+z3xfbyvcvWdA=="
 ---
 
