@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 7489,
-        "average": 4.725464
+        "count": 7491,
+        "average": 4.7255373
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -694,8 +694,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 4913,
-            "average": 4.685732
+            "count": 4914,
+            "average": 4.685796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1301,8 +1301,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 7832,
-            "average": 4.766088
+            "count": 7834,
+            "average": 4.76602
           },
           "provider": {
             "name": "Microsoft Learn",
