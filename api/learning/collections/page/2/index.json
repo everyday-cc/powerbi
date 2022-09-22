@@ -1403,7 +1403,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-reach-social.png",
@@ -1612,7 +1612,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-reach-social.png",
@@ -2139,8 +2139,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 560,
-            "average": 4.8
+            "count": 561,
+            "average": 4.8003564
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2181,8 +2181,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 406,
-            "average": 4.807882
+            "count": 407,
+            "average": 4.808354
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2349,8 +2349,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 560,
-            "average": 4.8
+            "count": 561,
+            "average": 4.8003564
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2391,8 +2391,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 406,
-            "average": 4.807882
+            "count": 407,
+            "average": 4.808354
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4353,8 +4353,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13206,
-            "average": 4.6787066
+            "count": 13208,
+            "average": 4.6787553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4512,8 +4512,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 187,
-            "average": 4.7647057
+            "count": 188,
+            "average": 4.7659574
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4554,8 +4554,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 173,
-            "average": 4.797688
+            "count": 174,
+            "average": 4.7988505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4596,8 +4596,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 125,
-            "average": 4.744
+            "count": 126,
+            "average": 4.7380953
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4804,8 +4804,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 78,
-            "average": 4.8076925
+            "count": 80,
+            "average": 4.7875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4888,8 +4888,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4894,
-            "average": 4.734369
+            "count": 4895,
+            "average": 4.7344227
           },
           "provider": {
             "name": "Microsoft Learn",
