@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-intro/",
       "length": "PT37M",
       "ratings": {
-        "count": 566,
-        "average": 4.80212
+        "count": 568,
+        "average": 4.802817
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -96,8 +96,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
       "length": "PT34M",
       "ratings": {
-        "count": 258,
-        "average": 4.713178
+        "count": 259,
+        "average": 4.710425
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -307,8 +307,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-teams/",
       "length": "PT27M",
       "ratings": {
-        "count": 168,
-        "average": 4.7619047
+        "count": 169,
+        "average": 4.763314
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -325,7 +325,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 131,
+      "heat": 51,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-teams-social.png",
