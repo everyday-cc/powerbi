@@ -4062,8 +4062,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13209,
-            "average": 4.678704
+            "count": 13210,
+            "average": 4.678653
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4555,8 +4555,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3598,
-            "average": 4.769316
+            "count": 3599,
+            "average": 4.7693806
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4972,8 +4972,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 73,
-            "average": 4.712329
+            "count": 74,
+            "average": 4.716216
           },
           "provider": {
             "name": "Microsoft Learn",
