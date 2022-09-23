@@ -902,8 +902,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 4907,
-        "average": 4.7330346
+        "count": 4908,
+        "average": 4.733089
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -944,8 +944,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 2907,
-        "average": 4.753354
+        "count": 2908,
+        "average": 4.7530947
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -987,8 +987,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 1415,
-        "average": 4.7427564
+        "count": 1418,
+        "average": 4.742595
       },
       "provider": {
         "name": "Microsoft Learn",
