@@ -599,8 +599,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 995,
-            "average": 4.7738695
+            "count": 996,
+            "average": 4.7730923
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -659,7 +659,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 52,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-reports-social.png",
@@ -743,8 +743,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 6621,
-        "average": 4.7128835
+        "count": 6623,
+        "average": 4.712668
       },
       "provider": {
         "name": "Microsoft Learn",
