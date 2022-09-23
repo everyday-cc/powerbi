@@ -3826,8 +3826,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4716,
-            "average": 4.7270994
+            "count": 4717,
+            "average": 4.727157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4096,8 +4096,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10130,
-            "average": 4.704442
+            "count": 10131,
+            "average": 4.7044716
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4138,8 +4138,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1107,
-            "average": 4.7271905
+            "count": 1108,
+            "average": 4.727437
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4305,8 +4305,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4901,
-            "average": 4.733932
+            "count": 4902,
+            "average": 4.733986
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4430,8 +4430,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 174,
-            "average": 4.7988505
+            "count": 175,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
