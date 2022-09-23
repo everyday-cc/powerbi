@@ -533,7 +533,7 @@
             ]
           },
           "publishedDateTime": "2017-06-01T10:08:07-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/D6mGoPNDwNk/maxresdefault.jpg",
@@ -654,8 +654,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 13619,
-        "average": 4.725457
+        "count": 13620,
+        "average": 4.725404
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -696,8 +696,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 7851,
-        "average": 4.7663994
+        "count": 7852,
+        "average": 4.766429
       },
       "provider": {
         "name": "Microsoft Learn",
