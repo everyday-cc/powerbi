@@ -240,8 +240,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 13215,
-        "average": 4.7570944
+        "count": 13217,
+        "average": 4.757131
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -461,8 +461,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 4922,
-            "average": 4.6859
+            "count": 4923,
+            "average": 4.6859636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -545,8 +545,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4899,
-            "average": 4.7346396
+            "count": 4901,
+            "average": 4.733932
           },
           "provider": {
             "name": "Microsoft Learn",
