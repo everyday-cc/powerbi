@@ -304,8 +304,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3606,
-            "average": 4.7689962
+            "count": 3608,
+            "average": 4.769124
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -346,8 +346,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3113,
-            "average": 4.7022166
+            "count": 3115,
+            "average": 4.702408
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -388,8 +388,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4640,
-            "average": 4.804095
+            "count": 4641,
+            "average": 4.804137
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -532,8 +532,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 2911,
-        "average": 4.7533493
+        "count": 2912,
+        "average": 4.753434
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -659,8 +659,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 4640,
-        "average": 4.804095
+        "count": 4641,
+        "average": 4.804137
       },
       "provider": {
         "name": "Microsoft Learn",
