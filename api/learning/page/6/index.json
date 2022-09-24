@@ -2394,8 +2394,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 213,
-            "average": 4.7558684
+            "count": 214,
+            "average": 4.7570095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2604,8 +2604,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 213,
-            "average": 4.7558684
+            "count": 214,
+            "average": 4.7570095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3862,8 +3862,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 6629,
-        "average": 4.7126265
+        "count": 6630,
+        "average": 4.71267
       },
       "provider": {
         "name": "Microsoft Learn",
