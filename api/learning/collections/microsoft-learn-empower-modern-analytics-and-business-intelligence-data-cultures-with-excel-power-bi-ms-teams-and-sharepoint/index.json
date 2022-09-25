@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-intro/",
       "length": "PT37M",
       "ratings": {
-        "count": 574,
-        "average": 4.803136
+        "count": 575,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -283,7 +283,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 130,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/modern-analytics-excel-social.png",

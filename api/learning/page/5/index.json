@@ -731,8 +731,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-embedded-content/",
           "length": "PT31M",
           "ratings": {
-            "count": 17,
-            "average": 4.647059
+            "count": 18,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -814,8 +814,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8007,
-            "average": 4.7493443
+            "count": 8008,
+            "average": 4.749376
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -899,8 +899,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 7861,
-            "average": 4.7661877
+            "count": 7862,
+            "average": 4.766217
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1561,8 +1561,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 7861,
-        "average": 4.7661877
+        "count": 7862,
+        "average": 4.766217
       },
       "provider": {
         "name": "Microsoft Learn",
