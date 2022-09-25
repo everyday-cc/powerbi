@@ -1116,7 +1116,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-intro-social.png",
@@ -4107,8 +4107,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4648,
-            "average": 4.804217
+            "count": 4650,
+            "average": 4.804086
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4510,8 +4510,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13220,
-            "average": 4.6787443
+            "count": 13221,
+            "average": 4.6787686
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4586,8 +4586,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1116,
-            "average": 4.7240143
+            "count": 1117,
+            "average": 4.7242613
           },
           "provider": {
             "name": "Microsoft Learn",
