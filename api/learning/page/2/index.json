@@ -127,8 +127,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 7583,
-        "average": 4.722537
+        "count": 7589,
+        "average": 4.721966
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -324,7 +324,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 137,
+          "heat": 58,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png",
@@ -432,8 +432,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4914,
-            "average": 4.7328043
+            "count": 4915,
+            "average": 4.7328587
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -592,8 +592,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1422,
-            "average": 4.742616
+            "count": 1423,
+            "average": 4.742797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -801,8 +801,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 13252,
-            "average": 4.7570934
+            "count": 13254,
+            "average": 4.75713
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -984,8 +984,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 13252,
-        "average": 4.7570934
+        "count": 13254,
+        "average": 4.75713
       },
       "provider": {
         "name": "Microsoft Learn",
