@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
       "length": "PT33M",
       "ratings": {
-        "count": 100,
-        "average": 4.8
+        "count": 101,
+        "average": 4.80198
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
       "length": "PT11M",
       "ratings": {
-        "count": 109,
-        "average": 4.6605506
+        "count": 110,
+        "average": 4.663636
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -137,8 +137,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
       "length": "PT19M",
       "ratings": {
-        "count": 75,
-        "average": 4.92
+        "count": 76,
+        "average": 4.9210525
       },
       "provider": {
         "name": "Microsoft Learn",

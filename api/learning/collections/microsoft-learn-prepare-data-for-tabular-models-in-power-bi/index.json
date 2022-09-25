@@ -11,8 +11,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
       "length": "PT46M",
       "ratings": {
-        "count": 29,
-        "average": 4.724138
+        "count": 30,
+        "average": 4.733333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/understand-scalability-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 21,
-        "average": 4.6190476
+        "count": 22,
+        "average": 4.6363635
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 17,
-        "average": 4.9411764
+        "count": 18,
+        "average": 4.9444447
       },
       "provider": {
         "name": "Microsoft Learn",
