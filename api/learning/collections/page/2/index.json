@@ -3898,8 +3898,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4345,
-            "average": 4.721979
+            "count": 4346,
+            "average": 4.721583
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4065,8 +4065,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3118,
-            "average": 4.7023735
+            "count": 3119,
+            "average": 4.7018275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4190,8 +4190,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 87,
-            "average": 4.793103
+            "count": 88,
+            "average": 4.7727275
           },
           "provider": {
             "name": "Microsoft Learn",
