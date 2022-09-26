@@ -965,8 +965,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 10137,
-        "average": 4.704548
+        "count": 10138,
+        "average": 4.704577
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1007,8 +1007,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 411,
-        "average": 4.7980537
+        "count": 412,
+        "average": 4.7985435
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1168,8 +1168,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 1032,
-        "average": 4.7160854
+        "count": 1033,
+        "average": 4.71636
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1373,8 +1373,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
       "length": "PT34M",
       "ratings": {
-        "count": 262,
-        "average": 4.7137403
+        "count": 263,
+        "average": 4.7110267
       },
       "provider": {
         "name": "Microsoft Learn",
