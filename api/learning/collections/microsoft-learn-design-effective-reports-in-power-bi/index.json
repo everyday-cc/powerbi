@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 54,
+      "heat": 53,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-requirements-social.png",
@@ -179,8 +179,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
       "length": "PT59M",
       "ratings": {
-        "count": 268,
-        "average": 4.7462687
+        "count": 269,
+        "average": 4.747212
       },
       "provider": {
         "name": "Microsoft Learn",
