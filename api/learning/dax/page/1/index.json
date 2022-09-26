@@ -718,7 +718,7 @@
             "domain": "absentdata.com"
           },
           "publishedDateTime": "2020-07-25T19:59:10-07:00",
-          "heat": 53,
+          "heat": 54,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/80i8rLQtO3o/hqdefault.jpg",
@@ -1345,8 +1345,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 2914,
-            "average": 4.7536035
+            "count": 2915,
+            "average": 4.7533445
           },
           "provider": {
             "name": "Microsoft Learn",
