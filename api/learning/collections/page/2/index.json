@@ -2166,8 +2166,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
           "length": "PT1H30M",
           "ratings": {
-            "count": 56,
-            "average": 4.821429
+            "count": 57,
+            "average": 4.8245616
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3631,8 +3631,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8048,
-            "average": 4.7493787
+            "count": 8053,
+            "average": 4.749534
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3673,8 +3673,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6658,
-            "average": 4.712376
+            "count": 6660,
+            "average": 4.7124624
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3716,8 +3716,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 7885,
-            "average": 4.766138
+            "count": 7888,
+            "average": 4.7662272
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3952,8 +3952,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13232,
-            "average": 4.6787333
+            "count": 13233,
+            "average": 4.6787577
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3986,8 +3986,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10141,
-            "average": 4.704467
+            "count": 10142,
+            "average": 4.7044964
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4153,8 +4153,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4737,
-            "average": 4.7274647
+            "count": 4738,
+            "average": 4.7275224
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4236,8 +4236,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3622,
-            "average": 4.76836
+            "count": 3623,
+            "average": 4.768424
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4487,8 +4487,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4921,
-            "average": 4.7331843
+            "count": 4922,
+            "average": 4.7332387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4987,8 +4987,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 76,
-            "average": 4.7236843
+            "count": 77,
+            "average": 4.7272725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5112,8 +5112,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/",
           "length": "PT25M",
           "ratings": {
-            "count": 16,
-            "average": 4.875
+            "count": 17,
+            "average": 4.882353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5154,8 +5154,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
           "length": "PT42M",
           "ratings": {
-            "count": 39,
-            "average": 4.820513
+            "count": 40,
+            "average": 4.825
           },
           "provider": {
             "name": "Microsoft Learn",
