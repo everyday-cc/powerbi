@@ -3631,8 +3631,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8045,
-            "average": 4.749285
+            "count": 8046,
+            "average": 4.749316
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3673,8 +3673,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6654,
-            "average": 4.712504
+            "count": 6656,
+            "average": 4.71259
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3716,8 +3716,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 7877,
-            "average": 4.766155
+            "count": 7879,
+            "average": 4.766087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3952,8 +3952,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13231,
-            "average": 4.67886
+            "count": 13232,
+            "average": 4.6787333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4236,8 +4236,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3618,
-            "average": 4.769486
+            "count": 3619,
+            "average": 4.768997
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4654,8 +4654,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 134,
-            "average": 4.7089553
+            "count": 136,
+            "average": 4.7132354
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4779,8 +4779,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 230,
-            "average": 4.830435
+            "count": 231,
+            "average": 4.82684
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4904,8 +4904,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 230,
-            "average": 4.830435
+            "count": 231,
+            "average": 4.82684
           },
           "provider": {
             "name": "Microsoft Learn",
