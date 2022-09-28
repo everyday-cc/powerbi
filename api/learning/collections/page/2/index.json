@@ -2464,8 +2464,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 78,
-            "average": 4.8974357
+            "count": 79,
+            "average": 4.898734
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2506,8 +2506,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-embedded-select/",
           "length": "PT29M",
           "ratings": {
-            "count": 38,
-            "average": 4.763158
+            "count": 39,
+            "average": 4.769231
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2548,8 +2548,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-content/",
           "length": "PT33M",
           "ratings": {
-            "count": 28,
-            "average": 4.785714
+            "count": 29,
+            "average": 4.793103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3193,7 +3193,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-calculations-social.png",
@@ -3871,8 +3871,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4359,
-            "average": 4.7214956
+            "count": 4360,
+            "average": 4.7215595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3913,8 +3913,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4742,
-            "average": 4.727541
+            "count": 4743,
+            "average": 4.7275987
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4559,8 +4559,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4925,
-            "average": 4.733401
+            "count": 4926,
+            "average": 4.733455
           },
           "provider": {
             "name": "Microsoft Learn",
