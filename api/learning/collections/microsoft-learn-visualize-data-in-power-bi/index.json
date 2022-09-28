@@ -54,7 +54,7 @@
       "length": "PT1H44M",
       "ratings": {
         "count": 4958,
-        "average": 4.6849537
+        "average": 4.684752
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 4453,
-        "average": 4.695037
+        "count": 4454,
+        "average": 4.6951056
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -137,8 +137,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 4922,
-        "average": 4.7332387
+        "count": 4923,
+        "average": 4.7332926
       },
       "provider": {
         "name": "Microsoft Learn",

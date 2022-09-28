@@ -1992,8 +1992,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 101,
-            "average": 4.80198
+            "count": 102,
+            "average": 4.7941175
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2034,8 +2034,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
           "length": "PT11M",
           "ratings": {
-            "count": 110,
-            "average": 4.663636
+            "count": 111,
+            "average": 4.6576576
           },
           "provider": {
             "name": "Microsoft Learn",
