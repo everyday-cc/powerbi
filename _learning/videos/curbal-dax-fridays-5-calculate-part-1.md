@@ -4,9 +4,9 @@ excerpt: "Let's go through CALCULATE function available in DAX!  PREVIOUS VIDEO:
 originalUrl: https://youtube.com/watch?v=-oDpOfhgmzA
 type: video
 price: Free
-length: PT14M30S
+length: PT14M29S
 publishedDateTime: 2016-09-22T19:14:08Z
-heat: 54
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-oDpOfhgmzA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "/mg2va3MRJV5bbDNV6F02+LJ/cknsHWfjY3r+YOAlyl69VNYvikW8Xfr/QD3/vmhTD+BX0JfyBbSiMYHC9DGFdJXE0PJltGRXUS/FFYVPAYyNSe/YrJZwwWnSmKjdFUBCA6d91VXBW3azpDLzeuHC/kVcDliNA4w/z2JyTsSINzG+f0H/5UzQQm7rBU9qvID+0ivLcDVc0coDOFfFjC+duduFZv/HdIDo4YnN40jAWRzMXhIc/T3VhAxyMyJ1/XgDnCTIQr9BbH8Als2jCBgFenrSzFSMA2/qZzWFp00oIdhYmSQ6eV8MaN3N8u0c6+xYIjs/Cpnm9DpnmYM3gHORHmCtn4jGgkGEWnHfNTxb5koTMbYedscaXqj1vED4QOiVXO4fVlNMCWFVBkFVeWiAsuJxo+RbHhGQ+UMeVKDJ9rvvebIl2rurPdmNk4PQBvF;1jgTEpwt4UGan5oFKDI2tg=="
+secured: "/B54+o/ppQ8SfJTNjk1DF6T2qEsMkdBW8m47iDjsyavtZrfCLBfpufg+760EpEZCsuO0tRiVI+CAKOcF0MIWhoSf4uCG5eB0HBWmBW3bMa3kf0one/uhsVHyN8tdLNHhRP5dmH5mNRnVQFiI8GykE/y5wi5zRrGr/vtvbuxVnTFgHk8IDDLrpQ9qi0S1pTjmVbzc5NRkibfH3p1bQO1+hxSE60iecYeN5iQm9rOShWR/DeSRoV21m5Mo0DiC7jJm5gpADQGEo7s60nmfxmZ6LRILfJ2evmQeOjPr4ObEZk61BzhmVeLbkPtn2UBlVOfoeSoikY+ahrH5LAmKcZ+ZX7NcfSr6j6vHNiNDExxC5E9teCKfU9R2B12V1Ioc3gkgRhvG9QVZazrYUvxTnoP/vVUA5Kkh46yWioSzDXvUWImDPZ6QTUa7JFakdfgWEAf4;4lsQewP5MJ0B+oOKibtGNg=="
 ---
 
