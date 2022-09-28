@@ -95,8 +95,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-tableau-calculations/",
       "length": "PT57M",
       "ratings": {
-        "count": 58,
-        "average": 4.362069
+        "count": 59,
+        "average": 4.3728814
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -113,7 +113,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 130,
+      "heat": 50,
       "images": [
         {
           "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-calculations-social.png",
