@@ -34,8 +34,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 583,
-            "average": 4.801029
+            "count": 584,
+            "average": 4.8013697
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -119,8 +119,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 264,
-            "average": 4.712121
+            "count": 265,
+            "average": 4.7132077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -161,8 +161,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 215,
-            "average": 4.7581396
+            "count": 216,
+            "average": 4.759259
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1835,8 +1835,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 76,
-            "average": 4.9210525
+            "count": 77,
+            "average": 4.922078
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1877,8 +1877,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 74,
-            "average": 4.783784
+            "count": 75,
+            "average": 4.786667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2044,8 +2044,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 76,
-            "average": 4.9210525
+            "count": 77,
+            "average": 4.922078
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2086,8 +2086,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 74,
-            "average": 4.783784
+            "count": 75,
+            "average": 4.786667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2882,8 +2882,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 121,
-            "average": 4.7768593
+            "count": 122,
+            "average": 4.7786884
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2924,8 +2924,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 102,
-            "average": 4.7941175
+            "count": 103,
+            "average": 4.7961164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2966,8 +2966,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
           "length": "PT11M",
           "ratings": {
-            "count": 111,
-            "average": 4.6576576
+            "count": 112,
+            "average": 4.660714
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3008,8 +3008,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 76,
-            "average": 4.9210525
+            "count": 77,
+            "average": 4.922078
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3913,8 +3913,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4743,
-            "average": 4.7275987
+            "count": 4744,
+            "average": 4.727656
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3996,8 +3996,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3625,
-            "average": 4.768552
+            "count": 3626,
+            "average": 4.7686157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4316,8 +4316,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13236,
-            "average": 4.6788306
+            "count": 13237,
+            "average": 4.678855
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4559,8 +4559,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4926,
-            "average": 4.733455
+            "count": 4927,
+            "average": 4.733509
           },
           "provider": {
             "name": "Microsoft Learn",
