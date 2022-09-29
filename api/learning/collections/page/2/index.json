@@ -2001,8 +2001,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 77,
-            "average": 4.922078
+            "count": 78,
+            "average": 4.923077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2043,8 +2043,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 76,
-            "average": 4.7894735
+            "count": 77,
+            "average": 4.7792206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2145,7 +2145,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-automate-social.png",
@@ -2210,8 +2210,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 77,
-            "average": 4.922078
+            "count": 78,
+            "average": 4.923077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2252,8 +2252,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 76,
-            "average": 4.7894735
+            "count": 77,
+            "average": 4.7792206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2354,7 +2354,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-automate-social.png",
@@ -3174,8 +3174,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 77,
-            "average": 4.922078
+            "count": 78,
+            "average": 4.923077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3926,8 +3926,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4744,
-            "average": 4.727656
+            "count": 4745,
+            "average": 4.7277136
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4093,8 +4093,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4674,
-            "average": 4.8035946
+            "count": 4675,
+            "average": 4.8036366
           },
           "provider": {
             "name": "Microsoft Learn",
