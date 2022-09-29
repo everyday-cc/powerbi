@@ -4,7 +4,7 @@ excerpt: "A lot of cool features are coming to power bi due to the new xmla impl
 originalUrl: https://youtube.com/watch?v=runMPif7sTk
 type: video
 price: Free
-length: PT7M55S
+length: PT7M54S
 publishedDateTime: 2020-04-15T11:49:43Z
 heat: 50
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Js5z3hMeE7dnnT3r13Xb/3CtrSGrnjupagBe+A1GIxvksEybdugR+tf3Mt4Ik1tSYOKWH1Acabd+G8M3/AASi/Sh5aijbkNhh3fF6mEB9nBN31adD4LATplnHSkgLBrIHLzEyCyfKAjsypvBJU9Nq/Fypod857BFgVGlXSpl1s+cnKb/55TCvjbWjFUL7uDdbe1QmzcnDC/6Uba+spfAn8ZyyhzLZ8uQPlahuGHVDnI2SV99Qk3xF9+VU8iou0WVCluPQLgrtX7gBpfEyqhA/BEOdXW0W2/mRJxjHoVd18QzqlA9dkAa9v9929FmfBexd+R5aLb3MKaIOL2JRFd4IkBH71XpqLD6Yse6McAd1vnpJ4L7YItp+FXgdvyChy+MlT+6x6TePpNFLs20XznczySSvP7ckTX4w7Rr/0MALeY=;SvO/qI1m1GMn4HLGqkIGkQ=="
+secured: "bpqaO2JgfPFC0Qhfte+v42d8s0KvzaoJ6WlWEXC9LOmxQCHQy18UOD++fiA2CrXcYJuELKSFsAUL/vEAYAJG6cKUsR7qlFL1XyQTAj7TIJuGjlrtlzm3rYPktx46AwQglrTuUMlUtNqtPmD7MsEUzDkD3+/t3Qe3+ejQhH0cIs+/++hOT/gTTsKumorT461GvyFCC6E8s1+WRo3A3Gmd7Z9tbowfoTZddLo1FZ73h8kf7+iq1UsNPd66XHKuEResgJHTL9y1QdUMJW7V6SdinDVZE+Ha2VwINAe+P0hrSDqYXYVgt5Ol/NrwP57Mbbfx2ClJsSaNqcLEhrGiJoBZ7XDV5v7zKTDa6L1JcBTIkpovZTEjD/9xiTVLB7TzqTZ7BXMaZ5crMs7MjT7/wMadlbpEMiqvbjJ1MzeuqNsOUjo=;1/2sX6Jx8Oi5c3SiKk/I2Q=="
 ---
 
