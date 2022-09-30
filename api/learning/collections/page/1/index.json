@@ -44,7 +44,7 @@
             ]
           },
           "publishedDateTime": "2021-01-14T08:21:12-08:00",
-          "heat": 100,
+          "heat": 102,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -223,8 +223,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 46747,
-            "average": 4.7981477
+            "count": 46751,
+            "average": 4.798165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 67967,
-            "average": 4.7781277
+            "count": 67974,
+            "average": 4.778106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 67967,
-            "average": 4.7781277
+            "count": 67974,
+            "average": 4.778106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -390,8 +390,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 30275,
-            "average": 4.7251196
+            "count": 30277,
+            "average": 4.725072
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -558,8 +558,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 13372,
-            "average": 4.7573285
+            "count": 13375,
+            "average": 4.7573085
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -600,8 +600,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15867,
-            "average": 4.772547
+            "count": 15870,
+            "average": 4.7725897
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -876,8 +876,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 5477,
-            "average": 4.6728134
+            "count": 5478,
+            "average": 4.672143
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2252,8 +2252,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8092,
-            "average": 4.749382
+            "count": 8093,
+            "average": 4.749413
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2463,8 +2463,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2007,
-            "average": 4.7189837
+            "count": 2008,
+            "average": 4.7191234
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5222,8 +5222,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 595,
-            "average": 4.7764707
+            "count": 596,
+            "average": 4.7768455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5339,8 +5339,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 417,
-            "average": 4.800959
+            "count": 418,
+            "average": 4.8014355
           },
           "provider": {
             "name": "Microsoft Learn",
