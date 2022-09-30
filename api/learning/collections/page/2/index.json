@@ -2526,7 +2526,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/create-power-bi-model-relationships-social.png",
@@ -3197,7 +3197,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/power-bi-tableau-data-connectivity-social.png",
@@ -3959,8 +3959,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4753,
-            "average": 4.72712
+            "count": 4754,
+            "average": 4.727177
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4126,8 +4126,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4677,
-            "average": 4.8037205
+            "count": 4678,
+            "average": 4.8035483
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4619,8 +4619,8 @@
           "webUrl": "https://docs.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 139,
-            "average": 4.7194242
+            "count": 140,
+            "average": 4.7214284
           },
           "provider": {
             "name": "Microsoft Learn",
