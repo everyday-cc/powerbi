@@ -8,11 +8,11 @@
       "title": "Create and manage workspaces in Power BI ",
       "excerpt": "This module explains how you can share reports and datasets with your users and how to create a deployment strategy that makes sense for you and your organization. Furthermore, you will learn about data lineage in Microsoft Power BI.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-manage-workspaces-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 3638,
-        "average": 4.768279
+        "count": 3639,
+        "average": 4.768343
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,10 +29,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 55,
+      "heat": 126,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-manage-workspaces-power-bi-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
           "width": 643,
           "height": 321,
           "isCached": true
@@ -50,7 +50,7 @@
       "title": "Manage datasets in Power BI ",
       "excerpt": "With Microsoft Power BI, you can build multiple reports from a single dataset, meaning that if you change the dataset, all reports will be updated with that change. Additionally, you can clean and prep data once rather than repeatedly for each report.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-manage-datasets-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
         "count": 3134,
@@ -71,10 +71,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 119,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/manage-datasets-in-power-bi-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/manage-datasets-in-power-bi-social.png",
           "width": 643,
           "height": 321,
           "isCached": true
@@ -92,11 +92,11 @@
       "title": "Implement row-level security",
       "excerpt": "Row-level security (RLS) allows you to create a single or a set of reports that targets data for a specific user. In this module, you will learn how to implement RLS by using either a static or dynamic method and how Microsoft Power BI simplifies testing RLS in Power BI Desktop and Power BI service.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-row-level-security-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 4678,
-        "average": 4.8035483
+        "count": 4679,
+        "average": 4.8035903
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -113,10 +113,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 54,
+      "heat": 139,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/row-level-security-power-bi-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png",
           "width": 643,
           "height": 321,
           "isCached": true

@@ -1,14 +1,14 @@
 ---
 title: "Optimize a model for performance in Power BI "
 excerpt: "Performance optimization, also known as performance tuning, involves making changes to the current state of the data model so that it runs more efficiently. Essentially, when your data model is optimized, it performs better."
-webUrl: https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/
+webUrl: https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/
 type: course
 price: Free
 length: PT1H9M
 ratings:
-  count: 7925
-  average: 4.7658043
-heat: 64
+  count: 7928
+  average: 4.7656407
+heat: 167
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png
+  - url: https://learn.microsoft.com/training/achievements/optimize-model-power-bi-social.png
     width: 643
     height: 321
     isCached: true
 
-secured: "d0V3Zekf9cF3lfyk6OlbVb0Ud/yPUMW5nHCe9SvoTmOiqpxmIofIWWXKDmUl9Hl7NSgKdRd3w4l7/SjQc6I1SkFCkGAl854F//ecVBDlSwSTJdznfkoJRE1/d7DUSHcfjRBhWj6kZE5hK8F0voKau5KwwWvLntfTQEPX56jeWYBhUgkXvBJuVeGncFAJnDXdGOdDFaHFXlW9s6+RQl9sZooDIXw627n3A09gyaT/xYcA9UNbF1Ca8wcZZOyfqavPStmbLtllp44CWJS9wvPs87Fv0w4/HBFzg1uDV35vysqFAXWNlAgvTb78qqCzBtOX/hhRapfCKaeBo10l8a8RJl1FESd57tvcvOgJ5jI7P1ImK7WAWP3RcLQoLgkl25gsaPv8oJxzSFr2FMItBPQU9k6+GkiYj4WALCwG1/pUgOs=;/DVBzRohuluYFy1mmEu16A=="
+secured: "RNtLpnbolr/LRS8Ysb2Sb+HnV/7nlRyYfM20xUhO/otZT8WqWBYbE5UnoYLYSMhwtjacPEPD3cAzMa9VIYdp9xRKI1vstQ6x0NtShct8Cf7UpOdP4/JvIlI8XWZICdf3sajDzZAJnD3Xt1saSxu7IXPmfXkM7QpqlHYiz4EpAVRk+Jgenk2Tq1/9KCGDjn34OlOCCyFA0SS00St/ZYiAkTiZsT9miZw1JQysE3O2tROVKiVvH7lkNCHjzBv1gdfv1K5RRzXv2h3UWsyzBmdB06R7A8eE+A+cNdmxomlJpavPckE3B5Mc1iUjlktSab6nj8+MhBzZ7ZR4ywQECBjYmrocklv+VQmK3oSk3p/5Vp+dT+RFItxEUj3uyosEyEqJWr3tyOofuPOcd+wbbjjGUw==;dCo0ghx4ifY+X1kUex2jGA=="
 ---
 

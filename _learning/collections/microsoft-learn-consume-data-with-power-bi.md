@@ -4,7 +4,7 @@ excerpt: "Do you want to make business decisions backed by data? Learn how to do
 type: collection
 price: Free
 length: PT2H9M
-heat: 52
+heat: 181
 
 provider:
   name: Microsoft Learn
@@ -26,7 +26,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/analyze-explore-data-power-bi-social.png
+  - url: https://learn.microsoft.com/training/achievements/analyze-explore-data-power-bi-social.png
     width: 643
     height: 321
     isCached: true

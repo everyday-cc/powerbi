@@ -1,14 +1,14 @@
 ---
 title: "Create Power BI visuals for Tableau users"
 excerpt: "This module goes through the basics of creating visuals in Power BI."
-webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-tableau-visuals/
+webUrl: https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-visuals/
 type: course
 price: Free
 length: PT1H9M
 ratings:
   count: 61
   average: 4.704918
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/power-bi-tableau-visuals-social.png
+  - url: https://learn.microsoft.com/training/achievements/power-bi-tableau-visuals-social.png
     width: 1280
     height: 641
     isCached: true
 
-secured: "8j9TVDdqdTr2j/MvVGBIBh08WnktyPaPQa8RgWORsvIEYo2NhcShxPR5Hysj3qBivZ7VLfAWhaOeUYKqQ1ts6wAbcq8S6LyK9+n5ea8E2195t9Xbup+cqc3e3kcx496JvEaIXXcjVzGnLRR8NFi6BZM/7RqDBusEHsWogKaLAQbxGA3ddUNsIViY5tYAP9rFWIOjNaPeo4R5+PYwj/ZDlYCpZyvbWxkTq6Thy1rVBcjx5l+jQMPye0RY5xWVdH1Es0V2PnYIG7W87Mn/ztX/PEPnGSnYbAET6UZrEVw/Sy5FK6opJhVumluae8SBbniyt5sCKmaLQQTBNY6iRw3WT2zEou+SM+fjTPk5X4gvJyTaUomScc610ZYxRIMHBW/YFe1Gu8iq8u4hIfhSMcsPln7yKrKk5SlzNAom/2SLCuY=;ApBeIbzW9uukLB62IqTSVA=="
+secured: "AgYhKl3Y4hk0E6jB+yIc/d3DRWsPSSf6PPttIxKV/00TSBUz4yvwSE7wveTrUYOUa6bqj2CAYqVNEc2qSx9jkFzpxvgNUACcC48tsl87oJUKZUycymmHmoW6LG6XXlLvlXqJ4+GUnzkSYn3XWoVsZA4T6yVxNPs8k87h21EHohpT8rgEmGkRaFU+nQzmHvzfdBnwzZz1/qeVs8r4BQqwMpjViwgTjkN9P+x3MNnCFrCI3j9OzFhrACMUEsoFOopdEcvrjkfw4SKZnmLVauBjDDUzQJQV0CIcjAWD1Lz1MsRo87AUjS3sjmSRZdC61AIMFfvtOa3Zquc/TowxaTnQv8ZRdPHz2TY+1raX1Df5ROeehNQYyDyrlTslSzx+4TuHqSjhdStc5LGIVUbpLOJZRA==;pmFucrelgG77CZzE8N5ZMA=="
 ---
 

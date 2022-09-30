@@ -4,7 +4,7 @@ excerpt: "Are you a Tableau user who needs to learn Microsoft Power BI? This lea
 type: collection
 price: Free
 length: PT5H4M
-heat: 60
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -30,7 +30,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/power-bi-tableau-intro-social.png
+  - url: https://learn.microsoft.com/training/achievements/power-bi-tableau-intro-social.png
     width: 1280
     height: 641
     isCached: true

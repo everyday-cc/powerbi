@@ -4,7 +4,7 @@ excerpt: "Implement and manage an analytics environment"
 type: collection
 price: Free
 length: PT2H11M
-heat: 61
+heat: 63
 
 provider:
   name: Microsoft Learn
@@ -30,7 +30,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/power-bi-admin-governance-social.png
+  - url: https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png
     width: 641
     height: 321
     isCached: true

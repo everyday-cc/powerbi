@@ -8,7 +8,7 @@
       "title": "Discover trusted data using Microsoft Purview",
       "excerpt": "purview, enterprise data analyst",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-discover-trusted-data-use-azure-purview/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
       "length": "PT29M",
       "ratings": {
         "count": 78,
@@ -29,10 +29,10 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 50,
+      "heat": 52,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/2-discover-data-artifacts-azure-by-using-azure-purview-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/2-discover-data-artifacts-azure-by-using-azure-purview-social.png",
           "width": 1281,
           "height": 641,
           "isCached": true
@@ -50,11 +50,11 @@
       "title": "Manage Power BI assets by using Microsoft Purview",
       "excerpt": "Improve data governance and asset discovery using Power BI and Microsoft Purview integration.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-manage-power-bi-artifacts-use-microsoft-purview/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
       "length": "PT20M",
       "ratings": {
-        "count": 42,
-        "average": 4.6904764
+        "count": 43,
+        "average": 4.6976743
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,10 +71,10 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/4-manage-power-bi-artifacts-by-using-azure-purview-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/4-manage-power-bi-artifacts-by-using-azure-purview-social.png",
           "width": 1281,
           "height": 641,
           "isCached": true

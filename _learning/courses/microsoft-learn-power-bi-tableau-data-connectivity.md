@@ -1,14 +1,14 @@
 ---
 title: "Connect data to Power BI for Tableau users"
 excerpt: "This module provides the foundational information needed to connect to your data confidently with the new platform."
-webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/
+webUrl: https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/
 type: course
 price: Free
 length: PT50M
 ratings:
-  count: 87
-  average: 4.6666665
-heat: 50
+  count: 88
+  average: 4.6704545
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/power-bi-tableau-data-connectivity-social.png
+  - url: https://learn.microsoft.com/training/achievements/power-bi-tableau-data-connectivity-social.png
     width: 1280
     height: 641
     isCached: true
 
-secured: "TckNY7MOUga1BFFaOFoWs6Hvmpfrp3VerDfeIcTef8qW0r5Mfn/une69WQzxGDBY7+tSka3j2TTIdtXcbaaPzXWpyz3YS9upnlrV0VGoW43TooE3pDbByykIiU7BqZanDDxTgQceLWhY0+o8/EaxlwvzO0nOCziN1SVJGFYe+tCeQOr3efngHfXcbv6QC5r85Anteb3pFnIp2A4O4cPglBuo31H2LZa39icpIaEA8JhFzH1hooIL+5mKxFzuFeU4AHNlaL7XwT2MYX5BKwDPBTFQ64MokDBFDlz//WPjkwCzKVZOXWx9NkedistX1gkH8UeWLfjUgtz2ETfssxzLhYeUFiKd54XgxpY7vwVyeKuOUAZ1mZDGpxmH7c55zqmNEKe3aQZSQA70BHUhi1OdBH24JfeSF40qIDr9pgSwf4c=;2yp8RE8PBBkuH8MMb8CHeQ=="
+secured: "35KwuFuypMjLBJ0pvPSwWU4wKNIpkQInaJChWecjOv4M0a+3+UCji06LjDDT//Gbj6HqNiyPOdFrmlIWVc94vxhXcb4tuE6p5Sn3j6AMXUm4jVJISQt9pB/pS0F4ZpmuVtPLMEr/STAE/upwJ5pzILSDC1kZibHyJm1GjthnRqORAKIth0ssx8GxcEJM4rLceAHsNzwW5zUUk92G3FoP5pASRWiB3IVVlonL1Y1xFsSHcuwUjeosEqMTzkcPxqfWuBUR4sJKt8drbb5yRL/Cjk8WBtKR2az9Av2OFsbuzazmxVyPFh5KszXfZ4oHF7f0u9jgut25KkjlRoqDK9z/3RWJAHCAnSyIpbEnrtrSWKjJ2tGXW2o4vrB+KsGWx1bPdDfTcOEVr+ELfx3LjAxWuw==;qL7q+ortYev9+PBr4m2WMw=="
 ---
 

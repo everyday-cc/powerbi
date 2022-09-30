@@ -1,7 +1,7 @@
 ---
 title: "Understand scalability in Power BI"
 excerpt: "Scalable data models enable enterprise-scale analytics in Power BI. Implement data modeling best practices, use large dataset storage format, and practice building a star schema to design analytics solutions that can scale."
-webUrl: https://docs.microsoft.com/en-us/training/modules/understand-scalability-power-bi/
+webUrl: https://learn.microsoft.com/en-us/training/modules/understand-scalability-power-bi/
 type: course
 price: Free
 length: PT1H8M
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://learn.microsoft.com/training/achievements/generic-badge-social.png
     width: 640
     height: 320
     isCached: true
 
-secured: "Ey1lLKycFWk0bAq9tTTXvCVfakjpkOHLwLvMn/2wGmVI1RLvppmXyQ6JF364n1TmUliiqQyrgO2a3zPBWz+nJsc0A2b4LaESxL3Xe/vd0ZaP64qxrrnMmjlmnCi5800b6mIfn4Xwz41N0fj2uADOiDJn9a8OB/JD4sTmf7pqqbqwcUeicuznMWFZURFCJGjQEyydggpnlUhM9/DScPju4WtRC556onOVrIjIB8N2nN242xe3lGVdq+tEILqr7Vi//R/Cf94/kIP9iB2mdFKrz57DxqU2n9clRpOuOE4kv+snZX/nEoCTM6aAOL/jBhwD2EiiVrPcaclH15F8lyfffCJMrwGcQhnRneib46Q2qdOpAHTozepzlIh1HAqAkPlWwBTa+osN7ha8zZvVNoXCOghubkZkEfME2poiZN1XigQ=;StAhlRSxrui9kDD9BPFfFg=="
+secured: "LQzfNqIbOf59PezUMXFiCvum6q0xDzfpLkshnXeXB7mbsWG6cmH3wq8VKV8sX++pv2K4WtGjqBW5g+Sxyy2Uhedamc2VP/B/qMSCbEC25GFiMXWRoIMiRtJrzD2xGplzx5i5FxZCmwMcAD1Ca24V698Hbi4ynGYJeRLM9i2jUgvUVlGVb3uEmgQqiLGTBZmOmuJCNeHdNDD6K3vZd1l4NWzlHzTQIrTUTG6h5QtHqoaKlK7HdFAgXv7BrC54m013B80yvrIiNz7JCpxZcqPi5A+lHGC6iyiaZxlsPAuNirolhgMhAUa4s8orW3mUT4OAFEpOEtePw/BqID1zxPFeZPUaS+6dzlkqwisMbF4qEy0hzCBDxxwJ3f2B9CR7xhzFAj0QMfIDOyPSrXjqBhZqMw==;LiP/fBWwrKPHt/AWHWRvOw=="
 ---
 

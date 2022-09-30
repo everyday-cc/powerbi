@@ -8,11 +8,11 @@
       "title": "Discover data analysis",
       "excerpt": "Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different tasks of a data analyst.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-analytics-microsoft/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 46771,
-        "average": 4.7981443
+        "count": 46779,
+        "average": 4.798115
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,10 +29,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 103,
+      "heat": 283,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -50,11 +50,11 @@
       "title": "Get started building with Power BI",
       "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 67997,
-        "average": 4.778049
+        "count": 68001,
+        "average": 4.778033
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,10 +71,10 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 105,
+      "heat": 309,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
           "width": 643,
           "height": 322,
           "isCached": true

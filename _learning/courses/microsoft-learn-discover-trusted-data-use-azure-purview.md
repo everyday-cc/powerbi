@@ -1,14 +1,14 @@
 ---
 title: "Discover trusted data using Microsoft Purview"
 excerpt: "purview, enterprise data analyst"
-webUrl: https://docs.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/
+webUrl: https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/
 type: course
 price: Free
 length: PT29M
 ratings:
   count: 78
   average: 4.730769
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/2-discover-data-artifacts-azure-by-using-azure-purview-social.png
+  - url: https://learn.microsoft.com/training/achievements/2-discover-data-artifacts-azure-by-using-azure-purview-social.png
     width: 1281
     height: 641
     isCached: true
 
-secured: "g8HKArnnK3rC97M3EvgSWoVw9/yvCZP02W4ZB4Qkl4Uh13+l8Z9KrcFUiV/zR4xMmZtyEbGPVyzx1eL1y7PJeS1huMc5YCtlcOtlb7cndHG0xuOEYuNxQNFNVez7iFPE2PB20zUjQUUxAZfTB+hq6wC1Wo9dXT+kE7wO1xiH9DdMPD57M63iTvx9XapCBZEHN7ptpnoHMu35jjT4VzHbnHe34PWm6YT3DOQxql6c1O2zjO+p9KBr3+DMr23VrFy7/We5md5lSLc+qD7xcbbbqClJU4hPnmh7LeGULGBEfh8d0UAW7iBotLKmSar96CIGZN0fGR9vkU/+gQmBHK5MQi+ZWICeZWCn+m/LYTJnvoLQOZswugx+9N/wXK0Z+SxvaxZbZvT9rEwhEuKlYSQgJAMjoB2AFC5klN1hTyetoMg=;fas8ATwd03w1rBZ9DquJoA=="
+secured: "46Q3YaxR6aoUWh+adJEtQZ7Xxf10hFx3YoqdPe5/ZX6066QaYPQGwpp5Lqg4xJ+9C+Gj4mBW9NzmGY80rwBZijcwhWbzac+Z0H2RGZg1AsAg5qxBkh4LkAad3bj0+8aE5zzp20b9u4HSlzer1QtSFZ1InAPwbfK0BkZnkNXGcTcq22MSBfPUd+ftEw+SExplwE73BEo1zfFq8+KAOnp3IFip+BQs3enyCu/CpQ8J+TGtg/9fgrm9JXZ/GX53bm9hSgPkZEp4UFy2OGxqoaSxe8uCLBY5ZjHeKBEhlk/ahLvWgKNRPuvRkBIW5iFc7XPMq4dPnavZ4GiAP/9UxbcqDuQ0cNds+0++GRjjv+peXlaMKKVtO9cO+oRycmkGj0k+avwkKsBDomREia7blPhPRw==;ddNRvFxhYXoCB+nAiaXZsg=="
 ---
 

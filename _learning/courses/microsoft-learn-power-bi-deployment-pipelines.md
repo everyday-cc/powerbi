@@ -1,14 +1,14 @@
 ---
 title: "Create and manage a Power BI deployment pipeline"
 excerpt: "The deployment pipelines tool enables Power BI creators to manage the development lifecycle of organizational content."
-webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/
+webUrl: https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/
 type: course
 price: Free
 length: PT42M
 ratings:
   count: 42
   average: 4.8095236
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/power-bi-deployment-pipelines-social.png
+  - url: https://learn.microsoft.com/training/achievements/power-bi-deployment-pipelines-social.png
     width: 640
     height: 320
     isCached: true
 
-secured: "txjg+LkvH0/whBAbn6sGK8x0Y1bUhaVrS2CjOtxlG+Gt+oP0u3iahubwpUvYpUXic10RRLISF4jzu8nv0zWUex1jgLgS7SuoZm6Zrw1p/O+nOpKyKRtI6CXq8IEXMJzWuZmt1+7KJEdBnh10GcIjFuw7LrJPYNTNp2KkaXStR265MxLuDbQffs9F4mEbUP2dxwPoy2J9uPE+oRwVb3/GdQdGv5Uil8Ji1feA4CjkRz8x0lNuY2HB18UBhAZMr4SF8x4NElzoxXoBQh/DzSDyciZg3+jXidhYqSp2flU4mo+h4qfy8ZyoyyWpDT+ysQyl8UrLMy1Y8e9Y+idYOmodpg8ftlwknqz+/Wh/smQblx/2STWzJPM7Y0AwLJDH4j5z4J6NH/ot2qRl1vw/w62nFT0f8m0CSx/QZyWGQYtSfqk=;uMRDmvcOktjHX/uOqCZWNw=="
+secured: "fimbT8chC2E2EgOTcUzuKMzohDx3kCs4Mjsbl5OYZR6H6/DEPZLm5HJTE1IUwOs5dEmnIldkWiWO0q17DNCaAncDqTuYNoTIJHEehj223JS91mI68gBiWtz7NahFknR8XP0Vf9Hh3XIi/FFMKfGoNIXR/WFlyeTj3s7V1u2U8I/eFyi3B5x9VTDITeKKU6ruO0AgtWcns2gReKC+/32Hu304mKwT/tEX5Hf+s/M37HyZQ9p6X5w4EaZAvtwJNVTQvTGRB7rysm/sqB4io/97w1Czm76bX+BsLkkVuKHNvBBhYuS3hXCaxMIqOpY93YsqSzU0cXvd6b38wa8aO7J7jxQHLYeWLl58ZKrq41tJfDiXmpdrC/TPTO1zouZL74pYKmr+oapw4376dn60fANnDw==;296IWilMPKMf+lwnBBQHmA=="
 ---
 

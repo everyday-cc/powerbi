@@ -1,7 +1,7 @@
 ---
 title: "Add DAX calculation groups to Power BI Desktop models"
 excerpt: "Learn how you can add many similar measures to your model."
-webUrl: https://docs.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/
+webUrl: https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/
 type: course
 price: Free
 length: PT40M
@@ -27,11 +27,11 @@ topics:
   - DAX
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/dax-power-bi-calculation-groups-social.png
+  - url: https://learn.microsoft.com/training/achievements/dax-power-bi-calculation-groups-social.png
     width: 640
     height: 320
     isCached: true
 
-secured: "lKVTxJoKt+BFYKPOp9XMS/X6+7tEicZAnftKxDC73gMnf/gOD+mfZmkSOemeJDNU3lthIDsnwdoyvXbK7qVCcJslzQm8OkAjYOsnZHqVDcbjVCaL4SV/Rxyp0dIOk2WFS0rw5VRMJyyt5gIeKWfVmlhqHd4LMIwm02ppfTW7yFU4FA6vHaxO6/AeFkZ4VXTHOX/3Ov1Yrr0NGgS5GxdIsTChJPtsmX6Cp/c7OwxLrnVFOx9mUhyDX55k9TcTf3nvXikaEly7M8krh5/+InTsZXoBdc83ClwL+me6nhfNPpvy7huVG7J1CBWMRBVei2A5zhNY0AJwH/yMRG0pBHhP85/QmlBJ6RrTvQa3l1AlKH1BlqPBIcLmFbR9SSQp0iyIsEumvseSpZcN+qa0dCLtdygzPlvP1BKJnRWwq8Cn0tE=;VNsxrOQbpXIMrYBDFMgHUA=="
+secured: "Nl6+mqDT9ixtrW1DjDE5pN6AUg2Yeb3BYZM4p1GSttU6+riUdVdUkj6fkad5eqgv5I3l+QfORnyB+jAZvEsFYgVd/NlMhhtImKylEpaf53tj7Ww22G2eLXCpvkOKxYdgrHqNsljtCZH5MxA+Mf0Wgo880AouidN9VFHtc7KNFflJAU4h/7BdilgF7AT0XRtKeR5i3rRDWAzz9q9qwUHJdgPLIObV46z1af2+KQL66gPGacEgTvwFlizLehI0xTCv6/lmcUQrcJja9H3ktesg10M6ftoAMLddclSNo6+cxSvHLECJkODNrlLj+6ZJSx5uuFQb3WNaHkfpyN5mVEjrqlc2yKGujEKN6Egfe7t96TJf7H1XkY6azKdI+hAZHfR/M/t2xW/KwVkOsawDEkdTYw==;Q64iiuIr2n2/vUWqBgPPug=="
 ---
 

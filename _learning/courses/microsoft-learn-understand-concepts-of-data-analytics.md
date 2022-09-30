@@ -1,14 +1,14 @@
 ---
 title: "Understand concepts of data analytics"
 excerpt: "Explore key concepts of data analytics, including types of analytics, data, and storage. Explore the analytics process and tools used to discover insights."
-webUrl: https://docs.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/
+webUrl: https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/
 type: course
 price: Free
 length: PT28M
 ratings:
   count: 190
   average: 4.773684
-heat: 51
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/understand-concepts-of-data-analytics-social.png
+  - url: https://learn.microsoft.com/training/achievements/understand-concepts-of-data-analytics-social.png
     width: 1281
     height: 641
     isCached: true
 
-secured: "yjEygRfxAf5hQ4E1WlHwpZGeyK1RLHoyoNM0qKfQ3ef7p9b95kyiu0qwAnFXcTOeyb48vpHc0JPOvPylQVq9OKw0e95ygoDOjjJRrx7VqCufRDASqPyR1KbD3Ob036yq8QrDF0IyL0Q1Fzt79TAp52jprbT2lbz9IOndq0bPegtf30t8/Ig7WbOPVHK8Anm0zVPkoHr3FVuhx9upt1zcQMmxgEoJ0LpzGp277lg/ulJZhDTNyUQbol2YvDM3O/ByOZGsnjkGoAV3lqVuqRDAvq+iOI22eNkHh7ku0QCjlRevibQrk4rZiJNcvU4BwFirzw/alTUGOcy4Xvrb6SAS/4iN+/KxuuvhSz/JanOSnBwBIYL8ajUyhGaAPqrfIFpz4TxZxCX7qIST1E45Bm/2IMG1EUZprStlEoXjreaGdyQ=;FQPQqgS8UXqcCpcQ2LNp5A=="
+secured: "i/IpZXtfNgy/tuUgKB97B75f7UH/IhgyFHiseNtJ7DiGbh6jrhk3XVIDajshIqrEEWNHqJq6EKCRZlPXX0jkukq6M9pkBvIaxvPlw28wKNJa3bBdp8uKGDv8hTwiJHRl65uklybPUl7cBKmQsa+wI+Dd5uzpdUvE1/4U/Aa8h66/pPoOm1DSJfE1CiR0UOq8mqt44v3QEscNOBjZeiZDcYVHmvcDX2FJ8vN4c3wWbnIkm0Ui7hvOxBelVNrK7nH2CppPDG/D8bs7EM5hmgXzDsvZA2nZhcjbr3e42rRpvnQL4C1Bbmcq/7Y+GwcnwfI6N1jqPUKtqfABw5fzsz0ArDstaWddkvpv3aipc2xfrd6ueaNgEOPd0Wan5JbQ2fw3wlbwQXb8TtpF4d0yfLcnaA==;ls5BMVTYcubOQGa7yWyqjQ=="
 ---
 

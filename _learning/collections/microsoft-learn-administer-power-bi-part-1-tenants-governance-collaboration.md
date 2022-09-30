@@ -4,7 +4,7 @@ excerpt: "As an administrator, how do you manage a Power BI tenant? How do you c
 type: collection
 price: Free
 length: PT1H30M
-heat: 60
+heat: 67
 
 provider:
   name: Microsoft Learn
@@ -28,7 +28,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/power-bi-admin-intro-social.png
+  - url: https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png
     width: 641
     height: 321
     isCached: true

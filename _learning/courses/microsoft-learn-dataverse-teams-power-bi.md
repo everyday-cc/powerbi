@@ -1,14 +1,14 @@
 ---
 title: "Create reports with Power BI and Dataverse for Teams"
 excerpt: "Learn how to build your first report with Microsoft Power BI and Dataverse for Teams."
-webUrl: https://docs.microsoft.com/en-us/training/modules/dataverse-teams-power-bi/
+webUrl: https://learn.microsoft.com/en-us/training/modules/dataverse-teams-power-bi/
 type: course
 price: Free
 length: PT35M
 ratings:
   count: 311
   average: 4.7749195
-heat: 50
+heat: 60
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/dataverse-teams-power-bi-social.png
+  - url: https://learn.microsoft.com/training/achievements/dataverse-teams-power-bi-social.png
     width: 1280
     height: 641
     isCached: true
 
-secured: "5ctzFNkjkr3ogdwxpmo4qzeToi0W/VHnY/aGdUQGZzP69FWa0Edk0Dl74k+Z0Cn2ShsVx7C1GAPUKUnmAK1cDOlRQcZ89XKlcyYe+2e2vzx92z801K+GVG7Hig/S9hLVlWUsNYvpw6el4JHEFP3uWsBZ2NsCZ7cNyDGVwBmojIJarfs6Lk36P41RB7g90n/UPmkQFGp+HJjKMzWOD0+lOippg+qxpQRROcHIdxoEXONYAOWPIpdg1Uk5Gu/poEdQb0MjFiWvIN7/bwFcc3/KNKMsy67DVwnuq4qgJjtETwlq+ZMiYZdjIGRQ/xTApmh7zO71ZHXmXpGAFipuz2+l+KyO8n24HQ47v5OhChb3x5PgRNQ61F0bI2lJcHAB3JKZJ79+X5cTOG/vYLK0kfQJyDFgx2eqb45weG2ipgJW/Ho=;8/hP59Z+7eEloCEQZ5Ej4Q=="
+secured: "br2U8SBLKjoOCg7zpmHeunQZssVD/0l0qOo5VrN0i3rxrPXnS/trPr1p3G5PJYGBMpUxz8yhoaz9KE937A/nkhzR+i5oARaKAW4NzyTudZhFzHl3ZgVAVPqfeA8T6oktV/w1tblXFXdsX3zHO2hviMRil2cHCFlHNQ1aTB9HBFJ21AQPazBrDEVxiso5UE5V23u4C0GQLtwNjxfhGVaBQzuP/F1P5klRCP9YwKEyXiEbobpXVJvfMn6n7napf0Zm5LyGNFAy2MoI46k/1p+umRm//4718u7Crm8idoQHBQ4CEyU/aGXFgPqYHaFz5BOQlCDCHMg5MSHL8jcDP9nUka/mqc+/8MwkLlhw8XJzqUoxt7kRpUbBgkeI6VkBLdTgnMzBI+cPC/UjBnDpxBDgew==;XXakaK7YNB7w8NGmA61DIA=="
 ---
 

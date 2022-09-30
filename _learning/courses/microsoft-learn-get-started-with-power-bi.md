@@ -1,14 +1,14 @@
 ---
 title: "Get started building with Power BI"
 excerpt: "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data."
-webUrl: https://docs.microsoft.com/en-us/training/modules/get-started-with-power-bi/
+webUrl: https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/
 type: course
 price: Free
 length: PT40M
 ratings:
-  count: 67997
-  average: 4.778049
-heat: 105
+  count: 68001
+  average: 4.778033
+heat: 309
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png
+  - url: https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png
     width: 643
     height: 322
     isCached: true
 
-secured: "RrugX231QZV5qwmWgOl7Ygw8eh/tt0IAVQiGUlI6PfcIOtf7KXM7BOMXSpowHPNLo6gOY8mtdLhYtfKCq2BUeSeeuvtjWKp66qs46jZjiMvNtKMywzDvmi8IzVd0wfkWwgqwQmUn781n5GhZYaqz1vRM9DFKHH7OdHiILRV3sd75cqdNvDby78YDtYX6Lp7J13LgFtm+KusvpeND1oku+/V0xdMn9B0Eo7N+XETjZn6dQ4RCBdI0tQzBHgniTOu/yM2e+/LXTGR6ZTUrhpdm1Usb50MXd6IcJSaVgcuf1Oad8bZfo1mgrHrkjniURxX0FojTJnTLz+dOFFYWqJYypiiw+Aohm9WjxNFpxJcew8WHsQS6isoKPO+dzpqBUnXRwuh8X+0mJDibVFxdeUVsuX5x77VpaXncjypJgVC/X2k=;S98ftuMIFoCJLgBfanvP5A=="
+secured: "45r+rVxRCbtNkDZZAtoGQ69LlDckhvWtTLy2MfdmcR4e8fy5Pg2KVfb/fWRQb0FahSaw/A6X/5cIo6pRgjyxlUldtEHzX9L+0ws3pFOXwi67r7A2NfG5e0daCFDMLwWgRWPvJqUE0Se9ufuwNEQRV35T9yIFH8rVzBkL5zI92YKqq8w0i0WWa8JicA7ZphEfq/IPuYj0YpVg9VkLjQrvDp68s1IZe2iOdh8PPWyGFvoCDqG16zOzBS8+U8+UppM5PC1Nm+85I0eKlWqVbXmj2R633c2aFHPsy0Q8XYc0jHILF7zwyR/URywzSHaNgIErm7VLVJY54r2X+2l6Kbq3msb60pizp0Ec+VkxtRVZr7XVB5S8631KXdguJWZ6D8c3B0s4j6wpfnxQbk9rDtFiRA==;LejEUBtRQoVpvW40U2cQWw=="
 ---
 

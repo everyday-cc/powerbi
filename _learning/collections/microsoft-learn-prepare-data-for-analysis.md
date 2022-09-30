@@ -4,7 +4,7 @@ excerpt: "Students will explore Power Query as they learn to extract data from d
 type: collection
 price: Free
 length: PT3H26M
-heat: 78
+heat: 210
 
 provider:
   name: Microsoft Learn
@@ -25,7 +25,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/get-data-social.png
+  - url: https://learn.microsoft.com/training/achievements/get-data-social.png
     width: 643
     height: 321
     isCached: true

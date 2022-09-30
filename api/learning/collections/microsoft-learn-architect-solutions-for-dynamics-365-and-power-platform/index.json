@@ -118,7 +118,7 @@
       "title": "Work with requirements as a solution architect for Microsoft Power Platform and Dynamics 365",
       "excerpt": "It is important to capture the customer’s needs accurately. This module explains how to capture requirements and identify functional and non-functional items.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-work-with-requirements/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/work-with-requirements/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
       "length": "PT23M",
       "ratings": {
         "count": 597,
@@ -139,7 +139,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 50,
+      "heat": 69,
       "content": "\r\n",
       "type": "course",
       "price": "Free",

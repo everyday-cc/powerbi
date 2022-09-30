@@ -1,14 +1,14 @@
 ---
 title: "Transition from Excel to Power BI"
 excerpt: "Microsoft's Power BI combines the Power Query's extraction, transformation, and loading capabilities with DAX and a relational data model in a new application with new features."
-webUrl: https://docs.microsoft.com/en-us/training/modules/modern-analytics-transition/
+webUrl: https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/
 type: course
 price: Free
 length: PT48M
 ratings:
   count: 217
   average: 4.760369
-heat: 50
+heat: 57
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/modern-analytics-transition-social.png
+  - url: https://learn.microsoft.com/training/achievements/modern-analytics-transition-social.png
     width: 1281
     height: 641
     isCached: true
 
-secured: "Kn6ke/zFz5C7ry4iskAfjFIhwEEEZCmgp+GQeUCJgym2FTaSzhqoeQ3zu9k7XNwAJyY+j/SSN/eMv2UmYYxU8dF+No0DepFosIZNNMwV1Le9sjlE9EhWzs0XyNHJsK3x7D5KrTDoIQv8a+DyBPrJQQWCbeI6x0tbK5kuJ6aYsKo87cY2ne+hGqYWL33UwHKfGdaXqEwk65Yxf56it6u7D4obQyxa4xvMrNtCdS+eJHNNfPhdLQ8GBZpHp1RwOaRC5HZ3yMP246M6JgWG3+eZQDcZvlM22BajPpe8rtadHH5nv1UhFH5/DKm2mPi7nzOop3tb3DWfJIdhSJlP7qYKxeIhdzdq8Qp5staQocQRPL4nofQtPzA+gFrQq11Qkz/q0qq9qAqhCQxMogTu4pDM81499sRkyoaUjEqbwqVSzZ4=;hLJStu88XE1wqDkfQ0a2EA=="
+secured: "JXlGgxYjSBhFR1nq0bK/zOzQ2EMpvnuHIlJ+q3PXaf80GHliKkEBEkemPGy1JIKK0LvHw37CDMwzofaDBZyxQ9FrZLDD3cHuH8tqkSL0V8c/Oba2BjZ1fm+1B1eHGJGbTAY9GIKY6cvMkk4pwBnR2vWAoiQxle5Uct1IgqSmFUUk5XmoSg3vEZ05UkZ3wzetHU8Dnk2VbEKAdsnGOrrElw2V82AjdJCV5a2nV+BNkuHl3QzmSYqLratrf3fDx6lxx8BukyBHrQT3PsGz1D1cj7i9fkZ1QSlaCfXJC2me4l6JTFDp0z/TJiG32yogIoJhx2sV8iNZVcyHBCK07DYldSsoy4WC8OcZXWGeL+LMedwAhHl3NSqtHmFHrZXN16KPEX2sCHmcUTLaDl9Jj/vOMw==;oofCjH93fXuRUBG/83vvYw=="
 ---
 

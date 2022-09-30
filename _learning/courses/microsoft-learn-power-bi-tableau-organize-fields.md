@@ -1,14 +1,14 @@
 ---
 title: "Organize and simplify Power BI fields for Tableau users"
 excerpt: "This module provides guidance on how to organize and simplify your calculations."
-webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-tableau-organize-fields/
+webUrl: https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-organize-fields/
 type: course
 price: Free
 length: PT52M
 ratings:
   count: 50
   average: 4.5
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/power-bi-tableau-organize-fields-social.png
+  - url: https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png
     width: 1280
     height: 641
     isCached: true
 
-secured: "9Y5a01BF6QIDXHLBV4eZQS6gEh/+p9rUWN5EOZdGGPscdAn7HFdjx3mD8KEsj9UmikufdSVwuHuGcBqS2r0+lU//xocbNPzc/vSPsrQx7ZzmQvbo/GPc92Sh7ObooJW//F780cbm8ExfFy9DOfmgYrxHmPH2FzTzTedOcscXYRR1c9z8pm9vfaQz3Uic+qxE34m1/iPpF71n6a2oHNU2hsNXpafn5noAIHmMXvxAwCRVoShhq5nw9DZIIzy/ihnNsKgRvuoCmRli8Slcm2LMJW0EVvJUEwOT3NLhLsZ/fLyXRsJnkkAllcezsWJx70pa+aJMayIwqLZIJbIu5bwSFNv2dlg9/lXin/7NAaIWkcdWtkAOo9NMcHEt13iGsib5vjgtDCpCMOAdjmXvrP67D9N1Ndu4h0/HvpQH5reY148=;4GAaUXCe0p1VBY431vvI0g=="
+secured: "3Y6QzoV9jV7qfzLnMypiVc14xbubbJkb3/L6H+yBorqPoXaEfLnz9iQvgD5ect1igb5pBtPru5/o7r6QN8F8V5645jhhaBDQkH4PqG1gYDHzn+oe7bttmc/S5m5Kt9uVkOvEbKsqAFa5gxqg0B4zCOq/hjY++fgKx3YqRMSJmROwhS7NGlHb/QohM5l2uklTjuFmBU5tL6QupcPfeScLIGeu7H2XoroUxC6jElJtNYrrR+FnZfmyH09Z2ppl8m9jexXGshuRkEt/cTdk+H1Y5QKvUer9iXMWYPM38eOn1iLZ0tWplEbbEggfIQZ7GVpzcyjd2lob2VdiLLOjhCDEFpNrgfeZ+AUlnbbUywB8pJSTluYk2GUB6d0B5kmIJJ+ZXELhO2SQ1O7rShcsRDi5Iw==;ylo/OC4iYHBm6/xDug+qRA=="
 ---
 

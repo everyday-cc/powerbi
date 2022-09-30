@@ -4,7 +4,7 @@ excerpt: "As an administrator, how do you foster collaboration and share Power B
 type: collection
 price: Free
 length: PT1H15M
-heat: 61
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -27,7 +27,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/power-bi-admin-premium-social.png
+  - url: https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png
     width: 641
     height: 321
     isCached: true

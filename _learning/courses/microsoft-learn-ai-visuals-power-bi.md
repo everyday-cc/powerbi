@@ -1,14 +1,14 @@
 ---
 title: "Work with AI visuals in Power BI"
 excerpt: "This module describes the AI capabilities of Power BI."
-webUrl: https://docs.microsoft.com/en-us/training/modules/ai-visuals-power-bi/
+webUrl: https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/
 type: course
 price: Free
 length: PT1H1M
 ratings:
   count: 4755
   average: 4.7272344
-heat: 55
+heat: 139
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/ai-visuals-power-bi-social.png
+  - url: https://learn.microsoft.com/training/achievements/ai-visuals-power-bi-social.png
     width: 643
     height: 321
     isCached: true
 
-secured: "VOU3r2oKbUdrrK7czC73M6mgYw1LRbPsSQy+/9J51ETO5nFlucrMT/TBT0suhtZnB5wpfB4c6a7FEH5QihrfLmRFpvnP/Nbipsc8ruHdZEN60ORTWFLAlWMlq+bqeTRH1Nztxo8duMySXUWEffa+Ui3mHvF+1mo7YAHLg3fpu1amF6RtEUVKDucUDXHUQmKdw63Zej+mJ9pza4o0VP8UTxLlDMKQT5ocQuCsaEEtsnc6pqoIjWmRFoshq6k6ysNP9zk36eN260VQLYJEyNubMk2uZnIHC9aa0Y0ESIT42TBEDP/pSAd8nt000Ss+PajOlzWPfXQoyZgM5HXDWj2kC0iIspRlPwVp0e+UrgeGCrEB35RO120DBVNXx3H72rAUlicep9tqM1iHaFXWxrUhXLcnCOJXeq7UOJMrLUgO4JY=;6NB931r14niE7W1vCiPWrQ=="
+secured: "7oUEGacECYZ3ytF+/o3IO0xntbzx2KmiY0yVb1gUR59do4jVwxKj81jIPBOIiFf/66AVRYer77ltEAInMPXV8iW+DOs6j1tdjrG3Eq9OHoISIuAjMAxk5lDKHCsRRstUlr7Lv7pWcAh9VqgcPNtvaxU4YNzD1X8WyntcSIb2gSB/QQNO9tR14FA2TAieHEwaSrc/KCR69pqNcsPgHIpPWGXUq8GSQN49y+BpThH1QMQ5pyBHIfE6pdozhKzm0EdAyuZpXxuzQ5sVO/W/yAbGsSCmu3odRdv8NHOtvKuGJXu07HF/SNRHhZnPhV2B3roLkxBXT0u8uQPUtF02FOsukzJ1JL35z/F0eGqpaZP/VUtDSNqWblNYLRmwiLhuma0EuM9CetE7ri7UkifUf2HAcQ==;z9hc2enIVTVOQ4txHXyplQ=="
 ---
 

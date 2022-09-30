@@ -4,7 +4,7 @@ excerpt: "Excel is a Microsoft application that has been in use since 1985. You 
 type: collection
 price: Free
 length: PT7H47M
-heat: 61
+heat: 76
 
 provider:
   name: Microsoft Learn
@@ -31,7 +31,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/modern-analytics-intro-social.png
+  - url: https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png
     width: 1281
     height: 641
     isCached: true

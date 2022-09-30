@@ -1,14 +1,14 @@
 ---
 title: "Optimize Power BI performance for Tableau users"
 excerpt: "This module demonstrates how performance can determine a visual's usefulness."
-webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-tableau-optimize-performance/
+webUrl: https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-optimize-performance/
 type: course
 price: Free
 length: PT21M
 ratings:
   count: 67
   average: 4.80597
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/power-bi-tableau-optimize-performance-social.png
+  - url: https://learn.microsoft.com/training/achievements/power-bi-tableau-optimize-performance-social.png
     width: 1280
     height: 641
     isCached: true
 
-secured: "DB38xyGswsomyd5g194ApvNWNMIkv3oNkKUY3zRma/VxkKJigIbpZk4Iv8z+6LtJMl6f7d8f2oL/dbJKFLZKKDmdgLbuG99bAXnNisoklY/jGqoXOfJPp+G61DGqdFp8I1+rsoS02s1O2Js1GGCU7SiWNkQV1qq6c7Wgi1ftd9vSjf7/DgNOq3B0JWEuW8uH6Uov7EzH7d+9dp5hapCXaN47ZTos1KRB/e2LH6VvN5kcVx2dwGH8DCy/Nid9hRFSfn+1QDombpLG0CtG472Htde/DuHkMUfYnGzqKQ8Xx3+KWon631iVw8OL0lU4ZVggypqDpEs1YKpy2aPJhX6/AO0kh9OzZKH0v5eIXW4HGguYAE4anFcyPMmjrSRCsfi1e4MJbr686jgBvRIcJ6hiZUOXKNz5NLq5t6+JRnm0xCQ=;ipZ5bAV5e1B08LEQfSPQ7w=="
+secured: "b0FwEVNirtjI1NYawKa3mrNe5B4MmxZ1YzG8gfOWkgpC+A7BFqF/zJiIGqdPDX/t16UC9bxkUmyHZVJKwbvTq+xZpkuvLZ4GRg2ZC5QkCCviHrrRxe4G0FSXHy+ISsc0iF7/tzGC3bJKj3YftwSvyCNX4rzfdJ2n1pj7/DexurhFeqozIS3TcH/zNn0KAd71Vi4A03Ja6P9dDdkOMyiF7NJxgkPM5SLPW/eGdSadMDJl3XUHiJo4a0Jl3OmkToYNy18S3FLyGmIQqsrIVOtVrLU3OA8XvBoczq49VNdMFTz8jiYjS1JDxBFU44ttHp5/fPzuxtCuRyR/E/c0pOZ+Q/w3HgV4d5Qxv8dV16YmjUzGsTAIN/DifYT+MBDNgDpeqD1OMkwARJrYVqmjcw/NRA==;Wr7eAnI714jdqjl5PhotOA=="
 ---
 

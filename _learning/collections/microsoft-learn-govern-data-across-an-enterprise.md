@@ -4,7 +4,7 @@ excerpt: "Govern data across an enterprise"
 type: collection
 price: Free
 length: PT1H48M
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,7 +25,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/2-discover-data-artifacts-azure-by-using-azure-purview-social.png
+  - url: https://learn.microsoft.com/training/achievements/2-discover-data-artifacts-azure-by-using-azure-purview-social.png
     width: 1281
     height: 641
     isCached: true

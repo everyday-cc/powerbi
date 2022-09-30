@@ -8,7 +8,7 @@
       "title": "Understand the Power BI administrator role",
       "excerpt": "Learn how to administer Power BI to support business decisions backed by data.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-intro/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
       "length": "PT16M",
       "ratings": {
         "count": 191,
@@ -29,10 +29,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 56,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-intro-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
           "width": 641,
           "height": 321,
           "isCached": true
@@ -50,7 +50,7 @@
       "title": "Establish a Power BI environment",
       "excerpt": "This module covers topics relating to establishing a Power BI environment within Office 365 containers.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-environment/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
       "length": "PT18M",
       "ratings": {
         "count": 176,
@@ -71,10 +71,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 56,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-environment-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-environment-social.png",
           "width": 641,
           "height": 321,
           "isCached": true
@@ -92,7 +92,7 @@
       "title": "Provide governance in a Power BI environment",
       "excerpt": "Learn the fundamental rules, regulations, and policies of a BI governance approach.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-governance/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
       "length": "PT12M",
       "ratings": {
         "count": 123,
@@ -113,10 +113,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 54,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-governance-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png",
           "width": 641,
           "height": 321,
           "isCached": true
@@ -134,7 +134,7 @@
       "title": "Facilitate collaboration and sharing in Power BI",
       "excerpt": "Learn how to collaborate and share dashboards and reports with coworkers.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-collaboration/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
       "length": "PT33M",
       "ratings": {
         "count": 103,
@@ -155,10 +155,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-collaboration-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-collaboration-social.png",
           "width": 641,
           "height": 321,
           "isCached": true
@@ -176,7 +176,7 @@
       "title": "Monitor and audit usage",
       "excerpt": "Learn how to use activity logs and auditing with Power BI to monitor and inspect user activity in a Power BI environment.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-monitor/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
       "length": "PT11M",
       "ratings": {
         "count": 112,
@@ -197,10 +197,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 53,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-admin-monitor-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-monitor-social.png",
           "width": 641,
           "height": 321,
           "isCached": true

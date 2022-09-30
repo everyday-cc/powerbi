@@ -1,14 +1,14 @@
 ---
 title: "Perform analytics in Power BI for Tableau users"
 excerpt: "This module provides guidance on how to apply analytics to data to gain greater insight."
-webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-tableau-analytics/
+webUrl: https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-analytics/
 type: course
 price: Free
 length: PT36M
 ratings:
   count: 55
   average: 4.6545453
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/power-bi-tableau-analytics-social.png
+  - url: https://learn.microsoft.com/training/achievements/power-bi-tableau-analytics-social.png
     width: 1280
     height: 641
     isCached: true
 
-secured: "myzshO1FivqJjGQlPWhDzaHkwRuoueaCmg9XgUUd36Q4vUQ6imT0eSElNNb0TXdAIsrRmKdPJOYcMmFLK8rdrL5IvTAjrO4LdYI+NVpqn1hPtXQBljb8XSNc0fPxmv/dIsVlowg9X1P2bUxaV4o5iHY7BCNSTLn2/rX81gJ8t5VO0idB7m3KdoATMu0tquvxlbFR0N/0yj8OL2wzmgx/BkiCOvpWXqBPDfxeapOgXbUsGgGpZ844GFcaKkivj/yi7GdaMzy4q6sG6fy+OOCcCkYPbkYscceZHUOWr3Mzzczla1/sz+L7VJ/IJATAlSJjqfKkQlVHPUfvTZozcXWsdOl0dsZtti5LAbJQS8ujIdhGtozJZv/3Ibu7iw6rxMuRMdNKaovfZiwlrd4nc4lFNqFqduNvw5GJQ+DsspVf85E=;+tVzl6HaUS/zascJ3pBqFA=="
+secured: "gEQc/lpzFeU1jUjyie7Cv+Lg5NgLXNEi80vSgReQ8MXQPGxkaPTx0CxIsC/n/MKfTWUFwFH/TlCHKAsdkkQD4RdCJ94HzqDecMAr8eFqdvYh+7uGCLHL+aCUEvbbR4+jKQ/vUUkDcbVU2jm4M6rRLCPMxOk0RqVcRExUsLxBV5+rW4tBv/VvEGfNQ5luUheeGfQAJsmTCE73BHY82OBzyn6VqJEs5BiyBnmb2J/Cmz7y+wZ93ldkRt+uYlTA/6KJPkakGH7rftdGxVPQKAdFYG+p7MpQotcfC8vutz/niVk0Su3zwsBLkwX6d2XcZyyrxQO4W6dFaG2jC4yInim84OfkxzLReO1HUOsPRRWWToYK6dUu+1hIGaIczX3f58duyyK+AwEkqBQeWeQ4B/xX9Q==;LIBaqgHEZYe5vGt0cnohPQ=="
 ---
 

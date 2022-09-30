@@ -1,14 +1,14 @@
 ---
 title: "Clean, transform, and load data in Power BI"
 excerpt: "Power Query has an incredible amount of features that are dedicated to helping you clean and prepare your data for analysis. You will learn how to simplify a complicated model, change data types, rename objects, and pivot data. You will also learn how to profile columns so that you know which columns have the valuable data that you’re seeking for deeper analytics."
-webUrl: https://docs.microsoft.com/en-us/training/modules/clean-data-power-bi/
+webUrl: https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/
 type: course
 price: Free
 length: PT2H1M
 ratings:
-  count: 15876
-  average: 4.7726126
-heat: 78
+  count: 15877
+  average: 4.772627
+heat: 210
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/clean-transform-and-load-data-in-power-bi-social.png
+  - url: https://learn.microsoft.com/training/achievements/clean-transform-and-load-data-in-power-bi-social.png
     width: 643
     height: 321
     isCached: true
 
-secured: "3kqS4pZH/hKjy1tMmMjZjI9COCCRP9vYYVTFWVk8yLZgRbEr3O09xcO/wOGxX5gtUxbRcmpSvhCfrTxLmVPJW2hG6QfOIM9Pwph1URwvf+u0F7VZFIbwht+qAQ78zSQSGo+d4c4lX01GG3zGFKG6qgVXdvPeAFgxysm2ZrLTS1+4WOT504EwUwGjhhLz3Y0Lls4NbxrRIrPJ/fYdtAU9LXgh9iV/R6hK+tNI3PH034xFVbiWXuszjsEz4bP9VTD00JBmrgClJNrcJ8HYOHY3RP8xbb4YZ5m4HoBmgaDcvWZp3i0WT820YYIFNIusmnVWWLbwgQNChkI7qvdiRoRobCb1kb4jflYS2rv2uigHRvZ1LGfQfbN3roT9hpVSkU9ZqdqcMmoGhWf9vcMXFwX/cIxqFJrmxi0RqWlX+XSVgaVNIthQ876SvA9Gz8JPIEiv;ILWixzCjwWpP3l1wt78BAQ=="
+secured: "xnaGjE39JK2dcOIOmiufNNVRzgm6oQEf3R+jP0YukvI10ORMozTi6+fBKMWEgzxsM9YUebSSvpXqMdKmJXb5AcSpOxSQML6/0HM+XOO+qQFTK5tGnZp6WSnhjs1Cf9WPWmgMAorjwHMDH1oaInjm/xCZ2RFxflmmUugjn5ajq5UvK5lGw+ZrBx8O0It94fN0t/dkxNNkqPh1eaN5O2uxe7qkRu7W2bzc50gQsGAu8lwamr1cnMsK+BbFYIQOQtiQsx+IBOf8AwBjugYBp5f0dBWW8LU2EGvbGt6/N/xrjcI9WIkrWx01Ws0XtdeY68YJ75l3Ggu7B/ZSRQeNL1HfRJyig/7mhliNSZkPLlFmKVxiXPI9RxTE3yzXPEkyUJlFpRnIThFJhKQ3j5opRY34MA==;hR9QbCndTySZuj/dSyYi5Q=="
 ---
 

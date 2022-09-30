@@ -1,14 +1,14 @@
 ---
 title: "Solution Architect series: Evaluate Power Platform analytics and AI"
 excerpt: "Learn about reporting and analytics in Microsoft Power Platform."
-webUrl: https://docs.microsoft.com/en-us/training/modules/architect-analytics/
+webUrl: https://learn.microsoft.com/en-us/training/modules/architect-analytics/
 type: course
 price: Free
 length: PT41M
 ratings:
   count: 69
   average: 4.695652
-heat: 50
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/architect-analytics-social.png
+  - url: https://learn.microsoft.com/training/achievements/architect-analytics-social.png
     width: 1280
     height: 641
     isCached: true
 
-secured: "3OrW7gS3x7XapZFWFoP7LagQ4GGM8ATjDa4rDZdFi/UWG9u3XM7j4I9q8f7pjKyZQm1xyfXGzS+CGbHjgEc3dVHpy3An6i3qdOZ3X/hgNz+ys5rwIfWisdfsrsI5NHqCm85qKvm3RyK5p97fr3r/xvNju+bPvlwLxTJCZn6UowzKNjyVZqY6mf58h7Pbmz0pTHw+2XrO/z13ke9TAKUuJOgZ+CsS3z2D7dF/zUX2q1rj8zwUx6O6n346PG7FFD3jSy09N7Ekyq0RNHYIwpT3gLh1jmh8QBsK88I+KosqH/wykhchhp8ZAaw01tfLP4cmvx39ZKz7MaJ8m5fEq7OAcFafiVPGVPpEVsC4UIXjKB1VXJqRUIn0Nrs33PnudM0PmqkWKvOXNrtYUFtiWRS4K+0TqI/5WOeId6B+lH1Dv9s=;UcyPP3NuFcPZXBaZx23aQg=="
+secured: "oeCe0UW6A6H4wwoMRekyE+W1Mtzzfw2Gf8yTgVVwHp/8ZAts6/Bq6xcr2n7Ur5sk9yj4eFUyJHtQ8aO+q3BY0e1+NGaVdUxaaTTVCYJ/DCeX9gHgpYA2gZ7bHkbNPbVrk0uqPaJ0uDn+CP5/P/2x8wfoFV3CUlZcSlLxxCTHHY3QsIll1wZodVz3E14aNZykWL2eQI4ERN5nh7cak4jlxAbUTcRSV2d5nO55ofuhsXkV6iE4pYwK9pevdUMlzoq2bnX5kyFGAdfHQz4iVmVD82iIlhqtnRzK1e/xSdPwd3iwIpi6dRcql2nob1KiBd4aYrUN/+CZYS7Ul4DNcH1xpOalYZCVd9XbCh53V/SWZdrwpps8AT4c7QH44SBw1g+xFwKodUBkt1ngBC/EKwKL5Q==;Z2qQcYbM3lMcbGVldndR0Q=="
 ---
 

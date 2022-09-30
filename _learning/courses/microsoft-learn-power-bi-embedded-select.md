@@ -1,14 +1,14 @@
 ---
 title: "Select a Power BI embedded analytics product"
 excerpt: "Learn how to select a Power BI embedded analytics product."
-webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-embedded-select/
+webUrl: https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-select/
 type: course
 price: Free
 length: PT29M
 ratings:
   count: 39
   average: 4.769231
-heat: 50
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/power-bi-embedded-select-social.png
+  - url: https://learn.microsoft.com/training/achievements/power-bi-embedded-select-social.png
     width: 1280
     height: 641
     isCached: true
 
-secured: "fW3BJojeqw+7e4QJv4ZnUk1bg7DQ8Zor8+hj/14rXHif9hd8zNA2ub3rljDsjCnZ3vX8xLTBA0pkntdV4gX5tDORacrjWufusAzd3bxsOlCIyLGdjiXBYMNL9b+Qt2A0z1oZ6I7fNU2O4fVCZi0nXHFoElg8klXYZ4k8eXIW1hlh8d0ZF1Kkyl5qmB5Sq+TKgZ1ypeav140glR2CuZ0wJd7Qx9VPm4AIptP3k2MQ/G2Y0pAUxUOImXDOBjytiJI22KzX5kQCWDpNsJ213Ne6xEz/D0SyRgZHzgxRLh5pXgYXcIbVHS17y4juWK1Q2JO4lpcBafKsGJVgKJ7sWsTaLoSycG+pieQmj+ejK8KcnV8plyhRRBYqI5ELUM0ZdczWUD5Pt7txKT8Xz+Ybzjtu4czv5KpF2YW0nTX+844njM8=;l9Ij1B02PDEsEde5FVE2sw=="
+secured: "SHy0CgWrWmtvzQfSocTj+Q3S0UD2ZGQ+K/9FmsGbjIwbJXb6O23TvOojxY3IAt0iuiS3eslmrjlZvLfqPjlhVFZ8MS/ti5kyh25HBM8OClJNALL1LMfHLpKi8/5AbPIEgVngzidmRAR3L553hnrmGV4qmlGnmWvGExFZvvhhn/yGHg0ubvzU797pqMgLZSrx48BhuKUon4FlR/4eP7NoejQ1Tf9RFU5IVw/+Vzk9bjD7sYdTmY6oOLJ2zDbF1t6J6VGj2wyvrwsFe8jIHLMw9WL+j/HMrG38Dn8O0rgiCnt1Ca2MXwLbSC+H4CKDi5brvMFx42Zc9rUw5rVpIXWPTe0kCtnJ0rNp+64fEQ6YOAcFM29agnuu8ZgbCi/5yhpmSNSUOjnNOztYrXlMxTwtwg==;3d0wuWEOqO7EFunYzz2ULw=="
 ---
 

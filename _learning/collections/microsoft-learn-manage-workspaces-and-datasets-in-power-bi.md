@@ -4,7 +4,7 @@ excerpt: "Once you have created your Power BI data sets and reports, it’s time
 type: collection
 price: Free
 length: PT1H55M
-heat: 54
+heat: 126
 
 provider:
   name: Microsoft Learn
@@ -26,7 +26,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/create-manage-workspaces-power-bi-social.png
+  - url: https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png
     width: 643
     height: 321
     isCached: true

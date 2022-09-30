@@ -4,7 +4,7 @@ excerpt: "Design and build tabular models"
 type: collection
 price: Free
 length: PT2H43M
-heat: 60
+heat: 62
 
 provider:
   name: Microsoft Learn
@@ -28,7 +28,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/create-power-bi-model-relationships-social.png
+  - url: https://learn.microsoft.com/training/achievements/create-power-bi-model-relationships-social.png
     width: 1281
     height: 641
     isCached: true

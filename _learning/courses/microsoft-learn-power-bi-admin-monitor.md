@@ -1,14 +1,14 @@
 ---
 title: "Monitor and audit usage"
 excerpt: "Learn how to use activity logs and auditing with Power BI to monitor and inspect user activity in a Power BI environment."
-webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-admin-monitor/
+webUrl: https://learn.microsoft.com/en-us/training/modules/power-bi-admin-monitor/
 type: course
 price: Free
 length: PT11M
 ratings:
   count: 112
   average: 4.660714
-heat: 51
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/power-bi-admin-monitor-social.png
+  - url: https://learn.microsoft.com/training/achievements/power-bi-admin-monitor-social.png
     width: 641
     height: 321
     isCached: true
 
-secured: "vg9HV+dL8IkREEdR8HwpEK04CfblUZqkT94JtePPmyktwe0Qhe78eFXWZMJ5WwiNAkieDA6k8xly0D4mUcZGvH8ulghPGsCMfvkqS/jLyCIN42a01sSSwpYmoFkuQ1JTFTf4XER3yA4gQmLjPJO4LILd+Gkn7yPlJ9SwGcd9Qr8t7oWQMQlk4qbesYAvxP7cLdIEy5+YvTApAUA6aVw+GrW3Yg7MOgIE9iyBpjoG9aBZLFJbwBcwi76H9D4BuMqI3Xz5SU8eELoKU9wTwS+fHw6ozIJlUmsYNMpt3ZLnEe+3u/RcduUTzo3i7xXrcA3QnaeiV9IGpfh0wOpGx+xSAOjhFjk6Byfw0AffqBHkqmX9WN2cOgsdnoyFjh/tVPePFKP6vXoIkgZDrwVprAaickjmeYi2HWI2Pic/f64a/YI=;JXpK1Vi8SGPBgnWacf92DQ=="
+secured: "gcSbOt9DND+fc2tOehef/t6G4o7gyt+dyhi7kT5eHpXcuSot5dPDtCd0YA5d/6x2Mmdk9lWu/TpKIWKhXxbimDErjmVYa+3svcob/ZX2lm+oBf8YcytI6t7DwT0jtDp67VhDXmKnRw04EIgPpvy0NHOsH2dKr6KkNFJrPRYwJRUDtz8OAwJDzHv4qa0hIXNU5BdmQnOElRL0TAm9N19c385iCH+alsyt5I1sdvXOxe9SKMFoTKRVGLM0ipxQI+kFsIj38/lkXLRGbHrOGHhQ/5rDm25XnixwCtCz7H+Q4gYZM338lhweT00oVN5sKhrW1tsLKl4ASesUezSnebEHqV+8Rvv70LwbaO8oaNxfwR6aW+lad6PlcWundX6udpkF4W2zaCrsucE3ZxDVasla9Q==;OGvvUpI+yojvhShuETSWbg=="
 ---
 

@@ -8,11 +8,11 @@
       "title": "Get data in Power BI",
       "excerpt": "You will learn how to retrieve data from a wide variety of data sources, including Microsoft Excel, relational databases, and NoSQL data stores. You will also learn how to improve performance while retrieving data.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/get-data/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 13386,
-        "average": 4.7571344
+        "count": 13388,
+        "average": 4.7571707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,10 +29,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 74,
+      "heat": 199,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/get-data-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",
           "width": 643,
           "height": 321,
           "isCached": true
@@ -50,11 +50,11 @@
       "title": "Clean, transform, and load data in Power BI",
       "excerpt": "Power Query has an incredible amount of features that are dedicated to helping you clean and prepare your data for analysis. You will learn how to simplify a complicated model, change data types, rename objects, and pivot data. You will also learn how to profile columns so that you know which columns have the valuable data that you’re seeking for deeper analytics.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-clean-data-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/clean-data-power-bi/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 15876,
-        "average": 4.7726126
+        "count": 15877,
+        "average": 4.772627
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,10 +71,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 78,
+      "heat": 210,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/clean-transform-and-load-data-in-power-bi-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/clean-transform-and-load-data-in-power-bi-social.png",
           "width": 643,
           "height": 321,
           "isCached": true

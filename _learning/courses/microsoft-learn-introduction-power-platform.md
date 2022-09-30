@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Microsoft Power Platform"
 excerpt: "Introduction to Microsoft Power Platform"
-webUrl: https://docs.microsoft.com/en-us/training/modules/introduction-power-platform/
+webUrl: https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/
 type: course
 price: Free
 length: PT36M
 ratings:
-  count: 37822
-  average: 4.7366085
-heat: 110
+  count: 37835
+  average: 4.7365403
+heat: 267
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/introduction-power-platform-social.png
+  - url: https://learn.microsoft.com/training/achievements/introduction-power-platform-social.png
     width: 643
     height: 321
     isCached: true
 
-secured: "I8vEcBBdS2a0bvRtylkNuaBJvWeiO7dvp/Y8nS99ZcCrqiLO9YqdIdZw0c8+GeXr/eARpOUaLdxX19qPdvtlgCM0g5FSzT3C/d10xsV8mYJOK/l0qW+5lcs9Olj9iBedH6a+Ra7IhDhMMLexbv+u49tN7M2VVWcHWeQ+e17R7h6edOvoU9XKQJkEXdDwUijIMFkBeMV6xlYLr8AMp8wNGU1dsxEsVZFJEAyr0c7RRM5TL6giLZp+OP8mOILJupHIneoOpbj6nTX+8Wx7hkBfRT+anuzVszXZIS4IJugzNryiDBRTxmSX78C0a5G9CzZPr7j85lQJV782p3OzibPpVS22QqHp5vpr4Ls1SF/Vy5vbSKj1uZ0sEsD1HnxZQg56SID5qaXUsRQ/DUwlB8xCFw6luX9aJnhxOG+Jk5K+vLKbPKlt+BgQD+/Q7pScevOv;6++rU10KAxDmeJxBs8B58A=="
+secured: "CUKLFyF01REihGEVSxlrIZVbpxTOqL2YNRJblhtLWSNu6BTnG2DDWFGo0fRLLx8rV9tsX+S95xNhnsWuHYQB71c3ruOI0kCPOu7+E8jVdDCs965WwUuYCyU4NYLV/p3jdTDfhOpMtG7cqqVHdHXMbeXCASpp/DuE0+NyJ5ZQN3M5YAQFmNvKJ9Kh1HomSSvz671InjPNUMVDaTDSZn0MgTY+1engx3eVly2RyBBE2R5ud0/ne8gPTE93kEsU+slGGnuioL5tvYV/z2mkxfJiXM2Kq6yVRbrsDFMHpU1w5C4rtkO3qo22WYmzX9q1U2+uM2K9yd/oI/zBNftmvkpM6vaevNh1pqJe7Q/4bL7QZuaRJy6CveNyNwZWQkjLGSlvoC7yTzvmpGYrv5gYMo/xiQ==;Cw3wg3Io3cqTk9vB2xC9KQ=="
 ---
 

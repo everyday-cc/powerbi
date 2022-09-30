@@ -8,11 +8,11 @@
       "title": "Scope report design requirements",
       "excerpt": "Gathering appropriate inputs to scope your report design requirements involves identifying your audience, determining the suitable report types, and defining their interface and experience requirements. This module provides you with a strong foundation on which to learn how to plan your report design requirements.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-requirements/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 1455,
-        "average": 4.7360826
+        "count": 1456,
+        "average": 4.7362638
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,10 +29,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 55,
+      "heat": 90,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-requirements-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
           "width": 1281,
           "height": 641,
           "isCached": true
@@ -50,7 +50,7 @@
       "title": "Structure analytical report designs in Power BI",
       "excerpt": "Designing an analytical report involves understanding the requirements and its audience. However, designing a compelling analytical report requires understanding the automatic and unconscious processes that occur when report consumers comprehend what they see. When you have the knowledge of how to structure and apply report design principles, you can raise the level of your report designs to produce relevant, intuitive, and visually pleasing experiences for your report consumers.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-structure/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
       "length": "PT21M",
       "ratings": {
         "count": 1023,
@@ -71,10 +71,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 55,
+      "heat": 80,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-structure-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-structure-social.png",
           "width": 1281,
           "height": 641,
           "isCached": true
@@ -92,7 +92,7 @@
       "title": "Design Power BI reports",
       "excerpt": "Because Power BI includes more than 30 core visuals, it can be challenging for a beginner to select the correct visual. This module will guide you through selecting the most appropriate visual type to meet your design and report layout requirements.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-reports/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
       "length": "PT41M",
       "ratings": {
         "count": 848,
@@ -113,10 +113,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 76,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-reports-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-reports-social.png",
           "width": 1281,
           "height": 641,
           "isCached": true
@@ -134,7 +134,7 @@
       "title": "Configure Power BI report filters",
       "excerpt": "Report filtering is a complex topic because many techniques are available for filtering a Microsoft Power BI report. However, with complexity comes control, allowing you to design reports that meet requirements and expectations.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-filters/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
       "length": "PT45M",
       "ratings": {
         "count": 382,
@@ -155,10 +155,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 62,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-filters-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-filters-social.png",
           "width": 1281,
           "height": 641,
           "isCached": true
@@ -176,7 +176,7 @@
       "title": "Enhance Power BI report designs for the user experience",
       "excerpt": "Enhance Power BI report designs for the user experience",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-user-experience/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
       "length": "PT59M",
       "ratings": {
         "count": 275,
@@ -197,10 +197,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 59,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-user-experience-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-user-experience-social.png",
           "width": 1281,
           "height": 641,
           "isCached": true
@@ -218,7 +218,7 @@
       "title": "Enhance Power BI report designs for the user interface",
       "excerpt": "Designing the user interface (UI) is about how reports are consumed, including the appearance and behavior of them, and it is the final report development stage.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-ui/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/power-bi-effective-ui/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-ui/",
       "length": "PT32M",
       "ratings": {
         "count": 362,
@@ -239,10 +239,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 62,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/power-bi-effective-ui-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-ui-social.png",
           "width": 1281,
           "height": 641,
           "isCached": true

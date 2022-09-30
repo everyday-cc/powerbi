@@ -26,7 +26,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://learn.microsoft.com/training/achievements/generic-badge-social.png
     width: 640
     height: 320
     isCached: true

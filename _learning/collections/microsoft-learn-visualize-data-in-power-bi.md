@@ -4,7 +4,7 @@ excerpt: "Power BI has extraordinary visuals that can be used on Power BI report
 type: collection
 price: Free
 length: PT5H5M
-heat: 68
+heat: 169
 
 provider:
   name: Microsoft Learn
@@ -27,7 +27,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/visuals-power-bi-social.png
+  - url: https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png
     width: 640
     height: 320
     isCached: true

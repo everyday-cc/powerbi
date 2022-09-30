@@ -8,11 +8,11 @@
       "title": "Design a data model in Power BI ",
       "excerpt": "The process of creating a complicated data model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great data model is about simplifying the disarray. A star schema is one way to simplify a data model, and you’ll learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you’ll learn about improving performance with your Power BI data models.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-design-model-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/design-model-power-bi/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 8098,
-        "average": 4.749568
+        "count": 8101,
+        "average": 4.749537
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,10 +29,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 65,
+      "heat": 168,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
           "width": 643,
           "height": 322,
           "isCached": true
@@ -50,11 +50,11 @@
       "title": "Introduction to creating measures using DAX in Power BI",
       "excerpt": "Data Analysis Expressions (DAX) is a programming language that is used throughout Microsoft Power BI for creating calculated columns, measures, and custom tables. It is a collection of functions, operators, and constants that can be used in a formula, or expression, to calculate and return one or more values. You can use DAX to solve a number of calculations and data analysis problems, which can help you create new information from data that is already in your model.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-measures-dax-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 6698,
-        "average": 4.71275
+        "count": 6699,
+        "average": 4.712793
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,10 +71,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 64,
+      "heat": 157,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/create-measures-dax-power-bi-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/create-measures-dax-power-bi-social.png",
           "width": 643,
           "height": 321,
           "isCached": true
@@ -93,11 +93,11 @@
       "title": "Optimize a model for performance in Power BI ",
       "excerpt": "Performance optimization, also known as performance tuning, involves making changes to the current state of the data model so that it runs more efficiently. Essentially, when your data model is optimized, it performs better.",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-optimize-model-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 7925,
-        "average": 4.7658043
+        "count": 7928,
+        "average": 4.7656407
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -114,10 +114,10 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 64,
+      "heat": 167,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/optimize-model-power-bi-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/optimize-model-power-bi-social.png",
           "width": 643,
           "height": 321,
           "isCached": true

@@ -1,14 +1,14 @@
 ---
 title: "Perform analytics in Power BI "
 excerpt: "You will learn how to use Power BI to perform data analytical functions, how to identify outliers in your data, how to group data together, and how to bin data for analysis. You will also learn how to perform time series analysis. Finally, you will work with advanced analytic features of Power BI, such as Quick Insights, AI Insights, and the Analyze feature."
-webUrl: https://docs.microsoft.com/en-us/training/modules/perform-analytics-power-bi/
+webUrl: https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/
 type: course
 price: Free
 length: PT51M
 ratings:
   count: 4374
   average: 4.721079
-heat: 55
+heat: 135
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/perform-analytics-power-bi-social.png
+  - url: https://learn.microsoft.com/training/achievements/perform-analytics-power-bi-social.png
     width: 643
     height: 321
     isCached: true
 
-secured: "WCKDUIxgfNyIfZyCs4/O4+aRhwEd4hu3O8nhATVUrDHYJS5PsBmroqaNt1RP79/ffMSt2rPSzBf2+EVP7bFcjavrumadJVNCINFVDEJonu3TU5ye0+dQoVG2C48EN6YtE7Rl/dK/hiiZr8pJ5O+Hh+n4768tY7zjHkEZG3DROPo9iqTNH0U0i02Ip5Y4PFcnPxkTg0c1eSNLleR6es7uLGr52lAyppZXCfi4X+hvvCk/GApeIh31k+ZT/f8Rw39yLoISlbNbl2vNRJPC4r7zw2qJBIEx9GkxFZ2nsZDAqc4WYTlc72Osqw8Np0yyx7lkfTlFqVANgIit+cy424tuA+L8SJ9cRfoIWdLbCqERRG3d+fQHAZ3iZw5KKqO7RDQQBKxj7k84NkZw9TMOOxqltaoUjc9NaKsWYieb2eDvAIU=;3Tx/V1m3VCnoxWnoc41OgQ=="
+secured: "6UceniYi7lX443KOgeQfWnv+qwyGlVZrOp75WDjZliFL+vET1y9OV8IMy2A/Cj6Pkue7b8SHMMLXbTiuYZpzF8+pZ5IxxwifTtDFrn1zi65zFpS3DChSgcJ0ZWI6CwZx6oTVm/mJCKUa5SWoFlRoSRezK0RJ769dRpgHb5HUx35clHdjHdVqaMwv2zv+v3C8xygr1uFziQMobtM6csu9N9vC0Ftemn8UYCF4kAr33OoNv56VBCc1srHHMOdUqluo6jqFlwfFwJMFugK6LBXL1hez19HY4qut2SP7K12wPymiEEzvqiAWkBy+lKgY1ZGt+swo46aA/DOl5QdK+tOs/ITuDV9l2qFUAQaFMSDbvthCRMTGCYeWVWNsaqaMU4gen/6Gedjj9+oYN4T1HfckOQ==;xTw4Ljkgiwl7SM+UbHVf+g=="
 ---
 

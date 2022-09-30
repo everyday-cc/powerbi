@@ -1,14 +1,14 @@
 ---
 title: "Intelligent environments - Education Transformation Framework"
 excerpt: "Develop safe and secure onsite and online environments. Use data analytics to optimize student outcomes and to create efficient, responsive, and sustainable processes and resources allocation."
-webUrl: https://docs.microsoft.com/en-us/training/modules/intelligent-environments-education-transformation-framework/
+webUrl: https://learn.microsoft.com/en-us/training/modules/intelligent-environments-education-transformation-framework/
 type: course
 price: Free
 length: PT60M
 ratings:
   count: 268
   average: 4.8395524
-heat: 50
+heat: 59
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/intelligent-environments-education-transformation-framework-social.png
+  - url: https://learn.microsoft.com/training/achievements/intelligent-environments-education-transformation-framework-social.png
     width: 1281
     height: 641
     isCached: true
 
-secured: "uWSeqyK2jId/DTGXt5qy4QupCSANLdMrbg6AM6vU2yyl3KloDC7KtLJnG0jXSBNjQddhPry53LQXQh6WgVb6YT2fobhvaDVcLaA6w0pIouVG72JQrY4/S80oJJuSsK+FgyXjzu8mtZ6I4QZbYdXPTLwRCG1oJbLVZoKbLh7rm85rzNXN7i/dNKOXuRIcOldsnQ4m482HcAznk6EhkCLaReFFXQmop1vjyUmKTDNwuyz2at7yPh9qcHW9YXHXhG2Jhf+Rrpiip9XmC9TTCmOX4m+htG4rvIXdLy57qgZSboZr7mtR0yMC2th7ims+jsXo/tecZFDWU21E6jYqpIH09e+NLOkd3JXCFUbdbcF07yyGHkrgrBT2GC2ZoKRHkYsbmDAE//mhnfolvBkOdfGa0OLiHNQLm0XIFM0uSbWuY1k=;ujSmhHG7gLqFUwdTqK/g5Q=="
+secured: "9NhGeyYz6S/MutkP+Xtbqz0evndCYpUAxcmA6XCxQbONAl8DutO+O985qbolDsoYCicmvROKHACVKQHruJ1WC8Z2PwHkPzXcWXN+JhWF7R/AHclM/a/TmIYQXCKj6R1vyCZQuD0VTcJ/zcmOqzQfCS5Ns4UQhNkkn/UcikXOGZ0R1Hqgv9TTaCXsKCvm4qOHTpdpuxXUwvCTlqi/ylkOprc5GabPmHR1nkZKEf+AzHeoRMQYjyBJldwzKZgGjjoIfXvhgclBLeS9AtysPgz2gzcusk8BrNEo4tu0fZQo3oEl0qip08O6tlC3HGE+jEL28BOS45qcdTV+TyJM7Hrc0Tbbt9LBgMGeqplO37+PbxphTTrxh9mrt++t/5l5JLLiCRc56bs5fYKG+8BYSP7Wng==;XvLiroCeUZYHCDoOp89GIA=="
 ---
 

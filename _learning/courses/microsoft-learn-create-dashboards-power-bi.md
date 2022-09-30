@@ -1,14 +1,14 @@
 ---
 title: "Create dashboards in Power BI"
 excerpt: "Microsoft Power BI dashboards are different than Power BI reports. Dashboards allow report consumers to create a single artifact of directed data that is personalized just for them.  Dashboards can be comprised of pinned visuals that are taken from different reports. Where a Power BI report uses data from a single dataset, a Power BI dashboard can contain visuals from different datasets."
-webUrl: https://docs.microsoft.com/en-us/training/modules/create-dashboards-power-bi/
+webUrl: https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/
 type: course
 price: Free
 length: PT1H8M
 ratings:
-  count: 4473
-  average: 4.695283
-heat: 58
+  count: 4474
+  average: 4.695351
+heat: 135
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/create-dashboards-power-bi-social.png
+  - url: https://learn.microsoft.com/training/achievements/create-dashboards-power-bi-social.png
     width: 643
     height: 321
     isCached: true
 
-secured: "xpbk6hyBuuyi9r0snpsBsfO8DGkZTMy7vjycEGV1F0AxMf+L6fy4pOo6K9IqVG1EksFeCCduXQlUo1dX+A+yZmxJvTT8IbkqNZCXB7zdGQxj48xwBSfriZ7FaCbanLhL5txjrnnO8G+5Aliw9u1OhlAlRSOR3g5v6rmcsbHYs2tDI4qskvY7ALYCsL0/BSF6R0bPHp3DNZ2u1Ax2/CSGwXP8atBJsnBU1sEQYslC2ucfg5bacgonsI+Ls2g0QX4oBKVye0C3zFaJyFC+HSqrlypoX3/hxZs1rHacxFySTN8h1Ajp36BzCoRwW6VALylcJSdRm1ubQZ2C7Zw2RRPcoHOPQ1bKAbpL62WVHzZnAsixAyTI7Rye6t7Y1Yrcsz4yGq3BXG7hroTv3PZBHugSrCRv9Awtd0fNWWzJeNXbZYE=;ZycOVxnkoPgDf6QD0LfbEg=="
+secured: "3w+IZygKFNe52hbBGU1aE4QbSwqtLEBZBP0KgR2WoE46wOEUHcdGydg3RaypE51wh1ORtY3K7DCwka4CoLDMzhaaZJQYw9mewlVH38VEvp8zwye8YaUz1+CV2+BlyWk4g1vi1o82M6bGgjUForqbefV6nF5PjB+kuPiiRETm4EG1ySkyTF8N0e72W1r2/37j5XjBDtEsnjQ7zG4gr7pfK/iKEASB9HRYz3EyuEKNyUDAYWlrdQ/xxiVbe8EEg9Af15nIhFidy9JrSuj9F7/Cpv5hC3EyK7ajg6qvZ1EsVGcxOsDWGq8v+XLVjHEF4z1usEkC85j3WEO3B1LIUvX457xW62JFPM+GVgWCx6m/LsbP1Jtwz+wZyDXrOB9Ry5OGRRfx2hjmOIhTB8GLgC2lwA==;VIAyR6YjM2+cuCggCr9tEQ=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 title: "Manage datasets in Power BI "
 excerpt: "With Microsoft Power BI, you can build multiple reports from a single dataset, meaning that if you change the dataset, all reports will be updated with that change. Additionally, you can clean and prep data once rather than repeatedly for each report."
-webUrl: https://docs.microsoft.com/en-us/training/modules/manage-datasets-power-bi/
+webUrl: https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/
 type: course
 price: Free
 length: PT32M
 ratings:
   count: 3134
   average: 4.7029357
-heat: 51
+heat: 119
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/manage-datasets-in-power-bi-social.png
+  - url: https://learn.microsoft.com/training/achievements/manage-datasets-in-power-bi-social.png
     width: 643
     height: 321
     isCached: true
 
-secured: "KHfV+K+b2ZiiLVZEaQQ+p0YgDR12VwhspyWeglSZnoM4MqksQJZPnbMnsm9S1zJwMozENbeX0wf3Pb8/Jmp8zo+6fjNGKHp8LmyAaAs8n0PUUJFdy0RlcxNkGnVbRIEun3d5LCY8afJnZfGcKbEWHkriZQSGI8mZQgQe0zJ6LRUPqdbs/MXcIM0gECWMdIfFJvrkJMWTmXj7tVTpadpDeq3hWlvA3+RL1FvnN5XPgJmf8+D0m+1f4gCutc53bBVG12uuN61/wT885GWDORTz3XBzWpF4Ll8uuyKB7sXHIDWTpkOnJjZ0qgs0WWwA6iJ4y5wz4S0Ymp0vSwolixsyfYnlvL3AFdaqmHq7YWMhEC0wflL522a8B1kQYEvMIOi7ic5pOcf3uwUGHR1a4wtB1i2kbO9QWWs+oO3U7Ilnk7g=;p2ImCNapGVu+f788xjCbZg=="
+secured: "MR26yZibZOUSTd8YfuXr34AnLKk26PF3SEeV1qkVEWXLIAAZmP5JgqFWe8ymS9Fstgzc6adYfuNyfVhNPRRysuWGe8PL0BANFyNqEoN/WyvGl0GVP2f4pfjfaQDnGwJFuEHvOtfIiZicKxLwFaHTWDlqv+yEmWECFq59wP0XcPRUzXzZHueSE4y5obPW78iQA84Ja1ySOmVgeEWee+bbTRU4nchByzYzxOz3q+FN8hLCTbLB7XLFxYRckmP0hSFYxC/KRmN1VGcPqtZS/jcHJBkZx8LATRsDuC6e6tEF0yklk+XqLiGo6t/P10h1KqvhVrVVLflu0ewhibeLnrabCYHTJlnDdOE26pKi66POpCy/5e7ooem0QbhKij/2GZ1JkBleM7drPBenUWtN2kDWeA==;s4szdXAU9BZER6im3DIuSA=="
 ---
 

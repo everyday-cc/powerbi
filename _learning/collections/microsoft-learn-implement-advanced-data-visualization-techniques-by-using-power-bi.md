@@ -4,7 +4,7 @@ excerpt: "Implement advanced data visualization techniques by using Power BI"
 type: collection
 price: Free
 length: PT2H53M
-heat: 51
+heat: 54
 
 provider:
   name: Microsoft Learn
@@ -26,7 +26,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/understand-advanced-data-visualization-concepts-social.png
+  - url: https://learn.microsoft.com/training/achievements/understand-advanced-data-visualization-concepts-social.png
     width: 1280
     height: 641
     isCached: true

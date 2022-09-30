@@ -4,7 +4,7 @@ excerpt: "This learning path introduces you to Power BI, and teaches you to use 
 type: collection
 price: Free
 length: PT6H22M
-heat: 103
+heat: 302
 
 provider:
   name: Microsoft Learn
@@ -29,7 +29,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/get-started-power-bi-social.png
+  - url: https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png
     width: 643
     height: 322
     isCached: true

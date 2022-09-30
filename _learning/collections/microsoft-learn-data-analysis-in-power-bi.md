@@ -4,7 +4,7 @@ excerpt: "Report authors can use additional features to enhance their reports fo
 type: collection
 price: Free
 length: PT1H52M
-heat: 55
+heat: 139
 
 provider:
   name: Microsoft Learn
@@ -25,7 +25,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/perform-analytics-power-bi-social.png
+  - url: https://learn.microsoft.com/training/achievements/perform-analytics-power-bi-social.png
     width: 643
     height: 321
     isCached: true

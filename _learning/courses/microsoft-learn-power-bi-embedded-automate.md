@@ -1,7 +1,7 @@
 ---
 title: "Automate Power BI solution management"
 excerpt: "Learn how to automate Power BI solution management."
-webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-embedded-automate/
+webUrl: https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-automate/
 type: course
 price: Free
 length: PT19M
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/power-bi-embedded-automate-social.png
+  - url: https://learn.microsoft.com/training/achievements/power-bi-embedded-automate-social.png
     width: 1280
     height: 641
     isCached: true
 
-secured: "QZR1N548kPoWIXiALP4ZHVNuRBkM++sIHuvCW6KNsqsr486/fh6feRDIRlonWwJHsnY0GnVFhXUxqiTW9a5ziyWJHMgKf6VOA+lG8BERP06S0bI/w3luPzmR6ndaKgwIJ9+omkZp8H/nKr5Nl2VKpfjopgbfRwcGXcLDziRX5AW/tZbJ2DGEF0x1A05KC3N5pYVQDWBL+QlZkeokIP9UxEB0zGE8hMBDOJdmpO4mxjNT4xEdG5uq+Q5DCffUE4NZCNugo26ZSrSHeRddCxHUh10urG4MIUzy9c6u1X6/pxWqTfgCP8tB9JwG5icmgzg5lhpAWq37i5GJMAPucYCPxgMFpWSfAFmaOOP6Rq7M+zeSSXUx2tUdrkI46K3sV7hHDWsEgIWFwN6srfdOSTVdNAaHrVJiNGkfgKTXEbHDChE=;peQSSEgY2XXOgH8ZD6UXoA=="
+secured: "PPjvTclEjOrMlTYC3kqXzE1RPPHdZQfjOK6LnYaDJu/Jh+eaHJeSy5FEs2oNv1I8FaurxQzmmJbdWVW3dyegSrvgwQlMkoKuTN6oqQTXv69tifpkoPEo8FD5+Fh+AmbE6Ve1IikfWqLv02LJQZ3Xksf8CKGr3+A0hP8lZbHmiIZxBlnfPBhdf1sdlMag6vWPxhvLZ/f7+BaxZRc0DaI7wm+YBgvqMTb52sY6qjWZoAGdXJCdHO9se7l6W8zHy6CHyIwluFXUkFVXzxHO/rK73jFbp3veAPW8Aa5pKcjnPPKrTH6miyhFCZv3GuZoKJvri2CaPMQQMWVyysPYAxu9JW1xcuM12tWmdn2BESY8L15s2VmO3cThTj1QVkBzAT3TXaqoCxHllgouE2oet1A0ag==;G2kcoLsay7jM9bGOTWjPUA=="
 ---
 

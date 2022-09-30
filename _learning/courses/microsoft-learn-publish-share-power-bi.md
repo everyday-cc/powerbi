@@ -1,14 +1,14 @@
 ---
 title: "Publish and share in Power BI"
 excerpt: "Publish and share your Power BI reports and dashboards to teammates in your organization or to everyone on the web."
-webUrl: https://docs.microsoft.com/en-us/training/modules/publish-share-power-bi/
+webUrl: https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/
 type: course
 price: Free
 length: PT1H4M
 ratings:
   count: 9659
   average: 4.749353
-heat: 63
+heat: 179
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/publish-and-share-with-power-bi-desktop-social.png
+  - url: https://learn.microsoft.com/training/achievements/publish-and-share-with-power-bi-desktop-social.png
     width: 800
     height: 400
     isCached: true
 
-secured: "1AocstsouZMbJ2TCzoC+SnI8HSFcZBJuGSu2XeOp7HyzIAv22Wp0Ac2LL69M9nL2Mwm2mz/vFAiOZNVTL663Dd6SM6XHvsnrURJ3u25DUNhRHMWfjhgcKklQkuBWjqQjayrArmrCjqs0puhnJ5iS/dDeXOsGfx5VF1uBQqD1ncBdvBw5dQPWQIoBn3fcROSuzRtTzeNgew+gFRzRs5IM1xBqG1D2kpxpOKQyizPvt3GggCKHE3tLlmWfkr+W9lMOAQBj9QaR1h2MT8rjGy6Rm6jRQo2x/hPLagdFWBg3/DdRgNx2G7EoDSJrFZV3sUqLqNDCPJvJy4fe0bLZYXCWGZi28xFegrLKBXjV93j3+lRIlkKMyAjDYXASIn0NwnbGAH1cZZrbXxGeBDVBRf7GpkdxEKK3eEF1fe4uqnNdKQM=;lXhqmG2GETh67uAD9NrX2w=="
+secured: "hRlMoZJws6Gu0PSPNnBO37tbkFdlD1EB+zhWDtb+6Is+rDnOBCVWr73ROPDrCix8AURyPtnCiLVC6EwcJDWFyP0Fqn4rs46VhXKD2iz+GgOoW3/2hJXP+odaiGde3sEtkFA17gqqEtL7W7/0b6npgIMnBIwsasGVN7L83w8yv31dTlu+iBvjhk5bvFrgJQbe/ZTC4Eh3IAkpLbigGrmcaNyBxYrOPvORFsglGoxZZzEPD54Cw5Zvf034omn2xGRV3357FbB/hQ3XAY6oSrpJztrkxaEsd9gdHtbLCU0PupRbpkzorNoN5mjUUB7M26g9SNbVcPzjA8UsA+QRdKJ9JiRnlsecAQgmLdr1/YfOFtgW/xSVpTPxiM51ZLsm1wud/9mQNxvmcdCOv5hfO6xIEg==;X+86NOB5VhIXlx82G+7bJg=="
 ---
 

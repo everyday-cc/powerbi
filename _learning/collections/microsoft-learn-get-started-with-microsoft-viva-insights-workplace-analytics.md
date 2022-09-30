@@ -4,7 +4,7 @@ excerpt: "Collaboration is a key component of knowledge-worker success. Microsof
 type: collection
 price: Free
 length: PT2H31M
-heat: 50
+heat: 58
 
 provider:
   name: Microsoft Learn
@@ -25,7 +25,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/analyze-collaboration-and-engagement-with-ways-working-dashboard-in-workplace-analytics-social.png
+  - url: https://learn.microsoft.com/training/achievements/analyze-collaboration-and-engagement-with-ways-working-dashboard-in-workplace-analytics-social.png
     width: 643
     height: 322
     isCached: true

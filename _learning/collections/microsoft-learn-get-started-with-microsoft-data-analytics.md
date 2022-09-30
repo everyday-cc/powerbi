@@ -4,7 +4,7 @@ excerpt: "Businesses need data analysis more than ever. In this learning path, y
 type: collection
 price: Free
 length: PT1H10M
-heat: 105
+heat: 309
 
 provider:
   name: Microsoft Learn
@@ -25,7 +25,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/data-analytics-and-microsoft-social.png
+  - url: https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png
     width: 640
     height: 320
     isCached: true

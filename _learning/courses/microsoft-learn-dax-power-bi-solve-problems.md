@@ -1,14 +1,14 @@
 ---
 title: "Use DAX in Power BI Desktop to solve business problems"
 excerpt: "In this module, you’ll solve three different business problems by optimizing the data model and creating Data Analysis Expressions (DAX) calculations."
-webUrl: https://docs.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/
+webUrl: https://learn.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/
 type: course
 price: Free
 length: PT35M
 ratings:
   count: 65
   average: 4.646154
-heat: 51
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -27,11 +27,11 @@ topics:
   - DAX
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/dax-power-bi-solve-problems-social.png
+  - url: https://learn.microsoft.com/training/achievements/dax-power-bi-solve-problems-social.png
     width: 640
     height: 320
     isCached: true
 
-secured: "cOsdnYOQACJy4QeezGa+XUsCmvWI1rtXAkoAUENyNW9Le+5wiZ7mOsNDpu0gTPHNuDhmj6y5suCPYbaCwzOOv/d1Pp2eba0F5nHJ1up/S0Nxaz04Coi2Ml5AVsS/o5sbMMAKikKN41Hi4NR1jys0PmI9WbMjNNog6kp/GgE0Wv/kgYg2TH39ed++vWaMos6ZVPZBxi3oViWVEu+qALHkmw4Sq012MWhFgnNQcTnbyLZNmxPtnpxDJAgfWe6O7q/Qbgi35/Yof5kuDwNmCukbZQoGTXqCtsoh53j4+vpoYBpJt6G40EjVsoTJIAfgF7yUavmDrk/SrsIWaWcTJ9ZWABjHW3Uq83CyagfIeJIPo7k4yL3bcIqPKLkn9TK1TJ9cW+x4oCGuBP1Z4QxZoJOXn7dGz0uxRsFNfG2HOXkJTTo=;DTSvYgOGLnXFPQl51oHu9w=="
+secured: "jCJPHR/N6bQV0fUITVccj7Sm9kD+eU7k6VKe9FRfMFtJlAMB3EQz6pruybg7bte47NGMf3SBtPvoPCxEWagn0oScsn2vjXT7KaSaonoMtXLXTMRPO9ywLFze3hQa8Sn7PXabHbcKyuY2VFLEBn1pmgK+m+wCXRNCTOn1OfeKr77BzPynLsA6ulM/Tgw4mTAXknTwcuOQTSI65oW6SYobfCZcX8O7v5kkfTx7suIibYuACc3MUqSLhvm5l5vxu+fGkrU1MFyklcCvJuXjwtCKP/HBvV3mAJmGNFHyhKkoXuvY8n/zFMEi5EuIyEWvS+MP8xOr0SMQk+fZcVnOvV+5IgL4oyXFZL87vyYEChnH9txAldDeF3ktv1AyVE/lUZtPFj7fwk+6+loK78s8yi3KXQ==;GgHR9nCcpBu7A/50Lo2L4w=="
 ---
 

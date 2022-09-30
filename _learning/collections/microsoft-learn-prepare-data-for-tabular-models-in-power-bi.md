@@ -26,7 +26,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/choose-power-bi-model-framework-social.png
+  - url: https://learn.microsoft.com/training/achievements/choose-power-bi-model-framework-social.png
     width: 1281
     height: 641
     isCached: true

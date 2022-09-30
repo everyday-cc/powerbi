@@ -1,14 +1,14 @@
 ---
 title: "Create and manage workspaces in Power BI "
 excerpt: "This module explains how you can share reports and datasets with your users and how to create a deployment strategy that makes sense for you and your organization. Furthermore, you will learn about data lineage in Microsoft Power BI."
-webUrl: https://docs.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/
+webUrl: https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/
 type: course
 price: Free
 length: PT29M
 ratings:
-  count: 3638
-  average: 4.768279
-heat: 55
+  count: 3639
+  average: 4.768343
+heat: 126
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/create-manage-workspaces-power-bi-social.png
+  - url: https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png
     width: 643
     height: 321
     isCached: true
 
-secured: "xYJav8PqCVz59jYe4XC5kKJ5gAiUWHHGOyXQoRiZ4mGp3bewEXUISTN0Ct8tDMFP1fyXRc2kYRoGyidLeP4cFjqFXwvnobVMRt7jctDTjy3KCy6Tuuj0YwwD1QGYayWpD/g5NjBwHNS5PPq4KW1QkODf8FOYJtp6ARpaR48oKq4JdWWL1We4uV+hCOF6ylqkksTAbtJ5awunITPOov5g1SHqtHohttFgPWmf2+uzcI6lIWYwra05kcnSc1ts2hoejqHWun2mcrukkEqYui7WWkdRPatNGMnegR5D+5rMGoZNpZzXrGnRoXT/UoiYGS3JUa1sZrX78VWU56Ail2h8J3mXJKIgvFEVnJh0vHsxOnESkHlLGF/Qgzoa/v7870EukoL0rRgD7CdfimkMl5kHljiF7kdViI6ouhuNhR63pvI=;gJoVRbOY74CZmmJiK/RAjA=="
+secured: "4ztxK//5nCqLtv7unwyEXtowZdAtgye0Li55PsokkqqD/0O2Fufmz2206E88G7YyXwD54Gqs7Ay7PXhH4ERZgn/ouo4hMSaM48XM2WIwfXBUobL7bLDKfjlU567BoLhQqRPQmkZqwcOuITy7QeLblVo6esgrKBeUlLzYyh5gvzhivUK+eujGM9qEhKr5ISXtSXyH9PakXPe/hc6bW2kNQMSxvk6iRehkM7oj0Zt33AxndvfuQLDvn/GJKrE1jAgSSW4oLsMD9DKAgePo+2vBHcjkNeM0VGdxcQhkyowrTKeSg8XrimGpCigsBAJSkq7pIvZzGdafTCKz4RW3J0u0onzDzkVRk9zUQkvTZOhIn4Zh5pIHw4Otq4lQ54Dn5P5xadNU664TQdDVe8HJ3w0uZA==;PK/IYYMAjIBItM5sYzOgAA=="
 ---
 

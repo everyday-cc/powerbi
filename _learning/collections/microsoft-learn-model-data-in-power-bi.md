@@ -4,7 +4,7 @@ excerpt: "Success with Power BI begins with a great data model. In this module, 
 type: collection
 price: Free
 length: PT5H31M
-heat: 64
+heat: 167
 
 provider:
   name: Microsoft Learn
@@ -26,7 +26,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/design-a-data-model-in-power-bi-social.png
+  - url: https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png
     width: 643
     height: 322
     isCached: true

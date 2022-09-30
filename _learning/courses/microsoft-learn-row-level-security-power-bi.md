@@ -1,14 +1,14 @@
 ---
 title: "Implement row-level security"
 excerpt: "Row-level security (RLS) allows you to create a single or a set of reports that targets data for a specific user. In this module, you will learn how to implement RLS by using either a static or dynamic method and how Microsoft Power BI simplifies testing RLS in Power BI Desktop and Power BI service."
-webUrl: https://docs.microsoft.com/en-us/training/modules/row-level-security-power-bi/
+webUrl: https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/
 type: course
 price: Free
 length: PT9M
 ratings:
-  count: 4678
-  average: 4.8035483
-heat: 54
+  count: 4679
+  average: 4.8035903
+heat: 139
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/row-level-security-power-bi-social.png
+  - url: https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png
     width: 643
     height: 321
     isCached: true
 
-secured: "Fiw9YxRAD6Eh49U9mVTccuYUe4TYDj9cZkw945zmu5apoWw4cqDsHU7pIewDEMlRRjFnj7KoKuMi2Y5Fg9JFKPGg2UP/EYBWsYnHLQXWwTREZC6tkvN/zuuoCvjxi0YzZSpOTr1XGKGgu58/s00YaNjU0Dnq8Wt4A/xVJn6xaYSR+aWHJe6aEi764ZWLLCFkWUvmj51O72KIXBcPH/bzXHVkAA+4gXPW9WOb1PGeYjjBReBeS2VJEwDvtRYxmdSFrg0xkoqob5v74/v544cVh1ataB3oM8KTAQEiE2UvQ779EduFi5rKn+icg0SfknNrB2AmNZ93OPum9TCvQW5b0SiMxpmmcaTv1lXmPvNLUBXzzJ+6c3YgK48ZZ5g7ygoPuTDEfUfZ6g+QwKXisD5dS38IiXUyGgptT+8vJideXrI=;Mvh8xukqAFqgIguBSI3o0A=="
+secured: "QutS6MyRB4vJLnzyoFQpHFOZk1grvqGuwxYGJLTZJThSAYWThl7DEpkJq0GlkRAzFYhQQh5lbjo8+OVsGTX+LJBym1oMgdFdCyS3RQ8ay8FKd9lSZqZuSq4Fa7I82AFapL2yUhXsclukU3ucY4uc1We0RQo0Dx9qgVZMH+qFeKZpTKVGcfo0vs34U+JR+V7UN/KQNlWktTDAKNYKw/OjFXFbwGqFX+art9QhsLEuIhSdTCv/4Kn2+A/Bdv7o4YyypuFg4hDwMFJ0OuBc/afVZ8h0jZE3JcJkprNbkW3f7bggd4nS5DJU0NxvdAyJjd5FTEAh0HSJqZFui/E2bM1MBSE0OVQazGcMxZV/hda5FwqPtAvGhC1QFt4Kg/MZavezFiGaz1b6q9/KTYdG1504tA==;x0PzErFL7Y2I5FNgS//GCg=="
 ---
 

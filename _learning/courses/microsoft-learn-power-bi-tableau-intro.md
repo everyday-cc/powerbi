@@ -1,14 +1,14 @@
 ---
 title: "Introduction to Power BI for Tableau users"
 excerpt: "This module explores how Microsoft Power BI and Tableau connect to data and help you build visualizations."
-webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-tableau-intro/
+webUrl: https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/
 type: course
 price: Free
 length: PT19M
 ratings:
-  count: 173
-  average: 4.6589594
-heat: 50
+  count: 174
+  average: 4.6609197
+heat: 56
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/power-bi-tableau-intro-social.png
+  - url: https://learn.microsoft.com/training/achievements/power-bi-tableau-intro-social.png
     width: 1280
     height: 641
     isCached: true
 
-secured: "ZOj0A6WYvcEneko/WNgW/l4ctiYQQ7VYmFqpJ2+ccmM8hjfmlIheAvp83giGE1Bo5TIkBCxRoQwKAq1fB/qSsN1i94NhoPKpYbi5oZdYzWjZtJYO99Fc9n4NGqGhclmXvMYdXqKZuM57Br/WSHoCVzRTgsxhqggewwzyZT6BYe4fbtCMe3Zn9wCuaMK73NuCVNQR2fLXRxMWZV0kMLiL2CyyY/69vnbRJJ+isC35WkDsgC8nvM79u0DTbzC9PwvBy9mnC0rJs3bQ+SJvVp2sAMMX8YTM3n9pvQLvDSdWp8dWoPtdOEJHjrVM2XZnA0x7uWZJL3z9iu7YftRitKM/DLkqq3O9pOHLbgSaBrKXJrQvKCOnlSbxLeuKMfhXHjQgPmDq4dydA7L3FYlDq9m1hKUCrXN5yEmOb/lBg2O5fWg=;d+rjUe34BaItmw3/trH3pA=="
+secured: "jXSKwVli7lGLkR5z4BXQbn7RlqPeXJseGvPWDO+gWZg38J/vzUzVitlTVXaR4fsVPIlPf30AqyJPDgU39JsD2NyDRoueZnha/ZitfVOO3lOsnqZGnsc4FmFOvfbQCFqQAMKhEvwHH3FFI8EdzhMOWpl5uHmz4dDdxDwJwJKOTJlGwGPk7O8Iq6p22KsDCHKUY5/zclyOAaF25DUP3aAd1F7faoqtkwh5WNgGvaXbscSYBGBlZwYyw/JTkaH1gmOlL+WY8xbqRuuHGA1/p9K8o13oArmkGlo7pnLKyRlLCLt5xtHstWHt4U5kQ0aD2TjNoHYIGWkbAJSoyG7doIooZ5Ogul9zYFEachQFHJq8nUKkooiTgFL4moExjRuzuaMkCsgt+oYLF9OvnRJHj359dw==;aZ9GxN69J1lrR9f5DA/qFQ=="
 ---
 

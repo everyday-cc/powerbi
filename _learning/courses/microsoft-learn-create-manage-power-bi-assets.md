@@ -1,14 +1,14 @@
 ---
 title: "Create and manage Power BI assets"
 excerpt: "Creating shared data assets for your analytics environment provides structure and consistency. Maintaining those assets is as important, and XMLA endpoint provides additional administrative capabilities."
-webUrl: https://docs.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/
+webUrl: https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/
 type: course
 price: Free
 length: PT1H8M
 ratings:
   count: 18
   average: 5
-heat: 51
+heat: 50
 
 provider:
   name: Microsoft Learn
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/generic-badge-social.png
+  - url: https://learn.microsoft.com/training/achievements/generic-badge-social.png
     width: 640
     height: 320
     isCached: true
 
-secured: "IPLYZaiEUkH2INqqyiNg9LUNlbW8aLhhfeCLPmb5td78ZFrmrg4k9Izhyp1NO0Ds9XTiqtgIm7mHD/HNLbN25eTo1BTh5Skyd3M/DZcweLa+po2PLq4OSCK2N2sTbvDsMFdB1H0BaW7hr2hfFjGzd/N5B61Q9S1G2sjlSJUtIdJVieDAUs3xjy2Rh+LxlhpBD7Dyydlp4tx/g3D+KbRIDmB+Y3H28j+9cI6BYgiD/S0JWmtaeIk5XkDcvhgCG4qHgVFGrev1+DZS05BqwjihF8jR5Kb/0XtSBW/h9UlldwtLQFOI6TythJBgFkngpSonGe7onJj501sAwMISbcB7nQrhfkBhy94Y/o26BlQ6CWQ/hVk8wqQZd17xnx9nwsH/xdL89Jec/eeXzUzNui1bXWrOIGsjuXs6BX0SVWg/hvQ=;ibcCFiLhFnVCcbJcE59v5Q=="
+secured: "Gfm3auhfv1SxwPH8IvuzoqjXXHn/2zd2bkclNlYK++AX/gYnWhkMydaaWBWxjwLwHbjupgY7BzUyPEFbU2wnPbjbXJYG1ZSLzllLH8Oxqz4k3WdsS5KZdnCwMNRH5s/tcB5+SwA1BC0wgLd1aF56i12nLxc+l5h3Oak94OxaPs1zUmgZE4Fft+RlUKTRP+p5AhuhG5jkdqGJO5f5aiK4k9WdaH9zSfBQXIqDTMvHEavj4vbNoR+GDioJ3TJT7q/KjkUqSd/P83UDln6Uzbgpl8OHiXx4b25IdASVUdpWJJXLKqnX2kgiiKAl5+Ju41iKryCXcBgfGDB/HNnE2Vgf09GDOZi83M1T/S3inp5hHD/2Vz3+v5GS8gYyiTLrR6v0Maj4+noyE7q/3X9LBM8HOQ==;id4rG0N9d+v4kyHAUZRFXg=="
 ---
 

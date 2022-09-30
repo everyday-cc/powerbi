@@ -1,14 +1,14 @@
 ---
 title: "Get data with Power BI Desktop"
 excerpt: "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier."
-webUrl: https://docs.microsoft.com/en-us/training/modules/get-data-power-bi/
+webUrl: https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/
 type: course
 price: Free
 length: PT1H15M
 ratings:
-  count: 30286
-  average: 4.7251534
-heat: 86
+  count: 30287
+  average: 4.7251625
+heat: 252
 
 provider:
   name: Microsoft Learn
@@ -26,11 +26,11 @@ topics:
   - Power BI Desktop
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/get-data-power-bi-desktop-social.png
+  - url: https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png
     width: 800
     height: 400
     isCached: true
 
-secured: "DIN4DvOuWxzLtwkepQye5qYsnW8bkqRL+k5UIsuiCCmhdwCAK/Nub+r8AWml04gph2dL398e1Oc6Asb8BjrWTOX4AcGGbQMuv/6dGLE53W5jdLPmW9HQdRu14prsckc4KJvT0dimh/jCzc22Z6SQFhMOa8GBp8TE79EmqtyNtPa0O0FhwDc3W7JNJjTGXieKnOihlesm1U45p03Lk2MeH2NgAChxRvBJ+R+jAenlkOGCO4ZMGg2ZrKMGydGzNMs/0HS6XOUI1Ktt+fRDK6kPWTGMPZenFVFgMBHKjWOjv8du2fAq0vtzU98bHS3cDoU1VMZIbrUATfv8I0Q85K5jQNCSysR97cnr2LG8sezo1Lmd03Hz5hf9oSLWoe0hiaJNnR7QtiVkmVSPIVdoxZb/OmzD/+P9/PZD/Cred+3q+uxmm43zkf2ELJyT8YXIq0zW;3PuYrKdcOG5B2xAfT7GGFw=="
+secured: "bblElA5A3Zf33439M1NJ+zmgppKRAUQLThMg2mOEbuoTkw+OdFUEogSXK0E5F037gSg4zXLlkk3MKjLdC1LWET6PK/qGa1zfrCTW+vMc5RNAf2cYeVC0xq+P4Z5DVyJ/07hVqLSjl4VPHEM0EZmh99JXCJZuHfeBXxlijXaMqvGW/ayNl3TzxIes8cFZPdJ/UB2GTWztFFr6sdXEBj3EHIsShG8NqFeLCGwJy91567jSXtqI++PpEWMPyQFYLnrmV6DX5w6u5Dsjy6cFEIM5s+oNlO11ID2vEAURPEdk2/YBPidToaRQnioZ6TFEa0GvOhh9b81oadyPy41AMa75LT87ZTRgoHq8Rr5Rr1jlBzWEAom7iw5ShLn7hOb2gB1ifkF6x09b8dOzL61ZxZK7wQ==;/9mLi52O1d42L4FNJBo73A=="
 ---
 

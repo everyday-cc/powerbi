@@ -1,7 +1,7 @@
 ---
 title: "Embed Power BI content"
 excerpt: "Learn about embedding Power BI content."
-webUrl: https://docs.microsoft.com/en-us/training/modules/power-bi-embedded-content/
+webUrl: https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-content/
 type: course
 price: Free
 length: PT31M
@@ -25,11 +25,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://docs.microsoft.com/learn/achievements/power-bi-embedded-content-social.png
+  - url: https://learn.microsoft.com/training/achievements/power-bi-embedded-content-social.png
     width: 1280
     height: 641
     isCached: true
 
-secured: "kCXx7VjLlivBYcbgnT6xxD8AjSvcalDTzr0djTIt1yRNjXAiXSvvow0Jh9mRaKXjaIwp2lRRdD2sr8xhWrGH2i/yh0SK0Tlqf0We7x3ZX05FSlu8VBrSyvCZEN58ZLgUTazzS70J2U1h17hX/MA1wNx1mSIGcxWC5hxBYRitBdxuOHrF3KEiiM3Pdgevs6eNw9FwiuKspKhE7HiNLA3tcIO075pXIOBwOP5DH3xHf1V12kWwWGoFKasuhAOUxsZ3UePcZsrtkJR4gPYSALKjf7OrKHMS2J5WY3iYyucutCPnxixggAbqoW7fAYOBDsmt6BIHw1NnheLD/ddWvGXTUgEjKM/Cgzo0bHid5gr3N3HWIXIds3VDA+4NlnIQFsdEPw7nwUbdSuGIlAUAPeX7jRGZLhrEFLOnD/t04F7MNqg=;qx4IOKc8WHgNEeB2bI+DVw=="
+secured: "MPNDlMA1Q9RqlmVgmG00h3U5MNAkjVa93TVb/1M8Eay2/yJSNWL6RJqdPgPuVvDvX5RZPC2Pf401ZPp6CaZDqCRFNZdUXOhysfFp6pHkO89Oi+taQjLrJkjXz8LXmdfiWF7uLLoyQfdocqApwXDjzKm+9pb8oaGxkTW3v7xI420a9v6SCyDhIiz48czXHwXcrL5X47jTZ/xU3Ep5pWImNA68StuRU1TdHKAs3AKlnciIxMasFIMueo+HHrTFiZnwvGAYSG5ficANkSfpgjgiIFXmhHlL22VHc9jtrtqL90iCKMJ9LQwccKm8aeCBL8asEWzD1mA4G0WErzIrPjCWILR0ht7CXUSkk2ofCZCNknSzVWnQpaKeiBJczB84LNykmxyDEFVljODNFCKcvDXjMw==;8V1YQhQ22XMx6bfpg4PXDw=="
 ---
 
