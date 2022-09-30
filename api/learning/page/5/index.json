@@ -463,8 +463,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 7922,
-        "average": 4.7657156
+        "count": 7923,
+        "average": 4.765745
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1638,8 +1638,8 @@
       "webUrl": "https://docs.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 9656,
-        "average": 4.749275
+        "count": 9658,
+        "average": 4.749327
       },
       "provider": {
         "name": "Microsoft Learn",
