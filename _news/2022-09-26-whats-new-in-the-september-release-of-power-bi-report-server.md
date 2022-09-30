@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/whats-new-in-the-septembe
 webUrl: "https://powerbi.microsoft.com/en-us/blog/whats-new-in-the-september-release-of-power-bi-report-server/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
