@@ -52,7 +52,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -261,7 +261,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 53,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -512,7 +512,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 85,
+          "heat": 86,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
@@ -4743,8 +4743,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 94,
-            "average": 4.7765956
+            "count": 95,
+            "average": 4.7789474
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4785,8 +4785,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 113,
-            "average": 4.654867
+            "count": 114,
+            "average": 4.6578946
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4827,8 +4827,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4938,
-            "average": 4.7339005
+            "count": 4939,
+            "average": 4.7339544
           },
           "provider": {
             "name": "Microsoft Learn",

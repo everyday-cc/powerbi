@@ -4,7 +4,7 @@ excerpt: "Implement and manage an analytics environment"
 type: collection
 price: Free
 length: PT2H11M
-heat: 63
+heat: 64
 
 provider:
   name: Microsoft Learn
