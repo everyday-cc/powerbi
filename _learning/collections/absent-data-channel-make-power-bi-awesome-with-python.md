@@ -2,7 +2,7 @@
 title: "Make Power BI Awesome with Python"
 excerpt: "Using Python with Power BI is a dream made in Heaven. Learn how to incorporate machine learning models into Python that will amaze your boss and solve real world problems"
 type: collection
-heat: 63
+heat: 66
 
 provider:
   name: Absent Data Channel
