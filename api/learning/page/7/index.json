@@ -256,8 +256,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 174,
-            "average": 4.6609197
+            "count": 175,
+            "average": 4.662857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -298,8 +298,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 88,
-            "average": 4.6704545
+            "count": 89,
+            "average": 4.674157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -340,8 +340,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-calculations/",
           "length": "PT57M",
           "ratings": {
-            "count": 59,
-            "average": 4.3728814
+            "count": 60,
+            "average": 4.383333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -635,8 +635,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
       "length": "PT45M",
       "ratings": {
-        "count": 383,
-        "average": 4.741514
+        "count": 384,
+        "average": 4.736979
       },
       "provider": {
         "name": "Microsoft Learn",
