@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 46798,
-            "average": 4.7981324
+            "count": 46799,
+            "average": 4.7981367
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 68022,
-            "average": 4.7780275
+            "count": 68026,
+            "average": 4.778041
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -94,7 +94,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 310,
+          "heat": 311,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -112,7 +112,7 @@
         }
       ],
       "size": 2,
-      "heat": 310,
+      "heat": 311,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
@@ -136,8 +136,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 68022,
-        "average": 4.7780275
+        "count": 68026,
+        "average": 4.778041
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -154,7 +154,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 310,
+      "heat": 311,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -201,8 +201,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 68022,
-            "average": 4.7780275
+            "count": 68026,
+            "average": 4.778041
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -219,7 +219,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 310,
+          "heat": 311,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -243,8 +243,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 30302,
-            "average": 4.7252326
+            "count": 30304,
+            "average": 4.7252507
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -286,8 +286,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 13706,
-            "average": 4.724719
+            "count": 13707,
+            "average": 4.724739
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -304,7 +304,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 201,
+          "heat": 202,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/model-data-with-power-bi-desktop-social.png",
@@ -388,8 +388,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 46798,
-        "average": 4.7981324
+        "count": 46799,
+        "average": 4.7981367
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -430,8 +430,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 37857,
-        "average": 4.7364554
+        "count": 37860,
+        "average": 4.73645
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -472,8 +472,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 30302,
-        "average": 4.7252326
+        "count": 30304,
+        "average": 4.7252507
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -515,8 +515,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 24342,
-        "average": 4.763495
+        "count": 24343,
+        "average": 4.763505
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -533,7 +533,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 239,
+      "heat": 240,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/introduction-power-bi-social.png",
@@ -580,8 +580,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 13398,
-            "average": 4.757352
+            "count": 13403,
+            "average": 4.7574425
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -598,7 +598,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 200,
+          "heat": 201,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",
@@ -622,8 +622,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 15888,
-            "average": 4.772722
+            "count": 15890,
+            "average": 4.7727504
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -640,7 +640,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 211,
+          "heat": 212,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/clean-transform-and-load-data-in-power-bi-social.png",
@@ -658,7 +658,7 @@
         }
       ],
       "size": 2,
-      "heat": 211,
+      "heat": 212,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",
@@ -682,8 +682,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 15888,
-        "average": 4.772722
+        "count": 15890,
+        "average": 4.7727504
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -700,7 +700,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 211,
+      "heat": 212,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/clean-transform-and-load-data-in-power-bi-social.png",
@@ -763,8 +763,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 13706,
-        "average": 4.724719
+        "count": 13707,
+        "average": 4.724739
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -781,7 +781,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 201,
+      "heat": 202,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/model-data-with-power-bi-desktop-social.png",
@@ -805,8 +805,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 13398,
-        "average": 4.757352
+        "count": 13403,
+        "average": 4.7574425
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -823,7 +823,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 200,
+      "heat": 201,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",
@@ -898,48 +898,6 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-visuals-in-power-bi.md",
-      "title": "Use visuals in Power BI",
-      "excerpt": "Create and customize visuals to present data in compelling and insightful ways.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-in-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
-      "length": "PT1H16M",
-      "ratings": {
-        "count": 10101,
-        "average": 4.767746
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 183,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/create-visuals-power-bi-desktop-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -1028,7 +986,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 182,
+          "heat": 183,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/analyze-explore-data-power-bi-social.png",
@@ -1052,8 +1010,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1133,
-            "average": 4.72286
+            "count": 1134,
+            "average": 4.7222223
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1088,7 +1046,7 @@
         }
       ],
       "size": 3,
-      "heat": 182,
+      "heat": 183,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/analyze-explore-data-power-bi-social.png",
@@ -1130,12 +1088,54 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 182,
+      "heat": 183,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/analyze-explore-data-power-bi-social.png",
           "width": 643,
           "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-visuals-in-power-bi.md",
+      "title": "Use visuals in Power BI",
+      "excerpt": "Create and customize visuals to present data in compelling and insightful ways.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-in-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
+      "length": "PT1H16M",
+      "ratings": {
+        "count": 10101,
+        "average": 4.767746
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 183,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/create-visuals-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -1363,7 +1363,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 136,
+          "heat": 137,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-dashboards-power-bi-social.png",
@@ -1447,8 +1447,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 8104,
-        "average": 4.74963
+        "count": 8105,
+        "average": 4.7496605
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1551,8 +1551,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8104,
-            "average": 4.74963
+            "count": 8105,
+            "average": 4.7496605
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1738,8 +1738,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 7765,
-        "average": 4.7200255
+        "count": 7766,
+        "average": 4.720062
       },
       "provider": {
         "name": "Microsoft Learn",

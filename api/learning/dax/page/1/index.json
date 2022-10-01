@@ -177,7 +177,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 101,
+          "heat": 102,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-write-formulas-social.png",
@@ -283,7 +283,7 @@
         }
       ],
       "size": 9,
-      "heat": 121,
+      "heat": 122,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -366,7 +366,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 101,
+      "heat": 102,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-write-formulas-social.png",
