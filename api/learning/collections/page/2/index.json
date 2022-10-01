@@ -3174,7 +3174,7 @@
             ]
           },
           "publishedDateTime": "2017-10-11T07:34:50-07:00",
-          "heat": 52,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/iEHfUuoZseo/maxresdefault.jpg",
@@ -4507,8 +4507,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 141,
-            "average": 4.7234044
+            "count": 142,
+            "average": 4.7253523
           },
           "provider": {
             "name": "Microsoft Learn",
