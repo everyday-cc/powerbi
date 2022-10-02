@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 46826,
-            "average": 4.7981462
+            "count": 46827,
+            "average": 4.7981505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -94,7 +94,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 318,
+          "heat": 319,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -112,7 +112,7 @@
         }
       ],
       "size": 2,
-      "heat": 318,
+      "heat": 319,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
@@ -177,7 +177,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 318,
+          "heat": 319,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -369,8 +369,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 13414,
-            "average": 4.7572684
+            "count": 13415,
+            "average": 4.7572865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -494,8 +494,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13254,
-            "average": 4.678814
+            "count": 13255,
+            "average": 4.6788383
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -512,7 +512,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 200,
+          "heat": 201,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -653,8 +653,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 5487,
-            "average": 4.672134
+            "count": 5488,
+            "average": 4.672194
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -695,8 +695,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 4978,
-            "average": 4.684813
+            "count": 4979,
+            "average": 4.6846757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -797,7 +797,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 143,
+          "heat": 144,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-paginated-reports-power-bi-social.png",
@@ -815,7 +815,7 @@
         }
       ],
       "size": 4,
-      "heat": 171,
+      "heat": 172,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png",
@@ -1090,7 +1090,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 141,
+          "heat": 142,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/ai-visuals-power-bi-social.png",
@@ -1108,7 +1108,7 @@
         }
       ],
       "size": 2,
-      "heat": 141,
+      "heat": 142,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/perform-analytics-power-bi-social.png",
@@ -1173,7 +1173,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 128,
+          "heat": 129,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
@@ -1257,7 +1257,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 141,
+          "heat": 142,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png",
@@ -1275,7 +1275,7 @@
         }
       ],
       "size": 3,
-      "heat": 128,
+      "heat": 129,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
@@ -1727,8 +1727,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1462,
-            "average": 4.737346
+            "count": 1463,
+            "average": 4.7375255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2693,7 +2693,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 133,
+          "heat": 53,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-collaboration-social.png",
@@ -3202,7 +3202,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 133,
+          "heat": 53,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-collaboration-social.png",
