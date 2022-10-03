@@ -4228,8 +4228,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3643,
-            "average": 4.7680483
+            "count": 3644,
+            "average": 4.768112
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4600,7 +4600,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 54,
+          "heat": 52,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/analyze-explore-data-power-bi-social.png",
@@ -4809,7 +4809,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 55,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-paginated-reports-power-bi-social.png",
