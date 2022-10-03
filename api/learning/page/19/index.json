@@ -512,7 +512,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/analyze-explore-data-power-bi-social.png",
@@ -847,8 +847,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 4479,
-        "average": 4.6952443
+        "count": 4480,
+        "average": 4.6950893
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -889,8 +889,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 3647,
-        "average": 4.7680287
+        "count": 3648,
+        "average": 4.768092
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1372,8 +1372,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
       "length": "PT28M",
       "ratings": {
-        "count": 192,
-        "average": 4.7760415
+        "count": 193,
+        "average": 4.777202
       },
       "provider": {
         "name": "Microsoft Learn",
