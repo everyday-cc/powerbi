@@ -389,8 +389,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 149,
-            "average": 4.7315435
+            "count": 150,
+            "average": 4.733333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -815,8 +815,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 1139,
-        "average": 4.7225637
+        "count": 1140,
+        "average": 4.722807
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -899,8 +899,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-excel/",
       "length": "PT2H7M",
       "ratings": {
-        "count": 133,
-        "average": 4.766917
+        "count": 134,
+        "average": 4.7686567
       },
       "provider": {
         "name": "Microsoft Learn",
