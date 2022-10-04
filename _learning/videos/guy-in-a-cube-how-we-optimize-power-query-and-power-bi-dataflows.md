@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M28S
 publishedDateTime: 2022-01-20T12:21:12Z
-heat: 52
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lopTsclrpHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "elrwAiZjgtWgo9julUHjZDpkgv2FgRMS3C7YPQRyf0kuNe7KXquZCO6HO4WjAh7hk/cwVz9kl9dLr1hoKwpH/+/DQ3Jp5ulLK8wlWkE57w5c6AfRlhuh0VBYUG5IM1MslS4AaogdAMpk6MXn5DZDfIhs/QfQw/oqSasKMXL1+/lATzaEl3HuKp37b7d7jnmgnu78VgK70+pOuYTkQ8xzi8Y5zEjG2acrPSvtpgopmh9lLHyxu6PjnqeFJ844qgvLeEvYNsn24FJCyki7bQweZwLanmLnxZQMHOAgQUTyJFhhS+ne1xjH/mnKXFSHtiueuYaDwmuKdBxJlfdEN4EBoUR5a0gIGt2tQFv/DETpZ+DiKdREecR/LBCgYVyXuN+ujx5A4m+5QqWVP97OQCwMsd/FCh/ALLZ/SFtuXwmx9Y4=;VQsJeuFjfkYABVbrbtDq1A=="
+secured: "eq8mUkpGwMEplVpW8a9agGry7SPnBbAOsf3f+GI5RJw5ZSFbUNKJBYmd8TBxy+MMO+awXjHVpKMqWdjodhlXTwigP7KrareTkqKdpJuO8N0kx/1RcqAWF7kKvrcJLtmWrcYlb8VGLK+VdGZrBpJgNdP9rurkPU5C3v9GW4/nkETXSh7ZOFUWXVfVnIC2IzXG09gPQ5D1G2j0D068IDcwZBB9EaVGFN0zKQ0WKeB1qKYBqF8GxVZgw64mBw4ngCrTivLS+He1cHf45r2TFFw14zFFwpllfvVADJyJ0szvPyCKOum5eJeqLl4G+C+wOeLqnqBvYWBLPn6OsONX93VND5TuqxamfwGju9OTejkZz+OayEYlZOjMH7mZ1OXG6oixYDggdnh0qMku1aSBSvS5EO7DB0RfOibUfUe67y9cubU=;PpPozua07/XyjmPGaklg7Q=="
 ---
 
