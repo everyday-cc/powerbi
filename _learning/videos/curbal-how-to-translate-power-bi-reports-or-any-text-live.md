@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT2M48S
 publishedDateTime: 2021-02-08T09:35:24Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/takLaQs5VCE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "CZ+9O82RZnVCyqqtTBOVgSFxbu7agE0UhVKp4h9F+yKrq+PtEDUy9TqpA99UicJPWz/UhiVzhjYKmndLJNMpK8cLgttgPDVYaHw1g5K7coPijyN3/0y3oOpt2D1tPnoNAKPnPKi2loW0vCO2Z8MY3jG1QwcMmvd2b5JDcYtLg+FGbecaDt9G2CHnnICGFmqS888PPpODC0nfG6UaBTEqG7ap40xbj+s4Nu6Nr2zQDbXsXYr5lgX6NGIm/CigPK/a+z4F78e1WA6voalQSLHEJH6FPg/Gu1jX1q+bvyMK8SEmuPtJvfAtoKRMph40TITVDT2iYtsp/4e9ZXT5l5/fscllO1ho5LIsUKay/lFa1lLIYiQ2BQ5K57G/A36nPUuG0x8aeoIiK51R5QOlWdBuqGabil+XzQg2zR7FrTvMMXA=;PBK8lORG8FUElN5OFBR7tQ=="
+secured: "BLUKner+3rNdkWfnKZz4BVa1lmXf8y4IckkyMDqhpq8yjMhJilk0OnHb/d5hnyCDBIzDmLbWGl+To0lxmOIEG83F3/ZAz0uJK5qbavlBPkm42Vg5qGxjXcAKctABR6sLXjqQEDgzBQE9ToBo5k3MqTM5a1hLwZMp6CfdL1p5b7vtepXH4VLGaZPe8YNpnCO9OZOqJdf9WzJPzdEAdbKsxiBMDxhqyIaLZqu7SF3femLloTSXPZF6uHYGin+z0hgHZeAxjdJYdWUS4pNf14XIXuvHq+aE05CW5tZ3X4jpkWl/j2hbbmWiMX1bOdtYCKNkj2km6F7VvbXdEa1RGndTXzlQ/oT0sROiIXu5Gd9ibo1RHQnVpcmmgHDSbOI0EYR1sGqfuGiTuW4yO13mH0slrtN1WhiNUQT/vPI7T+3GhsU=;oO3zOPL8yiEl2CC9JMZGww=="
 ---
 
