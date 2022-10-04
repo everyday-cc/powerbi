@@ -445,8 +445,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 1033,
-            "average": 4.774443
+            "count": 1034,
+            "average": 4.7746615
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -487,8 +487,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 848,
-            "average": 4.762972
+            "count": 849,
+            "average": 4.763251
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1655,8 +1655,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 2952,
-            "average": 4.755081
+            "count": 2953,
+            "average": 4.755164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1848,8 +1848,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 7795,
-        "average": 4.7202053
+        "count": 7796,
+        "average": 4.720241
       },
       "provider": {
         "name": "Microsoft Learn",
