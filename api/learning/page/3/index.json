@@ -528,8 +528,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1473,
-            "average": 4.737271
+            "count": 1475,
+            "average": 4.737627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -654,8 +654,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 388,
-            "average": 4.739691
+            "count": 389,
+            "average": 4.74036
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2095,7 +2095,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 131,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
