@@ -4,7 +4,7 @@ excerpt: "Introduction to data analytics on Azure"
 type: collection
 price: Free
 length: PT1H15M
-heat: 53
+heat: 51
 
 provider:
   name: Microsoft Learn
