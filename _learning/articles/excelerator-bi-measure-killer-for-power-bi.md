@@ -4,7 +4,7 @@ excerpt: ""
 webUrl: https://exceleratorbi.com.au/measure-killer-for-power-bi/
 type: article
 publishedDateTime: 2022-10-05T21:42:12Z
-heat: 132
+heat: 133
 
 provider:
   name: Excelerator BI
