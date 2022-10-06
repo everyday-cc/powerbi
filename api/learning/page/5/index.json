@@ -955,8 +955,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 7826,
-        "average": 4.7196527
+        "count": 7827,
+        "average": 4.719433
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1859,8 +1859,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 426,
-            "average": 4.7934275
+            "count": 427,
+            "average": 4.793911
           },
           "provider": {
             "name": "Microsoft Learn",
