@@ -955,8 +955,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 7822,
-        "average": 4.7197647
+        "count": 7823,
+        "average": 4.7198005
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1634,7 +1634,7 @@
             ]
           },
           "publishedDateTime": "2016-02-24T15:04:39-08:00",
-          "heat": 54,
+          "heat": 53,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/sbPS3ZKIt7g/maxresdefault.jpg",
