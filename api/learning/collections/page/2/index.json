@@ -2896,8 +2896,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8168,
-            "average": 4.750245
+            "count": 8169,
+            "average": 4.7502756
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3886,8 +3886,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4785,
-            "average": 4.7272725
+            "count": 4786,
+            "average": 4.7273297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4365,8 +4365,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1147,
-            "average": 4.723627
+            "count": 1148,
+            "average": 4.7238674
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4448,8 +4448,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 102,
-            "average": 4.72549
+            "count": 103,
+            "average": 4.728155
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4532,8 +4532,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4965,
-            "average": 4.733535
+            "count": 4967,
+            "average": 4.733239
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5259,7 +5259,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
