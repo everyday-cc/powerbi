@@ -4,9 +4,9 @@ excerpt: "Are you wanting to try Power BI, but not sure where to start? I look a
 originalUrl: https://youtube.com/watch?v=QiwxT9ndefY
 type: video
 price: Free
-length: PT4M7S
+length: PT4M6S
 publishedDateTime: 2018-03-20T15:10:00Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QiwxT9ndefY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "3 ways to try Power BI"
 
-secured: "uucIgD5sLZkMQ0BKtzBZEQKsqL42E1aMotqbrRbNVxbeS89776BCDVrzA3r4BDkg8y73j8B6Wk+LxUXUiFDBBvGQHNViIKnFWIAPS/fvkddgXHnCnd2NZqeXca1AyX+CU75L7ul+fw47RCi03zKblet0XxlRLbeaWkm8cAriJoZHNGg6oDh8o2hguYW/lUJFc75kFeJm3dn7eit9ZX8HoBxpphawt8UsQU/04c4llR7um8d4HAWeNSkYJ82wlLAt1X+NlxKXP5vgwa4U16+SbJ9kJefpuiiUjrQKRRqCnpucT11hO9ivdcqRSI1EbE5Lb8KsSuWeBZ89AwZKGJ90jhRWG4eTAnhUzjdgZ4Su+a0O0dT4e6rkw2h5D3rxCrWOeesbvMG+anmx9zZfbJKB7swm9LzVJSJh65xIy52hnYk=;H9nL45wVWzOWR8VsA21m/g=="
+secured: "99qZ9IU3yVnkEyBpjIZzgx+IRc4hWD2otIv/YNw6iMFsvKLRfpXRyDKBFpj0xF0FqiLGZpZbji/oui0/vNPZxUA/7vwgM1TjeSE+z7xt1JpLtb33pKq4CKYrW2tI6+r5aklY0DJQbxjoOMLoeXALn0B2zEv81t3T6WShfWLbBFK9nKK9PZU4Z4XmrXH0+TOV6GsuqXEiwNu4sSHKABvQAf1hNX1o4Or54kdb3yKyELQ867wFLyR9L/zsPcmUf4Pz0B+JRJJc5snuXBQJeqIT2/zajsUNU6Npb2IQAkxIGuUD7nlaa02mLt5Yl/KuajtfjXDnwASDQjRZyP2Wyat/XWUVQqXx/KlyFXUcgG1xhFlueC2P8LnNXJ8mlyT5l5sO1cEWXP6T06NPqfPamoDGvJiCAM6Ix+CIpacZhg5TAx4=;ZlR8ivIMTtRZXWkAbrZqhw=="
 ---
 
