@@ -2373,7 +2373,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-content-social.png",
@@ -2941,8 +2941,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 7983,
-            "average": 4.7653766
+            "count": 7984,
+            "average": 4.7654057
           },
           "provider": {
             "name": "Microsoft Learn",

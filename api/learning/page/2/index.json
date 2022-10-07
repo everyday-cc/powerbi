@@ -80,8 +80,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 30444,
-        "average": 4.7247734
+        "count": 30446,
+        "average": 4.7247915
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -769,8 +769,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 13528,
-            "average": 4.756653
+            "count": 13529,
+            "average": 4.756671
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -811,8 +811,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 16019,
-            "average": 4.7720833
+            "count": 16020,
+            "average": 4.7718477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -871,8 +871,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 16019,
-        "average": 4.7720833
+        "count": 16020,
+        "average": 4.7718477
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1067,8 +1067,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 13528,
-        "average": 4.756653
+        "count": 13529,
+        "average": 4.756671
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1264,8 +1264,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 4256,
-        "average": 4.72016
+        "count": 4257,
+        "average": 4.7202253
       },
       "provider": {
         "name": "Microsoft Learn",
