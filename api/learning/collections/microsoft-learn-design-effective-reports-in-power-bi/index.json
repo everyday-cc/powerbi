@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 1505,
-        "average": 4.739535
+        "count": 1506,
+        "average": 4.7390437
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 59,
+      "heat": 58,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
       "length": "PT21M",
       "ratings": {
-        "count": 1047,
-        "average": 4.7745943
+        "count": 1049,
+        "average": 4.7740707
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 56,
+      "heat": 55,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-structure-social.png",
@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
       "length": "PT41M",
       "ratings": {
-        "count": 856,
-        "average": 4.765187
+        "count": 857,
+        "average": 4.765461
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -113,7 +113,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 53,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-reports-social.png",
@@ -239,7 +239,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-ui-social.png",
