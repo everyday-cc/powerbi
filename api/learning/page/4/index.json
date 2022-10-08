@@ -1271,8 +1271,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 4506,
-            "average": 4.695073
+            "count": 4507,
+            "average": 4.695141
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1313,8 +1313,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4973,
-            "average": 4.733561
+            "count": 4975,
+            "average": 4.7336683
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1566,8 +1566,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 7843,
-        "average": 4.7193675
+        "count": 7845,
+        "average": 4.7193117
       },
       "provider": {
         "name": "Microsoft Learn",
