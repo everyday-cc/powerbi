@@ -129,8 +129,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 2964,
-        "average": 4.753711
+        "count": 2966,
+        "average": 4.75354
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -891,8 +891,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1215,
-        "average": 4.72428
+        "count": 1216,
+        "average": 4.7236843
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -978,8 +978,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 1048,
-        "average": 4.7166033
+        "count": 1049,
+        "average": 4.71592
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1022,8 +1022,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 919,
-        "average": 4.6605005
+        "count": 920,
+        "average": 4.6597824
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1066,8 +1066,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1258,
-        "average": 4.738474
+        "count": 1259,
+        "average": 4.7378874
       },
       "provider": {
         "name": "Microsoft Learn",
