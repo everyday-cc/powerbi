@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2022-09-28T07:27:05-07:00",
-      "heat": 81,
+      "heat": 83,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -173,8 +173,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 24544,
-        "average": 4.7634454
+        "count": 24546,
+        "average": 4.7634645
       },
       "provider": {
         "name": "Microsoft Learn",
