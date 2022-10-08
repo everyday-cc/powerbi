@@ -54,8 +54,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 4507,
-        "average": 4.695141
+        "count": 4508,
+        "average": 4.6952085
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -223,8 +223,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 216,
-        "average": 4.759259
+        "count": 217,
+        "average": 4.760369
       },
       "provider": {
         "name": "Microsoft Learn",
