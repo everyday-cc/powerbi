@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M12S
 publishedDateTime: 2021-10-09T14:51:45Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/05yhwnuCjRw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "46q7SjDSjTTmvZGFbnHgZVOu6GslC/x6ys0X8fbmI2CJP9WaXbc2xJemP7/di2dN8JPxWHfiRwB8/XWP8nMGGNiCulORFxO32QoRI4ks/+yjpyFQvOAwZ+1gjvzRS3mP+dS/jt5msi9ZSAo2x+Ho5Bz/rkCr1MktzkkI/XjFv0Lb0UP+LJgIGX9pIa1s1BczQ47aOVYbK1IkU2D+QHzYGHJU4c7R6igzU9JbkmPbtw2f7cAc8Puf2f0m9y5dSPsjdG44NVFgH+IzaCOwfZRE7o2MsNrEBUWO/KmN6cGvfGeOm+OR4Wk/QcVkaHL+Vum/yzMgLqF94TgjG/t+cW3RqR7m2jL4F2VFJrgudXlrt2UB5bdVxdqlswlzqJaVAF/KRYn1BnXowthcl4w+5bzZd93jVQNUIo/UCUxVc516TQE=;JREOcpHSa24+dhqVgqToww=="
+secured: "w+4OnmWmFHh5yin746cly6LKddseK9xu4r7xNp6wjpgr8o2KealSevi/IYdyNrAwGqdVVRxRiNRzByauMjiIG2m3vPNLlFx4kjQlZeynKi7zaHwpWkKO9sTW/1TJf+D9qKNmCGAPhxPDao2dvMNPXIzpooUkfZXugEn9xTOdnYTuhSqx/S+BzbznOiOKxx3HW0D3h2wjhfclnnJLOE9DzDFZc39jLjqLhccOwcLEKqRM/VaJaDhKB8Nyr1IwRQTsEEJ0YBSgH26L0ca5PzK+wkHJOGa8weAfvYEdcdlg4bSFQmas5ut3dF5fwbNweA5D10Qjp9XY+Jv3V6eX1kJOqXto2C8Gy/hvgm/On9uw2JKW4WIl2yrdgBpgoQikrgFtYqQIiQ6wW/LCkaWTNdTXMy8HFY1U5+Fp58yem1NpQfo=;AQcNC16dazfhh8EIw3TyTA=="
 ---
 
