@@ -4,7 +4,7 @@ excerpt: "Back in 2019 I ran a free webinar introducing Power BI and DAX. Many r
 webUrl: https://exceleratorbi.com.au/introduction-to-power-bi-and-dax/
 type: article
 publishedDateTime: 2022-08-22T20:55:15Z
-heat: 50
+heat: 130
 
 provider:
   name: Excelerator BI
