@@ -204,8 +204,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 16054,
-        "average": 4.7711473
+        "count": 16056,
+        "average": 4.7711134
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1480,8 +1480,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1435,
-            "average": 4.7310104
+            "count": 1436,
+            "average": 4.731198
           },
           "provider": {
             "name": "Microsoft Learn",

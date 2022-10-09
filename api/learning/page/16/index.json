@@ -4,6 +4,68 @@
   "page": 16,
   "value": [
     {
+      "path": "_learning/videos/radacad-power-bi-dax-previous-month-to-date-quarter-to-date-and-year-to-date-calculations.md",
+      "title": "Power BI DAX   Previous Month to Date, Quarter to Date, and Year to Date Calculations",
+      "excerpt": "If you want to compare the sales up to a particular day and compare it with the previous period (month, quarter, or year) but up to that particular day in that period, then it is called previous month-to-date, previous quarter-to-date, and previous year-to-date. These calculations can be more helpful",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-dax-previous-month-to-date-quarter-to-date-and-year-to-date-calculations/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-dax-previous-month-to-date-quarter-to-date-and-year-to-date-calculations/",
+      "originalUrl": "https://youtube.com/watch?v=pNs-JCPj57c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pNs-JCPj57c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M39S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-05-18T20:32:12-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-remove-digits-or-keep-them-in-power-bi-using-power-query.md",
+      "title": "Remove Digits or Keep them in Power BI Using Power Query",
+      "excerpt": "There are a couple of useful actions that help a lot in cleaning data; removing digits, or keeping digits and removing everything else. In this short video, I’ll explain a simple method to do that using Power Query. Codes are in my blog article here: https://radacad.com/remove-digits-or-keep-them-in-power-bi-using-power-query",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-remove-digits-or-keep-them-in-power-bi-using-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-remove-digits-or-keep-them-in-power-bi-using-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=pZVS3O-4Jb4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pZVS3O-4Jb4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M59S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-05-13T00:25:47-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pZVS3O-4Jb4/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-row-filtering-in-power-bi-and-power-query-remove-blank-rows-vs-remove-empty.md",
       "title": "Row Filtering in Power BI and Power Query   Remove Blank Rows Vs Remove Empty",
       "excerpt": "When you have blank values in your data table, you can use Power Query transformations to remove the row with blank values. There are two transformations that are used very often for this purpose: Remove Empty and Remove blank rows. These two transformations are not exactly the same. In this article,",
@@ -84,36 +146,6 @@
           "url": "https://i.ytimg.com/vi/tZoBHwS_5rc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-what-is-power-bi-dataflow-and-why-you-should-use-it.md",
-      "title": "What is Power BI Dataflow and Why you should use it",
-      "excerpt": "Dataflows are an important component in the Power BI architecture. Using them can enhance the development and maintenance of your Power BI solution significantly. However, there are many Power BI implementations that are not using this functionality, even though it is already more than three years passed",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-is-power-bi-dataflow-and-why-you-should-use-it/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-is-power-bi-dataflow-and-why-you-should-use-it/",
-      "originalUrl": "https://youtube.com/watch?v=oW1jyK2sgHg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oW1jyK2sgHg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M36S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2022-07-25T18:05:44-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
           "isCached": true
         }
       ],
@@ -1058,8 +1090,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4975,
-            "average": 4.7336683
+            "count": 4976,
+            "average": 4.7337217
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1141,8 +1173,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3667,
-            "average": 4.767385
+            "count": 3668,
+            "average": 4.7671757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1225,8 +1257,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4721,
-            "average": 4.803643
+            "count": 4723,
+            "average": 4.8035145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1603,48 +1635,6 @@
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/monitor-data-real-time-power-bi-social.png",
-          "width": 1281,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-effective-reports.md",
-      "title": "Design Power BI reports",
-      "excerpt": "Because Power BI includes more than 30 core visuals, it can be challenging for a beginner to select the correct visual. This module will guide you through selecting the most appropriate visual type to meet your design and report layout requirements.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-reports/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
-      "length": "PT41M",
-      "ratings": {
-        "count": 861,
-        "average": 4.7665505
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-reports-social.png",
           "width": 1281,
           "height": 641,
           "isCached": true
