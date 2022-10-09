@@ -3602,8 +3602,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8182,
-            "average": 4.749939
+            "count": 8183,
+            "average": 4.7499695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3644,8 +3644,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6772,
-            "average": 4.7121973
+            "count": 6774,
+            "average": 4.712282
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4374,8 +4374,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3666,
-            "average": 4.767321
+            "count": 3667,
+            "average": 4.767385
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4958,8 +4958,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 82,
-            "average": 4.743902
+            "count": 83,
+            "average": 4.7349396
           },
           "provider": {
             "name": "Microsoft Learn",
