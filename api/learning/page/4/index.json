@@ -204,8 +204,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 13806,
-        "average": 4.7239604
+        "count": 13809,
+        "average": 4.7240205
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2810,7 +2810,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png",
