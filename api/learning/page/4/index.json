@@ -1364,8 +1364,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
           "length": "PT1H21M",
           "ratings": {
-            "count": 42,
-            "average": 4.785714
+            "count": 43,
+            "average": 4.744186
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2176,7 +2176,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-calculations-social.png",
@@ -3175,8 +3175,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 7863,
-        "average": 4.7186823
+        "count": 7864,
+        "average": 4.718718
       },
       "provider": {
         "name": "Microsoft Learn",
