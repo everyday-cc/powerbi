@@ -243,8 +243,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 124,
-            "average": 4.782258
+            "count": 125,
+            "average": 4.784
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1360,8 +1360,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 7868,
-        "average": 4.718353
+        "count": 7871,
+        "average": 4.718206
       },
       "provider": {
         "name": "Microsoft Learn",

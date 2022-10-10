@@ -204,8 +204,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 13805,
-        "average": 4.724013
+        "count": 13806,
+        "average": 4.7239604
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2792,8 +2792,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 124,
-            "average": 4.782258
+            "count": 125,
+            "average": 4.784
           },
           "provider": {
             "name": "Microsoft Learn",
