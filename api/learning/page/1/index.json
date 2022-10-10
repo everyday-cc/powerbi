@@ -243,15 +243,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-modern-analytics-excel.md",
-      "title": "Transcend data analysis together with Power BI and Excel",
-      "excerpt": "This module introduces potential ways that people can use Excel and Power BI together. Power BI is a great tool for telling a story through visuals; occasionally, it's beneficial to use Excel for analysis. Excel can make a connection to a Power BI dataset, enabling you to analyze the data by using PivotTables.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-excel/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-excel/",
-      "length": "PT2H7M",
+      "path": "_learning/courses/microsoft-learn-create-dashboards-power-bi.md",
+      "title": "Create dashboards in Power BI",
+      "excerpt": "Microsoft Power BI dashboards are different than Power BI reports. Dashboards allow report consumers to create a single artifact of directed data that is personalized just for them.  Dashboards can be comprised of pinned visuals that are taken from different reports. Where a Power BI report uses data from a single dataset, a Power BI dashboard can contain visuals from different datasets.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-dashboards-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
+      "length": "PT1H8M",
       "ratings": {
-        "count": 135,
-        "average": 4.7703705
+        "count": 4510,
+        "average": 4.6949
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -268,12 +268,12 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 130,
+      "heat": 134,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-excel-social.png",
-          "width": 1282,
-          "height": 642,
+          "url": "https://learn.microsoft.com/training/achievements/create-dashboards-power-bi-social.png",
+          "width": 643,
+          "height": 321,
           "isCached": true
         }
       ],
@@ -285,28 +285,28 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-intro-to-aggregates-in-t-sql.md",
-      "title": "Intro to aggregates in T-SQL",
-      "excerpt": "Getting started with T-SQL? Patrick looks at using aggregate functions within your statements to help get the right results. If you are just starting with T-SQL in either Azure SQL Database or Azure Synapse Analytics, this is for you!  Transact-SQL Reference (Database Engine) https://docs.microsoft.com/sql/t-sql/language-reference?view=sql-server-ver16",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-intro-to-aggregates-in-t-sql/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-intro-to-aggregates-in-t-sql/",
-      "originalUrl": "https://youtube.com/watch?v=L7dMVFDgs7Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L7dMVFDgs7Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M48S",
+      "path": "_learning/videos/curbal-what-is-the-salary-of-a-power-bi-dev-data-analyst-data-engineer-salary-calculator-with-power-bi.md",
+      "title": "What is the salary of a Power BI dev/ Data Analyst/ Data Engineer? | Salary calculator with Power BI",
+      "excerpt": "Would you like to know if you are getting enough pay as a Power BI developer or data analysis or data engineer? Or are you thinking about changing jobs and would like to know which roles pay best?   To answer these questions I have partnered with Bright Data to get the raw data from the job listing sites:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-what-is-the-salary-of-a-power-bi-dev-data-analyst-data-engineer-salary-calculator-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-what-is-the-salary-of-a-power-bi-dev-data-analyst-data-engineer-salary-calculator-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=picgIBU8U4U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/picgIBU8U4U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M55S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-07-19T08:00:12-07:00",
-      "heat": 130,
+      "publishedDateTime": "2022-08-25T05:24:15-07:00",
+      "heat": 132,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -323,20 +323,20 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-and-excel-integration.md",
-      "title": "Power BI and Excel Integration",
-      "excerpt": "Power BI and Excel are longtime friends of each other, not only because Power BI components come from add-ins introduced in Excel but also because of how these two tools interact with each other from the Power BI Service. This post is not about using Power Query or Power Pivot components in Excel. This",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-and-excel-integration/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-and-excel-integration/",
-      "originalUrl": "https://youtube.com/watch?v=bfGIcVtquHU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bfGIcVtquHU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M25S",
+      "path": "_learning/videos/radacad-power-bi-shared-datasets-what-is-it-how-does-it-work-and-why-should-you-care.md",
+      "title": "Power BI Shared Datasets: What is it, How does it work, and Why should you care?",
+      "excerpt": "Have you ever had a situation where you want to re-use part of the model in another report? Imagine two report visualizers in your team who want to create Power BI report visualizations from your data model. You have already done some modeling and calculations. How can this be done the best way without",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-shared-datasets-what-is-it-how-does-it-work-and-why-should-you-care/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-shared-datasets-what-is-it-how-does-it-work-and-why-should-you-care/",
+      "originalUrl": "https://youtube.com/watch?v=ENZm_7jWU4Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ENZm_7jWU4Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M12S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2022-08-23T22:17:02-07:00",
-      "heat": 130,
+      "publishedDateTime": "2022-07-27T22:49:32-07:00",
+      "heat": 132,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
@@ -765,8 +765,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 47354,
-            "average": 4.798222
+            "count": 47356,
+            "average": 4.7982306
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -807,8 +807,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 68575,
-            "average": 4.7780094
+            "count": 68578,
+            "average": 4.77799
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -867,8 +867,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 68575,
-        "average": 4.7780094
+        "count": 68578,
+        "average": 4.77799
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -909,8 +909,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 47354,
-        "average": 4.798222
+        "count": 47356,
+        "average": 4.7982306
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1174,8 +1174,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 38223,
-        "average": 4.735761
+        "count": 38225,
+        "average": 4.735775
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1333,8 +1333,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 68575,
-            "average": 4.7780094
+            "count": 68578,
+            "average": 4.77799
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1375,8 +1375,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 30494,
-            "average": 4.724995
+            "count": 30495,
+            "average": 4.725004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1460,8 +1460,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 10148,
-            "average": 4.767935
+            "count": 10149,
+            "average": 4.767957
           },
           "provider": {
             "name": "Microsoft Learn",

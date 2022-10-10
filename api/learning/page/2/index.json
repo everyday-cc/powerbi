@@ -273,90 +273,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-explore-fundamentals-of-data-visualization.md",
-      "title": "Explore fundamentals of data visualization",
-      "excerpt": "Learn the fundamental principles of analytical data modeling and data visualization, using Microsoft Power BI as a platform to explore these principles in action.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-fundamentals-of-data-visualization/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
-      "length": "PT38M",
-      "ratings": {
-        "count": 4317,
-        "average": 4.722029
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/5-explore-fundamentals-of-data-visualization-social.png",
-          "width": 1281,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-introduction-power-bi.md",
-      "title": "Introduction to Power BI",
-      "excerpt": "Introduction to Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-introduction-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
-      "length": "PT46M",
-      "ratings": {
-        "count": 24584,
-        "average": 4.7634234
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/introduction-power-bi-social.png",
-          "width": 643,
-          "height": 322,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-visualize-data-in-power-bi.md",
       "title": "Visualize data in Power BI",
       "excerpt": "Power BI has extraordinary visuals that can be used on Power BI reports and dashboards. In this module, you will learn when to use which visual to solve which problem. You will also learn report design and report formatting. Additionally, you will learn how to use report navigation to tell a compelling, data-driven story in Power BI. Dashboards will help your users target report visuals to meet their specific needs. Paginated reports help you create pixel-perfect report artifacts like sales invoices, purchase orders, medical records, transaction statements, and much more.",
@@ -489,7 +405,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 134,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-dashboards-power-bi-social.png",
@@ -549,7 +465,7 @@
         }
       ],
       "size": 4,
-      "heat": 67,
+      "heat": 68,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png",
@@ -566,6 +482,90 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-explore-fundamentals-of-data-visualization.md",
+      "title": "Explore fundamentals of data visualization",
+      "excerpt": "Learn the fundamental principles of analytical data modeling and data visualization, using Microsoft Power BI as a platform to explore these principles in action.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-fundamentals-of-data-visualization/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
+      "length": "PT38M",
+      "ratings": {
+        "count": 4320,
+        "average": 4.7222223
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/5-explore-fundamentals-of-data-visualization-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-power-bi.md",
+      "title": "Introduction to Power BI",
+      "excerpt": "Introduction to Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-introduction-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 24585,
+        "average": 4.7633924
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/introduction-power-bi-social.png",
+          "width": 643,
+          "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
       "title": "Get data with Power BI Desktop",
       "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
@@ -573,8 +573,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 30494,
-        "average": 4.724995
+        "count": 30495,
+        "average": 4.725004
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -758,8 +758,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 16066,
-            "average": 4.770758
+            "count": 16067,
+            "average": 4.7707725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1281,8 +1281,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 16066,
-        "average": 4.770758
+        "count": 16067,
+        "average": 4.7707725
       },
       "provider": {
         "name": "Microsoft Learn",
