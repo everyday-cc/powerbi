@@ -4068,8 +4068,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3168,
-            "average": 4.702967
+            "count": 3169,
+            "average": 4.703061
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4346,8 +4346,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13293,
-            "average": 4.6792297
+            "count": 13294,
+            "average": 4.6792536
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4380,8 +4380,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10181,
-            "average": 4.7051373
+            "count": 10182,
+            "average": 4.705166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4547,8 +4547,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 127,
-            "average": 4.6535435
+            "count": 128,
+            "average": 4.65625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4589,8 +4589,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4988,
-            "average": 4.7331595
+            "count": 4989,
+            "average": 4.733213
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5131,8 +5131,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 162,
-            "average": 4.740741
+            "count": 163,
+            "average": 4.7423315
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5232,7 +5232,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
