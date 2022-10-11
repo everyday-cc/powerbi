@@ -1290,8 +1290,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 605,
-            "average": 4.780165
+            "count": 606,
+            "average": 4.780528
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1452,8 +1452,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1438,
-            "average": 4.7308764
+            "count": 1439,
+            "average": 4.7282834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1495,8 +1495,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1222,
-            "average": 4.7242227
+            "count": 1223,
+            "average": 4.7236304
           },
           "provider": {
             "name": "Microsoft Learn",
