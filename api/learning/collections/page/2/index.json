@@ -1950,8 +1950,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1264,
-            "average": 4.738133
+            "count": 1265,
+            "average": 4.73834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3988,8 +3988,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4806,
-            "average": 4.727216
+            "count": 4807,
+            "average": 4.7272725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4113,8 +4113,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3171,
-            "average": 4.7026176
+            "count": 3172,
+            "average": 4.702711
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4467,8 +4467,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1157,
-            "average": 4.7234225
+            "count": 1158,
+            "average": 4.7236614
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5009,8 +5009,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 45,
-            "average": 4.711111
+            "count": 46,
+            "average": 4.7173915
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5152,7 +5152,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/understand-concepts-of-data-analytics-social.png",
