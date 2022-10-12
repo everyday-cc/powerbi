@@ -1043,8 +1043,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/",
       "length": "PT35M",
       "ratings": {
-        "count": 80,
-        "average": 4.675
+        "count": 82,
+        "average": 4.6707315
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1129,8 +1129,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
       "length": "PT41M",
       "ratings": {
-        "count": 868,
-        "average": 4.768433
+        "count": 870,
+        "average": 4.7689657
       },
       "provider": {
         "name": "Microsoft Learn",
