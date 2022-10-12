@@ -3988,8 +3988,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4807,
-            "average": 4.7272725
+            "count": 4808,
+            "average": 4.7273293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4155,8 +4155,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4737,
-            "average": 4.8036733
+            "count": 4738,
+            "average": 4.8037148
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5134,8 +5134,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 205,
-            "average": 4.785366
+            "count": 206,
+            "average": 4.786408
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5194,7 +5194,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/explore-data-analytics-at-scale-social.png",
