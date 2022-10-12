@@ -3166,8 +3166,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 176,
-            "average": 4.6647725
+            "count": 177,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4113,8 +4113,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3172,
-            "average": 4.702711
+            "count": 3173,
+            "average": 4.702805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5176,8 +5176,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 163,
-            "average": 4.7423315
+            "count": 164,
+            "average": 4.743902
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5194,7 +5194,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/explore-data-analytics-at-scale-social.png",
