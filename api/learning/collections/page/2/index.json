@@ -664,7 +664,7 @@
           ]
         }
       ],
-      "size": 6,
+      "size": 7,
       "heat": 60,
       "images": [
         {
@@ -3945,8 +3945,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4813,
-            "average": 4.7276125
+            "count": 4814,
+            "average": 4.7276692
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4070,8 +4070,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3176,
-            "average": 4.7030854
+            "count": 3177,
+            "average": 4.703179
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4591,8 +4591,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 4992,
-            "average": 4.733173
+            "count": 4993,
+            "average": 4.7328258
           },
           "provider": {
             "name": "Microsoft Learn",
