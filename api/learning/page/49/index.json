@@ -270,8 +270,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 232,
-            "average": 4.827586
+            "count": 233,
+            "average": 4.828326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -395,8 +395,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/workplace-analytics-ways-working-action/",
           "length": "PT40M",
           "ratings": {
-            "count": 232,
-            "average": 4.827586
+            "count": 233,
+            "average": 4.828326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1031,8 +1031,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 434,
-        "average": 4.794931
+        "count": 436,
+        "average": 4.7958717
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1571,8 +1571,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 315,
-        "average": 4.7777777
+        "count": 316,
+        "average": 4.778481
       },
       "provider": {
         "name": "Microsoft Learn",
