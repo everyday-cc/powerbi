@@ -1998,7 +1998,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -2207,7 +2207,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -3171,7 +3171,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -4072,8 +4072,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4744,
-            "average": 4.803752
+            "count": 4745,
+            "average": 4.8037934
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5236,7 +5236,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 132,
+          "heat": 52,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-deployment-pipelines-social.png",
