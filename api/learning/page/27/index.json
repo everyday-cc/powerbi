@@ -652,8 +652,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 130,
-            "average": 4.6615386
+            "count": 131,
+            "average": 4.664122
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -777,8 +777,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 225,
-            "average": 4.7644444
+            "count": 227,
+            "average": 4.76652
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -819,8 +819,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 209,
-            "average": 4.7894735
+            "count": 210,
+            "average": 4.7904763
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -861,8 +861,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 166,
-            "average": 4.746988
+            "count": 167,
+            "average": 4.748503
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1096,8 +1096,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 225,
-        "average": 4.7644444
+        "count": 227,
+        "average": 4.76652
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1138,8 +1138,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
       "length": "PT29M",
       "ratings": {
-        "count": 166,
-        "average": 4.746988
+        "count": 167,
+        "average": 4.748503
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1222,8 +1222,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
       "length": "PT1H28M",
       "ratings": {
-        "count": 130,
-        "average": 4.6615386
+        "count": 131,
+        "average": 4.664122
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1348,8 +1348,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
       "length": "PT28M",
       "ratings": {
-        "count": 209,
-        "average": 4.7894735
+        "count": 210,
+        "average": 4.7904763
       },
       "provider": {
         "name": "Microsoft Learn",
