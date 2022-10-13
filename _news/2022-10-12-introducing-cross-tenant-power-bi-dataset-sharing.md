@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/introducing-cross-tenant-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/introducing-cross-tenant-power-bi-dataset-sharing/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:

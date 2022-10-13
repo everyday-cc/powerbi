@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/data-in-space-in-preview-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/data-in-space-in-preview-now-power-bi-can-be-truly-everywhere/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:
