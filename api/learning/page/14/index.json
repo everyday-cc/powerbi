@@ -258,8 +258,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 325,
-        "average": 4.7815385
+        "count": 327,
+        "average": 4.7828746
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -300,8 +300,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 3187,
-        "average": 4.703797
+        "count": 3189,
+        "average": 4.7033553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -342,8 +342,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 5566,
-        "average": 4.669062
+        "count": 5568,
+        "average": 4.669181
       },
       "provider": {
         "name": "Microsoft Learn",
