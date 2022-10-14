@@ -4,6 +4,36 @@
   "page": 94,
   "value": [
     {
+      "path": "_learning/videos/radacad-search-in-power-bi-table-visual-using-a-slicer-for-contains-character-criteria.md",
+      "title": "Search in Power BI Table Visual Using a Slicer For Contains Character Criteria",
+      "excerpt": "If you have a lot of text in a table visual in Power BI and want to search to find all texts with a specific character in it, I have a solution for you. You can have an alphabet slicer and use it to filter the table visual, the trick is to combine it with a measure and use it as a parameter table. let's",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-search-in-power-bi-table-visual-using-a-slicer-for-contains-character-criteria/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-search-in-power-bi-table-visual-using-a-slicer-for-contains-character-criteria/",
+      "originalUrl": "https://youtube.com/watch?v=LYXOR4RXggs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LYXOR4RXggs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M34S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-03-31T16:11:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LYXOR4RXggs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-searching-for-a-column-in-the-entire-data-source-using-table-columnnames-power-query-function-of-pow.md",
       "title": "Searching for a Column in the Entire Data Source Using Table ColumnNames Power Query function of Pow",
       "excerpt": "Link to the blog post with full details of step by step example: http://radacad.com/search-for-a-column-in-the-entire-database-with-table-columnnames-in-power-query-and-power-bi",
@@ -277,36 +307,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-streamline-power-bi-refresh-refresh-dataset-after-a-successful-refresh-of-dataflow.md",
-      "title": "Streamline Power BI Refresh   Refresh dataset after a successful refresh of dataflow",
-      "excerpt": "Do you have a Power BI dataset that gets data from a dataflow? have you ever thought; “can I get the dataset refreshed only after the refresh of dataflow completed and was successful?” The answer to this question is yes, you can. One of the recent updates from the data integration team of Power BI made",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-streamline-power-bi-refresh-refresh-dataset-after-a-successful-refresh-of-dataflow/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-streamline-power-bi-refresh-refresh-dataset-after-a-successful-refresh-of-dataflow/",
-      "originalUrl": "https://youtube.com/watch?v=WkJn1aatBp4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WkJn1aatBp4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M39S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-01-06T19:02:58-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WkJn1aatBp4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-subscription-pattern-in-power-bi-dax-measure-for-active-subscribers-or-open-tickets-for-all-dates.md",
       "title": "Subscription Pattern in Power BI   DAX Measure for Active Subscribers or Open Tickets For All Dates",
       "excerpt": "One of the common patterns of a data model is the subscription pattern. In this pattern, we have subscriptions (or tickets, or issues, or whatever else you want to call it) open date and close date. The way that this data is stored in a table makes it a bit challenging to get informative insight out",
@@ -324,37 +324,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Xf9BDd3llpI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-substring-in-dax-how-to-get-part-of-string-field-in-power-bi-using-dax-expression.md",
-      "title": "Substring in DAX   How to get Part of String Field in Power BI Using DAX Expression",
-      "excerpt": "Substring is one of the most common functions in many languages, However, there is no such function in DAX. There is a very simple way of doing it, which I am going to explain in this post. Substring means getting part of a string, for example from \"Reza Rad\", if I want to get the start starting from",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-substring-in-dax-how-to-get-part-of-string-field-in-power-bi-using-dax-expression/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-substring-in-dax-how-to-get-part-of-string-field-in-power-bi-using-dax-expression/",
-      "originalUrl": "https://youtube.com/watch?v=WEelCk04dYw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WEelCk04dYw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M54S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-04-05T14:52:25-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WEelCk04dYw/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -568,6 +537,36 @@
           "url": "https://i.ytimg.com/vi/UpsrCBZeaQo/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-what-is-premium-per-user-license-for-power-bi-and-what-is-it-good-for.md",
+      "title": "What is Premium Per User License for Power BI, and What is it good for",
+      "excerpt": "One of the great news in Microsoft Ignite 2020 is the announcement of a new licensing plan for Microsoft Power BI, called Premium Per User, or Premium Gen2. In this article, I'll explain what that is, and how this can be helpful for Power BI users. Read my article here to find links to study more: https://radacad.com/what-is-premium-per-user-license-for-power-bi-and-what-is-it-good-for",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-is-premium-per-user-license-for-power-bi-and-what-is-it-good-for/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-is-premium-per-user-license-for-power-bi-and-what-is-it-good-for/",
+      "originalUrl": "https://youtube.com/watch?v=DI838QOD-VY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DI838QOD-VY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M40S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-09-22T15:57:09-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DI838QOD-VY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],

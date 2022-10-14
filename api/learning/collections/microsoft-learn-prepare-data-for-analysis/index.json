@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 13670,
-        "average": 4.757352
+        "count": 13672,
+        "average": 4.7572412
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 77,
+      "heat": 78,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 16158,
-        "average": 4.771135
+        "count": 16160,
+        "average": 4.7711635
       },
       "provider": {
         "name": "Microsoft Learn",
