@@ -2957,8 +2957,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8260,
-            "average": 4.7496367
+            "count": 8261,
+            "average": 4.749667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2999,8 +2999,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6851,
-            "average": 4.7131805
+            "count": 6853,
+            "average": 4.7132645
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3947,8 +3947,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3190,
-            "average": 4.7034483
+            "count": 3191,
+            "average": 4.7035413
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4267,8 +4267,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 211,
-            "average": 4.791469
+            "count": 212,
+            "average": 4.792453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4309,8 +4309,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 167,
-            "average": 4.748503
+            "count": 168,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4760,8 +4760,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 5007,
-            "average": 4.732974
+            "count": 5009,
+            "average": 4.7328806
           },
           "provider": {
             "name": "Microsoft Learn",
