@@ -2957,8 +2957,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8259,
-            "average": 4.7497277
+            "count": 8260,
+            "average": 4.7496367
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4007,7 +4007,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 140,
+          "heat": 60,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png",
@@ -4718,8 +4718,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 133,
-            "average": 4.669173
+            "count": 134,
+            "average": 4.671642
           },
           "provider": {
             "name": "Microsoft Learn",
