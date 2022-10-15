@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M
 publishedDateTime: 2020-06-22T19:30:12Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8UNNo233eFc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RLeO4LhMxj9aiXg977bQcFM3Aei91EKRaOnX+F/ce0We3jc8RKxfsTHBDheMpobr2cob+S2LmsQykYPvK9A9LaQIDnigl/aFoHGo6ACfwdO5KsHi/JR3iWcInBmVDzII7/lzeJhuFKmFbwXM/4on17Y6xV8otAPnP7V82btJTMT5D0t9rWjT3ZLRkdJIH2n7B1GZo0pgzU3SMC/Lbadu7qpewgxHF8HNZwMYwVz3nBaL0Vz8QBBdv9fHLsVxD+BcU8C2BvXyWI4iXv7LYuWmhQeptm5VXyPpMLpxcJXTgIrqCm36SSHss100WTtiEbCa4ElIBw6jxE8PgjDL48tZvfQI4YsgU7d0mFaW8fZQYsI0HfzG5dyIFSWw/TbvxEZZidWZ9ZyzQCi6eDiBhZ9iUCngIGFmolzFs/KzMHCQ/N4=;DEV/6wmKen+VOHcus3zb2Q=="
+secured: "pBfP/apk+h9cLTn8oNu9b68BAl/YOsEznn4Cy1Xi/4wQFkjJNHNxK3dPhD/AD2OgGlGi/4j9XxklTCGvacYrZUc6nCI4vrCaluEowPicSQoJDzOw09QgmTthKgJd/SwgwmOiNZUgsffI/cpCfnGVSS8QTY2Cv6gC913CKL2kjXoRdcAxcuFXpMNA4BPsLZsN0kFff1mdqGUFu0HhYV8+Vp/JD8YMtdmH6vMHXTkVVNUQpwSi0rqJgjQJJezx3BlVvc4MGbwdZhzSwm/H8ilMFxyNUKgqM3ZYVTBNLcUywBQMSGMo0evtV8dZM21ovxeqZ5CIpCuWXYfZ4ySeraoIz6t83ZVas08XqKSoHKaqCmViLhdo4PwZHWNzBvo03Vf+ObhZD3Zg7aOF+fTa7OdsR90p5CfOz/60KEUGhlbJQgs=;cQzkZEm3fXLGk5v2CaeWAg=="
 ---
 
