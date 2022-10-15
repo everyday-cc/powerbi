@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT2M58S
 publishedDateTime: 2020-06-29T13:18:34Z
-heat: 65
+heat: 60
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cOXNbaa_02U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "s+KmjHzD2zT2SFyjptET8BsBpwDwBThAOVgsNF3M5AKmNJBu7bqZNurFjpDUy63FG296nu9nRA4fs3bQW/phDTn/TAnHMEBmcqfep2ANvfzz92p0u9xKzX+/HnyPMm4UQx96ZQa1g7PtqJdJAErtYGX80fGF5mVT8bMPrVEslIY+OQQUMYmH8K+nmrDYc3/y1VDyfCaWNOwCvS0pbuhXeSnOuUppV3r3ygCtkwTPi005aCac76xGeMkk+TiSFNQdJpclcXXBe2KongW3uITYfJ2qBGov6I6v+1Z2TUV8BVgiRute6QN3a+TWSSil/cPYHzql5XkL5WzdsOupErfqEwmmGRJOzHHuH5pvRSu7f4N9e35OQv/dmR761hlecMqMNYiTM04R2Y3+TBb3oEFkNfLTSIshy1jVRQHY5TTlpwU=;GfXDfSRmJOST6p9dHriLqQ=="
+secured: "pBCTDLtluab/IOKrrtfaq+IHWs9EBDCH08nySMlVySmZKoF/TpfeaM1XqEkQWCzE1JuNqf1GCqFzQbB/0O08gOHjhiH5ol8BzyFjEWd6bwSnA2ULhgNk9eL6HKOkAfzXdoeL8h2zVrbPNz2OVrCQW/knIUg+Sdz54Iq2Lx9u1HnN187+BAQ5R4pXVnpamk0T1oOq0zRaXiy4BS2mT1CuXv0J53PGcdOSXbIHxNn6giRb7JnkwPE0ehRI8gETHZVjdGBi/ZsDMwQSdPwTk8e5fGhW+dL4cGK4Mu5EkUc4Vt7vSJ8JxoHHzvc3lxl9+3ufN5UqE8fPgpCCEtfcq673VkLH1xkIhVfEzu/FF7f7/V8COzU/7Lwb113LrFeTtwhBgfWIlBbj1dR47fR++nzcjZjqtT9XsPQ9S0B778JTdBE=;gPGKQXZ83ingh7FoldGzZQ=="
 ---
 
