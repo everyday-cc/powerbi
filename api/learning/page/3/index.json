@@ -653,8 +653,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 16190,
-        "average": 4.771217
+        "count": 16191,
+        "average": 4.7712307
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1799,8 +1799,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 401,
-            "average": 4.743142
+            "count": 402,
+            "average": 4.738806
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3127,8 +3127,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8268,
-            "average": 4.749637
+            "count": 8269,
+            "average": 4.7496676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3212,8 +3212,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 8089,
-            "average": 4.7663493
+            "count": 8091,
+            "average": 4.766407
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3465,8 +3465,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 8268,
-        "average": 4.749637
+        "count": 8269,
+        "average": 4.7496676
       },
       "provider": {
         "name": "Microsoft Learn",
