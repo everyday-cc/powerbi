@@ -27,7 +27,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://pbs.twimg.com/profile_images/415691890080894976/g0hNL2mf_400x400.jpeg
+  - url: https://pbs.twimg.com/profile_images/1581687405358333954/jauNU1-Y_400x400.jpg
     width: 400
     height: 400
     isCached: true
