@@ -3842,8 +3842,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4844,
-            "average": 4.7268786
+            "count": 4845,
+            "average": 4.726935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4092,8 +4092,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 115,
-            "average": 4.747826
+            "count": 116,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4194,7 +4194,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 136,
+          "heat": 56,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-paginated-reports-power-bi-social.png",
@@ -4946,8 +4946,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 231,
-            "average": 4.7705626
+            "count": 232,
+            "average": 4.7715516
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4988,8 +4988,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 214,
-            "average": 4.7943926
+            "count": 215,
+            "average": 4.7953486
           },
           "provider": {
             "name": "Microsoft Learn",
