@@ -1715,8 +1715,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 1082,
-            "average": 4.775416
+            "count": 1083,
+            "average": 4.7756233
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2389,8 +2389,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1451,
-            "average": 4.7305307
+            "count": 1452,
+            "average": 4.7293386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3127,8 +3127,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8267,
-            "average": 4.7497277
+            "count": 8268,
+            "average": 4.749637
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3169,8 +3169,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6860,
-            "average": 4.7131195
+            "count": 6863,
+            "average": 4.713245
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3212,8 +3212,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 8088,
-            "average": 4.7663207
+            "count": 8089,
+            "average": 4.7663493
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3465,8 +3465,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 8267,
-        "average": 4.7497277
+        "count": 8268,
+        "average": 4.749637
       },
       "provider": {
         "name": "Microsoft Learn",
