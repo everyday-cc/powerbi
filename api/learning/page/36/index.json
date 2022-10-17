@@ -752,8 +752,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 219,
-            "average": 4.7990866
+            "count": 220,
+            "average": 4.7954545
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -794,8 +794,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 172,
-            "average": 4.755814
+            "count": 173,
+            "average": 4.7514453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -895,7 +895,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
@@ -1514,8 +1514,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 6455,
-        "average": 4.7761426
+        "count": 6456,
+        "average": 4.7761774
       },
       "provider": {
         "name": "Microsoft Learn",
