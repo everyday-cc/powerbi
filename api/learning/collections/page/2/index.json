@@ -2237,8 +2237,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
           "length": "PT1H30M",
           "ratings": {
-            "count": 62,
-            "average": 4.822581
+            "count": 63,
+            "average": 4.825397
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4231,8 +4231,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4784,
-            "average": 4.8041387
+            "count": 4786,
+            "average": 4.803385
           },
           "provider": {
             "name": "Microsoft Learn",
