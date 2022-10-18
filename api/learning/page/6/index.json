@@ -225,8 +225,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1559,
-            "average": 4.7357283
+            "count": 1561,
+            "average": 4.736067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -309,8 +309,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 885,
-            "average": 4.7706213
+            "count": 886,
+            "average": 4.77088
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -351,8 +351,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 404,
-            "average": 4.740099
+            "count": 405,
+            "average": 4.740741
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -979,8 +979,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 8291,
-        "average": 4.7493668
+        "count": 8293,
+        "average": 4.7493067
       },
       "provider": {
         "name": "Microsoft Learn",

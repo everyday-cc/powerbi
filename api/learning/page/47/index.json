@@ -499,32 +499,6 @@
       ]
     },
     {
-      "path": "_learning/articles/excelerator-bi-do-i-need-a-power-bi-premium-per-user-licence.md",
-      "title": "Do I Need a Power BI Premium Per User Licence?",
-      "excerpt": "As is often the case, the inspiration for many of my blog articles comes from my experiences working with clients. Today I was on a call with a client in the USA who is still very early into his PowerBI.com journey. I noticed that he had a Power BI Premium [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-do-i-need-a-power-bi-premium-per-user-licence/index.json",
-      "webUrl": "https://exceleratorbi.com.au/do-i-need-a-power-bi-premium-per-user-licence/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-12-23T15:35:09-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/12/122321_2109_DoINeedaPow1.png",
-          "width": 457,
-          "height": 270,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/articles/excelerator-bi-do-not-build-a-column-chart-like-this-please.md",
       "title": "Do Not Build a Column Chart Like This – Please!",
       "excerpt": "I was inspired into action this week by one of the worst visuals I have seen during the COVID pandemic. Here is the visual below, take a look and see what you think. When I first saw this chart, I simply couldn&#8217;t make sense of it. The first thing I [...]Read More »",
@@ -828,6 +802,32 @@
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/02/Gartner-2022.gif",
           "width": 596,
           "height": 592,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-how-many-employees-by-period.md",
+      "title": "How Many Employees by Period",
+      "excerpt": "I have many reasons for sharing content online. The main reasons are that I like sharing what I know, but also that I want to document how to complete a task for future reference. My article today ticks both of those boxes. How Many Employees by Period I&#8217;m calling this [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-how-many-employees-by-period/index.json",
+      "webUrl": "https://exceleratorbi.com.au/how-many-employees-by-period/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2022-05-23T17:39:48-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/05/Power-Query-Academy-Logo-450x216.png",
+          "width": 450,
+          "height": 216,
           "isCached": true
         }
       ],
