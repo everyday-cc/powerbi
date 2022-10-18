@@ -4,7 +4,7 @@ excerpt: "Every now and then when I have a Power BI project of interest to me, I
 webUrl: https://exceleratorbi.com.au/extract-multiple-pages-from-web/
 type: article
 publishedDateTime: 2022-09-01T02:24:53Z
-heat: 50
+heat: 130
 
 provider:
   name: Excelerator BI

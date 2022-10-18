@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3008,
-            "average": 4.753657
+            "count": 3010,
+            "average": 4.7538204
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -164,8 +164,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1235,
-            "average": 4.7238865
+            "count": 1236,
+            "average": 4.72411
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3327,7 +3327,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png",
@@ -3894,8 +3894,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 178,
-            "average": 4.758427
+            "count": 179,
+            "average": 4.7597766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3977,8 +3977,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4479,
-            "average": 4.71958
+            "count": 4480,
+            "average": 4.7196426
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4255,8 +4255,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3714,
-            "average": 4.7681746
+            "count": 3715,
+            "average": 4.7679677
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4297,8 +4297,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3206,
-            "average": 4.701809
+            "count": 3207,
+            "average": 4.701902
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4456,8 +4456,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10196,
-            "average": 4.7052765
+            "count": 10197,
+            "average": 4.7053056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4498,8 +4498,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1171,
-            "average": 4.7233133
+            "count": 1172,
+            "average": 4.7235494
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4998,8 +4998,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 89,
-            "average": 4.752809
+            "count": 91,
+            "average": 4.7582417
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5040,8 +5040,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 47,
-            "average": 4.7234044
+            "count": 48,
+            "average": 4.7291665
           },
           "provider": {
             "name": "Microsoft Learn",
