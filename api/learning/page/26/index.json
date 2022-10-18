@@ -264,8 +264,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1170,
-            "average": 4.723077
+            "count": 1171,
+            "average": 4.7233133
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -442,8 +442,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
       "length": "PT37M",
       "ratings": {
-        "count": 623,
-        "average": 4.8041735
+        "count": 625,
+        "average": 4.8048
       },
       "provider": {
         "name": "Microsoft Learn",
