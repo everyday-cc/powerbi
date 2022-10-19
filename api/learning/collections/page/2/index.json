@@ -1820,7 +1820,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png",
@@ -2598,8 +2598,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-select/",
           "length": "PT29M",
           "ratings": {
-            "count": 41,
-            "average": 4.780488
+            "count": 42,
+            "average": 4.785714
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2640,8 +2640,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-content/",
           "length": "PT33M",
           "ratings": {
-            "count": 31,
-            "average": 4.774194
+            "count": 32,
+            "average": 4.78125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2682,8 +2682,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-content/",
           "length": "PT31M",
           "ratings": {
-            "count": 18,
-            "average": 4.6666665
+            "count": 19,
+            "average": 4.6842103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2992,7 +2992,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png",
@@ -3410,7 +3410,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
