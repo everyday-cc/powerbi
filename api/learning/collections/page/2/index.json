@@ -4,215 +4,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-embed-power-bi-analytics.md",
-      "title": "Embed Power BI analytics",
-      "excerpt": "This learning path teaches you how to embed Power BI content in apps, develop programmatic solutions using the Power BI REST API and the Power BI Client APIs, enforce row-level security (RLS) for embedded content, automate common Power BI setup tasks, configure a development environment, and determine appropriate licensing.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-embed-power-bi-analytics/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-embed-power-bi-analytics/",
-      "length": "PT3H27M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-power-bi-embedded-intro.md",
-          "title": "Introduction to Power BI embedded analytics",
-          "excerpt": "Learn how developers can programmatically embed analytics in their apps, and about no-code embedding options for simpler requirements.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-intro/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
-          "length": "PT34M",
-          "ratings": {
-            "count": 85,
-            "average": 4.8588233
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-intro-social.png",
-              "width": 1280,
-              "height": 640,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-power-bi-embedded-select.md",
-          "title": "Select a Power BI embedded analytics product",
-          "excerpt": "Learn how to select a Power BI embedded analytics product.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-select/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-select/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 43,
-            "average": 4.7906976
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-select-social.png",
-              "width": 1280,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-power-bi-embedded-permissions-content.md",
-          "title": "Set up permissions to embed Power BI content",
-          "excerpt": "Learn which settings and permissions to use for internal and external users of your app with embedded Power BI content.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-permissions-content/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-content/",
-          "length": "PT33M",
-          "ratings": {
-            "count": 33,
-            "average": 4.787879
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-permissions-content-social.png",
-              "width": 1280,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-power-bi-embedded-content.md",
-          "title": "Embed Power BI content",
-          "excerpt": "Learn about embedding Power BI content.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-content/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-content/",
-          "length": "PT31M",
-          "ratings": {
-            "count": 19,
-            "average": 4.6842103
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-content-social.png",
-              "width": 1280,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 7,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-intro-social.png",
-          "width": 1280,
-          "height": 640,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/power-bi-tips-must-have-powerbi-tools.md",
       "title": "Must Have PowerBI Tools",
       "excerpt": "ALM ToolKit, DAX Studio, Tabular Editor and Monkey Tool",
@@ -1866,210 +1657,194 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-administer-power-bi-part-1-tenants-governance-collaboration.md",
-      "title": "Administer Power BI, Part 1 - Tenants, governance, collaboration",
-      "excerpt": "As an administrator, how do you manage a Power BI tenant? How do you configure tenant settings, monitor usage, and provision licenses and other organizational resources? This learning path covers typical tasks and tools, such as the Power BI admin portal and Office 365 admin center. You will learn how to establish and provide governance for a Power BI environment and provision Power BI Premium capacity.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-administer-power-bi-part-1-tenants-governance-collaboration/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-administer-power-bi-part-1-tenants-governance-collaboration/",
-      "length": "PT1H30M",
+      "path": "_learning/collections/guy-in-a-cube-embed-power-bi.md",
+      "title": "Embed Power BI",
+      "excerpt": "The ability to embed Power BI into your site or application. This list has videos that are related to the different embedding options for Power BI. This includes Publish to web, the REST APIs and the Power BI Embedded Azure service.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/guy-in-a-cube-embed-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/guy-in-a-cube-embed-power-bi/",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-power-bi-admin-intro.md",
-          "title": "Understand the Power BI administrator role",
-          "excerpt": "Learn how to administer Power BI to support business decisions backed by data.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-intro/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
-          "length": "PT16M",
-          "ratings": {
-            "count": 200,
-            "average": 4.605
-          },
+          "path": "_learning/videos/guy-in-a-cube-what-is-power-bi-embedded.md",
+          "title": "What is Power BI Embedded?",
+          "excerpt": "In this video, Adam, from Guy in a Cube, walks through what Power BI Embedded is. He talks about how you can get started with Power BI Embedded as well as what resources are available for you.  From the Azure portal to sample applications, along with documentation for APIs and usage of features, Adam",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-is-power-bi-embedded/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-is-power-bi-embedded/",
+          "originalUrl": "https://youtube.com/watch?v=iEHfUuoZseo",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iEHfUuoZseo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M4S",
           "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
             "images": [
               {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
                 "width": 50,
                 "height": 50,
                 "isCached": false
               }
             ]
           },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
+          "publishedDateTime": "2017-10-11T07:34:50-07:00",
+          "heat": 51,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
-              "width": 641,
-              "height": 321,
+              "url": "https://i.ytimg.com/vi/iEHfUuoZseo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "What is Power BI Embedded?",
               "isCached": true
             }
           ],
           "content": "\r\n",
-          "type": "course",
+          "type": "video",
           "price": "Free",
           "topics": [
             "Power BI"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-power-bi-admin-environment.md",
-          "title": "Establish a Power BI environment",
-          "excerpt": "This module covers topics relating to establishing a Power BI environment within Office 365 containers.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-environment/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
-          "length": "PT18M",
-          "ratings": {
-            "count": 183,
-            "average": 4.6775956
-          },
+          "path": "_learning/videos/guy-in-a-cube-create-power-bi-embedded-capacity-in-microsoft-azure.md",
+          "title": "Create Power BI Embedded capacity in Microsoft Azure",
+          "excerpt": "In this video, Adam, from Guy in a Cube, walks through how to create Power BI Embedded capacity in the Microsoft Azure portal. He also takes a look at some of the actions you can do within the Azure portal such as scaling and pause/start.  Follow us on Twitter - https://twitter.com/mspowerbi  More questions?",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-create-power-bi-embedded-capacity-in-microsoft-azure/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-create-power-bi-embedded-capacity-in-microsoft-azure/",
+          "originalUrl": "https://youtube.com/watch?v=aXrvFfg_iSk",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aXrvFfg_iSk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M48S",
           "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
             "images": [
               {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
                 "width": 50,
                 "height": 50,
                 "isCached": false
               }
             ]
           },
-          "levels": [
-            "Intermediate"
-          ],
+          "publishedDateTime": "2017-10-11T07:35:05-07:00",
           "heat": 50,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-environment-social.png",
-              "width": 641,
-              "height": 321,
+              "url": "https://i.ytimg.com/vi/aXrvFfg_iSk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "Create Power BI Embedded capacity in Microsoft Azure",
               "isCached": true
             }
           ],
           "content": "\r\n",
-          "type": "course",
+          "type": "video",
           "price": "Free",
           "topics": [
             "Power BI"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-power-bi-admin-governance.md",
-          "title": "Provide governance in a Power BI environment",
-          "excerpt": "Learn the fundamental rules, regulations, and policies of a BI governance approach.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-governance/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
-          "length": "PT12M",
-          "ratings": {
-            "count": 127,
-            "average": 4.7874017
-          },
+          "path": "_learning/videos/guy-in-a-cube-3-ways-to-embed-power-bi.md",
+          "title": "3 ways to embed Power BI",
+          "excerpt": "In this video, we will look at three ways that you can embed Power BI into your website or application. This includes the Publish to Web feature, using the REST APIs and the new Power BI Embedded service within Microsoft Azure.  Watch the behind the scenes video over on Guy in a Cube - https://youtu.be/OqbVZfFhEzA",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-3-ways-to-embed-power-bi/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-3-ways-to-embed-power-bi/",
+          "originalUrl": "https://youtube.com/watch?v=egP0GHSOUIM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/egP0GHSOUIM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M17S",
           "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
             "images": [
               {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
                 "width": 50,
                 "height": 50,
                 "isCached": false
               }
             ]
           },
-          "levels": [
-            "Intermediate"
-          ],
+          "publishedDateTime": "2016-07-26T07:52:10-07:00",
           "heat": 50,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png",
-              "width": 641,
-              "height": 321,
+              "url": "https://i.ytimg.com/vi/egP0GHSOUIM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "3 ways to embed Power BI",
               "isCached": true
             }
           ],
           "content": "\r\n",
-          "type": "course",
+          "type": "video",
           "price": "Free",
           "topics": [
             "Power BI"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-power-bi-admin-collaboration.md",
-          "title": "Facilitate collaboration and sharing in Power BI",
-          "excerpt": "Learn how to collaborate and share dashboards and reports with coworkers.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-collaboration/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
-          "length": "PT33M",
-          "ratings": {
-            "count": 106,
-            "average": 4.773585
-          },
+          "path": "_learning/videos/guy-in-a-cube-a-look-at-the-new-power-bi-embed-sample.md",
+          "title": "A look at the new Power BI embed sample",
+          "excerpt": "This video takes a look at the new Power BI embed Sample that you can use to learn how to use the JavaScript API. With code examples and comments to give you a feel for what you need to do.   Report Embed Sample: https://microsoft.github.io/PowerBI-JavaScript/demo/code-demo/index.html  LET'S CONNECT!",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-a-look-at-the-new-power-bi-embed-sample/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-a-look-at-the-new-power-bi-embed-sample/",
+          "originalUrl": "https://youtube.com/watch?v=nfkVljh_9O4",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nfkVljh_9O4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT4M10S",
           "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
+            "name": "Guy in a Cube",
+            "domain": "guyinacube.com",
             "images": [
               {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
                 "width": 50,
                 "height": 50,
                 "isCached": false
               }
             ]
           },
-          "levels": [
-            "Intermediate"
-          ],
+          "publishedDateTime": "2016-12-13T12:27:54-08:00",
           "heat": 50,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-collaboration-social.png",
-              "width": 641,
-              "height": 321,
+              "url": "https://i.ytimg.com/vi/nfkVljh_9O4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "title": "A look at the new Power BI embed sample",
               "isCached": true
             }
           ],
           "content": "\r\n",
-          "type": "course",
+          "type": "video",
           "price": "Free",
           "topics": [
             "Power BI"
           ]
         }
       ],
-      "size": 5,
+      "size": 10,
       "heat": 60,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
-          "width": 641,
-          "height": 321,
+          "url": "https://i.ytimg.com/vi/iEHfUuoZseo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "What is Power BI Embedded?",
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "collection",
-      "price": "Free",
       "topics": [
         "Power BI"
       ]
@@ -2105,8 +1880,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 81,
-            "average": 4.9135804
+            "count": 82,
+            "average": 4.914634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2147,8 +1922,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 79,
-            "average": 4.78481
+            "count": 80,
+            "average": 4.7875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2189,8 +1964,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-reach/",
           "length": "PT19M",
           "ratings": {
-            "count": 81,
-            "average": 4.765432
+            "count": 82,
+            "average": 4.768293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2231,8 +2006,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 77,
-            "average": 4.6363635
+            "count": 78,
+            "average": 4.6410255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2314,8 +2089,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 81,
-            "average": 4.9135804
+            "count": 82,
+            "average": 4.914634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2356,8 +2131,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 79,
-            "average": 4.78481
+            "count": 80,
+            "average": 4.7875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2398,8 +2173,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-reach/",
           "length": "PT19M",
           "ratings": {
-            "count": 81,
-            "average": 4.765432
+            "count": 82,
+            "average": 4.768293
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2440,8 +2215,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 77,
-            "average": 4.6363635
+            "count": 78,
+            "average": 4.6410255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2565,8 +2340,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1275,
-            "average": 4.738039
+            "count": 1276,
+            "average": 4.7382445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2943,8 +2718,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 127,
-            "average": 4.7874017
+            "count": 128,
+            "average": 4.7890625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2961,7 +2736,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png",
@@ -2985,8 +2760,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 106,
-            "average": 4.773585
+            "count": 107,
+            "average": 4.775701
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3027,8 +2802,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
           "length": "PT11M",
           "ratings": {
-            "count": 116,
-            "average": 4.637931
+            "count": 117,
+            "average": 4.6410255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3069,8 +2844,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 81,
-            "average": 4.9135804
+            "count": 82,
+            "average": 4.914634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4057,8 +3832,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3719,
-            "average": 4.768217
+            "count": 3720,
+            "average": 4.7682796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4141,8 +3916,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4793,
-            "average": 4.8034635
+            "count": 4794,
+            "average": 4.8035045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4419,8 +4194,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 227,
-            "average": 4.801762
+            "count": 228,
+            "average": 4.8026314
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4673,6 +4448,131 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-govern-data-across-an-enterprise.md",
+      "title": "Govern data across an enterprise",
+      "excerpt": "Govern data across an enterprise",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-govern-data-across-an-enterprise/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-govern-data-across-an-enterprise/",
+      "length": "PT1H48M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-discover-trusted-data-use-azure-purview.md",
+          "title": "Discover trusted data using Microsoft Purview",
+          "excerpt": "purview, enterprise data analyst",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-discover-trusted-data-use-azure-purview/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 93,
+            "average": 4.763441
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/2-discover-data-artifacts-azure-by-using-azure-purview-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-power-bi-artifacts-use-microsoft-purview.md",
+          "title": "Manage Power BI assets by using Microsoft Purview",
+          "excerpt": "Improve data governance and asset discovery using Power BI and Microsoft Purview integration.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-manage-power-bi-artifacts-use-microsoft-purview/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
+          "length": "PT20M",
+          "ratings": {
+            "count": 48,
+            "average": 4.7291665
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/4-manage-power-bi-artifacts-by-using-azure-purview-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/2-discover-data-artifacts-azure-by-using-azure-purview-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-implement-advanced-data-visualization-techniques-by-using-power-bi.md",
       "title": "Implement advanced data visualization techniques by using Power BI",
       "excerpt": "Implement advanced data visualization techniques by using Power BI",
@@ -4787,8 +4687,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 5033,
-            "average": 4.7321677
+            "count": 5034,
+            "average": 4.732221
           },
           "provider": {
             "name": "Microsoft Learn",

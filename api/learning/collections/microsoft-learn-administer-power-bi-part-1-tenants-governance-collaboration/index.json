@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
       "length": "PT16M",
       "ratings": {
-        "count": 200,
-        "average": 4.605
+        "count": 201,
+        "average": 4.606965
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 130,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-environment-social.png",
@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
       "length": "PT12M",
       "ratings": {
-        "count": 127,
-        "average": 4.7874017
+        "count": 128,
+        "average": 4.7890625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -113,7 +113,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 130,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png",
@@ -137,8 +137,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
       "length": "PT33M",
       "ratings": {
-        "count": 106,
-        "average": 4.773585
+        "count": 107,
+        "average": 4.775701
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -179,8 +179,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
       "length": "PT11M",
       "ratings": {
-        "count": 116,
-        "average": 4.637931
+        "count": 117,
+        "average": 4.6410255
       },
       "provider": {
         "name": "Microsoft Learn",
