@@ -3908,7 +3908,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 56,
+          "heat": 55,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
@@ -3974,8 +3974,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4794,
-            "average": 4.8035045
+            "count": 4795,
+            "average": 4.8035455
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4578,8 +4578,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 48,
-            "average": 4.7291665
+            "count": 49,
+            "average": 4.734694
           },
           "provider": {
             "name": "Microsoft Learn",
