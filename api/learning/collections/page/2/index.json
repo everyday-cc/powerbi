@@ -1401,7 +1401,7 @@
             ]
           },
           "publishedDateTime": "2017-10-11T07:34:50-07:00",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/iEHfUuoZseo/maxresdefault.jpg",
@@ -3976,8 +3976,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3215,
-            "average": 4.7020216
+            "count": 3216,
+            "average": 4.7021146
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4018,8 +4018,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4796,
-            "average": 4.8035865
+            "count": 4798,
+            "average": 4.803668
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4036,7 +4036,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 58,
+          "heat": 59,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png",
@@ -4497,8 +4497,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1180,
-            "average": 4.7245765
+            "count": 1182,
+            "average": 4.72335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4705,8 +4705,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 119,
-            "average": 4.747899
+            "count": 121,
+            "average": 4.752066
           },
           "provider": {
             "name": "Microsoft Learn",
