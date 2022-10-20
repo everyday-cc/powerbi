@@ -2442,8 +2442,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1277,
-            "average": 4.7384496
+            "count": 1278,
+            "average": 4.738654
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3507,7 +3507,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3851,8 +3851,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4860,
-            "average": 4.726955
+            "count": 4861,
+            "average": 4.726805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3976,8 +3976,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3216,
-            "average": 4.7021146
+            "count": 3217,
+            "average": 4.702207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4036,7 +4036,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 59,
+          "heat": 58,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png",
@@ -4254,8 +4254,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 246,
-            "average": 4.760163
+            "count": 247,
+            "average": 4.7611337
           },
           "provider": {
             "name": "Microsoft Learn",

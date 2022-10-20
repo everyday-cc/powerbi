@@ -446,7 +446,7 @@
       "length": "PT19M",
       "ratings": {
         "count": 1463,
-        "average": 4.7293234
+        "average": 4.726589
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -488,8 +488,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 50,
-        "average": 4.74
+        "count": 51,
+        "average": 4.745098
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -532,8 +532,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 934,
-        "average": 4.6627407
+        "count": 935,
+        "average": 4.6631017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -980,8 +980,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/",
       "length": "PT35M",
       "ratings": {
-        "count": 91,
-        "average": 4.7032967
+        "count": 92,
+        "average": 4.7065215
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1024,8 +1024,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1277,
-        "average": 4.7384496
+        "count": 1278,
+        "average": 4.738654
       },
       "provider": {
         "name": "Microsoft Learn",

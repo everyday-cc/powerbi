@@ -368,8 +368,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/",
       "length": "PT35M",
       "ratings": {
-        "count": 91,
-        "average": 4.7032967
+        "count": 92,
+        "average": 4.7065215
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -412,8 +412,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1277,
-        "average": 4.7384496
+        "count": 1278,
+        "average": 4.738654
       },
       "provider": {
         "name": "Microsoft Learn",
