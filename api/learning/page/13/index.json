@@ -436,8 +436,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4795,
-            "average": 4.8035455
+            "count": 4796,
+            "average": 4.8035865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -580,8 +580,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 347,
-        "average": 4.789625
+        "count": 348,
+        "average": 4.79023
       },
       "provider": {
         "name": "Microsoft Learn",
