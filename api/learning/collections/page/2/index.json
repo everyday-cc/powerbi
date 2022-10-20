@@ -3765,8 +3765,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4489,
-            "average": 4.719314
+            "count": 4490,
+            "average": 4.719154
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3908,7 +3908,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 55,
+          "heat": 56,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
@@ -4411,8 +4411,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10200,
-            "average": 4.705294
+            "count": 10201,
+            "average": 4.705323
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4453,8 +4453,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1177,
-            "average": 4.723874
+            "count": 1178,
+            "average": 4.7241087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4745,8 +4745,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 5034,
-            "average": 4.732221
+            "count": 5035,
+            "average": 4.732274
           },
           "provider": {
             "name": "Microsoft Learn",

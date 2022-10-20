@@ -365,8 +365,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 13807,
-            "average": 4.756645
+            "count": 13808,
+            "average": 4.756373
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -407,8 +407,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 16296,
-            "average": 4.770189
+            "count": 16297,
+            "average": 4.770203
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -467,8 +467,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 16296,
-        "average": 4.770189
+        "count": 16297,
+        "average": 4.770203
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -821,8 +821,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 13807,
-        "average": 4.756645
+        "count": 13808,
+        "average": 4.756373
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -863,8 +863,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 24892,
-        "average": 4.762655
+        "count": 24893,
+        "average": 4.7626643
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1020,8 +1020,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 30765,
-        "average": 4.7249146
+        "count": 30766,
+        "average": 4.7249236
       },
       "provider": {
         "name": "Microsoft Learn",

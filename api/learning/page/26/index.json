@@ -4,25 +4,55 @@
   "page": 26,
   "value": [
     {
-      "path": "_learning/videos/radacad-power-bi-shared-datasets-what-is-it-how-does-it-work-and-why-should-you-care.md",
-      "title": "Power BI Shared Datasets: What is it, How does it work, and Why should you care?",
-      "excerpt": "Have you ever had a situation where you want to re-use part of the model in another report? Imagine two report visualizers in your team who want to create Power BI report visualizations from your data model. You have already done some modeling and calculations. How can this be done the best way without",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-shared-datasets-what-is-it-how-does-it-work-and-why-should-you-care/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-shared-datasets-what-is-it-how-does-it-work-and-why-should-you-care/",
-      "originalUrl": "https://youtube.com/watch?v=ENZm_7jWU4Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ENZm_7jWU4Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M12S",
+      "path": "_learning/videos/radacad-power-bi-paginated-report-perfect-for-printing.md",
+      "title": "Power BI Paginated Report   Perfect for Printing",
+      "excerpt": "If you want to print a Power BI report and have a tabular visual in your report (such as a table or matrix), then your options are limited. Fortunately, Power BI Paginated report can help with that. In this article and video, I’ll explain the paginated report and the differences between that and a normal",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-paginated-report-perfect-for-printing/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-paginated-report-perfect-for-printing/",
+      "originalUrl": "https://youtube.com/watch?v=MTi9RLMFV98",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MTi9RLMFV98\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M39S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2022-07-27T22:49:32-07:00",
+      "publishedDateTime": "2022-08-17T23:50:04-07:00",
       "heat": 53,
       "images": [
         {
           "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
           "width": 1200,
           "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-report-server-on-premises-solution-for-power-bi-explained.md",
+      "title": "Power BI Report Server on premises Solution for Power BI Explained",
+      "excerpt": "Read more in the blog post below: http://radacad.com/power-bi-report-server-power-bi-in-on-premises-world",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-report-server-on-premises-solution-for-power-bi-explained/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-report-server-on-premises-solution-for-power-bi-explained/",
+      "originalUrl": "https://youtube.com/watch?v=B6OPcxxc7Zk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B6OPcxxc7Zk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M57S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2018-08-07T23:57:03-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B6OPcxxc7Zk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -800,8 +830,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 5034,
-            "average": 4.732221
+            "count": 5035,
+            "average": 4.732274
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -860,8 +890,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
       "length": "PT46M",
       "ratings": {
-        "count": 36,
-        "average": 4.7777777
+        "count": 37,
+        "average": 4.783784
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1338,37 +1368,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/absent-data-channel-multiple-scenario-analysis-in-power-bi.md",
-      "title": "Multiple Scenario Analysis in Power BI",
-      "excerpt": "Learn how to use map multiple What-If Parameters to do perform insightful scenario analysis using Power BI\r Contact me on Linkedin:\r https://www.linkedin.com/in/gaelimholland/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-multiple-scenario-analysis-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-multiple-scenario-analysis-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=dUHboiHE7JI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dUHboiHE7JI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M57S",
-      "provider": {
-        "name": "Absent Data Channel",
-        "domain": "absentdata.com"
-      },
-      "publishedDateTime": "2020-07-25T20:26:24-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dUHboiHE7JI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     }
   ],

@@ -4,6 +4,67 @@
   "page": 15,
   "value": [
     {
+      "path": "_learning/videos/radacad-power-bi-architecture-best-practice.md",
+      "title": "Power BI Architecture Best Practice",
+      "excerpt": "Using Power BI is simple. However, using it properly needs a good architecture. In a multi-developer environment, the architecture of a Power BI implementation should allow multiple developers to work on the same solution at the same time. On the other hand, the Power BI architecture should be designed",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-architecture-best-practice/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-architecture-best-practice/",
+      "originalUrl": "https://youtube.com/watch?v=P3_iRFVP4Eo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P3_iRFVP4Eo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M46S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-08-03T18:58:22-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-dax-previous-month-to-date-quarter-to-date-and-year-to-date-calculations.md",
+      "title": "Power BI DAX   Previous Month to Date, Quarter to Date, and Year to Date Calculations",
+      "excerpt": "If you want to compare the sales up to a particular day and compare it with the previous period (month, quarter, or year) but up to that particular day in that period, then it is called previous month-to-date, previous quarter-to-date, and previous year-to-date. These calculations can be more helpful",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-dax-previous-month-to-date-quarter-to-date-and-year-to-date-calculations/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-dax-previous-month-to-date-quarter-to-date-and-year-to-date-calculations/",
+      "originalUrl": "https://youtube.com/watch?v=pNs-JCPj57c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pNs-JCPj57c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M39S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-05-18T20:32:12-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-power-bi-get-data-from-google-sheets.md",
       "title": "Power BI Get Data from Google Sheets",
       "excerpt": "Power BI can get data from Google Sheet now. This functionality is released just yesterday and announced in both Power BI and Power Query blogs. The feature is still preview (Beta) but it is worthwhile looking at how it works in a quick article and video. Study more from my blog article here:  https://radacad.com/power-bi-get-data-from-google-sheets",
@@ -515,48 +576,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-create-manage-workspaces-power-bi.md",
-      "title": "Create and manage workspaces in Power BI ",
-      "excerpt": "This module explains how you can share reports and datasets with your users and how to create a deployment strategy that makes sense for you and your organization. Furthermore, you will learn about data lineage in Microsoft Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-manage-workspaces-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 3720,
-        "average": 4.7682796
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-intro-to-power-bi-mobile-apps.md",
       "title": "Get to your data on the go with the Power BI Mobile apps",
       "excerpt": "As a consumer, you'll use the Power BI mobile app to review and interact with the content that is available to you in the Power BI service while you're on the go. This module provides the information that you need to work effectively with the Power BI mobile apps.",
@@ -564,8 +583,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 1177,
-        "average": 4.723874
+        "count": 1178,
+        "average": 4.7241087
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1167,36 +1186,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/CqPE6__sulg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi.md",
-      "title": "Maintain Bar Thickness(Width) in Power BI",
-      "excerpt": "Welcome to one more Short Video of Power BI. In this video, I'm going to explain how you can maintain the thickness of your bar in  Power BI. Most of the time when we add bar chart, column chart, stacked chart in Power BI, the thickness of each bar managed automatically. Sometimes, we need to maintain",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=poNpiApNZNs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/poNpiApNZNs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M31S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-06-29T21:08:10-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/poNpiApNZNs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

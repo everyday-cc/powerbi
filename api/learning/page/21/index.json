@@ -4,6 +4,36 @@
   "page": 21,
   "value": [
     {
+      "path": "_learning/videos/radacad-what-a-power-bi-hierarchy-is-and-how-to-use-it.md",
+      "title": "What a Power BI Hierarchy Is and How to Use it",
+      "excerpt": "Power BI hierarchies are a useful structure for drill-down and data exploration in reports. A hierarchy can be created simply and can add great value for you as a developer and end-users for better data analysis. In this article and video, I’ll explain what a Power BI hierarchy is and how to create it.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-a-power-bi-hierarchy-is-and-how-to-use-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-a-power-bi-hierarchy-is-and-how-to-use-it/",
+      "originalUrl": "https://youtube.com/watch?v=tZoBHwS_5rc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tZoBHwS_5rc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M15S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-09-20T17:43:21-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tZoBHwS_5rc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-analyzing-a-slow-report-query-in-dax-studio.md",
       "title": "Analyzing a slow report query in DAX Studio",
       "excerpt": "Investigate a slow query in a Power BI report using DAX Studio, looking at the query plan and the server timings. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/ Optimizing DAX Workshop: https://www.sqlbi.com/p/optimizing-dax-video-course/",
@@ -547,6 +577,45 @@
       ]
     },
     {
+      "path": "_learning/videos/sqlbi-variables-in-dax.md",
+      "title": "Variables in DAX",
+      "excerpt": "Using variables in DAX makes the code easier to read, faster, and easier to debug. Learn how and when to use variables, along with why they are so important in any DAX expression.\r Article and download: https://sql.bi/760161?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-variables-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-variables-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=NbbE39gwVVo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NbbE39gwVVo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M46S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-08-02T03:00:24-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-consume-data-with-power-bi.md",
       "title": "Consume data with Power BI",
       "excerpt": "Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.",
@@ -611,8 +680,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10200,
-            "average": 4.705294
+            "count": 10201,
+            "average": 4.705323
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -653,8 +722,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1177,
-            "average": 4.723874
+            "count": 1178,
+            "average": 4.7241087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -713,8 +782,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 10200,
-        "average": 4.705294
+        "count": 10201,
+        "average": 4.705323
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -755,8 +824,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 6462,
-        "average": 4.776385
+        "count": 6463,
+        "average": 4.7764196
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -789,8 +858,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 8348,
-        "average": 4.7526355
+        "count": 8349,
+        "average": 4.7525454
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1198,83 +1267,6 @@
       "topics": [
         "Power BI",
         "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-add-colored-kpi-arrows-to-power-bi-2019-version.md",
-      "title": "Add colored KPI arrows to Power BI 2019 version",
-      "excerpt": "Do you know how to create colored KPIs in Power BI in 2019? In this video I am going to show you the way I do nowadays. Do you have a better way? Please share it with us :) #powerbi #kpipowerbi #curbal  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-add-colored-kpi-arrows-to-power-bi-2019-version/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-add-colored-kpi-arrows-to-power-bi-2019-version/",
-      "originalUrl": "https://youtube.com/watch?v=cboA5AtAPeg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cboA5AtAPeg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M59S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-03-22T08:18:02-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cboA5AtAPeg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-add-kpi-symbols-in-power-bi-based-on-formula-results-using-dax.md",
-      "title": "Add KPI symbols in Power BI based on formula results using DAX",
-      "excerpt": "Add up and down arrows to your calculations based on the results of your formulas in Power BI.  Power BI Natural language: https://www.youtube.com/watch?v=o_Qh0SccyAc   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-add-kpi-symbols-in-power-bi-based-on-formula-results-using-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-add-kpi-symbols-in-power-bi-based-on-formula-results-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=7oCygwn75tQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7oCygwn75tQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M24S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-25T04:32:01-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     }
   ],
