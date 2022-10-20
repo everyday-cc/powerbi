@@ -319,8 +319,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4490,
-            "average": 4.719154
+            "count": 4491,
+            "average": 4.7192163
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -361,8 +361,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4857,
-            "average": 4.726786
+            "count": 4858,
+            "average": 4.7268424
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -444,8 +444,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3721,
-            "average": 4.768073
+            "count": 3722,
+            "average": 4.7681355
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -486,8 +486,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3212,
-            "average": 4.7017436
+            "count": 3213,
+            "average": 4.701836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -588,8 +588,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 4857,
-        "average": 4.726786
+        "count": 4858,
+        "average": 4.7268424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -630,8 +630,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 3721,
-        "average": 4.768073
+        "count": 3722,
+        "average": 4.7681355
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -714,8 +714,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 3212,
-        "average": 4.7017436
+        "count": 3213,
+        "average": 4.701836
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -756,8 +756,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 4490,
-        "average": 4.719154
+        "count": 4491,
+        "average": 4.7192163
       },
       "provider": {
         "name": "Microsoft Learn",
