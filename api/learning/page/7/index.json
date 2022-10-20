@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3017,
-            "average": 4.7540603
+            "count": 3018,
+            "average": 4.754142
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -121,8 +121,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1463,
-            "average": 4.726589
+            "count": 1464,
+            "average": 4.726776
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -227,8 +227,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 5121,
-        "average": 4.6840463
+        "count": 5122,
+        "average": 4.684108
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1476,7 +1476,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-intro-social.png",
@@ -1988,8 +1988,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 6923,
-        "average": 4.712697
+        "count": 6925,
+        "average": 4.71278
       },
       "provider": {
         "name": "Microsoft Learn",
