@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-repor
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-report-and-dataset-management-in-power-apps-solutions/"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:
