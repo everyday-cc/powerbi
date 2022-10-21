@@ -1670,7 +1670,7 @@
             ]
           },
           "publishedDateTime": "2019-03-07T08:00:21-08:00",
-          "heat": 53,
+          "heat": 57,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/bjERMKH2blw/maxresdefault.jpg",
@@ -3976,8 +3976,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3217,
-            "average": 4.702207
+            "count": 3218,
+            "average": 4.7022996
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4455,8 +4455,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10202,
-            "average": 4.705352
+            "count": 10203,
+            "average": 4.705381
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4705,8 +4705,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 121,
-            "average": 4.752066
+            "count": 123,
+            "average": 4.756098
           },
           "provider": {
             "name": "Microsoft Learn",
