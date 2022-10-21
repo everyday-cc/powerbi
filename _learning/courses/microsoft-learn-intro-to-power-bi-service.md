@@ -8,7 +8,7 @@ length: PT1H9M
 ratings:
   count: 13320
   average: 4.6795044
-heat: 53
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -24,6 +24,6 @@ levels:
 topics:
   - Power BI
 
-secured: "W3T7cLhdJVa0qWiTl49TUhbN54+XGiHX5a/ZqqtvQb8By8N5ZZhRoWwMf/US152GJetgvw78irEUh8yD88UbS7nWYh+pSv7bzwKNqjsohqX3OBYTs5rggCdXAfupGpVJQsNwwCNcUgsrjtGPCWwR+I3d8m+jWs8LPY33173bolw/9eKMRxpvNm0bbf5XbmQ86kSzeRduZXUTgZzEd8PELeBy70kPhrirV2xTke0T6jDx5hNcFNufb+WMcyNEw6k32eZcNUCC7NKD5n5pFhdKcAtUV+LaBgXbynnNq0au2eAP7JznOTXwoqQK5jMpzuKYbjXMsTUK5LMz8/WoZ0M0iLMdiFRsqHhRENd0iQ2NePTuhuUwbFSaySeIQIEaxet3QPx5F+e34ZTFlh4C94x/KdZV/HrruwsLOD6BLMqymrpetGbWbtSFo61G3LGfG/Ku;g0ytzF6XxEthFW8WhbQQHQ=="
+secured: "4D+MYf2gg6bVrP9DOQeiC5nwJWjkgV1T9/LepTsFJ1wfgxMEVW5utX65HeNNyBnKD7e6WSBDUE6q20n6uvSOntj7HuYzrXC2PjLjLsTXZwfSkwnaW7Hq2lvHYwIcxDj3DMres7s9BruOjJmIDiaoQJ8ODvECAI+LKAKrGLrBUpB9I1kEOoLf3KGorRN4WiUcehTWS+Uimp5Un3E+9jpEoTi4qv5Ic4gcU8SXiFFiCS1xTwYc53rY2aLK2vC2MfPxZ63DSAA7ZqY0Ihm1LtemgUNjnQpijjX2sBg5GQEkHopnRmwECeU6PJhqQb9xx3ElLPBOg49vSi4hUTMzqiDpSL0OGq2cVld4F0jnubjEXr5bSGoV24imo9ZDa/u+srhXW1bRgLJ0mobqCl+ZVotjB5qpk4ExaiCMP1ouq6kp7khRG/2fAsV4X9qI/4tHd1t2;/76/CgKMNBhG2lYXGs2UGA=="
 ---
 
