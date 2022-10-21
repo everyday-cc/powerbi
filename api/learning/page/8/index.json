@@ -1842,8 +1842,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 128,
-            "average": 4.7890625
+            "count": 129,
+            "average": 4.7906976
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1884,8 +1884,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 107,
-            "average": 4.775701
+            "count": 108,
+            "average": 4.7777777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3200,8 +3200,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 10239,
-        "average": 4.7671647
+        "count": 10240,
+        "average": 4.76709
       },
       "provider": {
         "name": "Microsoft Learn",
