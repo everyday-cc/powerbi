@@ -22,12 +22,6 @@ topics:
   - Power BI
   - Dataflows
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
 secured: "xqKTq57YovBb6ANnOrcB8XFRb0MRsr7ezGUQBTvlQkIkDofS9S1fRmjoBdq/DTLuQLWeJbnPql87V/5eQy2v1ZTU01hj5NOHgXucrg57gQg89+7J9X5t+hGup5EMain7gyqiNPyPApisenM4BAnRug+DKQGUtg2oiMs2mKMYZMYNoG9hmPWGhv5Jup9GNggecC7Q2/rhmIz08y2Yw8iHVLZu37pOp7VZV8C/+OaQfSzv3Evaa3HNhragk4UUkiXKxvbyHQ/kdiAuyBE29olDdu0h2wAYUV9itBcWEDAoAm0jCRbSM2rkEK5SvDowIy9FSzmTWuy0xDqnB3t6mdaIxxK6hOw76lsYAxnG5ARbjqTSqPNTzyoYzovaEEQMpENMgHWw8ymYhHVdVR1l8Y9IHAOyFCKdUuWfeQLC6MS6tho=;yOucau0v6aFueph7SiHMvQ=="
 ---
 

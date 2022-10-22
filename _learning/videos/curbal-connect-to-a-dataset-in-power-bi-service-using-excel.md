@@ -22,12 +22,6 @@ topics:
   - Power BI
   - Power BI Service
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
 secured: "xOHvdvVxnfL9Ime3YpZKDUyZ5N046A1zwNUM8ExEVzSqS3RvVwN43rVths4KaIbuPekm67/r42FCC3a1u4RocPRclCXIwWAvbd57VCqeqwY/kOZuQ1wPyPMUD79oQJeQ4z8kRy7+rkEbZcqTOV7zh61CgoTjq6oftcJJ2blcyyiJkBdJ41uKsnXYJWwcq7Ar/Oe4ihJK7VKsDD21IS3tl1D4iPXycJ8EoI4knxfhOUZEorI+CWcjW5sBhV17GZnnyzOP5q5F91jqC9hspp+T3gOy0sT5GF3jzpngRqapxf7lWz05XstF/SLdbNqHHFWu1PJVfepTd+R9pBL3aBRfYFSopjvb49euG0mt4mtQ1K8CqsJPazMjW3Mh32ySLwi5ditLoj1BGMAW1XBF+8rSG4J4bV5ASqYzwguDsmW2tRY=;MUH+Pxb5pZ+H7xAu7qDB4Q=="
 ---
 

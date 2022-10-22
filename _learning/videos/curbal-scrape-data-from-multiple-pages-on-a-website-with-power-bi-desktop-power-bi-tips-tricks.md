@@ -23,12 +23,6 @@ topics:
   - Power BI Desktop
   - Power Query
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
 secured: "GCv6kiLNr1Glnz3X7xes3evjUdwDem5ykcdgaI04SDeJjvc8EErApPrWbOEaO06pm/JH45VEPipYlSvEmwHP5a0S2VOIV4yomUQP7Dyg9SesB6gQPuUQjGwMh67l2J/fo2QlLb4EmATu+3QYFyh2fgjYkVebjZv0buUofxe3ygpOqZ8PtGu8O15toApZsLJ/l58jP+dONlOYEVqamFMFBWVMkDcxSyENYzKQzzOlVaocqa6xHdVWP2feeVFWNZd7y5P1sNRjhIc6zuFSFwFBfzJ+ZCh1vC34d5My8kondVXuvxL09f/PHH+35BSYApyyPTnc4meRejhkolq/WK/hPXDE+Qxmt8xoPX2QhN4U35M0as2YVN/ySeWw1ZRI1U3uJ4e0lvsVERy2ZEbsjUt0fI2xOeYbUTFEwWGy/Rbzn48=;lFJMmh+heOKOZWLY7BDdrQ=="
 ---
 

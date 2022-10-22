@@ -22,12 +22,6 @@ topics:
   - Power BI
   - DAX
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
 secured: "exoA2umWHAl1W46s+qhTkPYPZXrjFOJGM9vWDa7/vtkj/I56w+WOi96RlZA2w7vMOE4/MZ8NeUDYfatMDPD5W2kaciYZlUkeR8hDyaovnztmeyyPjLBXXWWKvO+xfsyHmH5yIIy59l+cYzKapLVfbmTxv5fofeotN1RvdoOAsdXIlQdKSH3eoFbXQ5eSECQyyREn/+SsHW+5TKY+239GvKrwoo7LLkpz/k8/lcrCjqclQ2L87yT7TJ7KVYu0oQXar9lbqGC5KMnIarqOq1NN8vVDPNshJaPuXVm6dUb/hLgzC9XBuqYxKDaaVpNolX6jbX49dfkMZylJZjm4QI9p6uy7sR254jJMczbVy0gRGQMyax3x0gQCNxnw+AalS2MLxfEKdxSlBmkvlmm9wTmIYJ4DGCK1kpDRJOqC1Fu/gXc=;W2IT+ImLPPNT53MCgcZNLQ=="
 ---
 

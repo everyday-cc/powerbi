@@ -23,12 +23,6 @@ topics:
   - Power Query
   - DAX
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
 secured: "pRb5SuS+5hsFsMaG60g8d03G1VWFgBdtie15lBs0HTirQjG6URr7hFrTsS5xJKZdLFlVU4etwUj5JK/QDuzHVuE8kwi4+UGpGhyYEmNeo7M9h0dB4QPMN1dBBQCbIhJNsxKvxKwVTa6ZTFxWLTD7VWp3MXkn6Gd9g0kyd6RTuKHaH575us7cQ/hWAJuLruni//fevZt1nNUvtHypmvV40KSNDrIx720qhZurXUGuSUhGvGV2z4HwprR7rtKGLZmI1Y3pnTWp2+3O4Gl50p6JPPvz1utY63WfqM7CYpUAc6Pe2TI+iCypgRKmAAhoCZof2QbxZFSafH0IsFV7TUZp8G45R3N3HhGbg0trte87Zn+j+t7Af408W41ZM0u1JHmtnoFlW5BkyqmGSkzPJjoCcGqyd643MRkFzm54uaOM3iY=;c4IzZIqiGy+/I+Hfe17TkA=="
 ---
 

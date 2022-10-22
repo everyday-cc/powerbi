@@ -17,12 +17,6 @@ provider:
 topics:
   - Power BI
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
 secured: "UJLArZFaNqDfypWUGH+7aW9Zfg4yxEZfxUPSBR5SdNAq5mId5sCFhfLjmMQulTBq441qGCWdZ+LIgaIuvqMLYbwcGGtWJ/nLQzZCMOzNgYPFWkJX43cKJXnYgAdNF3TqRsdDX775V3IxUyve9mF9hcCrDnYrPyqTVnSmzxIBJwgn3aRv5X7GUWS444nohV7poE3ihKXDInaEbdGwfUX27kKMVX/XgngeT50dJMTzo8ulNpOw7K9ty5zE05VKVKauGSTapEnjmPWrw8gmZXt4olXTcibkHgfQw/FWXADz2GRk/I6E5nk6+U3WQWlLZG7wmCvxsb8s3IY4PRM0qodRty5y74/5Nq2u8CjUhEwMI5M1NkN8tml23FwQq2dyCMAanBQotKmrAWD0MuTuPvgxdoGbmWZp79k3m+Sc0aWKHyc=;XzhHbs1ERfxssWxAGb8QSA=="
 ---
 

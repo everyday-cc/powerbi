@@ -22,12 +22,6 @@ topics:
   - Power BI
   - Power Query
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
 secured: "mdUzEh5Ajvlu0U+2NpjigbaaXldLIrRScpwlOqlVR9v95UGHzUOATNe/mp69sQJUrZNXQvFbX95MFIHmWE5i3NMAYIA3wHcSIjQxlWDEPh0CdFW0YrOIMSOpzKXT4qYPvLRVOiDfebVZYNOT+Gf2h16EBPK5IKMtq2JQgAqatqE9p+/ZSDGi7Txk6v1K22gEVA6U+K3Q1apux8W715qUPR/iMnSptsEOedXCeBIUtMMmB87gNCPKdXlC479SIb734NxASukpgKAHPxoDYQ4q7+gaO80E+X3yLxlmqCZaz2IeNh93B4prSxX2Z1JymzbK5HP3E5J/ageMhjLinGj16IqyOvEryP+lB96GazBFPXy0nUkpY5volUmUYuhhd9WlV/zE3WQy6YWzHE24KzaOpob/cGYXuSF6Fmzi8cbL1Ho=;9yyIRMA/sdVJ98NU3LuUvA=="
 ---
 

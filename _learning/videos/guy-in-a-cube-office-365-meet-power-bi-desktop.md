@@ -22,12 +22,6 @@ topics:
   - Power BI
   - Power BI Desktop
 
-images:
-  - url: https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png
-    width: 1200
-    height: 800
-    isCached: true
-
 secured: "798j317G+wVVJucwW4WcaOj/mkOHIdumadXHCud5XO78pxP13CvttLW7XU9YpyKWdk9/MKea97bTZIff6ovlmVE5OIy+C+fC5tbq0MetT8/NgiDJIev8xAIzVqDoMXIpxc3eRps+Sj3rcZgtV85Gy0qaAkLFVx+iF6SVu3b2iCxmH07r4/sKns6M6JUx0+A5XaVBGCWikVJ7Z3yR2vAxTvwsFQ51hVhHvh7lRpVcPVgIGG0koOo6sVJ0hqLnmB7oNWyRW3LNMEPK2SNGBjMjWdaakMI1VRjubL9Ls/yvcPB8Yp4y9vO4+w/XZL4Ukvl/UTUVic1P+92gNqinUBqw7c1PeL4Ph8Eek96pWlP1Ev0x1vC2P0s5RTklKIXFkXcyulnk/uhX+eERpbXnUG4HDybFlKaqQPjVt2I20Jq7/kA=;oBkFq9PHBSmSzebIb1W0lw=="
 ---
 
