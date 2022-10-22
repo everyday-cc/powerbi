@@ -26,14 +26,6 @@
       },
       "publishedDateTime": "2022-10-13T08:00:02-07:00",
       "heat": 106,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "video",
       "price": "Free",
@@ -50,8 +42,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 30830,
-        "average": 4.725008
+        "count": 30831,
+        "average": 4.725017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -910,14 +902,6 @@
       },
       "publishedDateTime": "2022-06-16T08:00:29-07:00",
       "heat": 58,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "video",
       "price": "Free",
