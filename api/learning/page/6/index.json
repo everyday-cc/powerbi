@@ -1086,8 +1086,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 608,
-            "average": 4.7796054
+            "count": 609,
+            "average": 4.7799673
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1641,7 +1641,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-collaboration-social.png",
@@ -2111,8 +2111,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 8014,
-        "average": 4.718368
+        "count": 8016,
+        "average": 4.718438
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2153,8 +2153,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 8342,
-        "average": 4.7494607
+        "count": 8343,
+        "average": 4.7494907
       },
       "provider": {
         "name": "Microsoft Learn",
