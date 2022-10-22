@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M5S
 publishedDateTime: 2019-05-15T15:47:43Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3edQe2tSq7g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ topics:
   - Power BI
   - Power BI Service
 
-secured: "xOHvdvVxnfL9Ime3YpZKDUyZ5N046A1zwNUM8ExEVzSqS3RvVwN43rVths4KaIbuPekm67/r42FCC3a1u4RocPRclCXIwWAvbd57VCqeqwY/kOZuQ1wPyPMUD79oQJeQ4z8kRy7+rkEbZcqTOV7zh61CgoTjq6oftcJJ2blcyyiJkBdJ41uKsnXYJWwcq7Ar/Oe4ihJK7VKsDD21IS3tl1D4iPXycJ8EoI4knxfhOUZEorI+CWcjW5sBhV17GZnnyzOP5q5F91jqC9hspp+T3gOy0sT5GF3jzpngRqapxf7lWz05XstF/SLdbNqHHFWu1PJVfepTd+R9pBL3aBRfYFSopjvb49euG0mt4mtQ1K8CqsJPazMjW3Mh32ySLwi5ditLoj1BGMAW1XBF+8rSG4J4bV5ASqYzwguDsmW2tRY=;MUH+Pxb5pZ+H7xAu7qDB4Q=="
+secured: "mhf13asczHtNe+lQMMdji7PDVBKHu77gF66sk9gh/b4uFc2SDfsBZ/NgsZrySL19p0zQ7jFQgi4YzFS6DuRzgNUeqAfoMg91SQBJUSfKoomnv9dIMs8P82thz8rAuMU+smeTFK7ccvtV0IVx/oSg6V3hXoHnTDx/I/XTgJwaHV1WJ5mFqMBocE9L6b4yf7o4fnF13CIt5tq25KkUXv3z5Veo8rSxSYQdovkZuLrijranLW7ZNTN2yQcFn7boIKQwVw1SFl/V5wnLngTm5tScACGkPUehD7sxS8SCcsM2kBi+kj4VjCfG+r0XCjEjLEYBEQyaR4LM/dr4HqWl+QmVlZ3sX19AraLZeVUadd9iHXovzPmBSWjNC+iWKPqqpJZJ5Uz24MUGffAqzS5DGHJc5iVVhB6dbajKiBcSchnhiVo=;ju+xL8ijwrWvn06aePrxDA=="
 ---
 

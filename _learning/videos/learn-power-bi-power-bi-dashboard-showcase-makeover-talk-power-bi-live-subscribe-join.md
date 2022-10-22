@@ -1,14 +1,14 @@
 ---
 title: "Power BI Dashboard Showcase & Makeover 🔴Talk Power BI LIVE (Subscribe & Join)"
 excerpt: "In Power BI 'Dashboard Makeover'  • We Review Power BI Reports/Dashboards sent in by users  • Provide expert feedback and ideas on how to improve  • Submit Your Screenshots or PBIX file here 👉 https://www.learnpowerbi.com/makeover  ⚠️NOTE⚠️ :  • Do NOT send any sensitive data in your screenshots  •"
-originalUrl: https://youtube.com/watch?v=CTNvWQ45fdA
+originalUrl: https://youtube.com/watch?v=z3DHsL05wzQ
 type: video
 price: Free
-length: PT1H42M11S
-publishedDateTime: 2021-02-13T00:56:25Z
-heat: 51
+length: PT3H42M37S
+publishedDateTime: 2020-04-10T20:33:06Z
+heat: 52
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CTNvWQ45fdA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z3DHsL05wzQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Learn Power BI
@@ -17,6 +17,6 @@ provider:
 topics:
   - Power BI
 
-secured: "Cu4p83aPfzaZeEQ29iozxJoX/ZI96OMoFmLJE527Wxg94biGY8P9jIgHzOu1vf7DLLT4mvKwR6b2zdNaGb7eALNXqTgn3vIuHQC6pUZc2+01x5NXl5xu3qhFjxV7HEp2aL4H6IqjG9Px9Lcsf09gaTF96pj1IuPtPmH3gO3VjQETxkKjUefXclmjuEjdgBiLGKk4OvRkQ0PGfkM5l/7sk9oemYktYN1cpNIKOILjioQ3fo0hXDHIWtden+gJmY07KlNqDjlak9toW2Zx116gojl6GLmDY/H3PeAb8kK92EqDoS3xu/9Z7YsS9pZk9uCGG5ZcSDcntao4xJGLqtFh5xvBqtkh6J7SOxNjsVYbKpFOZWuJgsm5XRsEbO2ESRvGMLCDrtPzK+Sv5ctKjyXkIg==;mLc1a6V95vhg9t7W2/S+Qg=="
+secured: "1rJkYDhgURMnoiHp9fwPLcOxSZV9pDut12TMaUBQE018JeHnj/5KYseDps0DgJlRiSVOa+Fwpng3r65ZlzMW1YPBLf7yt8IyZBBSBbDcYtvd57J8H8V7vbc+olQymnivE9J/8nyUER65ERfma+0v3xJNAs1WhCChzkNAU7ZS6DWNubqiJCBGr/3f+9zdrMWrsQVl6Abby4d8stfO9E5xPwr/jt63wVA+V5dUfoeQVNGCXVsL2y+6SZmh2mq2m34cJh/WBVmY8LZbx0t5gSxFFdd6ecvB5Rd0Pl2BISyN50FoSCRPMQNk1TwnoYlK96LC0AQRQa3TdWMt0z032ixtKOaHCJ0p16dsTS//vcwVtMAb8xlidNWj8//k1gBItwg7gfCf9V0kvtFv9mqI90E84w==;XIKF9BvDnc9Uizyd2H1NFw=="
 ---
 
