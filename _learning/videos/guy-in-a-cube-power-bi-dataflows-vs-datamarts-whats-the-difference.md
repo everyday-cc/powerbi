@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M44S
 publishedDateTime: 2022-06-01T15:00:00Z
-heat: 59
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-ZAPAk_ANbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ topics:
   - Power BI
   - Dataflows
 
-secured: "xqKTq57YovBb6ANnOrcB8XFRb0MRsr7ezGUQBTvlQkIkDofS9S1fRmjoBdq/DTLuQLWeJbnPql87V/5eQy2v1ZTU01hj5NOHgXucrg57gQg89+7J9X5t+hGup5EMain7gyqiNPyPApisenM4BAnRug+DKQGUtg2oiMs2mKMYZMYNoG9hmPWGhv5Jup9GNggecC7Q2/rhmIz08y2Yw8iHVLZu37pOp7VZV8C/+OaQfSzv3Evaa3HNhragk4UUkiXKxvbyHQ/kdiAuyBE29olDdu0h2wAYUV9itBcWEDAoAm0jCRbSM2rkEK5SvDowIy9FSzmTWuy0xDqnB3t6mdaIxxK6hOw76lsYAxnG5ARbjqTSqPNTzyoYzovaEEQMpENMgHWw8ymYhHVdVR1l8Y9IHAOyFCKdUuWfeQLC6MS6tho=;yOucau0v6aFueph7SiHMvQ=="
+secured: "z9A5LA1n15HMy41htXUvirQ3iYIK0fG2CefxDNehZ1cQ+iKFT6nTv0IWnYXg2X2eSwR8C7LSXuhFtSr5g/TYjZrTBctM/7DKXLHB26IIZTS36BSmblG3JS6FspdBFo6xDibHuB8p85stz26HDdsg2/Jpvj8RUsyh7WvF0C3MPXky+TcCvz2ZGQBn5j8vjuYqPgPlyrR7HWEI/UpnzlYpErFxaEQdj70LiJfVL9YDx3gtW1KntFIjmP/M4sGatmmBzw8lwIf94jGcB6oxWs3buhl4ZO+4Srr5lCxf59za1D7CZKs3LaeNyqsZTuC0RIYK2XGe81SGpEj6FYeclEcwvrWBZfrBMLZ6+dKlARc4GyTjyebLF8w4UpiVPnQrUKfPoanDw1L3Adrrq5WZUIBmsyiD3pn/dPRrLt5LqZKfoTo=;Wfts3dSmtmTCAt60Jyq+Kw=="
 ---
 
