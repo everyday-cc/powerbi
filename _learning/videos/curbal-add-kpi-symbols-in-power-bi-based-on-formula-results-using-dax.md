@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M24S
 publishedDateTime: 2018-04-25T11:32:01Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7oCygwn75tQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ topics:
   - Power BI
   - DAX
 
-secured: "wfBwjuYkFQil/4wC7oQgwr00fpmxNPiJbiCc8uEFq+UfA6Xu2NEqafUBNKN4/sp9qcozXTSL7a2+Yw4ia6BTauKPWdgllmvY3xI6LEQza31SCuLPokzlBfKOgn3X8kQh2hyNi48bAgrQ3y7gDjtEorruKtCb0QIlNJyTIrEMHZgDqoL1PkUtSmQs+haosRP4JLIKMKkOHq2fwjBvn4HMmp52tqrP2bu06OHU7rz/T90eVUaMpmNE/wgbV59cT9WRW3+jd/rr7swrLzLCva7U4zZ4gKalclbxk3ghqlSH3miv+nHBMcQZn5QLG3UZUzZmskq42x9Uc4NuKR1xDupIv27ZnwWhxGdlvuSZYqQvMBRRFtwJazg7Rd8XJo0H/D9/rrl+temu//M4bp3KnMZ+SGeor/6F7qYKh4LKtfxCcF8=;4mgd9V6HtTmOgChjAbNx8g=="
+secured: "wolb2IEGK/ws47nN3rWJcZsmlq7TI8k/QFn7AX2fAV8+cH2+bnpfzts/2yH0g/vvqgzzwWoq1LSYgJQ7ftovdRpnz8/xYhqrixwOFHm4MEm3OKcTzMbCpTlj2gsUFoRuacA0Tz4R6JlWMCT0zD3e8ubJ/YBATDsUjlmNk5PCW87iQZIu8EdR6kDkvSHSNj6oHV/M3Zs4cAfK8q+00BiEUG69QHK6nlOK9m4G9dN2ja9/ILQCD/sYFXeFTRRrumyPYIDV8Hu6yj9N1Yf6tMFlTB/gjnZZcWJQONgwKqBFP8FETr23K3Ht/fSqOtc88hdkJjpxe//OcT/uQetR9PxaNbBTQLaqi4qcvsABTd+fIw544zhfFhXSbl0qekz8frrys1+/iOlx7wM9t9pvX6nK9gU/eS6eOiBFjMvaIoZXf2M=;6fBOJprVGGIG/aEsc7JwJA=="
 ---
 
