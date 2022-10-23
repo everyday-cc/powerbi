@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M31S
 publishedDateTime: 2022-05-03T15:00:13Z
-heat: 59
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WbDqeNsmoL4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -21,6 +21,6 @@ provider:
 topics:
   - Power BI
 
-secured: "T98PbdKWUkrtir1tfxeDiL08beQqUGfA56O2AZ2T3Zw23CigOuBQlS6UsdMwInsn7RNdhaSDq1nvcjvBKMCVZtw/3xjRWj8D1VUikAEGO56ZM4zP+Uyys/o6oweBABaYzq1tm5ujtK7Fvwelw85Dw9Book6BxIqJ0JtJJEkfrCYLhc+zTwWilGnSBL0E2UTnVvkCSExN7Ixy3CAFNYmWukJZsAVgyug1lyby8ZGKEZb500cMCvSYPy/X08brWTtSle/MVDjbXw+/1X0iqIKaPFHEubOEJ8j8vpM+ZDsO0mCLfn7k/r5ogkqnT1iTtJ68z+mNpIFQBBBO4GBq1z9PXE4nq/G+rry2kIUiF46CevMTH9l3V3IwlxNXILBBuVN4VuACV36GAIc0vYAiFhLazhU/XGNPjcDdm6/9JWruUWM=;QFSvsl618jFdCPtBOR8Ivg=="
+secured: "80r1n6Tc8A2OQkHIs2ajkuZ1uxcmjkjVsTnXLd15hHirGyxJ1puRt5GzEKJ4samnmgwyc0cYIBeTTR0g3XwztswPQ7gWwNUZi3SkUs/kTrXhWu+AGwgCRw6jD6aj7Gxck92W/B4Ex+SXoEJ9Zfz36e5ruCkU2U/H3Vr+fwwG2O9qAJJEXUiUbx/oZ1pbjGcA+jwhabjtQEM62Wpr2KgcLgebxj7FGS0GffslV+MUbKqKUNPRBw12FHd4GPgzGi0oAleNkJ28cirFj7ORobQ+o7czrDZU+vXSUJ7K6Avr8UBoYsEgGzAaqzy9F4fPBZi9iQ+uf/tIy6w+KOuZ4p/CYq09br6+Rc1JIY4wkgi2R2FIud0S2VJZbM9lhpbFGyJ2adIIwxnMUyrShQkKU/Og8pGGzNE9TiQfmpBY10XyVI8=;wyxlvn5XtVPVakpPj2PhaQ=="
 ---
 
