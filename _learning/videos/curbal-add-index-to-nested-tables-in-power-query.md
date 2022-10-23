@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M41S
 publishedDateTime: 2020-04-24T11:44:00Z
-heat: 57
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7CqXdSEN2k4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ topics:
   - Power BI
   - Power Query
 
-secured: "h1Fk3A21GC3p3RzFq8CR9IaHnq6UZzNH1lj8qtFo8PI0H8m6nd9tpkrorZ54HNLaH3x4c2r5njgVc24e0ccAQtOn+feEzjoFfYDyiakplBpERXWgk6PqJ9bC21AYLHskMyBH4nncqlZxTCpAzlfKUBmlClUd+h3mBpoa7IBU8jOKgg+7eBDGbwCv1QOHie3zdFxoQ2ucpqDwXXgB+5wLTJ7i2SFcy+9AErIwHtB8gODC0PCifZh67VgTz/U3SPqZvu7ZephMlyYR3ZQFylGQlDdlWQsjw1J4+GJ1dsCWThOExKCiI6jlvYCjWFymryrx3tE+ZPtluj9UfSX9lWB56+dMNEjc7WMjhlYt3cdziIzxTQ7+d76Pbc7yezfUQOalfYkaCxT/Sv0TocvLj6xIfG8/33OvVm7KeSRUNoiXvIg=;bU1mOw+u6PNgrZHIIVIUjw=="
+secured: "gjtD2B5djPUgdl4N1atifPpaRyd8RaW2zWjvAejKEGOpkZ9wT6Bu0HEa5u07dqJV6FspwfJrMZloZp8hh5JTpuk3SG5oMe2dn8njDKbpOsvAP45pynrwv6+R8Yu6Ydbq7DdZs1y+P8SbXYw83KOufsj/np527Bq+SdSmy1b0E68XvlG4aIFTXt+uf11OUaVQ7VSncTuwV6zuOBYOWezV/OKEVzLaE+C1AbePfOGDcYFFVWfERmyPU+6vqwTs2XgTyEYxmNFGVBZYMDIjHuG33iEJCMRl5C9/z5c8MCMu04bnDWnWo6ALTDJGLQxvVeSYhgW78qRBLqDFfUAaPMpKaPLs9Tieea2zzPIonDsdxDNKiH3IZhUU2V9m0wA7myFPFiKJ1KO7zcDk9YNXEfAsxh5WEYtIDqE5UgafF+vhfg0=;yjCM/TwLVaSCQ1iEeIwl5w=="
 ---
 
