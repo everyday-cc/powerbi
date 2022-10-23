@@ -3482,8 +3482,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8344,
-            "average": 4.749521
+            "count": 8346,
+            "average": 4.7494607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3567,8 +3567,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 8175,
-            "average": 4.7658715
+            "count": 8176,
+            "average": 4.7659
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4788,8 +4788,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 250,
-            "average": 4.764
+            "count": 251,
+            "average": 4.7649403
           },
           "provider": {
             "name": "Microsoft Learn",
