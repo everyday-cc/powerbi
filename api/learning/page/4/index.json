@@ -371,8 +371,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-content/",
           "length": "PT31M",
           "ratings": {
-            "count": 19,
-            "average": 4.6842103
+            "count": 20,
+            "average": 4.7
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1797,7 +1797,7 @@
             "domain": "powerbi.tips"
           },
           "publishedDateTime": "2020-04-02T06:37:24-07:00",
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/c-jZMzsvKnM/hqdefault.jpg",
@@ -2615,8 +2615,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 13961,
-        "average": 4.7237306
+        "count": 13962,
+        "average": 4.72375
       },
       "provider": {
         "name": "Microsoft Learn",
