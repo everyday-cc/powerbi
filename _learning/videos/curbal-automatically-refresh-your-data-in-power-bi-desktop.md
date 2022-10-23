@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT13M25S
 publishedDateTime: 2019-11-28T16:02:45Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3irCvEe7IdI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -22,6 +22,6 @@ topics:
   - Power BI
   - Power BI Desktop
 
-secured: "SRfyn2lgLooedpEnMTinEib9Ls3x2M/WIQZusbzYaFbjfk1rtmb9384guXTTqxRdwNE68Vvu4iWLeZSNQZlGFkP0D/IvikuJ46NNIlXaLOck6JMdnwX3d/CBzUZo8t2wMSOATw+/m6O9QLtBWGhrYp9o2ILJ3VxvgVrB6C3f4YyQq3VdAhUHEX8FQG4O322gb6Urqtno/1BNrzZOiZWzcYp/MiWWc4GS+aSu/J2s8dsouY/Jg2C8mKmnabU3Iqypo9vE6WbmY93UGWo3sehFj9HkFUN7SbirwBTtvobkYmaKJ69qCnHG772tWg746bjYgoho1Nx1oNdweJO3sQPUM2atjQW9z5kDigTVjPKa9gfNthLjXLSLxHgzFd/csbN2gMDUGTKRLd67seUxil5BdwR2eK6qTnhJDS5Nshnw/Ok=;Pfc9uqz3XVBmvc1FoRyCzw=="
+secured: "P4+fSLCj+8S4VZsDYdj9IkkGcau2oqkz37rGDZF6BE0nTFCw311gnCu7CgpmkyLw+LKU6dIb9NZuSvnL+3qkk9CJIKM+LQR1J5/ar7TR0qf1EhJ1xA/QmqVWt7up5zMVlWBj9rO3CRuzePZVYb9ZUQVh6C5IGhZCctg5sONkrWBVHvm1p2NONr/ieiIUPCly0OAWSqZye24A1ig6XPDTSWwa+/bIPyPSolm2NArMJnNCxq0USp1oBUVkAD5xCtm5zJAaAgU8EqdC0SyG2QBDdkL+fGJIMzQ2d8+CqG4FRctQNjCfhhO82MBYNEudwu2bZrXIbeOeRlFcpETHH68vcW17UBw7Gyzb8MssFfzNcnnXgCxaKaScTLlX72gCS9u7LIcsOzsqOXpIqBnHVvZ0PQaTa6jhuLOorixG1Ie0ceY=;u5uONTtvOeUpT+aOHQ2GZA=="
 ---
 
