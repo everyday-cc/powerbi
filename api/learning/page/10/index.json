@@ -572,7 +572,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/understand-advanced-data-visualization-concepts-social.png",
@@ -1196,8 +1196,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 10246,
-        "average": 4.7671285
+        "count": 10247,
+        "average": 4.7670536
       },
       "provider": {
         "name": "Microsoft Learn",

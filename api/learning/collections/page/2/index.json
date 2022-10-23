@@ -1623,8 +1623,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1281,
-            "average": 4.7392664
+            "count": 1282,
+            "average": 4.7379093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3482,8 +3482,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8346,
-            "average": 4.7494607
+            "count": 8348,
+            "average": 4.7490416
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3567,8 +3567,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 8176,
-            "average": 4.7659
+            "count": 8178,
+            "average": 4.7658353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3793,7 +3793,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/understand-advanced-data-visualization-concepts-social.png",
@@ -4663,8 +4663,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 94,
-            "average": 4.755319
+            "count": 95,
+            "average": 4.7473683
           },
           "provider": {
             "name": "Microsoft Learn",
