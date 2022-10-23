@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M37S
 publishedDateTime: 2022-03-14T10:20:42Z
-heat: 57
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8u69q5LA3x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ topics:
   - Power Query
   - DAX
 
-secured: "/6Dn04I+DsbuVT9Ox/Z68IOzy/ANabAKNef7Jndk6vmQk9A53ba3q0v2uoeD1LUxgxxfdp4J90IRYRhF3IFbSOvaRzXgc2YVxU6bYSbPyn6Rl8BwHmli4ohTzzMjG6c8N0QM6B1DkL8yNgEhTPRpBKLt0FWzK+hVrcKhw8Xv8imKVFdM6AGJh3BqD0ADYAzAhFLGESo0wTu5VSoxtVyGcxTrBojFli7GxzB3LGulX9pCENdf5agd4xPfhxqgTx6b7j0WC4eG3BbQFm9Yz4bP6XMsp2606hET52F9+GcBRbGl19303nUfaKCafoT+d75ZVbeOPsWSICApSsxMDN7tPzmSPny0wLMxygwfQ0utIRb+UdOYwDwdwr7juocwI/yAQuXKHgOS0mn0W1IgV9WUgTS+SYZevt0OqTw0boeP+gw=;GxWtxFbl3w2SMFei+4ywLg=="
+secured: "wIIxodpMgpUPiJILEWGYMdsHjs2Unedf/kzYNl7BuBpxqeAo99WWMDt5XeE55fS34NiNg++Gufmu/S/g5kz+ItE1WwELZhtOk+AZBbg15hNsRoHwtnBowuc3V5ggX2cmww0Fn+y07VnBsEgucnrn/LN2biBB8Went+/+CFkatraprdJEwp5qzcLsImyajyezZX4AzM2TQ+9B98/j95Clqm4OCXiCWH1OviCsRCYWt+wQoo7W8mX/eITPCDfV8i6YK4W8r2Ye5pj/Ue288imyHAe1zDsql+n8xJSOClHG9BPw+0PXBMVjPNpUuNpX9MigSU4ijNPll9I15YqIuBDd+uVIyq8nxHXkIbk7Vg+8I5OTF7j8wsrFg7UUC2o2V9VjTy+TOpJ1Qa4rpi/PTfj+1UCx0VR/N3Ef9t9bTPbosHA=;yKyj5VriVE+7ixi58n5vzA=="
 ---
 

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M15S
 publishedDateTime: 2016-03-17T10:40:26Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6PZSZ53iSos\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ topics:
   - Power BI Desktop
   - Power Query
 
-secured: "vCM3huI1VeysATVsYFkZotF54GXLslYXTzxTIhfRFEn5CpFmLfCsZlArRcP60YEaEOXF9Gc2D9P5Ibou6Axg/5CMGjZMEpHuEFZgdW7+WdiDwhZeOuoQeH1soSurlUB9+jNcLCVG8OD1phVBFGYFGzyK8BS5jCFAYm914euWw6ftQUG0sb4xs8n4DBfP0DLE0Bs5ZEM9E9ZF7p4oOjl08sLQTUbjeXQi1cs6SnbF5eH8ThSBNpo7j3IizPo11FSQI+VUYo0Ivn2veYAATumZvSYJIldTAST8UQsghVZ9uTRK+7Un7gXwVl/ryR0wff23DgRdzbuN6qmuy8tkNU37pkPkTU32LJBO/mwdc2B1UeLBVgvH4XsvrkFPrbQCdUikWEzjhzACLWanazpwmdZDkH3hjobmF2L+ka9qiolfF5g=;cQ3NXX4r+WAsWJ9qJi23Pw=="
+secured: "K8y9QPbAYfTbRfT/1OuqfvqXklZyDINqSOErpftbw827GW+usTqL0JDL4UTr7QCAm4U9DvtJXAxPgzYGUo2ocd9E01aKxS6mhm5lfy6ctQgzdYXofopZOGOWfQtBWHLvQS8TOVIA+lgTi7Q+5VilBy3NbcPVDg1h1lhbvyM5rGVdntob9zxEIereXAyw2TBILeIYXezUfr/wtq7OXe/DpjnW2uBaERJw5DU0Vhw6azJqKkV91IGQxe7bPdb7up6gfztLPIsr6AXgoX2MLcB/I2QANQNOzJYOYrhkyYqZ8S/ndOxjJb7oFjNmxlVmSyBEDPVoYDNQPiNXUWZL/TSeJ8aSS+LFBDGhcDWguNC7ALleWtWsWBa0B8PBq4LOYk4T4gnqSiytLKxJiyHQCr4DEhORdXmpWetoi/K8jMUzmag=;l8PuI8K7xbqugfllrtxwvQ=="
 ---
 
