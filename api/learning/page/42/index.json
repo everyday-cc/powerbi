@@ -78,8 +78,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13337,
-            "average": 4.679763
+            "count": 13338,
+            "average": 4.679787
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -779,8 +779,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 37,
-            "average": 4.783784
+            "count": 38,
+            "average": 4.7894735
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -821,8 +821,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-scalability-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 27,
-            "average": 4.703704
+            "count": 28,
+            "average": 4.714286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -863,8 +863,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 27,
-            "average": 4.962963
+            "count": 28,
+            "average": 4.964286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1165,8 +1165,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/architect-analytics/",
       "length": "PT41M",
       "ratings": {
-        "count": 73,
-        "average": 4.712329
+        "count": 74,
+        "average": 4.716216
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1368,8 +1368,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
       "length": "PT46M",
       "ratings": {
-        "count": 37,
-        "average": 4.783784
+        "count": 38,
+        "average": 4.7894735
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1578,8 +1578,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 27,
-        "average": 4.962963
+        "count": 28,
+        "average": 4.964286
       },
       "provider": {
         "name": "Microsoft Learn",
