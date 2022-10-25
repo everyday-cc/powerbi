@@ -4,37 +4,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_learning/videos/radacad-get-a-field-value-from-a-related-table-in-power-bi-dax-related-function-explained.md",
-      "title": "Get a field value from a related table in Power BI DAX RELATED Function Explained",
-      "excerpt": "Sometimes, in Power BI, you need to access a field’s value from another table that somehow is related to the existing table. You can use Power Query transformations such as combining Merge with something else. However, this can be needed when you write a DAX expression too. In this article and video,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-get-a-field-value-from-a-related-table-in-power-bi-dax-related-function-explained/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-get-a-field-value-from-a-related-table-in-power-bi-dax-related-function-explained/",
-      "originalUrl": "https://youtube.com/watch?v=GqxECuWRiio",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GqxECuWRiio\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M25S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-06-07T15:28:15-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GqxECuWRiio/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-how-to-do-power-bi-mapping-with-latitude-and-longitude-only.md",
       "title": "How to Do Power BI Mapping With Latitude and Longitude Only",
       "excerpt": "You can just use latitude and longitude to visualize data on the map. In this video, you will learn how you can do that with the map visual in Power BI. Read more and download the dataset from my blog article link here: https://radacad.com/how-to-do-power-bi-mapping-with-latitude-and-longitude-only",
@@ -242,8 +211,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4517,
-            "average": 4.7175117
+            "count": 4520,
+            "average": 4.717699
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -284,8 +253,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4880,
-            "average": 4.7266393
+            "count": 4881,
+            "average": 4.7266955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -386,8 +355,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 4607,
-        "average": 4.6915565
+        "count": 4608,
+        "average": 4.691623
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -428,8 +397,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 4517,
-        "average": 4.7175117
+        "count": 4520,
+        "average": 4.717699
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -470,8 +439,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 1610,
-        "average": 4.738509
+        "count": 1612,
+        "average": 4.738834
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1203,6 +1172,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/oxYQ2GGefrs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-conditional-formatting-with-field-parameters-in-power-bi.md",
+      "title": "Conditional Formatting with Field Parameters in Power BI???",
+      "excerpt": "You are excited about Field Parameters in Power BI, but then realize you can't use conditional formatting with them. What the french toast! Don't despair! Patrick and Adam have some ways to get this working.  Matthias K. Question https://youtu.be/ksmNfa_K8GQ?t=1011  Let report readers use field parameters",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-conditional-formatting-with-field-parameters-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-conditional-formatting-with-field-parameters-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=KOeT9Dsk-xo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KOeT9Dsk-xo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M40S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-09-01T08:00:10-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/KOeT9Dsk-xo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

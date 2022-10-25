@@ -4,44 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-help-your-power-bi-report-users-with-an-information-panel.md",
-      "title": "Help your Power BI report users with an Information Panel",
-      "excerpt": "Do your Power BI users understand your report? Chances are, at least not all of it. Help them out with an information panel to help describe the report and understand all of the capabilities. Adam walks you through how to do it in Power BI Desktop!  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-help-your-power-bi-report-users-with-an-information-panel/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-help-your-power-bi-report-users-with-an-information-panel/",
-      "originalUrl": "https://youtube.com/watch?v=yYr_SlG8bpw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yYr_SlG8bpw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M49S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-25T08:00:16-07:00",
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yYr_SlG8bpw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-bookmarks-selections-and-toggles.md",
       "title": "Power BI Bookmarks, Selections and Toggles",
       "excerpt": "In this video, Patrick shows how you can use bookmarks and selections to create interesting reports to show different aspects of your data. He also shows a very cool way to change between those selections that he picked up from one of his customers.  Bookmarks - https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-bookmarks/",
@@ -2470,6 +2432,217 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-design-and-build-tabular-models.md",
+      "title": "Design and build tabular models",
+      "excerpt": "Design and build tabular models",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-design-and-build-tabular-models/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-design-and-build-tabular-models/",
+      "length": "PT2H43M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-create-power-bi-model-relationships.md",
+          "title": "Create Power BI model relationships",
+          "excerpt": "Power BI model relationships form the basis of a tabular model. Define Power BI model relationships, set up relationships, recognize DAX relationship functions, and describe relationship evaluation.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-power-bi-model-relationships/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
+          "length": "PT1H30M",
+          "ratings": {
+            "count": 64,
+            "average": 4.828125
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/create-power-bi-model-relationships-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-dax-power-bi-time-intelligence.md",
+          "title": "Use DAX time intelligence functions in Power BI Desktop models",
+          "excerpt": "By the end of this module, you'll learn the meaning of time intelligence and how to add time intelligence DAX calculations to your model. These calculations will include year-to-date (YTD), year-over-year (YoY) growth, and others.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-time-intelligence/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
+          "length": "PT19M",
+          "ratings": {
+            "count": 1284,
+            "average": 4.738318
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power BI Desktop",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-calculation-groups.md",
+          "title": "Create calculation groups",
+          "excerpt": "Power BI, calculation groups, enterprise data analyst",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-calculation-groups/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-calculation-groups/",
+          "length": "PT1H3M",
+          "ratings": {
+            "count": 51,
+            "average": 4.8235292
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/create-calculation-groups-social.png",
+              "width": 1282,
+              "height": 642,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-enforce-power-bi-model-security.md",
+          "title": "Enforce Power BI model security",
+          "excerpt": "Enforce model security in Power BI using row-level security and object-level security.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-enforce-power-bi-model-security/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
+          "length": "PT1H21M",
+          "ratings": {
+            "count": 46,
+            "average": 4.7608695
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/enforce-power-bi-model-security-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 5,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/create-power-bi-model-relationships-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-empower-modern-analytics-and-business-intelligence-data-cultures-with-excel-power-bi-ms-teams-and-sharepoint.md",
       "title": "Empower modern analytics and business intelligence data cultures with Excel, Power BI, MS Teams, and SharePoint",
       "excerpt": "Excel is a Microsoft application that has been in use since 1985. You might be surprised that in addition to simple spreadsheets, Excel can enable modern analytics and business intelligence. In this Learning Path, you will learn how to modernize and empower data conversations within your organization using Excel & Power BI together with MS Teams, and SharePoint. You’ll gain awareness of the business intelligence landscape, technology capabilities, and their roles.",
@@ -2518,7 +2691,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 134,
+          "heat": 54,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",

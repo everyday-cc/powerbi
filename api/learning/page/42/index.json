@@ -4,6 +4,24 @@
   "page": 42,
   "value": [
     {
+      "path": "_learning/articles/kasper-on-bi-refresh-the-table-fully-after-setting-up-incremental-refresh-with-tmsl.md",
+      "title": "Refresh the table fully after setting up incremental refresh with TMSL",
+      "excerpt": "I have seen this question a few times. When incremental refresh is setup, we cannot refresh the whole model. Some workarounds are deploying the model...The post Refresh the table fully after setting up incremental refresh with TMSL appeared first on Kasper On BI. ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/kasper-on-bi-refresh-the-table-fully-after-setting-up-incremental-refresh-with-tmsl/index.json",
+      "webUrl": "https://www.kasperonbi.com/refresh-the-table-fully-after-setting-up-incremental-refresh-with-tmsl/",
+      "provider": {
+        "name": "Kasper On BI",
+        "domain": "kasperonbi.com"
+      },
+      "publishedDateTime": "2020-09-17T07:52:16-07:00",
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/articles/kasper-on-bi-the-rise-of-self-service-bi-powerpivot-and-power-bi-and-how-it-changed-the-world-with-rob-collie.md",
       "title": "The rise of self-service BI, PowerPivot and Power BI and how it changed the world with Rob Collie",
       "excerpt": "In this episode of Kasper On BI we are talking about the rise of self-service BI and how that is different from traditional BI. It...\nThe post The rise of self-service BI, PowerPivot and Power BI and how it changed the world with Rob Collie appeared first on Kasper On BI.\n",
@@ -136,8 +154,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1187,
-            "average": 4.7245154
+            "count": 1188,
+            "average": 4.7247477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1593,48 +1611,6 @@
       "topics": [
         "Power BI",
         "Dataflows"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-power-bi-model-relationships.md",
-      "title": "Create Power BI model relationships",
-      "excerpt": "Power BI model relationships form the basis of a tabular model. Define Power BI model relationships, set up relationships, recognize DAX relationship functions, and describe relationship evaluation.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-power-bi-model-relationships/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
-      "length": "PT1H30M",
-      "ratings": {
-        "count": 64,
-        "average": 4.828125
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/create-power-bi-model-relationships-social.png",
-          "width": 1281,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     },
     {
