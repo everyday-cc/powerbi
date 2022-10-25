@@ -18,6 +18,10 @@ images:
     width: 450
     height: 216
     isCached: true
+  - url: https://exceleratorbi.com.au/wp-content/uploads/2021/02/SCPBI-Cover-3rd-Edition-small.png
+    width: 300
+    height: 408
+    isCached: true
 
 secured: "Vy0+bEyiM0jlFajPBoBywIVzkavEyLetPQfoUl1GOeD360OaU8WQq2UrJ9fIaGyMSLx+bm9NP6p53Mz/gvELsrVwZxcDX6uS7U2Nn+MQq/ugHemVxua+YY+cGzwLta8dJ/1qkeSInZQIkgN9SdeEyL22AvbSyTJ6rrfxGJp09cHIa4jTBEp7rEytaN1AMgl9kaygOP+01mY3bxoTRhTAGbYUKajhf86i9hckaCyuRKYUVFflFYjQYhRMgjc+76Aa1gE2cxTsMZdKYSMX0R1o0NZPtiCKmuZDe7u1W/B9Y9oGIe1BuijO/tTQSZR6nHa9HS9/wb4tz5RTOpPjBnrRRAFSnQVV7lI7uToe/QzTSjA=;kE5JBdEKAT7gy2ub2vX1rQ=="
 ---

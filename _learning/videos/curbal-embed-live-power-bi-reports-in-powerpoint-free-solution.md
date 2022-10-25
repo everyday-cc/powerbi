@@ -21,6 +21,12 @@ provider:
 topics:
   - Power BI
 
+images:
+  - url: https://i.ytimg.com/vi/fQpIkDI-678/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
 secured: "yORLpllmgf2iBmDVnvCgk5pJJNRFwCLnkRjbLQROd2ER+BWwOrza4YawCm4qXpYaZYZt9LdCrGhDVsNKRNwbMjsPrIPSd5/hOPj4P538KsSFcAGUWcdAiBEdi3WVUAVzT4N7w33n9NqM/9+klT+0/T5W7t77TJUspOhX9oGnUIrqM0EDzj7NmV41COee/7fYo12VEVQ/vp2DX/ReFkMgoVfQEy1fSkS8JbMTt+O4dmkKCDl3qJFygzr7QKJ/KKjuB0M4JB3/HvWdC/H80DL5xx2k7rpazf/EBokMQSttnlpRlfZoasJsdhLPIkuaXmyCOGKYsx2Grf0GYaRp3SszvE8pYCMSz/jKVnKugRSEciMmVgSdmo7Qizs2DBRquzf9FHNFe5eAXwC2yS4BJWsr0A==;PC9FZBzvVg/FzVGahd5/2w=="
 ---
 
