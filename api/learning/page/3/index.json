@@ -382,8 +382,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 5645,
-            "average": 4.6687336
+            "count": 5646,
+            "average": 4.6687922
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -466,8 +466,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 4606,
-            "average": 4.6921406
+            "count": 4607,
+            "average": 4.6915565
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -508,8 +508,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 5058,
-            "average": 4.732305
+            "count": 5060,
+            "average": 4.732411
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -568,8 +568,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 4708,
-        "average": 4.7215376
+        "count": 4712,
+        "average": 4.721774
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1163,8 +1163,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1609,
-            "average": 4.7395897
+            "count": 1610,
+            "average": 4.738509
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1205,8 +1205,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 1124,
-            "average": 4.7793593
+            "count": 1126,
+            "average": 4.7788634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1982,8 +1982,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1479,
-            "average": 4.72549
+            "count": 1480,
+            "average": 4.7256756
           },
           "provider": {
             "name": "Microsoft Learn",

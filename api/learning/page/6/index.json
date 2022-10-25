@@ -349,8 +349,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 109,
-            "average": 4.7798166
+            "count": 110,
+            "average": 4.7454543
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1061,8 +1061,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 85,
-            "average": 4.8588233
+            "count": 86,
+            "average": 4.860465
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1103,8 +1103,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-select/",
           "length": "PT29M",
           "ratings": {
-            "count": 44,
-            "average": 4.75
+            "count": 45,
+            "average": 4.733333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1521,8 +1521,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 109,
-            "average": 4.7798166
+            "count": 110,
+            "average": 4.7454543
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2638,8 +2638,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 8370,
-        "average": 4.749104
+        "count": 8371,
+        "average": 4.749134
       },
       "provider": {
         "name": "Microsoft Learn",
