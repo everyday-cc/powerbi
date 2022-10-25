@@ -18,6 +18,12 @@ topics:
   - Power BI
   - Power Query
 
-secured: "i9XuJ6KXeFAWSpJUHAh0niI5bHjB3gs0pVQD/Z4ylk3aPiCfzc6/wC3iPyqID/se9y7eJX9vGGM6nzp8MZ4h+IHQkcwTgh6usHPJo3Gnll1VsAQQxo/SWEvsU1MU9nC51sr0rTAWtIxFMAnAS7LFd/mrPkg6Qn7n8lm/5bzHHWmMzxGvaOd/N0NHepefjVtXEdN47w9uYDaHaizc8fVriBRSsxFV4IhrAy6omN7+dZJkqqpJlOu6Tg+2NC3fPFQndZBhCgGJwcEjaUprW1TDkpzf0AmNiB3qA2ADL+zNK0KaCc40Z3ZxJaU8N9rsoOWGlhb91wtYV+fj5VE6Ai6L7M5URExB/aLCUX/76pzzEaO67InBfZe0lrYHe9IlptZzkWBJ4VcUxMKrzeQMrgEsApsbrEpCdNCqDlUiNwEjAk0=;0rXCr2MKBulArTs+vnZ9Yw=="
+images:
+  - url: https://i.ytimg.com/vi/7Nx0i9pNiv0/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "FpBzVLDOUYehXLv6qMEtl10rVF3DhnEZQ/Avcic0Qn7ZdcBxunFid5HCnz1ZYkmWEgjSmkobke5vxY8DZBfyz+nHr/OgcFL3nekrmzy8/3k9V7ID/D37/Vovoax9vZAXVfIdm3V1c8wPMrHgukvPTtrECMxONloRClP68neiMcvamX5UZ11JAgu0pk6bvWfjnvK6aPrHm+XJLRT8ZWQ/v+C4Fp/GlqHd5rPfOSalKC+Y6DITu6hctQjnNdClzg9/yo3XswDb1LPqS0MyYaThh3L9Szf3QQLbxPv3+ftAjjACMC1c62kizooHVQv1q757KfaY1P9hTpgyUj8O0RMzoZiApXZUZN/SC8/YyFDjr2gmiANIHVu7evAY2AR1uA+zJYwPKpmuDzXpwt8ZfPn1KS/ySbztCVGMGCTzs38mEW8=;CKuyRpjGhbcHlXoEAKzJXQ=="
 ---
 

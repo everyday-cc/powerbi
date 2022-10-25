@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT30S
 publishedDateTime: 2022-05-17T16:00:21Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UwmsOhe-DZ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Power BI
 
-secured: "3tlc4imT3kBe/CeVVA5eWfvzL9uLbR9TTkCktF0NXvxiMieBATDMsgFEKrtDSGOqBq3A35QjGzEPrmmwPV48McTPEanEDBDlUxwP9IO/UFSdmFvqeBZUs+0DTAb+TjIwREEdkJCpZqBCaK2lKFuDRKyCiLgt9ueXDiH0qc37DGhetmDf/9NswRVZT/uyML/0ds1tYKHvqFC0R7SRJoG1ZpC8NRzwct/F/SwEp9BnuuDYnU7iEh/MEz0E2M7nxFjlXtQmS3Nw3rvWxhU3FizjcWujctXTUjsQ8Yoso4/XcubnHL0YYqbmbPn4EBTCp5BrLlZlv2Vmdzl7BY6jN/ZqLO8tLDTgY46TEa36kNVRwwa2Oj2PeuhFw0DZESeX8Fj7Oamnm5xKvw7rX9Q/Rc6z5h0OwVVL6OlqQney/+5bKJQ=;+4h1BRcOeEi7Jjg56AaAHw=="
+images:
+  - url: https://i.ytimg.com/vi/UwmsOhe-DZ8/hqdefault.jpg
+    width: 480
+    height: 360
+    isCached: true
+
+secured: "POa1N8Ggpd+TpXS+T4DNi1rmHxlOc730zbJB9OJxCFFNiG52t5lbprkckBVFCo6S4sFDFdIloK5vfrh5s0BgPGxs9RIG/0ivamoabblJFEJozC3PYx6X5C6HUd72VvckBl62BTHdRLOpmXANZ9EFK+6HqHxWESp1my0u928l6GwlBCff/Qnl7NZ6vT93rrUManZVCRcmvNzYwbmeBbXHgnfC0ylFMbgvRSmuoebT7wwUCxgm3S0RAPe4OyD29gXBWHRyByt3zVFGP41/0b1Yaxo8QDuYjDdaUQyMa1l0GfqJ0Mpd3E3Qmu9hJTP5LeHTdRiI8ORo+O7YJylaUOI5lz/b7BqrSXwqbHHo+xua5UyThVqcjdNajXLLJl8ZqHQbUVk/wG66JMJ4mjxWI/+77IyhkzroyGqJTHNU7ZmzazM=;1S55/9ua7eSAcMkTKyo4/Q=="
 ---
 

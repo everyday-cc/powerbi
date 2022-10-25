@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT15M25S
 publishedDateTime: 2022-08-24T05:17:02Z
-heat: 50
+heat: 131
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bfGIcVtquHU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Power BI
 
-secured: "HZJYlGjFBGVQGqxXy5tQEG2w3YtvdneB4ZwVst7L9Uq/2+8clUJ8F6dnHWTSoCMXq3EWSguOU0hjNtiDwj5CmnVOOhH56DHq8Q83mxZHdpD8K0LM/LP/BVJ26MDnBS0kUh92rtGDfYDCv3vNOd5IPDNx3AgG9kVAiZdCZx+Rc+h6At5df+cOg7BCjKYP4JIht0o5G+aRfJSHxDZEDCdin1W86HPnj+tIGIwYB9oAax8HWEdvnRT9pYI+DTbgSN3AhAq5qTqr9EN0XeGuTIr7fJ445n2puJ63eLKHVdTEGhfpTAgvlFnU6ioaX6ukx36Rug7weT0QBoL+fMDV1NlFCHi5a1x6LyS99X1vrys71Lera0eOXGFQ8gfgSV3PuIdI0zXcP4HdoAcwcJRHQ02SP9LLrHL6lQbuj/53Ybk4Q30=;ZAMqPnQJYA8l2KojazYhzQ=="
+images:
+  - url: https://i.ytimg.com/vi/bfGIcVtquHU/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "Thsc4bAuSPgTLC0NgAziR3cAaV+pdKFfVeBQwLu9+LAAs+3Zum4JsWWBdguSLcTKsCutiaioeUJkpKOecprfyCCrmqiRPxenP3rTWxu6MRTD8xcrkuHg75J0Z5dSpsRAdDZ3vLauIPjWhiflTmPJcEgrnaeQpQr75kKtg0yXZOE1oQZHx382Y9VGxIFT/lLpxqiQ3O8ZnuB9LROfDT6pLRebNGmP3okW396Sk+dnMPB3d0f+yQgnBvZnXuPmtBP5CeHMUnqAsGqBMerUxW/aSzOgusTRfChOI3UZ9xYYrmRh9itbbQRPbhbKnaM/vaAiWSQGwPclRbnIdtd5zA9B1yiV76DKwU7XEVD8HQ0L78eBqvkVN3RK2Xcc+vnDQCmTwOjpZ9KBW1np64HN7pjziTCbXpjN4nawqfTHo1Si/TU=;6XyJA9oueHE4IyuzAKhPsA=="
 ---
 

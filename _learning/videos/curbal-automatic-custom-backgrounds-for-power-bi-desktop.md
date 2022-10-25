@@ -22,6 +22,12 @@ topics:
   - Power BI
   - Power BI Desktop
 
-secured: "6IhPH0zyHFJjGVIc2XXH+MemNYz6yByq9YIPcCkbUTYCZ/umBdv/bx7o6HOazgL4tLVyda4EJ9D21euecaZm/mHf4Rb/1/b0glxEadbQHh1v6y+8YW6kYyIpVkG8U5gd4ab++9QpZwc96i2qnJjIAiI27PNhzulZxH24KcmZCpXC5cr1hxvfHADN1rJdGmchSOcKcjVcKTGrCaL2hTFVeZXlYH/fqI8CCUJf0OENEpVsvyPav20MIOVjqUdnk7nOs1MROvD7YooN1IpgSAgIDcAca7I3Nz0RSPgwNIpQlq6PAVi3zSQSMZrjwYV7VtBqhmKS+F7VC8IApDTbCUiSTGO4q0wROgkgO5CAQuc8kwJ8hTYXoHdaOg8QSV6b07CGqwz09uuCrDJi7vLo8skGwdIcYUpOWGM7404qO7Bm6Gs=;9p5G9XPo6HQIxbUbZyO5kA=="
+images:
+  - url: https://i.ytimg.com/vi/Y4CMU-iOd4I/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "byB4E4NAq9NtcUT7DmRPkfJd/aqpxiHJOLSgREfpE0MuLjdz5RKOcOIbgF5/K1mRw5e4edXuKuCicI+ClhbcLR6yCmVm3Iz9xxMJ7JVm9+H+V4iBm5j2wu5z/jNfkBGPQdPL8Ic4pSXMy8zwiHrAxzo68Kvk8dJv7W4MXnqq9JboqXRTsIo9rUzudNqAuVWVl03IiIzGq1mY/LjkS2TfQ10HIkPBty0RNZpxSu9DYpq+Ksjj84cdwJQaRDrStr1q1AyiE/RHS1U5MCrF5kQ6/h/qGBWsI9XoxA9TEXD7c7i+5LFKq7xm6CfV1Gdrrio4MTMlB1/YEMI6FHzYKsCmbpVTl8Qt7XhJR7FhBrpKee/tqw1QrGas5qYc18VInRZf1NenluID9mqqITz41bjCfXJdkGNc+AnkMar7S+pCeR4=;wQU4U15dQTaacYH3dMqtjw=="
 ---
 

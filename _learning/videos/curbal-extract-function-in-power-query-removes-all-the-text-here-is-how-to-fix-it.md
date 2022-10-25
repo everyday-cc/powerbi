@@ -22,6 +22,12 @@ topics:
   - Power BI
   - Power Query
 
-secured: "GGrQ6o8Hxn6uGI0uQmGrTJP7G7D009VNagiixFaKohK/znAt7xBm8TwI222oVCBlPbg1lfrqyoVQ4R/BFb4oLGj0sR8Lge5LgTacDrNUTJzPrt2LM2engItVFACmVL82rJTTeK6shD+gGAOuWWsAdfI/wWD7k0EQdHp4EAQ6N/JPVOgzefSOUsBeB0hb6EeTQ1fDILYe4oXUSXFBgT5UXrlDUSscfLEUeY2szsqsCCFHNnihx/K57Ea1xfy+L37p8/fY/NprPG9Uxrq2tjheDf5UuOOf9GrdnupkAR+TjuU11bkdBu6DKtYeBP3oUcFgT+nXs4uMb5nLhNA6yOyd2kv7cTMWwcL4RJbEWN/SFR7Rgb4hKukNMBIf7v8aMQMzsJ6pE2/Rg/AKYFkJMHqMInCPehkB7KjY18ACwTJObLg=;d/TtuMbdxPzajaSAIsfzIw=="
+images:
+  - url: https://i.ytimg.com/vi/JikBsGFfBDA/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "BK6EdpYNtTAH+907fMx/jvO0EHdTBN3kZ5k6ngdgDIXTCUaUPHJuxRnUZ4Q3ex9M90sJ9aENMx90vzRwh8y6QvpiSWfrvmfhAtT4C7wZNk1pHT8q0INATX1IIx82d/lfteLD+5+98M/G/S4ekLgKF86Ftm5uSqSfMXnGGTagHbX0DX6wX+BsRInsi7htbaJbbR+pZLUpSnjx4o5ZUKdycqlcGVv3LeT8tUC4zLHtPVkLTNBs1Y8bqNcHzwJ7g/V82eTknkm2fY+8K2Tam07wY2CyqQoUzvzAoptVaPj4tAFQoq871e9+bujFc5Lf3PQUxIJFjgGdlL5AoUMG4kxTByLeNEwVYEbDL9XhavtP0nZYfTRMhJTphauOqRgFsM4hkgpguMqIPDwIt3GpGrldCAS9Iccxjm3va/BivEY3uvw=;fcC2GglgIqIHqwZSigwG3g=="
 ---
 

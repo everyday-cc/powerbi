@@ -296,6 +296,14 @@
       },
       "publishedDateTime": "2022-06-27T01:06:14-07:00",
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UCioY5ZgBkg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "price": "Free",

@@ -22,6 +22,12 @@ topics:
   - Power BI
   - Power Query
 
-secured: "Er2qR6LVHngHBqnAGRKZEMT5QnLvRsIB19cvgQ3YCnMi9TLBaNvzRKS3qbkbE3aBHB9UYM/nHiNsk00JsTW2+3bChuGIbNOEQY5OcCDpqANzNdufptFlbyN41mIgObxlSWNflqBbupunqwG0r9V975McoMRxc0vnxdbcF0wma96gAN3l72OIdhQljovRXfivZlzbLmCwWqxJ+Xxai9NTYMBvrTgkYo0m3mN9bWm4PVos5kOR+wiONWc/NHGYix/nWcv6YG50UFt4q5HNWr5CdMhnJzKGMlfmAkQBylhjZzkS8bM8NtKrFZzE6+omEvfZaVFDBLrpocuyHBy4rX/ZsXZZC8RnLfzhNyWm3A+9JxHYQkgrRYCdSzuakWuIFMQKxe2HerhBvcMB9g+5itKbLD/pIH8G/Qgw9prrBFNmHZ4=;i9rg3V8WgAUqY2OKNSlW4g=="
+images:
+  - url: https://i.ytimg.com/vi/wXaeihpO178/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "U/gCIqykAvaf2gzx+R4a6VMkUStSuMLYxJyUzb1+HPGgDwzmqnC54qGzvuy+WWESuvor1MA9vMB6p6rIwB+JKObQXc7krlZxuP6xVIizYj9M8XRsuV6DdMn1wbJHi5F6tZ9gwzBrz2k3DR55A+Oy3DI5njmaJLJ2B8fO+cYWM+At7iTA6hkbzM3Bt5REwlDpjHoo9akJ8luHk4lYz59U7qjklupcYUmLfXdt8tFWAKGZnHvYPp3ztVkprfRZuthw8iFhLdbhA1tfY3UdBAvIlS/Gr2PmTsY55Z761meH+sGemBueAI2Kfw+9ElPG9PwScbb5wx1Jg3zKpvnNFRAOypZt71zhfv4hun0ct+riswavfZiiYWAzWlZFf6SeYGp+fxJRRz+tnLIVy9C537kj7WbQjaC7I1hhfTiJpGU7apw=;7Mg/YTSRAcRmv9FE6giIMw=="
 ---
 

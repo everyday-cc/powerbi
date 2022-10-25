@@ -22,6 +22,12 @@ topics:
   - Power BI
   - DAX
 
-secured: "aySpqITzP8CwyqdDGdf9IIO/+dLBUuMxVdu8fgntBPKENnjLbD+JHfyawTnjyp9wcFyLmVdYhodXQNU+mjoHDH83va3yROhvR/xR61Igu0wuiuTfOhuwHt1flmVE1USNko83tpgrME/NIfLKtCYofump6mCoMg8omGcNS85ljrrsAtJHZb6O3M5TVxCo2K1VbBw1QN5JXaskJOnorJeOhy3eMe8N2Vhn8gymaCVeSHhD2Qvvk6C3MmM8BgehlmyZ9084sf2tBQgQ/+Opm0EAPfQcBc4wgEi2IV5X5QRjpOY8Nh84RXA5Fqyi8L3vAcbXhfabn8CG3XgPZgdnRbJ1Uusks/m6dWZYxxRd+RstRt9B838+xKS7qCHnPxn8CKebgT3aG0xnzkqoiNT35dIdixz9uPvlEFUPrj81vzuRqps=;AQusJEPK4JuCPBJpYhkYPA=="
+images:
+  - url: https://i.ytimg.com/vi/6L1YmLjmzXA/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "2r6jiWDUxKgIE81qmi9AR0eya+qHK9uSR+BViAYLhzV0gEbWx+V29C7z4FCrL3XyLpMsoCY2bN6cWQXt2wYYJw5yxO6DYQznWmYTbrUNKgVOJBRfw2arq40wdO7nmStpLPmCV9mdNy257EmoOJyKoJLXuPW91RL/DIuYsT+a/PJKqiSruLmGJUg2jer8BIH/WjGstvnKr3b+FX/9KNp7je7PWg+TSn5hz7ZcsUipMFH2Q+7FiMfrJwgeld0AOD+5AjuMF+/A0H7hbG/jl2As0YyqhEeEjEOaG/KQo+Ru2txUEOh6QfV+bbDC1HCOSFNPYLuI0sWu3IdqERO30sL3NYzditf/rwcvuozNLuHGl6PcC5EaKbIulitonXdh8gORmIDw71LQs4HavKvGQexhDohf7x7Y/jM9fnH6M5enYi8=;i/90xTTPnq7vlXou0oKuqw=="
 ---
 

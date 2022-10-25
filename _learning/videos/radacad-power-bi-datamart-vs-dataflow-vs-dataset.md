@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT17M50S
 publishedDateTime: 2022-08-10T01:39:34Z
-heat: 134
+heat: 60
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Biz-s-YoKRc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Power BI
 
-secured: "PIdkE0pJ5Ba1P06Tp8OOhX8ptNrbbUwo3gXctZ/0Hc3W4wtenvk8NT7/eghwObznq4yFC3kAP5kmeqLWEx6Drdb9II6oukSDmk5pC8PW7mtD03X+mHt87a6t1q0M5abCjMz/GcOVfF5za4R6AAeKS7M4XqOQ8RWWeoL2kGZB/F3eHZ3fWHXmHZFCsIqV/Qlm2cozkRXouY0Ha+8E6SIaTFul7uKOYfy0DYMF7jyLoYgLviN3DgRJgG9c1cbhpVhrf/XtSqznWjfwuGW0GE5InthRv5pTPyk3T+1AogsO9/hyBjXz7G3SrtxtN/8d/OB7TMZSN8Rmn0M5FBEp6EfM4mm3FAVV+/YqiHtKt0Xgl4rx5X248IbVciwk3r9AdLirvThFUH16KZU9NYE++3Mu/iCBiUHbmEwTzoOn+o6H1nA=;wThQC88tzbZ31/N1yuq/aA=="
+images:
+  - url: https://i.ytimg.com/vi/Biz-s-YoKRc/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "gBnDshF/N+Aa0NyYHr2NPxKE5wWVxwIVtcXjn9Zu82hWKdd5P5fq6s4yJtQatS9fK7Q1yxcnlIC8SDtL1mzhzWMc003OXc2wdPsqI9gQVGLaYPSMD802GOUraD+VFNlBc5U5xVyrnJg5/zj2jExVF62klgjlxSgJSQafTRT/HzHVE4JH/Vcfp2VWuaL3/Fi8+K6COrye0UzhM8us84rJ2Q0DLXncSH9xtdIUexpJxARsKzzZEUxL039mAel0iSvvsfvK6w0VgW02pUlvQDR3rkXN6WiFALhUV+VV+6RZoeItW768aBwI2Gn/5SygTNhJX4eYUFy6Huweo4Vv1sdfY4NWVFeXwTVs67oI8R7qk1D6cVhLy2dJwBFaoQv86DW7bJzJLkyKDmxA2CCoyzRDA+QA0mROBh/S184tKgUBnrE=;uclFvJUyzhu1sKodNc/Sbg=="
 ---
 

@@ -21,6 +21,12 @@ provider:
 topics:
   - Power BI
 
-secured: "fuAQ4fqOyUpKLlmqtYS7HD4Wo6xGhyADMAfWD73xif4/Nw5PF7QjRbCJR3fU8jGNBzZA0Wx35ck2UMHRvBjpZcoCQNvEpHT8L61ctlH13Gzm0RkrEVyh8/TYxmoD8FIpy5NdkkGRRYdM3bY4T6EIA9SmRn3NeewCcyGe5Hu4VIGIaNlXSOmR4iwG23DI3UcBSbgA8hgZ57pvtBk4gfN6TxM7g1WaedNaEngY8kyIfx4ysQSA0+y/QDMpdtBJRIIWZfYGxo1S3GXu3+DEJ2hmbtUge7dP9VeC6oavwVEUXiSP9+g6hQU/nv3W6mFZM38XCMCv8EAx8qgP8brvcuRjxo1TFCb0nuuFNmWrdgBR3yYtkDcqa4/P2mH0tFtTe/XrJY3VVhOjQ2IQ5HvC4bw5YEuE0oOUYBRz4pdmP2DnsZY=;c0PeeTe6WPeEgdGNgNw0kQ=="
+images:
+  - url: https://i.ytimg.com/vi/aJHhQsNiOiw/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "2i7PsYzRcWBzXpZ1dRloLXf9EM1DCPn9DeSMAR2HsRnlFjeAmlVNb/IoIyQRVYzWNeuiAKxzutSfAhBqQpH1agm+fMKwH220cOgPgpsSDcEIv4qaBUmnKZLEkVvFCo0mM46xeQYma02R/njbn6MDj1++Kuc8kgUeGuemH3cz78x2Dkl2EQqb9jMrWco7kgKL6lA4ya5STLE4Yq//bm7C/ULhdOKNuHkNfA8aGPlQPaPlq7L2V9u180ZZFklUZ/tcxN7TVgKqRmVUH/sv8qFF+zMrLQG7d1LAG4j22rXSAJnVzjBYwiRsyjrPLI7bE5tRiaEakVNGA3FGlG13/UXZn9YqetkI80rD/17B88akCXmrTgxLXUYYnNdpOjZ1Un5vmPkPv6fFQrwSOhBxTcTV53yqGRia9zjjmRTWN1a2x78=;KV893gozux5K3EXasqgllw=="
 ---
 

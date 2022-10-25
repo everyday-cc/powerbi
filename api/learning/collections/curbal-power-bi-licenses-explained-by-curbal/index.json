@@ -216,6 +216,14 @@
       },
       "publishedDateTime": "2022-06-27T00:02:23-07:00",
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0N2tnABcAN8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "price": "Free",
@@ -246,6 +254,14 @@
       },
       "publishedDateTime": "2022-10-11T02:07:25-07:00",
       "heat": 81,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/40A2eKoK5S4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "price": "Free",

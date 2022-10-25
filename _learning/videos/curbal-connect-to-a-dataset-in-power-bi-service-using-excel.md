@@ -22,6 +22,12 @@ topics:
   - Power BI
   - Power BI Service
 
-secured: "VQF/YWcmjnCusFDGnyj7ilQI2x4zOqLRnDuNbsJfLmIAce0rJh8tI/Ijirkvu0PiCDpJAxwI/NpfcbHTLdW/251A5TNYWhxbVfeJdPmjUhAI192JNAL/bbeLEIg4B4PYczpbFRgBrNaNhs3xU5F3aOowng0dXpZr8RI2IDGNm+r9LTdJd6G0NgiikHTlqu/LLO9XXL9IpAJFW0K4xl4SoTbRRzjgqyK5hR9TzKyEyr5Rld9Qpuz5bCZQ16wpWuTct9kEfOhF6J5JjfrqS1FtTcnTJGgAW0kpnf1f0O32XRYcHHFuqEGxlNaR4y1ZbrGISmQi7Q36y/tVtV7XMepQEoYHFXtLa51kAXPl8ElChwdWD9BD6P+jiKXQlZtWs21SvK+sLf+SbmlrxsOT0M4Qb5/S/vvWtN2BJGPL2nr+E8o=;UkJJIsygu47GZOvEJ6PzCw=="
+images:
+  - url: https://i.ytimg.com/vi/3edQe2tSq7g/maxresdefault.jpg
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "Ox3FSVM2DFFY5AlYR7bxOPz0XvJgFsQkzHgM+gOFlf9AX7axTgIV2fZ+bc2C1j4EHswwlFHGObvi46oW27ORn11owCTSMpc5XmwSbiKBjvsK7p+e3gzHIH6xUfRNCbGUHySf8fZ1tTS9LqIpJpf2ZBeT8u4abRD1jOLyIDMcO6tg4E6ldm1r7yOOc6RnO7FthcUXVG3n7tNWMVEtdvzjTC5DRP2gJ/Ur5SCwVu5tEGxrCB6z7d3Bvk+JJJB1u7+SUqdZ4nugR6AAh1DBCFb9QHsc3ly+RanPhPDYldb/9DEhE6r5kmJoJGKbHOezTZOAUu543Y0dprqSGIo45yz8OQtqyZP/hrtnlMF4NYRgN3A/7p6Fv8kP4eGtOZAqHlcC5ITKnGKZ6Qr1SuyQNnUtrq8UJZBBiSVa/9oEu+X26Vg=;5W5IRlQh/sCP/FHy//6D1w=="
 ---
 
