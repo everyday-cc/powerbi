@@ -456,6 +456,14 @@
       },
       "publishedDateTime": "2022-02-21T03:51:59-08:00",
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FuGZoRkRmyI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "price": "Free",

@@ -1790,7 +1790,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-calculations-social.png",
@@ -2638,8 +2638,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 8367,
-        "average": 4.749014
+        "count": 8368,
+        "average": 4.749044
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2680,8 +2680,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 10262,
-        "average": 4.767102
+        "count": 10263,
+        "average": 4.7671247
       },
       "provider": {
         "name": "Microsoft Learn",

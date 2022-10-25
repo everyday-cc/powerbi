@@ -26,6 +26,14 @@
       },
       "publishedDateTime": "2022-04-28T06:10:58-07:00",
       "heat": 111,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_UKnsCSsRx4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "price": "Free",
