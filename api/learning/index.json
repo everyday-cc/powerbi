@@ -178,36 +178,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-datamart-vs-dataflow-vs-dataset.md",
-      "title": "Power BI Datamart vs Dataflow vs Dataset",
-      "excerpt": "Datamart, Dataflow, and Dataset are all Power BI components dealing with the data. I have presented about these a lot, and one of the questions I get is: What is the difference between Dataflow, Dataset, and Datamart? So I thought to explain it in a video and help everyone in that understanding. In this",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-datamart-vs-dataflow-vs-dataset/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-datamart-vs-dataflow-vs-dataset/",
-      "originalUrl": "https://youtube.com/watch?v=Biz-s-YoKRc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Biz-s-YoKRc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M50S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2022-08-09T18:39:34-07:00",
-      "heat": 140,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Biz-s-YoKRc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-create-and-test-color-palettes-for-your-data-project-quickly-and-easily.md",
       "title": "Create and test color palettes for your data project quickly and easily!",
       "excerpt": "DataViz palette allows you to quickly see what your color palette would like on an actual graph. No longer spend ages on your color choices only to realize that they don't quite hit the mark once you've plugged in your data.  Experiment with different colors by importing palettes from your favourite",
@@ -246,53 +216,15 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-get-creative-with-buttons-in-power-bi.md",
-      "title": "Get creative with buttons in Power BI!",
-      "excerpt": "Want to know how to create a button in Power BI that has an icon along with text? Adam walks you through how to set this up and to have colors sync when interacting with it.  Get feedback from your Power BI report users! https://www.youtube.com/watch?v=0WfITrMl0hc  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-get-creative-with-buttons-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-get-creative-with-buttons-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=dTEmhPbtipc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dTEmhPbtipc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M10S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-08-18T08:00:20-07:00",
-      "heat": 135,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dTEmhPbtipc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-enhance-your-business-intelligence-solutions-with-artificial-intelligence.md",
-      "title": "Enhance your business intelligence solutions with artificial intelligence",
-      "excerpt": "Enhance your business intelligence solutions with artificial intelligence",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-enhance-your-business-intelligence-solutions-with-artificial-intelligence/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/enhance-business-intelligence-solutions-with-artificial-intelligence/",
-      "length": "PT21M",
+      "path": "_learning/courses/microsoft-learn-use-tools-optimize-power-bi-performance.md",
+      "title": "Use tools to optimize Power BI performance",
+      "excerpt": "Use tools to develop, manage, and optimize Power BI data model and DAX query performance.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-use-tools-optimize-power-bi-performance/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-tools-optimize-power-bi-performance/",
+      "length": "PT1H25M",
       "ratings": {
-        "count": 3,
-        "average": 4.6666665
+        "count": 27,
+        "average": 4.814815
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -307,12 +239,12 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -320,6 +252,113 @@
       ],
       "content": "\r\n",
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-is-the-new-quick-measures-feature-any-good-lets-find-out.md",
+      "title": "Is the new Quick measures feature any good? Lets find out!",
+      "excerpt": "I tested the new Quick measures feature with the questions from #25daysofdaxfridays  Edition 1 and here I show you the results!  What do think about quick measures? Have you tested them?   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-is-the-new-quick-measures-feature-any-good-lets-find-out/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-is-the-new-quick-measures-feature-any-good-lets-find-out/",
+      "originalUrl": "https://youtube.com/watch?v=9TT2sn8V6xI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9TT2sn8V6xI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M45S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-10-25T03:12:11-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9TT2sn8V6xI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-get-feedback-from-your-power-bi-report-users.md",
+      "title": "Get feedback from your Power BI report users!",
+      "excerpt": "What if you could find out what your users want directly from your Power BI Reports? What if users could submit bugs and feedback for your report? Adam shows you a way to do it!  Connect with Chris: https://twitter.com/ChrisHamill17  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-get-feedback-from-your-power-bi-report-users/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-get-feedback-from-your-power-bi-report-users/",
+      "originalUrl": "https://youtube.com/watch?v=0WfITrMl0hc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0WfITrMl0hc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M35S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-08-11T08:00:00-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0WfITrMl0hc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-architecture-for-multi-developer-environment.md",
+      "title": "Power BI Architecture for Multi Developer Environment",
+      "excerpt": "Using Power BI is simple. However, using it properly needs a good architecture. In a multi-developer environment, the architecture of a Power BI implementation should allow multiple developers to work on the same solution at the same time. On the other hand, the Power BI architecture should be designed",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-architecture-for-multi-developer-environment/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-architecture-for-multi-developer-environment/",
+      "originalUrl": "https://youtube.com/watch?v=P3_iRFVP4Eo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/P3_iRFVP4Eo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M46S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-08-03T18:58:22-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/P3_iRFVP4Eo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -737,8 +776,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 48374,
-            "average": 4.7982802
+            "count": 48381,
+            "average": 4.7982473
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -779,8 +818,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 69810,
-            "average": 4.7780404
+            "count": 69820,
+            "average": 4.7780004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -839,8 +878,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 69810,
-        "average": 4.7780404
+        "count": 69820,
+        "average": 4.7780004
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -959,8 +998,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 48374,
-        "average": 4.7982802
+        "count": 48381,
+        "average": 4.7982473
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1100,8 +1139,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 69810,
-            "average": 4.7780404
+            "count": 69820,
+            "average": 4.7780004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1142,8 +1181,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 30909,
-            "average": 4.7249346
+            "count": 30912,
+            "average": 4.7249613
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1185,8 +1224,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 13985,
-            "average": 4.7234178
+            "count": 13986,
+            "average": 4.7231517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1227,8 +1266,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 10265,
-            "average": 4.7670727
+            "count": 10267,
+            "average": 4.767118
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1433,8 +1472,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 38969,
-        "average": 4.735636
+        "count": 38976,
+        "average": 4.7356324
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1503,45 +1542,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-vaccination-tracker-part1-get-data-from-github-and-schedule-refresh-it.md",
-      "title": "Vaccination Tracker Part1: Get data from github and schedule refresh it",
-      "excerpt": "This video is part 1 of the upcoming series: How to create a Vaccine tracker.  In Part 1 we will get the data from Github, publish it to a PPU workspace (we will need that later) and show you how to schedule refresh it and what to do if the option is not available.  To get the files go to Curbal Download",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-vaccination-tracker-part1-get-data-from-github-and-schedule-refresh-it/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-vaccination-tracker-part1-get-data-from-github-and-schedule-refresh-it/",
-      "originalUrl": "https://youtube.com/watch?v=-oT4PLmv96w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-oT4PLmv96w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M28S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-18T06:02:17-08:00",
-      "heat": 77,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-oT4PLmv96w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     }
   ],

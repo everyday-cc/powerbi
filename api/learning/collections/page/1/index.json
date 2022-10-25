@@ -223,8 +223,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 48374,
-            "average": 4.7982802
+            "count": 48381,
+            "average": 4.7982473
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 69810,
-            "average": 4.7780404
+            "count": 69820,
+            "average": 4.7780004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -348,8 +348,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 69810,
-            "average": 4.7780404
+            "count": 69820,
+            "average": 4.7780004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -390,8 +390,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 30909,
-            "average": 4.7249346
+            "count": 30912,
+            "average": 4.7249613
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -433,8 +433,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 13985,
-            "average": 4.7234178
+            "count": 13986,
+            "average": 4.7231517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -475,8 +475,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 10265,
-            "average": 4.7670727
+            "count": 10267,
+            "average": 4.767118
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -751,8 +751,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 13915,
-            "average": 4.756953
+            "count": 13920,
+            "average": 4.7568245
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -793,8 +793,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 16408,
-            "average": 4.770539
+            "count": 16413,
+            "average": 4.770548
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1111,8 +1111,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 5145,
-            "average": 4.683965
+            "count": 5146,
+            "average": 4.683249
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1153,8 +1153,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 4605,
-            "average": 4.692074
+            "count": 4606,
+            "average": 4.6921406
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1471,8 +1471,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1607,
-            "average": 4.739266
+            "count": 1609,
+            "average": 4.7395897
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1513,8 +1513,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 1123,
-            "average": 4.7800536
+            "count": 1124,
+            "average": 4.7793593
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2059,8 +2059,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3034,
-            "average": 4.7544494
+            "count": 3035,
+            "average": 4.7545304
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2102,8 +2102,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2073,
-            "average": 4.7192473
+            "count": 2074,
+            "average": 4.719383
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2146,8 +2146,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1477,
-            "average": 4.7264724
+            "count": 1479,
+            "average": 4.72549
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2189,8 +2189,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1251,
-            "average": 4.72502
+            "count": 1252,
+            "average": 4.7236423
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2914,7 +2914,7 @@
           ]
         }
       ],
-      "size": 228,
+      "size": 229,
       "heat": 62,
       "images": [
         {
