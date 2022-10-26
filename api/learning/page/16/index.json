@@ -4,36 +4,6 @@
   "page": 16,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-how-to-create-power-bi-top-n-report-variable-top-n-filter.md",
-      "title": "How to Create Power BI TOP N Report (Variable TOP N Filter)",
-      "excerpt": "Let me show you how you can create a TOP N Report in Power BI, with a Variable N, so that you can show the Numbers and the Detail for Top 10, Top 50 or Top 100 Customers, Products or really anything else. And still have it fully interactive, so you can slice and dice it as you like. 👉 Download Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-how-to-create-power-bi-top-n-report-variable-top-n-filter/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-how-to-create-power-bi-top-n-report-variable-top-n-filter/",
-      "originalUrl": "https://youtube.com/watch?v=wKfPS1yZfE0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wKfPS1yZfE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M26S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-11-27T22:55:55-08:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wKfPS1yZfE0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-relative-date-filtering-and-ultimate-calendar-offsets.md",
       "title": "Power BI: Relative Date Filtering and Ultimate Calendar Offsets",
       "excerpt": "In this video we look at Power BI Relative Date Filtering feature. We also compare it with the Offset Technique in our Ultimate Calendar.  This is part of the Ultimate Calendar Series: https://goo.gl/pyki4K   FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX",
@@ -923,8 +893,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 3754,
-            "average": 4.768247
+            "count": 3755,
+            "average": 4.768309
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -965,8 +935,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3238,
-            "average": 4.701359
+            "count": 3240,
+            "average": 4.7015433
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1007,8 +977,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4824,
-            "average": 4.8028607
+            "count": 4825,
+            "average": 4.8029017
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1025,7 +995,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png",
@@ -1067,8 +1037,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 3754,
-        "average": 4.768247
+        "count": 3755,
+        "average": 4.768309
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1109,8 +1079,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 5154,
-        "average": 4.6839347
+        "count": 5155,
+        "average": 4.683996
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1193,8 +1163,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 3238,
-        "average": 4.701359
+        "count": 3240,
+        "average": 4.7015433
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1277,8 +1247,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
       "length": "PT21M",
       "ratings": {
-        "count": 1129,
-        "average": 4.779451
+        "count": 1130,
+        "average": 4.779646
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1331,6 +1301,36 @@
           "url": "https://i.ytimg.com/vi/zf-sOpLcR5Q/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/absent-data-channel-price-prediction-with-python-and-power-bi.md",
+      "title": "Price Prediction with Python and Power BI",
+      "excerpt": "Learn how to create a machine learning price prediction using Python machine learning linear regression model and a dataset of 54,000 diamonds. This will be ported over to Power BI for a deeper level of interaction.  You can find the files and dataset here: https://github.com/Gaelim/Diamond-Price-Prediction",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-price-prediction-with-python-and-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-price-prediction-with-python-and-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=IP76UJ4nZ70",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IP76UJ4nZ70\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M10S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2020-10-24T12:32:46-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IP76UJ4nZ70/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],

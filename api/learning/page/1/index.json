@@ -217,6 +217,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-whats-the-real-size-of-your-data-model-in-power-bi.md",
+      "title": "What's the real size of your data model in Power BI?",
+      "excerpt": "From Power BI Desktop, to Task Manager, to different spots in the Power BI service - why are the sizes different? What's going on? How can you tell what the real size is? Well, it depends! Marco Russo joins Patrick to explain.  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-whats-the-real-size-of-your-data-model-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-whats-the-real-size-of-your-data-model-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=vI7kVVHxsiM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vI7kVVHxsiM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M58S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-09-14T08:00:47-07:00",
+      "heat": 135,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vI7kVVHxsiM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/absent-data-channel-how-to-avoid-python-errors-in-power-bi.md",
       "title": "How to Avoid Python Errors in Power BI",
       "excerpt": "If you are getting missing dependency errors when integrating Power BI visuals or scripts, you can follow this easy to tutorial that will eliminate that problem in minutes.  If you are getting numpy errors like the one below.  This will help you avoid this issue by launching Power BI in an activated",
@@ -247,106 +285,84 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-show-multiple-x-axis-value-by-hierarchy-in-power-bi.md",
-      "title": "Show Multiple X Axis Value By Hierarchy in Power BI",
-      "excerpt": "Welcome to Power BI September 2022 Feature Summary. During this video we will learn how we can show multiple X-axis value as hierarchy in Power BI. Most of the time when we use Go to Next Level for multiple X-Axis value, the X-Axis labels are concatenated by category and sub category. Now, with the September",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-show-multiple-x-axis-value-by-hierarchy-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-show-multiple-x-axis-value-by-hierarchy-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=bXqlnNFgilA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bXqlnNFgilA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M25S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+      "path": "_learning/courses/microsoft-learn-row-level-security-power-bi.md",
+      "title": "Implement row-level security",
+      "excerpt": "Row-level security (RLS) allows you to create a single or a set of reports that targets data for a specific user. In this module, you will learn how to implement RLS by using either a static or dynamic method and how Microsoft Power BI simplifies testing RLS in Power BI Desktop and Power BI service.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-row-level-security-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
+      "length": "PT9M",
+      "ratings": {
+        "count": 4825,
+        "average": 4.8029017
       },
-      "publishedDateTime": "2022-09-25T05:47:24-07:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bXqlnNFgilA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-merging-your-data-in-a-modern-lakehouse-data-warehouse.md",
-      "title": "Merging your data in a modern lakehouse data warehouse",
-      "excerpt": "Learn how you can move your data through different tiers using MERGE either with pySpark or SQL in Azure Synapse Analytics. Stijn Wynants walks you through the different steps.  Stijn Wynants https://twitter.com/SQLStijn  pyspark.sql.SparkSession.createDataFrame https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/api/pyspark.sql.SparkSession.createDataFrame.html",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-merging-your-data-in-a-modern-lakehouse-data-warehouse/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-merging-your-data-in-a-modern-lakehouse-data-warehouse/",
-      "originalUrl": "https://youtube.com/watch?v=TGIP4w61Tyc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TGIP4w61Tyc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M51S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-08-30T08:00:29-07:00",
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/TGIP4w61Tyc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png",
+          "width": 643,
+          "height": 321,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-can-you-be-a-data-scientist-without-actually-being-a-data-scientist.md",
-      "title": "Can you be a Data Scientist without actually being a Data Scientist???",
-      "excerpt": "Forecasting data and other items are usually stuff that data scientists use to tell the future. What if you could do the same thing - EASILY! Tzvia is back to show you how Azure Data Explorer can help!  Connect with Tzvia: https://www.linkedin.com/in/tzvia/ https://twitter.com/tzvia  Time series analysis",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-be-a-data-scientist-without-actually-being-a-data-scientist/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-be-a-data-scientist-without-actually-being-a-data-scientist/",
-      "originalUrl": "https://youtube.com/watch?v=YgYTQpVnhVM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YgYTQpVnhVM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M52S",
+      "path": "_learning/courses/microsoft-learn-modern-analytics-excel.md",
+      "title": "Transcend data analysis together with Power BI and Excel",
+      "excerpt": "This module introduces potential ways that people can use Excel and Power BI together. Power BI is a great tool for telling a story through visuals; occasionally, it's beneficial to use Excel for analysis. Excel can make a connection to a Power BI dataset, enabling you to analyze the data by using PivotTables.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-excel/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-excel/",
+      "length": "PT2H7M",
+      "ratings": {
+        "count": 146,
+        "average": 4.787671
+      },
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-08-02T08:00:19-07:00",
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/YgYTQpVnhVM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-excel-social.png",
+          "width": 1282,
+          "height": 642,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -657,6 +673,45 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api.md",
+      "title": "DAX Fridays #190: Year Over Year population change in Europe with Eurostat API",
+      "excerpt": "In todays video we will calculate YOY population in europe and finalize the report we started on this series.   Link to Previous videos: How Eurostat API works: https://www.youtube.com/watch?v=UwXo1OcwbAg  Build a report based on Eurostat data. We will get total population and population growth and map",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api/",
+      "originalUrl": "https://youtube.com/watch?v=rIcs4Mz1umQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rIcs4Mz1umQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M49S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-30T04:24:15-07:00",
+      "heat": 105,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rIcs4Mz1umQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics.md",
       "title": "Get started with Microsoft data analytics",
       "excerpt": "Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need to true BI in the enterprise.",
@@ -687,8 +742,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 48450,
-            "average": 4.7983074
+            "count": 48459,
+            "average": 4.7983036
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -729,8 +784,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 69909,
-            "average": 4.778083
+            "count": 69921,
+            "average": 4.778078
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -747,7 +802,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 107,
+          "heat": 104,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -765,7 +820,7 @@
         }
       ],
       "size": 2,
-      "heat": 107,
+      "heat": 104,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
@@ -789,8 +844,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 69909,
-        "average": 4.778083
+        "count": 69921,
+        "average": 4.778078
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -807,7 +862,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 107,
+      "heat": 104,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -821,45 +876,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api.md",
-      "title": "DAX Fridays #190: Year Over Year population change in Europe with Eurostat API",
-      "excerpt": "In todays video we will calculate YOY population in europe and finalize the report we started on this series.   Link to Previous videos: How Eurostat API works: https://www.youtube.com/watch?v=UwXo1OcwbAg  Build a report based on Eurostat data. We will get total population and population growth and map",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api/",
-      "originalUrl": "https://youtube.com/watch?v=rIcs4Mz1umQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rIcs4Mz1umQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M49S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-30T04:24:15-07:00",
-      "heat": 105,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rIcs4Mz1umQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     },
     {
@@ -1023,8 +1039,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 48450,
-        "average": 4.7983074
+        "count": 48459,
+        "average": 4.7983036
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1127,8 +1143,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 69909,
-            "average": 4.778083
+            "count": 69921,
+            "average": 4.778078
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1145,7 +1161,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 107,
+          "heat": 104,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -1169,8 +1185,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 30958,
-            "average": 4.7250466
+            "count": 30966,
+            "average": 4.7250857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1212,8 +1228,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 13996,
-            "average": 4.723278
+            "count": 13997,
+            "average": 4.723298
           },
           "provider": {
             "name": "Microsoft Learn",
