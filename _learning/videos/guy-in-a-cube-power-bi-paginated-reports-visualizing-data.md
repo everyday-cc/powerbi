@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT13M41S
 publishedDateTime: 2019-01-09T14:20:10Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gleYD97WScI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports: Visualizing Data"
 
-secured: "bVMv7eP5YmBNm++l71PMb0Hb9o6ZtieFkmP5kXx1+mTbzoqcvfcb4yWcnrqn7pabulSM3+/ZR/3fF9mYsuAEEhdrw896n9enM2Yo4De/q6LvDCZY0u9GMfd+REPM+I9oXy46/OokCJG2JMgGx9maCb0Jk9NYuenPepsJczlvsQqmX0tk/lgveMItF488mB1Ie04vgBGxWeRbd+WXeWEw7ajwZNcyIEihi+Y0mxNczjrNX1fuMYNCRxVo6boB3G/80P1emdtFLCsZeOHzPW3VDVx/G6QTHI/QjEbaZSN5JkgoAESWXYH3W+5Fb1zWVzUsLxl8yap5l4/+KIthzLF2NGmF0EJAHcVcuYIPvjG2W+ZLIRJF6zAy0XKoLOMG2z3VEJlAXvz0KIVFz6PZq778fRSbODm1EOrfsq5pNZF6b7U=;gdwEoWZLaeX5lpJHHvhEBQ=="
+secured: "RJtttJZ6vn426ZA6lWKyko39T/NcRMQCwxcozuZiUw+8FMDkYaT6cdUPAoNQdWL8B9XHwX3GNuStnGt+9nr4XQXaUMuzpLUagxo40kXVgKP8X4wNymzP30RmQUnKhs/8r5oLwshWAR1MnvaD1IcLv8sTUdM7CvgPNYZstIn6CTa7jC3pPtewU7xGJG1W9+je4OUPA8+TQz3MvDgjG1KzROjKSzeURNgoJ4xcD9oZGTXNw2bMqNNXkEsbdEYGn75SSQFk478N8xBdiI0Gk7apaYJ0J0ZCV3cWzuS3rMLlB6MxLQrBAbMoV/hEJOMZ1mNv+v/9QmAeIunFMXVdD569Z2mxdsHUWRevA4+SoYRaW5D270S62i1pe4xLX99vGMSsaCWg4FXLY60T7uxLQ/uSTjCAw33eGLUWBfLHVMomiT8=;2r3iUZpbGjL4sV7M5aXPkg=="
 ---
 
