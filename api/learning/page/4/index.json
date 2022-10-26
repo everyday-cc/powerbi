@@ -227,8 +227,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 5651,
-            "average": 4.668731
+            "count": 5654,
+            "average": 4.6687303
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -269,8 +269,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 5153,
-            "average": 4.6838737
+            "count": 5154,
+            "average": 4.6839347
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -413,8 +413,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 4729,
-        "average": 4.7219286
+        "count": 4732,
+        "average": 4.7218933
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1097,8 +1097,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1619,
-            "average": 4.739963
+            "count": 1620,
+            "average": 4.7401233
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1139,8 +1139,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 1128,
-            "average": 4.7792554
+            "count": 1129,
+            "average": 4.779451
           },
           "provider": {
             "name": "Microsoft Learn",
