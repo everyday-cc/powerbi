@@ -4,7 +4,7 @@ excerpt: "I&#8217;ve been pretty busy over the last few months. The demand for P
 webUrl: https://exceleratorbi.com.au/power-bi-desktop-august-2022-release-features-i-love/
 type: article
 publishedDateTime: 2022-08-10T00:12:03Z
-heat: 130
+heat: 50
 
 provider:
   name: Excelerator BI
