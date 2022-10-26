@@ -18,7 +18,7 @@ website: https://t.co/sfMHqOSfBC
 twitter:
   username: awsaxton
   url: https://twitter.com/awsaxton
-  followers: 7860
+  followers: 7862
 
 linkedin:
   url: https://www.linkedin.com/in/guyinacube/
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Adam Saxton"
 
-secured: "doKCxNI186wF5ADXALxYZVw0XgIUeHHFVUrhBiRf6ODU07bQez1B/U/FV7eZKZItasjvxnUniZ8gJkvz6mEoUr7EHiDvJ9KLAKDVbAyupDdo20wKjMmroCTIJp5+zAE+epB3VksMdnYPidD9tj+BX7ebmlvzBrCy/iwBnQlvM1DPZD77ezuhkobexGSWAml/uFB00xHxLYImG2b6wtX3qQR10O0Fzi04Zs5RxI5uPVN/cdN+JIDDzVsSwZ2wHUpdIeCtOw5LYKJj3u750Koy/CK6JVItB2h4xiD30JpvT29XptbcEwqk8LRF+P6AXVeKeKB3TsTe5kVjSvRTZi1PFpazN6h5/FLYkiRKbckkOOKgqPmuYO+vlbXvau+hJEoUYWGhrDiTdKKwA8vc7Wl4G7msMCj7dY0PIqSVLYtjySA=;fcU5yklmYiFy4nXJOFOAMA=="
+secured: "nrAb02Wfl23P4HVsU76nuXMxuJqHGVsWdF9ldfzsCkNDrWJNDCJh+xq4n51APXp28Cqc6ZnxkSbG7UiraVhlhaMj9CEQzZB3yrtumF11Pj3ABad/8x8vS3WInIQmhPYOXba5oJ+EuguFLnDglsYiI+xjd5ArmzRQm4fI8lcvsRrYtIgYfcbg4Elw+Z561pTyJGCgDTV1rK7xO6lQ5/3uaV0uPyTbKdUuoeZYoMd2VS9uQHmyXkXRLnaVA24ubWt2/MjxnczzgAv3MhOztZhqpgjBrFxLfL2XMpVRuGdS0rMiKJJT80xZjE9WoIL6EnXayXbVIh55Ar3j0HJ5zIfFT97CXUm/SXzcelA4g405TMrXuxzJKYVsA6HAwOOeOwcEhWmE+kSJkVTFxx9w639+yNShzBQMqEZb0zcUEpmW5ms=;aB5WE0tANkvlxUNuacF9/g=="
 ---
 
