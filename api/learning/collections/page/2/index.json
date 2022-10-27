@@ -2607,8 +2607,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1286,
-            "average": 4.7387247
+            "count": 1287,
+            "average": 4.738928
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4058,8 +4058,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4840,
-            "average": 4.8033056
+            "count": 4842,
+            "average": 4.8031807
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4141,8 +4141,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13347,
-            "average": 4.679703
+            "count": 13348,
+            "average": 4.679727
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4175,8 +4175,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10217,
-            "average": 4.705295
+            "count": 10218,
+            "average": 4.705324
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4620,8 +4620,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 255,
-            "average": 4.760784
+            "count": 256,
+            "average": 4.7617188
           },
           "provider": {
             "name": "Microsoft Learn",
