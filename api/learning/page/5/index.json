@@ -665,8 +665,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8399,
-            "average": 4.7490177
+            "count": 8400,
+            "average": 4.7489285
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1046,8 +1046,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 9863,
-        "average": 4.748251
+        "count": 9865,
+        "average": 4.748201
       },
       "provider": {
         "name": "Microsoft Learn",
