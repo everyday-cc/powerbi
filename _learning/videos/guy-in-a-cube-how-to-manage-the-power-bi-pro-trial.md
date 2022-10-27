@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT6M50S
 publishedDateTime: 2020-10-01T15:00:02Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5z52aYo6rQA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 360
     isCached: true
 
-secured: "Ph7oTYlV9aDiRysLmCyocVSHiDxieg+lJMQlj6wpUs/GbQKfmEisbjxGZfXjebjCDxwCBBwU/HHaNbyRKFWPbPvmiRYgUYGbLtuYLkJ3xBn84lMPRgAqg/KKDX+YBFdS4s3mXaALyH4Fb1YrfoZbxNi930DP357HptYS8B2g824ovUW2oUtZNvJ7HPzRtMn00SSnakw4cFUNUDlPyxSYWTAuy1p+8z4/8/D4vhvggQ3ffS+2KiEwMZzDP678OGLvnfqlFsak73c48AUTngJsBx82AMJgNb8qJ7tQvP1/n9sXh4GiZ6SEBeUWWMHMiBcAldLa4J6sMRA+OFwuPT8xElT7inUjmd2VrvPun5WFpdCCRvf5cr7+1gIiZjC6gS06d0rKr7dLOGD0pwOuexOZTdb0TtiklhC7pDApTMbLrvE=;+mv196b1QfZhOOFFODVDOw=="
+secured: "Dji+/hevgaEAJwlll7RvudBhBrhuPg41x8yCeli2IdT1STkGx3B0Im9aR5fnLbZWEYxkM0Rs2BU4pBf7T80sGUO4WMbAW5RMzKl86SkT2TnrJ1wbb/ns6dT5jP9bimLhnOzRJVPX5DxExkdodlIFV7AU6QvluI/v0FICATDkIlFxVq1CnkMlm3CHflMqrhhAhHvJvhXJ/pOsGR+eGQrtHYJcHaCj7JXw7I0JSgt3OsBvLzxk+Ej13EVcG7HvPKYpX4NQwK6UMobEyi/NQ8Vj6WWtwjZ5ymtJTI61nEdy8ffLDQGBGkTVCWvmaXf+RxddPum8WIJGqG/8f5TfrS2uM1iRourxsKhrg/Wjtw3/k5rcTSAwP9FXpUHl77ohxW+5sRm0HiP+5rXktNbq3mjPA/XT9Hw8L1TTBmTiOiSS6xI=;8TcyK5gqRgVSHpje85WI9w=="
 ---
 

@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT18M25S
 publishedDateTime: 2020-03-18T04:05:42Z
-heat: 56
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0z576TI27Vg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 07: Designing Report Layouts - Part 4"
 
-secured: "BDklZerW2yAHHc9AZVdULaDvunOiNBl1eMnOyjy/IF+lcxLC5vkSf+vSFtZch3UAR6W2SMRIsxXBJnp/0st/ci+groX/8d+RLTwXoSZ/E4BBdPgKDw7b/NINcvb0UCtUwFfidjmKd//8U+G6cFA4iwWfJzR8TnhkXx3myZxnDchps1nrN7pRCkrqbAsrCKe9QqQ36lgiiKA/245nUzE14iiXNWewUZolzazRVFNNEEiDqWF+x7QZTHyva+dH8IlJaAaSHzdU8a+5josFZq1nloJd8VVg8z//i04YUmOGCvX99hAHNRHhL3Z8W8A9Kjtmj/pQldFNGdYa7J4b8qm7TI3xJmQt3YT4WtE2b9ZcnUpeA4ytkkLqUWDgKVW+zST42xXiED2rKkp/8jOnqZIDiwWHo+ugTgzbQ/rBbpPMX/c=;Qw5sxRp0BmR3BT0800aSxg=="
+secured: "+hGsIl2K6kTAZj1WR3tn57NScqXCt3eti2ymnBOm45zJ7/ekOedoK30ioDG73QuLdlfAHUuJ66FIH4d0A/TjRxkOKuNJkC+fPSS9d11Em0CnrSSaiaZ0QN6sWoHY9iNpAwiVgfpgAFa2FrdMHZuY1XJwh1hYYUfAIgZbOQEbgi37aQeKidBNK1iRxwrPl8k1vD1NSTFsJo4SOjw2TAtuW09sxRbv8stmk2tI+seVIleKbaw8g3kmnz3obsWeo+ZELKbib7lWDOgj7XGfZVVE6Xo4UXlLPm0L35X4wumDXYX2ec7Pncja5YeE2cuN3l2LeV9cGwpERQtwrLHshq4gTvAqoV5m0mGFT8Gz4WgLuqJPIT+Nk9BC1OD1bv+rC8Yar8Zwaes+Pw04Pu3E7xHZP5rrEyb6P1+hjNvjP1ft2Jw=;X51GkWq4XSkIfsRtI7k4ZA=="
 ---
 

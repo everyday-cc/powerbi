@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M46S
 publishedDateTime: 2022-05-11T15:00:25Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lTkWAfrMwOg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "/pBMbn5v8GstyRNlrhtLzNYdJS4FZ+5YN5k0JUpnl5PxK0hsqBdaTvck0ZkVZYLBa/3nKwd3RSzcMqXIpte6PyQ+IXz0JOauvWcGi7IUlEXtqqyFxiMlSSeaGOVswfZh7qNVdBskBfIq2m0D5hK7ikmzgpp5m4NHJeHuRS0N5DkcApt2C9YLeso8ifpBx9MF+jJNA/Cea8wHUrZzxgH8BryxNn0ur9oUIpI/32HayOwsETEwnrnG5Xlr+Tei124YPcpyYINKjH/E+EUm+i/ijeSoxaJbMwpMFdtb4+XtopTkoiIAzt3TYEPQqfk1kmcxqmGOu/UMDkDLit0ujVuHa6LdkLPbrur8u+Ev7kArGEHSFWxYX8q25BFes14Hyixe0N8e6dMCqQuMltOtWkbeOIfOzK92Kp9xu6VbgWR9uVQ=;M66JJ+dBwDUSArV+BrNdJA=="
+secured: "ZTKAN1ZBbcRZe0pnQzBvD8EiN7XoZtQv7IK2S7kVn8DiTAteursRerGEqxh5Glc7RatOY5UFjhzrwzbhbdnMWxSNwp3zbdE4FBU3kcJvkvAhOfekV+yXCHJhNXwqsqHtEyi/80Az90wwbE9CfvizVBEtj+qpvje0h6ZiixsAD7O4sGHZ8/I3ANKQMh+OcqzSap2flqdCTtovdmEGrgRsdGgp1MTnYQV4DTLn4wxSBs/zMjWpfnoMM44vRtMBJQQwNH7dAm95FioDbfR+xzeijZjV+ccLyihTPrkuZmxIMF3DO17IVk1PWHR0Qdc1bhcsnP3ZzA69NO+zcU4XXbEwvgbECyGmJxYHVeZkfGr0HS/ajR3JXvmQ/0EGrKe/pwTtTf06tW9IoQPoKpS5awrIMveT19DF0xd0M5P9ndw8BEI=;hzUlAO5blfINfjTK0l01zA=="
 ---
 
