@@ -874,8 +874,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 375,
-        "average": 4.7973332
+        "count": 376,
+        "average": 4.7978725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -916,8 +916,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1483,
-        "average": 4.7262306
+        "count": 1484,
+        "average": 4.726415
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1001,8 +1001,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
       "length": "PT45M",
       "ratings": {
-        "count": 424,
-        "average": 4.7429247
+        "count": 425,
+        "average": 4.7435293
       },
       "provider": {
         "name": "Microsoft Learn",
