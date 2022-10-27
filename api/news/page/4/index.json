@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-06-new-data-source-and-gateway-management-experience.md",
+      "title": "New data source and gateway management experience",
+      "excerpt": "new data source and gateway management experience in Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-06-new-data-source-and-gateway-management-experience/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/new-data-source-and-gateway-management-experience/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/new-data-source-and-gateway-management-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-06T03:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-05-05-coming-soon-changes-to-the-power-bi-service-simpler-navigation-improvements-to-lists-on-home-and-style-updates.md",
       "title": "Coming soon: Changes to the Power BI service – simpler navigation, improvements to lists on Home, and style updates",
       "excerpt": "We continue to iteratively improve experiences that help you find relevant content and return to your work in the Power BI service. Upon hearing your feedback, conducting usability tests, and running successful A/B experiments we’re sharing the following changes coming to all users in early June 2022.",
@@ -1217,58 +1268,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-18-summary-review-of-power-bi-update-march-2022.md",
-      "title": "Summary review of Power BI Update March 2022",
-      "excerpt": "A new month, a new power bi update, this time for March 2022. Lets see what is in this month update!!  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-18-summary-review-of-power-bi-update-march-2022/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2022-03-18-summary-review-of-power-bi-update-march-2022/",
-      "originalUrl": "https://youtube.com/watch?v=E7eKdyEjm6Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E7eKdyEjm6Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-18T03:32:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

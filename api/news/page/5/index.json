@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-18-summary-review-of-power-bi-update-march-2022.md",
+      "title": "Summary review of Power BI Update March 2022",
+      "excerpt": "A new month, a new power bi update, this time for March 2022. Lets see what is in this month update!!  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-18-summary-review-of-power-bi-update-march-2022/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2022-03-18-summary-review-of-power-bi-update-march-2022/",
+      "originalUrl": "https://youtube.com/watch?v=E7eKdyEjm6Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E7eKdyEjm6Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T03:32:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2022-03-17-power-bi-march-2022-feature-summary.md",
       "title": "Power BI March 2022 Feature Summary",
       "excerpt": "Welcome to the March 2022 update. We are happy to announce a couple new features this month! How about error bars for line charts and dynamic format strings support for all chart elements? Also, we have some updates to the Azure Maps visual and Sensitivity labels, datasets hub and Power BI Goals. There",
@@ -1178,57 +1230,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-01-24T23:10:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-24-power-bi-report-server-january-2022-feature-summary.md",
-      "title": "Power BI Report Server January 2022 Feature Summary",
-      "excerpt": "We’re excited to bring you a new version of Power BI Report Server this Winter! With the January 2022 update, we have a variety of new enhancements, including page and bookmarks navigators, new sorting options for legend, new formatting options for text, pie and donut chart rotations and many more.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-24-power-bi-report-server-january-2022-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-january-2022-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-january-2022-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T09:35:55-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
