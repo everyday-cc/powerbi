@@ -1998,7 +1998,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-environment-social.png",
@@ -4016,8 +4016,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3248,
-            "average": 4.7019706
+            "count": 3249,
+            "average": 4.702062
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4537,8 +4537,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 5076,
-            "average": 4.7330575
+            "count": 5077,
+            "average": 4.732913
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4620,8 +4620,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 256,
-            "average": 4.7617188
+            "count": 257,
+            "average": 4.7626457
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4662,8 +4662,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 240,
-            "average": 4.795833
+            "count": 241,
+            "average": 4.7966805
           },
           "provider": {
             "name": "Microsoft Learn",
