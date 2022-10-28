@@ -3006,8 +3006,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 179,
-            "average": 4.670391
+            "count": 180,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3024,7 +3024,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-intro-social.png",
@@ -3484,7 +3484,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3805,8 +3805,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 5678,
-        "average": 4.6676645
+        "count": 5680,
+        "average": 4.667782
       },
       "provider": {
         "name": "Microsoft Learn",
