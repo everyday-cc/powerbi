@@ -4,130 +4,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_learning/videos/radacad-be-careful-when-merging-on-text-fields-in-power-bi-using-power-query.md",
-      "title": "Be Careful When Merging on Text Fields in Power BI Using Power Query",
-      "excerpt": "Merging two tables in Power Query is one of the most useful transformations to combine data from different datasets, and also create a flatten data structure. However, if you use a text field for merge, then you might see some unexpected results. Here in this video, I share some important considerations",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-be-careful-when-merging-on-text-fields-in-power-bi-using-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-be-careful-when-merging-on-text-fields-in-power-bi-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=fjpcdaOUdoY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fjpcdaOUdoY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M28S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-02-12T02:39:31-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fjpcdaOUdoY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-book-overview-the-definitive-guide-to-power-query-in-power-bi-and-excel.md",
-      "title": "Book Overview: The Definitive Guide to Power Query in Power BI and Excel",
-      "excerpt": "Recently Leila and I published a series of two books under the name of The Definitive Guide to Power Query in Power BI and Excel. Both books are now available in ebook and paperback format on Amazon and Google Play Books. In this video, I'll explain some details about the book, the agenda, and who is",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-book-overview-the-definitive-guide-to-power-query-in-power-bi-and-excel/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-book-overview-the-definitive-guide-to-power-query-in-power-bi-and-excel/",
-      "originalUrl": "https://youtube.com/watch?v=HtvyiSkgpsg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HtvyiSkgpsg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M39S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-09-20T20:38:34-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HtvyiSkgpsg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-convert-flat-list-to-table-in-power-bi-pivot-without-a-set-key-column-using-power-query.md",
-      "title": "Convert Flat List to Table in Power BI   Pivot Without a Set Key Column Using Power Query",
-      "excerpt": "The scenario I am explaining today is a very specific use case, However, I have seen examples similar to this happens very often. It happens that you get a text or Excel file with values written in a flat list structure, and that needs to be changed to a table format. Usually, this process can be done",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-convert-flat-list-to-table-in-power-bi-pivot-without-a-set-key-column-using-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-convert-flat-list-to-table-in-power-bi-pivot-without-a-set-key-column-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=pj9xbe1Sp3A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pj9xbe1Sp3A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M12S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-03-02T17:00:16-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pj9xbe1Sp3A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-export-queries-from-power-query-editor-to-local-machine-or-sql-server.md",
-      "title": "Export Queries from Power Query Editor to Local Machine or SQL Server",
-      "excerpt": "In this short video, I show how you able to export your data from Power Query Editor with Help of R into local machine and SQL Server, this is just for one-off use, every time a new table will be added to make it more flexible you need to handle it in R code , later I will show how to manage it, the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-export-queries-from-power-query-editor-to-local-machine-or-sql-server/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-export-queries-from-power-query-editor-to-local-machine-or-sql-server/",
-      "originalUrl": "https://youtube.com/watch?v=NZr6RI3jNQg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NZr6RI3jNQg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M44S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-08-01T17:44:27-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NZr6RI3jNQg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-fibonacci-sequence-understanding-the-power-query-recursive-function-for-power-bi.md",
       "title": "Fibonacci Sequence   Understanding the Power Query Recursive Function for Power BI",
       "excerpt": "Recursive functions in Power Query are not very popular, but sometimes very helpful when in need. In this post, I'll explain what a recursive function is, how it works, and explain it through a famous recursive example of Fibonacci Sequence. Download the code, and Power BI file from my blog article here:",
@@ -252,6 +128,68 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-how-to-change-joining-types-in-power-bi-and-power-query.md",
+      "title": "How to Change Joining Types in Power BI and Power Query",
+      "excerpt": "If you are combining tables in Power BI or Excel using Power Query, you might wonder how you change the join or merge type. In this video, I talked about it. Read my blog article to learn more about it; https://radacad.com/how-to-change-joining-types-in-power-bi-and-power-query   *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-change-joining-types-in-power-bi-and-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-change-joining-types-in-power-bi-and-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=bl6AfejSzR8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bl6AfejSzR8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M1S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-10-15T19:03:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bl6AfejSzR8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-how-to-create-a-date-or-calendar-table-and-dimension-in-power-bi-using-power-query.md",
+      "title": "How to Create a Date or Calendar Table and Dimension in Power BI using Power Query",
+      "excerpt": "Date dimension or calendar table is one of the most important dimensions in any BI system. In this video, I'm showing you how easy is to create a date dimension using Power Query. The script of this video can be found in my blog article here:  https://radacad.com/create-a-date-dimension-in-power-bi-in-4-steps-step-1-calendar-columns",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-create-a-date-or-calendar-table-and-dimension-in-power-bi-using-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-create-a-date-or-calendar-table-and-dimension-in-power-bi-using-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=Pzn2B4laK9A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Pzn2B4laK9A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M48S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-05-31T13:06:29-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Pzn2B4laK9A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-how-to-read-merged-cells-from-excel-in-power-bi-using-power-query.md",
       "title": "How to read Merged Cells from Excel in Power BI using Power Query",
       "excerpt": "Learn more about Power Query: https://radacad.com/category/power-query",
@@ -271,6 +209,37 @@
           "url": "https://i.ytimg.com/vi/xH7DMBS0Kog/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-know-your-data-better-by-column-profiling-in-power-bi-using-power-query.md",
+      "title": "Know Your Data Better by Column Profiling In Power BI using Power Query",
+      "excerpt": "An essential step towards a better analytics solution is to know your data. You have to know your data to be able to determine key columns, to learn what transformations need to be done, and etc. Power Query provides a very useful way of knowing your data in Power BI. Power BI has features for column",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-know-your-data-better-by-column-profiling-in-power-bi-using-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-know-your-data-better-by-column-profiling-in-power-bi-using-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=r3B2mcewXSE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r3B2mcewXSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M44S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-07-26T20:29:10-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r3B2mcewXSE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -331,6 +300,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/7Nx0i9pNiv0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-power-bi-quick-tip-the-formula-bar-in-power-query.md",
+      "title": "Power BI Quick Tip: the Formula Bar in Power Query",
+      "excerpt": "Often you do the transformation in Power Query using the graphical interface, but having the formula bar visible, makes it much easier to understand or change the transformations. In this short blog and video, I'll explain that. read my blog with more details here: https://radacad.com/power-bi-quick-tip-the-formula-bar-in-power-query",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-quick-tip-the-formula-bar-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-quick-tip-the-formula-bar-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=G-OHpN1vYLo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G-OHpN1vYLo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M2S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-02-25T14:10:38-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/G-OHpN1vYLo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

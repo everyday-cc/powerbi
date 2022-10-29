@@ -4,23 +4,23 @@
   "page": 43,
   "value": [
     {
-      "path": "_learning/videos/radacad-dynamic-row-level-security-in-power-bi-with-exclude-and-include-rules.md",
-      "title": "Dynamic Row Level Security in Power BI with Exclude and Include Rules",
-      "excerpt": "In the previous video, I explained how to implement a dynamic row-level security pattern when you have a value that you want to exclude. However, what if you want to EXCLUDE at some scenarios and INCLUDE in some others? What if you want to have a role saying access to everything but New Zealand, and",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dynamic-row-level-security-in-power-bi-with-exclude-and-include-rules/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dynamic-row-level-security-in-power-bi-with-exclude-and-include-rules/",
-      "originalUrl": "https://youtube.com/watch?v=LyeAhV2665s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LyeAhV2665s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M1S",
+      "path": "_learning/videos/absent-data-channel-statistics-and-correlation-tables-in-power-bi-with-python.md",
+      "title": "Statistics and Correlation Tables in Power BI with Python",
+      "excerpt": "Learn how to build summary statistics tables that have min, max, quartiles, standard deviation and mode and counts in one tables. Also build correlation tables with the help of Python all in Power BI. This only takes a few lines of code.   If you create summary tables in similar to what is produced in",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-statistics-and-correlation-tables-in-power-bi-with-python/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-statistics-and-correlation-tables-in-power-bi-with-python/",
+      "originalUrl": "https://youtube.com/watch?v=FhpJLLfrx4c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FhpJLLfrx4c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M25S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
       },
-      "publishedDateTime": "2020-11-09T16:00:52-08:00",
-      "heat": 51,
+      "publishedDateTime": "2020-11-22T09:58:13-08:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/LyeAhV2665s/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/FhpJLLfrx4c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -34,83 +34,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-dynamically-change-the-format-of-values-in-power-bi.md",
-      "title": "Dynamically change the format of values in Power BI",
-      "excerpt": "Can you change the format of a measure or a value in Power BI dynamically? Is it possible to set a value to be a percentage sometimes, and sometimes to be a currency? can you change the currency format? The answer to all these questions is yes. In this short video, I am going to show you how you can",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-dynamically-change-the-format-of-values-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-dynamically-change-the-format-of-values-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=LBBvO2ZXq9g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LBBvO2ZXq9g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M1S",
+      "path": "_learning/videos/absent-data-channel-sumx-simplified-finally-understand-with-excel-power-bi.md",
+      "title": "SUMX - Simplified. Finally Understand with EXCEL & POWER BI",
+      "excerpt": "WTF is SUMX!!? Stop the confusion by going back your roots in EXCEL. Follow this simple guide to get instant clarity.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-sumx-simplified-finally-understand-with-excel-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-sumx-simplified-finally-understand-with-excel-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=7JgbyhlhfyY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7JgbyhlhfyY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M45S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
       },
-      "publishedDateTime": "2020-10-06T16:50:55-07:00",
-      "heat": 51,
+      "publishedDateTime": "2020-08-10T18:11:57-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/LBBvO2ZXq9g/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-export-power-bi-audit-log-in-a-few-simple-steps-with-no-code.md",
-      "title": "Export Power BI Audit log in a few Simple Steps with No Code",
-      "excerpt": "The Power BI-related activity in your organization can be often useful. You can use the activity (audit) log to determine the behavior of the users and enhance the adoption of Power BI in your organization. To get the audit log, however, the process isn't simplified yet. In this article and video, I",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-export-power-bi-audit-log-in-a-few-simple-steps-with-no-code/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-export-power-bi-audit-log-in-a-few-simple-steps-with-no-code/",
-      "originalUrl": "https://youtube.com/watch?v=5mkb6fzp_vg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5mkb6fzp_vg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M19S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-06-08T18:00:42-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5mkb6fzp_vg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-find-a-text-term-in-a-field-in-power-bi-using-dax-functions.md",
-      "title": "Find a Text Term in a Field in Power BI Using DAX Functions",
-      "excerpt": "In Power BI, there are multiple ways of searching for a text term inside a text field, you can use Power Query for doing this operation or calculations in DAX. In this video, I'll explain some functions in DAX that you can use to do this calculation. Most of these functions can be used inside a measure",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-find-a-text-term-in-a-field-in-power-bi-using-dax-functions/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-find-a-text-term-in-a-field-in-power-bi-using-dax-functions/",
-      "originalUrl": "https://youtube.com/watch?v=pPJwIzPck1U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pPJwIzPck1U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M49S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-02-03T19:40:15-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pPJwIzPck1U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7JgbyhlhfyY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -125,23 +65,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-how-to-change-joining-types-in-power-bi-and-power-query.md",
-      "title": "How to Change Joining Types in Power BI and Power Query",
-      "excerpt": "If you are combining tables in Power BI or Excel using Power Query, you might wonder how you change the join or merge type. In this video, I talked about it. Read my blog article to learn more about it; https://radacad.com/how-to-change-joining-types-in-power-bi-and-power-query   *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-change-joining-types-in-power-bi-and-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-change-joining-types-in-power-bi-and-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=bl6AfejSzR8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bl6AfejSzR8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M1S",
+      "path": "_learning/videos/curbal-2-free-cheat-sheets-for-power-bi.md",
+      "title": "2 FREE Cheat Sheets for Power BI",
+      "excerpt": "Confused about what joins to use when merging tables? How about what is the difference between pivot and unpivot?  These cheat sheets will help you remember and understand the difference in no time.  Joins video: https://youtu.be/PNdxy0c1Shg Pivot vs unpivot vs transpose: https://www.youtube.com/watch?v=hGj2axffxHo&ab_channel=Curbal",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-2-free-cheat-sheets-for-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-2-free-cheat-sheets-for-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=_UKnsCSsRx4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_UKnsCSsRx4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M30S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-10-15T19:03:07-07:00",
-      "heat": 51,
+      "publishedDateTime": "2022-04-28T06:10:58-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/bl6AfejSzR8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_UKnsCSsRx4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -156,23 +104,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-how-to-create-a-date-or-calendar-table-and-dimension-in-power-bi-using-power-query.md",
-      "title": "How to Create a Date or Calendar Table and Dimension in Power BI using Power Query",
-      "excerpt": "Date dimension or calendar table is one of the most important dimensions in any BI system. In this video, I'm showing you how easy is to create a date dimension using Power Query. The script of this video can be found in my blog article here:  https://radacad.com/create-a-date-dimension-in-power-bi-in-4-steps-step-1-calendar-columns",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-create-a-date-or-calendar-table-and-dimension-in-power-bi-using-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-create-a-date-or-calendar-table-and-dimension-in-power-bi-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=Pzn2B4laK9A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Pzn2B4laK9A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M48S",
+      "path": "_learning/videos/curbal-2-things-you-should-always-do-in-power-query.md",
+      "title": "2 things you should always do in Power Query",
+      "excerpt": "Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1\r \r Our PLAYLISTS:\r - Join our DAX Fridays! Series: https://goo.gl/FtUWUX\r - Power BI dashboards",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-2-things-you-should-always-do-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-2-things-you-should-always-do-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=2lYl5iuDg5k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2lYl5iuDg5k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M22S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2019-05-31T13:06:29-07:00",
-      "heat": 51,
+      "publishedDateTime": "2020-09-30T02:50:46-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Pzn2B4laK9A/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2lYl5iuDg5k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -187,23 +143,380 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-introduction-to-the-decomposition-tree-visual-in-power-bi-desktop.md",
-      "title": "Introduction to the Decomposition Tree Visual in Power BI desktop",
-      "excerpt": "In this short video and blog, an introduction to the Decomposition tree has been provided",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-introduction-to-the-decomposition-tree-visual-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-introduction-to-the-decomposition-tree-visual-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=qpQG88I1CCo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qpQG88I1CCo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M",
+      "path": "_learning/videos/curbal-2-useful-power-query-tricks-that-you-cant-do-with-the-ui.md",
+      "title": "2 useful Power Query tricks that you cant do with the UI",
+      "excerpt": "In today's video i will show you 2 power query transformations that you can not do with the User Interface only and I used last week.  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-2-useful-power-query-tricks-that-you-cant-do-with-the-ui/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-2-useful-power-query-tricks-that-you-cant-do-with-the-ui/",
+      "originalUrl": "https://youtube.com/watch?v=PVZ0I3KGRv4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PVZ0I3KGRv4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M3S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-02-02T20:09:18-08:00",
-      "heat": 51,
+      "publishedDateTime": "2021-01-25T04:55:12-08:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qpQG88I1CCo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/PVZ0I3KGRv4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-2-ways-to-create-a-radial-bar-chart-in-power-bi.md",
+      "title": "2 ways to create a radial bar chart in  Power BI",
+      "excerpt": "In this video I am going to show you 2 ways to create a radial bar chart in Power BI. One, we will use the visuals available in Power BI to fake one and the second method we will use charticulator to create our own and make it easier.  Here is the link to the charticulator playlist: https://www.youtube.com/playlist?list=PLjS3oGhMuQ1S7Qf7-mBo_SFQyh6qHou4V",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-2-ways-to-create-a-radial-bar-chart-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-2-ways-to-create-a-radial-bar-chart-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=IpFWnaV6hZI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IpFWnaV6hZI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M27S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-08T02:42:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IpFWnaV6hZI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-2-ways-to-rotate-power-bi-tabs.md",
+      "title": "2 ways to rotate Power BI tabs",
+      "excerpt": "If you want to show your power bi report on a TV or web browser and have the tabs rotate at a interval you specify, this video is for you. I will show you two ways to do that.  Link to Google analytics template app: https://appsource.microsoft.com/en-us/product/power-bi/curbal.google-analytics-template-by-curbal?tab=Overview",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-2-ways-to-rotate-power-bi-tabs/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-2-ways-to-rotate-power-bi-tabs/",
+      "originalUrl": "https://youtube.com/watch?v=Jz6i1X5JOco",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jz6i1X5JOco\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M25S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-28T05:41:55-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Jz6i1X5JOco/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-3-best-practices-when-transforming-data-in-power-bi-desktop.md",
+      "title": "3 Best practices when transforming data in Power BI Desktop",
+      "excerpt": "In this video, I go through the what I believe are best practices for cleaning your data in Power BI: 1. Rename your query steps 2. Change Data types to all columns 3. Write comments on query Steps (juni 2016 update) and other tricks.  Here is a link to the Power BI file, if you want to check it out:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-3-best-practices-when-transforming-data-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-3-best-practices-when-transforming-data-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=QecfgdobATM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QecfgdobATM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M29S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-03-05T07:08:53-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QecfgdobATM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-3-dax-fridays-101-5-things-i-wish-somebody-told-me-when-i-started-learning-dax.md",
+      "title": "#3 Dax Fridays! 101:  5 things i wish somebody told me when I started learning DAX",
+      "excerpt": "3# Dax Fridays! 101:  5 things i wish somebody told me when I started learning DAX  I was completely clueless when I start learning DAX, so here are my top 5 things I wish somebody told me back then.  What are your tips?  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-3-dax-fridays-101-5-things-i-wish-somebody-told-me-when-i-started-learning-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-3-dax-fridays-101-5-things-i-wish-somebody-told-me-when-i-started-learning-dax/",
+      "originalUrl": "https://youtube.com/watch?v=tB5BDAzTHSM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tB5BDAzTHSM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M30S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-14T03:15:30-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/tB5BDAzTHSM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-3-things-you-need-to-watch-out-for-in-power-bi.md",
+      "title": "3 things you need to watch out for, in Power BI",
+      "excerpt": "In three instances last week, I thought that either I was going mad or blind or there was something wrong with Power BI. It turns out that it was 50-50. Let me show you so you dont go mad too!  Chapters: 00:20 Issues with what-if parameters 00:00 Sync a what if parameter with a new tab 04:30 Power query",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-3-things-you-need-to-watch-out-for-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-3-things-you-need-to-watch-out-for-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=9PVYLhznaLc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9PVYLhznaLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M47S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-25T06:15:22-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9PVYLhznaLc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-33-import-from-pdf-into-power-bi-desktop.md",
+      "title": "#33 Import from PDF into Power BI Desktop",
+      "excerpt": "In today's video I will show you how to import data from a pdf file into Power BI using Imke Feldmann's R-script.  To download the file, go to Curbal's download center and the communty downloads and get gile #33: https://curbal.com/donwload-center  Install R in Power BI: https://www.youtube.com/watch?v=HcTdXgWGdS8",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-33-import-from-pdf-into-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-33-import-from-pdf-into-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=z15dF-jDXIo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z15dF-jDXIo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M49S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-22T01:12:27-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/z15dF-jDXIo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-35-report-theme-gallery-and-json-tools-power-bi-tips-tricks.md",
+      "title": "#35 Report Theme Gallery and Json Tools - Power BI Tips & Tricks",
+      "excerpt": "Have you seen the new report theme gallery that Microsoft has just released? Power BI just announced a preview of report themes, which will allow you to quickly color your entire report to match a theme or corporate branding. When you import a theme, all your charts will automatically update to use the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-35-report-theme-gallery-and-json-tools-power-bi-tips-tricks/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-35-report-theme-gallery-and-json-tools-power-bi-tips-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=aVY3cw-KfBg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aVY3cw-KfBg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M59S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-22T02:47:18-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aVY3cw-KfBg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-35-ways-to-open-power-bi-datasetsreports-from-within-excel.md",
+      "title": "3.5 ways to open Power BI datasets/reports from within Excel",
+      "excerpt": "In today's video I will show you 3 and a half ways to open Power BI reports or datasets from within Excel.  Do you know any other way?  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-35-ways-to-open-power-bi-datasetsreports-from-within-excel/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-35-ways-to-open-power-bi-datasetsreports-from-within-excel/",
+      "originalUrl": "https://youtube.com/watch?v=08LMRR2OyJY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/08LMRR2OyJY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M11S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-11-09T05:12:16-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/08LMRR2OyJY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-39-4-cool-power-bi-desktop-bookmark-tips-you-need-to-know.md",
+      "title": "#39 4 cool Power BI Desktop bookmark tips you need to know",
+      "excerpt": "In today's video I will show you how to create 4 cool tricks with Power BI.   To download the sample file, go to our download center, community downloads and get file #39: https://curbal.com/donwload-center   I learned about this tricks from others so here is a link to the original content:  Hyperlinks:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-39-4-cool-power-bi-desktop-bookmark-tips-you-need-to-know/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-39-4-cool-power-bi-desktop-bookmark-tips-you-need-to-know/",
+      "originalUrl": "https://youtube.com/watch?v=OcxTUNlyIVw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OcxTUNlyIVw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT25M22S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-11-21T11:04:59-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OcxTUNlyIVw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -218,146 +531,33 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-know-your-data-better-by-column-profiling-in-power-bi-using-power-query.md",
-      "title": "Know Your Data Better by Column Profiling In Power BI using Power Query",
-      "excerpt": "An essential step towards a better analytics solution is to know your data. You have to know your data to be able to determine key columns, to learn what transformations need to be done, and etc. Power Query provides a very useful way of knowing your data in Power BI. Power BI has features for column",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-know-your-data-better-by-column-profiling-in-power-bi-using-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-know-your-data-better-by-column-profiling-in-power-bi-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=r3B2mcewXSE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r3B2mcewXSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M44S",
+      "path": "_learning/videos/curbal-5-dax-fridays-101-order-of-evaluation-for-dax-formulas.md",
+      "title": "#5 DAX Fridays! 101: Order of evaluation for DAX formulas",
+      "excerpt": "It is time to get cracking again with some DAX 101, this time we will talk about in what order DAX executes its functions. Happy Friday!  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK   Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-dax-fridays-101-order-of-evaluation-for-dax-formulas/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-dax-fridays-101-order-of-evaluation-for-dax-formulas/",
+      "originalUrl": "https://youtube.com/watch?v=4ynvzlDnQkE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4ynvzlDnQkE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M15S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-07-26T20:29:10-07:00",
-      "heat": 51,
+      "publishedDateTime": "2020-02-07T04:56:19-08:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/r3B2mcewXSE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-master-detail-report-page-design-with-drillthrough-filter-in-power-bi.md",
-      "title": "Master Detail Report Page Design with Drillthrough Filter in Power BI",
-      "excerpt": "One of the most common requirements in any reporting solution is the ability to drill through from master page to the details page and see the details of an item or category. In this post, I will explain how this feature is simply possible in Power BI, and what are things to consider when you are implementing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-master-detail-report-page-design-with-drillthrough-filter-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-master-detail-report-page-design-with-drillthrough-filter-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=8JGlnUc8PBg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8JGlnUc8PBg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M26S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2018-09-05T01:30:29-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8JGlnUc8PBg/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-measure-vs-calculated-column-in-power-bi-the-mysterious-question-not.md",
-      "title": "Measure vs Calculated Column in Power BI  The Mysterious Question  Not",
-      "excerpt": "Read my article in RADACAD website here: https://radacad.com/measure-vs-calculated-column-the-mysterious-question-not",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-measure-vs-calculated-column-in-power-bi-the-mysterious-question-not/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-measure-vs-calculated-column-in-power-bi-the-mysterious-question-not/",
-      "originalUrl": "https://youtube.com/watch?v=SVEGfqCTodc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SVEGfqCTodc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M2S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-08-14T15:17:05-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SVEGfqCTodc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4ynvzlDnQkE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-page-navigation-buttons-in-power-bi.md",
-      "title": "Page Navigation Buttons in Power BI",
-      "excerpt": "Previously, to create page navigation in Power BI, you needed to create bookmarks, and buttons to action to that bookmark. However, recently, in the last version of Power BI Desktop, the ability to easily navigate to other pages using Buttons in announced. In this short video, I'll explain how you can",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-page-navigation-buttons-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-page-navigation-buttons-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=Hgs_1WU9Bhg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hgs_1WU9Bhg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M37S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-03-19T13:19:51-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Hgs_1WU9Bhg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-parsing-organizational-hierarchy-or-chart-of-accounts-in-power-bi-with-parent-child-functions-in-dax.md",
-      "title": "Parsing Organizational Hierarchy or Chart of Accounts in Power BI with Parent child functions in DAX",
-      "excerpt": "Here is link to my blog post if you want to follow step by step: http://radacad.com/parsing-organizational-hierarchy-or-chart-of-accounts-in-power-bi-with-parent-child-functions-in-dax",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-parsing-organizational-hierarchy-or-chart-of-accounts-in-power-bi-with-parent-child-functions-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-parsing-organizational-hierarchy-or-chart-of-accounts-in-power-bi-with-parent-child-functions-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=d7uyGqT2P4g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d7uyGqT2P4g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M2S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2018-07-08T20:58:58-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/d7uyGqT2P4g/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],
@@ -370,143 +570,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-pl-300-power-bi-exam-prep-connecting-to-data-sources.md",
-      "title": "PL 300 Power BI Exam Prep Connecting to data sources",
-      "excerpt": "If you want to pass the PL-300 exam, there are some areas in that your skills will be assessed, and one of those is identifying and connecting to the data source and changing data source settings. Power BI Supports over 140 data sources, each data source has some connection configurations. In this video,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-pl-300-power-bi-exam-prep-connecting-to-data-sources/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-pl-300-power-bi-exam-prep-connecting-to-data-sources/",
-      "originalUrl": "https://youtube.com/watch?v=baV1hfnOnoo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/baV1hfnOnoo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M19S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2022-04-27T19:32:08-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/baV1hfnOnoo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-plotly-in-power-bi.md",
-      "title": "Plotly in Power BI",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-plotly-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-plotly-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=uLikWluqg54",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uLikWluqg54\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-08-01T17:41:35-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uLikWluqg54/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-and-excel-integration.md",
-      "title": "Power BI and Excel Integration",
-      "excerpt": "Power BI and Excel are longtime friends of each other, not only because Power BI components come from add-ins introduced in Excel but also because of how these two tools interact with each other from the Power BI Service. This post is not about using Power Query or Power Pivot components in Excel. This",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-and-excel-integration/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-and-excel-integration/",
-      "originalUrl": "https://youtube.com/watch?v=bfGIcVtquHU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bfGIcVtquHU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M25S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2022-08-23T22:17:02-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bfGIcVtquHU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-datamart-components.md",
-      "title": "Power BI Datamart components",
-      "excerpt": "What is a Power BI Datamart underneath? Can you connect to the database generated by Power BI Datamart? how the Dataset associated with the Datamart can be used? Is there a linage view? In this article and video, I'll explain These and you will learn about the components of a Power BI Datamart.  Learn",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-datamart-components/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-datamart-components/",
-      "originalUrl": "https://youtube.com/watch?v=eizc2cxuioQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eizc2cxuioQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M48S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2022-05-22T19:53:02-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eizc2cxuioQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-datamart-integration-in-the-power-bi-ecosystem.md",
-      "title": "Power BI Datamart Integration in the Power BI Ecosystem",
-      "excerpt": "Power BI Datamart is integrating well with other components of the Power BI ecosystem (such as workspaces, sharing, deployment pipelines, endorsements, sensitivity labels, etc). In this article and video, I'll explain how Power BI works with other features and services in Power BI implementation. Learn",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-datamart-integration-in-the-power-bi-ecosystem/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-datamart-integration-in-the-power-bi-ecosystem/",
-      "originalUrl": "https://youtube.com/watch?v=qkbVNOaJR_4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qkbVNOaJR_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "path": "_learning/videos/curbal-5-hacks-you-might-not-know-about-power-bi.md",
+      "title": "5 hacks you might not know about Power BI",
+      "excerpt": "It is time for another video on Power BI hacks! As usual, did you know all or did I manage to surprise you with one or two? (sorry about the mic noise! too late to redo...) #powerbi #curbal #5powerbihacks   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-hacks-you-might-not-know-about-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-hacks-you-might-not-know-about-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=pg-asMHoT9c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pg-asMHoT9c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT6M39S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2022-05-22T20:27:11-07:00",
-      "heat": 51,
+      "publishedDateTime": "2019-02-23T03:07:24-08:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/qkbVNOaJR_4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/pg-asMHoT9c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -520,23 +608,221 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-dax-relatedtable-function-get-the-subtable-related-to-the-current-row.md",
-      "title": "Power BI DAX RelatedTable Function   Get the subtable related to the current row",
-      "excerpt": "There are multiple functions that can help when you work with tables that are connected through relationships. One of these functions is Relatedtable. This function gives you the subtable from the other table for all the rows related to the current row. For example, all sales transactions (from the Sales",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-dax-relatedtable-function-get-the-subtable-related-to-the-current-row/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-dax-relatedtable-function-get-the-subtable-related-to-the-current-row/",
-      "originalUrl": "https://youtube.com/watch?v=ZrhnliV7Jrw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZrhnliV7Jrw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M16S",
+      "path": "_learning/videos/curbal-5-hidden-hacks-in-power-bi.md",
+      "title": "5 hidden hacks in Power BI!!",
+      "excerpt": "In this video I will show you 5 hidden Power BI hacks that will boost your productivity!! Back at you: Did you know them all? Do you have new hacks for us? Let us know in the comments box.  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-hidden-hacks-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-hidden-hacks-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=WEDgAoJagk8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WEDgAoJagk8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M27S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-06-15T14:49:15-07:00",
-      "heat": 51,
+      "publishedDateTime": "2020-02-03T04:47:02-08:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZrhnliV7Jrw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WEDgAoJagk8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-5-key-questions-to-ask-before-you-start-your-power-bi-project.md",
+      "title": "5 key questions to ask before you start your Power BI project",
+      "excerpt": "At the beginning of each Power BI project I always ask this 5 questions to make sure I am on track already from the beginning.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-key-questions-to-ask-before-you-start-your-power-bi-project/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-key-questions-to-ask-before-you-start-your-power-bi-project/",
+      "originalUrl": "https://youtube.com/watch?v=-8m6cPvbkak",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-8m6cPvbkak\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M5S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-07-15T05:58:47-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-8m6cPvbkak/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-5-lifesaving-tips-in-power-bi-you-might-not-know.md",
+      "title": "5 Lifesaving ⛑ tips in Power Bi you might not know",
+      "excerpt": "You know how this works by now right? If I learn something useful, I share it here with you and in today's video I am going to share my top 5 power bi tips to fix current issues and cool functionality.   Did I manage to surprise you with a tip you didnt know? #curbal #powerbi #5tips  Keynotes: 1. Word",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-lifesaving-tips-in-power-bi-you-might-not-know/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-lifesaving-tips-in-power-bi-you-might-not-know/",
+      "originalUrl": "https://youtube.com/watch?v=K2zSI-_Pu3A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K2zSI-_Pu3A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-05-15T04:16:06-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/K2zSI-_Pu3A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-5-power-bi-tips-from-the-community.md",
+      "title": "5 Power BI tips from the community!",
+      "excerpt": "I am going to share 5 Power BI tips that were shared from community memebers. Some of the tips are seriously cool, dont miss it!  Here is link to Erik's blog post: https://eriksvensen-wordpress-com.cdn.ampproject.org/c/s/eriksvensen.wordpress.com/2020/04/24/powerquery-easily-copy-all-queries-from-a-pbix-to-excel-and-vice-versa/amp/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-power-bi-tips-from-the-community/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-power-bi-tips-from-the-community/",
+      "originalUrl": "https://youtube.com/watch?v=mO9QuFNaXvo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mO9QuFNaXvo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M24S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-27T05:12:02-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mO9QuFNaXvo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-5-power-bi-tips-you-should-know.md",
+      "title": "5 Power BI tips you should know!!",
+      "excerpt": "In todays video, I am going to show you 5 tricks that you should know when working in Power BI, will make this easier...  BI elite course: https://training.bielite.com/courses/da-100-exam-prep-power-bi-certification/  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-power-bi-tips-you-should-know/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-power-bi-tips-you-should-know/",
+      "originalUrl": "https://youtube.com/watch?v=Cmcer6gJgJY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Cmcer6gJgJY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M20S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-03T01:28:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Cmcer6gJgJY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-5-tips-i-bet-you-didnt-know-about-power-bi-desktop-and-service.md",
+      "title": "5 tips I bet you didnt know about Power BI Desktop and Service",
+      "excerpt": "5 tips I bet you didnt know about Power BI Desktop and Service... Or did you know them? Let me know in the comments box!  ***Special thanks to Rune Lauritzen for helping me with the sound problems!!! ****   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-tips-i-bet-you-didnt-know-about-power-bi-desktop-and-service/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-tips-i-bet-you-didnt-know-about-power-bi-desktop-and-service/",
+      "originalUrl": "https://youtube.com/watch?v=iaLunDoptvs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iaLunDoptvs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M40S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-07-23T00:58:02-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/iaLunDoptvs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -547,58 +833,35 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "DAX"
+        "Power BI Desktop"
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-modeling-tip-snapshot-table-or-dax-measures.md",
-      "title": "Power BI Modeling Tip   Snapshot Table or DAX Measures",
-      "excerpt": "I often get this question: “Is it better that I create this calculation as a snapshot table in Power Query (or T-SQL, or the data source), or write DAX measures for it?” If you ever had a scenario of creating a report of snapshots, you know what I mean. “Should I have a table for inventory stock on hand",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-modeling-tip-snapshot-table-or-dax-measures/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-modeling-tip-snapshot-table-or-dax-measures/",
-      "originalUrl": "https://youtube.com/watch?v=fwQuK27F4yg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fwQuK27F4yg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M55S",
+      "path": "_learning/videos/curbal-5-tips-to-work-faster-and-do-some-cool-things-in-power-query.md",
+      "title": "5 tips to work faster and do some cool things in Power Query",
+      "excerpt": "In todays video, I am going to give you 5 tips to work faster in power query and to do some cool stuff too. Are you ready?  Chris webb blog:https://blog.crossjoin.co.uk/2020/07/19/adding-tooltips-to-column-headers-in-the-power-query-editor-in-power-bi-and-excel/   Here you can download all the pbix files:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-tips-to-work-faster-and-do-some-cool-things-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-tips-to-work-faster-and-do-some-cool-things-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=g0aY7n8QpzY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/g0aY7n8QpzY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-08-06T16:02:13-07:00",
-      "heat": 51,
+      "publishedDateTime": "2020-08-17T08:22:52-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/fwQuK27F4yg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-quick-tip-the-formula-bar-in-power-query.md",
-      "title": "Power BI Quick Tip: the Formula Bar in Power Query",
-      "excerpt": "Often you do the transformation in Power Query using the graphical interface, but having the formula bar visible, makes it much easier to understand or change the transformations. In this short blog and video, I'll explain that. read my blog with more details here: https://radacad.com/power-bi-quick-tip-the-formula-bar-in-power-query",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-quick-tip-the-formula-bar-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-quick-tip-the-formula-bar-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=G-OHpN1vYLo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G-OHpN1vYLo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M2S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-02-25T14:10:38-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/G-OHpN1vYLo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/g0aY7n8QpzY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -613,83 +876,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-theme-customize-colors-fonts-and-visual-appearance-for-multiple-objects.md",
-      "title": "Power BI Theme   Customize Colors Fonts and Visual Appearance for Multiple Objects",
-      "excerpt": "If you build a report for an enterprise, you might be limited to use the organization-approved colors. It is also useful to have your reports following a template of colors, and fonts, which might look like your signature of the report. In Power BI, you can do that with Theme. In this article, I’ll explain",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-theme-customize-colors-fonts-and-visual-appearance-for-multiple-objects/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-theme-customize-colors-fonts-and-visual-appearance-for-multiple-objects/",
-      "originalUrl": "https://youtube.com/watch?v=K83vD6DwFvI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K83vD6DwFvI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M34S",
+      "path": "_learning/videos/curbal-5-tips-to-work-faster-in-power-query.md",
+      "title": "5 tips to work faster in Power Query",
+      "excerpt": "In this video, I will show you 5 tips to work faster in Power Query!  Which one is your favorite? Do you have any productivity tip you want to share?   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-tips-to-work-faster-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-tips-to-work-faster-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=EvQRh4Q8jGA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EvQRh4Q8jGA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M52S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-06-24T14:30:03-07:00",
-      "heat": 51,
+      "publishedDateTime": "2018-09-01T04:46:30-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/K83vD6DwFvI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-user-access-levels-build-and-edit-are-different.md",
-      "title": "Power BI User Access Levels   Build and Edit are different",
-      "excerpt": "Often I have seen Power BI users have access to the areas that they shouldn’t. In Power BI, you can share a report with a user just for view only, or give them access to view and built, or to Edit. These are all different levels of access. Build access is the one that is often is confused with Edit.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-user-access-levels-build-and-edit-are-different/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-user-access-levels-build-and-edit-are-different/",
-      "originalUrl": "https://youtube.com/watch?v=ZsZkYOAcABI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZsZkYOAcABI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M19S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-01-04T13:35:21-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZsZkYOAcABI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-quick-measures-in-power-bi-you-dont-have-to-write-dax.md",
-      "title": "Quick Measures in Power BI You don’t have to write DAX",
-      "excerpt": "Download the dataset from my blog article here: https://radacad.com/quick-measures-in-power-bi-you-dont-have-to-write-dax  To learn more about the difference of Power BI default Date dimension and custom date table, read this article: https://radacad.com/power-bi-date-dimension-default-or-custom-is-it-confusing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-quick-measures-in-power-bi-you-dont-have-to-write-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-quick-measures-in-power-bi-you-dont-have-to-write-dax/",
-      "originalUrl": "https://youtube.com/watch?v=faUvo30iDWg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/faUvo30iDWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M58S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-09-03T21:01:39-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/faUvo30iDWg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/EvQRh4Q8jGA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -700,177 +911,35 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "DAX"
+        "Power Query"
       ]
     },
     {
-      "path": "_learning/videos/radacad-say-no-to-export-data-yes-to-analyze-in-excel-power-bi-and-excel-can-talk.md",
-      "title": "Say No to Export Data, Yes to Analyze in Excel   Power BI and Excel Can Talk",
-      "excerpt": "Despite the fact that I have explained about the Analyze in Excel feature in Power BI before, still, I hear and see many users are using the Export data option in Power BI much more. In this video, I am explaining what is the difference and why it is better to use Analyze in Excel rather than exporting",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-say-no-to-export-data-yes-to-analyze-in-excel-power-bi-and-excel-can-talk/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-say-no-to-export-data-yes-to-analyze-in-excel-power-bi-and-excel-can-talk/",
-      "originalUrl": "https://youtube.com/watch?v=TfTmzRMqjz0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TfTmzRMqjz0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M2S",
+      "path": "_learning/videos/curbal-6-productivity-tips-for-power-query.md",
+      "title": "6 productivity tips for Power Query",
+      "excerpt": "In today's video, I am going to show you 6 productivity tips for Power Query where 5 where new to me too.  Did I surprised you with any of them?   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-6-productivity-tips-for-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-6-productivity-tips-for-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=fPzX6WuUlHw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fPzX6WuUlHw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M24S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-01-30T15:04:35-08:00",
-      "heat": 51,
+      "publishedDateTime": "2018-10-08T01:20:34-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/TfTmzRMqjz0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-search-in-power-bi-table-visual-using-a-slicer-for-contains-character-criteria.md",
-      "title": "Search in Power BI Table Visual Using a Slicer For Contains Character Criteria",
-      "excerpt": "If you have a lot of text in a table visual in Power BI and want to search to find all texts with a specific character in it, I have a solution for you. You can have an alphabet slicer and use it to filter the table visual, the trick is to combine it with a measure and use it as a parameter table. let's",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-search-in-power-bi-table-visual-using-a-slicer-for-contains-character-criteria/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-search-in-power-bi-table-visual-using-a-slicer-for-contains-character-criteria/",
-      "originalUrl": "https://youtube.com/watch?v=LYXOR4RXggs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LYXOR4RXggs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M34S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-03-31T16:11:00-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LYXOR4RXggs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-set-different-levels-of-access-on-the-same-dataset-in-power-bi-using-row-level-security.md",
-      "title": "Set Different Levels of Access on the Same Dataset in Power BI using Row Level Security",
-      "excerpt": "Learn how to set different levels of access to the users of the same report and same dataset in Power BI using Row Level Security. The dataset link is available in my blog post here:  https://radacad.com/row-level-security-configuration-in-power-bi-desktop",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-set-different-levels-of-access-on-the-same-dataset-in-power-bi-using-row-level-security/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-set-different-levels-of-access-on-the-same-dataset-in-power-bi-using-row-level-security/",
-      "originalUrl": "https://youtube.com/watch?v=nAePfbGOEQE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nAePfbGOEQE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M20S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-07-17T14:46:42-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nAePfbGOEQE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-skills-needed-for-a-power-bi-developer.md",
-      "title": "Skills needed for a Power BI Developer",
-      "excerpt": "So you want to become a Power BI Developer, and wonder what skills you need to learn, what are the best resources to learn from, and where to start? This is an article and video explaining those in detail and helping you in your journey to become a Power BI Developer. Find all the links in my blog article",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-skills-needed-for-a-power-bi-developer/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-skills-needed-for-a-power-bi-developer/",
-      "originalUrl": "https://youtube.com/watch?v=Yau0tVP0H8U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yau0tVP0H8U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-12-07T11:34:37-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Yau0tVP0H8U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-streamline-power-bi-refresh-refresh-dataset-after-a-successful-refresh-of-dataflow.md",
-      "title": "Streamline Power BI Refresh   Refresh dataset after a successful refresh of dataflow",
-      "excerpt": "Do you have a Power BI dataset that gets data from a dataflow? have you ever thought; “can I get the dataset refreshed only after the refresh of dataflow completed and was successful?” The answer to this question is yes, you can. One of the recent updates from the data integration team of Power BI made",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-streamline-power-bi-refresh-refresh-dataset-after-a-successful-refresh-of-dataflow/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-streamline-power-bi-refresh-refresh-dataset-after-a-successful-refresh-of-dataflow/",
-      "originalUrl": "https://youtube.com/watch?v=WkJn1aatBp4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WkJn1aatBp4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M39S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-01-06T19:02:58-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WkJn1aatBp4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-sum-vs-sumx-what-is-the-difference-of-the-two-dax-functions-in-power-bi.md",
-      "title": "SUM vs SUMX What is the Difference of the two DAX Functions in Power BI",
-      "excerpt": "Sum and Sumx are functions that often founded to be misleading for many Power BI users. As both functions are doing the aggregation, it seems a bit confusing what is the actual difference between these two. There are many blog posts and articles about each function. I always explain the difference with",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-sum-vs-sumx-what-is-the-difference-of-the-two-dax-functions-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-sum-vs-sumx-what-is-the-difference-of-the-two-dax-functions-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=-3snD-VOqik",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-3snD-VOqik\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M59S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-09-26T13:46:04-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-3snD-VOqik/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/fPzX6WuUlHw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -881,29 +950,76 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "DAX"
+        "Power Query"
       ]
     },
     {
-      "path": "_learning/videos/radacad-take-your-power-bi-visualization-to-the-next-level-using-small-multiples.md",
-      "title": "Take Your Power BI Visualization to the Next Level using Small Multiples",
-      "excerpt": "Small multiple is a relatively recent feature on some of the Power BI visuals. This feature enables you to have a much better visualization instead of trying to fit everything in one visual (over-complicate it) or create copies of the same visual (maintenance issue in the future). This is a simple feature",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-take-your-power-bi-visualization-to-the-next-level-using-small-multiples/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-take-your-power-bi-visualization-to-the-next-level-using-small-multiples/",
-      "originalUrl": "https://youtube.com/watch?v=HFjR--rPUSw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HFjR--rPUSw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M27S",
+      "path": "_learning/videos/curbal-6-things-you-should-always-do-in-power-query.md",
+      "title": "6 things you should always do in Power Query",
+      "excerpt": "In today's video I will show you six things you should always do in Power Query.  If you are a Power Query user, this 6 things will help you be more effective: 1. 00:15 Show the formula bar. If you make visible the formula bar, you will be able to see the M code that is written in the background and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-6-things-you-should-always-do-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-6-things-you-should-always-do-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=xWhGHIgSMcU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xWhGHIgSMcU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M11S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2021-08-11T15:18:29-07:00",
-      "heat": 51,
+      "publishedDateTime": "2018-04-23T03:12:02-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/HFjR--rPUSw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/xWhGHIgSMcU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-6-things-you-should-do-on-all-your-power-bi-reports.md",
+      "title": "6 things you should do on all your Power BI reports!",
+      "excerpt": "6 things you should do on all your Power BI reports! In today's video, I am going to show you 6 things you should do to make your reports easy to use and discover. What are your tips?  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-6-things-you-should-do-on-all-your-power-bi-reports/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-6-things-you-should-do-on-all-your-power-bi-reports/",
+      "originalUrl": "https://youtube.com/watch?v=SshXKs9frWI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SshXKs9frWI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M41S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-26T09:37:21-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SshXKs9frWI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -912,6 +1028,121 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-7-hidden-features-in-power-bi.md",
+      "title": "7 hidden features in Power BI!",
+      "excerpt": "In todays video I will show you 7 hidden features in power bi! Chris blog on is nullable property:  https://blog.crossjoin.co.uk/2019/01/20/is-nullable-column-property-power-bi/ That solves this error: Column ‘MyColumn’ in Table ‘TestTable’ contains blank values and this is not allowed for columns on",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-7-hidden-features-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-7-hidden-features-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=N8ue470stKs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N8ue470stKs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M44S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-06T04:29:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N8ue470stKs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-7-powerful-tips-for-power-bi.md",
+      "title": "7 powerful 🔥 tips for Power BI",
+      "excerpt": "Ready for 7 power tips for Power BI? Did you know all 7? Do you have a tip for me? #powerbi #curbal #7powerbitips   Thanks to Kathrin Borchert for the tips about the Blank values :)  Download M queries: https://www.youtube.com/watch?v=fseh56DYeLc  Download previous power bi desktop files: https://docs.microsoft.com/en-us/power-bi/desktop-latest-update-archive#march-2019-update-2675404581",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-7-powerful-tips-for-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-7-powerful-tips-for-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=zpT8s2S8E9w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zpT8s2S8E9w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M50S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-06-24T03:35:17-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zpT8s2S8E9w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-8-common-column-headers-transformations-you-will-need-in-power-query.md",
+      "title": "8 common column headers transformations you will need in Power Query",
+      "excerpt": "In todays video, I will show you 8 common column header transformations that you will probably need to do in Power Query. Looking for a specific one? Use the keynotes below:  Keynotes:\r  01:00 CamelCase to Camel case\r 02:00 Proper casing to Proper Casing\r 02:24 Uppercasing to UPPERCASING\r 02:30 LOWERCASING",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-8-common-column-headers-transformations-you-will-need-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-8-common-column-headers-transformations-you-will-need-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=9x5qEYCA_Mk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9x5qEYCA_Mk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M59S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-12-03T06:58:38-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9x5qEYCA_Mk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     }
   ],
