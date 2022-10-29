@@ -1559,7 +1559,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
@@ -4474,8 +4474,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 5087,
-            "average": 4.7320623
+            "count": 5088,
+            "average": 4.732115
           },
           "provider": {
             "name": "Microsoft Learn",
