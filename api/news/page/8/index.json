@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-10-13-topic-power-bi-premium.md",
+      "title": "Topic: power bi premium",
+      "excerpt": "Microsoft is expanding its business analytics and intelligence portfolio with the announcement of Power BI Premium. Power BI Premium is an extension of the company’s Power BI solution that ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-10-13-topic-power-bi-premium/index.json",
+      "webUrl": "https://sdtimes.com/tag/power-bi-premium/",
+      "originalUrl": "https://sdtimes.com/tag/power-bi-premium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2017/06/DCIgBdWXgAACnA6.jpg",
+          "width": 1000,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-10-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-10-12-power-bi-october-2021-feature-summary.md",
       "title": "Power BI October 2021 Feature Summary",
       "excerpt": "Welcome to the October 2021 update. Leaves fall, Power BI calls; and we are excited to release additional functionality and performance improvements for DirectQuery, optimization for the SWITCH function,  and new Bitwise DAX functions. ",
@@ -1205,57 +1256,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-08-26T11:28:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-08-26-announcing-automated-statuses-and-improved-filtering-for-power-bi-goals.md",
-      "title": "Announcing automated statuses and improved filtering for Power BI Goals",
-      "excerpt": "Releasing new features for Power BI Goals experience, including automated status rules, filtering and mobile.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-08-26-announcing-automated-statuses-and-improved-filtering-for-power-bi-goals/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-automated-statuses-improved-filtering-and-mobile-experiences-for-power-bi-goals/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-automated-statuses-improved-filtering-and-mobile-experiences-for-power-bi-goals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-08-25T23:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

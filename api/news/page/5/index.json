@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-03-18-on-premises-data-gateway-march-2022-update-is-now-available.md",
+      "title": "On-premises data gateway March 2022 update is now available",
+      "excerpt": "On-premises data gateway (standard and personal mode) release for March 2022 ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-18-on-premises-data-gateway-march-2022-update-is-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-march-2022-update-is-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-march-2022-update-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-18T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-summary-review-of-power-bi-update-march-2022.md",
       "title": "Summary review of Power BI Update March 2022",
       "excerpt": "A new month, a new power bi update, this time for March 2022. Lets see what is in this month update!!  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
@@ -1202,57 +1253,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2022-01-25-optimize-your-processes-and-gain-deep-insights-with-process-mining.md",
-      "title": "Optimize your Processes and Gain Deep Insights with Process Mining ",
-      "excerpt": "Process mining, provides direct data insights across an organization’s daily business processes, helping identify inefficiencies to improve how they work. Now with the preview of process mining in process advisor, leveraging Power BI Embedded , you can use your business data to produce analytics and detailed process",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-25-optimize-your-processes-and-gain-deep-insights-with-process-mining/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/optimize-your-processes-and-gain-deep-insights-with-process-mining/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/optimize-your-processes-and-gain-deep-insights-with-process-mining/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-24T23:10:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
