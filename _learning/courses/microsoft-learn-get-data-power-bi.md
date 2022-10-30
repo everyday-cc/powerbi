@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT1H15M
 ratings:
-  count: 31088
-  average: 4.725425
-heat: 83
+  count: 31090
+  average: 4.7253456
+heat: 76
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 400
     isCached: true
 
-secured: "SD3wKbwhUaOj8LNdu59Gn4rHdYmLKr1D7KZwVd6B9+2knze12/pKKaOfNnle47WitG9r8O25tm4qzP6YZpNuXsv3jghfotifdxLktzSWLSKyt+yzwy8VjzBYg9DZ9OxQfb7n2DaSvcfkVfcpDgwb1TuAQqrLGyciYopljyMrjTYYeKRgosABg2mS1Sv+wjkR8/iZsNwNKnaBYjY8mKMNmNG7V2E86BuZMz/i4oK+6TA6vMoUMhN0liHwek17cV3Lh3Pm7uvcBfheX0NpH4Jp+/KAUSRmQcAY+IFCqudfSSF0SA6mDm+/NlCvSKNJ+UjZzBpyDtbypVttsaWxBxJI1fwoLCEX3kiEmu3OgxakLcYjA+V1CQklfO/v/f49f3LDQlc1orQSQ8g31S/pVjUHq7GG8yAO76ZJUVOUM65AANO1oWkaCIX79xBoOAVjvag+;uyyBek2WWQy01uAu7svrbQ=="
+secured: "/FK4MEydtRscheZdf0TzZAkuav9vGWtushMcwotypGXWCYSL7ONv2WbsSWioHT1qQK63pHJMPrVJWjnD2HjlFJ3VWwT5QX8BX9isWNay7Wds2hzfIa8JY0ggAjFPsANliov3GORzDK6OB3SVmSu3W6QPHTu/WKmak37BCsM8fQK9zjRfXMZ4DzigAAZNhUIAbZtewoK7mDM/9mtLWE6O7P9bEnpjiSkRDR3E/2RrbIJOIwiChktimzrwTR1YuIYj9ZfY33K+zSqy+RT6AATu9A5Vk7j4LMUUkAv3DPoVuzWRx3At/FTacWtV4LGHWMGv8s1b15+Z7XdXsRm8v740WJ5zNXQt64xcoQRJtPOrOfWvi3blNlgs3ez/J8BioN0YJfUr/WVo8b2enMtQr1ubJ4VmchehA1L1IzV4zgLzTQXh4ukNONggbQRFiHAGBIAJ;HmW2tJmFWxgwbFUsQK7IHg=="
 ---
 
