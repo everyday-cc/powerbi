@@ -1236,8 +1236,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1636,
-            "average": 4.738386
+            "count": 1637,
+            "average": 4.738546
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3806,8 +3806,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 7010,
-            "average": 4.7142653
+            "count": 7011,
+            "average": 4.714306
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3849,8 +3849,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 8243,
-            "average": 4.765862
+            "count": 8244,
+            "average": 4.765769
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4550,8 +4550,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 263,
-            "average": 4.7642584
+            "count": 264,
+            "average": 4.7651515
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4592,8 +4592,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 247,
-            "average": 4.7975707
+            "count": 248,
+            "average": 4.798387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4634,8 +4634,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 189,
-            "average": 4.740741
+            "count": 190,
+            "average": 4.7421055
           },
           "provider": {
             "name": "Microsoft Learn",
