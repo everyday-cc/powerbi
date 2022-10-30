@@ -2761,7 +2761,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3806,8 +3806,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 7012,
-            "average": 4.714347
+            "count": 7013,
+            "average": 4.7143874
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3974,8 +3974,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 3261,
-            "average": 4.701932
+            "count": 3263,
+            "average": 4.7021146
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4016,8 +4016,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4862,
-            "average": 4.802756
+            "count": 4863,
+            "average": 4.802797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4467,8 +4467,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 5092,
-            "average": 4.732325
+            "count": 5093,
+            "average": 4.732378
           },
           "provider": {
             "name": "Microsoft Learn",
