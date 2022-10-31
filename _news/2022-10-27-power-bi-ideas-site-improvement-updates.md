@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-ideas-site-impro
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-ideas-site-improvement-updates-2/"
 type: article
 quality: 87
-heat: 89
+heat: 88
 published: true
 
 provider:
