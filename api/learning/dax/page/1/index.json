@@ -84,7 +84,7 @@
         "domain": "exceleratorbi.com.au"
       },
       "publishedDateTime": "2022-10-26T14:35:05-07:00",
-      "heat": 130,
+      "heat": 133,
       "images": [
         {
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/supercharge-guy-500.png",
@@ -2462,8 +2462,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 7015,
-        "average": 4.714469
+        "count": 7016,
+        "average": 4.7145095
       },
       "provider": {
         "name": "Microsoft Learn",

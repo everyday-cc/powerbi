@@ -3764,8 +3764,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8445,
-            "average": 4.7484903
+            "count": 8446,
+            "average": 4.7484016
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3806,8 +3806,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 7015,
-            "average": 4.714469
+            "count": 7016,
+            "average": 4.7145095
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4300,8 +4300,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1200,
-            "average": 4.725
+            "count": 1201,
+            "average": 4.725229
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4634,8 +4634,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 190,
-            "average": 4.7421055
+            "count": 191,
+            "average": 4.7382197
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5162,8 +5162,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 51,
-            "average": 4.745098
+            "count": 52,
+            "average": 4.75
           },
           "provider": {
             "name": "Microsoft Learn",
