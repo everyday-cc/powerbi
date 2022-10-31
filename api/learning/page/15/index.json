@@ -845,8 +845,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 163,
-            "average": 4.6748466
+            "count": 165,
+            "average": 4.6787877
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -887,8 +887,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 5095,
-            "average": 4.7320905
+            "count": 5098,
+            "average": 4.732248
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1054,8 +1054,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 191,
-            "average": 4.7382197
+            "count": 192,
+            "average": 4.7395835
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1329,8 +1329,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
       "length": "PT1H28M",
       "ratings": {
-        "count": 163,
-        "average": 4.6748466
+        "count": 165,
+        "average": 4.6787877
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1371,8 +1371,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 1640,
-        "average": 4.739024
+        "count": 1642,
+        "average": 4.739342
       },
       "provider": {
         "name": "Microsoft Learn",
