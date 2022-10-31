@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M31S
 publishedDateTime: 2019-08-11T11:56:55Z
-heat: 56
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n-9e8AtbSsM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Apps vs App Workspace (the new Viewer role)"
 
-secured: "P2oZcgT0mJj7YjGybVDURc3TemiD3+VlS3fTWOJWPupVZnNPeaymlBEFow8oYxeL2mGYBuW+gIC4FgTO1NmAA5UJ/dCpuQUAWpvvv4DQTRJAyLRl30XHlo1Gx5Rkpt1Iu1iHSQ2JMNPJRrxSlTjuJv60UFyF1rSCepLnON6NKZI/mGLG6F/c+HKtaOR640aWxL9Nxuj014MAQH5LYv3dqSWdz9nwQsHPnr2oreB4qMPOEH/Jn8CULZTic7BgBSg4jZyTLRuRUhOcE1+x4ZbHsRtbwFHBnb5TC8kRV1TP8rErA/o1eHys85jcKi6l+8GNnO5PCvpu6QeuI3PK9Ady4JD9TJUe98/CzTQTmBDCQOmQ8CqSAke6xU+iW26CqJ+aSrv4tU83BeQ5LiMNWGY+g3/oy5zCW2QYq6Ugq8TLwj0uwOLK8lENadYI9qw1sf99;uB3fo8FnoD9PcN2ZALG4sw=="
+secured: "GCwxfG68fbCkL6fogZ9UG61ly3T7vk9s3rtDHHyyZOUvaczdeKFw1BDdqxA+4W6IwioiCATdkmnKCiZ4pN1oXpdaWpejHhOHssH1edbO6JYd8TwWX+gRWw0io+OmWCvT9lejDJCyiMBw+OyNlyjEO4KwjsdlOWV0Jp680Br6sdTnhA+CuRBxfs8hRDFYjPlwu6nnNtTFWDClWiFsIcJHbZxD7pW4kUjNpCQbufCKwFV7mDgmsrgJYzIJwYqabJscw+2rZ0d3ZKhdJ2wgd4S+QuGHtKdJqqJCuJVlVx3BaPV0/zvA2CaX+z0tDGyLhiAPbhZmbGMmqNxCymJjjSXtvhIXQ4l+86o4PaRznxhXLr1PvfIkI4strvTRXXGxanHESKI5kVIhOlVo5RGAWUS6MzkRt4ewuMmuJ/nf/byKlQAJaOdddWrvPFnMU7EE2DfZ;mlJn9GqHhMqXMnGogyinSw=="
 ---
 
