@@ -1382,7 +1382,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -1591,7 +1591,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -2975,7 +2975,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -3667,8 +3667,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8461,
-            "average": 4.748493
+            "count": 8464,
+            "average": 4.7485824
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3709,8 +3709,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 7023,
-            "average": 4.714652
+            "count": 7024,
+            "average": 4.7146926
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3877,8 +3877,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4933,
-            "average": 4.7263327
+            "count": 4934,
+            "average": 4.7263885
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4280,8 +4280,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 13363,
-            "average": 4.679563
+            "count": 13364,
+            "average": 4.679512
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4523,8 +4523,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 5103,
-            "average": 4.732314
+            "count": 5104,
+            "average": 4.7323666
           },
           "provider": {
             "name": "Microsoft Learn",
