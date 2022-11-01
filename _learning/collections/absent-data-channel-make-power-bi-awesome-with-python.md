@@ -21,7 +21,7 @@ items:
   - videos/absent-data-channel-get-python-sample-datasets-in-power-bi
   - videos/absent-data-channel-google-trends-in-python-and-power-bi
   - videos/absent-data-channel-decision-tree-in-power-bi
-  - videos/absent-data-channel-how-to-avoid-python-errors-in-power-bi
+  - videos/absent-data-channel-how-to-avoid-python-errors-in-power-bi-python-power-bi-tutorial-for-beginners
 
 topics:
   - Power BI
