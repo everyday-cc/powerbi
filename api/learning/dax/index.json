@@ -17,7 +17,7 @@
         "domain": "learnpowerbi.com"
       },
       "publishedDateTime": "2022-10-26T06:00:06-07:00",
-      "heat": 136,
+      "heat": 138,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6utZs1ttays/maxresdefault.jpg",
@@ -1998,8 +1998,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3064,
-            "average": 4.7532635
+            "count": 3065,
+            "average": 4.753344
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2128,8 +2128,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1265,
-            "average": 4.725692
+            "count": 1266,
+            "average": 4.7251186
           },
           "provider": {
             "name": "Microsoft Learn",
