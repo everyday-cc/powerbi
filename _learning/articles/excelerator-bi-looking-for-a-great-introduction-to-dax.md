@@ -4,7 +4,7 @@ excerpt: ""
 webUrl: https://exceleratorbi.com.au/looking-for-a-great-introduction-to-dax/
 type: article
 publishedDateTime: 2022-10-26T21:35:05Z
-heat: 133
+heat: 130
 
 provider:
   name: Excelerator BI
