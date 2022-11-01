@@ -626,8 +626,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 62,
-        "average": 4.774194
+        "count": 63,
+        "average": 4.7777777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -670,8 +670,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 949,
-        "average": 4.6638565
+        "count": 950,
+        "average": 4.6642103
       },
       "provider": {
         "name": "Microsoft Learn",
