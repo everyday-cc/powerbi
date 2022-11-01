@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M25S
 publishedDateTime: 2017-10-25T13:46:11Z
-heat: 62
+heat: 68
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_Afcj8mT5_Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "XftAfyXLmlkNJsYc9yPRR03Q82qZhQN3kwT5PKgrWItwgr8tpgk6hayv33wVBxALJcDZ3iFdl2tNw5OxD1r/aVulQlZ0SYhmMraG4uXVu5amlfLe85eQTR6d/YTBPIbaFg1sJ8qbFYNsNHbLStaT7PSTd/leSjhs3J5XSadyu9tR8k96SC4Ums/JWGQ4OEffg5RuMrF0I9GA+k7xasB1Es/tjhBhzCVa98NdZ4AVEPEbM5tM1TialDCivG+QuZIvZUUiW9GDcQotwshfZ9AtrmaXROzC1zyJG+o5TyGrb0GghhSRbYyKbhH8/9ZR+VBawHE65wsUC+b4QRp3Vry/B2ruAUAjmZwgKWZcLWjxSb/hHiHlPROX0WiolMrqh5m0uhLfPO58PlTQ4WEie3SD8283f/2D8TK+QdQOHeUQ9VqhfbNFTL1t45CANMedWgdt;8ju1TRjDeVCbKW1RVUF3SQ=="
+secured: "MCof1/Lejo+WRv6/vkd9GWELbVt2yK8JWcf0YOMlbEY83S+d3L+yxw4PMAuBFkmeQgp4ri2fLRZNgg9LeqgGSXlNyR8+MolmIWN/F9jHeEvzHz6TRYm9xT0tkbvRIcZv7NHUDfjmO+dMR8x/qlfzCwpUarqT5BIOpIEh/oxRZvuTvDE3+CpafCyTWiAywCnTp2fz2l8K2XW7TdrfZhoXjySaXtb8th6wQ+20CI0E8h1yEHgBTJzf5rNmuu0mo608qHax3bSfXePHPFMOiXERDGWC+UqrsaLYdftAhs42G59FPe6oaN99PK1xpNOkJ3I1t3xNaVVqtoaYl5/sEewVoH5oGMh14z7wcxlrmZyOPNRXxD5+2NzDOY9GzCtz4EAvWgkPuZlUEX3lpc7L0uTwE1fDOVOW41Y3YaUro1zh00VymL/oLW2ydXdNjw+kByww;1kCXE+mxU4wfeiboNN/MfA=="
 ---
 
