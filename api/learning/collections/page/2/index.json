@@ -2810,7 +2810,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-data-connectivity-social.png",
@@ -3718,8 +3718,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8460,
-            "average": 4.748463
+            "count": 8461,
+            "average": 4.748493
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3803,8 +3803,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 8254,
-            "average": 4.7660527
+            "count": 8255,
+            "average": 4.7660813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4421,8 +4421,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 5100,
-            "average": 4.7321568
+            "count": 5102,
+            "average": 4.7322617
           },
           "provider": {
             "name": "Microsoft Learn",
