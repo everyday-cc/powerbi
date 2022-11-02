@@ -154,7 +154,7 @@
         "domain": "exceleratorbi.com.au"
       },
       "publishedDateTime": "2022-10-26T14:35:05-07:00",
-      "heat": 82,
+      "heat": 80,
       "images": [
         {
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/supercharge-guy-500.png",
@@ -1430,8 +1430,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3070,
-            "average": 4.7530947
+            "count": 3072,
+            "average": 4.7532554
           },
           "provider": {
             "name": "Microsoft Learn",
