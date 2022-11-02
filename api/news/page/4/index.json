@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-16-power-bi-may-2022-feature-summary.md",
+      "title": "Power BI May 2022 Feature Summary",
+      "excerpt": "Welcome to the May 2022 update. We are thrilled to announce the general availability of Canvas zoom and Data point rectangle select features, Field parameters and Error bars for columns and line combination charts new preview features, new Format pane and managing composite models preview feature updates.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-16-power-bi-may-2022-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-may-2022-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-may-2022-feature-summary/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LTdpe2ENW4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2022-05-10-sanddance-power-bi-custom-visual-updates.md",
+      "title": "SandDance Power BI Custom Visual updates",
+      "excerpt": "SandDance is a data visualization tool developed by the VIDA (Visualization and Interactive Data Analysis) team at Microsoft Research and is available as a custom visual for Power BI. SandDance uses unit visualizations, which apply a one-to-one mapping between rows in your data and marks on the screen.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-10-sanddance-power-bi-custom-visual-updates/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/sanddance-power-bi-custom-visual-updates/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/sanddance-power-bi-custom-visual-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-10T01:00:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-05-09-new-power-bi-known-issue-page.md",
       "title": "New Power BI Known Issue page",
       "excerpt": "Power BI just launched a new Known Issue page!",
@@ -1144,108 +1247,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-03-28T07:28:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-25-power-bi-vs-tableau-business-intelligence-tools-comparison.md",
-      "title": "Power BI vs. Tableau: Business intelligence tools comparison",
-      "excerpt": "an uppercase character (A through Z) or a lowercase (a through z) character (no spaces). Power BI vs. Tableau: Business intelligence tools comparison Your email has been sent Power BI and Tableau ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-25-power-bi-vs-tableau-business-intelligence-tools-comparison/index.json",
-      "webUrl": "https://www.techrepublic.com/article/power-bi-vs-tableau/",
-      "originalUrl": "https://www.techrepublic.com/article/power-bi-vs-tableau/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2020/11/istock-1168019993.jpg?x79677",
-          "width": 1254,
-          "height": 837,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/power-bi-vs-tableau/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/power-bi-vs-tableau/amp/",
-      "publishedDateTime": "2022-03-24T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-20-announcing-general-availability-of-service-principal-profiles-in-power-bi-embedded.md",
-      "title": "Announcing general availability of service principal profiles in Power BI Embedded",
-      "excerpt": "I&#8217;m happy to announce a new method that allows a much larger number of customer tenants per one service principal by introducing a service principal “child” named service principal profile. Each service principal profile can administer a customer tenant, and the number of profiles per service principal",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-20-announcing-general-availability-of-service-principal-profiles-in-power-bi-embedded/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-of-service-principal-profiles-in-power-bi-embedded/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-of-service-principal-profiles-in-power-bi-embedded/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-20T16:46:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
