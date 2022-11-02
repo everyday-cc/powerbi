@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT6M6S
 publishedDateTime: 2020-12-04T00:03:50Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GLc3D5GNaa4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "IOUrETcNhsgFSFRqUXZTFpjXNRdCnhY4f7gGl14+8WfuHr4xO4gfVNroYNB0aazDtA7A0xxo8/fHvwk0mXxgUm3RiUde4VBX8TMxf3BDn3VQe7y8p2c9awUG1kzqB7xFAPHuI+HJVKUf33Gv35WNMBHwBrnYQ50GG3FSjRKBHb8s2gaHWdehaaS2+4qg3J8eHvD3+/YeNCfd71p/Ex5SRW9I+c/aeBih6oGrfBR/9LXKPP+6VDdIbxvDpBVidMGjpYyFxdLkTs00y8dlwtiu5CIXESlVYab1kQnwlmaZijgQpFyNZ/zqcGcpqEaQTqns4N43BEhESmNTRyKslppFhU9xoxC7jgbBPu8jvTNNfSGG6HSsrI2I1M7B+nB65EHvtMhMTvSvxOuY0rSioHsfGVyxiXdYUVzqN1dU36O7too=;CklT2W+QOu7a3j6chS5chQ=="
+secured: "rasury4LeM81mVWj4prljfMcIhpMwYBaC4e335EgwOePHhJmwzy8FRZrrtY1LoHv6XcEpH77DSWmSktMUUz2mAQ/tKFL89EseeXLoD/LVVF3O7Pdy75trMsfM7EODAJYrjgKWIl+d7wUKerUyGE8xrXzFP8j8Wzg0ZJmswE4OAokZaApEA1nlc8rmJhGIZBuhpn8ECmXJ2SnrIEiaOEqZ7esYYSTesudPEAN+qRMWODmrZXa9+qvFHkW9BzymAg6H5QaJy1SNYtHr/Q+BsI5szn8ptQ+JBs0xOqRuEQTG08+b781mJtrIsxAT5JZ9a/6DINP2b7iGcIM2+Ex9iY6k1NelydB0YNe0ykgPoc9msJ+wdSCNaOWNd2brfFpnrZdAxTk0ye3qIwj+L8P2PeicCw66z/S1nNoF6hHz+B6+ok=;et9dMR1JGbhA1PpRzVYhEw=="
 ---
 
