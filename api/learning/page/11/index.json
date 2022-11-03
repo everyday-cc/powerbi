@@ -545,8 +545,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 8174,
-        "average": 4.719721
+        "count": 8175,
+        "average": 4.719755
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -629,8 +629,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 421,
-        "average": 4.7981
+        "count": 422,
+        "average": 4.7985783
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -713,8 +713,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 5724,
-        "average": 4.6678896
+        "count": 5726,
+        "average": 4.6680055
       },
       "provider": {
         "name": "Microsoft Learn",
