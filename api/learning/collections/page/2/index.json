@@ -3709,8 +3709,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8495,
-            "average": 4.7482047
+            "count": 8497,
+            "average": 4.7481465
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3751,8 +3751,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 7045,
-            "average": 4.7139816
+            "count": 7047,
+            "average": 4.7140627
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3794,8 +3794,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 8277,
-            "average": 4.76477
+            "count": 8278,
+            "average": 4.764798
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3877,8 +3877,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 4574,
-            "average": 4.7184086
+            "count": 4575,
+            "average": 4.71847
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4523,8 +4523,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 169,
-            "average": 4.6863904
+            "count": 171,
+            "average": 4.6783624
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4648,8 +4648,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 269,
-            "average": 4.765799
+            "count": 270,
+            "average": 4.762963
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4690,8 +4690,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 252,
-            "average": 4.7936506
+            "count": 253,
+            "average": 4.790514
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5107,8 +5107,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 52,
-            "average": 4.75
+            "count": 53,
+            "average": 4.735849
           },
           "provider": {
             "name": "Microsoft Learn",
