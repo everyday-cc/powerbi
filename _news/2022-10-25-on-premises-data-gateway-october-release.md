@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-october-release/"
 type: article
 quality: 72
-heat: 72
+heat: 74
 published: true
 
 provider:
