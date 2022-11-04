@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/ka/business-news/connect-servicenow-t
 webUrl: "https://www.entrepreneur.com/ka/business-news/connect-servicenow-to-power-bi-integration-setup-guide/436370"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:
