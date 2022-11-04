@@ -299,8 +299,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10236,
-            "average": 4.7054515
+            "count": 10238,
+            "average": 4.7055087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -341,8 +341,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1213,
-            "average": 4.7246494
+            "count": 1214,
+            "average": 4.7248764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -466,8 +466,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 171,
-            "average": 4.6783624
+            "count": 172,
+            "average": 4.6802325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -568,8 +568,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 10236,
-        "average": 4.7054515
+        "count": 10238,
+        "average": 4.7055087
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -644,8 +644,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/",
       "length": "PT35M",
       "ratings": {
-        "count": 112,
-        "average": 4.75
+        "count": 113,
+        "average": 4.7522125
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -688,8 +688,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 1213,
-        "average": 4.7246494
+        "count": 1214,
+        "average": 4.7248764
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -772,8 +772,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
       "length": "PT1H28M",
       "ratings": {
-        "count": 171,
-        "average": 4.6783624
+        "count": 172,
+        "average": 4.6802325
       },
       "provider": {
         "name": "Microsoft Learn",
