@@ -1536,7 +1536,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-collaboration-social.png",
@@ -3128,7 +3128,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-collaboration-social.png",
@@ -4376,8 +4376,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 9948,
-            "average": 4.748894
+            "count": 9949,
+            "average": 4.7489195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4585,8 +4585,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4900,
-            "average": 4.803265
+            "count": 4901,
+            "average": 4.8033056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4869,8 +4869,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4965,
-            "average": 4.7270894
+            "count": 4966,
+            "average": 4.7271447
           },
           "provider": {
             "name": "Microsoft Learn",
