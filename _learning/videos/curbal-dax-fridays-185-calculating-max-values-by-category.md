@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M43S
 publishedDateTime: 2020-09-22T09:53:44Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8KaMj2DFpWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "z2D9ziuMkjYXpshqb+8yFMfbFTaW+/pjJKXzP3KTuAL3si6Z1a6aOPjFIxm4ZKuuGeNI0gD53uL8e1jNUvclZCK5VL2/xqCCAQ1067FV/Nk8L8E8w1jz7aSNupLpxB46Hj/sQSWVDkHadxBorSpxnBy09ejsZuvijNclqtyGNQ67Nad757wDHJq8RNhLbp5FrpsGaRErmBI4iwntbyWMcl2pLStYeMpXi5+f5R6lR1KFPXVxsZvWUJ8GdvPiCv4j8Zruq3WeaU4uByq5TvR06WC1Jwf3nvsnEfUVKTqxvUWZ38PyoEoGOdfI6jnLaMX0h3RisvqOH4/pl4SlJHO2Qzp5joUa35gwDNLSGr+XZZqofOetoKeK3MqRP5/eAySf3i6KhPDCS8PJ8B1+OLf8UnlbWg3KuBN9O72fk6Elg3w=;6um+YYA2M0eHgC75olVOTw=="
+secured: "sEXRakUkd+D39SvrQArdU3FQ20++sfG5MCkoy4ZLDWKQXvoBprTIcW1utf2twZ3eqpUic8lhMMQNILvnFwkmGdwhk1FcHw7FI0Yg3i0tME9HV5SJOlR1aWsBwtbDBOQhADfE3tOW+vlDMTnNA1WEf670O/kLkSjxgn2jzB3CHUT/0UkiNloS1Rn8tjGusIf4nqOqOZrVLCg/nQDkB8Re7rrWgdb38Kj9OobXZKb9DUFjePVxA70gMneaKqcH/7U5lY5X6f6uiZQcMmjctXrBiw3foBFO3wpfaM0A3uq8536OkMKCQUTlRI8+6OC47NuOdwfUSahmcmbBQNNA7PcJIaWG9s+PzrhRAEVa2dsCSEqwpzlI92oZtSDjyNFTNsBgeADhRkIcc2i1cgYcGEgtJIaH6/NfbSVgTyOKl1OMyyg=;ANcgXq263KiuVen9RxhAKg=="
 ---
 
