@@ -3436,7 +3436,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3880,8 +3880,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 454,
-        "average": 4.7973566
+        "count": 455,
+        "average": 4.797802
       },
       "provider": {
         "name": "Microsoft Learn",
