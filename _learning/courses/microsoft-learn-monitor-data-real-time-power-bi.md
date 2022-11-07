@@ -8,7 +8,7 @@ length: PT1H28M
 ratings:
   count: 179
   average: 4.6927376
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 641
     isCached: true
 
-secured: "H95N1VBxmzgTU6nh/9+7cERTbJPPg57f3OWtwDo3G8M7OVpMUrfRXkYvTM9IRY850snnVybg33WeXaWdSLzTz+6MZrtSg8puaTeekxv3UHXtWBtExPP1MFx2cBGtlWhQUqP3r/fGLTsyZKl6RBZOWDacwZNQQUF/LSPv3Z9oMPix5M2Ge+VMonjHI2KfLGG1ECGFCD8lH8bn7gkH+1s3NnM9HYeOQy2MAEqZQ7EzL39sCxBgdGG6IWipdOjHZOCJ4DB5xJLWD8iqC0FuQobvL9xOMhM/h1hmK5qT3JMm6k+tYcjVgCufQkwJzNgPGuJ/2hVNF1GfSeAR9I1Ik+hghnfUuQSjIpnBmXsQxcDWkGVB1llWsxEAFJdpYCruSMyJFbBqr8bAHlID24h/XQVirknDihVIyzGvv3TpKd1Npjo=;CZ0q1lCcvU+J2M/BYYqA7w=="
+secured: "7+NHOQgHhVJsUPTDaBn89FI+1aCCEX8QQgx0FS/dCKaA6o5YeC9pKA6qpA5qOS5CrU+GhcNPzbcSyeCcPvnbWZ91oSpoBi7+w5RrNxz275su4qmVWEcKEzqzl4S/Gim+S1moD+aqETtQrqVzKxDnHUTnjZdwsYnSfH5ht1OpACqaSiY4h/p1PQgN6wLY6KOHtTDIzHIQ2AxZShwQpLHRiWHU1PUYfKcbDJQrfLMYC9Vt7awp+DBMUPVn2qo3S5oQeOKgQrGwEcl82vbrt5kwt7rSuXgZRDQie4X8LqflBdh549JDxW7vL1h/huLomWdhHWCqZr3bMvaiz86GHUs2nIY001jTrcX9C+Za6aXFboe6GOVPlTlXhvkUaQCuvEqVXJIZd06EGia1X/GINC+jpypCiMi38UdNsgF/4Lw7hnU=;uzrPMDQ/7NH9v4dhYBH0dg=="
 ---
 
