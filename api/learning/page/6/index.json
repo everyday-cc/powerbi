@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 8204,
-        "average": 4.719771
+        "count": 8205,
+        "average": 4.719805
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -524,8 +524,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8550,
-            "average": 4.7476025
+            "count": 8553,
+            "average": 4.747574
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -754,8 +754,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 4912,
-        "average": 4.8031354
+        "count": 4913,
+        "average": 4.802972
       },
       "provider": {
         "name": "Microsoft Learn",
