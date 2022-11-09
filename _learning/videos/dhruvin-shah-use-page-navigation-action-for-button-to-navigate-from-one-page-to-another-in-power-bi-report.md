@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M45S
 publishedDateTime: 2020-03-25T11:52:50Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/62wKhG1KZyM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "9eFce/IwZcbI7FCwhqqYUuAyXXq4TrlUqDlz/Ybsd7WLqall6Gy3IaCjSBdhCVGEkMmbACHQCVBbg2D+GPUjnQHgAH7JakG6onKyV9AT0y4OpZJxwDCdCZcn+XIJeD0KSuRBVeG3+sYYm367p6/93eGK6SL5qT7EUXmhf4EgyfvBHNeeFOVQXT3IKfmUDMVW1ZUzsAZqOHrcsiok+ywy8pMlsVY6MuEECkX8ssqy5OF/mmDN+4j/gbvEAK6Y9665pm2sNgVlVXBhMYJxZXfFM0Dcv8ToQdL0rxdjEZV2XjS7rmnDYkHUR6HGC5MCYSzfOysNujSsxGO5X5OdgvyEpnjB5XnowH2h9LIgXnHHdcD94j90aUwuTIzyobJgU7kk67DHIUrES2cWI2PePdZYLMWnH8cGKTcuXsaNPFQC3kE=;Vv+GpgmJBFgRGvjb+/II/w=="
+secured: "cOtw+kiMvvSGMTVg17Lubuya+qwDT4aVpH+RR1BC6nAXDLB8Li2LM4iDI7PB2z1/iDv3hagSFVQGVKFZD1DSKuFm/Xr3+Oif145APqe1T4Dr1ccxvLmUZyuDo+ZNEYu77lEHV0pjThVSzHNScAV6FnIWyTGLc2BM6vN59ju4ZtjcpCR+R0A6h/GTyWCUvC6UN8N9xFYBUXNNWSG0970+DfJgDuj72XTJf5mK0X1ZgdYsRbOkjtzJyjRxbGnke0u7nJG48wlFgVSpm9+fZkyxHHXBgoN5SLn7dTrfHBUa8/6f7YXjdo0p2d9zbUVcwMqnq9u9w3s29E/RBY9hB0CLM63IPEyQLHMPM+Lu2CEz6uqP9v95iq3VAsOVTVXrYdp/HWwwBDOsdAvVsuUpOWe7Q9Kl/xh6erK7Tv0lycCGzF4=;VUCp+HL5bHmzF5UH1LctzA=="
 ---
 
