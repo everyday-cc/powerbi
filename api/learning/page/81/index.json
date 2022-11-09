@@ -4,6 +4,83 @@
   "page": 81,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-what-the-heck-are-build-permissions-in-power-bi.md",
+      "title": "What the heck are BUILD PERMISSIONS in Power BI?!?",
+      "excerpt": "Adam look at Power BI build permissions with shared datasets. Taking the mystery out of how you can interact with datasets and know what to do if you can't use it. This also looks at how Power BI free users can use shared datasets with Power BI Premium.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-the-heck-are-build-permissions-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-the-heck-are-build-permissions-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=3c7pMFloNeI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3c7pMFloNeI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M25S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-25T06:27:41-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3c7pMFloNeI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-what-to-do-when-your-power-bi-dataflows-data-source-isnt-listed.md",
+      "title": "What to do when your Power BI dataflows data source isn't listed???",
+      "excerpt": "Are you trying to use Power BI dataflows, but your data source isn't listed? We show you an option you can try to get things running!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-to-do-when-your-power-bi-dataflows-data-source-isnt-listed/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-to-do-when-your-power-bi-dataflows-data-source-isnt-listed/",
+      "originalUrl": "https://youtube.com/watch?v=XDtz9ZJOVJA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XDtz9ZJOVJA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M40S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-20T06:36:46-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XDtz9ZJOVJA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-whats-in-my-backpack-2019-50k-subs-thank-you.md",
       "title": "What's in my backpack? | 2019 | 50k subs thank you!",
       "excerpt": "Thank you to everyone who has subscribed to Guy in a Cube!   Let's have a look at what's in my backpack and all the gear Adam travels with.   ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube",
@@ -903,66 +980,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/NM2DCToep4M/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-comparing-salesytd-across-multiple-years-question-by-david-briggs.md",
-      "title": "Comparing SalesYTD across Multiple Years (Question by David Briggs)",
-      "excerpt": "In this episode, I answer a quick question by David Briggs regarding comparing SalesYTD across Multiple Years.  (I recorded this one on the road - in Minneapolis visiting my sister - so there's some background noise) Original Question: \"Good Evening.  Is there a DAX statement that would allow the graphing",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-comparing-salesytd-across-multiple-years-question-by-david-briggs/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-comparing-salesytd-across-multiple-years-question-by-david-briggs/",
-      "originalUrl": "https://youtube.com/watch?v=skAcy00pP0c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/skAcy00pP0c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M30S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-08-31T06:58:56-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/skAcy00pP0c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-dashboard-showcase-and-review-sales-dashboard-by-akash-bagul-bonus.md",
-      "title": "Dashboard Showcase and Review:  Sales Dashboard by Akash Bagul ★BONUS★",
-      "excerpt": "To present your own Dashboard on our Next Showcase, please visit 👉 https://www.learnpowerbi.com/dashboard  ================================\r 👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial\r 👉 Download Accompanying PBIX Files for Video at https://web.learnpowerbi.com/download/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-dashboard-showcase-and-review-sales-dashboard-by-akash-bagul-bonus/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-dashboard-showcase-and-review-sales-dashboard-by-akash-bagul-bonus/",
-      "originalUrl": "https://youtube.com/watch?v=VVzi_yQha9Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VVzi_yQha9Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M59S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2021-01-15T11:36:29-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VVzi_yQha9Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

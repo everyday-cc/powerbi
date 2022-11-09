@@ -4,7 +4,7 @@ excerpt: "Report authors can use additional features to enhance their reports fo
 type: collection
 price: Free
 length: PT1H52M
-heat: -2147483648
+heat: -2147483520
 
 provider:
   name: Microsoft Learn

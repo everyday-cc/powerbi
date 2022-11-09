@@ -4,6 +4,82 @@
   "page": 80,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-so-we-just-wait.md",
+      "title": "So, we just wait???",
+      "excerpt": "What's up with the wait time in Power BI Dataflows? Do we just live with it? What's going on and what can we do about? Adam, has you covered!  Understanding and optimizing dataflows refresh https://docs.microsoft.com/power-bi/transform-model/dataflows/dataflows-understand-optimize-refresh  📢 Become",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-so-we-just-wait/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-so-we-just-wait/",
+      "originalUrl": "https://youtube.com/watch?v=t6_uRHLWiMQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t6_uRHLWiMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M31S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-03-16T08:00:24-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/t6_uRHLWiMQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-sql-saturday-atlanta-and-women-in-technology-adam-and-patrick-unplugged-ep5.md",
+      "title": "SQL Saturday Atlanta and Women in Technology - Adam and Patrick Unplugged [EP5]",
+      "excerpt": "In this episode of the Adam and Patrick Unplugged show, we are at SQL Saturday Atlanta and talked with a few folks there. We have some SSIS, some stories, and a good discussion about Women in Technology!  Tim Mitchell (@Tim_Mitchell) - 0:21  Rie Irish (@IrishSQL) - 13:30  Julie Smith (@JulieChix) - 29:17",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-sql-saturday-atlanta-and-women-in-technology-adam-and-patrick-unplugged-ep5/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-sql-saturday-atlanta-and-women-in-technology-adam-and-patrick-unplugged-ep5/",
+      "originalUrl": "https://youtube.com/watch?v=lbp1RNUHcn0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lbp1RNUHcn0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M23S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-07-25T10:59:50-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lbp1RNUHcn0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-sql-server-and-power-bi-updates-roundup-47.md",
       "title": "SQL Server and Power BI Updates - Roundup #47",
       "excerpt": "SQL Server has GA'd!!!  We also had a lot of updates for Power BI!  Creating Current Day, Week, Month And Year Reports In Power BI Using Bidirectional Cross-Filtering And M (@technitrain) https://blog.crossjoin.co.uk/2016/05/30/creating-current-day-week-month-and-year-reports-in-power-bi-using-bidirectional-cross-filtering-and-m/",
@@ -1070,83 +1146,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-what-the-heck-are-build-permissions-in-power-bi.md",
-      "title": "What the heck are BUILD PERMISSIONS in Power BI?!?",
-      "excerpt": "Adam look at Power BI build permissions with shared datasets. Taking the mystery out of how you can interact with datasets and know what to do if you can't use it. This also looks at how Power BI free users can use shared datasets with Power BI Premium.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-the-heck-are-build-permissions-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-the-heck-are-build-permissions-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=3c7pMFloNeI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3c7pMFloNeI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M25S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-25T06:27:41-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3c7pMFloNeI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-what-to-do-when-your-power-bi-dataflows-data-source-isnt-listed.md",
-      "title": "What to do when your Power BI dataflows data source isn't listed???",
-      "excerpt": "Are you trying to use Power BI dataflows, but your data source isn't listed? We show you an option you can try to get things running!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-to-do-when-your-power-bi-dataflows-data-source-isnt-listed/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-to-do-when-your-power-bi-dataflows-data-source-isnt-listed/",
-      "originalUrl": "https://youtube.com/watch?v=XDtz9ZJOVJA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XDtz9ZJOVJA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M40S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-02-20T06:36:46-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XDtz9ZJOVJA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Dataflows"
       ]
     }
   ],

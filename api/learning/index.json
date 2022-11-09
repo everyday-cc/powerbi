@@ -264,14 +264,74 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-a-power-query-feature-you-may-not-know-about.md",
-      "title": "A Power Query feature you may not know about!",
-      "excerpt": "We thought everyone knew about this Power Query capability! At the Power Platform Conference, we found that many did not. Well, we want to help make sure everyone is aware so that you can reuse your awesome Power Query work in Power BI or Excel!  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-a-power-query-feature-you-may-not-know-about/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-a-power-query-feature-you-may-not-know-about/",
-      "originalUrl": "https://youtube.com/watch?v=N0UYKqMpmnQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N0UYKqMpmnQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M3S",
+      "path": "_learning/videos/learn-power-bi-using-the-autodate-time-feature-in-power-bi-shorts.md",
+      "title": "Using the Auto/Date Time Feature in Power BI #Shorts",
+      "excerpt": "👉 If you have any questions, just leave us a comment.  👉 Check out our Power BI Tutorial https://youtu.be/AGrl-H87pRU ================================ #PowerBI #PowerBIQuestion #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-using-the-autodate-time-feature-in-power-bi-shorts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-using-the-autodate-time-feature-in-power-bi-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=DvNjefsl-os",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DvNjefsl-os\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT46S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2022-11-09T06:00:07-08:00",
+      "heat": 145,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DvNjefsl-os/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYWSBgKGUwDw==&rs=AOn4CLDSul3Q1qMNR0fPSt12r6Fkz1y7zQ",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-generate-power-bi-measures-in-natural-language-quick-measure-suggestions.md",
+      "title": "Generate Power BI Measures in Natural Language (Quick Measure Suggestions)",
+      "excerpt": "In this video, we will learn how we can create measures using natural language in Power BI. Measures are very important part of the Power BI report. Now, with AI feature anyone can write the requirement in a natural language and measure is created automatically for them. We can review the the formula",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-generate-power-bi-measures-in-natural-language-quick-measure-suggestions/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-generate-power-bi-measures-in-natural-language-quick-measure-suggestions/",
+      "originalUrl": "https://youtube.com/watch?v=0XJEShfBtU4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0XJEShfBtU4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M54S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-11-09T05:25:55-08:00",
+      "heat": 141,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0XJEShfBtU4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-rounding-out-the-lakehouse-with-the-gold-layer-in-azure-synapse.md",
+      "title": "Rounding out the lakehouse with the GOLD layer in Azure Synapse",
+      "excerpt": "We are completing the journey of our lakehouse with our GOLD layer in Azure Synapse. This gives you the table structures you need to start building those amazing reports in Power BI!  Stijn Wynants https://twitter.com/SQLStijn  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-rounding-out-the-lakehouse-with-the-gold-layer-in-azure-synapse/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-rounding-out-the-lakehouse-with-the-gold-layer-in-azure-synapse/",
+      "originalUrl": "https://youtube.com/watch?v=6aXO_zOMP1U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6aXO_zOMP1U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M42S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -284,11 +344,11 @@
           }
         ]
       },
-      "publishedDateTime": "2022-10-06T08:00:29-07:00",
-      "heat": 136,
+      "publishedDateTime": "2022-09-27T08:00:04-07:00",
+      "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/N0UYKqMpmnQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6aXO_zOMP1U/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -298,8 +358,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power Query"
+        "Power BI"
       ]
     },
     {
@@ -518,73 +577,31 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-admin-collaboration.md",
-      "title": "Facilitate collaboration and sharing in Power BI",
-      "excerpt": "Learn how to collaborate and share dashboards and reports with coworkers.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-collaboration/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 112,
-        "average": 4.741071
-      },
+      "path": "_learning/videos/curbal-what-is-the-salary-of-a-power-bi-developer-or-a-data-analyst-or-data-engineer-.md",
+      "title": "What is the salary of a Power BI developer or a Data Analyst or Data Engineer? |",
+      "excerpt": "Would you like to know if you are getting enough pay as a power bi developer or data analyis or data engineer? Or are you thinking about changing jobs and would like to know which roles pay best?  To answer these questions I have partnered with bright data which is sponsoring this video too, thanks.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-what-is-the-salary-of-a-power-bi-developer-or-a-data-analyst-or-data-engineer-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-what-is-the-salary-of-a-power-bi-developer-or-a-data-analyst-or-data-engineer-/",
+      "originalUrl": "https://youtube.com/watch?v=picgIBU8U4U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/picgIBU8U4U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M55S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
+      "publishedDateTime": "2022-08-25T05:24:15-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-collaboration-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-100th-power-bi-qa-live-stream-august-20-2022-member-chat-2nd-half.md",
-      "title": "🔴 100th Power BI Q&A Live Stream!!! (August 20, 2022) (Member Chat 2nd Half)",
-      "excerpt": "Join us live as we answer your questions about Power BI!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats take priority 👉 Do NOT re-post",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-100th-power-bi-qa-live-stream-august-20-2022-member-chat-2nd-half/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-100th-power-bi-qa-live-stream-august-20-2022-member-chat-2nd-half/",
-      "originalUrl": "https://youtube.com/watch?v=y7E4eElq9iI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y7E4eElq9iI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "P0D",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-08-15T04:49:00-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/y7E4eElq9iI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/picgIBU8U4U/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1212,44 +1229,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XuLnSYjmsJo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-create-your-first-power-bi-report-2021.md",
-      "title": "Create your first Power BI report (2021)",
-      "excerpt": "New to Power BI? Adam helps you get started with creating your first Power BI report in Power BI Desktop! Start your journey the right way!  Guy in a Cube Blueprint Course: https://guyinacu.be/pbiblueprint  Star Schema: https://docs.microsoft.com/power-bi/guidance/star-schema  Star Schema Book: https://amzn.to/38JQJqq",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-create-your-first-power-bi-report-2021/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-create-your-first-power-bi-report-2021/",
-      "originalUrl": "https://youtube.com/watch?v=B_bAKrXAUh0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B_bAKrXAUh0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M25S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-21T08:00:02-08:00",
-      "heat": 81,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B_bAKrXAUh0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
