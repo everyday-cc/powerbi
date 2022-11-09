@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 50,
+      "heat": -2147483598,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-intro-social.png",
@@ -281,7 +281,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 50,
+      "heat": -17,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-optimize-performance-social.png",

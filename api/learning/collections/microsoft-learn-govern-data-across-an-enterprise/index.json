@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/2-discover-data-artifacts-azure-by-using-azure-purview-social.png",
@@ -71,7 +71,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 52,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/4-manage-power-bi-artifacts-by-using-azure-purview-social.png",
