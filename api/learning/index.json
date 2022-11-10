@@ -4,44 +4,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-have-you-seen-the-sql-admin-pack-for-azure-data-studio.md",
-      "title": "Have you seen the SQL Admin Pack for Azure Data Studio?",
-      "excerpt": "Working with Azure SQL Database or Azure Synapse Analytics? Want to use Azure Data Studio but missing all of the tools you used to use? Patrick looks at the SQL Admin Pack and how that can help you.  Azure Data Studio GitHub Repo https://github.com/Microsoft/azuredatastudio  Admin Pack for SQL Server",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-have-you-seen-the-sql-admin-pack-for-azure-data-studio/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-have-you-seen-the-sql-admin-pack-for-azure-data-studio/",
-      "originalUrl": "https://youtube.com/watch?v=OQ8VRRQA4VA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OQ8VRRQA4VA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M1S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-11-08T08:00:20-08:00",
-      "heat": 263,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OQ8VRRQA4VA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-introducing-horizontal-fusion-in-dax.md",
       "title": "Introducing horizontal fusion in DAX",
       "excerpt": "Horizontal fusion is a new optimization technique available in DAX to reduce the number of storage engine queries. In this video, we introduce this optimization with some examples.\r Article and download: https://sql.bi/772850?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive",
@@ -120,31 +82,31 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-override-drillthrough-filters-in-power-bi.md",
-      "title": "Override drillthrough filters in Power BI",
-      "excerpt": "Are you filtering by a cateogry on a drillthrough page but you want to compare against all categories in the same page? Here is how.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-override-drillthrough-filters-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-override-drillthrough-filters-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=BG51W2lKYIA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BG51W2lKYIA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M31S",
+      "path": "_learning/videos/guy-in-a-cube-have-you-seen-the-sql-admin-pack-for-azure-data-studio.md",
+      "title": "Have you seen the SQL Admin Pack for Azure Data Studio?",
+      "excerpt": "Working with Azure SQL Database or Azure Synapse Analytics? Want to use Azure Data Studio but missing all of the tools you used to use? Patrick looks at the SQL Admin Pack and how that can help you.  Azure Data Studio GitHub Repo https://github.com/Microsoft/azuredatastudio  Admin Pack for SQL Server",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-have-you-seen-the-sql-admin-pack-for-azure-data-studio/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-have-you-seen-the-sql-admin-pack-for-azure-data-studio/",
+      "originalUrl": "https://youtube.com/watch?v=OQ8VRRQA4VA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OQ8VRRQA4VA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M1S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-11-08T05:15:35-08:00",
-      "heat": 209,
+      "publishedDateTime": "2022-11-08T08:00:20-08:00",
+      "heat": 200,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/BG51W2lKYIA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OQ8VRRQA4VA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -175,6 +137,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/AGrl-H87pRU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-override-drillthrough-filters-in-power-bi.md",
+      "title": "Override drillthrough filters in Power BI",
+      "excerpt": "Are you filtering by a cateogry on a drillthrough page but you want to compare against all categories in the same page? Here is how.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-override-drillthrough-filters-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-override-drillthrough-filters-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=BG51W2lKYIA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BG51W2lKYIA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M31S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-11-08T05:15:35-08:00",
+      "heat": 168,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BG51W2lKYIA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -223,37 +223,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-where-is-dark-mode-in-dax-studio-3-shorts.md",
-      "title": "Where is DARK MODE in DAX Studio 3??? #shorts",
-      "excerpt": "Not going to lie, it took me a bit to find the button to switch to Dark Mode in DAX Studio 3. Here's where it is! \r #shorts #PowerBI #GuyInACube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-where-is-dark-mode-in-dax-studio-3-shorts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-where-is-dark-mode-in-dax-studio-3-shorts/",
-      "originalUrl": "https://youtube.com/watch?v=qgEXd4lTgQg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qgEXd4lTgQg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-08-29T08:00:26-07:00",
-      "heat": 165,
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     },
     {
@@ -308,7 +277,7 @@
         "domain": "learnpowerbi.com"
       },
       "publishedDateTime": "2022-11-09T06:00:07-08:00",
-      "heat": 145,
+      "heat": 160,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/DvNjefsl-os/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4Ac4FgAKACooCDAgAEAEYWSBgKGUwDw==&rs=AOn4CLDSul3Q1qMNR0fPSt12r6Fkz1y7zQ",
@@ -338,7 +307,7 @@
         "domain": "youtube.com"
       },
       "publishedDateTime": "2022-11-09T05:25:55-08:00",
-      "heat": 141,
+      "heat": 145,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/0XJEShfBtU4/maxresdefault.jpg",
@@ -394,14 +363,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-refresh-and-no-data-in-my-power-bi-visuals.md",
-      "title": "Refresh and NO DATA in my Power BI visuals???",
-      "excerpt": "Have you published your Power BI report to the service, refresh the data, and the visuals go blank? Patrick may have an answer for you.  Troubleshooting refresh scenarios https://docs.microsoft.com/power-bi/connect-data/refresh-troubleshooting-refresh-scenarios  Data types in Power BI Desktop https://docs.microsoft.com/power-bi/connect-data/desktop-data-types",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-refresh-and-no-data-in-my-power-bi-visuals/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-refresh-and-no-data-in-my-power-bi-visuals/",
-      "originalUrl": "https://youtube.com/watch?v=HJgclrgFnls",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HJgclrgFnls\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M30S",
+      "path": "_learning/videos/guy-in-a-cube-where-do-you-add-that-new-column-in-any-analytics-tool.md",
+      "title": "Where do you add that new column in any analytics tool?",
+      "excerpt": "You need to add a new column in Power BI - or any business analytics tool. Where do you add the column? Is there a cost to that? Matthew Roche explains his thoughts on his maxim that has everyone talking!  Connect with Matthew Roche Twitter: https://twitter.com/SQLAllFather LinkedIn: https://www.linkedin.com/in/matthewroche/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-where-do-you-add-that-new-column-in-any-analytics-tool/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-where-do-you-add-that-new-column-in-any-analytics-tool/",
+      "originalUrl": "https://youtube.com/watch?v=OAlys79j81Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OAlys79j81Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M36S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -414,11 +383,11 @@
           }
         ]
       },
-      "publishedDateTime": "2022-08-17T08:00:21-07:00",
-      "heat": 138,
+      "publishedDateTime": "2022-10-05T08:00:23-07:00",
+      "heat": 139,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/HJgclrgFnls/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OAlys79j81Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -432,31 +401,31 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-is-this-delta-lake-thing.md",
-      "title": "What is this delta lake thing?",
-      "excerpt": "You may be using a lake for your data and it may just be regular parquet files. In this video, Stijn joins us to explain why you should be using a delta lake instead and how this works in Azure Synapse Analytics.  Connect with Stijn https://twitter.com/SQLStijn  What is Delta Lake https://docs.microsoft.com/azure/synapse-analytics/spark/apache-spark-what-is-delta-lake",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-is-this-delta-lake-thing/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-is-this-delta-lake-thing/",
-      "originalUrl": "https://youtube.com/watch?v=3ef985a0Veg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3ef985a0Veg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M58S",
+      "path": "_learning/videos/curbal-stars-rating-with-half-stars-using-power-bi-icons-only.md",
+      "title": "Stars rating (with half stars) using Power BI icons only!",
+      "excerpt": "For the new edition of #25daysofdaxfridays challenge, I will be using a rating visualization to measure how hard you think the DAX questions are and I am going to show you here how I did it :)  I will be live on Friday to explain the challenge: https://youtu.be/wiczD--H-VM  Here you can download all",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-stars-rating-with-half-stars-using-power-bi-icons-only/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-stars-rating-with-half-stars-using-power-bi-icons-only/",
+      "originalUrl": "https://youtube.com/watch?v=XmeMRM0RBmM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XmeMRM0RBmM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M6S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-08-23T08:00:01-07:00",
-      "heat": 138,
+      "publishedDateTime": "2022-09-28T07:27:05-07:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/3ef985a0Veg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/XmeMRM0RBmM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -491,6 +460,36 @@
       ],
       "content": "\r\n",
       "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-show-multiple-x-axis-value-by-hierarchy-in-power-bi.md",
+      "title": "Show Multiple X Axis Value By Hierarchy in Power BI",
+      "excerpt": "Welcome to Power BI September 2022 Feature Summary. During this video we will learn how we can show multiple X-axis value as hierarchy in Power BI. Most of the time when we use Go to Next Level for multiple X-Axis value, the X-Axis labels are concatenated by category and sub category. Now, with the September",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-show-multiple-x-axis-value-by-hierarchy-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-show-multiple-x-axis-value-by-hierarchy-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=bXqlnNFgilA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bXqlnNFgilA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M25S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-09-25T05:47:24-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bXqlnNFgilA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "Power BI"
       ]
@@ -1060,6 +1059,37 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-why-do-you-need-power-bi-service.md",
+      "title": "Why Do You Need Power BI Service",
+      "excerpt": "The Power BI toolset comes in many shapes and forms. There is a Power BI Desktop, Power BI Mobile app, Power BI Report Server, and Power BI Service (and some other applications and components too). The questions I hear from the new users of Power BI are; Do I need to have an account for Power BI? do",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-why-do-you-need-power-bi-service/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-why-do-you-need-power-bi-service/",
+      "originalUrl": "https://youtube.com/watch?v=XSFPNyIfoSA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XSFPNyIfoSA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M19S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-11-02T21:23:50-07:00",
+      "heat": 89,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XSFPNyIfoSA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Service"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-mastering-power-bi-bookmarks.md",
       "title": "Mastering Power BI Bookmarks",
       "excerpt": "Want to get the most out of Power BI Bookmarks, selections and buttons? Adam goes through the options to help you master bookmarks! Taking your reports to the next level!  Bookmark Documentation: https://docs.microsoft.com/power-bi/create-reports/desktop-bookmarks  Download Sample: http://guyinacu.be/masterbookmarkssample",
@@ -1095,6 +1125,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-where-is-dark-mode-in-dax-studio-3-shorts.md",
+      "title": "Where is DARK MODE in DAX Studio 3??? #shorts",
+      "excerpt": "Not going to lie, it took me a bit to find the button to switch to Dark Mode in DAX Studio 3. Here's where it is! \r #shorts #PowerBI #GuyInACube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-where-is-dark-mode-in-dax-studio-3-shorts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-where-is-dark-mode-in-dax-studio-3-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=qgEXd4lTgQg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qgEXd4lTgQg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-08-29T08:00:26-07:00",
+      "heat": 85,
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -1172,82 +1233,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live-2021.md",
-      "title": "Power BI Get Data: Import vs. DirectQuery vs. Live (2021)",
-      "excerpt": "Import vs. DirectQuery vs. Live connection. Which do you choose and why in Power BI? Adam looks at the three options when creating reports in Power BI Desktop including composite models.  Power BI Data Sources: https://docs.microsoft.com/power-bi/connect-data/power-bi-data-sources  Star Schema: https://docs.microsoft.com/power-bi/guidance/star-schema",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live-2021/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live-2021/",
-      "originalUrl": "https://youtube.com/watch?v=-ip7mKUdwRg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-ip7mKUdwRg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M31S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-28T08:23:13-08:00",
-      "heat": 83,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-ip7mKUdwRg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-create-your-first-power-bi-report-2021.md",
-      "title": "Create your first Power BI report (2021)",
-      "excerpt": "New to Power BI? Adam helps you get started with creating your first Power BI report in Power BI Desktop! Start your journey the right way!  Guy in a Cube Blueprint Course: https://guyinacu.be/pbiblueprint  Star Schema: https://docs.microsoft.com/power-bi/guidance/star-schema  Star Schema Book: https://amzn.to/38JQJqq",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-create-your-first-power-bi-report-2021/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-create-your-first-power-bi-report-2021/",
-      "originalUrl": "https://youtube.com/watch?v=B_bAKrXAUh0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B_bAKrXAUh0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M25S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-21T08:00:02-08:00",
-      "heat": 82,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B_bAKrXAUh0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

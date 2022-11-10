@@ -4,14 +4,14 @@
   "page": 15,
   "value": [
     {
-      "path": "_learning/videos/curbal-dax-fridays-help-is-needed-.md",
-      "title": "DAX Fridays! Help is needed :)",
-      "excerpt": "EXCEL SURVEY: https://onedrive.live.com/survey?resid=DC64707CDA0C02BF!310&authkey=!AIeic3zZPwjWNBM  DAX Reference types: https://msdn.microsoft.com/en-us/library/ee634396.aspx Youtube Analytics: https://www.youtube.com/watch?v=INtVIF0U4qo Create an excel survey: https://www.youtube.com/watch?v=mmounfvIqrI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-help-is-needed-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-help-is-needed-/",
-      "originalUrl": "https://youtube.com/watch?v=tAfQ7A6Pzyc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tAfQ7A6Pzyc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M18S",
+      "path": "_learning/videos/curbal-document-your-power-bi-desktop-models-with-dax-studio.md",
+      "title": "Document your Power BI Desktop models with DAX Studio!",
+      "excerpt": "Extract a list of measures, tables, etc, from your Power BI model with DAX Studio.  Download the PPUtility add-in here: http://www.sqlbi.com/tools/power-pivot-utilities  Link to DAX STUDIO: https://daxstudio.codeplex.com/  Our Playlists: - - Join our DAX Fridays! Series: https://goo.gl/FtUWUX - - Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-document-your-power-bi-desktop-models-with-dax-studio/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-document-your-power-bi-desktop-models-with-dax-studio/",
+      "originalUrl": "https://youtube.com/watch?v=rYlIp1PrBcA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rYlIp1PrBcA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M39S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -24,11 +24,11 @@
           }
         ]
       },
-      "publishedDateTime": "2016-12-27T11:54:53-08:00",
+      "publishedDateTime": "2016-09-27T13:04:01-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/tAfQ7A6Pzyc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/rYlIp1PrBcA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -39,6 +39,7 @@
       "price": "Free",
       "topics": [
         "Power BI",
+        "Power BI Desktop",
         "DAX"
       ]
     },
