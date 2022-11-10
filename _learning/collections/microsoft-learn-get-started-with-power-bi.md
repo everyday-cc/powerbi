@@ -4,7 +4,7 @@ excerpt: "Get started with Power BI"
 type: collection
 price: Free
 length: PT2H35M
-heat: -2147483648
+heat: 50
 
 provider:
   name: Microsoft Learn

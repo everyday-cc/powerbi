@@ -4,7 +4,7 @@ excerpt: "Once you have created your Power BI data sets and reports, it’s time
 type: collection
 price: Free
 length: PT1H55M
-heat: -2147483648
+heat: 50
 
 provider:
   name: Microsoft Learn
