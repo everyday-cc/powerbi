@@ -4,7 +4,7 @@ excerpt: "I first blogged about this back in October 2021 when Microsoft announc
 webUrl: https://exceleratorbi.com.au/power-bi-live-embedding-in-powerpoint/
 type: article
 publishedDateTime: 2022-08-16T05:14:04Z
-heat: 130
+heat: 50
 
 provider:
   name: Excelerator BI
