@@ -4,1074 +4,818 @@
   "page": 35,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-reminder-install-webview2-to-get-latest-updates-from-power-bi-desktop.md",
-      "title": "Reminder - Install WebView2 to Get Latest Updates from Power BI Desktop",
-      "excerpt": "This video, is the reminder for the updating your system with WebView2 if you want to receive, Power BI Desktop updates from February 2022. Microsoft is making the switch to better optimize our development and release process . It also means that you’ll automatically get the latest security patches as",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-reminder-install-webview2-to-get-latest-updates-from-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-reminder-install-webview2-to-get-latest-updates-from-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=6ArFD3hrkQA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6ArFD3hrkQA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M55S",
+      "path": "_learning/articles/excelerator-bi-5-productivity-benefits-of-tabular-editor-3.md",
+      "title": "5 Productivity Benefits of Tabular Editor 3",
+      "excerpt": "Tabular Editor is a Power BI Tabular Modelling productivity tool developed by Daniel Otykier. I blogged about Version 2 of the Tabular Editor in this article here. The 3rd edition of Tabular Editor has just been released, and it is a major upgrade from version 2. TE 3 is not [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-5-productivity-benefits-of-tabular-editor-3/index.json",
+      "webUrl": "https://exceleratorbi.com.au/5-productivity-benefits-of-tabular-editor-3/",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-02-07T00:51:04-08:00",
-      "heat": 51,
+      "publishedDateTime": "2021-06-07T00:04:55-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6ArFD3hrkQA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/06/TE3.png",
+          "width": 577,
+          "height": 288,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-sort-legend-in-power-bi.md",
-      "title": "Sort Legend in Power BI",
-      "excerpt": "Welcome to Power BI Tips and Tricks Video. This is a short and sweet video demonstrating the functionality to apply Sort on Legend values in Power BI. We can now adjust the sort direction for items in our legends! This will also help to reorder some of the data in visuals like stacked column charts,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-sort-legend-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-sort-legend-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=MuyweUNSo9g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MuyweUNSo9g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M2S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-12-15T07:36:54-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MuyweUNSo9g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/enterprise-dna-context-considerations-113-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Context Considerations - (1.13) Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-context-considerations-113-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-context-considerations-113-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=sz7yW06scgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sz7yW06scgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M11S",
+      "path": "_learning/articles/excelerator-bi-build-a-pl-in-power-bi-without-any-dax.md",
+      "title": "Build a P&L in Power BI Without Any DAX",
+      "excerpt": "This is the third article where I have covered building a P&#38;L in Power BI. My first 2 articles here and here focused on how to use the DAX language to solve some of the common problems with P&#38;L reporting, such as adding sub totals into the visual, % of [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-build-a-pl-in-power-bi-without-any-dax/index.json",
+      "webUrl": "https://exceleratorbi.com.au/build-a-pl-in-power-bi-without-any-dax/",
       "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2020-05-01T03:48:41-07:00",
-      "heat": 51,
+      "publishedDateTime": "2021-05-27T17:21:42-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/sz7yW06scgk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/05/052821_0018_BuildaPLin1.png",
+          "width": 800,
+          "height": 482,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
       "topics": [
         "Power BI",
         "DAX"
       ]
     },
     {
-      "path": "_learning/videos/enterprise-dna-evaluation-context-110-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Evaluation Context - (1.10) Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-evaluation-context-110-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-evaluation-context-110-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=rGFZ9j-qey0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rGFZ9j-qey0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M49S",
+      "path": "_learning/articles/excelerator-bi-building-a-matrix-with-asymmetrical-columns-and-rows-in-power-bi.md",
+      "title": "Building a Matrix with Asymmetrical Columns and Rows in Power BI",
+      "excerpt": "I have written a few articles that are related to this topic (articles that utilise this same technique to solve a problem), but never before have I explained the stand alone concept of how to build a visual with asymmetrical columns and rows in Power BI.  Let me explain with [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-building-a-matrix-with-asymmetrical-columns-and-rows-in-power-bi/index.json",
+      "webUrl": "https://exceleratorbi.com.au/building-a-matrix-with-asymmetrical-columns-and-rows-in-power-bi/",
       "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2020-05-01T03:26:18-07:00",
-      "heat": 51,
+      "publishedDateTime": "2020-10-26T12:55:50-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/rGFZ9j-qey0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/10/102320_0501_BuildingaMa2.png",
+          "width": 597,
+          "height": 497,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-examples-of-advanced-dax-120-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Examples Of Advanced DAX - (1.20) Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-examples-of-advanced-dax-120-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-examples-of-advanced-dax-120-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=szTqlEvdqfE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/szTqlEvdqfE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M32S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-05-01T04:09:47-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/szTqlEvdqfE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-formula-syntax-comments-variables-17-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Formula Syntax, Comments, Variables - (1.7) Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-formula-syntax-comments-variables-17-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-formula-syntax-comments-variables-17-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=c4We3Ine47Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c4We3Ine47Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M59S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-05-01T03:06:33-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/c4We3Ine47Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-measures-vs-calculated-columns-14-ultimate-beginners-guide-to-dax-2019.md",
-      "title": "Measures vs Calculated Columns - (1.4) Ultimate Beginners Guide to DAX 2019",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-measures-vs-calculated-columns-14-ultimate-beginners-guide-to-dax-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-measures-vs-calculated-columns-14-ultimate-beginners-guide-to-dax-2019/",
-      "originalUrl": "https://youtube.com/watch?v=nJSXty9Y4tM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nJSXty9Y4tM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M59S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2018-03-05T19:22:17-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nJSXty9Y4tM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-measures-vs-calculated-columns-15-ultimate-beginners-guide-to-dax-2020.md",
-      "title": "Measures vs Calculated Columns - (1.5) Ultimate Beginners Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-measures-vs-calculated-columns-15-ultimate-beginners-guide-to-dax-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-measures-vs-calculated-columns-15-ultimate-beginners-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=5vOEktgYWM0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5vOEktgYWM0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M1S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-05-01T02:36:30-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5vOEktgYWM0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020.md",
-      "title": "Setting Up Your Power BI Model - (1.4) Ultimate Beginner Guide to DAX 2020",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020/",
-      "originalUrl": "https://youtube.com/watch?v=vEB0aS8n9I8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vEB0aS8n9I8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M52S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-05-01T02:09:58-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vEB0aS8n9I8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-types-of-time-intelligence-functions-115-ultimate-beginners-guide-to-dax-2019.md",
-      "title": "Types Of Time Intelligence Functions - (1.15) Ultimate Beginners Guide to DAX 2019",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-types-of-time-intelligence-functions-115-ultimate-beginners-guide-to-dax-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-types-of-time-intelligence-functions-115-ultimate-beginners-guide-to-dax-2019/",
-      "originalUrl": "https://youtube.com/watch?v=kmZlNMA0_SM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kmZlNMA0_SM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M6S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2018-03-05T19:22:17-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kmZlNMA0_SM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/enterprise-dna-ultimate-beginners-guide-to-dax-2021-course-intro.md",
-      "title": "Ultimate Beginners Guide To DAX 2021 - Course Intro",
-      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-ultimate-beginners-guide-to-dax-2021-course-intro/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-ultimate-beginners-guide-to-dax-2021-course-intro/",
-      "originalUrl": "https://youtube.com/watch?v=ILVRJQ22cjs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ILVRJQ22cjs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M48S",
-      "provider": {
-        "name": "Enterprise DNA",
-        "domain": "enterprisedna.co"
-      },
-      "publishedDateTime": "2020-05-05T20:00:14-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ILVRJQ22cjs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-3-steps-to-pin-reporting-services-visuals-to-a-power-bi-dashboard.md",
-      "title": "3 steps to pin Reporting Services visuals to a Power BI Dashboard",
-      "excerpt": "In this video, I show how you can configure Reporting Services to integrate with Power BI and then pin visualizations from a paginated report to a Power BI dashboard.   There are three main steps you have to do to get this to work.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-3-steps-to-pin-reporting-services-visuals-to-a-power-bi-dashboard/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-3-steps-to-pin-reporting-services-visuals-to-a-power-bi-dashboard/",
-      "originalUrl": "https://youtube.com/watch?v=ICCWBfB6LA0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ICCWBfB6LA0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M57S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-11-29T10:49:29-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ICCWBfB6LA0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-3-tips-for-using-the-model-view-in-power-bi-desktop.md",
-      "title": "3 tips for using the MODEL VIEW in Power BI Desktop",
-      "excerpt": "The model view, in Power BI Desktop, is really powerful. Patrick shares 3 tips that you may not have known about.  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-3-tips-for-using-the-model-view-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-3-tips-for-using-the-model-view-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=5wn6vUgSRXY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5wn6vUgSRXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M59S",
+      "path": "_learning/articles/excelerator-bi-building-a-pl-in-power-bi-part-2-percentages.md",
+      "title": "Building a P&L in Power BI – Part 2 (Percentages)",
+      "excerpt": "I blogged about how to Build a P&#38;L With Power BI back in April 2020, and the response from my readers was great. Several people asked how to add percentages such as % of net sales revenue, % gross profit, etc. into the P&#38;L. I decided therefore to do a [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-building-a-pl-in-power-bi-part-2-percentages/index.json",
+      "webUrl": "https://exceleratorbi.com.au/building-a-pl-in-power-bi-part-2-percentages/",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2020-04-22T08:00:02-07:00",
-      "heat": 51,
+      "publishedDateTime": "2021-03-22T12:55:00-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5wn6vUgSRXY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/03/032121_2354_BuildingaPL2.png",
+          "width": 794,
+          "height": 315,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-3-ways-reporting-services-and-power-bi-work-together.md",
-      "title": "3 ways Reporting Services and Power BI work together",
-      "excerpt": "With the release of Microsoft SQL Server 2016, I look at how Reporting Services and Power BI work together. From the Power BI mobile app, to pinning visualizations to a dashboard and how Reporting Services handles Power BI Desktop files.  #PowerBI #SSRS  SUBSCRIBE! https://www.youtube.com/channel/UCFp1vaKzpfvoGai0vE5VJ0w?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-3-ways-reporting-services-and-power-bi-work-together/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-3-ways-reporting-services-and-power-bi-work-together/",
-      "originalUrl": "https://youtube.com/watch?v=QhPQObqmMPc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QhPQObqmMPc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M26S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-05-31T06:45:30-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QhPQObqmMPc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-3-ways-to-try-power-bi.md",
-      "title": "3 ways to try Power BI",
-      "excerpt": "Are you wanting to try Power BI, but not sure where to start? I look at some ways you can get up and running with Power BI quickly. This could be for an individual, or for your organization within Office 365.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube --",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-3-ways-to-try-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-3-ways-to-try-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=QiwxT9ndefY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QiwxT9ndefY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M6S",
+      "path": "_learning/articles/excelerator-bi-building-a-power-bi-covid-report-from-scratch.md",
+      "title": "Building A Power BI (COVID) Report From Scratch",
+      "excerpt": "As promised, today I am sharing with you the process I went through to build the COVID report I shared in my last article. One of the best ways to learn and improve your Power BI skills is to practice. The best way to practice is to find something you [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-building-a-power-bi-covid-report-from-scratch/index.json",
+      "webUrl": "https://exceleratorbi.com.au/building-a-power-bi-report-from-scratch/",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2018-03-20T08:10:00-07:00",
-      "heat": 51,
+      "publishedDateTime": "2021-07-21T13:55:57-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/QiwxT9ndefY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "3 ways to try Power BI",
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/new-report-from-scratch.png",
+          "width": 400,
+          "height": 225,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-5-awesome-things-about-the-new-ribbon-in-power-bi-desktop.md",
-      "title": "5 AWESOME things about the new ribbon in Power BI Desktop",
-      "excerpt": "Power BI Desktop has a new ribbon! Patrick shows you 5 awesome things about it that you may not be aware of.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-5-awesome-things-about-the-new-ribbon-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-5-awesome-things-about-the-new-ribbon-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=FBf5rYR8KoM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FBf5rYR8KoM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M37S",
+      "path": "_learning/articles/excelerator-bi-calendar-over-run-in-power-bi.md",
+      "title": "Calendar Over Run in Power BI",
+      "excerpt": "This is an update to an article that I wrote back in 2019. This time around I created a video to go along with the written explanation and documentation below. You can jump straight to the video below if you prefer that medium. What is Calendar Over Run? Consider the [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-calendar-over-run-in-power-bi/index.json",
+      "webUrl": "https://exceleratorbi.com.au/calendar-over-run-while-comparing-last-years-data/",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2019-11-19T07:22:52-08:00",
-      "heat": 51,
+      "publishedDateTime": "2021-05-03T16:50:54-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/FBf5rYR8KoM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/05/050321_2139_CalendarOve3.png",
+          "width": 800,
+          "height": 281,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-5-things-you-didnt-know-about-power-bi-desktop.md",
-      "title": "5 things you didn't know about Power BI Desktop",
-      "excerpt": "Patrick shows you 5 things you didn't know about Power BI Desktop. Some potentially hidden things that may not be obvious and will help you out when creating Power BI reports within Power BI Desktop.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton --",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-5-things-you-didnt-know-about-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-5-things-you-didnt-know-about-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=82ddX3BuGng",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/82ddX3BuGng\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M1S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-03-13T14:10:40-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/82ddX3BuGng/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-5-tips-for-power-bi-paginated-reports.md",
-      "title": "5 tips for Power BI Paginated reports",
-      "excerpt": "Get 5 tips for Power BI Paginated reports from Paginated report bear, Chris Finlan and Patrick! These 5 tips can help you on your journey with Power BI Paginated reports.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-5-tips-for-power-bi-paginated-reports/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-5-tips-for-power-bi-paginated-reports/",
-      "originalUrl": "https://youtube.com/watch?v=_uAP8GN6kCI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_uAP8GN6kCI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M48S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-06-19T06:11:33-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_uAP8GN6kCI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-add-a-domain-to-your-power-bi-tenant-office-365-azure-active-directory.md",
-      "title": "Add a domain to your Power BI tenant (Office 365 / Azure Active Directory)",
-      "excerpt": "In this video, Adam looks at how you can add a domain to your Power BI tenant. This is done by adding the domain through Azure Active Directory or Office 365.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube -- Snapchat -",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-add-a-domain-to-your-power-bi-tenant-office-365-azure-active-directory/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-add-a-domain-to-your-power-bi-tenant-office-365-azure-active-directory/",
-      "originalUrl": "https://youtube.com/watch?v=Lv98ZI1cmdI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Lv98ZI1cmdI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M49S",
+      "path": "_learning/articles/excelerator-bi-case-fatality-rate-for-covid-in-australia.md",
+      "title": "Case Fatality Rate for COVID in Australia",
+      "excerpt": "I am writing an off-topic article today but I promise I will circle back later in the week with a follow up article bringing it back on topic. In this article, I am going to share a COVID report I built today, and later in the week I will post [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-case-fatality-rate-for-covid-in-australia/index.json",
+      "webUrl": "https://exceleratorbi.com.au/infection-fatality-rate-for-covid-in-australia/",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2019-02-07T08:00:23-08:00",
-      "heat": 51,
+      "publishedDateTime": "2021-07-19T01:22:47-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Lv98ZI1cmdI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/05/Power-Query-Academy-Logo-450x216.png",
+          "width": 450,
+          "height": 216,
+          "isCached": true
+        },
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/02/SCPBI-Cover-3rd-Edition-small.png",
+          "width": 300,
+          "height": 408,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-alternative-to-sharing-a-power-bi-personal-bookmark.md",
-      "title": "Alternative to sharing a Power BI Personal Bookmark",
-      "excerpt": "Have you tried to share a personal bookmark in Power BI but it won't work? Adam shows you a simple trick to share report context with others in your organization.   📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-alternative-to-sharing-a-power-bi-personal-bookmark/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-alternative-to-sharing-a-power-bi-personal-bookmark/",
-      "originalUrl": "https://youtube.com/watch?v=-c1-VQ6RsrA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-c1-VQ6RsrA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M35S",
+      "path": "_learning/articles/excelerator-bi-compare-any-two-of-anything-in-power-bi.md",
+      "title": "Compare Any Two of Anything in Power BI",
+      "excerpt": "I have been increasingly recording videos as my method of sharing tips and techniques for getting more out of Power BI. Some concepts are best documented (traditional blogging) and some are just easier for everyone if it is a video. That is the case again for today. Compare Any Two [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-compare-any-two-of-anything-in-power-bi/index.json",
+      "webUrl": "https://exceleratorbi.com.au/compare-any-two-of-anything-in-power-bi/",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2021-01-07T08:00:00-08:00",
-      "heat": 51,
+      "publishedDateTime": "2021-06-28T05:16:26-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-c1-VQ6RsrA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/06/compare-any-2-of-anything.png",
+          "width": 745,
+          "height": 383,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-answering-your-datamart-questions.md",
-      "title": "Answering your datamart questions",
-      "excerpt": "You've got a LOT of questions about datamarts in Power BI! Adam answers a few that we've seen popping up. Giving his thoughts on these questions.  Introduction to datamarts https://docs.microsoft.com/power-bi/transform-model/datamarts/datamarts-overview  Comparing dataflows to datamarts https://docs.microsoft.com/power-bi/transform-model/datamarts/datamarts-overview#comparing-dataflows-to-datamarts",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-answering-your-datamart-questions/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-answering-your-datamart-questions/",
-      "originalUrl": "https://youtube.com/watch?v=o2EFbdRZOAU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o2EFbdRZOAU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M10S",
+      "path": "_learning/articles/excelerator-bi-copy-measures-between-2-power-bi-files.md",
+      "title": "Copy Measures Between 2 Power BI Files",
+      "excerpt": "I first wrote this article back in Jan-2019 and have decided to come back and update it now.  With the recent enhanced External Tools Toolbar in Power BI Desktop, there has never been a better time to start to learn how to use these tools. Have you ever wondered if [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-copy-measures-between-2-power-bi-files/index.json",
+      "webUrl": "https://exceleratorbi.com.au/copy-measures-between-2-power-bi-files/",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-06-02T08:00:26-07:00",
-      "heat": 51,
+      "publishedDateTime": "2020-08-17T16:35:13-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/o2EFbdRZOAU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/08/2-windows.png",
+          "width": 960,
+          "height": 371,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-are-you-backing-up-your-power-bi-dataset.md",
-      "title": "Are you backing up your Power BI Dataset???",
-      "excerpt": "While Power BI is a SaaS service, backing up your dataset is still important. What if something was accidently deleted? How do you recover it? Patrick shows you how you can get a backup / restore process in place so you can sleep at night.  Backup/Restore PowerShell Script: https://guyinacu.be/backuprestorescript",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-are-you-backing-up-your-power-bi-dataset/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-are-you-backing-up-your-power-bi-dataset/",
-      "originalUrl": "https://youtube.com/watch?v=RbMFQNthlGM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RbMFQNthlGM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M16S",
+      "path": "_learning/articles/excelerator-bi-correcting-source-data-in-power-bi.md",
+      "title": "Correcting Source Data in Power BI",
+      "excerpt": "This article continues to build on my COVID Case Fatality Rate report for Australia. Something happened with the global source data this week – in short, it was wrong. This is a global database and I am sure there are many people diligently trying to keep the data up to [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-correcting-source-data-in-power-bi/index.json",
+      "webUrl": "https://exceleratorbi.com.au/correcting-source-data-in-power-bi/",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-04-13T08:00:10-07:00",
-      "heat": 51,
+      "publishedDateTime": "2021-07-29T18:35:07-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/RbMFQNthlGM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/incorrect-data.png",
+          "width": 625,
+          "height": 250,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations.md",
-      "title": "Are you HITTING your Power BI aggregations???",
-      "excerpt": "Are you not sure if you are hitting your Power BI Aggregations? Patrick shows you some tools you can use to verify if they are being used.  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-are-you-hitting-your-power-bi-aggregations/",
-      "originalUrl": "https://youtube.com/watch?v=ivWGSnthTDw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ivWGSnthTDw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M46S",
+      "path": "_learning/articles/excelerator-bi-dataflows-101.md",
+      "title": "Dataflows 101",
+      "excerpt": "Matt here.  I want to do a brief introduction prior to handing over to Roland.  I have known Roland for a couple of years now &#8211; he is a member of the Sydney Power BI User Group.  What I didn&#8217;t know until very recently is that he has the same [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-dataflows-101/index.json",
+      "webUrl": "https://exceleratorbi.com.au/dataflows-101/",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2020-03-18T08:00:15-07:00",
-      "heat": 51,
+      "publishedDateTime": "2022-03-28T12:55:00-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ivWGSnthTDw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Are you HITTING your Power BI aggregations???",
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/03/DataFlow-101-Practical-Guide-For-Business-Users-Blog.png",
+          "width": 750,
+          "height": 500,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-are-you-using-the-right-dataflows-connector-in-power-bi.md",
-      "title": "Are you using the right Dataflows connector in Power BI???",
-      "excerpt": "Did you know that there are two Dataflows connectors in Power BI? What's the difference? Adam takes a look and explains what is going on.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses available",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-are-you-using-the-right-dataflows-connector-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-are-you-using-the-right-dataflows-connector-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=OONgT-DjmY0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OONgT-DjmY0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M26S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-12-09T08:00:23-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OONgT-DjmY0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
       "topics": [
         "Power BI",
         "Dataflows"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-ask-a-question-with-the-new-qa-visual-in-power-bi-desktop.md",
-      "title": "Ask a question with the new Q&A visual in Power BI Desktop",
-      "excerpt": "Justyna joins us to show the new Q&A visual in Power BI Desktop. Easily ask a question and tune results in this awesome update.  Connect with Justyna: Twitter: https://twitter.com/JustynaLucznik  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-ask-a-question-with-the-new-qa-visual-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-ask-a-question-with-the-new-qa-visual-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=Bg8nRNxcJZA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bg8nRNxcJZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M30S",
+      "path": "_learning/articles/excelerator-bi-deep-dive-into-inforiver-export-to-excel.md",
+      "title": "Deep Dive into InfoRiver Export to Excel",
+      "excerpt": "This is a further article in my series where I share with you what I have learnt about the InfoRiver custom visual.  As good as Power BI is, it will take Microsoft many more years to make it fully featured.  Microsoft Excel is 37 years old, and I can assure [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-deep-dive-into-inforiver-export-to-excel/index.json",
+      "webUrl": "https://exceleratorbi.com.au/deep-dive-into-inforiver-export-to-excel/",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2019-10-16T07:01:09-07:00",
-      "heat": 51,
+      "publishedDateTime": "2022-02-22T11:55:21-08:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Bg8nRNxcJZA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/02/export-to-excel-featured-image.gif",
+          "width": 640,
+          "height": 340,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-azure-active-directory-and-power-bi.md",
-      "title": "Azure Active Directory and Power BI",
-      "excerpt": "I take a look at how Power BI and Azure Active Directory interact.  Really it is more about Azure Active Directory and how do you get users into AAD.  This came up as I get pinged a lot from folks wondering how they can use AAD with Power BI, not necessarily realizing that it is already there.  http://blogs.technet.com/b/powerbisupport/archive/2015/09/15/azure-active-directory-and-power-bi.aspx",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-azure-active-directory-and-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-azure-active-directory-and-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=KttluRiuRq0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KttluRiuRq0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M58S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-03-01T11:26:45-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KttluRiuRq0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-can-you-embed-powerpoint-into-a-power-bi-app-lets-try.md",
-      "title": "Can you embed PowerPoint into a Power BI App? Let's try!",
-      "excerpt": "Let's try to embed PowerPoint into a published Power BI App. Sometimes you just have to try something!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.  🎓",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-embed-powerpoint-into-a-power-bi-app-lets-try/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-embed-powerpoint-into-a-power-bi-app-lets-try/",
-      "originalUrl": "https://youtube.com/watch?v=fr1yjm-uFRE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fr1yjm-uFRE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M22S",
+      "path": "_learning/articles/excelerator-bi-do-i-need-a-power-bi-premium-per-user-licence.md",
+      "title": "Do I Need a Power BI Premium Per User Licence?",
+      "excerpt": "As is often the case, the inspiration for many of my blog articles comes from my experiences working with clients. Today I was on a call with a client in the USA who is still very early into his PowerBI.com journey. I noticed that he had a Power BI Premium [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-do-i-need-a-power-bi-premium-per-user-licence/index.json",
+      "webUrl": "https://exceleratorbi.com.au/do-i-need-a-power-bi-premium-per-user-licence/",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2020-05-19T08:00:20-07:00",
-      "heat": 51,
+      "publishedDateTime": "2021-12-23T15:35:09-08:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/fr1yjm-uFRE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/12/122321_2109_DoINeedaPow1.png",
+          "width": 457,
+          "height": 270,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-column-profiling-in-power-bi-desktop.md",
-      "title": "Column Profiling in Power BI Desktop",
-      "excerpt": "Adam walks through column profiling within the Power BI Desktop. This includes the latest updates with the general availability (GA) within the April 2019 Power BI Desktop release.  Demo files: https://guyinacu.be/demofiles  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-column-profiling-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-column-profiling-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=WN1cvJGutT8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WN1cvJGutT8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M",
+      "path": "_learning/articles/excelerator-bi-do-not-build-a-column-chart-like-this-please.md",
+      "title": "Do Not Build a Column Chart Like This – Please!",
+      "excerpt": "I was inspired into action this week by one of the worst visuals I have seen during the COVID pandemic. Here is the visual below, take a look and see what you think. When I first saw this chart, I simply couldn&#8217;t make sense of it. The first thing I [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-do-not-build-a-column-chart-like-this-please/index.json",
+      "webUrl": "https://exceleratorbi.com.au/do-not-build-a-column-chart-like-this-please/",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2019-05-07T13:53:07-07:00",
-      "heat": 51,
+      "publishedDateTime": "2021-08-05T15:01:44-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/WN1cvJGutT8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/dont-do-this.png",
+          "width": 2109,
+          "height": 920,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
       "topics": [
-        "Power BI",
-        "Power BI Desktop"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-combine-power-bi-report-tooltips-using-dax.md",
-      "title": "Combine Power BI Report Tooltips using DAX",
-      "excerpt": "In this video, Patrick shows you how to combine Power BI Report Tooltips using DAX. Just a little bit of DAX! This can be useful when you want to use a single report tooltip for multiple Power BI visuals.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-combine-power-bi-report-tooltips-using-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-combine-power-bi-report-tooltips-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=uprJM3zbzWs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uprJM3zbzWs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M29S",
+      "path": "_learning/articles/excelerator-bi-dynamic-commentary-in-power-bi.md",
+      "title": "Dynamic Commentary in Power BI",
+      "excerpt": "Today is another in my series where I am building out my COVID report for Australia. There are a few things I cover in the video today.  The main &#8220;new&#8221; concept is the dynamic commentary, but I also show you some more warts and all insider view of building a [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-dynamic-commentary-in-power-bi/index.json",
+      "webUrl": "https://exceleratorbi.com.au/dynamic-commentary-in-power-bi/",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2018-05-30T07:09:01-07:00",
-      "heat": 51,
+      "publishedDateTime": "2021-09-20T18:14:17-07:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/uprJM3zbzWs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/09/Thumbnail-e1632139127781.jpg",
+          "width": 750,
+          "height": 422,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-dynamic-formatting-of-switch-measures.md",
+      "title": "Dynamic Formatting of Switch Measures",
+      "excerpt": "History of Switch Measures Using a switch measure to toggle results is a mature and common technique used in Power BI and Power Pivot for Excel. For example, a switch measure can be used to toggle what appears on a chart so that the end user can easily switch the [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-dynamic-formatting-of-switch-measures/index.json",
+      "webUrl": "https://exceleratorbi.com.au/dynamic-formatting-of-switch-measures/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2020-08-24T17:57:11-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/08/Dynamic-Formatting-of-Switch-Measures.gif",
+          "width": 750,
+          "height": 346,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-exploding-measures-using-tabular-editor-3.md",
+      "title": "Exploding Measures using Tabular Editor 3",
+      "excerpt": "What?! Exploding Measures I hear you say. Exploding, expanding, use which ever word you like; what I mean is when you want to remove any refence to a measure INSIDE another measure. Example Consider the 3 measures below. Total Sales = SUM(Sales[ExtendedAmount]) Total All Product Sales = CALCULATE([Total",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-exploding-measures-using-tabular-editor-3/index.json",
+      "webUrl": "https://exceleratorbi.com.au/expanding-measures-using-tabular-editor-3/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2022-04-12T20:00:35-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/05/Power-Query-Academy-Logo-450x216.png",
+          "width": 450,
+          "height": 216,
+          "isCached": true
+        },
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/02/SCPBI-Cover-3rd-Edition-small.png",
+          "width": 300,
+          "height": 408,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-extract-multiple-pages-from-web.md",
+      "title": "Extract Multiple Pages from Web",
+      "excerpt": "Every now and then when I have a Power BI project of interest to me, I like to create a video of the end to end process of building a new report. This allows me to share some &#8220;warts and all&#8221; real-world examples of how to go about building a [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-extract-multiple-pages-from-web/index.json",
+      "webUrl": "https://exceleratorbi.com.au/extract-multiple-pages-from-web/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2022-08-31T19:24:53-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/08/extract-from-web.png",
+          "width": 969,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-extract-tabular-data-from-power-bi-service-to-excel.md",
+      "title": "Extract Tabular Data From Power BI Service to Excel",
+      "excerpt": "Level: Intermediate Updated: 10 Nov 2020 I first wrote this article about how to get tabular data from the Power BI Service into Excel back in Jan 2017.  The benefits of extracting tabular data are still the same as they were back then however the process of extracting the tabular data [...]Read More",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-extract-tabular-data-from-power-bi-service-to-excel/index.json",
+      "webUrl": "https://exceleratorbi.com.au/extract-tabular-data-power-bi-service-excel/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2020-11-09T13:40:19-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/01/export.png",
+          "width": 500,
+          "height": 250,
+          "isCached": true
+        },
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/11/thumbnail.png",
+          "width": 500,
+          "height": 250,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI",
+        "Power BI Service"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-fast-track-power-bi-dev-with-sharepoint-files.md",
+      "title": "Fast Track Power BI Dev With SharePoint Files",
+      "excerpt": "I&#8217;m always looking for more productive ways to work with Power BI and associated tools. As I covered in my article last week, development of Power BI reports using SharePoint for your file storage can be so slow that it is impractical. In this article I discuss the various options [...]Read More",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-fast-track-power-bi-dev-with-sharepoint-files/index.json",
+      "webUrl": "https://exceleratorbi.com.au/fast-track-power-bi-dev-with-sharepoint-files/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2020-09-22T01:18:03-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/09/092220_0726_FastTrackPo1.png",
+          "width": 800,
+          "height": 339,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-field-parameters-in-power-bi.md",
+      "title": "Field Parameters in Power BI",
+      "excerpt": "The May 2022 version of Power BI Desktop includes a very interesting and useful feature – Field Parameters. Today I will show you how to use this new feature illustrating with 3 (no, wait, 4) use cases – Chart Elements, Chart Axis, Table Contents and Permanent Ad hoc Hierarchies. How [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-field-parameters-in-power-bi/index.json",
+      "webUrl": "https://exceleratorbi.com.au/field-parameters-in-power-bi/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2022-05-17T16:22:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/05/051722_2152_FieldParame2.png",
+          "width": 533,
+          "height": 518,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-field-parameters-using-measures.md",
+      "title": "Field Parameters Using Measures",
+      "excerpt": "Readers of my blog may have read this previous article from Roland where he covered an introduction to dataflows. In this new article, Roland is going to share some ideas about using the new field parameters.  If you haven&#8217;t subscribed to Roland&#8217;s YouTube Channel yet, I highly recommend that",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-field-parameters-using-measures/index.json",
+      "webUrl": "https://exceleratorbi.com.au/field-parameters-useful-ui-design/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2022-07-14T16:59:55-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/07/Blog_Pic1-1.jpg",
+          "width": 800,
+          "height": 273,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-fill-data-to-the-right-in-a-table.md",
+      "title": "Fill Data to the Right in a Table",
+      "excerpt": "I was helping someone recently with an issue. They wanted to allow end users (department managers in this case) to enter data in a table as simply as possible, and then use this data for reporting. The challenge often is, that the easiest way to enter data from a user&#8217;s [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-fill-data-to-the-right-in-a-table/index.json",
+      "webUrl": "https://exceleratorbi.com.au/fill-data-to-the-right-in-a-table/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2021-06-22T14:49:37-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/05/Power-Query-Academy-Logo-450x216.png",
+          "width": 450,
+          "height": 216,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-filter-one-slicer-based-on-another-slicer-in-power-bi.md",
+      "title": "Filter One Slicer Based on Another Slicer in Power BI",
+      "excerpt": "This is a follow up article from my last blog post where I demonstrated how easy it is to use two slicers to compare any two items. In the demo in my article, I specifically showed how you could compare any 2 years of choice, but the principle applies to [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-filter-one-slicer-based-on-another-slicer-in-power-bi/index.json",
+      "webUrl": "https://exceleratorbi.com.au/filter-one-slicer-based-on-another-slicer-in-power-bi/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2021-07-12T16:24:52-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/070921_2320_FilterOneSl1.png",
+          "width": 402,
+          "height": 259,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-gartner-magic-quadrant-for-business-intelligence-2022-update.md",
+      "title": "Gartner Magic Quadrant for Business Intelligence – 2022 Update",
+      "excerpt": "Updated May 2022 I update this blog article regularly to keep track of how Microsoft is progressing on its strategic journey in building a world class BI platform.  Gartner released the 2022 magic quadrant for Business Intelligence in March 2022.  As expected (by me at least), Microsoft is continuing",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-gartner-magic-quadrant-for-business-intelligence-2022-update/index.json",
+      "webUrl": "https://exceleratorbi.com.au/extract-numerical-data-points-from-an-image/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2022-05-11T16:00:52-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/02/Gartner-2022.gif",
+          "width": 596,
+          "height": 592,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-how-many-employees-by-period.md",
+      "title": "How Many Employees by Period",
+      "excerpt": "I have many reasons for sharing content online. The main reasons are that I like sharing what I know, but also that I want to document how to complete a task for future reference. My article today ticks both of those boxes. How Many Employees by Period I&#8217;m calling this [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-how-many-employees-by-period/index.json",
+      "webUrl": "https://exceleratorbi.com.au/how-many-employees-by-period/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2022-05-23T17:39:48-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/05/Power-Query-Academy-Logo-450x216.png",
+          "width": 450,
+          "height": 216,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-improving-my-covid-power-bi-report.md",
+      "title": "Improving My COVID Power BI Report",
+      "excerpt": "As is almost always the case when building Power BI reports, the first version is just the start of the journey, not the final destination. This article is a follow up from last week where I showed you how I built my COVID Power BI report from scratch. This week [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-improving-my-covid-power-bi-report/index.json",
+      "webUrl": "https://exceleratorbi.com.au/improving-my-covid-power-bi-report/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2021-07-26T19:05:59-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/07/image.png",
+          "width": 346,
+          "height": 220,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-infection-fatality-rate-for-covid-in-australia.md",
+      "title": "Infection Fatality Rate for COVID in Australia",
+      "excerpt": "I am writing an off-topic article today but I promise I will circle back later in the week with a follow up article bringing it back on topic. In this article, I am going to share a COVID report I built today, and later in the week I will post [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-infection-fatality-rate-for-covid-in-australia/index.json",
+      "webUrl": "https://exceleratorbi.com.au/infection-fatality-rate-for-covid-in-australia/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2021-07-19T01:22:47-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/05/Power-Query-Academy-Logo-450x216.png",
+          "width": 450,
+          "height": 216,
+          "isCached": true
+        },
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/02/SCPBI-Cover-3rd-Edition-small.png",
+          "width": 300,
+          "height": 408,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-introduction-to-power-bi-and-dax.md",
+      "title": "Introduction to Power BI and DAX",
+      "excerpt": "Back in 2019 I ran a free webinar introducing Power BI and DAX. Many readers of my blog will already be well ahead of this topic, but then again many of you also probably run into people who would benefits from a simple introduction. I have decided to publish the [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-introduction-to-power-bi-and-dax/index.json",
+      "webUrl": "https://exceleratorbi.com.au/introduction-to-power-bi-and-dax/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2022-08-22T13:55:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/09/Demystifying-DAX-Side-Bar-Ad.jpg",
+          "width": 626,
+          "height": 359,
+          "isCached": true
+        },
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/08/FeaturedImage.png",
+          "width": 750,
+          "height": 423,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
       "topics": [
         "Power BI",
         "DAX"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-composite-models-in-power-bi-and-storage-modes-what-to-pick.md",
-      "title": "Composite models in Power BI and Storage modes - what to pick???",
-      "excerpt": "When using composite models in Power BI, you have a choice for how to store your tables. Storage mode gives you options, but why would I pick one versus the other for my dimension tables? Adam has you covered!  Use composite models in Power BI Desktop https://docs.microsoft.com/power-bi/transform-model/desktop-composite-models",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-composite-models-in-power-bi-and-storage-modes-what-to-pick/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-composite-models-in-power-bi-and-storage-modes-what-to-pick/",
-      "originalUrl": "https://youtube.com/watch?v=-jvnjx-264c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-jvnjx-264c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M36S",
+      "path": "_learning/articles/excelerator-bi-loading-a-file-from-onedrive-personal-into-power-bi-desktop.md",
+      "title": "Loading a File from OneDrive Personal into Power BI Desktop",
+      "excerpt": "I am sure you know, there are quite a few companies that provide online document storage for free, including Dropbox (which is my personal favourite) but also Google Drive and OneDrive Personal (Microsoft). This article today shows how you can load data from OneDrive Personal (stored in the cloud) directly",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-loading-a-file-from-onedrive-personal-into-power-bi-desktop/index.json",
+      "webUrl": "https://exceleratorbi.com.au/loading-a-file-from-onedrive-personal-into-power-bi-desktop/",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
       },
-      "publishedDateTime": "2022-04-06T08:00:01-07:00",
-      "heat": 51,
+      "publishedDateTime": "2020-11-23T11:55:01-08:00",
+      "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-jvnjx-264c/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/11/onedrive-personal-to-pbi.png",
+          "width": 653,
+          "height": 329,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "article",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power BI Desktop"
       ]
     }
   ],
