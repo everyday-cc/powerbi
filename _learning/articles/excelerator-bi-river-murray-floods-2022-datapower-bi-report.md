@@ -4,7 +4,7 @@ excerpt: ""
 webUrl: https://exceleratorbi.com.au/river-murray-floods-2022-data-power-bi-report/
 type: article
 publishedDateTime: 2022-11-04T22:37:32Z
-heat: 81
+heat: 80
 
 provider:
   name: Excelerator BI
