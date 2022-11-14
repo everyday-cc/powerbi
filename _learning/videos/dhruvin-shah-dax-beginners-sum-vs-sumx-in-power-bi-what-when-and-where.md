@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M21S
 publishedDateTime: 2021-09-29T07:07:31Z
-heat: 50
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bQWwj9w06K4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "fY9ZFVxtX1GmDnC48sP/U9vz7CqF41B/2Zy0DBHL7zgevE/RoHZi6RWPUyp96WghkYqxWFejaVWhs3aqXM0tEQByp5M+XKblaL5rI2BxU1TNFj8DcyAuCxlL27mLyG3Y+90dckHnfog1WLnK+zt/EWLYzBJjeJZI3wpSibSLYQ+rZxG9rJw7KHj/t6LcCL4911jjjcmuybQlxEwoe/07AqNXBJ1XwIiMp2gNdAC6JQL7A1EM4V744lf24i0JrkFdM9IBpNfk3VApv+bcJgoLIWS4BV4MEf7K8hjIuETfeLDW0m/dV9PhbyzB2ZO9OhgyaBQ0s81SMpFLtOAkob4klIBT3vLWP73xC7XK5eorjOyQ/pgupjRzp635i2dXZKJb8t/5lG3gkzb7LvvpR+/EJ+nNYuoC72o5kfYgGMV3hnc=;ueYNf4VD5onWm2EaBT7uuw=="
+secured: "IGVs05iuOfrhWiL8CagCauATGNYV9w1nXyYgeYEbhil8czlO8sBqKvh5EA/Vecti+6sYyz6QureiM5UUu+5IggNMxtku/rkXP/3BZwznprGjk01iwQdnxkmVx0sjd/xW4jSGZ+Om36yWbjHZRSyZqWeYzwpfs226IlmREvjfTTwaamMQ7OPwnhBd3pEyFP3NtdbrVMCS5x/0psH+1QzYx7n8zdLu7ml8XCgKxIc/der7eaQIuKV6E4AAcsMionSSMAcM95LUiVtgVu58KSU4DMcQydy2R0RjIUgazvU6LEIQJNdAILBs/o+55CmSvbJAmfmjn7zoQU9dPOjfg8rNfXuUONXTaXS7xzL/czOgUIO6Tsd7Oc+trfFsg5YJHj3h1BtHKVEGV1ho/8f1zo3kXGkVri0vVH6MkAFYPemVFbA=;WHQaLVhRGA1E0t8mj7yFdw=="
 ---
 
