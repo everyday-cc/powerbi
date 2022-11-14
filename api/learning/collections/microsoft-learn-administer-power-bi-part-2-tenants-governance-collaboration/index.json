@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
       "length": "PT19M",
       "ratings": {
-        "count": 86,
-        "average": 4.918605
+        "count": 84,
+        "average": 4.9166665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
       "length": "PT25M",
       "ratings": {
-        "count": 84,
-        "average": 4.785714
+        "count": 86,
+        "average": 4.7906976
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -138,7 +138,7 @@
       "length": "PT12M",
       "ratings": {
         "count": 80,
-        "average": 4.625
+        "average": 4.7
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/",
       "length": "PT25M",
       "ratings": {
-        "count": 27,
-        "average": 4.851852
+        "count": 28,
+        "average": 4.857143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
       "length": "PT42M",
       "ratings": {
-        "count": 63,
-        "average": 4.698413
+        "count": 67,
+        "average": 4.716418
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 23,
-        "average": 4.9565215
+        "count": 25,
+        "average": 4.96
       },
       "provider": {
         "name": "Microsoft Learn",

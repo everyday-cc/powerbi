@@ -4,6 +4,48 @@
   "page": 44,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-explore-data-analytics-scale.md",
+      "title": "Explore data analytics at scale",
+      "excerpt": "Describe data analytics at scale and understand the roles of a data team. Learn about the responsibilities of an enterprise data analyst and what tools are available to build scalable solutions.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-data-analytics-scale/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 213,
+        "average": 4.7558684
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/explore-data-analytics-at-scale-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-explore-data-power-bi.md",
       "title": "Explore data in Power BI",
       "excerpt": "Turn your business intelligence data into data insights by creating and configuring Power BI dashboards.",
@@ -96,8 +138,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 5068,
-        "average": 4.7168508
+        "count": 5054,
+        "average": 4.7216067
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -214,8 +256,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 18066,
-        "average": 4.7118897
+        "count": 30717,
+        "average": 4.7256894
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -257,8 +299,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 5350,
-        "average": 4.7605605
+        "count": 14019,
+        "average": 4.755118
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -299,8 +341,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 71071,
-        "average": 4.778236
+        "count": 69858,
+        "average": 4.778107
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -341,8 +383,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/intelligent-environments-education-transformation-framework/",
       "length": "PT60M",
       "ratings": {
-        "count": 274,
-        "average": 4.839416
+        "count": 273,
+        "average": 4.8388276
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -383,8 +425,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 1231,
-        "average": 4.724614
+        "count": 1240,
+        "average": 4.7241936
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -425,8 +467,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 9006,
-        "average": 4.674661
+        "count": 9007,
+        "average": 4.6745863
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -459,8 +501,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 9784,
-        "average": 4.744992
+        "count": 9785,
+        "average": 4.745018
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -501,8 +543,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 20018,
-        "average": 4.72215
+        "count": 20020,
+        "average": 4.722128
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -585,8 +627,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
       "length": "PT20M",
       "ratings": {
-        "count": 60,
-        "average": 4.75
+        "count": 61,
+        "average": 4.704918
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -669,8 +711,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 7569,
-        "average": 4.712908
+        "count": 13895,
+        "average": 4.7208347
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -711,8 +753,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
       "length": "PT34M",
       "ratings": {
-        "count": 298,
-        "average": 4.7348995
+        "count": 303,
+        "average": 4.732673
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -753,8 +795,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-excel/",
       "length": "PT2H7M",
       "ratings": {
-        "count": 148,
-        "average": 4.7905407
+        "count": 149,
+        "average": 4.7919464
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -795,8 +837,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 188,
-        "average": 4.6542554
+        "count": 189,
+        "average": 4.6507936
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -838,8 +880,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
       "length": "PT37M",
       "ratings": {
-        "count": 668,
-        "average": 4.8023953
+        "count": 687,
+        "average": 4.8005824
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -880,8 +922,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-publish-share/",
       "length": "PT49M",
       "ratings": {
-        "count": 145,
-        "average": 4.724138
+        "count": 147,
+        "average": 4.727891
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -922,8 +964,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-teams/",
       "length": "PT27M",
       "ratings": {
-        "count": 203,
-        "average": 4.763547
+        "count": 206,
+        "average": 4.762136
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -964,8 +1006,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
       "length": "PT48M",
       "ratings": {
-        "count": 244,
-        "average": 4.7786884
+        "count": 246,
+        "average": 4.784553
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1006,8 +1048,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
       "length": "PT1H28M",
       "ratings": {
-        "count": 179,
-        "average": 4.6927376
+        "count": 192,
+        "average": 4.6979165
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1048,8 +1090,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 8313,
-        "average": 4.7648263
+        "count": 8072,
+        "average": 4.764123
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1133,7 +1175,7 @@
       "length": "PT12M",
       "ratings": {
         "count": 80,
-        "average": 4.625
+        "average": 4.7
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1174,8 +1216,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
       "length": "PT33M",
       "ratings": {
-        "count": 112,
-        "average": 4.741071
+        "count": 113,
+        "average": 4.761062
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1196,48 +1238,6 @@
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-collaboration-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-admin-environment.md",
-      "title": "Establish a Power BI environment",
-      "excerpt": "This module covers topics relating to establishing a Power BI environment within Office 365 containers.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-environment/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
-      "length": "PT18M",
-      "ratings": {
-        "count": 184,
-        "average": 4.679348
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-environment-social.png",
           "width": 641,
           "height": 321,
           "isCached": true

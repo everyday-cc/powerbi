@@ -263,8 +263,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 5292,
-        "average": 4.7273245
+        "count": 5293,
+        "average": 4.727376
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -305,8 +305,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 2298,
-        "average": 4.8120103
+        "count": 4803,
+        "average": 4.8019986
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -347,8 +347,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 144,
-        "average": 4.75
+        "count": 149,
+        "average": 4.7583895
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -389,8 +389,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
       "length": "PT28M",
       "ratings": {
-        "count": 266,
-        "average": 4.7969923
+        "count": 281,
+        "average": 4.8042703
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -431,8 +431,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-scalability-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 31,
-        "average": 4.7419353
+        "count": 30,
+        "average": 4.733333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -473,8 +473,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-tools-optimize-power-bi-performance/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 31,
-        "average": 4.83871
+        "count": 33,
+        "average": 4.757576
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -599,8 +599,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
       "length": "PT23M",
       "ratings": {
-        "count": 613,
-        "average": 4.779772
+        "count": 578,
+        "average": 4.769896
       },
       "provider": {
         "name": "Microsoft Learn",

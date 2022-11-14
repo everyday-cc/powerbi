@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 1681,
-        "average": 4.74301
+        "count": 1711,
+        "average": 4.739918
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
       "length": "PT21M",
       "ratings": {
-        "count": 1166,
-        "average": 4.777873
+        "count": 1183,
+        "average": 4.775148
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
       "length": "PT41M",
       "ratings": {
-        "count": 934,
-        "average": 4.775161
+        "count": 945,
+        "average": 4.7746034
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -113,7 +113,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 130,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-reports-social.png",
@@ -137,8 +137,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
       "length": "PT45M",
       "ratings": {
-        "count": 433,
-        "average": 4.748268
+        "count": 438,
+        "average": 4.742009
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -179,8 +179,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
       "length": "PT59M",
       "ratings": {
-        "count": 307,
-        "average": 4.742671
+        "count": 304,
+        "average": 4.7401314
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -221,8 +221,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-ui/",
       "length": "PT32M",
       "ratings": {
-        "count": 403,
-        "average": 4.796526
+        "count": 404,
+        "average": 4.794554
       },
       "provider": {
         "name": "Microsoft Learn",

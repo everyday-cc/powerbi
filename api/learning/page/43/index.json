@@ -4,6 +4,48 @@
   "page": 43,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-continuous-data-export-from-iot-central.md",
+      "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
+      "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from your previously completed \"Create your first Azure IoT Central app\" Learn module, where you controlled a refrigerated truck. Here, in this module, you add continuous data export to both Azure Blob storage and an event hub. You then build a Power BI app to read and display the telemetry data on a mobile phone.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-continuous-data-export-from-iot-central/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
+      "length": "PT1H9M",
+      "ratings": {
+        "count": 182,
+        "average": 4.571429
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-create-calculation-groups.md",
       "title": "Create calculation groups",
       "excerpt": "Power BI, calculation groups, enterprise data analyst",
@@ -11,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-calculation-groups/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 57,
-        "average": 4.8421054
+        "count": 56,
+        "average": 4.839286
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +137,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 23,
-        "average": 4.9565215
+        "count": 25,
+        "average": 4.96
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -137,8 +179,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 33,
-        "average": 4.939394
+        "count": 34,
+        "average": 4.9411764
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -222,8 +264,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 2848,
-        "average": 4.701896
+        "count": 6938,
+        "average": 4.710868
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -307,8 +349,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
       "length": "PT1H30M",
       "ratings": {
-        "count": 68,
-        "average": 4.8382354
+        "count": 69,
+        "average": 4.8405795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -349,8 +391,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 49268,
-        "average": 4.798368
+        "count": 48359,
+        "average": 4.7988377
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -433,8 +475,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 5229,
-        "average": 4.684452
+        "count": 5114,
+        "average": 4.687329
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -475,8 +517,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 456,
-        "average": 4.7982454
+        "count": 482,
+        "average": 4.7966805
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -517,8 +559,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1511,
-        "average": 4.727995
+        "count": 1450,
+        "average": 4.726207
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -560,8 +602,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1278,
-        "average": 4.7237873
+        "count": 1230,
+        "average": 4.722764
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -603,8 +645,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 67,
-        "average": 4.7910447
+        "count": 73,
+        "average": 4.767123
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -691,8 +733,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3093,
-        "average": 4.7529907
+        "count": 2996,
+        "average": 4.753004
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -778,8 +820,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/",
       "length": "PT35M",
       "ratings": {
-        "count": 116,
-        "average": 4.7586207
+        "count": 123,
+        "average": 4.764228
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -822,8 +864,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1300,
-        "average": 4.7407694
+        "count": 1231,
+        "average": 4.734362
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -866,8 +908,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 773,
-        "average": 4.6843467
+        "count": 2046,
+        "average": 4.726295
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -952,8 +994,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 8562,
-        "average": 4.7478395
+        "count": 8385,
+        "average": 4.7463326
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -994,8 +1036,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/",
       "length": "PT25M",
       "ratings": {
-        "count": 27,
-        "average": 4.851852
+        "count": 28,
+        "average": 4.857143
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1036,8 +1078,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
       "length": "PT29M",
       "ratings": {
-        "count": 104,
-        "average": 4.7211537
+        "count": 106,
+        "average": 4.716981
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1162,8 +1204,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/examine-data-visualizations-power-bi/",
       "length": "PT17M",
       "ratings": {
-        "count": 64,
-        "average": 4.78125
+        "count": 66,
+        "average": 4.787879
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1204,8 +1246,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 285,
-        "average": 4.7578945
+        "count": 304,
+        "average": 4.7598686
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1226,48 +1268,6 @@
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/explore-azure-data-services-for-modern-analytics-social.png",
-          "width": 1281,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-explore-data-analytics-scale.md",
-      "title": "Explore data analytics at scale",
-      "excerpt": "Describe data analytics at scale and understand the roles of a data team. Learn about the responsibilities of an enterprise data analyst and what tools are available to build scalable solutions.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-data-analytics-scale/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 203,
-        "average": 4.7438426
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/explore-data-analytics-at-scale-social.png",
           "width": 1281,
           "height": 641,
           "isCached": true
