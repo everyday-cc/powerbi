@@ -7,7 +7,7 @@ originalUrl: "https://www.upwork.com/freelance-jobs/au/microsoft-power-bi-in-oat
 webUrl: "https://www.upwork.com/freelance-jobs/au/microsoft-power-bi-in-oatlands-nsw/"
 type: article
 quality: 139
-heat: 139
+heat: 140
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TJQ-kQ6IsPk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -30,6 +30,6 @@ images:
     height: 630
     isCached: true
 
-secured: "L4UkywY33CjfrPdnoTgssHlaiy4M/sZaNt9NgqTV1yId9jrl8ZLgHIuKjNRq03UPogbqvwFIcaERl7fGK/b4jU2qsnHQh+1arAKMl3E+fFFJz/LTTdMAQ2nahS+PpT610i8A95c7DNZHfIZAbX5fD7xDJUsqyUdQ77thy/bP0x9g3sGQBaoSrC/Q/PtJew+qGHEBxcTSxzl8kTW6nZodPX0bHgF+jUvDZS5wSa7ngC2RhEFS3vm33ojBImZ6wQwpV/DUaDerZerw7AnMlmSH7/Y1mVsiGsLTTfysGzpudUNFgpCZarKITRF/Rqg3A8Hben2vmKOIHY2AagFy190/rC4E79qhyGA3WXXNco97njkFk9vtYYiVWbR+80MOqE1iuKGqLuitzqb6QlEZFxp2nxOSoTpw+8ACo2T9PUt+xx97tPNZK1tN/8RnZnkqZH3L;xPeH8GdNSx56CQvBGVA5aw=="
+secured: "37kBeaJ34uRkOWIkS48FvaHfB2rEJJ1cnmM2dgd1M2A2PLPjmZElyW8SJ1knw5nATC2CtXMNbsYSjfcU0ZmO1wTQdLjCu/Y6Q7xerWEdgSqdPr8HBCYfvD4gI+qPNXPrhDGSC3AwpB2m24KZfcWwsgenCndPpymV2ZAKTQVC+urC+pMsm29+9XmhHBSIPNC/xkF8vnUyTdnU1Dl+FMhuNPQD6IGUQ9ce9LTt6USdn0UxRSFSxnNyqJJZrEgUcOkAxt516rbvyeQQOkoPd1Za6UM5cK2gLGGeFMaMQMkEkR2gCPr3B9yYXgHk9NUbzC1oZ9NDfVsS0bFeFtQh9EpSvklyuUmV+WTWzeH8cV1vJzfM07EmK+LXsqvvdmMSrBIClycsjC7Ge7BI/9uOxKJgEX5D38N7o+1a676X5yNc5nBPS98vF/dxPT8pcgNWBbSS;VZRNtjAsi13Cr8KZZcKxXQ=="
 ---
 
