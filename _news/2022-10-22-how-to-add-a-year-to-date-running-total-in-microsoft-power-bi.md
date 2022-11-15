@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/add-year-to-date-running-total-
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/add-year-to-date-running-total-microsoft-power-bi/amp/"
 type: article
 quality: 97
-heat: 98
+heat: 97
 published: true
 
 provider:
