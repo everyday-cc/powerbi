@@ -536,8 +536,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8385,
-            "average": 4.7463326
+            "count": 8386,
+            "average": 4.746363
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -704,8 +704,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 14019,
-            "average": 4.755118
+            "count": 14021,
+            "average": 4.755153
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -746,8 +746,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 6701,
-            "average": 4.7771974
+            "count": 6702,
+            "average": 4.7772307
           },
           "provider": {
             "name": "Microsoft Learn",
