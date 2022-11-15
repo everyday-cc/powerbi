@@ -4,32 +4,6 @@
   "page": 47,
   "value": [
     {
-      "path": "_learning/articles/excelerator-bi-shaping-vs-modelling-in-power-bi.md",
-      "title": "Shaping vs Modelling in Power BI",
-      "excerpt": "Level: Beginners The objective of this article is to help you understand the differences between shaping your data (using Power Query) and modelling your data (using the modelling tools inside Power BI).  You will need to do both to build a robust Power BI report.  I first wrote this article [...]Read",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-shaping-vs-modelling-in-power-bi/index.json",
-      "webUrl": "https://exceleratorbi.com.au/shaping-modelling-power-bi/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2021-01-19T21:00:35-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2016/09/shaping-modelling.png",
-          "width": 656,
-          "height": 423,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/articles/excelerator-bi-standardising-data-per-million-population.md",
       "title": "Standardising Data per Million Population",
       "excerpt": "",
@@ -334,8 +308,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9009,
-            "average": 4.674659
+            "count": 9012,
+            "average": 4.674767
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -352,7 +326,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -535,8 +509,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4871,
-            "average": 4.7251077
+            "count": 4873,
+            "average": 4.72481
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -618,8 +592,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 5302,
-            "average": 4.7272725
+            "count": 5304,
+            "average": 4.7273755
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -660,8 +634,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 4892,
-            "average": 4.7309895
+            "count": 4893,
+            "average": 4.7310443
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -743,8 +717,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 14042,
-            "average": 4.7550206
+            "count": 14044,
+            "average": 4.7550554
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -785,8 +759,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 6722,
-            "average": 4.7765546
+            "count": 6724,
+            "average": 4.776621
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -868,8 +842,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 48402,
-            "average": 4.7987275
+            "count": 48414,
+            "average": 4.798736
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -910,8 +884,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 69943,
-            "average": 4.7781477
+            "count": 69961,
+            "average": 4.778162
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1243,8 +1217,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 9812,
-            "average": 4.744904
+            "count": 9814,
+            "average": 4.744956
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1285,8 +1259,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9009,
-            "average": 4.674659
+            "count": 9012,
+            "average": 4.674767
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1303,7 +1277,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1319,8 +1293,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 69943,
-            "average": 4.7781477
+            "count": 69961,
+            "average": 4.778162
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1611,8 +1585,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 2458,
-            "average": 4.730675
+            "count": 2459,
+            "average": 4.730785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2196,8 +2170,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1792,
-            "average": 4.7728796
+            "count": 1794,
+            "average": 4.773133
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2280,8 +2254,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4809,
-            "average": 4.8020377
+            "count": 4810,
+            "average": 4.802079
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2363,8 +2337,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8400,
-            "average": 4.7466664
+            "count": 8401,
+            "average": 4.746697
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2405,8 +2379,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6944,
-            "average": 4.7109737
+            "count": 6946,
+            "average": 4.7109127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2531,8 +2505,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 14042,
-            "average": 4.7550206
+            "count": 14044,
+            "average": 4.7550554
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2573,8 +2547,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 6722,
-            "average": 4.7765546
+            "count": 6724,
+            "average": 4.776621
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2906,6 +2880,48 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-advance-power-bi-premium-for-enterprise-analytics-market-beyond.md",
+      "title": "Advance Power BI Premium for the enterprise analytics market and beyond",
+      "excerpt": "Advance Power BI Premium for the enterprise analytics market and beyond",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-advance-power-bi-premium-for-enterprise-analytics-market-beyond/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/advance-power-bi-premium-for-enterprise-analytics-market-beyond/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 3,
+        "average": 5.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],
