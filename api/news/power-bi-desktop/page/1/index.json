@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-16-power-bi-update-november-2022.md",
+      "title": "Power BI Update - November 2022",
+      "excerpt": "Welcome to the November 2022 update. This month's update introduces a change to our Power BI accent color, and is further filled with exciting updates to features like small multiples, modeling, metrics, and more!   Intro -- 00:00  Announcing New Power BI Color Accent -- 00:12  Reporting Unshared and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-11-16-power-bi-update-november-2022/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2022-11-16-power-bi-update-november-2022/",
+      "originalUrl": "https://youtube.com/watch?v=q-ZUfL2sEek",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q-ZUfL2sEek\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q-ZUfL2sEek/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T18:19:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-power-bi-update-october-2022.md",
       "title": "Power BI Update - October 2022",
       "excerpt": "Welcome to the October 2022 update. This month’s update is packed with exciting updates to features like Power BI metrics, Modeling, Deployment pipelines, and more.  Intro - 00:00 Reporting     Reverse stack order for stacked column charts -- 00:16     Query performance improvements -- 00:55     Power",
@@ -1447,58 +1499,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-09-21T12:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2021-09-21-on-premises-data-gateway-september-2021-update-is-now-available.md",
-      "title": "On-premises data gateway September 2021 update is now available",
-      "excerpt": "On-premises data gateway release for September 2021",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-09-21-on-premises-data-gateway-september-2021-update-is-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-september-2021-update-is-now-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-september-2021-update-is-now-available/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IagiPEZ_eIY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-09-21T02:35:09-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
