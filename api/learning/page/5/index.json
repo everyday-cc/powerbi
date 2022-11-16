@@ -1666,8 +1666,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-content/",
           "length": "PT33M",
           "ratings": {
-            "count": 36,
-            "average": 4.8055553
+            "count": 37,
+            "average": 4.810811
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1791,8 +1791,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 699,
-            "average": 4.8011446
+            "count": 701,
+            "average": 4.7988586
           },
           "provider": {
             "name": "Microsoft Learn",
