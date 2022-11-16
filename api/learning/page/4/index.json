@@ -731,8 +731,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 2038,
-            "average": 4.684985
+            "count": 2040,
+            "average": 4.682353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -773,8 +773,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 2460,
-            "average": 4.730894
+            "count": 2461,
+            "average": 4.7305975
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1021,8 +1021,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 6739,
-        "average": 4.776228
+        "count": 6748,
+        "average": 4.775637
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1443,8 +1443,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
       "length": "PT37M",
       "ratings": {
-        "count": 697,
-        "average": 4.800574
+        "count": 698,
+        "average": 4.8008595
       },
       "provider": {
         "name": "Microsoft Learn",
