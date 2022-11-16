@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M33S
 publishedDateTime: 2017-09-05T15:11:58Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GPHHdDRSlis\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Get an embed token for your Power BI dashboards and reports"
 
-secured: "ha+M0LY3ou4hHv8OHdp9miTdxFS1FlBofBBpM7I+iLFxXYdVld2PY0XPJqdJ3dccNaGRWodrANRuk5yGNqe+Yrae/tGGcEViwxWDwQUSwJ3E9jtTyKNVM42WXBDK8dC2FIRTCz4u1QgNr1WgBdaqasCpGdcLq9qkol3xbdFEuRC+vIoTsMg+zi+mrLmenq5uLcNvEhUWoUJuLzt8KInHGvsIjb8tOd7+uSvPCXV3BA8rnTtIxlIPjtdFxP0SxSII7HQItnLm7CnifLLmOUT0QL3b+P0D47cKiaNQgIUJUA05BUu2FAzdBsctWZta9bK/0jtqKBv9EvgMl/G4Qx1BXCe0bqDbBdFRLVuSzeKsaj8XoN734x2YKAi18pOwIX7AV0UKRb1cbdGzLRVwqZc3on2MBjL7lX7NttQ4QFfo5sI=;FClfIPs9TFgcI0Eit1ULqQ=="
+secured: "Tt09SiO3ykmvpzxAS0NWOuyqGvs7kDMSI4odXUG9XOfHtxDOqql1a9KZpNlikMTkAxuwUKtjnv/hHX1Hxh1yNt+YdcThGEKX0ZUlI3wUC4aKhvme2OD04qo+PpYTQWE+EeouY0x+gOrVg6lhv1jOtiAjZDzvgf/ZYC8KqLpbA12uOqKCwBR5Q+I8n+jkio77J2dzAQGGO7oeaWH+q/Y3o+nzmVk7pKF9GJs3mxIg42kppTI9DWFStb4Boj+jSsb1U+XS8kUv7Vpae4VsYFKydJ86Xi/j3hE0UiYn0hSo8sNMNP1tSDfG5RioBw/4fwO8C6OZmAZqpxzgg1AJxkMhup9wz7AXlLwLoIGNXygH+42gYyl9aTFmD00/8rpV5/uDwfZipXDwNhpWz/j2fXBDaNc/vOkXRfbDDMv4RY6YHIM=;IkjC0BWCDybT8EIMJRp5sA=="
 ---
 
