@@ -2970,8 +2970,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 283,
-            "average": 4.80212
+            "count": 284,
+            "average": 4.802817
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3615,7 +3615,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3931,8 +3931,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9025,
-            "average": 4.6747923
+            "count": 9026,
+            "average": 4.674828
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4090,8 +4090,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 9850,
-            "average": 4.7451777
+            "count": 9853,
+            "average": 4.7452555
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4132,8 +4132,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9025,
-            "average": 4.6747923
+            "count": 9026,
+            "average": 4.674828
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4166,8 +4166,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 70101,
-            "average": 4.7782483
+            "count": 70105,
+            "average": 4.7782326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4184,7 +4184,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": -2147483586,
+          "heat": -2147483584,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -4249,8 +4249,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1798,
-            "average": 4.7730813
+            "count": 1799,
+            "average": 4.773207
           },
           "provider": {
             "name": "Microsoft Learn",
