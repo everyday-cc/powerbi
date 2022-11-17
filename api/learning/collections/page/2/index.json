@@ -800,7 +800,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 101,
+          "heat": 21,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -3004,8 +3004,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 286,
-            "average": 4.804196
+            "count": 287,
+            "average": 4.804878
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4124,8 +4124,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 9862,
-            "average": 4.7454877
+            "count": 9868,
+            "average": 4.745541
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4200,8 +4200,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 70154,
-            "average": 4.7782164
+            "count": 70172,
+            "average": 4.778202
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4283,8 +4283,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1802,
-            "average": 4.7724752
+            "count": 1803,
+            "average": 4.772601
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4645,8 +4645,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 199,
-            "average": 4.6984925
+            "count": 200,
+            "average": 4.7
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4687,8 +4687,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 2467,
-            "average": 4.7312527
+            "count": 2469,
+            "average": 4.7310653
           },
           "provider": {
             "name": "Microsoft Learn",
