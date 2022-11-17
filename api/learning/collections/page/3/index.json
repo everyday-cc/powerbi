@@ -570,8 +570,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8418,
-            "average": 4.746852
+            "count": 8419,
+            "average": 4.7466445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -783,8 +783,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1452,
-            "average": 4.7258954
+            "count": 1453,
+            "average": 4.7260838
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -912,8 +912,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 48533,
-            "average": 4.798817
+            "count": 48540,
+            "average": 4.7988462
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -954,8 +954,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 70134,
-            "average": 4.7782245
+            "count": 70146,
+            "average": 4.778191
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1037,8 +1037,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8418,
-            "average": 4.746852
+            "count": 8419,
+            "average": 4.7466445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1079,8 +1079,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6959,
-            "average": 4.710447
+            "count": 6963,
+            "average": 4.7106133
           },
           "provider": {
             "name": "Microsoft Learn",
