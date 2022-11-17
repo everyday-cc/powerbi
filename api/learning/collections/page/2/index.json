@@ -3004,8 +3004,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 287,
-            "average": 4.804878
+            "count": 288,
+            "average": 4.8055553
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3965,8 +3965,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9029,
-            "average": 4.6749363
+            "count": 9031,
+            "average": 4.6750083
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4041,8 +4041,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1248,
-            "average": 4.7235575
+            "count": 1250,
+            "average": 4.724
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4124,8 +4124,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 9868,
-            "average": 4.745541
+            "count": 9873,
+            "average": 4.745366
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4166,8 +4166,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9029,
-            "average": 4.6749363
+            "count": 9031,
+            "average": 4.6750083
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4200,8 +4200,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 70172,
-            "average": 4.778202
+            "count": 70187,
+            "average": 4.7782497
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4218,7 +4218,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": -2147483579,
+          "heat": -2147483576,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -4283,8 +4283,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1803,
-            "average": 4.772601
+            "count": 1805,
+            "average": 4.7728534
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4325,8 +4325,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1618,
-            "average": 4.7169347
+            "count": 1620,
+            "average": 4.7166667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4603,8 +4603,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 155,
-            "average": 4.7612906
+            "count": 156,
+            "average": 4.75641
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4687,8 +4687,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 2469,
-            "average": 4.7310653
+            "count": 2470,
+            "average": 4.731174
           },
           "provider": {
             "name": "Microsoft Learn",
