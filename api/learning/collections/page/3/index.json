@@ -912,8 +912,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 48523,
-            "average": 4.798817
+            "count": 48529,
+            "average": 4.798801
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -954,8 +954,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 70111,
-            "average": 4.778223
+            "count": 70123,
+            "average": 4.7782326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -972,7 +972,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": -2147483584,
+          "heat": -2147483583,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -990,7 +990,7 @@
         }
       ],
       "size": 2,
-      "heat": -2147483648,
+      "heat": -2147483520,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
@@ -1097,7 +1097,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 314,
+          "heat": 316,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-measures-dax-power-bi-social.png",
@@ -1122,8 +1122,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 8097,
-            "average": 4.7639866
+            "count": 8099,
+            "average": 4.764045
           },
           "provider": {
             "name": "Microsoft Learn",

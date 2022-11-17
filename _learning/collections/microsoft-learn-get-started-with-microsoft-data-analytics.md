@@ -4,7 +4,7 @@ excerpt: "Businesses need data analysis more than ever. In this learning path, y
 type: collection
 price: Free
 length: PT1H10M
-heat: -2147483648
+heat: -2147483520
 
 provider:
   name: Microsoft Learn
