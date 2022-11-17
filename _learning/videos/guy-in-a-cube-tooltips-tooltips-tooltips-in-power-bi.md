@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M43S
 publishedDateTime: 2017-06-01T17:08:07Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D6mGoPNDwNk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Tooltips, tooltips, tooltips in Power BI"
 
-secured: "Q9pANogefXoztS/MUkQMoo3Jxok3EsvsW7oXMVlsiXkhxqom99HVJ1/W6h2rMOd2bRyAt0/9/gM1kabZOldMqnOTN9HjCE0vVA816QKSdzz5fwkotGvIB3JWtFNsfzWMjFy/HlZLLFcJb8sk53KOJp2RLvVcptxmz9nOhjq/qzCqB2i5pknGaiyA8CV2BJaPFgSwb9i2U3i6xrekQ2gPuf5sz6i0Hxr6vICocik6bUjS2a/Q7PjGfGqVN7vAc4E+0sZyS5qz7QDqk1VrSpbVW1/8jWiIQoTGwrhDca8yEul6ikiXrUBG80loh6XEfyvWQpvzW6tAQtB49PkxGey3q7FfhtE0roinIZ0vCZWWM88twN+NgvwtCWfaq3WEQOpzCpYYA712yZpI86oFV+Elhv3wqrGC+GJ1oH2wWkoTfio=;t3+gtG7OnlrEGwkSr8lxUQ=="
+secured: "yr7I8yhPREl64aOdVlVepMfQTAVD0mgX0gE34r1OBdDqCidXtnG5gDNsJrQy1gH2qMf+ipdxBHPAcc6rXDE4C0syHxRjoadiQJsrkIDVHfBdRP3kE8/ntDf+vgD+QTookzZ9bpdm3sbpBc9KpKI1ILmYepq2ekSsUOQNnXKe+pu0yL1FwzVG2hk1OWQ/eo/Frizi9+ofBxwdk/4vV/RNpKBFxH2GL3PTKIyr+1gAREjGsUIelhYJityJFFdOqgjau1GZCwsCgHIhYcHJ54vXzBD8vzUsLVd94T93hFipPGBKKDrxCDtEMMV8JzQ//mNf58oeyVLPP8mSLTxCTTp144x04lLgJ1kaen9y3NpqxaHejiqjc9QvUCpL1NAKnNUSyszRRUUip5WS7DZbiSrh+R8PSezRwtV2x17AZQbYfqo=;9XNPygOx39DkzjpaXgf+pw=="
 ---
 
