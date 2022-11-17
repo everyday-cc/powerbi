@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-20-exportable-formatted-data-tables-preview.md",
+      "title": "Exportable Formatted Data Tables (Preview)",
+      "excerpt": "Users can author formatted tables using a modern low code web-based authoring experience in the Power BI service.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-20-exportable-formatted-data-tables-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/exportable-formatted-data-tables-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/exportable-formatted-data-tables-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T04:36:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-highlights-of-the-power-bi-update-for-may-2022.md",
       "title": "Highlights of the Power BI update for May 2022",
       "excerpt": "The Power BI update for May 2022 is here and as usual, I will review and highlight all the updates so you are always up to date!  Integrate Charticulator in Power BI: https://ideas.powerbi.com/ideas/idea/?ideaid=6d7d6592-3aff-4b83-a4cf-806b593fc841  Charticulator design challenge: https://community.powerbi.com/t5/Charticulator-Design-Challenge/con-p/PBI_CharticulatorChallenge/tab/entries",
@@ -1198,57 +1249,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-04T02:30:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-03-31-heads-up-the-power-bi-app-is-coming-to-microsoft-outlook-and-microsoft-office-preview.md",
-      "title": "Heads up: The Power BI app is coming to Microsoft Outlook and Microsoft Office (Preview)",
-      "excerpt": "We’re excited to announce the Power BI app is coming to Outlook and Office. In this blog we’ll share the experiences, how to try it yourself, and what you can expect.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-31-heads-up-the-power-bi-app-is-coming-to-microsoft-outlook-and-microsoft-office-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/heads-up-the-power-bi-app-is-coming-to-microsoft-outlook-and-microsoft-office-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/heads-up-the-power-bi-app-is-coming-to-microsoft-outlook-and-microsoft-office-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2022/03/graphical-user-interface-application-teams-desc.png",
-          "width": 3838,
-          "height": 2010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-31T03:16:43-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
