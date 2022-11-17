@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M7S
 publishedDateTime: 2017-07-19T16:19:21Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yezgr3QN9hw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Report level measures with Power BI live connections"
 
-secured: "BOyQBAPEXfrrEo/DhwqJQm2y3JDyoActpL8bUUEkEmCd2T9W1TiATEG/m4atHVoIF5DlQe+gwwG4YflAeqhd9KPvDVOzxy0l03rEpTWU04hs+rfJcTrSnyQBCQEFHNHqRNk/GVBtmdAuI1+Nj8SZaSPFwWjQH4tBJVxPXWtyhYRsZ4+C9NMUvKFzQKkZnvIaC9ap91pVFB+MhZAnVkLQkl59xkrFY/bUpPmmEgxwT778yGJTI0j3pX4idOcwJhB5IG9Hvx1T+t/j1t7uGJfRY71syWW7yleMY7CpAfv2vO/HyZ3NDg5p91gcWKRF175Pz8K6LmqL/+3cBuXtcMRcc60nCjE7qEtNBHrTZNcZOXTkxbF/qu9k+cSzPQENG6eszFDGQleS6vmOGvY6pwL08qIgfXBDGekMmevupBAeHYs=;YKpd4UuCDV4LK88CvO5M1g=="
+secured: "GrJOPd48WyPKLa/2MY3ln/rCGg4A9PSjbu/l3Q6KLUuYZi5f6MZJyuJ37JnyT5JU4G1SZmQ356S1GRtZphMOlif2vUOmYfrDOJdz+h/FXXjVeu5sj4E1DqD7KJ1XgRov4AY7+Oh8OdxoePaga3bmLEfHdRvFJpzEr4wrD+atOxNE37ORMJSxzhWfwW1GcOoZOQfALE5FeWjFBQA/rOUqGjf9fX3EIZnEAY0ggRV41raM8Sj24Wv/pERaQoq79w4nbyFY29+UX1pPOCARUxs1xDo/jU3iIhkldOFSnYr694HJc3FfsjxG1vXqvU3S5VKgGUOKEQ0Pcuauwkb00+0hW1Rz6MMw8E9ZVU2asf5AkLztXs/hEfbpx1n6ontDpljowzYVYv0btRarRQiNe71tMA7D9OTVbgl37qxrqLsd1qM=;Uw9Bvp/z3uRJVSdG5tcYog=="
 ---
 
