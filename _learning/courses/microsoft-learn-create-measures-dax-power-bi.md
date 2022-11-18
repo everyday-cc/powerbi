@@ -7,7 +7,7 @@ price: Free
 length: PT2H40M
 ratings:
   count: 6979
-  average: 4.7102737
+  average: 4.710417
 heat: 62
 
 provider:
