@@ -1699,8 +1699,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 113,
-            "average": 4.761062
+            "count": 114,
+            "average": 4.7280703
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2260,7 +2260,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
@@ -2871,8 +2871,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 113,
-            "average": 4.761062
+            "count": 114,
+            "average": 4.7280703
           },
           "provider": {
             "name": "Microsoft Learn",

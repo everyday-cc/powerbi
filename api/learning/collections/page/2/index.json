@@ -714,8 +714,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8443,
-            "average": 4.746299
+            "count": 8445,
+            "average": 4.746359
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2217,8 +2217,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 113,
-            "average": 4.761062
+            "count": 114,
+            "average": 4.7280703
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2778,7 +2778,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
@@ -3389,8 +3389,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 113,
-            "average": 4.761062
+            "count": 114,
+            "average": 4.7280703
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4378,8 +4378,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4894,
-            "average": 4.724765
+            "count": 4895,
+            "average": 4.724821
           },
           "provider": {
             "name": "Microsoft Learn",
