@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 1197,
-            "average": 4.7752714
+            "count": 1198,
+            "average": 4.7754593
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2409,8 +2409,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 8446,
-        "average": 4.746389
+        "count": 8447,
+        "average": 4.746419
       },
       "provider": {
         "name": "Microsoft Learn",
