@@ -4,15 +4,15 @@
   "page": 48,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-embedded-intro.md",
-      "title": "Introduction to Power BI embedded analytics",
-      "excerpt": "Learn how developers can programmatically embed analytics in their apps, and about no-code embedding options for simpler requirements.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-intro/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
-      "length": "PT34M",
+      "path": "_learning/courses/microsoft-learn-power-bi-embedded-integrate.md",
+      "title": "Integrate content with Power BI client APIs",
+      "excerpt": "Learn how to use Power BI client APIs to develop solutions that respond to subscribable events and interact with Power BI content.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-integrate/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-integrate/",
+      "length": "PT28M",
       "ratings": {
-        "count": 99,
-        "average": 4.878788
+        "count": 18,
+        "average": 4.611111
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -27,14 +27,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Advanced"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-intro-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-integrate-social.png",
           "width": 1280,
-          "height": 640,
+          "height": 641,
           "isCached": true
         }
       ],
