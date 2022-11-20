@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M31S
 publishedDateTime: 2021-04-09T08:42:33Z
-heat: 54
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lYJ4j1SX0QE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "x9NBSoEPwLUWuWh9SHPJGSZKfJn7izTBlAO4YJLVmz59bUd8OPIOOkr5/IKwca4cfC8Ib7R15mrjyFGubbgKBc63awnTuVSzXzN74VFNJIsjnHtgCtFJMOn3fhDmJy6U4Hj3XQFOd1ZIwA5se0GrPeDOnQxq24Y4aXljgmXSOySRcwfkVuyydchtBEyZd97+DcJ9CSYqD8udU76FtWse9KJhn0U2PIWlduqJedFPk76d6Ll7lGo0NTr+eQOmiCFBNZRPLbyD4KB/ujBD06QJEgL3WsoEO0fb8m/mR6trD0l7+ehiD5zhBJ32YKfIy/TJu+k1ZwQL1OgqSU4pW66zCAKcTYMxfVyTLi8lutVdJVKbl1ryVuMNwMzpl+XCHabZfU0U5d9enGW2tYixYT/0PFGO7aNWzS3RQLkvz/LU25s=;ldQTSgIpB3iHIQBf9WG//w=="
+secured: "LyRLz+/c/NoGhZLjvEyzbaFlVp+mIM2D0sbkLvLwlGqmgBzCrVuFHNAEI1rMcH/12xnPty7hRaK0TUX97L7TTtzvItEwU55YzABIfF8kYId5+IbY5Y+O5XW+y2kgN8G0JzlBDiDb5vIgf3+7p1oHvhO7nhWuSsF9CEXe6j2EnZSZ3qLHdQPfpJwu/R9QE0jboUIs8oVkg7D9Mol9GtNIOr5Fr/jcVz2+wpFmM5FT3EPHY5KhYxFf8gq2a5FZHaqwPzMx8eldNXBg/pCPPZ5Ni+Lf+I4+B8vIwh5iFWpYAS4cY4Fr5pxmX11tOY7CpK5WOAQpmtsK1dNje56X1UvBKkcF4euy3GgWmUGFYrYQoSkF/JCdhWOO0uwJ8rC5dQ/GKQ9dRvwJR/vFW/RzZI8vjPkZVHco0SnRu5ODSjDl5bg=;JFH0HHps7yo2QKWExKnIEg=="
 ---
 
