@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M45S
 publishedDateTime: 2020-10-01T10:00:43Z
-heat: 53
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EawkPc_iLs4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "6eJndLYbOrnKDnkXse0/B28zHJPLrZp6K+7gHwaXEW7VWbPcxJY3bF3BHfXspHzp5RSpolhpt9w1MnHMxa6uwf1P9TkU2yeFnMJyi74UruFwxMjI4Dg1JI/SJe7EAgymdeGm+qsSigwfoErzhi1bsYQTxsgirkLQr4ElMwKt5dkAbJTKKL6/brkWjTMhYZKn/mhUvYdRcLSglXN8bkMv2b/ji5IgbiuDelBESmv/c8uxkjjHLS4bAYxViy1GmRFnGfYR3w8mogDeMjwYWZ3AabK1xPrYNPsbGfNALWhIo8AdViKbdYd2SdZYyA9CI+DyUTlZ8SUcu2UhutrPOdvm20j6ptE8npJ+HqW4MNa7+1saKhvvSuCcnffbzz8yQ6apkMyLl8LC4DsxAyt2RP+lpMW2tLp7gUaYgo6an1JXBf0=;U68CSQeIcy+/JqwRS0a/yA=="
+secured: "lysoraAuz64r8hjem+MB/6bMYvWWujCDFpHpSOQyKdR0cbTGJkIxTNezqkRCzxBB5vgQ77+QhuwzQ4PGZyk7/HCj68JOPudjqjsRE9yr6BhrhK+BDwPQ3jPBiyNswZtEL5ogCaA7CB4BvGDMjGYrMMyEd5jTipJtJakyUh0oJ/i74MjzIUp6CCBabxw8XbIiskkHjkpxuN9ZJ6IKuY8IXU3by1T2Fu+rCO/Q3PRcVZI+HTIN4HlpTDGDJGrzGBwdXVjyT1zLlPcxoREeqDWYGYF+a25QQH2xeZFz6IV4/shN2XJAv3qfpDxCPS51LOaTgnJbEW7JQYa9ztrxAiYY5V0P/nkUJkB9/YyvjfLeJwSQIUFnpNy5TQUVLkfCPCOxX6PzLYNm/hEeBo7llS7IAf21LkbLT81lX0WyC8Y0o8s=;eg9ka7Mg+tjpTCN1HFCdPg=="
 ---
 
