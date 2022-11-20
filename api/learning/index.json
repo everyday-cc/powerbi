@@ -149,52 +149,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-what-is-the-salary-of-a-power-bi-dev-data-analyst-data-engineer-salary-calculator-with-power-bi.md",
-      "title": "What is the salary of a Power BI dev/ Data Analyst/ Data Engineer? | Salary calculator with Power BI",
-      "excerpt": "Would you like to know if you are getting enough pay as a Power BI developer or data analysis or data engineer? Or are you thinking about changing jobs and would like to know which roles pay best?   To answer these questions I have partnered with Bright Data to get the raw data from the job listing sites:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-what-is-the-salary-of-a-power-bi-dev-data-analyst-data-engineer-salary-calculator-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-what-is-the-salary-of-a-power-bi-dev-data-analyst-data-engineer-salary-calculator-with-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=picgIBU8U4U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/picgIBU8U4U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M55S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-08-25T05:24:15-07:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/picgIBU8U4U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-parameterize-your-notebooks-in-azure-synapse.md",
-      "title": "Parameterize your Notebooks in Azure Synapse",
-      "excerpt": "Using notebooks in Azure Synapse Analytics? Do you find yourself wanting to have a dynamic value for use with your pipelines? Patrick shows you how you can accomplish this!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level?",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-parameterize-your-notebooks-in-azure-synapse/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-parameterize-your-notebooks-in-azure-synapse/",
-      "originalUrl": "https://youtube.com/watch?v=rzfmF9wORcQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rzfmF9wORcQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M21S",
+      "path": "_learning/videos/guy-in-a-cube-simulate-hierarchies-with-field-parameters-in-power-bi.md",
+      "title": "Simulate Hierarchies with Field Parameters in Power BI",
+      "excerpt": "Struggling with field parameters and hierarchies in Power BI? They just don't work! Patrick has an approach that looks to simulate hierarchies by using field parameters in this way.  Let report readers use field parameters to change visuals (preview) https://docs.microsoft.com/power-bi/create-reports/power-bi-field-parameters",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-simulate-hierarchies-with-field-parameters-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-simulate-hierarchies-with-field-parameters-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=5G_xSJy5muo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5G_xSJy5muo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M50S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -207,11 +169,11 @@
           }
         ]
       },
-      "publishedDateTime": "2022-10-18T08:00:29-07:00",
-      "heat": 131,
+      "publishedDateTime": "2022-08-24T08:00:09-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/rzfmF9wORcQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/5G_xSJy5muo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -225,15 +187,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-prepare-to-teach-module-design-report-layouts.md",
-      "title": "Prepare to teach the module: Design report layouts",
-      "excerpt": "Prepare to teach the module: Design report layouts",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-prepare-to-teach-module-design-report-layouts/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-design-report-layouts/",
-      "length": "PT1H48M",
+      "path": "_learning/courses/microsoft-learn-modern-analytics-intro.md",
+      "title": "Introduction to modern analytics using Excel and Power BI",
+      "excerpt": "This module introduces the Microsoft modern analytics core suite of tools, including Office 365/Excel 2016+, Power Query, Data Model, Power BI Desktop, and Power BI service. By using modern analytics technologies, you and your organization can work faster, more efficiently, and smarter by using Excel together with Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-intro/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
+      "length": "PT37M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 711,
+        "average": 4.793249
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -248,19 +210,57 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
+          "width": 1281,
+          "height": 641,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-the-tale-of-two-caches.md",
+      "title": "The Tale of Two Caches",
+      "excerpt": "Want to optimize performance in Power BI? Of course, you do! In order to do that, you need to understand the two caches that are at play and how they affect your optimization efforts. Marco Russo helps explain!  DAX Studio 3 https://daxstudio.org  Connect with SQLBI: Website: https://sqlbi.com YouTube:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-tale-of-two-caches/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-tale-of-two-caches/",
+      "originalUrl": "https://youtube.com/watch?v=Q-CFumllLNg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Q-CFumllLNg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M33S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-08-31T08:00:30-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Q-CFumllLNg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -601,8 +601,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 48699,
-            "average": 4.7989078
+            "count": 48701,
+            "average": 4.7988954
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -643,8 +643,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 70384,
-            "average": 4.7783446
+            "count": 70388,
+            "average": 4.7783427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -703,8 +703,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 70384,
-        "average": 4.7783446
+        "count": 70388,
+        "average": 4.7783427
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -823,8 +823,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 48699,
-        "average": 4.7989078
+        "count": 48701,
+        "average": 4.7988954
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1247,8 +1247,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 70384,
-            "average": 4.7783446
+            "count": 70388,
+            "average": 4.7783427
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1289,8 +1289,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 30837,
-            "average": 4.7258162
+            "count": 30839,
+            "average": 4.7258344
           },
           "provider": {
             "name": "Microsoft Learn",
