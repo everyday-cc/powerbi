@@ -4,6 +4,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/curbal-automatically-refresh-your-data-in-power-bi-desktop.md",
+      "title": "Automatically refresh your data in Power BI desktop",
+      "excerpt": "In the october power bi desktop update, they released the possibility to have automatic page refresh for direct queries in power bi desktop and the service too.  Here we go through how it works and what you need to watch out for.  Link to the docs: https://docs.microsoft.com/en-us/power-bi/desktop-automatic-page-refresh",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-automatically-refresh-your-data-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-automatically-refresh-your-data-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=3irCvEe7IdI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3irCvEe7IdI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M25S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-11-28T08:02:45-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3irCvEe7IdI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-3-ways-to-reduce-data-in-power-bi-desktop-no-premium-needed.md",
+      "title": "3 ways to REDUCE DATA In Power BI Desktop (No Premium needed!)",
+      "excerpt": "Sometimes you want to reduce data in Power BI Desktop so it's easier to work with. Then work with all the data in the Power BI Service. Patrick shows you 3 ways that can help do this without using Incremental Refresh or needing Power BI Premium!  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-3-ways-to-reduce-data-in-power-bi-desktop-no-premium-needed/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-3-ways-to-reduce-data-in-power-bi-desktop-no-premium-needed/",
+      "originalUrl": "https://youtube.com/watch?v=qZOEDBedATA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qZOEDBedATA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M41S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-03-24T08:00:30-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qZOEDBedATA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-desktop-and-role-playing-dimensions-can-you-do-it.md",
+      "title": "Power BI Desktop And Role-Playing Dimensions: Can you do it?",
+      "excerpt": "In this video, Patrick talks about Power BI Desktop and role-playing dimensions. Can you even do this in Power BI Desktop? Patrick shows you why one particular way is not recommended as it will cause trouble. And then show you how you can use DAX within Power BI Desktop to take this to the next level.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-desktop-and-role-playing-dimensions-can-you-do-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-desktop-and-role-playing-dimensions-can-you-do-it/",
+      "originalUrl": "https://youtube.com/watch?v=2BxaUXlx3K4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2BxaUXlx3K4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M28S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-09-05T03:55:17-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2BxaUXlx3K4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-deep-dive-into-measure-filters-in-power-bi-desktop.md",
+      "title": "Deep dive into measure filters in Power BI Desktop",
+      "excerpt": "In this video, we perform a deep analysis of the DAX queries generated by Power BI when you use a measure as a filter in a Power BI visual.\r The DAX code generated might show a different behavior whether the measure is part of the values shown in the visual or not. \r Article and download: https://sql.bi/721618?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-deep-dive-into-measure-filters-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-deep-dive-into-measure-filters-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=miiGlDWeamM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/miiGlDWeamM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M3S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-09-14T03:00:45-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/miiGlDWeamM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-dax-power-bi-add-measures.md",
       "title": "Add measures to Power BI Desktop models",
       "excerpt": "In this module, you'll learn how to work with implicit and explicit measures. You'll start by creating simple measures, which summarize a single column or table. Then, you'll create more complex measures based on other measures in the model. Additionally, you'll learn about the similarities of, and differences between, a calculated column and a measure.",
@@ -47,89 +203,11 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-39-4-cool-power-bi-desktop-bookmark-tips-you-need-to-know.md",
-      "title": "#39 4 cool Power BI Desktop bookmark tips you need to know",
-      "excerpt": "In today's video I will show you how to create 4 cool tricks with Power BI.   To download the sample file, go to our download center, community downloads and get file #39: https://curbal.com/donwload-center   I learned about this tricks from others so here is a link to the original content:  Hyperlinks:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-39-4-cool-power-bi-desktop-bookmark-tips-you-need-to-know/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-39-4-cool-power-bi-desktop-bookmark-tips-you-need-to-know/",
-      "originalUrl": "https://youtube.com/watch?v=OcxTUNlyIVw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OcxTUNlyIVw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M22S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-11-21T11:04:59-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OcxTUNlyIVw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-automatic-refresh-in-power-bi-desktop-power-bi-desktop-update-october-2019.md",
       "title": "Automatic refresh in Power BI desktop - Power BI desktop update October 2019",
       "excerpt": "In the october power bi desktop update, they released the possibility to have automatic page refresh for direct queries in power bi desktop and the service too.  Here we go through how it works and what you need to watch out for.  Link to the docs: https://docs.microsoft.com/en-us/power-bi/desktop-automatic-page-refresh",
       "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-automatic-refresh-in-power-bi-desktop-power-bi-desktop-update-october-2019/index.json",
       "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-automatic-refresh-in-power-bi-desktop-power-bi-desktop-update-october-2019/",
-      "originalUrl": "https://youtube.com/watch?v=3irCvEe7IdI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3irCvEe7IdI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M25S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-11-28T08:02:45-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3irCvEe7IdI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-automatically-refresh-your-data-in-power-bi-desktop.md",
-      "title": "Automatically refresh your data in Power BI desktop",
-      "excerpt": "In the october power bi desktop update, they released the possibility to have automatic page refresh for direct queries in power bi desktop and the service too.  Here we go through how it works and what you need to watch out for.  Link to the docs: https://docs.microsoft.com/en-us/power-bi/desktop-automatic-page-refresh",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-automatically-refresh-your-data-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-automatically-refresh-your-data-in-power-bi-desktop/",
       "originalUrl": "https://youtube.com/watch?v=3irCvEe7IdI",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3irCvEe7IdI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT13M25S",
@@ -282,14 +360,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-network-navigator-visual-in-power-bi-desktop.md",
-      "title": "Network Navigator visual in Power BI Desktop",
-      "excerpt": "Link to file: http://gofile.me/2kEOD/DGYPMz2l1   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1  Our PLAYLISTS: - Join our DAX Fridays!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-network-navigator-visual-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-network-navigator-visual-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=OWW9vLW9sq4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OWW9vLW9sq4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M21S",
+      "path": "_learning/videos/curbal-open-your-power-bi-desktop-model-in-excel-with-just-one-click-two-methods.md",
+      "title": "Open your Power BI Desktop model in Excel with just one click (two methods)",
+      "excerpt": "It is now possible to download your Power BI desktop data into Excel with a simple click and I am going to show you two methods in this video. Enjoy!  Erik Svensen tool: https://eriksvensen.wordpress.com/2020/07/27/powerbi-external-tool-to-connect-excel-to-the-current-pbix-file/  Changes in Power Shell",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-open-your-power-bi-desktop-model-in-excel-with-just-one-click-two-methods/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-open-your-power-bi-desktop-model-in-excel-with-just-one-click-two-methods/",
+      "originalUrl": "https://youtube.com/watch?v=CjwEKSKlSyI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CjwEKSKlSyI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M52S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -302,11 +380,11 @@
           }
         ]
       },
-      "publishedDateTime": "2017-12-20T02:58:15-08:00",
+      "publishedDateTime": "2020-08-11T04:10:41-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/OWW9vLW9sq4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/CjwEKSKlSyI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -933,31 +1011,23 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-deep-dive-into-measure-filters-in-power-bi-desktop.md",
-      "title": "Deep dive into measure filters in Power BI Desktop",
-      "excerpt": "In this video, we perform a deep analysis of the DAX queries generated by Power BI when you use a measure as a filter in a Power BI visual.\r The DAX code generated might show a different behavior whether the measure is part of the values shown in the visual or not. \r Article and download: https://sql.bi/721618?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-deep-dive-into-measure-filters-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-deep-dive-into-measure-filters-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=miiGlDWeamM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/miiGlDWeamM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M3S",
+      "path": "_learning/videos/radacad-decision-tree-in-power-bi-desktop.md",
+      "title": "Decision Tree in Power BI Desktop",
+      "excerpt": "In this video, I have explained how to access decision tree Custom visual in Power BI Desktop  https://radacad.com/decision-tree-power-bi-part-2",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-decision-tree-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-decision-tree-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=_7bF8y1_ivg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_7bF8y1_ivg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M17S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2021-09-14T03:00:45-07:00",
+      "publishedDateTime": "2019-08-01T17:33:20-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/miiGlDWeamM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_7bF8y1_ivg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -968,46 +1038,6 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-introducing-performance-analyzer-in-power-bi-desktop.md",
-      "title": "Introducing Performance Analyzer in Power BI Desktop",
-      "excerpt": "Performance Analyzer is the first diagnostic tool to find the slower parts of a report. Find the slowest DAX query before starting a deeper investigation using DAX Studio. How to learn DAX: https://www.sqlbi.com/guides/dax/ DAX Studio: https://daxstudio.org/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-performance-analyzer-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-performance-analyzer-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=1lfeW9283vA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1lfeW9283vA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M4S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-25T03:30:12-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1lfeW9283vA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX",
         "Power BI Desktop"
       ]
     },
@@ -1082,33 +1112,6 @@
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/12/Power-BI-book-cover-300_thumb.png",
           "width": 357,
           "height": 484,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-the-most-important-update-to-power-bi-desktop-ever.md",
-      "title": "The Most Important Update to Power BI Desktop, Ever!",
-      "excerpt": "The December 2020 version of Power BI desktop has just been released, and it is undoubtably the most important release since the first version way back in 2015. The super feature that has been released is an update to composite models using direct query of online datasets. The implications of [...]Read",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-the-most-important-update-to-power-bi-desktop-ever/index.json",
-      "webUrl": "https://exceleratorbi.com.au/the-most-important-update-to-power-bi-desktop-ever/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2020-12-16T16:22:08-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/12/121720_0009_TheMostImpo9.png",
-          "width": 800,
-          "height": 562,
           "isCached": true
         }
       ],
