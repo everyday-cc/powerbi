@@ -4,6 +4,44 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-2-ways-to-reduce-your-power-bi-dataset-size-and-speed-up-refresh.md",
+      "title": "2 ways to reduce your Power BI dataset size and speed up refresh",
+      "excerpt": "Adam shows you two things to reduce your Power BI dataset size. These are both things he commonly sees with Power BI reports and could potentially save you a lot of space and improve refresh times along with report performance.  Data reduction techniques for import modeling: https://docs.microsoft.com/power-bi/guidance/import-modeling-data-reduction",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-2-ways-to-reduce-your-power-bi-dataset-size-and-speed-up-refresh/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-2-ways-to-reduce-your-power-bi-dataset-size-and-speed-up-refresh/",
+      "originalUrl": "https://youtube.com/watch?v=c-ZqToc85Yc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c-ZqToc85Yc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M24S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-22T03:32:29-07:00",
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c-ZqToc85Yc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-dynamic-power-bi-reports-using-parameters.md",
       "title": "Dynamic Power BI reports using Parameters",
       "excerpt": "In this video, Patrick shows you how you can use a parameter, within a Power BI report, to dynamically change the data in a report. This uses M Functions within Power Query and a second source that has the key values to pull. Then using a gateway to enable refresh.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com",
@@ -110,8 +148,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1737,
-            "average": 4.7409325
+            "count": 1738,
+            "average": 4.7410817
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2285,7 +2323,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
@@ -2452,8 +2490,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8467,
-            "average": 4.747018
+            "count": 8470,
+            "average": 4.7469893
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2494,8 +2532,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 6997,
-            "average": 4.7104473
+            "count": 6998,
+            "average": 4.7103457
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2705,8 +2743,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8467,
-            "average": 4.747018
+            "count": 8470,
+            "average": 4.7469893
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3405,8 +3443,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 6997,
-        "average": 4.7104473
+        "count": 6998,
+        "average": 4.7103457
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3508,44 +3546,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/58a2rIV2nYg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-building-relationships-between-tables-when-both-have-duplicates.md",
-      "title": "Building relationships between tables when both have duplicates",
-      "excerpt": "PowerPivot and Power BI Desktop only allow the creation of relationships between tables when one of columns forming the relationship does not have duplicate values.  In order to relate these two tables to one another, what we need is a third table with all distinct values from both tables. In this tutorial",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-building-relationships-between-tables-when-both-have-duplicates/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-building-relationships-between-tables-when-both-have-duplicates/",
-      "originalUrl": "https://youtube.com/watch?v=vAvQ8pCnWDk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vAvQ8pCnWDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M14S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-24T13:47:45-07:00",
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vAvQ8pCnWDk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

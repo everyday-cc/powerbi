@@ -354,7 +354,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2019-03-19T10:12:07-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Or0oYJO7s7Q/maxresdefault.jpg",
@@ -2255,8 +2255,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 486,
-            "average": 4.7860084
+            "count": 487,
+            "average": 4.7864475
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2298,8 +2298,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 306,
-            "average": 4.732026
+            "count": 307,
+            "average": 4.732899
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2465,8 +2465,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 486,
-            "average": 4.7860084
+            "count": 487,
+            "average": 4.7864475
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2508,8 +2508,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 306,
-            "average": 4.732026
+            "count": 307,
+            "average": 4.732899
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4532,8 +4532,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 4921,
-            "average": 4.730746
+            "count": 4922,
+            "average": 4.7305975
           },
           "provider": {
             "name": "Microsoft Learn",
