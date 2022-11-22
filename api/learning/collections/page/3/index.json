@@ -284,8 +284,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 163,
-            "average": 4.7484665
+            "count": 164,
+            "average": 4.731707
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -828,8 +828,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
           "length": "PT42M",
           "ratings": {
-            "count": 67,
-            "average": 4.716418
+            "count": 68,
+            "average": 4.720588
           },
           "provider": {
             "name": "Microsoft Learn",
