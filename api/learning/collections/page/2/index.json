@@ -4382,8 +4382,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 4926,
-            "average": 4.730613
+            "count": 4927,
+            "average": 4.7306676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4674,8 +4674,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4855,
-            "average": 4.800206
+            "count": 4856,
+            "average": 4.800247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4944,8 +4944,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10088,
-            "average": 4.703212
+            "count": 10089,
+            "average": 4.703142
           },
           "provider": {
             "name": "Microsoft Learn",
