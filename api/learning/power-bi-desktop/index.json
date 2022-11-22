@@ -14,7 +14,7 @@
         "domain": "exceleratorbi.com.au"
       },
       "publishedDateTime": "2022-11-21T18:47:09-08:00",
-      "heat": 133,
+      "heat": 134,
       "images": [
         {
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/11/Bravo-DAX-Formatter.gif",
@@ -389,8 +389,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 30888,
-        "average": 4.725751
+        "count": 30892,
+        "average": 4.7257543
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -525,8 +525,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3030,
-            "average": 4.7541256
+            "count": 3031,
+            "average": 4.7542067
           },
           "provider": {
             "name": "Microsoft Learn",
