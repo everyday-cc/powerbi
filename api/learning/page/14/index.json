@@ -673,8 +673,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4915,
-            "average": 4.7249236
+            "count": 4916,
+            "average": 4.72498
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -733,8 +733,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 4915,
-        "average": 4.7249236
+        "count": 4916,
+        "average": 4.72498
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -817,8 +817,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 2082,
-        "average": 4.681556
+        "count": 2083,
+        "average": 4.6817093
       },
       "provider": {
         "name": "Microsoft Learn",
