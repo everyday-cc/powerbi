@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-support-for-pa
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-support-for-paginated-reports-in-power-bi-pro/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

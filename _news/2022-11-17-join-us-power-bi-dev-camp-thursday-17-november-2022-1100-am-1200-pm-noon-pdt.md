@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp
 webUrl: "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-17-november-2022-1100-am-1200-pm-noon-pdt/"
 type: article
 quality: 80
-heat: 82
+heat: 80
 published: true
 
 provider:
