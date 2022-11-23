@@ -754,8 +754,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 715,
-            "average": 4.79021
+            "count": 716,
+            "average": 4.790503
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -964,8 +964,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 715,
-            "average": 4.79021
+            "count": 716,
+            "average": 4.790503
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2657,8 +2657,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 130,
-            "average": 4.776923
+            "count": 131,
+            "average": 4.7633586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3242,8 +3242,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1240,
-            "average": 4.7346773
+            "count": 1241,
+            "average": 4.7348914
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3513,7 +3513,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-permissions-content-social.png",
@@ -3829,8 +3829,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 130,
-            "average": 4.776923
+            "count": 131,
+            "average": 4.7633586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4824,8 +4824,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1767,
-            "average": 4.7385397
+            "count": 1768,
+            "average": 4.738688
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4991,8 +4991,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2109,
-            "average": 4.718824
+            "count": 2113,
+            "average": 4.7193565
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5033,8 +5033,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4922,
-            "average": 4.725112
+            "count": 4924,
+            "average": 4.7252235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5520,8 +5520,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 2500,
-            "average": 4.7296
+            "count": 2501,
+            "average": 4.729308
           },
           "provider": {
             "name": "Microsoft Learn",
