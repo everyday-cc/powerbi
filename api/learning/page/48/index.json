@@ -244,8 +244,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
           "length": "PT42M",
           "ratings": {
-            "count": 68,
-            "average": 4.720588
+            "count": 69,
+            "average": 4.695652
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1220,8 +1220,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 443,
-        "average": 4.717833
+        "count": 444,
+        "average": 4.7184687
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1264,8 +1264,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 419,
-        "average": 4.6300716
+        "count": 420,
+        "average": 4.6309524
       },
       "provider": {
         "name": "Microsoft Learn",

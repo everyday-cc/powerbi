@@ -283,8 +283,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1242,
-        "average": 4.7246375
+        "count": 1243,
+        "average": 4.724859
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -370,8 +370,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 322,
-        "average": 4.757764
+        "count": 323,
+        "average": 4.758514
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -454,8 +454,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
       "length": "PT21M",
       "ratings": {
-        "count": 1207,
-        "average": 4.7738194
+        "count": 1209,
+        "average": 4.774194
       },
       "provider": {
         "name": "Microsoft Learn",
