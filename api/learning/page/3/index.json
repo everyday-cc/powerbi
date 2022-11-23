@@ -524,8 +524,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3032,
-            "average": 4.7542877
+            "count": 3033,
+            "average": 4.754369
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -627,7 +627,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 64,
+          "heat": 63,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
@@ -669,7 +669,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/add-measures-power-bi-desktop-social.png",
@@ -827,8 +827,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 5177,
-        "average": 4.72571
+        "count": 5178,
+        "average": 4.7255697
       },
       "provider": {
         "name": "Microsoft Learn",
