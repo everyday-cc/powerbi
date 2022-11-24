@@ -2015,8 +2015,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 5183,
-            "average": 4.68744
+            "count": 5184,
+            "average": 4.6875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3080,7 +3080,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png",
@@ -3540,8 +3540,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 3710,
-        "average": 4.7080865
+        "count": 3711,
+        "average": 4.7081647
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3582,8 +3582,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 9089,
-        "average": 4.6746616
+        "count": 9091,
+        "average": 4.6745133
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3616,8 +3616,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 14008,
-        "average": 4.7212305
+        "count": 14009,
+        "average": 4.7212505
       },
       "provider": {
         "name": "Microsoft Learn",
