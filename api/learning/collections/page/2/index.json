@@ -3225,8 +3225,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1777,
-            "average": 4.740011
+            "count": 1778,
+            "average": 4.7401576
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4374,7 +4374,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png",
@@ -5024,8 +5024,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9091,
-            "average": 4.6745133
+            "count": 9092,
+            "average": 4.674549
           },
           "provider": {
             "name": "Microsoft Learn",
