@@ -2731,8 +2731,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1779,
-            "average": 4.7397413
+            "count": 1780,
+            "average": 4.7398877
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2773,8 +2773,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 2593,
-            "average": 4.643656
+            "count": 2594,
+            "average": 4.6437936
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2815,8 +2815,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 5187,
-            "average": 4.6876807
+            "count": 5190,
+            "average": 4.6874757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2940,8 +2940,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1245,
-            "average": 4.735743
+            "count": 1246,
+            "average": 4.735955
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3127,7 +3127,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-intro-social.png",
@@ -5103,8 +5103,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1280,
-            "average": 4.7234373
+            "count": 1281,
+            "average": 4.7236533
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5381,8 +5381,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 65,
-            "average": 4.723077
+            "count": 66,
+            "average": 4.7272725
           },
           "provider": {
             "name": "Microsoft Learn",
