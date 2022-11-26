@@ -3273,8 +3273,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 35,
-            "average": 4.6857142
+            "count": 36,
+            "average": 4.6944447
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3877,8 +3877,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 8546,
-        "average": 4.746431
+        "count": 8548,
+        "average": 4.7461395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3919,8 +3919,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 14026,
-        "average": 4.7213745
+        "count": 14027,
+        "average": 4.721323
       },
       "provider": {
         "name": "Microsoft Learn",
