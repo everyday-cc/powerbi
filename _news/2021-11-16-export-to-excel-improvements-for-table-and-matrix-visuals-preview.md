@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/export-to-excel-improveme
 webUrl: "https://powerbi.microsoft.com/en-us/blog/export-to-excel-improvements-for-table-and-matrix-visuals-preview/"
 type: article
 quality: 174
-heat: 175
+heat: 174
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SHLzXTMI3Gk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -30,6 +30,6 @@ images:
     height: 630
     isCached: true
 
-secured: "94JPXU9Z6fUHidDRcXPlj3nRJmRiTxDBG1j+LjHOxb337i8I3plVkslaVx9usVK7BM3JlvHYANjqHFJ+T8ZQ/frlbSKUkZEUW++SZ0IG7lRcuMs1tFPZ7uLTIxa2xlKyKIdlU6xiM0BEJzwOPBbJYUGCAguJZ1WYegxNUSH6G9FhYqC3WpbKKgyTCQ3pKeomSElkmRsaKKTta/YabLRzJ2DL3fFrSyyfBKCrEvcJA4xYL1EArzJ/MA4TRcR/J0rdbd+Xx6m07k1+NBxEE0Kh3Pd+D1E8up2E0GAfjmJrcrUzxOVWcS7BIFBIZ74BvuDedcM+wQ2DdYj9z8KOBrvXEigU5We+R3ucIh71eQDTgaV/Tul98sadmAr7vnAI2FhP1UkKWNOMIrINLtvl2wIIUKAnCpu8EbQuRHKvrpiu/6w+XhbXbpPBg4kCcmvcWouEwa3xa64LQ7/6m+wmdWromw==;aVtYPcTN4iGvkSEwQnovBg=="
+secured: "o4uwAtSCkjTwfR3oHB4PHkxtP9YfGz1+zQPxW+vOLbipcXZAT0QW0xnMhms52rBLrnTnUZx2Msrg9mwGLEsCNIhNqzniEMcUiU35iyqZPYpi3v2XX55luJlG0tU+qnZCauHesZ8L6HFY8QPDzMKfhGlNOydDXtJoCQ8om213URxOw5HnQLvK81OTxFJaI6AxdN9/7RaImMGM+9dT9W7/67q6oXXz2+kHoPiSgvl9fcRl8zfEkeaOAMfYMvW899BZgde73eLDmoBBIuR+YXLwkIGSy0cLiGbmLATzJAZv9OURaHIRP5YIVZnk7hn3hZXOaiFEL/DoxMDhOw4eZ1GPGOWNNZuA7CH4gV7Rs1HG2a3hPlUUk/z3etoBnIDsX1zjePX3+fK0JV2rtzkvFNVjpDctiSLocYVeSoZnkNSFFE81SFXngX1TaX2QovNAyQNT7mWE9ltV189ys3Jo2mPf7g==;jQxlVnKzylKkTjqCdOmR1w=="
 ---
 
