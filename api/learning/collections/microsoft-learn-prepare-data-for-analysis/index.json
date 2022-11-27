@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 14307,
-        "average": 4.7549453
+        "count": 14308,
+        "average": 4.7549624
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 72,
+      "heat": 73,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-data-social.png",

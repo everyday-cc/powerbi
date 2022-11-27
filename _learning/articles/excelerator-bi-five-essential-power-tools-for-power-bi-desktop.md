@@ -4,7 +4,7 @@ excerpt: "The External Tools ribbon is a feature that has been available in Powe
 webUrl: https://exceleratorbi.com.au/five-essential-power-tools-for-power-bi-desktop/
 type: article
 publishedDateTime: 2022-11-22T02:47:09Z
-heat: 130
+heat: 133
 
 provider:
   name: Excelerator BI
