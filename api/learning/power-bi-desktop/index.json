@@ -38,8 +38,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 30980,
-        "average": 4.725888
+        "count": 30982,
+        "average": 4.7259054
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -56,7 +56,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 71,
+      "heat": 72,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png",
@@ -182,8 +182,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3050,
-            "average": 4.754754
+            "count": 3051,
+            "average": 4.7548347
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -648,8 +648,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3050,
-        "average": 4.754754
+        "count": 3051,
+        "average": 4.7548347
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -944,8 +944,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 427,
-        "average": 4.6370025
+        "count": 428,
+        "average": 4.6378503
       },
       "provider": {
         "name": "Microsoft Learn",
