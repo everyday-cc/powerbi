@@ -1123,8 +1123,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 90,
-            "average": 4.6666665
+            "count": 91,
+            "average": 4.6703296
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2137,8 +2137,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 7014,
-        "average": 4.774879
+        "count": 7016,
+        "average": 4.774943
       },
       "provider": {
         "name": "Microsoft Learn",
