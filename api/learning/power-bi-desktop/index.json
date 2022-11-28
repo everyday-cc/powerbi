@@ -14,7 +14,7 @@
         "domain": "exceleratorbi.com.au"
       },
       "publishedDateTime": "2022-11-21T18:47:09-08:00",
-      "heat": 89,
+      "heat": 90,
       "images": [
         {
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/11/Bravo-DAX-Formatter.gif",
@@ -304,8 +304,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1471,
-            "average": 4.729436
+            "count": 1472,
+            "average": 4.7275815
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1077,8 +1077,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1471,
-        "average": 4.729436
+        "count": 1472,
+        "average": 4.7275815
       },
       "provider": {
         "name": "Microsoft Learn",
