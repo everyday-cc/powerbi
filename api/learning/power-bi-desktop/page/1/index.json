@@ -14,7 +14,7 @@
         "domain": "exceleratorbi.com.au"
       },
       "publishedDateTime": "2022-11-21T18:47:09-08:00",
-      "heat": 137,
+      "heat": 138,
       "images": [
         {
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/11/Bravo-DAX-Formatter.gif",
@@ -929,8 +929,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 86,
-        "average": 4.744186
+        "count": 87,
+        "average": 4.7471266
       },
       "provider": {
         "name": "Microsoft Learn",
