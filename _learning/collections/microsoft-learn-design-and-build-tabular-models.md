@@ -4,7 +4,7 @@ excerpt: "Design and build tabular models"
 type: collection
 price: Free
 length: PT2H43M
-heat: 60
+heat: 156
 
 provider:
   name: Microsoft Learn

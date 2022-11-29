@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M20S
 publishedDateTime: 2019-07-17T21:46:42Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nAePfbGOEQE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "idWppPI38b1B4vnGT6lqHAsIXx6nHxBPv9kOhmGAEgfI2wnor936i1MG+DJWyKkNTjZHz2+HDrMML3niO86SsxKciMgzF+dKP0cGkqxbAco85y7NJmzZetDegZjv+C5F+mSgT4Wu3b0wkR9im9azjGVxuTlw7ecuADP8rlkoNgVEt+8d65DEx4vAeOde19pFwuqbnSg8X+rxdxjFKjNa7z4K1ogUeCGBsW/P8tNxWhui+QiR5FSRxf0BnL1yLNp1/JrryZPca3WvgW1HdWdpPl6IcZCPKzNBHKvZHV+i5289lXazU5xR+P+Egu/YF+qevn1QjX7nK0+yrnz+8H/Mdd+Znl0WJByAdW10LPdSeY9LybiPpE2d/OyeqE2m7p6lVB18T/z5G7zwRrjloKk5OSvNg9VuPa6wiCQ+lJ71YJs=;AGjC9TdeyqRzPaZ5tpypqA=="
+secured: "XV/klKeSv/Qd15G8sGrUGLkMMWBc4CoxiOm/DIYPLe/u4eTqwCC4J8E/Q1X+gI71C2bMBG5nnCldlVaTy8I521DmMkFmXfcA6qnSYfBVRpqRU6ZaJ4+6I9ehcjrV33CNHa+RenURmA2QaL+183NJ7GYA4YfFgYn8HKgX/Kijf5VUn4eND//DNzB1US/ull4NZ7IH6H4K1pOKmpz8f8o1TGiJbJi4+Lb3Vvz8eti70nAZ1bcpcHdWrPq1dz/HWFfIp05gYFbqMvKlrJjonEoTUWmfG2Sy1Ll0GpUQSCkWJROH2fq3or0oWkLBaeClCMydNK6dpCcOdaUvbPCb7PDiPQLgEYqw8x3erH6IPJ0noXikBajFq3sqS0fvukp/UIDsyXsxUlP93dU+M6eLZmQE6HDkgyIlbXzRKnDVSwsSHcU=;EWrTYxgfxcp4VwBPeu2Ysw=="
 ---
 
