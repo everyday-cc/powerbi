@@ -4,14 +4,14 @@
   "page": 38,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-make-qa-more-effective-in-power-bi.md",
-      "title": "Make Q&A more effective in Power BI",
-      "excerpt": "Most struggle with getting Q&A to be effective in Power BI. Usually this comes down to either model naming or synonyms. Patrick shows you how you can update these and also a nice feature to let you share them with others.  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-make-qa-more-effective-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-make-qa-more-effective-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=2S6qVQrmzxE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2S6qVQrmzxE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M25S",
+      "path": "_learning/videos/guy-in-a-cube-link-from-a-power-bi-paginated-report-to-a-power-bi-report.md",
+      "title": "Link from a Power BI Paginated report to a Power BI report",
+      "excerpt": "Patrick looks at how you can add a link to your Power BI Paginated report and open a Power BI report while passing filters over to explore data.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube -- Snapchat - guyinacube --",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-link-from-a-power-bi-paginated-report-to-a-power-bi-report/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-link-from-a-power-bi-paginated-report-to-a-power-bi-report/",
+      "originalUrl": "https://youtube.com/watch?v=Nucth8mG2LA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nucth8mG2LA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M43S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -24,13 +24,14 @@
           }
         ]
       },
-      "publishedDateTime": "2022-10-26T08:00:05-07:00",
+      "publishedDateTime": "2019-01-16T05:23:10-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2S6qVQrmzxE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Nucth8mG2LA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "title": "Link from a Power BI Paginated report to a Power BI report",
           "isCached": true
         }
       ],

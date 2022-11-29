@@ -4,7 +4,7 @@ excerpt: "Prepare to teach: Power BI paginated reports in a day"
 type: collection
 price: Free
 length: PT8H48M
-heat: 60
+heat: 61
 
 provider:
   name: Microsoft Learn

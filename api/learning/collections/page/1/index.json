@@ -223,8 +223,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 49240,
-            "average": 4.798822
+            "count": 49251,
+            "average": 4.798867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -265,8 +265,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 71172,
-            "average": 4.778382
+            "count": 71179,
+            "average": 4.7783756
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -541,8 +541,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 71172,
-            "average": 4.778382
+            "count": 71179,
+            "average": 4.7783756
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -583,8 +583,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 31018,
-            "average": 4.7259655
+            "count": 31023,
+            "average": 4.7259774
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -626,8 +626,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14049,
-            "average": 4.721119
+            "count": 14052,
+            "average": 4.7211785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -668,8 +668,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6003,
-            "average": 4.760786
+            "count": 6005,
+            "average": 4.7603664
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -944,8 +944,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 14351,
-            "average": 4.755139
+            "count": 14354,
+            "average": 4.7551208
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -986,8 +986,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 7052,
-            "average": 4.7750993
+            "count": 7055,
+            "average": 4.775195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1069,8 +1069,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 14351,
-            "average": 4.755139
+            "count": 14354,
+            "average": 4.7551208
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1111,8 +1111,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 7052,
-            "average": 4.7750993
+            "count": 7055,
+            "average": 4.775195
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1575,8 +1575,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 2622,
-            "average": 4.6407323
+            "count": 2624,
+            "average": 4.641006
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1617,8 +1617,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 5210,
-            "average": 4.6881
+            "count": 5213,
+            "average": 4.6880875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1659,8 +1659,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 2114,
-            "average": 4.6811733
+            "count": 2117,
+            "average": 4.6806803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1701,8 +1701,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 2526,
-            "average": 4.729612
+            "count": 2527,
+            "average": 4.729719
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3088,8 +3088,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3055,
-            "average": 4.7551556
+            "count": 3056,
+            "average": 4.7552357
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3173,8 +3173,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8576,
-            "average": 4.7458024
+            "count": 8579,
+            "average": 4.745891
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3215,8 +3215,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1258,
-            "average": 4.7241654
+            "count": 1259,
+            "average": 4.7243843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3299,8 +3299,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3055,
-            "average": 4.7551556
+            "count": 3056,
+            "average": 4.7552357
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3342,8 +3342,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2076,
-            "average": 4.7288055
+            "count": 2077,
+            "average": 4.728936
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3386,8 +3386,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1472,
-            "average": 4.7275815
+            "count": 1473,
+            "average": 4.7277665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3429,8 +3429,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1258,
-            "average": 4.7241654
+            "count": 1259,
+            "average": 4.7243843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4689,8 +4689,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1797,
-            "average": 4.7390094
+            "count": 1798,
+            "average": 4.7385983
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4898,8 +4898,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 10155,
-            "average": 4.744756
+            "count": 10159,
+            "average": 4.744758
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4974,8 +4974,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 71172,
-            "average": 4.778382
+            "count": 71179,
+            "average": 4.7783756
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5016,6 +5016,215 @@
           "url": "https://learn.microsoft.com/training/achievements/introduction-power-bi-social.png",
           "width": 643,
           "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-prepare-to-teach-power-bi-paginated-reports-in-a-day.md",
+      "title": "Prepare to teach: Power BI paginated reports in a day",
+      "excerpt": "Prepare to teach: Power BI paginated reports in a day",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-prepare-to-teach-power-bi-paginated-reports-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-prepare-to-teach-power-bi-paginated-reports-in-a-day/",
+      "length": "PT8H48M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-prepare-to-teach-module-power-bi-reporting.md",
+          "title": "Prepare to teach the module: Power BI reporting",
+          "excerpt": "Prepare to teach the module: Power BI reporting",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-prepare-to-teach-module-power-bi-reporting/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-power-bi-reporting/",
+          "length": "PT33M",
+          "ratings": {
+            "count": 0,
+            "average": 0.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-prepare-to-teach-module-design-report-layouts.md",
+          "title": "Prepare to teach the module: Design report layouts",
+          "excerpt": "Prepare to teach the module: Design report layouts",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-prepare-to-teach-module-design-report-layouts/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-design-report-layouts/",
+          "length": "PT1H48M",
+          "ratings": {
+            "count": 0,
+            "average": 0.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-prepare-to-teach-module-retrieve-report-data.md",
+          "title": "Prepare to teach the module: Retrieve report data",
+          "excerpt": "Prepare to teach the module: Retrieve report data",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-prepare-to-teach-module-retrieve-report-data/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-retrieve-report-data/",
+          "length": "PT1H44M",
+          "ratings": {
+            "count": 0,
+            "average": 0.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 130,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-prepare-to-teach-module-work-with-parameters.md",
+          "title": "Prepare to teach the module: Work with parameters",
+          "excerpt": "Prepare to teach the module: Work with parameters",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-prepare-to-teach-module-work-with-parameters/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-work-with-parameters/",
+          "length": "PT1H33M",
+          "ratings": {
+            "count": 0,
+            "average": 0.0
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 7,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -5177,157 +5386,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/collections/power-bi-tips-must-have-powerbi-tools.md",
-      "title": "Must Have PowerBI Tools",
-      "excerpt": "ALM ToolKit, DAX Studio, Tabular Editor and Monkey Tool",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/power-bi-tips-must-have-powerbi-tools/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/power-bi-tips-must-have-powerbi-tools/",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-alm-toolkit-with-christian-wade.md",
-          "title": "PowerBI.Tips - Tutorial - ALM ToolKit with Christian Wade",
-          "excerpt": "The ALM Toolkit is an excellent tool for aiding users with Tabular Model management.  Christian Wade has been generous enough to provide us with a detailed tutorial on the ALM ToolKit.    ALM Toolkit provides the following features: - Database Compare - Code Merging - Easy Deployments - Source-Control",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-alm-toolkit-with-christian-wade/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-alm-toolkit-with-christian-wade/",
-          "originalUrl": "https://youtube.com/watch?v=yKvMrQlUrCU",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yKvMrQlUrCU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT42M29S",
-          "provider": {
-            "name": "Power BI Tips",
-            "domain": "powerbi.tips"
-          },
-          "publishedDateTime": "2020-04-14T15:58:12-07:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/yKvMrQlUrCU/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell.md",
-          "title": "PowerBI.Tips - Tutorial - Introduction to DAX Studio - By Darren Gosbell",
-          "excerpt": "DAX Studio is the tool for data model tuning.  Darren Gosbell the creator of DAX Studio will be giving a live demo of his tool.    In this webinar we will be reviewing the following topics:  - What is DAX Studio?  - Why should I use DAX Studio?  - Getting started and connecting DAX Studio to various",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-introduction-to-dax-studio-by-darren-gosbell/",
-          "originalUrl": "https://youtube.com/watch?v=jpZnCHRauPU",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jpZnCHRauPU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1H14S",
-          "provider": {
-            "name": "Power BI Tips",
-            "domain": "powerbi.tips"
-          },
-          "publishedDateTime": "2020-04-24T10:20:00-07:00",
-          "heat": 52,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/jpZnCHRauPU/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo.md",
-          "title": "PowerBI.Tips - Tutorial - Model Performance Tuning in DAX Studio - By Marco Russo",
-          "excerpt": "DAX Studio is the tool for data model tuning.  Marco Russo contributor to DAX Studio will be giving us a deep dive and demo around using DAX Studio for Model Performance Tuning.   You will not want to miss this event as Marco is a wealth of knowledge for all things Data Modeling!  Watch the Full Tutorial",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo/",
-          "originalUrl": "https://youtube.com/watch?v=ERGpV4yt30w",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ERGpV4yt30w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1H9M2S",
-          "provider": {
-            "name": "Power BI Tips",
-            "domain": "powerbi.tips"
-          },
-          "publishedDateTime": "2020-04-24T11:32:43-07:00",
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/ERGpV4yt30w/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        },
-        {
-          "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell.md",
-          "title": "PowerBI.Tips - Tutorial - DAX Studio Full Features Review - By Darren Gosbell",
-          "excerpt": "DAX Studio is the tool for data model tuning.  Darren Gosbell the creator of DAX Studio will be giving a live demo of his tool.    In this live webinar Darren will be giving a full overview of all the features of DAX Studio.  - https://daxstudio.org/documentation/features/  Watch the Full Tutorial Series:",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell/index.json",
-          "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-dax-studio-full-features-review-by-darren-gosbell/",
-          "originalUrl": "https://youtube.com/watch?v=SoqF-c4KtHQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SoqF-c4KtHQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT1H23M11S",
-          "provider": {
-            "name": "Power BI Tips",
-            "domain": "powerbi.tips"
-          },
-          "publishedDateTime": "2020-04-24T13:46:32-07:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/SoqF-c4KtHQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "DAX"
-          ]
-        }
-      ],
-      "size": 16,
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yKvMrQlUrCU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

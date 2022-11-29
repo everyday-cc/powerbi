@@ -110,23 +110,23 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-incremental-refresh-and-hybrid-tables.md",
-      "title": "Power BI Incremental Refresh and Hybrid Tables",
-      "excerpt": "The default configuration for the Power BI dataset is to wipe out the entire data and reload it again. This can be a long process if you have a big dataset. Hybrid tables in Power BI keep part of the data in DirectQuery, and the rest is imported for data freshness and performance. In this video, I explain",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-incremental-refresh-and-hybrid-tables/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-incremental-refresh-and-hybrid-tables/",
-      "originalUrl": "https://youtube.com/watch?v=2husIX__ZWg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2husIX__ZWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M46S",
+      "path": "_learning/videos/radacad-power-bi-development-best-practices.md",
+      "title": "Power BI Development Best Practices",
+      "excerpt": "Regardless of the job function, you have with Power BI (Developer, consultant, architect), following certain practices ensures a good quality solution. In this article and video, I explain some of those best practices, why they are helpful, and links to how to use them. These tips are related to the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-development-best-practices/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-development-best-practices/",
+      "originalUrl": "https://youtube.com/watch?v=jzjRWvigF9c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jzjRWvigF9c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M56S",
       "provider": {
         "name": "RADACAD",
         "domain": "radacad.com"
       },
-      "publishedDateTime": "2022-10-04T21:07:13-07:00",
-      "heat": 134,
+      "publishedDateTime": "2022-10-25T20:04:33-07:00",
+      "heat": 135,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2husIX__ZWg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jzjRWvigF9c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -140,14 +140,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-are-you-thinking-about-your-tooltips-in-power-bi.md",
-      "title": "Are you thinking about your tooltips in Power BI?",
-      "excerpt": "The base tooltips in Power BI are fine. But are you overusing them? Adding everything to them in your visuals? Adam gives you some things to think about with your tooltips!  Create tooltips based on report pages https://docs.microsoft.com/power-bi/create-reports/desktop-tooltips?tabs=powerbi-desktop",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-are-you-thinking-about-your-tooltips-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-are-you-thinking-about-your-tooltips-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=0qywSdK3qoU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0qywSdK3qoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M11S",
+      "path": "_learning/videos/guy-in-a-cube-make-qa-more-effective-in-power-bi.md",
+      "title": "Make Q&A more effective in Power BI",
+      "excerpt": "Most struggle with getting Q&A to be effective in Power BI. Usually this comes down to either model naming or synonyms. Patrick shows you how you can update these and also a nice feature to let you share them with others.  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-make-qa-more-effective-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-make-qa-more-effective-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=2S6qVQrmzxE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2S6qVQrmzxE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M25S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -160,11 +160,11 @@
           }
         ]
       },
-      "publishedDateTime": "2022-09-08T08:00:02-07:00",
-      "heat": 132,
+      "publishedDateTime": "2022-10-26T08:00:05-07:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/0qywSdK3qoU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2S6qVQrmzxE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -178,38 +178,42 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-save-early-save-often-in-azure-synapse-studio.md",
-      "title": "Save early, save often in Azure Synapse Studio",
-      "excerpt": "We've all been there. You are in your zone and working hard. Then something happens and you lose everything! Patrick talks about ways to maintain your hard work in Azure Synapse Studio.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-save-early-save-often-in-azure-synapse-studio/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-save-early-save-often-in-azure-synapse-studio/",
-      "originalUrl": "https://youtube.com/watch?v=uFk3ZJ7Jm0U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uFk3ZJ7Jm0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M39S",
+      "path": "_learning/courses/microsoft-learn-prepare-to-teach-module-retrieve-report-data.md",
+      "title": "Prepare to teach the module: Retrieve report data",
+      "excerpt": "Prepare to teach the module: Retrieve report data",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-prepare-to-teach-module-retrieve-report-data/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-retrieve-report-data/",
+      "length": "PT1H44M",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
+      },
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-10-04T08:00:28-07:00",
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/uFk3ZJ7Jm0U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -743,8 +747,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 49240,
-            "average": 4.798822
+            "count": 49251,
+            "average": 4.798867
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -785,8 +789,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 71172,
-            "average": 4.778382
+            "count": 71179,
+            "average": 4.7783756
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -845,8 +849,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 71172,
-        "average": 4.778382
+        "count": 71179,
+        "average": 4.7783756
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1059,8 +1063,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 49240,
-        "average": 4.798822
+        "count": 49251,
+        "average": 4.798867
       },
       "provider": {
         "name": "Microsoft Learn",
