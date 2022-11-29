@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-08-introducing-aad-based-filtration-for-power-bi-datamarts.md",
+      "title": "Introducing AAD-based filtration for Power BI Datamarts",
+      "excerpt": "We are very pleased to announce the introduction of AAD-based filtration to the Power BI Datamarts tenant setting.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-08-introducing-aad-based-filtration-for-power-bi-datamarts/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/introducing-aad-based-filtration-for-power-bi-datamarts/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/introducing-aad-based-filtration-for-power-bi-datamarts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T09:54:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-power-bi-component-for-vuejs-applications-is-now-available.md",
       "title": "Power BI component for Vue.js applications is now available",
       "excerpt": "We’re thrilled to announce that a new component for embedding Power BI content in Vue.js applications is now available! Vue is an increasingly popular JavaScript framework for building front-end user interfaces and websites. ",
@@ -1193,57 +1244,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-07-18T06:27:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-visualizing-views-in-dynamics-365-with-power-bi-is-now-generally-available.md",
-      "title": "Visualizing views in Dynamics 365 with Power BI is now generally available",
-      "excerpt": "We’re very excited to announce that the Power BI integration in Dynamics 365 and model driven Power Apps, which shipped as a preview last December, is now generally available. Dynamics 365 and model driven Power Apps give organizations the ability to quickly build essential line-of-business apps in a",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-18-visualizing-views-in-dynamics-365-with-power-bi-is-now-generally-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/visualizing-views-in-dynamics-365-generally-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/visualizing-views-in-dynamics-365-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T03:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
