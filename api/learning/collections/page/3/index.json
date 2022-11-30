@@ -201,8 +201,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 116,
-            "average": 4.7413793
+            "count": 117,
+            "average": 4.74359
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -912,8 +912,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/",
           "length": "PT25M",
           "ratings": {
-            "count": 30,
-            "average": 4.866667
+            "count": 31,
+            "average": 4.870968
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -954,8 +954,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
           "length": "PT42M",
           "ratings": {
-            "count": 73,
-            "average": 4.712329
+            "count": 74,
+            "average": 4.716216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -996,8 +996,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 27,
-            "average": 4.888889
+            "count": 28,
+            "average": 4.892857
           },
           "provider": {
             "name": "Microsoft Learn",
