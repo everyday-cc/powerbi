@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-24-tell-a-story-with-your-data-announcing-the-all-new-power-bi-integration-for-powerpoint.md",
+      "title": "Tell a story with your data. Announcing the all-new Power BI integration for PowerPoint.",
+      "excerpt": "We’re thrilled to be shipping Power BI Data storytelling that lets you add Power BI reports and bookmarks to your slides and enjoy the delightful interactive experience of Power BI inside your presentations. With data storytelling, data will always be up to date in your slides, whether you’re building",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-24-tell-a-story-with-your-data-announcing-the-all-new-power-bi-integration-for-powerpoint/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/tell-a-story-with-your-data-announcing-the-all-new-power-bi-integration-for-powerpoint/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/tell-a-story-with-your-data-announcing-the-all-new-power-bi-integration-for-powerpoint/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T23:00:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-goals-in-power-bi-is-becoming-metrics-and-is-moving-to-ga.md",
       "title": "Goals in Power BI is becoming ‘metrics’ and is moving to GA!",
       "excerpt": "We are excited to announce general availability for metrics in Power BI (formerly called goals) along with new features to deliver scorecarding scenarios even more effectively within Power BI. Additionally, we’re pleased to share plans for how Power BI will work with the new Viva Goals offering from",
@@ -1198,57 +1249,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-05T07:22:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-detect-upload-of-sensitive-information-to-power-bi-using-microsoft-365-data-loss-prevention-policies.md",
-      "title": "Detect upload of sensitive information to Power BI using Microsoft 365 data loss prevention policies",
-      "excerpt": "Today we’re happy to announce that we’re extending Microsoft 365 DLP policies for Power BI to support detection of uploading sensitive information such as social security and credit card numbers, leveraging Microsoft’s built-in sensitive information types and/or custom information types defined by your",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-04-detect-upload-of-sensitive-information-to-power-bi-using-microsoft-365-data-loss-prevention-policies/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/detect-upload-of-sensitive-information-to-power-bi-using-microsoft-365-data-loss-prevention-policies/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/detect-upload-of-sensitive-information-to-power-bi-using-microsoft-365-data-loss-prevention-policies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T05:40:22-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
