@@ -2257,8 +2257,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 5217,
-            "average": 4.688327
+            "count": 5218,
+            "average": 4.6883864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3009,8 +3009,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 91,
-            "average": 4.6703296
+            "count": 92,
+            "average": 4.673913
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3571,8 +3571,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 5217,
-        "average": 4.688327
+        "count": 5218,
+        "average": 4.6883864
       },
       "provider": {
         "name": "Microsoft Learn",
