@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
@@ -181,8 +181,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-tools-optimize-power-bi-performance/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 38,
-        "average": 4.736842
+        "count": 39,
+        "average": 4.717949
       },
       "provider": {
         "name": "Microsoft Learn",
