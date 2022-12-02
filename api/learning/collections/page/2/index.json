@@ -4522,8 +4522,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 5227,
-            "average": 4.6881576
+            "count": 5228,
+            "average": 4.6878347
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4647,8 +4647,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 5005,
-            "average": 4.7314687
+            "count": 5006,
+            "average": 4.731522
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4730,8 +4730,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2174,
-            "average": 4.719871
+            "count": 2176,
+            "average": 4.7196693
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4772,8 +4772,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 4988,
-            "average": 4.72494
+            "count": 4989,
+            "average": 4.7247944
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4855,8 +4855,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1878,
-            "average": 4.771033
+            "count": 1879,
+            "average": 4.771155
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4939,8 +4939,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4931,
-            "average": 4.8002434
+            "count": 4932,
+            "average": 4.800284
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5217,8 +5217,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 307,
-            "average": 4.8143325
+            "count": 308,
+            "average": 4.814935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5259,8 +5259,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 234,
-            "average": 4.769231
+            "count": 235,
+            "average": 4.7702127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5277,7 +5277,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 133,
+          "heat": 53,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/explore-data-analytics-at-scale-social.png",
@@ -5342,8 +5342,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9159,
-            "average": 4.675183
+            "count": 9160,
+            "average": 4.675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5376,8 +5376,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10129,
-            "average": 4.703426
+            "count": 10131,
+            "average": 4.7034845
           },
           "provider": {
             "name": "Microsoft Learn",

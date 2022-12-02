@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M58S
 publishedDateTime: 2020-03-25T11:52:50Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z73dmBN26RA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mhXgaBsDR4aKOsh/Kw2YmQc4eYVqMA5+vodrIZLvkjFdLmbC59+lUF6dIujwsTOOgUFUM74EsbMBhZeESYtN0ihmbtI4n0I/9myI1nZ50L28THZVDBXKBnmR8KXxEbHnlBGM2oZ2fKvEbz6Ae/xuKnUT4Aiu17QtXHJlyQI+W2Ke+uBcfd9KYEO1h9LYKpodqf6Cf8emXC8bYjP9j3P1l+jk/waMkIre5815CjAVfJKv6IfCU9lh7huUJfg/YQ65MselesP4gjrwyA+ab2CE0blQcuwx4Fka8Y8Sw2/runkYs/1Yw+3Ooi1e+CUasPHZ19MbNskIDQNRvIlLqiQl3hJe9euJ1+qfQL51xGM3H4tKTFiojnnqRuIkfsTyYTmZP7RYjxAFnMtlYOdBgigLVqLkex1xcejbRV2+J9qKBKg=;3e+JO3Wc+LH5CBi9XlxzdA=="
+secured: "LrFLmkYBGY7kinI0d2TDO4J7sBMW/T5becIatr7lHFEF/kKy3qrC6HSShKcI+zN8ogEAOUPxdftSDqmzTHLzOKVDpyVryIMuf4kAkTmY84V+iZzHQzE9SPRkhKvPpNgw0wDSTnk3sa5rOl1wDjEllrykph5Gd4hRscQqw6u+wvxPNgnFvc86iJWGklb4M/RTNCuwBsqRYGDYNzhcEmvgMVTDvF0dkrJTeVvVQwzZyEy5F8rMrAYe64OIvYct2+nRCcpL50jKIGewUfxrclVD1kZgwUPViqgyKE5Tlbyxv9YOfAuaG1EBhuuk8yYsE0RWBXKo93JMQYRQ3MPO7UzzkKDRYyfVLQ9hXO3LZJHT/HudNYFawzhCUCF8ahtRZv8EhONARinMxKsnZxk76++yfkLbjUmhf0nciMR4V18ysP0=;4/pYV+KQ3SFZwKlbAGtjow=="
 ---
 
