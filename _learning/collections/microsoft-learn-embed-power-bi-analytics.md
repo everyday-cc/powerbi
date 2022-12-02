@@ -4,7 +4,7 @@ excerpt: "This learning path teaches you how to embed Power BI content in apps, 
 type: collection
 price: Free
 length: PT3H27M
-heat: 156
+heat: 60
 
 provider:
   name: Microsoft Learn
