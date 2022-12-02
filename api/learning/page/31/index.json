@@ -946,8 +946,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1302,
-            "average": 4.7273426
+            "count": 1303,
+            "average": 4.727552
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1029,8 +1029,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 118,
-            "average": 4.745763
+            "count": 119,
+            "average": 4.7394958
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1299,8 +1299,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2082,
-        "average": 4.7286263
+        "count": 2083,
+        "average": 4.7287564
       },
       "provider": {
         "name": "Microsoft Learn",
