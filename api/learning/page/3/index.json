@@ -645,8 +645,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 5294,
-        "average": 4.7285604
+        "count": 5296,
+        "average": 4.728474
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1145,8 +1145,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 466,
-            "average": 4.7467813
+            "count": 467,
+            "average": 4.7473235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1228,8 +1228,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3068,
-            "average": 4.755215
+            "count": 3069,
+            "average": 4.755295
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1313,8 +1313,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8617,
-            "average": 4.745851
+            "count": 8618,
+            "average": 4.7458806
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1481,8 +1481,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 5228,
-            "average": 4.6878347
+            "count": 5229,
+            "average": 4.6878943
           },
           "provider": {
             "name": "Microsoft Learn",
