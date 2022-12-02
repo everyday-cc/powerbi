@@ -116,8 +116,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 31090,
-        "average": 4.7261176
+        "count": 31092,
+        "average": 4.7261353
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -477,7 +477,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-write-formulas-social.png",
