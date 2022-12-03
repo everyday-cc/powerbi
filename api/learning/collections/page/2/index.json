@@ -328,8 +328,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 8267,
-            "average": 4.7642436
+            "count": 8268,
+            "average": 4.7642717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4163,7 +4163,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4756,8 +4756,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 5236,
-            "average": 4.6883116
+            "count": 5237,
+            "average": 4.688371
           },
           "provider": {
             "name": "Microsoft Learn",
