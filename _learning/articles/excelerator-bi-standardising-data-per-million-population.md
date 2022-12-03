@@ -4,7 +4,7 @@ excerpt: ""
 webUrl: https://exceleratorbi.com.au/standardising-data-per-million-population/
 type: article
 publishedDateTime: 2022-09-26T20:55:00Z
-heat: 50
+heat: 130
 
 provider:
   name: Excelerator BI
