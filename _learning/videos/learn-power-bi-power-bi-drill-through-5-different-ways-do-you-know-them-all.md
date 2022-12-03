@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT17M25S
 publishedDateTime: 2019-10-02T16:00:04Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GaY3_zrj21U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "6pGqQy7q7O1jDcL+sNdTHxooNefU+dYLN1V3lgroyxfnIl8wkt5XesYssrlS+g/XzoNGNoNPYoBEioxg81m6Bx3D+pzivRcF8NEVtMyPL2F76/yHHjjqGldMg59i92Rwvg3eOoWx7UJNVPXUoDKY04nySwyDCCxG7GBNYOINlahwK8LOARz3FyvFcqy4MMD3x7xn/HGWTb6hPh/KBjsGlB/oHqIdkLWYahDpAJ6YQWghbRXGS6HoECSCnnJzvWCAF8Yir0IaiAGEo8D+rktuxn66oqeB+BoGR2vPqHguA5M+aa6puBxlaojAjFotefK7eqAFotRdhutiY5Nip8VWeOvJzGUskPECsRKLgjXFDL7cy/haqDT5DRf5GTSghmUAtHfHaYx46aY8BfBO8QLeiMDyR80YNNzB9IFgM3qeSzU=;qcZym66i8+OwFC5egdNFYQ=="
+secured: "Qr5kXl85gW8VnpwL30ArdNogBH+Orc+s7nzxMF8mqL3nyxtwyzsU4x58GviuWSvyoURGSEUQ28XNwF3nxC1hxXsdS1r3l00kGlqtCUAAvFvd20z1zurYKVHlt1na9bGgruEu2aVqNex77HNGk9zsBIIuRP34e5gPbtyGzbAuUi+aBUHc+jLk2UtyIQdDepWucMLjZe6TM0kDdpTZ0QnGhTXmBWaLBAPdlBQL07BEMg4w8Il1XOK0D5tMkzH53eXTcNs56IpFSbURzU7UK0Pt7MlIEzdboQfNp5fX7LitGEGuUkw42wp4K25i1pIs1LjNiI7Mohr9DCCVumn5TmnfpB0QMj4pYa4UROvr/9vDztV+w6P8RnpEoJCmWDFVkpMURo9RQjruuYWsJ459mJxruuoyE+yHVcYdxlwQxZWiluM=;7TiyoGJtV89EZ0jEp/VLmw=="
 ---
 
