@@ -4,36 +4,6 @@
   "page": 65,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-download-power-bi-report-file-using-windows-powershell-powershell-to-export-power-bi-report-file.md",
-      "title": "Download Power BI Report File Using Windows PowerShell | PowerShell to Export Power BI Report File",
-      "excerpt": "During this video we will learn, how we can easily download published Power BI report file(.pbix) file using PowerShell command.  In this video, first we will download/export the Power BI file from My Workspace. After that we will export the .Pbix file from specific Workspace.  I have uploaded PowerShell",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-download-power-bi-report-file-using-windows-powershell-powershell-to-export-power-bi-report-file/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-download-power-bi-report-file-using-windows-powershell-powershell-to-export-power-bi-report-file/",
-      "originalUrl": "https://youtube.com/watch?v=L5P7LU1zX9Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L5P7LU1zX9Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M58S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-01-19T00:50:48-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/L5P7LU1zX9Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-embed-power-bi-report-with-power-bi-javascript-sdk-and-azure-function-app-step-5.md",
       "title": "Embed Power BI Report with Power BI JavaScript SDK and Azure Function APP |  Step 5",
       "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application. During this video we will call",
@@ -810,6 +780,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/QBSAcQHVAKo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-improved-display-name-for-summarized-fields.md",
+      "title": "Improved display name for summarized fields",
+      "excerpt": "Are you facing a problem where you add any summarization column and it is adding \"Sum of\", \"Count of\", \"Average of\" value in your header? Then this is the perfect solution. With September 2022 Power BI Desktop update now you can turn on one feature to improve Display name for your summarized field. Let's",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-improved-display-name-for-summarized-fields/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-improved-display-name-for-summarized-fields/",
+      "originalUrl": "https://youtube.com/watch?v=DNVRLdxeFaQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DNVRLdxeFaQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M57S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-09-28T05:53:31-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DNVRLdxeFaQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -94,7 +94,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-structure-social.png",
@@ -541,8 +541,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1263,
-            "average": 4.723674
+            "count": 1264,
+            "average": 4.723892
           },
           "provider": {
             "name": "Microsoft Learn",
