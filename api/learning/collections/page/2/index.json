@@ -4514,7 +4514,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
@@ -4822,8 +4822,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2184,
-            "average": 4.719322
+            "count": 2185,
+            "average": 4.719451
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4947,8 +4947,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1881,
-            "average": 4.7698035
+            "count": 1882,
+            "average": 4.7699256
           },
           "provider": {
             "name": "Microsoft Learn",
