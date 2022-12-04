@@ -4,7 +4,7 @@ excerpt: "The Power BI Matrix visual is similar to an Excel Pivot table, however
 webUrl: https://exceleratorbi.com.au/nesting-measures-in-inforiver/
 type: article
 publishedDateTime: 2022-11-30T01:24:12Z
-heat: 130
+heat: 134
 
 provider:
   name: Excelerator BI
