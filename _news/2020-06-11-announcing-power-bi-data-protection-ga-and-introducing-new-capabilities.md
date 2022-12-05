@@ -30,6 +30,6 @@ images:
     isCached: true
     title: "Announcing Power BI data protection GA and introducing new capabilities"
 
-secured: "fFcD6YyRsNxISyPnFKyp6ettWUK/ZuAy/qnz9ANBZtxQi2RLGBCs+fWygZV45fenll2pa2VI9fQDjmYaSAC1vSRcM4/AF9X/CEqAmS98f4dr14MZOmYCatR9emDkW6BYlAX/fPWZNUx3rbPbjXfcyf+HnzrgV7GnuG9X7c1h9MRvzJ2jwB1GzQFkEJt/sJP2Ikw/y3aDponlSbSsnjBGcuH1Jt4PS/H36vaubrHaD5ITjPbxm8p/8qK/0GR07T9fBiraPEGdCfcXjW6fVroy4xtf4t8/9E9VFUqE2GZYmYiSgzgV6POgdbjx51NuJE/dbozjrbfXZ8cWnHHKN/yK+AOH+rZfqcos45AaaW5wg0yGMl7P0Ht2+gadTLhCXZpHzUsdNyJTg+scttZMf/Ss38DBpwcxih2+GefOXffldEPufXc9z+BmdAQvNS1U2C0OTmGGSp275nx5BbFhgjpdfw==;A6tFXbtYCuvNh1GGsTOIyA=="
+secured: "EJKW+zxSRtB8SXH0u/gd1yYR/W8RrAYhYykUkPAu0ivRTup2xzKGEHMfYeR+PP/FQBUFQBQMhTc5EhZtMqm/zDPqXn5bThPuHyQKUvrCtdpQOrk2RQg1+G7Bw84aKub+ud4GdbsL0Nr+rIERHg4Gmbsh+G/TVjXPVFtV/S9vDeHyKhtFR7D/42WfD/zv1VQY8Mg5JlBurNoYJA71f0DdRhuWmK5IAtUWFYBvzkke6jnCVgpkqGq3OticM8A+j/ou2nvyfiUj1hscEaPElkc8j2NV4/ZRyz6cZda+oWLYbgRv7Hznjx+Rcl+QM6Pa7yuzvqzwYuOdR2cU/RBD/qyUIHfbuEjw7K0Qrd7hgluV1h6zJ8lJ8ZvECgbdnm5wWvEpZRUA7W8qcqdmJY0ISCTJ00qUvhe1t3gvHpog+v34TUGgnbOcPe5V/zlWNl5iYZuozMkmbCz8Nx/i632eSCOMSg==;T8Ic0M5U3QnceBHb4ofd/A=="
 ---
 
