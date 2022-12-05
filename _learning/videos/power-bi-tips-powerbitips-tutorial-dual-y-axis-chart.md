@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M3S
 publishedDateTime: 2019-10-23T20:40:30Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KmZRjGQ9pdQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "B1XRl8XbZVsfqIvj/PhX+ykoaU67Lu/bHJafd4VVDq8eXIchReJ9FyOX/k0HuXhkk1e8Cg38wf3pxiUUvuaVgfhfnq47Ym+3InMAQbzf/FK9Hn/pnGMdp052Qf+wAl7N2GzNXQ48qQk/pYwiQll2r2kyPAJ5NWjhuoWj1mVDc+K6waFehxa426fFNHJ8gW40BCaUX9/WNvdWsfTvYwW8C/9pvxBdgtbWZYhNZ48JQ1iNUXgVj3NIqHF8wpsX7600Nad0KwXSMOlehAPkgqdxGlkYZLUIhx3WXjvUmP+N5aB5r7yec5vxsYrkCmEHlCBYpoIhxrRcb43Wuxh5vlQTnAhym2qfwNhjLUhxhZlZ7NgWke9OWP3Oi/ypmOK068JbWM1AlK+jBAzp2gs0JSalC3wyMulF5rIuZsF8AErGdyA=;XK18RTg4Modh1r7Cqk/Rpg=="
+secured: "pKqYMylGrJGTPiDOhQwOADsJLGmOQ/SJT3JSpYnbEwYUJtE2jEbhGih0nGWN8/A//10OVeSjRuMrVCXva+KusnGLU81kNwO633vmdTjQqkHet+7E916XsYjh0nBIHNnQ7JLPmoMOdhJVVC1qNkdSRRrKuj4q1PQgw5hfpQ2fMoF9lEMacfP+2xqeOA8PmlSjO8rNnzftiMPcok8kIPKsZPfL0Dkn2hMC54Yfh+ZMRaRwAmlFhBFVNdyCXymVICvKXNQZQdXBd0XpbuM+igRpjfMpNbTBXoihKvgCrlo1/Q4fCEeyLX9BNzuzpk6XevfQxKizzs8NVN6cBbUjbI/QVCW1OrUddPxbB09z5rY4um8GGjbVtyL3nUR/qj/9pAtcAD+cxq4In5TpO30Yip38KoXDNLcvWJcBMFpItsWOybY=;/hSaZXpMMQzJ5FarYB8k3w=="
 ---
 

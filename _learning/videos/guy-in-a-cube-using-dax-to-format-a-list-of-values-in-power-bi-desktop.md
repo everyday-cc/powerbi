@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M4S
 publishedDateTime: 2019-03-11T11:42:51Z
-heat: 50
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QYbl4k_CWBE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0exUBebertwyJNgCmwjJH/J9juhuq/Mv17Uz7z7ahEPaI/UW2+T/ribfckGnAObyva5s/Wm/KiS04V1I/zZlEHzJn/DhcBCBEeX/JHbqA9zEqlMUVN+TOr+hLgU19sVEMF+dFSEPctCFNljJpZWZvyQ44iNkGIq/QVeMPvapOgGWQgSzbdcFU6mO1h1HOTyHA8pn9XG3oOjMq5pdcEYfZqizJ3mDoRrRFza8J7sXKnOcTuZolB4u66hK3MKI2Hh60os/Gnp3yz5ST2yZUM6Ow1KBKq3NaSIZ075qaEAZxmUGrhshJY4uXscvX6P8MrTHdKk9NzghTmaD+4bfl/NbAnT6A/th2GJF+YJG/BVkvrzSGrmCh0XKXEIRDXz0zYmzEjXk1k/s+lV7YqTFuvyQqr8CoH3XcNFCMA6MpS1RlBw=;QGipdbSP+QJvVvtRBnS3kA=="
+secured: "ncaa39+dNUqUs8SVZc8AXbotEQHYPNQfxSwYKZmeoccbZAOnOm2shQfxSHGuHCrbfvJq2U6DwA3Kq+eESc2uZ1t9EPOWsGSymRj1iKY6QhFFwIFHRkAhwXXc67T8WJAra4M8BkZvlYHgWywqRSW3ueElLol08loHMWKn7CLRprCBYWw4EanG9lwcJkH+hYfhX09IuFy+c1J8RpV8tqPtlr+acDo9wmCXyS/V3fcZr5JoGyb7swtFRxQGe/PZ9/suLlom+IgKqcNzxf2JnHrqjAgMIeNUwcAoUbkkeuLdEfPWBzOzPec3llY+feKwaBjRtk4H5kDlZQlXzWf6cqNzFbYiUALkTEpvU5oL6IqHU6aBxUKTWBd4bTzg6KJvdfqmxODJnldmMmFnpdeErvONokZf9nLg6XZgLmBJOJjWjfk=;HYZEvVSvCSzeJuUZBauxrA=="
 ---
 
