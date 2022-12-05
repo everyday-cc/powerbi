@@ -472,7 +472,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
@@ -682,7 +682,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
@@ -1812,7 +1812,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2661,8 +2661,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 5498,
-            "average": 4.7288103
+            "count": 5500,
+            "average": 4.728909
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2703,8 +2703,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 5021,
-            "average": 4.732324
+            "count": 5022,
+            "average": 4.7323775
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2805,8 +2805,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 14119,
-        "average": 4.721085
+        "count": 14122,
+        "average": 4.7210026
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2847,8 +2847,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 5498,
-        "average": 4.7288103
+        "count": 5500,
+        "average": 4.728909
       },
       "provider": {
         "name": "Microsoft Learn",
