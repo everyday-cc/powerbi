@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M20S
 publishedDateTime: 2016-06-21T19:47:15Z
-heat: 55
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pabn7kLxN6c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "YEzawYh3gUTYwkR0/4dhSL9NZwKOEo/xlT/ISW+l8LesePzNrehqJBn9WYjBAGzLqX+lO75X67j04t7yJxDC31qLqyu+caXlrVlZy3+rr+lYF8odAeAb9bgOboy26523yBhOhva48Ij5xZyUyK4BSSCXz1f7kFBN8qPTP8MZujjuVQEKLoKYCiiYEtDCD6ST7V9Xq/qzlZjODJcu15BLha/bZy81BSZe5H93xbR2L/D6U+0M02Mj11APYy7ZTwe/8FlZX7JS+tuWIjyRL6ntiayGXR9Y4oM36Y4O4WppQYAuvbLWzm0SivF9JF/zORP654CumLsdEAOSgi36vV64TUzvSZcCnGe+EyTMI0Lvps/MNffqjWTwoMrY643cafy4y5xoCf+yPLmnACS/nFtQHtmn1CvqmGP4uvvHfUaUlMsz130lLE2bu4I9uBe6jq56;WtasS2iw572oIwCv6LUAGA=="
+secured: "E5NWHhC0+5RVq8hWEpaCaCFO/0OyEIhdLYReQAaOF4OJCqN7oTYJufTSBME2xQNAkUl3FtLM+QsR+uJEJVcDORwsfsgFGD9k8xeSgbgA5grWAG8t4a+vRgL0kIozdgi5ZTdJd/YCIqZqWawu1iMMxYAxd5Bbpcy2rh2LYlRTvJTpUu3ynsY+xZq+uKwmTCLGJCrkY2/SuVaMlyb8z8OCXU65LgxHPFqoZXqbIfyXXynr907A9a76zOQm6ctL13fPDUt/PUEP847DrFftuU/S+iltZCXbaUwGC2wOp+Aua2kHY2Jz5rnDlJtyoMvvOlwfqkr28+LzAVbja4CPfn6xdmiU3rgx4DDz8T0GTXFlCQZWPwtatCzPYBIu/oA2EhAcruWJ3kIKJda0e9uKOPb62tt3i5f48UaISfULFYQbhTU0hUBprVJOBiQXspFN0DT/;ExGkH7wV46oXuUJpLshqLw=="
 ---
 
