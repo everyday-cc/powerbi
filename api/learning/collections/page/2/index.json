@@ -2499,8 +2499,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-content/",
           "length": "PT33M",
           "ratings": {
-            "count": 41,
-            "average": 4.804878
+            "count": 42,
+            "average": 4.8095236
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2541,8 +2541,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-content/",
           "length": "PT31M",
           "ratings": {
-            "count": 24,
-            "average": 4.75
+            "count": 25,
+            "average": 4.76
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4407,8 +4407,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8654,
-            "average": 4.7464757
+            "count": 8656,
+            "average": 4.7465343
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4449,8 +4449,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 7147,
-            "average": 4.711767
+            "count": 7148,
+            "average": 4.7118077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4492,8 +4492,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 8290,
-            "average": 4.7641735
+            "count": 8291,
+            "average": 4.764202
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4617,8 +4617,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 2673,
-            "average": 4.640479
+            "count": 2674,
+            "average": 4.640613
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4677,7 +4677,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 136,
+          "heat": 56,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-reports-with-power-bi-desktop-social.png",
@@ -4971,8 +4971,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1315,
-            "average": 4.730038
+            "count": 1316,
+            "average": 4.730243
           },
           "provider": {
             "name": "Microsoft Learn",
