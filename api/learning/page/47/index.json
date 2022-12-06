@@ -681,7 +681,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-environment-social.png",
@@ -955,8 +955,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 68,
-            "average": 4.7058825
+            "count": 69,
+            "average": 4.710145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1257,8 +1257,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 4997,
-        "average": 4.725035
+        "count": 4998,
+        "average": 4.72509
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1510,8 +1510,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
       "length": "PT46M",
       "ratings": {
-        "count": 68,
-        "average": 4.7058825
+        "count": 69,
+        "average": 4.710145
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2018,8 +2018,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 462,
-        "average": 4.7207794
+        "count": 463,
+        "average": 4.7192225
       },
       "provider": {
         "name": "Microsoft Learn",

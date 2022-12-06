@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 56,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/perform-analytics-power-bi-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 4997,
-        "average": 4.725035
+        "count": 4998,
+        "average": 4.72509
       },
       "provider": {
         "name": "Microsoft Learn",

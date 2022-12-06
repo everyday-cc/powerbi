@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 56,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -54,8 +54,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2091,
-        "average": 4.726925
+        "count": 2092,
+        "average": 4.7270555
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -184,8 +184,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 462,
-        "average": 4.7207794
+        "count": 463,
+        "average": 4.7192225
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -228,8 +228,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 436,
-        "average": 4.6376147
+        "count": 437,
+        "average": 4.6361556
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -272,8 +272,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1261,
-        "average": 4.739096
+        "count": 1262,
+        "average": 4.7393026
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -378,7 +378,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 54,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-solve-problems-social.png",
