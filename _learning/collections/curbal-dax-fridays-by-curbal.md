@@ -242,6 +242,8 @@ items:
   - videos/curbal-dax-fridays-215-previous-row-in-dax-non-accumulated-values
   - videos/curbal-dax-fridays-216-networkdays-function-is-finally-here
   - videos/curbal-is-the-new-quick-measures-feature-any-good-lets-find-out
+  - videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it
+  - videos/curbal-dax-fridays-217-evaluateandlog
 
 topics:
   - Power BI
