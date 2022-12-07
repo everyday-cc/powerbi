@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-10-power-bi-update-april-2022.md",
+      "title": "Power BI Update - April 2022",
+      "excerpt": "Follow us on Twitter - https://twitter.com/mspowerbi\r \r More questions? Try asking the Power BI Community @ https://community.powerbi.com/   #PowerBI #Microsoft",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-10-power-bi-update-april-2022/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2022-04-10-power-bi-update-april-2022/",
+      "originalUrl": "https://youtube.com/watch?v=RDy9B0MIbs4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RDy9B0MIbs4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-10T10:25:44-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2022-04-07-managing-power-bi-subscriptions-just-got-easier.md",
       "title": "Managing Power BI subscriptions just got easier",
       "excerpt": "Subscriptions have become a popular way to stay connected with your reports and dashboards via email. As more users have begun to use subscriptions, we’ve received feedback that managing all these subscriptions can be challenging. We’ve heard you and we’re excited to announce new functionality that makes",
@@ -1193,57 +1245,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-10-how-to-jazz-up-your-reports-by-adding-a-background-image-in-microsoft-power-bi.md",
-      "title": "How to jazz up your reports by adding a background image in Microsoft Power BI",
-      "excerpt": "Image: Mark Kaelin How to jazz up your reports by adding a background image in Microsoft Power BI Your email has been sent Sometimes, a report needs a little extra style to get the message across.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-02-10-how-to-jazz-up-your-reports-by-adding-a-background-image-in-microsoft-power-bi/index.json",
-      "webUrl": "https://www.techrepublic.com/article/how-to-add-a-background-image-to-your-reports-in-microsoft-power-bi/",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-add-a-background-image-to-your-reports-in-microsoft-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/06/featurepowerbibackground.png",
-          "width": 1188,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/how-to-add-a-background-image-to-your-reports-in-microsoft-power-bi/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-to-add-a-background-image-to-your-reports-in-microsoft-power-bi/amp/",
-      "publishedDateTime": "2022-02-10T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
