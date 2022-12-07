@@ -1528,8 +1528,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 111,
-            "average": 4.891892
+            "count": 112,
+            "average": 4.892857
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1570,8 +1570,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-select/",
           "length": "PT29M",
           "ratings": {
-            "count": 59,
-            "average": 4.7966104
+            "count": 60,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2912,8 +2912,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 3789,
-        "average": 4.710478
+        "count": 3790,
+        "average": 4.710554
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2954,8 +2954,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 5042,
-        "average": 4.731654
+        "count": 5043,
+        "average": 4.731707
       },
       "provider": {
         "name": "Microsoft Learn",
