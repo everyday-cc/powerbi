@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-08-how-to-add-custom-visuals-to-microsoft-power-bi-reports-and-dashboards.md",
+      "title": "How to add custom visuals to Microsoft Power BI reports and dashboards",
+      "excerpt": "Image: Microsoft News How to add custom visuals to Microsoft Power BI reports and dashboards Your email has been sent Effective communication can sometimes require a more innovative approach.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-02-08-how-to-add-custom-visuals-to-microsoft-power-bi-reports-and-dashboards/index.json",
+      "webUrl": "https://www.techrepublic.com/article/how-to-add-custom-visuals-to-microsoft-power-bi-reports-and-dashboards/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-add-custom-visuals-to-microsoft-power-bi-reports-and-dashboards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/06/featuresketch8.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/how-to-add-custom-visuals-to-microsoft-power-bi-reports-and-dashboards/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-to-add-custom-visuals-to-microsoft-power-bi-reports-and-dashboards/amp/",
+      "publishedDateTime": "2022-02-08T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-02-07-announcing-general-availability-of-export-power-bi-report-to-file-api.md",
       "title": "Announcing general availability of Export Power BI report to file API",
       "excerpt": "I am thrilled to announce the general availability (GA) of Export Power BI report to file API. This API allows you to export Power BI reports to the following file formats: PDF, PPTX (PowerPoint) and PNG, by using a REST call.",
@@ -1185,57 +1236,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-12-15T06:01:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-15-on-premises-data-gateway-december-2021-update-is-now-available.md",
-      "title": "On-premises data gateway December 2021 update is now available",
-      "excerpt": "On-premises data gateway (standard and personal mode) release for December 2021 ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-12-15-on-premises-data-gateway-december-2021-update-is-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-december-2021-update-is-now-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-december-2021-update-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-15T04:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

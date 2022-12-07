@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-05-24-announcing-public-preview-of-datamart-in-power-bi.md",
+      "title": "Announcing public preview of datamart in Power BI",
+      "excerpt": "Announcing public preview of datamart in Power BI, a new Power BI Premium self-service capability that enables users to uncover actionable insights through their own independent and dependent data sets. For the first time ever, we are empowering everyone with the right-sized ability to build datamarts",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-24-announcing-public-preview-of-datamart-in-power-bi/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-datamart-in-power-bi/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-datamart-in-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T00:30:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-whats-new-in-sql-server-2022-analysis-services-ctp-20.md",
       "title": "What’s new in SQL Server 2022 Analysis Services CTP 2.0",
       "excerpt": "SQL Server 2022 Analysis Services is now available for public preview! SSAS 2022 tabular models now join forces in Power BI Desktop with other data to create composite models, speed up MDX queries used in Excel PivotTables, allow for more control over resources, and get data back to business users faster",
@@ -1221,57 +1272,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2022-04-07-managing-power-bi-subscriptions-just-got-easier.md",
-      "title": "Managing Power BI subscriptions just got easier",
-      "excerpt": "Subscriptions have become a popular way to stay connected with your reports and dashboards via email. As more users have begun to use subscriptions, we’ve received feedback that managing all these subscriptions can be challenging. We’ve heard you and we’re excited to announce new functionality that makes",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-07-managing-power-bi-subscriptions-just-got-easier/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/managing-power-bi-subscriptions-just-got-easier/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/managing-power-bi-subscriptions-just-got-easier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-07T08:01:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
