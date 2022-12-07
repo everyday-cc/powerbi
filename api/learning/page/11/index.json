@@ -684,8 +684,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2205,
-            "average": 4.720635
+            "count": 2206,
+            "average": 4.720762
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -726,8 +726,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5015,
-            "average": 4.724626
+            "count": 5016,
+            "average": 4.724681
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -786,8 +786,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 1901,
-        "average": 4.769595
+        "count": 1902,
+        "average": 4.7697163
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -871,8 +871,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 2205,
-        "average": 4.720635
+        "count": 2206,
+        "average": 4.720762
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -913,8 +913,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
       "length": "PT21M",
       "ratings": {
-        "count": 1254,
-        "average": 4.775917
+        "count": 1256,
+        "average": 4.7762737
       },
       "provider": {
         "name": "Microsoft Learn",

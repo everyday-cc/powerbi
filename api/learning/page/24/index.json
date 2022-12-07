@@ -591,8 +591,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 2561,
-            "average": 4.726279
+            "count": 2563,
+            "average": 4.7264924
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -651,8 +651,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 10141,
-        "average": 4.7034807
+        "count": 10143,
+        "average": 4.7035394
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -769,8 +769,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 501,
-        "average": 4.8043914
+        "count": 502,
+        "average": 4.804781
       },
       "provider": {
         "name": "Microsoft Learn",
