@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/",
       "length": "PT50M",
       "ratings": {
-        "count": 93,
-        "average": 4.677419
+        "count": 94,
+        "average": 4.680851
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-calculations/",
       "length": "PT57M",
       "ratings": {
-        "count": 65,
-        "average": 4.3384614
+        "count": 66,
+        "average": 4.348485
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -137,8 +137,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-organize-fields/",
       "length": "PT52M",
       "ratings": {
-        "count": 52,
-        "average": 4.519231
+        "count": 53,
+        "average": 4.5283017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -179,8 +179,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-visuals/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 67,
-        "average": 4.6865673
+        "count": 68,
+        "average": 4.6911764
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -221,8 +221,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-analytics/",
       "length": "PT36M",
       "ratings": {
-        "count": 62,
-        "average": 4.693548
+        "count": 63,
+        "average": 4.698413
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -263,7 +263,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-optimize-performance/",
       "length": "PT21M",
       "ratings": {
-        "count": 7,
+        "count": 8,
         "average": 5.0
       },
       "provider": {
