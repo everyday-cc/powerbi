@@ -829,8 +829,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 177,
-            "average": 4.6836157
+            "count": 178,
+            "average": 4.6853933
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -871,8 +871,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 86,
-            "average": 4.7906976
+            "count": 87,
+            "average": 4.793103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -996,8 +996,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
           "length": "PT42M",
           "ratings": {
-            "count": 75,
-            "average": 4.72
+            "count": 76,
+            "average": 4.7236843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1038,8 +1038,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 28,
-            "average": 4.892857
+            "count": 29,
+            "average": 4.8965516
           },
           "provider": {
             "name": "Microsoft Learn",
