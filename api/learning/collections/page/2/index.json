@@ -665,8 +665,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 501,
-            "average": 4.786427
+            "count": 502,
+            "average": 4.7868524
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -875,8 +875,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 501,
-            "average": 4.786427
+            "count": 502,
+            "average": 4.7868524
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4623,8 +4623,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1853,
-            "average": 4.738802
+            "count": 1855,
+            "average": 4.738005
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4665,8 +4665,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 2695,
-            "average": 4.6426716
+            "count": 2697,
+            "average": 4.6429367
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4832,8 +4832,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5016,
-            "average": 4.724681
+            "count": 5017,
+            "average": 4.7239385
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4915,8 +4915,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9206,
-            "average": 4.6749945
+            "count": 9207,
+            "average": 4.6750298
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5074,8 +5074,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1902,
-            "average": 4.7697163
+            "count": 1904,
+            "average": 4.769958
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5116,8 +5116,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1689,
-            "average": 4.7098875
+            "count": 1690,
+            "average": 4.710059
           },
           "provider": {
             "name": "Microsoft Learn",
