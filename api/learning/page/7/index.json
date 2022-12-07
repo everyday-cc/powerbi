@@ -2197,8 +2197,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 92,
-            "average": 4.673913
+            "count": 93,
+            "average": 4.677419
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2912,8 +2912,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 3787,
-        "average": 4.710325
+        "count": 3788,
+        "average": 4.710401
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2954,8 +2954,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 5040,
-        "average": 4.731746
+        "count": 5041,
+        "average": 4.7316008
       },
       "provider": {
         "name": "Microsoft Learn",
