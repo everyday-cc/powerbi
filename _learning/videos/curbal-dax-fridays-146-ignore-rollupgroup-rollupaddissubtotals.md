@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M33S
 publishedDateTime: 2019-10-03T13:07:31Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ao1o3LeFMPQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "kft2IM0A0FBeWmj8rPntYXXKOllzPKLdpZDPRfmACb3k2FOXRqfu/IIRJ4XLTVRAwX4di1HlVOw2G9ZEXJyYlJwecOA1/LINC3gXfM7+kvEzgINFbhzHSnzpCw3CaN/cGTUUHhS2YyP0aXxDoG+oUMlWf1ISCh0rfXBRUnrrNUc3czP17biLr3YU0Uldod6HKNtTepPc+ZuBM24nD/dSJtAm+4EK82G4lHZOxnK1glhEvTaWeyH2UVeJkc93GdMe+N4+AIG6T3WMhjpp9aHf1oOBTdC7/lzshrBDHyYgaZSvGfVBYDoHIB7GCzJCIiXzdw1RvJeXj/++rrfcScoy3bkHduKA8sMgjHEg3XR2CGv9xKOcfg9GAf/y6j95G+62mwOh9Cxo52uShPvNvgNayIXzvGcIg2eqTtMT/UZJTOs=;hcvIS3XOh1eWlbEtkHlJ8g=="
+secured: "Rymb+gwYOqobQB12AlyDScj05hKNAobWoKFUpzkoiYxazH7b0rmUOiCBBHyxgpID3zgf2FDcHtoCyjQoYF5pOJiEQ3LsCqtm6vnLIWPMH9QDzm1Hpo3OdhwK06qtHYga5iOmMHW8sYTkoDRFJNzsRYgqEup/HnyK21P6DQseG5S/tEl6UYoEMyKGFoMq+yVgx4c7eTEGE8jVVM6CGYGbqy4VC9VgR3/NB4CBTCJHKzYAZDTfkc7/UkEH5hSGyoPo020JLU6B/xx6i8XvlRL0clsJhTONPLNlXyFObmh1ZHOLc7tSUfY1fDWaE/WfF+ovcy9/AXHxwNA/w/5GbAmYR8LIVp6/jTAdJiVOPYJjcTvYE8E0oaND3wscSwzvC6r9A9D92KHZ9lnRyDsDPbJ2PHycwU4MmnZeVpf8PDEF3gE=;fww04fU37qmpeh92inM8oA=="
 ---
 

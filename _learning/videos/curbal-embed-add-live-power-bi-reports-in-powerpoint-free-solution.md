@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M3S
 publishedDateTime: 2022-05-24T11:41:20Z
-heat: 57
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fQpIkDI-678\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "RxxtCzh5iWnVwGI4uyFnceN+ciVVzYlUJRiW6IS9kWOAgzFoTc9ifCDqu9Mm5gSRoHAgANJVnRaacgTVNPH8IV5xNgwJDgCwSiE8vr3NHpXz7GLSpccT9L0Qf5ppcUW2Hsyeji/TWmLKgg8eK1bDznh1jMStFEpvZR9iCIN0W0TKjHiGfzZtzyiaOUnji4BP6eXBkiXoLY81L/pZqEYyDqeQdyCd+olAzU9cb5Z0ZCWsOso6ULOv34fB4XftUsdBy3hYW4CgifqsKse16eEY00AW9T/he4UEKE4Gfw89DN6pUVhY0StOkF+B9tlQUWBNQOmWjkDEz9K2yRM0tqPEsZnig3c3lVLcOj0UGEnxBtEy2tnWgZ3/kot/LGfvDf36c7DHfe/AEpPOgyFj1hnotIiAteyV4e2VasQfzFuJUkE=;x6DaTlD6P5nBgTyu7EEcOg=="
+secured: "fuGufMNQjZ6Q82aYTge70EIHp/NYSEm3NvlUOfdbK8TG5KBus02jcjEh2ItAEU4jlVky5aFCDbizegg+2AIzdsBwLo67LIjXt78Pq7hyNogRcn36REy++iptlSXJCrAws9ICp1ZWUILam8AKNELlUiUOdUxAlpKfrLnUk0cxyVSEEg2IEKyQxLDoHFKeTMc4kmCBb5xNKqOYnaInHpstEkaulFyUNY6KJhEfCib0HuS74ywkQ4H6JqRkX4h7hnIL5O/aiuPAcZdkuc/W09fjmML4qlLbkY3BM0oLPQOEa84tDQs0R4Xp6t7ynvXh+4bT0cRKCfZn3XQOwbZG0VTo5X2KG3t0oXfG8mbW7ap9xC6nknTafTvEhhzInkYEPOYv6Y+Izkp6+tRSCyfkPdIpThXghYJy18JGwzmDYpp4xoE=;uJRvRDIF6gfWn9iTFKEmaQ=="
 ---
 
