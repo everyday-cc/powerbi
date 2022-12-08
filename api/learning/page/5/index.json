@@ -544,8 +544,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1861,
-            "average": 4.73885
+            "count": 1863,
+            "average": 4.7385936
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -670,8 +670,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 475,
-            "average": 4.745263
+            "count": 476,
+            "average": 4.745798
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -946,8 +946,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 2701,
-        "average": 4.6434655
+        "count": 2702,
+        "average": 4.643597
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1893,8 +1893,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5025,
-            "average": 4.7241793
+            "count": 5027,
+            "average": 4.72409
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2061,8 +2061,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 320,
-            "average": 4.73125
+            "count": 321,
+            "average": 4.732087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2271,8 +2271,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 320,
-            "average": 4.73125
+            "count": 321,
+            "average": 4.732087
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2910,8 +2910,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 5025,
-        "average": 4.7241793
+        "count": 5027,
+        "average": 4.72409
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2952,8 +2952,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 5352,
-        "average": 4.729634
+        "count": 5353,
+        "average": 4.7296844
       },
       "provider": {
         "name": "Microsoft Learn",
