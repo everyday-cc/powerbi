@@ -17,7 +17,7 @@
       "twitter": {
         "username": "Rad_Reza",
         "url": "https://twitter.com/Rad_Reza",
-        "followers": 9719
+        "followers": 9721
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rezarad/"
@@ -30,60 +30,13 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 118,
+      "heat": 101,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
           "width": 400,
           "height": 400,
           "title": "Reza Rad",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/adam-saxton.md",
-      "title": "Adam Saxton",
-      "excerpt": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/adam-saxton/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/adam-saxton/",
-      "type": "profile",
-      "name": "Adam Saxton",
-      "bio": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
-      "location": "Conroe, TX",
-      "website": "https://t.co/sfMHqOSfBC",
-      "twitter": {
-        "username": "awsaxton",
-        "url": "https://twitter.com/awsaxton",
-        "followers": 7944
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/guyinacube/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 104,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Adam Saxton",
           "isCached": true
         }
       ],
@@ -103,7 +56,7 @@
       "twitter": {
         "username": "patrickdba",
         "url": "https://twitter.com/patrickdba",
-        "followers": 7799
+        "followers": 7800
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/patrickdleblanc/"
@@ -124,13 +77,60 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 87,
+      "heat": 92,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1581687405358333954/jauNU1-Y_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Patrick LeBlanc",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/adam-saxton.md",
+      "title": "Adam Saxton",
+      "excerpt": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/adam-saxton/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/adam-saxton/",
+      "type": "profile",
+      "name": "Adam Saxton",
+      "bio": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
+      "location": "Conroe, TX",
+      "website": "https://t.co/sfMHqOSfBC",
+      "twitter": {
+        "username": "awsaxton",
+        "url": "https://twitter.com/awsaxton",
+        "followers": 7945
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/guyinacube/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 87,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Adam Saxton",
           "isCached": true
         }
       ],
@@ -150,7 +150,7 @@
       "twitter": {
         "username": "powerbipro",
         "url": "https://twitter.com/powerbipro",
-        "followers": 5638
+        "followers": 5640
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/avichalsingh/"
@@ -163,97 +163,13 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 82,
+      "heat": 77,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Avi Singh",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/arun-ulag.md",
-      "title": "Arun Ulag",
-      "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/arun-ulag/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/arun-ulag/",
-      "type": "profile",
-      "name": "Arun Ulag",
-      "bio": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
-      "location": "Seattle, WA",
-      "website": "https://t.co/FklqJqbSAZ",
-      "twitter": {
-        "username": "arunulag",
-        "url": "https://twitter.com/arunulag",
-        "followers": 4998
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/arunulag/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/625784770333519872/RrSqqUEZ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Arun Ulag",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/seth-bauer.md",
-      "title": "Seth Bauer",
-      "excerpt": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/seth-bauer/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/seth-bauer/",
-      "type": "profile",
-      "name": "Seth Bauer",
-      "bio": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
-      "twitter": {
-        "username": "Seth_C_Bauer",
-        "url": "https://twitter.com/Seth_C_Bauer",
-        "followers": 2095
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/seth-bauer/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Seth Bauer",
           "isCached": true
         }
       ],
@@ -286,13 +202,97 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 42,
+      "heat": 71,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Mike Carlo",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/seth-bauer.md",
+      "title": "Seth Bauer",
+      "excerpt": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/seth-bauer/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/seth-bauer/",
+      "type": "profile",
+      "name": "Seth Bauer",
+      "bio": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
+      "twitter": {
+        "username": "Seth_C_Bauer",
+        "url": "https://twitter.com/Seth_C_Bauer",
+        "followers": 2095
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/seth-bauer/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Seth Bauer",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/arun-ulag.md",
+      "title": "Arun Ulag",
+      "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/arun-ulag/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/arun-ulag/",
+      "type": "profile",
+      "name": "Arun Ulag",
+      "bio": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
+      "location": "Seattle, WA",
+      "website": "https://t.co/FklqJqbSAZ",
+      "twitter": {
+        "username": "arunulag",
+        "url": "https://twitter.com/arunulag",
+        "followers": 4999
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/arunulag/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 32,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/625784770333519872/RrSqqUEZ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Arun Ulag",
           "isCached": true
         }
       ],
