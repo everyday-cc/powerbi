@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-04-13-heads-up-classic-workspace-upgrade-starts-on-april-27-2022.md",
+      "title": "Heads up: Classic Workspace Upgrade Starts on April 27, 2022",
+      "excerpt": "Microsoft will begin updating classic workspaces on April 27th, 2022.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-13-heads-up-classic-workspace-upgrade-starts-on-april-27-2022/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/heads-up-classic-workspace-upgrade-starts-on-april-27-2022/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/heads-up-classic-workspace-upgrade-starts-on-april-27-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-13T08:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-04-12-built-in-ai-in-power-bi-new-teams-app-and-real-time-big-data-with-hybrid-tables.md",
       "title": "Built-in AI in Power BI, New Teams App, and Real-time Big Data with Hybrid Tables",
       "excerpt": "Integrate Power BI Premium Gen2 inherently with Microsoft&#8217;s collaboration analytics stack — including the new Power BI app for Microsoft Teams that makes it easier to access, share, and act on insights as you work, the latest AI-driven visualization capabilities with Smart Narratives and achieving",
@@ -1210,57 +1261,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2022-02-14-develop-data-visualization-apps-with-new-features-in-microsoft-power-bi.md",
-      "title": "Develop data visualization apps with new features in Microsoft Power BI",
-      "excerpt": "Develop data visualization apps with new features in Microsoft Power BI Your email has been sent Tools revealed at the Data Insights Summit change data visualization reporting into a form of ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-02-14-develop-data-visualization-apps-with-new-features-in-microsoft-power-bi/index.json",
-      "webUrl": "https://www.techrepublic.com/article/develop-data-visualization-apps-with-new-features-in-microsoft-power-bi/",
-      "originalUrl": "https://www.techrepublic.com/article/develop-data-visualization-apps-with-new-features-in-microsoft-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/06/featurebuild2017seattleskyline.jpg?x63627",
-          "width": 2040,
-          "height": 870,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/develop-data-visualization-apps-with-new-features-in-microsoft-power-bi/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/develop-data-visualization-apps-with-new-features-in-microsoft-power-bi/amp/",
-      "publishedDateTime": "2022-02-14T05:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],

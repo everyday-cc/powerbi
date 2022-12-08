@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-14-develop-data-visualization-apps-with-new-features-in-microsoft-power-bi.md",
+      "title": "Develop data visualization apps with new features in Microsoft Power BI",
+      "excerpt": "Develop data visualization apps with new features in Microsoft Power BI Your email has been sent Tools revealed at the Data Insights Summit change data visualization reporting into a form of ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-02-14-develop-data-visualization-apps-with-new-features-in-microsoft-power-bi/index.json",
+      "webUrl": "https://www.techrepublic.com/article/develop-data-visualization-apps-with-new-features-in-microsoft-power-bi/",
+      "originalUrl": "https://www.techrepublic.com/article/develop-data-visualization-apps-with-new-features-in-microsoft-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/06/featurebuild2017seattleskyline.jpg?x63627",
+          "width": 2040,
+          "height": 870,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/develop-data-visualization-apps-with-new-features-in-microsoft-power-bi/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/develop-data-visualization-apps-with-new-features-in-microsoft-power-bi/amp/",
+      "publishedDateTime": "2022-02-14T05:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-02-11-inforiver-no-code-partner-innovation-for-end-user-self-service-inside-power-bi.md",
       "title": "Inforiver – No-Code Partner Innovation for End-User Self-Service inside Power BI",
       "excerpt": "No-Code Partner Innovation for End-User Self-Service inside Power BI ",
@@ -1185,57 +1236,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-12-17T05:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-16-asynchronous-refresh-now-available-in-power-bi-for-public-preview.md",
-      "title": "Asynchronous refresh now available in Power BI for public preview",
-      "excerpt": "Asynchronous refresh now available in Power BI for public preview. The asynchronous refresh REST API for Power BI brings built-in features for reliability, such as auto retries and batched commits.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-12-16-asynchronous-refresh-now-available-in-power-bi-for-public-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/asynchronous-refresh-now-available-in-power-bi-for-public-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/asynchronous-refresh-now-available-in-power-bi-for-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-16T00:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
