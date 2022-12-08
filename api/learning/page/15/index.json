@@ -917,8 +917,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1690,
-            "average": 4.710059
+            "count": 1691,
+            "average": 4.709639
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -959,8 +959,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4957,
-            "average": 4.7994757
+            "count": 4958,
+            "average": 4.7995157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1061,8 +1061,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1487,
-        "average": 4.7276397
+        "count": 1488,
+        "average": 4.727823
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1148,8 +1148,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2095,
-        "average": 4.726969
+        "count": 2096,
+        "average": 4.7270994
       },
       "provider": {
         "name": "Microsoft Learn",
