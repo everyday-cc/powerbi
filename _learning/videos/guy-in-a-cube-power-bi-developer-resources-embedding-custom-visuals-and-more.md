@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M53S
 publishedDateTime: 2017-09-12T16:19:45Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DuD72qgYeQg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Developer resources (embedding, custom visuals and more)"
 
-secured: "D3GxsLOmjblPbzA9kcXBxNq3L9kq5YQSDGsAlnisMS0gR/Leckuicw1JLy9tajP+qlDuzkOui2HY8GnBibB65ciz18J3TrL3KE5j9vIVlqB72Vdjp2fZeAKItlaNboU8fulGJHi7Lv5lq+00EWdQ7CNgsMAatVIO/6O6dSLfFP3u2vGxuCcXqb02WKehz3mDb9ZoqNK3LC1qS5lgJloJwNtGAzYmcAquzkJe938DUBA2Y+sPanW7ekTcjD54zRw2WaeMWlINV/2CD5h6NkAfCw9e84N0ugOzGWQJ2O6gsttYzgFZOy5xzqweoK6Xx0jMbOwLQBlqol/7d4E5JkJOMTvLHGdsMPaj1HIrXe6bMWWgQW97GtbwbU43SFaHducDysPh+EkD/3CvoFBGqmFZba/DcW21v6NZt004t8eT1Sg=;nkvxNtupl7Ph9VkM0OZ02w=="
+secured: "ksudZSSy66kwk/M88UjVkhcRSreI/rKVaKQgA6pzjcwvPEEMxaiuRPnP3ahxeeXORDYnMxuSMM51aXltD0bIJz66QOJkzy20/uWC9QWj2PH05kC6AMbXX2CmKY17HIF28HWo4ALBUJAg1t+LF+fKWK35C43P4Gs5x68npkeoVUttay7QeNSLpz5XkmfRuo7rV0hQqZqTacjI9M5iC4qQxt+BhABzp1np3zppar9Ar6T/nhNhyeyFLltWznm/JOHu+ieR/XCdLeVrAgyvgizSrlGoCnke7OmaBCKdyCMO5oa/mpeEPNI81MhVOQeT0Ca/cb1D+8mCv2hYgesdW73mMljeB9FIWXbpLBRuLN90aM+MunS5DejZ923saIgtRFUsDwW4l4qlOO9+nY5EDO9VT8Azgdbe6ep4ALQy11fIIDg=;NOiiqmN1tgEsATz4c/f5pA=="
 ---
 
