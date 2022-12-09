@@ -1401,7 +1401,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
@@ -1509,8 +1509,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 117,
-            "average": 4.7350426
+            "count": 118,
+            "average": 4.737288
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2120,8 +2120,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 589,
-            "average": 4.774194
+            "count": 590,
+            "average": 4.774576
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2446,8 +2446,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 117,
-            "average": 4.7350426
+            "count": 118,
+            "average": 4.737288
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3235,8 +3235,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 8333,
-        "average": 4.7645507
+        "count": 8334,
+        "average": 4.764579
       },
       "provider": {
         "name": "Microsoft Learn",
