@@ -811,8 +811,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 184,
-            "average": 4.7336955
+            "count": 185,
+            "average": 4.7297297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -853,8 +853,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 235,
-            "average": 4.697872
+            "count": 236,
+            "average": 4.6949153
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1248,8 +1248,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1494,
-        "average": 4.7269077
+        "count": 1495,
+        "average": 4.7270904
       },
       "provider": {
         "name": "Microsoft Learn",
