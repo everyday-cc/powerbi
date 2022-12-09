@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT13M38S
 publishedDateTime: 2021-02-04T11:00:24Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4uVgoVCmdnc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "7Ayh48pcfK5Lqfyyr1jfb/5MluvcNwxl6flaFCVCKfYMNHFU9DnOyWnuyb5RrMAV3DTOyXN83epRmcBwvfMxroYwWLVVlrgJPt3Q/pim+Q8TVvKP6o0fuY07DD1ZCqg776qGx5ubdy/7wz4aLz7++D6zWqApCdBlzjqQYI2ySQLbvhk6YpMgGJLKBiQmZpROv+dj9LvSiiL8ceqyzp6GwJF+UGdicP3ZLpwFjZkTnCkZJRA5eZ1pLM1M7vYIWqOxhhAP0gNhQa8ZUqorQlOuKI3CBr28qzy2eQbIl2XyT6J//vYDSLDo3G7shQlVn1Vl8qaYkFiX1zcxMbLd4IsDOiJC7SmJDGUJhptGFKpylORnrqDdM/IXx0bWORt+9YElhgK3OcKpYFooCANssFf95Y5LOqeCpy+wVvxQEEQpsOs=;6+tNROQlfggAtxRNaCC9pw=="
+secured: "m8yVaX0lQbjtz57x/Tjeng+QAb+NTeIfL+gXP9wVhXpVXtpBWPVk8J1SBT5MQKEwSz2IEue1UsJy+vIpCTFUBWkaaNg6MMRQVrpZ8AcRiHM3yXvvSNGrS3RQRX2s8ZXt65TSpUvi9kMw41mMxMoRvHfvfzkrOMaoUnyeZxcsCFmTBocnASMJj6S80zC4+k60updMS6PNeq21ArTe80mXGchFbuXsO/qSeX5ren07xUgngFgQ1qOMvRoFoTsoaQ294jtNhLPj6ReSWbDMItLDxCQQa4l7bPtU3pFuCZqJafGAO9HdQZd9Rub2RbX56nNZM7f7R2DCbm0iXxZd13mGViUtn8TC+Dkv3pVLfY4QhMBFUEO5VtVb9M+dPjdeCgpFtpKKwx8RqS34nrhIO0wbB6iMk13R0AmKH8O+HcctHBo=;flCHqUmJ9agbj9J2Dbd++A=="
 ---
 
