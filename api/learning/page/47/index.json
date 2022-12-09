@@ -1134,8 +1134,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
       "length": "PT1H30M",
       "ratings": {
-        "count": 78,
-        "average": 4.8461537
+        "count": 80,
+        "average": 4.8375
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1262,8 +1262,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 466,
-        "average": 4.72103
+        "count": 467,
+        "average": 4.719486
       },
       "provider": {
         "name": "Microsoft Learn",
