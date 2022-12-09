@@ -4,6 +4,45 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/videos/curbal-list-dates-between-two-dates-in-power-query.md",
+      "title": "List dates between two dates in Power Query",
+      "excerpt": "Need to create a list of dates between a start date and end date? Well, let's look at how Imke did it in the Power BI community, it will blow your mind :) #curbal #powerquery #mlanguage #powerbi  Here is the thread on the Power BI community, where you can find Imke's code: https://community.powerbi.com/t5/Desktop/M-Power-Query-help-for-table-merge-Conditional-Cross-Join/m-p/478272#M222561",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-list-dates-between-two-dates-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-list-dates-between-two-dates-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=u3HLseZxSj4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u3HLseZxSj4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M49S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-03-11T05:15:36-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/u3HLseZxSj4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-modify-individual-cells-without-write-permissions-in-power-bi.md",
       "title": "Modify individual cells without write permissions in Power BI",
       "excerpt": "In this video I am show you how to write back to a source you dont own. Links to mentioned sources:  Create an index with DAX: https://youtu.be/qUmTxQHr6nY  Create a rowid with dax:  https://youtu.be/WzpqBLApSBU  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE",
@@ -622,6 +661,44 @@
       ]
     },
     {
+      "path": "_learning/videos/sqlbi-why-power-bi-totals-might-seem-wrong.md",
+      "title": "Why Power BI totals might seem wrong",
+      "excerpt": "A common question is why Power BI totals are inaccurate because they do not display the sum of individual rows. In this video, we explain the reasons why those totals are correct.\r Article and download: https://sql.bi/772093?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-why-power-bi-totals-might-seem-wrong/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-why-power-bi-totals-might-seem-wrong/",
+      "originalUrl": "https://youtube.com/watch?v=6rgAkejrup8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6rgAkejrup8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M55S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-10-25T03:00:42-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6rgAkejrup8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-manage-workspaces-and-datasets-in-power-bi.md",
       "title": "Manage workspaces and datasets in Power BI",
       "excerpt": "Once you have created your Power BI data sets and reports, it’s time to deploy them so the users can take advantage of all of your hard work. In this Learning Path, you will learn how to create workspaces in the Power BI service. You will deploy your Power BI artifacts here and share them to your users. You will also learn how to connect Power BI reports to on-premise data sources. Your users will appreciate seeing the latest data in your reports, so you will configure automatic refresh for your Power BI datasets. Row-level security allows you to create one report, but have users be restricted to see only the data that applies to them. This targets data to users, without having to create multiple reports.",
@@ -652,8 +729,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 1915,
-            "average": 4.770235
+            "count": 1916,
+            "average": 4.7703547
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -694,8 +771,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1699,
-            "average": 4.708652
+            "count": 1702,
+            "average": 4.7091656
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -736,8 +813,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 4969,
-            "average": 4.7999597
+            "count": 4973,
+            "average": 4.800121
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -796,8 +873,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 2219,
-        "average": 4.721496
+        "count": 2220,
+        "average": 4.7216215
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -838,8 +915,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 4969,
-        "average": 4.7999597
+        "count": 4973,
+        "average": 4.800121
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1172,84 +1249,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-how-to-conditional-merge-tables-in-power-query.md",
-      "title": "How to conditional merge tables in Power Query",
-      "excerpt": "In today's video i will show you one technique for conditional merging tables in Power Query.  I forgot to mention the source of the video: https://social.technet.microsoft.com/Forums/en-US/13e055f0-4b47-49b5-9f24-8c56eb58df3b/conditional-merge-or-lookup-in-power-query?forum=powerquery  Links to mentioned",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-conditional-merge-tables-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-conditional-merge-tables-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=y3bOyNpJuXc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y3bOyNpJuXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M32S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-01T02:14:58-08:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/y3bOyNpJuXc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-search-for-multiple-keywords-in-one-column-using-power-query.md",
-      "title": "Search for multiple keywords in one column using Power Query",
-      "excerpt": "If you need to search and find for multiple keywords in one column in Power Query, here is a very straight forward way to do that :)  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-search-for-multiple-keywords-in-one-column-using-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-search-for-multiple-keywords-in-one-column-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=rnC9gy8LIbM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rnC9gy8LIbM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M39S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-10-11T04:20:35-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rnC9gy8LIbM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     }
   ],

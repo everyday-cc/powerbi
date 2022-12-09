@@ -4,6 +4,36 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/videos/radacad-kpi-visual-in-power-bi-explained.md",
+      "title": "KPI Visual in Power BI Explained",
+      "excerpt": "If you are showing an important measure value in the report, and you want to compare it with a target and see if it meets the target or not, The KPI visual comes in handy. The KPI Visual’s behavior, however, might be a bit hard to understand, In this article and video, I explained how this visual works,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-kpi-visual-in-power-bi-explained/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-kpi-visual-in-power-bi-explained/",
+      "originalUrl": "https://youtube.com/watch?v=QEIcz9hNVOw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QEIcz9hNVOw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M27S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-11-08T12:17:49-08:00",
+      "heat": 64,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QEIcz9hNVOw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-month-over-month-calculation-in-power-bi-using-dax.md",
       "title": "Month over Month Calculation in Power BI using DAX",
       "excerpt": "When working with dates, one of the common types of analysis is period vs period, such as Year over year, and Month over month. In this article and video, I'll explain how you can use DAX to write calculations for month-over-month simply in any Power BI report. download the Power BI file and find the",
@@ -962,8 +992,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1491,
-            "average": 4.726358
+            "count": 1492,
+            "average": 4.7265415
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1825,8 +1855,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2219,
-            "average": 4.721496
+            "count": 2220,
+            "average": 4.7216215
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1867,8 +1897,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5032,
-            "average": 4.7241654
+            "count": 5035,
+            "average": 4.724131
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2884,8 +2914,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 5032,
-        "average": 4.7241654
+        "count": 5035,
+        "average": 4.724131
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2926,8 +2956,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 5358,
-        "average": 4.72919
+        "count": 5359,
+        "average": 4.7292404
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3140,44 +3170,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/2f7dYB1l84g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-heres-a-bananas-report-design-idea.md",
-      "title": "Here's a BANANAS report design idea!",
-      "excerpt": "There are many things you can do in a Power BI report that aren't super complex. Here are a few ideas to get you thinking! If Adam can do this, you definitely can! Shout out to Chris Hamill for this design!  Chris Hamill: https://twitter.com/ChrisHamill17  Info Panel Video: https://www.youtube.com/watch?v=yYr_SlG8bpw",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-heres-a-bananas-report-design-idea/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-heres-a-bananas-report-design-idea/",
-      "originalUrl": "https://youtube.com/watch?v=ffIgsMS3-8c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ffIgsMS3-8c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M42S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-08-04T08:00:35-07:00",
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ffIgsMS3-8c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
