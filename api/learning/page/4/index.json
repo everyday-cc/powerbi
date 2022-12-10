@@ -1102,8 +1102,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 5371,
-        "average": 4.7289147
+        "count": 5372,
+        "average": 4.728965
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1144,8 +1144,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 14195,
-        "average": 4.7206764
+        "count": 14196,
+        "average": 4.720696
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2424,7 +2424,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 131,
+          "heat": 51,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
