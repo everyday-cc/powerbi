@@ -347,8 +347,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 7315,
-        "average": 4.773889
+        "count": 7317,
+        "average": 4.773951
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -960,8 +960,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8720,
-            "average": 4.7471333
+            "count": 8722,
+            "average": 4.747191
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1472,8 +1472,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 8720,
-        "average": 4.7471333
+        "count": 8722,
+        "average": 4.747191
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1884,8 +1884,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5041,
-            "average": 4.7244596
+            "count": 5042,
+            "average": 4.7243156
           },
           "provider": {
             "name": "Microsoft Learn",
