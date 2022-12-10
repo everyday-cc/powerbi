@@ -976,8 +976,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 8339,
-        "average": 4.76448
+        "count": 8340,
+        "average": 4.7645082
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1520,8 +1520,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 5560,
-            "average": 4.728777
+            "count": 5561,
+            "average": 4.728646
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1622,8 +1622,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 5042,
-        "average": 4.7243156
+        "count": 5043,
+        "average": 4.7243705
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1706,8 +1706,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 5560,
-        "average": 4.728777
+        "count": 5561,
+        "average": 4.728646
       },
       "provider": {
         "name": "Microsoft Learn",
