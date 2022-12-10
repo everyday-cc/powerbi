@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-26-whats-new-in-the-september-release-of-power-bi-report-server.md",
+      "title": "What’s New in the September Release of Power BI Report Server",
+      "excerpt": "New September Release Power BI Report Server 2022",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-26-whats-new-in-the-september-release-of-power-bi-report-server/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-the-september-release-of-power-bi-report-server/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-the-september-release-of-power-bi-report-server/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T03:45:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-on-premises-data-gateway-september-release.md",
       "title": "On-premises data gateway September release",
       "excerpt": "Here&#8217;s our September release of the on-premises data gateway! As always, stay up to date for the latest functionality.",
@@ -1204,57 +1255,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-08-02T02:03:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-on-premises-data-gateway-july-2022-update-is-now-available.md",
-      "title": "On-premises data gateway July 2022 update is now available",
-      "excerpt": "On-premises data gateway July 2022 update",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-01-on-premises-data-gateway-july-2022-update-is-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-july-2022-update-is-now-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-july-2022-update-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T04:03:31-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

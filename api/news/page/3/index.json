@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-01-on-premises-data-gateway-july-2022-update-is-now-available.md",
+      "title": "On-premises data gateway July 2022 update is now available",
+      "excerpt": "On-premises data gateway July 2022 update",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-01-on-premises-data-gateway-july-2022-update-is-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-july-2022-update-is-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-july-2022-update-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T04:03:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-power-bi-ideas-site-improvement-updates.md",
       "title": "Power BI Ideas site improvement updates",
       "excerpt": "Our Ideas site has been the main place for you to leave suggestions. the past year we have made improvements to the ideas site to keep the site secure, spam free and allow users to submit ideas through the Ideas portal.\r\n\r\nMany of you have since shared feedback and suggestions on how we can further improve",
@@ -1200,57 +1251,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-microsoft-finally-adds-power-bi-integrations-to-powerpoint-and-outlook.md",
-      "title": "Microsoft finally adds Power BI integrations to PowerPoint and Outlook",
-      "excerpt": "Microsoft has announced the addition of a Power BI add-in to PowerPoint and Outlook that will allow businesses to share live and easily manipulated data as part of office presentations. The company believes it will add an extra dimension to storytelling with data,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-25-microsoft-finally-adds-power-bi-integrations-to-powerpoint-and-outlook/index.json",
-      "webUrl": "https://www.itpro.co.uk/data-insights/business-intelligence-bi/367780/microsoft-adds-power-bi-to-outlook-powerpoint",
-      "originalUrl": "https://www.itpro.co.uk/data-insights/business-intelligence-bi/367780/microsoft-adds-power-bi-to-outlook-powerpoint",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1648465731/Presentation-GettyImages-1084171152.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
