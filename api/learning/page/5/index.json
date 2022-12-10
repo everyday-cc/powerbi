@@ -778,7 +778,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-data-modeling-social.png",
@@ -988,7 +988,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-data-modeling-social.png",
@@ -1180,8 +1180,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 8334,
-            "average": 4.764579
+            "count": 8335,
+            "average": 4.7644873
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1518,8 +1518,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 5370,
-        "average": 4.72905
+        "count": 5371,
+        "average": 4.7289147
       },
       "provider": {
         "name": "Microsoft Learn",
