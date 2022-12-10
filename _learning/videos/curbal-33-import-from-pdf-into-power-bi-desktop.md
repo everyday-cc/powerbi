@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M49S
 publishedDateTime: 2018-01-22T09:12:27Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z15dF-jDXIo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "/ZeMAO3Xc6/ro89Fz7KqN6AyNNBZdrvLEAsd4n2apy0RLYz7jZ/8dPOwScCG9nMwjYFRxpVA/8QPnRNRkwY8N6e1f7PQ1Jb0+W8pKrA7YBDxx8Jc5G5HB1pJAOS1oZA8dvw9o3zQ8pSplC9hLmcCZ0PZ7btlAX9As480H0zRzC81QAThiT0KXuZwAI8Lzr1aZZOYU9Gz7mr6D1RV85YA8EaFSSqAqdWC1xsa79K9JfiPvl7FnHXfRaJDV3gFK79DrbjkPLMpuJDaC7qJrHB+P4h+R5bm8Yo4pFM4ZzstUPM7pTt5medxb4lV+mydTWNYgHMR13oggVsvyIEXhFCRmU+EhH4f4nj8AG1jzWg2+Tb91IpE8pdBJ1QyYSSaV41GZT3wvnVqlA7Mm7ayZ52kJxKxi45kFRYABCdkGasiq5Q=;hkVCmvhOPmV+2isXCtJfPA=="
+secured: "2Cezhna+EC+w83Ao1BstuGMEYQ/LC3bzId4aqroUmBh5pZTgQRd+ZBfDmG3oZB1ftvu5S2CV3JpV2rdLYRwqc2xNTtAcbdRXuGK9xluPoAN2QtK+kcOwxP31PrQ6rSSanwCjVvso4XAFtJeL9fu1vboy+ZGj4PUnCo6pq93Ik16MLuFYz5aS8URPO2ezVzxkK7jdh537tBTcD/ADHQp8yQrEvBs4lRtprADQjLKPqLWg/r/ATh30QKN1aWaorLjRpbp86f3y7TFB4iBAquNnS1QNlN41/CLuI2j2Iq3SlSE5lDeRRByvxOpYgA226Ccw7iOfRG6VXZrPYpyJ3JvqcNISYfZwFZXkqwraOWBfHL8blGVDBMY510yI9GO0EOixI8NL4TxAEXAH09wvEn8TXS3GgRQeyNhhWzXgE27zXas=;tCBewZqPYDjjTRBelzJNSg=="
 ---
 
