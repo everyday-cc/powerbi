@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-12-13-power-bi-december-2022-feature-summary.md",
+      "title": "Power BI December 2022 Feature Summary",
+      "excerpt": "Welcome to the December 2022 update! This month, we’ve added a variety of new DAX functions, updated slicer type formatting, and brought Metrics to the Windows app. There is more to explore, so please read on!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-12-13-power-bi-december-2022-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-december-2022-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-december-2022-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-13T02:03:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-12-10-power-bi-update-december-2022.md",
       "title": "Power BI Update - December 2022",
       "excerpt": "Welcome to the December 2022 update. This month, we’ve added a variety of new DAX functions, updated slicer type formatting, brought Metrics to the Windows app, and more!  Intro -- 00:00  Reporting                Slicer type formatting moved to Format Pane -- 00:12  Modeling                Making it",
@@ -1212,57 +1263,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-connect-servicenow-to-power-bi-integration-setup-guide.md",
-      "title": "Connect ServiceNow to Power BI: Integration Setup Guide",
-      "excerpt": "In this article, we'll tell you how to connect ServiceNow to Power BI, to leverage the power of Microsoft's leading analytics tool. We'll first cover how ServiceNow Power BI integration can benefit your business then go through some easy ways to integrate the tools.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-30-connect-servicenow-to-power-bi-integration-setup-guide/index.json",
-      "webUrl": "https://www.entrepreneur.com/ka/business-news/connect-servicenow-to-power-bi-integration-setup-guide/436370",
-      "originalUrl": "https://www.entrepreneur.com/ka/business-news/connect-servicenow-to-power-bi-integration-setup-guide/436370",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1664538546-image-safe-zone-check.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T04:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
