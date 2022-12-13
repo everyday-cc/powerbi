@@ -129,8 +129,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1497,
-        "average": 4.726787
+        "count": 1500,
+        "average": 4.7266665
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -172,8 +172,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1279,
-        "average": 4.726349
+        "count": 1280,
+        "average": 4.7257814
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -215,8 +215,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 470,
-        "average": 4.7212768
+        "count": 471,
+        "average": 4.7218685
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -335,8 +335,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
       "length": "PT29M",
       "ratings": {
-        "count": 246,
-        "average": 4.764228
+        "count": 247,
+        "average": 4.765182
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -503,8 +503,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
       "length": "PT21M",
       "ratings": {
-        "count": 1271,
-        "average": 4.773407
+        "count": 1272,
+        "average": 4.773585
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -545,8 +545,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-ui/",
       "length": "PT32M",
       "ratings": {
-        "count": 447,
-        "average": 4.803132
+        "count": 448,
+        "average": 4.801339
       },
       "provider": {
         "name": "Microsoft Learn",
