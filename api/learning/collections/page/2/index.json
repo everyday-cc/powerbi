@@ -1243,8 +1243,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 5585,
-            "average": 4.7289166
+            "count": 5587,
+            "average": 4.729014
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1285,8 +1285,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 5085,
-            "average": 4.7321534
+            "count": 5086,
+            "average": 4.732206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2586,7 +2586,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
@@ -2795,7 +2795,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
@@ -3280,8 +3280,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 748,
-            "average": 4.78877
+            "count": 749,
+            "average": 4.787717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3490,8 +3490,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 748,
-            "average": 4.78877
+            "count": 749,
+            "average": 4.787717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5181,8 +5181,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1346,
-            "average": 4.730312
+            "count": 1347,
+            "average": 4.730512
           },
           "provider": {
             "name": "Microsoft Learn",
