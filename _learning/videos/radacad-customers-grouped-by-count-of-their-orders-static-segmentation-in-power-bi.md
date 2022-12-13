@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT11M33S
 publishedDateTime: 2020-02-24T06:10:22Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0KBR-aEVaxk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Z2FzoPDfRcusqKYe0NDj0SSS6XOZDLRxcmJNuglKFj1nW82hgxSBuw8HcvLu260taZ3mqhH6zV833eJ7cScZz6zJcSIavRlWi9AovvZWJnD+ZO/JdqN+OdmuYFDYNTH3Hwz3yBl7Y21PXIplLQmyOVJdfFCveAdR1dvrSaUXqOPx2PicsPEyA59Y08sE4m8uTyz6CujqCUvBqydtYBwuk663SEslrdcN2gOj/0yqvOTFFwRSPZJdDJ4Ta977FkH3TkVH1Sq4eP6HyH3vn4ay8XM5lJ8MRdCc5P3qfMc4HUp7rgxb2m56sldhdvPzWObqq+E9xEVpRB0huOfGRO2mECKmhaoGd1H/NUnDCKWiXQYzE/dM2aFky7zXOS2Q9vsMsjYPLNmc7R1fLpS8tCmcBGJDgDvcjKCcCiRsGklAllQ=;W47zAOzXQOsfOUZbG9nk3A=="
+secured: "Dji2RQ2/Yt8vkXpU1Q5DcP31tJW6Z82K15WnWbTwMJCSctNovze7i9L11+hIRy67BxLZ61U9at19Bi26T9PwdqpAEm21WphVA+4NvGC6wrQvOOz9dDih3zIMSbiNM0JfOqAII6E2SKV76AEJfJ5r5KDSxeNqfKHA9tPt+8XbNU7e1+6BqwJENY5sKsX98wWExrcGzgjMXfvozlGIVjLoGqyIyDt7hYca+xTvWqWOqwmmCnSSK6inM9gGeet+Ezq7ZjQzAMDJlyPifyWJwYCy5la6fItpdywQV7NJFmCUDz79YxF15hg6SNN2BuzPuamtSyRr8EOZYKVFEkH1GivEOoHHPBggjJr1zd0FVaP6NzrWgqkK0b20z/rvkW8ok/R5QSO82f60H7dLW4XNEbZzfhCnt5bC5IwV+KAVaPr4CNY=;ws0jaAMc7QDuqZJ80ATRdQ=="
 ---
 
