@@ -899,8 +899,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 5589,
-            "average": 4.7291107
+            "count": 5590,
+            "average": 4.7291594
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3433,8 +3433,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 506,
-            "average": 4.7885375
+            "count": 507,
+            "average": 4.7889547
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3643,8 +3643,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 506,
-            "average": 4.7885375
+            "count": 507,
+            "average": 4.7889547
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5335,8 +5335,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visualize-real-time-data-azure-stream-analytics-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 6,
-            "average": 4.8333335
+            "count": 7,
+            "average": 4.857143
           },
           "provider": {
             "name": "Microsoft Learn",
