@@ -77,8 +77,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2116,
-            "average": 4.726843
+            "count": 2117,
+            "average": 4.7264996
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -269,8 +269,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 5415,
-        "average": 4.730563
+        "count": 5418,
+        "average": 4.730528
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1319,8 +1319,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 2749,
-            "average": 4.6438704
+            "count": 2750,
+            "average": 4.644
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1361,8 +1361,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 5330,
-            "average": 4.6868668
+            "count": 5332,
+            "average": 4.686984
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1823,8 +1823,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 2749,
-        "average": 4.6438704
+        "count": 2750,
+        "average": 4.644
       },
       "provider": {
         "name": "Microsoft Learn",
