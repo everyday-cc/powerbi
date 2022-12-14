@@ -4313,8 +4313,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1728,
-            "average": 4.711227
+            "count": 1729,
+            "average": 4.711394
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4355,8 +4355,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5012,
-            "average": 4.8006783
+            "count": 5013,
+            "average": 4.8007183
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4582,7 +4582,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png",
