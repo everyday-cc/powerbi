@@ -216,23 +216,70 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-development-best-practices.md",
-      "title": "Power BI Development Best Practices",
-      "excerpt": "Regardless of the job function, you have with Power BI (Developer, consultant, architect), following certain practices ensures a good quality solution. In this article and video, I explain some of those best practices, why they are helpful, and links to how to use them. These tips are related to the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-development-best-practices/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-development-best-practices/",
-      "originalUrl": "https://youtube.com/watch?v=jzjRWvigF9c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jzjRWvigF9c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT21M56S",
+      "path": "_learning/videos/guy-in-a-cube-add-a-measure-without-power-bi-desktop-premium.md",
+      "title": "Add a measure without Power BI Desktop (Premium)",
+      "excerpt": "Need to add a measure to your Power BI dataset? Can't download it back in Power BI Desktop? Patrick shows you how you can still add that measure even though you can't use Power BI Desktop!  Tabular Editor 2 https://github.com/TabularEditor/TabularEditor  Tabular Editor 3 https://tabulareditor.com/  📢",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-add-a-measure-without-power-bi-desktop-premium/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-add-a-measure-without-power-bi-desktop-premium/",
+      "originalUrl": "https://youtube.com/watch?v=amntImKVzic",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/amntImKVzic\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M33S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2022-10-25T20:04:33-07:00",
-      "heat": 133,
+      "publishedDateTime": "2022-11-09T08:00:03-08:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/jzjRWvigF9c/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/amntImKVzic/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-where-do-you-add-that-new-column-in-any-analytics-tool.md",
+      "title": "Where do you add that new column in any analytics tool?",
+      "excerpt": "You need to add a new column in Power BI - or any business analytics tool. Where do you add the column? Is there a cost to that? Matthew Roche explains his thoughts on his maxim that has everyone talking!  Connect with Matthew Roche Twitter: https://twitter.com/SQLAllFather LinkedIn: https://www.linkedin.com/in/matthewroche/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-where-do-you-add-that-new-column-in-any-analytics-tool/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-where-do-you-add-that-new-column-in-any-analytics-tool/",
+      "originalUrl": "https://youtube.com/watch?v=OAlys79j81Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OAlys79j81Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M36S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-10-05T08:00:23-07:00",
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OAlys79j81Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -246,15 +293,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-iterator-functions.md",
-      "title": "Use DAX iterator functions in Power BI Desktop models",
-      "excerpt": "By the end of this module, you'll learn about what the family of iterator functions can do and how to use them in your DAX calculations. Calculations will include custom summarizations, ranking, and concatenation.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-iterator-functions/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
-      "length": "PT12M",
+      "path": "_learning/courses/microsoft-learn-power-bi-tableau-optimize-performance.md",
+      "title": "Optimize Power BI performance for Tableau users",
+      "excerpt": "This module demonstrates how performance can determine a visual's usefulness.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-optimize-performance/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-optimize-performance/",
+      "length": "PT21M",
       "ratings": {
-        "count": 471,
-        "average": 4.7218685
+        "count": 10,
+        "average": 4.9
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -269,14 +316,14 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
-      "heat": 131,
+      "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/use-dax-iterator-functions-power-bi-desktop-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-optimize-performance-social.png",
+          "width": 1280,
+          "height": 641,
           "isCached": true
         }
       ],
@@ -284,48 +331,7 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-is-the-new-quick-measures-feature-any-good-lets-find-out.md",
-      "title": "Is the new Quick measures feature any good? Lets find out!",
-      "excerpt": "I tested the new Quick measures feature with the questions from #25daysofdaxfridays  Edition 1 and here I show you the results!  What do think about quick measures? Have you tested them?   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-is-the-new-quick-measures-feature-any-good-lets-find-out/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-is-the-new-quick-measures-feature-any-good-lets-find-out/",
-      "originalUrl": "https://youtube.com/watch?v=9TT2sn8V6xI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9TT2sn8V6xI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M45S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-10-25T03:12:11-07:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9TT2sn8V6xI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
@@ -397,8 +403,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 50198,
-            "average": 4.7987766
+            "count": 50206,
+            "average": 4.798789
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -439,8 +445,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 72514,
-            "average": 4.7786083
+            "count": 72529,
+            "average": 4.778654
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -499,8 +505,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 72514,
-        "average": 4.7786083
+        "count": 72529,
+        "average": 4.778654
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -807,8 +813,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 50198,
-        "average": 4.7987766
+        "count": 50206,
+        "average": 4.798789
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1109,8 +1115,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 21177,
-        "average": 4.7224817
+        "count": 21179,
+        "average": 4.722508
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1251,8 +1257,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 72514,
-            "average": 4.7786083
+            "count": 72529,
+            "average": 4.778654
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1293,8 +1299,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 31321,
-            "average": 4.7265096
+            "count": 31323,
+            "average": 4.7265267
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1336,8 +1342,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14227,
-            "average": 4.720953
+            "count": 14228,
+            "average": 4.7209725
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1378,8 +1384,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6137,
-            "average": 4.762262
+            "count": 6138,
+            "average": 4.7623005
           },
           "provider": {
             "name": "Microsoft Learn",
