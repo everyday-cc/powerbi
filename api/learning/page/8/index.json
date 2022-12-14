@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 117,
-            "average": 4.8974357
+            "count": 118,
+            "average": 4.898305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1123,8 +1123,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1723,
-            "average": 4.7103887
+            "count": 1724,
+            "average": 4.710557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1165,8 +1165,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5008,
-            "average": 4.800519
+            "count": 5009,
+            "average": 4.800559
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1350,7 +1350,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-calculations-social.png",
@@ -2515,8 +2515,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 3846,
-        "average": 4.711128
+        "count": 3847,
+        "average": 4.7104235
       },
       "provider": {
         "name": "Microsoft Learn",
