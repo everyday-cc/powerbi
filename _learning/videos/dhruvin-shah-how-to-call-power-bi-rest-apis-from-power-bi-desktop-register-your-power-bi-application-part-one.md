@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M21S
 publishedDateTime: 2020-08-11T01:43:04Z
-heat: 54
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fjzmz0BNN_g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "KbiAaVFfUQOAtEVeNhvbyXQ3oDEUmfmurYHmewekM/fBd3tMxyodUra0oOBU4JV8INeLiOMuUSQ3BTZ07LKYEClvxY+Tldvy5cjjj9cc0nm5JXv2o8jInqXtqbzLe3taaCyF1f2glWUIoFOLq897mGUxq3Eyd5ICEFXD818wqDZs/ePpcoLgLtjQUThfD7t0AezR5GkmA0XUG8CytYk7C8k7s3N34eNHoTHy+kpzWUadsYbzSaEK2ZR4T2vS49xZXXrM/aCkW0rQOSgjKFru0BaqUznZjtb4cOFIxM5JG+8kDXkhsQjgv1xXO6NVUwx3NnV9ORldHI3G87thKtLbaF091SH74kr134s5atpEfRmRch+UfH5kjYHIT7akzcZHQRYI1IciTkKXYsteT9PmXHpsrKVeb7EogRnSgONu44U=;h8dDkwl1BUEcFzxuK73mzA=="
+secured: "ADXt/BomokBLak+BCTL52vfKBONe8c+FUcG6yQiOWW40367mCzZwlf0v3ZLLNwjLePVvMTn/tzr4kGqVI22IKnWclhHQN7r5o7Vkd/HEkQkZWNVVoPFXddeCJEJt9skt2Mr4Kdo2+VAeA9/MxzFQLkoLlogSETD+eb3A2g2StWoVndrN068/0hxthd0dSynN7BWSDcEfJ+gg4HPncycinynzWUsbq6eOu7b9ugYoROIVi+hFOMX6olhLTygDny3vi+Xe6GMbljI1H3lUGbXDgMuhER5KsYUcn1+ZdRGXbFCPzlC/0GR+dAxxugu8AFx8aNt4j68Ciac8++0JSS0wBsCozSgpC6SJ4IZ4viiS6yHVHEKgs3mOF69cgx91DNbwfO32mgylUfHs4LIw3sdnPT7N9JhmUTkSOdMB6PT3F1w=;UyEfgJ6jSfktBfMchl59pA=="
 ---
 

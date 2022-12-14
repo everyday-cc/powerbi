@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M36S
 publishedDateTime: 2021-10-18T08:38:57Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CWmqrEaSpsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "CbR6YnkGamLlXpux1LrmosRQdZPazyb6ssEbTmiF5gsLI7nLLCFMGfGqoBjP8CT/Zh80kbYyZU+/YvFnUuHL5coWxdWfUCzfGo4y5c2oZN+HJdgYUJO8BgsbIQlmSawnkFvt/FijWED9NemSqZaoGDefv5JA7rzt1sb+0ZvgJ6lxqSJhcBsWOULUNCYVl+d+daOildSmrZ+O88Xa+WEPhWZsdeATp0lHvo7sS4chGz8JYJOIyPJjOlUFee2BFpvdJsnMAZyXoFV20bD7qIsNZVnFmu+KxZ7XZQyaBPKnM9Lhot2fDE6VMS5kcQ2RydrdZovDzEN4pgxPQlKWuNVDu5pukq36oIauv0XUCUy8LsKCkiLttjOm2sce5bJhdVy17XxXQhV/cDHwele0iYi7v0MkYr7NRS2ejsv9DGpnhvw=;vPpOp9KgPoAAYuERO2PJiA=="
+secured: "rAHO2Zrq2ANBCW/GOlfOPsp6CI8PX9v3akzGgqFzAKZA0SUGYUu1O2ISRWw6pldnQpEiCOaPFRRhT5c7P6tkRH6b/ZZErqkKnVemOlKgVV9ybtw7fIn1iN1pfQgK3UAF/svYKc+PrqOUxNFZ6kmi83PCO+IS+VXGBvpARtjUU1D7X+OoqtoUpuIwejkz6VjOXu+lPz6A/P3sXweppkt7f8yTgfVtpW5XfbdixcoFZlwYvjkZU5XRtJs64zGlqvkuZU00p4iR8FADfN8imGgrZLABEeuxRw+k1IU5gI6hvdTOGhZHuGfRajfflB6d6rFPPRUlM4Oc0iCoKPm7veq/YtZyjPEkk9Pqc4eUoSF0mNtUTtEN8FwKjOx3aDNk6B5CEK2Ks/8D6vawcfAYI9jGzoRL3XLxn67qOuLmhX438jo=;GJBnUJ3zCsU15XMu1GhUqg=="
 ---
 
