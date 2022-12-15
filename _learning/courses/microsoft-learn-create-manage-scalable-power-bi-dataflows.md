@@ -8,7 +8,7 @@ length: PT1H12M
 ratings:
   count: 52
   average: 4.8846154
-heat: 50
+heat: 130
 
 provider:
   name: Microsoft Learn
@@ -31,6 +31,6 @@ images:
     height: 320
     isCached: true
 
-secured: "W53F4/cLnkqRtx5z6FHaNTRKoIf0CQmdI56nRYlw72PVohXWflso/XbVgYD0phgyCQRQ8EzuBiNDmmookTqWifiqGz5u6BykWVZCc+4MZ661yeWD6F0uRgwmCBfVnClFbRQPqlwY2EAb7wU5yJ3TdZ5ds0f7dX2nap2RYa6cwy2q2p8T4H78R/DcLp069EiYxKkK2dbBPpEq8CoAvMRGXMiwn9K1NO5jc+hlyiDJ7X0ZB0VX1vMm83O1YfT1/DUaRDfErVsEDPtdYc10Y+kIG8/ZZwN7QOYai5jRVVukzYc0M/3Ek7BGWfdHPpBWXzyOYvodyLRRX34UyUw6p6F8kptiYKaRl7KlNiIdnDOIITqRUWLYku4b2FqWD7ppZ+VOWE64BB/k4S8AVgE1utzC/eA3rX7v14KnKVhdIH7rGKg=;A5iAPG8lJEBy4VZK3A+KlA=="
+secured: "pjtSOsfZGwFhJ1n8BMZoFJurZNk4SvkXJ2d9XMBtaoDDRYto0fp7kBSei2IlP+nLT/9Akptfps6rHEEfyMH4r6QBtsWfVIW+mHVReunBL+lBkQv9zL6gZQFkBoI4QmDmBRFRh/+DRZS+fL+xDh6hRXSCy3hXtag4uZibdyVv+gsN9PAb7k1tGg7xrrx2oY9C+AlVeWY895GxJaDtzVmc6l+wvgKgFmDitc46l9s9JrpNx42R4uQm/VPaqDl3GnOC9USbLYGJ7Mr3Z4HhZeUUqJOXgnAgqNzcSsT4KWZ9Nd6kOedC6hyyhgG1UF/waX8YboFjmYZVLR7noBbvS0RP1IIMN/PEki2BQ0FHJRmj+XXymRyCrVQ07vS9EqeBrggxgXiUGJj0ierCrU9g380Sg08sWfVBdVkTI/dNJMPKRPY=;nTQEEUWhuPk9u5v+gszi3w=="
 ---
 
