@@ -759,8 +759,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 5341,
-            "average": 4.6873245
+            "count": 5342,
+            "average": 4.687196
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -903,8 +903,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 14245,
-        "average": 4.720955
+        "count": 14247,
+        "average": 4.7208533
       },
       "provider": {
         "name": "Microsoft Learn",

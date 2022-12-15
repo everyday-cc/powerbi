@@ -1070,8 +1070,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1732,
-            "average": 4.7118936
+            "count": 1733,
+            "average": 4.710906
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1172,8 +1172,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 5078,
-        "average": 4.7248917
+        "count": 5080,
+        "average": 4.725
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1214,8 +1214,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3133,
-        "average": 4.757421
+        "count": 3134,
+        "average": 4.7574983
       },
       "provider": {
         "name": "Microsoft Learn",
