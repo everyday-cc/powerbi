@@ -514,7 +514,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-environment-social.png",
@@ -1132,8 +1132,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/architect-analytics/",
       "length": "PT41M",
       "ratings": {
-        "count": 81,
-        "average": 4.716049
+        "count": 82,
+        "average": 4.719512
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1174,8 +1174,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 511,
-        "average": 4.7906065
+        "count": 512,
+        "average": 4.7910156
       },
       "provider": {
         "name": "Microsoft Learn",
