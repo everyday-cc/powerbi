@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-02-18-dark-mode-goals-for-free-and-a-rant-power-bi-update-feb-2022.md",
+      "title": "Dark mode, Goals for free and a rant | Power BI Update Feb 2022",
+      "excerpt": "What is your favourite update this month?  1.New mobile formatting pane 2. New format pane on by default-but you still can disable it 3. Multirow selection on multicards   4.Dynamic M query parameters for SQL server (point to my video) https://www.youtube.com/watch?v=c1mezIySFf8  5. Power bi goals 6.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-02-18-dark-mode-goals-for-free-and-a-rant-power-bi-update-feb-2022/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2022-02-18-dark-mode-goals-for-free-and-a-rant-power-bi-update-feb-2022/",
+      "originalUrl": "https://youtube.com/watch?v=cXa3CUOTzdg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cXa3CUOTzdg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-18T04:38:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2022-02-17-power-bi-february-2022-feature-summary.md",
       "title": "Power BI February 2022 Feature Summary",
       "excerpt": "Welcome to the February 2022 update. We are thrilled to announce a variety of new and highly anticipated features such as new mobile formatting options, Dynamic M Query Parameters support for more data sources, deployment pipeline enhancements and improvements to downloading a PBIX file. ",
@@ -1200,57 +1252,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-21-how-to-visualise-security-and-threat-information-in-power-bi.md",
-      "title": "How to visualise security and threat information in Power BI",
-      "excerpt": "Want a custom security dashboard to bring together data from multiple places? Power BI can do that and help you spot what's changing.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-12-21-how-to-visualise-security-and-threat-information-in-power-bi/index.json",
-      "webUrl": "https://www.techrepublic.com/article/how-to-visualise-security-and-threat-information-in-power-bi/",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-visualise-security-and-threat-information-in-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/08/20/66143ef8-02db-46fa-bee4-e254ec41557c/resize/1200x/60fac5a546e96dec756353919df33891/gettyimages-peopleimages.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-to-visualise-security-and-threat-information-in-power-bi/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-to-visualise-security-and-threat-information-in-power-bi/",
-      "publishedDateTime": "2021-12-21T07:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

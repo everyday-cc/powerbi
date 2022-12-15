@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-02-adls-gen2-and-azure-blobs-sas-key-connectivity.md",
+      "title": "ADLS Gen2 and Azure Blobs SAS Key Connectivity",
+      "excerpt": "Azure Data Lake Storage Gen 2 and Azure Blobs connectors now support SAS Key connectivity!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-02-adls-gen2-and-azure-blobs-sas-key-connectivity/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/adls-gen2-and-azure-blobs-sas-key-connectivity/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/adls-gen2-and-azure-blobs-sas-key-connectivity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-analysis-services-server-properties-in-power-bi-premium-are-now-in-public-preview.md",
       "title": "Analysis Services server properties in Power BI Premium are now in public preview",
       "excerpt": "Join the public preview to enable additional settings for workspaces in Power BI",
@@ -1193,57 +1244,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-26T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-power-bi-report-server-may-2022-feature-summary.md",
-      "title": "Power BI Report Server May 2022 Feature Summary",
-      "excerpt": "We’re excited to bring you a new version of Power BI Report Server this Spring! With the May 2022 update, we have a variety of new enhancements, including Dynamic format strings support, multi row card selection, canvas zoom, updated slicer defaults and many more. Please continue to read on!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-25-power-bi-report-server-may-2022-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2022-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-may-2022-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T10:55:29-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

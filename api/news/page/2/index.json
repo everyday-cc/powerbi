@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-04-join-us-power-bi-dev-camp-thursday-october-6-2022-at-1100-am-pst-1200-pm-noon-pst.md",
+      "title": "Join Us! Power BI Dev Camp: Thursday, October 6, 2022 at 11:00 AM PST– 12:00 PM Noon PST",
+      "excerpt": "Campers should review and understand the concepts discussed in the August 2022 session before attending or watching this session.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-10-04-join-us-power-bi-dev-camp-thursday-october-6-2022-at-1100-am-pst-1200-pm-noon-pst/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-october-6-2022-at-1100-am-pst-1200-pm-noon-pst/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-october-6-2022-at-1100-am-pst-1200-pm-noon-pst/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T05:50:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-connect-servicenow-to-power-bi-integration-setup-guide.md",
       "title": "Connect ServiceNow to Power BI: Integration Setup Guide",
       "excerpt": "In this article, we'll tell you how to connect ServiceNow to Power BI, to leverage the power of Microsoft's leading analytics tool. We'll first cover how ServiceNow Power BI integration can benefit your business then go through some easy ways to integrate the tools.",
@@ -1204,57 +1255,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-08-05T04:58:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-adls-gen2-and-azure-blobs-sas-key-connectivity.md",
-      "title": "ADLS Gen2 and Azure Blobs SAS Key Connectivity",
-      "excerpt": "Azure Data Lake Storage Gen 2 and Azure Blobs connectors now support SAS Key connectivity!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-02-adls-gen2-and-azure-blobs-sas-key-connectivity/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/adls-gen2-and-azure-blobs-sas-key-connectivity/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/adls-gen2-and-azure-blobs-sas-key-connectivity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
