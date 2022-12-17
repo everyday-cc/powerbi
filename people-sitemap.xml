@@ -7,19 +7,13 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://everyday.cc/powerbi/people/avi-singh/</loc>
+    <lastmod>2022-12-12T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://everyday.cc/powerbi/people/arun-ulag/</loc>
-    <lastmod>2022-12-12T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/powerbi/people/mike-carlo/</loc>
-    <lastmod>2022-12-12T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/powerbi/people/adam-saxton/</loc>
     <lastmod>2022-12-12T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -37,7 +31,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/powerbi/people/avi-singh/</loc>
+    <loc>https://everyday.cc/powerbi/people/adam-saxton/</loc>
+    <lastmod>2022-12-12T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/powerbi/people/mike-carlo/</loc>
     <lastmod>2022-12-12T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
