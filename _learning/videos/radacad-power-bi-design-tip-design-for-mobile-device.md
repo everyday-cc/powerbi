@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT7M11S
 publishedDateTime: 2022-04-10T22:28:13Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Igkqp-UQzJo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "iXaPr8pBB4zDtN3C3H0TxW9vOwB7ot6Lxllr2wWkAICle3r3nsPV4I1YLaUzgXATsmMOqZFbpMcfkKNt+mWZLBuZF8Z0a8nCwNcM2M46k+YbbL6HGlf+q/Ojn8aBEi1warMKJqzBOx7qXJ3rpJZHFeNALRM59jMBzkGdmgbFgtIAFm8zJwZuZI2yG7I89WfYXyG0uSDbiwg9H+bh2N63aAA1nJdsr0KHFB70O/O2+fjMfy+e6/+hXJckaGS3lCHN8g59eD7IJhhFHTXTKO6X29Z0ZTUgylrALmRm4nuXODR3KYaP/g+ZtVTUUSlzlETDMBcuMtuLjtq9jv1hXyGYFfMf+EdCiMQuKyziRsb7wLgU3ENkWju1dTBzrrS5gEo5ZaoJqLGXdJm22rUsrsawqgvHqJxePKJsxyS1tNmdfEQ=;Y0AvB17bWEpPKg6XpgjehA=="
+secured: "/Nodi+fEik+0p5u1LIHuLYII2NWDMAmM2oc94i9GST9gDzRs8972oLbuHTMT+g6ixwjR9fj5zsX5gbkxnKYHcxwTK1bYOOWb4oGCfFM9cCbiJt8dyB4hmtUkBXw1PWkR5EcQWKCbForVDeaT8HC36sVWE32Tqo7dHLvGTHK9pCFmVn37EkSPp7OoTuQYGJCo9Hgb1cPQZfZ1tvfwkiJ3W+aztAAqYLD8t2uA2HYedgQVXY9dh2XQDUG+qwcfF3avPtNOBnomQlgM+XJILwwEgcdXegp/YtFg9eJiUaWleDIF8AbXpk1OHKlxWxE82Qg95qzdKHoppcO9iZTOWAjYY7Y6bKTNfeFxaScPw13NuDb6ZZKjGB9vpxcj3H3thzSC3ee/1MNq6JejjJPmOaTRAvbfDUEsR39NWDzYexNecoQ=;PZqvTGIF9srY+6AjpqyP1w=="
 ---
 
