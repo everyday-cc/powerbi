@@ -4,7 +4,7 @@ excerpt: "visualize, data visualization"
 type: collection
 price: Free
 length: PT3H31M
-heat: 57
+heat: 54
 
 provider:
   name: Microsoft Learn
