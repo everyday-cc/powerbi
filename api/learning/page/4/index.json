@@ -1016,7 +1016,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-content-social.png",
@@ -1374,8 +1374,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
           "length": "PT11M",
           "ratings": {
-            "count": 122,
-            "average": 4.696721
+            "count": 123,
+            "average": 4.699187
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2748,8 +2748,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 14292,
-        "average": 4.720613
+        "count": 14295,
+        "average": 4.7206717
       },
       "provider": {
         "name": "Microsoft Learn",
