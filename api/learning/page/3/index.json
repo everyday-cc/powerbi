@@ -603,8 +603,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 764,
-            "average": 4.787958
+            "count": 765,
+            "average": 4.788235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -645,8 +645,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 513,
-            "average": 4.791423
+            "count": 514,
+            "average": 4.7918286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -813,8 +813,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 764,
-            "average": 4.787958
+            "count": 765,
+            "average": 4.788235
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -855,8 +855,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 513,
-            "average": 4.791423
+            "count": 514,
+            "average": 4.7918286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3021,7 +3021,7 @@
             ]
           },
           "publishedDateTime": "2020-05-10T02:10:23-07:00",
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/b8oSgTOeYCE/maxresdefault.jpg",
@@ -3344,7 +3344,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2020-01-19T00:11:37-08:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/1TcIX1mXnb4/maxresdefault.jpg",
@@ -3522,7 +3522,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2019-03-19T10:12:07-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Or0oYJO7s7Q/maxresdefault.jpg",
