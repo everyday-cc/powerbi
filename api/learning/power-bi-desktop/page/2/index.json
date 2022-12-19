@@ -728,8 +728,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1514,
-        "average": 4.725231
+        "count": 1515,
+        "average": 4.7254124
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -771,8 +771,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1288,
-        "average": 4.7251554
+        "count": 1289,
+        "average": 4.7253685
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -814,8 +814,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 104,
-        "average": 4.730769
+        "count": 105,
+        "average": 4.733333
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -902,8 +902,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 450,
-        "average": 4.637778
+        "count": 451,
+        "average": 4.638581
       },
       "provider": {
         "name": "Microsoft Learn",
