@@ -597,8 +597,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 5647,
-            "average": 4.7287054
+            "count": 5649,
+            "average": 4.7288017
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -639,8 +639,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 5119,
-            "average": 4.7329555
+            "count": 5121,
+            "average": 4.732865
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -699,8 +699,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 8828,
-        "average": 4.746715
+        "count": 8831,
+        "average": 4.746801
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -741,8 +741,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 9314,
-        "average": 4.6750054
+        "count": 9315,
+        "average": 4.674933
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -775,8 +775,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 5647,
-        "average": 4.7287054
+        "count": 5649,
+        "average": 4.7288017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -817,8 +817,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 6180,
-        "average": 4.7634306
+        "count": 6182,
+        "average": 4.763507
       },
       "provider": {
         "name": "Microsoft Learn",
