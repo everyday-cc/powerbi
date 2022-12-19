@@ -1852,7 +1852,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2710,8 +2710,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 14282,
-        "average": 4.7206273
+        "count": 14283,
+        "average": 4.7205067
       },
       "provider": {
         "name": "Microsoft Learn",
