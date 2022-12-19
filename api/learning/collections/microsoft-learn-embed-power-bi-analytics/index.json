@@ -155,7 +155,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 130,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-content-social.png",
@@ -179,8 +179,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-integrate/",
       "length": "PT28M",
       "ratings": {
-        "count": 22,
-        "average": 4.681818
+        "count": 23,
+        "average": 4.695652
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -221,8 +221,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-analytics/",
       "length": "PT33M",
       "ratings": {
-        "count": 19,
-        "average": 4.894737
+        "count": 20,
+        "average": 4.9
       },
       "provider": {
         "name": "Microsoft Learn",
