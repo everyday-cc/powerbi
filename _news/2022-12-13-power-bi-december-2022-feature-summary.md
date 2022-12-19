@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-december-2022-fe
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-december-2022-feature-summary/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

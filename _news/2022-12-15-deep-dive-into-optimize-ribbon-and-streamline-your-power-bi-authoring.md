@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/deep-dive-into-optimize-r
 webUrl: "https://powerbi.microsoft.com/en-us/blog/deep-dive-into-optimize-ribbon-and-streamline-your-power-bi-authoring/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:
