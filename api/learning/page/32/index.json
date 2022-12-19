@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 30,
-        "average": 4.9
+        "count": 31,
+        "average": 4.903226
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 53,
-        "average": 4.8867927
+        "count": 54,
+        "average": 4.8703704
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -350,8 +350,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 103,
-        "average": 4.728155
+        "count": 104,
+        "average": 4.730769
       },
       "provider": {
         "name": "Microsoft Learn",
