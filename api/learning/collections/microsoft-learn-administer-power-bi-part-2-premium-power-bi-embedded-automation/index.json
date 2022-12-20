@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-reach/",
       "length": "PT19M",
       "ratings": {
-        "count": 93,
-        "average": 4.7526884
+        "count": 94,
+        "average": 4.755319
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -113,7 +113,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 130,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-reach-social.png",
@@ -137,8 +137,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
       "length": "PT12M",
       "ratings": {
-        "count": 83,
-        "average": 4.7108436
+        "count": 84,
+        "average": 4.714286
       },
       "provider": {
         "name": "Microsoft Learn",
