@@ -4,1020 +4,23 @@
   "page": 69,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-is-a-parameter-filtered-in-power-bi-paginated-reports.md",
-      "title": "Is a parameter filtered in Power BI Paginated Reports???",
-      "excerpt": "How do you know if a parameter was filtered in your Power BI Paginated Reports? Was a slicer used in the Power BI report that is using the Paginated visual? Adam shows you a way you can find out!  Create and use the paginated report visual https://docs.microsoft.com/en-us/power-bi/visuals/paginated-report-visual",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-is-a-parameter-filtered-in-power-bi-paginated-reports/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-is-a-parameter-filtered-in-power-bi-paginated-reports/",
-      "originalUrl": "https://youtube.com/watch?v=YU1VjMEOw9Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YU1VjMEOw9Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M18S",
+      "path": "_learning/videos/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Course Intro - (1.1) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-power-bi-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide Power BI tutorials by using the demo data available for",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-course-intro-11-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=gNR5yNczQ-s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gNR5yNczQ-s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M41S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
       },
-      "publishedDateTime": "2022-02-03T05:52:12-08:00",
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/YU1VjMEOw9Y/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-is-it-a-known-issue-in-power-bi.md",
-      "title": "Is it a KNOWN ISSUE in Power BI?",
-      "excerpt": "Hitting issues with Power BI can be frustrating. Having to call support can be even more frustrating! What if there was a way to see if it was a known issue in Power BI???  Power BI Support page and awareness https://support.powerbi.com  Power BI Known Issues documentation https://aka.ms/powerbiknownissues",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-is-it-a-known-issue-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-is-it-a-known-issue-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=vTEaSRyVPxI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vTEaSRyVPxI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M53S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-07-14T08:00:37-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vTEaSRyVPxI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-is-your-power-bi-visualization-misleading.md",
-      "title": "Is your Power BI visualization misleading?",
-      "excerpt": "Your Power BI visualization should communicate accurate information. However, you may be misleading your audience. Take care in what you are putting on your reports.  Download Sample: https://guyinacu.be/misleadingvisualsample  📢 Become a member: https://guyinacu.be/membership   *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-is-your-power-bi-visualization-misleading/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-is-your-power-bi-visualization-misleading/",
-      "originalUrl": "https://youtube.com/watch?v=WdGSFwDDJAE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WdGSFwDDJAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M18S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-08-06T08:00:11-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WdGSFwDDJAE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-it-admin-takeover-revisited.md",
-      "title": "IT Admin Takeover - Revisited!",
-      "excerpt": "I take another look at how to take over a Shadow Tenant using the IT Admin Takeover process.  The UI has changed both from a Power BI and O365 side, so this is updated with the latest and greatest.  Understanding the Shadow Tenant https://youtu.be/y4Bu8QP2QhE?list=PLv2BtOtLblH3SXM6Q44DCjykqp9xPozNH ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-it-admin-takeover-revisited/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-it-admin-takeover-revisited/",
-      "originalUrl": "https://youtube.com/watch?v=Fj_5gQ-ECoQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Fj_5gQ-ECoQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M10S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-03-01T11:26:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Fj_5gQ-ECoQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-its-time-to-free-your-power-bi-data-model-we-freed-up-83.md",
-      "title": "It's time to free your Power BI data model! We freed up 83%!?!",
-      "excerpt": "We reduced a Power BI dataset size by 83% by doing one simple thing. It's time to get serious about your data model!  Download Sample: https://guyinacu.be/splitdatetimesample  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level?",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-its-time-to-free-your-power-bi-data-model-we-freed-up-83/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-its-time-to-free-your-power-bi-data-model-we-freed-up-83/",
-      "originalUrl": "https://youtube.com/watch?v=vrgeDfO8RXQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vrgeDfO8RXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M44S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-24T08:00:22-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vrgeDfO8RXQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-jdbc-this-driver-is-not-configured-for-integrated-authentication.md",
-      "title": "JDBC: This driver is not configured for integrated authentication",
-      "excerpt": "Using Kerberos Integrated Authentication to Connect to SQL Server http://msdn.microsoft.com/en-us/library/gg558122%28v=sql.110%29.aspx  System Requirements for the JDBC Driver http://msdn.microsoft.com/en-us/library/ms378422(v=sql.110).aspx  Configure Kerberos with Weblogic Server (really just a Java",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-jdbc-this-driver-is-not-configured-for-integrated-authentication/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-jdbc-this-driver-is-not-configured-for-integrated-authentication/",
-      "originalUrl": "https://youtube.com/watch?v=aW7CsYjt2aI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aW7CsYjt2aI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M33S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-01-09T07:31:25-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aW7CsYjt2aI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-join-myself-and-patrick-leblanc-at-pass-summit-2016.md",
-      "title": "Join myself and Patrick LeBlanc at PASS Summit 2016",
-      "excerpt": "Patrick LeBlanc and I will be delivering a full day pre-conference talk at the PASS Summit 2016 called Microsoft BI in a Day.   We would love for you to come and allow us to do a brain dump of what we know about the Microsoft Business Intelligence stack.  You can register at https://sqlpass.org.  LET'S",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-join-myself-and-patrick-leblanc-at-pass-summit-2016/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-join-myself-and-patrick-leblanc-at-pass-summit-2016/",
-      "originalUrl": "https://youtube.com/watch?v=gH7bjy9sjIs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gH7bjy9sjIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M24S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-09-28T06:22:18-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gH7bjy9sjIs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-keep-asking-questions.md",
-      "title": "Keep asking questions...",
-      "excerpt": "A comment was made in last week's live stream that struck a chord with us. We thought we would try to encourage you to keep exploring and learning and that we are all here together as a community.  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-keep-asking-questions/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-keep-asking-questions/",
-      "originalUrl": "https://youtube.com/watch?v=JOnrn9rY4iA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JOnrn9rY4iA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M52S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-06-09T08:00:05-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JOnrn9rY4iA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-languages-and-timelines-in-power-bi-and-previews.md",
-      "title": "Languages and timelines in Power BI and previews",
-      "excerpt": "Hurricane Harvey Donations:  American Red Cross https://www.redcross.org/donate/donation  Salvation Army https://give.salvationarmyusa.org/site/Donation2?df_id=27651&mfc_pref=T&27651.donation=form1  Humane Society http://www.humanesociety.org/news/resources/facts/harvey_help.html  Hurricane Harvey Relief",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-languages-and-timelines-in-power-bi-and-previews/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-languages-and-timelines-in-power-bi-and-previews/",
-      "originalUrl": "https://youtube.com/watch?v=zPQY7PI12cE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zPQY7PI12cE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M6S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-08-31T07:25:23-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zPQY7PI12cE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-lets-talk-about-power-bi-premium-adam-and-patrick-unplugged-ep4.md",
-      "title": "Let's talk about Power BI Premium - Adam and Patrick Unplugged [EP4]",
-      "excerpt": "In this episode of the Adam and Patrick Unplugged show, we talk about some travel updates, ragged hierarchies and a lot about Power BI Premium.  Travel Update - 0:39  Ragged hierarchies - 2:15  Power BI Premium - 8:12  Travel stories - 33:27  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com --",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-lets-talk-about-power-bi-premium-adam-and-patrick-unplugged-ep4/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-lets-talk-about-power-bi-premium-adam-and-patrick-unplugged-ep4/",
-      "originalUrl": "https://youtube.com/watch?v=-4nB_OXDcy4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-4nB_OXDcy4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M51S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-06-30T07:19:10-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-4nB_OXDcy4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-level-up-power-bi-conditional-drill-with-paginated-reports.md",
-      "title": "LEVEL UP Power BI Conditional Drill with Paginated reports!",
-      "excerpt": "Take Power BI Conditional Drill to the next level by incorporating Paginated reports with your strategy! Patrick shows a customer scenario that he solved using this approach.  Paginated reports doc: https://docs.microsoft.com/power-bi/paginated-reports/paginated-reports-report-builder-power-bi  Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-level-up-power-bi-conditional-drill-with-paginated-reports/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-level-up-power-bi-conditional-drill-with-paginated-reports/",
-      "originalUrl": "https://youtube.com/watch?v=43CwBmaym8Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/43CwBmaym8Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M28S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-14T08:00:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/43CwBmaym8Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-limit-map-points-in-power-bi-mobile-report-using-microsoft-flow.md",
-      "title": "Limit map points in Power BI Mobile report using Microsoft Flow",
-      "excerpt": "Do you see too many map locations in your Power BI Mobile report? Patrick shows you how to limit the points using Microsoft Flow.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube --",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-limit-map-points-in-power-bi-mobile-report-using-microsoft-flow/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-limit-map-points-in-power-bi-mobile-report-using-microsoft-flow/",
-      "originalUrl": "https://youtube.com/watch?v=XSmPZ5fcv-Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XSmPZ5fcv-Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M13S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-02T05:20:49-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XSmPZ5fcv-Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-link-from-a-power-bi-paginated-report-to-a-power-bi-report.md",
-      "title": "Link from a Power BI Paginated report to a Power BI report",
-      "excerpt": "Patrick looks at how you can add a link to your Power BI Paginated report and open a Power BI report while passing filters over to explore data.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube -- Snapchat - guyinacube --",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-link-from-a-power-bi-paginated-report-to-a-power-bi-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-link-from-a-power-bi-paginated-report-to-a-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=Nucth8mG2LA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nucth8mG2LA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M43S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-01-16T05:23:10-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Nucth8mG2LA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Link from a Power BI Paginated report to a Power BI report",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-looking-at-the-lineage-view-in-power-bi-october-2019.md",
-      "title": "Looking at the Lineage View in Power BI (October 2019)",
-      "excerpt": "Adam shows how to use the lineage view within Power BI. Quickly see what data sources are being used by your dashboards and reports.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-looking-at-the-lineage-view-in-power-bi-october-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-looking-at-the-lineage-view-in-power-bi-october-2019/",
-      "originalUrl": "https://youtube.com/watch?v=HnwZxBaqSJ8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HnwZxBaqSJ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M50S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-10-15T05:01:34-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HnwZxBaqSJ8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-looking-into-the-future-of-power-bi-2021.md",
-      "title": "Looking into the future of Power BI (2021)",
-      "excerpt": "The new release wave was published for Power BI! This is the roadmap for what is to come. Adam explores what it shows and what you can expect.  Microsoft Power Platform release plans https://aka.ms/pbiroadmap  Power BI release plan report by Alex Powers https://aka.ms/pbireleaseplan  📢 Become a member:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-looking-into-the-future-of-power-bi-2021/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-looking-into-the-future-of-power-bi-2021/",
-      "originalUrl": "https://youtube.com/watch?v=ymP0TvIKFKE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ymP0TvIKFKE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M27S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-07-22T08:00:25-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ymP0TvIKFKE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-loot-crate-june-2017-unboxing-alter-ego.md",
-      "title": "Loot Crate - June 2017 Unboxing (Alter Ego)",
-      "excerpt": "This month's Loot Crate theme was Alter Ego. It included Spider Man, Optimus Prime, the Hulk, Batman and Dr. Jeckle and Mr. Hyde.  Affiliate Link if you want to help support Guy in a Cube: http://bit.ly/2cNY20R  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-loot-crate-june-2017-unboxing-alter-ego/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-loot-crate-june-2017-unboxing-alter-ego/",
-      "originalUrl": "https://youtube.com/watch?v=SWSGMKg0a7g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SWSGMKg0a7g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M27S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-06-26T12:23:03-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SWSGMKg0a7g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-loot-crate-unboxing-build-february-2017.md",
-      "title": "Loot Crate Unboxing - Build - February 2017",
-      "excerpt": "In this video, I open up the Loot Crate box for February 2017 with the theme of BUILD.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube -- Snapchat - guyinacube -- https://www.instagram.com/guyinacube/  ***Gear*** Check out",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-loot-crate-unboxing-build-february-2017/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-loot-crate-unboxing-build-february-2017/",
-      "originalUrl": "https://youtube.com/watch?v=tQ20FBaiKUQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tQ20FBaiKUQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M9S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-02-27T09:35:44-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tQ20FBaiKUQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-loot-crate-unboxing-december-2016-revolution.md",
-      "title": "Loot Crate Unboxing - December 2016 (Revolution)",
-      "excerpt": "This month's LootCrate theme was Revolution. It included Mr. Robot, Assassin's Creed and Firefly.  Affiliate Link if you want to help support Guy in a Cube: http://bit.ly/2cNY20R  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-loot-crate-unboxing-december-2016-revolution/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-loot-crate-unboxing-december-2016-revolution/",
-      "originalUrl": "https://youtube.com/watch?v=Jhq_ODEWKAE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jhq_ODEWKAE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M21S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-12-26T09:26:56-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Jhq_ODEWKAE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-loot-crate-unboxing-investigate-april-2017.md",
-      "title": "Loot Crate Unboxing - Investigate - April 2017",
-      "excerpt": "This month's LootCrate theme was Investigate. It included Jessica Jones, Stranger Things, X Files and Batman.  Affiliate Link if you want to help support Guy in a Cube: http://bit.ly/2cNY20R  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-loot-crate-unboxing-investigate-april-2017/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-loot-crate-unboxing-investigate-april-2017/",
-      "originalUrl": "https://youtube.com/watch?v=M6QYGvnIXVA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M6QYGvnIXVA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M15S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-04-30T12:14:49-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/M6QYGvnIXVA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-loot-crate-unboxing-july-2017-animation.md",
-      "title": "Loot Crate Unboxing - July 2017 (Animation)",
-      "excerpt": "This month's Loot Crate theme was Animation. It included Bob's Burger, Rick & Morty, Futurama and Teenage Mutant Ninja Turtles  Affiliate Link if you want to help support Guy in a Cube: http://bit.ly/2cNY20R  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube --",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-loot-crate-unboxing-july-2017-animation/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-loot-crate-unboxing-july-2017-animation/",
-      "originalUrl": "https://youtube.com/watch?v=0oIqiRxkq6A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0oIqiRxkq6A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M35S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-07-26T05:09:56-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0oIqiRxkq6A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-loot-crate-unboxing-primal-march-2017.md",
-      "title": "Loot Crate Unboxing - Primal - March 2017",
-      "excerpt": "This month's LootCrate theme was Primal. It included Logan, Winston from Overwatch, Jurassic Park and Predator.  Affiliate Link if you want to help support Guy in a Cube: http://bit.ly/2cNY20R  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-loot-crate-unboxing-primal-march-2017/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-loot-crate-unboxing-primal-march-2017/",
-      "originalUrl": "https://youtube.com/watch?v=4-UYMENW0XI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4-UYMENW0XI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M53S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-03-27T09:18:23-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4-UYMENW0XI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-lootcrate-october-2016-horror.md",
-      "title": "LootCrate - October 2016 (Horror)",
-      "excerpt": "This month's LootCrate theme was Horror. It included Walking Dead, Friday the 13th, Nightmare on Elm Street, Texas Chainsaw Massacre and Halloween.  Affiliate Link if you want to help support Guy in a Cube: http://bit.ly/2cNY20R   LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-lootcrate-october-2016-horror/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-lootcrate-october-2016-horror/",
-      "originalUrl": "https://youtube.com/watch?v=DOtKbKLAE0U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DOtKbKLAE0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M36S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-10-30T11:07:30-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DOtKbKLAE0U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-lootcrate-unboxing-guardians-may-2017.md",
-      "title": "LootCrate Unboxing - Guardians - May 2017",
-      "excerpt": "The theme for this month's loot crate was Guardians. As expected, it had something from Guardians of the Galaxy Vol. 2 along with The Goonies, Star Wars, Destiny and Avatar, The Last Airbender.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-lootcrate-unboxing-guardians-may-2017/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-lootcrate-unboxing-guardians-may-2017/",
-      "originalUrl": "https://youtube.com/watch?v=U33raFvZWi8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/U33raFvZWi8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M31S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-05-31T05:06:56-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/U33raFvZWi8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-lootcrate-unboxing-november-2016-magic.md",
-      "title": "LootCrate Unboxing - November 2016 (Magic)",
-      "excerpt": "This month's LootCrate theme was Magic. It included Doctor Strange, Fantastic Beasts from the Harry Potter world, Game of Thrones and some other items.  Affiliate Link if you want to help support Guy in a Cube: http://bit.ly/2cNY20R  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-lootcrate-unboxing-november-2016-magic/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-lootcrate-unboxing-november-2016-magic/",
-      "originalUrl": "https://youtube.com/watch?v=B6p-ByHnyFE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B6p-ByHnyFE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M15S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-11-28T09:37:10-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B6p-ByHnyFE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-lootcrate-unboxing-speed-september-2016.md",
-      "title": "LootCrate Unboxing - SPEED - September 2016",
-      "excerpt": "I open my first LootCrate! This month's theme is SPEED and was previewed as having items from Arrow, Flash, Batman, Gone in 60 Seconds and Battlestar Galactica.  Affiliate Link if you want to help support Guy in a Cube: http://bit.ly/2cNY20R  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com --",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-lootcrate-unboxing-speed-september-2016/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-lootcrate-unboxing-speed-september-2016/",
-      "originalUrl": "https://youtube.com/watch?v=GqQAVjqXtA8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GqQAVjqXtA8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M33S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-09-25T14:02:25-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GqQAVjqXtA8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-lots-of-power-bi-updates-and-business-application-summit-july-30-2018.md",
-      "title": "Lots of Power BI updates and Business Application summit (July 30, 2018)",
-      "excerpt": "Business Application Summit Sessions on-demand https://www.microsoft.com/en-us/businessapplicationssummit/sessionsondemand  Power BI and the Future for Modern and Enterprise BI https://www.microsoft.com/en-us/businessapplicationssummit/video/BAS2018-204  Public Preview of Multi-Geo for Power BI Premium",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-lots-of-power-bi-updates-and-business-application-summit-july-30-2018/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-lots-of-power-bi-updates-and-business-application-summit-july-30-2018/",
-      "originalUrl": "https://youtube.com/watch?v=nRsVd8_53bM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nRsVd8_53bM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M45S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-07-30T07:02:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nRsVd8_53bM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-lots-of-power-bi-updates-and-some-dax.md",
-      "title": "Lots of Power BI updates and some DAX",
-      "excerpt": "Use Multiple Connections Between Tables (@PowerBITips) https://powerbi.tips/2017/07/use-multiple-connections-between-tables/  The ALL() Function in DAX (@ExceleratorBI) https://exceleratorbi.com.au/the-all-function-in-dax/  Responsive visualizations coming to Power BI https://powerbi.microsoft.com/en-us/blog/responsive-visualizations-coming-to-power-bi/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-lots-of-power-bi-updates-and-some-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-lots-of-power-bi-updates-and-some-dax/",
-      "originalUrl": "https://youtube.com/watch?v=86X46lJTa7s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/86X46lJTa7s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M7S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-07-06T09:46:55-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/86X46lJTa7s/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gNR5yNczQ-s/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1032,31 +35,23 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-lots-of-updates-for-power-bi-plus-a-power-query-editor.md",
-      "title": "Lots of updates for Power BI plus a Power Query Editor?",
-      "excerpt": "Two Great New Power BI Features (@ExceleratorBI) https://powerpivotpro.com/2017/03/two-great-new-power-bi-features/  Get your own Power Query Editor using Notepad++ (@SchreiberLars) http://ssbi-blog.de/technical-topics-english/power-query-editor-using-notepad/  Power BI Gateways–March Update https://powerbi.microsoft.com/en-us/blog/power-bi-gateways-march-update/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-lots-of-updates-for-power-bi-plus-a-power-query-editor/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-lots-of-updates-for-power-bi-plus-a-power-query-editor/",
-      "originalUrl": "https://youtube.com/watch?v=JcUUcCU-YV0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JcUUcCU-YV0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M16S",
+      "path": "_learning/videos/enterprise-dna-enterprise-dna-membership-122-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "Enterprise DNA Membership - (1.22) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Learn about advanced DAX functions, supporting tables, and customer segmentation.  ***** Learning Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-enterprise-dna-membership-122-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-enterprise-dna-membership-122-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=ghTnqXBFa4Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ghTnqXBFa4Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M1S",
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
       },
-      "publishedDateTime": "2017-03-16T06:31:29-07:00",
+      "publishedDateTime": "2020-09-17T23:02:31-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/JcUUcCU-YV0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ghTnqXBFa4Y/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1067,18 +62,762 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power Query"
+        "DAX"
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-m-intellisense-bookmarks-and-more.md",
-      "title": "M Intellisense, Bookmarks and more",
-      "excerpt": "The Man, The Myth, The On-Prem Server Guy… (@PowerPivotPro) https://powerpivotpro.com/2017/10/interview-chris-finlan-power-bi-report-server/  M QUERY EXTENSION FOR VISUAL STUDIO CODE (@BrettPowell76) https://insightsquest.com/2017/10/05/m-query-extension-for-visual-studio-code/  Walk Through Of Many",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-m-intellisense-bookmarks-and-more/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-m-intellisense-bookmarks-and-more/",
-      "originalUrl": "https://youtube.com/watch?v=4KPSzkLjNNE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4KPSzkLjNNE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M25S",
+      "path": "_learning/videos/enterprise-dna-evaluation-context-18-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Evaluation Context - (1.8) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "Learn the importance of evaluation context and follow along to the Beginners' Guide to DAX tutorials by using the demo data available for download. Enjoy!  ***** Video Details ***** 1:10 calculating total quantity sold 2:31 defining filter propagation  3:17 writing advanced DAX formula  ***** Learning",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-evaluation-context-18-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-evaluation-context-18-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=bfJh_qMz7e4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bfJh_qMz7e4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M22S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bfJh_qMz7e4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-examples-of-advanced-dax-118-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Examples Of Advanced DAX - (1.18) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-examples-of-advanced-dax-118-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-examples-of-advanced-dax-118-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=IyrNH7aD_qk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IyrNH7aD_qk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M30S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IyrNH7aD_qk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-explaining-row-context-110-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Explaining Row Context - (1.10) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "Learn the difference between row context and filter context. You can follow along to the beginners guide DAX tutorials by using the demo data available for download. Enjoy!  ***** Video Details ***** 2:00 - using an iterating formula  3:02 - calculating using row context 4:40 - using row context for",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-explaining-row-context-110-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-explaining-row-context-110-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=A0sBJxCoXx8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A0sBJxCoXx8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M15S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/A0sBJxCoXx8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-filter-context-19-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Filter Context - (1.9) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "Follow along to the beginners guide DAX tutorials by using the demo data available for download. Enjoy!  ***** Video Details ***** 1:15 understanding filter context  2:41 using aggregation  3:31 associating filter context with aggregation  ***** Learning Power BI? ***** FREE COURSE - Ultimate Beginners",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-filter-context-19-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-filter-context-19-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=v7IbV_XVKXI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v7IbV_XVKXI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M28S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v7IbV_XVKXI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-formula-context-considerations-111-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Formula Context Considerations - (1.11) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-formula-context-considerations-111-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-formula-context-considerations-111-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=qiLwt3Pmxv8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qiLwt3Pmxv8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M51S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qiLwt3Pmxv8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-formula-syntax-comments-variables-16-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Formula Syntax, Comments & Variables - (1.6) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-formula-syntax-comments-variables-16-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-formula-syntax-comments-variables-16-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=6V7xgLn1Eak",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6V7xgLn1Eak\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M17S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6V7xgLn1Eak/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-formula-syntax-comments-variables-17-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "Formula Syntax, Comments, Variables - (1.7) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-formula-syntax-comments-variables-17-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-formula-syntax-comments-variables-17-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=c4We3Ine47Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c4We3Ine47Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M59S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-01T03:06:33-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/c4We3Ine47Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-how-the-data-model-and-dax-work-together-19-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "How The Data Model And DAX Work Together - (1.9) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-how-the-data-model-and-dax-work-together-19-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-how-the-data-model-and-dax-work-together-19-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=DtcsX7WuITY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DtcsX7WuITY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M5S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-01T03:23:09-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DtcsX7WuITY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-how-the-data-model-dax-work-together-17-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "How The Data Model & DAX Work Together - (1.7) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-how-the-data-model-dax-work-together-17-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-how-the-data-model-dax-work-together-17-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=Qy1FiR2Eby8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Qy1FiR2Eby8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M22S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Qy1FiR2Eby8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-how-to-combine-patterns-of-dax-formula-118-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "How To Combine Patterns Of DAX Formula -  (1.18) Ultimate Beginners Guide To DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-how-to-combine-patterns-of-dax-formula-118-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-how-to-combine-patterns-of-dax-formula-118-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=XhUcOUvVPVI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XhUcOUvVPVI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M10S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-06T19:44:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XhUcOUvVPVI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-how-to-combine-patterns-of-dax-formulas-116-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "How To Combine Patterns Of DAX Formulas - (1.16) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-how-to-combine-patterns-of-dax-formulas-116-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-how-to-combine-patterns-of-dax-formulas-116-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=kPFNKGuGejQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kPFNKGuGejQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M38S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kPFNKGuGejQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-measures-vs-calculated-columns-15-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "Measures vs Calculated Columns - (1.5) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-measures-vs-calculated-columns-15-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-measures-vs-calculated-columns-15-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=5vOEktgYWM0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5vOEktgYWM0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M1S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-01T02:36:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5vOEktgYWM0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-review-of-the-data-scenario-13-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Review Of The Data Scenario - (1.3) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-review-of-the-data-scenario-13-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-review-of-the-data-scenario-13-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=WGfE_KoJ4_o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WGfE_KoJ4_o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M30S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WGfE_KoJ4_o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-row-context-112-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "Row Context - (1.12) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-row-context-112-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-row-context-112-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=y0PsWUg1oJA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y0PsWUg1oJA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M37S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-01T03:38:04-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/y0PsWUg1oJA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020.md",
+      "title": "Setting Up Your Power BI Model - (1.4) Ultimate Beginner Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-setting-up-your-power-bi-model-14-ultimate-beginner-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=vEB0aS8n9I8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vEB0aS8n9I8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M52S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-01T02:09:58-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vEB0aS8n9I8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-simple-aggregations-15-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Simple Aggregations - (1.5) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-simple-aggregations-15-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-simple-aggregations-15-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=OA8WrkTIjXE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OA8WrkTIjXE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M4S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OA8WrkTIjXE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-simple-aggregations-16-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "Simple Aggregations - (1.6) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-simple-aggregations-16-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-simple-aggregations-16-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=0cNzKuXBebM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0cNzKuXBebM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M45S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-01T02:49:30-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0cNzKuXBebM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-simple-filters-wcalculate-113-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Simple Filters w/CALCULATE - (1.13) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-simple-filters-wcalculate-113-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-simple-filters-wcalculate-113-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=awpvBSiJhAg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/awpvBSiJhAg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M44S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/awpvBSiJhAg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-understanding-the-calculate-function-112-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Understanding The CALCULATE Function - (1.12) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-understanding-the-calculate-function-112-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-understanding-the-calculate-function-112-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=x29vx0Zj_7M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x29vx0Zj_7M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M9S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/x29vx0Zj_7M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-using-quick-measures-119-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "Using Quick Measures - (1.19) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-using-quick-measures-119-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-using-quick-measures-119-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=dbiy9iDYdAg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dbiy9iDYdAg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M34S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-05-01T04:02:34-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dbiy9iDYdAg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-using-quick-measures-in-power-bi-117-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "Using Quick Measures In Power BI - (1.17) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-using-quick-measures-in-power-bi-117-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-using-quick-measures-in-power-bi-117-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=M6iQ82K9NY0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M6iQ82K9NY0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M23S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M6iQ82K9NY0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-what-are-table-functions-in-dax-114-ultimate-beginners-guide-to-dax-2019.md",
+      "title": "What Are Table Functions In DAX - (1.14) Ultimate Beginners Guide to DAX 2019",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-what-are-table-functions-in-dax-114-ultimate-beginners-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-what-are-table-functions-in-dax-114-ultimate-beginners-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=aeycw4IW02E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aeycw4IW02E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M41S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aeycw4IW02E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginner-guide-to-dax-2019.md",
+      "title": "What Is DAX? & Why Do You Need To Learn It - (1.2) Ultimate Beginner Guide to DAX 2019",
+      "excerpt": "DOWNLOAD RESOURCES HERE - https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Follow along to the beginners guide DAX tutorials by using the demo data available for download.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginner-guide-to-dax-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-what-is-dax-why-do-you-need-to-learn-it-12-ultimate-beginner-guide-to-dax-2019/",
+      "originalUrl": "https://youtube.com/watch?v=fZasNZKfqnI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fZasNZKfqnI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M32S",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2018-03-05T19:22:17-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fZasNZKfqnI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020.md",
+      "title": "Where To Next - (1.21) Ultimate Beginners Guide to DAX 2020",
+      "excerpt": "DOWNLOAD RESOURCES HERE https://enterprisedna.co/ultimate-beginners-guide-to-dax-resource-downloads/ START FROM THE BEGINNING - https://www.youtube.com/playlist?list=PL1myWUzvmmDGmLfty3BDluz8nzme1dZxg  Learn about advanced DAX functions, supporting tables, and customer segmentation.  ***** Video Details",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/enterprise-dna-where-to-next-121-ultimate-beginners-guide-to-dax-2020/",
+      "originalUrl": "https://youtube.com/watch?v=n5ymKk9Rl6I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n5ymKk9Rl6I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M",
+      "provider": {
+        "name": "Enterprise DNA",
+        "domain": "enterprisedna.co"
+      },
+      "publishedDateTime": "2020-09-17T23:00:53-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/n5ymKk9Rl6I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-100th-power-bi-qa-live-stream-august-20-2022-member-chat-2nd-half.md",
+      "title": "🔴 100th Power BI Q&A Live Stream!!! (August 20, 2022) (Member Chat 2nd Half)",
+      "excerpt": "Join us live as we answer your questions about Power BI!  💥 30 minutes: Open Q&A (Public) 💥 Then... Members Only Chat (Public can watch & Super Chat for Questions)  📢 RULES FOR Q&A: 📢  👉 Put a \"Q:\" in front of your comment to help us identify questions! 👉 Super chats take priority 👉 Do NOT re-post",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-100th-power-bi-qa-live-stream-august-20-2022-member-chat-2nd-half/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-100th-power-bi-qa-live-stream-august-20-2022-member-chat-2nd-half/",
+      "originalUrl": "https://youtube.com/watch?v=y7E4eElq9iI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y7E4eElq9iI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "P0D",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -1091,11 +830,11 @@
           }
         ]
       },
-      "publishedDateTime": "2017-10-12T07:12:58-07:00",
+      "publishedDateTime": "2022-08-15T04:49:00-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/4KPSzkLjNNE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/y7E4eElq9iI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1109,14 +848,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-make-qa-more-effective-in-power-bi.md",
-      "title": "Make Q&A more effective in Power BI",
-      "excerpt": "Most struggle with getting Q&A to be effective in Power BI. Usually this comes down to either model naming or synonyms. Patrick shows you how you can update these and also a nice feature to let you share them with others.  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-make-qa-more-effective-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-make-qa-more-effective-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=2S6qVQrmzxE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2S6qVQrmzxE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M25S",
+      "path": "_learning/videos/guy-in-a-cube-12-power-bi-dashboards-ssas-and-ssrs-updates-and-power-bi-ama.md",
+      "title": "12 Power BI Dashboards, SSAS and SSRS Updates and Power BI AMA",
+      "excerpt": "Power BI – 12 Days of Dashboards (@SQLSamLester)  https://blogs.msdn.microsoft.com/samlester/2016/12/09/power-bi-12-days-of-dashboards/  New Combine Binaries Experience (@kpuls) http://www.excelguru.ca/blog/2016/12/21/new-combine-binaries-experience/  What’s new for SQL Server vNext on Windows CTP 1.1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-12-power-bi-dashboards-ssas-and-ssrs-updates-and-power-bi-ama/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-12-power-bi-dashboards-ssas-and-ssrs-updates-and-power-bi-ama/",
+      "originalUrl": "https://youtube.com/watch?v=zmnzLzRZzPU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zmnzLzRZzPU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M42S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -1129,11 +868,87 @@
           }
         ]
       },
-      "publishedDateTime": "2022-10-26T08:00:05-07:00",
+      "publishedDateTime": "2016-12-22T09:56:17-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2S6qVQrmzxE/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zmnzLzRZzPU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-20-questions-for-20k-subscribers-thank-you.md",
+      "title": "20 questions for 20k subscribers! Thank you!!!",
+      "excerpt": "We wanted to say thank you to everyone who has supported Guy in a Cube over the years! 20,000 subscribers is a big milestone. Here are 20 questions for 20,000 subscribers.   1. Who do you work for? [01:53]  2. How long have you worked for Microsoft? [02:34]  3. What do you do? [03:01]  4. How did you",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-20-questions-for-20k-subscribers-thank-you/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-20-questions-for-20k-subscribers-thank-you/",
+      "originalUrl": "https://youtube.com/watch?v=L5OOi1yU1Po",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/L5OOi1yU1Po\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M4S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-05-29T08:24:39-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/L5OOi1yU1Po/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-2020-youtube-live-streaming-studio-tour-100k-sub-video.md",
+      "title": "2020 YouTube & Live Streaming Studio Tour - 100k Sub Video",
+      "excerpt": "We made it to 100k YouTube Subs!!! Thank you to everyone who helped to make this a reality. We love the community! 👊  Here is a studio tour of Adam's setup for both recording YouTube videos as well as doing live streams.   Gear: https://guyinacu.be/tools Live Streaming: https://guyinacu.be/streamsetup",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-2020-youtube-live-streaming-studio-tour-100k-sub-video/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-2020-youtube-live-streaming-studio-tour-100k-sub-video/",
+      "originalUrl": "https://youtube.com/watch?v=4tW8y9QPLnk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4tW8y9QPLnk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M40S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-24T08:00:04-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4tW8y9QPLnk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT11M38S
 publishedDateTime: 2021-03-30T10:01:28Z
-heat: 55
+heat: 58
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jyxZxFT_pAY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "62FEPY7xwHhwuQj3L7WnZjFDwRefBwg/9FwXqNrbz2FHXcCyveD+DPAE/3Qz/Sg0HqqjUl1o74vkEpSDnCLd7J0nF/2QvS3MjyloZMJrzzLDqk+ImugRH+WBr41Pm1qXukLTolyJGohfTOxoiA95KEU65YCSqOzHnGkJOT0MWUhOakEgV8LXWReqmU9tREWcsLZjkxJNP5ZJ9TzSbeh0BtEG4FIZzh54362rytt4eOeGdcBMkYilccNBUyBkdW7QTcj0tP/uw0ih8HFcexrvjUp7Kpy6WltuWr8gaIbIlVTk1vTR5ujFESmy+dXBEi8No6lj8H8kBSb0GvqvcJXSwyVUwNv/+PRNdKMkDq9Y9rOVsWwVV9QJB6OBks9IlNEsYkM9BEAd9C/afBDekawGQ3G4I2xpqCKCgdkAzOZC6KU=;pRWSc85MccTxYHxgwG6OuQ=="
+secured: "PSYDivMS+tBRnd/JdGK71egtXS5G8Az4VqQaeaJwtdXfibN28of11XGZRecV8/JICKwxAXabtV2SvgVBsH9nir3iJoOW8KHB2ybLcM5Fkg1gq8z/r2/N7vfrk77/np+sTHloLSfM9gP45QoWE4a6KcpslLX8MFbPWdqdTKPZ/a/+my/DDH4zV5XV8PPcG8BNteYC9eAIABRIYVlAOlv38t9ODaZe89SrM312HCBBs7QQdXZcW53dMMqFOj9dm01koTgjL4vjGCKMQSutZX3/+IoZAvVzA1BryHA+UjDvhsPI9VrmdiLdwDzQkwXToQRdl7fBwS7zUs/yZyXiz89UsPVC952+FLYzFCLUKmmkAvKLAtAKH553WDgKvpFZEzyioZiYcA0rIU31vqLtsQgFF7l4VuCep4c9jOU/0nC0B+s=;eywXuaZ2f78yNoN+DkAaiA=="
 ---
 

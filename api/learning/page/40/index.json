@@ -4,1175 +4,1949 @@
   "page": 40,
   "value": [
     {
-      "path": "_learning/videos/curbal-dax-fridays-102-more-keyboard-shortcuts-for-dax.md",
-      "title": "DAX Fridays! #102: More Keyboard shortcuts for DAX!",
-      "excerpt": "If you are a Curbaler, your already know most of the shortcuts that the Power BI team released with the new DAX Editor,  but the few that are new, I review them here ;)  Here is Part 1: https://www.youtube.com/watch?v=vkiMu32iwPs  SUBSCRIBE so you don't miss another video! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-102-more-keyboard-shortcuts-for-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-102-more-keyboard-shortcuts-for-dax/",
-      "originalUrl": "https://youtube.com/watch?v=z0Kj_oVmNUA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z0Kj_oVmNUA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M55S",
+      "path": "_learning/articles/excelerator-bi-the-best-way-to-install-power-bi-desktop.md",
+      "title": "The Best Way to Install Power BI Desktop",
+      "excerpt": "Power BI Desktop is a free, standalone self service BI tool for data modelling and reporting.  You will not get a better, free desktop data modelling and reporting tool than this anywhere.   Power BI Desktop is evolving at a rapid rate with updates released every month. Due to the [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-the-best-way-to-install-power-bi-desktop/index.json",
+      "webUrl": "https://exceleratorbi.com.au/the-best-way-to-install-power-bi-desktop/",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2021-03-01T14:55:58-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/12/Power-BI-book-cover-300_thumb.png",
+          "width": 357,
+          "height": 484,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-the-most-important-update-to-power-bi-desktop-ever.md",
+      "title": "The Most Important Update to Power BI Desktop, Ever!",
+      "excerpt": "The December 2020 version of Power BI desktop has just been released, and it is undoubtably the most important release since the first version way back in 2015. The super feature that has been released is an update to composite models using direct query of online datasets. The implications of [...]Read",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-the-most-important-update-to-power-bi-desktop-ever/index.json",
+      "webUrl": "https://exceleratorbi.com.au/the-most-important-update-to-power-bi-desktop-ever/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2020-12-16T16:22:08-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/12/121720_0009_TheMostImpo9.png",
+          "width": 800,
+          "height": 562,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-the-top-30-reasons-you-should-be-considering-power-bi.md",
+      "title": "The Top 30 Reasons You Should Be Considering Power BI",
+      "excerpt": "Original Post: Feb 2017 Updated: May 2021 I first wrote this article back in Feb 2017 to be a definitive list of the top reasons you should consider using Power BI in your organisation (in case you haven’t already made the decision to do so).  In fact there is only [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-the-top-30-reasons-you-should-be-considering-power-bi/index.json",
+      "webUrl": "https://exceleratorbi.com.au/top-30-reasons-you-should-be-considering-power-bi/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2021-05-18T13:55:16-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/02/Power-BI-top-30-reasons-to-consider.png",
+          "width": 450,
+          "height": 339,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-waterfall-charts-using-measures-in-power-bi.md",
+      "title": "Waterfall Charts Using Measures in Power BI",
+      "excerpt": "Waterfall charts provide a great way for users to visualise how pieces of an overall plan (or results) are combined to contribute to an outcome. For example, you could use a waterfall chart to show how sales have increased by year and category as illustrated below using the standard waterfall [...]Read",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-waterfall-charts-using-measures-in-power-bi/index.json",
+      "webUrl": "https://exceleratorbi.com.au/waterfall-charts-using-measures-power-bi/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2020-09-30T15:28:28-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/10/093020_2217_WaterfallCh4.png",
+          "width": 481,
+          "height": 304,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-what-is-power-bi-and-why-should-i-care.md",
+      "title": "What is Power BI and Why Should I Care?",
+      "excerpt": "As my regular readers may know, I am the co-organiser and co-founder for the official Power BI User Group here in Sydney.  During the period where COVID has impacted our ability to congregate face to face, Iman and I have been running virtual, online meetup events.  Last week I presented [...]Read More",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-what-is-power-bi-and-why-should-i-care/index.json",
+      "webUrl": "https://exceleratorbi.com.au/what-is-power-bi-and-why-should-i-care/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2021-02-19T20:11:14-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/02/What-is-Power-BI-Featured-Image-2.jpg",
+          "width": 750,
+          "height": 426,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-when-to-use-power-querym-vs-data-modellingdax.md",
+      "title": "When to use Power Query/M vs Data Modelling/DAX",
+      "excerpt": "Ken Puls and I decided we would do a live stream chat to talk about a topic of interest to Power BI people.  We put out a survey and 75% of the respondents wanted to hear about &#8220;when to use Power Query/M vs Data Modelling/DAX&#8221;.  It&#8217;s a really interesting topic [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-when-to-use-power-querym-vs-data-modellingdax/index.json",
+      "webUrl": "https://exceleratorbi.com.au/when-to-use-power-query-m-vs-data-modelling-dax/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2021-09-09T16:58:33-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/09/ken.png",
+          "width": 444,
+          "height": 250,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI",
+        "Power Query",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-which-columns-are-not-used-in-my-power-bi-data-model.md",
+      "title": "Which Columns are Not Used in my Power BI Data Model?",
+      "excerpt": "Level: Intermediate. One of the commercial services I offer is to complete a health check of Power BI deployments. I look at everything including the data model, the DAX, the queries, the distribution approach, and other things to help you polish your work. I thought I would share with you [...]Read",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-which-columns-are-not-used-in-my-power-bi-data-model/index.json",
+      "webUrl": "https://exceleratorbi.com.au/which-columns-are-not-used-power-bi-data-model/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2020-11-16T15:06:50-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/11/columns-not-used.png",
+          "width": 400,
+          "height": 201,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/kasper-on-bi-launching-kasper-on-bi-youtube-and-podcast-for-everything-power-bi-and-analytics.md",
+      "title": "Launching Kasper On BI YouTube and Podcast, for everything (Power) BI and Analytics",
+      "excerpt": "I&#8217;m happy to launch my new &#8220;Kasper On BI&#8221; show. At Kasper On BI we will talk about everything Business Intelligence and its ecosystem. From...The post Launching Kasper On BI YouTube and Podcast, for everything (Power) BI and Analytics appeared first on Kasper On BI. ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/kasper-on-bi-launching-kasper-on-bi-youtube-and-podcast-for-everything-power-bi-and-analytics/index.json",
+      "webUrl": "https://www.kasperonbi.com/launching-kasper-on-bi-youtube-and-podcast-for-everything-power-bi-and-analytics/",
+      "provider": {
+        "name": "Kasper On BI",
+        "domain": "kasperonbi.com"
+      },
+      "publishedDateTime": "2020-09-21T07:27:33-07:00",
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/kasper-on-bi-refresh-the-table-fully-after-setting-up-incremental-refresh-with-tmsl.md",
+      "title": "Refresh the table fully after setting up incremental refresh with TMSL",
+      "excerpt": "I have seen this question a few times. When incremental refresh is setup, we cannot refresh the whole model. Some workarounds are deploying the model...The post Refresh the table fully after setting up incremental refresh with TMSL appeared first on Kasper On BI. ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/kasper-on-bi-refresh-the-table-fully-after-setting-up-incremental-refresh-with-tmsl/index.json",
+      "webUrl": "https://www.kasperonbi.com/refresh-the-table-fully-after-setting-up-incremental-refresh-with-tmsl/",
+      "provider": {
+        "name": "Kasper On BI",
+        "domain": "kasperonbi.com"
+      },
+      "publishedDateTime": "2020-09-17T07:52:16-07:00",
+      "heat": 50,
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/kasper-on-bi-the-rise-of-self-service-bi-powerpivot-and-power-bi-and-how-it-changed-the-world-with-rob-collie.md",
+      "title": "The rise of self-service BI, PowerPivot and Power BI and how it changed the world with Rob Collie",
+      "excerpt": "In this episode of Kasper On BI we are talking about the rise of self-service BI and how that is different from traditional BI. It...\nThe post The rise of self-service BI, PowerPivot and Power BI and how it changed the world with Rob Collie appeared first on Kasper On BI.\n",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/kasper-on-bi-the-rise-of-self-service-bi-powerpivot-and-power-bi-and-how-it-changed-the-world-with-rob-collie/index.json",
+      "webUrl": "https://www.kasperonbi.com/the-rise-of-self-service-bi-powerpivot-and-power-bi-and-how-it-changed-the-world-with-rob-collie/",
+      "provider": {
+        "name": "Kasper On BI",
+        "domain": "kasperonbi.com"
+      },
+      "publishedDateTime": "2021-10-07T06:30:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://www.kasperonbi.com/wp-content/uploads/2021/10/Thumbnail.png",
+          "width": 600,
+          "height": 600,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-viva-insights-workplace-analytics.md",
+      "title": "Get started with Microsoft Viva Insights (Workplace Analytics)",
+      "excerpt": "Collaboration is a key component of knowledge-worker success. Microsoft Viva Insights (Workplace Analytics) turns Microsoft 365 data into useful insights about how organizations get work done and empowers leaders to drive strategies for positive change. Get started with Microsoft Workplace Analytics introduces how you can use Workplace Analytics to access these insights. You will learn what Workplace Analytics is and how it works, how to onboard to Workplace Analytics from the administrator perspective, how you can evaluate and track collaboration with the Ways of working assessment, and how you can use Workplace Analytics and MyAnalytics to drive organizational change.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-get-started-with-microsoft-viva-insights-workplace-analytics/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-get-started-with-microsoft-viva-insights-workplace-analytics/",
+      "length": "PT2H31M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-10-19T02:13:49-07:00",
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-workplace-analytics-ways-working.md",
+          "title": "Analyze collaboration and engagement using the Ways of working assessment dashboard in Power BI",
+          "excerpt": "Learn to evaluate collaboration culture and employee experience with a Power BI template by using Viva Insights data in Workplace Analytics.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-workplace-analytics-ways-working/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/workplace-analytics-ways-working/",
+          "length": "PT31M",
+          "ratings": {
+            "count": 167,
+            "average": 4.712575
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/analyze-collaboration-and-engagement-with-ways-working-dashboard-in-workplace-analytics-social.png",
+              "width": 643,
+              "height": 322,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-workplace-analytics-ways-working-action.md",
+          "title": "Drive organizational change with Microsoft Viva Insights (Workplace Analytics and MyAnalytics)",
+          "excerpt": "After using Microsoft Viva Insights with Workplace Analytics and Power BI to generate insights about your employees’ work behaviors, you’ll learn about the Microsoft 365 features that can be tools to implement and measure the changes you’ve identified. You’ll learn how to initiate common change practices and what tools and tactics are the most useful.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-workplace-analytics-ways-working-action/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/workplace-analytics-ways-working-action/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 233,
+            "average": 4.828326
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/drive-organizational-change-with-microsoft-workplace-analytics-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 2,
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/z0Kj_oVmNUA/maxresdefault.jpg",
+          "url": "https://learn.microsoft.com/training/achievements/analyze-collaboration-and-engagement-with-ways-working-dashboard-in-workplace-analytics-social.png",
+          "width": 643,
+          "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-workplace-analytics.md",
+      "title": "Get started with Microsoft Workplace Analytics",
+      "excerpt": "Collaboration is a key component of knowledge-worker success. Workplace Analytics turns Microsoft 365 data into useful insights about how organizations get work done and empowers leaders to drive strategies for positive change. Get started with Microsoft Workplace Analytics introduces how you can use Workplace Analytics to access these insights. You will learn what Workplace Analytics is and how it works, how to onboard to Workplace Analytics from the administrator perspective, how you can evaluate and track collaboration with the Ways of working assessment, and how you can use Workplace Analytics and MyAnalytics to drive organizational change.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-get-started-with-microsoft-workplace-analytics/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-get-started-with-microsoft-workplace-analytics/",
+      "length": "PT2H31M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-workplace-analytics-ways-working.md",
+          "title": "Analyze collaboration and engagement using the Ways of working assessment dashboard in Power BI",
+          "excerpt": "Learn to evaluate collaboration culture and employee experience with a Power BI template by using Viva Insights data in Workplace Analytics.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-workplace-analytics-ways-working/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/workplace-analytics-ways-working/",
+          "length": "PT31M",
+          "ratings": {
+            "count": 167,
+            "average": 4.712575
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/analyze-collaboration-and-engagement-with-ways-working-dashboard-in-workplace-analytics-social.png",
+              "width": 643,
+              "height": 322,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-workplace-analytics-ways-working-action.md",
+          "title": "Drive organizational change with Microsoft Viva Insights (Workplace Analytics and MyAnalytics)",
+          "excerpt": "After using Microsoft Viva Insights with Workplace Analytics and Power BI to generate insights about your employees’ work behaviors, you’ll learn about the Microsoft 365 features that can be tools to implement and measure the changes you’ve identified. You’ll learn how to initiate common change practices and what tools and tactics are the most useful.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-workplace-analytics-ways-working-action/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/workplace-analytics-ways-working-action/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 233,
+            "average": 4.828326
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/drive-organizational-change-with-microsoft-workplace-analytics-social.png",
+              "width": 643,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/analyze-collaboration-and-engagement-with-ways-working-dashboard-in-workplace-analytics-social.png",
+          "width": 643,
+          "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-govern-data-across-an-enterprise.md",
+      "title": "Govern data across an enterprise",
+      "excerpt": "Govern data across an enterprise",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-govern-data-across-an-enterprise/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-govern-data-across-an-enterprise/",
+      "length": "PT1H48M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-discover-trusted-data-use-azure-purview.md",
+          "title": "Discover trusted data using Microsoft Purview",
+          "excerpt": "purview, enterprise data analyst",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-discover-trusted-data-use-azure-purview/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 131,
+            "average": 4.7557254
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/2-discover-data-artifacts-azure-by-using-azure-purview-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-manage-power-bi-artifacts-use-microsoft-purview.md",
+          "title": "Manage Power BI assets by using Microsoft Purview",
+          "excerpt": "Improve data governance and asset discovery using Power BI and Microsoft Purview integration.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-manage-power-bi-artifacts-use-microsoft-purview/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
+          "length": "PT20M",
+          "ratings": {
+            "count": 79,
+            "average": 4.734177
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/4-manage-power-bi-artifacts-by-using-azure-purview-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/2-discover-data-artifacts-azure-by-using-azure-purview-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-implement-a-data-streaming-solution-with-azure-stream-analytics.md",
+      "title": "Implement a Data Streaming Solution with Azure Stream Analytics",
+      "excerpt": "Implement a Data Streaming Solution with Azure Stream Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-implement-a-data-streaming-solution-with-azure-stream-analytics/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-implement-a-data-streaming-solution-with-azure-stream-analytics/",
+      "length": "PT3H2M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-visualize-real-time-data-azure-stream-analytics-power-bi.md",
+          "title": "Visualize real-time data with Azure Stream Analytics and Power BI",
+          "excerpt": "By combining the stream processing capabilities of Azure Stream Analytics and the data visualization capabilities of Microsoft Power BI, you can create real-time data dashboards.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visualize-real-time-data-azure-stream-analytics-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/visualize-real-time-data-azure-stream-analytics-power-bi/",
+          "length": "PT1H8M",
+          "ratings": {
+            "count": 13,
+            "average": 4.769231
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 1,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-introduction-to-data-analytics-on-azure.md",
+      "title": "Introduction to data analytics on Azure",
+      "excerpt": "Introduction to data analytics on Azure",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-introduction-to-data-analytics-on-azure/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-introduction-to-data-analytics-on-azure/",
+      "length": "PT1H15M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-explore-azure-data-services-for-modern-analytics.md",
+          "title": "Explore Azure data services for modern analytics",
+          "excerpt": "Understand analytics solutions in the Azure data ecosystem. Explore the architecture of a scalable analytics solution to meet business needs.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-azure-data-services-for-modern-analytics/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
+          "length": "PT18M",
+          "ratings": {
+            "count": 364,
+            "average": 4.760989
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/explore-azure-data-services-for-modern-analytics-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-understand-concepts-of-data-analytics.md",
+          "title": "Understand concepts of data analytics",
+          "excerpt": "Explore key concepts of data analytics, including types of analytics, data, and storage. Explore the analytics process and tools used to discover insights.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-understand-concepts-of-data-analytics/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
+          "length": "PT28M",
+          "ratings": {
+            "count": 338,
+            "average": 4.8254437
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/understand-concepts-of-data-analytics-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-explore-data-analytics-scale.md",
+          "title": "Explore data analytics at scale",
+          "excerpt": "Describe data analytics at scale and understand the roles of a data team. Learn about the responsibilities of an enterprise data analyst and what tools are available to build scalable solutions.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-data-analytics-scale/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 256,
+            "average": 4.7617188
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/explore-data-analytics-at-scale-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/explore-azure-data-services-for-modern-analytics-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-introduction-to-power-bi-administration.md",
+      "title": "Introduction to Power BI administration",
+      "excerpt": "Introduction to Power BI administration",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-introduction-to-power-bi-administration/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-introduction-to-power-bi-administration/",
+      "length": "PT59M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-power-bi-admin-intro.md",
+          "title": "Understand the Power BI administrator role",
+          "excerpt": "Learn how to administer Power BI to support business decisions backed by data.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-intro/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
+          "length": "PT16M",
+          "ratings": {
+            "count": 207,
+            "average": 4.6618357
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-power-bi-admin-environment.md",
+          "title": "Establish a Power BI environment",
+          "excerpt": "This module covers topics relating to establishing a Power BI environment within Office 365 containers.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-environment/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
+          "length": "PT18M",
+          "ratings": {
+            "count": 181,
+            "average": 4.685083
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-environment-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-power-bi-admin-infrastructure.md",
+          "title": "Establish a data access infrastructure in Power BI",
+          "excerpt": "Learn how to establish a data access infrastructure for accessing all your data within Power BI.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-infrastructure/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
+          "length": "PT25M",
+          "ratings": {
+            "count": 89,
+            "average": 4.797753
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-infrastructure-social.png",
+              "width": 641,
+              "height": 321,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-manage-the-analytics-development-lifecycle.md",
+      "title": "Manage the analytics development lifecycle",
+      "excerpt": "Manage the analytics development lifecycle",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-manage-the-analytics-development-lifecycle/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-manage-the-analytics-development-lifecycle/",
+      "length": "PT2H15M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-design-power-bi-application-lifecycle-management-strategy.md",
+          "title": "Design a Power BI application lifecycle management strategy",
+          "excerpt": "The use of OneDrive, Git repositories, and Power BI deployment pipelines allows us to follow application lifecycle management techniques. This reduces administrative overhead and provides continuity in the development process.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-design-power-bi-application-lifecycle-management-strategy/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/",
+          "length": "PT25M",
+          "ratings": {
+            "count": 35,
+            "average": 4.885714
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-power-bi-deployment-pipelines.md",
+          "title": "Create and manage a Power BI deployment pipeline",
+          "excerpt": "The deployment pipelines tool enables Power BI creators to manage the development lifecycle of organizational content.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-deployment-pipelines/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
+          "length": "PT42M",
+          "ratings": {
+            "count": 83,
+            "average": 4.746988
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/power-bi-deployment-pipelines-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-manage-power-bi-assets.md",
+          "title": "Create and manage Power BI assets",
+          "excerpt": "Creating shared data assets for your analytics environment provides structure and consistency. Maintaining those assets is as important, and XMLA endpoint provides additional administrative capabilities.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-manage-power-bi-assets/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/",
+          "length": "PT1H8M",
+          "ratings": {
+            "count": 31,
+            "average": 4.903226
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-prepare-data-for-tabular-models-in-power-bi.md",
+      "title": "Prepare data for tabular models in Power BI",
+      "excerpt": "Prepare data for tabular models in Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-prepare-data-for-tabular-models-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-prepare-data-for-tabular-models-in-power-bi/",
+      "length": "PT1H9M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-choose-power-bi-model-framework.md",
+          "title": "Choose a Power BI model framework",
+          "excerpt": "Describe Power BI data model frameworks, their benefits and limitations, and features to help optimize your Power BI data models.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-choose-power-bi-model-framework/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
+          "length": "PT46M",
+          "ratings": {
+            "count": 81,
+            "average": 4.703704
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/choose-power-bi-model-framework-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-understand-scalability-power-bi.md",
+          "title": "Understand scalability in Power BI",
+          "excerpt": "Scalable data models enable enterprise-scale analytics in Power BI. Implement data modeling best practices, use large dataset storage format, and practice building a star schema to design analytics solutions that can scale.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-understand-scalability-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-scalability-power-bi/",
+          "length": "PT1H8M",
+          "ratings": {
+            "count": 44,
+            "average": 4.7727275
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-create-manage-scalable-power-bi-dataflows.md",
+          "title": "Create and manage scalable Power BI dataflows",
+          "excerpt": "Create Power BI transformation logic for reuse across your organization with Power BI dataflows. Learn how to combine Power BI dataflows with Power BI Premium for scalable ETL, and practice creating and consuming dataflows.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-manage-scalable-power-bi-dataflows/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
+          "length": "PT1H12M",
+          "ratings": {
+            "count": 54,
+            "average": 4.8703704
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Dataflows"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/choose-power-bi-model-framework-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/sqlbi-dax-puzzles.md",
+      "title": "DAX Puzzles",
+      "excerpt": "Short tests to challenge your DAX knowledge!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/sqlbi-dax-puzzles/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/sqlbi-dax-puzzles/",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/sqlbi-dax-puzzle-1.md",
+          "title": "DAX Puzzle #1",
+          "excerpt": "A small DAX Puzzle to test your DAX knowledge. Be careful, this is a very hard one!",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-dax-puzzle-1/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-dax-puzzle-1/",
+          "originalUrl": "https://youtube.com/watch?v=h-8IodunIkg",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/h-8IodunIkg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M20S",
+          "provider": {
+            "name": "SQLBI",
+            "domain": "sqlbi.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-11-07T07:01:05-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/h-8IodunIkg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/videos/sqlbi-dax-puzzle-2.md",
+          "title": "DAX Puzzle #2",
+          "excerpt": "A small DAX Puzzle to test your DAX knowledge. Is it too easy? (sorry for the audio, backup mic was used this time)",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-dax-puzzle-2/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-dax-puzzle-2/",
+          "originalUrl": "https://youtube.com/watch?v=Nh9fzrq1Xqs",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nh9fzrq1Xqs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT4M38S",
+          "provider": {
+            "name": "SQLBI",
+            "domain": "sqlbi.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-11-07T07:01:17-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/Nh9fzrq1Xqs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/h-8IodunIkg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "collection",
       "topics": [
         "Power BI",
         "DAX"
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-103-unicode-unichar-len-curbaldidyouknow.md",
-      "title": "DAX Fridays! #103: UNICODE, UNICHAR, LEN | #curbaldidyouknow",
-      "excerpt": "Dont miss the end of the video to know what #curbaldidyouknow is. Happy Friday!  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK    Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-103-unicode-unichar-len-curbaldidyouknow/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-103-unicode-unichar-len-curbaldidyouknow/",
-      "originalUrl": "https://youtube.com/watch?v=LjnWymCh_zE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LjnWymCh_zE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M43S",
+      "path": "_learning/courses/microsoft-learn-advance-power-bi-premium-for-enterprise-analytics-market-beyond.md",
+      "title": "Advance Power BI Premium for the enterprise analytics market and beyond",
+      "excerpt": "Advance Power BI Premium for the enterprise analytics market and beyond",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-advance-power-bi-premium-for-enterprise-analytics-market-beyond/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/advance-power-bi-premium-for-enterprise-analytics-market-beyond/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 3,
+        "average": 5.0
+      },
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-10-26T09:40:29-07:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/LjnWymCh_zE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-104-dax-horrors-.md",
-      "title": "DAX Fridays! #104: DAX Horrors 🔪💀",
-      "excerpt": "Never, ever, ever do this in DAX or pay the consequences.... You have been warned!  Happy Halloween!   Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK    Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-104-dax-horrors-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-104-dax-horrors-/",
-      "originalUrl": "https://youtube.com/watch?v=B3txacK3qds",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B3txacK3qds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M2S",
+      "path": "_learning/courses/microsoft-learn-analytics-excel.md",
+      "title": "Prepare to teach the module: Analytics in Excel",
+      "excerpt": "Prepare to teach the module: Analytics in Excel",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-analytics-excel/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/analytics-excel/",
+      "length": "PT2H6M",
+      "ratings": {
+        "count": 1,
+        "average": 5.0
+      },
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-11-02T07:38:42-07:00",
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/B3txacK3qds/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-105-isinscope.md",
-      "title": "DAX Fridays! #105: ISINSCOPE",
-      "excerpt": "The DAX function ISINSCOPE, allow us to work with hierarchies in Power BI. In this video I will go through an example on how to do that. This DAX function was introduced in the November 2018 Power BI Desktop Update, so make sure you have that installed if you wan to test it out.  Other resources:  DAX",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-105-isinscope/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-105-isinscope/",
-      "originalUrl": "https://youtube.com/watch?v=sSUCyps_1O4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sSUCyps_1O4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M7S",
+      "path": "_learning/courses/microsoft-learn-architect-analytics.md",
+      "title": "Solution Architect series: Evaluate Power Platform analytics and AI",
+      "excerpt": "Learn about reporting and analytics in Microsoft Power Platform.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-architect-analytics/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/architect-analytics/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 82,
+        "average": 4.719512
+      },
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-11-16T05:50:34-08:00",
+      "levels": [
+        "Advanced"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/sSUCyps_1O4/maxresdefault.jpg",
+          "url": "https://learn.microsoft.com/training/achievements/architect-analytics-social.png",
           "width": 1280,
-          "height": 720,
+          "height": 641,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-106-power-query-or-dax.md",
-      "title": "DAX Fridays! #106: Power Query or DAX?",
-      "excerpt": "If you already know, how about you share your thoughts here? If not, then I will share my thoughts in the topic.  There are no perfect answers, only good questions ;)  Happy Friday!  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-106-power-query-or-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-106-power-query-or-dax/",
-      "originalUrl": "https://youtube.com/watch?v=t_65m9edkyI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t_65m9edkyI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M3S",
+      "path": "_learning/courses/microsoft-learn-automate-data-cleaning-power-query.md",
+      "title": "Automate data cleaning with Power Query",
+      "excerpt": "This module introduces Power Query in Microsoft Excel, a powerful data connection, cleaning, and shaping technology that is a core part of the Microsoft modern analytics suite of business intelligence tools.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-automate-data-cleaning-power-query/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
+      "length": "PT1H29M",
+      "ratings": {
+        "count": 514,
+        "average": 4.7918286
+      },
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-11-22T08:04:41-08:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/t_65m9edkyI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
+          "width": 1281,
+          "height": 641,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI",
-        "DAX",
         "Power Query"
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-107-create-memory-efficient-models-for-excel-or-power-bi.md",
-      "title": "DAX Fridays! #107:  Create memory efficient models for Excel or Power BI.",
-      "excerpt": "In this video, you’ll learn how to build a tightly constructed model that’s easier to work with and uses less memory.   Taking the time to learn best practices in efficient model design will pay off down the road for any model you create and use, whether you’re creating it in Power BI or Excel.  Here",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-107-create-memory-efficient-models-for-excel-or-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-107-create-memory-efficient-models-for-excel-or-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=mXW_6CtJtV4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mXW_6CtJtV4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M47S",
+      "path": "_learning/courses/microsoft-learn-build-ml-model-with-azure-stream-analytics.md",
+      "title": "Track wild polar bears with AI",
+      "excerpt": "Detect and track polar bears through photos using AI, and then use Power BI to show where cameras spot polar bears.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-build-ml-model-with-azure-stream-analytics/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-ml-model-with-azure-stream-analytics/",
+      "length": "PT1H22M",
+      "ratings": {
+        "count": 365,
+        "average": 4.690411
+      },
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-11-29T04:19:49-08:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mXW_6CtJtV4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://learn.microsoft.com/training/achievements/student-evangelism/build-ml-model-with-azure-stream-analytics-badge-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-108-understand-filter-propagation-with-isfiltered-and-iscrossfiltered.md",
-      "title": "DAX Fridays! #108:  Understand filter propagation with ISFILTERED and ISCROSSFILTERED",
-      "excerpt": "Have you ever wondered how and why filters move across tables and how you can modify the default behaviour?  ....if yes, then don't miss today's DAX Fridays! video.   Here is what we will cover: 1. Explain ISFILTERED function 2. Explain how filters move across tables  3. Explain ISCROSSFILTERED function",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-108-understand-filter-propagation-with-isfiltered-and-iscrossfiltered/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-108-understand-filter-propagation-with-isfiltered-and-iscrossfiltered/",
-      "originalUrl": "https://youtube.com/watch?v=KfbHkdXYwCw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KfbHkdXYwCw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M22S",
+      "path": "_learning/courses/microsoft-learn-build-real-time-enterprise-analytics-solutions-with-azure-synapse-analytics.md",
+      "title": "Build real-time enterprise analytics solutions with Azure Synapse Analytics",
+      "excerpt": "Build real-time enterprise analytics solutions with Azure Synapse Analytics",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-build-real-time-enterprise-analytics-solutions-with-azure-synapse-analytics/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/build-real-time-enterprise-analytics-solutions/",
+      "length": "PT43M",
+      "ratings": {
+        "count": 1,
+        "average": 4.0
+      },
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-12-07T04:00:16-08:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/KfbHkdXYwCw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-109-dax-formula-bar-improvements-off-track-tip.md",
-      "title": "DAX Fridays! #109: DAX formula bar improvements + off-track tip",
-      "excerpt": "It is Power week and we are looking at the improvements made by the power bi team on the DAX formula bar.  While showing that, I go offpist for a minute to give you my personal tips on best practices.  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-109-dax-formula-bar-improvements-off-track-tip/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-109-dax-formula-bar-improvements-off-track-tip/",
-      "originalUrl": "https://youtube.com/watch?v=dMJswLvt0hc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dMJswLvt0hc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M2S",
+      "path": "_learning/courses/microsoft-learn-build-your-first-report.md",
+      "title": "Create and share your first Power BI report",
+      "excerpt": "With Power BI, you can create compelling visuals and reports. In this module, you learn how to use Power BI Desktop to connect to data, build visuals, and create a report that you can share with others in your organization. You then learn how to publish the report to the Power BI service, so that others can see your insights and benefit from your work.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-build-your-first-report/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-your-first-power-bi-report/",
+      "length": "PT55M",
+      "ratings": {
+        "count": 6414,
+        "average": 4.776115
+      },
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-12-14T03:42:15-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dMJswLvt0hc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
+      "levels": [
+        "Beginner"
       ],
+      "heat": 50,
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-11-using-variables-in-dax.md",
-      "title": "DAX Fridays! #11: Using variables in DAX",
-      "excerpt": "Variables are an extremely useful feature in DAX, but perhaps not a well known one. Variables, 1. Make your formulas more readable 2. You can reuse them through your report 3. Can also be tables 4. Are more efficient  Download our Growth dashboard if you want to see the example live:http://curbal.com/blog/the-ultimate-dashboard-to-track-your-website-growth-with-google-analytics-and-power-bi-supercharged-excel",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-11-using-variables-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-11-using-variables-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=kaPNxB-Hkvw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kaPNxB-Hkvw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M23S",
+      "path": "_learning/courses/microsoft-learn-connect-power-apps-automate-virtual-agent-bi-with-common-data-service.md",
+      "title": "Connect to the Microsoft Dataverse through Microsoft Teams",
+      "excerpt": "Connect to the Microsoft Dataverse through Microsoft Teams",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-connect-power-apps-automate-virtual-agent-bi-with-common-data-service/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/connect-power-apps-automate-virtual-agent-bi-with-common-data-service/",
+      "length": "PT15M",
+      "ratings": {
+        "count": 4,
+        "average": 4.75
+      },
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2016-10-23T03:33:53-07:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/kaPNxB-Hkvw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-110-count-remaining-months-on-a-fiscal-calendar.md",
-      "title": "DAX Fridays! #110: Count remaining months on a fiscal calendar",
-      "excerpt": "I am working on a calculation that requires to count the months remaining on the year for a fiscal calendar and I am sharing some possible solutions with you.  As always, there is more that one way to Rome, so feel free to share your alternative solutions!  Keynotes: 1. Calculate current month in standard",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-110-count-remaining-months-on-a-fiscal-calendar/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-110-count-remaining-months-on-a-fiscal-calendar/",
-      "originalUrl": "https://youtube.com/watch?v=6t6M_WzYpdY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6t6M_WzYpdY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M",
+      "path": "_learning/courses/microsoft-learn-connect-power-platform-to-sap-azure.md",
+      "title": "Connect Power Platform to SAP on Azure",
+      "excerpt": "Connect Power Platform to SAP on Azure",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-connect-power-platform-to-sap-azure/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/connect-power-platform-to-sap-azure/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 35,
+        "average": 4.7714286
+      },
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-01-11T03:14:04-08:00",
+      "levels": [
+        "Advanced"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6t6M_WzYpdY/maxresdefault.jpg",
+          "url": "https://learn.microsoft.com/training/achievements/azure-sap-connect-power-platform-social.png",
           "width": 1280,
-          "height": 720,
+          "height": 641,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-111-manual-forecasting-with-dax.md",
-      "title": "DAX Fridays! #111: Manual \"forecasting” with DAX",
-      "excerpt": "Most companies have a sales target for the year and even though Power BI has a forecasting feature, it does not give you the numbers, so how do you know if you will meet your target?  In today's video I will show you how to calculate how much you need to sale per month to achieve your sales target for",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-111-manual-forecasting-with-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-111-manual-forecasting-with-dax/",
-      "originalUrl": "https://youtube.com/watch?v=R_hB2hJv04I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R_hB2hJv04I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M58S",
+      "path": "_learning/courses/microsoft-learn-continuous-data-export-from-iot-central.md",
+      "title": "Set up continuous data export from Azure IoT Central to a Power BI app",
+      "excerpt": "This module covers continuous data export from IoT Central. You use the scenario from your previously completed \"Create your first Azure IoT Central app\" Learn module, where you controlled a refrigerated truck. Here, in this module, you add continuous data export to both Azure Blob storage and an event hub. You then build a Power BI app to read and display the telemetry data on a mobile phone.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-continuous-data-export-from-iot-central/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/continuously-export-data-from-iot-central-power-bi/",
+      "length": "PT1H9M",
+      "ratings": {
+        "count": 182,
+        "average": 4.571429
+      },
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-01-18T00:43:16-08:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/R_hB2hJv04I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://docs.microsoft.com/learn/achievements/iot/continuous-data-export-from-iot-central-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-113-unpivot-tables-with-dax.md",
-      "title": "DAX Fridays! #113: Unpivot tables with DAX",
-      "excerpt": "Let me start by saying: \"you shouldn't do it in DAX\", but if you still have to do it, in this video I will show you how to unpivot tables with DAX.  I will then unpivot them using Power Query so you can see the difference, and how Power Query can be faster and more efficient for cleaning data.  Have",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-113-unpivot-tables-with-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-113-unpivot-tables-with-dax/",
-      "originalUrl": "https://youtube.com/watch?v=9Xv8COs59tc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9Xv8COs59tc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M38S",
+      "path": "_learning/courses/microsoft-learn-create-calculation-groups.md",
+      "title": "Create calculation groups",
+      "excerpt": "Power BI, calculation groups, enterprise data analyst",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-calculation-groups/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-calculation-groups/",
+      "length": "PT1H3M",
+      "ratings": {
+        "count": 68,
+        "average": 4.8382354
+      },
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-01-31T08:21:49-08:00",
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9Xv8COs59tc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://learn.microsoft.com/training/achievements/create-calculation-groups-social.png",
+          "width": 1282,
+          "height": 642,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-114-naturalinnerjoin-lineage-error.md",
-      "title": "DAX Fridays! #114: NATURALINNERJOIN lineage error",
-      "excerpt": "Have you got the this error 'NATURALINNERJOIN' doesn't support joins by using columns with different data types or lineage when using the function?  In this quick video I will show you how to solve it.  Here is a summary post of all the join videos done so far: https://curbal.com/blog/joining-table-in-power-bi-with-power-query-and-dax",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-114-naturalinnerjoin-lineage-error/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-114-naturalinnerjoin-lineage-error/",
-      "originalUrl": "https://youtube.com/watch?v=3lMOLpTMsDw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3lMOLpTMsDw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M10S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-08T01:38:31-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3lMOLpTMsDw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-115-value-weekno-year-previous-week-dashboard-on-fiscal-calendar.md",
-      "title": "DAX Fridays! #115:  VALUE, WEEKNO, YEAR - Previous week dashboard on fiscal calendar",
-      "excerpt": "In today's video we will be covering VALUE, YEAR and WEEKNO, to create a dashboard that shows data from the previous week.   It is easier than you think, but if your weeks don't start on Sunday and you have a week number column that you need to sort using a fiscal calendar, then it gets a bit trickier",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-115-value-weekno-year-previous-week-dashboard-on-fiscal-calendar/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-115-value-weekno-year-previous-week-dashboard-on-fiscal-calendar/",
-      "originalUrl": "https://youtube.com/watch?v=2ya3pdgemP4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2ya3pdgemP4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M28S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-15T04:55:45-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2ya3pdgemP4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-116-time-intelligence-with-fiscal-years.md",
-      "title": "DAX Fridays! #116: Time intelligence with Fiscal Years",
-      "excerpt": "I have previously shown you how to work with time intelligence functions using a standard calendar, but how do you do it with Fiscal Calendars? Let's take a look at that. #powerbi #DAX #daxfridays #curbal #timeintelligence  If you have missed the previous videos, here you have one of them: https://youtu.be/5WGOTsYngCI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-116-time-intelligence-with-fiscal-years/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-116-time-intelligence-with-fiscal-years/",
-      "originalUrl": "https://youtube.com/watch?v=Whu9FZZorpc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Whu9FZZorpc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M17S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-20T03:56:20-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Whu9FZZorpc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-117-explicit-vs-implicit-measures.md",
-      "title": "DAX Fridays! #117: Explicit vs Implicit measures",
-      "excerpt": "You have probably heard somebody say explicit or implicit measures and wonder what does that mean. In this video I will go through both and explain which one you should use.  #powerbi #curbal #daxfridays  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-117-explicit-vs-implicit-measures/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-117-explicit-vs-implicit-measures/",
-      "originalUrl": "https://youtube.com/watch?v=A95nqPLdmRU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A95nqPLdmRU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M28S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-26T06:24:12-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/A95nqPLdmRU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-119-containsstring-containsstringexact.md",
-      "title": "DAX Fridays! #119: CONTAINSSTRING, CONTAINSSTRINGEXACT",
-      "excerpt": "In today's video we will cover two new DAX functions released on the Power BI Desktop Update March 2019. The functions are CONTAINSSTRING and CONTAINSSTRINGEXACT. Enjoy! #curbal #daxfridays #powerbi #dax  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-119-containsstring-containsstringexact/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-119-containsstring-containsstringexact/",
-      "originalUrl": "https://youtube.com/watch?v=3N0udB2GDE8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3N0udB2GDE8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M8S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-03-15T05:58:59-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3N0udB2GDE8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-120-check-if-text-is-uppercase-with-dax-and-power-query.md",
-      "title": "DAX Fridays! #120: Check if text is uppercase with DAX and Power Query",
-      "excerpt": "In today's video I will show how how to check if text is uppecase both using DAX and Power Query. #curbal #daxfridays #dax #powerbi  We will use the following functions: 1. Text.Upper() 2.UPPER() and 3. EXACT()   Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-120-check-if-text-is-uppercase-with-dax-and-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-120-check-if-text-is-uppercase-with-dax-and-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=pTDobs2zZP0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pTDobs2zZP0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-03-11T06:36:12-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pTDobs2zZP0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-121-avoid-bidirectional-relationships-brute-force-method.md",
-      "title": "DAX Fridays! #121: Avoid bidirectional relationships (brute force method)",
-      "excerpt": "In this video, I am going to show you a trick on how to create power bi models like a pro, even when you are a beginner and do not understand modeling very well yet.  You still have to learn how to model in power bi, but this will get you far until you are there. Happy Friday!  Link to why you should",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-121-avoid-bidirectional-relationships-brute-force-method/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-121-avoid-bidirectional-relationships-brute-force-method/",
-      "originalUrl": "https://youtube.com/watch?v=VDTSZJRw6r0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VDTSZJRw6r0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M19S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-03-28T05:38:45-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VDTSZJRw6r0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-122-dax-variables-deep-dive.md",
-      "title": "DAX Fridays! #122: DAX Variables deep dive",
-      "excerpt": "Lets do a deep dive into variables shall we? In this video, I am going to cover the following: 1. Naming variables, dos and donts 2. The syntax for calling variables 3. Can a variable refer to a measure? 4. Can a measure refer to an external variable? 5. Can a variable refer to a variable? 6. Can a variable",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-122-dax-variables-deep-dive/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-122-dax-variables-deep-dive/",
-      "originalUrl": "https://youtube.com/watch?v=z6VFrGWzDQ8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z6VFrGWzDQ8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M2S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-11T07:15:41-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/z6VFrGWzDQ8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-123-true-or-false.md",
-      "title": "DAX Fridays! #123: TRUE() or FALSE()",
-      "excerpt": "In today's video I am going to give you an example of how true and false works and how I got it all wrong so you dont have to. Happy friday! #curbal #daxfridays #powerbi #dax  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK    Here",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-123-true-or-false/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-123-true-or-false/",
-      "originalUrl": "https://youtube.com/watch?v=Y1LMi9WMqtg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y1LMi9WMqtg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M57S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-12T03:00:01-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Y1LMi9WMqtg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-125-distinctcountnoblank-is-not-working.md",
-      "title": "DAX Fridays! #125: DISTINCTCOUNTNOBLANK is not working!",
-      "excerpt": "In today's video I will show you the new measure DISTINCTCOUNTNOBLANKS, when it works, when it doesnt and how it compares with DISTINCTCOUNT.  #curbal #DAXFridays #powerbi  If you havent seen it yet, here is a tutorial for DISTINCTCOUNT: https://curbal.com/blog/glossary/distinctcount-dax   Get Northwind",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-125-distinctcountnoblank-is-not-working/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-125-distinctcountnoblank-is-not-working/",
-      "originalUrl": "https://youtube.com/watch?v=Tl56PDF0aIc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Tl56PDF0aIc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M46S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-05-02T08:53:27-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Tl56PDF0aIc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-126-understand-the-formula-engine-and-storage-engine-to-optimize-your-dax-queries.md",
-      "title": "DAX Fridays! #126: Understand the Formula Engine and Storage Engine to optimize your DAX queries",
-      "excerpt": "To be able to optimize DAX queries, you need to know how the formula engine and the storage engine work with them, so how about we let them explain themselves? #curbal #powerbi #dax #DAXFridays  Hope you enjoy the video, i had fun doing it :)  Have you missed the Vertipaq series? Here are the videos:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-126-understand-the-formula-engine-and-storage-engine-to-optimize-your-dax-queries/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-126-understand-the-formula-engine-and-storage-engine-to-optimize-your-dax-queries/",
-      "originalUrl": "https://youtube.com/watch?v=wvbzMwtZSKM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wvbzMwtZSKM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M17S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-10T02:10:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wvbzMwtZSKM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-127-calculate-same-period-last-month-in-dax.md",
-      "title": "DAX Fridays! #127: Calculate Same period last Month in DAX",
-      "excerpt": "Comparing periods is something you should always do as it adds context to your data, but how do you calculate Same period last month? PREVIOUSMONTH function will give you the entire previous month, so how do you do it? #powerbi #curbal #dax #daxfridays  Here is  one of the many ways to do it.   Get Northwind",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-127-calculate-same-period-last-month-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-127-calculate-same-period-last-month-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=-xBYtOVyMTs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-xBYtOVyMTs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M27S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-05-17T06:30:25-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-xBYtOVyMTs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-128-conditional-formatting-with-dax-max-and-min-values-in-power-bi.md",
-      "title": "DAX Fridays! #128: Conditional formatting with DAX - MAX and MIN values in Power BI",
-      "excerpt": "In todays video I will show you how you can reuse conditional formatting using DAX and how to calculate max and min values of a series so you can highlight the min and max values.  #curbal #daxfridays #dax #powerbi  Keynotes: 1. Calculate Min and Max value of a series 2. Format min and max values 3.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-128-conditional-formatting-with-dax-max-and-min-values-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-128-conditional-formatting-with-dax-max-and-min-values-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=uial9zxDmfU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uial9zxDmfU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M44S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-05-24T03:00:07-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uial9zxDmfU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-129-new-functionality-for-allselected.md",
-      "title": "DAX Fridays! #129: New functionality for ALLSELECTED",
-      "excerpt": "In the Power BI desktop update for May 2019, the ALLSELECTED fucntion functionality has been updated and in this video we discuss the changes.  The previous functionality was discussed here:  https://curbal.com/blog/glossary/allselected-dax  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-129-new-functionality-for-allselected/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-129-new-functionality-for-allselected/",
-      "originalUrl": "https://youtube.com/watch?v=nHJrnSlNyAg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nHJrnSlNyAg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M31S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-05-27T03:32:55-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nHJrnSlNyAg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-130-blank-isblank.md",
-      "title": "DAX Fridays! #130: BLANK, ISBLANK",
-      "excerpt": "Do you know the difference between zeros, nulls and empties?? Lets take a look at that so we can understand why we the power bi team introduced a new comparison operation, kindof... #daxfridays #curbal #powerbi   Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-130-blank-isblank/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-130-blank-isblank/",
-      "originalUrl": "https://youtube.com/watch?v=C26DQkb4hyY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C26DQkb4hyY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M41S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-06-11T10:05:47-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/C26DQkb4hyY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-131-create-a-custom-relative-date-filter-in-power-bi.md",
-      "title": "DAX Fridays! #131: Create a custom relative date filter in Power BI",
-      "excerpt": "When the custom date filter in Power BI doesn't do what you need, how you create your own? What if you need to do it by week? Lets find out in today's #daxfridays video. #powerbi #dax #curbal #daxfridays   Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-131-create-a-custom-relative-date-filter-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-131-create-a-custom-relative-date-filter-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=gGNxKluPFNw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gGNxKluPFNw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M40S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-05T02:31:44-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gGNxKluPFNw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-133-percentileexc-and-percentileinc.md",
-      "title": "DAX Fridays! #133: PERCENTILE.EXC and PERCENTILE.INC",
-      "excerpt": "In today's video I will explain  how to calculate quartiles in power bi and why they are useful. Happy summer! #curbal #powerbi #dax #daxfridays  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK    Here you can download all the pbix",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-133-percentileexc-and-percentileinc/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-133-percentileexc-and-percentileinc/",
-      "originalUrl": "https://youtube.com/watch?v=5AxtNdJ5wqk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5AxtNdJ5wqk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M21S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-05T05:38:58-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5AxtNdJ5wqk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-134-confidencet-and-confidencenorm-confidence-intervals-with-dax.md",
-      "title": "DAX Fridays! #134: CONFIDENCE.T and CONFIDENCE.NORM, confidence intervals with DAX",
-      "excerpt": "In today's video I will explain  how to calculate confidence intervals in power bi and why they are useful. Happy summer! #curbal #powerbi #dax #daxfridays  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK    Here you can download all",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-134-confidencet-and-confidencenorm-confidence-intervals-with-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-134-confidencet-and-confidencenorm-confidence-intervals-with-dax/",
-      "originalUrl": "https://youtube.com/watch?v=3yknTRKwDS0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3yknTRKwDS0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M3S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-20T04:46:04-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/3yknTRKwDS0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     }
   ],
