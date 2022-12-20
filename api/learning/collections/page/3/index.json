@@ -284,8 +284,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 131,
-            "average": 4.7557254
+            "count": 133,
+            "average": 4.7593985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -510,7 +510,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/explore-azure-data-services-for-modern-analytics-social.png",
@@ -744,8 +744,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 89,
-            "average": 4.797753
+            "count": 90,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
