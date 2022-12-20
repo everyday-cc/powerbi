@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 2811,
-        "average": 4.6417646
+        "count": 2812,
+        "average": 4.641536
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1171,7 +1171,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 132,
+          "heat": 52,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
@@ -1196,8 +1196,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 332,
-            "average": 4.731928
+            "count": 333,
+            "average": 4.732733
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1381,7 +1381,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 132,
+          "heat": 52,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
@@ -1406,8 +1406,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 332,
-            "average": 4.731928
+            "count": 333,
+            "average": 4.732733
           },
           "provider": {
             "name": "Microsoft Learn",
