@@ -903,8 +903,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 207,
-            "average": 4.6618357
+            "count": 208,
+            "average": 4.6634617
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2679,7 +2679,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",

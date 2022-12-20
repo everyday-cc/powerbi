@@ -745,8 +745,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 2633,
-            "average": 4.725788
+            "count": 2635,
+            "average": 4.7244782
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -870,8 +870,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 338,
-            "average": 4.8254437
+            "count": 341,
+            "average": 4.8269796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -912,8 +912,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 256,
-            "average": 4.7617188
+            "count": 257,
+            "average": 4.7626457
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1057,8 +1057,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1291,
-        "average": 4.7250195
+        "count": 1292,
+        "average": 4.724458
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1354,8 +1354,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
       "length": "PT28M",
       "ratings": {
-        "count": 338,
-        "average": 4.8254437
+        "count": 341,
+        "average": 4.8269796
       },
       "provider": {
         "name": "Microsoft Learn",
