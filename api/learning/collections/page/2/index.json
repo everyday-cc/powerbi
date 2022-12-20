@@ -4259,8 +4259,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8831,
-            "average": 4.746801
+            "count": 8834,
+            "average": 4.746887
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4301,8 +4301,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 7288,
-            "average": 4.71309
+            "count": 7291,
+            "average": 4.713208
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4427,8 +4427,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1934,
-            "average": 4.7399173
+            "count": 1935,
+            "average": 4.7400517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4469,8 +4469,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 2805,
-            "average": 4.6409984
+            "count": 2807,
+            "average": 4.641254
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4594,8 +4594,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9315,
-            "average": 4.674933
+            "count": 9318,
+            "average": 4.6750374
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4753,8 +4753,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2299,
-            "average": 4.720748
+            "count": 2300,
+            "average": 4.7208695
           },
           "provider": {
             "name": "Microsoft Learn",
