@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT4M35S
 publishedDateTime: 2021-01-07T16:00:00Z
-heat: 52
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-c1-VQ6RsrA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "ty8oqCnOKbBEmzt7WBz8hNry+Wx9YJgvoMyObRKD2dO+F1PZzZ01PYnNLdOwwZRDaxNNLWWm5YVDPQxrtnD/0XBTGaHXaHYpsRKm35qJqmeH7xeVcgLdenc3kz21+M0DtP+PnVTtzIoC/BpefS+SJcpWV1G8lycl3iu5rG9YXBOciShHr3EzL0FmWHX/gTj60pa7II1AXFKOZBi/H2WIcRsvW04V0ioYIdq2bhjqakkUzm7EFGjs/FupOogDlpzvtLctwAovV6rJNckLH7hXh84fGRbAQIULFuDug6n6Dxlryuu0+r+HYi8DljNmRHsaM7Ud14o2uVP71eZwW9V6UglWPovzE77B3tdypd/3I+QupfdZNMzGi2vsgUceH7Caw/f9tGpCFdDvs6hjAwu09TmYnCPgAH1S4IWwpcK/dvE=;ruiUcE7PDW6YdQeByyi0ag=="
+secured: "U4/Whkos0hz8P3tYrQR8f2FeNNSCxSNtnaXsvt6ZAUJWCqhrPsvpDqfw+P6zY6o7UUxcgMZhRmteJJyNaOBzn/N2k9muExBLyFPGA+9hypB5dinYO4KJePTuv8ZQLYUROEQgeZFLTGKGt4KVZEtWjxMr4loBmcGYobzLfBoMT10XYl1eKdQn9RISDLyCtBdqouQLHHkD5AQOH3SQGwDCz4/FhTMO4gmc7boXdBseXEde3pV0aSfk4OByMr/0uYh7Cgj/MOhZyU+mGAe1qY5UcWM6u0miixUhgzoMjg8Ec3EHePPA99HeL87p5HK11BTVm7IibBBFwvnpT6kz+L7F17jo5ODXxXa8XuZmceiYbBBxP4aCOMSiKpFEQTWf2oiGsKFhRtggCIaDWVRDccPsuuPfGx0RmklVtJTzYt6F/ik=;98DUWslANj8/QgkE3omH6Q=="
 ---
 
