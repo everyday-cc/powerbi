@@ -148,14 +148,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-does-it-matter-where-your-power-bi-reports-are-deployed.md",
-      "title": "Does it matter where your Power BI reports are deployed?",
-      "excerpt": "Where to deploy your Power BI Report? My Workspace? Regular Workspace? What about Apps? Adam breaks it down to help you make the right choice and understand why it matters!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level?",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-does-it-matter-where-your-power-bi-reports-are-deployed/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-does-it-matter-where-your-power-bi-reports-are-deployed/",
-      "originalUrl": "https://youtube.com/watch?v=sgGRMixvNbk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sgGRMixvNbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M18S",
+      "path": "_learning/videos/guy-in-a-cube-let-power-query-write-your-sql-for-you.md",
+      "title": "Let Power Query write your SQL for you!",
+      "excerpt": "We tell you to push your transformations upstream as much as possible. But you don't know how to write SQL. That's ok, let Power Query do it for you to move your project forward. Patrick shows you how!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-let-power-query-write-your-sql-for-you/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-let-power-query-write-your-sql-for-you/",
+      "originalUrl": "https://youtube.com/watch?v=VExWJ6mXLD4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VExWJ6mXLD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M8S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -168,11 +168,11 @@
           }
         ]
       },
-      "publishedDateTime": "2022-10-27T08:00:39-07:00",
-      "heat": 134,
+      "publishedDateTime": "2022-10-12T08:00:20-07:00",
+      "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/sgGRMixvNbk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/VExWJ6mXLD4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -182,73 +182,70 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query"
       ]
     },
     {
-      "path": "_learning/videos/curbal-query-mastodon-api-with-pagination-and-text-token-in-power-bi.md",
-      "title": "Query Mastodon API with Pagination and text token in Power BI",
-      "excerpt": "In this video I will show you how to query  an API that lists all mastodon instances and users and figure out why it says Mastodon has 2bn users.  How to paginate when you know the number of pages: https://curbal.com/curbal-learning-portal/how-to-do-pagination-on-a-rest-api-in-power-query-part-1  and",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-query-mastodon-api-with-pagination-and-text-token-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-query-mastodon-api-with-pagination-and-text-token-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=biQ2XhX4wXY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/biQ2XhX4wXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M32S",
+      "path": "_learning/courses/microsoft-learn-modern-analytics-data-modeling.md",
+      "title": "Introduction to foundations in data modeling",
+      "excerpt": "This module introduces the key concepts that are related to developing a well-organized data model.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-data-modeling/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
+      "length": "PT34M",
+      "ratings": {
+        "count": 335,
+        "average": 4.7343283
+      },
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-11-16T04:39:13-08:00",
-      "heat": 130,
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/biQ2XhX4wXY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-data-modeling-social.png",
+          "width": 1281,
+          "height": 641,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/curbal-what-power-bi-license-do-i-have-shorts.md",
-      "title": "What Power BI license do I have? #shorts",
-      "excerpt": "Here you can get the information on what Power BI license you currently have. #shorts  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1  Our PLAYLISTS:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-what-power-bi-license-do-i-have-shorts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-what-power-bi-license-do-i-have-shorts/",
-      "originalUrl": "https://youtube.com/watch?v=40A2eKoK5S4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/40A2eKoK5S4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17S",
+      "path": "_learning/videos/learn-power-bi-calendar-table-using-dax-shorts.md",
+      "title": "Calendar Table Using DAX #Shorts",
+      "excerpt": "👉 If you have any questions, just leave us a comment.  👉 Check out our Power BI Tutorial https://youtu.be/AGrl-H87pRU ================================ #PowerBI #PowerBIQuestion #PowerBIPro  👉 FREE Power BI Step-by-Step Tutorial http://web.learnpowerbi.com/tutorial 👉 Download Accompanying PBIX Files",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-calendar-table-using-dax-shorts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-calendar-table-using-dax-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=6utZs1ttays",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6utZs1ttays\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT54S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
-      "publishedDateTime": "2022-10-11T02:07:25-07:00",
-      "heat": 130,
+      "publishedDateTime": "2022-10-26T06:00:06-07:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/40A2eKoK5S4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6utZs1ttays/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -258,7 +255,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -330,8 +328,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 50782,
-            "average": 4.7985506
+            "count": 50790,
+            "average": 4.7985234
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -372,8 +370,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 73297,
-            "average": 4.7784085
+            "count": 73311,
+            "average": 4.7784233
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -432,8 +430,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 73297,
-        "average": 4.7784085
+        "count": 73311,
+        "average": 4.7784233
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -779,8 +777,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 50782,
-        "average": 4.7985506
+        "count": 50790,
+        "average": 4.7985234
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1074,8 +1072,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 10919,
-            "average": 4.745215
+            "count": 10922,
+            "average": 4.7452846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1116,8 +1114,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9342,
-            "average": 4.675016
+            "count": 9343,
+            "average": 4.674944
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1150,8 +1148,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 73297,
-            "average": 4.7784085
+            "count": 73311,
+            "average": 4.7784233
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1210,8 +1208,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 10919,
-        "average": 4.745215
+        "count": 10922,
+        "average": 4.7452846
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1381,8 +1379,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 73297,
-            "average": 4.7784085
+            "count": 73311,
+            "average": 4.7784233
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1423,8 +1421,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 31483,
-            "average": 4.7267733
+            "count": 31487,
+            "average": 4.726776
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1466,8 +1464,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14333,
-            "average": 4.720784
+            "count": 14335,
+            "average": 4.720753
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1508,8 +1506,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6204,
-            "average": 4.76354
+            "count": 6205,
+            "average": 4.763578
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1568,8 +1566,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 21476,
-        "average": 4.7229
+        "count": 21485,
+        "average": 4.7228765
       },
       "provider": {
         "name": "Microsoft Learn",

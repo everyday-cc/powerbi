@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 6204,
-        "average": 4.76354
+        "count": 6205,
+        "average": 4.763578
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -708,7 +708,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-data-modeling-social.png",
@@ -750,7 +750,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-transition-social.png",
@@ -918,7 +918,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-data-modeling-social.png",
@@ -960,7 +960,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-transition-social.png",
