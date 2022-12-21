@@ -219,8 +219,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 5666,
-            "average": 4.729615
+            "count": 5668,
+            "average": 4.7297106
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -261,8 +261,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 5134,
-            "average": 4.7333465
+            "count": 5135,
+            "average": 4.7333984
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3804,8 +3804,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 41,
-            "average": 4.6829267
+            "count": 42,
+            "average": 4.6904764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4473,8 +4473,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 2820,
-            "average": 4.640071
+            "count": 2821,
+            "average": 4.639844
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4640,8 +4640,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5107,
-            "average": 4.7246914
+            "count": 5108,
+            "average": 4.7247453
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4910,8 +4910,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10190,
-            "average": 4.7038274
+            "count": 10191,
+            "average": 4.7037582
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5119,8 +5119,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5042,
-            "average": 4.8006744
+            "count": 5045,
+            "average": 4.800595
           },
           "provider": {
             "name": "Microsoft Learn",
