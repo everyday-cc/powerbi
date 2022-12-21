@@ -4,14 +4,14 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/curbal-get-data-from-zip-files-without-extracting-them-in-power-query.md",
-      "title": "Get data from zip files without extracting them in Power Query",
-      "excerpt": "In today’s video, I will show you how to unzip files in Power BI. You will be able to import multiple zip files in Power Query and unzip them without having to extract them first.  Here is Marks blog, where you can find his function: http://sql10.blogspot.se/2016/06/reading-zip-files-in-powerquery-m.html",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-get-data-from-zip-files-without-extracting-them-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-get-data-from-zip-files-without-extracting-them-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=OzQ44gwi5Kw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OzQ44gwi5Kw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M14S",
+      "path": "_learning/videos/curbal-the-best-way-to-combine-files-in-power-bi-so-you-dont-lose-columns-part-2.md",
+      "title": "The BEST way to combine files in Power BI so you don’t lose columns - Part 2",
+      "excerpt": "In a previous video ( https://www.youtube.com/watch?v=UY3hIV-THcg ) , I showed you how to combine files without losing columns and you had a ton of questions that I will address in this video:  How to promote headers inside a table How that will prevent columns from combining the wrong way How to add",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-the-best-way-to-combine-files-in-power-bi-so-you-dont-lose-columns-part-2/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-the-best-way-to-combine-files-in-power-bi-so-you-dont-lose-columns-part-2/",
+      "originalUrl": "https://youtube.com/watch?v=hJF2dPfIeaM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hJF2dPfIeaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M26S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -24,11 +24,11 @@
           }
         ]
       },
-      "publishedDateTime": "2018-03-12T08:17:34-07:00",
+      "publishedDateTime": "2022-01-21T02:27:39-08:00",
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/OzQ44gwi5Kw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hJF2dPfIeaM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -43,14 +43,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-how-to-extract-text-with-an-if-condition-in-one-step-in-power-query.md",
-      "title": "How to extract text with an if condition in one step in Power Query",
-      "excerpt": "In today's video I will show you how to extract text with an if condition in one step.  Enjoy!  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-extract-text-with-an-if-condition-in-one-step-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-extract-text-with-an-if-condition-in-one-step-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=na2aBSodXpA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/na2aBSodXpA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M12S",
+      "path": "_learning/videos/curbal-the-ultimate-speed-performance-hack-in-power-bi.md",
+      "title": "The ULTIMATE ⚡ speed/ performance ⚡ hack in Power BI...",
+      "excerpt": "...that works with any query, any source, does not require any performance tool or knowledge of M and it takes seconds to apply.  Dont believe me? Check the video :)  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-the-ultimate-speed-performance-hack-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-the-ultimate-speed-performance-hack-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=rGCBImZx4WU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rGCBImZx4WU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M20S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -63,50 +63,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-03-01T02:50:20-08:00",
+      "publishedDateTime": "2021-03-25T03:11:15-07:00",
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/na2aBSodXpA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays.md",
-      "title": "Managing changing column names in Power Query #10: (M)agic (M)ondays",
-      "excerpt": "In today's video, I will show how to manage column headers that changes names so your power bi file does not break when you refresh it.  This tip is from Lars Schreiber and here is the link to his blog post and how to do this in power query: http://power-bi-usergroup.blogspot.se/2015/12/dealing-with-tables-with-changing.html",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays/",
-      "originalUrl": "https://youtube.com/watch?v=yBJr0sAc-m4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yBJr0sAc-m4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M46S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-07-06T11:40:32-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yBJr0sAc-m4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/rGCBImZx4WU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -370,8 +331,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 517,
-        "average": 4.793037
+        "count": 518,
+        "average": 4.7934365
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -445,14 +406,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-best-tips-when-working-with-power-bi-dataflows.md",
-      "title": "Best tips when working with Power BI dataflows!",
-      "excerpt": "I have been creating quite many dataflows lately and in today's video, I am going to share my best tips on how  to set them up and avoid common issues.  Chapters: 00:00 Intro 00:30 Is it worth to work with dataflows? 01:30 Managing gateways ...or not 02:30 Configure your own datalake 03:30 The Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-best-tips-when-working-with-power-bi-dataflows/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-best-tips-when-working-with-power-bi-dataflows/",
-      "originalUrl": "https://youtube.com/watch?v=5fHsRwEM7SY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5fHsRwEM7SY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M36S",
+      "path": "_learning/videos/curbal-advance-way-to-reorder-power-query-columns-without-breaking-your-queries.md",
+      "title": "Advance way to reorder Power Query columns without breaking your queries",
+      "excerpt": "In today's video, I am going to show you two ways to reorder power query columns without breaking your queries!  Chapters: 00:00 Describing the problem when reordering columns 02:00 Solution1: Ignore missing columns 02:47 Solution2: If the column is missing create a null column 03:50 Solution 3: Manipulate",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-advance-way-to-reorder-power-query-columns-without-breaking-your-queries/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-advance-way-to-reorder-power-query-columns-without-breaking-your-queries/",
+      "originalUrl": "https://youtube.com/watch?v=4qqXho7ndgU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4qqXho7ndgU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M12S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -465,51 +426,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-04-26T03:25:51-07:00",
+      "publishedDateTime": "2020-11-30T02:25:13-08:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5fHsRwEM7SY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query",
-        "Dataflows"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-concatenate-a-text-with-quotation-marks-in-power-query-12-magic-mondays.md",
-      "title": "Concatenate a text with quotation marks in Power Query  #12: (M)agic (M)ondays",
-      "excerpt": "IN today's video, I will show you how to concatenate a text with quotation marks.  Link to Northwind database; https://www.youtube.com/watch?v=k3NMIlLffrU   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-concatenate-a-text-with-quotation-marks-in-power-query-12-magic-mondays/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-concatenate-a-text-with-quotation-marks-in-power-query-12-magic-mondays/",
-      "originalUrl": "https://youtube.com/watch?v=uOthalI_J64",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uOthalI_J64\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M37S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-07-11T13:02:37-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uOthalI_J64/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/4qqXho7ndgU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -524,14 +445,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-create-a-table-from-values-in-power-query-11-magic-mondays.md",
-      "title": "Create a table from values in Power Query #11: (M)agic (M)ondays",
-      "excerpt": "In todays video we will learn how to create tables from values in columns using Power Query in Power BI.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-a-table-from-values-in-power-query-11-magic-mondays/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-a-table-from-values-in-power-query-11-magic-mondays/",
-      "originalUrl": "https://youtube.com/watch?v=5cz2NhYlIuo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5cz2NhYlIuo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M19S",
+      "path": "_learning/videos/curbal-advanced-fill-down-scenarios-with-power-query.md",
+      "title": "Advanced fill down scenarios with Power Query",
+      "excerpt": "In todays video I will show you two cases on how to fill down when rows have been shifted.  Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-advanced-fill-down-scenarios-with-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-advanced-fill-down-scenarios-with-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=TPeJdobqS9k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TPeJdobqS9k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M25S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -544,11 +465,11 @@
           }
         ]
       },
-      "publishedDateTime": "2017-07-11T12:17:23-07:00",
+      "publishedDateTime": "2020-06-01T03:53:32-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/5cz2NhYlIuo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/TPeJdobqS9k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -563,14 +484,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-download-export-power-query-data-to-csv-excel-or-txt-power-bi-tips-tricks-25.md",
-      "title": "Download/ Export Power Query data to csv, excel or txt - Power BI Tips & Tricks #25",
-      "excerpt": "Do you want to export your power query data? In this video I show you how to do it :)  How to install R: https://goo.gl/g4wbEm BI accountant blog: https://goo.gl/lnjjxM Link to Power BI file: https://gofile.me/2kEOD/YPnFQZQ4c  R script: require(gdata) write.table(trim(dataset), file=”C:/writeyourfilepathhere/filename.txt”,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-download-export-power-query-data-to-csv-excel-or-txt-power-bi-tips-tricks-25/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-download-export-power-query-data-to-csv-excel-or-txt-power-bi-tips-tricks-25/",
-      "originalUrl": "https://youtube.com/watch?v=56FV6x8vYyQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/56FV6x8vYyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M48S",
+      "path": "_learning/videos/curbal-d30-how-to-connect-google-sheet-with-power-bi.md",
+      "title": "#D30 How to connect Google Sheet with Power BI",
+      "excerpt": "In today’s video I will show you how to import data from Google sheets/ Google Docs into Power BI.  Link to the pbix file: Go to our Download Center: https://curbal.com/donwload-center and select community downloads and get #30.  Link to github: https://github.com/ruthpozuelo/Power-BI-functions-and-scripts",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-d30-how-to-connect-google-sheet-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-d30-how-to-connect-google-sheet-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=2hFCeduIP6k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2hFCeduIP6k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M37S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -583,11 +504,11 @@
           }
         ]
       },
-      "publishedDateTime": "2016-10-27T12:46:37-07:00",
+      "publishedDateTime": "2018-02-27T11:56:55-08:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/56FV6x8vYyQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2hFCeduIP6k/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -598,6 +519,46 @@
       "price": "Free",
       "topics": [
         "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-106-power-query-or-dax.md",
+      "title": "DAX Fridays! #106: Power Query or DAX?",
+      "excerpt": "If you already know, how about you share your thoughts here? If not, then I will share my thoughts in the topic.  There are no perfect answers, only good questions ;)  Happy Friday!  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-106-power-query-or-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-106-power-query-or-dax/",
+      "originalUrl": "https://youtube.com/watch?v=t_65m9edkyI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t_65m9edkyI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M3S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-11-22T08:04:41-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/t_65m9edkyI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX",
         "Power Query"
       ]
     },
@@ -641,14 +602,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-explain-the-different-types-of-joinmerge-available-in-power-bi-excel.md",
-      "title": "Explain the different types of join/merge available in Power BI/ Excel",
-      "excerpt": "Confused with all the join/ merge types options available in Power BI Desktop? No  worries, we explain all types in detail here.  If I say: Left Anti, or Full Outer, do you know immediately what it is or do you think I am calling you bad names?   Every time I created a merge in Power BI Desktop or Excel,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-explain-the-different-types-of-joinmerge-available-in-power-bi-excel/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-explain-the-different-types-of-joinmerge-available-in-power-bi-excel/",
-      "originalUrl": "https://youtube.com/watch?v=PNdxy0c1Shg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PNdxy0c1Shg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M55S",
+      "path": "_learning/videos/curbal-easily-add-query-parameters-to-your-source-paths-in-power-query.md",
+      "title": "Easily add query parameters to your source paths in Power Query",
+      "excerpt": "In this tutorial, I show you how to easily add query parameters into your source paths using the advance editor function.  Chapter  00:00 Intro 00:40 Add data into power bi 01:30 Create a parameter 03:30 Add the parameter using advance setting Done!  Looking for a download file? Go to our Download Center:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-easily-add-query-parameters-to-your-source-paths-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-easily-add-query-parameters-to-your-source-paths-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=ppM-mLckQfs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ppM-mLckQfs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M12S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -661,11 +622,50 @@
           }
         ]
       },
-      "publishedDateTime": "2020-02-06T03:05:43-08:00",
+      "publishedDateTime": "2016-11-09T10:21:16-08:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/PNdxy0c1Shg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ppM-mLckQfs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-fifa-world-cup-2018-part-1-in-power-bi-download-data.md",
+      "title": "FIFA World Cup 🏆 2018 (Part 1) in Power BI: Download data",
+      "excerpt": "It is world's cup fever: FIFA world cup 2018 in Russia!!! And we dont want to miss anything right?  That is where Power BI comes to the rescue :)  I am going to build a Power BI file to follow the world cup and I decided to show you how I create it while creating it :)  In the first video, I downloaded",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-fifa-world-cup-2018-part-1-in-power-bi-download-data/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-fifa-world-cup-2018-part-1-in-power-bi-download-data/",
+      "originalUrl": "https://youtube.com/watch?v=i24MdCAjL68",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i24MdCAjL68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M22S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-06-04T04:51:12-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/i24MdCAjL68/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -719,14 +719,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-import-multiple-pdfs-as-data-sources-for-power-bi.md",
-      "title": "Import multiple pdfs as data sources for Power BI",
-      "excerpt": "*****NOTE: I did this too fast: you can of course import the names and path of the pdf files using Get Data- From Folder******  This video is a continuance of the video published previously: How to import pdf into power bi. https://www.youtube.com/watch?v=z15dF-jDXIo  In this video you will learn how",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-import-multiple-pdfs-as-data-sources-for-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-import-multiple-pdfs-as-data-sources-for-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=RXm1MoxD1UA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RXm1MoxD1UA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M49S",
+      "path": "_learning/videos/curbal-get-data-from-zip-files-without-extracting-them-in-power-query.md",
+      "title": "Get data from zip files without extracting them in Power Query",
+      "excerpt": "In today’s video, I will show you how to unzip files in Power BI. You will be able to import multiple zip files in Power Query and unzip them without having to extract them first.  Here is Marks blog, where you can find his function: http://sql10.blogspot.se/2016/06/reading-zip-files-in-powerquery-m.html",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-get-data-from-zip-files-without-extracting-them-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-get-data-from-zip-files-without-extracting-them-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=OzQ44gwi5Kw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OzQ44gwi5Kw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M14S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -739,11 +739,11 @@
           }
         ]
       },
-      "publishedDateTime": "2018-01-22T08:10:26-08:00",
+      "publishedDateTime": "2018-03-12T08:17:34-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/RXm1MoxD1UA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OzQ44gwi5Kw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -797,6 +797,123 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-quickly-change-data-types-with-m-language-in-power-query.md",
+      "title": "Quickly change data types with M language in Power Query",
+      "excerpt": "In today's video, I am going to show you how to quickly change data types with M language in Power Query. #curbal #powerbi #powerquery  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-quickly-change-data-types-with-m-language-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-quickly-change-data-types-with-m-language-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=GhzE1Mg4KTU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GhzE1Mg4KTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-04T09:45:59-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GhzE1Mg4KTU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-reuse-m-code-m-functions-created-by-others-easily.md",
+      "title": "Reuse M code (M functions) created by others easily",
+      "excerpt": "In today's video I am collaborating with Imke Feldmann to bring you the best that M or Power Query has to offer.  We will show you how you can easily re-use M functions in your reports.  Link to the sources: http://www.thebiccountant.com/2017/12/11/date-datesbetween-retrieve-dates-between-2-dates-power-bi-power-query/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-reuse-m-code-m-functions-created-by-others-easily/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-reuse-m-code-m-functions-created-by-others-easily/",
+      "originalUrl": "https://youtube.com/watch?v=6TQN6KPG74Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6TQN6KPG74Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M21S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-16T11:13:15-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6TQN6KPG74Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-reuse-power-query-steps-to-clean-multiple-excel-sheets-power-bi-tips-tricks-39.md",
+      "title": "Reuse Power Query steps to clean multiple excel sheets - Power BI Tips & Tricks #39",
+      "excerpt": "In today's video I will show you how to reuse Power Query steps to clean multiple excel sheets.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-reuse-power-query-steps-to-clean-multiple-excel-sheets-power-bi-tips-tricks-39/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-reuse-power-query-steps-to-clean-multiple-excel-sheets-power-bi-tips-tricks-39/",
+      "originalUrl": "https://youtube.com/watch?v=rohXtAlIgqY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rohXtAlIgqY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M36S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-04-05T12:20:14-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rohXtAlIgqY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-running-totals-in-power-query-yes-you-can-.md",
       "title": "Running totals in power query??? Yes, you can :)",
       "excerpt": "In today's video, I am going to show you how you can do running totals or cummulative totals in Power Query, but do this only if you have no way to do it using DAX.  Also, I will show you how List.Range work, really cool function :)  Here you can download all the pbix files: https://curbal.com/donwload-center",
@@ -832,46 +949,6 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-scrape-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks.md",
-      "title": "Scrape data from multiple pages on a website with Power BI Desktop - Power BI Tips & Tricks",
-      "excerpt": "Have you come across a website that has data you need but it is presented in multiple pages? Downloading page by page can be frustrating and time consuming. In this short video, I will show you how to iterate multiple pages on a website to import the data using Power BI.  LINK to NFL site: http://www.nfl.com/stats/categorystats?tabSeq=2&offensiveStatisticCategory=TEAM_PASSING&conference=ALL&role=TM&season=2015&seasonType=REG",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-scrape-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-scrape-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=6PZSZ53iSos",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6PZSZ53iSos\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M15S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-03-17T03:40:26-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6PZSZ53iSos/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
         "Power Query"
       ]
     },
@@ -993,23 +1070,31 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-convert-date-time-from-local-time-to-utc-time-using-power-query.md",
-      "title": "Convert Date time from Local Time to UTC time using Power Query",
-      "excerpt": "In this session I am going to talk about how we can convert datetime from one timezone to UTC timezone in power query.  sometimes there are situations where we need to convert our local date time value to UTC time value.  In Power Query we have some functions using which we can convert our local date",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-convert-date-time-from-local-time-to-utc-time-using-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-convert-date-time-from-local-time-to-utc-time-using-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=SqLOsn4pA2k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SqLOsn4pA2k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M53S",
+      "path": "_learning/videos/curbal-word-frequency-counter-power-query.md",
+      "title": "Word Frequency counter Power Query",
+      "excerpt": "In today's video I will show you how to count words in Power Query. I will be following Chris Webbs awesome tutorial: https://blog.crossjoin.co.uk/2013/03/15/finding-shakespeares-favourite-words-with-data-explorer/   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-word-frequency-counter-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-word-frequency-counter-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=YOmL57g3RMg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YOmL57g3RMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M16S",
       "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2020-05-12T17:57:07-07:00",
+      "publishedDateTime": "2017-12-04T09:55:55-08:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/SqLOsn4pA2k/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YOmL57g3RMg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1049,84 +1134,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/N0UYKqMpmnQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-do-i-need-to-be-an-expert-in-power-query-m.md",
-      "title": "Do I need to be an expert in Power Query M?",
-      "excerpt": "Maybe you've heard of Power Query M in Microsoft Excel, Power BI or something else. Do you really need to be an expert in that? Or even use it? Patrick helps to ease your mind!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-do-i-need-to-be-an-expert-in-power-query-m/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-do-i-need-to-be-an-expert-in-power-query-m/",
-      "originalUrl": "https://youtube.com/watch?v=Z0U9UL9ORh8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Z0U9UL9ORh8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M29S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-20T08:00:11-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Z0U9UL9ORh8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-do-you-even-need-to-use-power-query-functions.md",
-      "title": "Do you even need to use Power Query Functions?",
-      "excerpt": "You can do amazing things in Power Query! Maybe you think to create a function. But do you really need a function for that? Or is it over complicating things?  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-do-you-even-need-to-use-power-query-functions/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-do-you-even-need-to-use-power-query-functions/",
-      "originalUrl": "https://youtube.com/watch?v=BUiUrv1qeXU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BUiUrv1qeXU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M47S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-09-28T08:00:09-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BUiUrv1qeXU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

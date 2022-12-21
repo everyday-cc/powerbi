@@ -4,83 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-build-a-date-picker-in-power-bi-desktop.md",
-      "title": "Build a DATE PICKER in Power BI Desktop",
-      "excerpt": "Have you ever wanted a single date picker in your Power BI report? Patrick shows you how to build one within Power BI Desktop!  Download sample: https://guyinacu.be/datepickersample  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-build-a-date-picker-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-build-a-date-picker-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=zhWtU0DynCk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zhWtU0DynCk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M14S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-13T08:00:37-07:00",
-      "heat": 70,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zhWtU0DynCk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-data-modeling-best-practices-part-1-in-power-bi-and-analysis-services.md",
-      "title": "Data modeling best practices - Part 1 - in Power BI and Analysis Services",
-      "excerpt": "Patrick looks at a few data modeling best practices in Power BI and Analysis Services. These are things we see customers doing on a regular basis and you should be aware of it.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-data-modeling-best-practices-part-1-in-power-bi-and-analysis-services/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-data-modeling-best-practices-part-1-in-power-bi-and-analysis-services/",
-      "originalUrl": "https://youtube.com/watch?v=kiVXI7zjSzY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kiVXI7zjSzY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M5S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-25T06:14:36-07:00",
-      "heat": 70,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kiVXI7zjSzY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-how-to-get-a-date-table-easily-in-power-bi.md",
       "title": "How to get a DATE TABLE easily in Power BI",
       "excerpt": "Do you use a central date table for your Power BI datasets? There is a LOT of POWER in having one. Adam shows you different ways to create one including a really simple easy option that's BANANAS!  REDUCE Power BI dataset size by 60% with ONE CHECKBOX??? https://www.youtube.com/watch?v=RnDdDlozcdo  Bravo",
@@ -407,6 +330,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/DKgF-5QHY68/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi.md",
+      "title": "How to create a Export to Excel / CSV button in Power BI",
+      "excerpt": "In todays video I will show you how to create and export to excel or CSV button in Power BI!! Take a look!  Chapters: 00:00 Intro 01:30 Export to CSV button 05:15 Apply the flow to the button 05:30 Format the flow button 06:00 Check if the flow run sucessfully 08:00 Export to excel button 09:30 Pre-requisites",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=BnTipbooeP0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BnTipbooeP0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M20S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-21T04:04:38-07:00",
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BnTipbooeP0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1217,45 +1178,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-how-to-get-data-from-a-rest-api-in-power-bi-for-rookies.md",
-      "title": "How to get data from a REST API in Power BI for rookies",
-      "excerpt": "Do you want to get data from an REST API, but are not sure how to do it? Well, Chuck Norris and myself will walk you through the steps.  Chuck norris API: https://api.chucknorris.io/   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-get-data-from-a-rest-api-in-power-bi-for-rookies/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-get-data-from-a-rest-api-in-power-bi-for-rookies/",
-      "originalUrl": "https://youtube.com/watch?v=FuGZoRkRmyI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FuGZoRkRmyI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M21S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-02-21T03:51:59-08:00",
-      "heat": 67,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FuGZoRkRmyI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     },
     {
@@ -2168,6 +2090,45 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query.md",
+      "title": "How to filter a table to show only most recent date by group in Power Query",
+      "excerpt": "It is a best practice to load in Power Bi only the data that you need. In today's video, I will show you how you can filter a table by the last date available.   Chapters: 00:00 Intro 00:30 Explain the use case 01:00 The solution Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=hidJ5T_DYQ0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hidJ5T_DYQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M57S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-22T02:35:23-08:00",
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hidJ5T_DYQ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-2-ways-to-reduce-your-power-bi-dataset-size-and-speed-up-refresh.md",
       "title": "2 ways to reduce your Power BI dataset size and speed up refresh",
       "excerpt": "Adam shows you two things to reduce your Power BI dataset size. These are both things he commonly sees with Power BI reports and could potentially save you a lot of space and improve refresh times along with report performance.  Data reduction techniques for import modeling: https://docs.microsoft.com/power-bi/guidance/import-modeling-data-reduction",
@@ -2269,6 +2230,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hGKykytzLXs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-3-easy-ways-to-create-your-power-bi-calendar-table-date-table.md",
+      "title": "3 Easy Ways to Create Your Power BI Calendar Table 🗓️ / Date Table",
+      "excerpt": "👉 Watch the Ultimate Calendar YouTube Playlist https://www.LearnPowerBI.com/calendar  👉 Download the Ultimate Calendar File https://www.LearnPowerBI.com/download  ==Table of Contents==   00:00 Intro: 3 Easy Ways to Create a Power BI Calendar Table 00:45 Use Auto Date/Time to Create Calendar Table",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-3-easy-ways-to-create-your-power-bi-calendar-table-date-table/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-3-easy-ways-to-create-your-power-bi-calendar-table-date-table/",
+      "originalUrl": "https://youtube.com/watch?v=X2aMi_Ekfyw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X2aMi_Ekfyw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT22M55S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2022-08-17T09:00:16-07:00",
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/X2aMi_Ekfyw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
