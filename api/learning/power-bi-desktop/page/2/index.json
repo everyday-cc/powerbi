@@ -238,8 +238,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1292,
-        "average": 4.724458
+        "count": 1293,
+        "average": 4.7246714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -281,8 +281,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 108,
-        "average": 4.7314816
+        "count": 109,
+        "average": 4.733945
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -702,8 +702,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1518,
-        "average": 4.7252965
+        "count": 1520,
+        "average": 4.725658
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -745,8 +745,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 454,
-        "average": 4.6387663
+        "count": 456,
+        "average": 4.640351
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -833,8 +833,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 202,
-        "average": 4.6732674
+        "count": 203,
+        "average": 4.6748767
       },
       "provider": {
         "name": "Microsoft Learn",
