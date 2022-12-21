@@ -575,8 +575,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 182,
-            "average": 4.6813188
+            "count": 183,
+            "average": 4.68306
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -617,8 +617,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 91,
-            "average": 4.7912087
+            "count": 92,
+            "average": 4.7934785
           },
           "provider": {
             "name": "Microsoft Learn",
