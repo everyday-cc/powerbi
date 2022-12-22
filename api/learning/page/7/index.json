@@ -896,8 +896,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1284,
-            "average": 4.738318
+            "count": 1285,
+            "average": 4.7385216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1776,8 +1776,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-calculations/",
           "length": "PT57M",
           "ratings": {
-            "count": 66,
-            "average": 4.348485
+            "count": 67,
+            "average": 4.3432837
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2824,8 +2824,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 1953,
-            "average": 4.737839
+            "count": 1954,
+            "average": 4.737973
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3052,8 +3052,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 1953,
-        "average": 4.737839
+        "count": 1954,
+        "average": 4.737973
       },
       "provider": {
         "name": "Microsoft Learn",
