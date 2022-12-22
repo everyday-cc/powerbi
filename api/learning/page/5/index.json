@@ -779,8 +779,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 3914,
-        "average": 4.7100153
+        "count": 3916,
+        "average": 4.709908
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -821,8 +821,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 5147,
-        "average": 4.7330484
+        "count": 5149,
+        "average": 4.733152
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3108,8 +3108,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 592,
-            "average": 4.7736487
+            "count": 593,
+            "average": 4.77403
           },
           "provider": {
             "name": "Microsoft Learn",

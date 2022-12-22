@@ -2260,7 +2260,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2428,8 +2428,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 5057,
-        "average": 4.80087
+        "count": 5058,
+        "average": 4.8009095
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3040,8 +3040,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5117,
-            "average": 4.725034
+            "count": 5118,
+            "average": 4.725088
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3100,8 +3100,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3169,
-        "average": 4.7573366
+        "count": 3171,
+        "average": 4.7571745
       },
       "provider": {
         "name": "Microsoft Learn",
