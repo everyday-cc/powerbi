@@ -202,8 +202,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 87,
-            "average": 4.678161
+            "count": 88,
+            "average": 4.681818
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -962,8 +962,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-ui/",
       "length": "PT32M",
       "ratings": {
-        "count": 460,
-        "average": 4.7978263
+        "count": 461,
+        "average": 4.7982645
       },
       "provider": {
         "name": "Microsoft Learn",

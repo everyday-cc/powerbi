@@ -3307,7 +3307,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3349,8 +3349,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 2263,
-        "average": 4.666814
+        "count": 2264,
+        "average": 4.6665196
       },
       "provider": {
         "name": "Microsoft Learn",
