@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/subscribe-to-a-report-wit
 webUrl: "https://powerbi.microsoft.com/en-us/blog/subscribe-to-a-report-with-filters-applied/"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:
