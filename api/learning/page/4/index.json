@@ -261,7 +261,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -470,7 +470,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -1434,7 +1434,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -1541,8 +1541,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 7339,
-            "average": 4.7127676
+            "count": 7340,
+            "average": 4.7128067
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2612,8 +2612,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 7339,
-        "average": 4.7127676
+        "count": 7340,
+        "average": 4.7128067
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2929,8 +2929,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 3933,
-        "average": 4.7086196
+        "count": 3934,
+        "average": 4.7084394
       },
       "provider": {
         "name": "Microsoft Learn",
