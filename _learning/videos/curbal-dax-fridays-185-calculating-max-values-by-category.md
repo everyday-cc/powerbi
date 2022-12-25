@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M43S
 publishedDateTime: 2020-09-22T09:53:44Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8KaMj2DFpWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "6yPiJZlFq2PwAdoV/fw0llCX/JSTGfNFzTOh/Cp0Ln9ApFAm5WcsI0oRgBRpjejT2QiWvZPP75NDuM1VWrje7pmxMc4tR2F1SoZispRKHqUY3CFz1kSdi5h9beVENviiOqOsWJsMzyKz4ZFpqwxyQkPMmmN7iWclAF119Xulv1GzyEZpB6MsptMXhyGRmnvZFrhUvv2UM5Z28cTiCdk3Gkihp9rtJ1N+pmNvoZXGibTAiV8fTN6p1EN6Lll1cGNiqaB0QSGO5+oLc36S694SgsHPsTW/0I6lfMSzzyuanhInIazdrnkXq96PmSDnIZnAbbCJXgDvJBk4GfhTtyqIseMfiQ5SUTsmd9k/2xsYMqhwzXAYNbLEsMAMV8rX/v7AQRCDUwr/HsEwOgoeuYbtIwtlBtp/aNWLPg3w4zA1TwU=;t8XQljSmEkPa8DnMo1avag=="
+secured: "b5HVfQ/FrZeh90P8uW5irDTKVsLego+Yd0pBH4T+YA/VFAoDpH86NvkVkYY6kXCH1PJHYkYpZJno43sJV7+vAd0AFAbFe+QCvRn/GBGeqLfXFv0R+Fw9tOPSx/h10ZMx0fV46xafBEaANqbvhJ2OHJdJLmPkfFzF5upsg/VFXpaUOUek2btYcbFi+9mdCNSLAodMhaM/HQROle/YkGho6Dm9spEmzXY6FbI85YWZgSj9YbnoodwIqSwPmkoE7e3FEWFTM4zYgPTOudPTP88Zr+zoDeWM9uB4myN3GuaRAk0CRTFMK5yn16WjAHrPooSKYYF3ELcfuglWWWGXj8r/W+nI+l9Ecn+HV4gdIiDDrpLHnq+3XrZNivemm8vj7vq6P49oz8Uv3v2FD8EamsG6Qd/Hu7h8KBRdxFaBtMwhiag=;r+cmGgW51FpqvTXPvEJsgA=="
 ---
 
