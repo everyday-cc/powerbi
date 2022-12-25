@@ -2594,7 +2594,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-intro-social.png",
@@ -3203,8 +3203,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8901,
-            "average": 4.7468824
+            "count": 8902,
+            "average": 4.7467985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3598,7 +3598,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4506,8 +4506,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 2854,
-            "average": 4.640855
+            "count": 2855,
+            "average": 4.63958
           },
           "provider": {
             "name": "Microsoft Learn",
