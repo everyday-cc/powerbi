@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 212,
-            "average": 4.65566
+            "count": 213,
+            "average": 4.657277
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -890,7 +890,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-intro-social.png",
@@ -1499,8 +1499,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8902,
-            "average": 4.7467985
+            "count": 8903,
+            "average": 4.746827
           },
           "provider": {
             "name": "Microsoft Learn",
