@@ -345,8 +345,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 5703,
-            "average": 4.729265
+            "count": 5704,
+            "average": 4.729313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -447,8 +447,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 2280,
-        "average": 4.6657896
+        "count": 2281,
+        "average": 4.665498
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -489,8 +489,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 2664,
-        "average": 4.721847
+        "count": 2665,
+        "average": 4.721951
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -531,8 +531,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 5703,
-        "average": 4.729265
+        "count": 5704,
+        "average": 4.729313
       },
       "provider": {
         "name": "Microsoft Learn",
