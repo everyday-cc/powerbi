@@ -1265,7 +1265,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
@@ -1474,7 +1474,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
@@ -4738,8 +4738,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 5701,
-            "average": 4.7291703
+            "count": 5702,
+            "average": 4.729218
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4780,8 +4780,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 5162,
-            "average": 4.732468
+            "count": 5166,
+            "average": 4.7324815
           },
           "provider": {
             "name": "Microsoft Learn",
