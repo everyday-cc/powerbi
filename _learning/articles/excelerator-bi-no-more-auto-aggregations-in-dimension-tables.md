@@ -4,7 +4,7 @@ excerpt: ""
 webUrl: https://exceleratorbi.com.au/no-more-auto-aggregations-in-dimension-tables/
 type: article
 publishedDateTime: 2022-10-10T19:55:29Z
-heat: 130
+heat: 52
 
 provider:
   name: Excelerator BI
