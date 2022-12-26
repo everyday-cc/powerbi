@@ -2754,8 +2754,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
           "length": "PT1H30M",
           "ratings": {
-            "count": 85,
-            "average": 4.8352942
+            "count": 86,
+            "average": 4.837209
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2840,8 +2840,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-calculation-groups/",
           "length": "PT1H3M",
           "ratings": {
-            "count": 68,
-            "average": 4.8382354
+            "count": 69,
+            "average": 4.8405795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2882,8 +2882,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
           "length": "PT1H21M",
           "ratings": {
-            "count": 61,
-            "average": 4.7868853
+            "count": 62,
+            "average": 4.790323
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4306,8 +4306,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 8913,
-            "average": 4.746662
+            "count": 8914,
+            "average": 4.7466908
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4994,7 +4994,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
