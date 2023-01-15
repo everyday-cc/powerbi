@@ -2,6 +2,159 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-01-15-microsoft-power-bi-data-analytics-goes-mainstream.md",
+      "title": "Microsoft Power BI: Data analytics goes mainstream",
+      "excerpt": "Read more about it here. Power BI takes over where the earlier Excel add-on left off, and does so with some style, enabling Microsoft to join the leaders in this increasingly competitive market.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-15-microsoft-power-bi-data-analytics-goes-mainstream/index.json",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-power-bi-data-analytics-goes-mainstream/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-power-bi-data-analytics-goes-mainstream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2016/06/13/bde7e1a2-6fd9-4bd5-8a8f-7f8f537c7024/resize/400x/cbe7b302fbdf1a9bc69ce28a46de0bbf/power-bi-main.jpg",
+          "width": 400,
+          "height": 265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsoft-power-bi-data-analytics-goes-mainstream/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsoft-power-bi-data-analytics-goes-mainstream/",
+      "publishedDateTime": "2022-01-14T12:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-14-unleash-your-inner-data-scientist-by-learning-excel-and-power-bi.md",
+      "title": "Unleash Your Inner Data Scientist by Learning Excel and Power BI",
+      "excerpt": "Data rules everything in business these days. From keeping spreadsheets of client information to harvesting mass amounts of website visitor data to determine customer insights, the way you use data can make a big difference in your company's bottom line.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-14-unleash-your-inner-data-scientist-by-learning-excel-and-power-bi/index.json",
+      "webUrl": "https://www.entrepreneur.com/article/412151",
+      "originalUrl": "https://www.entrepreneur.com/article/412151",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1641596116-EntMSExcel.jpeg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-13-how-to-integrate-power-bi-reporting-into-net-apps.md",
+      "title": "How to Integrate Power BI Reporting into .NET apps",
+      "excerpt": "Since the Report Viewer control was first introduced over a decade ago, it has been a key component that allowed developers to surface report content easily in their applications. But although the application development landscape has changed significantly since that time, support for the control is",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-13-how-to-integrate-power-bi-reporting-into-net-apps/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/how-to-integrate-power-bi-reporting-into-net-apps/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/how-to-integrate-power-bi-reporting-into-net-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-13T02:09:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-12-26-learn-to-control-the-data-in-your-life-with-this-excel-and-power-bi-training.md",
       "title": "Learn to control the data in your life with this Excel and Power BI training",
       "excerpt": "TL;DR: The 2022 Ultimate Microsoft Excel and Power BI Certification Bundle is just $34.99 at the Mashable Shop as of Dec. 26. We’re dealing with more data than ever before in 2021 — and 2022 ...",
@@ -1089,161 +1242,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-power-bi-bolsters-azure-as-compatibility-with-effectiveusername-support.md",
-      "title": "Power BI bolsters Azure AS compatibility with EffectiveUserName support",
-      "excerpt": "We are announcing support for user impersonation using the EffectiveUserName connection-string property. This is truly exciting because it opens the door for mass migrations of tabular Analysis Services solutions that rely on EffectiveUserName-based impersonation to Power BI. It also opens new options",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-11-18-power-bi-bolsters-azure-as-compatibility-with-effectiveusername-support/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-bolsters-azure-as-compatibility-with-effectiveusername-support/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-bolsters-azure-as-compatibility-with-effectiveusername-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T00:24:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-export-to-excel-improvements-for-table-and-matrix-visuals-preview.md",
-      "title": "Export to Excel Improvements for Table and Matrix Visuals (Preview)",
-      "excerpt": "We&#8217;re excited to announce enhancements to the export to Excel experience. Read this blog to learn how these changes help more Excel users use data from Power BI to make decisions. ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-11-16-export-to-excel-improvements-for-table-and-matrix-visuals-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/export-to-excel-improvements-for-table-and-matrix-visuals-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/export-to-excel-improvements-for-table-and-matrix-visuals-preview/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SHLzXTMI3Gk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T03:30:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2021-11-16-feature-summary-of-the-power-bi-vovember-update-2021.md",
-      "title": "Feature summary of the Power BI Vovember update 2021",
-      "excerpt": "nother month, another power BI update, this time for November 2021!!  Vote to get charticulator integrated in Power BI here: https://ideas.powerbi.com/ideas/idea/?ideaid=6d7d6592-3aff-4b83-a4cf-806b593fc841  Ignite news here: https://www.youtube.com/watch?v=5jDG34HWG5s&ab_channel=Curbal  Chapters: 00:00",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-11-16-feature-summary-of-the-power-bi-vovember-update-2021/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2021-11-16-feature-summary-of-the-power-bi-vovember-update-2021/",
-      "originalUrl": "https://youtube.com/watch?v=SHLzXTMI3Gk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SHLzXTMI3Gk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SHLzXTMI3Gk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-16T02:33:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

@@ -2,6 +2,159 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-01-13-announcing-power-bi-in-microsoft-teams-collaboration-experiences-improvements.md",
+      "title": "Announcing Power BI in Microsoft Teams collaboration experiences improvements",
+      "excerpt": "We’re excited to start the year by announcing updates to the Power BI in Microsoft Teams experiences. Today we’re announcing three new capabilities that are starting to roll out, and a hint about things to look forward to in the coming weeks.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-01-13-announcing-power-bi-in-microsoft-teams-collaboration-experiences-improvements/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-microsoft-teams-collaboration-experiences-improvements/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-microsoft-teams-collaboration-experiences-improvements/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2023/01/word-image-3.png",
+          "width": 903,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T05:29:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-13-announcing-viva-goals-metrics-integration-scorecard-time-zones-and-more.md",
+      "title": "Announcing: Viva Goals + Metrics integration, scorecard time zones and more",
+      "excerpt": "New year, new features! We are excited to announce the general availability of the Viva Goals Power BI integration and three new Metrics features specifically answering common customer asks. A new, optional column for milestones, scorecard time zones, and a handy auto collapse / auto expand feature.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-01-13-announcing-viva-goals-metrics-integration-scorecard-time-zones-and-more/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-viva-goals-metrics-integration-scorecard-time-zones-and-more/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-viva-goals-metrics-integration-scorecard-time-zones-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-13T03:15:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2023-01-10-thank-you-power-bi-community.md",
+      "title": "Thank You Power BI Community!",
+      "excerpt": "Thank you Power BI Community and look back of 2022 feature releases, and when the upcoming release will be available. ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-01-10-thank-you-power-bi-community/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/one-list-of-2022-feature-releases-and-thank-you-power-bi-community/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/one-list-of-2022-feature-releases-and-thank-you-power-bi-community/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-01-10T05:24:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-12-20-feature-summary-of-power-bi-update-december-2022.md",
       "title": "Feature summary of Power BI update December 2022",
       "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
@@ -1125,160 +1278,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-announcing-submetric-roll-ups-in-power-bi-metrics.md",
-      "title": "Announcing submetric roll ups in Power BI Metrics",
-      "excerpt": "Announcing submetric roll ups in Power BI Metrics: automatically aggregate submetric values to a parent metric, allowing less time updating data, and more time tracking performance.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-10-18-announcing-submetric-roll-ups-in-power-bi-metrics/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-submetric-roll-ups-in-power-bi-metrics/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-submetric-roll-ups-in-power-bi-metrics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T04:35:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-introducing-cross-tenant-power-bi-dataset-sharing.md",
-      "title": "Introducing Cross-tenant Power BI Dataset Sharing",
-      "excerpt": "Our new cross-tenant dataset sharing capability is now available in public preview! This exciting capability allows customers to share their Power BI datasets with external users (consumers) in a way that allows these external users to access the datasets in their own Power BI tenant. ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-10-12-introducing-cross-tenant-power-bi-dataset-sharing/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/introducing-cross-tenant-power-bi-dataset-sharing/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/introducing-cross-tenant-power-bi-dataset-sharing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T00:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-power-query-sdk-for-visual-studio-code-public-preview.md",
-      "title": "Power Query SDK for Visual Studio Code – Public Preview",
-      "excerpt": "We are excited to announce the Public Preview release of our new Power Query SDK for Visual Studio Code!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-10-11-power-query-sdk-for-visual-studio-code-public-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-query-sdk-for-visual-studio-code-public-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-query-sdk-for-visual-studio-code-public-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T09:23:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     }
   ],
