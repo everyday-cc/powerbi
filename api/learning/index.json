@@ -209,31 +209,70 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-can-you-solve-this-murder-with-power-bi-perfect-for-power-bi-beginners.md",
-      "title": "Can you solve this murder with Power BI? | Perfect for Power BI beginners",
-      "excerpt": "A crime has taken place and the detective needs your help.  The detective gave you the crime scene report, but you somehow lost it.  You vaguely remember that the crime was a ​murder​ that occurred sometime on ​Jan.15, 2018​ and that it took place in ​SQL City​....  Here are details to solve it yourself:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-can-you-solve-this-murder-with-power-bi-perfect-for-power-bi-beginners/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-can-you-solve-this-murder-with-power-bi-perfect-for-power-bi-beginners/",
-      "originalUrl": "https://youtube.com/watch?v=mnTAncnNc84",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mnTAncnNc84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M3S",
+      "path": "_learning/videos/guy-in-a-cube-a-power-query-tip-for-you.md",
+      "title": "A Power Query tip for you",
+      "excerpt": "You probably know that you can concatenate strings in Power Query. Not big news there. But do you know how to change the order of how things are concatenated? Patrick shows you how!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-a-power-query-tip-for-you/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-a-power-query-tip-for-you/",
+      "originalUrl": "https://youtube.com/watch?v=t3Zsdbr-_So",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t3Zsdbr-_So\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M59S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-11-22T04:28:32-08:00",
-      "heat": 131,
+      "publishedDateTime": "2022-12-14T08:00:24-08:00",
+      "heat": 137,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mnTAncnNc84/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/t3Zsdbr-_So/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi.md",
+      "title": "Can you make a two-line dynamic title in Power BI?",
+      "excerpt": "Dynamic titles in Power BI can be really useful. What about a multi-line title? Patrick is answering a commenter's question on how to create a two-line dynamic title!  Dynamic Titles in Power BI Desktop https://www.youtube.com/watch?v=TYLKDPcvgK8  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=_n4kG9qpfIs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_n4kG9qpfIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M8S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-12-07T08:00:16-08:00",
+      "heat": 134,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_n4kG9qpfIs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -247,59 +286,33 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-build-your-first-report.md",
-      "title": "Create and share your first Power BI report",
-      "excerpt": "With Power BI, you can create compelling visuals and reports. In this module, you learn how to use Power BI Desktop to connect to data, build visuals, and create a report that you can share with others in your organization. You then learn how to publish the report to the Power BI service, so that others can see your insights and benefit from your work.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-build-your-first-report/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-your-first-power-bi-report/",
-      "length": "PT55M",
-      "ratings": {
-        "count": 6434,
-        "average": 4.7764997
-      },
+      "path": "_learning/videos/curbal-create-and-test-color-palettes-for-your-data-project-quickly-and-easily.md",
+      "title": "Create and test color palettes for your data project quickly and easily!",
+      "excerpt": "DataViz palette allows you to quickly see what your color palette would like on an actual graph. No longer spend ages on your color choices only to realize that they don't quite hit the mark once you've plugged in your data.  Experiment with different colors by importing palettes from your favourite",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-and-test-color-palettes-for-your-data-project-quickly-and-easily/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-and-test-color-palettes-for-your-data-project-quickly-and-easily/",
+      "originalUrl": "https://youtube.com/watch?v=FThnAmHyCW0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FThnAmHyCW0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M4S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/absent-data-channel-how-to-avoid-python-errors-in-power-bi-python-power-bi-tutorial-for-beginners.md",
-      "title": "How To Avoid Python Errors In Power BI || Python Power BI Tutorial For Beginners",
-      "excerpt": "Hello Viewers👋  If you are getting missing dependency errors when integrating Power BI visuals or scripts, you can follow this easy to a tutorial that will eliminate that problem in minutes.  If you are getting NumPy errors like the one below.  This will help you avoid this issue by launching Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-how-to-avoid-python-errors-in-power-bi-python-power-bi-tutorial-for-beginners/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-how-to-avoid-python-errors-in-power-bi-python-power-bi-tutorial-for-beginners/",
-      "originalUrl": "https://youtube.com/watch?v=EtQWXg-XofI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EtQWXg-XofI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M11S",
-      "provider": {
-        "name": "Absent Data Channel",
-        "domain": "absentdata.com"
-      },
-      "publishedDateTime": "2022-10-24T00:53:16-07:00",
+      "publishedDateTime": "2022-10-19T02:55:16-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/EtQWXg-XofI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/FThnAmHyCW0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -644,8 +657,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 52445,
-            "average": 4.7974067
+            "count": 52449,
+            "average": 4.7974224
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -686,8 +699,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 75530,
-            "average": 4.778512
+            "count": 75533,
+            "average": 4.7785206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -746,8 +759,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 75530,
-        "average": 4.778512
+        "count": 75533,
+        "average": 4.7785206
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -904,8 +917,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 52445,
-        "average": 4.7974067
+        "count": 52449,
+        "average": 4.7974224
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1099,8 +1112,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 22494,
-        "average": 4.7238817
+        "count": 22496,
+        "average": 4.7239065
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1164,8 +1177,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 11863,
-            "average": 4.7477875
+            "count": 11865,
+            "average": 4.74783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1240,8 +1253,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 75530,
-            "average": 4.778512
+            "count": 75533,
+            "average": 4.7785206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1300,8 +1313,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 11863,
-        "average": 4.7477875
+        "count": 11865,
+        "average": 4.74783
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1434,8 +1447,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 75530,
-            "average": 4.778512
+            "count": 75533,
+            "average": 4.7785206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1476,8 +1489,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 31945,
-            "average": 4.726718
+            "count": 31947,
+            "average": 4.726735
           },
           "provider": {
             "name": "Microsoft Learn",
