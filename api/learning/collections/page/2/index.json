@@ -2518,8 +2518,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 544,
-            "average": 4.7867646
+            "count": 546,
+            "average": 4.7875457
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2728,8 +2728,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 544,
-            "average": 4.7867646
+            "count": 546,
+            "average": 4.7875457
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4438,8 +4438,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 5888,
-            "average": 4.7309785
+            "count": 5889,
+            "average": 4.731024
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4605,8 +4605,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3033,
-            "average": 4.641609
+            "count": 3034,
+            "average": 4.641727
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4730,8 +4730,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2463,
-            "average": 4.721478
+            "count": 2464,
+            "average": 4.721591
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4897,8 +4897,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1854,
-            "average": 4.711435
+            "count": 1855,
+            "average": 4.7115903
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5022,8 +5022,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9662,
-            "average": 4.674912
+            "count": 9665,
+            "average": 4.675013
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5056,8 +5056,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10288,
-            "average": 4.703052
+            "count": 10289,
+            "average": 4.703081
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5098,8 +5098,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1461,
-            "average": 4.7385354
+            "count": 1462,
+            "average": 4.738714
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5334,8 +5334,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 431,
-            "average": 4.7610207
+            "count": 432,
+            "average": 4.7615743
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5436,7 +5436,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/explore-data-analytics-at-scale-social.png",
