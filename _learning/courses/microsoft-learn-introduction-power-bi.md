@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT46M
 ratings:
-  count: 11919
-  average: 4.7473783
+  count: 11921
+  average: 4.7474203
 heat: 85
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 322
     isCached: true
 
-secured: "sJNdKQkVyat/rY7AnOBh3y47PdyVm5LBL75bIhNHOuQN9kFAGMdJEbT7dcOTd58MePIcEDlq3LkhEk2TdzPKFa+2UFHQEytpznoo0TVq/i+Enp6hbFZnH9eT/FrCD8GfWA8O+xKDac695Bppeq+mMP3b2E5ZsoqPdxcGc281a8BFLiImblmSPjwLfWxwuDfk6SrN80uNl/Ed4iLaRevadhOWXC7JZee1Csb5VtHN5T6UG3ULyb1kS2FB/1zl8E+nK/CD0vSqp2VfSxUQjZdAeC6YojKhgVT89usEq3Sds8S3u96d6Q8DxUTeEiYGRHAgmd801dYn9WDjI8GD1AaxVgb6P+Z+vrdkik+O1i2EHk/pf4PBRAJZ1G+VH2ToMEpOv01RqYwQWhzDnJdWTPFByi1QgbrlonPgqZfPsbfQteI=;SEl2aef2bJONclRfgOJOxw=="
+secured: "8b1ZCAZ0/DF9prv4fasxMh1BBp3joBmID0/VZ/E7PsyCw2CV0JxvP5DMps1v07NBQ/heuT3UiWwf4rxfsGyINwPMXlz0dyteGvd3R4FlvpkWk4QeG1WbyOn9JafvkXz2GV61cW7N8yCtcdedWzQO5PuT4h8ya1xQlcG/DeYvc02UWng89pyIDY3gRlhKnGVLjqTfp2xTrTSmgRsg1v5mstxz/EId8dnPZNgEErs4scDmK83wcsRlNSf8hiobzSnxVEuHMFWiHDnsUC91VahpmiRydrur1xISrF3Oz7Mnn5Vtetd/QOC5ovEVANyjykafKt2giKZ1A20Ro5vprZoQieqTeZt0N1NdJRmSOSKdVDoDbZTQCrMnAzZgoYL36AFKhnCtCoqv11Gu0NaqaQCc0cIH6zCFYVcKI3wAFab7Dts=;1nKi86Z8PqiUiYYapkQ8Sw=="
 ---
 
