@@ -2411,7 +2411,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-content-social.png",
@@ -2603,8 +2603,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 276,
-            "average": 4.7971015
+            "count": 277,
+            "average": 4.797834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2813,8 +2813,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 276,
-            "average": 4.7971015
+            "count": 277,
+            "average": 4.797834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4730,8 +4730,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2464,
-            "average": 4.721591
+            "count": 2465,
+            "average": 4.721298
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5022,8 +5022,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9666,
-            "average": 4.674943
+            "count": 9667,
+            "average": 4.674977
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5040,7 +5040,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 63,
+          "heat": 65,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -5056,8 +5056,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10289,
-            "average": 4.703081
+            "count": 10290,
+            "average": 4.7030125
           },
           "provider": {
             "name": "Microsoft Learn",

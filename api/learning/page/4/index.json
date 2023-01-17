@@ -1205,7 +1205,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-content-social.png",
@@ -1397,8 +1397,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 276,
-            "average": 4.7971015
+            "count": 277,
+            "average": 4.797834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1607,8 +1607,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 276,
-            "average": 4.7971015
+            "count": 277,
+            "average": 4.797834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3209,8 +3209,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 7576,
-        "average": 4.712513
+        "count": 7578,
+        "average": 4.712457
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3252,8 +3252,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 14605,
-        "average": 4.7200956
+        "count": 14606,
+        "average": 4.720115
       },
       "provider": {
         "name": "Microsoft Learn",
