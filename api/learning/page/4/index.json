@@ -227,8 +227,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3040,
-            "average": 4.642105
+            "count": 3042,
+            "average": 4.6420116
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -287,7 +287,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 56,
+          "heat": 136,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-reports-with-power-bi-desktop-social.png",
@@ -926,8 +926,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 9219,
-            "average": 4.7452
+            "count": 9220,
+            "average": 4.745228
           },
           "provider": {
             "name": "Microsoft Learn",
