@@ -1144,8 +1144,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2203,
-            "average": 4.7253747
+            "count": 2204,
+            "average": 4.725045
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2064,7 +2064,7 @@
             "domain": "youtube.com"
           },
           "publishedDateTime": "2020-10-26T20:53:28-07:00",
-          "heat": 50,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/qZYyGG2L8gI/maxresdefault.jpg",
