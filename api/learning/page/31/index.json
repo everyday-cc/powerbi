@@ -834,8 +834,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 434,
-            "average": 4.762673
+            "count": 435,
+            "average": 4.7632184
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -876,8 +876,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 401,
-            "average": 4.830424
+            "count": 402,
+            "average": 4.830846
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -918,8 +918,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 305,
-            "average": 4.7704916
+            "count": 306,
+            "average": 4.7712417
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1104,8 +1104,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 533,
-        "average": 4.7973733
+        "count": 534,
+        "average": 4.797753
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1233,8 +1233,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2204,
-        "average": 4.725045
+        "count": 2205,
+        "average": 4.72517
       },
       "provider": {
         "name": "Microsoft Learn",
