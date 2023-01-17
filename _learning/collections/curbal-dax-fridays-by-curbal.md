@@ -244,6 +244,7 @@ items:
   - videos/curbal-is-the-new-quick-measures-feature-any-good-lets-find-out
   - videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it
   - videos/curbal-dax-fridays-217-evaluateandlog
+  - videos/curbal-dax-fridays-218-window-functions-in-dax-explained-with-example
 
 topics:
   - Power BI

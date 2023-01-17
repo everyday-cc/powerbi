@@ -118,8 +118,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 304,
-            "average": 4.769737
+            "count": 305,
+            "average": 4.7704916
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -720,7 +720,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-environment-social.png",
@@ -744,8 +744,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 102,
-            "average": 4.77451
+            "count": 103,
+            "average": 4.776699
           },
           "provider": {
             "name": "Microsoft Learn",
