@@ -4,6 +4,37 @@
   "page": 66,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-add-comment-or-description-for-your-power-query-steps-power-bi-developer-tip.md",
+      "title": "Add Comment or Description for your Power Query Steps | Power BI Developer Tip",
+      "excerpt": "During this 2 minute Power BI Tip, I'm going to share one interesting hidden feature of Power Query.  What if you wish to add a comment for your Power Query Step? What if you wish to add a comment about why the step is being used for the Business logic?  This trick will help you for sure. In this tip,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-add-comment-or-description-for-your-power-query-steps-power-bi-developer-tip/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-add-comment-or-description-for-your-power-query-steps-power-bi-developer-tip/",
+      "originalUrl": "https://youtube.com/watch?v=8VjVkQkqAKU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8VjVkQkqAKU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-06-16T05:06:09-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/8VjVkQkqAKU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-add-office-365-security-group-as-member-for-the-created-role-for-row-level-security.md",
       "title": "Add Office 365 Security Group as member for the Created Role for Row Level Security",
       "excerpt": "In Power BI, we need to assign the role to the specific people if we have applied Row Level Security in our report.  Sometimes it’s a very tedious process to add all the users one by one to the specific role. Now, to overcome this situation, here is a tip you can use for your RLS report.  You can create",
@@ -875,37 +906,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-dax-code-formatter-in-power-bi.md",
-      "title": "DAX Code Formatter in Power BI",
-      "excerpt": "Mostly we are using the complex DAX formula in our Power BI report. So, we have a question that how we can format our DAX formula in Power BI? Is there any way to format our DAX code so that it looks nice? Yes, now we can format our Power BI DAX Code using an External tool called Tabular Editor.  Before",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-dax-code-formatter-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-dax-code-formatter-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=vFCefuS1ItQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vFCefuS1ItQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M41S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-03-27T19:13:30-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vFCefuS1ItQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     }
   ],
