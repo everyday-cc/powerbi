@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-mi
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-microsoft-teams-collaboration-experiences-improvements/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
