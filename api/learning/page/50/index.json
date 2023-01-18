@@ -308,8 +308,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 507,
-        "average": 4.710059
+        "count": 508,
+        "average": 4.71063
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -524,8 +524,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
       "length": "PT29M",
       "ratings": {
-        "count": 159,
-        "average": 4.748428
+        "count": 160,
+        "average": 4.75
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -692,8 +692,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 436,
-        "average": 4.7637615
+        "count": 437,
+        "average": 4.755149
       },
       "provider": {
         "name": "Microsoft Learn",
