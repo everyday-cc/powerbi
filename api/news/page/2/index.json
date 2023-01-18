@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-22-how-to-add-a-year-to-date-running-total-in-microsoft-power-bi.md",
+      "title": "How to add a year-to-date running total in Microsoft Power BI",
+      "excerpt": "Power BI quick measures can return a simple running total and a year-to-date total with little effort on your part.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-10-22-how-to-add-a-year-to-date-running-total-in-microsoft-power-bi/index.json",
+      "webUrl": "https://www.techrepublic.com/article/add-year-to-date-running-total-microsoft-power-bi/",
+      "originalUrl": "https://www.techrepublic.com/article/add-year-to-date-running-total-microsoft-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2022/10/tr-pbi-running-total.jpeg?x85972",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/add-year-to-date-running-total-microsoft-power-bi/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/add-year-to-date-running-total-microsoft-power-bi/amp/",
+      "publishedDateTime": "2022-10-21T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-power-bi-october-2022-feature-summary.md",
       "title": "Power BI October 2022 Feature Summary",
       "excerpt": "Welcome to the October 2022 update. This month’s update is packed with exciting updates to features like Power BI metrics, Modeling, Deployment pipelines, and more. Please read on for all the details, and feel free to leave your thoughts in the comments below the post. We would love to hear from you!",
@@ -1204,57 +1255,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-08-16T07:21:05-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-on-premises-data-gateway-august-2022-update-is-now-available.md",
-      "title": "On-premises data gateway August 2022 update is now available",
-      "excerpt": "Here is our on-premises data gateway August release! Use it to be compatible with the August Power BI Desktop and let us know what you think. ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-15-on-premises-data-gateway-august-2022-update-is-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-august-2022-update-is-now-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-august-2022-update-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T10:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
