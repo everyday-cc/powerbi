@@ -1932,7 +1932,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
@@ -2141,7 +2141,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
@@ -3044,8 +3044,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 50,
-            "average": 4.66
+            "count": 52,
+            "average": 4.673077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3801,8 +3801,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 9689,
-        "average": 4.675405
+        "count": 9691,
+        "average": 4.675266
       },
       "provider": {
         "name": "Microsoft Learn",
