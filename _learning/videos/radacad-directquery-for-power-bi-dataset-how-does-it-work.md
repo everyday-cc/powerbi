@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT14M1S
 publishedDateTime: 2020-12-30T05:09:29Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WowP5vOgeqI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "K4hUjHjb3RDGCooemgxikKQA2EfU3radB84PRpCbdUcVvSbSarowrTvKSTjrzTH9JfVsUZ09R60nrA4r0uNqHW4FtDx8rgwlc5iyJnEMIjnY/rCYBxEezNrn04jNxR/o18WAxyRimcbvZT4mecnWocyy0AsFHqov7mqomVyeXVNvDoJvA0tVddW9jHP0TyOl7tOm68afcdV+Y/xQkwgchLI4+6UGptDDj2QI3A6uXdNC8MFrJ1o/k9lcA04la2//nTRT2gg64wufGEipBwYxCK0EU+HoUkHSavyzg+p3BFPlMHHto15c3dhSkDbexAFWTPl8qJuZ6Mdoac1FkeXoPtBa3D+RfS9BeoSy1jS1LJIwZJGwgvbmaxW/faavVXErBsiPtja8zdcErZ80BjkWel2U0yEhTC9yt8wF/9IeNAE=;RuMS7wjw3fDiwkudfY/iWg=="
+secured: "ZZk5+mBJXni6+GpFWMb0mKvz7XbaHypDz7MBXLk7lgfCMxIHQKtpDVVLBCk0kR39HrYwCnvf7//Ouatu/eyn4/6tvHONdk8Ls1SgEEiD0tLQy7OZ3Sf+k/TDzAblp90e0volUQWtR6Thiw/KkCtGpa8+iFWuP5q5/mUYDHGxs+W0sF7Hm6bss895OVYu880PYRYHT9wGdL71t0iJELkZbDZzrJOeuj5K7UKIKu+50jX3rvKayxuaYgPVLj80sZ9+INE7EguJngo7NeU5ftwRPvSNZ1AVzWqZYyGA0m5Mk7ALgNVPKMy0q13PR/FHImCzGRBfaMnr6MHhYolnSdBYXWmJxISpQ+HyPlgEEUBXL7itehfmTGpum3aGaSSvsXW6f9IHnQxV0HLvyiymI1dm++ZWFzbXuv123odY0uNwrrQ=;n0DV/TLQ4XnReACcq9dA6w=="
 ---
 

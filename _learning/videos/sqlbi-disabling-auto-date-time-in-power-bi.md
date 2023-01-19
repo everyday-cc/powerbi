@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT2M51S
 publishedDateTime: 2020-06-16T15:30:13Z
-heat: 54
+heat: 55
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xu3uDEHtCrg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "b0gvCCixZ2+7LKC9z6di/mbfe3XNNJx39zx3EhbfhP6wJrlYUgNYST83bpgBZZY2oAC+d4w1l5HVeOwbqkshjYAmd+P9DjrPn4xCIpIVvV+7aoZW5PNxpdePfQncaPMfX6BmLvZbqD1vgGjQea1aZd5mUbrxp3+sGOVKrxYiErwcAuytQ7bg8juyCcJ4e9Et9rwG12PWDxSK6Mxm/0CHgzPYL6HYwEjCY/HdAoVXkehsBc/QlEi7l2HdIHdkwTV8JClXXNIYfENkvWjGXREnuv99ZS+yNRiGN4qrecVNE9pDTtZWn/aoEQxSjn1EUy7oZRlxmbKSc03UNZB9Hv84pC+8ssNEO90Zp29ksqSKRR83A7IiSKZg8/5eCDPHR1VfAtBv3GySMVZmdB+NYTEfBxwdiF1IGp5LpIyqVCtBGW0=;uyFD5UaTtvg1CfeTYKa7nw=="
+secured: "DUi+rfrg3CdHq8iVpelNdIyU+lAX6+EUJGk7BTbjhTYl6pfd0BwipABX3BCDxvOLUVJH6lEHjs+5/cYTrtRNkinZ69GA0D92qF5ItH97Fn4OhHHOswSihQXurQO8xdu13Fz5hpWRWoUasu9p2H/j6GEjY2EAYwsO85NuDcd47Gsk0KavbtbIzeRoqbVfBXRNP/bCoiD3p7LKciT9lbHGqyUrWbdzlVUDcZkYKC+l1qQ6MqEG2k20NvhYuhEnmGVTTeBiOyRn2ZTlYol7ivTNZru4mdC2ifvuyWY//bYHw5VOQd1TqtGaTyjR47a5sWiWonc0L7iOWGtDoouVP0GYKtnt5A26ea3nrGBUUEwaWT3DeakGQaIVgtGM3MDXV/CtnOU9EcMjjx/8CZROuoU26PqD99wDW32YXMMJctCiGQs=;CMFDKg9xsMi/i/xoGBc2fQ=="
 ---
 
