@@ -1417,8 +1417,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 54,
-            "average": 4.685185
+            "count": 55,
+            "average": 4.690909
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2298,8 +2298,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 6418,
-        "average": 4.763322
+        "count": 6419,
+        "average": 4.763203
       },
       "provider": {
         "name": "Microsoft Learn",
