@@ -226,6 +226,36 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-power-bi-rest-api-what-it-is-and-why-it-is-important.md",
+      "title": "Power BI REST API; What it is and Why it is Important",
+      "excerpt": "You can interact with the Power BI objects in the Power BI Service through a set of APIs called Power BI REST API. The Power BI REST API can help automate tasks, build tools that work with Power BI, the configuration of Power BI outside of the platform, and embed Power BI into a third-party application.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-rest-api-what-it-is-and-why-it-is-important/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-rest-api-what-it-is-and-why-it-is-important/",
+      "originalUrl": "https://youtube.com/watch?v=mCUfmanCpIQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mCUfmanCpIQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M27S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2023-01-18T20:05:26-08:00",
+      "heat": 152,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mCUfmanCpIQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-powershell-cmdlets-for-power-bi-what-is-it-and-why-should-you-care.md",
       "title": "PowerShell Cmdlets for Power BI What is it And Why should you care",
       "excerpt": "Power BI has a set of PowerShell Cmdlets that help automate part of the operations with Power BI. However, PowerShell is not a commonly familiar technology. In the world of Power BI, we are used to working with graphical options and settings provided in the tools and the service. However, using commands",
@@ -256,82 +286,14 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-why-power-bi-totals-might-seem-wrong.md",
-      "title": "Why Power BI totals might seem wrong",
-      "excerpt": "A common question is why Power BI totals are inaccurate because they do not display the sum of individual rows. In this video, we explain the reasons why those totals are correct.\r Article and download: https://sql.bi/772093?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-why-power-bi-totals-might-seem-wrong/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-why-power-bi-totals-might-seem-wrong/",
-      "originalUrl": "https://youtube.com/watch?v=6rgAkejrup8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6rgAkejrup8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M55S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-10-25T03:00:42-07:00",
-      "heat": 139,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6rgAkejrup8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-new-way-to-upload-file-from-power-bi-workspace.md",
-      "title": "New way to Upload File from Power BI Workspace",
-      "excerpt": "In this short video, let's talk about new way to upload files from Power BI Workspace. In the workspace you want to add files to, you’ll see an Upload option next to the New button. You’ll be able to use this dropdown to connect to files stored in OneDrive for Business or any SharePoint site you have",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-way-to-upload-file-from-power-bi-workspace/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-way-to-upload-file-from-power-bi-workspace/",
-      "originalUrl": "https://youtube.com/watch?v=91LmNtIIc38",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/91LmNtIIc38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M26S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2022-12-12T18:51:52-08:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/91LmNtIIc38/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it.md",
-      "title": "Problems installing the DAX Debugger? Here is how to do it.",
-      "excerpt": "Problems installing the DAX Debugger? Here is how to do it.  Link to Jeffrey's blog: https://pbidax.wordpress.com/2022/08/16/introduce-the-dax-evaluateandlog-function/  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it/",
-      "originalUrl": "https://youtube.com/watch?v=hG27iTTZ6tY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hG27iTTZ6tY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M",
+      "path": "_learning/videos/curbal-override-drillthrough-filters-in-power-bi.md",
+      "title": "Override drillthrough filters in Power BI",
+      "excerpt": "Are you filtering by a cateogry on a drillthrough page but you want to compare against all categories in the same page? Here is how.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-override-drillthrough-filters-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-override-drillthrough-filters-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=BG51W2lKYIA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BG51W2lKYIA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M31S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -344,11 +306,41 @@
           }
         ]
       },
-      "publishedDateTime": "2022-12-06T00:42:49-08:00",
-      "heat": 130,
+      "publishedDateTime": "2022-11-08T05:15:35-08:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hG27iTTZ6tY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/BG51W2lKYIA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-why-do-you-need-power-bi-service.md",
+      "title": "Why Do You Need Power BI Service",
+      "excerpt": "The Power BI toolset comes in many shapes and forms. There is a Power BI Desktop, Power BI Mobile app, Power BI Report Server, and Power BI Service (and some other applications and components too). The questions I hear from the new users of Power BI are; Do I need to have an account for Power BI? do",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-why-do-you-need-power-bi-service/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-why-do-you-need-power-bi-service/",
+      "originalUrl": "https://youtube.com/watch?v=XSFPNyIfoSA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XSFPNyIfoSA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M19S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-11-02T21:23:50-07:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XSFPNyIfoSA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -359,7 +351,41 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "DAX"
+        "Power BI Service"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-fit-gap-analysis.md",
+      "title": "Perform fit gap analysis",
+      "excerpt": "Learn about performing a fit gap analysis as a solution architect for Dynamics 365 and Microsoft Power Platform.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-fit-gap-analysis/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fit-gap-analysis/",
+      "length": "PT35M",
+      "ratings": {
+        "count": 479,
+        "average": 4.7473903
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 130,
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -393,8 +419,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 52738,
-            "average": 4.797774
+            "count": 52741,
+            "average": 4.797766
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -435,8 +461,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 75924,
-            "average": 4.7786074
+            "count": 75930,
+            "average": 4.778625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -495,8 +521,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 75924,
-        "average": 4.7786074
+        "count": 75930,
+        "average": 4.778625
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -764,8 +790,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 52738,
-        "average": 4.797774
+        "count": 52741,
+        "average": 4.797766
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1060,8 +1086,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 12039,
-            "average": 4.747321
+            "count": 12041,
+            "average": 4.747363
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1136,8 +1162,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 75924,
-            "average": 4.7786074
+            "count": 75930,
+            "average": 4.778625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1196,8 +1222,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 12039,
-        "average": 4.747321
+        "count": 12041,
+        "average": 4.747363
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1238,8 +1264,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 22664,
-        "average": 4.7241
+        "count": 22665,
+        "average": 4.724112
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1303,8 +1329,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 75924,
-            "average": 4.7786074
+            "count": 75930,
+            "average": 4.778625
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1345,8 +1371,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 32028,
-            "average": 4.726708
+            "count": 32029,
+            "average": 4.7267165
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1388,8 +1414,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14629,
-            "average": 4.7199397
+            "count": 14631,
+            "average": 4.7199783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1430,8 +1456,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6417,
-            "average": 4.763285
+            "count": 6418,
+            "average": 4.763322
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1623,44 +1649,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/-xl-uhgzgEA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-build-a-slicer-panel-in-power-bi-and-take-it-to-the-next-level-2019.md",
-      "title": "Build a Slicer Panel in Power BI and take it to the next level (2019)",
-      "excerpt": "Adam looks at how you can build a slicer panel, in Power BI, and take it to the next level. Using a combination of features in Power BI Desktop, you can make a great user experience.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-build-a-slicer-panel-in-power-bi-and-take-it-to-the-next-level-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-build-a-slicer-panel-in-power-bi-and-take-it-to-the-next-level-2019/",
-      "originalUrl": "https://youtube.com/watch?v=xy9nmSQeUWg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xy9nmSQeUWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M24S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-05T08:00:10-07:00",
-      "heat": 86,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xy9nmSQeUWg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

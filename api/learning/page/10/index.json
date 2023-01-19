@@ -4,6 +4,44 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-why-power-bi-loves-a-star-schema.md",
+      "title": "Why Power BI loves a Star Schema",
+      "excerpt": "Are you using a flat table in your Power BI report? You may be missing out! Patrick explores what a STAR SCHEMA is and why you should be using it.  Guidance doc: https://docs.microsoft.com/power-bi/guidance/star-schema  DAX.tips: https://dax.tips/2021/02/15/visualise-your-power-bi-refresh/  📢 Become",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-power-bi-loves-a-star-schema/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-power-bi-loves-a-star-schema/",
+      "originalUrl": "https://youtube.com/watch?v=vZndrBBPiQc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vZndrBBPiQc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M10S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-24T08:00:32-08:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vZndrBBPiQc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-working-with-time-periods-in-power-bi.md",
       "title": "Working with Time Periods in Power BI",
       "excerpt": "How do you work with time periods in Power BI like last month? Patrick digs in to show how you can accomplish this with a little DAX.  Fourmoo Blog: https://www.fourmoo.com/2016/09/07/create-dynamic-periods-for-fiscal-or-calendar-dates-in-power-bi/  Phil Seamark Blog: https://dax.tips/2019/10/09/row-based-time-intelligence/",
@@ -415,6 +453,44 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-why-power-bi-totals-might-seem-wrong.md",
+      "title": "Why Power BI totals might seem wrong",
+      "excerpt": "A common question is why Power BI totals are inaccurate because they do not display the sum of individual rows. In this video, we explain the reasons why those totals are correct.\r Article and download: https://sql.bi/772093?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-why-power-bi-totals-might-seem-wrong/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-why-power-bi-totals-might-seem-wrong/",
+      "originalUrl": "https://youtube.com/watch?v=6rgAkejrup8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6rgAkejrup8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M55S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-10-25T03:00:42-07:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6rgAkejrup8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -1009,83 +1085,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-do-you-want-dynamic-legends-in-power-bi-of-course-you-do.md",
-      "title": "Do you want DYNAMIC legends in Power BI??? Of course you do...",
-      "excerpt": "We wish Power BI had dynamic legends based on selections! Well, Patrick took the challenge and here is a way you can do just that! Shout out to Parker Stevens, at BI Elite, for getting us started on this.  BI Elite video: https://www.youtube.com/watch?v=8e8a3o1w51M BI Elite Twitter: https://twitter.com/PowerBIElite",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-do-you-want-dynamic-legends-in-power-bi-of-course-you-do/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-do-you-want-dynamic-legends-in-power-bi-of-course-you-do/",
-      "originalUrl": "https://youtube.com/watch?v=jcxJzh1TYWg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jcxJzh1TYWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M1S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-11-24T08:00:18-08:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jcxJzh1TYWg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-enable-query-folding-for-native-queries-in-power-query-power-bi.md",
-      "title": "Enable QUERY FOLDING for native queries in Power Query / Power BI",
-      "excerpt": "We have usually said that if you use a native query, you break query folding in Power Query. Interesting. There may be a way to enable it in Power BI! Patrick shows you how.  Chris Webb Blog: https://blog.crossjoin.co.uk/2021/02/21/query-folding-on-sql-queries-in-power-query-using-value-nativequery-and-enablefoldingtrue/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-enable-query-folding-for-native-queries-in-power-query-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-enable-query-folding-for-native-queries-in-power-query-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=8hjdOCni_ZY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8hjdOCni_ZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M41S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-05-06T08:00:11-07:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8hjdOCni_ZY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     }
   ],
