@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M32S
 publishedDateTime: 2020-03-18T05:11:23Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/b_pr1xsbRJc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI Paginated Reports in a Day - 19: Adding Interactive Features - Part 2"
 
-secured: "992QUG4AiwrCHX1Ux3aI/+f2F0kKk2k+TncQZItXYf0IaSNpYB4+KKTIAw0uvz9hCEVJwMNAWXRztxum9kQksWN8jNqmxskWko/gLkSueyEapSvZzI9SVOj8PaaF5QJlgtjFxaVCzAoqyOQTZR0ZyjGqnSmGOaTDmKjdv09imIM9PPX/uq8Ar+ehlqNAtvLr1rMhNRz5kIjySCr7wJEazk00g0Arz65+x70YPLpZFAvKuVRbTC0RAzdI38u2L6h7yadmtuUYNDCb4qI5XHS/gu0TUua/fhJUSdlJc76eKdLuhkpCcWKq5ZUxeDeAiNWGJ3lSgToBDKKitG7McIgOEHj2CFIq1TBXlPBC6VZviMNIigcK5CSRXLHvPpNjj3IjJf4rLT0pcx/s231Sw2I9ApW4qtIK62AN6g1lIs6zIeY=;QgEgcUBgaU2Ta9mrP/kjWg=="
+secured: "Dq9hwsp0lplE0OAFvs6lrW0Me9E2oXObe9sWAWTgSZ033c4KqN4CU8MySSRgoAF5uRe0HKQ+EYhzONklvznp9uhXWuQzCS6aeHbhhNsIz5nXjOqAPXcKW+xBroKVbBLpq2KJT1FjOb2H643g+5f2wRPQfUPOP7YfG1tNNSE5RJBh96zrNt24DzwvjrYieZr64q2ufjglS8eeeYcguzJs9Spi7MutNBi8x4DLi7x+dI//Mm5FsKRP13yyCmy9bkHuRFc23gydf8Un515r7D2Nh4yvNQAfR7/a1NaSQQibWEpDPowAVxuxOVo0o+4dBAcrfCMDnRg047ftCKHIKgtxHUNcoshFIjEx3ubB7maEc0DQ3kDbCYVnx0yVCfM2E7tiRfeqa9Ow1v+tnwKfBqlN7y08CBn13+/YrolgT3noWn0=;qTfd3djthRnn8ZMghWmubw=="
 ---
 

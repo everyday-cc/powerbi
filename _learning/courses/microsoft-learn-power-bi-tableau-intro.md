@@ -8,7 +8,7 @@ length: PT19M
 ratings:
   count: 56
   average: 4.678571
-heat: 55
+heat: 51
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 641
     isCached: true
 
-secured: "sQZxqUIAdxZQqGt+vScOiNggHk4gXv5465z7zFz7tmNtxOAwrhX0q0HCFxEpltHMX9d1JqsJ7FX0GQ6wwm+PyAIWsdPa59Fq32Jd6fYtJhZJgd1DcEZhHPDulYArCf50H7olEVH0AQclzWGjr/HVbex5nykIksaI+K+hDsY7h2do/6+Dt7Tx1pUhIeO1rySNlr0M52QRh2F/Kr4x0TWWJL6eczEa8uQKr0gn8bOWJmAhAHQc03AjmudxDFv9a+6JtKxDr7u8BPzK3LAamJfpOOFPDsCzDcxif5e7bBMlRQy93i59a95yRSzrzUR1Cq00ZDWWN+gRePHlx/AgDa1WF9RXq2Gh2XhOI9+UbY2C9wT1uxUBqAWNfzXSW4k59wsrRoswOYOWfTsebkKKmOo6aUmZRaq7M2ROrDGJLpQnl6c=;+je+NOfzE6dvdRqdou+fCg=="
+secured: "FhHb8pCGI56BXJ8WD8AZRrmnr6Mt1hAjOoSSFGR2IrFmWwCxE7Pr9cVVudADlGRUrME/6M0hYqcAjxdVwbcHD4p12+fP1oyr20yKgR+R6JscGqi9EA+4E7GVhjgNoaM8JT3JgfRcF8rsOKeHujP/wdga8+k5Tl1LBZB1XJzfeo8Cb8o+viePKyl0AqEUwhLAaWEow+2yTz6KLXDE6Fdc8TEBux9MP9uFSwNMVSjWGO48UxZZD71VtFezaD2xNjuoKwueiJcPq2goMcAUi+DHAVpJnpBdxjeAZG4DO3MNAq5UAR7d0+SJcm/TAG+xC0l3l8+qpITH6PLiF1dNMqOaAf8eqeqR/LYzET5LupI+9VtFL4NeBi7JgvA/5hvKgspQ1tkcb9ChZxGob5G9qr325TgCZEslILOwSm716ISjzAk=;8FH6dzfw8o+dsKP4PyKvlA=="
 ---
 
