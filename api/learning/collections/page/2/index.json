@@ -3983,7 +3983,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4394,8 +4394,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 5925,
-            "average": 4.730295
+            "count": 5927,
+            "average": 4.7303863
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4704,7 +4704,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 59,
+          "heat": 63,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png",
@@ -4811,8 +4811,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2143,
-            "average": 4.7704153
+            "count": 2144,
+            "average": 4.7705226
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5131,8 +5131,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9739,
-            "average": 4.6752234
+            "count": 9740,
+            "average": 4.6752567
           },
           "provider": {
             "name": "Microsoft Learn",
