@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-connected-exce
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-connected-excel-tables-from-power-bi/"
 type: article
 quality: 87
-heat: 88
+heat: 89
 published: true
 
 provider:
