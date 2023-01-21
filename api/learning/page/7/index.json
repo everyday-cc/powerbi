@@ -763,7 +763,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -2120,8 +2120,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 4123,
-        "average": 4.711375
+        "count": 4124,
+        "average": 4.7114453
       },
       "provider": {
         "name": "Microsoft Learn",
