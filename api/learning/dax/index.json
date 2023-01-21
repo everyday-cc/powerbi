@@ -426,7 +426,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 57,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -2295,8 +2295,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 7617,
-        "average": 4.712354
+        "count": 7618,
+        "average": 4.712392
       },
       "provider": {
         "name": "Microsoft Learn",
