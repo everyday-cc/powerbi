@@ -2680,8 +2680,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1322,
-            "average": 4.7420573
+            "count": 1323,
+            "average": 4.7414966
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4249,7 +4249,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
