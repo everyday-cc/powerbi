@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-streaming-datafl
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-streaming-dataflows-november-update/"
 type: article
 quality: 104
-heat: 105
+heat: 106
 published: true
 
 provider:
