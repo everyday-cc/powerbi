@@ -729,8 +729,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visualize-real-time-data-azure-stream-analytics-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 38,
-            "average": 4.8157897
+            "count": 39,
+            "average": 4.820513
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -896,8 +896,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 2788,
-            "average": 4.7213054
+            "count": 2790,
+            "average": 4.721505
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1325,8 +1325,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/",
       "length": "PT35M",
       "ratings": {
-        "count": 216,
-        "average": 4.7314816
+        "count": 217,
+        "average": 4.732719
       },
       "provider": {
         "name": "Microsoft Learn",

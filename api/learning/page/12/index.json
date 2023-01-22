@@ -227,8 +227,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2490,
-            "average": 4.7200804
+            "count": 2491,
+            "average": 4.720193
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -269,8 +269,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5290,
-            "average": 4.7226844
+            "count": 5292,
+            "average": 4.7227893
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -394,8 +394,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 410,
-            "average": 4.8317075
+            "count": 411,
+            "average": 4.8321166
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -496,8 +496,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 5290,
-        "average": 4.7226844
+        "count": 5292,
+        "average": 4.7227893
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -538,8 +538,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 2444,
-        "average": 4.6640754
+        "count": 2445,
+        "average": 4.6642127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -580,8 +580,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 2788,
-        "average": 4.7213054
+        "count": 2790,
+        "average": 4.721505
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -753,8 +753,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1324,
-        "average": 4.741692
+        "count": 1325,
+        "average": 4.7418866
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -797,8 +797,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2220,
-        "average": 4.726577
+        "count": 2221,
+        "average": 4.7267
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -883,8 +883,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
       "length": "PT51M",
       "ratings": {
-        "count": 2490,
-        "average": 4.7200804
+        "count": 2491,
+        "average": 4.720193
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -967,8 +967,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
       "length": "PT28M",
       "ratings": {
-        "count": 410,
-        "average": 4.8317075
+        "count": 411,
+        "average": 4.8321166
       },
       "provider": {
         "name": "Microsoft Learn",
