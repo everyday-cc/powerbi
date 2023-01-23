@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3310,
-            "average": 4.7598186
+            "count": 3311,
+            "average": 4.759891
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -227,8 +227,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 32134,
-        "average": 4.726769
+        "count": 32137,
+        "average": 4.7267637
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -812,8 +812,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3310,
-        "average": 4.7598186
+        "count": 3311,
+        "average": 4.759891
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -937,8 +937,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 512,
-        "average": 4.7128906
+        "count": 513,
+        "average": 4.7134504
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -981,8 +981,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 495,
-        "average": 4.6484847
+        "count": 496,
+        "average": 4.649194
       },
       "provider": {
         "name": "Microsoft Learn",
