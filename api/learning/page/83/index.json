@@ -4,6 +4,246 @@
   "page": 83,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-qa-how-to-filter-without-really-filtering-a-tricky-challenge.md",
+      "title": "Power BI Q&A: How to filter without really filtering?! (a tricky challenge)",
+      "excerpt": "Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download In this video I tackle a question sent in by Stef D. from France. I found it more challenging than I expected. Check out my video and add a comment if you come up with a creative way to solve this.  FREE Power BI Step-by-Step Tutorial",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-qa-how-to-filter-without-really-filtering-a-tricky-challenge/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-qa-how-to-filter-without-really-filtering-a-tricky-challenge/",
+      "originalUrl": "https://youtube.com/watch?v=39xlfd1kHlo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/39xlfd1kHlo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M57S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-10-20T05:53:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/39xlfd1kHlo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-query-editor-split-text-with-variable-delimiters-qa.md",
+      "title": "Power BI Query Editor: Split Text with Variable Delimiters (Q&A)",
+      "excerpt": "Followup to Mikhail's question in today's Talk Power BI. • Subscribe to join future Live Talk Power BI Sessions https://goo.gl/P79Hcr  FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download ✅ Subscribe to always",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-query-editor-split-text-with-variable-delimiters-qa/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-query-editor-split-text-with-variable-delimiters-qa/",
+      "originalUrl": "https://youtube.com/watch?v=9krfJLv8ENk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9krfJLv8ENk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M54S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-11-03T15:38:05-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9krfJLv8ENk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-relationship-many-to-many-bi-directional-filtering-qa.md",
+      "title": "Power BI Relationship: Many to Many & Bi-Directional Filtering #Q&A",
+      "excerpt": "Struggling with Power BI Relationship? May be you need a Many to Many relationship or Bi-Directional filtering.  Watch the solution and 👉 Download the file at https://web.learnpowerbi.com/download/ 👉 Watch Power BI Beginner Tutorial: https://youtu.be/AGrl-H87pRU  This Power BI Example has  Content",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-relationship-many-to-many-bi-directional-filtering-qa/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-relationship-many-to-many-bi-directional-filtering-qa/",
+      "originalUrl": "https://youtube.com/watch?v=93VENTlfXi0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/93VENTlfXi0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M24S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-07-16T16:28:34-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/93VENTlfXi0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-relationships-many-to-manyone-too-many.md",
+      "title": "Power BI Relationships: Many to Many...One too Many?",
+      "excerpt": "FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download ✅ Subscribe to always get my latest videos: https://goo.gl/P79Hcr 👪 Join our Facebook Group https://www.facebook.com/groups/talkpowerbi  ===Most Popular Playlists===",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-relationships-many-to-manyone-too-many/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-relationships-many-to-manyone-too-many/",
+      "originalUrl": "https://youtube.com/watch?v=nCH79tIf_80",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nCH79tIf_80\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M13S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-05-19T15:21:27-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nCH79tIf_80/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-relationships-not-working-how-to-add-missing-values-yourself-part-3.md",
+      "title": "Power BI Relationships Not Working? How to Add Missing Values Yourself 💪 [Part 3]",
+      "excerpt": "Are your Power BI Relationships not working? It can be so frustrating when that happens. In this video we discuss how you can fix Missing or Blank Values when using Power BI Relationship  Part 1 Video: Debug Relationships https://youtu.be/eT2NV2MNaLw  Part 2 Video: Missing and Blank Values https://youtu.be/37kTdyo4OOc",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-relationships-not-working-how-to-add-missing-values-yourself-part-3/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-relationships-not-working-how-to-add-missing-values-yourself-part-3/",
+      "originalUrl": "https://youtube.com/watch?v=LI-mXTtu8PE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LI-mXTtu8PE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M38S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2021-08-25T09:00:10-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LI-mXTtu8PE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-relationships-not-working-how-to-fix-missing-and-blank-values-part-2.md",
+      "title": "Power BI Relationships Not Working? How to Fix 🛠️ Missing and Blank Values [Part 2]",
+      "excerpt": "Are your Power BI Relationships not working? It can be so frustrating when that happens. In this video we discuss how you can fix Missing or Blank Values when using Power BI Relationship  00:00:00 Intro 00:01:52 Values Missing 00:05:53 Values Showing Under Blank  Part 1 Video: Debug Relationships https://youtu.be/eT2NV2MNaLw",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-relationships-not-working-how-to-fix-missing-and-blank-values-part-2/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-relationships-not-working-how-to-fix-missing-and-blank-values-part-2/",
+      "originalUrl": "https://youtube.com/watch?v=37kTdyo4OOc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/37kTdyo4OOc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M19S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2021-08-18T09:00:02-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/37kTdyo4OOc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-relationships-talk-power-bi-live-subscribe-join.md",
+      "title": "Power BI Relationships 🔴Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-relationships-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-relationships-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=zqbGc10tOA4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zqbGc10tOA4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H11M1S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-12-05T03:10:47-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zqbGc10tOA4/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-relative-date-filtering-and-ultimate-calendar-offsets.md",
+      "title": "Power BI: Relative Date Filtering and Ultimate Calendar Offsets",
+      "excerpt": "In this video we look at Power BI Relative Date Filtering feature. We also compare it with the Offset Technique in our Ultimate Calendar.  This is part of the Ultimate Calendar Series: https://goo.gl/pyki4K   FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-relative-date-filtering-and-ultimate-calendar-offsets/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-relative-date-filtering-and-ultimate-calendar-offsets/",
+      "originalUrl": "https://youtube.com/watch?v=5RB3Jdfrn1s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5RB3Jdfrn1s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M1S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-10-24T03:18:32-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5RB3Jdfrn1s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-roadmap-online-on-prem-team-organization-talk-power-bi-live-subscribe-join.md",
       "title": "Power BI Roadmap (Online, On-Prem, Team → Organization) 🔴 Talk Power BI LIVE (Subscribe & Join)",
       "excerpt": "**Kickoff Topic** I'll kick it off by speaking about the Power BI Journey, growing from individual use to Team use to the whole organization; via the Online (Cloud) or On-Premises path.  Hello, I am Avi Singh, Microsoft MVP and Power BI expert. I just love talking about Power BI. So much so that I have",
@@ -660,246 +900,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/op_Q7YL8cd4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-win-loss-percentage-for-dynamicscrm-funnel-step-by-step-example.md",
-      "title": "Power BI Win-Loss Percentage for Dynamics/CRM Funnel (Step-by-Step Example)",
-      "excerpt": "Your mission today is to help Kevin calculate Win-Loss% using CRM Data and the magic of Power BI. 👉 Download Power BI File in Video at https://web.learnpowerbi.com/download/  Calculate the win or loss percentage and easily track it over time.  ➔ Links mentioned in the Video • Power BI Tutorial for Beginners",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-win-loss-percentage-for-dynamicscrm-funnel-step-by-step-example/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-win-loss-percentage-for-dynamicscrm-funnel-step-by-step-example/",
-      "originalUrl": "https://youtube.com/watch?v=xpPnvB7m9DY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xpPnvB7m9DY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M25S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-05-14T23:29:50-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xpPnvB7m9DY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-would-take-you-around-the-world-feat-reid-havens.md",
-      "title": "Power BI Would Take You Around the World! (feat. Reid Havens)",
-      "excerpt": "What happens when your fear does not hold you back? Make sure you watch till the end to find out. 👉 Connect with Reid: http://www.havensconsulting.net/   👉 Join the LearnPowerBI Family: https://web.learnpowerbi.com/waitlist-invite/ =============================================== 👉 FREE Power BI Step-by-Step",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-would-take-you-around-the-world-feat-reid-havens/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-would-take-you-around-the-world-feat-reid-havens/",
-      "originalUrl": "https://youtube.com/watch?v=YvUaZ2aJg8w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YvUaZ2aJg8w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M46S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-10-05T17:41:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YvUaZ2aJg8w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-powerbi-how-to-get-past-the-excel-wall-talk-power-bi-live-subscribe-join.md",
-      "title": "PowerBI: How to Get Past the Excel Wall?! 🔴Talk Power BI LIVE (Subscribe & Join)",
-      "excerpt": "Is your organization stuck behind the Excel wall and unable to make progress with Power BI? Join as we discuss how you can blast past that Excel wall and embrace the new world of Power BI.  You have fallen in love with Power BI, but everyone in your team can't let go of Exce :-(  They claim to love their",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-powerbi-how-to-get-past-the-excel-wall-talk-power-bi-live-subscribe-join/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-powerbi-how-to-get-past-the-excel-wall-talk-power-bi-live-subscribe-join/",
-      "originalUrl": "https://youtube.com/watch?v=gy6pHdbpEwc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gy6pHdbpEwc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2H34M19S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-06-20T20:41:50-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gy6pHdbpEwc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-powerbipro-1999-subscribers-kudos-to-all-of-you.md",
-      "title": "PowerBIPro - 1,999 Subscribers! Kudos to all of you!",
-      "excerpt": "Celebrating a milestone with all of you! Thanks for subscribing. Keep me busy by asking all of your Power BI questions in comments or in the Live Talk Power BI sessions on Fridays.  ===Most Popular Playlists=== • Power BI Beginner Tutorial: https://goo.gl/KRRkPG • Ultimate Calendar: https://goo.gl/pyki4K",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-powerbipro-1999-subscribers-kudos-to-all-of-you/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-powerbipro-1999-subscribers-kudos-to-all-of-you/",
-      "originalUrl": "https://youtube.com/watch?v=ogkxrxrkWVM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ogkxrxrkWVM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M26S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-10-30T17:18:07-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ogkxrxrkWVM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-powerful-bi-dashboards-for-digital-marketing-with-charles-talk-power-bi-live-subscribe-join.md",
-      "title": "Powerful BI Dashboards for Digital Marketing with Charles 🔴Talk Power BI LIVE (Subscribe & Join)",
-      "excerpt": "Watch a LIVE demo of powerful BI Dashboards for Digital Marketing that make an impact! Presented by Charles Elwood (http://www.SolisMatica.com) who specializes in working with Digital Marketing teams and revolutionizing how they work with the magic of Power BI.   ✅ Subscribe and click the 🔔 to join",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-powerful-bi-dashboards-for-digital-marketing-with-charles-talk-power-bi-live-subscribe-join/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-powerful-bi-dashboards-for-digital-marketing-with-charles-talk-power-bi-live-subscribe-join/",
-      "originalUrl": "https://youtube.com/watch?v=9TxfXS8bqSc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9TxfXS8bqSc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT48M3S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-02-21T10:43:03-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9TxfXS8bqSc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-powerpivot-to-ssas-tabular.md",
-      "title": "PowerPivot to SSAS Tabular",
-      "excerpt": "Migrating your Excel PowerPivot Model to Analysis Services Tabular Model. See article on PowerPivotPro.com for details: http://www.powerpivotpro.com/2013/10/guest-post-migrating-from-power-pivot-to-analysis-services-tabular-model/  ========================================= FREE Power BI Step-by-Step",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-powerpivot-to-ssas-tabular/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-powerpivot-to-ssas-tabular/",
-      "originalUrl": "https://youtube.com/watch?v=Uw-D2aJ1TJI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Uw-D2aJ1TJI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M15S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2013-09-25T21:31:23-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Uw-D2aJ1TJI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-real-power-bi-project-presentations-apr-24-talk-power-bi-live-subscribe-join.md",
-      "title": "Real Power BI Project Presentations  (Apr 24) 🔴Talk Power BI LIVE (Subscribe & Join)",
-      "excerpt": "Want to see how real consultants work on real Power BI projects? Join us LIVE and watch the project presentations by Power BI Professionals in our Pro+ program.  👉 Want to become a successful Power BI Consultant? Check out our Pro+ Program at https://www.LearnPowerBI.com/proplus 👉 For more info on",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-real-power-bi-project-presentations-apr-24-talk-power-bi-live-subscribe-join/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-real-power-bi-project-presentations-apr-24-talk-power-bi-live-subscribe-join/",
-      "originalUrl": "https://youtube.com/watch?v=4gGHQ0esaVA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4gGHQ0esaVA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H5M9S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-04-24T13:25:34-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4gGHQ0esaVA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-real-power-bi-project-presentations-may-1-talk-power-bi-live-subscribe-join.md",
-      "title": "Real Power BI Project Presentations  (May 1) 🔴Talk Power BI LIVE (Subscribe & Join)",
-      "excerpt": "Want to see how real consultants work on real Power BI projects? Join us LIVE and watch the project presentations by Power BI Professionals in our Pro+ program.  👉 Want to become a successful Power BI Consultant? Check out our Pro+ Program at https://www.LearnPowerBI.com/proplus 👉 For more info on",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-real-power-bi-project-presentations-may-1-talk-power-bi-live-subscribe-join/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-real-power-bi-project-presentations-may-1-talk-power-bi-live-subscribe-join/",
-      "originalUrl": "https://youtube.com/watch?v=x38L3uY-R7Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x38L3uY-R7Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H32M2S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2020-05-01T11:09:09-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/x38L3uY-R7Q/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

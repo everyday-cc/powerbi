@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "5 ways to get Power BI Support #pbifamily"
 
-secured: "sSwNxVyMIaP64lYNNu4U7qA5k7DKsqTH0dU1VZK1oZUs4kYerrnuPSQHnqD/sAZitakGN++M0W4ictE/YfiQxfKLD6gyAKNJ3ifTQk1a7/lRUn0lkoOEHFo8SFZmDpaqUdE1HQ7jFOhhkf85NOds/TJ+p+P/V8lOQ2L45HvhFmDLx6a/gy/GVdqdVDV/SwMR0QWo1ZznnCuKnurEijd2h1WSU48Bq9XJpabg0Jpow3hKw+X+Khpk3LRf3dbWeSKGHwfYSw9n1aZeIrxscETt+7Z2756pQ30B/ha78LsCl6nVeZl7sSlOp+4fuIfI+LtylXWgdSHwOh+TgDVaeVjYx/cwa6dqB9FS1GA6WdQG3XT8RHFtVSqyRG96iZL1vFdP6JnQXohrgUZFRfQyq/hevYU1T6fZQRq9qzLv7MQJuPs=;h0SpX93XeFDmVKFct9Sswg=="
+secured: "1a46UkBBKUbvNANbRWwTr5jV5Uj36OJRzpFBv/ogU/yBl0ZlOd3qOqpD9OumfOzT9GzMUdrW35orRJIA6kyWNgDRcdLTGNr4Tuv04lgpG1403KEzi97Kp5ulylbtPDakzcK4l6/PxtOZA2uRspUyctZdImkwGy84yBXWk0Lh6Mi3qHZB75VnX/U5bnrm9fN7c5BTAlAwcMs1XQ29MI/gFoQjPiFvir3vwhvA/PPzFkosnYut3PFXrrUO3lghXCmp7XP/CO/mBDsRHtbboSgPy5F2Acznl4X3tfvxhzEFEzhFzKgLOq2q+du0RJiHDjaNUlcptn9+SHdqvYVZFrxJogNO8BcuZ+aiDlQ/OZ6Y28bmgbxS2a2cHkwBnESCuX+LrunPudEQxplZ9YgsFJIc8T0QUxuLiaaNk+hwegfYIOc=;uqG7Tev+Qoc0YgU8nelFSQ=="
 ---
 

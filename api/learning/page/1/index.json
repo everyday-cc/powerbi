@@ -42,45 +42,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-218-window-functions-in-dax-explained-with-example.md",
-      "title": "DAX Fridays #218: Window functions in DAX explained with example",
-      "excerpt": "Window functions performs calculations in different groups of rows. Let me show you how and why this is powerful for DAX and Power BI:  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-218-window-functions-in-dax-explained-with-example/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-218-window-functions-in-dax-explained-with-example/",
-      "originalUrl": "https://youtube.com/watch?v=2Qa0XEqRzYU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2Qa0XEqRzYU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M38S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-01-16T05:40:08-08:00",
-      "heat": 165,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/2Qa0XEqRzYU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-gorgeous-backgrounds-for-power-bi-in-minutes-with-this-free-tool.md",
       "title": "GORGEOUS backgrounds for Power BI in minutes with this FREE tool",
       "excerpt": "Do you want to create stunning backgrounds for Power BI in minutes?   Let me show you this amazing tool that is easy to use and Free!! :)  Links mentioned: Storytelling by data viz techniques https://youtu.be/0pcTpIC6uFk  Eye picker for windows: https://youtu.be/skPTyaEmyws  Here you can download all",
@@ -143,6 +104,48 @@
       ],
       "content": "\r\n",
       "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-introduction-power-platform.md",
+      "title": "Introduction to Microsoft Power Platform",
+      "excerpt": "Introduction to Microsoft Power Platform",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-introduction-power-platform/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
+      "length": "PT36M",
+      "ratings": {
+        "count": 22822,
+        "average": 4.7244325
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 155,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/introduction-power-platform-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -256,6 +259,173 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-distribute-power-bi-insights.md",
+      "title": "Distribute Power BI insights",
+      "excerpt": "Distribute Power BI insights",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-distribute-power-bi-insights/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-distribute-power-bi-insights/",
+      "length": "PT1H57M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-publish-share-power-bi.md",
+          "title": "Publish and share in Power BI",
+          "excerpt": "Publish and share your Power BI reports and dashboards to teammates in your organization or to everyone on the web.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-publish-share-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
+          "length": "PT1H4M",
+          "ratings": {
+            "count": 5935,
+            "average": 4.730244
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/publish-and-share-with-power-bi-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-explore-data-power-bi.md",
+          "title": "Explore data in Power BI",
+          "excerpt": "Turn your business intelligence data into data insights by creating and configuring Power BI dashboards.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-data-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
+          "length": "PT53M",
+          "ratings": {
+            "count": 5321,
+            "average": 4.730878
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 136,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/explore-data-with-power-bi-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 136,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/publish-and-share-with-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-data-power-bi.md",
+      "title": "Explore data in Power BI",
+      "excerpt": "Turn your business intelligence data into data insights by creating and configuring Power BI dashboards.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-data-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
+      "length": "PT53M",
+      "ratings": {
+        "count": 5321,
+        "average": 4.730878
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 136,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/explore-data-with-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-powershell-cmdlets-for-power-bi-what-is-it-and-why-should-you-care.md",
       "title": "PowerShell Cmdlets for Power BI What is it And Why should you care",
       "excerpt": "Power BI has a set of PowerShell Cmdlets that help automate part of the operations with Power BI. However, PowerShell is not a commonly familiar technology. In the world of Power BI, we are used to working with graphical options and settings provided in the tools and the service. However, using commands",
@@ -286,53 +456,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it.md",
-      "title": "Problems installing the DAX Debugger? Here is how to do it.",
-      "excerpt": "Problems installing the DAX Debugger? Here is how to do it.  Link to Jeffrey's blog: https://pbidax.wordpress.com/2022/08/16/introduce-the-dax-evaluateandlog-function/  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it/",
-      "originalUrl": "https://youtube.com/watch?v=hG27iTTZ6tY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hG27iTTZ6tY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-12-06T00:42:49-08:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hG27iTTZ6tY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-does-it-matter-where-your-power-bi-reports-are-deployed.md",
-      "title": "Does it matter where your Power BI reports are deployed?",
-      "excerpt": "Where to deploy your Power BI Report? My Workspace? Regular Workspace? What about Apps? Adam breaks it down to help you make the right choice and understand why it matters!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level?",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-does-it-matter-where-your-power-bi-reports-are-deployed/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-does-it-matter-where-your-power-bi-reports-are-deployed/",
-      "originalUrl": "https://youtube.com/watch?v=sgGRMixvNbk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sgGRMixvNbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M18S",
+      "path": "_learning/videos/guy-in-a-cube-make-qa-more-effective-in-power-bi.md",
+      "title": "Make Q&A more effective in Power BI",
+      "excerpt": "Most struggle with getting Q&A to be effective in Power BI. Usually this comes down to either model naming or synonyms. Patrick shows you how you can update these and also a nice feature to let you share them with others.  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-make-qa-more-effective-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-make-qa-more-effective-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=2S6qVQrmzxE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2S6qVQrmzxE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M25S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -345,41 +476,11 @@
           }
         ]
       },
-      "publishedDateTime": "2022-10-27T08:00:39-07:00",
+      "publishedDateTime": "2022-10-26T08:00:05-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/sgGRMixvNbk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-report-server-power-bi-on-premises-hosting.md",
-      "title": "Power BI Report Server   Power BI On Premises Hosting",
-      "excerpt": "Power BI is not only a cloud-based reporting technology. Due to the demand for some businesses to have their data and reporting solutions on-premises, Power BI also has the option to be deployed fully on-premises. Power BI on-premises hosting is called Power BI Report Server. This post concerns using",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-report-server-power-bi-on-premises-hosting/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-report-server-power-bi-on-premises-hosting/",
-      "originalUrl": "https://youtube.com/watch?v=OjjA8GjzVM0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OjjA8GjzVM0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M11S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2022-12-13T13:11:09-08:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OjjA8GjzVM0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/2S6qVQrmzxE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -469,6 +570,45 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-dax-fridays-218-window-functions-in-dax-explained-with-example.md",
+      "title": "DAX Fridays #218: Window functions in DAX explained with example",
+      "excerpt": "Window functions performs calculations in different groups of rows. Let me show you how and why this is powerful for DAX and Power BI:  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-218-window-functions-in-dax-explained-with-example/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-218-window-functions-in-dax-explained-with-example/",
+      "originalUrl": "https://youtube.com/watch?v=2Qa0XEqRzYU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2Qa0XEqRzYU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M38S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-16T05:40:08-08:00",
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2Qa0XEqRzYU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-join-and-transform-tables-cheat-sheet-for-power-bi.md",
       "title": "Join and Transform tables Cheat Sheet for Power BI",
       "excerpt": "Confused about what joins to use when merging tables? How about what is the difference between pivot and unpivot?  These cheat sheets will help you remember and understand the difference in no time.  Joins video: https://youtu.be/PNdxy0c1Shg Pivot vs unpivot vs transpose: https://www.youtube.com/watch?v=hGj2axffxHo&ab_channel=Curbal",
@@ -548,7 +688,7 @@
             ]
           },
           "publishedDateTime": "2021-01-14T08:21:12-08:00",
-          "heat": 91,
+          "heat": 96,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -586,7 +726,7 @@
             ]
           },
           "publishedDateTime": "2021-01-21T08:00:02-08:00",
-          "heat": 63,
+          "heat": 64,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/B_bAKrXAUh0/maxresdefault.jpg",
@@ -662,7 +802,7 @@
             ]
           },
           "publishedDateTime": "2018-03-20T08:10:00-07:00",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/QiwxT9ndefY/maxresdefault.jpg",
@@ -681,7 +821,7 @@
         }
       ],
       "size": 9,
-      "heat": 105,
+      "heat": 106,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -766,8 +906,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 53025,
-            "average": 4.797605
+            "count": 53035,
+            "average": 4.797624
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -808,8 +948,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 76294,
-            "average": 4.778724
+            "count": 76303,
+            "average": 4.7786717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -868,8 +1008,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 76294,
-        "average": 4.778724
+        "count": 76303,
+        "average": 4.7786717
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -949,8 +1089,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 53025,
-        "average": 4.797605
+        "count": 53035,
+        "average": 4.797624
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -984,6 +1124,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-what-is-power-bi-2021.md",
+      "title": "What is Power BI? (2021)",
+      "excerpt": "You have heard of Power BI, but not quite sure what it actually is. You probably come from Excel land and want to know more about how you can take your data to the next level.   Adam summarizes the Power BI platform to help you understand how it fits into your business and work flow. Whether you are",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-is-power-bi-2021/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-is-power-bi-2021/",
+      "originalUrl": "https://youtube.com/watch?v=Vqz2d7pTOV8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vqz2d7pTOV8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M49S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-14T08:21:12-08:00",
+      "heat": 96,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-build-a-slicer-panel-in-power-bi-and-take-it-to-the-next-level.md",
       "title": "Build a Slicer Panel in Power BI and take it to the next level",
       "excerpt": "Adam looks at how you can build a slicer panel, in Power BI, and take it to the next level. Using a combination of features in Power BI Desktop, you can make a great user experience.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
@@ -1009,44 +1187,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/xy9nmSQeUWg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-what-is-power-bi-2021.md",
-      "title": "What is Power BI? (2021)",
-      "excerpt": "You have heard of Power BI, but not quite sure what it actually is. You probably come from Excel land and want to know more about how you can take your data to the next level.   Adam summarizes the Power BI platform to help you understand how it fits into your business and work flow. Whether you are",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-is-power-bi-2021/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-is-power-bi-2021/",
-      "originalUrl": "https://youtube.com/watch?v=Vqz2d7pTOV8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vqz2d7pTOV8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M49S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-14T08:21:12-08:00",
-      "heat": 91,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1258,8 +1398,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 12202,
-            "average": 4.747828
+            "count": 12204,
+            "average": 4.7478695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1300,8 +1440,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9757,
-            "average": 4.6754127
+            "count": 9758,
+            "average": 4.6754456
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1334,8 +1474,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 76294,
-            "average": 4.778724
+            "count": 76303,
+            "average": 4.7786717
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1394,8 +1534,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 12202,
-        "average": 4.747828
+        "count": 12204,
+        "average": 4.7478695
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1423,44 +1563,6 @@
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live.md",
-      "title": "Power BI Get Data: Import vs. DirectQuery vs. Live",
-      "excerpt": "Import vs. DirectQuery vs. Live connection. Which do you choose and why in Power BI? Adam looks at the three options when creating reports in Power BI Desktop.   DirectQuery in SQL Server 2016 Analysis Services Whitepaper https://blogs.msdn.microsoft.com/analysisservices/2017/04/06/directquery-in-sql-server-2016-analysis-services-whitepaper/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live/",
-      "originalUrl": "https://youtube.com/watch?v=y4S-k34qmnw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y4S-k34qmnw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M52S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-14T04:29:55-07:00",
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/y4S-k34qmnw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
