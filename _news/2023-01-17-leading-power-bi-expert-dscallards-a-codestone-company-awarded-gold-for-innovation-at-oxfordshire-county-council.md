@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Leading Power BI expert, DSCallards - A Codestone Company - Awarded 'Gold' for Innovation at Oxfordshire County Council"
-excerpt: "Oxfordshire County Council's Children's Social Care department end of year celebration saw awards given for outstanding contributions to service delivery, reporting and innovation. DSCallards, a Codestone Group company and leading Power BI specialist won the Gold Award for Creativity and Innovation,"
-publishedDateTime: 2023-01-17T07:11:00Z
-originalUrl: "https://technews.tmcnet.com/news/2023/01/17/9743687.htm"
-webUrl: "https://technews.tmcnet.com/news/2023/01/17/9743687.htm"
+excerpt: "DSCallards contributed with sophisticated Power Query transformations in Microsoft Power BI to ensure accurate output was provided. The project was designed to show improvements that children and families experienced in their interactions with social care provision,"
+publishedDateTime: 2023-01-17T00:00:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-leading-power-bi-expert-dscallards-codestone-company-awarded-/2023/01/17/9743687.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-leading-power-bi-expert-dscallards-codestone-company-awarded-/2023/01/17/9743687.htm"
 type: article
 quality: 0
 heat: 0
@@ -17,6 +17,6 @@ provider:
 topics:
   - Power BI
 
-secured: "yNCcO2ZEBP+G/2R/KwWnvqdWETs2g3oBjuPY0I0CVs8y5UIJLBH+snD2m+vbbRXHRnv4I4oXacPFrmsJX+TDsSmL4/oKYvV4J2Mek4MXTvFXct2EhsFnO7NN6cpI/2Ya0zdZ/1gIai4s64BA3myDRHgw4lAXrAVjcP3SQUstG9FoFyUkIEcEmRl4SeJZrdxYlZkrzLiSTJAijWc9pJfZovyOI15+TZOASfOsewBcoVwgCflfs6ogpoUuE5sGoXKIuZR+CgFs0Q+QQTJ6lFSOcPTH++oc+rDuuueiZFJyphydJqPx1rJ5Z9HGmHf9WexaqIuBL4JF5stEDuzjIpwhYv+tLpGsVjfklDe6kdYkHto=;OIx24Z8SFhlrcxe1hHF+jQ=="
+secured: "lDzQYKniSxshB0fO5Q6Ht2W9gNsFhIufd4NNZXYYe/Bn8g6a5pKJvxc80pXq+V3i88BD2fZu6YKqdO8g4UucjlE0PhJ7jVJDjOIlse9FZVCifgCnhy0S5CJVq17JVKr//IDx7g4o5/JhuVAVmotVHGXy9YTnsdHbi50R4nJR32B5T+LD+Q4QZ/BXU3qwO7QQnKpNczwKRGjRhN9+T2A35/A5CAn0Yr9Fb3J8cvRuvxayK4iGMrvwDpek+OSDzS+rY0cmMRvXy6sSp+jxlhliJj9J4o2hWVUk/SJLlTPsJJNVlELmxyfpnMFeGFwnRSdHM+xS+DE6DXg9txCckeNTvmeSySiZDOfIPKHqLUYOznI=;cYuJhVh41gh5nqTVCMLx0Q=="
 ---
 
