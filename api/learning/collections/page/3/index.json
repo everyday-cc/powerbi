@@ -117,8 +117,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 240,
-            "average": 4.741667
+            "count": 241,
+            "average": 4.7427387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -201,8 +201,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 2794,
-            "average": 4.721546
+            "count": 2795,
+            "average": 4.721646
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -701,8 +701,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 164,
-            "average": 4.75
+            "count": 165,
+            "average": 4.7515154
           },
           "provider": {
             "name": "Microsoft Learn",
