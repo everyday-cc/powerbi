@@ -326,8 +326,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 2802,
-            "average": 4.721627
+            "count": 2803,
+            "average": 4.721727
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -471,8 +471,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 138,
-        "average": 4.7173915
+        "count": 139,
+        "average": 4.7194242
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -769,8 +769,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
       "length": "PT23M",
       "ratings": {
-        "count": 609,
-        "average": 4.770115
+        "count": 610,
+        "average": 4.768852
       },
       "provider": {
         "name": "Microsoft Learn",
