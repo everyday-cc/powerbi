@@ -285,8 +285,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 139,
-        "average": 4.7194242
+        "count": 140,
+        "average": 4.7214284
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -329,8 +329,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1326,
-        "average": 4.7420816
+        "count": 1327,
+        "average": 4.7422757
       },
       "provider": {
         "name": "Microsoft Learn",
