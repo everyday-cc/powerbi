@@ -72,44 +72,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-allow-users-to-show-and-hide-columns-in-a-power-bi-paginated-report.md",
-      "title": "Allow users to Show and Hide columns in a Power BI Paginated report!",
-      "excerpt": "In a Power BI Paginated Report, you can allow your report consumers to customize what they see in the report such as which columns they want in their table or matrix. Patrick shows you how!  Sample RDLs: https://github.com/guyinacube/demo-files/blob/master/video%20demos/RDL/20230118%20-%20Paginated%20Show%20Hide%20Columns.zip",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-allow-users-to-show-and-hide-columns-in-a-power-bi-paginated-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-allow-users-to-show-and-hide-columns-in-a-power-bi-paginated-report/",
-      "originalUrl": "https://youtube.com/watch?v=_ggNrxUcCS8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_ggNrxUcCS8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M28S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-01-18T08:00:31-08:00",
-      "heat": 167,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_ggNrxUcCS8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-gorgeous-backgrounds-for-power-bi-in-minutes-with-this-free-tool.md",
       "title": "GORGEOUS backgrounds for Power BI in minutes with this FREE tool",
       "excerpt": "Do you want to create stunning backgrounds for Power BI in minutes?   Let me show you this amazing tool that is easy to use and Free!! :)  Links mentioned: Storytelling by data viz techniques https://youtu.be/0pcTpIC6uFk  Eye picker for windows: https://youtu.be/skPTyaEmyws  Here you can download all",
@@ -148,6 +110,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-allow-users-to-show-and-hide-columns-in-a-power-bi-paginated-report.md",
+      "title": "Allow users to Show and Hide columns in a Power BI Paginated report!",
+      "excerpt": "In a Power BI Paginated Report, you can allow your report consumers to customize what they see in the report such as which columns they want in their table or matrix. Patrick shows you how!  Sample RDLs: https://github.com/guyinacube/demo-files/blob/master/video%20demos/RDL/20230118%20-%20Paginated%20Show%20Hide%20Columns.zip",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-allow-users-to-show-and-hide-columns-in-a-power-bi-paginated-report/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-allow-users-to-show-and-hide-columns-in-a-power-bi-paginated-report/",
+      "originalUrl": "https://youtube.com/watch?v=_ggNrxUcCS8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_ggNrxUcCS8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M28S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-18T08:00:31-08:00",
+      "heat": 164,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_ggNrxUcCS8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-power-bi-rest-api-what-it-is-and-why-it-is-important.md",
       "title": "Power BI REST API; What it is and Why it is Important",
       "excerpt": "You can interact with the Power BI objects in the Power BI Service through a set of APIs called Power BI REST API. The Power BI REST API can help automate tasks, build tools that work with Power BI, the configuration of Power BI outside of the platform, and embed Power BI into a third-party application.",
@@ -172,6 +172,48 @@
       ],
       "content": "\r\n",
       "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-data-driven-story-power-bi.md",
+      "title": "Create a data-driven story with Power BI reports",
+      "excerpt": "Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-driven-story-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
+      "length": "PT1H44M",
+      "ratings": {
+        "count": 5632,
+        "average": 4.6892757
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 142,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/create-reports-with-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -216,77 +258,42 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-writing-some-dax-while-looking-at-relationships.md",
-      "title": "Writing some DAX while looking at Relationships",
-      "excerpt": "Ever struggle with writing DAX and having to flip between the report view and the model view in Power BI Desktop? The struggle was real! Patrick shows you a new update that overcomes this!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-writing-some-dax-while-looking-at-relationships/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-writing-some-dax-while-looking-at-relationships/",
-      "originalUrl": "https://youtube.com/watch?v=WPaCin49eq4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WPaCin49eq4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M12S",
+      "path": "_learning/courses/microsoft-learn-power-bi-tableau-intro.md",
+      "title": "Introduction to Power BI for Tableau users",
+      "excerpt": "This module explores how Microsoft Power BI and Tableau connect to data and help you build visualizations.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-intro/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
+      "length": "PT19M",
+      "ratings": {
+        "count": 59,
+        "average": 4.677966
+      },
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-11-16T08:00:35-08:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WPaCin49eq4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
+      "levels": [
+        "Beginner"
       ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-can-you-solve-this-murder-with-power-bi-perfect-for-power-bi-beginners.md",
-      "title": "Can you solve this murder with Power BI? | Perfect for Power BI beginners",
-      "excerpt": "A crime has taken place and the detective needs your help.  The detective gave you the crime scene report, but you somehow lost it.  You vaguely remember that the crime was a ​murder​ that occurred sometime on ​Jan.15, 2018​ and that it took place in ​SQL City​....  Here are details to solve it yourself:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-can-you-solve-this-murder-with-power-bi-perfect-for-power-bi-beginners/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-can-you-solve-this-murder-with-power-bi-perfect-for-power-bi-beginners/",
-      "originalUrl": "https://youtube.com/watch?v=mnTAncnNc84",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mnTAncnNc84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M3S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-11-22T04:28:32-08:00",
       "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mnTAncnNc84/maxresdefault.jpg",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-intro-social.png",
           "width": 1280,
-          "height": 720,
+          "height": 641,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -627,8 +634,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 53198,
-            "average": 4.7974734
+            "count": 53204,
+            "average": 4.7974586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -669,8 +676,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 76533,
-            "average": 4.7786183
+            "count": 76538,
+            "average": 4.7786326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -729,8 +736,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 76533,
-        "average": 4.7786183
+        "count": 76538,
+        "average": 4.7786326
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -847,8 +854,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 53198,
-        "average": 4.7974734
+        "count": 53204,
+        "average": 4.7974586
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1183,8 +1190,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 12320,
-            "average": 4.7488637
+            "count": 12327,
+            "average": 4.7486815
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1225,8 +1232,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9794,
-            "average": 4.6757197
+            "count": 9797,
+            "average": 4.675513
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1259,8 +1266,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 76533,
-            "average": 4.7786183
+            "count": 76538,
+            "average": 4.7786326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1319,8 +1326,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 12320,
-        "average": 4.7488637
+        "count": 12327,
+        "average": 4.7486815
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1361,8 +1368,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 22934,
-        "average": 4.7237725
+        "count": 22938,
+        "average": 4.7237773
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1502,8 +1509,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 76533,
-            "average": 4.7786183
+            "count": 76538,
+            "average": 4.7786326
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1544,8 +1551,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 32161,
-            "average": 4.7266564
+            "count": 32164,
+            "average": 4.726682
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1587,8 +1594,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14702,
-            "average": 4.719562
+            "count": 14705,
+            "average": 4.7196193
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1629,8 +1636,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6459,
-            "average": 4.7629666
+            "count": 6460,
+            "average": 4.763003
           },
           "provider": {
             "name": "Microsoft Learn",
