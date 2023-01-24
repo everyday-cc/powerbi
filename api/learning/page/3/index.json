@@ -4,6 +4,45 @@
   "page": 3,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax.md",
+      "title": "Power BI date table: create using DAX",
+      "excerpt": "In this video, Adam looks at how to create a Power BI date table using DAX. The end result uses a combination of the GENERATE(), ROW() and CALENDARAUTO() DAX functions to create a calculated table resulting in a Power BI date table.  Using GENERATE and ROW instead of ADDCOLUMNS in DAX https://www.sqlbi.com/articles/using-generate-and-row-instead-of-addcolumns-in-dax/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-date-table-create-using-dax/",
+      "originalUrl": "https://youtube.com/watch?v=gyvhM5eiT0U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gyvhM5eiT0U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M44S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-02-13T07:18:28-08:00",
+      "heat": 74,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gyvhM5eiT0U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-taking-buttons-in-power-bi-desktop-to-the-next-level.md",
       "title": "Taking Buttons in Power BI Desktop to the Next Level",
       "excerpt": "Amanda Cofsky joins us to show how you can use buttons, in Power BI Desktop, to take your reports to the next level. Blank buttons can really make your Power BI Reports shine.  Connect with Amanda on Twitter: https://twitter.com/MissAmandaN   ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
@@ -141,8 +180,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3103,
-            "average": 4.64486
+            "count": 3104,
+            "average": 4.644652
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -183,8 +222,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 5632,
-            "average": 4.6892757
+            "count": 5633,
+            "average": 4.689153
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -201,7 +240,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 142,
+          "heat": 62,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-reports-with-power-bi-desktop-social.png",
@@ -441,8 +480,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 32164,
-        "average": 4.726682
+        "count": 32167,
+        "average": 4.7266765
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -677,8 +716,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 9328,
-        "average": 4.7449613
+        "count": 9329,
+        "average": 4.744989
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1581,45 +1620,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-how-to-get-data-from-a-rest-api-in-power-bi-for-rookies.md",
-      "title": "How to get data from a REST API in Power BI for rookies",
-      "excerpt": "Do you want to get data from an REST API, but are not sure how to do it? Well, Chuck Norris and myself will walk you through the steps.  Chuck norris API: https://api.chucknorris.io/   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-get-data-from-a-rest-api-in-power-bi-for-rookies/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-get-data-from-a-rest-api-in-power-bi-for-rookies/",
-      "originalUrl": "https://youtube.com/watch?v=FuGZoRkRmyI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FuGZoRkRmyI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M21S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-02-21T03:51:59-08:00",
-      "heat": 68,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/FuGZoRkRmyI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     }
   ],

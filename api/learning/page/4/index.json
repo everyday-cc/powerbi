@@ -4,6 +4,45 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/videos/curbal-how-to-get-data-from-a-rest-api-in-power-bi-for-rookies.md",
+      "title": "How to get data from a REST API in Power BI for rookies",
+      "excerpt": "Do you want to get data from an REST API, but are not sure how to do it? Well, Chuck Norris and myself will walk you through the steps.  Chuck norris API: https://api.chucknorris.io/   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-get-data-from-a-rest-api-in-power-bi-for-rookies/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-get-data-from-a-rest-api-in-power-bi-for-rookies/",
+      "originalUrl": "https://youtube.com/watch?v=FuGZoRkRmyI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FuGZoRkRmyI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M21S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-02-21T03:51:59-08:00",
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FuGZoRkRmyI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-create-a-popup-window-in-power-bi.md",
       "title": "Create a Popup Window in Power BI",
       "excerpt": "Wondering how Patrick created a popup video in a previous video? Well, here you go! Learn how you can create a popup experience to provide more information in your Power BI report.  Bookmarks Playlist: https://www.youtube.com/playlist?list=PLv2BtOtLblH1IJqcqSuMTyvEi7W-laWti  📢 Become a member: https://guyinacu.be/membership",
@@ -110,8 +149,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3320,
-            "average": 4.7593374
+            "count": 3321,
+            "average": 4.75941
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -195,8 +234,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 9328,
-            "average": 4.7449613
+            "count": 9329,
+            "average": 4.744989
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1555,36 +1594,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9sfCDCpWTfc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-the-ultimate-calendar-table.md",
-      "title": "Power BI: The Ultimate Calendar Table",
-      "excerpt": "Why is the Calendar table so important in Power BI? And what is the best way to create a Calendar Table? I show you in this video series. *Some videos can only be found inside the Learn Power BI Course. https://www.learnpowerbi.com 1) The Ultimate Calendar Table https://youtu.be/BtYn1hfdSAM  2) How to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-the-ultimate-calendar-table/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-the-ultimate-calendar-table/",
-      "originalUrl": "https://youtube.com/watch?v=BtYn1hfdSAM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BtYn1hfdSAM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M26S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-09-13T19:42:49-07:00",
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BtYn1hfdSAM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
