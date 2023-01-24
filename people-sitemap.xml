@@ -7,25 +7,19 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/powerbi/people/seth-bauer/</loc>
-    <lastmod>2023-01-23T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/powerbi/people/avi-singh/</loc>
-    <lastmod>2023-01-23T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/powerbi/people/patrick-leblanc/</loc>
-    <lastmod>2023-01-23T00:00:00-08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/powerbi/people/adam-saxton/</loc>
+    <lastmod>2023-01-23T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/powerbi/people/mike-carlo/</loc>
+    <lastmod>2023-01-23T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/powerbi/people/seth-bauer/</loc>
     <lastmod>2023-01-23T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -37,7 +31,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/powerbi/people/mike-carlo/</loc>
+    <loc>https://everyday.cc/powerbi/people/patrick-leblanc/</loc>
+    <lastmod>2023-01-23T00:00:00-08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/powerbi/people/avi-singh/</loc>
     <lastmod>2023-01-23T00:00:00-08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
