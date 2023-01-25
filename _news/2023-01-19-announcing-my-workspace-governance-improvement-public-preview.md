@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-my-workspace-g
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-my-workspace-governance-improvement-public-preview/"
 type: article
 quality: 72
-heat: 74
+heat: 72
 published: true
 
 provider:

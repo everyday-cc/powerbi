@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-20-announcing-general-availability-of-service-principal-profiles-in-power-bi-embedded.md",
+      "title": "Announcing general availability of service principal profiles in Power BI Embedded",
+      "excerpt": "I&#8217;m happy to announce a new method that allows a much larger number of customer tenants per one service principal by introducing a service principal “child” named service principal profile. Each service principal profile can administer a customer tenant, and the number of profiles per service principal",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-20-announcing-general-availability-of-service-principal-profiles-in-power-bi-embedded/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-of-service-principal-profiles-in-power-bi-embedded/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-of-service-principal-profiles-in-power-bi-embedded/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-20T16:46:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-03-18-on-premises-data-gateway-march-2022-update-is-now-available.md",
       "title": "On-premises data gateway March 2022 update is now available",
       "excerpt": "On-premises data gateway (standard and personal mode) release for March 2022 ",
@@ -1201,58 +1252,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-01-28-reminder-webview2-will-be-required-for-the-next-power-bi-desktop-release.md",
-      "title": "Reminder: WebView2 will be required for the next Power BI Desktop release",
-      "excerpt": "Starting with the next Power BI Desktop release, WebView2 will be required. If you have not switched over yet, please take action now to avoid interruptions.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-28-reminder-webview2-will-be-required-for-the-next-power-bi-desktop-release/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/reminder-webview2-will-be-required-for-the-next-power-bi-desktop-release/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/reminder-webview2-will-be-required-for-the-next-power-bi-desktop-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-01-28T01:21:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],
