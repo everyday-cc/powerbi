@@ -2643,8 +2643,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3107,
-            "average": 4.644995
+            "count": 3108,
+            "average": 4.645109
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2685,8 +2685,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 5635,
-            "average": 4.689086
+            "count": 5637,
+            "average": 4.6891966
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4337,7 +4337,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4931,8 +4931,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5284,
-            "average": 4.80053
+            "count": 5285,
+            "average": 4.8003783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5410,8 +5410,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 319,
-            "average": 4.774295
+            "count": 320,
+            "average": 4.771875
           },
           "provider": {
             "name": "Microsoft Learn",

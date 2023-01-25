@@ -242,8 +242,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 244,
-            "average": 4.7377048
+            "count": 245,
+            "average": 4.7265306
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1036,8 +1036,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-scalability-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 61,
-            "average": 4.7704916
+            "count": 62,
+            "average": 4.7419353
           },
           "provider": {
             "name": "Microsoft Learn",
