@@ -144,8 +144,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 611,
-            "average": 4.769231
+            "count": 612,
+            "average": 4.769608
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2489,8 +2489,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 199,
-            "average": 4.678392
+            "count": 200,
+            "average": 4.675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2698,8 +2698,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 103,
-            "average": 4.776699
+            "count": 104,
+            "average": 4.769231
           },
           "provider": {
             "name": "Microsoft Learn",
