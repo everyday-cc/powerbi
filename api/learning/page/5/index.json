@@ -4,44 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-using-images-in-power-bi.md",
-      "title": "Using IMAGES in Power BI",
-      "excerpt": "Are you curious about how images can be used in Power BI? Patrick looks at some different ways to incorporate images into your data model and Power BI Report!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-using-images-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-using-images-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=hGKykytzLXs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hGKykytzLXs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M56S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-11-11T08:00:07-08:00",
-      "heat": 63,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hGKykytzLXs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-why-is-my-power-bi-refresh-so-slow-3-bottlenecks-for-refresh-performance.md",
       "title": "Why is my Power BI refresh so SLOW?!? 3 Bottlenecks for refresh performance",
       "excerpt": "It's really frustrating when your Power BI refresh takes too long or times out! Adam breaks down 3 bottlenecks that can slow down your Power BI refresh to help you optimize the performance.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills",
@@ -840,8 +802,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2147,
-            "average": 4.7363763
+            "count": 2148,
+            "average": 4.736499
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -882,8 +844,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 1369,
-            "average": 4.7757487
+            "count": 1371,
+            "average": 4.776076
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -924,8 +886,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1084,
-            "average": 4.777675
+            "count": 1086,
+            "average": 4.7780848
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1049,8 +1011,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 5990,
-            "average": 4.73222
+            "count": 5992,
+            "average": 4.73231
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1091,8 +1053,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 5358,
-            "average": 4.7319894
+            "count": 5359,
+            "average": 4.7320395
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1174,8 +1136,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 9377,
-            "average": 4.745654
+            "count": 9378,
+            "average": 4.7456813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1342,8 +1304,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3338,
-            "average": 4.7594366
+            "count": 3339,
+            "average": 4.7595086
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1385,8 +1347,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2235,
-            "average": 4.7284117
+            "count": 2236,
+            "average": 4.7285333
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1578,8 +1540,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 5990,
-        "average": 4.73222
+        "count": 5992,
+        "average": 4.73231
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1613,51 +1575,13 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-make-your-tables-look-amazingly-beautiful-with-these-two-tricks-in-power-bi.md",
-      "title": "Make your tables look AMAZINGLY beautiful with these two tricks in Power BI",
-      "excerpt": "Are your matrix looking dull??? Here are two tricks that will make your matrix look amazing!  More matrix tips here: https://www.youtube.com/watch?v=58a2rIV2nYg&ab_channel=Curbal  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-make-your-tables-look-amazingly-beautiful-with-these-two-tricks-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-make-your-tables-look-amazingly-beautiful-with-these-two-tricks-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=97M-D5WXaqI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/97M-D5WXaqI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M3S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-11-08T00:58:46-08:00",
-      "heat": 62,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/97M-D5WXaqI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-replace-multiple-values-in-power-query-in-one-step.md",
-      "title": "Replace multiple values in Power Query in one step",
-      "excerpt": "In todays video I will show you how to conditional replace values in one step without adding new columns in Power Query, Enjoy!!  Chapters: 00:00 Intro & Problem description 00:36 Replace values the normal way 01:37 The solution Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-replace-multiple-values-in-power-query-in-one-step/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-replace-multiple-values-in-power-query-in-one-step/",
-      "originalUrl": "https://youtube.com/watch?v=cOXNbaa_02U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cOXNbaa_02U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "path": "_learning/videos/curbal-if-isblank-null-or-empty-in-power-query.md",
+      "title": "If ISBLANK, NULL or EMPTY in power query",
+      "excerpt": "This thing with how Power Query handles nulls, blanks or empty drove me nuts when I was a beginner and still today I manage to forget about it, so here is a video for how to manage them in case you struggle also with it.  In this video, I will show you how to to is blank in power query. If you are trying",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-if-isblank-null-or-empty-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-if-isblank-null-or-empty-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=EoRjNx1G2g4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EoRjNx1G2g4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT2M58S",
       "provider": {
         "name": "Curbal",
@@ -1671,11 +1595,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-06-29T06:18:34-07:00",
+      "publishedDateTime": "2019-01-14T02:31:41-08:00",
       "heat": 62,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/cOXNbaa_02U/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/EoRjNx1G2g4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -2176,6 +2100,189 @@
       "content": "\r\n",
       "type": "video",
       "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-the-power-bi-gateway-all-you-need-to-know.md",
+      "title": "The Power BI Gateway   All You Need to Know",
+      "excerpt": "Power BI is a data analysis tool that connects to many data sources. Suppose the data source for Power BI is located in an on-premises location. In that case, the connection from the cloud-based Power BI Service to the on-premises located data source should be created with an application called Gateway.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-the-power-bi-gateway-all-you-need-to-know/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-the-power-bi-gateway-all-you-need-to-know/",
+      "originalUrl": "https://youtube.com/watch?v=87SQLWdKdvE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/87SQLWdKdvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M19S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-12-05T15:47:24-08:00",
+      "heat": 62,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/87SQLWdKdvE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/absent-data-channel-become-better-with-dax-no-more-struggles.md",
+      "title": "Become Better with DAX- No More Struggles!",
+      "excerpt": "Learn how to create advanced DAX calculations by mastering the fundamentals.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/absent-data-channel-become-better-with-dax-no-more-struggles/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/absent-data-channel-become-better-with-dax-no-more-struggles/",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/absent-data-channel-how-to-use-calculate-in-power-bi.md",
+          "title": "How to Use CALCULATE in Power BI",
+          "excerpt": "This is one of the most import function to master in Power BI. You can filter your data and create complex measure such as year over year comparisons with ease with these easy to follow tutorial. More more help this function.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-how-to-use-calculate-in-power-bi/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-how-to-use-calculate-in-power-bi/",
+          "originalUrl": "https://youtube.com/watch?v=B6w0IeLMZok",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B6w0IeLMZok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT7M25S",
+          "provider": {
+            "name": "Absent Data Channel",
+            "domain": "absentdata.com"
+          },
+          "publishedDateTime": "2020-07-25T19:59:10-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/B6w0IeLMZok/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/videos/absent-data-channel-year-over-year-and-month-over-month-calculations-in-power-bi.md",
+          "title": "Year over Year and Month over Month Calculations in Power BI",
+          "excerpt": "Learn how to quickly produce time intelligence calcution in Power BI using these easy to follow DAX equations. Elevate your time series analysis.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-year-over-year-and-month-over-month-calculations-in-power-bi/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-year-over-year-and-month-over-month-calculations-in-power-bi/",
+          "originalUrl": "https://youtube.com/watch?v=80i8rLQtO3o",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/80i8rLQtO3o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M50S",
+          "provider": {
+            "name": "Absent Data Channel",
+            "domain": "absentdata.com"
+          },
+          "publishedDateTime": "2020-07-25T19:59:10-07:00",
+          "heat": 56,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/80i8rLQtO3o/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/videos/absent-data-channel-dax-table-functions-all-filter-values.md",
+          "title": "DAX Table Functions: ALL, FILTER, & VALUES",
+          "excerpt": "Learn how to incorporate DAX Table functions in Power BI with real world scenarios. Also learn how to quickly add these functions in to dynamic calculations in DAX.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-dax-table-functions-all-filter-values/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-dax-table-functions-all-filter-values/",
+          "originalUrl": "https://youtube.com/watch?v=n-yO6WXE880",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n-yO6WXE880\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT12M39S",
+          "provider": {
+            "name": "Absent Data Channel",
+            "domain": "absentdata.com"
+          },
+          "publishedDateTime": "2020-07-25T20:26:24-07:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/n-yO6WXE880/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        },
+        {
+          "path": "_learning/videos/absent-data-channel-calculate-totals-for-mtd-qtd-and-ytd-in-dax.md",
+          "title": "Calculate Totals for  MTD, QTD and YTD in DAX",
+          "excerpt": "Learn how to quickly use the CALCULATE function to get total from year to date, month to date and quarter to date in Power BI using a Calendar table and time intelligence functions in DAX.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-calculate-totals-for-mtd-qtd-and-ytd-in-dax/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-calculate-totals-for-mtd-qtd-and-ytd-in-dax/",
+          "originalUrl": "https://youtube.com/watch?v=qiLjmKoP9ag",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qiLjmKoP9ag\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT10M41S",
+          "provider": {
+            "name": "Absent Data Channel",
+            "domain": "absentdata.com"
+          },
+          "publishedDateTime": "2020-07-25T20:26:24-07:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/qiLjmKoP9ag/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "DAX"
+          ]
+        }
+      ],
+      "size": 11,
+      "heat": 61,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B6w0IeLMZok/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
       "topics": [
         "Power BI",
         "DAX"

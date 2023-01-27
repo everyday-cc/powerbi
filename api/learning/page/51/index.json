@@ -4,6 +4,76 @@
   "page": 51,
   "value": [
     {
+      "path": "_learning/videos/absent-data-channel-sumx-simplified-finally-understand-with-excel-power-bi.md",
+      "title": "SUMX - Simplified. Finally Understand with EXCEL & POWER BI",
+      "excerpt": "WTF is SUMX!!? Stop the confusion by going back your roots in EXCEL. Follow this simple guide to get instant clarity.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-sumx-simplified-finally-understand-with-excel-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-sumx-simplified-finally-understand-with-excel-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=7JgbyhlhfyY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7JgbyhlhfyY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M45S",
+      "provider": {
+        "name": "Absent Data Channel",
+        "domain": "absentdata.com"
+      },
+      "publishedDateTime": "2020-08-10T18:11:57-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7JgbyhlhfyY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-2-dax-fridays-101-introduction-to-filter-and-row-context.md",
+      "title": "#2 DAX Fridays! 101: Introduction to filter and row context",
+      "excerpt": "Are you new to DAX and want to learn what those things called filter context and row context are? I will attempt to do just that in today's video. Let me know how I did in the comments :) #dax #powerbi #daxfridays #curbal  Happy friday!  DAX 101 playlist: https://www.youtube.com/playlist?list=PLDz00l_jz6zwdC_xdTp_QANkHYIzs1BJG&disable_polymer=true",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-2-dax-fridays-101-introduction-to-filter-and-row-context/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-2-dax-fridays-101-introduction-to-filter-and-row-context/",
+      "originalUrl": "https://youtube.com/watch?v=xV-KwuSDFMQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xV-KwuSDFMQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M14S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-06-28T04:30:46-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xV-KwuSDFMQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-2-free-cheat-sheets-for-power-bi.md",
       "title": "2 FREE Cheat Sheets for Power BI",
       "excerpt": "Confused about what joins to use when merging tables? How about what is the difference between pivot and unpivot?  These cheat sheets will help you remember and understand the difference in no time.  Joins video: https://youtu.be/PNdxy0c1Shg Pivot vs unpivot vs transpose: https://www.youtube.com/watch?v=hGj2axffxHo&ab_channel=Curbal",
@@ -107,6 +177,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/PVZ0I3KGRv4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-2-ways-to-rotate-power-bi-tabs.md",
+      "title": "2 ways to rotate Power BI tabs",
+      "excerpt": "If you want to show your power bi report on a TV or web browser and have the tabs rotate at a interval you specify, this video is for you. I will show you two ways to do that.  Link to Google analytics template app: https://appsource.microsoft.com/en-us/product/power-bi/curbal.google-analytics-template-by-curbal?tab=Overview",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-2-ways-to-rotate-power-bi-tabs/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-2-ways-to-rotate-power-bi-tabs/",
+      "originalUrl": "https://youtube.com/watch?v=Jz6i1X5JOco",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jz6i1X5JOco\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M25S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-28T05:41:55-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Jz6i1X5JOco/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -235,6 +344,46 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-33-import-from-pdf-into-power-bi-desktop.md",
+      "title": "#33 Import from PDF into Power BI Desktop",
+      "excerpt": "In today's video I will show you how to import data from a pdf file into Power BI using Imke Feldmann's R-script.  To download the file, go to Curbal's download center and the communty downloads and get gile #33: https://curbal.com/donwload-center  Install R in Power BI: https://www.youtube.com/watch?v=HcTdXgWGdS8",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-33-import-from-pdf-into-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-33-import-from-pdf-into-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=z15dF-jDXIo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z15dF-jDXIo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M49S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-22T01:12:27-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/z15dF-jDXIo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query",
+        "Power BI Desktop"
       ]
     },
     {
@@ -429,44 +578,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-5-lifesaving-tips-in-power-bi-you-might-not-know.md",
-      "title": "5 Lifesaving ⛑ tips in Power Bi you might not know",
-      "excerpt": "You know how this works by now right? If I learn something useful, I share it here with you and in today's video I am going to share my top 5 power bi tips to fix current issues and cool functionality.   Did I manage to surprise you with a tip you didnt know? #curbal #powerbi #5tips  Keynotes: 1. Word",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-5-lifesaving-tips-in-power-bi-you-might-not-know/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-5-lifesaving-tips-in-power-bi-you-might-not-know/",
-      "originalUrl": "https://youtube.com/watch?v=K2zSI-_Pu3A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/K2zSI-_Pu3A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-05-15T04:16:06-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/K2zSI-_Pu3A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-5-power-bi-tips-from-the-community.md",
       "title": "5 Power BI tips from the community!",
       "excerpt": "I am going to share 5 Power BI tips that were shared from community memebers. Some of the tips are seriously cool, dont miss it!  Here is link to Erik's blog post: https://eriksvensen-wordpress-com.cdn.ampproject.org/c/s/eriksvensen.wordpress.com/2020/04/24/powerquery-easily-copy-all-queries-from-a-pbix-to-excel-and-vice-versa/amp/",
@@ -621,45 +732,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-6-dax-fridays-101-scalar-vs-table-vs-other-functions-explaining-common-dax-errors.md",
-      "title": "#6 DAX Fridays! 101: Scalar vs table vs other functions - Explaining common DAX errors.",
-      "excerpt": "Why do you get errors when you use some DAX functions as a measure or table or calculated column?  In today's video, we will explain the difference between scalar vs table vs other functions and explain the following errors: 1. Error when a table is expected but a value is returned 2. The expression",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-6-dax-fridays-101-scalar-vs-table-vs-other-functions-explaining-common-dax-errors/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-6-dax-fridays-101-scalar-vs-table-vs-other-functions-explaining-common-dax-errors/",
-      "originalUrl": "https://youtube.com/watch?v=oA_GYuoqgsY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oA_GYuoqgsY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M12S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-09-08T03:53:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oA_GYuoqgsY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-6-productivity-tips-for-power-query.md",
       "title": "6 productivity tips for Power Query",
       "excerpt": "In today's video, I am going to show you 6 productivity tips for Power Query where 5 where new to me too.  Did I surprised you with any of them?   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
@@ -801,6 +873,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/N8ue470stKs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-7-power-bi-hacks-that-are-useful-to-know.md",
+      "title": "7 Power BI hacks that are useful to know!",
+      "excerpt": "It is time for a new round of tips and this time I bring you 7 new tips that will increase your productivity in power bi.  Enjoy! #curbal \"powerbi  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-7-power-bi-hacks-that-are-useful-to-know/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-7-power-bi-hacks-that-are-useful-to-know/",
+      "originalUrl": "https://youtube.com/watch?v=ZNKKlRuRBRI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZNKKlRuRBRI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M50S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-30T04:50:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ZNKKlRuRBRI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1043,121 +1153,6 @@
       "topics": [
         "Power BI",
         "Power BI Service"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-aggregations-in-power-bi-power-week-918-power-bi-desktop-update.md",
-      "title": "Aggregations in Power BI - Power week 918 Power Bi Desktop update",
-      "excerpt": "In today's video we will discuss the new aggregation feature released by the Power BI team in the Power BI Desktop update of September 2018.  You will probably want to watch the following related videos too:  Dual Storage: https://www.youtube.com/watch?v=7TC8H6duEiU  Many to Many: https://www.youtube.com/watch?v=NdrrjkvH2zo",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-aggregations-in-power-bi-power-week-918-power-bi-desktop-update/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-aggregations-in-power-bi-power-week-918-power-bi-desktop-update/",
-      "originalUrl": "https://youtube.com/watch?v=7KKcbcXFNgM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7KKcbcXFNgM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M27S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-10T02:12:17-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7KKcbcXFNgM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-an-eyedropper-for-power-bi-.md",
-      "title": "An Eyedropper for Power BI !!",
-      "excerpt": "I have wanted a eyedropper for Power BI for the longest time and I finally got one that works not only for Power BI but for anything on your screen.  With this you will also get: Chapters: 00:00 Intro 00:52 Color picker for power bi 02:20 Create your own split screen pattern 03:00 Preview of svgs on",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-an-eyedropper-for-power-bi-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-an-eyedropper-for-power-bi-/",
-      "originalUrl": "https://youtube.com/watch?v=skPTyaEmyws",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/skPTyaEmyws\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M29S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-06-14T03:48:27-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/skPTyaEmyws/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-analyze-memory-usage-in-power-bi-to-improve-performance.md",
-      "title": "Analyze memory usage in Power BI to improve performance",
-      "excerpt": "In today’s video I will show you how to measure memory usage in Power bI. We will go through a specific case where I improved the performance of a Google Analytics report created using Power BI. We measured the size of the columns by using DMV queries in power bi and identified which columns where using",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-analyze-memory-usage-in-power-bi-to-improve-performance/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-analyze-memory-usage-in-power-bi-to-improve-performance/",
-      "originalUrl": "https://youtube.com/watch?v=IRPEAIgZeY8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IRPEAIgZeY8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M27S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-10T02:10:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IRPEAIgZeY8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

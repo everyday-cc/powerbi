@@ -4,159 +4,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-are-you-thinking-about-your-tooltips-in-power-bi.md",
-      "title": "Are you thinking about your tooltips in Power BI?",
-      "excerpt": "The base tooltips in Power BI are fine. But are you overusing them? Adding everything to them in your visuals? Adam gives you some things to think about with your tooltips!  Create tooltips based on report pages https://docs.microsoft.com/power-bi/create-reports/desktop-tooltips?tabs=powerbi-desktop",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-are-you-thinking-about-your-tooltips-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-are-you-thinking-about-your-tooltips-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=0qywSdK3qoU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0qywSdK3qoU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M11S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-09-08T08:00:02-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0qywSdK3qoU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-ask-a-question-with-the-new-qa-visual-in-power-bi-desktop.md",
-      "title": "Ask a question with the new Q&A visual in Power BI Desktop",
-      "excerpt": "Justyna joins us to show the new Q&A visual in Power BI Desktop. Easily ask a question and tune results in this awesome update.  Connect with Justyna: Twitter: https://twitter.com/JustynaLucznik  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-ask-a-question-with-the-new-qa-visual-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-ask-a-question-with-the-new-qa-visual-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=Bg8nRNxcJZA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bg8nRNxcJZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M30S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-10-16T07:01:09-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Bg8nRNxcJZA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi.md",
-      "title": "Can you make a two-line dynamic title in Power BI?",
-      "excerpt": "Dynamic titles in Power BI can be really useful. What about a multi-line title? Patrick is answering a commenter's question on how to create a two-line dynamic title!  Dynamic Titles in Power BI Desktop https://www.youtube.com/watch?v=TYLKDPcvgK8  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=_n4kG9qpfIs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_n4kG9qpfIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M8S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-12-07T08:00:16-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_n4kG9qpfIs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-can-you-refresh-a-single-table-in-power-bi.md",
-      "title": "Can you refresh a single table in Power BI?",
-      "excerpt": "Frustrated that a you can only do a full refresh? Patrick takes it to the next level by showing how you can refresh only a single table in your Power BI dataset. This is a great option for targeted refresh and avoid potential overhead.  Processing Options:  https://docs.microsoft.com/analysis-services/multidimensional-models/processing-options-and-settings-analysis-services?view=asallproducts-allversions",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-refresh-a-single-table-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-refresh-a-single-table-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=OYYnoMa-93g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OYYnoMa-93g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M55S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-08-18T08:00:23-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OYYnoMa-93g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-composite-models-in-power-bi-and-storage-modes-what-to-pick.md",
       "title": "Composite models in Power BI and Storage modes - what to pick???",
       "excerpt": "When using composite models in Power BI, you have a choice for how to store your tables. Storage mode gives you options, but why would I pick one versus the other for my dimension tables? Adam has you covered!  Use composite models in Power BI Desktop https://docs.microsoft.com/power-bi/transform-model/desktop-composite-models",
@@ -1138,6 +985,158 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/rvCAPoy2TXs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-rounding-out-the-lakehouse-with-the-gold-layer-in-azure-synapse.md",
+      "title": "Rounding out the lakehouse with the GOLD layer in Azure Synapse",
+      "excerpt": "We are completing the journey of our lakehouse with our GOLD layer in Azure Synapse. This gives you the table structures you need to start building those amazing reports in Power BI!  Stijn Wynants https://twitter.com/SQLStijn  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-rounding-out-the-lakehouse-with-the-gold-layer-in-azure-synapse/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-rounding-out-the-lakehouse-with-the-gold-layer-in-azure-synapse/",
+      "originalUrl": "https://youtube.com/watch?v=6aXO_zOMP1U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6aXO_zOMP1U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M42S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-09-27T08:00:04-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6aXO_zOMP1U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-select-all-items-for-parameters-in-power-bi-paginated-reports.md",
+      "title": "Select All items for Parameters in Power BI Paginated reports",
+      "excerpt": "Ever struggled with trying to get a parameter to select all items by default in a Power BI Paginated report? Patrick walks you through how to get this working!   Create parameters for paginated reports in the Power BI service https://docs.microsoft.com/power-bi/paginated-reports/paginated-reports-parameters",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-select-all-items-for-parameters-in-power-bi-paginated-reports/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-select-all-items-for-parameters-in-power-bi-paginated-reports/",
+      "originalUrl": "https://youtube.com/watch?v=XA5twJ2wLd0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XA5twJ2wLd0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M30S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-07-13T08:00:16-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XA5twJ2wLd0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-the-bananas-approach-to-use-power-bi-bookmarks-to-swap-tooltips.md",
+      "title": "The BANANAS approach to use Power BI Bookmarks to swap tooltips",
+      "excerpt": "Have you wanted to change the Power BI tooltips dynamically? This BANANAS trick allows you to at least switch the content of a report page tooltip to give you more flexibility and take your report to the next level!  Download Sample: http://guyinacu.be/swaptooltipsample  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-bananas-approach-to-use-power-bi-bookmarks-to-swap-tooltips/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-bananas-approach-to-use-power-bi-bookmarks-to-swap-tooltips/",
+      "originalUrl": "https://youtube.com/watch?v=r46kUh40SN8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/r46kUh40SN8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M21S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-15T04:06:54-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/r46kUh40SN8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-the-power-bi-smart-narrative-visual-is-insane-amazing.md",
+      "title": "The Power BI Smart Narrative visual is INSANE AMAZING!",
+      "excerpt": "The smart narrative visual can help tell the story in your Power BI report. Justyna Lucznik joins us to explore the visual and to illustrate how you can generate text about your data.  Make sure you have the September 2020 version of Power BI Desktop, or later.  Documentation: https://docs.microsoft.com/power-bi/visuals/power-bi-visualization-smart-narrative",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-power-bi-smart-narrative-visual-is-insane-amazing/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-power-bi-smart-narrative-visual-is-insane-amazing/",
+      "originalUrl": "https://youtube.com/watch?v=7d2qMoTPCIM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7d2qMoTPCIM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M45S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-30T08:00:04-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7d2qMoTPCIM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

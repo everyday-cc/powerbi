@@ -4,6 +4,45 @@
   "page": 8,
   "value": [
     {
+      "path": "_learning/videos/curbal-dax-fridays-48-time-calculate-working-hours.md",
+      "title": "DAX Fridays! #48: TIME (Calculate working hours)",
+      "excerpt": "In today's DAX Fridays we will learn how Power pivot or Power BI manages time using the TIME function. We will also create an example with the TIME function where we will calculate the working hours in a calendar.  Link to Power BI file: https://curbal.com/blog/glossary/time-dax  EXCEL SURVEY: https://1drv.ms/xs/s!Ar8CDNp8cGTcgjaHonN82T8I1jQT",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-48-time-calculate-working-hours/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-48-time-calculate-working-hours/",
+      "originalUrl": "https://youtube.com/watch?v=f1Si47372Pk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/f1Si47372Pk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M51S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-08-24T13:11:12-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/f1Si47372Pk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-51-averagex.md",
       "title": "DAX Fridays! #51: AVERAGEX",
       "excerpt": "In today's video we will go through the measure AVERAGEX. It is not as simple as you think to calculate averages in DAX and in this video I explain why.  Link to pbix: https://curbal.com/blog/glossary/averagex-dax  Link to Northwind dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  PREVIOUS VIDEO:",
@@ -355,14 +394,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-studio-tutorial-what-should-i-use-it-for-tool-overview.md",
-      "title": "DAX studio tutorial: What should I use it for, tool overview",
-      "excerpt": "In today's video I will do an Introduction to DAX Studio: what to use it for and how to use it. #curbal #powerbi #dax #daxstudio  Keynotes: 00:39 What can i do with DAX studio? 1. 04:41 Connect your model 2. 06:00 Show the different elements of DAX studio 3. 01:20 Extract contents of your model into",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-studio-tutorial-what-should-i-use-it-for-tool-overview/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-studio-tutorial-what-should-i-use-it-for-tool-overview/",
-      "originalUrl": "https://youtube.com/watch?v=UX7WYFX8828",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UX7WYFX8828\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M56S",
+      "path": "_learning/videos/curbal-dax-fridays-battle-188-filter-vs-calculatetable-avoid-using-filter-as-a-filter-argument.md",
+      "title": "DAX Fridays Battle #188: FILTER vs CALCULATETABLE - Avoid using FILTER as a filter argument",
+      "excerpt": "It is time for another DAX Battle and according to your request, it is FILTER vs CALCULATETABLE  Recommended videos to watch next: Vertipaq playlist that includes the video mentioned in this video:  https://www.youtube.com/playlist?list=PLDz00l_jz6zz_glWR8zR5KSVNGtAFOnmb  Here you can download all the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-battle-188-filter-vs-calculatetable-avoid-using-filter-as-a-filter-argument/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-battle-188-filter-vs-calculatetable-avoid-using-filter-as-a-filter-argument/",
+      "originalUrl": "https://youtube.com/watch?v=zMbbo013Pto",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zMbbo013Pto\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M8S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -375,11 +414,90 @@
           }
         ]
       },
-      "publishedDateTime": "2019-05-06T04:27:08-07:00",
+      "publishedDateTime": "2020-10-14T05:56:34-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/UX7WYFX8828/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/zMbbo013Pto/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-document-your-power-bi-desktop-models-with-dax-studio.md",
+      "title": "Document your Power BI Desktop models with DAX Studio!",
+      "excerpt": "Extract a list of measures, tables, etc, from your Power BI model with DAX Studio.  Download the PPUtility add-in here: http://www.sqlbi.com/tools/power-pivot-utilities  Link to DAX STUDIO: https://daxstudio.codeplex.com/  Our Playlists: - - Join our DAX Fridays! Series: https://goo.gl/FtUWUX - - Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-document-your-power-bi-desktop-models-with-dax-studio/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-document-your-power-bi-desktop-models-with-dax-studio/",
+      "originalUrl": "https://youtube.com/watch?v=rYlIp1PrBcA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rYlIp1PrBcA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M39S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-09-27T13:04:01-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rYlIp1PrBcA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-is-the-new-quick-measures-feature-any-good-lets-find-out.md",
+      "title": "Is the new Quick measures feature any good? Lets find out!",
+      "excerpt": "I tested the new Quick measures feature with the questions from #25daysofdaxfridays  Edition 1 and here I show you the results!  What do think about quick measures? Have you tested them?   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-is-the-new-quick-measures-feature-any-good-lets-find-out/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-is-the-new-quick-measures-feature-any-good-lets-find-out/",
+      "originalUrl": "https://youtube.com/watch?v=9TT2sn8V6xI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9TT2sn8V6xI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M45S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-10-25T03:12:11-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9TT2sn8V6xI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -419,6 +537,68 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/b8oSgTOeYCE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-after-union-two-tables-data-goes-to-the-wrong-column-with-power-bi-dax.md",
+      "title": "After Union Two tables, data goes to the wrong column with Power BI DAX?",
+      "excerpt": "Most of us have used Union DAX expression in Power BI. Basically union, appends rows from both the table which are common. In Power BI, sometimes, when we perform Union operation, the combined data have some inconsistent mechanism, meaning one column's data merged with another column. The main reason",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-after-union-two-tables-data-goes-to-the-wrong-column-with-power-bi-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-after-union-two-tables-data-goes-to-the-wrong-column-with-power-bi-dax/",
+      "originalUrl": "https://youtube.com/watch?v=qZYyGG2L8gI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qZYyGG2L8gI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M50S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-26T20:53:28-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qZYyGG2L8gI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where.md",
+      "title": "DAX Beginners - SUM Vs SUMX in Power BI - What, When and Where?",
+      "excerpt": "Welcome to Wed with Dax beginner series. During this episode, we will talk about two interesting DAX expressions. SUM and SUMX. We will compare both DAX expressions in detail. First, I will explain When to use SUM and when to use SUMX. We will talk about the difference between SUM and SUMX functions",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-dax-beginners-sum-vs-sumx-in-power-bi-what-when-and-where/",
+      "originalUrl": "https://youtube.com/watch?v=bQWwj9w06K4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bQWwj9w06K4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M21S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-09-29T00:07:31-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bQWwj9w06K4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -879,161 +1059,6 @@
           "url": "https://i.ytimg.com/vi/6utZs1ttays/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-dax-measures-filter-context-explained-in-simple-terms-using-the-ican-principle.md",
-      "title": "DAX Measures: Filter Context Explained in Simple Terms using the I.C.A.N. Principle",
-      "excerpt": "For Power BI DAX Measures, one of the hardest concepts to grasp is the Filter Context. Or is it? I explain the “Filter Context” using the 4-easy step approach of the I.C.A.N. Principle. ==  I. Incoming Filters ==  C. CALCULATE does it’s Magic! ==  A. Apply relationships (filters flow Across relationships)",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-dax-measures-filter-context-explained-in-simple-terms-using-the-ican-principle/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-dax-measures-filter-context-explained-in-simple-terms-using-the-ican-principle/",
-      "originalUrl": "https://youtube.com/watch?v=SlQJaryCLy4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SlQJaryCLy4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M23S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-07-10T03:33:30-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SlQJaryCLy4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-datesytd-example-ican-rule.md",
-      "title": "Power BI DAX Measures: Understanding Filter Context using DATESYTD Example (I.C.A.N. Rule)",
-      "excerpt": "For Power BI DAX Measures, one of the hardest concepts to grasp is the Filter Context. Or is it? I explain the “Filter Context” with the 4-easy-step approach of the I.C.A.N. Rule; using a DATESYTD Example. I. Incoming Filters C. CALCULATE does it’s Magic! A. Apply relationships (filters flow Across relationships)",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-datesytd-example-ican-rule/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-datesytd-example-ican-rule/",
-      "originalUrl": "https://youtube.com/watch?v=egTTUC_cKZY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/egTTUC_cKZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M40S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-07-11T04:45:10-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/egTTUC_cKZY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-the-ultimate-dax-measure-free-download-.md",
-      "title": "Power BI: The Ultimate DAX Measure (Free Download ⬇️)",
-      "excerpt": "It's a bird! It's a plane! It's the Ultimate DAX Measure! It can calculate anything and everything! Watch the video till the end! 👉 Download Power BI File in Video at https://web.learnpowerbi.com/download/  ➔ Links mentioned in the Video • Ultimate Calendar Download -https://www.youtube.com/watch?v=BtYn1hfdSAM&list=PL7GQQXV5Z8eczWqKFMDVoHMjTcpH3tgZm",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-the-ultimate-dax-measure-free-download-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-the-ultimate-dax-measure-free-download-/",
-      "originalUrl": "https://youtube.com/watch?v=WV5KxZRIzUE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WV5KxZRIzUE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M39S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-02-06T04:02:24-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WV5KxZRIzUE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo.md",
-      "title": "PowerBI.Tips - Tutorial - Model Performance Tuning in DAX Studio - By Marco Russo",
-      "excerpt": "DAX Studio is the tool for data model tuning.  Marco Russo contributor to DAX Studio will be giving us a deep dive and demo around using DAX Studio for Model Performance Tuning.   You will not want to miss this event as Marco is a wealth of knowledge for all things Data Modeling!  Watch the Full Tutorial",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-powerbitips-tutorial-model-performance-tuning-in-dax-studio-by-marco-russo/",
-      "originalUrl": "https://youtube.com/watch?v=ERGpV4yt30w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ERGpV4yt30w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H9M2S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2020-04-24T11:32:43-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ERGpV4yt30w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-aggregated-table-in-power-bi-with-extra-options-summarize-function-in-dax.md",
-      "title": "Aggregated Table in Power BI with Extra Options   Summarize Function in DAX",
-      "excerpt": "In the previous video, I explained how you can use GROUPBY function in DAX to create an aggregated table. In this video, I'll explain how you can use Summarize function for the same purpose. Summarize function gives you more control on how to create your aggregated table with some extra functions. Let's",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-aggregated-table-in-power-bi-with-extra-options-summarize-function-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-aggregated-table-in-power-bi-with-extra-options-summarize-function-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=6Lvy4S_EnAY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6Lvy4S_EnAY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M56S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-03-30T15:41:54-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6Lvy4S_EnAY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],

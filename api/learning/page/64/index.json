@@ -4,6 +4,315 @@
   "page": 64,
   "value": [
     {
+      "path": "_learning/videos/curbal-transform-vs-add-column-in-power-query.md",
+      "title": "Transform vs Add column in power query",
+      "excerpt": "Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1  Our PLAYLISTS: - Join our DAX Fridays! Series: https://goo.gl/FtUWUX - Power BI dashboards for beginners:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-transform-vs-add-column-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-transform-vs-add-column-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=V7G0uwbPrBQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V7G0uwbPrBQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M58S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-08T06:28:06-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/V7G0uwbPrBQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-translate-youtube-subtitles-using-power-bi-and-google-translate-download-29.md",
+      "title": "Translate YouTube subtitles using Power BI and Google Translate - Download 29",
+      "excerpt": "Today is a bit odd video, but hopefully useful either way.  The reason I am doing it is because you have been telling me that you would like to help with translations of the YouTube video captions and I took the opportunity to create a tutorial on how to do just that. This of course applies to the translation",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-translate-youtube-subtitles-using-power-bi-and-google-translate-download-29/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-translate-youtube-subtitles-using-power-bi-and-google-translate-download-29/",
+      "originalUrl": "https://youtube.com/watch?v=cx5nU5i3fBY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cx5nU5i3fBY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M46S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-07-11T04:13:51-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/cx5nU5i3fBY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-trim-column-headers-with-spaces-in-between-words-in-one-step-in-power-query.md",
+      "title": "Trim column headers with spaces in between words in one step in Power Query",
+      "excerpt": "There is a trim function in Power Query to get rid of spaces at the beginning or end of a phrase, but unlike excel trim, it wont get rid of excess whitespaces between words.  In this video, I will show you how to get rid of all spaces no matter where they are on one step in power query.  Other column",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-trim-column-headers-with-spaces-in-between-words-in-one-step-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-trim-column-headers-with-spaces-in-between-words-in-one-step-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=QQtS1hECgwI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QQtS1hECgwI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M16S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-15T04:53:18-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QQtS1hECgwI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-trim-or-remove-spaces-on-column-headers-with-power-query-3-magic-mondays.md",
+      "title": "Trim or remove spaces on column headers with Power Query #3: (M)agic (M)ondays",
+      "excerpt": "In today's (M)agic (M)ondays I will show you how to trim or remove spaces in column headers using Power Query.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-trim-or-remove-spaces-on-column-headers-with-power-query-3-magic-mondays/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-trim-or-remove-spaces-on-column-headers-with-power-query-3-magic-mondays/",
+      "originalUrl": "https://youtube.com/watch?v=_pImbjUUuj0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_pImbjUUuj0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M31S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-05-02T11:34:53-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_pImbjUUuj0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-trim-remove-all-spaces-from-column-headers-in-bulk-in-power-bi-power-query.md",
+      "title": "Trim / remove all spaces from column headers in bulk in Power BI/ Power Query",
+      "excerpt": "In today's video I am going to show you an easy way to trim spacers from column headers. If your spaces are inside the words, then check this video instead: https://www.youtube.com/watch?v=QQtS1hECgwI&ab_channel=Curbal  Chapters: 00:00 Intro 01:00 Showcase the example 02:15 Add the trim with the advance",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-trim-remove-all-spaces-from-column-headers-in-bulk-in-power-bi-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-trim-remove-all-spaces-from-column-headers-in-bulk-in-power-bi-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=_TMJ9RJlqXQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_TMJ9RJlqXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M32S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-05-18T11:47:01-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_TMJ9RJlqXQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-two-ways-to-write-natural-language-narratives-in-your-power-bi-reports.md",
+      "title": "Two ways to write natural language narratives in your Power BI reports",
+      "excerpt": "We show you here two ways to build natural language into your Power BI reports: 1. Using Narrative science custom visual: https://powerbi.narrativescience.com/welcome  2. Create the natural language using measures  If you want to use Narrative Science service for Google Analytics, here is the link: https://www.narrativescience.com/quill-engage",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-two-ways-to-write-natural-language-narratives-in-your-power-bi-reports/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-two-ways-to-write-natural-language-narratives-in-your-power-bi-reports/",
+      "originalUrl": "https://youtube.com/watch?v=o_Qh0SccyAc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/o_Qh0SccyAc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M25S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-06T02:28:14-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/o_Qh0SccyAc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-understand-how-your-power-bi-queries-are-built-sources-source-types-etc.md",
+      "title": "Understand how your Power BI queries are built (sources, source types, etc)",
+      "excerpt": "In this month’s release, Power BI added a Query Dependencies view in the Query Editor (under the View tab in the ribbon) that allows you to see all queries and your dependencies on other queries or data sources at a glance, as well as an indicator of their Load status.  In this video, we show you what",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-understand-how-your-power-bi-queries-are-built-sources-source-types-etc/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-understand-how-your-power-bi-queries-are-built-sources-source-types-etc/",
+      "originalUrl": "https://youtube.com/watch?v=GkjUK9ajQ1I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GkjUK9ajQ1I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M53S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-10-11T13:18:14-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GkjUK9ajQ1I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-unpivot-complex-data-from-excel-in-power-query.md",
+      "title": "Unpivot complex data from Excel in Power Query",
+      "excerpt": "How to transform pivot files into structured data for your analysis with Power BI.  Chapters: 00:00 Intro 01:40 Get data 02:00 Prepare and unpivot the data Done!  Bulk import data from files with similar name in Power BI: https://www.youtube.com/watch?v=ip0GSuruQqA   Looking for a download file? Go to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-unpivot-complex-data-from-excel-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-unpivot-complex-data-from-excel-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=rqRtkGt0cYI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rqRtkGt0cYI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M22S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-04-25T08:59:49-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rqRtkGt0cYI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-use-power-bi-without-a-mouse.md",
       "title": "Use Power BI without a mouse",
       "excerpt": "In this video I will show you how you can easily click around in Power BI without using a mouse!! Now you can work in your back yard or pool side like a pro!   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
@@ -600,37 +909,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-add-custom-icons-for-conditional-formatting-in-power-bi-desktop.md",
-      "title": "Add Custom Icons for Conditional Formatting in Power BI Desktop",
-      "excerpt": "In this vlog. We will talk about how we can easily add the custom icons in Power BI Desktop for conditional formatting.  Sometimes there is a requirement in which we need to add the custom icons in Power BI Desktop. We can achieve this requirement using 4 simple steps.  1.Create or Download the Icons",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-add-custom-icons-for-conditional-formatting-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-add-custom-icons-for-conditional-formatting-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=KYjgid0Abj8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KYjgid0Abj8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M52S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KYjgid0Abj8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-add-custom-icons-to-power-bi-buttons-and-change-icon-on-hover-and-on-press-power-bi-design-tip.md",
       "title": "Add Custom Icons to Power BI Buttons and Change Icon On Hover and On Press  | Power BI Design Tip",
       "excerpt": "In this session, we will discuss how we can Add Custom Icon to our Power BI Button. With Power BI May 2020, Update, Power BI Buttons now support fill Images.  With this new feature, you can now highly customize the look and feel of your report using fill Images option.  In this video, we will change",
@@ -648,6 +926,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/hTX79vKL-DM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-add-gradient-legend-to-power-bi-visual.md",
+      "title": "Add Gradient Legend to Power BI Visual",
+      "excerpt": "In this session, we will be talking about the newly rolled out feature by Microsoft during July 2020 release, which is Adding a Gradient Legend to Power BI Visual.  The Gradient Legend can be applicable to the following graphs. • Stacked Bar Chart • Stacked Column Chart • Clustered Bar Chart • Clustered",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-add-gradient-legend-to-power-bi-visual/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-add-gradient-legend-to-power-bi-visual/",
+      "originalUrl": "https://youtube.com/watch?v=Y8ScamUoCcg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y8ScamUoCcg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-07-20T03:10:18-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Y8ScamUoCcg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -751,37 +1059,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-after-union-two-tables-data-goes-to-the-wrong-column-with-power-bi-dax.md",
-      "title": "After Union Two tables, data goes to the wrong column with Power BI DAX?",
-      "excerpt": "Most of us have used Union DAX expression in Power BI. Basically union, appends rows from both the table which are common. In Power BI, sometimes, when we perform Union operation, the combined data have some inconsistent mechanism, meaning one column's data merged with another column. The main reason",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-after-union-two-tables-data-goes-to-the-wrong-column-with-power-bi-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-after-union-two-tables-data-goes-to-the-wrong-column-with-power-bi-dax/",
-      "originalUrl": "https://youtube.com/watch?v=qZYyGG2L8gI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qZYyGG2L8gI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M50S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-10-26T20:53:28-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qZYyGG2L8gI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-all-about-new-updated-ribbon-experience-for-power-bi-desktop.md",
       "title": "All About New Updated Ribbon Experience for Power BI Desktop",
       "excerpt": "Microsoft rolled out New Ribbon Experience similar to Office Product in November 2019 update.   During this video, we will talk about What’s new in the New Power BI ribbon and What’s has been changed? The detailed information has been discussed in the video.  Below options are changed: Insert Tab Theme",
@@ -810,218 +1087,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-all-function-in-power-bi-dax.md",
-      "title": "All Function in Power BI DAX",
-      "excerpt": "Welcome to one more episode of my \"Wednesday with DAX\" series for Power BI. During this episode we are going to talk about one of the most interesting DAX expression which is ALL() function. Anyone who's new to Power BI, always have a question in their mind about, when to use the ALL() function? Which",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-all-function-in-power-bi-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-all-function-in-power-bi-dax/",
-      "originalUrl": "https://youtube.com/watch?v=eGHl7O1c-Io",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eGHl7O1c-Io\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M1S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-06-16T04:21:29-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eGHl7O1c-Io/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-all-selected-dax-expression-in-power-bi.md",
-      "title": "All Selected DAX Expression in Power BI",
-      "excerpt": "Welcome to one another episode of Wednesday with DAX. During this session, we will talk about the most important DAX expression ALLSELECTED(). Most of the time we have confusion between when to use ALL and when to use ALLSELECTED DAX function. First, we have taken one real life example and scenario here.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-all-selected-dax-expression-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-all-selected-dax-expression-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=dKTdHc8V2Hc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dKTdHc8V2Hc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M15S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-06-23T01:54:08-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dKTdHc8V2Hc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-allow-contributor-role-users-to-update-power-bi-app-content.md",
-      "title": "Allow Contributor Role Users to Update Power BI App Content",
-      "excerpt": "In this session we will talk about the new feature rolled out by Microsoft during this week. Earlier only Workspace admin and members were able to Update the Power BI App.  With this new update, now users who have a contributor role will also be able to Update the Power BI App.  In this session, we will",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-allow-contributor-role-users-to-update-power-bi-app-content/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-allow-contributor-role-users-to-update-power-bi-app-content/",
-      "originalUrl": "https://youtube.com/watch?v=dl2zhzVy6vI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dl2zhzVy6vI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M57S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-07-10T22:13:51-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dl2zhzVy6vI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-analyze-your-personal-activity-in-microsoft-teams-with-power-bi.md",
-      "title": "Analyze your Personal Activity in Microsoft Teams with Power BI",
-      "excerpt": "Microsoft recently announced this new feature where you can analyze your own Personal Activity within Microsoft Teams in one click with a new Power BI ‘Teams activity analytics’ report. This feature is in Preview at this moment. So, during this session, I’m going to talk about how to analyze your personal",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-analyze-your-personal-activity-in-microsoft-teams-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-analyze-your-personal-activity-in-microsoft-teams-with-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=zsqXrQmZpmc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zsqXrQmZpmc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M31S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-06-13T06:04:33-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zsqXrQmZpmc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-animated-bar-chart-in-power-bi.md",
-      "title": "Animated Bar Chart in Power BI",
-      "excerpt": "This video, represents the Animated Bar Chart in Power BI. We know, Power BI is a great visualization tool. The video is created with custom Power BI visualization named \"Animated Bar Chart Racer\".  You can download the Sample Data Source file and Power BI file using the following URL:  https://github.com/Dhruvinshah16/Power-BI/tree/master/PBI-AnimatedBarChart",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-animated-bar-chart-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-animated-bar-chart-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=nYjpZcPhoqU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nYjpZcPhoqU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nYjpZcPhoqU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-anomaly-detection-in-power-bi.md",
-      "title": "Anomaly Detection in Power BI",
-      "excerpt": "During this video, we will be talking about one of the interesting features of Power BI which is Anomaly Detection. We will be talking everything about Anomaly Detection in Power BI in detail with the help of an example. Anomaly detection helps us to enhance our line charts by automatically detecting",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-anomaly-detection-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-anomaly-detection-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=MD5eQBbRASw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MD5eQBbRASw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M43S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-11-18T10:49:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MD5eQBbRASw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-apply-conditional-formatting-on-power-bi-data-labels.md",
-      "title": "Apply Conditional Formatting on Power BI Data Labels",
-      "excerpt": "In this video, we will learn about applying conditional formatting for Power BI Data Labels. Most of the time, we have a requirement where we need to represent Data Labels color conditionally. Let's say in sales case, I want to show Profit Data Labels as the green color and Loss data as Red color. How",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-apply-conditional-formatting-on-power-bi-data-labels/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-apply-conditional-formatting-on-power-bi-data-labels/",
-      "originalUrl": "https://youtube.com/watch?v=aSkgt12imEs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aSkgt12imEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M41S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2022-08-14T07:06:56-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aSkgt12imEs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

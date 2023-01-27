@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 15958,
-            "average": 4.754355
+            "count": 15962,
+            "average": 4.754417
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 8616,
-            "average": 4.7710075
+            "count": 8617,
+            "average": 4.7710342
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -136,8 +136,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 8616,
-        "average": 4.7710075
+        "count": 8617,
+        "average": 4.7710342
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -178,8 +178,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 23071,
-        "average": 4.7238526
+        "count": 23078,
+        "average": 4.7238927
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -243,8 +243,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 76880,
-            "average": 4.77846
+            "count": 76887,
+            "average": 4.778467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -285,8 +285,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 32228,
-            "average": 4.7266355
+            "count": 32229,
+            "average": 4.7266436
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -370,8 +370,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6488,
-            "average": 4.7635636
+            "count": 6489,
+            "average": 4.7636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -536,8 +536,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 15958,
-        "average": 4.754355
+        "count": 15962,
+        "average": 4.754417
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -685,14 +685,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query.md",
-      "title": "How to filter a table to show only most recent date by group in Power Query",
-      "excerpt": "It is a best practice to load in Power Bi only the data that you need. In today's video, I will show you how you can filter a table by the last date available.   Chapters: 00:00 Intro 00:30 Explain the use case 01:00 The solution Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=hidJ5T_DYQ0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hidJ5T_DYQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M57S",
+      "path": "_learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi.md",
+      "title": "20 tricks to finally master the Matrix visualization in Power BI!!",
+      "excerpt": "The matrix visualization has over 100 configuration options, and some of the most basic functionality, like hiding subtotals is not so easy to discover.  In today's video, I will show you 20 things you can do on the matrix that will take that visualization to the next level.  Did I miss any? Let me know",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=58a2rIV2nYg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/58a2rIV2nYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M3S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -705,11 +705,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-02-22T02:35:23-08:00",
+      "publishedDateTime": "2020-07-07T08:25:43-07:00",
       "heat": 77,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hidJ5T_DYQ0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/58a2rIV2nYg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -719,8 +719,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power Query"
+        "Power BI"
       ]
     },
     {
@@ -1131,82 +1130,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi.md",
-      "title": "20 tricks to finally master the Matrix visualization in Power BI!!",
-      "excerpt": "The matrix visualization has over 100 configuration options, and some of the most basic functionality, like hiding subtotals is not so easy to discover.  In today's video, I will show you 20 things you can do on the matrix that will take that visualization to the next level.  Did I miss any? Let me know",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=58a2rIV2nYg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/58a2rIV2nYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M3S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-07-07T08:25:43-07:00",
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/58a2rIV2nYg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi.md",
-      "title": "How to create a Export to Excel / CSV button in Power BI",
-      "excerpt": "In todays video I will show you how to create and export to excel or CSV button in Power BI!! Take a look!  Chapters: 00:00 Intro 01:30 Export to CSV button 05:15 Apply the flow to the button 05:30 Format the flow button 06:00 Check if the flow run sucessfully 08:00 Export to excel button 09:30 Pre-requisites",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=BnTipbooeP0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BnTipbooeP0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M20S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-21T04:04:38-07:00",
-      "heat": 75,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BnTipbooeP0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-bookmarks-selections-and-toggles.md",
       "title": "Power BI Bookmarks, Selections and Toggles",
       "excerpt": "In this video, Patrick shows how you can use bookmarks and selections to create interesting reports to show different aspects of your data. He also shows a very cool way to change between those selections that he picked up from one of his customers.  Bookmarks - https://powerbi.microsoft.com/en-us/documentation/powerbi-desktop-bookmarks/",
@@ -1280,6 +1203,45 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query.md",
+      "title": "How to filter a table to show only most recent date by group in Power Query",
+      "excerpt": "It is a best practice to load in Power Bi only the data that you need. In today's video, I will show you how you can filter a table by the last date available.   Chapters: 00:00 Intro 00:30 Explain the use case 01:00 The solution Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-filter-a-table-to-show-only-most-recent-date-by-group-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=hidJ5T_DYQ0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hidJ5T_DYQ0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M57S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-02-22T02:35:23-08:00",
+      "heat": 74,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hidJ5T_DYQ0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -1426,6 +1388,44 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi.md",
+      "title": "How to create a Export to Excel / CSV button in Power BI",
+      "excerpt": "In todays video I will show you how to create and export to excel or CSV button in Power BI!! Take a look!  Chapters: 00:00 Intro 01:30 Export to CSV button 05:15 Apply the flow to the button 05:30 Format the flow button 06:00 Check if the flow run sucessfully 08:00 Export to excel button 09:30 Pre-requisites",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=BnTipbooeP0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BnTipbooeP0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M20S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-21T04:04:38-07:00",
+      "heat": 72,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BnTipbooeP0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {

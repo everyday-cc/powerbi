@@ -863,6 +863,45 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-dax-studio-tutorial-what-should-i-use-it-for-tool-overview.md",
+      "title": "DAX studio tutorial: What should I use it for, tool overview",
+      "excerpt": "In today's video I will do an Introduction to DAX Studio: what to use it for and how to use it. #curbal #powerbi #dax #daxstudio  Keynotes: 00:39 What can i do with DAX studio? 1. 04:41 Connect your model 2. 06:00 Show the different elements of DAX studio 3. 01:20 Extract contents of your model into",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-studio-tutorial-what-should-i-use-it-for-tool-overview/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-studio-tutorial-what-should-i-use-it-for-tool-overview/",
+      "originalUrl": "https://youtube.com/watch?v=UX7WYFX8828",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UX7WYFX8828\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M56S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-05-06T04:27:08-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UX7WYFX8828/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-document-your-powerpivot-model-with-dax-studio-power-bi-tips-tricks-15.md",
       "title": "Document your PowerPivot model with DAX Studio - Power BI Tips & Tricks #15",
       "excerpt": "Generate a list of measures, calculated columns, related tables and much more with this Excel Add-in.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
@@ -902,14 +941,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-is-the-new-quick-measures-feature-any-good-lets-find-out.md",
-      "title": "Is the new Quick measures feature any good? Lets find out!",
-      "excerpt": "I tested the new Quick measures feature with the questions from #25daysofdaxfridays  Edition 1 and here I show you the results!  What do think about quick measures? Have you tested them?   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-is-the-new-quick-measures-feature-any-good-lets-find-out/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-is-the-new-quick-measures-feature-any-good-lets-find-out/",
-      "originalUrl": "https://youtube.com/watch?v=9TT2sn8V6xI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9TT2sn8V6xI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M45S",
+      "path": "_learning/videos/curbal-export-one-table-of-data-or-the-entire-model-with-dax-studio.md",
+      "title": "Export one table of data or the entire model with DAX Studio",
+      "excerpt": "In today's video I am going to show you how to export data from one table or the entire model using DAX Studio. #curbal #dax #daxstudio  Keynote: 02:00 Download data from one table with DAX Studio 02:40 Download the entire model with DAX Studio  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-export-one-table-of-data-or-the-entire-model-with-dax-studio/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-export-one-table-of-data-or-the-entire-model-with-dax-studio/",
+      "originalUrl": "https://youtube.com/watch?v=-Gfgnk6R0Qw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-Gfgnk6R0Qw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M16S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -922,11 +961,11 @@
           }
         ]
       },
-      "publishedDateTime": "2022-10-25T03:12:11-07:00",
+      "publishedDateTime": "2019-05-06T05:48:12-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9TT2sn8V6xI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-Gfgnk6R0Qw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1044,37 +1083,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/A461ktvExH0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-after-union-two-tables-data-goes-to-the-wrong-column-with-power-bi-dax.md",
-      "title": "After Union Two tables, data goes to the wrong column with Power BI DAX?",
-      "excerpt": "Most of us have used Union DAX expression in Power BI. Basically union, appends rows from both the table which are common. In Power BI, sometimes, when we perform Union operation, the combined data have some inconsistent mechanism, meaning one column's data merged with another column. The main reason",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-after-union-two-tables-data-goes-to-the-wrong-column-with-power-bi-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-after-union-two-tables-data-goes-to-the-wrong-column-with-power-bi-dax/",
-      "originalUrl": "https://youtube.com/watch?v=qZYyGG2L8gI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qZYyGG2L8gI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M50S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-10-26T20:53:28-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qZYyGG2L8gI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

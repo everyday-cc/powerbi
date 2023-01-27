@@ -4,6 +4,121 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-intro-to-r-with-power-bi.md",
+      "title": "Intro to R with Power BI",
+      "excerpt": "You enjoyed the intro to Python video, now let's look at R Script within Power BI! There are a lot of similar aspects and Patrick walks you though what you should know to get started.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-intro-to-r-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-intro-to-r-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=NomSliJK3s4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NomSliJK3s4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M48S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-21T08:00:10-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NomSliJK3s4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-let-power-query-write-your-sql-for-you.md",
+      "title": "Let Power Query write your SQL for you!",
+      "excerpt": "We tell you to push your transformations upstream as much as possible. But you don't know how to write SQL. That's ok, let Power Query do it for you to move your project forward. Patrick shows you how!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-let-power-query-write-your-sql-for-you/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-let-power-query-write-your-sql-for-you/",
+      "originalUrl": "https://youtube.com/watch?v=VExWJ6mXLD4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VExWJ6mXLD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M8S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-10-12T08:00:20-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VExWJ6mXLD4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-make-your-power-bi-report-pop-with-a-custom-background.md",
+      "title": "Make your Power BI report POP with a custom background",
+      "excerpt": "Is your report plain or bland? Patrick shows you how you can easily make your Power BI report pop with a custom background. It's as easy as just getting PowerPoint and drawing some shapes.  Demo files: https://guyinacu.be/demofiles  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube --",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-make-your-power-bi-report-pop-with-a-custom-background/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-make-your-power-bi-report-pop-with-a-custom-background/",
+      "originalUrl": "https://youtube.com/watch?v=0QvovI3aycs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0QvovI3aycs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M39S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-04-23T05:27:51-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0QvovI3aycs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-overlapping-power-bi-visuals-can-be-frustrating-how-to-avoid.md",
       "title": "OVERLAPPING Power BI visuals can be FRUSTRATING!?! How to avoid?",
       "excerpt": "Overlapping Power BI visuals can be FRUSTRATING! Adam dives in to show you some tinkering to possibly avoid the situation.  Download Sample: https://guyinacu.be/overlapsample  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level?",
@@ -978,122 +1093,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/tDIsCVB7mnI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-introducing-rankx-in-dax.md",
-      "title": "Introducing RANKX in DAX",
-      "excerpt": "RANKX is a simple function used to rank a value within a list of values. Its use is simple, but it can be a source of frustration for newbies.\r Article and download: https://sql.bi/760169?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-rankx-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-rankx-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=pM_8zsPidRk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pM_8zsPidRk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M42S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-09-27T03:00:21-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pM_8zsPidRk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-propagating-filters-using-treatas-in-dax.md",
-      "title": "Propagating filters using TREATAS in DAX",
-      "excerpt": "How to create a virtual relationship in DAX using the TREATAS function. Article and download: https://sql.bi/41311/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-propagating-filters-using-treatas-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-propagating-filters-using-treatas-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=6WU7Ze32Q3w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6WU7Ze32Q3w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M18S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-09T03:00:22-08:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6WU7Ze32Q3w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-using-allexcept-vs-all-values.md",
-      "title": "Using ALLEXCEPT vs ALL VALUES",
-      "excerpt": "ALLEXCEPT is a handy DAX function to retrieve all the columns of a table except for some. When used as a CALCULATE modifier, its behavior is less intuitive and might result in inaccurate measures. In this video, we elaborate on the most common mistake when using ALLEXCEPT in CALCULATE.\r Article and download:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-using-allexcept-vs-all-values/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-using-allexcept-vs-all-values/",
-      "originalUrl": "https://youtube.com/watch?v=DGPvGqzQteM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DGPvGqzQteM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M35S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-08-31T03:00:53-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DGPvGqzQteM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

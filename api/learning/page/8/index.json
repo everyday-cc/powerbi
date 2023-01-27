@@ -4,199 +4,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-dynamic-titles-in-power-bi-desktop.md",
-      "title": "Dynamic Titles in Power BI Desktop",
-      "excerpt": "Patrick shows you how you can easily create dynamic titles in Power BI Desktop. This became available in the April 2019 release of Power BI Desktop.   Demo files: https://guyinacu.bi/demofiles  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dynamic-titles-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dynamic-titles-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=TYLKDPcvgK8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TYLKDPcvgK8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M27S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-28T14:21:41-07:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TYLKDPcvgK8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-exploring-microsoft-purview-for-data-governance.md",
-      "title": "Exploring Microsoft Purview for data governance",
-      "excerpt": "You've probably heard of Microsoft Purview somewhere. Buck Woody joins Patrick to highlight how Microsoft Purview can help you with data governance. From cataloging to lineage, Purview is a key component for your data strategy!  Connect with Buck: https://twitter.com/BuckWoodyMSFT https://www.linkedin.com/in/buckwoody/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-exploring-microsoft-purview-for-data-governance/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-exploring-microsoft-purview-for-data-governance/",
-      "originalUrl": "https://youtube.com/watch?v=69PY3YzygNk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/69PY3YzygNk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M40S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-11-22T08:00:07-08:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/69PY3YzygNk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-row-level-security-and-object-level-security-together-in-power-bi-yup.md",
-      "title": "Row-Level Security and Object-Level Security together in Power BI??? Yup!",
-      "excerpt": "Struggling with using Row-Level Security (RLS) together with Object-Level Security (OLS) in Power BI? You think it can't be done? Think again! Patrick shows you how to use both together.  Announcement Blog: https://powerbi.microsoft.com/blog/object-level-security-ols-is-now-generally-available-in-power-bi-premium-and-pro/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-row-level-security-and-object-level-security-together-in-power-bi-yup/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-row-level-security-and-object-level-security-together-in-power-bi-yup/",
-      "originalUrl": "https://youtube.com/watch?v=ZYO7wGKVM0Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZYO7wGKVM0Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M23S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-04-27T08:00:17-07:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ZYO7wGKVM0Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-tame-the-the-beast-that-is-dax-in-power-bi-aka-how-to-learn-dax.md",
-      "title": "TAME the the beast that is DAX in Power BI (aka how to learn DAX)",
-      "excerpt": "We know that DAX, in Power BI, can be intimidating. We've been there. Patrick shows you how you can learn DAX using what you have available today and TAME the beast that is DAX!  Download Sample: https://guyinacu.be/tamedaxsample  DAX.Guide: https://dax.guide  DAX Studio: https://daxstudio.org/  DAX",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-tame-the-the-beast-that-is-dax-in-power-bi-aka-how-to-learn-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-tame-the-the-beast-that-is-dax-in-power-bi-aka-how-to-learn-dax/",
-      "originalUrl": "https://youtube.com/watch?v=hbJA6EYHq1Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hbJA6EYHq1Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M6S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-10T08:00:13-08:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hbJA6EYHq1Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-want-to-use-a-url-for-your-text-column-in-power-bi-desktop-check-this-out.md",
-      "title": "Want to use a URL for your text column in Power BI Desktop? Check THIS out!",
-      "excerpt": "Patrick shows you how you can use a custom URL for a text column of a table or matrix within Power BI Desktop. This is AMAZING!  Download sample: https://guyinacu.be/columncustomurlsample  *******************  Want to take your Power BI skills to the next level? We have training courses available to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-want-to-use-a-url-for-your-text-column-in-power-bi-desktop-check-this-out/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-want-to-use-a-url-for-your-text-column-in-power-bi-desktop-check-this-out/",
-      "originalUrl": "https://youtube.com/watch?v=Wz2aD0XvkUk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wz2aD0XvkUk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M21S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-01-07T05:10:12-08:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Wz2aD0XvkUk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-drill-through-in-3-easy-steps-drill-through-to-another-page-.md",
       "title": "Power BI Drill Through in 3 Easy Steps! Drill Through to Another Page 📃",
       "excerpt": "How to create Power BI Drill Through in 3 easy steps: 1️⃣ How to Create the Drill Through Page 2️⃣️ How to Add the Drill Through Field 3️⃣ How to Drill to Another Page 👉 Catch our complete Power BI Drill Through Playlist: https://www.youtube.com/playlist?list=PL7GQQXV5Z8efS9-9EEznorQ6yGWbzJWhQ  We also",
@@ -515,8 +322,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 6488,
-        "average": 4.7635636
+        "count": 6489,
+        "average": 4.7636
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -550,14 +357,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-addappend-rows-and-columns-to-tables-without-merging-using-m-in-power-query.md",
-      "title": "Add/Append rows and columns to tables without merging using M in power query",
-      "excerpt": "In this video, I am going to show you how to add column and rows to a table in power query without appending it. Simply using the M language. #powerquery #curbal #powerbi   Here you can download all the pbix file (download 49- community downloads): https://curbal.com/donwload-center  SUBSCRIBE to learn",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-addappend-rows-and-columns-to-tables-without-merging-using-m-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-addappend-rows-and-columns-to-tables-without-merging-using-m-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=p_8jDYV1m5Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p_8jDYV1m5Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M5S",
+      "path": "_learning/videos/curbal-a-technique-to-count-anything-in-power-query-and-some-in-dax-too.md",
+      "title": "A technique to count anything in Power Query and some in DAX too",
+      "excerpt": "In todays video I will show you a technique to count any text in a cell in Power query and DAX.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-a-technique-to-count-anything-in-power-query-and-some-in-dax-too/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-a-technique-to-count-anything-in-power-query-and-some-in-dax-too/",
+      "originalUrl": "https://youtube.com/watch?v=8u69q5LA3x0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8u69q5LA3x0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M37S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -570,11 +377,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-07-11T06:37:01-07:00",
+      "publishedDateTime": "2022-03-14T03:20:42-07:00",
       "heat": 59,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/p_8jDYV1m5Q/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/8u69q5LA3x0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -585,7 +392,8 @@
       "price": "Free",
       "topics": [
         "Power BI",
-        "Power Query"
+        "Power Query",
+        "DAX"
       ]
     },
     {
@@ -628,23 +436,130 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-display-0-instead-of-blank-in-card-visualization-in-power-bi-power-bi-trick.md",
-      "title": "Display “0” instead of “(Blank)” in Card Visualization in Power BI – Power BI Trick",
-      "excerpt": "In this vLog, we will talk about how we can deal with “(Blank)”  value in a card visualization. Sometimes, Power BI measure or default summarization shows Blank instead of 0. In this video, I will show you a trick to replace Blank with Zero.  In this video, we will talk about following points. How to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-display-0-instead-of-blank-in-card-visualization-in-power-bi-power-bi-trick/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-display-0-instead-of-blank-in-card-visualization-in-power-bi-power-bi-trick/",
-      "originalUrl": "https://youtube.com/watch?v=ML7VdHb6494",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ML7VdHb6494\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M12S",
+      "path": "_learning/videos/curbal-learn-how-to-create-stunning-maps-in-power-bi-gartner-remake.md",
+      "title": "Learn how to create STUNNING maps in Power Bi | Gartner remake",
+      "excerpt": "It is finally here!!! In today's video I will show you how to recreate the map that the Power BI team created for the Gartner summit EMEA.  You can get the file here: https://community.powerbi.com/t5/Data-Stories-Gallery/Analyzing-the-UN-s-Sustainable-Development-Goals-at-Gartner-Data/td-p/2527235  Here",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-learn-how-to-create-stunning-maps-in-power-bi-gartner-remake/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-learn-how-to-create-stunning-maps-in-power-bi-gartner-remake/",
+      "originalUrl": "https://youtube.com/watch?v=OQuKwy6eEDk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OQuKwy6eEDk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M57S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-06-07T01:25:30-07:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OQuKwy6eEDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-make-your-tables-look-amazingly-beautiful-with-these-two-tricks-in-power-bi.md",
+      "title": "Make your tables look AMAZINGLY beautiful with these two tricks in Power BI",
+      "excerpt": "Are your matrix looking dull??? Here are two tricks that will make your matrix look amazing!  More matrix tips here: https://www.youtube.com/watch?v=58a2rIV2nYg&ab_channel=Curbal  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-make-your-tables-look-amazingly-beautiful-with-these-two-tricks-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-make-your-tables-look-amazingly-beautiful-with-these-two-tricks-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=97M-D5WXaqI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/97M-D5WXaqI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M3S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-11-08T00:58:46-08:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/97M-D5WXaqI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-call-power-bi-rest-api-with-dynamic-access-token-from-power-bi-desktop-power-bi-rest-api-part-two.md",
+      "title": "Call Power BI Rest API with Dynamic Access Token From Power BI Desktop |Power BI Rest API | Part Two",
+      "excerpt": "During this series, we will explore Rest APIs in Power BI. Sometimes, we need to build Power BI Admin report by consuming Power BI Admin APIs. During this session we will learn the same thing.   During the first step we have registered Power BI App to Azure Portal. If you haven’t gone through that video,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-call-power-bi-rest-api-with-dynamic-access-token-from-power-bi-desktop-power-bi-rest-api-part-two/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-call-power-bi-rest-api-with-dynamic-access-token-from-power-bi-desktop-power-bi-rest-api-part-two/",
+      "originalUrl": "https://youtube.com/watch?v=N8qYRSqRz84",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N8qYRSqRz84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M15S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-03-25T04:52:50-07:00",
+      "publishedDateTime": "2020-08-10T19:22:21-07:00",
       "heat": 59,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ML7VdHb6494/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/N8qYRSqRz84/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-link-power-bi-to-an-excel-file-in-sharepoint-online.md",
+      "title": "Link Power BI to an Excel file in SharePoint Online",
+      "excerpt": "In this vlog, we will learn how we can consume data from the Excel Online to Power BI. Our Excel file has been stored in the SharePoint Document Library.   We need to fetch the data from SharePoint Document Library’s Excel file to Power BI Desktop. In this video, we will learn step by step procedure",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-link-power-bi-to-an-excel-file-in-sharepoint-online/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-link-power-bi-to-an-excel-file-in-sharepoint-online/",
+      "originalUrl": "https://youtube.com/watch?v=DWG0uvgg5nM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DWG0uvgg5nM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M35S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-27T07:24:00-07:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DWG0uvgg5nM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -685,6 +600,44 @@
           "url": "https://i.ytimg.com/vi/OH6aekIjcUI/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-can-you-do-page-level-security-in-power-bi.md",
+      "title": "Can you do Page-Level Security in Power BI?",
+      "excerpt": "What's up with page-level security in Power BI? We keep getting questions from people about how to do this. I've got bad news and I've got...  well, just watch the video!   Row-Level Security and Object-Level Security together in Power BI??? Yup! https://www.youtube.com/watch?v=ZYO7wGKVM0Y  Did you know",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-do-page-level-security-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-do-page-level-security-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=ye4WIJDfdpY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ye4WIJDfdpY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M5S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-11-30T08:00:33-08:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ye4WIJDfdpY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -1086,6 +1039,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/twBUmqVOGgg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-what-is-power-bi-gateway-do-you-need-it-to-connect-to-on-premise-data-can-you-avoid-using-one.md",
+      "title": "What is Power BI Gateway? Do You Need it to Connect to On-Premise Data? Can You Avoid Using One?",
+      "excerpt": "Power BI Gateway acts as a bridge to let PowerBI.com (Cloud) connect to your On-Premise (Local) Data Sources – like local Excel Files or a local SQL Server.   Watch our complete video series on Power BI Gateways: https://www.youtube.com/playlist?list=PL7GQQXV5Z8edw57_eLqD9By5mzxIqxSJ1 1. What is a Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-what-is-power-bi-gateway-do-you-need-it-to-connect-to-on-premise-data-can-you-avoid-using-one/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-what-is-power-bi-gateway-do-you-need-it-to-connect-to-on-premise-data-can-you-avoid-using-one/",
+      "originalUrl": "https://youtube.com/watch?v=i1W5kISMF50",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i1W5kISMF50\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M47S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-11-13T09:00:17-08:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/i1W5kISMF50/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

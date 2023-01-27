@@ -4,6 +4,90 @@
   "page": 48,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-discover-trusted-data-use-azure-purview.md",
+      "title": "Discover trusted data using Microsoft Purview",
+      "excerpt": "purview, enterprise data analyst",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-discover-trusted-data-use-azure-purview/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 167,
+        "average": 4.748503
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/2-discover-data-artifacts-azure-by-using-azure-purview-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-enforce-power-bi-model-security.md",
+      "title": "Enforce Power BI model security",
+      "excerpt": "Enforce model security in Power BI using row-level security and object-level security.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-enforce-power-bi-model-security/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
+      "length": "PT1H21M",
+      "ratings": {
+        "count": 73,
+        "average": 4.808219
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/enforce-power-bi-model-security-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-enhance-your-business-intelligence-solutions-with-artificial-intelligence.md",
       "title": "Enhance your business intelligence solutions with artificial intelligence",
       "excerpt": "Enhance your business intelligence solutions with artificial intelligence",
@@ -593,8 +677,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
       "length": "PT12M",
       "ratings": {
-        "count": 148,
-        "average": 4.75
+        "count": 149,
+        "average": 4.751678
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1163,90 +1247,6 @@
           "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-permissions-content-social.png",
           "width": 1280,
           "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-embedded-select.md",
-      "title": "Select a Power BI embedded analytics product",
-      "excerpt": "Learn how to select a Power BI embedded analytics product.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-select/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-select/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 67,
-        "average": 4.8208957
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-select-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-excel-better-together.md",
-      "title": "Prepare to teach the module: Power BI & Excel better together",
-      "excerpt": "Prepare to teach the module: Power BI & Excel better together",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-excel-better-together/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-excel-better-together/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],
