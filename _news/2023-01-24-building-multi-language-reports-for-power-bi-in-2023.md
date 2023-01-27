@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/building-multi-language-r
 webUrl: "https://powerbi.microsoft.com/en-us/blog/building-multi-language-reports-for-power-bi-in-2023/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:
