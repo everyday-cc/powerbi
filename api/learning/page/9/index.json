@@ -4,6 +4,82 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-nothing-selected-in-power-bi-slicer-then-dont-show-data.md",
+      "title": "Nothing selected in Power BI Slicer? Then don't show data!",
+      "excerpt": "Answering one of your Power BI questions about how to prevent data in a visual if nothing is selected in a slicer! Challenge accepted!   Do's and Don't with cascading slicers in Power BI https://www.youtube.com/watch?v=1yv5srlqgmI  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-nothing-selected-in-power-bi-slicer-then-dont-show-data/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-nothing-selected-in-power-bi-slicer-then-dont-show-data/",
+      "originalUrl": "https://youtube.com/watch?v=sXn-QZqLD-8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sXn-QZqLD-8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M33S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-04-07T08:00:35-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sXn-QZqLD-8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-build-a-custom-kpi-scorecard.md",
+      "title": "Power BI: Build a custom KPI scorecard",
+      "excerpt": "Patrick walks you through how you can use Power BI to build a custom KPI scorecard. The key is the UNICHAR DAX function.  Demo files: https://guyinacu.be/demofiles  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba -- http://www.facebook.com/guyinacube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-build-a-custom-kpi-scorecard/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-build-a-custom-kpi-scorecard/",
+      "originalUrl": "https://youtube.com/watch?v=9eKLdujI9_A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9eKLdujI9_A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M33S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-05-07T13:41:23-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9eKLdujI9_A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-rest-api-no-code-options.md",
       "title": "Power BI REST API no-code options",
       "excerpt": "Adam shows how you can use the Power BI REST API without writing any code. Then takes it to the next level with PowerShell.  Power BI REST API Reference - https://docs.microsoft.com/rest/api/power-bi/ Power BI PowerShell reference - https://docs.microsoft.com/powershell/power-bi/overview?view=powerbi-ps",
@@ -797,8 +873,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9878,
-            "average": 4.675845
+            "count": 9879,
+            "average": 4.675777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -975,8 +1051,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 4168,
-        "average": 4.712092
+        "count": 4169,
+        "average": 4.712161
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1163,76 +1239,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/absent-data-channel-year-over-year-and-month-over-month-calculations-in-power-bi.md",
-      "title": "Year over Year and Month over Month Calculations in Power BI",
-      "excerpt": "Learn how to quickly produce time intelligence calcution in Power BI using these easy to follow DAX equations. Elevate your time series analysis.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-year-over-year-and-month-over-month-calculations-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-year-over-year-and-month-over-month-calculations-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=80i8rLQtO3o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/80i8rLQtO3o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M50S",
-      "provider": {
-        "name": "Absent Data Channel",
-        "domain": "absentdata.com"
-      },
-      "publishedDateTime": "2020-07-25T19:59:10-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/80i8rLQtO3o/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-addappend-rows-and-columns-to-tables-without-merging-using-m-in-power-query.md",
-      "title": "Add/Append rows and columns to tables without merging using M in power query",
-      "excerpt": "In this video, I am going to show you how to add column and rows to a table in power query without appending it. Simply using the M language. #powerquery #curbal #powerbi   Here you can download all the pbix file (download 49- community downloads): https://curbal.com/donwload-center  SUBSCRIBE to learn",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-addappend-rows-and-columns-to-tables-without-merging-using-m-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-addappend-rows-and-columns-to-tables-without-merging-using-m-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=p_8jDYV1m5Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p_8jDYV1m5Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M5S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-07-11T06:37:01-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/p_8jDYV1m5Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     }
   ],

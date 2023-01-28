@@ -4,6 +4,44 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-do-you-need-a-date-table-for-time-intelligence-in-power-bi-nope-quick-measures.md",
+      "title": "Do you need a date table for time intelligence in Power BI? Nope! (Quick Measures)",
+      "excerpt": "Everyone tells you that you need a date table for time intelligence in Power BI. Not so fast! Patrick shows you how you can use quick measures, like year over year, with a quick measure and no date table!  Download Sample: https://guyinacu.be/quickmeasuresample  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-do-you-need-a-date-table-for-time-intelligence-in-power-bi-nope-quick-measures/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-do-you-need-a-date-table-for-time-intelligence-in-power-bi-nope-quick-measures/",
+      "originalUrl": "https://youtube.com/watch?v=2f7dYB1l84g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2f7dYB1l84g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M50S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-15T08:00:00-07:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2f7dYB1l84g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-getting-started-with-power-bi-desktop-in-5-steps.md",
       "title": "Getting Started with Power BI Desktop in 5 steps",
       "excerpt": "Getting started with Power BI Desktop is easy! Patrick looks at 5 steps to get you up and running quickly with Power BI Desktop. From downloading, to getting data, and then building your report visuals.  Getting started with Power BI Desktop https://docs.microsoft.com/power-bi/desktop-getting-started",
@@ -324,6 +362,36 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-the-power-bi-gateway-all-you-need-to-know.md",
+      "title": "The Power BI Gateway   All You Need to Know",
+      "excerpt": "Power BI is a data analysis tool that connects to many data sources. Suppose the data source for Power BI is located in an on-premises location. In that case, the connection from the cloud-based Power BI Service to the on-premises located data source should be created with an application called Gateway.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-the-power-bi-gateway-all-you-need-to-know/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-the-power-bi-gateway-all-you-need-to-know/",
+      "originalUrl": "https://youtube.com/watch?v=87SQLWdKdvE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/87SQLWdKdvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M19S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-12-05T15:47:24-08:00",
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/87SQLWdKdvE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-creating-real-time-dashboards-in-power-bi-with-push-datasets.md",
       "title": "Creating real time dashboards in Power BI with push datasets",
       "excerpt": "Though you can build real-time reports with DirectQuery, push datasets offer a more scalable, economical, and effective solution especially when combined with an Import model already in place. This video introduces the architecture of push datasets.\r Article and download: https://www.sqlbi.com/?p=729917&aff=yt",
@@ -445,8 +513,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 5310,
-        "average": 4.800565
+        "count": 5311,
+        "average": 4.8006024
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1046,83 +1114,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ZYO7wGKVM0Y/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-sort-month-name-chronologically-in-power-bi-desktop.md",
-      "title": "Sort month name chronologically in Power BI Desktop",
-      "excerpt": "Have you struggled when dragging month name to a chart axis and it is sorted alphabetically in Power BI Desktop? Adam shows you how you can change the sort order to be chronologically instead of alphabetically. This technique can also be used for other categorical columns in Power BI.  ******** LET'S",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-sort-month-name-chronologically-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-sort-month-name-chronologically-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=NlX7Cp2P0d4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NlX7Cp2P0d4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M51S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-02T04:52:03-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NlX7Cp2P0d4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-swap-power-bi-visuals-to-add-flexibility-in-your-reports.md",
-      "title": "Swap Power BI Visuals to add FLEXIBILITY in your reports",
-      "excerpt": "Want to avoid visual clutter in you Power BI reports? Here's a technique you can apply to swap out items to allow for more exploration of your data and give your consumers options.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-swap-power-bi-visuals-to-add-flexibility-in-your-reports/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-swap-power-bi-visuals-to-add-flexibility-in-your-reports/",
-      "originalUrl": "https://youtube.com/watch?v=GnPuU3X74SY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GnPuU3X74SY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M26S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-01T03:45:02-07:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GnPuU3X74SY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

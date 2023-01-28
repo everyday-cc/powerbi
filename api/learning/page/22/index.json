@@ -4,6 +4,36 @@
   "page": 22,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-how-to-create-power-bi-top-n-report-variable-top-n-filter.md",
+      "title": "How to Create Power BI TOP N Report (Variable TOP N Filter)",
+      "excerpt": "Let me show you how you can create a TOP N Report in Power BI, with a Variable N, so that you can show the Numbers and the Detail for Top 10, Top 50 or Top 100 Customers, Products or really anything else. And still have it fully interactive, so you can slice and dice it as you like. 👉 Download Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-how-to-create-power-bi-top-n-report-variable-top-n-filter/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-how-to-create-power-bi-top-n-report-variable-top-n-filter/",
+      "originalUrl": "https://youtube.com/watch?v=wKfPS1yZfE0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wKfPS1yZfE0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M26S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-11-27T22:55:55-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wKfPS1yZfE0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-how-to-show-items-with-no-data-in-power-bi-eg-show-all-month-names.md",
       "title": "How to Show Items with No Data in Power BI (e.g. Show All Month Names)",
       "excerpt": "Sometimes the default behavior in Power BI can be frustrating. For example, if you are showing month names, you may see that if no data is available then those months may not be shown in your Chart or Table. Often, you would want all months (Jan-Dec) to be shown, regardless of whether data is present",
@@ -895,36 +925,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/eUIki01a4fU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-import-azure-active-directory-users-into-power-bi-an-step-toward-dynamic-row-level-security.md",
-      "title": "Import Azure Active Directory Users into Power BI   An Step toward Dynamic Row Level Security",
-      "excerpt": "A question that I often get when I explain what the dynamic row-level security in Power BI is and how it works, is that; how can we get all the users in an Active Directory tenant imported into Power BI? There are other benefits also to import Azure Active Directory (AAD) users loaded into Power BI for",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-import-azure-active-directory-users-into-power-bi-an-step-toward-dynamic-row-level-security/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-import-azure-active-directory-users-into-power-bi-an-step-toward-dynamic-row-level-security/",
-      "originalUrl": "https://youtube.com/watch?v=5lgfWkRKxgM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5lgfWkRKxgM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-12-09T18:20:15-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5lgfWkRKxgM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

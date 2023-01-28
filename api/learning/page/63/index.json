@@ -4,6 +4,36 @@
   "page": 63,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-new-model-view-updates-in-power-bi.md",
+      "title": "New Model View Updates in Power BI",
+      "excerpt": "With November 2020 Power BI Desktop, we have a new Model View available for exploring. During this video, I am going to talk about how the new Model view will be looking like in Power BI Desktop. Power BI Desktop launched some new icons for the Model view. We need to upgrade our Model view first. Once",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-model-view-updates-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-model-view-updates-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=lkUFS3CzItc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lkUFS3CzItc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M57S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-11-29T06:12:00-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lkUFS3CzItc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-new-power-bi-experience-in-microsoft-teams.md",
       "title": "New Power BI Experience in Microsoft Teams",
       "excerpt": "During this session, we will be talking about the new Power BI experience in Microsoft Teams. During Ignite 2020, Microsoft announced a feature that, users can use Power BI Service from teams without leaving the context of Teams.   This feature is very useful for modern workspace users where we can use",
@@ -112,36 +142,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/SMHbMhX1Ggg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-new-way-to-upload-file-from-power-bi-workspace.md",
-      "title": "New way to Upload File from Power BI Workspace",
-      "excerpt": "In this short video, let's talk about new way to upload files from Power BI Workspace. In the workspace you want to add files to, you’ll see an Upload option next to the New button. You’ll be able to use this dropdown to connect to files stored in OneDrive for Business or any SharePoint site you have",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-way-to-upload-file-from-power-bi-workspace/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-way-to-upload-file-from-power-bi-workspace/",
-      "originalUrl": "https://youtube.com/watch?v=91LmNtIIc38",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/91LmNtIIc38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M26S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2022-12-12T18:51:52-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/91LmNtIIc38/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
