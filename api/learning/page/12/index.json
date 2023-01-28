@@ -4,257 +4,6 @@
   "page": 12,
   "value": [
     {
-      "path": "_learning/collections/microsoft-learn-manage-workspaces-and-datasets-in-power-bi.md",
-      "title": "Manage workspaces and datasets in Power BI",
-      "excerpt": "Once you have created your Power BI data sets and reports, it’s time to deploy them so the users can take advantage of all of your hard work. In this Learning Path, you will learn how to create workspaces in the Power BI service. You will deploy your Power BI artifacts here and share them to your users. You will also learn how to connect Power BI reports to on-premise data sources. Your users will appreciate seeing the latest data in your reports, so you will configure automatic refresh for your Power BI datasets. Row-level security allows you to create one report, but have users be restricted to see only the data that applies to them. This targets data to users, without having to create multiple reports.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-manage-workspaces-and-datasets-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-manage-workspaces-and-datasets-in-power-bi/",
-      "length": "PT1H55M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-create-manage-workspaces-power-bi.md",
-          "title": "Create and manage workspaces in Power BI ",
-          "excerpt": "This module explains how you can share reports and datasets with your users and how to create a deployment strategy that makes sense for you and your organization. Furthermore, you will learn about data lineage in Microsoft Power BI.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-manage-workspaces-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
-          "length": "PT29M",
-          "ratings": {
-            "count": 2182,
-            "average": 4.766728
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 56,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-manage-datasets-power-bi.md",
-          "title": "Manage datasets in Power BI ",
-          "excerpt": "With Microsoft Power BI, you can build multiple reports from a single dataset, meaning that if you change the dataset, all reports will be updated with that change. Additionally, you can clean and prep data once rather than repeatedly for each report.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-manage-datasets-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
-          "length": "PT32M",
-          "ratings": {
-            "count": 1899,
-            "average": 4.713007
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 55,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/manage-datasets-in-power-bi-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-row-level-security-power-bi.md",
-          "title": "Implement row-level security",
-          "excerpt": "Row-level security (RLS) allows you to create a single or a set of reports that targets data for a specific user. In this module, you will learn how to implement RLS by using either a static or dynamic method and how Microsoft Power BI simplifies testing RLS in Power BI Desktop and Power BI service.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-row-level-security-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
-          "length": "PT9M",
-          "ratings": {
-            "count": 5309,
-            "average": 4.8005276
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png",
-              "width": 643,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-manage-workspaces-power-bi.md",
-      "title": "Create and manage workspaces in Power BI ",
-      "excerpt": "This module explains how you can share reports and datasets with your users and how to create a deployment strategy that makes sense for you and your organization. Furthermore, you will learn about data lineage in Microsoft Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-manage-workspaces-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 2182,
-        "average": 4.766728
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-create-paginated-reports-power-bi.md",
-      "title": "Create paginated reports  ",
-      "excerpt": "Paginated reports allow report developers to create Power BI artifacts that have tightly controlled rendering requirements. Paginated reports are ideal for creating sales invoices, receipts, purchase orders, and tabular data. This module will teach you how to create reports, add parameters, and work with tables and charts in paginated reports.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-paginated-reports-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
-      "length": "PT15M",
-      "ratings": {
-        "count": 2823,
-        "average": 4.721927
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/create-paginated-reports-power-bi-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
       "title": "Describe Power BI Desktop models",
       "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
@@ -262,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3342,
-        "average": 4.7594256
+        "count": 3343,
+        "average": 4.7594976
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1272,6 +1021,121 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ffIgsMS3-8c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-intro-to-r-with-power-bi.md",
+      "title": "Intro to R with Power BI",
+      "excerpt": "You enjoyed the intro to Python video, now let's look at R Script within Power BI! There are a lot of similar aspects and Patrick walks you though what you should know to get started.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-intro-to-r-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-intro-to-r-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=NomSliJK3s4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NomSliJK3s4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M48S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-07-21T08:00:10-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NomSliJK3s4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-let-power-query-write-your-sql-for-you.md",
+      "title": "Let Power Query write your SQL for you!",
+      "excerpt": "We tell you to push your transformations upstream as much as possible. But you don't know how to write SQL. That's ok, let Power Query do it for you to move your project forward. Patrick shows you how!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-let-power-query-write-your-sql-for-you/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-let-power-query-write-your-sql-for-you/",
+      "originalUrl": "https://youtube.com/watch?v=VExWJ6mXLD4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VExWJ6mXLD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M8S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-10-12T08:00:20-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VExWJ6mXLD4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-make-your-power-bi-report-pop-with-a-custom-background.md",
+      "title": "Make your Power BI report POP with a custom background",
+      "excerpt": "Is your report plain or bland? Patrick shows you how you can easily make your Power BI report pop with a custom background. It's as easy as just getting PowerPoint and drawing some shapes.  Demo files: https://guyinacu.be/demofiles  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube --",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-make-your-power-bi-report-pop-with-a-custom-background/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-make-your-power-bi-report-pop-with-a-custom-background/",
+      "originalUrl": "https://youtube.com/watch?v=0QvovI3aycs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0QvovI3aycs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M39S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-04-23T05:27:51-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0QvovI3aycs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

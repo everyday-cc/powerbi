@@ -4,122 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/videos/sqlbi-introducing-rankx-in-dax.md",
-      "title": "Introducing RANKX in DAX",
-      "excerpt": "RANKX is a simple function used to rank a value within a list of values. Its use is simple, but it can be a source of frustration for newbies.\r Article and download: https://sql.bi/760169?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-rankx-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-rankx-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=pM_8zsPidRk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pM_8zsPidRk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M42S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-09-27T03:00:21-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pM_8zsPidRk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-propagating-filters-using-treatas-in-dax.md",
-      "title": "Propagating filters using TREATAS in DAX",
-      "excerpt": "How to create a virtual relationship in DAX using the TREATAS function. Article and download: https://sql.bi/41311/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-propagating-filters-using-treatas-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-propagating-filters-using-treatas-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=6WU7Ze32Q3w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6WU7Ze32Q3w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M18S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-02-09T03:00:22-08:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6WU7Ze32Q3w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-using-allexcept-vs-all-values.md",
-      "title": "Using ALLEXCEPT vs ALL VALUES",
-      "excerpt": "ALLEXCEPT is a handy DAX function to retrieve all the columns of a table except for some. When used as a CALCULATE modifier, its behavior is less intuitive and might result in inaccurate measures. In this video, we elaborate on the most common mistake when using ALLEXCEPT in CALCULATE.\r Article and download:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-using-allexcept-vs-all-values/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-using-allexcept-vs-all-values/",
-      "originalUrl": "https://youtube.com/watch?v=DGPvGqzQteM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DGPvGqzQteM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M35S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-08-31T03:00:53-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DGPvGqzQteM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-using-userelationship-in-dax.md",
       "title": "Using USERELATIONSHIP in DAX",
       "excerpt": "This video shows how to use the USERELATIONSHIP function in DAX to change the active relationship in a CALCULATE function. Article and download: https://sql.bi/664175",
@@ -265,8 +149,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1514,
-            "average": 4.7397623
+            "count": 1515,
+            "average": 4.739934
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -451,8 +335,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 1514,
-        "average": 4.7397623
+        "count": 1515,
+        "average": 4.739934
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1248,6 +1132,120 @@
           "width": 1280,
           "height": 720,
           "title": "Configure Power BI Aggregations",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-create-a-date-range-parameter-with-power-bi-paginated-reports.md",
+      "title": "Create a date range parameter with Power BI Paginated Reports",
+      "excerpt": "How do you do a date range with the Paginated visual used with Power BI Paginated Reports? Adam shows you how to get a date range going without passing every day's value within the range.  Create and use the paginated report visual https://docs.microsoft.com/power-bi/visuals/paginated-report-visual",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-create-a-date-range-parameter-with-power-bi-paginated-reports/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-create-a-date-range-parameter-with-power-bi-paginated-reports/",
+      "originalUrl": "https://youtube.com/watch?v=v79MjJZoIZg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/v79MjJZoIZg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M22S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-01-27T05:45:05-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/v79MjJZoIZg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-dynamically-change-chart-axis-in-power-bi.md",
+      "title": "Dynamically change chart axis in Power BI",
+      "excerpt": "In this video, Patrick builds on a blog post from Scott Senkeresty to dynamically change the axis of your visual within Power BI. This uses a combination of Power Query and DAX.  Chris Cook - @Finalyst89  Scott Senkeresty – @ScottSenkeresty  Dynamically changing chart axis http://tinylizard.com/dynamically-changing-chart-axis/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dynamically-change-chart-axis-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dynamically-change-chart-axis-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=n-OWNaCUU0o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n-OWNaCUU0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-12-13T07:16:19-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/n-OWNaCUU0o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-incremental-refresh-with-power-bi-premium.md",
+      "title": "Incremental Refresh with Power BI Premium",
+      "excerpt": "In this video, Christian Wade joined Adam Saxton to discuss Incremental Refresh with Power BI Premium. You can use Incremental Refresh with Power BI Premium to take your dataset beyond 1GB and avoid failures such as timeouts.  Incremental Refresh with Power BI Premium documentation - https://docs.microsoft.com/power-bi/service-premium-incremental-refresh",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-incremental-refresh-with-power-bi-premium/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-incremental-refresh-with-power-bi-premium/",
+      "originalUrl": "https://youtube.com/watch?v=CajQjq70Kpg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CajQjq70Kpg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M31S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-05-15T06:19:05-07:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CajQjq70Kpg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],

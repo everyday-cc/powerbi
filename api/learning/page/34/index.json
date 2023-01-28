@@ -4,162 +4,6 @@
   "page": 34,
   "value": [
     {
-      "path": "_learning/videos/curbal-dax-fridays-211-add-leading-zeros-to-a-column-using-dax.md",
-      "title": "Dax Fridays #211: Add leading zeros to a column using DAX",
-      "excerpt": "Adding leading zeros, is probably something that you should do alrealy in Power Query, but in this case I wanted that column to be created on the fly rather than adding it to the model, so I let me show you how I did it!  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-211-add-leading-zeros-to-a-column-using-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-211-add-leading-zeros-to-a-column-using-dax/",
-      "originalUrl": "https://youtube.com/watch?v=_R8kCNq7Pnw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_R8kCNq7Pnw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M19S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-06-21T06:37:01-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_R8kCNq7Pnw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-212-using-inactive-relationships-in-slicers-userelationship.md",
-      "title": "DAX Fridays #212: Using inactive relationships in slicers | USERELATIONSHIP",
-      "excerpt": "In today's video we will tak about inactive relationshipls, when and how to create them and how you can use them in slicers.  00:00 Intro 00:20 Present the use case 01:50 Show issues without inactive relationships 03:00 When and how to use inactive relationships 04:20 Use userelationship to activate",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-212-using-inactive-relationships-in-slicers-userelationship/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-212-using-inactive-relationships-in-slicers-userelationship/",
-      "originalUrl": "https://youtube.com/watch?v=X9rkpt7-LNQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X9rkpt7-LNQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M36S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-05-12T05:16:54-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X9rkpt7-LNQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-216-networkdays-function-is-finally-here.md",
-      "title": "DAX Fridays #216: NETWORKDAYS function is finally here!!",
-      "excerpt": "In today's video I am going to show you how the new NETWORKDAYS function works.  00:00 Intro 00:15 Networkdays except sat and sun 01:30 Exclude other non working days 02:15 Exclude holidays and non working days  NETWORKDAYS works almost the same as Excel and it counts the number of working days between",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-216-networkdays-function-is-finally-here/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-216-networkdays-function-is-finally-here/",
-      "originalUrl": "https://youtube.com/watch?v=hL4wCObZ52w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hL4wCObZ52w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M1S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-06-30T02:41:08-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hL4wCObZ52w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-217-evaluateandlog.md",
-      "title": "DAX Fridays #217: EVALUATEANDLOG",
-      "excerpt": "Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  I tested EVALUATEANDLOG and if you are a beginner, these are my findings and feedback.  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-217-evaluateandlog/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-217-evaluateandlog/",
-      "originalUrl": "https://youtube.com/watch?v=uv1ko7CjFio",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uv1ko7CjFio\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M37S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-12-06T03:16:22-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uv1ko7CjFio/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-dax-fridays-24-running-cumulative-totals-w-pareto-chart.md",
       "title": "DAX Fridays! #24: Running/ Cumulative totals (w Pareto chart)",
       "excerpt": "In this video I will show you how to calculate cumulative totals or running totals with DAX/ powerpivot.  We will calculate running totals with a Date and with another column (not a date).  Link to Matt's Blog post: http://exceleratorbi.com.au/cumulative-running-total-based-on-highest-value/  Link to",
@@ -1170,6 +1014,160 @@
       "topics": [
         "Power BI",
         "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-embed-microsoft-visio-in-power-bi-desktop.md",
+      "title": "Embed microsoft visio in Power BI Desktop",
+      "excerpt": "In today's video I will show you a step-by-step tutorial on how to use visio and embed it in Power BI.   Link to the visio and power bi file: http://gofile.me/2kEOD/QMev6rAjs   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-embed-microsoft-visio-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-embed-microsoft-visio-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=vQfWBxbxrjc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vQfWBxbxrjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M2S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-09-26T10:06:12-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vQfWBxbxrjc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-eurostat-11-get-europes-data-in-power-bi-with-eurostat-api-eu_eurostat.md",
+      "title": "[Eurostat 1/1] Get Europe's data in Power BI with Eurostat API - @EU_Eurostat",
+      "excerpt": "Have you ever wanted to get data about Europe in Power BI to boost your market research? Population in Europe, Age and gender, income levels, employment levels, all this is available for you if you connect to Eurostats API.  In this video I will show you how the API works and in the next we will build",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-eurostat-11-get-europes-data-in-power-bi-with-eurostat-api-eu_eurostat/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-eurostat-11-get-europes-data-in-power-bi-with-eurostat-api-eu_eurostat/",
+      "originalUrl": "https://youtube.com/watch?v=UwXo1OcwbAg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UwXo1OcwbAg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M32S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-26T06:21:04-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/UwXo1OcwbAg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-export-power-query-data-into-sql-and-do-incremental-refresh-power-bi-tips-tricks-49.md",
+      "title": "Export Power Query data into SQL and do incremental refresh - Power BI Tips & Tricks #49",
+      "excerpt": "In today’s video I will show you how to export data from power query or power bi into SQL. Really useful for example if you want to come around the limitiation of the lack of increment loads functionality in Power BI.  Some important links: BIInsight blog: http://biinsight.com/exporting-power-bi-data-to-sql-server/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-export-power-query-data-into-sql-and-do-incremental-refresh-power-bi-tips-tricks-49/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-export-power-query-data-into-sql-and-do-incremental-refresh-power-bi-tips-tricks-49/",
+      "originalUrl": "https://youtube.com/watch?v=ANIZkTZO3eU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ANIZkTZO3eU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M1S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-08-14T11:35:23-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ANIZkTZO3eU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-export-vs-save-as-a-power-bi-template-power-bi-tips-tricks-31.md",
+      "title": "Export vs Save as a Power BI Template - Power BI Tips & Tricks #31",
+      "excerpt": "Have you ever wonder why your data is still available in your Power BI file when you saved it as a template?  There are two ways to create a Power BI Template: Export and Save As. In this video I show you the difference between them.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-export-vs-save-as-a-power-bi-template-power-bi-tips-tricks-31/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-export-vs-save-as-a-power-bi-template-power-bi-tips-tricks-31/",
+      "originalUrl": "https://youtube.com/watch?v=Bu7AzU2uhYM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Bu7AzU2uhYM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M17S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-02-06T11:26:50-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Bu7AzU2uhYM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

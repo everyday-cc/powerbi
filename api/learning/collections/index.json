@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 53493,
-            "average": 4.797095
+            "count": 53498,
+            "average": 4.797114
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 76923,
-            "average": 4.7784796
+            "count": 76929,
+            "average": 4.778484
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -169,7 +169,7 @@
             ]
           },
           "publishedDateTime": "2021-01-14T08:21:12-08:00",
-          "heat": 107,
+          "heat": 108,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -348,8 +348,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 12532,
-            "average": 4.7481647
+            "count": 12534,
+            "average": 4.7482047
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -424,8 +424,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 76923,
-            "average": 4.7784796
+            "count": 76929,
+            "average": 4.778484
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -507,8 +507,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 15970,
-            "average": 4.7544146
+            "count": 15972,
+            "average": 4.754445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -549,8 +549,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 8624,
-            "average": 4.771104
+            "count": 8625,
+            "average": 4.7711306
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -632,8 +632,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 15970,
-            "average": 4.7544146
+            "count": 15972,
+            "average": 4.754445
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -674,8 +674,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 8624,
-            "average": 4.771104
+            "count": 8625,
+            "average": 4.7711306
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -757,8 +757,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 76923,
-            "average": 4.7784796
+            "count": 76929,
+            "average": 4.778484
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -799,8 +799,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 32233,
-            "average": 4.7266464
+            "count": 32236,
+            "average": 4.726672
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1160,8 +1160,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3147,
-            "average": 4.6466475
+            "count": 3148,
+            "average": 4.64676
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1220,7 +1220,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 58,
+          "heat": 138,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-reports-with-power-bi-desktop-social.png",
@@ -1244,8 +1244,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 2473,
-            "average": 4.661949
+            "count": 2476,
+            "average": 4.6623588
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1286,8 +1286,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 2823,
-            "average": 4.721927
+            "count": 2824,
+            "average": 4.7220254
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1322,7 +1322,7 @@
         }
       ],
       "size": 4,
-      "heat": 69,
+      "heat": 73,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png",
@@ -1369,8 +1369,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3342,
-            "average": 4.7594256
+            "count": 3343,
+            "average": 4.7594976
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3454,8 +3454,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2149,
-            "average": 4.736622
+            "count": 2150,
+            "average": 4.7367444
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3580,8 +3580,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 526,
-            "average": 4.7338405
+            "count": 527,
+            "average": 4.7343454
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3830,8 +3830,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 7699,
-            "average": 4.71256
+            "count": 7700,
+            "average": 4.7125974
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3873,8 +3873,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 8858,
-            "average": 4.763716
+            "count": 8860,
+            "average": 4.7637696
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3956,8 +3956,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3342,
-            "average": 4.7594256
+            "count": 3343,
+            "average": 4.7594976
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5085,12 +5085,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-administer-power-bi-part-1-tenants-governance-collaboration.md",
-      "title": "Administer Power BI, Part 1 - Tenants, governance, collaboration",
-      "excerpt": "As an administrator, how do you manage a Power BI tenant? How do you configure tenant settings, monitor usage, and provision licenses and other organizational resources? This learning path covers typical tasks and tools, such as the Power BI admin portal and Office 365 admin center. You will learn how to establish and provide governance for a Power BI environment and provision Power BI Premium capacity.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-administer-power-bi-part-1-tenants-governance-collaboration/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-administer-power-bi-part-1-tenants-governance-collaboration/",
-      "length": "PT1H30M",
+      "path": "_learning/collections/microsoft-learn-architect-solutions-for-dynamics-365-and-power-platform.md",
+      "title": "Architect solutions for Dynamics 365 and Power Platform",
+      "excerpt": "A Solution Architect is responsible for the successful design, implementation, deployment, and adoption of an overall solution. A Solution Architect ensures that the solution meets the customer’s needs now and in the future. While the Solution Architect may not “click the buttons” during a deployment, they are ultimately responsible for the solution and work closely with the deployment team.\nThis learning path covers the pre-sales and analysis phases of a project to include:\n\nWhat it takes to become a Solution Architect.\nDiscovering customer needs.\nProposing a solution.\nWorking with requirements.\nPerforming fit-gap analysis.\n\nInstructor-led training (ILT) is scheduled for March 2020 that provides more hands-on activities and both this path and ILT are needed for the exam.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-architect-solutions-for-dynamics-365-and-power-platform/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-architect-solutions-for-dynamics-365-and-power-platform/",
+      "length": "PT3H57M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -5104,19 +5104,19 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Advanced"
       ],
       "topItems": [
         {
-          "path": "_learning/courses/microsoft-learn-power-bi-admin-intro.md",
-          "title": "Understand the Power BI administrator role",
-          "excerpt": "Learn how to administer Power BI to support business decisions backed by data.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-intro/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
-          "length": "PT16M",
+          "path": "_learning/courses/microsoft-learn-becoming-solution-architect.md",
+          "title": "Becoming a solution architect for Dynamics 365 and Power Platform",
+          "excerpt": "Learn how to become a solution architect.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-becoming-solution-architect/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/becoming-solution-architect/",
+          "length": "PT1H43M",
           "ratings": {
-            "count": 243,
-            "average": 4.6625514
+            "count": 766,
+            "average": 4.7310705
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5131,14 +5131,14 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Advanced"
           ],
           "heat": 51,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
-              "width": 641,
-              "height": 321,
+              "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
+              "width": 800,
+              "height": 400,
               "isCached": true
             }
           ],
@@ -5150,15 +5150,15 @@
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-power-bi-admin-environment.md",
-          "title": "Establish a Power BI environment",
-          "excerpt": "This module covers topics relating to establishing a Power BI environment within Office 365 containers.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-environment/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
-          "length": "PT18M",
+          "path": "_learning/courses/microsoft-learn-discover-customer-needs.md",
+          "title": "Discover customer needs as a Solution Architect for Dynamics 365 and Power Platform",
+          "excerpt": "Learn how to ask customers questions about their business processes and feature requirements to create a viable solution.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-discover-customer-needs/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/discover-customer-needs/",
+          "length": "PT36M",
           "ratings": {
-            "count": 202,
-            "average": 4.678218
+            "count": 518,
+            "average": 4.689189
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5173,101 +5173,77 @@
             ]
           },
           "levels": [
-            "Intermediate"
+            "Advanced"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-propose-solution.md",
+          "title": "Propose a solution as a Solution Architect for Power Platform and Dynamics 365",
+          "excerpt": "Learn how to propose a solution.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-propose-solution/index.json",
+          "webUrl": "https://docs.microsoft.com/en-us/learn/modules/propose-solution/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 363,
+            "average": 4.674931
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
+          ],
+          "heat": 51,
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-work-with-requirements.md",
+          "title": "Work with requirements as a solution architect for Microsoft Power Platform and Dynamics 365",
+          "excerpt": "It is important to capture the customer’s needs accurately. This module explains how to capture requirements and identify functional and non-functional items.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-work-with-requirements/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
+          "length": "PT23M",
+          "ratings": {
+            "count": 613,
+            "average": 4.7683525
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Advanced"
           ],
           "heat": 50,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-environment-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-power-bi-admin-governance.md",
-          "title": "Provide governance in a Power BI environment",
-          "excerpt": "Learn the fundamental rules, regulations, and policies of a BI governance approach.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-governance/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
-          "length": "PT12M",
-          "ratings": {
-            "count": 149,
-            "average": 4.751678
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 130,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-power-bi-admin-collaboration.md",
-          "title": "Facilitate collaboration and sharing in Power BI",
-          "excerpt": "Learn how to collaborate and share dashboards and reports with coworkers.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-collaboration/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
-          "length": "PT33M",
-          "ratings": {
-            "count": 131,
-            "average": 4.740458
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-collaboration-social.png",
-              "width": 641,
-              "height": 321,
-              "isCached": true
-            }
-          ],
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -5280,9 +5256,9 @@
       "heat": 61,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
-          "width": 641,
-          "height": 321,
+          "url": "https://docs.microsoft.com/learn/achievements/becoming-solution-architect-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],

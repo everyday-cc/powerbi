@@ -4,99 +4,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_learning/videos/radacad-customer-retention-in-power-bi-dax-measures.md",
-      "title": "Customer Retention in Power BI   DAX Measures",
-      "excerpt": "Customer retention is one of the most common scenarios of data analysis, which is very useful for business. As a business, you would like to know how many new customers you have in each month, how many returning,  and how many lost customers. Knowing these, would help you to focus on the growth plan,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-customer-retention-in-power-bi-dax-measures/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-customer-retention-in-power-bi-dax-measures/",
-      "originalUrl": "https://youtube.com/watch?v=kSy-7UHe4HE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kSy-7UHe4HE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M10S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-02-10T00:50:44-08:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kSy-7UHe4HE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-document-a-power-bi-file-and-report-in-a-few-clicks-all-dax-code-visualization-power-query-scripts.md",
-      "title": "Document a Power BI file and report in a few clicks   all DAX code visualization Power Query scripts",
-      "excerpt": "In this article and video, I’ll share with you how to document everything from a Power BI file in a few clicks. The document output will have all the DAX code (measures, columns, and tables) with the expressions, the tables with the Power Query scripts, information about visualization such as how many",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-document-a-power-bi-file-and-report-in-a-few-clicks-all-dax-code-visualization-power-query-scripts/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-document-a-power-bi-file-and-report-in-a-few-clicks-all-dax-code-visualization-power-query-scripts/",
-      "originalUrl": "https://youtube.com/watch?v=mRbeLl0TO14",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mRbeLl0TO14\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M16S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-05-27T15:09:46-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/mRbeLl0TO14/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-drill-down-and-up-in-power-bi-explained.md",
-      "title": "Drill Down and Up in Power BI Explained",
-      "excerpt": "Power BI works with hierarchies very easily, and there are buttons to drill down and up. However, sometimes, these buttons are confusing for the users. It is essential to know what each drill down/up option is and how it works, not just for developers but also for the end-users. In this blog and video,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-drill-down-and-up-in-power-bi-explained/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-drill-down-and-up-in-power-bi-explained/",
-      "originalUrl": "https://youtube.com/watch?v=iUNrltJ8DUE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iUNrltJ8DUE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2021-09-06T17:55:17-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iUNrltJ8DUE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-filter-function-in-dax-and-power-bi-apply-custom-filter-to-calculations.md",
       "title": "FILTER Function in DAX and Power BI   Apply Custom Filter to Calculations",
       "excerpt": "You can apply filtering to visualization elements. However, sometimes filtering has to be done on specific calculations. This can come in handy especially when you want to compare values of other items with specific items. In this article and video, I’ll explain how to use the FILTER function in DAX",
@@ -1045,6 +952,126 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-using-related-and-relatedtable-in-dax.md",
+      "title": "Using RELATED and RELATEDTABLE in DAX",
+      "excerpt": "Why and when to use RELATED and its companion function RELATEDTABLE: two common DAX functions that are required when using a row context with relationships.\r Article and download: https://sql.bi/751669?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-using-related-and-relatedtable-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-using-related-and-relatedtable-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=6_O3UDKOVHo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6_O3UDKOVHo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M4S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-08-30T03:00:25-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6_O3UDKOVHo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-when-to-use-keepfilters-over-iterators.md",
+      "title": "When to use KEEPFILTERS over iterators",
+      "excerpt": "How to use KEEPFILTERS in DAX iterator functions to preserve arbitrarily shaped filters in context transition. \r Article and download: https://sql.bi/705054?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-when-to-use-keepfilters-over-iterators/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-when-to-use-keepfilters-over-iterators/",
+      "originalUrl": "https://youtube.com/watch?v=bGVLguWf4Ls",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bGVLguWf4Ls\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M56S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-27T02:00:58-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bGVLguWf4Ls/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables.md",
+      "title": "Add calculated tables and columns to Power BI Desktop models",
+      "excerpt": "By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table by using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query custom columns.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
+      "length": "PT19M",
+      "ratings": {
+        "count": 1599,
+        "average": 4.716698
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-add-calculated-tables-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     }
   ],

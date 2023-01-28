@@ -4,120 +4,6 @@
   "page": 40,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-microsoft-r-data-science-and-power-bi.md",
-      "title": "Microsoft R, Data Science and Power BI",
-      "excerpt": "In this video, we are joined by Buck Woody. Buck is a data scientist at Microsoft. We work together to show how you can easily visualize Microsoft R in Power BI. We use Microsoft R Open and then move onto Power BI Desktop.  The example used in Microsoft R Open is the Anscombe's quartet.   Download sample",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-microsoft-r-data-science-and-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-microsoft-r-data-science-and-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=yj3rZTwJZaA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yj3rZTwJZaA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M27S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-10-23T07:11:44-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yj3rZTwJZaA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-migrate-your-paginated-reports-to-power-bi.md",
-      "title": "Migrate your Paginated reports to Power BI",
-      "excerpt": "Are your paginated reports still on-premises with either Power BI Report Server or SQL Server Reporting Services? Want to move them to Power BI? Patrick shows you how you can do that using the RDLMigration tool!  Documentation: https://docs.microsoft.com/power-bi/guidance/migrate-ssrs-reports-to-power-bi",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-migrate-your-paginated-reports-to-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-migrate-your-paginated-reports-to-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=_VaBzheAgxY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_VaBzheAgxY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M38S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-06T08:00:19-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_VaBzheAgxY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-oraoledboracle-provider-is-not-registered.md",
-      "title": "'OraOLEDB.Oracle' provider is not registered",
-      "excerpt": "Highlights an issue that could occur when creating a Data Source within Power BI Admin Center.  Oracle Provider downloads -  64-bit Oracle Data Access Components (ODAC) http://www.oracle.com/technetwork/database/windows/downloads/index-090165.html  32-bit Oracle Data Access Components (ODAC) http://www.oracle.com/technetwork/topics/dotnet/utilsoft-086879.html",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-oraoledboracle-provider-is-not-registered/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-oraoledboracle-provider-is-not-registered/",
-      "originalUrl": "https://youtube.com/watch?v=zCKIAle_i74",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zCKIAle_i74\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M43S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2015-01-08T07:32:33-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zCKIAle_i74/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-personal-gateway-governance-in-power-bi.md",
       "title": "Personal Gateway governance in Power BI",
       "excerpt": "Gateway sprawl in Power BI can be a problem for organizations looking to govern what data can be refreshed. Learn how you can govern the Personal Gateway to keep it under control.  Set-DataGatewayTenantPolicy PowerShell Reference https://docs.microsoft.com/powershell/module/datagateway/set-datagatewaytenantpolicy?view=datagateway-ps",
@@ -1144,6 +1030,121 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ZGQE1WZtD5M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-where-do-you-add-that-new-column-in-any-analytics-tool.md",
+      "title": "Where do you add that new column in any analytics tool?",
+      "excerpt": "You need to add a new column in Power BI - or any business analytics tool. Where do you add the column? Is there a cost to that? Matthew Roche explains his thoughts on his maxim that has everyone talking!  Connect with Matthew Roche Twitter: https://twitter.com/SQLAllFather LinkedIn: https://www.linkedin.com/in/matthewroche/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-where-do-you-add-that-new-column-in-any-analytics-tool/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-where-do-you-add-that-new-column-in-any-analytics-tool/",
+      "originalUrl": "https://youtube.com/watch?v=OAlys79j81Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OAlys79j81Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M36S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-10-05T08:00:23-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OAlys79j81Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations.md",
+      "title": "Why can't I define my Power BI Aggregations???",
+      "excerpt": "Trouble defining your Power BI Aggregations? Field selection all grayed out? Patrick has a tip for you!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.  🎓",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-cant-i-define-my-power-bi-aggregations/",
+      "originalUrl": "https://youtube.com/watch?v=V9aG-6wr1xQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V9aG-6wr1xQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M13S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-03-17T08:00:22-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/V9aG-6wr1xQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Why can't I define my Power BI Aggregations???",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-why-isnt-my-agg-hitting-when-using-distinctcount-in-power-bi.md",
+      "title": "Why isn't my Agg hitting when using DISTINCTCOUNT in Power BI???",
+      "excerpt": "Using Aggregations in Power BI? Have some DISTINCTCOUNT in your measures? Wondering why the queries are slow and not hitting the aggs? Patrick shows you what is going on! Get ready for some DAX fusion!  DAX Fusion: https://dax.tips/2019/08/05/dax-fusion/  Aggregations Documentation: https://docs.microsoft.com/power-bi/transform-model/aggregations-advanced",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-why-isnt-my-agg-hitting-when-using-distinctcount-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-why-isnt-my-agg-hitting-when-using-distinctcount-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=lTkWAfrMwOg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lTkWAfrMwOg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M46S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-05-11T08:00:25-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lTkWAfrMwOg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
