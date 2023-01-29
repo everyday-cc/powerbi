@@ -4468,8 +4468,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2154,
-            "average": 4.7367687
+            "count": 2155,
+            "average": 4.736891
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4510,8 +4510,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3152,
-            "average": 4.647208
+            "count": 3153,
+            "average": 4.64732
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4802,8 +4802,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 1902,
-            "average": 4.7113566
+            "count": 1903,
+            "average": 4.7115083
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4844,8 +4844,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5311,
-            "average": 4.8006024
+            "count": 5312,
+            "average": 4.80064
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4927,8 +4927,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9879,
-            "average": 4.675777
+            "count": 9880,
+            "average": 4.67581
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5104,7 +5104,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 134,
+          "heat": 54,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/explore-azure-data-services-for-modern-analytics-social.png",
