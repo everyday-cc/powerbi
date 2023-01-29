@@ -340,48 +340,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-embedded-permissions-analytics.md",
-      "title": "Enforce data permissions for Power BI embedded analytics",
-      "excerpt": "Learn how to enforce data permissions for Power BI embedded analytics.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-permissions-analytics/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-analytics/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 21,
-        "average": 4.904762
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-permissions-analytics-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-power-bi-embedded-permissions-content.md",
       "title": "Set up permissions to embed Power BI content",
       "excerpt": "Learn which settings and permissions to use for internal and external users of your app with embedded Power BI content.",
@@ -579,6 +537,48 @@
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-analytics-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-power-bi-tableau-calculations.md",
+      "title": "Create Power BI calculations for Tableau users",
+      "excerpt": "This module provides guidance on Power BI calculation concepts, and how to create and edit calculations.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-calculations/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-calculations/",
+      "length": "PT57M",
+      "ratings": {
+        "count": 75,
+        "average": 4.3333335
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-calculations-social.png",
           "width": 1280,
           "height": 641,
           "isCached": true
@@ -1103,8 +1103,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 250,
-        "average": 4.724
+        "count": 251,
+        "average": 4.7250996
       },
       "provider": {
         "name": "Microsoft Learn",

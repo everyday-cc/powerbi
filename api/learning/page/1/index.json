@@ -225,15 +225,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-analyze-explore-data-power-bi.md",
-      "title": "Analyze data with Power BI",
-      "excerpt": "This module goes beyond viewing and exploring your content and explains how to interact with it by working with reports and dashboards to uncover and share new business insights.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-analyze-explore-data-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
-      "length": "PT60M",
+      "path": "_learning/courses/microsoft-learn-data-driven-story-power-bi.md",
+      "title": "Create a data-driven story with Power BI reports",
+      "excerpt": "Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-driven-story-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
+      "length": "PT1H44M",
       "ratings": {
-        "count": 10334,
-        "average": 4.702535
+        "count": 5675,
+        "average": 4.688987
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -248,14 +248,14 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
-      "heat": 134,
+      "heat": 136,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/analyze-explore-data-power-bi-social.png",
-          "width": 643,
-          "height": 321,
+          "url": "https://learn.microsoft.com/training/achievements/create-reports-with-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
           "isCached": true
         }
       ],
@@ -267,31 +267,31 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-custom-date-templates-with-bravo-for-power-bi.md",
-      "title": "Custom Date Templates with Bravo for Power BI",
-      "excerpt": "This video explains how to create a Bravo for Power BI template to customize a Date table and the related Time Intelligence measures created by the tool.\r Article and download: https://sql.bi/779793?aff=yt\r \r Bravo for Power BI: https://bravo.bi/?aff=yt\r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-custom-date-templates-with-bravo-for-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-custom-date-templates-with-bravo-for-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=pkTmJMd06XI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pkTmJMd06XI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT43M35S",
+      "path": "_learning/videos/guy-in-a-cube-a-power-query-tip-for-you.md",
+      "title": "A Power Query tip for you",
+      "excerpt": "You probably know that you can concatenate strings in Power Query. Not big news there. But do you know how to change the order of how things are concatenated? Patrick shows you how!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-a-power-query-tip-for-you/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-a-power-query-tip-for-you/",
+      "originalUrl": "https://youtube.com/watch?v=t3Zsdbr-_So",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t3Zsdbr-_So\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M59S",
       "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-12-20T03:01:15-08:00",
-      "heat": 131,
+      "publishedDateTime": "2022-12-14T08:00:24-08:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/pkTmJMd06XI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/t3Zsdbr-_So/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -301,19 +301,20 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-tableau-calculations.md",
-      "title": "Create Power BI calculations for Tableau users",
-      "excerpt": "This module provides guidance on Power BI calculation concepts, and how to create and edit calculations.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-calculations/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-calculations/",
-      "length": "PT57M",
+      "path": "_learning/courses/microsoft-learn-power-bi-embedded-permissions-analytics.md",
+      "title": "Enforce data permissions for Power BI embedded analytics",
+      "excerpt": "Learn how to enforce data permissions for Power BI embedded analytics.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-permissions-analytics/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-analytics/",
+      "length": "PT33M",
       "ratings": {
-        "count": 75,
-        "average": 4.3333335
+        "count": 21,
+        "average": 4.904762
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -328,12 +329,12 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-calculations-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-permissions-analytics-social.png",
           "width": 1280,
           "height": 641,
           "isCached": true
@@ -681,8 +682,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 53572,
-            "average": 4.7970395
+            "count": 53577,
+            "average": 4.7970586
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -699,7 +700,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 103,
+          "heat": 104,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
@@ -723,8 +724,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 77020,
-            "average": 4.778473
+            "count": 77027,
+            "average": 4.778467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -783,8 +784,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 77020,
-        "average": 4.778473
+        "count": 77027,
+        "average": 4.778467
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -864,8 +865,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 53572,
-        "average": 4.7970395
+        "count": 53577,
+        "average": 4.7970586
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -882,7 +883,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 103,
+      "heat": 104,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
@@ -968,8 +969,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 12562,
-            "average": 4.748209
+            "count": 12564,
+            "average": 4.7481694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1044,8 +1045,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 77020,
-            "average": 4.778473
+            "count": 77027,
+            "average": 4.778467
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1104,8 +1105,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 12562,
-        "average": 4.748209
+        "count": 12564,
+        "average": 4.7481694
       },
       "provider": {
         "name": "Microsoft Learn",

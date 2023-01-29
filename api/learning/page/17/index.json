@@ -4,36 +4,6 @@
   "page": 17,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-week-number-weeknum-in-date-table-qa.md",
-      "title": "Power BI Week Number (Weeknum) in Date Table #Q&A",
-      "excerpt": "Week Numbers (Weeknum) in Power BI Date Table (Calendar Table) are extremely useful. Watch video to learn more and Download the Power BI file in Video at https://www.learnpowerbi.com/download   Week Numbers can allow you to show your data • Week over Week • Weekly Averages • Rolling Week Period …and",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-week-number-weeknum-in-date-table-qa/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-week-number-weeknum-in-date-table-qa/",
-      "originalUrl": "https://youtube.com/watch?v=INaRk1Cbqmg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/INaRk1Cbqmg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M6S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-11-24T18:53:22-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/INaRk1Cbqmg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-year-to-date-comparison-for-current-vs-prior-year-.md",
       "title": "Power BI: Year to Date Comparison for Current vs. Prior Year 📅",
       "excerpt": "👉 Do you have a Power BI Question? Get Your Answer at https://www.learnpowerbi.com/question In this Power BI Q&A Episode, we cover a question by Mike M: How do you Compare Sales YTD vs. Sales Prior Year YTD? 👉 Download the Power BI file used in Video: https://web.learnpowerbi.com/download  Do you have",
@@ -949,6 +919,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/L_NGI6r6FYk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-relationship-in-power-bi-with-multiple-columns.md",
+      "title": "Relationship in Power BI with Multiple Columns",
+      "excerpt": "You can create relationships in Power BI between tables. Relationships are useful for some functions to work across multiple tables and produce the result. Relationship between tables also makes visualization and report elements more efficient, because the result of selection in one chart can affect",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-relationship-in-power-bi-with-multiple-columns/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-relationship-in-power-bi-with-multiple-columns/",
+      "originalUrl": "https://youtube.com/watch?v=sVACTQh5bOg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sVACTQh5bOg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M34S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-10-29T09:05:15-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sVACTQh5bOg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
