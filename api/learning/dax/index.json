@@ -64,7 +64,7 @@
         ]
       },
       "publishedDateTime": "2023-01-17T03:01:06-08:00",
-      "heat": 93,
+      "heat": 92,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/iKPaTW_ESrI/maxresdefault.jpg",
@@ -103,7 +103,7 @@
         ]
       },
       "publishedDateTime": "2023-01-16T05:40:08-08:00",
-      "heat": 87,
+      "heat": 89,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/2Qa0XEqRzYU/maxresdefault.jpg",
@@ -342,8 +342,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2243,
-            "average": 4.7289343
+            "count": 2244,
+            "average": 4.7290554
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -429,8 +429,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1358,
-            "average": 4.7290134
+            "count": 1359,
+            "average": 4.7292128
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2069,8 +2069,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 7712,
-        "average": 4.7127852
+        "count": 7713,
+        "average": 4.7128224
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2525,8 +2525,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2243,
-        "average": 4.7289343
+        "count": 2244,
+        "average": 4.7290554
       },
       "provider": {
         "name": "Microsoft Learn",
