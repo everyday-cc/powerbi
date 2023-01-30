@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT9M35S
 publishedDateTime: 2020-07-15T21:19:17Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_sxLEGRCo28\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "nYbSyMu8XfZ/rDFBK+qXmgjES/8lloTW+ulTc1LtJoGYMEovmi/H0mCqex7WPJLJtITgjj6mkD5OS+Rtjhdf/AnB22QEbhg+EVhs9Kvv8OTpdz04wJrTFJ31el+q97SAAVRnUH8+b1lh7KZieRwB7XFN/lKVZb0hjpWYVE/pGWXcgOjbXKCaoXoc2ONw/0AOjzsXOfxavyc7JKLHLv65yd6MKVISh4fHSMNhnAtmIgq7csCaQVI60FE2g6XRpPjCoB/8vzG9F+Zs1pPEqJ8erMm3pMgVPWm+U5544bRFhu2iByY7G2C7zkhMekGIc9Stk2qha/aa86PU7I6Q9BRINd9HzdbPcncDKh5BcV3hRKyhQ8CUucCFAjtIHZR/Wkdw7O8UbSFpKmIeWU7cP2piIOMxBPjICBxXZ2/83+eto6g=;+7nT6qi3YUus2KbNAtYO7A=="
+secured: "yGZFPkcIq89mdl7FLQJCpQ96RuaJcCp+Sail5FdNxE7MnDfGoIXlrn5dczSqW9pCtGWrKOxBjsvJ3C5PMst6JQsP6za2Q8K0G//OdWMiyoKdBE1QDjFE5GfKvEditS9RRvYi03XVamS+LWkiHP/8GtGh7lTODQ0BJziIB2J2+3wPGoMpmyT/H5qiWGB99dS+NTszB45j9lYK8A3h6x9mZjjeTKDxx4Koc6ak0acN1Vcvt43evW6Rj58PYUccTSTwucRlzsMdwEF0KczjOl6hqOReKOWHxBZIxnF3eSwLXC71H2nVq+AZr8GDeF/TVX7mLl4R1Ck0r+YCVddmjdEUu5S98CfJKxXjtqPyodVViBxJ4yntBZrtKOIkyUOCyi5MaJHqaYu68ULXnisiNvbD63mg6YDgdqEpQV2TGmYp+bg=;utSK9ezQ8Jg8qT8Xc3MhUw=="
 ---
 
