@@ -225,91 +225,15 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-bring-power-bi-and-excel-together.md",
-      "title": "Bring Power BI and Excel together",
-      "excerpt": "STOP defaulting to exporting your Power BI data to Excel! Adam shows you options you can use within Power BI to still work with your data in Excel if that's what you are comfortable with.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-bring-power-bi-and-excel-together/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-bring-power-bi-and-excel-together/",
-      "originalUrl": "https://youtube.com/watch?v=jIFCyQdTvgM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jIFCyQdTvgM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M19S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-11-03T08:00:28-07:00",
-      "heat": 138,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jIFCyQdTvgM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-query-mastodon-api-with-pagination-and-text-token-in-power-bi.md",
-      "title": "Query Mastodon API with Pagination and text token in Power BI",
-      "excerpt": "In this video I will show you how to query  an API that lists all mastodon instances and users and figure out why it says Mastodon has 2bn users.  How to paginate when you know the number of pages: https://curbal.com/curbal-learning-portal/how-to-do-pagination-on-a-rest-api-in-power-query-part-1  and",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-query-mastodon-api-with-pagination-and-text-token-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-query-mastodon-api-with-pagination-and-text-token-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=biQ2XhX4wXY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/biQ2XhX4wXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M32S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-11-16T04:39:13-08:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/biQ2XhX4wXY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-workplace-analytics-business-continuity.md",
-      "title": "Evaluate shifts in work patterns with the Business continuity dashboard in Power BI from Viva Insights",
-      "excerpt": "Learn how to set up and interpret the results from the Business continuity dashboard in Power BI through Viva Insights. Generate insights from the behavioral data to help navigate shifts in employee and team work patterns.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-workplace-analytics-business-continuity/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/workplace-analytics-business-continuity/",
-      "length": "PT39M",
+      "path": "_learning/courses/microsoft-learn-visuals-power-bi.md",
+      "title": "Work with Power BI visuals",
+      "excerpt": "Learn how to choose from the exceptional visuals that Power BI makes available to you. Formatting visuals will direct the user’s attention to exactly where you want it, while helping to make the visual easier to read and interpret. You will also learn about how to use key performance indicators (KPIs).",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
+      "length": "PT1H13M",
       "ratings": {
-        "count": 73,
-        "average": 4.767123
+        "count": 3186,
+        "average": 4.648776
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -326,12 +250,12 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 130,
+      "heat": 141,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/evaluate-shifts-in-work-patterns-with-the-business-continuity-dashboard-in-workplace-analytics-social.png",
-          "width": 643,
-          "height": 321,
+          "url": "https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -340,6 +264,88 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables.md",
+      "title": "Add calculated tables and columns to Power BI Desktop models",
+      "excerpt": "By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table by using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query custom columns.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
+      "length": "PT19M",
+      "ratings": {
+        "count": 1609,
+        "average": 4.7159724
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-add-calculated-tables-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it.md",
+      "title": "Problems installing the DAX Debugger? Here is how to do it.",
+      "excerpt": "Problems installing the DAX Debugger? Here is how to do it.  Link to Jeffrey's blog: https://pbidax.wordpress.com/2022/08/16/introduce-the-dax-evaluateandlog-function/  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it/",
+      "originalUrl": "https://youtube.com/watch?v=hG27iTTZ6tY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hG27iTTZ6tY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-12-06T00:42:49-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hG27iTTZ6tY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -373,8 +379,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 53783,
-            "average": 4.796943
+            "count": 53801,
+            "average": 4.796974
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -415,8 +421,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 77334,
-            "average": 4.7782607
+            "count": 77348,
+            "average": 4.778249
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -475,8 +481,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 77334,
-        "average": 4.7782607
+        "count": 77348,
+        "average": 4.778249
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -821,8 +827,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 53783,
-        "average": 4.796943
+        "count": 53801,
+        "average": 4.796974
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1079,8 +1085,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 12699,
-            "average": 4.74872
+            "count": 12707,
+            "average": 4.7488785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1155,8 +1161,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 77334,
-            "average": 4.7782607
+            "count": 77348,
+            "average": 4.778249
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1215,8 +1221,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 12699,
-        "average": 4.74872
+        "count": 12707,
+        "average": 4.7488785
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1318,8 +1324,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 77334,
-            "average": 4.7782607
+            "count": 77348,
+            "average": 4.778249
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1360,8 +1366,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 32331,
-            "average": 4.7264237
+            "count": 32334,
+            "average": 4.726449
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1403,8 +1409,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 14791,
-            "average": 4.719627
+            "count": 14794,
+            "average": 4.719616
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1498,44 +1504,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-allow-users-to-show-and-hide-columns-in-a-power-bi-paginated-report.md",
-      "title": "Allow users to Show and Hide columns in a Power BI Paginated report!",
-      "excerpt": "In a Power BI Paginated Report, you can allow your report consumers to customize what they see in the report such as which columns they want in their table or matrix. Patrick shows you how!  Sample RDLs: https://github.com/guyinacube/demo-files/blob/master/video%20demos/RDL/20230118%20-%20Paginated%20Show%20Hide%20Columns.zip",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-allow-users-to-show-and-hide-columns-in-a-power-bi-paginated-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-allow-users-to-show-and-hide-columns-in-a-power-bi-paginated-report/",
-      "originalUrl": "https://youtube.com/watch?v=_ggNrxUcCS8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_ggNrxUcCS8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M28S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-01-18T08:00:31-08:00",
-      "heat": 90,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_ggNrxUcCS8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-export-from-power-bi-to-excel-up-to-100k-rows-.md",
       "title": "Export from Power BI to Excel up to 🔥100k rows 🔥!!",
       "excerpt": "In a previous video  (https://www.youtube.com/watch?v=BnTipbooeP0&ab_channel=Curbal) I showed you how to export your data to excel using a button in Power Bi but there was a 1000 item limit.   I found a workaround and now you can export up to 100000 rows or 1000000 values per query!  FourMoo Blog:  https://www.fourmoo.com/2022/06/15/exporting-a-power-bi-visual-data-to-a-csv-file-in-sharepoint/",
@@ -1619,8 +1587,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 23248,
-        "average": 4.724191
+        "count": 23251,
+        "average": 4.724227
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1648,6 +1616,44 @@
       ],
       "content": "\r\n",
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-allow-users-to-show-and-hide-columns-in-a-power-bi-paginated-report.md",
+      "title": "Allow users to Show and Hide columns in a Power BI Paginated report!",
+      "excerpt": "In a Power BI Paginated Report, you can allow your report consumers to customize what they see in the report such as which columns they want in their table or matrix. Patrick shows you how!  Sample RDLs: https://github.com/guyinacube/demo-files/blob/master/video%20demos/RDL/20230118%20-%20Paginated%20Show%20Hide%20Columns.zip",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-allow-users-to-show-and-hide-columns-in-a-power-bi-paginated-report/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-allow-users-to-show-and-hide-columns-in-a-power-bi-paginated-report/",
+      "originalUrl": "https://youtube.com/watch?v=_ggNrxUcCS8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_ggNrxUcCS8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M28S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-18T08:00:31-08:00",
+      "heat": 87,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_ggNrxUcCS8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
