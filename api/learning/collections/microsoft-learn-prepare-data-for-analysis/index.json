@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 16045,
-        "average": 4.7538795
+        "count": 16048,
+        "average": 4.7538633
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 8705,
-        "average": 4.770132
+        "count": 8707,
+        "average": 4.77007
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 79,
+      "heat": 159,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/clean-transform-and-load-data-in-power-bi-social.png",
