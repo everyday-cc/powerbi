@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M21S
 publishedDateTime: 2020-04-22T09:47:18Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l3389KbpEtA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "M0tzV0H8a1f2y7R2MfkvWIpaNuG3qObNQF8hhfD2QWAIM9n6ekvT4sv6wuzdU9IFcZ8YNf4aThhc1C6RSv5BcAekhEwuiMi1iIW8jNiqn2A1FYd7hcZdGo7/nVMU+iPLbJB9hy60yoCMEFi5+0qNIDjf/xJEEAY9li2axkFvyVPCkHOzl+MsFVQFARzIEaw508EHctbRTasVexj37vIn5zNSGstTpAwTI9GHdDVHMCeUQf5dauCpMPh8VjidatzIZErU64lEO1xhHYQUwkKQejNfm1l3/CrZ/YRzdTdUYXEq/kwGJHentzb+6M0wUIW60oPeDxVzfhyvJg3lcdwOEfB3i5eB5lWg6QyT/3ZZgLWsrVHWJPokr1i4ssM2emTtyux5Czv9XHSDgOQH9gUcI+uaepI/3FihZ2OMl91IR2Q=;yMfQb7pPofIV5r/In0z1dQ=="
+secured: "Gi9tGr642RZDuB876iIWeHgGmLWEQFx9fsa7CveLDPOiZ9mhXoaQvGE+lAz/Tesl/PfkXXyhPOfuWbQusa1likXwbEe8FcPSwHsfSdPWxwsGY8axB/CXkHcg3LK5fx8sEGxf+CTSZ3G98IQNgkKU/jD5m8aAhqjNcmTbu8rt+cGVcEsvyc2ls1J9/wA29LZs0eU0xwZoHHe1733beuiurZYvwL4bXEWJC4N4wxFAXH2Hnri6ZfT7xcPWRFNr9yCydOipcvM6/2VOSKVU5bPxqC2AUqkGBoiT7fU+KeaWJjfebyLPWBTL6rJT6GylttibqtpszqFpKNrVfgQjiG2NrPNuiNIp/2JTEHEvuQ0gqjJcfvteZbjmsiDoLAhCF+j1S/GUFmw017QOZM9tLfUfKYW/9PwPtEBcPaFkQheheuA=;LkQZwBmV31vweNTPSOt0bQ=="
 ---
 
