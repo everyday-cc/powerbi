@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-ja
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-january-2023-feature-summary/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:
