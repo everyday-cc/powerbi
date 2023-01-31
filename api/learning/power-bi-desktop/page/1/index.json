@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 32329,
-        "average": 4.7264066
+        "count": 32331,
+        "average": 4.7264237
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -272,8 +272,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3365,
-            "average": 4.75899
+            "count": 3366,
+            "average": 4.75817
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -738,8 +738,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3365,
-        "average": 4.75899
+        "count": 3366,
+        "average": 4.75817
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1250,8 +1250,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 508,
-        "average": 4.6437006
+        "count": 509,
+        "average": 4.6444006
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1294,8 +1294,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/",
       "length": "PT35M",
       "ratings": {
-        "count": 235,
-        "average": 4.7106385
+        "count": 236,
+        "average": 4.7118645
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1338,8 +1338,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1338,
-        "average": 4.740658
+        "count": 1339,
+        "average": 4.7408514
       },
       "provider": {
         "name": "Microsoft Learn",
