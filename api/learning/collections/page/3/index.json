@@ -118,8 +118,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 2846,
-            "average": 4.7217145
+            "count": 2847,
+            "average": 4.7218122
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -720,7 +720,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 133,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
@@ -744,8 +744,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 206,
-            "average": 4.6796117
+            "count": 207,
+            "average": 4.6811595
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -953,8 +953,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 43,
-            "average": 4.860465
+            "count": 44,
+            "average": 4.840909
           },
           "provider": {
             "name": "Microsoft Learn",
