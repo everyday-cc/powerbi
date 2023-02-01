@@ -241,7 +241,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 130,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/modern-analytics-publish-share-social.png",
@@ -307,8 +307,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-teams/",
       "length": "PT27M",
       "ratings": {
-        "count": 240,
-        "average": 4.7708335
+        "count": 241,
+        "average": 4.767635
       },
       "provider": {
         "name": "Microsoft Learn",
