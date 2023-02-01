@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M14S
 publishedDateTime: 2018-03-12T15:17:34Z
-heat: 55
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OzQ44gwi5Kw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Akew52tpfXu8p+JGJq576HTsXG2YvvfR63KGvxVPDvARAsETszx7RwTVZG6junteUmPe8cCvOZeislzlIg9uzbiqAGTOIdcs0nVpxpZEUN29l65rmnG2n8Or0mK5PKRk/CISWVLpj+kzNmfPC5WUCvtpNljsiPn9Ikr7OnkvGhPopR+M3wRUET7NRor5x39pZMiMycjNFaDYFgJ/rHBbN7WpLVlz5f9YXdHs1rcopjv3X8hs9xGMTMv2xWtf7s64ufESAru21zgY9Kccv9k8AKanlhTkpP1kk5u1NC2PhZq9x7dOo9/iKUoAecoNj18HnmxlhvpCTvv0G8HaXx1K+qIF2Ap+bvEUleyz0Hl7N6YevE0hN4gE3EHMys5DxJAdDtxMyZyECarr61eVks9qcpRcpxY0qNwLCo3KCsckYH8=;mD7v2p2VCOfHxcdkxZIKoQ=="
+secured: "SBC+ilreteSzyh6dY338FdJxmIajNjui45JXkYhNlGiemf5DV5BKf3Ip+01ePE7yfkLEOUhLEepo5s668ay+nVJLNNI3UTnmLyux9s/4PnvztU6hIxJrowB2rcrAgT4rE/GGLSeRv60SL2NcbOwo17ZWncXmVA/ncbEH0s0yWaXehYF5FYUkSReQkbcdBcZlEIBbwGWQH9A3yYkg1GQzYOcDZti6N5i/96SS/Novsis9yQPQgwStE7+q3EsChpuNjVs+dUkA/GSpNcH4XGe5KY0RvCzqvhjNMGU3XTHCcEn4yJmSsiVhIvU0VPHyX2unX3tmJ/09NAAztNdMlIYM3amVfP0dzF9WxnMeNbUonFdLHglf+qwaS7Vwx8izbUldeif75kSnEd/Fm+RoCMPwnMa5j3IqKtkcyfvi2pr5J1o=;Ab3xrJ0PuP9dEuq7rJozuw=="
 ---
 
