@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-06-data-in-space-in-preview-now-power-bi-can-be-truly-everywhere.md",
+      "title": "“Data in space” in preview: Now Power BI can be truly everywhere",
+      "excerpt": "We live in a connected world and almost everything around us generates data. Data in Space is new feature that uses augmented reality to create persistent spatial anchors in the real world and attach Power BI content to those anchors. Data in space connects your business data to your real-world scenarios",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-06-data-in-space-in-preview-now-power-bi-can-be-truly-everywhere/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/data-in-space-in-preview-now-power-bi-can-be-truly-everywhere/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/data-in-space-in-preview-now-power-bi-can-be-truly-everywhere/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-05T23:18:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-07-05-improved-power-bi-experience-in-excel.md",
       "title": "Improved Power BI Experience in Excel",
       "excerpt": "The improvements to the Power BI experience in Excel include a new user-friendly UI that helps users easily search for datasets to build reports in the Excel grid. Also, users can now directly navigate from Excel to the Power BI service to discover new data artifacts in their organization or get additional",
@@ -1225,58 +1276,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-announcing-action-bar-for-interactive-reports-in-the-power-bi-tab-for-microsoft-teams.md",
-      "title": "Announcing: Action bar for interactive reports in the Power BI tab for Microsoft Teams",
-      "excerpt": "We&#8217;re excited to announce that the Power BI tab in Microsoft Teams is getting a new action bar for interactive reports. The action bar enables users in the Power BI tab to use all the capabilities they have in the service when interactive reports are added to channels, chats, or meetings in Microsoft",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-16-announcing-action-bar-for-interactive-reports-in-the-power-bi-tab-for-microsoft-teams/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-action-bar-for-interactive-reports-in-the-power-bi-tab-for-microsoft-teams/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-action-bar-for-interactive-reports-in-the-power-bi-tab-for-microsoft-teams/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LTdpe2ENW4M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2022/05/graphical-user-interface-application-description-11.png",
-          "width": 2780,
-          "height": 2167,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T03:35:15-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

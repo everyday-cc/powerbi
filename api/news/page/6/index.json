@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-28-admin-monitoring-of-power-bi-usage-in-excel.md",
+      "title": "Admin Monitoring of Power BI Usage in Excel",
+      "excerpt": "Learn how admins can get insights on users who are connecting to Power BI datasets from Excel with the Power BI activity logs",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-28-admin-monitoring-of-power-bi-usage-in-excel/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/admin-monitoring-of-power-bi-usage-in-excel/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/admin-monitoring-of-power-bi-usage-in-excel/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-28T07:28:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-03-25-power-bi-vs-tableau-business-intelligence-tools-comparison.md",
       "title": "Power BI vs. Tableau: Business intelligence tools comparison",
       "excerpt": "an uppercase character (A through Z) or a lowercase (a through z) character (no spaces). Power BI vs. Tableau: Business intelligence tools comparison Your email has been sent Power BI and Tableau ...",
@@ -1201,57 +1252,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2022-01-31-how-to-share-your-power-bi-dashboards-and-reports.md",
-      "title": "How to share your Power BI dashboards and reports",
-      "excerpt": "How to share your Power BI dashboards and reports Your email has been sent Creating a great Power BI dashboard is not enough. You must get it to the right people--which means learning to share.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-31-how-to-share-your-power-bi-dashboards-and-reports/index.json",
-      "webUrl": "https://www.techrepublic.com/article/how-to-share-your-power-bi-dashboards-and-reports/",
-      "originalUrl": "https://www.techrepublic.com/article/how-to-share-your-power-bi-dashboards-and-reports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/04/asharepowerbi.png?x78464",
-          "width": 1099,
-          "height": 869,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/article/how-to-share-your-power-bi-dashboards-and-reports/amp/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-to-share-your-power-bi-dashboards-and-reports/amp/",
-      "publishedDateTime": "2022-01-31T01:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],

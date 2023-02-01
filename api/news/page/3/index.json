@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-27-why-using-a-new-power-bi-zendesk-integration-for-business.md",
+      "title": "Why Using a New Power BI Zendesk Integration for Business",
+      "excerpt": "The truth is that we can influence only what we can measure, so customer service software such as Zendesk has become a valuable data source for business analytics. Integrating Zendesk Support software with a professional solution like Power BI can help companies improve the entire customer experience and raise the service level significantly based on the insights generated from the Zendesk reports visualized in Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-27-why-using-a-new-power-bi-zendesk-integration-for-business/index.json",
+      "webUrl": "https://www.marketwatch.com/press-release/why-using-a-new-power-bi-zendesk-integration-for-business-2022-08-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/why-using-a-new-power-bi-zendesk-integration-for-business-2022-08-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-announcing-public-preview-of-multiple-audiences-for-power-bi-apps.md",
       "title": "Announcing Public Preview of Multiple Audiences for Power BI Apps",
       "excerpt": "Today, we are excited to announce the public preview of Multiple Audiences in the Power BI Apps, one of the highly requested features from the community. With multiple audiences for an App, now Power BI App author can create multiple audience groups within the same App and assign different permissions",
@@ -1201,57 +1252,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-data-in-space-in-preview-now-power-bi-can-be-truly-everywhere.md",
-      "title": "“Data in space” in preview: Now Power BI can be truly everywhere",
-      "excerpt": "We live in a connected world and almost everything around us generates data. Data in Space is new feature that uses augmented reality to create persistent spatial anchors in the real world and attach Power BI content to those anchors. Data in space connects your business data to your real-world scenarios",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-06-data-in-space-in-preview-now-power-bi-can-be-truly-everywhere/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/data-in-space-in-preview-now-power-bi-can-be-truly-everywhere/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/data-in-space-in-preview-now-power-bi-can-be-truly-everywhere/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-05T23:18:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
