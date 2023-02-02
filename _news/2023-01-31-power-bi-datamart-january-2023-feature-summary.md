@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-datamart-january
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-datamart-january-2023-feature-summary/"
 type: article
 quality: 87
-heat: 89
+heat: 90
 published: true
 
 provider:
