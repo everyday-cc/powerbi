@@ -7,7 +7,7 @@ price: Free
 length: PT1H9M
 ratings:
   count: 9968
-  average: 4.674659
+  average: 4.6747594
 heat: 71
 
 provider:
