@@ -245,6 +245,7 @@ items:
   - videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it
   - videos/curbal-dax-fridays-217-evaluateandlog
   - videos/curbal-dax-fridays-218-window-functions-in-dax-explained-with-example
+  - videos/curbal-dax-fridays-219-offset-function
 
 topics:
   - Power BI
