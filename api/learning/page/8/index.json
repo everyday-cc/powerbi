@@ -1592,8 +1592,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 6064,
-            "average": 4.7297163
+            "count": 6066,
+            "average": 4.7298055
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1634,8 +1634,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 5400,
-            "average": 4.7296295
+            "count": 5403,
+            "average": 4.7297797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2386,8 +2386,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/",
           "length": "PT50M",
           "ratings": {
-            "count": 106,
-            "average": 4.6698112
+            "count": 107,
+            "average": 4.6728973
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2948,8 +2948,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 6064,
-        "average": 4.7297163
+        "count": 6066,
+        "average": 4.7298055
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2990,8 +2990,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 3210,
-        "average": 4.648598
+        "count": 3214,
+        "average": 4.6490355
       },
       "provider": {
         "name": "Microsoft Learn",
