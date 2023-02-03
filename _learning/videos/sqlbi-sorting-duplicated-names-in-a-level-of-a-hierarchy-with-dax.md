@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M
 publishedDateTime: 2020-06-08T19:30:16Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2THOMyHau9E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "xi+guqeHAQXcQic3EIq5uI0E68OcfiXO5bAJkyRnPv4Wr4hgWMxb3yYqkPqRW4358KRyPJAGE+HIoEUBgb6Ob952lA1AxWdJTY41rkUwuI+HaQ420gm7iYnVcI8iTIQDXBwCVkgv9lJB+tmNK25dhZnUp2HcDkJAvglzpogw2U9pQBn4bAcPz+GtnV6KPGBRAVsBgNnHyiLd+wJ3Jmr0bndH2uds32Tr1ix3IwqGXg2J1SD5LU/RYjr1ku0gaE3INENJVj4wdDZ7QG1G59364lSlLt5jNh9qdB2MQPtEJYCHOmHhM/nHExMI67TDb+5dMUu5O6t/WSlTPCC+BfXM5pGTkSY0ipXE1CjR4GQ5ig+C1UFrsOvd4LiQKgunDTRdOo1dZ2bbj0iRGoLmLei09NePxYcWXqfJoDXEvbrQUkY=;SrzeLtEOS57FwEyGTPcKEg=="
+secured: "Eozia+RORxnHsWPn1j01obVTT3EH+1TV7UOWakKZbhMpFy2ok4X0buOKanMKw3o44CBtGcdlkfBrO/UqAa6rT9GMo2pSPuzWDBTr3y0uwhGsCIu/AG6JNWRZ2xQ0k/va/Bujt2fPNT5cQ0w2HcZ+eJdkcIMGvQ2wBwRTmkt/HvMa7Wgt8ICCSp+CYhNrZHMkNsm1NjaGzOEPoCW2Kp0Uz0f3E1RBGCtovh5lBZhn8nqn/5IGLh6GJY7CHSmh0UkFOSh8yCusm9EJ8OZATts49uoViYdavv/CyjtGni44WmET5WafhOSalfb3+FYFYeSIhepFDA1iYkp7TxzlVsM9ccMFhPkAEb2bht6TUkEUTpxxKzFKK4pAudMYWGFVDIk5KB7Pp7juyiF/1ao1uphCj0jCxozEa93lVA/zpQpM6fM=;/qYpvUooI4roa5f30XZLew=="
 ---
 
