@@ -4,7 +4,7 @@ excerpt: "Introduction to Power BI administration"
 type: collection
 price: Free
 length: PT59M
-heat: 52
+heat: 53
 
 provider:
   name: Microsoft Learn
