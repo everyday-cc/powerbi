@@ -630,8 +630,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-calculation-groups/",
       "length": "PT1H3M",
       "ratings": {
-        "count": 84,
-        "average": 4.845238
+        "count": 85,
+        "average": 4.847059
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -757,8 +757,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
       "length": "PT1H30M",
       "ratings": {
-        "count": 97,
-        "average": 4.7938147
+        "count": 98,
+        "average": 4.7959185
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1009,8 +1009,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/enforce-power-bi-model-security/",
       "length": "PT1H21M",
       "ratings": {
-        "count": 74,
-        "average": 4.810811
+        "count": 75,
+        "average": 4.8133335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1135,8 +1135,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 478,
-        "average": 4.759414
+        "count": 479,
+        "average": 4.7599163
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1157,6 +1157,48 @@
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/explore-azure-data-services-for-modern-analytics-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-data-analytics-scale.md",
+      "title": "Explore data analytics at scale",
+      "excerpt": "Describe data analytics at scale and understand the roles of a data team. Learn about the responsibilities of an enterprise data analyst and what tools are available to build scalable solutions.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-data-analytics-scale/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 341,
+        "average": 4.7829914
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/explore-data-analytics-at-scale-social.png",
           "width": 1281,
           "height": 641,
           "isCached": true
@@ -1413,48 +1455,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-modern-analytics-publish-share.md",
-      "title": "Secure, publish, and share data in Power BI",
-      "excerpt": "This module reviews securing, sharing, and publishing Microsoft Power BI reports as part of Power BI service.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-publish-share/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-publish-share/",
-      "length": "PT49M",
-      "ratings": {
-        "count": 166,
-        "average": 4.7289157
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-publish-share-social.png",
-          "width": 1282,
-          "height": 642,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],
