@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT13M38S
 publishedDateTime: 2021-02-04T11:00:24Z
-heat: 53
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4uVgoVCmdnc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "QilJBddfHyLsPetepHoWVgDGOxOBshQy3giAiM6hczmxhEybAIPedzy/SyuA6SEsQDJJniF8qTk95vFVzXKkrfMTJEevmLORRNoZfUEYOOwQRrqDZgJgvDyPHcy2lAzoCtZdmD974jCYGQ0VbiraI0o11zlNhLYcI68Rnms/yLn3mdhHw2Hpstp1liQEQrBWyh3NFPjhnu0qbOWXDIxHbx6B+H09BGc47cfa5G6qkUeFIR+ejD3BQxNSGjD22CEL7lQ2jxN0IU8ASWL9hK7AekEkgeWrZQLkNSd9bRta8Z5AvsEBci1hgDMlDHvRaoQd78ZQCDDdGgri1ULmiklKMOBhIWZ7CIT+RNwDLMvBQ0iz9YLoZ/ytLSSQOklboR1YrD9W4uMmbQ4jBmvqtWYq/9VVG3YsHtr1AHTvPxqMVsY=;zIMRGQ9iPVrMOfSq1na7vw=="
+secured: "RjsAeMU0sPcz0kBtgqZikjUuPHGKWDqDnR9761HNQWKosy1Kw7c8q49IP3U78xf/geolcgcOnuvj7GKcG4wyIdLduMot8Dsjacs8ESduBu46hgP6Oca00XmMM/p+u7+CTdjF1H2iTIyAdoRo58lfGOtYbxxTUnpqIyAsG0DSRDuM+qXVfdHhWLjGjoD710nDYNcPNd0cx5Jo2Ys0DehjrcGvLVkeXdgSlrwX4nIGntqgMQP9G8jPtPtK+BibZ5k1tGYTdZeYNeap3r7VNDkD3eYmELV5sEEC6stjnks1mW3zb960ilcv25Knq0ROQ+0jv1jZoRjYNLZCSlSyZi0M7ewoai0TZ21eRiYQp0gstDTJypilD6GdYStS5q+J07JzYNRRk+muQP3Cm2Let0YkLwml+Rta1jGIzV5FCkjWHrk=;syAG99U84bgtU5iupyQtyg=="
 ---
 
