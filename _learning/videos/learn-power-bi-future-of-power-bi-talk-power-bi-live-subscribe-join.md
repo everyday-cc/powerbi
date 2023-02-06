@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3H9M53S
 publishedDateTime: 2019-03-15T20:02:28Z
-heat: 
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QFmsSRfu7gw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Power BI
 
-secured: "zS5yhTo8p1YFwoMhARZfuTktgzSASL+K6R72qdyFezEX40zXepHwAvcHeF+e98gXIqXJ89V+iXhoCfIbPWCNx78w1u018XVG0nCknUmbj82UBXLSVZ2iO58sKjWq0lpgkLqneDK+iXg0nb7RPbYwnJmuvZvqpOctpySkzMa28PRtjtJZ02GMTvJdOvlK0dIbZs+AEaK2EDeOo2SxUQgxPnNOsIMEPc6nX3BjXo6iR4ZhMJxhs+oS8G5bYXqHocDIMXeAQYczVDxp4RmTIE9PG81EuOFH2+oQUNUkdznJSoA9pL0ewcG5xc4pj59H921BdhioUI72TRLOhZTgsK3FpBJAaD0lHwY7rS/gSRDIHHKlcP35hG45Pj33sly9+wShdp63kK82xiFYD5Jgbim9JQ==;JTjOhtHghO6YU1bSbZwN1g=="
+images:
+  - url: https://i.ytimg.com/vi/QFmsSRfu7gw/hqdefault.jpg
+    width: 480
+    height: 360
+    isCached: true
+
+secured: "VxdhbL44OIxSYZBn8T/bj5a4nmmFazm/msUNfqhAIQYiNmTH9Q3gE3FUbPCWYf87ZbkRlEipBjlsb/O3de6HCFr74b6vnVS6sktE/+Kk5LAsELO9/yTaFhUlwJ7wS4DWXldKOda3DcAfsirjqz7G6sAYJjr3mijzWOBZLXzAWSVZ38+8JdRxUl7LX2dhcrjvevjUmrvHDfErCBJMHQLQRym9JlmmSgecSUvD16MujU9hB3WDTq1FHjP3qIs2S/eFZH12nFJU2i6A0HlkXsRPRASRnzPenIKyxQ/MMKKrPV5cAcce1c/tfS8KSb8yfq8js6+SqG5l3UOgoD0tBAp3Hfjx2vCtsN/LoOBKV/MCcRuj2QS+hIBVg30XYmeZuvlRHli1u5pFkUpHyk9rUtB8tQ==;JPQFsEqECkrZsvNCrulvzg=="
 ---
 

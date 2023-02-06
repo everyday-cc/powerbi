@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-data-connectivity/",
       "length": "PT50M",
       "ratings": {
-        "count": 107,
-        "average": 4.6728973
+        "count": 108,
+        "average": 4.6759257
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -263,8 +263,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-optimize-performance/",
       "length": "PT21M",
       "ratings": {
-        "count": 13,
-        "average": 4.8461537
+        "count": 14,
+        "average": 4.857143
       },
       "provider": {
         "name": "Microsoft Learn",
