@@ -2553,8 +2553,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 114,
-            "average": 4.736842
+            "count": 115,
+            "average": 4.7391305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2762,8 +2762,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 114,
-            "average": 4.736842
+            "count": 115,
+            "average": 4.7391305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5016,8 +5016,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10018,
-        "average": 4.675085
+        "count": 10019,
+        "average": 4.6751175
       },
       "provider": {
         "name": "Microsoft Learn",
