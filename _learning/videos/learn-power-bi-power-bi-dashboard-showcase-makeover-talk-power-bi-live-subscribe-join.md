@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3H42M37S
 publishedDateTime: 2020-04-10T20:33:06Z
-heat: 52
+heat: 
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z3DHsL05wzQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - Power BI
 
-images:
-  - url: https://i.ytimg.com/vi/z3DHsL05wzQ/maxresdefault.jpg
-    width: 1280
-    height: 720
-    isCached: true
-
-secured: "e/kmcH19Lwk8kcAhUsO6lW0FGt3hCfkEytzgUM/ty53aAod1wO3XnqE4HHxFV5wmKT+vx9kQ+8k2GMs9qSieAKuEMI+QVQQh5YbHGIU7CKEdFuecDC0Omx7D61yD88A5L5t8ZNXjnAqhTETG+5iIY9A0oHvML7U3QrVaE8W6FNerlbaDHMCv2zQfhe3rZHzbk2JVmvXtrz0lIKfjQluoVTGAmgUVjjciDTGrVe5q1aKSCsPknFG9wcN9DkwNKHUqlqOazBfupxFkS70i/eYODcFBim/a10UIwhsH+Wg4NNDpU5Um6ewrmQv/W8uYR96GgOtqyggMbnsivAigqXGsioRATTiyxUb7pRsZGkc9Lrr+L8m6Ou/u9iohFl2Dmlfu/HghPnzF/HFvpdn3W9T0Qg==;tMFPSuhWAHZeXd7pRrxi8Q=="
+secured: "RGRC0fbPuiq+hdMBbRJeIzdeZrKQ/sq4nP61VkXKiu9qIyDCS3wxcqQlJqg8MMT1KbhcqiOdodnwQDdXr+IKHsy+7nG7kchtfurIYwe596OW3Uzl3Q+rcEuOt+SLlx0NAdmKMhJJfECUJTdfbjty5HwzFGbmLndEbCNAuE7ueOcsIWp82RrXk+ZUilYAMhzsfRRek9fk52K/R5UKMaajylkStk9g58omNc4L3oZlCE6bWsDiNKV5XJaIclpD1gQ7xP3Y7UPanzJb/Hr/ArZR6CYY79m2uEWy9iQ3EvzNzX670wdZLHNGqv3Z1wp2+alDQ8WLTtLnaQlEX0qOmSmQP6a0AzJeoS86djASnhJwrYVZEtx12X48+Rvc74rlANb+8wcm5bdms7svvx9YRC1tmg==;MBb9RICNxfYqhaEtRQN2xg=="
 ---
 
