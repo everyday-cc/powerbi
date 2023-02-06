@@ -8,7 +8,7 @@ length: PT32M
 ratings:
   count: 1937
   average: 4.712442
-heat: 56
+heat: 53
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 321
     isCached: true
 
-secured: "odxfjHc25aFRjsaYLoWBAmfyCXI25gA1TCd6W+M0yaYcZF4himIzQf1dv+6pYzopJF6UVhRkBvTc7Vx3yvyw2ZU8DPYL6T7tZ0TdLMJdb7cjTP/5f8TWwumHbb4phGboAMRkqz3c7zW8MJn/LBaiKwI0CQ8IM2h65EodMIL8BjmKPCP29SLRB8KCiOciHRMqi2jDALgC6ZaZQmrKZ0TEV+5jALaJtmWUtvvqV9PpyAwkyKC0jg5X7Ke6gOWzMayy6Jev/6QeFUY0Sv/sH483vH3IltDUJ3sigmBdiKC706dAlHEtIWEloB5LrsoxvcBTywWkt4/VHzyAgN6ngVb0T4p5IZqXCKo/DhkHW46SJq29p7ZCqo6fsiLASvXJWYGEveSncjWMkBZrzXwg7weTiNJgek9H4BAEwLrpH6MvMUc=;jmo0WZx5Yk3ZeMTozPSPTA=="
+secured: "21o4HIghb/RWdQBfTUne9+0inG/9lXR5seiTVS8nx18JDy0qTwqXg/lPMk1FQDWvl4retzPH4XGXl4l2QkpsVSdI6CFqM75Y5VuAJg1PwdSOMIorPMceGyESRjCjsFWyV3F7btj9Woytq5XZqLVtJjrYf3JRa5vY8iA/6c/0seZKanpzJ+/Nvze5Zaome8I/NZWXf/sbirok+9xgt5E1hQscsjSH1RzWJrdzcHS92zw+kcljLpeUTbwhr9bx183EJm445ot15s2lgEDDuto8uFpGP5M597gf/qhK3eRox5qhuGRGiJkSmAZUoHqBKPKDt6WqiBdLXzluGuyYB+RS12ftZ5E9LQ//3ggVQolcaZV4drwm0vR3hj7ipBG+9hjOAbv4Gwd0J3F0AiA0A30kxxYOa3MBh1bpj/zkhyLW+qQ=;hefLct2esezuMHhyCp4hwg=="
 ---
 
