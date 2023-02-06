@@ -18,7 +18,7 @@ website: https://t.co/FklqJqbSAZ
 twitter:
   username: arunulag
   url: https://twitter.com/arunulag
-  followers: 5011
+  followers: 5020
 
 linkedin:
   url: https://www.linkedin.com/in/arunulag/
@@ -27,7 +27,7 @@ topics:
   - Power BI
 
 images:
-  - url: https://pbs.twimg.com/profile_images/625784770333519872/RrSqqUEZ_400x400.jpg
+  - url: https://pbs.twimg.com/profile_images/1622337081463967744/WYn9S1E2_400x400.jpg
     width: 400
     height: 400
     isCached: true
