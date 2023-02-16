@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 130,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-select-social.png",
@@ -263,8 +263,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-automate/",
       "length": "PT19M",
       "ratings": {
-        "count": 32,
-        "average": 4.875
+        "count": 33,
+        "average": 4.878788
       },
       "provider": {
         "name": "Microsoft Learn",
