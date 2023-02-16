@@ -255,8 +255,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 5790,
-            "average": 4.6887736
+            "count": 5792,
+            "average": 4.688709
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -315,8 +315,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 2595,
-        "average": 4.656262
+        "count": 2597,
+        "average": 4.6565266
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -357,8 +357,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 2929,
-        "average": 4.716968
+        "count": 2930,
+        "average": 4.717065
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -399,8 +399,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 5790,
-        "average": 4.6887736
+        "count": 5792,
+        "average": 4.688709
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -441,8 +441,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3453,
-        "average": 4.753837
+        "count": 3455,
+        "average": 4.7539797
       },
       "provider": {
         "name": "Microsoft Learn",
