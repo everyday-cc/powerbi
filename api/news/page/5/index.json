@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-24-goals-in-power-bi-is-becoming-metrics-and-is-moving-to-ga.md",
+      "title": "Goals in Power BI is becoming ‘metrics’ and is moving to GA!",
+      "excerpt": "We are excited to announce general availability for metrics in Power BI (formerly called goals) along with new features to deliver scorecarding scenarios even more effectively within Power BI. Additionally, we’re pleased to share plans for how Power BI will work with the new Viva Goals offering from",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-24-goals-in-power-bi-is-becoming-metrics-and-is-moving-to-ga/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-goals-is-now-metrics-and-is-moving-to-ga/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-goals-is-now-metrics-and-is-moving-to-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T22:45:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-exportable-formatted-data-tables-preview.md",
       "title": "Exportable Formatted Data Tables (Preview)",
       "excerpt": "Users can author formatted tables using a modern low code web-based authoring experience in the Power BI service.",
@@ -1198,57 +1249,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-04-04T05:40:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-04-update-to-required-permissions-when-using-composite-models-on-a-power-bi-dataset.md",
-      "title": "Update to required permissions when using composite models on a Power BI dataset",
-      "excerpt": "The ability to create a composite model on top of a Power BI dataset or an Azure Analysis Services model is in preview since December 2020. Since then, we have seen great adoption of this feature and have received great feedback that allowed us to make it even better! The team has been hard at work readying",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-04-update-to-required-permissions-when-using-composite-models-on-a-power-bi-dataset/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/update-to-required-permissions-when-using-composite-models-on-a-power-bi-dataset/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/update-to-required-permissions-when-using-composite-models-on-a-power-bi-dataset/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-04-04T02:30:21-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

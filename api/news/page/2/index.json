@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-29-power-bi-november-2022-feature-summary.md",
+      "title": "Power BI November 2022 Feature Summary",
+      "excerpt": "Welcome to the November 2022 update! This month we introduce an Optimize ribbon which makes your report creation experience more streamlined, especially if you are working in DirectQuery mode. Also new this month are Linked Metrics and a new EvaluateAndLog DAX function that enable you to log intermediate",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-11-29-power-bi-november-2022-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-november-2022-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-november-2022-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-29T01:04:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-11-17-join-us-power-bi-dev-camp-thursday-17-november-2022-1100-am-1200-pm-noon-pdt.md",
       "title": "Join Us! Power BI Dev Camp: Thursday 17 November 2022: 11:00 AM – 12:00 PM (noon) PDT",
       "excerpt": "Join us to learn how to manage challenges faced by Power BI Admins with monitoring and troubleshooting multiple on-premises Data Gateway Clusters.",
@@ -1228,57 +1279,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-introducing-aad-based-filtration-for-power-bi-datamarts.md",
-      "title": "Introducing AAD-based filtration for Power BI Datamarts",
-      "excerpt": "We are very pleased to announce the introduction of AAD-based filtration to the Power BI Datamarts tenant setting.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-08-introducing-aad-based-filtration-for-power-bi-datamarts/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/introducing-aad-based-filtration-for-power-bi-datamarts/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/introducing-aad-based-filtration-for-power-bi-datamarts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T09:54:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
