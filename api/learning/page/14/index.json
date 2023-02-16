@@ -4,6 +4,48 @@
   "page": 14,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-choose-power-bi-model-framework.md",
+      "title": "Choose a Power BI model framework",
+      "excerpt": "Describe Power BI data model frameworks, their benefits and limitations, and features to help optimize your Power BI data models.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-choose-power-bi-model-framework/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
+      "length": "PT46M",
+      "ratings": {
+        "count": 171,
+        "average": 4.625731
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/choose-power-bi-model-framework-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-connect-analyze-dynamics-365-data.md",
       "title": "Connect and analyze your Dynamics 365 data​",
       "excerpt": "Connect and analyze your Dynamics 365 Data​",
@@ -53,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 1605,
-        "average": 4.7358255
+        "count": 1607,
+        "average": 4.7361546
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1082,44 +1124,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-incremental-refresh-with-power-bi-premium.md",
-      "title": "Incremental Refresh with Power BI Premium",
-      "excerpt": "In this video, Christian Wade joined Adam Saxton to discuss Incremental Refresh with Power BI Premium. You can use Incremental Refresh with Power BI Premium to take your dataset beyond 1GB and avoid failures such as timeouts.  Incremental Refresh with Power BI Premium documentation - https://docs.microsoft.com/power-bi/service-premium-incremental-refresh",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-incremental-refresh-with-power-bi-premium/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-incremental-refresh-with-power-bi-premium/",
-      "originalUrl": "https://youtube.com/watch?v=CajQjq70Kpg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CajQjq70Kpg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M31S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-05-15T06:19:05-07:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CajQjq70Kpg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

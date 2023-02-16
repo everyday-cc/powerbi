@@ -339,44 +339,14 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-the-power-bi-gateway-all-you-need-to-know.md",
-      "title": "The Power BI Gateway   All You Need to Know",
-      "excerpt": "Power BI is a data analysis tool that connects to many data sources. Suppose the data source for Power BI is located in an on-premises location. In that case, the connection from the cloud-based Power BI Service to the on-premises located data source should be created with an application called Gateway.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-the-power-bi-gateway-all-you-need-to-know/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-the-power-bi-gateway-all-you-need-to-know/",
-      "originalUrl": "https://youtube.com/watch?v=87SQLWdKdvE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/87SQLWdKdvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT20M19S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2022-12-05T15:47:24-08:00",
-      "heat": 143,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/87SQLWdKdvE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-how-to-handle-aggregation-tables-with-averages-in-power-bi.md",
-      "title": "How to handle Aggregation tables with Averages in Power BI",
-      "excerpt": "Using Aggregation Tables in Power BI? Average calculations not working because they aren't hitting the agg? Patrick explains why this is happening and how you can correct it to get the expected result.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-to-handle-aggregation-tables-with-averages-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-to-handle-aggregation-tables-with-averages-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=_1QGTmtGcP8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_1QGTmtGcP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M56S",
+      "path": "_learning/videos/guy-in-a-cube-what-is-a-common-table-expression-cte-and-how-do-you-use-them.md",
+      "title": "What is a Common Table Expression (CTE) and how do you use them?",
+      "excerpt": "We've had some questions about what a Common Table Expression (CTE) is. Patrick describes what they are and how you can use them in SQL Server or Azure Synapse Analytics.  WITH common_table_expression (Transact-SQL) https://learn.microsoft.com/sql/t-sql/queries/with-common-table-expression-transact-sql?view=sql-server-ver16",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-is-a-common-table-expression-cte-and-how-do-you-use-them/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-is-a-common-table-expression-cte-and-how-do-you-use-them/",
+      "originalUrl": "https://youtube.com/watch?v=PsuxE6xExOw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PsuxE6xExOw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M8S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -389,11 +359,49 @@
           }
         ]
       },
-      "publishedDateTime": "2023-01-04T08:00:23-08:00",
+      "publishedDateTime": "2023-01-17T08:00:23-08:00",
+      "heat": 135,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/PsuxE6xExOw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-to-surrogate-key-or-not.md",
+      "title": "To Surrogate Key or Not...",
+      "excerpt": "We've talked about using a surrogate key in your data warehouse whether that's Azure Synapse Analytics or something else. Patrick looks at why you should consider this even if you aren't using a slowly changing dimension.  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-to-surrogate-key-or-not/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-to-surrogate-key-or-not/",
+      "originalUrl": "https://youtube.com/watch?v=XkjJo7J8CyQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XkjJo7J8CyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M55S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-03T08:00:14-08:00",
       "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/_1QGTmtGcP8/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/XkjJo7J8CyQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -407,45 +415,42 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-mapping-learning-to-power-bi.md",
-      "title": "Prepare to teach the module: Map learning to Power BI",
-      "excerpt": "Prepare to teach the module: Map learning to Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-mapping-learning-to-power-bi/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/map-learning-to-power-bi/",
-      "length": "PT1H15M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
+      "path": "_learning/videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it.md",
+      "title": "Problems installing the DAX Debugger? Here is how to do it.",
+      "excerpt": "Problems installing the DAX Debugger? Here is how to do it.  Link to Jeffrey's blog: https://pbidax.wordpress.com/2022/08/16/introduce-the-dax-evaluateandlog-function/  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it/",
+      "originalUrl": "https://youtube.com/watch?v=hG27iTTZ6tY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hG27iTTZ6tY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Curbal",
+        "domain": "curbal.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
+      "publishedDateTime": "2022-12-06T00:42:49-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/hG27iTTZ6tY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -517,8 +522,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 55185,
-            "average": 4.7967925
+            "count": 55190,
+            "average": 4.796775
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -559,8 +564,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 79189,
-            "average": 4.7782016
+            "count": 79200,
+            "average": 4.778169
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -619,8 +624,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 79189,
-        "average": 4.7782016
+        "count": 79200,
+        "average": 4.778169
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -926,8 +931,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 55185,
-        "average": 4.7967925
+        "count": 55190,
+        "average": 4.796775
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1123,8 +1128,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 24152,
-        "average": 4.723998
+        "count": 24158,
+        "average": 4.723984
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1188,8 +1193,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 13648,
-            "average": 4.7512455
+            "count": 13656,
+            "average": 4.7513914
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1230,8 +1235,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10221,
-            "average": 4.674983
+            "count": 10222,
+            "average": 4.6749167
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1264,8 +1269,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 79189,
-            "average": 4.7782016
+            "count": 79200,
+            "average": 4.778169
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1324,8 +1329,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 13648,
-        "average": 4.7512455
+        "count": 13656,
+        "average": 4.7513914
       },
       "provider": {
         "name": "Microsoft Learn",
