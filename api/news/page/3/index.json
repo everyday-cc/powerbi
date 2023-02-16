@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-05-power-bi-component-for-vuejs-applications-is-now-available.md",
+      "title": "Power BI component for Vue.js applications is now available",
+      "excerpt": "We’re thrilled to announce that a new component for embedding Power BI content in Vue.js applications is now available! Vue is an increasingly popular JavaScript framework for building front-end user interfaces and websites. ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-05-power-bi-component-for-vuejs-applications-is-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-component-for-vue-js-applications-is-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-component-for-vue-js-applications-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T20:57:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-whats-new-in-datamarts-august-2022.md",
       "title": "What᾿s New in Datamarts – August 2022",
       "excerpt": "Hear about the latest updates to Datamart in Power BI since the //Build announcement",
@@ -1216,58 +1267,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-power-bi-update-july-2022.md",
-      "title": "Power BI Update - July 2022",
-      "excerpt": "Welcome to the July 2022 update. We are thrilled to announce the Error Bars general availability, Metric visuals and Datamarts updates, query performance and data hub improvements, Data in space augmented reality new mobile feature, accessibility enhancements for embedded reports. There is more to explore,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-15-power-bi-update-july-2022/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2022-07-15-power-bi-update-july-2022/",
-      "originalUrl": "https://youtube.com/watch?v=iVbxzo-L7TM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iVbxzo-L7TM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T22:19:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],

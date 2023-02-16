@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-03-31-heads-up-the-power-bi-app-is-coming-to-microsoft-outlook-and-microsoft-office-preview.md",
+      "title": "Heads up: The Power BI app is coming to Microsoft Outlook and Microsoft Office (Preview)",
+      "excerpt": "We’re excited to announce the Power BI app is coming to Outlook and Office. In this blog we’ll share the experiences, how to try it yourself, and what you can expect.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-31-heads-up-the-power-bi-app-is-coming-to-microsoft-outlook-and-microsoft-office-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/heads-up-the-power-bi-app-is-coming-to-microsoft-outlook-and-microsoft-office-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/heads-up-the-power-bi-app-is-coming-to-microsoft-outlook-and-microsoft-office-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2022/03/graphical-user-interface-application-teams-desc.png",
+          "width": 3838,
+          "height": 2010,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-31T03:16:43-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-03-30-dive-into-data-with-this-excel-and-power-bi-certification-bundle-for-under-18.md",
       "title": "Dive Into Data With This Excel and Power BI Certification Bundle for Under $18",
       "excerpt": "Save an additional 50% off this already discounted bundle with lifetime access to courses on Microsoft Excel, Power BI, Alteryx and more.",
@@ -1193,57 +1244,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-03-power-bi-vs-tableau-2022-software-comparison.md",
-      "title": "Power BI vs. Tableau: 2022 Software Comparison",
-      "excerpt": "Power BI and Tableau are both leaders in the analytics and BI sector. But which is best in terms of features, pricing, use case, and applications?",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-02-03-power-bi-vs-tableau-2022-software-comparison/index.json",
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/power-bi-vs-tableau/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/power-bi-vs-tableau/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/LogMeIn-logmeinthumb-collaboration.jpeg",
-          "width": 1500,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-02T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/eweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
