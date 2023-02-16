@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-16-power-bi-update-november-2022.md",
+      "title": "Power BI Update - November 2022",
+      "excerpt": "Welcome to the November 2022 update. This month's update introduces a change to our Power BI accent color, and is further filled with exciting updates to features like small multiples, modeling, metrics, and more!   Intro -- 00:00  Announcing New Power BI Color Accent -- 00:12  Reporting Unshared and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-11-16-power-bi-update-november-2022/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2022-11-16-power-bi-update-november-2022/",
+      "originalUrl": "https://youtube.com/watch?v=q-ZUfL2sEek",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q-ZUfL2sEek\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/q-ZUfL2sEek/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-15T18:19:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2022-11-14-announcing-support-for-paginated-reports-in-power-bi-pro.md",
+      "title": "Announcing support for paginated reports in Power BI Pro",
+      "excerpt": "As part of the continued Power BI innovations, we’re excited to announce the support for paginated reports in Power BI Pro at this year’s PASS Data Community Summit. Now Microsoft Power BI customers have the flexibility to create and consume interactive reports as well as paginated reports using Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-11-14-announcing-support-for-paginated-reports-in-power-bi-pro/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-support-for-paginated-reports-in-power-bi-pro/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-support-for-paginated-reports-in-power-bi-pro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-14T01:33:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-11-10-new-cache-refreshes-settings-available-in-power-bi-premium.md",
       "title": "New cache refreshes settings available in Power BI Premium",
       "excerpt": "ClientCacheRefreshPolicy is now a configurable property for your Power BI Premium workspaces. Admins can override scheduled cache refresh settings for an entire workspace, improving the performance of their semantic models.",
@@ -61,7 +164,7 @@
       "originalUrl": "https://www.techrepublic.com/article/numeric-range-slicer-power-bi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1160,108 +1263,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-whats-new-in-datamarts-august-2022.md",
-      "title": "What᾿s New in Datamarts – August 2022",
-      "excerpt": "Hear about the latest updates to Datamart in Power BI since the //Build announcement",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-30-whats-new-in-datamarts-august-2022/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-datamarts-august-2022/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-datamarts-august-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-alpha-serve-presents-power-bi-connector-for-zendesk.md",
-      "title": "Alpha Serve Presents Power BI Connector for Zendesk",
-      "excerpt": "The newly released Power BI Connector for Zendesk will make it easier for companies to analyze and visualize their data in Microsoft Power BI by offering the ability to easily export Zendesk data ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-29-alpha-serve-presents-power-bi-connector-for-zendesk/index.json",
-      "webUrl": "https://www.marketwatch.com/press-release/alpha-serve-presents-power-bi-connector-for-zendesk-2022-08-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/alpha-serve-presents-power-bi-connector-for-zendesk-2022-08-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,108 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-08-30-power-bi-mobile-apps-now-support-goals.md",
+      "title": "Power BI Mobile apps now support Goals!",
+      "excerpt": "Goals in Power BI Mobile apps was Just released! Having Goals in your Power BI mobile app lets you monitor the health of your business directly from your smart phone, no matter where you are at.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-08-30-power-bi-mobile-apps-now-support-goals/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-mobile-apps-now-support-goals/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-mobile-apps-now-support-goals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-30T01:52:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-08-30-announcing-public-preview-of-automatic-aggregations.md",
+      "title": "Announcing public preview of automatic aggregations!",
+      "excerpt": "Automatic aggregations are now in public preview! Unlock massive datasets without having to copy large volumes of data or manage data loads. Automatic aggregations are managed automatically by Power BI, accelerating time to insight, and reducing TCO.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-08-30-announcing-public-preview-of-automatic-aggregations/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-automatic-aggregations/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-automatic-aggregations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-08-30T01:10:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-08-30-announcing-default-sensitivity-label-preview-and-other-top-asked-mip-features-in-power-bi.md",
       "title": "Announcing Default sensitivity label preview and other top asked MIP features in Power BI",
       "excerpt": "Today we are happy to announce public preview of default label policies in Power BI Desktop and call out significant features that address top asks for Power BI information protection released in the last few weeks.",
@@ -1175,110 +1277,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-07-22-behind-the-scenes-running-the-power-bi-service.md",
-      "title": "Behind the scenes: Running the Power BI service",
-      "excerpt": "I’m excited to share a new whitepaper that describes the Power BI team’s approach to maintaining a reliable, performant, and scalable service for our customers.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-22-behind-the-scenes-running-the-power-bi-service/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/behind-the-scenes-running-the-power-bi-service/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/behind-the-scenes-running-the-power-bi-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-22T00:00:55-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Service"
-      ]
-    },
-    {
-      "path": "_news/2021-07-21-power-bi-update-july-2021.md",
-      "title": "Power BI Update - July 2021",
-      "excerpt": "Welcome to the July update! This month we are making small multiples generally available, as well as the new model view and sensitivity labels in Desktop. Also, we have a new preview for streaming dataflows. There is much more!  Reporting                Small multiples (generally available) - 00:19 ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-21-power-bi-update-july-2021/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2021-07-21-power-bi-update-july-2021/",
-      "originalUrl": "https://youtube.com/watch?v=xNFedlQ59zA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xNFedlQ59zA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xNFedlQ59zA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-07-21T08:43:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],
