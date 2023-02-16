@@ -745,8 +745,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 2928,
-            "average": 4.7168717
+            "count": 2929,
+            "average": 4.716968
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -805,8 +805,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1643,
-        "average": 4.7139378
+        "count": 1644,
+        "average": 4.714112
       },
       "provider": {
         "name": "Microsoft Learn",
