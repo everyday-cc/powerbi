@@ -6,9 +6,9 @@ type: course
 price: Free
 length: PT25M
 ratings:
-  count: 261
-  average: 4.7318006
-heat: 50
+  count: 279
+  average: 4.7275987
+heat: 52
 
 provider:
   name: Microsoft Learn
@@ -30,6 +30,6 @@ images:
     height: 641
     isCached: true
 
-secured: "G1X9PVpPAxJtHDHYXtOJqzpStUQ3dhXmFVpa2hhmNLASlF3U4DdyryNUXB8bPiqqmrIMmY5X41lSYfzGjveYQcaaTEuExQAf19ZwNru4ElzlHLTFXFnAwltVF09vooRyzpJQ1o7DxByqmcuPc39gYwd7uaTqMwEZhAPVfVGsxCo8bMMlsCg8Iu05Zqf2t6ysdkCKRSrlADC+OjtwGQji2/mqvExMkxIWTVtqvoMUzUiFc+whmc6XreW7Q04wr0MtDh/1OTUQYL9hEAuwG2hTwr/VpCQf10ltJmgnvT8QxYWNpl/AsAHmq9JaqG/L5jYe5hg3BFKl9B+RyqeTSb5cHwz4s1n/ftH6uu0zqNY4d3xU/WpjPsttEKaaqUhAuGdVf6AwM8LVnNxBBb+3RmuB8zy1+0m+f9Q/PSudJNltYts=;l6+zsbjI0ljbA8j6Im2Ezg=="
+secured: "msWPLO2dPtZUeIUG5kdKde5jVmeRb061Jn5t+z4sJS+9/+/kgsaqZytF0yU8Vmc6zKp6xHPHS/w6lrWGR+KEW4iwry+ye8snoGnogep+RtjvFQ/epPO06Weowu9cSUPzVjauLtL4amznQ3z/MK1gqqX8K92f7eroZ37r9+YtKe+qu0FpVn6xy8FcKlDXQ0EgWSyGwJNDkC7zM/uOslJXg8L5uepmLEWagr+CJVYcvMpHkJeH6grI+OVY14miSvbZgSkm06jfOhkD5EvaX7+xq43D83V1EKVKjNqj3RmUjGjtSkrifHWXhOup1FqUAXajx7PM+QWXEzypUNxOtEZQolZfOFXPEs4LnBfjRb1wTFBYkV2adg7ffXu2SXftJ1M5YhtEMLoe6ouXV8LMeJz6xW0NhxHRqIXYwfidLnXH7T8=;qVjih7uGs1yydrCDxuXnlw=="
 ---
 
