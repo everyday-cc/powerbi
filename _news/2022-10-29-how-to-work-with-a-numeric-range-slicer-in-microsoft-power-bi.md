@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/article/numeric-range-slicer-power-bi/a
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/numeric-range-slicer-power-bi/amp/"
 type: article
 quality: 97
-heat: 99
+heat: 97
 published: true
 
 provider:
