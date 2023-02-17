@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT3M13S
 publishedDateTime: 2020-03-17T15:00:22Z
-heat: 51
+heat: 52
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V9aG-6wr1xQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Why can't I define my Power BI Aggregations???"
 
-secured: "vPc+j5ZuVt+ZWslSbBukUhkMNfogipEFfT4qMMGU2weyNJt60HpTnEz0nFCMjnd7P78J8xIJzplidMJAoro/RvI3P0Vv9y8cb3WPJtRu4DiLX8AyS/wHYC05Fwr+c4413ZiDND3tMIXTp6fRpZuv6Zya4lEzO84VtS4qDWTGOee1vYE23CUU+wG2LiKsrd9sX2qj3gJYHZgl5AxbMXWBG1cQKyxS1A8qaj5gnxAuun95AdyxAIPhOo1gddBgvMqnEJM1p/YniAeAOOQ17e6CbMeP5onoxy4owjcDnReFXsEs0TRUBV5U/FvwIsHZXQKhsMsvbYdDr6UPvNUvzXAiryCn6SIkueWJDytiLG9FPk7OR34/SfY4Jgithiwj3zlMiN7zPfkIbEWrE8oi7V/ll3SCj5bnZ19x/07SECN2z4w=;IcFmLFzlbjrLCVtbZ73oEg=="
+secured: "cBtu9VBLan7Tok1IY105z/qPdrs45N/rjSjBqAJ7jMTxP4GRPf2rs9wAFJwEdul/0tnoW7sH7WtVe3vUtFTwm/L5d8KKt5Vv6rVCejXqbgaoaKUmhsMH1IJ8Bt+P7MmEitnGAqKHQAb0Bvxk5E9BiGfsLs5arhEs9YgLZaqm/NNBdZOMyk7UEhlfV1+JrTuG9Qpnz/VR+3OQ2L5z8xrBPOjQ9KN2sL7h3PRR9j8ZqydF+wjvBvPYZJFtHHo2vvd3Dpc6hFS1tkP3/zSogyrbgSOan0kM2iMLHXFOka5QDqf4tsor6W4gB83FmjRn+pOh6vKAwBwG2kko5J/oFvpHz8/5bYw/5Z1MouMcFj0jucdSCySFX6CcASprAQz7oGKy/VJaY31fVgM2psKgz2IXa0DK1vqIatDgvjHjZ07bVS0=;0RER5IDXtTwtDW5gL6uPdg=="
 ---
 
