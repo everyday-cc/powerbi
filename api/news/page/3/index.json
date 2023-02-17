@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-13-power-bi-september-2022-feature-summary.md",
+      "title": "Power BI September 2022 Feature Summary",
+      "excerpt": "Welcome to the September 2022 update. We are thrilled to announce a variety of new features such as hierarchical axis by default, translations for composite models, mobile formatting options general availability and cross tenants’ datasets sharing. There is more to explore, please continue to read on.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-13-power-bi-september-2022-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-september-2022-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-september-2022-feature-summary/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eIrlkeORor0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T05:20:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-introducing-aad-based-filtration-for-power-bi-datamarts.md",
       "title": "Introducing AAD-based filtration for Power BI Datamarts",
       "excerpt": "We are very pleased to announce the introduction of AAD-based filtration to the Power BI Datamarts tenant setting.",
@@ -1200,57 +1252,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-executequeries-rest-api-versus-xmla-endpoints-at-scale.md",
-      "title": "ExecuteQueries REST API versus XMLA endpoints at scale",
-      "excerpt": "Power BI APIs can support you at any scale, but there is no one-size-fits-all API. The ExecuteQueries API is a great choice at small scale. For large-scale solutions, switch to XMLA endpoints and host your datasets on Power BI Premium.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-18-executequeries-rest-api-versus-xmla-endpoints-at-scale/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/executequeries-rest-api-versus-xmla-endpoints-at-scale/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/executequeries-rest-api-versus-xmla-endpoints-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T06:27:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
