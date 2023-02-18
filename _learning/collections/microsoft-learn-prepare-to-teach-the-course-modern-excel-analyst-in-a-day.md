@@ -4,7 +4,7 @@ excerpt: "Prepare to teach the course: Modern Excel Analyst in a day"
 type: collection
 price: Free
 length: PT5H16M
-heat: 60
+heat: 156
 
 provider:
   name: Microsoft Learn
