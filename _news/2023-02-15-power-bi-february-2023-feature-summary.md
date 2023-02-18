@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-february-2023-fe
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-february-2023-feature-summary/"
 type: article
 quality: 189
-heat: 189
+heat: 191
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7-0Pr0U2HIA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
@@ -30,6 +30,6 @@ images:
     height: 630
     isCached: true
 
-secured: "+wjw2Y4ezkAJb0c9+GooD6O9P8LXPFGP3Fx5S4mPN7XNUeRTIJXUyw99906kde0T8IcqdkZGJD0LMPO/gC4s1hhMV0Ay31yE3rkYcb45KZvGexPB441h1BqLioVD8ikZWpb+jC1cvNm1agAoj1P3ks281LofKcrwIcFUOwI8vEpptTj+Iw0WHkPJp1hPRHux3+CsAQbHiE3r8aJ7kJQ3lfG4Xek3a8Em39A9fd2JuvuUyiy3nTRxSVqOfrKOuDDOwO/d0xvmKB3jW9R9VNgiPxJK2qthPO/YQ4dDxfHuUsWcusylqO9ytTk09e5MFUYXuXDFZk4yKx+8XIOnq7oSkwpi6x3EbSgcruz6lMb/2yq/QoOelPgeQnej1pElERC/hlC4DpUxsInKgpHxy06lIWYxSIXFzV42dLapVhncNB0dSlz1N0EtNYrJuP+kAWl4S1MFhkn7jfrJ/bCatUHDbA==;EXL44RZviJXVL7IGAYtqTw=="
+secured: "pYSZEB0E23+jG8M1jw21kwEcR4VyGjFR9ot6qliKST9E3Wkh3dg2fS0b8/wuBABi6M63oKVR01vP2JmILJRVThpe+O/dEWu7MGQL7LdAsSJWz3Nk/w9JySH5OOvY+YDY22Xu28hJUWblT7un8Y5WWfatyklyYyQDXNOFpwU4HzBlJSVfEfrCYocJPRJiU82T0+SYq7sd809LgWNRiqcDBVetO4aIgb5U0JMVVqEgJJGNuff5VZao4kwJWtP6Yc7oB5X1PpBhsXc7u68dTokgAGWLZ/SlaJ9SJoSfjaoaOqSyfZrUKXBzuDho0PFmju/56OjcUy5Tf/PVC1nXuO7JbT43xE9dCJfKzXNP7J7vFD3FHfmfWnYciiPJ51T2uY2vaZ9hAd5ALw+gnEduScsGTvwDtdgkq5qAqctNEDviwAVyblUFNxBGZ413carKalbEzIdO7sJvezsuqVVr5Fhc9Q==;xc5d/EzaT+z5hls8iD92tQ=="
 ---
 
