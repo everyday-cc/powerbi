@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M48S
 publishedDateTime: 2020-02-03T13:03:42Z
-heat: 66
+heat: 62
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kLON1j2SUK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "VjdjL9+VB+9LcUhIt+rGK0lieUMDTrBIBo9Qy/qgOqM6PKSJeZIaSgr2+Fhem6My6qt63eyqHw7gR0CxLEc0fv97PwyCyYAOhe7vZWw5l0WF2AdZJFaaIkkOWQ3n2cuyI0/c0E2Ft1qFcPlLFMYJOPgDpn4NMXUihpCNoYUrjoP22/1nsivuN984sn4nO6IJ6Tg0fpd9tZ7aACalz3lZosR1TcToiPKdC9SLarAD4xC5B2od8Gaw2BAt/haJZ2A+2fGUmw4zyzt/AlU0ESNb0Gfrfy/h5xExIgGBv6C13fWdfJoX8yLgI5BB8gAYmLmaooEu/wbbo0sOEOjQ/0hxbz/WUctEC2DV2nlOSfHBL3aMd0DTmMysp+2ReBrle7G2nJKyU1C1IJkNq/1ScWoqn5JezWqGOkLwBNIxL4gQMPo=;N6F6ZIeiHxV27sQorOxE3g=="
+secured: "suNG7mp/nWZ+yYdLN5E65vk1+SjjLQKCvie3gq0icEb6P232PByVMBPYfPNWRoNm9AdLfo1EQ3zPZiTpRAcrxdfP/wqkuzRATrrMIwwhCwBJFUMQ3R1F9VmAZ4kwZ2PbMXgEZm2Dnxo2wmJmKWtdYPg0Bt2lq2nQmbHhCcQDQwJQreE5I8bTAB+BNCPIA+vzm2eMh8p4EhG6Tw9w6pmy8UHcqGdaqu6p0kt+Lcn1RigSWgm18L69ybDbUiexOf6qP4Y7V3VJj/M/87DJYxwaOf1MctNKKIFsdxxrKjiufLmmy3+Qm3N5vlFO5xZ08yJaih+kpoz67Km2ZvfJ5VNyFX1TPc8N6MjNEAap2doOHyBAYOkEg5x9D27N9ZGL8JLFodFxR2ihjFD2JN1fobaTsTRs8A2NZwvox1zzPX+sJbo=;2ytb3eyDpju6/g7idmxQcw=="
 ---
 
