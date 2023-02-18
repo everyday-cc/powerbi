@@ -7,7 +7,7 @@ price: Free
 length: PT60M
 ratings:
   count: 10424
-  average: 4.70213
+  average: 4.7023215
 heat: 54
 
 provider:
