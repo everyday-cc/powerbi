@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Power BI User lookup with the gateway using Active Directory"
 
-secured: "jsP2+OM/E9P7Z3bfsOfCfv9kZqMNWkyGhSWkHg4Zu9ERDzRYWWue6akZICWbTfmRPcsX/u5++6x5QB71pXoXJcwEtn+c18Css0/y2C1msLvyx3Pvz2Z7hyBpcZDeTKZpa8nxScprY7RNAh0KVoI4qGW9Ijrvglz1m+ODnWHfRH228eADgLnCfPEa1VED7a1F/o7ZGpQ2P6+X3UpOjwOOZm2clgoT4bdrNSp+mq0A5F0Y48xn9MPh24Ol2BZnYdnkSHktzEj/KF2n1YThYLJl0y3+wwNmWdJNgLgWB+ZoSDd2j5Xut4HSOPlYz383ilXVzx2CtyE5G2xODLtnu/cwKnsl/+jVwecp6xNA3WaX7xDISiizdAvquqBN+PRaehCrPtQ+8wOgA1zUxPw519lwhBCDWqcydAcRtyYtTMhtV8g=;kTEa+x77kpNughFlcizvQg=="
+secured: "40rPF7PDk+sv10S88jD6nljn0w11osUD2MEiehy45+JcakCrZfL6l78q1lF3mTWQPngmcJEf+/lr3G4wp/pFucrCaWxvrc/9c+GlkOzWv/RiuAtdFv7893XaoZ9v4Nr4GC4gO3c7qBxkuLaQcNudMoI/oNmoVKqI1brKynXlduyedpdGfXGVZcW+Obym5i1FcHDGJey4UjgCq/Q0byBYM6IaJQEHGaPKT2Ai5RpsiDpYHfWXAyki4erpLNHkfwR/R+Onmm2yK0/k/lP0iQmmXlsGsHu3o9YKa3ny3uHFGxYCeesBrW+d3NLgw35NKGblvV+B1gjPMwMksgDPYVTRjN8vBF1YqSGw12AEjHzrY/kNHcjUQ3WVfAqZhLYHpvZu/EBkQ8aSvid+DHZfvhZ6w1TUabZkkp1tKcVBOQFjj6I=;Zb63Q5iqO7//EAWLLL2k/g=="
 ---
 
