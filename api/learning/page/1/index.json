@@ -254,8 +254,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 55348,
-            "average": 4.7967224
+            "count": 55355,
+            "average": 4.79673
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -296,8 +296,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 79419,
-            "average": 4.7780886
+            "count": 79424,
+            "average": 4.7781024
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -356,8 +356,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 79419,
-        "average": 4.7780886
+        "count": 79424,
+        "average": 4.7781024
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -391,14 +391,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-exploring-microsoft-purview-for-data-governance.md",
-      "title": "Exploring Microsoft Purview for data governance",
-      "excerpt": "You've probably heard of Microsoft Purview somewhere. Buck Woody joins Patrick to highlight how Microsoft Purview can help you with data governance. From cataloging to lineage, Purview is a key component for your data strategy!  Connect with Buck: https://twitter.com/BuckWoodyMSFT https://www.linkedin.com/in/buckwoody/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-exploring-microsoft-purview-for-data-governance/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-exploring-microsoft-purview-for-data-governance/",
-      "originalUrl": "https://youtube.com/watch?v=69PY3YzygNk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/69PY3YzygNk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M40S",
+      "path": "_learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi.md",
+      "title": "Can you make a two-line dynamic title in Power BI?",
+      "excerpt": "Dynamic titles in Power BI can be really useful. What about a multi-line title? Patrick is answering a commenter's question on how to create a two-line dynamic title!  Dynamic Titles in Power BI Desktop https://www.youtube.com/watch?v=TYLKDPcvgK8  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=_n4kG9qpfIs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_n4kG9qpfIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M8S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -411,11 +411,11 @@
           }
         ]
       },
-      "publishedDateTime": "2022-11-22T08:00:07-08:00",
-      "heat": 132,
+      "publishedDateTime": "2022-12-07T08:00:16-08:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/69PY3YzygNk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_n4kG9qpfIs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -429,31 +429,31 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-can-you-solve-this-murder-with-power-bi-perfect-for-power-bi-beginners.md",
-      "title": "Can you solve this murder with Power BI? | Perfect for Power BI beginners",
-      "excerpt": "A crime has taken place and the detective needs your help.  The detective gave you the crime scene report, but you somehow lost it.  You vaguely remember that the crime was a ​murder​ that occurred sometime on ​Jan.15, 2018​ and that it took place in ​SQL City​....  Here are details to solve it yourself:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-can-you-solve-this-murder-with-power-bi-perfect-for-power-bi-beginners/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-can-you-solve-this-murder-with-power-bi-perfect-for-power-bi-beginners/",
-      "originalUrl": "https://youtube.com/watch?v=mnTAncnNc84",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mnTAncnNc84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT25M3S",
+      "path": "_learning/videos/guy-in-a-cube-how-to-handle-aggregation-tables-with-averages-in-power-bi.md",
+      "title": "How to handle Aggregation tables with Averages in Power BI",
+      "excerpt": "Using Aggregation Tables in Power BI? Average calculations not working because they aren't hitting the agg? Patrick explains why this is happening and how you can correct it to get the expected result.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-to-handle-aggregation-tables-with-averages-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-to-handle-aggregation-tables-with-averages-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=_1QGTmtGcP8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_1QGTmtGcP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M56S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2022-11-22T04:28:32-08:00",
-      "heat": 130,
+      "publishedDateTime": "2023-01-04T08:00:23-08:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mnTAncnNc84/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_1QGTmtGcP8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -467,14 +467,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-20221213-profile-with-azure-data-studio.md",
-      "title": "20221213   Profile with Azure Data Studio",
-      "excerpt": "📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses available to help you with your journey.\r \r 🎓 Guy in a Cube courses: https://guyinacu.be/courses\r \r *******************\r LET'S CONNECT!\r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-20221213-profile-with-azure-data-studio/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-20221213-profile-with-azure-data-studio/",
-      "originalUrl": "https://youtube.com/watch?v=_VxIYKCmrv0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_VxIYKCmrv0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M48S",
+      "path": "_learning/videos/guy-in-a-cube-to-surrogate-key-or-not.md",
+      "title": "To Surrogate Key or Not...",
+      "excerpt": "We've talked about using a surrogate key in your data warehouse whether that's Azure Synapse Analytics or something else. Patrick looks at why you should consider this even if you aren't using a slowly changing dimension.  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-to-surrogate-key-or-not/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-to-surrogate-key-or-not/",
+      "originalUrl": "https://youtube.com/watch?v=XkjJo7J8CyQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XkjJo7J8CyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M55S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -487,11 +487,11 @@
           }
         ]
       },
-      "publishedDateTime": "2022-12-13T08:00:14-08:00",
-      "heat": 130,
+      "publishedDateTime": "2023-01-03T08:00:14-08:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/_VxIYKCmrv0/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/XkjJo7J8CyQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -588,8 +588,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 55348,
-        "average": 4.7967224
+        "count": 55355,
+        "average": 4.79673
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -692,8 +692,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 13786,
-            "average": 4.7507615
+            "count": 13787,
+            "average": 4.7507796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -768,8 +768,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 79419,
-            "average": 4.7780886
+            "count": 79424,
+            "average": 4.7781024
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -828,8 +828,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 13786,
-        "average": 4.7507615
+        "count": 13787,
+        "average": 4.7507796
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1098,8 +1098,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 24249,
-        "average": 4.7238235
+        "count": 24252,
+        "average": 4.723734
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1202,8 +1202,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 79419,
-            "average": 4.7780886
+            "count": 79424,
+            "average": 4.7781024
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1244,8 +1244,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 32746,
-            "average": 4.7265315
+            "count": 32747,
+            "average": 4.7265396
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1287,8 +1287,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15042,
-            "average": 4.7200503
+            "count": 15044,
+            "average": 4.7200212
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1672,8 +1672,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 16614,
-            "average": 4.7543035
+            "count": 16615,
+            "average": 4.754318
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1714,8 +1714,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 9313,
-            "average": 4.769784
+            "count": 9315,
+            "average": 4.7698336
           },
           "provider": {
             "name": "Microsoft Learn",
