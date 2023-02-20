@@ -2,7 +2,7 @@
 title: "Power BI Paginated Reports in a Day"
 excerpt: "The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you watch the videos in the recorded sequence, starting with video 1 and ending with video 24."
 type: collection
-heat: 67
+heat: 75
 
 provider:
   name: Microsoft
