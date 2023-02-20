@@ -651,8 +651,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 221,
-            "average": 4.683258
+            "count": 222,
+            "average": 4.6846848
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1278,8 +1278,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1356,
-            "average": 4.7382007
+            "count": 1357,
+            "average": 4.7383933
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3019,8 +3019,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10259,
-        "average": 4.6747246
+        "count": 10262,
+        "average": 4.674722
       },
       "provider": {
         "name": "Microsoft Learn",
