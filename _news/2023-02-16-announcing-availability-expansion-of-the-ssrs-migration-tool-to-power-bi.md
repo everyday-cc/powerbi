@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-availability-e
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-availability-expansion-of-the-ssrs-migration-tool-to-power-bi/"
 type: article
 quality: 86
-heat: 87
+heat: 86
 published: true
 
 provider:
