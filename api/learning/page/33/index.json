@@ -742,8 +742,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 2992,
-            "average": 4.7179146
+            "count": 2994,
+            "average": 4.718103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1141,8 +1141,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 536,
-        "average": 4.6455226
+        "count": 537,
+        "average": 4.6461825
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1473,8 +1473,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-ui/",
       "length": "PT32M",
       "ratings": {
-        "count": 548,
-        "average": 4.7554746
+        "count": 549,
+        "average": 4.752277
       },
       "provider": {
         "name": "Microsoft Learn",
