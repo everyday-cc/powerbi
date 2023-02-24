@@ -408,14 +408,6 @@
       },
       "publishedDateTime": "2019-09-27T14:46:14-07:00",
       "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TOml5Pbfp2w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
       "content": "\r\n",
       "type": "video",
       "price": "Free",

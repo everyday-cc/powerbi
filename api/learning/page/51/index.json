@@ -4,6 +4,48 @@
   "page": 51,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-mapping-learning-to-power-bi.md",
+      "title": "Prepare to teach the module: Map learning to Power BI",
+      "excerpt": "Prepare to teach the module: Map learning to Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-mapping-learning-to-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/map-learning-to-power-bi/",
+      "length": "PT1H15M",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-modern-analytics-excel.md",
       "title": "Transcend data analysis together with Power BI and Excel",
       "excerpt": "This module introduces potential ways that people can use Excel and Power BI together. Power BI is a great tool for telling a story through visuals; occasionally, it's beneficial to use Excel for analysis. Excel can make a connection to a Power BI dataset, enabling you to analyze the data by using PivotTables.",
@@ -264,8 +306,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
       "length": "PT18M",
       "ratings": {
-        "count": 223,
-        "average": 4.6860986
+        "count": 224,
+        "average": 4.6875
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -582,48 +624,6 @@
           "url": "https://learn.microsoft.com/training/achievements/power-bi-deployment-pipelines-social.png",
           "width": 640,
           "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-embedded-automate.md",
-      "title": "Automate Power BI solution management",
-      "excerpt": "Learn how to automate Power BI solution management.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-automate/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-automate/",
-      "length": "PT19M",
-      "ratings": {
-        "count": 33,
-        "average": 4.878788
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-automate-social.png",
-          "width": 1280,
-          "height": 641,
           "isCached": true
         }
       ],

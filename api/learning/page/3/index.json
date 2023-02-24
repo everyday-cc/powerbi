@@ -4,36 +4,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-3-easy-ways-to-create-your-power-bi-calendar-table-date-table.md",
-      "title": "3 Easy Ways to Create Your Power BI Calendar Table 🗓️ / Date Table",
-      "excerpt": "👉 Watch the Ultimate Calendar YouTube Playlist https://www.LearnPowerBI.com/calendar  👉 Download the Ultimate Calendar File https://www.LearnPowerBI.com/download  ==Table of Contents==   00:00 Intro: 3 Easy Ways to Create a Power BI Calendar Table 00:45 Use Auto Date/Time to Create Calendar Table",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-3-easy-ways-to-create-your-power-bi-calendar-table-date-table/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-3-easy-ways-to-create-your-power-bi-calendar-table-date-table/",
-      "originalUrl": "https://youtube.com/watch?v=X2aMi_Ekfyw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/X2aMi_Ekfyw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT22M55S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2022-08-17T09:00:16-07:00",
-      "heat": 72,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/X2aMi_Ekfyw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-introducing-window-functions-in-dax.md",
       "title": "Introducing window functions in DAX",
       "excerpt": "This video introduces the syntax and functionalities of the new DAX window functions: INDEX, OFFSET, and WINDOW.\r Article and download: https://sql.bi/784024?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
@@ -335,12 +305,12 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-use-dax-in-power-bi-desktop.md",
-      "title": "Use DAX in Power BI Desktop",
-      "excerpt": "This learning path introduces Data Analysis Expressions (DAX) and provides you with foundational skills required to enhance data models with calculations. It starts by describing Power BI Desktop model structure and how it can be enhanced with DAX calculations. It then describes how you can write DAX formulas and the different types of model calculations, including calculated tables and columns, and measures. Evaluation contexts are introduced, and subsequent lessons describe how to write DAX formulas that modify filter context. Finally, you learn to write DAX expressions using time intelligence functions and iterator functions.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-use-dax-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-use-dax-in-power-bi-desktop/",
-      "length": "PT2H4M",
+      "path": "_learning/collections/microsoft-learn-model-data-with-power-bi.md",
+      "title": "Model data with Power BI",
+      "excerpt": "Model data with Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-model-data-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-model-data-with-power-bi/",
+      "length": "PT3H10M",
       "provider": {
         "name": "Microsoft Learn",
         "domain": "microsoft.com",
@@ -354,7 +324,7 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Beginner"
       ],
       "topItems": [
         {
@@ -401,15 +371,15 @@
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-dax-power-bi-write-formulas.md",
-          "title": "Write DAX formulas for Power BI Desktop models",
-          "excerpt": "In this module, you'll learn how to write DAX formulas to create calculated tables, calculated columns, and measures, which are different types of model calculations. Additionally, you'll learn how to write and format DAX formulas, which consist of expressions that use functions, operators, references to model objects, constants, and variables.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-write-formulas/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
-          "length": "PT27M",
+          "path": "_learning/courses/microsoft-learn-choose-power-bi-model-framework.md",
+          "title": "Choose a Power BI model framework",
+          "excerpt": "Describe Power BI data model frameworks, their benefits and limitations, and features to help optimize your Power BI data models.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-choose-power-bi-model-framework/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
+          "length": "PT46M",
           "ratings": {
-            "count": 2314,
-            "average": 4.730769
+            "count": 183,
+            "average": 4.6338797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -426,12 +396,12 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 52,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-write-formulas-social.png",
-              "width": 640,
-              "height": 320,
+              "url": "https://learn.microsoft.com/training/achievements/choose-power-bi-model-framework-social.png",
+              "width": 1281,
+              "height": 641,
               "isCached": true
             }
           ],
@@ -439,21 +409,19 @@
           "type": "course",
           "price": "Free",
           "topics": [
-            "Power BI",
-            "Power BI Desktop",
-            "DAX"
+            "Power BI"
           ]
         },
         {
-          "path": "_learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables.md",
-          "title": "Add calculated tables and columns to Power BI Desktop models",
-          "excerpt": "By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table by using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query custom columns.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
-          "length": "PT19M",
+          "path": "_learning/courses/microsoft-learn-design-model-power-bi.md",
+          "title": "Design a data model in Power BI ",
+          "excerpt": "The process of creating a complicated data model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great data model is about simplifying the disarray. A star schema is one way to simplify a data model, and you’ll learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you’ll learn about improving performance with your Power BI data models.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-design-model-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
+          "length": "PT1H23M",
           "ratings": {
-            "count": 1664,
-            "average": 4.715144
+            "count": 9781,
+            "average": 4.744709
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -470,12 +438,12 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 66,
           "images": [
             {
-              "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-add-calculated-tables-social.png",
-              "width": 640,
-              "height": 320,
+              "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
+              "width": 643,
+              "height": 322,
               "isCached": true
             }
           ],
@@ -483,8 +451,7 @@
           "type": "course",
           "price": "Free",
           "topics": [
-            "Power BI",
-            "Power BI Desktop"
+            "Power BI"
           ]
         },
         {
@@ -513,7 +480,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 132,
+          "heat": 52,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/add-measures-power-bi-desktop-social.png",
@@ -531,7 +498,7 @@
           ]
         }
       ],
-      "size": 9,
+      "size": 5,
       "heat": 69,
       "images": [
         {
@@ -545,9 +512,7 @@
       "type": "collection",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "DAX"
+        "Power BI"
       ]
     },
     {
@@ -1232,8 +1197,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 15131,
-        "average": 4.720045
+        "count": 15132,
+        "average": 4.720063
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1600,6 +1565,48 @@
       ],
       "content": "\r\n",
       "type": "collection",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-design-model-power-bi.md",
+      "title": "Design a data model in Power BI ",
+      "excerpt": "The process of creating a complicated data model in Power BI is straightforward. If your data is coming in from more than one transactional system, before you know it, you can have dozens of tables that you have to work with. Building a great data model is about simplifying the disarray. A star schema is one way to simplify a data model, and you’ll learn about the terminology and implementation of them in this module. You will also learn about why choosing the correct data granularity is important for performance and usability of your Power BI reports. Finally, you’ll learn about improving performance with your Power BI data models.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-design-model-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
+      "length": "PT1H23M",
+      "ratings": {
+        "count": 9781,
+        "average": 4.744709
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 66,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
+          "width": 643,
+          "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
       "topics": [
         "Power BI"
       ]

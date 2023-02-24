@@ -192,8 +192,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 55918,
-            "average": 4.7963805
+            "count": 55926,
+            "average": 4.796338
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -234,8 +234,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 80198,
-            "average": 4.778037
+            "count": 80214,
+            "average": 4.778056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -294,8 +294,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 80198,
-        "average": 4.778037
+        "count": 80214,
+        "average": 4.778056
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -329,23 +329,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-rest-api-what-it-is-and-why-it-is-important.md",
-      "title": "Power BI REST API; What it is and Why it is Important",
-      "excerpt": "You can interact with the Power BI objects in the Power BI Service through a set of APIs called Power BI REST API. The Power BI REST API can help automate tasks, build tools that work with Power BI, the configuration of Power BI outside of the platform, and embed Power BI into a third-party application.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-rest-api-what-it-is-and-why-it-is-important/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-rest-api-what-it-is-and-why-it-is-important/",
-      "originalUrl": "https://youtube.com/watch?v=mCUfmanCpIQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mCUfmanCpIQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M27S",
+      "path": "_learning/videos/sqlbi-solving-errors-in-calculate-filter-arguments.md",
+      "title": "Solving errors in CALCULATE filter arguments",
+      "excerpt": "This video explains the more common errors in CALCULATE filter arguments and how to solve them.\r Article and download: https://sql.bi/778253?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-solving-errors-in-calculate-filter-arguments/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-solving-errors-in-calculate-filter-arguments/",
+      "originalUrl": "https://youtube.com/watch?v=jYaSd565GgE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jYaSd565GgE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M55S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2023-01-18T20:05:26-08:00",
-      "heat": 139,
+      "publishedDateTime": "2022-12-08T03:00:35-08:00",
+      "heat": 138,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mCUfmanCpIQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jYaSd565GgE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -359,31 +367,31 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-218-window-functions-in-dax-explained-with-example.md",
-      "title": "DAX Fridays #218: Window functions in DAX explained with example",
-      "excerpt": "Window functions performs calculations in different groups of rows. Let me show you how and why this is powerful for DAX and Power BI:  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-218-window-functions-in-dax-explained-with-example/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-218-window-functions-in-dax-explained-with-example/",
-      "originalUrl": "https://youtube.com/watch?v=2Qa0XEqRzYU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2Qa0XEqRzYU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M38S",
+      "path": "_learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi.md",
+      "title": "Can you make a two-line dynamic title in Power BI?",
+      "excerpt": "Dynamic titles in Power BI can be really useful. What about a multi-line title? Patrick is answering a commenter's question on how to create a two-line dynamic title!  Dynamic Titles in Power BI Desktop https://www.youtube.com/watch?v=TYLKDPcvgK8  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=_n4kG9qpfIs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_n4kG9qpfIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M8S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2023-01-16T05:40:08-08:00",
-      "heat": 134,
+      "publishedDateTime": "2022-12-07T08:00:16-08:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/2Qa0XEqRzYU/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_n4kG9qpfIs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -393,20 +401,19 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-add-measures.md",
-      "title": "Add measures to Power BI Desktop models",
-      "excerpt": "In this module, you'll learn how to work with implicit and explicit measures. You'll start by creating simple measures, which summarize a single column or table. Then, you'll create more complex measures based on other measures in the model. Additionally, you'll learn about the similarities of, and differences between, a calculated column and a measure.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-measures/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
-      "length": "PT13M",
+      "path": "_learning/courses/microsoft-learn-power-bi-embedded-automate.md",
+      "title": "Automate Power BI solution management",
+      "excerpt": "Learn how to automate Power BI solution management.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-automate/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-automate/",
+      "length": "PT19M",
       "ratings": {
-        "count": 1405,
-        "average": 4.7295375
+        "count": 33,
+        "average": 4.878788
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -423,12 +430,12 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 132,
+      "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/add-measures-power-bi-desktop-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-automate-social.png",
+          "width": 1280,
+          "height": 641,
           "isCached": true
         }
       ],
@@ -436,8 +443,7 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power BI Desktop"
+        "Power BI"
       ]
     },
     {
@@ -486,8 +492,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 55918,
-        "average": 4.7963805
+        "count": 55926,
+        "average": 4.796338
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -778,8 +784,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 14221,
-            "average": 4.751002
+            "count": 14228,
+            "average": 4.7509136
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -820,8 +826,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10376,
-            "average": 4.674441
+            "count": 10377,
+            "average": 4.6742797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -854,8 +860,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 80198,
-            "average": 4.778037
+            "count": 80214,
+            "average": 4.778056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -914,8 +920,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 14221,
-        "average": 4.751002
+        "count": 14228,
+        "average": 4.7509136
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1225,8 +1231,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 24564,
-        "average": 4.7241898
+        "count": 24569,
+        "average": 4.7242055
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1366,8 +1372,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 80198,
-            "average": 4.778037
+            "count": 80214,
+            "average": 4.778056
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1408,8 +1414,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 32895,
-            "average": 4.726524
+            "count": 32897,
+            "average": 4.7264795
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1451,8 +1457,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15131,
-            "average": 4.720045
+            "count": 15132,
+            "average": 4.720063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1694,8 +1700,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 9521,
-            "average": 4.7687216
+            "count": 9524,
+            "average": 4.7687945
           },
           "provider": {
             "name": "Microsoft Learn",
