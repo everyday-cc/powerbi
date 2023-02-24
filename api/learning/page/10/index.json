@@ -1003,8 +1003,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2311,
-            "average": 4.763306
+            "count": 2314,
+            "average": 4.7631807
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1045,8 +1045,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2012,
-            "average": 4.7052684
+            "count": 2014,
+            "average": 4.704568
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1087,8 +1087,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5492,
-            "average": 4.7984343
+            "count": 5494,
+            "average": 4.7983255
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1147,8 +1147,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 5512,
-        "average": 4.7124457
+        "count": 5514,
+        "average": 4.7123685
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1189,8 +1189,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 2311,
-        "average": 4.763306
+        "count": 2314,
+        "average": 4.7631807
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1273,8 +1273,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 2316,
-        "average": 4.73057
+        "count": 2318,
+        "average": 4.730371
       },
       "provider": {
         "name": "Microsoft Learn",

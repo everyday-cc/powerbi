@@ -1661,8 +1661,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 162,
-            "average": 4.7222223
+            "count": 163,
+            "average": 4.7239265
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2204,8 +2204,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2316,
-            "average": 4.73057
+            "count": 2318,
+            "average": 4.730371
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2246,8 +2246,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3426,
-            "average": 4.6485696
+            "count": 3428,
+            "average": 4.6487746
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2288,8 +2288,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 5861,
-            "average": 4.6887903
+            "count": 5864,
+            "average": 4.688779
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3000,8 +3000,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 162,
-            "average": 4.7222223
+            "count": 163,
+            "average": 4.7239265
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3729,7 +3729,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3813,8 +3813,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 4380,
-        "average": 4.7093606
+        "count": 4382,
+        "average": 4.709037
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3855,8 +3855,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 5861,
-        "average": 4.6887903
+        "count": 5864,
+        "average": 4.688779
       },
       "provider": {
         "name": "Microsoft Learn",
