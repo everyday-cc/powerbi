@@ -562,8 +562,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 2994,
-        "average": 4.718103
+        "count": 2995,
+        "average": 4.718197
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -646,8 +646,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 9146,
-        "average": 4.763503
+        "count": 9147,
+        "average": 4.7634196
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -688,8 +688,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 6728,
-        "average": 4.7623367
+        "count": 6729,
+        "average": 4.7622232
       },
       "provider": {
         "name": "Microsoft Learn",

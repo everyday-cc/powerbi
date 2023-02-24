@@ -1912,8 +1912,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 103,
-            "average": 4.708738
+            "count": 104,
+            "average": 4.6923075
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2121,8 +2121,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
           "length": "PT12M",
           "ratings": {
-            "count": 103,
-            "average": 4.708738
+            "count": 104,
+            "average": 4.6923075
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2204,8 +2204,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2318,
-            "average": 4.730371
+            "count": 2319,
+            "average": 4.7304873
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2246,8 +2246,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3432,
-            "average": 4.648893
+            "count": 3434,
+            "average": 4.6490974
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3813,8 +3813,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 4384,
-        "average": 4.7089415
+        "count": 4386,
+        "average": 4.7090745
       },
       "provider": {
         "name": "Microsoft Learn",
