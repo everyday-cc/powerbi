@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M3S
 publishedDateTime: 2018-02-06T17:30:22Z
-heat: 55
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DgiAUsdnVrM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Create a Power BI app registration in 6 steps"
 
-secured: "HYMu0dsHVVspNhuNyH/FFxcF9UmZRNnGdva+2l3o7Fcx0IaPNbVdRvoJ9cICe9Dsw5qKKAMuCfYVK9xmegf07OQ/5fesGH+kee9tVNYxe6qVj5Ky/2m08Fw7kcSa29DRb7vBIN3LGusmsTlxuqLe4CjylQJazIa27K7roImWZH07h/ekRlyv3uc24S81SzaTMb2RkgNosUUS/FMHHalG1eWTSfE2vQbXU/iug0xQ9MRhF/fCV2x1Uc4A+ijcfWtJQ3vu+k+DvwQmFxc8vIudAn/V9nJQtwU1BG3B8mU14XR9vEyLLuwgPN1jgHuG8dm6Ev66et3UY6LJ6Ho0sGr6ClJH5JMNnH7TzCj0LgwrE0EXO+reQBjyUfsIA7e5PSfWmWfF+/FVXgvgKVw1HEUtLNBIY8qJJ/bzAX8fulp9tBQ=;sMhJHxgayWSYMesYP8pHxA=="
+secured: "VvTUawOem0dJ+EsSjWxUI1aUqKFm/sG6ecvMQcit/mEU4wg5HuOSwsEmuZ9je2TRviwUpnFLxX0JsUoB7n5tLjX9g9PXLd3eVrm/i1c+IbrZY2I6rYFYUztGrvzggemBOccAo86uHgQ+TDWANj4mNl45XUxAFaJxi4w9SQpY8G1fa3SQ4EL+8weIZ0rFL7QQR9LJYYfWudCiqKsQlwBM4mrzBVJxNWIEhkQTTzTsU2FnJ8fqDNI10EujBR9XJwgMpU8PbIYGib3gb3raXiRh/ZWJeC4k8Glj9G8Z1j8fzbSFWnAqNthwwQ/g+PS5r38Lgx9v9Fs2dnjDc0uJux1MfZzheLpZhEf4RAmwey0cJ4u+AyO2mZQLljow3ukideIoT8+/zolBaY8DZ5gaE6R2D5ULJwIMgKUcf6F1lqSSk9w=;mM0STpn7Twwo66zgRNuf6Q=="
 ---
 
