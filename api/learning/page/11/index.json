@@ -467,8 +467,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10386,
-            "average": 4.674273
+            "count": 10389,
+            "average": 4.6742706
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -896,8 +896,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 2321,
-        "average": 4.7302885
+        "count": 2322,
+        "average": 4.730405
       },
       "provider": {
         "name": "Microsoft Learn",

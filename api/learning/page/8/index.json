@@ -807,7 +807,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -1476,8 +1476,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 4390,
-        "average": 4.7093396
+        "count": 4392,
+        "average": 4.7092443
       },
       "provider": {
         "name": "Microsoft Learn",
