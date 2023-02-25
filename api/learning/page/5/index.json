@@ -941,7 +941,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 66,
+          "heat": 146,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/design-a-data-model-in-power-bi-social.png",
@@ -2122,8 +2122,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 6301,
-            "average": 4.726075
+            "count": 6302,
+            "average": 4.7261186
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2164,8 +2164,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 5573,
-            "average": 4.7285123
+            "count": 5574,
+            "average": 4.7285614
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3030,8 +3030,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 6301,
-        "average": 4.726075
+        "count": 6302,
+        "average": 4.7261186
       },
       "provider": {
         "name": "Microsoft Learn",
