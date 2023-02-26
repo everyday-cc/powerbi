@@ -208,8 +208,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 4397,
-        "average": 4.7095747
+        "count": 4398,
+        "average": 4.709641
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -661,8 +661,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2723,
-            "average": 4.718325
+            "count": 2724,
+            "average": 4.7184286
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -847,8 +847,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 5505,
-        "average": 4.7981834
+        "count": 5506,
+        "average": 4.79822
       },
       "provider": {
         "name": "Microsoft Learn",
