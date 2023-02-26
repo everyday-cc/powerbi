@@ -1550,8 +1550,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 275,
-            "average": 4.650909
+            "count": 276,
+            "average": 4.6449275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3284,7 +3284,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -3899,7 +3899,7 @@
           ]
         }
       ],
-      "size": 16,
+      "size": 17,
       "heat": 60,
       "images": [
         {
@@ -4329,8 +4329,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3443,
-            "average": 4.649724
+            "count": 3444,
+            "average": 4.6498256
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4371,8 +4371,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 5874,
-            "average": 4.6891384
+            "count": 5877,
+            "average": 4.689297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4579,8 +4579,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 6304,
-            "average": 4.726047
+            "count": 6305,
+            "average": 4.7260904
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5030,8 +5030,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 552,
-            "average": 4.7481885
+            "count": 553,
+            "average": 4.743219
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5072,8 +5072,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 497,
-            "average": 4.826962
+            "count": 498,
+            "average": 4.825301
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5239,8 +5239,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 120,
-            "average": 4.7
+            "count": 121,
+            "average": 4.7024794
           },
           "provider": {
             "name": "Microsoft Learn",
