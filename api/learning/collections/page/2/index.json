@@ -4621,8 +4621,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 5574,
-            "average": 4.7285614
+            "count": 5575,
+            "average": 4.72861
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5114,8 +5114,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 399,
-            "average": 4.7619047
+            "count": 400,
+            "average": 4.76
           },
           "provider": {
             "name": "Microsoft Learn",
