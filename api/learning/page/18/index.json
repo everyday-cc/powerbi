@@ -4,273 +4,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-visualize-graph-data-in-power-bi.md",
-      "title": "Visualize Graph Data in Power BI",
-      "excerpt": "Have you wondered how to visualize graph data? No, not Microsoft Graph. Graph Networks! Adam shows you how you can do this in Power BI Desktop.  Download sample: http://guyinacu.be/graphdatasample  Microsoft Graph API: https://docs.microsoft.com/graph/overview  Graphs and Networks https://www.mathworks.com/help/matlab/graph-and-network-algorithms.html",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-visualize-graph-data-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-visualize-graph-data-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=z14DV4_Liw4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z14DV4_Liw4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M43S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-08T08:00:14-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/z14DV4_Liw4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-wait-using-a-power-bi-date-slicer-what-are-my-dates-when-using-between.md",
-      "title": "Wait! Using a Power BI Date slicer, what are my dates when using between?",
-      "excerpt": "Struggling to get dates when using a between date slicer, or a before, or after? Patrick walks through a straightforward way to get the date values when using a date slicer in Power BI!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-wait-using-a-power-bi-date-slicer-what-are-my-dates-when-using-between/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-wait-using-a-power-bi-date-slicer-what-are-my-dates-when-using-between/",
-      "originalUrl": "https://youtube.com/watch?v=dlZoy8pQWSU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dlZoy8pQWSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M31S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-01-05T08:00:19-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dlZoy8pQWSU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-want-a-custom-legend-for-your-power-bi-visual-watch-this.md",
-      "title": "Want a custom LEGEND for your Power BI visual? WATCH THIS!",
-      "excerpt": "Do you need a custom legend for your Power BI visual and not sure how to put one together? Have a look at how you can build a legend for your conditional formatting.  ⏬ Download sample file: https://guyinacu.be/columnformatsample  📢 Become a member: https://guyinacu.be/membership   *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-want-a-custom-legend-for-your-power-bi-visual-watch-this/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-want-a-custom-legend-for-your-power-bi-visual-watch-this/",
-      "originalUrl": "https://youtube.com/watch?v=kLON1j2SUK0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kLON1j2SUK0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M48S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-02-03T05:03:42-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kLON1j2SUK0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-want-to-use-a-url-for-your-text-column-in-power-bi-desktop-check-this-out.md",
-      "title": "Want to use a URL for your text column in Power BI Desktop? Check THIS out!",
-      "excerpt": "Patrick shows you how you can use a custom URL for a text column of a table or matrix within Power BI Desktop. This is AMAZING!  Download sample: https://guyinacu.be/columncustomurlsample  *******************  Want to take your Power BI skills to the next level? We have training courses available to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-want-to-use-a-url-for-your-text-column-in-power-bi-desktop-check-this-out/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-want-to-use-a-url-for-your-text-column-in-power-bi-desktop-check-this-out/",
-      "originalUrl": "https://youtube.com/watch?v=Wz2aD0XvkUk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Wz2aD0XvkUk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M21S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-01-07T05:10:12-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Wz2aD0XvkUk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-what-are-power-bi-data-connectors-and-why-should-you-care.md",
-      "title": "What are Power BI data connectors and why should you care?",
-      "excerpt": "You need a connector to work with data in Power Query for Power BI or Excel. But what is a connector? Adam explains what these are and how to find out what's available.  Power Query Connectors: https://docs.microsoft.com/power-query/connectors/  Power BI data sources: https://docs.microsoft.com/power-bi/connect-data/power-bi-data-sources",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-are-power-bi-data-connectors-and-why-should-you-care/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-are-power-bi-data-connectors-and-why-should-you-care/",
-      "originalUrl": "https://youtube.com/watch?v=1dRhH-EO-rI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1dRhH-EO-rI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M34S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-10-07T08:00:01-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1dRhH-EO-rI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-what-the-heck-is-a-measure-table-in-power-bi.md",
-      "title": "What the heck is a MEASURE TABLE in Power BI???",
-      "excerpt": "Ever wonder what a measure table is in Power BI? Or how to create one? This is a great way to organize the measures within your data model in Power BI Desktop!  Sample File: https://guyinacu.be/measuretablesample  Excelerator BI Blog: https://exceleratorbi.com.au/measure-tables-in-power-bi/  *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-the-heck-is-a-measure-table-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-the-heck-is-a-measure-table-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=qaqyazlEce0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qaqyazlEce0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M24S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-01-14T04:48:15-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qaqyazlEce0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-whats-the-real-size-of-your-data-model-in-power-bi.md",
-      "title": "What's the real size of your data model in Power BI?",
-      "excerpt": "From Power BI Desktop, to Task Manager, to different spots in the Power BI service - why are the sizes different? What's going on? How can you tell what the real size is? Well, it depends! Marco Russo joins Patrick to explain.  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-whats-the-real-size-of-your-data-model-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-whats-the-real-size-of-your-data-model-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=vI7kVVHxsiM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vI7kVVHxsiM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M58S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-09-14T08:00:47-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/vI7kVVHxsiM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-why-is-power-bi-slow.md",
       "title": "Why is Power BI SLOW",
       "excerpt": "We've seen people comment that Power BI is SLOW. But, what they really mean is your report is slow. Patrick breaks things down to get you pointed in the right direction.  Chris Hamill's Blog: https://alluringbi.com/2020/08/06/consolidating-report-elements-for-improved-performance/  📢 Become a member:",
@@ -1028,6 +761,222 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-concatenatex-in-power-bi-and-dax-concatenate-values-of-a-column.md",
+      "title": "ConcatenateX in Power BI and DAX   Concatenate Values of a Column",
+      "excerpt": "It happens often in Power BI calculations and reports that you need to concatenate a list of values from a column. You can do this concatenation in Power Query or DAX. However, if the concatenation needs to be done dynamically. ConcatenateX is a very helpful DAX function to achieve such results. It is",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-concatenatex-in-power-bi-and-dax-concatenate-values-of-a-column/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-concatenatex-in-power-bi-and-dax-concatenate-values-of-a-column/",
+      "originalUrl": "https://youtube.com/watch?v=dx8PBnDEMzU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dx8PBnDEMzU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M23S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-11-09T12:55:53-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dx8PBnDEMzU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-conditional-column-in-power-bi-using-power-query-you-can-do-anything.md",
+      "title": "Conditional Column in Power BI using Power Query   You can do anything",
+      "excerpt": "There are many scenarios that you might want to implement a conditional expression. When the conditional expression's logic is on a row-by-row basis, the best is doing it in Power Query rather than DAX (there are exceptions always), The Add Conditional Column in Power Query is a very helpful option,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-conditional-column-in-power-bi-using-power-query-you-can-do-anything/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-conditional-column-in-power-bi-using-power-query-you-can-do-anything/",
+      "originalUrl": "https://youtube.com/watch?v=xNRtOZae71Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xNRtOZae71Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M4S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-10-27T20:41:38-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xNRtOZae71Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-exception-reporting-in-power-bi-catch-the-error-rows-in-power-query.md",
+      "title": "Exception Reporting in Power BI Catch the Error Rows in Power Query",
+      "excerpt": "To build a robust BI system, you need to cater for errors and handle errors carefully. If you build a reporting solution that the refresh of that fails everytime an error occurs, it is not a robust system. Errors can happen by many reasons, In this video, I’ll show you a way to catch potential errors",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-exception-reporting-in-power-bi-catch-the-error-rows-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-exception-reporting-in-power-bi-catch-the-error-rows-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=EHfsD8G3hhc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EHfsD8G3hhc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M38S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-11-01T07:20:56-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EHfsD8G3hhc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-generate-year-month-day-combinations-in-power-bi-report-using-power-query-date-totext-function.md",
+      "title": "Generate Year Month Day Combinations in Power BI Report using Power Query Date ToText Function",
+      "excerpt": "A common requirement when reporting data with a Date axis is to be able to see the year and the month in a short form beside each other. Formats such as 2021 Jan, or Jan 2021, or even Jan 21, or 2021-01 are very popular. In Power BI, ideally, you should have a Date dimension with columns for this. However,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-generate-year-month-day-combinations-in-power-bi-report-using-power-query-date-totext-function/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-generate-year-month-day-combinations-in-power-bi-report-using-power-query-date-totext-function/",
+      "originalUrl": "https://youtube.com/watch?v=EtANwBVPIXQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EtANwBVPIXQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M20S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-09-29T16:36:32-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/EtANwBVPIXQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-get-a-field-value-from-a-related-table-in-power-bi-dax-related-function-explained.md",
+      "title": "Get a field value from a related table in Power BI DAX RELATED Function Explained",
+      "excerpt": "Sometimes, in Power BI, you need to access a field’s value from another table that somehow is related to the existing table. You can use Power Query transformations such as combining Merge with something else. However, this can be needed when you write a DAX expression too. In this article and video,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-get-a-field-value-from-a-related-table-in-power-bi-dax-related-function-explained/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-get-a-field-value-from-a-related-table-in-power-bi-dax-related-function-explained/",
+      "originalUrl": "https://youtube.com/watch?v=GqxECuWRiio",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GqxECuWRiio\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M25S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-06-07T15:28:15-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GqxECuWRiio/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-get-the-day-of-the-week-name-and-number-in-power-bi-using-dax.md",
+      "title": "Get the Day of the Week Name and Number in Power BI Using DAX",
+      "excerpt": "If you don't have a date table with a column that represents the day of the week name (Saturday, Sunday, Monday etc) or number (from zero to six, or from one to seven), and you just have a date field, which you want to quickly get the day name of the week, here is a quick trick for you. Read my blog",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-get-the-day-of-the-week-name-and-number-in-power-bi-using-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-get-the-day-of-the-week-name-and-number-in-power-bi-using-dax/",
+      "originalUrl": "https://youtube.com/watch?v=hJJnyr1qxtk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hJJnyr1qxtk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M58S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-04-20T15:10:36-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/hJJnyr1qxtk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-how-to-organize-workspaces-in-a-power-bi-environment.md",
+      "title": "How to organize workspaces in a Power BI environment",
+      "excerpt": "The question I often get in my Power BI architecture consulting sessions is that; “How should we organize our workspaces? should we have one workspace with all the reports in it? or multiple? should we split it based on each report? business unit? or something else?” In this article and video, I’ll explain",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-organize-workspaces-in-a-power-bi-environment/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-organize-workspaces-in-a-power-bi-environment/",
+      "originalUrl": "https://youtube.com/watch?v=xYszSWidi_Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xYszSWidi_Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M18S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-01-18T14:27:27-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xYszSWidi_Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

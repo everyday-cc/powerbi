@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3515,
-        "average": 4.7507825
+        "count": 3516,
+        "average": 4.750853
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 53,
+      "heat": 54,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -54,8 +54,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2318,
-        "average": 4.7308025
+        "count": 2320,
+        "average": 4.7310343
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -72,7 +72,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-write-formulas-social.png",
@@ -98,8 +98,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1668,
-        "average": 4.7158275
+        "count": 1669,
+        "average": 4.7159977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -116,7 +116,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-add-calculated-tables-social.png",
@@ -141,8 +141,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1406,
-        "average": 4.727596
+        "count": 1407,
+        "average": 4.7277894
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -246,7 +246,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/modify-dax-filter-context-power-bi-desktop-social.png",
@@ -290,7 +290,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",

@@ -4,84 +4,6 @@
   "page": 47,
   "value": [
     {
-      "path": "_learning/videos/curbal-dax-fridays-75-sameperiodlastyear.md",
-      "title": "DAX Fridays! #: 75: SAMEPERIODLASTYEAR",
-      "excerpt": "In today's video we will go through the DAX function called SAMEPERIODLASTYEAR.  This little function is great for analyzing as the function itself says, the same period last year.  If you have seasonal business and you want to analyze what happended the same period the previous year, it will do it flowless.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-75-sameperiodlastyear/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-75-sameperiodlastyear/",
-      "originalUrl": "https://youtube.com/watch?v=eJ03-7MssuY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eJ03-7MssuY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M9S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-03-29T07:01:09-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eJ03-7MssuY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-76-parallelperiod.md",
-      "title": "DAX Fridays! #76: PARALLELPERIOD",
-      "excerpt": "In today's video, I will go through the DAX function PARALLELPERIOD. This function allows you to go back to the entire previous period from the current one.   Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK    Looking for a download",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-76-parallelperiod/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-76-parallelperiod/",
-      "originalUrl": "https://youtube.com/watch?v=laVHA7A1IzE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/laVHA7A1IzE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M9S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-03-29T08:50:12-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/laVHA7A1IzE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-dax-fridays-79-keepfilters.md",
       "title": "DAX Fridays! #79: KEEPFILTERS",
       "excerpt": "In today's video we are going through the DAX function KEEPFILTERS. KEEPFILTERS will remove the behaviour that CALCULATE has where it removes the filters available.  Looking for Part 1 video?  https://www.youtube.com/watch?v=ewjRItLlgG8  Download file here: https://curbal.com/blog/glossary/keepfilters-function-dax",
@@ -1169,6 +1091,83 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-disable-refresh-in-power-bi-for-local-sources-and-more.md",
+      "title": "Disable refresh in Power Bi for local sources and more   ...",
+      "excerpt": "You have asked me if it is possible to disable refresh on local sources and the answer is yes in the Power BI Desktop, cant say the same about the Service though....   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-disable-refresh-in-power-bi-for-local-sources-and-more/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-disable-refresh-in-power-bi-for-local-sources-and-more/",
+      "originalUrl": "https://youtube.com/watch?v=uxsQUArF2Ts",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uxsQUArF2Ts\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M43S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-06-18T04:37:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/uxsQUArF2Ts/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-document-all-power-query-m-code-without-copy-pasting-it.md",
+      "title": "Document all Power Query M code without copy pasting it",
+      "excerpt": "In todays video I am going to show you a trick that Chris Webb shared on his blog recently: how to document all M code using Excel. #powerbi #curbal #powerquery  To be able to properly follow along, make sure you check out Monday's video: https://www.youtube.com/watch?v=3edQe2tSq7g  Chris Webb blog post:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-document-all-power-query-m-code-without-copy-pasting-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-document-all-power-query-m-code-without-copy-pasting-it/",
+      "originalUrl": "https://youtube.com/watch?v=fseh56DYeLc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fseh56DYeLc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M52S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-05-15T09:20:19-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/fseh56DYeLc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     }
   ],

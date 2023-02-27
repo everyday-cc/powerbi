@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 32940,
-        "average": 4.726412
+        "count": 32941,
+        "average": 4.72642
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 67,
+      "heat": 66,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png",
@@ -116,8 +116,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3515,
-            "average": 4.7507825
+            "count": 3516,
+            "average": 4.750853
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -134,7 +134,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 53,
+          "heat": 54,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -159,8 +159,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2318,
-            "average": 4.7308025
+            "count": 2320,
+            "average": 4.7310343
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -177,7 +177,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-write-formulas-social.png",
@@ -203,8 +203,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1668,
-            "average": 4.7158275
+            "count": 1669,
+            "average": 4.7159977
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -221,7 +221,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 52,
+          "heat": 51,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-add-calculated-tables-social.png",
@@ -246,8 +246,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1406,
-            "average": 4.727596
+            "count": 1407,
+            "average": 4.7277894
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -283,7 +283,7 @@
         }
       ],
       "size": 9,
-      "heat": 62,
+      "heat": 61,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
@@ -575,6 +575,49 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
+      "title": "Describe Power BI Desktop models",
+      "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 3516,
+        "average": 4.750853
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-41-understanding-relationships-in-power-bi-desktop.md",
       "title": "#41 Understanding relationships in Power BI Desktop",
       "excerpt": "You normally build relationships in Power BI (connect two tables together) so you can work with the data in both tables as if they were a single table.  In this video you will learn how to create relationships, understand what and how to use the advance options and troubleshoot the most common problems.",
@@ -646,49 +689,6 @@
       ],
       "content": "\r\n",
       "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-models.md",
-      "title": "Describe Power BI Desktop models",
-      "excerpt": "In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This module provides a strong foundation on which you can learn to optimize model designs and add model calculations.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-models/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 3515,
-        "average": 4.7507825
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-models-social.png",
-          "width": 643,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI",
@@ -771,93 +771,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables.md",
-      "title": "Add calculated tables and columns to Power BI Desktop models",
-      "excerpt": "By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table by using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query custom columns.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
-      "length": "PT19M",
-      "ratings": {
-        "count": 1668,
-        "average": 4.7158275
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-add-calculated-tables-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-write-formulas.md",
-      "title": "Write DAX formulas for Power BI Desktop models",
-      "excerpt": "In this module, you'll learn how to write DAX formulas to create calculated tables, calculated columns, and measures, which are different types of model calculations. Additionally, you'll learn how to write and format DAX formulas, which consist of expressions that use functions, operators, references to model objects, constants, and variables.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-write-formulas/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
-      "length": "PT27M",
-      "ratings": {
-        "count": 2318,
-        "average": 4.7308025
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-write-formulas-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "DAX"
       ]
     },
     {
@@ -1214,59 +1127,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-modify-filter.md",
-      "title": "Modify DAX filter context in Power BI Desktop models",
-      "excerpt": "By the end of this module, you'll be able to describe filter context, which is used to evaluate measure formulas. You'll then learn why some calculations need to modify filter context and that it can be achieved by using the CALCULATE function. Additionally, you'll learn how to configure the CALCULATE function with filters and filter modifiers.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-modify-filter/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
-      "length": "PT37M",
-      "ratings": {
-        "count": 538,
-        "average": 4.64684
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/modify-dax-filter-context-power-bi-desktop-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-dax-power-bi-time-intelligence.md",
-      "title": "Use DAX time intelligence functions in Power BI Desktop models",
-      "excerpt": "By the end of this module, you'll learn the meaning of time intelligence and how to add time intelligence DAX calculations to your model. These calculations will include year-to-date (YTD), year-over-year (YoY) growth, and others.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-time-intelligence/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables.md",
+      "title": "Add calculated tables and columns to Power BI Desktop models",
+      "excerpt": "By the end of this module, you'll be able to add calculated tables and calculated columns to your data model. You'll also be able to describe row context, which is used to evaluated calculated column formulas. Because it's possible to add columns to a table by using Power Query, you'll also learn when it's best to create calculated columns instead of Power Query custom columns.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-add-calculated-tables/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1365,
-        "average": 4.739927
+        "count": 1669,
+        "average": 4.7159977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1286,53 +1155,9 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-add-calculated-tables-social.png",
           "width": 640,
           "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-modern-analytics-interactive-experiences.md",
-      "title": "Design interactive data experiences with Power BI Desktop",
-      "excerpt": "Power BI enables report authors to produce interactive reports using visuals, slicers, bookmarks, and more.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-interactive-experiences/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/",
-      "length": "PT56M",
-      "ratings": {
-        "count": 224,
-        "average": 4.633929
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-interactive-experiences-social.png",
-          "width": 1281,
-          "height": 641,
           "isCached": true
         }
       ],
@@ -1342,6 +1167,50 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-write-formulas.md",
+      "title": "Write DAX formulas for Power BI Desktop models",
+      "excerpt": "In this module, you'll learn how to write DAX formulas to create calculated tables, calculated columns, and measures, which are different types of model calculations. Additionally, you'll learn how to write and format DAX formulas, which consist of expressions that use functions, operators, references to model objects, constants, and variables.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-write-formulas/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
+      "length": "PT27M",
+      "ratings": {
+        "count": 2320,
+        "average": 4.7310343
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-write-formulas-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
       ]
     },
     {
@@ -1370,6 +1239,116 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/3irCvEe7IdI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-bulk-import-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks-04.md",
+      "title": "Bulk import data from multiple pages on a website with Power BI Desktop - Power BI Tips & Tricks #04",
+      "excerpt": "Have you come across a website that has data you need but it is presented in multiple pages? Downloading page by page can be frustrating and time consuming. In this short video, I will show you how to iterate multiple pages on a website to import the data using Power BI.  LINK to NFL site: http://www.nfl.com/stats/categorystats?tabSeq=2&offensiveStatisticCategory=TEAM_PASSING&conference=ALL&role=TM&season=2015&seasonType=REG",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-bulk-import-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks-04/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-bulk-import-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks-04/",
+      "originalUrl": "https://youtube.com/watch?v=6PZSZ53iSos",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6PZSZ53iSos\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M15S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-03-17T03:40:26-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6PZSZ53iSos/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-network-navigator-visual-in-power-bi-desktop.md",
+      "title": "Network Navigator visual in Power BI Desktop",
+      "excerpt": "Link to file: http://gofile.me/2kEOD/DGYPMz2l1   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1  Our PLAYLISTS: - Join our DAX Fridays!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-network-navigator-visual-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-network-navigator-visual-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=OWW9vLW9sq4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OWW9vLW9sq4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M21S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-12-20T02:58:15-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OWW9vLW9sq4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-create-hierarchy-slicer-in-power-bi-desktop.md",
+      "title": "Create Hierarchy Slicer in Power BI Desktop",
+      "excerpt": "In this video, we will learn, how we can create a Hierarchy Slicer in Power BI Desktop. Microsoft recently introduced Hierarchy Slicer as a part of the OOTB slicers.  In this video, we will learn how to create a hierarchy slicer using OOTB slicer option. Also, we will check the different formatting properties",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-create-hierarchy-slicer-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-create-hierarchy-slicer-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=JVma1RhHJfg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JVma1RhHJfg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M15S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:52:50-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/JVma1RhHJfg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
