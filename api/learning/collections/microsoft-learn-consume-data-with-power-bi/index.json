@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10437,
-        "average": 4.675194
+        "count": 10439,
+        "average": 4.6750646
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 64,
+      "heat": 144,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
