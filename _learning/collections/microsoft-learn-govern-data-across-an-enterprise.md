@@ -4,7 +4,7 @@ excerpt: "Govern data across an enterprise"
 type: collection
 price: Free
 length: PT1H48M
-heat: 52
+heat: 130
 
 provider:
   name: Microsoft Learn
