@@ -2546,8 +2546,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2335,
-            "average": 4.7301927
+            "count": 2336,
+            "average": 4.7298803
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2630,8 +2630,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1148,
-            "average": 4.7752614
+            "count": 1149,
+            "average": 4.775457
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2755,8 +2755,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 142,
-            "average": 4.8732395
+            "count": 143,
+            "average": 4.874126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2797,8 +2797,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-select/",
           "length": "PT29M",
           "ratings": {
-            "count": 70,
-            "average": 4.8142858
+            "count": 71,
+            "average": 4.816901
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2839,8 +2839,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-content/",
           "length": "PT33M",
           "ratings": {
-            "count": 51,
-            "average": 4.8235292
+            "count": 52,
+            "average": 4.826923
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2881,8 +2881,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-content/",
           "length": "PT31M",
           "ratings": {
-            "count": 33,
-            "average": 4.7272725
+            "count": 34,
+            "average": 4.7352943
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4559,8 +4559,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 6443,
-        "average": 4.747012
+        "count": 6446,
+        "average": 4.74713
       },
       "provider": {
         "name": "Microsoft Learn",
