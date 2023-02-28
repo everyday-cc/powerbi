@@ -216,56 +216,14 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-data-driven-story-power-bi.md",
-      "title": "Create a data-driven story with Power BI reports",
-      "excerpt": "Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-driven-story-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
-      "length": "PT1H44M",
-      "ratings": {
-        "count": 5891,
-        "average": 4.6888475
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 135,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/create-reports-with-power-bi-desktop-social.png",
-          "width": 800,
-          "height": 400,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-debugging-dax-measures-in-power-bi.md",
-      "title": "Debugging DAX measures in Power BI",
-      "excerpt": "Learn how to debug a DAX measure that returns an incorrect result by using different techniques, with and without external tools.\r Article and download: https://sql.bi/782334?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-debugging-dax-measures-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-debugging-dax-measures-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=iKPaTW_ESrI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iKPaTW_ESrI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT53M4S",
+      "path": "_learning/videos/sqlbi-solving-errors-in-calculate-filter-arguments.md",
+      "title": "Solving errors in CALCULATE filter arguments",
+      "excerpt": "This video explains the more common errors in CALCULATE filter arguments and how to solve them.\r Article and download: https://sql.bi/778253?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-solving-errors-in-calculate-filter-arguments/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-solving-errors-in-calculate-filter-arguments/",
+      "originalUrl": "https://youtube.com/watch?v=jYaSd565GgE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jYaSd565GgE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M55S",
       "provider": {
         "name": "SQLBI",
         "domain": "sqlbi.com",
@@ -278,11 +236,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-01-17T03:01:06-08:00",
-      "heat": 135,
+      "publishedDateTime": "2022-12-08T03:00:35-08:00",
+      "heat": 134,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/iKPaTW_ESrI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jYaSd565GgE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -292,8 +250,45 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-what-happens-when-you-miss-a-refresh-day-with-power-bi-incremental-refresh.md",
+      "title": "What happens when you miss a refresh day with Power BI Incremental Refresh?",
+      "excerpt": "You've set up Power BI Incremental Refresh and there is a day that is missed because schedule refresh failed or some other reason. What happens? Do you lose that data? Patrick digs in!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-happens-when-you-miss-a-refresh-day-with-power-bi-incremental-refresh/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-happens-when-you-miss-a-refresh-day-with-power-bi-incremental-refresh/",
+      "originalUrl": "https://youtube.com/watch?v=nMSuWbKUvAY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nMSuWbKUvAY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M33S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-25T08:00:35-08:00",
+      "heat": 132,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nMSuWbKUvAY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -669,8 +664,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 56161,
-            "average": 4.7962823
+            "count": 56164,
+            "average": 4.796275
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -711,8 +706,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 80545,
-            "average": 4.778174
+            "count": 80551,
+            "average": 4.7781777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -771,8 +766,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 80545,
-        "average": 4.778174
+        "count": 80551,
+        "average": 4.7781777
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -852,8 +847,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 56161,
-        "average": 4.7962823
+        "count": 56164,
+        "average": 4.796275
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1070,8 +1065,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 14411,
-            "average": 4.7510233
+            "count": 14416,
+            "average": 4.7510405
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1112,8 +1107,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10434,
-            "average": 4.6751966
+            "count": 10437,
+            "average": 4.675194
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1146,8 +1141,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 80545,
-            "average": 4.778174
+            "count": 80551,
+            "average": 4.7781777
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1206,8 +1201,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 14411,
-        "average": 4.7510233
+        "count": 14416,
+        "average": 4.7510405
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1304,44 +1299,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/CIIzUvoUMOc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-blank-row-and-limited-relationships.md",
-      "title": "Blank row and limited relationships",
-      "excerpt": "DAX creates a blank row to guarantee that results are accurate even if a regular relationship is invalid. The blank row is not created for limited relationships. This video shows the effect of not having a blank row in your tables.\r Article and download: https://sql.bi/785676?aff=yt\r \r How to learn DAX:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-blank-row-and-limited-relationships/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-blank-row-and-limited-relationships/",
-      "originalUrl": "https://youtube.com/watch?v=eosB-n7m2x8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eosB-n7m2x8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-02-14T04:01:06-08:00",
-      "heat": 86,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eosB-n7m2x8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1469,8 +1426,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 24729,
-        "average": 4.724332
+        "count": 24733,
+        "average": 4.724376
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1499,6 +1456,199 @@
       "content": "\r\n",
       "type": "course",
       "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-power-bi-paginated-reports-in-a-day.md",
+      "title": "Power BI Paginated Reports in a Day",
+      "excerpt": "The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you watch the videos in the recorded sequence, starting with video 1 and ending with video 24.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-power-bi-paginated-reports-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-power-bi-paginated-reports-in-a-day/",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-01-welcome-and-course-introduction.md",
+          "title": "Power BI Paginated Reports in a Day - 01: Welcome and Course Introduction",
+          "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional - Data Platform, and course developer), Chris Finlan (Principal Program Manager), and special guest Paginated Report Bear (Course Morale Manager) welcome and introduce you to the course, its outline and the course demo scenario.  The Power",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-01-welcome-and-course-introduction/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-01-welcome-and-course-introduction/",
+          "originalUrl": "https://youtube.com/watch?v=DN1t5p9aui0",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DN1t5p9aui0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT2M59S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-03-17T19:58:19-07:00",
+          "heat": 67,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/DN1t5p9aui0/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "title": "Power BI Paginated Reports in a Day - 01: Welcome and Course Introduction",
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-02-power-bi-reporting-part-1.md",
+          "title": "Power BI Paginated Reports in a Day - 02: Power BI Reporting - Part 1",
+          "excerpt": "In this video, we introduce Power BI, and contrast Power BI reporting with paginated reporting.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-02-power-bi-reporting-part-1/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-02-power-bi-reporting-part-1/",
+          "originalUrl": "https://youtube.com/watch?v=s6Amctk3Z_g",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/s6Amctk3Z_g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT6M22S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-03-17T20:00:21-07:00",
+          "heat": 66,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/s6Amctk3Z_g/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "title": "Power BI Paginated Reports in a Day - 02: Power BI Reporting - Part 1",
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-03-power-bi-reporting-part-2.md",
+          "title": "Power BI Paginated Reports in a Day - 03: Power BI Reporting - Part 2",
+          "excerpt": "In this video, we demonstrate viewing two reports, one a Power BI report, and the other a paginated report.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-03-power-bi-reporting-part-2/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-03-power-bi-reporting-part-2/",
+          "originalUrl": "https://youtube.com/watch?v=jXTiYJKw1Rs",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jXTiYJKw1Rs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M29S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-03-17T21:01:08-07:00",
+          "heat": 74,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/jXTiYJKw1Rs/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "title": "Power BI Paginated Reports in a Day - 03: Power BI Reporting - Part 2",
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/videos/microsoft-power-bi-paginated-reports-in-a-day-04-designing-report-layouts-part-1.md",
+          "title": "Power BI Paginated Reports in a Day - 04: Designing Report Layouts - Part 1",
+          "excerpt": "In this video, we introduce Report Builder, and describe a general development methodology.  The Power BI Paginated Reports in a Day online course aims to empower you as a report author with the technical knowledge required to create, publish, and distribute Power BI paginated reports. We recommend you",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-04-designing-report-layouts-part-1/index.json",
+          "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-power-bi-paginated-reports-in-a-day-04-designing-report-layouts-part-1/",
+          "originalUrl": "https://youtube.com/watch?v=EjHANN3rGNs",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/EjHANN3rGNs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT16M20S",
+          "provider": {
+            "name": "Microsoft",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2020-03-17T21:01:20-07:00",
+          "heat": 63,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/EjHANN3rGNs/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "title": "Power BI Paginated Reports in a Day - 04: Designing Report Layouts - Part 1",
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 26,
+      "heat": 80,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DN1t5p9aui0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": "Power BI Paginated Reports in a Day - 01: Welcome and Course Introduction",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
       "topics": [
         "Power BI"
       ]

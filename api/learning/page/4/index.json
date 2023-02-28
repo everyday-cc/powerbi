@@ -4,44 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/videos/curbal-export-from-power-bi-to-excel-up-to-100k-rows-run-a-query-against-a-dataset.md",
-      "title": "Export from Power BI to Excel up to 🔥100k rows 🔥| Run a query against a dataset",
-      "excerpt": "In a previous video  (https://www.youtube.com/watch?v=BnTipbooeP0&ab_channel=Curbal) I showed you how to export your data to excel using a button in Power Bi but there was a 1000 item limit.   To do that, we are going to use the new Power Automate operation called | Run a query against a dataset  I found",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-export-from-power-bi-to-excel-up-to-100k-rows-run-a-query-against-a-dataset/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-export-from-power-bi-to-excel-up-to-100k-rows-run-a-query-against-a-dataset/",
-      "originalUrl": "https://youtube.com/watch?v=WsbIXJDhC_o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WsbIXJDhC_o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M39S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-06-15T04:32:30-07:00",
-      "heat": 65,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WsbIXJDhC_o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-how-to-get-data-from-a-rest-api-in-power-bi-for-rookies.md",
       "title": "How to get data from a REST API in Power BI for rookies",
       "excerpt": "Do you want to get data from an REST API, but are not sure how to do it? Well, Chuck Norris and myself will walk you through the steps.  Chuck norris API: https://api.chucknorris.io/   Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and",
@@ -627,8 +589,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3523,
-            "average": 4.750497
+            "count": 3524,
+            "average": 4.7505674
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -712,8 +674,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 9815,
-            "average": 4.7445745
+            "count": 9816,
+            "average": 4.744601
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -815,8 +777,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10434,
-        "average": 4.6751966
+        "count": 10437,
+        "average": 4.675194
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1698,6 +1660,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Biz-s-YoKRc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-the-power-bi-gateway-all-you-need-to-know.md",
+      "title": "The Power BI Gateway   All You Need to Know",
+      "excerpt": "Power BI is a data analysis tool that connects to many data sources. Suppose the data source for Power BI is located in an on-premises location. In that case, the connection from the cloud-based Power BI Service to the on-premises located data source should be created with an application called Gateway.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-the-power-bi-gateway-all-you-need-to-know/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-the-power-bi-gateway-all-you-need-to-know/",
+      "originalUrl": "https://youtube.com/watch?v=87SQLWdKdvE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/87SQLWdKdvE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M19S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-12-05T15:47:24-08:00",
+      "heat": 63,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/87SQLWdKdvE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

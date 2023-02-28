@@ -4237,173 +4237,6 @@
       ]
     },
     {
-      "path": "_learning/collections/microsoft-learn-build-power-bi-visuals-and-reports.md",
-      "title": "Build Power BI visuals and reports",
-      "excerpt": "visualize, data visualization",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-build-power-bi-visuals-and-reports/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-build-power-bi-visuals-and-reports/",
-      "length": "PT3H31M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-power-bi-effective-requirements.md",
-          "title": "Scope report design requirements",
-          "excerpt": "Gathering appropriate inputs to scope your report design requirements involves identifying your audience, determining the suitable report types, and defining their interface and experience requirements. This module provides you with a strong foundation on which to learn how to plan your report design requirements.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-requirements/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
-          "length": "PT34M",
-          "ratings": {
-            "count": 2330,
-            "average": 4.7313304
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 51,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
-              "width": 1281,
-              "height": 641,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-visuals-power-bi.md",
-          "title": "Work with Power BI visuals",
-          "excerpt": "Learn how to choose from the exceptional visuals that Power BI makes available to you. Formatting visuals will direct the user’s attention to exactly where you want it, while helping to make the visual easier to read and interpret. You will also learn about how to use key performance indicators (KPIs).",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
-          "length": "PT1H13M",
-          "ratings": {
-            "count": 3463,
-            "average": 4.649437
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 59,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png",
-              "width": 640,
-              "height": 320,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-data-driven-story-power-bi.md",
-          "title": "Create a data-driven story with Power BI reports",
-          "excerpt": "Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-driven-story-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
-          "length": "PT1H44M",
-          "ratings": {
-            "count": 5891,
-            "average": 4.6888475
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 135,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/create-reports-with-power-bi-desktop-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
-          "width": 1281,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-model-data-in-power-bi.md",
       "title": "Model data in Power BI",
       "excerpt": "Success with Power BI begins with a great data model. In this module, you will learn how to design a data model that is intuitive, high-performing, and simple to maintain. You will learn about using DAX language to create measures. Those measures will help you create a wide variety of analytic solutions. Additionally, you’ll learn how to improve performance with your Power Query data retrieval tasks.",
@@ -4434,8 +4267,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 9815,
-            "average": 4.7445745
+            "count": 9816,
+            "average": 4.744601
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4476,8 +4309,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 8067,
-            "average": 4.7095575
+            "count": 8068,
+            "average": 4.7095933
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4572,6 +4405,173 @@
       ]
     },
     {
+      "path": "_learning/collections/microsoft-learn-build-power-bi-visuals-and-reports.md",
+      "title": "Build Power BI visuals and reports",
+      "excerpt": "visualize, data visualization",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-build-power-bi-visuals-and-reports/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-build-power-bi-visuals-and-reports/",
+      "length": "PT3H31M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-power-bi-effective-requirements.md",
+          "title": "Scope report design requirements",
+          "excerpt": "Gathering appropriate inputs to scope your report design requirements involves identifying your audience, determining the suitable report types, and defining their interface and experience requirements. This module provides you with a strong foundation on which to learn how to plan your report design requirements.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-requirements/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
+          "length": "PT34M",
+          "ratings": {
+            "count": 2330,
+            "average": 4.7313304
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-visuals-power-bi.md",
+          "title": "Work with Power BI visuals",
+          "excerpt": "Learn how to choose from the exceptional visuals that Power BI makes available to you. Formatting visuals will direct the user’s attention to exactly where you want it, while helping to make the visual easier to read and interpret. You will also learn about how to use key performance indicators (KPIs).",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
+          "length": "PT1H13M",
+          "ratings": {
+            "count": 3464,
+            "average": 4.6492496
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 59,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/visuals-power-bi-social.png",
+              "width": 640,
+              "height": 320,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-data-driven-story-power-bi.md",
+          "title": "Create a data-driven story with Power BI reports",
+          "excerpt": "Power BI helps you create vibrant, highly useful reports that form a cohesive, data-driven story. You’ll learn how to use buttons, bookmarks, and other navigation techniques. Additionally, you’ll learn how to integrate Power BI reports with other applications. Power BI visuals can interact with each other, letting the user see exactly which data is appealing to them. You’ll also explore Power BI report themes to create a unified reporting experience across all reports.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-data-driven-story-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
+          "length": "PT1H44M",
+          "ratings": {
+            "count": 5892,
+            "average": 4.6889
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/create-reports-with-power-bi-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-consume-data-with-power-bi.md",
       "title": "Consume data with Power BI",
       "excerpt": "Do you want to make business decisions backed by data? Learn how to do that in Power BI. Learn to work in Power BI to review and interact with this content to make business decisions.",
@@ -4602,8 +4602,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10434,
-            "average": 4.6751966
+            "count": 10437,
+            "average": 4.675194
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4636,8 +4636,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10455,
-            "average": 4.7022476
+            "count": 10457,
+            "average": 4.702305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4678,8 +4678,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1672,
-            "average": 4.73744
+            "count": 1673,
+            "average": 4.737597
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4803,8 +4803,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 5583,
-            "average": 4.728103
+            "count": 5584,
+            "average": 4.728152
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5081,8 +5081,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5534,
-            "average": 4.713408
+            "count": 5535,
+            "average": 4.71346
           },
           "provider": {
             "name": "Microsoft Learn",
