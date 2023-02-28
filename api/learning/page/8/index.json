@@ -997,8 +997,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 9825,
-            "average": 4.7444277
+            "count": 9826,
+            "average": 4.7444534
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1082,8 +1082,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9186,
-            "average": 4.7625737
+            "count": 9187,
+            "average": 4.7625995
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1142,8 +1142,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 4420,
-        "average": 4.708597
+        "count": 4421,
+        "average": 4.708663
       },
       "provider": {
         "name": "Microsoft Learn",
