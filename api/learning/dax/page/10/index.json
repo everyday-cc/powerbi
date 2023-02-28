@@ -126,8 +126,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 176,
-        "average": 4.7102275
+        "count": 177,
+        "average": 4.7118645
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -170,8 +170,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 557,
-        "average": 4.709156
+        "count": 558,
+        "average": 4.709677
       },
       "provider": {
         "name": "Microsoft Learn",
