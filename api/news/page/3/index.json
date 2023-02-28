@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-19-userculture-dax-function-now-supported-in-power-bi-premium.md",
+      "title": "USERCULTURE DAX function now supported in Power BI Premium",
+      "excerpt": "Support for the DAX UserCulture function in Power BI Premium is now available.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-19-userculture-dax-function-now-supported-in-power-bi-premium/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/userculture-dax-function-now-supported-in-power-bi-premium/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/userculture-dax-function-now-supported-in-power-bi-premium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-announcing-power-bi-report-and-dataset-management-in-power-apps-solutions.md",
       "title": "Announcing Power BI report and dataset management in Power Apps Solutions",
       "excerpt": "Announcing public preview on managing Power BI reports and datasets native components in Power Apps Solution ",
@@ -1208,57 +1260,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-metric-visual-is-now-available-in-preview.md",
-      "title": "Metric visual is now available in preview",
-      "excerpt": "Metrics visual is now available.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-19-metric-visual-is-now-available-in-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/metric-visual-is-now-available-in-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/metric-visual-is-now-available-in-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
