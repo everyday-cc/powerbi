@@ -4,7 +4,7 @@ excerpt: "Distribute Power BI insights"
 type: collection
 price: Free
 length: PT1H57M
-heat: 60
+heat: 140
 
 provider:
   name: Microsoft Learn

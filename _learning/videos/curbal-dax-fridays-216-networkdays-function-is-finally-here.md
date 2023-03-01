@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M1S
 publishedDateTime: 2022-06-30T09:41:08Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hL4wCObZ52w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "NGv3B5tOS4v+0m+8Wf5Hw8VFz1kZcMDy+BBFMbjX3eaMytCXf7il5VdlVvMekNDSHOMOHtbRs7BvKNZPaxcDIcwoCceEqjDnVW7pb30mvAidSurTMBQhlM/AxdWa6Llfst8BGyPBobXZmjq+1QXxeSFlcFMkgSFqwsEvBIOhFYLEMbwhbF7Cg0d3tI6lHR/e0Cyv6mZ7gkugUXV6bFl/qpmzXNx4iMp/jDNfSgp3hAfR70/nqGLtqW85T8wAXj19qCd28FZXDkm+W/raY98Rkp/K1ZPK1Cp5FKOX2MktJFmA6d5xn9G8bstiamuhW9QyK0999mUjzx+dUZNDCWDBb2w/pFu8Inan/+tRxwCiZD7FSCvD+MKxmra7PeRs1hoUFpLEkx4CbfJZ8MUp2UBOmjS6ZypXbdha0uYOlizC8tY=;X71DkSNQAeWVgOTVdx63SQ=="
+secured: "fIKxe8erhY+MtTfqqSN2hp82X2yefZOJicoC5cU/Wo/c3QfZQd+49+aNPcUBiGoIBXXRJ+lQCwezCNEsE+XGuJ9uN06LPkG85KTYty/ESPnFsvcfihX9oiABXihE70ArjgZgpNydpo3SlcH5B9eGdv63xPORIRDb6XnpUhW++EVwCoL1A7X3T35GACxHHWcrsMHgiLZZ89R8A770vf4djigDBOpOF0T+XewEhavERlRK4ZV4eS5S7tkSlAAA4ivBfWfWTFMvrwDjHFmFVvWkqemuFtYfdgi1oVvzQmezhEfTnpDtJ1im863ixPTvvAgYDuRtGz3i5ka8aY85rlABJhL2e9LMKOaYGPqk46ROGS1RyarcSPWP+sofWXDw9yrFnyf0rHWh+nLhGiI5lOivZzJoCXLt1SpwWIzEC1UL2Kw=;e/0OovMEQPKMMEy0pqR2hQ=="
 ---
 
