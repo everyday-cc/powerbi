@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-12-15-announcing-public-preview-of-hybrid-tables-in-power-bi-premium.md",
+      "title": "Announcing Public Preview of Hybrid Tables in Power BI Premium",
+      "excerpt": "We are excited to announce support for Hybrid Tables and Incremental refresh with real-time data in Power BI Premium to strike the right balance between query performance and data freshness. Now you can have blazing fast performance in import mode and the latest data changes in the data warehouse reflected",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-12-15-announcing-public-preview-of-hybrid-tables-in-power-bi-premium/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-hybrid-tables-in-power-bi-premium/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-hybrid-tables-in-power-bi-premium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-12-15T08:16:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-12-15-power-bi-december-2021-feature-summary.md",
       "title": "Power BI December 2021 Feature Summary",
       "excerpt": "Welcome to the December 2021 update, can you believe that it’s winter and the last month of 2021 year already? We are closing out the year with great new features, such as a new Sparklines preview feature, several new Format Pane updates, e-mail subscription access via Admin API and myriad of other useful",
@@ -1180,57 +1231,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-11-02T01:00:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-02-more-easily-integrate-goals-into-all-your-business-processes.md",
-      "title": "More easily integrate goals into all your business processes",
-      "excerpt": "We&#8217;re excited to announce new capabilities and improvements for Power BI goals that make it easier than ever to integrate goals into all of your business processes. Learn about the new goals visual, Power Automate integration, goal level permissions, and other experience enhancements.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-11-02-more-easily-integrate-goals-into-all-your-business-processes/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/more-easily-integrate-goals-into-all-your-business-processes/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/more-easily-integrate-goals-into-all-your-business-processes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-02T01:00:10-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

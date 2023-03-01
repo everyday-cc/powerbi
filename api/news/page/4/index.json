@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-20-partners-introducing-a-new-way-to-manage-enforce-and-transact-licenses-for-power-bi-visuals.md",
+      "title": "Partners: Introducing a new way to manage, enforce and transact licenses for Power BI visuals",
+      "excerpt": "Partners have been listing Power BI visuals on AppSource for years, but now we’re excited to introduce e-commerce through our popular commercial marketplace. In order to ease sales, boost revenue, and optimize operations for partners, and to improve the experience for Power BI users!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-20-partners-introducing-a-new-way-to-manage-enforce-and-transact-licenses-for-power-bi-visuals/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/partners-introducing-a-new-way-to-manage-enforce-and-transact-licenses-for-power-bi-visuals/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/partners-introducing-a-new-way-to-manage-enforce-and-transact-licenses-for-power-bi-visuals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T02:37:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-raise-your-data-visualization-skills-with-this-excel-and-power-bi-bundle.md",
       "title": "Raise your data visualization skills with this Excel and Power BI bundle",
       "excerpt": "TL;DR: As of July 19, you can get The 2022 Ultimate Microsoft Excel & Power BI Certification Bundle(opens in a new tab) for just $34.99 instead of $1800 — that's a 98% discount. Excel is an ...",
@@ -1193,57 +1244,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-24T03:49:50-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-composite-models-on-sql-server-analysis-services.md",
-      "title": "Composite models on SQL Server Analysis Services",
-      "excerpt": "SQL Server 2022 Analysis Services will support composite models and it is now ready for you to try out with the CTP2 that has just launched. After you install this CTP for SQL Server 2022 on a server, tabular models are hosted on that server can now be used to create a composite model with.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-24-composite-models-on-sql-server-analysis-services/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/composite-models-on-sql-server-analysis-services/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/composite-models-on-sql-server-analysis-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T03:05:24-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
