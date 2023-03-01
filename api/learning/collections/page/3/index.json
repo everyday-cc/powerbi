@@ -912,8 +912,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 280,
-            "average": 4.65
+            "count": 281,
+            "average": 4.6512456
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1079,8 +1079,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/",
           "length": "PT25M",
           "ratings": {
-            "count": 58,
-            "average": 4.827586
+            "count": 59,
+            "average": 4.8305087
           },
           "provider": {
             "name": "Microsoft Learn",
