@@ -118,8 +118,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 407,
-            "average": 4.7616706
+            "count": 408,
+            "average": 4.7622547
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -326,8 +326,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 189,
-            "average": 4.6296296
+            "count": 190,
+            "average": 4.631579
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -828,8 +828,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3009,
-            "average": 4.716517
+            "count": 3011,
+            "average": 4.7167053
           },
           "provider": {
             "name": "Microsoft Learn",

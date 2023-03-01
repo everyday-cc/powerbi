@@ -8,7 +8,7 @@ length: PT1H9M
 ratings:
   count: 74
   average: 4.6621623
-heat: 50
+heat: 130
 
 provider:
   name: Microsoft Learn
