@@ -692,8 +692,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5550,
-            "average": 4.7126126
+            "count": 5551,
+            "average": 4.7126646
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -817,8 +817,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2038,
-            "average": 4.7055936
+            "count": 2039,
+            "average": 4.704267
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -919,8 +919,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 5550,
-        "average": 4.7126126
+        "count": 5551,
+        "average": 4.7126646
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -961,8 +961,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 8089,
-        "average": 4.7092347
+        "count": 8090,
+        "average": 4.7089
       },
       "provider": {
         "name": "Microsoft Learn",
