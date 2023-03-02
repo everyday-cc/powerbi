@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10484,
-        "average": 4.6754103
+        "count": 10489,
+        "average": 4.675374
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -375,8 +375,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3487,
-            "average": 4.6507025
+            "count": 3490,
+            "average": 4.651003
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -459,8 +459,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 2695,
-            "average": 4.657885
+            "count": 2697,
+            "average": 4.657768
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -746,45 +746,6 @@
       ]
     },
     {
-      "path": "_learning/videos/sqlbi-introducing-window-functions-in-dax.md",
-      "title": "Introducing window functions in DAX",
-      "excerpt": "This video introduces the syntax and functionalities of the new DAX window functions: INDEX, OFFSET, and WINDOW.\r Article and download: https://sql.bi/784024?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-window-functions-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-window-functions-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=bxSWQNSQ8rQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bxSWQNSQ8rQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M58S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-01-31T03:00:16-08:00",
-      "heat": 70,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bxSWQNSQ8rQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/collections/microsoft-learn-model-data-with-power-bi.md",
       "title": "Model data with Power BI",
       "excerpt": "Model data with Power BI",
@@ -858,8 +819,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 192,
-            "average": 4.625
+            "count": 194,
+            "average": 4.628866
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -900,8 +861,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 9854,
-            "average": 4.7445707
+            "count": 9857,
+            "average": 4.7446485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -942,8 +903,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1416,
-            "average": 4.7281075
+            "count": 1417,
+            "average": 4.728299
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1626,6 +1587,36 @@
           "width": 480,
           "height": 360,
           "title": "Power BI Paginated Reports in a Day - 01: Welcome and Course Introduction",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-create-a-table-in-power-bi-using-enter-data-and-how-to-edit-it.md",
+      "title": "Create a Table in Power BI using Enter Data and How to Edit it",
+      "excerpt": "Sometimes you just need a new table with a few rows or columns to be added to your data model. One option to create that table is to use the Enter Data option in Power BI Desktop. In this article, I’ll explain how you can use it, and also; more important: How to edit the data of that table after creating",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-create-a-table-in-power-bi-using-enter-data-and-how-to-edit-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-create-a-table-in-power-bi-using-enter-data-and-how-to-edit-it/",
+      "originalUrl": "https://youtube.com/watch?v=i6GAKTU5Xe0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i6GAKTU5Xe0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M24S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-06-13T19:21:53-07:00",
+      "heat": 68,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/i6GAKTU5Xe0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
