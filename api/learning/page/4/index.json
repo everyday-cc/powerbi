@@ -935,8 +935,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 1458,
-            "average": 4.778464
+            "count": 1459,
+            "average": 4.7786155
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1079,8 +1079,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 6476,
-        "average": 4.748147
+        "count": 6478,
+        "average": 4.7482247
       },
       "provider": {
         "name": "Microsoft Learn",
