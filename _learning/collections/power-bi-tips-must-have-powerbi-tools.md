@@ -26,6 +26,7 @@ items:
   - videos/power-bi-tips-introduction-to-the-charticulator-visual-by-mike-carlo
   - videos/power-bi-tips-all-about-daxdo-milwaukee-power-platform-user-group
   - videos/power-bi-tips-error-importing-theme-file-quick-tip
+  - videos/power-bi-tips-build-themes-in-real-time-quick-tip
 
 topics:
   - Power BI
