@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 135,
+      "heat": 55,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/explore-azure-data-services-for-modern-analytics-social.png",
@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
       "length": "PT29M",
       "ratings": {
-        "count": 411,
-        "average": 4.7591243
+        "count": 412,
+        "average": 4.759709
       },
       "provider": {
         "name": "Microsoft Learn",
