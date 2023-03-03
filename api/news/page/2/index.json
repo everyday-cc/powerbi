@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-12-08-simplifying-capacity-management-with-unified-v-cores.md",
+      "title": "Simplifying capacity management with unified v-cores",
+      "excerpt": "Power BI Premium Platform updates to unify back-end and front-end v-cores delivers a simplified capacity management experience for capacity administrators.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-12-08-simplifying-capacity-management-with-unified-v-cores/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/simplifying-capacity-management-with-unified-v-cores/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/simplifying-capacity-management-with-unified-v-cores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-12-07T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-12-07-dataset-refresh-cancellation-is-now-available-in-power-bi-premium.md",
       "title": "Dataset refresh cancellation is now available in Power BI Premium",
       "excerpt": "Cancel an in-progress dataset refresh in Power BI",
@@ -1204,57 +1255,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-09-26T03:45:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-on-premises-data-gateway-september-release.md",
-      "title": "On-premises data gateway September release",
-      "excerpt": "Here&#8217;s our September release of the on-premises data gateway! As always, stay up to date for the latest functionality.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-23-on-premises-data-gateway-september-release/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-september-release/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-september-release/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T06:35:30-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
