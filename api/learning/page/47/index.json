@@ -665,8 +665,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 130,
-            "average": 4.6538463
+            "count": 131,
+            "average": 4.6564884
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -915,8 +915,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 203,
-            "average": 4.630542
+            "count": 204,
+            "average": 4.632353
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1385,8 +1385,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-your-first-power-bi-report/",
       "length": "PT55M",
       "ratings": {
-        "count": 6486,
-        "average": 4.7755165
+        "count": 6487,
+        "average": 4.775397
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1798,8 +1798,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 182,
-        "average": 4.714286
+        "count": 183,
+        "average": 4.715847
       },
       "provider": {
         "name": "Microsoft Learn",
