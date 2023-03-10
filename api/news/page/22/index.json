@@ -2,6 +2,111 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-03-02-power-bi-exam-sql-and-microsoft-bi-certifications-retired-what-do-i-do-now.md",
+      "title": "Power BI exam, SQL  and Microsoft BI certifications retired | WHAT DO I DO NOW?",
+      "excerpt": "Microsoft retiring old certifications | What do I do know?  Have you heard that microsoft is retiring the SQL and BI certifications as well as the Power BI and Excel exams by June 30th, 2020?  In this video I will explain what is going on, answer the most common questions and showing a path forward in",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-03-02-power-bi-exam-sql-and-microsoft-bi-certifications-retired-what-do-i-do-now/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-03-02-power-bi-exam-sql-and-microsoft-bi-certifications-retired-what-do-i-do-now/",
+      "originalUrl": "https://youtube.com/watch?v=kfB8KM8FBjU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kfB8KM8FBjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kfB8KM8FBjU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-03-02T02:59:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2020-02-19-power-bi-desktop-update-february-2020.md",
+      "title": "Power BI Desktop Update - February 2020",
+      "excerpt": "We are super excited for our update this month! We are releasing two of our top community requests: incremental refresh for Power BI Pro and hierarchical slicer. Additionally, we’ve added some improvements to the new ribbon and a couple new DAX functions. Since our last release, there have been several",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2020-02-19-power-bi-desktop-update-february-2020/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2020-02-19-power-bi-desktop-update-february-2020/",
+      "originalUrl": "https://youtube.com/watch?v=TN61JvbUAxk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TN61JvbUAxk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TN61JvbUAxk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Power BI Desktop Update - February 2020",
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-02-19T11:09:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
+      ]
+    },
+    {
       "path": "_news/2020-02-05-power-bi-desktop-update-july-2019.md",
       "title": "Power BI Desktop Update - July 2019",
       "excerpt": "With this month comes the first feature release from our announcements at Microsoft Business Application Summit, Icon sets, which also addresses our current #1 idea on ideas.powerbi.com. On top of this major update, we have incremental improvements for many of our existing features, such as a counts",
@@ -1199,112 +1304,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2018-11-19-new-modeling-view-in-power-bi-address-dax-horrors-comment-power-week-1118.md",
-      "title": "New modeling view in Power BI + address DAX Horrors comment | Power week 11.18",
-      "excerpt": "In today's video we are going to review the new modeling tab that was introduced in the Power BI Desktop update November 2018 and I will also explain myself regarding my statement on the DAX Horrors video.  The highlights of the new modeling view on the Power BI Desktop updated November 2018 are: 1.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-11-19-new-modeling-view-in-power-bi-address-dax-horrors-comment-power-week-1118/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2018-11-19-new-modeling-view-in-power-bi-address-dax-horrors-comment-power-week-1118/",
-      "originalUrl": "https://youtube.com/watch?v=zrqKthwDMok",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zrqKthwDMok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/zrqKthwDMok/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-11-19T08:07:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_news/2018-11-16-dax-fridays-105-isinscope.md",
-      "title": "DAX Fridays! #105: ISINSCOPE",
-      "excerpt": "The DAX function ISINSCOPE, allow us to work with hierarchies in Power BI. In this video I will go through an example on how to do that. This DAX function was introduced in the November 2018 Power BI Desktop Update, so make sure you have that installed if you wan to test it out.  Other resources:  DAX",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2018-11-16-dax-fridays-105-isinscope/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2018-11-16-dax-fridays-105-isinscope/",
-      "originalUrl": "https://youtube.com/watch?v=sSUCyps_1O4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sSUCyps_1O4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sSUCyps_1O4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2018-11-16T05:50:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "DAX"
       ]
     }
   ],
