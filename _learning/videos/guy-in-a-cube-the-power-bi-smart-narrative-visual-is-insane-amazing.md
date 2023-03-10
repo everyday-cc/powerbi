@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT8M45S
 publishedDateTime: 2020-09-30T15:00:04Z
-heat: 53
+heat: 54
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7d2qMoTPCIM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "SYcpK3HKf+nyow2qNy3pW5uI7dJbz0UQMpzfCk6QYGiEGeLXsKiaXDkXtS3Hn8IQfVtLhdDaeKCdTD513mJSA/DLVHrnTqkcP0BrtpTRO4YU5yq8ejtWAbGbrds8CmPB6oAWsqknjzHbfXjNvtrimEit+FiW+GgE67tS/gv7QkP3t3KopQ+ch4Qx1Dnvnolh5rG8lJ0EHz+MsAZH+sN+164gMPk13V1zs5B2EV/Ejp/AslwD7ieMBil+UqmljUjg+sNKHzagS1M1RJO1iigYZ84KtGG35l0GmOrk7vhwjBo1b6JrKvARGHwaQwpfTOSmgkPwB61iwnAb3Ss3nEH9wIzEIwHZWtMSsYcB5s3ZaTKBr7r2rGSl488PHQLxaAqSQ9scEGAA08+nPL8XcJwmFNhBbdDuRgEfcXjRdI/quf4=;cqKvGJzjtq0xFxOOOTYm3g=="
+secured: "FJVPNswMJUfPo6nxtalFu/dO5dNQHdkd10M78FKdnKHlrvj9ChcqiIHNwG+GiIs8W6cAHEuKh7WEDYCgCrG0rmaiXveltTmLZ/yawaFPh5nLGc1sN8r6hY0bkBljrOzVCWHgx3xCXarvWJpNm2uLhv3Y8YqQXnfzMrit5acqjdkvigv6Me1g+gI6LxSDcytl6QPCL5DUGgH+WqyiVt7W0VsGfW4xCFbrmE3J4EaixWYh4XiDqxIVrOO2Y/Y7gAU1GS5rWvtfqomA82C8nABqiXeUng+WY6iAGwAZe1DifDa0SHTB7qTp3JGr3JsVa2Ph7oY+3saf2swX99exEjWJ+ulhybsLwQIMBDwpNvxf2BpBQUPyfY3IzC34lb/KOAqjNJ2xuA2yLWcTJzTQslPFo2xRC758uLzq+ktWceXTKtA=;YVq4NCnNZF9CCUUyjK0Ngw=="
 ---
 

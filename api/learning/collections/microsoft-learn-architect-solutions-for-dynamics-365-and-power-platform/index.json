@@ -121,8 +121,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
       "length": "PT23M",
       "ratings": {
-        "count": 635,
-        "average": 4.765354
+        "count": 642,
+        "average": 4.7647977
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -139,7 +139,7 @@
       "levels": [
         "Advanced"
       ],
-      "heat": 50,
+      "heat": 51,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
