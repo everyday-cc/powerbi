@@ -1725,8 +1725,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3588,
-            "average": 4.6541247
+            "count": 3589,
+            "average": 4.654221
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2330,7 +2330,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
