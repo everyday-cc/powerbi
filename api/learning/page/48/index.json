@@ -424,8 +424,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
       "length": "PT34M",
       "ratings": {
-        "count": 400,
-        "average": 4.725
+        "count": 401,
+        "average": 4.7256856
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -509,8 +509,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-publish-share/",
       "length": "PT49M",
       "ratings": {
-        "count": 184,
-        "average": 4.722826
+        "count": 185,
+        "average": 4.718919
       },
       "provider": {
         "name": "Microsoft Learn",

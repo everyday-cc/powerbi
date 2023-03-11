@@ -118,8 +118,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3082,
-            "average": 4.7160935
+            "count": 3083,
+            "average": 4.7161856
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -827,8 +827,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/",
           "length": "PT25M",
           "ratings": {
-            "count": 63,
-            "average": 4.825397
+            "count": 64,
+            "average": 4.828125
           },
           "provider": {
             "name": "Microsoft Learn",
