@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M42S
 publishedDateTime: 2020-05-01T08:51:47Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KORVXOs44Mg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "D8kE99/5GLtik64mc7hoxKHtYSaSCgh78Uequ8oEMH4A7b8w4lJZa0bJmKkrOHgoyFfXZrGJmYQt82gsNJmX7RiYYMAZEBbLgcrzJqoT3ubsjRLNCGEQA4KxgWXSBDCLc7UyzmG1GB1E9BhHPCz7a7UO4dnCiy3lUujpdJDQVjHDcfJBoT1SkfBsBvlcBpO8ITpsM3xV6RX+rafVY7YFiXcz42ByqB4/hOVFzpE1Ng4TsqnKfQvqKZNLIeFmzFqoPXFJgnMe3SWbVv0iFFr/aGMf3RvIQd0+uvhdG2foO/HP5DZdSEFSkqtS3rrXlLoj27dmnpJu6OlpZjeWtkg63bd73pFFMx7jZG71WPAhVXhqbD1/NeW4E/2k5nmt7C1d4UMEWWijiClAmlHvMReajTw5PdZly19qQLucCaYc5Uc=;Lpi2sk+4XDsbg/h5Q7KvBg=="
+secured: "11tZFw+Holi/pBXj8iEi13pQ/bSzb5dvLFYWoaPlrjxnefenogckKjRYf31+OPPhTPlnd/gUqTfZtS7LqijXn3VLeeMXQE/tUdWk6OYsIFDU1oUCQwm2LXJ5kHCjVzXJtUtiYj4LojhiZWDAeeIv+0iZ9lkGYHbtwqWWFNY6oI5zvfAwJAbynL53cQcrlWsRw6fOQmH9NlwlCDjZ6EQzKdQtkJ6sgOFmopfAIcp07tdHr1m+S9TsNppNGgmyLi/+XnkmiFAZdV8eYTBKNyDTZyISCwJ15RC66wCeb6nVqrAP5iJqBVthz3x0oX/Wmoc4/SZmwBzeQVijhg269RdFIv578523XHrGd/YytyQUjJvXQ+3+6OixcIo6i/ktzwdf/d8KbdaU9ZtRlpG0+vUpuf2oP075sYXJ8r4X0/+LmHc=;t8B5NPQJJLS1c1J9ZlnE2w=="
 ---
 
