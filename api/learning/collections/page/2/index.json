@@ -4702,8 +4702,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10547,
-            "average": 4.7027593
+            "count": 10548,
+            "average": 4.7027874
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4827,8 +4827,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2808,
-            "average": 4.717949
+            "count": 2809,
+            "average": 4.718049
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4952,8 +4952,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2394,
-            "average": 4.764411
+            "count": 2395,
+            "average": 4.764509
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5272,8 +5272,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 592,
-            "average": 4.7550673
+            "count": 593,
+            "average": 4.755481
           },
           "provider": {
             "name": "Microsoft Learn",
