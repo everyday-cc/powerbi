@@ -4,6 +4,48 @@
   "page": 44,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-prepare-to-teach-module-power-bi-reporting.md",
+      "title": "Prepare to teach the module: Power BI reporting",
+      "excerpt": "Prepare to teach the module: Power BI reporting",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-prepare-to-teach-module-power-bi-reporting/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-power-bi-reporting/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 0,
+        "average": 0.0
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-prepare-to-teach-module-retrieve-report-data.md",
       "title": "Prepare to teach the module: Retrieve report data",
       "excerpt": "Prepare to teach the module: Retrieve report data",
@@ -130,48 +172,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-understand-advanced-data-visualization-concepts.md",
-      "title": "Understand advanced data visualization concepts",
-      "excerpt": "Create cohesive, inclusive, and efficient Power BI reports to effectively communicate results.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-understand-advanced-data-visualization-concepts/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
-      "length": "PT25M",
-      "ratings": {
-        "count": 305,
-        "average": 4.7409835
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/understand-advanced-data-visualization-concepts-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-understand-scalability-power-bi.md",
       "title": "Understand scalability in Power BI",
       "excerpt": "Scalable data models enable enterprise-scale analytics in Power BI. Implement data modeling best practices, use large dataset storage format, and practice building a star schema to design analytics solutions that can scale.",
@@ -179,50 +179,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-scalability-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 77,
-        "average": 4.7012987
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-use-tools-optimize-power-bi-performance.md",
-      "title": "Use tools to optimize Power BI performance",
-      "excerpt": "Use tools to develop, manage, and optimize Power BI data model and DAX query performance.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-use-tools-optimize-power-bi-performance/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/use-tools-optimize-power-bi-performance/",
-      "length": "PT1H25M",
-      "ratings": {
-        "count": 80,
-        "average": 4.8
+        "count": 78,
+        "average": 4.705128
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -290,6 +248,40 @@
           "isCached": true
         }
       ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-work-with-requirements.md",
+      "title": "Work with requirements as a solution architect for Microsoft Power Platform and Dynamics 365",
+      "excerpt": "It is important to capture the customer’s needs accurately. This module explains how to capture requirements and identify functional and non-functional items.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-work-with-requirements/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
+      "length": "PT23M",
+      "ratings": {
+        "count": 642,
+        "average": 4.7647977
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
       "content": "\r\n",
       "type": "course",
       "price": "Free",

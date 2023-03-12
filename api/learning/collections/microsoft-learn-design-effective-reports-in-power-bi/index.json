@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 2388,
-        "average": 4.7282243
+        "count": 2389,
+        "average": 4.7279196
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 55,
+      "heat": 52,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-requirements-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
       "length": "PT21M",
       "ratings": {
-        "count": 1472,
-        "average": 4.7785325
+        "count": 1473,
+        "average": 4.778004
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-structure-social.png",
@@ -113,7 +113,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-reports-social.png",
@@ -155,7 +155,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-filters-social.png",
@@ -179,8 +179,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-user-experience/",
       "length": "PT59M",
       "ratings": {
-        "count": 400,
-        "average": 4.7325
+        "count": 401,
+        "average": 4.7281795
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -197,7 +197,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-user-experience-social.png",
@@ -221,8 +221,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-ui/",
       "length": "PT32M",
       "ratings": {
-        "count": 564,
-        "average": 4.742908
+        "count": 565,
+        "average": 4.739823
       },
       "provider": {
         "name": "Microsoft Learn",
