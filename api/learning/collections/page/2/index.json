@@ -2649,8 +2649,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3592,
-            "average": 4.65451
+            "count": 3593,
+            "average": 4.6546063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2878,7 +2878,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-calculation-groups-social.png",
@@ -4702,8 +4702,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10542,
-            "average": 4.702808
+            "count": 10544,
+            "average": 4.7027693
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4827,8 +4827,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2807,
-            "average": 4.7178483
+            "count": 2808,
+            "average": 4.717949
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5314,8 +5314,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 529,
-            "average": 4.831758
+            "count": 530,
+            "average": 4.8320756
           },
           "provider": {
             "name": "Microsoft Learn",
