@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Parameters and Templates with Power BI Desktop"
 
-secured: "WrBb2nA17rwLhXtb/pJjTRhBUnFrroAC/hnbzsxDdAXVGQLPLuNsivtb++Cy3DYgmwE5Pp77v7t/m01I8/3jQIidnpq+Q5KtG0h+oPTgGplrX6Jtm+Vt4IFbg82qJw4peltE4SIkOvVC6YpFEs2/UaQgVf118zkR0kZaqAcw7R17kvo7dSHByZd/fk6C7Gs8biXmqra4mCT/yHEiwO755HmVNJszzRCrwjfEDFtrEqSo+LLGEX00/PXhOC2lBr9NjzAvXE/uA7omWyMeNy+eCFw4zTMuVWtGmZbslc9fAFIFUMTvs+j++sVHJHs4C6yjflyjmrGZfKZJ39AvxGW/hhya3ZFTJK5snZFun/8COlXftS6/YFKyCBZEFQnD1omVAKyAa3BQhhcSMb1nH5Pk1YUAyob1aY7yMtM1k31IlTA=;sCRwpg+z/3q2am7L8kY5jw=="
+secured: "z8I0IzoDJQwAfooxOQ7P3D/0FDVCSXXMGA8/N5/bDGuD8AYK+B5BG4L4na2jcCjlbetgDUFYoiIHW2cdbeBXXnLQu+r3Ets2yb/C2QqtI8Sq/OiQkgzQwmySb6rnjATuotQjdsToOCPajRbhcENh6o6FrqK/R9smADaCHPHebBFGA9bWuzeYqSUB0qdMmckeMeK0Lf2/gvjcsRlQgB0IIRsdGxHBQTrhNUu5Ocqwb0F+CyJWgNY3rHqhRxl2L3OX6zkSCY3xJ6L4d0FQo7ZSgfpZr9FmwaRNSPESJfwqKi+TvnBsTmX2oO+kk58rpAEstAtttaqahOiPhz8tFO/ZYFP5fxl38lxtZbu8gPHtL8/eNF6UEm5W7ate6cz5GA4QORElEdcblmDPA/WMVW8gZw9qUmScqZnl2VXNtbAfg94=;Eh3KoL8XnUKvnY2BYAEo2g=="
 ---
 
