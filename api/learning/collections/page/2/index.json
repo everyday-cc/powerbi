@@ -119,8 +119,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
           "length": "PT34M",
           "ratings": {
-            "count": 403,
-            "average": 4.724566
+            "count": 404,
+            "average": 4.722772
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3756,7 +3756,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png",
@@ -4543,8 +4543,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 6424,
-            "average": 4.723848
+            "count": 6425,
+            "average": 4.7238913
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4702,8 +4702,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 10546,
-            "average": 4.7027307
+            "count": 10547,
+            "average": 4.7027593
           },
           "provider": {
             "name": "Microsoft Learn",
