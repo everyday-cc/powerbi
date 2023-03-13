@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/storytellingga/"
 webUrl: "https://powerbi.microsoft.com/en-us/blog/storytellingga/"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

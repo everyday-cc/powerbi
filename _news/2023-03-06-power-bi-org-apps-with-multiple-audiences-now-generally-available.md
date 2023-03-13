@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-org-apps-with-mu
 webUrl: "https://powerbi.microsoft.com/en-us/blog/power-bi-org-apps-with-multiple-audiences-now-generally-available/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:
