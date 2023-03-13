@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-12-26-learn-to-control-the-data-in-your-life-with-this-excel-and-power-bi-training.md",
+      "title": "Learn to control the data in your life with this Excel and Power BI training",
+      "excerpt": "TL;DR: The 2022 Ultimate Microsoft Excel and Power BI Certification Bundle is just $34.99 at the Mashable Shop as of Dec. 26. We’re dealing with more data than ever before in 2021 — and 2022 ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-12-26-learn-to-control-the-data-in-your-life-with-this-excel-and-power-bi-training/index.json",
+      "webUrl": "https://mashable.com/deals/dec-26-excel-bi-course-bundle",
+      "originalUrl": "https://mashable.com/deals/dec-26-excel-bi-course-bundle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/06lSfP5uxHRj1iI65S3ZUx1/hero-image.fill.size_1200x675.v1640126295.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/deals/dec-26-excel-bi-course-bundle?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/deals/dec-26-excel-bi-course-bundle?amp",
+      "publishedDateTime": "2021-12-26T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-12-21-how-to-visualise-security-and-threat-information-in-power-bi.md",
       "title": "How to visualise security and threat information in Power BI",
       "excerpt": "Want a custom security dashboard to bring together data from multiple places? Power BI can do that and help you spot what's changing.",
@@ -1202,57 +1244,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2021-11-15-power-bi-november-2021-feature-summary.md",
-      "title": "Power BI November 2021 Feature Summary",
-      "excerpt": "Welcome to the November 2021 update. The team has been hard at work delivering mighty features before the year ends and we are thrilled to release new format pane preview feature, page and bookmark navigators, new text box formatting options, pie, and donut chart rotation. There is more to explore, please",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-11-15-power-bi-november-2021-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-november-2021-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-november-2021-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-15T06:35:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
