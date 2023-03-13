@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-04-20-join-us-power-bi-dev-camp-thursday-28-april-2022-at-1100-am-pdt.md",
+      "title": "Join Us! Power BI Dev Camp: Thursday 28 April 2022 at 11:00 AM PDT",
+      "excerpt": "Join us! to learn about new visuals to report pages using the Power BI JavaScript Authoring API as well as custom bookmarks to capture personalized report settings, self service authoring and much more! ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-20-join-us-power-bi-dev-camp-thursday-28-april-2022-at-1100-am-pdt/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-28-april-2022-at-1100-am-pdt/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-28-april-2022-at-1100-am-pdt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-04-20T05:24:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-04-19-summary-power-bi-update-april-2022.md",
       "title": "Summary Power BI update April 2022",
       "excerpt": "Here are the highlights for the Power BI update for April 2022.  Links to mentioned resources:  Power BI JSON theme files:  https://curbal.com/product-category/json-theme-for-power-bi  Error bars in Power BI:  https://www.youtube.com/watch?v=W4ODaIQ94vc&ab_channel=Curbal  Here you can download all the",
@@ -1209,58 +1260,6 @@
       ],
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-02-18-dark-mode-goals-for-free-and-a-rant-power-bi-update-feb-2022.md",
-      "title": "Dark mode, Goals for free and a rant | Power BI Update Feb 2022",
-      "excerpt": "What is your favourite update this month?  1.New mobile formatting pane 2. New format pane on by default-but you still can disable it 3. Multirow selection on multicards   4.Dynamic M query parameters for SQL server (point to my video) https://www.youtube.com/watch?v=c1mezIySFf8  5. Power bi goals 6.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-02-18-dark-mode-goals-for-free-and-a-rant-power-bi-update-feb-2022/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2022-02-18-dark-mode-goals-for-free-and-a-rant-power-bi-update-feb-2022/",
-      "originalUrl": "https://youtube.com/watch?v=cXa3CUOTzdg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cXa3CUOTzdg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-02-18T04:38:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
       ]
     }
   ],
