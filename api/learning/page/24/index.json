@@ -759,8 +759,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3095,
-            "average": 4.7163167
+            "count": 3096,
+            "average": 4.7160854
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1063,8 +1063,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1439,
-        "average": 4.7275887
+        "count": 1441,
+        "average": 4.727967
       },
       "provider": {
         "name": "Microsoft Learn",
