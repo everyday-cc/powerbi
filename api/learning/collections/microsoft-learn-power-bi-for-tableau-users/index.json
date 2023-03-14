@@ -137,8 +137,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-organize-fields/",
       "length": "PT52M",
       "ratings": {
-        "count": 65,
-        "average": 4.476923
+        "count": 66,
+        "average": 4.4848485
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -155,7 +155,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 130,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png",
