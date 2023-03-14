@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-calculations/",
       "length": "PT57M",
       "ratings": {
-        "count": 81,
-        "average": 4.382716
+        "count": 82,
+        "average": 4.390244
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -155,7 +155,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 50,
+      "heat": 130,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png",
