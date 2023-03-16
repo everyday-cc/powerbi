@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 227,
-            "average": 4.6828194
+            "count": 228,
+            "average": 4.6842103
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -242,8 +242,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 307,
-            "average": 4.742671
+            "count": 308,
+            "average": 4.7435064
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -284,8 +284,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 360,
-            "average": 4.6694446
+            "count": 361,
+            "average": 4.66759
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -326,8 +326,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3111,
-            "average": 4.7145615
+            "count": 3113,
+            "average": 4.714423
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -744,8 +744,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 134,
-            "average": 4.6567163
+            "count": 135,
+            "average": 4.6592593
           },
           "provider": {
             "name": "Microsoft Learn",
