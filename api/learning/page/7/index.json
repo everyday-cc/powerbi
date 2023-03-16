@@ -1129,8 +1129,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 6464,
-            "average": 4.7252474
+            "count": 6465,
+            "average": 4.72529
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1254,8 +1254,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 937,
-            "average": 4.786553
+            "count": 938,
+            "average": 4.7867804
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1464,8 +1464,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 937,
-            "average": 4.786553
+            "count": 938,
+            "average": 4.7867804
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1799,8 +1799,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 6464,
-        "average": 4.7252474
+        "count": 6465,
+        "average": 4.72529
       },
       "provider": {
         "name": "Microsoft Learn",
