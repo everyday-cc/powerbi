@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-01-19-crunch-data-better-than-ever-with-excel-and-power-bi.md",
+      "title": "Crunch data better than ever with Excel and Power BI",
+      "excerpt": "This nine-course bundle aims to give you an advanced Excel education so you can extract data with the best of them and use companions like Power BI to draw powerful business insights.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-19-crunch-data-better-than-ever-with-excel-and-power-bi/index.json",
+      "webUrl": "https://www.techrepublic.com/article/crunch-data-better-than-ever-with-excel-and-power-bi/",
+      "originalUrl": "https://www.techrepublic.com/article/crunch-data-better-than-ever-with-excel-and-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/13/e42a6565-39ee-42af-968f-2849e1a32a2a/resize/1200x/e229907addc5cc662533be1ac070e0c1/power-bi.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/crunch-data-better-than-ever-with-excel-and-power-bi/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/crunch-data-better-than-ever-with-excel-and-power-bi/",
+      "publishedDateTime": "2022-01-19T05:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-01-15-microsoft-power-bi-data-analytics-goes-mainstream.md",
       "title": "Microsoft Power BI: Data analytics goes mainstream",
       "excerpt": "Read more about it here. Power BI takes over where the earlier Excel add-on left off, and does so with some style, enabling Microsoft to join the leaders in this increasingly competitive market.",
@@ -1168,57 +1219,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-11-18T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-announcing-power-bi-integration-with-databricks-partner-connect.md",
-      "title": "Announcing Power BI integration with Databricks Partner Connect",
-      "excerpt": "Power BI Desktop customers can now visualize data in their Delta Lake using Databricks with just a couple of clicks. In the past, connecting to Databricks from Power BI Desktop required the end user to perform a lot of manual configuration. Power BI Desktop integration with Databricks Partner Connect",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-11-18-announcing-power-bi-integration-with-databricks-partner-connect/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-integration-with-databricks-partner-connect/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-integration-with-databricks-partner-connect/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T01:51:33-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

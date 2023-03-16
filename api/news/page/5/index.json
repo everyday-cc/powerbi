@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-14-updates-to-full-report-attachments-for-email-subscriptions-in-premium-gen2.md",
+      "title": "Updates to full report attachments for email subscriptions in Premium Gen2",
+      "excerpt": "There are several updates coming to email subscriptions that use full report attachments that we want to make you aware of, including extending the maximum length of reports to 50 pages, appearance in the Gen2 metrics app, and deprecation in the original version of Power BI Premium.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-06-14-updates-to-full-report-attachments-for-email-subscriptions-in-premium-gen2/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/updates-to-full-report-attachments-for-email-subscriptions-in-premium-gen2/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/updates-to-full-report-attachments-for-email-subscriptions-in-premium-gen2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-06-12-power-bi-template-apps-update-capability-is-now-available-in-preview.md",
       "title": "Power BI template apps update capability is now available in preview",
       "excerpt": "With last month's update to Power BI Desktop, Microsoft began recommending new or popular template apps that could be utilized by users with ease. In continuation with this move, while detailing ...",
@@ -1219,48 +1270,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-04-30-become-a-data-guru-with-this-excel-power-bi-and-alteryx-training-on-sale.md",
-      "title": "Become a data guru with this Excel, Power BI, and Alteryx training on sale",
-      "excerpt": "TL;DR: As of April 30, The 2022 Ultimate Microsoft Excel & Power BI Certification Bundle (worth $1,800) is on sale for just $34.99. Dealing with loads of disorganized data can really make your ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-04-30-become-a-data-guru-with-this-excel-power-bi-and-alteryx-training-on-sale/index.json",
-      "webUrl": "https://mashable.com/deals/april-30-microsoft-certification",
-      "originalUrl": "https://mashable.com/deals/april-30-microsoft-certification",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/060nBgdvtOytqryaQteLMEy/hero-image.fill.size_1200x675.v1651075912.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/deals/april-30-microsoft-certification?amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/deals/april-30-microsoft-certification?amp",
-      "publishedDateTime": "2022-04-30T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

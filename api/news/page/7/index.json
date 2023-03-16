@@ -2,6 +2,57 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-03-10-looker-vs-power-bi-2022-software-comparison.md",
+      "title": "Looker vs. Power BI: 2022 Software Comparison",
+      "excerpt": "But which is best in terms of function and features for your business? Looker by Google and Microsoft Power BI are both business intelligence (BI) and data analytics platforms with a strong following.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-10-looker-vs-power-bi-2022-software-comparison/index.json",
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/looker-vs-power-bi/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/looker-vs-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/LogMeIn-alberts_case_study_large-1.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-03-09T17:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-03-07-dataset-backup-and-restore-performance-just-got-a-lot-better.md",
       "title": "Dataset backup and restore performance just got a lot better",
       "excerpt": "Today, we’re happy to announce significant performance improvements to backup and restore operations for datasets in Power BI. Our benchmark tests with 1GB, 5GB, and 10GB datasets show backups can now be completed up to 22 times faster than before, and the time required for restore operations can also",
@@ -1210,57 +1261,6 @@
       "topics": [
         "Power BI",
         "Dataflows"
-      ]
-    },
-    {
-      "path": "_news/2022-01-19-crunch-data-better-than-ever-with-excel-and-power-bi.md",
-      "title": "Crunch data better than ever with Excel and Power BI",
-      "excerpt": "This nine-course bundle aims to give you an advanced Excel education so you can extract data with the best of them and use companions like Power BI to draw powerful business insights.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-19-crunch-data-better-than-ever-with-excel-and-power-bi/index.json",
-      "webUrl": "https://www.techrepublic.com/article/crunch-data-better-than-ever-with-excel-and-power-bi/",
-      "originalUrl": "https://www.techrepublic.com/article/crunch-data-better-than-ever-with-excel-and-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techrepublic.com/a/hub/i/r/2021/04/13/e42a6565-39ee-42af-968f-2849e1a32a2a/resize/1200x/e229907addc5cc662533be1ac070e0c1/power-bi.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/crunch-data-better-than-ever-with-excel-and-power-bi/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/crunch-data-better-than-ever-with-excel-and-power-bi/",
-      "publishedDateTime": "2022-01-19T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
