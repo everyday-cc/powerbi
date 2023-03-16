@@ -679,8 +679,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 644,
-            "average": 4.7655277
+            "count": 645,
+            "average": 4.7658916
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -754,8 +754,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10774,
-            "average": 4.6753297
+            "count": 10776,
+            "average": 4.67539
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -913,8 +913,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2843,
-            "average": 4.719662
+            "count": 2844,
+            "average": 4.719761
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -955,8 +955,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5648,
-            "average": 4.7099857
+            "count": 5649,
+            "average": 4.710037
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2955,8 +2955,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 303,
-            "average": 4.643564
+            "count": 304,
+            "average": 4.644737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3081,8 +3081,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 146,
-            "average": 4.719178
+            "count": 147,
+            "average": 4.7210884
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4253,8 +4253,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-collaboration/",
           "length": "PT33M",
           "ratings": {
-            "count": 146,
-            "average": 4.719178
+            "count": 147,
+            "average": 4.7210884
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5051,7 +5051,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 55,
+          "heat": 56,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/manage-datasets-in-power-bi-social.png",
@@ -5311,8 +5311,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 609,
-            "average": 4.7553368
+            "count": 611,
+            "average": 4.7561374
           },
           "provider": {
             "name": "Microsoft Learn",
