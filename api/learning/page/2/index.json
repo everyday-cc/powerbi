@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 17481,
-            "average": 4.7548194
+            "count": 17487,
+            "average": 4.754732
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 10165,
-            "average": 4.7657647
+            "count": 10171,
+            "average": 4.765903
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -136,8 +136,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 17481,
-        "average": 4.7548194
+        "count": 17487,
+        "average": 4.754732
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -254,8 +254,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 10165,
-        "average": 4.7657647
+        "count": 10171,
+        "average": 4.765903
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -748,8 +748,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 33353,
-        "average": 4.7265015
+        "count": 33355,
+        "average": 4.7264576
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1118,8 +1118,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10772,
-        "average": 4.675362
+        "count": 10774,
+        "average": 4.6753297
       },
       "provider": {
         "name": "Microsoft Learn",
