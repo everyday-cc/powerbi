@@ -885,8 +885,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 575,
-        "average": 4.706087
+        "count": 576,
+        "average": 4.7065973
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -929,8 +929,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/",
       "length": "PT35M",
       "ratings": {
-        "count": 290,
-        "average": 4.7034483
+        "count": 291,
+        "average": 4.7010307
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -973,8 +973,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1383,
-        "average": 4.7418656
+        "count": 1384,
+        "average": 4.742052
       },
       "provider": {
         "name": "Microsoft Learn",
