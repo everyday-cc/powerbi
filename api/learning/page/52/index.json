@@ -619,8 +619,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 210,
-            "average": 4.6285715
+            "count": 211,
+            "average": 4.6303315
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -661,8 +661,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-scalability-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 79,
-            "average": 4.708861
+            "count": 80,
+            "average": 4.7125
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1460,8 +1460,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dataverse-teams-power-bi/",
       "length": "PT35M",
       "ratings": {
-        "count": 568,
-        "average": 4.7957745
+        "count": 569,
+        "average": 4.7961335
       },
       "provider": {
         "name": "Microsoft Learn",
