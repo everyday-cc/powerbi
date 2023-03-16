@@ -4,6 +4,44 @@
   "page": 1,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse.md",
+      "title": "Art of the Possible with Power Platform and Azure Synapse",
+      "excerpt": "What happens when you combine Power BI, Power Apps and Azure Synapse Analytics? MAGIC! Join Gaston Cruz as he shows a way to bring the Power Platform together with Azure Synapse!  Gaston Cruz https://twitter.com/GastonFCruz https://www.linkedin.com/in/gastoncruz/  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse/",
+      "originalUrl": "https://youtube.com/watch?v=9wLFlaaPJgk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wLFlaaPJgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M42S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-03-15T08:00:06-07:00",
+      "heat": 327,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9wLFlaaPJgk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-understanding-group-by-columns-in-power-bi.md",
       "title": "Understanding Group By Columns in Power BI",
       "excerpt": "How Power BI uses the Group By Columns attribute of a column and how you can leverage it in specific scenarios.\r \r Article and download: https://sql.bi/790034?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
@@ -29,44 +67,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/xtb5i4sUOTk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse.md",
-      "title": "Art of the Possible with Power Platform and Azure Synapse",
-      "excerpt": "What happens when you combine Power BI, Power Apps and Azure Synapse Analytics? MAGIC! Join Gaston Cruz as he shows a way to bring the Power Platform together with Azure Synapse!  Gaston Cruz https://twitter.com/GastonFCruz https://www.linkedin.com/in/gastoncruz/  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse/",
-      "originalUrl": "https://youtube.com/watch?v=9wLFlaaPJgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wLFlaaPJgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M42S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-03-15T08:00:06-07:00",
-      "heat": 210,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9wLFlaaPJgk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -255,8 +255,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 57732,
-            "average": 4.7957807
+            "count": 57744,
+            "average": 4.795771
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -297,8 +297,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 82555,
-            "average": 4.7779784
+            "count": 82569,
+            "average": 4.7779675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -357,8 +357,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 82555,
-        "average": 4.7779784
+        "count": 82569,
+        "average": 4.7779675
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -392,14 +392,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-an-ode-to-a-pie-chart-by-chatgpt.md",
-      "title": "An Ode to a Pie Chart by ChatGPT",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-an-ode-to-a-pie-chart-by-chatgpt/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-an-ode-to-a-pie-chart-by-chatgpt/",
-      "originalUrl": "https://youtube.com/watch?v=cqqyAy5Cemc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cqqyAy5Cemc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M1S",
+      "path": "_learning/videos/guy-in-a-cube-allow-users-to-show-and-hide-columns-in-a-power-bi-paginated-report.md",
+      "title": "Allow users to Show and Hide columns in a Power BI Paginated report!",
+      "excerpt": "In a Power BI Paginated Report, you can allow your report consumers to customize what they see in the report such as which columns they want in their table or matrix. Patrick shows you how!  Sample RDLs: https://github.com/guyinacube/demo-files/blob/master/video%20demos/RDL/20230118%20-%20Paginated%20Show%20Hide%20Columns.zip",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-allow-users-to-show-and-hide-columns-in-a-power-bi-paginated-report/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-allow-users-to-show-and-hide-columns-in-a-power-bi-paginated-report/",
+      "originalUrl": "https://youtube.com/watch?v=_ggNrxUcCS8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_ggNrxUcCS8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M28S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -412,13 +412,13 @@
           }
         ]
       },
-      "publishedDateTime": "2023-02-10T06:48:59-08:00",
-      "heat": 135,
+      "publishedDateTime": "2023-01-18T08:00:31-08:00",
+      "heat": 134,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/cqqyAy5Cemc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYPyBAKH8wDw==&rs=AOn4CLBYmykSsCjFmDBSK3xG9V2q9R22-Q",
-          "width": 1280,
-          "height": 720,
+          "url": "https://i.ytimg.com/vi/_ggNrxUcCS8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -469,23 +469,31 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-administrator-tenant-settings-and-admin-portal.md",
-      "title": "Power BI Administrator Tenant Settings and Admin Portal",
-      "excerpt": "In the world of Power BI, there are some configurations in the Desktop tool and some on the Service. One of these critical configurations is the Tenant Settings of the Power BI administrator panel. Tenant settings have a list of highly important configurations across your Power BI tenant. If you miss",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-administrator-tenant-settings-and-admin-portal/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-administrator-tenant-settings-and-admin-portal/",
-      "originalUrl": "https://youtube.com/watch?v=Lu9s8plfSDQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Lu9s8plfSDQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M44S",
+      "path": "_learning/videos/guy-in-a-cube-guy-in-a-cube-answers-the-webs-most-searched-questions-on-power-bi.md",
+      "title": "Guy in a Cube answers the web's most searched questions on Power BI",
+      "excerpt": "Let's see what the most asked questions are on the web about Power BI! Adam looks at google for the questions and then responds. You heard that right! He went to Google.  Power BI forecasting https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-analytics-pane#apply-forecasting  Describing",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-guy-in-a-cube-answers-the-webs-most-searched-questions-on-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-guy-in-a-cube-answers-the-webs-most-searched-questions-on-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=wd2c1sjTENQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wd2c1sjTENQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M53S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2023-01-11T22:24:38-08:00",
-      "heat": 131,
+      "publishedDateTime": "2023-02-09T08:00:36-08:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Lu9s8plfSDQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wd2c1sjTENQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -525,34 +533,38 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-fit-gap-analysis.md",
-      "title": "Perform fit gap analysis",
-      "excerpt": "Learn about performing a fit gap analysis as a solution architect for Dynamics 365 and Microsoft Power Platform.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-fit-gap-analysis/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/fit-gap-analysis/",
-      "length": "PT35M",
-      "ratings": {
-        "count": 479,
-        "average": 4.7473903
-      },
+      "path": "_learning/videos/guy-in-a-cube-what-do-you-want-to-see-from-guy-in-a-cube-channel-update.md",
+      "title": "What do you want to see from Guy in a Cube? - Channel Update",
+      "excerpt": "It's 2023 and there are amazing things ahead! Adam looks at what will be coming for the Guy in a Cube channel, and more importantly has a question for YOU!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-do-you-want-to-see-from-guy-in-a-cube-channel-update/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-do-you-want-to-see-from-guy-in-a-cube-channel-update/",
+      "originalUrl": "https://youtube.com/watch?v=WQGS48ZcdbE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WQGS48ZcdbE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M2S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Advanced"
-      ],
+      "publishedDateTime": "2023-01-26T08:00:17-08:00",
       "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WQGS48ZcdbE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -793,8 +805,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 57732,
-        "average": 4.7957807
+        "count": 57744,
+        "average": 4.795771
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -896,8 +908,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 15668,
-            "average": 4.752553
+            "count": 15677,
+            "average": 4.752504
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -938,8 +950,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10776,
-            "average": 4.67539
+            "count": 10780,
+            "average": 4.6755104
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -972,8 +984,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 82555,
-            "average": 4.7779784
+            "count": 82569,
+            "average": 4.7779675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1032,8 +1044,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 15668,
-        "average": 4.752553
+        "count": 15677,
+        "average": 4.752504
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1266,8 +1278,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 25654,
-        "average": 4.725657
+        "count": 25662,
+        "average": 4.7255864
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1370,8 +1382,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 82555,
-            "average": 4.7779784
+            "count": 82569,
+            "average": 4.7779675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1412,8 +1424,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 33358,
-            "average": 4.7264824
+            "count": 33359,
+            "average": 4.7264905
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1497,8 +1509,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6874,
-            "average": 4.7604017
+            "count": 6875,
+            "average": 4.7604365
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1656,8 +1668,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 17489,
-            "average": 4.7547603
+            "count": 17496,
+            "average": 4.754858
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1698,8 +1710,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 10181,
-            "average": 4.765445
+            "count": 10187,
+            "average": 4.765387
           },
           "provider": {
             "name": "Microsoft Learn",
