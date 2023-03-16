@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-03-15-deep-dive-into-the-new-apply-all-slicers-and-clear-all-slicers-buttons.md",
+      "title": "Deep dive into the new Apply all slicers and Clear all slicers buttons!",
+      "excerpt": "Want to make multiple selections across all the slicers on your report page then apply them at once? Need a quick way to clear all the slicer’s selections at once, without a bookmark? Now you can!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-03-15-deep-dive-into-the-new-apply-all-slicers-and-clear-all-slicers-buttons/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/deep-dive-into-the-new-apply-all-slicers-and-clear-all-slicers-buttons/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/deep-dive-into-the-new-apply-all-slicers-and-clear-all-slicers-buttons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2023/03/Apply-all-slicers-and-Clear-all-slicers-buttons.png",
+          "width": 1642,
+          "height": 1077,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-03-15T09:52:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2023-03-13-on-object-public-preview-opt-in.md",
       "title": "On object | Public Preview (Opt-in)",
       "excerpt": "Introducing On object! The new way to build and format your visuals.\r\n\r\nWe’ve heard time and again from our user research studies PBI desktop is hard to use. We’ve also seen countless new users struggle to navigate our UI to perform simple actions such as completely missing the fields pane all the way",
@@ -10,7 +61,7 @@
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-object-public-preview-opt-in/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1202,57 +1253,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-01-13T03:15:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-10-thank-you-power-bi-community.md",
-      "title": "Thank You Power BI Community!",
-      "excerpt": "Thank you Power BI Community and look back of 2022 feature releases, and when the upcoming release will be available. ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-01-10-thank-you-power-bi-community/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/one-list-of-2022-feature-releases-and-thank-you-power-bi-community/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/one-list-of-2022-feature-releases-and-thank-you-power-bi-community/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-10T05:24:56-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

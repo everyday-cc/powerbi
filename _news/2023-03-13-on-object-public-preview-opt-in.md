@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/on-object-public-preview-
 webUrl: "https://powerbi.microsoft.com/en-us/blog/on-object-public-preview-opt-in/"
 type: article
 quality: 72
-heat: 74
+heat: 72
 published: true
 
 provider:
