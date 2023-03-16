@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Power BI Tutorial - Grow up Power BI Desktop to Analysis Services (Learning the clicks)"
 
-secured: "xnKAyQMUYM2AkDNRb+BYanQ6aQpGR6OZh/7UzpXS5X/8qHwELJmgrsImJbYHk+rJEpofol9/QqnYDYfuo1kSkd9+W/QX3EVpvrYseoHKy/FMGJun33g7HAh92p0M3XoXZseK4EJeJ2FHbIIvKFyqqG7K4Xt8ax0wLyEe1EAmS4T4MQgQE8Y2UV2WtfqZTJiB69tTskTo+z70rs2q3W03vz4bIhgh2+Asn87hws+Q8oo6G4IVFSrtxgihBx8sCR+54Oskdm2EO85mVLfXhGOii6x+tyTQp2N2m2DtQsShIe8dJDZQ0X/dJx9Soj11pVgbTaK6AFwEPkIGSpaviOHgk8nMsJ7XknCw443xT23nfAvlUS/XuRW3GdXAC+eEfUVkuOKvCJ/NFJiAKyj+8FTrjUMnWNNpgUyqba+Mr3YKgX4=;FimqLgGA8bXvl47DndsigA=="
+secured: "PGzoFYQ1Esn4UbJjhfCDw2S4yxFHQg8CCEZuT7j4rXR5vQ12EgYm8UoszKyBXH+SsYLZG1rF4z6mGG+b3nbXMKQAT/aAeBzzLPBVvvYMVH1/NQBIlJ4G6avFpmKJJ6BJTUf2FBOo0SYhAKLJk3YQMVCnRkfi9wnGldeldmHs2TO36XsOKoxQc0+lo6Kt8JjjXBdmxvguj+cKdFhHnkjxI79BgcJPeGBBdm+TjBTg9DY6TjN5i+PWSmk/vCJuvrwnuOp5FTV7ncB1h7V8/BDBGhTjLGs6mcnhDJ4twTc6lcAZdtu71RH+JSx/BWUFTkVxEmuQ1B7sMX68WMZvLWy5Fv6D6bNA9AkbJwqbM1b4D9LgvgsjlF6b9uQGuzRfpKvE/4/D0ZQ24Nn5qr6VdHv5D6Fl14M1VesRthEQAVHNWVw=;5elUIsYawIMTGBVmENnsOQ=="
 ---
 
