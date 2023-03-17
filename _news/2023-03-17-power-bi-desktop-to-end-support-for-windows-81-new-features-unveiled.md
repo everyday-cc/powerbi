@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/power-bi-desktop-to-end-support-for-windo
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/power-bi-desktop-to-end-support-for-windows-81-new-features-unveiled/"
 type: article
 quality: 114
-heat: 114
+heat: 115
 published: true
 
 provider:
