@@ -623,8 +623,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-power-bi-model-relationships/",
       "length": "PT1H30M",
       "ratings": {
-        "count": 109,
-        "average": 4.7798166
+        "count": 110,
+        "average": 4.7818184
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -749,8 +749,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 188,
-        "average": 4.7180853
+        "count": 189,
+        "average": 4.714286
       },
       "provider": {
         "name": "Microsoft Learn",
