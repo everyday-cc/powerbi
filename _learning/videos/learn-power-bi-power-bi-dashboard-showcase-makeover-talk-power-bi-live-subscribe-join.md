@@ -1,14 +1,14 @@
 ---
 title: "Power BI Dashboard Showcase & Makeover 🔴Talk Power BI LIVE (Subscribe & Join)"
 excerpt: "In Power BI 'Dashboard Makeover'  • We Review Power BI Reports/Dashboards sent in by users  • Provide expert feedback and ideas on how to improve  • Submit Your Screenshots or PBIX file here 👉 https://www.learnpowerbi.com/makeover  ⚠️NOTE⚠️ :  • Do NOT send any sensitive data in your screenshots  •"
-originalUrl: https://youtube.com/watch?v=CTNvWQ45fdA
+originalUrl: https://youtube.com/watch?v=z3DHsL05wzQ
 type: video
 price: Free
-length: PT1H42M11S
-publishedDateTime: 2021-02-13T00:56:25Z
-heat: 50
+length: PT3H42M37S
+publishedDateTime: 2020-04-10T20:33:06Z
+heat: 51
 
-featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CTNvWQ45fdA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z3DHsL05wzQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
 provider:
   name: Learn Power BI
@@ -18,11 +18,11 @@ topics:
   - Power BI
 
 images:
-  - url: https://i.ytimg.com/vi/CTNvWQ45fdA/maxresdefault.jpg
+  - url: https://i.ytimg.com/vi/z3DHsL05wzQ/maxresdefault.jpg
     width: 1280
     height: 720
     isCached: true
 
-secured: "RO/qBQFuJpgakejmL1440jFRNY48naWdDdjhbBdpQAT0O4p7z28bdsP+xPtyzHXHOvne4EtDaatXciP/lgWRCbnMlKBIC2AtulbpUYhBgmevMEhtXjkpHG48/nPX7NdWM4renCYOrevvmMz1T9QbUnsq1ChOm98qr96JWX/xNSOnlN24NzipzC1QOdZiRhZfEvaramfjq7hfBG6KjbyhOD30rH2BSMTtPBKCYGPmnzzuM+/HFM5FLd7QnZgmAcpN7Gs4M8y6r+ZNdkra9zZXdYRX+tSgO0xN9YgClCjevE1OHza+UutwrJSBmO8udx82iR0dBTnFygAK4dzyJ5mGYJ6JYfq329dJVIgGriNseHAIYIGa0wzKX/X0ybOVpkYfouc4fHlL3joN7UkZg5O29Q==;GwYJ3XnaJEF+voVPq8mYAw=="
+secured: "gRvnSoQZkLC98xuJ3EC4o2IW8n5HwQpnjE4PBjCneBdbWC6a5iocviZ5L6p1YJBCJoVKiQgOPoIOhMeXlaiTGQTkRMnqgnUOzIWn4Ri3UNSfxWZRDjeIe3xuAsDdiKA9gqAAnmlW6UpAA2EfMzbEE4oUrf2vM7Pg59nsiUBVomcCXaAgpl3Bf9NNF9wtN8Rpzj+iCtqQC9/f0YV7gbR+HD+vuHWCBkAhIFAy6NnLOKJzDUsMzh37SRefqskl6oFSbcfZ90cQtbJZlsrGVV9K4NJYuIB2Jwxb51hoMVSEdRtS3wMyrm+Myj6iNBv3TmMNO1cm6VK2iEkbxCvM3iHDaLL9FpBXurAvN48Uw0rpViqWkqZLNAFLGeOyKmSkTtYUkfDmC/lF2wv2gKb+aVI07Q==;BJZ123URj0JVmspSAJqB9g=="
 ---
 
