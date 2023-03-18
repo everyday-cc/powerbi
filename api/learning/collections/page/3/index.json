@@ -159,8 +159,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
           "length": "PT25M",
           "ratings": {
-            "count": 309,
-            "average": 4.7443366
+            "count": 310,
+            "average": 4.745161
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -243,8 +243,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3127,
-            "average": 4.715062
+            "count": 3128,
+            "average": 4.715153
           },
           "provider": {
             "name": "Microsoft Learn",
