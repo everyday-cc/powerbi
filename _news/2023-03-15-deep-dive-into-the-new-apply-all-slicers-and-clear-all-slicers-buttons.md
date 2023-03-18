@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/deep-dive-into-the-new-ap
 webUrl: "https://powerbi.microsoft.com/en-us/blog/deep-dive-into-the-new-apply-all-slicers-and-clear-all-slicers-buttons/"
 type: article
 quality: 72
-heat: 73
+heat: 72
 published: true
 
 provider:
