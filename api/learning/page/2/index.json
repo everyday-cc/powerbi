@@ -72,8 +72,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 82720,
-            "average": 4.777841
+            "count": 82722,
+            "average": 4.7778463
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -114,8 +114,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 33394,
-            "average": 4.726598
+            "count": 33396,
+            "average": 4.726584
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -199,8 +199,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6885,
-            "average": 4.760639
+            "count": 6887,
+            "average": 4.7605634
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -495,7 +495,7 @@
         ]
       },
       "publishedDateTime": "2020-09-03T03:00:12-07:00",
-      "heat": 80,
+      "heat": 81,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ePPi1LLX0sA/maxresdefault.jpg",
@@ -706,44 +706,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi.md",
-      "title": "How to create a Export to Excel / CSV button in Power BI",
-      "excerpt": "In todays video I will show you how to create and export to excel or CSV button in Power BI!! Take a look!  Chapters: 00:00 Intro 01:30 Export to CSV button 05:15 Apply the flow to the button 05:30 Format the flow button 06:00 Check if the flow run sucessfully 08:00 Export to excel button 09:30 Pre-requisites",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=BnTipbooeP0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BnTipbooeP0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M20S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-04-21T04:04:38-07:00",
-      "heat": 79,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/BnTipbooeP0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-build-a-slicer-panel-in-power-bi-and-take-it-to-the-next-level-2019.md",
       "title": "Build a Slicer Panel in Power BI and take it to the next level (2019)",
       "excerpt": "Adam looks at how you can build a slicer panel, in Power BI, and take it to the next level. Using a combination of features in Power BI Desktop, you can make a great user experience.  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube",
@@ -827,8 +789,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 17538,
-        "average": 4.754704
+        "count": 17539,
+        "average": 4.754718
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -856,6 +818,44 @@
       ],
       "content": "\r\n",
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi.md",
+      "title": "20 tricks to finally master the Matrix visualization in Power BI!!",
+      "excerpt": "The matrix visualization has over 100 configuration options, and some of the most basic functionality, like hiding subtotals is not so easy to discover.  In today's video, I will show you 20 things you can do on the matrix that will take that visualization to the next level.  Did I miss any? Let me know",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=58a2rIV2nYg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/58a2rIV2nYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M3S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-07-07T08:25:43-07:00",
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/58a2rIV2nYg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -925,44 +925,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/y4S-k34qmnw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-showing-actuals-and-forecasts-in-the-same-chart-with-power-bi.md",
-      "title": "Showing actuals and forecasts in the same chart with Power BI",
-      "excerpt": "In budgeting reports, a common requirement is to show future sales forecast and actual sales volume on the same line chart. Learn how to achieve this goal using DAX. Article and download: https://sql.bi/73386?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-showing-actuals-and-forecasts-in-the-same-chart-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-showing-actuals-and-forecasts-in-the-same-chart-with-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=DKgF-5QHY68",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DKgF-5QHY68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M33S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-12-24T03:00:25-08:00",
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DKgF-5QHY68/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1091,44 +1053,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi.md",
-      "title": "20 tricks to finally master the Matrix visualization in Power BI!!",
-      "excerpt": "The matrix visualization has over 100 configuration options, and some of the most basic functionality, like hiding subtotals is not so easy to discover.  In today's video, I will show you 20 things you can do on the matrix that will take that visualization to the next level.  Did I miss any? Let me know",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-20-tricks-to-finally-master-the-matrix-visualization-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=58a2rIV2nYg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/58a2rIV2nYg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M3S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-07-07T08:25:43-07:00",
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/58a2rIV2nYg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-what-is-row-level-security-rls-in-power-bi.md",
       "title": "What is Row-Level Security (RLS) in Power BI???",
       "excerpt": "Not sure what Row-Level Security (RLS) is in Power BI? Patrick gives you a quick look at what it's about and how to use it.  Documentation: https://docs.microsoft.com/power-bi/admin/service-admin-rls  🎓 Continue your journey with our Row-Level Security course: https://guyinacu.be/rlscourse  📢 Become",
@@ -1184,6 +1108,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/X2aMi_Ekfyw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi.md",
+      "title": "How to create a Export to Excel / CSV button in Power BI",
+      "excerpt": "In todays video I will show you how to create and export to excel or CSV button in Power BI!! Take a look!  Chapters: 00:00 Intro 01:30 Export to CSV button 05:15 Apply the flow to the button 05:30 Format the flow button 06:00 Check if the flow run sucessfully 08:00 Export to excel button 09:30 Pre-requisites",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-how-to-create-a-export-to-excel-csv-button-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=BnTipbooeP0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BnTipbooeP0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M20S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-21T04:04:38-07:00",
+      "heat": 75,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BnTipbooeP0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1444,6 +1406,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/XuLnSYjmsJo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-showing-actuals-and-forecasts-in-the-same-chart-with-power-bi.md",
+      "title": "Showing actuals and forecasts in the same chart with Power BI",
+      "excerpt": "In budgeting reports, a common requirement is to show future sales forecast and actual sales volume on the same line chart. Learn how to achieve this goal using DAX. Article and download: https://sql.bi/73386?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-showing-actuals-and-forecasts-in-the-same-chart-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-showing-actuals-and-forecasts-in-the-same-chart-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=DKgF-5QHY68",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DKgF-5QHY68\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M33S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-12-24T03:00:25-08:00",
+      "heat": 74,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DKgF-5QHY68/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
