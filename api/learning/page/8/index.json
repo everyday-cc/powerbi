@@ -1175,8 +1175,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-reach/",
           "length": "PT19M",
           "ratings": {
-            "count": 120,
-            "average": 4.625
+            "count": 121,
+            "average": 4.628099
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1384,8 +1384,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-reach/",
           "length": "PT19M",
           "ratings": {
-            "count": 120,
-            "average": 4.625
+            "count": 121,
+            "average": 4.628099
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2742,8 +2742,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 4589,
-        "average": 4.708215
+        "count": 4592,
+        "average": 4.708406
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2784,8 +2784,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 6659,
-        "average": 4.7514644
+        "count": 6660,
+        "average": 4.7513514
       },
       "provider": {
         "name": "Microsoft Learn",
