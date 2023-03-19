@@ -1024,8 +1024,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 1482,
-            "average": 4.7786775
+            "count": 1483,
+            "average": 4.7788267
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3043,8 +3043,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6068,
-            "average": 4.692815
+            "count": 6070,
+            "average": 4.692916
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3271,7 +3271,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-transition-social.png",
@@ -3481,7 +3481,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-transition-social.png",
