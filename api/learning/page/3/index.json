@@ -1733,7 +1733,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 50,
+          "heat": 130,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -1875,8 +1875,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 10134,
-            "average": 4.7451153
+            "count": 10135,
+            "average": 4.7451406
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1917,8 +1917,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1453,
-            "average": 4.7274604
+            "count": 1454,
+            "average": 4.727648
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2131,8 +2131,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
           "length": "PT13M",
           "ratings": {
-            "count": 1453,
-            "average": 4.7274604
+            "count": 1454,
+            "average": 4.727648
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2387,8 +2387,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 9425,
-        "average": 4.7639256
+        "count": 9428,
+        "average": 4.763683
       },
       "provider": {
         "name": "Microsoft Learn",
