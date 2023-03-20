@@ -38,8 +38,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1455,
-        "average": 4.7271476
+        "count": 1456,
+        "average": 4.727335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -81,8 +81,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 191,
-        "average": 4.706806
+        "count": 192,
+        "average": 4.7083335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -125,8 +125,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 580,
-        "average": 4.706897
+        "count": 581,
+        "average": 4.707401
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -169,8 +169,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 561,
-        "average": 4.6559715
+        "count": 562,
+        "average": 4.656584
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -213,8 +213,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/",
       "length": "PT35M",
       "ratings": {
-        "count": 296,
-        "average": 4.6959457
+        "count": 297,
+        "average": 4.6969695
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -257,8 +257,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1388,
-        "average": 4.742075
+        "count": 1389,
+        "average": 4.7422605
       },
       "provider": {
         "name": "Microsoft Learn",
