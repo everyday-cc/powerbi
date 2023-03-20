@@ -857,8 +857,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 463,
-            "average": 4.7753778
+            "count": 464,
+            "average": 4.775862
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1078,8 +1078,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3626,
-        "average": 4.750414
+        "count": 3630,
+        "average": 4.7506886
       },
       "provider": {
         "name": "Microsoft Learn",
