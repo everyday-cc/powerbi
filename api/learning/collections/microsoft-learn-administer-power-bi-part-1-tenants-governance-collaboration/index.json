@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
       "length": "PT12M",
       "ratings": {
-        "count": 169,
-        "average": 4.710059
+        "count": 170,
+        "average": 4.7058825
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -197,7 +197,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 130,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-monitor-social.png",

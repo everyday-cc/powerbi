@@ -772,8 +772,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 558,
-        "average": 4.654122
+        "count": 560,
+        "average": 4.6553574
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -860,8 +860,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1387,
-        "average": 4.741889
+        "count": 1388,
+        "average": 4.742075
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -4,48 +4,6 @@
   "page": 34,
   "value": [
     {
-      "path": "_learning/courses/microsoft-learn-create-calculation-groups.md",
-      "title": "Create calculation groups",
-      "excerpt": "Power BI, calculation groups, enterprise data analyst",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-create-calculation-groups/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-calculation-groups/",
-      "length": "PT1H3M",
-      "ratings": {
-        "count": 99,
-        "average": 4.7777777
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/create-calculation-groups-social.png",
-          "width": 1282,
-          "height": 642,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-create-manage-power-bi-assets.md",
       "title": "Create and manage Power BI assets",
       "excerpt": "Creating shared data assets for your analytics environment provides structure and consistency. Maintaining those assets is as important, and XMLA endpoint provides additional administrative capabilities.",
@@ -395,8 +353,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-modify-filter/",
       "length": "PT37M",
       "ratings": {
-        "count": 558,
-        "average": 4.654122
+        "count": 560,
+        "average": 4.6553574
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -483,8 +441,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1387,
-        "average": 4.741889
+        "count": 1388,
+        "average": 4.742075
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1259,6 +1217,48 @@
           "url": "https://learn.microsoft.com/training/achievements/modern-analytics-transition-social.png",
           "width": 1281,
           "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-power-bi-admin-automate.md",
+      "title": "Automate Power BI administration",
+      "excerpt": "Common manual tasks can be automated with Microsoft Power BI Cmdlets for Windows PowerShell and PowerShell core.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-automate/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
+      "length": "PT12M",
+      "ratings": {
+        "count": 107,
+        "average": 4.654206
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
+          "width": 641,
+          "height": 321,
           "isCached": true
         }
       ],

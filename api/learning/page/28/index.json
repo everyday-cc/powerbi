@@ -4,36 +4,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-how-to-always-show-current-week-vs-prior-week-automatically.md",
-      "title": "Power BI: How to Always Show Current Week vs. Prior Week 📅 Automatically!",
-      "excerpt": "How to create a Power BI report that always shows Current Week vs. Prior Week automatically!  00:00 Question: How to Always Show Current vs. Prior Week Automatically 01:24 Understanding the Current Week in Calendar Table 04:02 Using Current Week to Create Automatic DAX Measures  Download the file from",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-how-to-always-show-current-week-vs-prior-week-automatically/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-how-to-always-show-current-week-vs-prior-week-automatically/",
-      "originalUrl": "https://youtube.com/watch?v=_j6Okp7zQlE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_j6Okp7zQlE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M57S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2022-08-10T09:00:17-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_j6Okp7zQlE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-how-to-show-headcount-data-for-latest-month-question-answer.md",
       "title": "Power BI: How to Show Headcount Data 👨‍👦‍👦 for Latest Month 📅(Question & Answer)",
       "excerpt": "👉 Do you have a Power BI Question? Get Your Answer at https://www.learnpowerbi.com/question In this Power BI Question & Answer Episode, we cover a question by Kerry Thomas (LearnPowerBI Member): How to Only Show the Headcount Data for Latest Month.  Enjoy the video, and if ➔ You are stuck trying to",
@@ -1022,6 +992,44 @@
           "url": "https://i.ytimg.com/vi/ipmip6ARnks/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/microsoft-module-8-power-bi-embedded-analytics-licensing-power-bi-developer-in-a-day.md",
+      "title": "Module 8: Power BI Embedded Analytics Licensing | Power BI Developer in a Day",
+      "excerpt": "In this video, Peter Myers (Microsoft Most Valued Professional, and course developer) and Alon Baram (Senior product manager) describe Power BI embedding licensing and compare different products. Licensing guidance is presented too. Note that licensing information is current at the time of recording,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/microsoft-module-8-power-bi-embedded-analytics-licensing-power-bi-developer-in-a-day/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/microsoft-module-8-power-bi-embedded-analytics-licensing-power-bi-developer-in-a-day/",
+      "originalUrl": "https://youtube.com/watch?v=y6zp04btvVw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y6zp04btvVw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M24S",
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-11-19T11:53:27-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/y6zp04btvVw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],

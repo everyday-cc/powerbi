@@ -186,6 +186,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-to-surrogate-key-or-not.md",
+      "title": "To Surrogate Key or Not...",
+      "excerpt": "We've talked about using a surrogate key in your data warehouse whether that's Azure Synapse Analytics or something else. Patrick looks at why you should consider this even if you aren't using a slowly changing dimension.  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-to-surrogate-key-or-not/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-to-surrogate-key-or-not/",
+      "originalUrl": "https://youtube.com/watch?v=XkjJo7J8CyQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XkjJo7J8CyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M55S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-03T08:00:14-08:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/XkjJo7J8CyQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/articles/excelerator-bi-incremental-backup-of-pbix-files.md",
       "title": "Incremental Backup of PBIX Files",
       "excerpt": "I do a lot of Power BI model and report development; maybe you do too. There&#8217;s nothing worse than spending an hour or so developing your model only to have something go wrong and you lose your work. Things that can go wrong include: Your PC/App crashes. Power BI does [...]Read More »",
@@ -212,15 +250,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-admin-monitor.md",
-      "title": "Monitor and audit usage",
-      "excerpt": "Learn how to use activity logs and auditing with Power BI to monitor and inspect user activity in a Power BI environment.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-monitor/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-monitor/",
-      "length": "PT11M",
+      "path": "_learning/courses/microsoft-learn-power-bi-admin-premium.md",
+      "title": "Provision Premium capacity in Power BI",
+      "excerpt": "Learn about the differences between Power BI Pro and Power BI Premium, and how Power BI Premium manages capacity resources.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-premium/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
+      "length": "PT19M",
       "ratings": {
-        "count": 146,
-        "average": 4.7260275
+        "count": 125,
+        "average": 4.88
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -240,7 +278,7 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-monitor-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
           "width": 641,
           "height": 321,
           "isCached": true
@@ -254,76 +292,38 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-prepare-to-teach-module-work-with-parameters.md",
-      "title": "Prepare to teach the module: Work with parameters",
-      "excerpt": "Prepare to teach the module: Work with parameters",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-prepare-to-teach-module-work-with-parameters/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-work-with-parameters/",
-      "length": "PT1H33M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
+      "path": "_learning/videos/guy-in-a-cube-what-do-you-want-to-see-from-guy-in-a-cube-channel-update.md",
+      "title": "What do you want to see from Guy in a Cube? - Channel Update",
+      "excerpt": "It's 2023 and there are amazing things ahead! Adam looks at what will be coming for the Guy in a Cube channel, and more importantly has a question for YOU!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-do-you-want-to-see-from-guy-in-a-cube-channel-update/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-do-you-want-to-see-from-guy-in-a-cube-channel-update/",
+      "originalUrl": "https://youtube.com/watch?v=WQGS48ZcdbE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WQGS48ZcdbE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M2S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
+      "publishedDateTime": "2023-01-26T08:00:17-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/WQGS48ZcdbE/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-work-with-requirements.md",
-      "title": "Work with requirements as a solution architect for Microsoft Power Platform and Dynamics 365",
-      "excerpt": "It is important to capture the customer’s needs accurately. This module explains how to capture requirements and identify functional and non-functional items.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-work-with-requirements/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
-      "length": "PT23M",
-      "ratings": {
-        "count": 645,
-        "average": 4.7658916
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 130,
-      "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -523,7 +523,7 @@
             ]
           },
           "publishedDateTime": "2021-01-14T08:21:12-08:00",
-          "heat": 76,
+          "heat": 80,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -780,8 +780,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 57994,
-            "average": 4.7957373
+            "count": 58003,
+            "average": 4.7957172
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -822,8 +822,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 82865,
-            "average": 4.777904
+            "count": 82881,
+            "average": 4.7778864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -882,8 +882,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 82865,
-        "average": 4.777904
+        "count": 82881,
+        "average": 4.7778864
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -924,8 +924,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 57994,
-        "average": 4.7957373
+        "count": 58003,
+        "average": 4.7957172
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1066,8 +1066,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 15903,
-            "average": 4.753191
+            "count": 15916,
+            "average": 4.7532673
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1142,8 +1142,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 82865,
-            "average": 4.777904
+            "count": 82881,
+            "average": 4.7778864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1202,8 +1202,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 15903,
-        "average": 4.753191
+        "count": 15916,
+        "average": 4.7532673
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1412,8 +1412,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 82865,
-            "average": 4.777904
+            "count": 82881,
+            "average": 4.7778864
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1454,8 +1454,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 33423,
-            "average": 4.726685
+            "count": 33425,
+            "average": 4.7267017
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1497,8 +1497,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15408,
-            "average": 4.720145
+            "count": 15411,
+            "average": 4.7201347
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1539,8 +1539,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6901,
-            "average": 4.7604694
+            "count": 6904,
+            "average": 4.760429
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1631,14 +1631,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live.md",
-      "title": "Power BI Get Data: Import vs. DirectQuery vs. Live",
-      "excerpt": "Import vs. DirectQuery vs. Live connection. Which do you choose and why in Power BI? Adam looks at the three options when creating reports in Power BI Desktop.   DirectQuery in SQL Server 2016 Analysis Services Whitepaper https://blogs.msdn.microsoft.com/analysisservices/2017/04/06/directquery-in-sql-server-2016-analysis-services-whitepaper/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live/",
-      "originalUrl": "https://youtube.com/watch?v=y4S-k34qmnw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y4S-k34qmnw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M52S",
+      "path": "_learning/videos/guy-in-a-cube-what-is-power-bi-2021.md",
+      "title": "What is Power BI? (2021)",
+      "excerpt": "You have heard of Power BI, but not quite sure what it actually is. You probably come from Excel land and want to know more about how you can take your data to the next level.   Adam summarizes the Power BI platform to help you understand how it fits into your business and work flow. Whether you are",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-is-power-bi-2021/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-is-power-bi-2021/",
+      "originalUrl": "https://youtube.com/watch?v=Vqz2d7pTOV8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vqz2d7pTOV8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M49S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -1651,11 +1651,11 @@
           }
         ]
       },
-      "publishedDateTime": "2019-04-14T04:29:55-07:00",
-      "heat": 78,
+      "publishedDateTime": "2021-01-14T08:21:12-08:00",
+      "heat": 80,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/y4S-k34qmnw/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

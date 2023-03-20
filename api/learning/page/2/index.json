@@ -4,6 +4,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live.md",
+      "title": "Power BI Get Data: Import vs. DirectQuery vs. Live",
+      "excerpt": "Import vs. DirectQuery vs. Live connection. Which do you choose and why in Power BI? Adam looks at the three options when creating reports in Power BI Desktop.   DirectQuery in SQL Server 2016 Analysis Services Whitepaper https://blogs.msdn.microsoft.com/analysisservices/2017/04/06/directquery-in-sql-server-2016-analysis-services-whitepaper/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live/",
+      "originalUrl": "https://youtube.com/watch?v=y4S-k34qmnw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y4S-k34qmnw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M52S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-04-14T04:29:55-07:00",
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/y4S-k34qmnw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-vaccination-tracker-part1-get-data-from-github-and-schedule-refresh-it.md",
       "title": "Vaccination Tracker Part1: Get data from github and schedule refresh it",
       "excerpt": "This video is part 1 of the upcoming series: How to create a Vaccine tracker.  In Part 1 we will get the data from Github, publish it to a PPU workspace (we will need that later) and show you how to schedule refresh it and what to do if the option is not available.  To get the files go to Curbal Download",
@@ -81,44 +119,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-is-power-bi-2021.md",
-      "title": "What is Power BI? (2021)",
-      "excerpt": "You have heard of Power BI, but not quite sure what it actually is. You probably come from Excel land and want to know more about how you can take your data to the next level.   Adam summarizes the Power BI platform to help you understand how it fits into your business and work flow. Whether you are",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-is-power-bi-2021/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-is-power-bi-2021/",
-      "originalUrl": "https://youtube.com/watch?v=Vqz2d7pTOV8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Vqz2d7pTOV8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M49S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-14T08:21:12-08:00",
-      "heat": 76,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-introduction-power-platform.md",
       "title": "Introduction to Microsoft Power Platform",
       "excerpt": "Introduction to Microsoft Power Platform",
@@ -126,8 +126,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 25805,
-        "average": 4.725402
+        "count": 25812,
+        "average": 4.725399
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -230,8 +230,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 17581,
-            "average": 4.754792
+            "count": 17583,
+            "average": 4.75482
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -272,8 +272,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 10299,
-            "average": 4.7658997
+            "count": 10303,
+            "average": 4.7659903
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -355,8 +355,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 17581,
-            "average": 4.754792
+            "count": 17583,
+            "average": 4.75482
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -397,8 +397,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 10299,
-            "average": 4.7658997
+            "count": 10303,
+            "average": 4.7659903
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -457,8 +457,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 10299,
-        "average": 4.7658997
+        "count": 10303,
+        "average": 4.7659903
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -499,8 +499,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 33423,
-        "average": 4.726685
+        "count": 33425,
+        "average": 4.7267017
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -717,8 +717,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3685,
-            "average": 4.6567163
+            "count": 3686,
+            "average": 4.6568093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -759,8 +759,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6077,
-            "average": 4.693105
+            "count": 6078,
+            "average": 4.6929913
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -801,8 +801,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 2824,
-            "average": 4.6650143
+            "count": 2825,
+            "average": 4.6651325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -843,8 +843,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3143,
-            "average": 4.7158766
+            "count": 3144,
+            "average": 4.7159667
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1096,8 +1096,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 17581,
-        "average": 4.754792
+        "count": 17583,
+        "average": 4.75482
       },
       "provider": {
         "name": "Microsoft Learn",
