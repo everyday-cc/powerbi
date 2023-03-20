@@ -4,37 +4,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-how-to-assign-power-bi-service-admin-role-to-user-as-microsoft-365-global-admin.md",
-      "title": "How to Assign Power BI Service Admin Role to User as Microsoft 365 Global Admin?",
-      "excerpt": "In this video, we will discuss how we can assign a Power BI Service Admin Role to the end-user and make them Power BI Service Administrator?  Sometimes, there are situations when user can't able to see the Admin Portal tabs. At that time you need to contact your Microsoft 365 Global Administrator. Microsoft",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-how-to-assign-power-bi-service-admin-role-to-user-as-microsoft-365-global-admin/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-how-to-assign-power-bi-service-admin-role-to-user-as-microsoft-365-global-admin/",
-      "originalUrl": "https://youtube.com/watch?v=q5S53NP54F4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/q5S53NP54F4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M57S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-04-22T04:07:33-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/q5S53NP54F4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Service"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-how-to-export-filtered-data-to-csv-from-power-bi-button-using-power-automate.md",
       "title": "How to Export filtered data to CSV from Power BI button using Power Automate?",
       "excerpt": "Welcome to Power BI and Power Automate Real Life Use Case and Scenario Series. You are watching the second episode of this series. Sometimes, there is a need where we need to export filtered datasets from Power BI using the button. Then how can we do that? How we can export Filtered Dataset from Power",
@@ -1003,6 +972,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/OYYnoMa-93g/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-can-you-use-groups-with-power-bi-row-level-security-rls.md",
+      "title": "Can you use GROUPS with Power BI Row-Level Security (RLS)???",
+      "excerpt": "Lots of folks ask if you can use groups with Power BI Row-Level Security (RLS). Patrick answers that question!  Download sample: https://guyinacu.be/rlsmembersample  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-use-groups-with-power-bi-row-level-security-rls/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-use-groups-with-power-bi-row-level-security-rls/",
+      "originalUrl": "https://youtube.com/watch?v=oxYQ2GGefrs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oxYQ2GGefrs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M28S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-02-24T04:33:09-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/oxYQ2GGefrs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

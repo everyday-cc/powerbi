@@ -186,14 +186,56 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-to-surrogate-key-or-not.md",
-      "title": "To Surrogate Key or Not...",
-      "excerpt": "We've talked about using a surrogate key in your data warehouse whether that's Azure Synapse Analytics or something else. Patrick looks at why you should consider this even if you aren't using a slowly changing dimension.  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-to-surrogate-key-or-not/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-to-surrogate-key-or-not/",
-      "originalUrl": "https://youtube.com/watch?v=XkjJo7J8CyQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XkjJo7J8CyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M55S",
+      "path": "_learning/courses/microsoft-learn-visuals-in-power-bi.md",
+      "title": "Use visuals in Power BI",
+      "excerpt": "Create and customize visuals to present data in compelling and insightful ways.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-in-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
+      "length": "PT1H16M",
+      "ratings": {
+        "count": 6906,
+        "average": 4.760498
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 137,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/create-visuals-power-bi-desktop-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-continuing-the-t-sql-journey-with-over-and-rank.md",
+      "title": "Continuing the T-SQL journey with OVER and RANK",
+      "excerpt": "Continuing our T-SQL journey, Patrick explores the use of the OVER and RANK functions in combination with common table expressions (CTE) in Azure SQL Database and Azure Synapse Analytics.  RANK (Transact-SQL) https://learn.microsoft.com/sql/t-sql/functions/rank-transact-sql?view=sql-server-ver16  SELECT",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-continuing-the-t-sql-journey-with-over-and-rank/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-continuing-the-t-sql-journey-with-over-and-rank/",
+      "originalUrl": "https://youtube.com/watch?v=ZKvpiOnwAK4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZKvpiOnwAK4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M53S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -206,11 +248,49 @@
           }
         ]
       },
-      "publishedDateTime": "2023-01-03T08:00:14-08:00",
+      "publishedDateTime": "2023-02-07T08:00:30-08:00",
       "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/XkjJo7J8CyQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ZKvpiOnwAK4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-how-to-handle-aggregation-tables-with-averages-in-power-bi.md",
+      "title": "How to handle Aggregation tables with Averages in Power BI",
+      "excerpt": "Using Aggregation Tables in Power BI? Average calculations not working because they aren't hitting the agg? Patrick explains why this is happening and how you can correct it to get the expected result.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-to-handle-aggregation-tables-with-averages-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-to-handle-aggregation-tables-with-averages-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=_1QGTmtGcP8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_1QGTmtGcP8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M56S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-04T08:00:23-08:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_1QGTmtGcP8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -245,86 +325,6 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-admin-premium.md",
-      "title": "Provision Premium capacity in Power BI",
-      "excerpt": "Learn about the differences between Power BI Pro and Power BI Premium, and how Power BI Premium manages capacity resources.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-premium/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
-      "length": "PT19M",
-      "ratings": {
-        "count": 125,
-        "average": 4.88
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-what-do-you-want-to-see-from-guy-in-a-cube-channel-update.md",
-      "title": "What do you want to see from Guy in a Cube? - Channel Update",
-      "excerpt": "It's 2023 and there are amazing things ahead! Adam looks at what will be coming for the Guy in a Cube channel, and more importantly has a question for YOU!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-do-you-want-to-see-from-guy-in-a-cube-channel-update/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-do-you-want-to-see-from-guy-in-a-cube-channel-update/",
-      "originalUrl": "https://youtube.com/watch?v=WQGS48ZcdbE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WQGS48ZcdbE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M2S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-01-26T08:00:17-08:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WQGS48ZcdbE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
       "topics": [
         "Power BI"
       ]
@@ -400,6 +400,216 @@
       ],
       "content": "\r\n",
       "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi.md",
+      "title": "Create and use analytics reports with Power BI",
+      "excerpt": "This learning path introduces you to Power BI, and teaches you to use and build business intelligence reports.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi/",
+      "length": "PT6H22M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
+          "title": "Get started building with Power BI",
+          "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
+          "length": "PT40M",
+          "ratings": {
+            "count": 82890,
+            "average": 4.7778745
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Beginner"
+          ],
+          "heat": 96,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
+              "width": 643,
+              "height": 322,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
+          "title": "Get data with Power BI Desktop",
+          "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
+          "length": "PT1H15M",
+          "ratings": {
+            "count": 33427,
+            "average": 4.726718
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 70,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI",
+            "Power BI Desktop"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-model-data-power-bi.md",
+          "title": "Model data in Power BI",
+          "excerpt": "Connect Power BI to multiple data sources to create reports. Define the relationship between your data sources.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-model-data-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
+          "length": "PT1H7M",
+          "ratings": {
+            "count": 15411,
+            "average": 4.7201347
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 57,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/model-data-with-power-bi-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-visuals-in-power-bi.md",
+          "title": "Use visuals in Power BI",
+          "excerpt": "Create and customize visuals to present data in compelling and insightful ways.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-in-power-bi/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
+          "length": "PT1H16M",
+          "ratings": {
+            "count": 6906,
+            "average": 4.760498
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 137,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/create-visuals-power-bi-desktop-social.png",
+              "width": 800,
+              "height": 400,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 115,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
+          "width": 643,
+          "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -780,8 +990,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 58003,
-            "average": 4.7957172
+            "count": 58013,
+            "average": 4.795718
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -822,8 +1032,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 82881,
-            "average": 4.7778864
+            "count": 82890,
+            "average": 4.7778745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -882,8 +1092,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 82881,
-        "average": 4.7778864
+        "count": 82890,
+        "average": 4.7778745
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -924,8 +1134,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 58003,
-        "average": 4.7957172
+        "count": 58013,
+        "average": 4.795718
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1066,8 +1276,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 15916,
-            "average": 4.7532673
+            "count": 15926,
+            "average": 4.7533593
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1108,8 +1318,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10832,
-            "average": 4.67596
+            "count": 10834,
+            "average": 4.67602
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1142,8 +1352,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 82881,
-            "average": 4.7778864
+            "count": 82890,
+            "average": 4.7778745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1202,8 +1412,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 15916,
-        "average": 4.7532673
+        "count": 15926,
+        "average": 4.7533593
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1379,216 +1589,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi.md",
-      "title": "Create and use analytics reports with Power BI",
-      "excerpt": "This learning path introduces you to Power BI, and teaches you to use and build business intelligence reports.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-create-and-use-analytics-reports-with-power-bi/",
-      "length": "PT6H22M",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "topItems": [
-        {
-          "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
-          "title": "Get started building with Power BI",
-          "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
-          "length": "PT40M",
-          "ratings": {
-            "count": 82881,
-            "average": 4.7778864
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Beginner"
-          ],
-          "heat": 96,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
-              "width": 643,
-              "height": 322,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-get-data-power-bi.md",
-          "title": "Get data with Power BI Desktop",
-          "excerpt": "How can you find, collect, and clean data from different sources? Power BI is a tool for making sense of your data. You will learn tricks to make data-gathering easier.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-data-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
-          "length": "PT1H15M",
-          "ratings": {
-            "count": 33425,
-            "average": 4.7267017
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 70,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/get-data-power-bi-desktop-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI",
-            "Power BI Desktop"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-model-data-power-bi.md",
-          "title": "Model data in Power BI",
-          "excerpt": "Connect Power BI to multiple data sources to create reports. Define the relationship between your data sources.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-model-data-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
-          "length": "PT1H7M",
-          "ratings": {
-            "count": 15411,
-            "average": 4.7201347
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/model-data-with-power-bi-desktop-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        },
-        {
-          "path": "_learning/courses/microsoft-learn-visuals-in-power-bi.md",
-          "title": "Use visuals in Power BI",
-          "excerpt": "Create and customize visuals to present data in compelling and insightful ways.",
-          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-visuals-in-power-bi/index.json",
-          "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
-          "length": "PT1H16M",
-          "ratings": {
-            "count": 6904,
-            "average": 4.760429
-          },
-          "provider": {
-            "name": "Microsoft Learn",
-            "domain": "microsoft.com",
-            "images": [
-              {
-                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "levels": [
-            "Intermediate"
-          ],
-          "heat": 57,
-          "images": [
-            {
-              "url": "https://learn.microsoft.com/training/achievements/create-visuals-power-bi-desktop-social.png",
-              "width": 800,
-              "height": 400,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "course",
-          "price": "Free",
-          "topics": [
-            "Power BI"
-          ]
-        }
-      ],
-      "size": 6,
-      "heat": 84,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
-          "width": 643,
-          "height": 322,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     },
     {

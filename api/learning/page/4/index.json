@@ -643,7 +643,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -852,7 +852,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -2445,7 +2445,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -2510,8 +2510,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 10136,
-            "average": 4.745166
+            "count": 10137,
+            "average": 4.745191
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3970,8 +3970,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 6078,
-        "average": 4.6929913
+        "count": 6079,
+        "average": 4.693042
       },
       "provider": {
         "name": "Microsoft Learn",

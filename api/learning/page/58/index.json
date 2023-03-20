@@ -4,36 +4,6 @@
   "page": 58,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-get-attendance-report-from-microsoft-teams-call-download-attendance-report-in-teams.md",
-      "title": "Get Attendance Report from Microsoft Teams Call | Download Attendance Report in Teams",
-      "excerpt": "Welcome to Microsoft Teams Tips and Tricks. Today I'm going to show you one amazing tip for you.  Sometimes, there are situations where we want to know how many users have joined Teams call and how long they stay on call. At that time this concept is very useful to us.  This feature is applicable only",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-get-attendance-report-from-microsoft-teams-call-download-attendance-report-in-teams/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-get-attendance-report-from-microsoft-teams-call-download-attendance-report-in-teams/",
-      "originalUrl": "https://youtube.com/watch?v=I4kRZX5VCXc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/I4kRZX5VCXc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M38S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-07-31T02:22:08-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/I4kRZX5VCXc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-get-list-of-all-workspaces-as-an-admin-using-windows-powershell-powershell-and-power-bi.md",
       "title": "Get List of All Workspaces as an Admin Using Windows PowerShell | PowerShell and Power BI",
       "excerpt": "In this video, we will learn how we can get the list of All the available Workspaces in Power BI tenant. Power BI provides PowerShell Administrator API. Using these APIs we can get the list of all workspaces based on the logged-in user. If you have access to Power BI Service Administrator, then we can",
@@ -908,6 +878,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop.md",
+      "title": "Load Microsoft Dataverse for Teams table data in Power BI Desktop",
+      "excerpt": "Microsoft Dataverse for teams provides us the flexibility to prepare relational database tables. Now, let’s say we want to prepare further reporting based on Dataverse for Teams data. So, how can we do that? How can we load Microsoft Dataverse for Teams table data to Power BI Desktop? You will get to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=AJokCht9IeI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AJokCht9IeI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M28S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-12-01T21:00:59-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/AJokCht9IeI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
       ]
     }
   ],
