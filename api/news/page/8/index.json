@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-01-19-deployment-pipelines-azure-devops-extension-multiple-pipelines-working-together-dataflows-ga.md",
+      "title": "Deployment pipelines- Azure DevOps extension, multiple pipelines working together, Dataflows GA",
+      "excerpt": "This month we have released highly-anticipated features for deployment pipelines:\r\n&#8211; Azure DevOps extension- automate your deployments and pipeline creation using Tasks in your Azure pipeline.\r\n&#8211; Multiple pipelines working together- sync the connections between items managed in different",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-19-deployment-pipelines-azure-devops-extension-multiple-pipelines-working-together-dataflows-ga/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/deployment-pipelines-azure-devops-extension-multiple-pipelines-working-together-dataflows-ga/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/deployment-pipelines-azure-devops-extension-multiple-pipelines-working-together-dataflows-ga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-01-19T05:30:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
       "path": "_news/2022-01-19-crunch-data-better-than-ever-with-excel-and-power-bi.md",
       "title": "Crunch data better than ever with Excel and Power BI",
       "excerpt": "This nine-course bundle aims to give you an advanced Excel education so you can extract data with the best of them and use companions like Power BI to draw powerful business insights.",
@@ -1191,57 +1243,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2021-11-18-capacity-settings-for-datasets-are-now-in-power-bi-premium-gen2.md",
-      "title": "Capacity settings for datasets are now in Power BI Premium Gen2",
-      "excerpt": "Capacity settings for datasets now in Power BI Premium Gen 2!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-11-18-capacity-settings-for-datasets-are-now-in-power-bi-premium-gen2/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/capacity-settings-for-datasets-are-now-in-power-bi-premium-gen2/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/capacity-settings-for-datasets-are-now-in-power-bi-premium-gen2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-11-18T01:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
