@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-16-power-bi-paves-the-way-for-smooth-azure-analysis-services-migrations.md",
+      "title": "Power BI paves the way for smooth Azure Analysis Services migrations",
+      "excerpt": "We are committed to helping our Azure Analysis Services customers unlock the enormous capabilities of Power BI as a superset of Azure Analysis Services through a smooth migration path to Power BI. As part of this effort, we are happy to announce today that Power BI has reached yet another compatibility",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-16-power-bi-paves-the-way-for-smooth-azure-analysis-services-migrations/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-paves-the-way-for-smooth-azure-analysis-services-migrations/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-paves-the-way-for-smooth-azure-analysis-services-migrations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T07:21:05-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-08-15-on-premises-data-gateway-august-2022-update-is-now-available.md",
       "title": "On-premises data gateway August 2022 update is now available",
       "excerpt": "Here is our on-premises data gateway August release! Use it to be compatible with the August Power BI Desktop and let us know what you think. ",
@@ -1201,57 +1252,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-preview-data-is-now-available-in-the-dataset-details-page.md",
-      "title": "Preview data is now available in the dataset details page",
-      "excerpt": "Preview data is now available!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-06-22-preview-data-is-now-available-in-the-dataset-details-page/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/preview-data-is-now-available-in-the-dataset-details-page/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/preview-data-is-now-available-in-the-dataset-details-page/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T02:56:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

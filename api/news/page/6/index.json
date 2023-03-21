@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-05-05-coming-soon-changes-to-the-power-bi-service-simpler-navigation-improvements-to-lists-on-home-and-style-updates.md",
+      "title": "Coming soon: Changes to the Power BI service – simpler navigation, improvements to lists on Home, and style updates",
+      "excerpt": "We continue to iteratively improve experiences that help you find relevant content and return to your work in the Power BI service. Upon hearing your feedback, conducting usability tests, and running successful A/B experiments we’re sharing the following changes coming to all users in early June 2022.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-05-coming-soon-changes-to-the-power-bi-service-simpler-navigation-improvements-to-lists-on-home-and-style-updates/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/coming-soon-changes-to-the-power-bi-service-simpler-navigation-improvements-to-lists-on-home-and-style-updates/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/coming-soon-changes-to-the-power-bi-service-simpler-navigation-improvements-to-lists-on-home-and-style-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-05T02:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Service"
+      ]
+    },
+    {
       "path": "_news/2022-05-01-microsoft-announces-limited-preview-of-office-365-adoption-content-pack-for-power-bi.md",
       "title": "Microsoft announces limited preview of Office 365 adoption content pack for Power BI",
       "excerpt": "Over the last couple of years, Microsoft has gradually built up the capability and availability of its Power BI product. Back at the start of this year, the company released Power BI for Windows ...",
@@ -1217,57 +1269,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2022-03-17-power-bi-march-2022-feature-summary.md",
-      "title": "Power BI March 2022 Feature Summary",
-      "excerpt": "Welcome to the March 2022 update. We are happy to announce a couple new features this month! How about error bars for line charts and dynamic format strings support for all chart elements? Also, we have some updates to the Azure Maps visual and Sensitivity labels, datasets hub and Power BI Goals. There",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-03-17-power-bi-march-2022-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-march-2022-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-march-2022-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-03-17T02:06:18-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
       ]
     }
   ],
