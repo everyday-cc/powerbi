@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 623,
-        "average": 4.754414
+        "count": 624,
+        "average": 4.7548075
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
       "length": "PT28M",
       "ratings": {
-        "count": 556,
-        "average": 4.836331
+        "count": 558,
+        "average": 4.8333335
       },
       "provider": {
         "name": "Microsoft Learn",
