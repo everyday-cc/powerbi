@@ -414,8 +414,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
           "length": "PT21M",
           "ratings": {
-            "count": 1486,
-            "average": 4.779273
+            "count": 1487,
+            "average": 4.779422
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -456,8 +456,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1174,
-            "average": 4.7759795
+            "count": 1175,
+            "average": 4.7761703
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5021,8 +5021,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2457,
-            "average": 4.764754
+            "count": 2459,
+            "average": 4.764945
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5081,7 +5081,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 54,
+          "heat": 134,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/manage-datasets-in-power-bi-social.png",
@@ -5105,8 +5105,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5678,
-            "average": 4.79764
+            "count": 5679,
+            "average": 4.7976756
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5141,7 +5141,7 @@
         }
       ],
       "size": 3,
-      "heat": 56,
+      "heat": 58,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/create-manage-workspaces-power-bi-social.png",
@@ -5383,8 +5383,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 558,
-            "average": 4.8333335
+            "count": 559,
+            "average": 4.8336315
           },
           "provider": {
             "name": "Microsoft Learn",
