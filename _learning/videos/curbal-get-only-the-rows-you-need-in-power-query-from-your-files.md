@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT6M27S
 publishedDateTime: 2021-09-27T10:35:02Z
-heat: 58
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lpQp9P90yrg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "qiH+oTNG4x47ZThWLdGjhGbNeADBnF5Dhpn8b1GK41AZ74DCMm2mp5HhhyRzKiTBAcTz8F4iiraAEn9p8ygZGHvOcjb4BSQWbjQlRrlQc7pUoq3fCW2/0xp1RBs0H66xWjzPZt1jqBAaaqLAZ1Fb+pXKwimyxl5Biczz2folGrtHAL3+K7aULvH5GCTGYx9+bp0mLqgoXqsTLv7g01yHSo1/DwZqus1TalJDwNAU7uoHRCaxRox6OgWjPoHM7Ch1/LexrWoUXA+n/G+PjrnkTe2/EUy8yqaC1Cpr6A3tneMGKdHFAhuFJC3OdJ9PkXnTT2Qqvrq3AS9jZbztfsbcdr6+bUCmt/jGIKWRLndFYnSJA/9xCgBTftkbFMyMSl4bXVbLiGTYM0cfGFPwX6DtZ8qmkFjYsfi/tUutMhet9g0=;ghDTB5QUJs/NqvqNb3KK7g=="
+secured: "Tilnys+xfemdwXYfb4Hj45JTCssr/34ecxI3X/TCQTIohMGzShpYeBQ2dKwaASbslrPCtTBdHbMlziR5Vh27LDUCjcv0GRf4A5ODu1bpERPeZuHRe7+vb7xD+8f9GT4TpovoC9H0j/j0V6obbbjOHZoprqhLVa+a333g5YCWF+NJBJXxaXfbwqX1cdWDCE1ypZ1peQMLDrp47bvYc5lW0Jhn0sjopFYyKKJNdUbnfuFR99dkv25I0JbJqaZz6LWUqeGa3skz8/m4tFqu3oI3ZLQbVRKECEfudd8nnFCg33HYGS6syFQA/NP7t9zMuqcmeGqXYls+VKsKErPxGlt1/GHX5sW2mF59+Bbw5847iolr+aQ5Py3BMYp1ih4Ym4ngC8sfalEsM/IXx+Pqf9D9qV2HJxp6VvU2wGmjwmGhrUA=;BG80rVIDd00m1IWoajK3/w=="
 ---
 
