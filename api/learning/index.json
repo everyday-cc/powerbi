@@ -42,44 +42,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse.md",
-      "title": "Art of the Possible with Power Platform and Azure Synapse",
-      "excerpt": "What happens when you combine Power BI, Power Apps and Azure Synapse Analytics? MAGIC! Join Gaston Cruz as he shows a way to bring the Power Platform together with Azure Synapse!  Gaston Cruz https://twitter.com/GastonFCruz https://www.linkedin.com/in/gastoncruz/  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse/",
-      "originalUrl": "https://youtube.com/watch?v=9wLFlaaPJgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wLFlaaPJgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M42S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-03-15T08:00:06-07:00",
-      "heat": 192,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9wLFlaaPJgk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-how-do-thin-reports-work-with-power-bi-deployment-pipelines.md",
       "title": "How do THIN reports work with Power BI Deployment Pipelines?",
       "excerpt": "Using Power BI Deployment Pipelines and curious what happens when the report and dataset are in different workspaces? How does it work when you promote to another pipeline? Kevin Arnold shows us!  Kevin Arnold: https://twitter.com/kevarnold https://www.linkedin.com/in/kevarnold/  📢 Become a member:",
@@ -186,14 +148,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-dataset-permissions-required-for-app-report-in-power-bi-what-am-i-missing.md",
-      "title": "Dataset permissions required for App report in Power BI? What am I missing???",
-      "excerpt": "Struggling with Power BI App permissions when using shared datasets? Adam looks at how this works. Even for PRO users!!!  Composit model permission blog (Older information): https://powerbi.microsoft.com/en-us/blog/update-to-required-permissions-when-using-composite-models-on-a-power-bi-dataset/  📢",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dataset-permissions-required-for-app-report-in-power-bi-what-am-i-missing/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dataset-permissions-required-for-app-report-in-power-bi-what-am-i-missing/",
-      "originalUrl": "https://youtube.com/watch?v=CIIzUvoUMOc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CIIzUvoUMOc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M51S",
+      "path": "_learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse.md",
+      "title": "Art of the Possible with Power Platform and Azure Synapse",
+      "excerpt": "What happens when you combine Power BI, Power Apps and Azure Synapse Analytics? MAGIC! Join Gaston Cruz as he shows a way to bring the Power Platform together with Azure Synapse!  Gaston Cruz https://twitter.com/GastonFCruz https://www.linkedin.com/in/gastoncruz/  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse/",
+      "originalUrl": "https://youtube.com/watch?v=9wLFlaaPJgk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wLFlaaPJgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M42S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -206,11 +168,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-02-16T08:00:05-08:00",
-      "heat": 144,
+      "publishedDateTime": "2023-03-15T08:00:06-07:00",
+      "heat": 142,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/CIIzUvoUMOc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9wLFlaaPJgk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -224,15 +186,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-admin-automate.md",
-      "title": "Automate Power BI administration",
-      "excerpt": "Common manual tasks can be automated with Microsoft Power BI Cmdlets for Windows PowerShell and PowerShell core.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-automate/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
-      "length": "PT12M",
+      "path": "_learning/courses/microsoft-learn-power-bi-admin-reach.md",
+      "title": "Broaden the reach of Power BI",
+      "excerpt": "Learn the various ways to share Power BI reports beyond your Power BI tenant.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-reach/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-reach/",
+      "length": "PT19M",
       "ratings": {
-        "count": 107,
-        "average": 4.654206
+        "count": 122,
+        "average": 4.622951
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -252,7 +214,7 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-reach-social.png",
           "width": 641,
           "height": 321,
           "isCached": true
@@ -266,42 +228,76 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-embedded-automate.md",
-      "title": "Automate Power BI solution management",
-      "excerpt": "Learn how to automate Power BI solution management.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-automate/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-automate/",
-      "length": "PT19M",
-      "ratings": {
-        "count": 36,
-        "average": 4.888889
-      },
+      "path": "_learning/videos/guy-in-a-cube-ready-to-be-a-kusto-detective-with-azure-data-explorer.md",
+      "title": "Ready to be a Kusto Detective with Azure Data Explorer?",
+      "excerpt": "Your detective journey starts with the Kusto Detective Agency for Azure Data Explorer. This is a really fun way to learn the Kusto Query Languate (KQL)! Patrick gets you started! And, it's FREE!  Kusto Detective Agency: https://detective.kusto.io/  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-ready-to-be-a-kusto-detective-with-azure-data-explorer/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-ready-to-be-a-kusto-detective-with-azure-data-explorer/",
+      "originalUrl": "https://youtube.com/watch?v=ayV1r2vFYnI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ayV1r2vFYnI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M55S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
+      "publishedDateTime": "2023-01-31T08:00:04-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-automate-social.png",
+          "url": "https://i.ytimg.com/vi/ayV1r2vFYnI/maxresdefault.jpg",
           "width": 1280,
-          "height": 641,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-what-the-french-toast-is-a-slowly-changing-dimension.md",
+      "title": "What the French Toast is a Slowly Changing Dimension???",
+      "excerpt": "Want to know more about a slowly changing dimension? What about the different types? Patrick goes through examples and ties in the surrogate key!   Sample: https://github.com/guyinacube/demo-files/blob/master/video%20demos/Synapse/20230124%20-%20SCD%20Demo.sql  Handling Type II Dimension with the MERGE",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-the-french-toast-is-a-slowly-changing-dimension/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-the-french-toast-is-a-slowly-changing-dimension/",
+      "originalUrl": "https://youtube.com/watch?v=WgH2Wg_EUNg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WgH2Wg_EUNg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M33S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-24T08:00:26-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WgH2Wg_EUNg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -565,8 +561,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 58198,
-            "average": 4.795715
+            "count": 58205,
+            "average": 4.795722
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -607,7 +603,7 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 83095,
+            "count": 83104,
             "average": 4.777977
           },
           "provider": {
@@ -667,7 +663,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 83095,
+        "count": 83104,
         "average": 4.777977
       },
       "provider": {
@@ -747,8 +743,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 58198,
-        "average": 4.795715
+        "count": 58205,
+        "average": 4.795722
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -898,44 +894,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-the-power-of-microsoft-lists-and-power-bi.md",
-      "title": "The POWER of Microsoft Lists and Power BI",
-      "excerpt": "Learn how Microsoft Lists / SharePoint Lists can take advantage of Power BI! Daniel walks through how easy it is to start using today!  Create a report quickly from a SharePoint list or library https://learn.microsoft.com/power-bi/create-reports/service-quick-create-sharepoint-list  Daniel Glenn: https://twitter.com/DanielGlenn",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-power-of-microsoft-lists-and-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-power-of-microsoft-lists-and-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=YOWxvT5XLoc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YOWxvT5XLoc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M23S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-03-08T08:00:30-08:00",
-      "heat": 104,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YOWxvT5XLoc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-what-is-power-bi.md",
       "title": "What is Power BI?",
       "excerpt": "In this video, Adam looks at what is Power BI. While people may see bits and pieces of Power BI, they may not understand holistically what Power BI is. From Power BI Desktop to the Power BI service and the mobile app, Power BI is a full suite of tools for your visualization and reporting needs.  Power",
@@ -1005,8 +963,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 16079,
-            "average": 4.753467
+            "count": 16084,
+            "average": 4.753544
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1047,8 +1005,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10879,
-            "average": 4.6757975
+            "count": 10880,
+            "average": 4.675827
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1081,7 +1039,7 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 83095,
+            "count": 83104,
             "average": 4.777977
           },
           "provider": {
@@ -1141,8 +1099,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 16079,
-        "average": 4.753467
+        "count": 16084,
+        "average": 4.753544
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1297,8 +1255,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 25941,
-        "average": 4.725801
+        "count": 25945,
+        "average": 4.725805
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1438,7 +1396,7 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 83095,
+            "count": 83104,
             "average": 4.777977
           },
           "provider": {
@@ -1480,8 +1438,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 33475,
-            "average": 4.7269306
+            "count": 33476,
+            "average": 4.7269387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1523,8 +1481,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15440,
-            "average": 4.720466
+            "count": 15441,
+            "average": 4.7204843
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1565,8 +1523,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6928,
-            "average": 4.760537
+            "count": 6929,
+            "average": 4.7605715
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1692,6 +1650,37 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-where-is-dark-mode-in-dax-studio-3-shorts.md",
+      "title": "Where is DARK MODE in DAX Studio 3??? #shorts",
+      "excerpt": "Not going to lie, it took me a bit to find the button to switch to Dark Mode in DAX Studio 3. Here's where it is! \r #shorts #PowerBI #GuyInACube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-where-is-dark-mode-in-dax-studio-3-shorts/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-where-is-dark-mode-in-dax-studio-3-shorts/",
+      "originalUrl": "https://youtube.com/watch?v=qgEXd4lTgQg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qgEXd4lTgQg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT43S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-08-29T08:00:26-07:00",
+      "heat": 85,
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     }
   ],

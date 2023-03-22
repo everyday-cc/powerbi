@@ -4,6 +4,45 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-embedding-with-power-bi-whats-the-difference.md",
+      "title": "Embedding with Power BI - What's the difference?",
+      "excerpt": "In this video, Adam looks at the differences between the two embedding options with Power BI. We get a lot of questions about what steps need to be taken, what Capacity SKUs are needed and where can they be used.   Power BI App registration https://dev.powerbi.com/apps  App registration - Grant Permissions",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-embedding-with-power-bi-whats-the-difference/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-embedding-with-power-bi-whats-the-difference/",
+      "originalUrl": "https://youtube.com/watch?v=0y2oJikC6Xc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0y2oJikC6Xc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M46S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-12-12T14:19:24-08:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0y2oJikC6Xc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Embedding with Power BI - What's the difference?",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-enable-query-folding-for-native-queries-in-power-query-power-bi.md",
       "title": "Enable QUERY FOLDING for native queries in Power Query / Power BI",
       "excerpt": "We have usually said that if you use a native query, you break query folding in Power Query. Interesting. There may be a way to enable it in Power BI! Patrick shows you how.  Chris Webb Blog: https://blog.crossjoin.co.uk/2021/02/21/query-folding-on-sql-queries-in-power-query-using-value-nativequery-and-enablefoldingtrue/",
@@ -524,8 +563,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2429,
-            "average": 4.7282834
+            "count": 2430,
+            "average": 4.728395
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -566,8 +605,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3698,
-            "average": 4.657653
+            "count": 3700,
+            "average": 4.657838
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -608,8 +647,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6089,
-            "average": 4.6932173
+            "count": 6090,
+            "average": 4.693268
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -835,8 +874,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 6089,
-        "average": 4.6932173
+        "count": 6090,
+        "average": 4.693268
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1003,8 +1042,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 6928,
-        "average": 4.760537
+        "count": 6929,
+        "average": 4.7605715
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1045,8 +1084,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 3698,
-        "average": 4.657653
+        "count": 3700,
+        "average": 4.657838
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1290,45 +1329,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/lpQp9P90yrg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-list-dates-between-two-dates-in-power-query.md",
-      "title": "List dates between two dates in Power Query",
-      "excerpt": "Need to create a list of dates between a start date and end date? Well, let's look at how Imke did it in the Power BI community, it will blow your mind :) #curbal #powerquery #mlanguage #powerbi  Here is the thread on the Power BI community, where you can find Imke's code: https://community.powerbi.com/t5/Desktop/M-Power-Query-help-for-table-merge-Conditional-Cross-Join/m-p/478272#M222561",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-list-dates-between-two-dates-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-list-dates-between-two-dates-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=u3HLseZxSj4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u3HLseZxSj4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M49S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-03-11T05:15:36-07:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/u3HLseZxSj4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

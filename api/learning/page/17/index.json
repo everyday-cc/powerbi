@@ -4,6 +4,44 @@
   "page": 17,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-wait-using-a-power-bi-date-slicer-what-are-my-dates-when-using-between.md",
+      "title": "Wait! Using a Power BI Date slicer, what are my dates when using between?",
+      "excerpt": "Struggling to get dates when using a between date slicer, or a before, or after? Patrick walks through a straightforward way to get the date values when using a date slicer in Power BI!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-wait-using-a-power-bi-date-slicer-what-are-my-dates-when-using-between/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-wait-using-a-power-bi-date-slicer-what-are-my-dates-when-using-between/",
+      "originalUrl": "https://youtube.com/watch?v=dlZoy8pQWSU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dlZoy8pQWSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M31S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-05T08:00:19-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dlZoy8pQWSU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-when-is-a-date-not-a-date-in-power-bi.md",
       "title": "When is a date not a date in Power BI?",
       "excerpt": "When is a date not a date? We all use them in our data. Patrick looks at how data types can be a tricky thing in Power BI. Be aware of what you are working with in order to avoid this problem in your charts.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your",
@@ -964,44 +1002,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/oiCVBUQenls/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-using-calculation-groups-or-many-to-many-relationships-for-time-intelligence-selection.md",
-      "title": "Using calculation groups or many to many relationships for time intelligence selection",
-      "excerpt": "Compare two common techniques to filter time periods in DAX: calculation groups and many-to-many relationships.\r Article and download: https://sql.bi/786473?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-using-calculation-groups-or-many-to-many-relationships-for-time-intelligence-selection/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-using-calculation-groups-or-many-to-many-relationships-for-time-intelligence-selection/",
-      "originalUrl": "https://youtube.com/watch?v=1clPMlMtxqE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1clPMlMtxqE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M26S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-02-28T03:00:19-08:00",
-      "heat": 55,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1clPMlMtxqE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

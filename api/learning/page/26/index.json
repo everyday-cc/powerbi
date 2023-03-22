@@ -4,6 +4,36 @@
   "page": 26,
   "value": [
     {
+      "path": "_learning/videos/radacad-how-to-solve-inactive-relationship-problem-with-role-playing-dimensions-in-power-bi.md",
+      "title": "How to solve Inactive Relationship Problem with Role Playing Dimensions in Power BI",
+      "excerpt": "Role-Playing Dimension is one way of solving the inactive relationship problem in Power BI. Download the dataset for this example from my blog article here:  https://radacad.com/userelationship-or-role-playing-dimension-dealing-with-inactive-relationships-in-power-bi",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-how-to-solve-inactive-relationship-problem-with-role-playing-dimensions-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-how-to-solve-inactive-relationship-problem-with-role-playing-dimensions-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=LfVDUiU8vaU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LfVDUiU8vaU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M45S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2019-07-22T16:30:29-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LfVDUiU8vaU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-power-bi-design-tip-design-for-mobile-device.md",
       "title": "Power BI Design Tip   Design for Mobile Device",
       "excerpt": "Power BI is a mobile-friendly reporting solution. Every report that you generate can be viewed on the Mobile too. However, it doesn’t mean that the report is designed for mobile, or in other words; it doesn’t mean that is it a mobile report page. You have to make some changes, and take some extra considerations",
@@ -1062,8 +1092,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 2429,
-        "average": 4.7282834
+        "count": 2430,
+        "average": 4.728395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1228,36 +1258,6 @@
       "topics": [
         "Power BI",
         "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/absent-data-channel-machine-learning-anomaly-detection-with-python-and-power-bi.md",
-      "title": "Machine Learning Anomaly Detection with Python and Power BI",
-      "excerpt": "Use the Isolation Forest algorithm to create unsupervised machine learning to identify outliers in your data. Leverage the power of Sckit Learn and Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/absent-data-channel-machine-learning-anomaly-detection-with-python-and-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/absent-data-channel-machine-learning-anomaly-detection-with-python-and-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=obSQuZe87Ac",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/obSQuZe87Ac\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M34S",
-      "provider": {
-        "name": "Absent Data Channel",
-        "domain": "absentdata.com"
-      },
-      "publishedDateTime": "2020-08-25T09:01:08-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/obSQuZe87Ac/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
       ]
     }
   ],

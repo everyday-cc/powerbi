@@ -4,6 +4,49 @@
   "page": 51,
   "value": [
     {
+      "path": "_learning/courses/microsoft-learn-explore-enterprise-grade-etl-data-preparation-using-dataflows.md",
+      "title": "Explore enterprise-grade ETL and data preparation using dataflows",
+      "excerpt": "Explore enterprise-grade ETL and data preparation using dataflows",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-enterprise-grade-etl-data-preparation-using-dataflows/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/explore-enterprise-grade-etl-data-preparation-using-dataflows/",
+      "length": "PT24M",
+      "ratings": {
+        "count": 5,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-fit-gap-analysis.md",
       "title": "Perform fit gap analysis",
       "excerpt": "Learn about performing a fit gap analysis as a solution architect for Dynamics 365 and Microsoft Power Platform.",
@@ -459,6 +502,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-power-bi-admin-automate.md",
+      "title": "Automate Power BI administration",
+      "excerpt": "Common manual tasks can be automated with Microsoft Power BI Cmdlets for Windows PowerShell and PowerShell core.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-automate/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-automate/",
+      "length": "PT12M",
+      "ratings": {
+        "count": 107,
+        "average": 4.654206
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
+          "width": 641,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-power-bi-admin-collaboration.md",
       "title": "Facilitate collaboration and sharing in Power BI",
       "excerpt": "Learn how to collaborate and share dashboards and reports with coworkers.",
@@ -753,48 +838,6 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-admin-reach.md",
-      "title": "Broaden the reach of Power BI",
-      "excerpt": "Learn the various ways to share Power BI reports beyond your Power BI tenant.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-reach/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-reach/",
-      "length": "PT19M",
-      "ratings": {
-        "count": 122,
-        "average": 4.622951
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-reach-social.png",
-          "width": 641,
-          "height": 321,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/courses/microsoft-learn-power-bi-deployment-pipelines.md",
       "title": "Create and manage a Power BI deployment pipeline",
       "excerpt": "The deployment pipelines tool enables Power BI creators to manage the development lifecycle of organizational content.",
@@ -1005,6 +1048,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-power-bi-embedded-automate.md",
+      "title": "Automate Power BI solution management",
+      "excerpt": "Learn how to automate Power BI solution management.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-automate/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-automate/",
+      "length": "PT19M",
+      "ratings": {
+        "count": 36,
+        "average": 4.888889
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-automate-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-power-bi-embedded-content.md",
       "title": "Embed Power BI content",
       "excerpt": "Learn about embedding Power BI content.",
@@ -1160,90 +1245,6 @@
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-permissions-analytics-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-embedded-permissions-content.md",
-      "title": "Set up permissions to embed Power BI content",
-      "excerpt": "Learn which settings and permissions to use for internal and external users of your app with embedded Power BI content.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-permissions-content/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-content/",
-      "length": "PT33M",
-      "ratings": {
-        "count": 53,
-        "average": 4.8301888
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-permissions-content-social.png",
-          "width": 1280,
-          "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-embedded-select.md",
-      "title": "Select a Power BI embedded analytics product",
-      "excerpt": "Learn how to select a Power BI embedded analytics product.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-select/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-select/",
-      "length": "PT29M",
-      "ratings": {
-        "count": 73,
-        "average": 4.821918
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-select-social.png",
           "width": 1280,
           "height": 641,
           "isCached": true
