@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-26-join-us-power-bi-dev-camp-thursday-october-27-2022-at-1100-am-pst-1200-pm-noon-pst.md",
+      "title": "Join Us! Power BI Dev Camp: Thursday, October 27, 2022 at 11:00 AM PST– 12:00 PM Noon PST",
+      "excerpt": "Power BI Dev Camp:  Episode 27, Integrating Azure AD B2C with App-Owns-Data Embedding",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-10-26-join-us-power-bi-dev-camp-thursday-october-27-2022-at-1100-am-pst-1200-pm-noon-pst/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-october-27-2022-at-1100-am-pst-1200-pm-noon-pst/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-october-27-2022-at-1100-am-pst-1200-pm-noon-pst/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T04:41:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-on-premises-data-gateway-october-release.md",
       "title": "On-premises data gateway October release",
       "excerpt": "Hope you&#8217;re all enjoying the fall! With the changing of the leaves comes a changed on-premises data gateway. Download the October version to use the same query execution logic/run-time as in the October version of Power BI Desktop.",
@@ -1211,57 +1262,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-updates-to-microsoft-purview-data-loss-prevention-policies-in-power-bi.md",
-      "title": "Updates to Microsoft Purview data loss prevention policies in Power BI",
-      "excerpt": "Data loss prevention (DLP) policies help you govern the sensitive information managed in your Power BI tenant and comply with governmental or industry regulations, such as GDPR (the European Union’s General Data Protection Regulation). Earlier this year, we announced the release of DLP policies for Power",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-22-updates-to-microsoft-purview-data-loss-prevention-policies-in-power-bi/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/updates-to-microsoft-purview-data-loss-prevention-policies-in-power-bi/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/updates-to-microsoft-purview-data-loss-prevention-policies-in-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-21T20:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
