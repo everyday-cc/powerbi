@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10892,
-        "average": 4.676184
+        "count": 10893,
+        "average": 4.676214
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 66,
+      "heat": 75,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -45,8 +45,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 10654,
-        "average": 4.7033978
+        "count": 10656,
+        "average": 4.7034535
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -63,7 +63,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 62,
+      "heat": 147,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/analyze-explore-data-power-bi-social.png",
@@ -105,7 +105,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 53,
+      "heat": 57,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/intro-to-power-bi-mobile-apps-social.png",

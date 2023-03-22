@@ -29,7 +29,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 52,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/understand-advanced-data-visualization-concepts-social.png",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 50,
+      "heat": 52,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/monitor-data-real-time-power-bi-social.png",
@@ -95,8 +95,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 3152,
-        "average": 4.7166877
+        "count": 3153,
+        "average": 4.716778
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -113,7 +113,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 58,
+      "heat": 54,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/create-paginated-reports-power-bi-social.png",
