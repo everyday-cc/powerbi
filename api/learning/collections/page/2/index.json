@@ -498,8 +498,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 575,
-            "average": 4.7234783
+            "count": 576,
+            "average": 4.7239585
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1806,7 +1806,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
@@ -1890,7 +1890,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png",
@@ -3482,7 +3482,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png",
@@ -4771,8 +4771,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3697,
-            "average": 4.6575603
+            "count": 3698,
+            "average": 4.657653
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4813,8 +4813,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6088,
-            "average": 4.6931667
+            "count": 6089,
+            "average": 4.6932173
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5021,8 +5021,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2459,
-            "average": 4.764945
+            "count": 2460,
+            "average": 4.765041
           },
           "provider": {
             "name": "Microsoft Learn",
