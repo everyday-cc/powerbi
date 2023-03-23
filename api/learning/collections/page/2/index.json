@@ -414,8 +414,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 5741,
-            "average": 4.730883
+            "count": 5742,
+            "average": 4.73093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -497,8 +497,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 10178,
-            "average": 4.7451367
+            "count": 10179,
+            "average": 4.7450633
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -539,8 +539,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 8330,
-            "average": 4.710084
+            "count": 8331,
+            "average": 4.710119
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -582,8 +582,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9465,
-            "average": 4.7636557
+            "count": 9466,
+            "average": 4.7636805
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3119,7 +3119,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
@@ -3328,7 +3328,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
@@ -4542,7 +4542,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -5275,8 +5275,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 563,
-            "average": 4.8348136
+            "count": 564,
+            "average": 4.83156
           },
           "provider": {
             "name": "Microsoft Learn",
