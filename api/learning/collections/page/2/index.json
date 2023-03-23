@@ -565,8 +565,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 6523,
-            "average": 4.7257395
+            "count": 6525,
+            "average": 4.725824
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -607,8 +607,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 5748,
-            "average": 4.7312107
+            "count": 5750,
+            "average": 4.731304
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -690,8 +690,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 10179,
-            "average": 4.7450633
+            "count": 10182,
+            "average": 4.7451386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -732,8 +732,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 8332,
-            "average": 4.7101536
+            "count": 8335,
+            "average": 4.710138
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -775,8 +775,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9468,
-            "average": 4.7637305
+            "count": 9471,
+            "average": 4.7638054
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -858,8 +858,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 80,
-            "average": 4.7375
+            "count": 81,
+            "average": 4.740741
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2954,7 +2954,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -3163,7 +3163,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -4127,7 +4127,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-premium-social.png",
@@ -4192,8 +4192,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2465,
-            "average": 4.765517
+            "count": 2467,
+            "average": 4.7657075
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4276,8 +4276,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5686,
-            "average": 4.797749
+            "count": 5687,
+            "average": 4.7976084
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4777,8 +4777,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2442,
-            "average": 4.727682
+            "count": 2443,
+            "average": 4.7277937
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4819,8 +4819,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3709,
-            "average": 4.6578593
+            "count": 3713,
+            "average": 4.658228
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4861,8 +4861,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6098,
-            "average": 4.693342
+            "count": 6100,
+            "average": 4.693279
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4944,8 +4944,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2885,
-            "average": 4.7220106
+            "count": 2886,
+            "average": 4.722107
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4986,8 +4986,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5704,
-            "average": 4.711255
+            "count": 5706,
+            "average": 4.7113566
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5222,8 +5222,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 236,
-            "average": 4.677966
+            "count": 237,
+            "average": 4.679325
           },
           "provider": {
             "name": "Microsoft Learn",
