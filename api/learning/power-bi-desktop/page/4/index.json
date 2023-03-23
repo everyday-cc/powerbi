@@ -4,46 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/videos/curbal-data-profiling-and-fuzzy-matching-in-power-query-power-week-1018-power-bi-desktop-october-update.md",
-      "title": "Data Profiling and Fuzzy Matching in Power Query | Power Week 10.18 Power BI Desktop October update",
-      "excerpt": "In the new Power BI Desktop update from October 2018, the power bi team introduced data profiling in Power Query.  In this video I show the new functionality. :)   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-data-profiling-and-fuzzy-matching-in-power-query-power-week-1018-power-bi-desktop-october-update/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-data-profiling-and-fuzzy-matching-in-power-query-power-week-1018-power-bi-desktop-october-update/",
-      "originalUrl": "https://youtube.com/watch?v=rYidpz545bU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rYidpz545bU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M57S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-10-02T15:02:21-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rYidpz545bU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-deep-dive-on-icon-sets-power-bi-desktop-update-july-and-august-2019.md",
       "title": "Deep dive on icon sets - Power BI desktop update July and August 2019",
       "excerpt": "In today's video, I will review the icon set feature available in Power BI since July 2019. I will give you my thoughts on what is good and what can be improved.  What do you think?  Here are the links mentioned in the video: KPI with a measure: https://www.youtube.com/watch?v=cboA5AtAPeg 08:22 How to",
@@ -69,6 +29,84 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Xbmhwo-XvBs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-deep-dive-on-power-bi-desktop-drillthrough-functionality.md",
+      "title": "Deep dive on Power BI Desktop drillthrough functionality",
+      "excerpt": "In today's video I will go through the ins and outs of the new drillthrough functionality in Power BI.  I found the source :), go there to download the pbix file: https://powerpivotpro.com/2017/09/power-bi-feature-spotlight-report-drill/   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-deep-dive-on-power-bi-desktop-drillthrough-functionality/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-deep-dive-on-power-bi-desktop-drillthrough-functionality/",
+      "originalUrl": "https://youtube.com/watch?v=72beG_VHufU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/72beG_VHufU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M18S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-10-04T11:14:55-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/72beG_VHufU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-embed-microsoft-visio-in-power-bi-desktop.md",
+      "title": "Embed microsoft visio in Power BI Desktop",
+      "excerpt": "In today's video I will show you a step-by-step tutorial on how to use visio and embed it in Power BI.   Link to the visio and power bi file: http://gofile.me/2kEOD/QMev6rAjs   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-embed-microsoft-visio-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-embed-microsoft-visio-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=vQfWBxbxrjc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vQfWBxbxrjc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M2S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-09-26T10:06:12-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vQfWBxbxrjc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -437,46 +475,6 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-scrape-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks.md",
-      "title": "Scrape data from multiple pages on a website with Power BI Desktop - Power BI Tips & Tricks",
-      "excerpt": "Have you come across a website that has data you need but it is presented in multiple pages? Downloading page by page can be frustrating and time consuming. In this short video, I will show you how to iterate multiple pages on a website to import the data using Power BI.  LINK to NFL site: http://www.nfl.com/stats/categorystats?tabSeq=2&offensiveStatisticCategory=TEAM_PASSING&conference=ALL&role=TM&season=2015&seasonType=REG",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-scrape-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-scrape-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks/",
-      "originalUrl": "https://youtube.com/watch?v=6PZSZ53iSos",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6PZSZ53iSos\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M15S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-03-17T03:40:26-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6PZSZ53iSos/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "Power Query"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-the-performance-analyzer-review-part-1-may-2019-power-bi-desktop-update.md",
       "title": "The performance analyzer review (part 1)- May 2019 Power BI Desktop Update",
       "excerpt": "In Power BI Desktop you can find out how each of your report elements, such as visuals and DAX formulas, are performing. Using the Performance Analyzer, you can see and record logs that measure how each of your report elements performs when users interact with them, and which aspects of their performance",
@@ -711,37 +709,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-how-to-clear-cache-from-power-bi-desktop-report.md",
-      "title": "How to clear cache from Power BI Desktop Report?",
-      "excerpt": "In this video, we will talk about how we can remove the cache from the Power BI Desktop Report.  If you really like this video don’t forget to subscribe to my channel. *************** Contact me for any Questions, Consulting Service or Development Service: LinkedIn: https://www.linkedin.com/in/dhruvin-shah-2134a6117/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-how-to-clear-cache-from-power-bi-desktop-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-how-to-clear-cache-from-power-bi-desktop-report/",
-      "originalUrl": "https://youtube.com/watch?v=VoEThA60Nq8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VoEThA60Nq8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M41S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:51:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/VoEThA60Nq8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-load-microsoft-dataverse-for-teams-table-data-in-power-bi-desktop.md",
       "title": "Load Microsoft Dataverse for Teams table data in Power BI Desktop",
       "excerpt": "Microsoft Dataverse for teams provides us the flexibility to prepare relational database tables. Now, let’s say we want to prepare further reporting based on Dataverse for Teams data. So, how can we do that? How can we load Microsoft Dataverse for Teams table data to Power BI Desktop? You will get to",
@@ -790,6 +757,37 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/wLXZvcyMDOo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-only-retrieve-default-list-view-columns-from-sharepoint-online-to-power-bi-desktop.md",
+      "title": "Only Retrieve Default List View Columns from SharePoint Online to Power BI Desktop",
+      "excerpt": "During this video, we will talk about how we can load the data from the specific ListView to Power BI Desktop. When we are loading data from SharePoint Online List to Power BI Desktop it will load all the columns. This will take some time to load the data into Power BI. With the October 2020 release",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-only-retrieve-default-list-view-columns-from-sharepoint-online-to-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-only-retrieve-default-list-view-columns-from-sharepoint-online-to-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=jT07g-7Z7pc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jT07g-7Z7pc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M46S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-10-22T05:59:22-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jT07g-7Z7pc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

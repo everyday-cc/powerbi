@@ -25,7 +25,7 @@
         ]
       },
       "publishedDateTime": "2023-03-22T08:00:27-07:00",
-      "heat": 254,
+      "heat": 356,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fh8HpSNNP30/maxresdefault.jpg",
@@ -148,6 +148,45 @@
       ]
     },
     {
+      "path": "_learning/videos/sqlbi-introducing-window-functions-in-dax.md",
+      "title": "Introducing window functions in DAX",
+      "excerpt": "This video introduces the syntax and functionalities of the new DAX window functions: INDEX, OFFSET, and WINDOW.\r Article and download: https://sql.bi/784024?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-window-functions-in-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-window-functions-in-dax/",
+      "originalUrl": "https://youtube.com/watch?v=bxSWQNSQ8rQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bxSWQNSQ8rQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT40M58S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-31T03:00:16-08:00",
+      "heat": 146,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bxSWQNSQ8rQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/collections/microsoft-learn-get-started-with-microsoft-data-analytics.md",
       "title": "Get started with Microsoft data analytics",
       "excerpt": "Businesses need data analysis more than ever. In this learning path, you will learn about the life and journey of a data analyst, the skills, tasks, and processes they go through in order to tell a story with data so trusted business decisions can be made. You will learn how the suite of Power BI tools and services are used by a data analyst to tell a compelling story through reports and dashboards, and the need to true BI in the enterprise.",
@@ -178,8 +217,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 58303,
-            "average": 4.7956023
+            "count": 58314,
+            "average": 4.795624
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -220,8 +259,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 83245,
-            "average": 4.777969
+            "count": 83257,
+            "average": 4.7779646
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -280,8 +319,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 83245,
-        "average": 4.777969
+        "count": 83257,
+        "average": 4.7779646
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -315,14 +354,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-calling-a-stored-procedure-using-incremental-refresh-in-power-bi-we-think-so.md",
-      "title": "Calling a Stored Procedure using Incremental Refresh in Power BI? We think so!",
-      "excerpt": "Have you wanted to use a Stored Procedure with Incremental Refresh? Patrick has a way that you can do just that!   Sandeep's blog: https://pawarbi.github.io/blog/power%20bi/powerquery/queryfolding/m/optimization/2022/01/25/parameter-valuenativequery-query-folding-where-clause-in-powerbi.html  Stored",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-calling-a-stored-procedure-using-incremental-refresh-in-power-bi-we-think-so/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-calling-a-stored-procedure-using-incremental-refresh-in-power-bi-we-think-so/",
-      "originalUrl": "https://youtube.com/watch?v=-KXDpi_wyD4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-KXDpi_wyD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M49S",
+      "path": "_learning/videos/guy-in-a-cube-to-surrogate-key-or-not.md",
+      "title": "To Surrogate Key or Not...",
+      "excerpt": "We've talked about using a surrogate key in your data warehouse whether that's Azure Synapse Analytics or something else. Patrick looks at why you should consider this even if you aren't using a slowly changing dimension.  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-to-surrogate-key-or-not/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-to-surrogate-key-or-not/",
+      "originalUrl": "https://youtube.com/watch?v=XkjJo7J8CyQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XkjJo7J8CyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M55S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -335,11 +374,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-02-01T08:00:00-08:00",
-      "heat": 137,
+      "publishedDateTime": "2023-01-03T08:00:14-08:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/-KXDpi_wyD4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/XkjJo7J8CyQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -353,72 +392,38 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-power-bi-workspace-collaborative-dev-environment.md",
-      "title": "Power BI Workspace   Collaborative DEV Environment",
-      "excerpt": "Workspaces are another way of sharing Power BI content with other people. The benefit of this sharing approach is that you can share content with a group of people and create a collaborative development environment where everyone can access it. In this article and video, I get you through sharing with",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-workspace-collaborative-dev-environment/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-workspace-collaborative-dev-environment/",
-      "originalUrl": "https://youtube.com/watch?v=6ahQKvyRZt8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6ahQKvyRZt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M52S",
+      "path": "_learning/videos/guy-in-a-cube-what-the-french-toast-is-a-slowly-changing-dimension.md",
+      "title": "What the French Toast is a Slowly Changing Dimension???",
+      "excerpt": "Want to know more about a slowly changing dimension? What about the different types? Patrick goes through examples and ties in the surrogate key!   Sample: https://github.com/guyinacube/demo-files/blob/master/video%20demos/Synapse/20230124%20-%20SCD%20Demo.sql  Handling Type II Dimension with the MERGE",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-the-french-toast-is-a-slowly-changing-dimension/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-the-french-toast-is-a-slowly-changing-dimension/",
+      "originalUrl": "https://youtube.com/watch?v=WgH2Wg_EUNg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WgH2Wg_EUNg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M33S",
       "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2023-02-01T17:06:35-08:00",
-      "heat": 134,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6ahQKvyRZt8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-prepare-to-teach-module-beyond-report-development.md",
-      "title": "Prepare to teach the module: Beyond report development",
-      "excerpt": "Prepare to teach the module: Beyond report development",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-prepare-to-teach-module-beyond-report-development/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-beyond-report-development/",
-      "length": "PT30M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 130,
+      "publishedDateTime": "2023-01-24T08:00:26-08:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
+          "url": "https://i.ytimg.com/vi/WgH2Wg_EUNg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -432,8 +437,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 58303,
-        "average": 4.7956023
+        "count": 58314,
+        "average": 4.795624
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -461,44 +466,6 @@
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse.md",
-      "title": "Art of the Possible with Power Platform and Azure Synapse",
-      "excerpt": "What happens when you combine Power BI, Power Apps and Azure Synapse Analytics? MAGIC! Join Gaston Cruz as he shows a way to bring the Power Platform together with Azure Synapse!  Gaston Cruz https://twitter.com/GastonFCruz https://www.linkedin.com/in/gastoncruz/  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse/",
-      "originalUrl": "https://youtube.com/watch?v=9wLFlaaPJgk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wLFlaaPJgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M42S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-03-15T08:00:06-07:00",
-      "heat": 128,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9wLFlaaPJgk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -838,8 +805,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 16188,
-            "average": 4.754386
+            "count": 16195,
+            "average": 4.7544923
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -880,8 +847,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10904,
-            "average": 4.676449
+            "count": 10907,
+            "average": 4.6764464
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -914,8 +881,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 83245,
-            "average": 4.777969
+            "count": 83257,
+            "average": 4.7779646
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -974,8 +941,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 16188,
-        "average": 4.754386
+        "count": 16195,
+        "average": 4.7544923
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1132,8 +1099,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 26019,
-        "average": 4.7258925
+        "count": 26025,
+        "average": 4.7259173
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1197,8 +1164,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 83245,
-            "average": 4.777969
+            "count": 83257,
+            "average": 4.7779646
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1239,8 +1206,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 33505,
-            "average": 4.726787
+            "count": 33507,
+            "average": 4.7267737
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1282,8 +1249,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15463,
-            "average": 4.719847
+            "count": 15464,
+            "average": 4.719736
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1371,6 +1338,44 @@
       ],
       "content": "\r\n",
       "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse.md",
+      "title": "Art of the Possible with Power Platform and Azure Synapse",
+      "excerpt": "What happens when you combine Power BI, Power Apps and Azure Synapse Analytics? MAGIC! Join Gaston Cruz as he shows a way to bring the Power Platform together with Azure Synapse!  Gaston Cruz https://twitter.com/GastonFCruz https://www.linkedin.com/in/gastoncruz/  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse/",
+      "originalUrl": "https://youtube.com/watch?v=9wLFlaaPJgk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wLFlaaPJgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M42S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-03-15T08:00:06-07:00",
+      "heat": 102,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9wLFlaaPJgk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"

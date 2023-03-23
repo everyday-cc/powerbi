@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 33505,
-        "average": 4.726787
+        "count": 33507,
+        "average": 4.7267737
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -44,45 +44,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-convert-html-to-formatted-text-in-power-query.md",
-      "title": "Convert HTML to **formatted** text in Power Query",
-      "excerpt": "Let me show you how to convert html on a power query column into formatted text.  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-convert-html-to-formatted-text-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-convert-html-to-formatted-text-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=sPqQuKbyDwM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sPqQuKbyDwM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M18S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-03-10T07:15:58-08:00",
-      "heat": 85,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sPqQuKbyDwM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     },
     {
@@ -152,6 +113,45 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-convert-html-to-formatted-text-in-power-query.md",
+      "title": "Convert HTML to **formatted** text in Power Query",
+      "excerpt": "Let me show you how to convert html on a power query column into formatted text.  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-convert-html-to-formatted-text-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-convert-html-to-formatted-text-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=sPqQuKbyDwM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sPqQuKbyDwM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M18S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-03-10T07:15:58-08:00",
+      "heat": 84,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sPqQuKbyDwM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -338,8 +338,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 17699,
-            "average": 4.7549014
+            "count": 17704,
+            "average": 4.7549706
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -380,8 +380,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 10412,
-            "average": 4.766423
+            "count": 10416,
+            "average": 4.766417
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -463,8 +463,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 17699,
-            "average": 4.7549014
+            "count": 17704,
+            "average": 4.7549706
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -505,8 +505,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 10412,
-            "average": 4.766423
+            "count": 10416,
+            "average": 4.766417
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -565,8 +565,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 10412,
-        "average": 4.766423
+        "count": 10416,
+        "average": 4.766417
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -816,8 +816,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 17699,
-        "average": 4.7549014
+        "count": 17704,
+        "average": 4.7549706
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1271,8 +1271,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 10904,
-        "average": 4.676449
+        "count": 10907,
+        "average": 4.6764464
       },
       "provider": {
         "name": "Microsoft Learn",

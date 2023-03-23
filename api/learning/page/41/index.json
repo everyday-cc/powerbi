@@ -4,114 +4,23 @@
   "page": 41,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-import-textcsv-using-examples-in-power-bi.md",
-      "title": "Import Text/CSV using Examples in Power BI",
-      "excerpt": "During this video, we will explore one more feature during August 2020 of Power BI Desktop. So, now let’s explore this feature in detail.  Sometimes, we have our sample data source as Text or CSV format and the source of the data is unstructured. We want to convert our unstructured data to structured",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-import-textcsv-using-examples-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-import-textcsv-using-examples-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=QBSAcQHVAKo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QBSAcQHVAKo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M42S",
+      "path": "_learning/videos/dhruvin-shah-key-influencer-visual-in-power-bi.md",
+      "title": "Key Influencer Visual in Power BI",
+      "excerpt": "Welcome to Power BI & AI Visualization Step by Step Series! During this video, we will talk about one AI Powered Key Influencer Visual in Power BI. Sometimes, there is a need wherein we want to analyze different factors which are affecting our business outcome. To analyze this, we can use AI Powered",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-key-influencer-visual-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-key-influencer-visual-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=kWGKj7CH7M8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kWGKj7CH7M8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M3S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-08-23T20:45:34-07:00",
+      "publishedDateTime": "2022-06-29T04:52:21-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/QBSAcQHVAKo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-introducing-new-format-pane-in-power-bi-desktop.md",
-      "title": "Introducing New Format Pane in Power BI Desktop",
-      "excerpt": "During this video, we will talk about the new format pane in Power BI Desktop. Now we have consistent and easier formatting experience for our Power BI report. During this video, I will demonstrate all-new enhancements that has been rolled out as New format pane preview. We will also compare the new",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-introducing-new-format-pane-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-introducing-new-format-pane-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=6mmkyaboZ_E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6mmkyaboZ_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M24S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-11-30T03:28:12-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6mmkyaboZ_E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-introducing-power-bi-embedded-step-by-step-series.md",
-      "title": "Introducing Power BI Embedded Step by Step Series",
-      "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application.  This is Intermediate Level of",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-introducing-power-bi-embedded-step-by-step-series/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-introducing-power-bi-embedded-step-by-step-series/",
-      "originalUrl": "https://youtube.com/watch?v=tbFNzEamZyo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tbFNzEamZyo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M28S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2019-03-19T10:12:07-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tbFNzEamZyo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-maintain-tab-order-for-power-bi-report.md",
-      "title": "Maintain Tab Order for Power BI Report",
-      "excerpt": "During this session, we will talk about how we can maintain Tab Order for Power BI Report. From a report accessibility standpoint, it is necessary to maintain tab order for our Power BI Report. Sometimes when end users are accessing the Power BI Report, they are using keyboard key “Tab” to move between",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-maintain-tab-order-for-power-bi-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-maintain-tab-order-for-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=DMce0qKA_Kg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DMce0qKA_Kg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M18S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-05-19T00:57:54-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DMce0qKA_Kg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/kWGKj7CH7M8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -215,23 +124,23 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-only-retrieve-default-list-view-columns-from-sharepoint-online-to-power-bi-desktop.md",
-      "title": "Only Retrieve Default List View Columns from SharePoint Online to Power BI Desktop",
-      "excerpt": "During this video, we will talk about how we can load the data from the specific ListView to Power BI Desktop. When we are loading data from SharePoint Online List to Power BI Desktop it will load all the columns. This will take some time to load the data into Power BI. With the October 2020 release",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-only-retrieve-default-list-view-columns-from-sharepoint-online-to-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-only-retrieve-default-list-view-columns-from-sharepoint-online-to-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=jT07g-7Z7pc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jT07g-7Z7pc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M46S",
+      "path": "_learning/videos/dhruvin-shah-new-way-to-compare-date-and-datetime-value-in-power-bi-august-2021-feature-summary.md",
+      "title": "New way to compare Date and DateTime Value in Power BI - August 2021 Feature Summary",
+      "excerpt": "Welcome to one more new update from Power BI Desktop. Sometimes we need to compare date or DateTime value in our DAX expression. At that time, we are using Date() function and Time() function. Now, there's one more easy way to compare Date and Time value in Power BI which is using \"dt\" keyword before",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-way-to-compare-date-and-datetime-value-in-power-bi-august-2021-feature-summary/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-way-to-compare-date-and-datetime-value-in-power-bi-august-2021-feature-summary/",
+      "originalUrl": "https://youtube.com/watch?v=SMHbMhX1Ggg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SMHbMhX1Ggg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-10-22T05:59:22-07:00",
+      "publishedDateTime": "2021-08-21T19:43:07-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/jT07g-7Z7pc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/SMHbMhX1Ggg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -241,8 +150,67 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power BI Desktop"
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-new-way-to-upload-file-from-power-bi-workspace.md",
+      "title": "New way to Upload File from Power BI Workspace",
+      "excerpt": "In this short video, let's talk about new way to upload files from Power BI Workspace. In the workspace you want to add files to, you’ll see an Upload option next to the New button. You’ll be able to use this dropdown to connect to files stored in OneDrive for Business or any SharePoint site you have",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-way-to-upload-file-from-power-bi-workspace/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-way-to-upload-file-from-power-bi-workspace/",
+      "originalUrl": "https://youtube.com/watch?v=91LmNtIIc38",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/91LmNtIIc38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M26S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-12-12T18:51:52-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/91LmNtIIc38/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-overview-of-power-bi-apps.md",
+      "title": "Overview of Power BI Apps",
+      "excerpt": "In this video, first we will talk What is a Power BI App? An App is a Power BI content type which allows to combine dashboards, reports all in one place bundled together.  Here, we will cover the following concepts.  We will start with the explanation of What is a Power BI App? Then we will talk about",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-overview-of-power-bi-apps/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-overview-of-power-bi-apps/",
+      "originalUrl": "https://youtube.com/watch?v=mjc9PrPzf-k",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mjc9PrPzf-k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M41S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:51:54-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/mjc9PrPzf-k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -263,66 +231,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ecToHMRv7aE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-bi-admins-gain-my-workspace-access.md",
-      "title": "Power BI Admins Gain My Workspace Access",
-      "excerpt": "During this video, we will check how Power BI Admins can get User's My Workspace Access. Power BI provides secure storage for user data in their \"My Workspaces\". By default, these workspaces are private and can only be shared with others if the owner has a Pro or Premium Per User license. However, in",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-admins-gain-my-workspace-access/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-admins-gain-my-workspace-access/",
-      "originalUrl": "https://youtube.com/watch?v=98lfK_KXork",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/98lfK_KXork\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M48S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2023-02-01T06:06:01-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/98lfK_KXork/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-power-bi-goals-create-scorecard-and-manual-goals-in-power-bi.md",
-      "title": "Power BI Goals - Create Scorecard and Manual Goals in Power BI",
-      "excerpt": "Welcome to the Power BI Goals Step by Step Beginner tutorial series, During this session, we will talk about how to create Scorecard and Manual Goals in Power BI. To get started with Goals we need to create a Scorecard in Power BI. Once ou scorecard is created, we can add the Goals within the same scorecard.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-goals-create-scorecard-and-manual-goals-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-goals-create-scorecard-and-manual-goals-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=88-JKP7-3PY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/88-JKP7-3PY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M10S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2022-02-03T04:39:48-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/88-JKP7-3PY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -397,23 +305,23 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-quickly-create-power-bi-reports-in-power-bi-service.md",
-      "title": "Quickly create Power BI reports in Power BI Service",
-      "excerpt": "Welcome to my new Power BI session to demonstrate the new feature which is just been rolled out by Microsoft. Now, we can quickly create reports using the Power BI Service itself. We don’t need to open the Power BI Desktop for the same. This new feature is being rolled out from December 2020 Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-quickly-create-power-bi-reports-in-power-bi-service/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-quickly-create-power-bi-reports-in-power-bi-service/",
-      "originalUrl": "https://youtube.com/watch?v=9vAtJHVmCVI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9vAtJHVmCVI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M17S",
+      "path": "_learning/videos/dhruvin-shah-quickly-create-power-bi-report-from-sharepoint-list-or-microsoft-list.md",
+      "title": "Quickly create Power BI Report from SharePoint List  or Microsoft List",
+      "excerpt": "We will learn how to quickly create our Power BI Report directly from SharePoint List or Microsoft Lists during this session. This is the first integration experience with Power BI. This experience empowers SharePoint list and Microsoft List users to easily explore their list data with just a few clicks.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-quickly-create-power-bi-report-from-sharepoint-list-or-microsoft-list/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-quickly-create-power-bi-report-from-sharepoint-list-or-microsoft-list/",
+      "originalUrl": "https://youtube.com/watch?v=E79DnjiArGI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E79DnjiArGI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M36S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-12-21T20:58:16-08:00",
+      "publishedDateTime": "2021-05-30T04:30:20-07:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/9vAtJHVmCVI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/E79DnjiArGI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -423,8 +331,37 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power BI Service"
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-remove-or-unpublish-publish-to-web-power-bi-report.md",
+      "title": "Remove or Unpublish “Publish to Web” Power BI Report",
+      "excerpt": "In this video, we will talk the procedure of removing a Power BI report after it has been publishing to web and anonymously accessed on web.  Sometimes, there is a situation where we have published a report with web option and generated iframe code to embed the report in our custom application. Now,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-remove-or-unpublish-publish-to-web-power-bi-report/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-remove-or-unpublish-publish-to-web-power-bi-report/",
+      "originalUrl": "https://youtube.com/watch?v=l1sqT7upHjs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l1sqT7upHjs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M35S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:51:54-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/l1sqT7upHjs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -458,14 +395,74 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-sort-a-table-using-multiple-columns-in-power-bi-multi-column-sort-in-power-bi.md",
-      "title": "Sort a table using Multiple Columns in Power BI | Multi Column Sort in Power  BI",
-      "excerpt": "In this vLog, we will learn, how we can sort a tale using multiple columns for the table visualization in Power BI.  This feature has been rolled out in March 2020 Power BI Desktop Update.  Here, first we will learn how we can create apply a sort for the multiple column. Then we will change the sort",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-sort-a-table-using-multiple-columns-in-power-bi-multi-column-sort-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-sort-a-table-using-multiple-columns-in-power-bi-multi-column-sort-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=ik0K1H9j2Uc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ik0K1H9j2Uc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M43S",
+      "path": "_learning/videos/dhruvin-shah-showhide-multiple-data-values-using-tme-ag-toggle-switch-custom-visual-toggle-switch-by-tme-ag.md",
+      "title": "Show/Hide Multiple Data Values using TME AG Toggle Switch – Custom Visual – Toggle Switch by TME AG",
+      "excerpt": "During this session, we will explore one of the custom visuals in Power BI which is TME AG Toggle Switch in Power BI.   Sometimes, we need to show/hide data values based on Toggle Switch. Let’s consider one real-life example where we need to show Weekend and Weekday data. I want to provide one switch",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-showhide-multiple-data-values-using-tme-ag-toggle-switch-custom-visual-toggle-switch-by-tme-ag/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-showhide-multiple-data-values-using-tme-ag-toggle-switch-custom-visual-toggle-switch-by-tme-ag/",
+      "originalUrl": "https://youtube.com/watch?v=39Yed6hnKOE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/39Yed6hnKOE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M53S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-08-23T20:38:12-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/39Yed6hnKOE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-small-multiples-in-power-bi.md",
+      "title": "Small Multiples in Power BI",
+      "excerpt": "Welcome to my new Power BI session on Small Multiples in Power BI. “Small Multiples”- a new feature rolled out during December 2020 Power BI Desktop Update. Small Multiples is available as a Preview feature at this moment. This is a very cool feature we can use with our stacked bar and column charts,",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-small-multiples-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-small-multiples-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=0LpN-K4eppo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0LpN-K4eppo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M29S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-12-16T22:37:37-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0LpN-K4eppo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-use-page-navigation-action-for-button-to-navigate-from-one-page-to-another-in-power-bi-report.md",
+      "title": "Use Page Navigation Action for Button to Navigate from One Page to Another in Power BI Report",
+      "excerpt": "In this vLog, we will learn, about newly introduced action type for buttons which is “Page Navigation”. Sometimes we have a requirement where we need to redirect the user from one page to another page by clicking on the button.   Previously we can achieve this requirement using Bookmark and selection",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-use-page-navigation-action-for-button-to-navigate-from-one-page-to-another-in-power-bi-report/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-use-page-navigation-action-for-button-to-navigate-from-one-page-to-another-in-power-bi-report/",
+      "originalUrl": "https://youtube.com/watch?v=62wKhG1KZyM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/62wKhG1KZyM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M45S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
@@ -474,7 +471,7 @@
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ik0K1H9j2Uc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/62wKhG1KZyM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

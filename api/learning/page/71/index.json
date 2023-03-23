@@ -4,6 +4,36 @@
   "page": 71,
   "value": [
     {
+      "path": "_learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view.md",
+      "title": "New Format Pane for Power BI Mobile View",
+      "excerpt": "Create stunning, mobile-optimized Power BI reports with mobile layout’s new visual formatting pane (Preview). During this video we will talk about how we can use separate formatting Pane for Power BI Mobile Reports. Have you ever created a mobile-optimized report and struggled with its design? Did you",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-format-pane-for-power-bi-mobile-view/",
+      "originalUrl": "https://youtube.com/watch?v=i9WF5sC6HjU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i9WF5sC6HjU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M26S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-03-11T00:54:52-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/i9WF5sC6HjU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-new-model-view-updates-in-power-bi.md",
       "title": "New Model View Updates in Power BI",
       "excerpt": "With November 2020 Power BI Desktop, we have a new Model View available for exploring. During this video, I am going to talk about how the new Model view will be looking like in Power BI Desktop. Power BI Desktop launched some new icons for the Model view. We need to upgrade our Model view first. Once",
@@ -95,36 +125,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-new-way-to-upload-file-from-power-bi-workspace.md",
-      "title": "New way to Upload File from Power BI Workspace",
-      "excerpt": "In this short video, let's talk about new way to upload files from Power BI Workspace. In the workspace you want to add files to, you’ll see an Upload option next to the New button. You’ll be able to use this dropdown to connect to files stored in OneDrive for Business or any SharePoint site you have",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-new-way-to-upload-file-from-power-bi-workspace/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-new-way-to-upload-file-from-power-bi-workspace/",
-      "originalUrl": "https://youtube.com/watch?v=91LmNtIIc38",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/91LmNtIIc38\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M26S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2022-12-12T18:51:52-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/91LmNtIIc38/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-next-generation-power-bi-buttons.md",
       "title": "Next-Generation Power BI Buttons",
       "excerpt": "(September 2021 Power BI Desktop Feature Summary) | NEW FORMATTING OPTIONS FOR POWER BI BUTTONS  Welcome to one more Power BI Desktop Update from September 2021. Microsoft has announced new formatting options for Power BI Buttons. Now we can build next-generation Power BI Buttons using Shape, Icon, Fill,",
@@ -155,23 +155,23 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-overview-of-power-bi-apps.md",
-      "title": "Overview of Power BI Apps",
-      "excerpt": "In this video, first we will talk What is a Power BI App? An App is a Power BI content type which allows to combine dashboards, reports all in one place bundled together.  Here, we will cover the following concepts.  We will start with the explanation of What is a Power BI App? Then we will talk about",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-overview-of-power-bi-apps/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-overview-of-power-bi-apps/",
-      "originalUrl": "https://youtube.com/watch?v=mjc9PrPzf-k",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mjc9PrPzf-k\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M41S",
+      "path": "_learning/videos/dhruvin-shah-only-retrieve-default-list-view-columns-from-sharepoint-online-to-power-bi-desktop.md",
+      "title": "Only Retrieve Default List View Columns from SharePoint Online to Power BI Desktop",
+      "excerpt": "During this video, we will talk about how we can load the data from the specific ListView to Power BI Desktop. When we are loading data from SharePoint Online List to Power BI Desktop it will load all the columns. This will take some time to load the data into Power BI. With the October 2020 release",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-only-retrieve-default-list-view-columns-from-sharepoint-online-to-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-only-retrieve-default-list-view-columns-from-sharepoint-online-to-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=jT07g-7Z7pc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jT07g-7Z7pc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M46S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2020-03-25T04:51:54-07:00",
+      "publishedDateTime": "2020-10-22T05:59:22-07:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mjc9PrPzf-k/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/jT07g-7Z7pc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -181,7 +181,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power BI Desktop"
       ]
     },
     {
@@ -275,6 +276,36 @@
       ]
     },
     {
+      "path": "_learning/videos/dhruvin-shah-power-bi-admins-gain-my-workspace-access.md",
+      "title": "Power BI Admins Gain My Workspace Access",
+      "excerpt": "During this video, we will check how Power BI Admins can get User's My Workspace Access. Power BI provides secure storage for user data in their \"My Workspaces\". By default, these workspaces are private and can only be shared with others if the owner has a Pro or Premium Per User license. However, in",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-admins-gain-my-workspace-access/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-admins-gain-my-workspace-access/",
+      "originalUrl": "https://youtube.com/watch?v=98lfK_KXork",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/98lfK_KXork\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1M48S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2023-02-01T06:06:01-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/98lfK_KXork/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-power-bi-goals-complete-beginner-step-by-step-series.md",
       "title": "Power BI Goals - Complete Beginner Step by Step Series",
       "excerpt": "Welcome to Power BI Goals Step by Step tutorials for Beginners. During this session we will talk about Power BI Goals in Detail. We will learn Goals in Power BI from scratch. This session covers the information about What is Goals in Power BI? Why we need to use Power BI Goals? Which type of Licensing",
@@ -292,6 +323,36 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Y4M6e4JU-Z0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-power-bi-goals-create-scorecard-and-manual-goals-in-power-bi.md",
+      "title": "Power BI Goals - Create Scorecard and Manual Goals in Power BI",
+      "excerpt": "Welcome to the Power BI Goals Step by Step Beginner tutorial series, During this session, we will talk about how to create Scorecard and Manual Goals in Power BI. To get started with Goals we need to create a Scorecard in Power BI. Once ou scorecard is created, we can add the Goals within the same scorecard.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-goals-create-scorecard-and-manual-goals-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-goals-create-scorecard-and-manual-goals-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=88-JKP7-3PY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/88-JKP7-3PY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M10S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2022-02-03T04:39:48-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/88-JKP7-3PY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -699,23 +760,23 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-quickly-create-power-bi-report-from-sharepoint-list-or-microsoft-list.md",
-      "title": "Quickly create Power BI Report from SharePoint List  or Microsoft List",
-      "excerpt": "We will learn how to quickly create our Power BI Report directly from SharePoint List or Microsoft Lists during this session. This is the first integration experience with Power BI. This experience empowers SharePoint list and Microsoft List users to easily explore their list data with just a few clicks.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-quickly-create-power-bi-report-from-sharepoint-list-or-microsoft-list/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-quickly-create-power-bi-report-from-sharepoint-list-or-microsoft-list/",
-      "originalUrl": "https://youtube.com/watch?v=E79DnjiArGI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E79DnjiArGI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M36S",
+      "path": "_learning/videos/dhruvin-shah-quickly-create-power-bi-reports-in-power-bi-service.md",
+      "title": "Quickly create Power BI reports in Power BI Service",
+      "excerpt": "Welcome to my new Power BI session to demonstrate the new feature which is just been rolled out by Microsoft. Now, we can quickly create reports using the Power BI Service itself. We don’t need to open the Power BI Desktop for the same. This new feature is being rolled out from December 2020 Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-quickly-create-power-bi-reports-in-power-bi-service/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-quickly-create-power-bi-reports-in-power-bi-service/",
+      "originalUrl": "https://youtube.com/watch?v=9vAtJHVmCVI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9vAtJHVmCVI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M17S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-05-30T04:30:20-07:00",
+      "publishedDateTime": "2020-12-21T20:58:16-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/E79DnjiArGI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/9vAtJHVmCVI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -725,7 +786,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power BI Service"
       ]
     },
     {
@@ -820,36 +882,6 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-remove-or-unpublish-publish-to-web-power-bi-report.md",
-      "title": "Remove or Unpublish “Publish to Web” Power BI Report",
-      "excerpt": "In this video, we will talk the procedure of removing a Power BI report after it has been publishing to web and anonymously accessed on web.  Sometimes, there is a situation where we have published a report with web option and generated iframe code to embed the report in our custom application. Now,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-remove-or-unpublish-publish-to-web-power-bi-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-remove-or-unpublish-publish-to-web-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=l1sqT7upHjs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l1sqT7upHjs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M35S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:51:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/l1sqT7upHjs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-remove-users-from-power-bi-workspace-using-power-bi-powershell-power-bi-and-powershell.md",
       "title": "Remove Users From Power BI Workspace Using Power BI PowerShell | Power BI and PowerShell",
       "excerpt": "In this video, we will learn how we can remove the users from the Power BI Workspace using Windows PowerShell.   Power BI PowerShell provides us with the flexibility to remove user permission from the specific Workspace. In this video, we will learn how we can remove the user using the PowerShell Script.",
@@ -867,36 +899,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/r3Ou7AGLI-I/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-resolve-contact-your-admin-to-enable-code-creation-error-while-using-publish-to-web-option.md",
-      "title": "Resolve “Contact your admin to enable code creation” Error while using Publish to web option",
-      "excerpt": "In this video, we will talk about how we can resolve an error – “Contact your admin to enable code creation”. To publish this report on the web, ask your Power BI admin if they will allow you to create new publish to web embed codes. Once they turn that on, you will be able to publish this report to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-resolve-contact-your-admin-to-enable-code-creation-error-while-using-publish-to-web-option/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-resolve-contact-your-admin-to-enable-code-creation-error-while-using-publish-to-web-option/",
-      "originalUrl": "https://youtube.com/watch?v=WPlkCRiODoc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WPlkCRiODoc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M54S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:52:50-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WPlkCRiODoc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
