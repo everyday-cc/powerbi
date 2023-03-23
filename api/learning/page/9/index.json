@@ -178,7 +178,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
@@ -387,7 +387,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-automate-social.png",
@@ -1290,8 +1290,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2464,
-            "average": 4.765422
+            "count": 2465,
+            "average": 4.765517
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1332,8 +1332,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2127,
-            "average": 4.706159
+            "count": 2128,
+            "average": 4.706297
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1852,8 +1852,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 2464,
-        "average": 4.765422
+        "count": 2465,
+        "average": 4.765517
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1894,8 +1894,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 6703,
-        "average": 4.7513056
+        "count": 6705,
+        "average": 4.7513795
       },
       "provider": {
         "name": "Microsoft Learn",
