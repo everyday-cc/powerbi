@@ -917,8 +917,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 475,
-            "average": 4.7810526
+            "count": 476,
+            "average": 4.7815127
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1061,8 +1061,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
       "length": "PT29M",
       "ratings": {
-        "count": 475,
-        "average": 4.7810526
+        "count": 476,
+        "average": 4.7815127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1103,8 +1103,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
       "length": "PT32M",
       "ratings": {
-        "count": 2131,
-        "average": 4.706241
+        "count": 2132,
+        "average": 4.706379
       },
       "provider": {
         "name": "Microsoft Learn",
