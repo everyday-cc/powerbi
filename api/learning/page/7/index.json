@@ -2930,8 +2930,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 6526,
-            "average": 4.725866
+            "count": 6527,
+            "average": 4.725908
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2972,8 +2972,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 5750,
-            "average": 4.731304
+            "count": 5752,
+            "average": 4.7313976
           },
           "provider": {
             "name": "Microsoft Learn",
