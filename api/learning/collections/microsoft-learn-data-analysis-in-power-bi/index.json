@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 5710,
-        "average": 4.711559
+        "count": 5711,
+        "average": 4.7116094
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 58,
+      "heat": 57,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/ai-visuals-power-bi-social.png",
