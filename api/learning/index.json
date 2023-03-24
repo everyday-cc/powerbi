@@ -187,14 +187,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-how-to-get-a-clock-in-your-power-bi-report.md",
-      "title": "How to get a CLOCK in your Power BI Report",
-      "excerpt": "We had a question about how to get a clock in Power BI? Is that even possible? Patrick takes advantage of the Deneb visual to make it happen!  Vega Clock Sample https://vega.github.io/vega/examples/clock/  HTML Content Custom Visual Limitations https://www.html-content.com/reference/limitations  Kerry",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-to-get-a-clock-in-your-power-bi-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-to-get-a-clock-in-your-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=6RzC1P_1Elg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6RzC1P_1Elg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M23S",
+      "path": "_learning/videos/guy-in-a-cube-time-to-look-at-the-new-index-function-in-dax-and-power-bi.md",
+      "title": "Time to look at the new INDEX function in DAX and Power BI",
+      "excerpt": "The latest DAX functions in Power BI can be very \"power\"ful! Patrick starts by looking at the INDEX function to solve a customer problem!  Blog announcement: https://powerbi.microsoft.com/blog/power-bi-december-2022-feature-summary/#post-21693-_Toc121395731  INDEX function (DAX) https://learn.microsoft.com/dax/index-function-dax",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-time-to-look-at-the-new-index-function-in-dax-and-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-time-to-look-at-the-new-index-function-in-dax-and-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=WXpxNpnE3D4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WXpxNpnE3D4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M1S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -207,11 +207,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-02-22T08:00:03-08:00",
-      "heat": 143,
+      "publishedDateTime": "2023-02-08T08:00:15-08:00",
+      "heat": 142,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6RzC1P_1Elg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/WXpxNpnE3D4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -221,83 +221,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-to-surrogate-key-or-not.md",
-      "title": "To Surrogate Key or Not...",
-      "excerpt": "We've talked about using a surrogate key in your data warehouse whether that's Azure Synapse Analytics or something else. Patrick looks at why you should consider this even if you aren't using a slowly changing dimension.  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-to-surrogate-key-or-not/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-to-surrogate-key-or-not/",
-      "originalUrl": "https://youtube.com/watch?v=XkjJo7J8CyQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XkjJo7J8CyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M55S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-01-03T08:00:14-08:00",
-      "heat": 135,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XkjJo7J8CyQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-what-happens-when-you-miss-a-refresh-day-with-power-bi-incremental-refresh.md",
-      "title": "What happens when you miss a refresh day with Power BI Incremental Refresh?",
-      "excerpt": "You've set up Power BI Incremental Refresh and there is a day that is missed because schedule refresh failed or some other reason. What happens? Do you lose that data? Patrick digs in!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-happens-when-you-miss-a-refresh-day-with-power-bi-incremental-refresh/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-happens-when-you-miss-a-refresh-day-with-power-bi-incremental-refresh/",
-      "originalUrl": "https://youtube.com/watch?v=nMSuWbKUvAY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nMSuWbKUvAY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M33S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-01-25T08:00:35-08:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nMSuWbKUvAY/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -331,8 +256,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 58424,
-            "average": 4.7956834
+            "count": 58435,
+            "average": 4.795636
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -373,8 +298,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 83405,
-            "average": 4.777903
+            "count": 83419,
+            "average": 4.7779164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -426,6 +351,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-connect-power-platform-to-sap-azure.md",
+      "title": "Connect Power Platform to SAP on Azure",
+      "excerpt": "Connect Power Platform to SAP on Azure",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-connect-power-platform-to-sap-azure/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/connect-power-platform-to-sap-azure/",
+      "length": "PT33M",
+      "ratings": {
+        "count": 39,
+        "average": 4.769231
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/azure-sap-connect-power-platform-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
       "title": "Get started building with Power BI",
       "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
@@ -433,8 +400,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 83405,
-        "average": 4.777903
+        "count": 83419,
+        "average": 4.7779164
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -462,6 +429,44 @@
       ],
       "content": "\r\n",
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-ready-to-be-a-kusto-detective-with-azure-data-explorer.md",
+      "title": "Ready to be a Kusto Detective with Azure Data Explorer?",
+      "excerpt": "Your detective journey starts with the Kusto Detective Agency for Azure Data Explorer. This is a really fun way to learn the Kusto Query Languate (KQL)! Patrick gets you started! And, it's FREE!  Kusto Detective Agency: https://detective.kusto.io/  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-ready-to-be-a-kusto-detective-with-azure-data-explorer/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-ready-to-be-a-kusto-detective-with-azure-data-explorer/",
+      "originalUrl": "https://youtube.com/watch?v=ayV1r2vFYnI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ayV1r2vFYnI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M55S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-01-31T08:00:04-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ayV1r2vFYnI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -725,8 +730,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 16330,
-            "average": 4.7546234
+            "count": 16344,
+            "average": 4.7544055
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -767,8 +772,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10938,
-            "average": 4.6763577
+            "count": 10941,
+            "average": 4.6764464
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -801,8 +806,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 83405,
-            "average": 4.777903
+            "count": 83419,
+            "average": 4.7779164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -861,8 +866,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 16330,
-        "average": 4.7546234
+        "count": 16344,
+        "average": 4.7544055
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -903,8 +908,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 58424,
-        "average": 4.7956834
+        "count": 58435,
+        "average": 4.795636
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -959,7 +964,7 @@
         ]
       },
       "publishedDateTime": "2020-10-03T08:41:13-07:00",
-      "heat": 117,
+      "heat": 116,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/4zsL2qOJ7iI/maxresdefault.jpg",
@@ -1138,8 +1143,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 26104,
-        "average": 4.726019
+        "count": 26109,
+        "average": 4.725995
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1203,8 +1208,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 83405,
-            "average": 4.777903
+            "count": 83419,
+            "average": 4.7779164
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1245,8 +1250,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 33548,
-            "average": 4.7268987
+            "count": 33552,
+            "average": 4.7269015
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1288,8 +1293,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15480,
-            "average": 4.719897
+            "count": 15482,
+            "average": 4.719933
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1330,8 +1335,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6964,
-            "average": 4.760339
+            "count": 6967,
+            "average": 4.7604423
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1348,7 +1353,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 63,
+          "heat": 64,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/create-visuals-power-bi-desktop-social.png",
