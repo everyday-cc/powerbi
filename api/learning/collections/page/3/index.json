@@ -451,8 +451,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 222,
-            "average": 4.63964
+            "count": 223,
+            "average": 4.6412554
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -888,7 +888,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 131,
+          "heat": 51,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
@@ -954,8 +954,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 137,
-            "average": 4.6642337
+            "count": 138,
+            "average": 4.6666665
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1079,8 +1079,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-deployment-pipelines/",
           "length": "PT42M",
           "ratings": {
-            "count": 127,
-            "average": 4.7559056
+            "count": 128,
+            "average": 4.7578125
           },
           "provider": {
             "name": "Microsoft Learn",
