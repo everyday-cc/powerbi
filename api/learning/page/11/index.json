@@ -1020,8 +1020,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3719,
-            "average": 4.65851
+            "count": 3721,
+            "average": 4.658694
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1062,8 +1062,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6105,
-            "average": 4.69353
+            "count": 6106,
+            "average": 4.69358
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1145,8 +1145,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 2887,
-            "average": 4.722203
+            "count": 2888,
+            "average": 4.722299
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1187,8 +1187,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5708,
-            "average": 4.7114577
+            "count": 5709,
+            "average": 4.7115083
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1247,8 +1247,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 5708,
-        "average": 4.7114577
+        "count": 5709,
+        "average": 4.7115083
       },
       "provider": {
         "name": "Microsoft Learn",
