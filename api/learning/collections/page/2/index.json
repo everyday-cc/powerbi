@@ -490,8 +490,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 652,
-            "average": 4.766871
+            "count": 653,
+            "average": 4.767228
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4744,8 +4744,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3735,
-            "average": 4.659973
+            "count": 3736,
+            "average": 4.660064
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5078,8 +5078,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5699,
-            "average": 4.7975082
+            "count": 5700,
+            "average": 4.797544
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5314,8 +5314,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 241,
-            "average": 4.6763487
+            "count": 242,
+            "average": 4.6694217
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5356,8 +5356,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 150,
-            "average": 4.673333
+            "count": 151,
+            "average": 4.6754966
           },
           "provider": {
             "name": "Microsoft Learn",
