@@ -4,6 +4,45 @@
   "page": 1,
   "value": [
     {
+      "path": "_people/reza-rad.md",
+      "title": "Reza Rad",
+      "excerpt": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/reza-rad/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/reza-rad/",
+      "type": "profile",
+      "name": "Reza Rad",
+      "bio": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
+      "location": "New Zealand",
+      "website": "https://t.co/mnW39vaMYS",
+      "twitter": {
+        "username": "Rad_Reza",
+        "url": "https://twitter.com/Rad_Reza",
+        "followers": 10544
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/rezarad/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 127,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Reza Rad",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_people/patrick-leblanc.md",
       "title": "Patrick LeBlanc",
       "excerpt": "Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events.",
@@ -38,7 +77,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 207,
+      "heat": 102,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1581687405358333954/jauNU1-Y_400x400.jpg",
@@ -51,86 +90,39 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/reza-rad.md",
-      "title": "Reza Rad",
-      "excerpt": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/reza-rad/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/reza-rad/",
+      "path": "_people/avi-singh.md",
+      "title": "Avi Singh",
+      "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/avi-singh/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/avi-singh/",
       "type": "profile",
-      "name": "Reza Rad",
-      "bio": "#Microsoft Regional Director, #MVP #Author #Trainer #Speaker #Coach #Consultant #PowerBI ",
-      "location": "New Zealand",
-      "website": "https://t.co/mnW39vaMYS",
-      "twitter": {
-        "username": "Rad_Reza",
-        "url": "https://twitter.com/Rad_Reza",
-        "followers": 10543
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/rezarad/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 115,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Reza Rad",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/arun-ulag.md",
-      "title": "Arun Ulag",
-      "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/arun-ulag/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/arun-ulag/",
-      "type": "profile",
-      "name": "Arun Ulag",
-      "bio": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
+      "name": "Avi Singh",
+      "bio": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
       "location": "Seattle, WA",
-      "website": "https://t.co/FklqJqbSAZ",
+      "website": "https://www.learnpowerbi.com/",
       "twitter": {
-        "username": "arunulag",
-        "url": "https://twitter.com/arunulag",
-        "followers": 5025
+        "username": "powerbipro",
+        "url": "https://twitter.com/powerbipro",
+        "followers": 5680
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/arunulag/"
+        "url": "https://www.linkedin.com/in/avichalsingh/"
       },
       "affiliation": {
         "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
       },
       "topics": [
         "Power BI"
       ],
-      "heat": 78,
+      "heat": 66,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1622337081463967744/WYn9S1E2_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Arun Ulag",
+          "title": "Avi Singh",
           "isCached": true
         }
       ],
@@ -171,7 +163,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 77,
+      "heat": 65,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg",
@@ -184,39 +176,84 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/avi-singh.md",
-      "title": "Avi Singh",
-      "excerpt": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/avi-singh/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/avi-singh/",
+      "path": "_people/seth-bauer.md",
+      "title": "Seth Bauer",
+      "excerpt": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/seth-bauer/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/seth-bauer/",
       "type": "profile",
-      "name": "Avi Singh",
-      "bio": "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge",
-      "location": "Seattle, WA",
-      "website": "https://www.learnpowerbi.com/",
+      "name": "Seth Bauer",
+      "bio": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
       "twitter": {
-        "username": "powerbipro",
-        "url": "https://twitter.com/powerbipro",
-        "followers": 5680
+        "username": "Seth_C_Bauer",
+        "url": "https://twitter.com/Seth_C_Bauer",
+        "followers": 2124
       },
       "linkedin": {
-        "url": "https://www.linkedin.com/in/avichalsingh/"
+        "url": "https://www.linkedin.com/in/seth-bauer/"
       },
       "affiliation": {
         "path": "",
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
       },
       "topics": [
         "Power BI"
       ],
-      "heat": 65,
+      "heat": 51,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Avi Singh",
+          "title": "Seth Bauer",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/arun-ulag.md",
+      "title": "Arun Ulag",
+      "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/arun-ulag/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/arun-ulag/",
+      "type": "profile",
+      "name": "Arun Ulag",
+      "bio": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
+      "location": "Seattle, WA",
+      "website": "https://t.co/FklqJqbSAZ",
+      "twitter": {
+        "username": "arunulag",
+        "url": "https://twitter.com/arunulag",
+        "followers": 5025
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/arunulag/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1622337081463967744/WYn9S1E2_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Arun Ulag",
           "isCached": true
         }
       ],
@@ -249,50 +286,13 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 43,
+      "heat": 42,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Mike Carlo",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/seth-bauer.md",
-      "title": "Seth Bauer",
-      "excerpt": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/seth-bauer/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/seth-bauer/",
-      "type": "profile",
-      "name": "Seth Bauer",
-      "bio": "As a co-owner of PowerBI.Tips I enjoy helping create a platform for new and advanced users alike to learn and expand their skills and get the most out of Power BI.",
-      "twitter": {
-        "username": "Seth_C_Bauer",
-        "url": "https://twitter.com/Seth_C_Bauer",
-        "followers": 2124
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/seth-bauer/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 43,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Seth Bauer",
           "isCached": true
         }
       ],
