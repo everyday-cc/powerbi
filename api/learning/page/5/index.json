@@ -267,8 +267,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 10224,
-        "average": 4.745012
+        "count": 10225,
+        "average": 4.7450366
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -309,8 +309,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 6981,
-        "average": 4.7609224
+        "count": 6982,
+        "average": 4.760957
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -949,8 +949,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 6559,
-            "average": 4.7251105
+            "count": 6560,
+            "average": 4.7251525
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1074,8 +1074,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 10224,
-            "average": 4.745012
+            "count": 10225,
+            "average": 4.7450366
           },
           "provider": {
             "name": "Microsoft Learn",
