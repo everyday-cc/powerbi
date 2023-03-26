@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT8M32S
 publishedDateTime: 2020-10-26T13:21:04Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UwXo1OcwbAg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "LdkZ6wNKDwKfAMJ1zcwEJdO5BV7xdsj04rkWoiU4InmVJ2oPJdm+rKzOcCp2ORv2hpCHLdzP33gYicmLUwrgZh2EYq9EVAXQUOhPz5h2UGSJWKHXzKN78mhKyu+34we2ZKNXuxNZTl+yxC4ig2LX6ruQKeWIHWzkRwQ7kE70PkNY6URvrD5nzzqfmYkazwNZv1Cv8tE4ZPIDbn0sNN5vydnbkhGsvcLwbHqCmuFWEeXrTE1cRrReW9wfYOu7n9X5gTy7Mqc/yu8tjc3JxLF4YmnKQqO3WawfQfN/cBQvplqsK9jHVjp5JpGMV/KOYDc+/Oiz2i2X6Ubxw7/WZloB5py2rOvgQpb7u9nYpaY2hdAuveGjkV2ySKTM6DRgLFndXbyVeEgUUhGV6ns/J7i1Hi/7NMtT/QxwKLYr3gWgHB8=;zCHTqSvsubQ1bbCe2aZrbg=="
+secured: "LALmosco09aliElkHWSmMTmr/p2kyNszWL/XmwJ/4dTA7kP+1Whf8DB6fcm9ZmZA4IYG7sHXx71kiaFSo+UnFn3chDgTuK1AbBROLuGtdJ2/9zQTz7zkD3N7viMM6VHenQmwM0LcOqzJASJl/d4GYILVZNHQ2vxkqYylZIF3R+7ZDlgGQqh7KnDMS+0s1fjPV2KgFLecSU4w1E7gzzMoSng69ksXkMX+qj/no4QrU5lgyUgqNYI/ZmyoY+qIo3aftKrKZiBVXlyqGO0y97xMqxnn3DKvDfIk2PRcm0RFiTOlHHmWPpj6FHdY6UecC8s9tYKCwzI80y3jXvV9tRHH83nWIjyBayhpFP060ldHiUtj7M2xUhe+eHwQuhUsrsny7HwWJa3q2fGfngFMYQ5nTcp0ZdNh+juXj1qTHfpi/p4=;hqM+XusOwtAYv7AlgZVNpw=="
 ---
 
