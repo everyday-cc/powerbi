@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 151,
+      "heat": 71,
       "content": "\r\n",
       "type": "course",
       "price": "Free",
@@ -45,8 +45,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 10724,
-        "average": 4.703376
+        "count": 10726,
+        "average": 4.7033377
       },
       "provider": {
         "name": "Microsoft Learn",
