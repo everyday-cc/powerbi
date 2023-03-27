@@ -265,8 +265,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3672,
-            "average": 4.75
+            "count": 3674,
+            "average": 4.750136
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3043,8 +3043,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 3754,
-        "average": 4.6590304
+        "count": 3758,
+        "average": 4.659127
       },
       "provider": {
         "name": "Microsoft Learn",
