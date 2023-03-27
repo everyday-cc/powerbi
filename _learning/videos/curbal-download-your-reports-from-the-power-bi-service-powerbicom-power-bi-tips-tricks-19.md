@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M57S
 publishedDateTime: 2016-11-28T18:44:41Z
-heat: 52
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/d0Wn6_hbUCo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "gDZg8mUuIuYYkx1IdXnmyaQyy0fNJyZJhJCWLe6vcSFxc5lNQdDld1Im+f1Tmpfno4XwU/ojjsTluzDvMHjMSEgybBKA+pwnF6Q4AFaFfVXxRW6kWU81CubKmTRZopV5ipRHdgKehMuTRG2fqWYo1kU3UEToVCnD0356XXiH7GCJK7rOwDJ4ovjd30rZ/AMgufnmgU2ar6GUIOrEOr0b7UIAJTe4ZzkGDvoRVYvpVBlmyYkOfU7Wl+2Kj2oUt88L6T9/VWjVCyS9c4ukeTlvYVEU/S7Hz72Jp/8Wx4K8YraTLqcrg6SUfDXKMWYHw2ysEUiIjv7Otx9t3ADQLMwmHZmJ/Gcuif71j9uvE7pBCsPfHs4hUZWzgaxVYpfcCoFsk78pbhrKSEiltAE9ZVo/UiXDbNMLttZj4owby8OCVWk=;UtxkeYaz//SOrQ2/VKVdLg=="
+secured: "ao0ZSumPRSY7dIEXAn2zAwNLsCABO+020+JQ//Rphy9S33K8YVbKiDJFbZeppaXEGzfpAqStIX3flIabpgvTS+4W9PrBCbFg+Dzv1II+VPVvpvdOeXYCXY6y9qSvB7LDIuku9nEgI6rLT/b7VhfrE57EfpItYOPxksyiRU/jkedHadOgFp6dQgQ60TksB1p9CJRyB5nFQgPTkBGvMipKmC/1duEtVAmCPHCyKC/FiBMxksMwYBxb97L16z5HAkpliIKptyVrCYAOrJTmK8OyVfSACSw2E5hCrX0K19nbYOfMK/5XAzDXgULc26ddPUXVPyLvlwreV1ldiO0j4+c/i7zyKjHUarGQERYQ6+ZwIg4yNfgkOf8gosrwcGmvJnRiTVzBSLIdcj3wD7CVYUX2Fl5EsQHGlQL9/fcjHsD+qWs=;pV0bT8cS6vr6pFBg2sUJXw=="
 ---
 
