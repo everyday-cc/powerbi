@@ -187,14 +187,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-wait-using-a-power-bi-date-slicer-what-are-my-dates-when-using-between.md",
-      "title": "Wait! Using a Power BI Date slicer, what are my dates when using between?",
-      "excerpt": "Struggling to get dates when using a between date slicer, or a before, or after? Patrick walks through a straightforward way to get the date values when using a date slicer in Power BI!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-wait-using-a-power-bi-date-slicer-what-are-my-dates-when-using-between/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-wait-using-a-power-bi-date-slicer-what-are-my-dates-when-using-between/",
-      "originalUrl": "https://youtube.com/watch?v=dlZoy8pQWSU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dlZoy8pQWSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M31S",
+      "path": "_learning/videos/guy-in-a-cube-calling-a-stored-procedure-using-incremental-refresh-in-power-bi-we-think-so.md",
+      "title": "Calling a Stored Procedure using Incremental Refresh in Power BI? We think so!",
+      "excerpt": "Have you wanted to use a Stored Procedure with Incremental Refresh? Patrick has a way that you can do just that!   Sandeep's blog: https://pawarbi.github.io/blog/power%20bi/powerquery/queryfolding/m/optimization/2022/01/25/parameter-valuenativequery-query-folding-where-clause-in-powerbi.html  Stored",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-calling-a-stored-procedure-using-incremental-refresh-in-power-bi-we-think-so/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-calling-a-stored-procedure-using-incremental-refresh-in-power-bi-we-think-so/",
+      "originalUrl": "https://youtube.com/watch?v=-KXDpi_wyD4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-KXDpi_wyD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M49S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -207,49 +207,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-01-05T08:00:19-08:00",
+      "publishedDateTime": "2023-02-01T08:00:00-08:00",
       "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/dlZoy8pQWSU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-to-surrogate-key-or-not.md",
-      "title": "To Surrogate Key or Not...",
-      "excerpt": "We've talked about using a surrogate key in your data warehouse whether that's Azure Synapse Analytics or something else. Patrick looks at why you should consider this even if you aren't using a slowly changing dimension.  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-to-surrogate-key-or-not/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-to-surrogate-key-or-not/",
-      "originalUrl": "https://youtube.com/watch?v=XkjJo7J8CyQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XkjJo7J8CyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M55S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-01-03T08:00:14-08:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XkjJo7J8CyQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-KXDpi_wyD4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -263,33 +225,67 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-what-do-you-want-to-see-from-guy-in-a-cube-channel-update.md",
-      "title": "What do you want to see from Guy in a Cube? - Channel Update",
-      "excerpt": "It's 2023 and there are amazing things ahead! Adam looks at what will be coming for the Guy in a Cube channel, and more importantly has a question for YOU!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-do-you-want-to-see-from-guy-in-a-cube-channel-update/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-do-you-want-to-see-from-guy-in-a-cube-channel-update/",
-      "originalUrl": "https://youtube.com/watch?v=WQGS48ZcdbE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WQGS48ZcdbE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M2S",
+      "path": "_learning/courses/microsoft-learn-understand-advanced-data-visualization-concepts.md",
+      "title": "Understand advanced data visualization concepts",
+      "excerpt": "Create cohesive, inclusive, and efficient Power BI reports to effectively communicate results.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-understand-advanced-data-visualization-concepts/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
+      "length": "PT25M",
+      "ratings": {
+        "count": 319,
+        "average": 4.7523513
+      },
       "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2023-01-26T08:00:17-08:00",
-      "heat": 130,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 131,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/WQGS48ZcdbE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://learn.microsoft.com/training/achievements/understand-advanced-data-visualization-concepts-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/power-bi-tips-error-importing-theme-file-quick-tip.md",
+      "title": "Error Importing Theme File - Quick Tip",
+      "excerpt": "Power BI desktop released a new version in February of 2023, this feature breaks any custom properties observed when uploading a theme file into Power BI desktop.  This video show you how to use the PowerBI.tips theme generator to generate files without any errors.   Use the Theme generator https://themes.powerbi.tips",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-error-importing-theme-file-quick-tip/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-error-importing-theme-file-quick-tip/",
+      "originalUrl": "https://youtube.com/watch?v=lkHxdO3YL-A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lkHxdO3YL-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M6S",
+      "provider": {
+        "name": "Power BI Tips",
+        "domain": "powerbi.tips"
+      },
+      "publishedDateTime": "2023-02-25T14:58:34-08:00",
+      "heat": 131,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lkHxdO3YL-A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -407,8 +403,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 58609,
-            "average": 4.7956285
+            "count": 58619,
+            "average": 4.7956295
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -425,7 +421,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 103,
+          "heat": 104,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
@@ -449,7 +445,7 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 83639,
+            "count": 83648,
             "average": 4.777759
           },
           "provider": {
@@ -467,7 +463,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 113,
+          "heat": 115,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -485,7 +481,7 @@
         }
       ],
       "size": 2,
-      "heat": 113,
+      "heat": 115,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
@@ -509,7 +505,7 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 83639,
+        "count": 83648,
         "average": 4.777759
       },
       "provider": {
@@ -527,7 +523,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 113,
+      "heat": 115,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -802,8 +798,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 16546,
-            "average": 4.7543817
+            "count": 16557,
+            "average": 4.754424
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -844,8 +840,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 10986,
-            "average": 4.675951
+            "count": 10990,
+            "average": 4.675796
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -878,7 +874,7 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 83639,
+            "count": 83648,
             "average": 4.777759
           },
           "provider": {
@@ -896,7 +892,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 113,
+          "heat": 115,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -938,8 +934,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 16546,
-        "average": 4.7543817
+        "count": 16557,
+        "average": 4.754424
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1019,8 +1015,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 58609,
-        "average": 4.7956285
+        "count": 58619,
+        "average": 4.7956295
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1037,7 +1033,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 103,
+      "heat": 104,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/data-analytics-and-microsoft-social.png",
@@ -1313,7 +1309,7 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 83639,
+            "count": 83648,
             "average": 4.777759
           },
           "provider": {
@@ -1331,7 +1327,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 113,
+          "heat": 115,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -1355,8 +1351,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 33600,
-            "average": 4.726905
+            "count": 33602,
+            "average": 4.726921
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1398,8 +1394,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15518,
-            "average": 4.7199383
+            "count": 15520,
+            "average": 4.719652
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1440,8 +1436,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 6996,
-            "average": 4.7611494
+            "count": 6998,
+            "average": 4.7612176
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1645,8 +1641,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 26222,
-        "average": 4.726184
+        "count": 26231,
+        "average": 4.726202
       },
       "provider": {
         "name": "Microsoft Learn",

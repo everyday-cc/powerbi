@@ -159,8 +159,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 636,
-            "average": 4.7562895
+            "count": 637,
+            "average": 4.756672
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -243,8 +243,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 482,
-            "average": 4.784232
+            "count": 483,
+            "average": 4.784679
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -911,8 +911,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-power-bi-assets/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 59,
-            "average": 4.7966104
+            "count": 60,
+            "average": 4.8
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1078,8 +1078,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 109,
-            "average": 4.7798166
+            "count": 110,
+            "average": 4.7818184
           },
           "provider": {
             "name": "Microsoft Learn",
