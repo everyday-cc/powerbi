@@ -4,7 +4,7 @@ excerpt: "I do a lot of Power BI model and report development; maybe you do too.
 webUrl: https://exceleratorbi.com.au/incremental-backup-of-pbix-files/
 type: article
 publishedDateTime: 2023-03-13T22:44:53Z
-heat: 80
+heat: 50
 
 provider:
   name: Excelerator BI
