@@ -454,8 +454,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 10245,
-            "average": 4.7453394
+            "count": 10247,
+            "average": 4.7451935
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4797,8 +4797,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6125,
-            "average": 4.693714
+            "count": 6126,
+            "average": 4.693764
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5200,8 +5200,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 155,
-            "average": 4.683871
+            "count": 156,
+            "average": 4.6858974
           },
           "provider": {
             "name": "Microsoft Learn",
