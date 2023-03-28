@@ -1185,8 +1185,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 10254,
-            "average": 4.745075
+            "count": 10256,
+            "average": 4.745027
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1227,8 +1227,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 8389,
-            "average": 4.710335
+            "count": 8390,
+            "average": 4.7103696
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1270,8 +1270,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9530,
-            "average": 4.7632737
+            "count": 9531,
+            "average": 4.7632985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2841,8 +2841,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 170,
-            "average": 4.7058825
+            "count": 171,
+            "average": 4.7076025
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3426,8 +3426,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1400,
-            "average": 4.742857
+            "count": 1401,
+            "average": 4.7430406
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3595,8 +3595,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2472,
-            "average": 4.727751
+            "count": 2474,
+            "average": 4.727971
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3679,8 +3679,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1180,
-            "average": 4.7754235
+            "count": 1181,
+            "average": 4.775614
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4013,8 +4013,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 170,
-            "average": 4.7058825
+            "count": 171,
+            "average": 4.7076025
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4366,7 +4366,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png",
@@ -4849,8 +4849,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2472,
-            "average": 4.727751
+            "count": 2474,
+            "average": 4.727971
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4891,8 +4891,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3768,
-            "average": 4.6587048
+            "count": 3770,
+            "average": 4.658886
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5058,8 +5058,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5732,
-            "average": 4.711619
+            "count": 5733,
+            "average": 4.711495
           },
           "provider": {
             "name": "Microsoft Learn",
