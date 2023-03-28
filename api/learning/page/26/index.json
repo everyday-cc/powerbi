@@ -551,8 +551,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 638,
-            "average": 4.7570534
+            "count": 639,
+            "average": 4.7574334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -802,8 +802,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5723,
-            "average": 4.7978334
+            "count": 5724,
+            "average": 4.7978687
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -904,8 +904,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-iterator-functions/",
       "length": "PT12M",
       "ratings": {
-        "count": 595,
-        "average": 4.702521
+        "count": 596,
+        "average": 4.70302
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -948,8 +948,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2402,
-        "average": 4.7335553
+        "count": 2403,
+        "average": 4.7336664
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -992,8 +992,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 638,
-        "average": 4.7570534
+        "count": 639,
+        "average": 4.7574334
       },
       "provider": {
         "name": "Microsoft Learn",
