@@ -14,7 +14,7 @@ website: https://t.co/Z3zO6dilSk
 twitter:
   username: Mike_R_Carlo
   url: https://twitter.com/Mike_R_Carlo
-  followers: 2644
+  followers: 2643
 
 linkedin:
   url: https://www.linkedin.com/in/michaelcarlo/
