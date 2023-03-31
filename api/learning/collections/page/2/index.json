@@ -3782,7 +3782,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-data-connectivity-social.png",
@@ -4737,8 +4737,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6146,
-            "average": 4.6936216
+            "count": 6148,
+            "average": 4.693722
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4945,8 +4945,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2501,
-            "average": 4.7660937
+            "count": 2502,
+            "average": 4.766187
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5265,8 +5265,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 247,
-            "average": 4.676113
+            "count": 248,
+            "average": 4.677419
           },
           "provider": {
             "name": "Microsoft Learn",
