@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M33S
 publishedDateTime: 2015-01-09T15:31:25Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aW7CsYjt2aI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "SSNLPjkXQo+cqZ9GnXnIg6TWDfcE7Wr6k5wkqkc1ZCaV7mN1LWhviIwe0kBljCOUw80+FLHPnsJwloS/jZqqW+xfov0B+TiEW245vY+VatTPUxxJLLozp4kaUvVIk56DB4lp9Yfo2nHdkOYGYtGgpdxicsV6DpceOTWfJoEmgzvxSarE8VvEJmvNR6DIVDx1UozevR2RjsBdpFEjlByEjXeIFoZ5E2x4KKvMSxY2G3Q933ELYULsb1VYDX62duztEVGQbdqOjMV1/6JZfQqkjNG5Ft9+uko6tnIVWELzPFNAmdVU1HSzZMMgG7+LpmQfS8DXh5y/i60HsmemJxeI6fYMNb/hsjanvV42/Il9t0QP01P9B8CMBmGjf931Bx+/l2mlrvAV+IS4KAre5y8HC+H0PZijKPDvuxjEFsaFn2A=;QWKDYa0PfDS3b8HbAzSf8A=="
+secured: "avMQGFXkTS/8cFUXgC2iW4Htuorx7PS4+pPcRbEeBTh/P4ayy1llVdjaK7Y1Ekn8AKo31bZjce9zEZ1F/OwUdeT5OqQLOK6QD6uHTIwdy0xawkAvScEwnEz6VSYVCQuVJ84PFWSFIRNj7H/hQWqA5G2iXyOx6xQZgn2A/STLxi4v5R3dio84YWhxXf8PBL9RAHfOX8S0/Tx2ZQT7I6zFyWao1xMMEoLuePgqDhCumHrscxhYImc38mULzFvy83+2E0AcHz49PVrLeZ/jOazH/0M65v+ngAO5oylfxV8ahEAZjKHoXaOSmIjDGOOi9lhsIruCSmnxyM1BI54hrRGLOXVd+eYvJOZEd9BzfmQVz05QXELzy0OS7aJwl8vveNBl1Sotrc5lt2REusDJMu8+rymssiBM27K03paktzCD0cQ=;hN4vowktRZuQKqYJsQTEyw=="
 ---
 
