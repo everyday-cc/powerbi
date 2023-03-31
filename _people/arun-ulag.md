@@ -3,7 +3,7 @@ name: "Arun Ulag"
 bio: "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services"
 location: Seattle, WA
 type: "profile"
-heat: 18
+heat: 54
 
 affiliation:
   name: Microsoft
@@ -33,6 +33,6 @@ images:
     isCached: true
     title: "Arun Ulag"
 
-secured: "h/ZC8JzfIk9IrtNsbZTcXHufqWPrwk/5Jer3zJXoCNq1AdIeg8iKRcp5mlzS3f1iGv32HgO6ENt6ESyWNtGQk+U8P3+p23fIU1Rkgm/pW8DwNtIhD01NBR0mVy2Yb+HrolfLf03dAo49Q8a33DIRu4oZG3DQnmErzRqBzdD1X9iw6EaFqD8R9Ox1SJqH4xqtPDNobaVUlgphHB/bR/ECYqbxpGdKcW6DkzGqDjmhaKCgOjJfw2jl5IMHFIxbp0zraEQc7jsGz9LrrxweXQZXoXjNTLIPM9DHdnyscBBhK/KKBHEZ//seouAXYdGdtqt55xeTw2J4aY32O0s6p5Q9YkcPsaDCf0Ky20ofhm3luf79v9Hk6zDPImdbzNBzT5i8VhLSTIU7GMqHM5q6K761CM0pgZUKsGZBVNrXNvGPyig=;jB6CqNQ8o8QvVMSkJLVwSg=="
+secured: "qrgAnh/kIiRO3WCDlymWjTGtKvF31YfKj+CXQYX6NJHlORdE36ByAvSWSYAqIpfJVAB0k1f9XCfIcYdSys6Yu+yexUF+LE8SaO5GmS2A0kALgi8gK1JifHtGgPPxPySwOcERcliC+kD1FYK4qdj0LCaMFNHuhwKhBclYJHDUvOCayV68jcydGWERFtkr7uVlYqvXAMkKP0KguTAuJFZN2ynWY940IEsDSfoiiKIhoA17ToHXiNPFsu9bAhEK/u3BBlTi1qN0T1XJiCFEt6fwntVigWam0LDt1oflKV9ul/JJDMQz7kvhYe7Zpqd5N+iB23t+YM2+IQ68llLn/jgeUDMFLC0tDFKk1MCwefWcSS27bfu/Z0US1gq9vGRzZ1SwipLuhEdiuMUgC2Q70Y3h3Ah8Ecfrf8f0PkgaxYip56A=;/CppzoEb/CPl+6OU1ZFo7w=="
 ---
 
