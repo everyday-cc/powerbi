@@ -425,8 +425,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 15602,
-        "average": 4.7201
+        "count": 15603,
+        "average": 4.7200537
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -765,8 +765,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
       "length": "PT41M",
       "ratings": {
-        "count": 4745,
-        "average": 4.7100105
+        "count": 4750,
+        "average": 4.7098947
       },
       "provider": {
         "name": "Microsoft Learn",
