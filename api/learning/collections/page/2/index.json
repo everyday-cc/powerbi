@@ -3782,7 +3782,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-data-connectivity-social.png",
@@ -4653,8 +4653,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2492,
-            "average": 4.7299356
+            "count": 2493,
+            "average": 4.730044
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4695,8 +4695,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3807,
-            "average": 4.6608877
+            "count": 3808,
+            "average": 4.660977
           },
           "provider": {
             "name": "Microsoft Learn",

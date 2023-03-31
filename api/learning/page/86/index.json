@@ -258,6 +258,14 @@
       },
       "publishedDateTime": "2019-03-15T13:02:28-07:00",
       "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QFmsSRfu7gw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "video",
       "price": "Free",
