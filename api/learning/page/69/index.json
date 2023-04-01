@@ -4,36 +4,6 @@
   "page": 69,
   "value": [
     {
-      "path": "_learning/videos/dhruvin-shah-power-bi-tip-display-selected-item-from-the-slicer-to-the-slicer-header.md",
-      "title": "Power BI Tip - Display Selected Item from the Slicer to the Slicer Header",
-      "excerpt": "In this video we will talk about how we can display the selected item from the slicer to the slicer header.  We all know that we can have single select and multi select dropdown option available for the slicer. When we select the single item from the slicer, it will display the selected item to the header",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-bi-tip-display-selected-item-from-the-slicer-to-the-slicer-header/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-bi-tip-display-selected-item-from-the-slicer-to-the-slicer-header/",
-      "originalUrl": "https://youtube.com/watch?v=pBWR4EF3Wzc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pBWR4EF3Wzc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M39S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-03-25T04:50:52-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/pBWR4EF3Wzc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-power-bi-tip-stop-visual-interactions-at-report-level-in-power-bi.md",
       "title": "Power BI Tip - Stop Visual Interactions at Report Level in Power BI",
       "excerpt": "In this vlog we will learn about how we can stop the interaction between the visualization. In Power BI, whenever we select any visual data point, it filters other visuals based on the selected data point. Sometimes there is a requirement, where we don’t need the filtering functionality on selected data",
@@ -900,6 +870,36 @@
           "url": "https://i.ytimg.com/vi/PFPqsY9dUro/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-tip-change-title-text-dynamically-in-power-bi-visual.md",
+      "title": "Tip: Change Title Text Dynamically in Power BI Visual",
+      "excerpt": "This is a Quick Tip Video in the Power BI. Sometimes we have a requirement in which we need to set the Title of the visual based on some conditions. This video will help you to achieve that thing. We can easily apply the Conditional Formatting for Visual Headers.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-tip-change-title-text-dynamically-in-power-bi-visual/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-tip-change-title-text-dynamically-in-power-bi-visual/",
+      "originalUrl": "https://youtube.com/watch?v=RRc0OwjRY6M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RRc0OwjRY6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RRc0OwjRY6M/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
