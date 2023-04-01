@@ -3,7 +3,7 @@ name: "Avi Singh"
 bio: "Power BI has transformed my life, multiplying my impact manifold. Now I am on a mission to spread the word and share the knowledge"
 location: Seattle, WA
 type: "profile"
-heat: 46
+heat: 50
 
 affiliation:
   name: Learn Power BI
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "Avi Singh"
 
-secured: "Yi9Y5UTgtXKEBLE0LxCfePBijGjMG8vslomdSLPkYnh5To6y5SabLYordzPzZD+pW7rPSP0qXgR4NJC0scxM/uDwfKe1VuFadOCOvhUmywAx5q+gKXMbDnJvOi+px011za2baqe+RMbctll5sXjrfJR00c464YXjZKEQnoc7njLZ/0x2If2/Pb+Wcmvnt7Lo4XhGq+kIYQJkbMaswI893hTTVxbfS8mO6dQgm5TH3uXVoE4zhnaE+B2u0oFQInGXOz5SgLgA0okU0q8g8hynaQLuIbX8K70J12mb2jbYmBadM+NqTj0rL0ORpvVrtxwXl11DuNrD6zztQBTdsWCeLDfjqIP46/TVHK7HvGL4pttI9KNIUG/X2/BjyfJb4GpXqzs3THaWC/BLkl74PNDHF2dntPa4c9XRlYpJKEefzLU=;TVRUcjkHIkeEfCs+qyhiLQ=="
+secured: "AJwCwx8hFg1o6wGf57bn7N04U9tZ2qqg98aaiCSPPj3dI8vwVQ29iGXtchedxYYteKlogoArYE5XN0IxLw6L4mXuGe7u1XEg1cZs8wqMc+6wnZK3Epd+FodtTXElyo8tVrw0xhW2nAUw2pDVcrL/5IDB7nJM7Qmsf/z4AuLRURIKVqQ+JCCcZVfhL1NVFwxV3JE4c+tuODik2cL4TuW1tCNSZ3PRHDE+SLHOrnWY60YPM8biQyJLyVLsDfKFI7+ho9E8gInYJbBB2FU/YCKe7g5hUTGM1rYwDZxPfdDVyGmwwm70Xerbgy7lwHg0Pv7UdnPOYDYy/biP9O5v/c5ZQGoBP6KvllIfn8JKzA5+Q2oqrpLGUxf4xbc+6LAwEj3wq6TT/j+k+qWU4bJ7TqRHYHSf5xJdehpbZ7RcAg35N0M=;mePvPL1iflT8EbZZPMZHQw=="
 ---
 
