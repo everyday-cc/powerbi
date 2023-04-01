@@ -4461,7 +4461,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4694,8 +4694,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 3814,
-            "average": 4.661248
+            "count": 3815,
+            "average": 4.661337
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4736,8 +4736,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6153,
-            "average": 4.6936455
+            "count": 6154,
+            "average": 4.693695
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5028,8 +5028,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5755,
-            "average": 4.7980886
+            "count": 5756,
+            "average": 4.798124
           },
           "provider": {
             "name": "Microsoft Learn",
