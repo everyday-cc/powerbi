@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT13M6S
 publishedDateTime: 2022-05-11T16:00:15Z
-heat: 58
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VLOHvQyCKWo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -23,6 +23,6 @@ images:
     height: 720
     isCached: true
 
-secured: "2sLeXadvvmCrBfIJvLyGPt5e0F/M13tKHgSCo6OhoVrp+zxBrSZaLTwTaNoYg+cNvBgJbbPIrtw591OG7khRVLkoXoWFWHMyf2y53nzUVonPrSr4BaCMtWljuypfIqMLCrX+VER/6MdcAs7fBDSJ5DbW7/ubMR1AaXhJhcUB6+rvAnnrNkPY9RpgldPaBf/wPh5bqdYxc7MyEgpJq7ALj4espfAo/GWCHHk9JPxTY0wdZglnMvqRY2Q2LIP5iH4Gc6pG+bgnIrIreaUaGz0eu46vIqgkgBac/weLdg+V45yUheM6H96pVMUdtSV+STNpdDqxnHhGrsuDO6Rz/F4wfypD4VmMAaUrwSuCRYQuq+ERjBWTwnAaeq3bCEkLk+u596ZeOeSCvekpinJqVkUOfa/DS/UlmQCe7aGoGlud/7s=;rVOuZNNuIHKvQjhMyoXz3w=="
+secured: "2v8MLNkMC5qGNtKGF9lgTsRotonR2N/tcW18DHuTTNaqAD5EKWYDRGNnpOw6Dzg4LZufRMHStVaT1WxTQukKmj5hTin0cA8xly/uZPjU4oevit8SQV2wNtKOjAo7Zf3ErWT6hAtSN6lGtiT872ImXLR6ckGPw6LYevXDGV5uWQ1F/w1zKzmskl7EtpI2BnLljFNSzikJYsL1Yi8qwWE7TMoEJpzsKIMtYfOwYWKs2jbXV8cjqA3w7qjuJkQJG3WxZejVVs+CnSApok7pSCxhIsRNR6ioUovKm1IYqI8rpaBXsw8Zl9LifZCHvdanmtzNj6N+k2UhYxYCBtb+rRO5wUCDyEQ+KxzsiY2R7uPVvxqkKIxMQ0lNxXRX2XFMq9N8d6ND7J7EfePmOB2kdXomlqnzgRAkX9Gr8RayZ7slOUI=;TdFzcZbHOvBqhik6gtCeNA=="
 ---
 
