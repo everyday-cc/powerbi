@@ -1058,8 +1058,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 312,
-            "average": 4.6538463
+            "count": 313,
+            "average": 4.654952
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1769,8 +1769,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1185,
-            "average": 4.7763715
+            "count": 1187,
+            "average": 4.776748
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3951,8 +3951,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 10320,
-            "average": 4.7449613
+            "count": 10324,
+            "average": 4.744673
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4138,8 +4138,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 10320,
-        "average": 4.7449613
+        "count": 10324,
+        "average": 4.744673
       },
       "provider": {
         "name": "Microsoft Learn",
