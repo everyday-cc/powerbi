@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-personalize-vi
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-personalize-visuals-general-availability-ga/"
 type: article
 quality: 174
-heat: 175
+heat: 174
 published: true
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LveNuQqV5xk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
