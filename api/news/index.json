@@ -2,6 +2,314 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-04-13-power-bi-update-april-2023-gpt-35-in-power-bi.md",
+      "title": "Power BI update April 2023 | GPT 3.5 in Power BI?",
+      "excerpt": "A new month, a new update.  Lets check out what is new on the Power BI update for April 2023.  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-04-13-power-bi-update-april-2023-gpt-35-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2023-04-13-power-bi-update-april-2023-gpt-35-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=WWZeycd68dA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WWZeycd68dA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WWZeycd68dA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-13T03:20:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-analytics-and-bi-platforms.md",
+      "title": "Microsoft named a Leader in the 2023 Gartner® Magic Quadrant™ for Analytics and BI Platforms",
+      "excerpt": "We are thrilled to announce that for the sixteenth consecutive year, Microsoft has been positioned as a Leader in the 2023 Gartner Magic Quadrant for Analytics and Business Intelligence Platforms. Microsoft has also been positioned furthest to the right for Completeness of Vision, and highest in the",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-04-12-microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-analytics-and-bi-platforms/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-analytics-and-bi-platforms/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/microsoft-named-a-leader-in-the-2023-gartner-magic-quadrant-for-analytics-and-bi-platforms/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rQfUo3PN0zw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2023/04/WCO18_workCouch_001_v2.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T03:13:07-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2023-04-12-power-bi-april-2023-feature-summary.md",
+      "title": "Power BI April 2023 Feature Summary",
+      "excerpt": "Welcome to the Power BI April 2023 Monthly Update!\r\n\r\nWe are happy to announce that Power BI Desktop is fully supported on Azure Virtual Desktop (formerly Windows Virtual Desktop) and Windows 365.\r\n\r\nThis month, we have updates to the Preview feature On-object that was announced last month and dynamic",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-04-12-power-bi-april-2023-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2023-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-april-2023-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-12T01:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-11-announcing-public-preview-of-the-tabular-model-definition-language-tmdl.md",
+      "title": "Announcing public preview of the Tabular Model Definition Language (TMDL)",
+      "excerpt": "We are pleased to announce the public preview of a new Tabular Model Definition Language (TMDL), which offers a human-readable, editable, and collaborative format for Tabular Models.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-04-11-announcing-public-preview-of-the-tabular-model-definition-language-tmdl/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-the-tabular-model-definition-language-tmdl/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-the-tabular-model-definition-language-tmdl/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T18:50:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-10-announcing-general-availability-for-composite-models-on-power-bi-datasets-and-analysis-services-models.md",
+      "title": "Announcing general availability for composite models on Power BI Datasets and Analysis Services models",
+      "excerpt": "In December 2020, we launched the preview of DirectQuery for Power BI Datasets and Analysis Services. Since then, we have worked with many of you to improve on this feature and get it ready for general availability. Today we are announcing that this feature has reached general availability.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-04-10-announcing-general-availability-for-composite-models-on-power-bi-datasets-and-analysis-services-models/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-for-composite-models-on-power-bi-datasets-and-analysis-services-models/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-general-availability-for-composite-models-on-power-bi-datasets-and-analysis-services-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T09:00:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2023-04-10-now-on-deployment-pipelines-view-items-code-changes-before-deploying-it.md",
+      "title": "Now on Deployment Pipelines: View item᾿s code changes before deploying it",
+      "excerpt": "The new feature of Deployment pipelines, Change review, completes the missing piece of the Compare action, by allowing you to review the schema of a changed item while its changed lines are highlighted. Check it out! ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-04-10-now-on-deployment-pipelines-view-items-code-changes-before-deploying-it/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/now-on-deployment-pipelines-view-items-code-changes-before-deploying-it/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/now-on-deployment-pipelines-view-items-code-changes-before-deploying-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-04-10T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2023-03-28-pin-workspaces.md",
       "title": "Pin workspaces",
       "excerpt": "You can pin your workspaces on top of the list. And unpin them anytime as needed. This functionality enables you to easily navigate to the workspaces that are most relevant to you without searching through the workspace list.",
@@ -948,313 +1256,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-02-17T01:39:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-16-announcing-availability-expansion-of-the-ssrs-migration-tool-to-power-bi.md",
-      "title": "Announcing Availability Expansion of the SSRS Migration Tool to Power BI",
-      "excerpt": "The SSRS RDL Migration tool is now available in SSRS 2017, SSRS 2019 and SSRS 2022! You can also migrate .pbix and .rdl files from Power BI Report Server January 2023 and Report Server September 2022.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-02-16-announcing-availability-expansion-of-the-ssrs-migration-tool-to-power-bi/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-availability-expansion-of-the-ssrs-migration-tool-to-power-bi/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-availability-expansion-of-the-ssrs-migration-tool-to-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-15T23:52:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-15-power-bi-february-2023-feature-summary.md",
-      "title": "Power BI February 2023 Feature Summary",
-      "excerpt": "Welcome to the February 2023 update! This month, we’ve added TypeScript support in the developer playground sandbox, several new formatting features for reporting, and so much more. Continue reading for more details on our new features!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-02-15-power-bi-february-2023-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-february-2023-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-february-2023-feature-summary/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7-0Pr0U2HIA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-15T01:24:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2023-02-13-empower-your-application-users-to-quickly-explore-their-data-with-the-new-power-bi-embedding-capabilities.md",
-      "title": "Empower your application users to quickly explore their data with the new Power BI Embedding capabilities",
-      "excerpt": "We’re excited to announce a new form of Power BI embedded analytics that enables you to embed an interactive data exploration and report creation experience in your applications. With this solution, you’ll be able to provide your users a similar experience to our integrations in Dynamics 365 and SharePoint.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-02-13-empower-your-application-users-to-quickly-explore-their-data-with-the-new-power-bi-embedding-capabilities/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/empower-your-application-users-to-quickly-explore-their-data-with-the-new-power-bi-embedding-capabilities/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/empower-your-application-users-to-quickly-explore-their-data-with-the-new-power-bi-embedding-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-12T21:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-02-09-power-bi-activity-logs-new-workspace-metadata-for-excel-scenarios.md",
-      "title": "Power BI Activity Logs: New Workspace Metadata for Excel Scenarios",
-      "excerpt": "We are announcing improvements to the Power BI audit logs that helps Power BI admins filter usage of Power BI data in Excel by workspace name and workspace id.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-02-09-power-bi-activity-logs-new-workspace-metadata-for-excel-scenarios/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-activity-logs-new-workspace-metadata-for-excel-scenarios/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-activity-logs-new-workspace-metadata-for-excel-scenarios/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-02-09T01:26:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-31-power-bi-datamart-january-2023-feature-summary.md",
-      "title": "Power BI Datamart – January 2023 Feature Summary",
-      "excerpt": "Welcome to the January 2023 updates on Power BI Datamarts. This month, we&#8217;ve added a variety of new features based on your votes on ideas.powerbi.com. There&#8217;s more to explore, as well as a sneak peek of what&#8217;s coming soon, so please read on!",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-01-31-power-bi-datamart-january-2023-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-datamart-january-2023-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-datamart-january-2023-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-31T09:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-01-25-power-bi-report-server-january-2023-feature-summary.md",
-      "title": "Power BI Report Server January 2023 Feature Summary",
-      "excerpt": "Welcome to the January 2023 Power BI Report Server release! This release has fun and exciting updates to features like the Report Server web portal, Modeling, and Reporting. Please read on for all the details.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-01-25-power-bi-report-server-january-2023-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-january-2023-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-report-server-january-2023-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-01-25T05:10:35-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

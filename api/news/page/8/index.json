@@ -2,6 +2,304 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-02-04-dive-into-the-world-of-data-with-98-off-the-ultimate-excel-and-power-bi-certification-bundle.md",
+      "title": "Dive into the world of data with 98% off the ultimate Excel and Power BI certification bundle",
+      "excerpt": "You're certifiable! Or, you will be, with these comprehensive courses. Learn step-by-step the ins-and-outs of data science with over 60 hours of coursework on Excel, Power BI and more so that you can acquire the skills and knowledge necessary for achieving ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-02-04-dive-into-the-world-of-data-with-98-off-the-ultimate-excel-and-power-bi-certification-bundle/index.json",
+      "webUrl": "https://www.cnet.com/tech/services-and-software/dive-into-the-world-of-data-with-98-off-the-ultimate-excel-and-power-bi-certification-bundle/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/dive-into-the-world-of-data-with-98-off-the-ultimate-excel-and-power-bi-certification-bundle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/WNVG-REaNRkrPSdnOR1DfA5oEZk=/1200x630/2022/02/03/45ad8d1b-67f9-4536-91c6-a247847aea7e/excelbundle.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/dive-into-the-world-of-data-with-98-off-the-ultimate-excel-and-power-bi-certification-bundle/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dive-into-the-world-of-data-with-98-off-the-ultimate-excel-and-power-bi-certification-bundle/",
+      "publishedDateTime": "2022-02-03T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-03-power-bi-vs-tableau-2022-software-comparison.md",
+      "title": "Power BI vs. Tableau: 2022 Software Comparison",
+      "excerpt": "Power BI and Tableau are both leaders in the analytics and BI sector. But which is best in terms of features, pricing, use case, and applications?",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-02-03-power-bi-vs-tableau-2022-software-comparison/index.json",
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/power-bi-vs-tableau/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/power-bi-vs-tableau/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/LogMeIn-logmeinthumb-collaboration.jpeg",
+          "width": 1500,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-02-02T09:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-02-01-power-bi-and-azure-as-the-future-of-enterprise-analytics.md",
+      "title": "Power BI and Azure as the future of enterprise analytics",
+      "excerpt": "an uppercase character (A through Z) or a lowercase (a through z) character (no spaces). Power BI and Azure as the future of enterprise analytics Your email has been sent Combine Power BI and the ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-02-01-power-bi-and-azure-as-the-future-of-enterprise-analytics/index.json",
+      "webUrl": "https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/",
+      "originalUrl": "https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2016/06/power-bi-reports.jpg?x75348",
+          "width": 770,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/power-bi-and-azure-as-the-future-of-enterprise-analytics/amp/",
+      "publishedDateTime": "2022-01-31T21:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-how-to-download-and-install-microsoft-power-bi-desktop.md",
+      "title": "How to download and install Microsoft Power BI Desktop",
+      "excerpt": "How to download and install Microsoft Power BI Desktop Your email has been sent Sometimes you can't get to the internet and must work offline. Power BI Desktop gives you access your data ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-31-how-to-download-and-install-microsoft-power-bi-desktop/index.json",
+      "webUrl": "https://www.techrepublic.com/article/how-to-download-and-install-microsoft-power-bi-desktop/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-download-and-install-microsoft-power-bi-desktop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/blog/microsoft-office/how-to-download-and-install-microsoft-power-bi-desktop/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/blog/microsoft-office/how-to-download-and-install-microsoft-power-bi-desktop/",
+      "publishedDateTime": "2022-01-31T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-how-to-share-your-power-bi-dashboards-and-reports.md",
+      "title": "How to share your Power BI dashboards and reports",
+      "excerpt": "How to share your Power BI dashboards and reports Your email has been sent Creating a great Power BI dashboard is not enough. You must get it to the right people--which means learning to share.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-31-how-to-share-your-power-bi-dashboards-and-reports/index.json",
+      "webUrl": "https://www.techrepublic.com/article/how-to-share-your-power-bi-dashboards-and-reports/",
+      "originalUrl": "https://www.techrepublic.com/article/how-to-share-your-power-bi-dashboards-and-reports/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2017/04/asharepowerbi.png?x78464",
+          "width": 1099,
+          "height": 869,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/how-to-share-your-power-bi-dashboards-and-reports/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/how-to-share-your-power-bi-dashboards-and-reports/amp/",
+      "publishedDateTime": "2022-01-31T01:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-01-31-microsoft-power-bi-a-cheat-sheet.md",
+      "title": "Microsoft Power BI: A cheat sheet",
+      "excerpt": "Microsoft Power BI: A cheat sheet Your email has been sent This cheat sheet explains everything you need to know about Power BI, Microsoft's data visualization toolset. The big data revolution ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-01-31-microsoft-power-bi-a-cheat-sheet/index.json",
+      "webUrl": "https://www.techrepublic.com/article/microsoft-power-bi-a-smart-persons-guide/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-power-bi-a-smart-persons-guide/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2016/11/apowerbi.png?x75348",
+          "width": 1155,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/article/microsoft-power-bi-a-smart-persons-guide/amp/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/article/microsoft-power-bi-a-smart-persons-guide/amp/",
+      "publishedDateTime": "2022-01-31T01:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-01-28-reminder-webview2-will-be-required-for-the-next-power-bi-desktop-release.md",
       "title": "Reminder: WebView2 will be required for the next Power BI Desktop release",
       "excerpt": "Starting with the next Power BI Desktop release, WebView2 will be required. If you have not switched over yet, please take action now to avoid interruptions.",
@@ -938,314 +1236,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-12-14T01:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-10-the-customdata-feature-is-now-generally-available-in-power-bi.md",
-      "title": "The CustomData feature is now generally available in Power BI!",
-      "excerpt": "The capability to pass custom data for row level security is now available in Power BI Premium, Power BI Embedded, and Power BI Premium per User.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-12-10-the-customdata-feature-is-now-generally-available-in-power-bi/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/the-customdata-feature-is-now-generally-available-in-power-bi/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/the-customdata-feature-is-now-generally-available-in-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T17:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-announcing-the-power-bi-app-for-microsoft-teams-is-now-available-in-the-us-government-community-cloud.md",
-      "title": "Announcing: The Power BI app for Microsoft Teams is now available in the US Government Community cloud",
-      "excerpt": "We’re excited to announce the Power BI app for Microsoft Teams is available in the US Government Community clouds (GCC). This enables organizations in GCC to use Power BI as a data hub, enables users to find data without context switches, and to bring data into more collaboration to help make better",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-12-09-announcing-the-power-bi-app-for-microsoft-teams-is-now-available-in-the-us-government-community-cloud/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-power-bi-app-for-microsoft-teams-is-now-available-in-the-us-government-community-cloud/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-the-power-bi-app-for-microsoft-teams-is-now-available-in-the-us-government-community-cloud/",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iyAmYqTRCLY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2021/12/graphical-user-interface-application-description.png",
-          "width": 1429,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T01:44:39-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2021-12-09-visualize-your-data-quickly-from-power-apps-and-dynamics-365-apps-preview.md",
-      "title": "Visualize your data quickly from Power Apps and Dynamics 365 apps (preview)",
-      "excerpt": "We’re very excited to announce a new way to visualize your model-driven Power Apps and Dynamics 365 data stored within Dataverse. With a single click, Power BI automatically generates a set of visuals for you to explore and find insights within your data. This integration is great way to take advantage",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-12-09-visualize-your-data-quickly-from-power-apps-and-dynamics-365-apps-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/visualize-your-data-quickly-from-power-apps-and-dynamics-365-apps-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/visualize-your-data-quickly-from-power-apps-and-dynamics-365-apps-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-09T01:00:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-power-bi-streaming-dataflows-november-update.md",
-      "title": "Power BI Streaming Dataflows November Update",
-      "excerpt": "We are excited to announce new capabilities for Streaming Dataflows in Power BI.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-12-02-power-bi-streaming-dataflows-november-update/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-streaming-dataflows-november-update/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-streaming-dataflows-november-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-02T07:49:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Dataflows"
-      ]
-    },
-    {
-      "path": "_news/2021-12-02-announcing-power-bi-apis-net-sdk-v4.md",
-      "title": "Announcing Power BI APIs .NET SDK v4",
-      "excerpt": "We are thrilled to announce the release of Power BI APIs .NET SDK v4.\r\n\r\nThe new SDK version provides clarity on the properties of Power BI artifacts returned by various APIs and makes it easier to use them,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-12-02-announcing-power-bi-apis-net-sdk-v4/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-apis-net-sdk-v4/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-apis-net-sdk-v4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T22:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-12-01-on-premises-data-gateway-november-2021-update-is-now-available.md",
-      "title": "On-premises data gateway November 2021 update is now available",
-      "excerpt": "On-premises data gateway (standard and personal mode) release for November 2021 ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-12-01-on-premises-data-gateway-november-2021-update-is-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-november-2021-update-is-now-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-november-2021-update-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-12-01T05:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

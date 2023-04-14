@@ -2,6 +2,314 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-07-26-survey-exploring-visual-styles-for-creators.md",
+      "title": "Survey! Exploring visual styles for creators",
+      "excerpt": "Calling all creators! Back in August 2016 we introduced predefined matrix and table styles. We are exploring adding more predefined styles to more visual types to save you precious report creation time. We have created this survey to gather your feedback and help us define what these styles should look",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-26-survey-exploring-visual-styles-for-creators/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/survey-exploring-visual-styles-for-creators/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/survey-exploring-visual-styles-for-creators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-26T09:33:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-visualizing-sharepoint-lists-now-available-to-all-users.md",
+      "title": "Visualizing SharePoint lists now available to all users",
+      "excerpt": "A couple of months ago, we launched a new Power BI integration for visualizing SharePoint lists for all Targeted release users. We’re now excited to announce that the experience has rolled out to Standard release users and is now accessible to everyone!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-22-visualizing-sharepoint-lists-now-available-to-all-users/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/visualizing-sharepoint-lists-now-available-to-all-users/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/visualizing-sharepoint-lists-now-available-to-all-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T07:20:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-22-behind-the-scenes-running-the-power-bi-service.md",
+      "title": "Behind the scenes: Running the Power BI service",
+      "excerpt": "I’m excited to share a new whitepaper that describes the Power BI team’s approach to maintaining a reliable, performant, and scalable service for our customers.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-22-behind-the-scenes-running-the-power-bi-service/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/behind-the-scenes-running-the-power-bi-service/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/behind-the-scenes-running-the-power-bi-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-22T00:00:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Service"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-power-bi-update-july-2021.md",
+      "title": "Power BI Update - July 2021",
+      "excerpt": "Welcome to the July update! This month we are making small multiples generally available, as well as the new model view and sensitivity labels in Desktop. Also, we have a new preview for streaming dataflows. There is much more!  Reporting                Small multiples (generally available) - 00:19 ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-21-power-bi-update-july-2021/index.json",
+      "webUrl": "https://everyday.cc/powerbi/news/2021-07-21-power-bi-update-july-2021/",
+      "originalUrl": "https://youtube.com/watch?v=xNFedlQ59zA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xNFedlQ59zA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xNFedlQ59zA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T08:43:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_news/2021-07-21-power-bi-july-2021-feature-summary.md",
+      "title": "Power BI July 2021 Feature Summary",
+      "excerpt": "Welcome to the July update! This month we are making small multiples generally available, as well as the new model view and sensitivity labels in Desktop. Also, we have a new preview for streaming dataflows. There is much more, so read on!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-21-power-bi-july-2021-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-july-2021-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-july-2021-feature-summary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-21T02:09:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2021-07-19-join-us-power-bi-dev-camp-thursday-22-july-2021-building-multi-language-reports-for-power-bi.md",
+      "title": "Join us! Power BI Dev Camp – Thursday 22 July, 2021- Building Multi-language Reports for Power BI",
+      "excerpt": "Join Ted Pattison to learn about Power BI features for Internationalization and localization from the ground up as well as guidance for building reports that support multiple languages.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-07-19-join-us-power-bi-dev-camp-thursday-22-july-2021-building-multi-language-reports-for-power-bi/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-22-july-2021-building-multi-language-reports-for-power-bi/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/join-us-power-bi-dev-camp-thursday-22-july-2021-building-multi-language-reports-for-power-bi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-07-19T06:12:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2021-07-15-streaming-dataflows-in-power-bi-premium-now-available-in-public-preview.md",
       "title": "Streaming dataflows in Power BI premium now available in public preview",
       "excerpt": "We are thrilled to announce that the public preview of streaming dataflows in Power BI is now available for everyone to try out.",
@@ -929,313 +1237,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-06-10T13:06:23-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-10-new-developer-samples-for-update-data-sources-and-encrypt-credentials.md",
-      "title": "New developer samples for update data sources and encrypt credentials",
-      "excerpt": "We&#8217;re happy to announce new developer samples that will show you how to add data source, update data source, and encrypt credentials. In the new samples you&#8217;ll find an end-to-end flow of all the required Power BI REST APIs. The samples are available in .NET Core, Java, and Python. You can",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-10-new-developer-samples-for-update-data-sources-and-encrypt-credentials/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/new-developer-samples-for-update-data-sources-and-encrypt-credentials/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/new-developer-samples-for-update-data-sources-and-encrypt-credentials/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-10T01:03:04-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-09-on-premises-data-gateway-june-2021-update-is-now-available.md",
-      "title": "On-premises data gateway June 2021 update is now available",
-      "excerpt": "On-premises data gateway (standard and personal mode) release for June 2021 ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-09-on-premises-data-gateway-june-2021-update-is-now-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-june-2021-update-is-now-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/on-premises-data-gateway-june-2021-update-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-09T02:50:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-08-embed-power-bi-in-salesforce.md",
-      "title": "Embed Power BI in Salesforce",
-      "excerpt": "We’re excited to introduce new developer samples for embedding Power BI analytics in Salesforce. You can embed Power BI report, dashboards and more in Salesforce for your organization or for your customers. By embedding Power BI in Salesforce, your users will have access to Power BI interactive data",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-08-embed-power-bi-in-salesforce/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/embed-power-bi-in-salesforce/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/embed-power-bi-in-salesforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-08T02:00:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-announcing-email-notifications-for-non-owners-of-dataflows.md",
-      "title": "Announcing email notifications for non-owners of dataflows",
-      "excerpt": "Email notifications for dataflow refreshes now available for non-owners",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-03-announcing-email-notifications-for-non-owners-of-dataflows/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-email-notifications-for-non-owners-of-dataflows/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-email-notifications-for-non-owners-of-dataflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T02:54:09-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Dataflows"
-      ]
-    },
-    {
-      "path": "_news/2021-06-03-power-bi-report-builder-gets-rebuilt-as-an-x64-app-among-other-updates.md",
-      "title": "Power BI Report Builder gets rebuilt as an x64 app, among other updates",
-      "excerpt": "The report building tool for Microsoft's data analytics service has received a new update. The latest release brings a new data tab, a more streamlined DAX usage experience, and other changes.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-03-power-bi-report-builder-gets-rebuilt-as-an-x64-app-among-other-updates/index.json",
-      "webUrl": "https://www.neowin.net/news/power-bi-report-builder-gets-rebuilt-as-an-x64-app-among-other-updates/",
-      "originalUrl": "https://www.neowin.net/news/power-bi-report-builder-gets-rebuilt-as-an-x64-app-among-other-updates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/10/1571114082_power_bi_new_3_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-03T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2021-06-02-whats-new-in-the-june-update-of-power-bi-report-builder.md",
-      "title": "What’s new in the June update of Power BI Report Builder",
-      "excerpt": "We are pleased to announce the release of a new version of Power BI Report Builder! This release includes a number of new features designed to improve your paginated report authoring experience, plus we&#8217;ve now added Power BI Report Builder as an app in the Microsoft Store.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2021-06-02-whats-new-in-the-june-update-of-power-bi-report-builder/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-the-june-update-of-power-bi-report-builder/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-the-june-update-of-power-bi-report-builder/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-06-02T01:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

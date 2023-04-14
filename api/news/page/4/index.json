@@ -2,6 +2,312 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-08-introducing-aad-based-filtration-for-power-bi-datamarts.md",
+      "title": "Introducing AAD-based filtration for Power BI Datamarts",
+      "excerpt": "We are very pleased to announce the introduction of AAD-based filtration to the Power BI Datamarts tenant setting.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-08-introducing-aad-based-filtration-for-power-bi-datamarts/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/introducing-aad-based-filtration-for-power-bi-datamarts/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/introducing-aad-based-filtration-for-power-bi-datamarts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-08T09:54:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-power-bi-component-for-vuejs-applications-is-now-available.md",
+      "title": "Power BI component for Vue.js applications is now available",
+      "excerpt": "We’re thrilled to announce that a new component for embedding Power BI content in Vue.js applications is now available! Vue is an increasingly popular JavaScript framework for building front-end user interfaces and websites. ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-05-power-bi-component-for-vuejs-applications-is-now-available/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-component-for-vue-js-applications-is-now-available/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-component-for-vue-js-applications-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-04T20:57:45-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-whats-new-in-datamarts-august-2022.md",
+      "title": "What᾿s New in Datamarts – August 2022",
+      "excerpt": "Hear about the latest updates to Datamart in Power BI since the //Build announcement",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-30-whats-new-in-datamarts-august-2022/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-datamarts-august-2022/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-datamarts-august-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-alpha-serve-presents-power-bi-connector-for-zendesk.md",
+      "title": "Alpha Serve Presents Power BI Connector for Zendesk",
+      "excerpt": "The newly released Power BI Connector for Zendesk will make it easier for companies to analyze and visualize their data in Microsoft Power BI by offering the ability to easily export Zendesk data ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-29-alpha-serve-presents-power-bi-connector-for-zendesk/index.json",
+      "webUrl": "https://www.marketwatch.com/press-release/alpha-serve-presents-power-bi-connector-for-zendesk-2022-08-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/alpha-serve-presents-power-bi-connector-for-zendesk-2022-08-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-why-using-a-new-power-bi-zendesk-integration-for-business.md",
+      "title": "Why Using a New Power BI Zendesk Integration for Business",
+      "excerpt": "The truth is that we can influence only what we can measure, so customer service software such as Zendesk has become a valuable data source for business analytics. Integrating Zendesk Support software with a professional solution like Power BI can help companies improve the entire customer experience and raise the service level significantly based on the insights generated from the Zendesk reports visualized in Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-27-why-using-a-new-power-bi-zendesk-integration-for-business/index.json",
+      "webUrl": "https://www.marketwatch.com/press-release/why-using-a-new-power-bi-zendesk-integration-for-business-2022-08-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/why-using-a-new-power-bi-zendesk-integration-for-business-2022-08-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-announcing-public-preview-of-multiple-audiences-for-power-bi-apps.md",
+      "title": "Announcing Public Preview of Multiple Audiences for Power BI Apps",
+      "excerpt": "Today, we are excited to announce the public preview of Multiple Audiences in the Power BI Apps, one of the highly requested features from the community. With multiple audiences for an App, now Power BI App author can create multiple audience groups within the same App and assign different permissions",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-08-24-announcing-public-preview-of-multiple-audiences-for-power-bi-apps/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-multiple-audiences-for-power-bi-apps/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-multiple-audiences-for-power-bi-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T02:00:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-join-us-power-bi-dev-camp-thursday-25-august-2022-at-1100-am-pdt-1200-pm-noon-pdt.md",
       "title": "Join Us! Power BI Dev Camp: Thursday 25, August 2022 at 11:00 AM PDT – 12:00 PM noon PDT",
       "excerpt": "This month&#8217;s Power BI Dev Camp session provides a quick primer on modern React-JS development and demonstrates how to create an SPA application with React-JS which calls the Power BI REST API and implements User-Owns-Data embedding.",
@@ -938,313 +1244,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-07-18T06:27:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-visualizing-views-in-dynamics-365-with-power-bi-is-now-generally-available.md",
-      "title": "Visualizing views in Dynamics 365 with Power BI is now generally available",
-      "excerpt": "We’re very excited to announce that the Power BI integration in Dynamics 365 and model driven Power Apps, which shipped as a preview last December, is now generally available. Dynamics 365 and model driven Power Apps give organizations the ability to quickly build essential line-of-business apps in a",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-18-visualizing-views-in-dynamics-365-with-power-bi-is-now-generally-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/visualizing-views-in-dynamics-365-generally-available/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/visualizing-views-in-dynamics-365-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-15-power-bi-update-july-2022.md",
-      "title": "Power BI Update - July 2022",
-      "excerpt": "Welcome to the July 2022 update. We are thrilled to announce the Error Bars general availability, Metric visuals and Datamarts updates, query performance and data hub improvements, Data in space augmented reality new mobile feature, accessibility enhancements for embedded reports. There is more to explore,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-15-power-bi-update-july-2022/index.json",
-      "webUrl": "https://everyday.cc/powerbi/news/2022-07-15-power-bi-update-july-2022/",
-      "originalUrl": "https://youtube.com/watch?v=iVbxzo-L7TM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iVbxzo-L7TM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.youtube.com/img/desktop/supported_browsers/dinosaur.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T22:19:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-power-bi-july-2022-feature-summary.md",
-      "title": "Power BI July 2022 Feature Summary",
-      "excerpt": "Welcome to the July 2022 update. We are thrilled to announce the Error Bars general availability, Metric visuals and Datamarts updates, query performance and data hub improvements, Data in space augmented reality new mobile feature, accessibility enhancements for embedded reports. There is more to explore,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-13-power-bi-july-2022-feature-summary/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-july-2022-feature-summary/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-july-2022-feature-summary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T04:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-09-power-bi-now-supports-facebook-campaign-and-brand-management-analytics.md",
-      "title": "Power BI now supports Facebook campaign and brand management analytics",
-      "excerpt": "While Power BI has already had the ability to tap into campaign and brand management analytics for Twitter, solution templates providing similar capabilities for Facebook have been somewhat lacking.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-09-power-bi-now-supports-facebook-campaign-and-brand-management-analytics/index.json",
-      "webUrl": "https://www.neowin.net/news/power-bi-now-supports-facebook-campaign-and-brand-management-analytics/",
-      "originalUrl": "https://www.neowin.net/news/power-bi-now-supports-facebook-campaign-and-brand-management-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2016/01/power-bi-windows-10_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-09T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-data-in-space-in-preview-now-power-bi-can-be-truly-everywhere.md",
-      "title": "“Data in space” in preview: Now Power BI can be truly everywhere",
-      "excerpt": "We live in a connected world and almost everything around us generates data. Data in Space is new feature that uses augmented reality to create persistent spatial anchors in the real world and attach Power BI content to those anchors. Data in space connects your business data to your real-world scenarios",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-06-data-in-space-in-preview-now-power-bi-can-be-truly-everywhere/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/data-in-space-in-preview-now-power-bi-can-be-truly-everywhere/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/data-in-space-in-preview-now-power-bi-can-be-truly-everywhere/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-05T23:18:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-05-improved-power-bi-experience-in-excel.md",
-      "title": "Improved Power BI Experience in Excel",
-      "excerpt": "The improvements to the Power BI experience in Excel include a new user-friendly UI that helps users easily search for datasets to build reports in the Excel grid. Also, users can now directly navigate from Excel to the Power BI service to discover new data artifacts in their organization or get additional",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-05-improved-power-bi-experience-in-excel/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/improved-power-bi-experience-in-excel/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/improved-power-bi-experience-in-excel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-05T04:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
