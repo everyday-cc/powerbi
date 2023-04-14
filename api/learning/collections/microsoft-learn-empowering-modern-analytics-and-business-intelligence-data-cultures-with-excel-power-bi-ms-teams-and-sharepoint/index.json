@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
       "length": "PT37M",
       "ratings": {
-        "count": 968,
-        "average": 4.7830577
+        "count": 989,
+        "average": 4.78362
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -29,7 +29,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 53,
+      "heat": 52,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 665,
-        "average": 4.766917
+        "count": 679,
+        "average": 4.767305
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -71,7 +71,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/automate-data-cleaning-power-query-social.png",
@@ -96,8 +96,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
       "length": "PT34M",
       "ratings": {
-        "count": 423,
-        "average": 4.718676
+        "count": 431,
+        "average": 4.723898
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -114,7 +114,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/modern-analytics-data-modeling-social.png",
@@ -138,8 +138,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
       "length": "PT48M",
       "ratings": {
-        "count": 339,
-        "average": 4.743363
+        "count": 358,
+        "average": 4.73743
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -180,8 +180,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-interactive-experiences/",
       "length": "PT56M",
       "ratings": {
-        "count": 245,
-        "average": 4.640816
+        "count": 252,
+        "average": 4.6507936
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -223,8 +223,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-publish-share/",
       "length": "PT49M",
       "ratings": {
-        "count": 194,
-        "average": 4.716495
+        "count": 197,
+        "average": 4.7208123
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -241,7 +241,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/modern-analytics-publish-share-social.png",
@@ -265,8 +265,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-excel/",
       "length": "PT2H7M",
       "ratings": {
-        "count": 236,
-        "average": 4.6949153
+        "count": 242,
+        "average": 4.7024794
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -283,7 +283,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/modern-analytics-excel-social.png",
@@ -307,8 +307,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-teams/",
       "length": "PT27M",
       "ratings": {
-        "count": 275,
-        "average": 4.76
+        "count": 281,
+        "average": 4.7651243
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -325,7 +325,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 51,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/modern-analytics-teams-social.png",

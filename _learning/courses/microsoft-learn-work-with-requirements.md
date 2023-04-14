@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT23M
 ratings:
-  count: 655
-  average: 4.767939
+  count: 660
+  average: 4.768182
 heat: 50
 
 provider:
@@ -24,6 +24,6 @@ levels:
 topics:
   - Power BI
 
-secured: "03nbtRNduFgDJabLHKGlBgiEaQX7JqzhVVadEN5L11tjkUdZQCc29UAhmCK6n0Xi2UiglhCjBuDDPXF8KJd76OZ6DAqhn5IHO6fn8GlwkAIM2O9183xaWEPZyFtEvaUgjy14nMcr0ZmD4BBOQFDcc9vzsFRy35xCNi0LiSL6MZw5XjMkZYeYPjJusp+7E8xQki65npCgIuxeLHrpQCe+ZQFXUF822IGoS7ygESwN62O9K4K+aL/J91hxMA2z9mHaM/uyOd24Vcuh8e/sFN4VaxQKukI6yxVU9WZOdOxMo5U60GQC8pI9YAT7pb3jfgOAWlYs1VZ1euKIFqb/8HdsVo3hAyF6adt8S7IZn2RDSTcdRR78XW3GVA2hgrb9XTfgNLOwY5G9K4trFNdbGeWEHz+d4s6r5GZKlJ2Al7k4nM8=;i3UzxiXJRQGjW0iE3wxVeg=="
+secured: "2nz73d7Dw2YyGiODe30Wa7eZe0FMyNVHbHZijAiYJcjhAj2mVYYLwjO2iolgTzpMW1ruUfKpot8tn54CuYgFH1rxYaWSPwE8RDb/pu/dDHGu4sT8XKOd0cSyrYlML9/hjlz0jhWnusdgnr/C4s1kaxcnw7/8JdscENIDcCXGlTe0iBqUaAXhsrHLJHzNVF+b05pVnQMt2D7rz3ZROdhkNdYb7J27Z5QRun+JY0CHay5U7bGWy71NakpkrMe2PxNnBM4wwC/T0INLrgpk0b99zVBOa+8M5lEWvyr4v98tWi2o/E8DIFcCsoArVXJbnGkzgtjRGfNHk2w9XWoWJ52/KsCakbN1/fU8acDj+9aHJ7IjIV7bIh16bc6vjIMStVPx1jRUsBHj+z9+UkYCg/MwddQENKSlkZ60Asy/OWOozhM=;h0Oh+EpUJf7To9JCgyvtAA=="
 ---
 
