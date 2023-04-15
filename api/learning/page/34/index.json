@@ -159,8 +159,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 687,
-            "average": 4.75837
+            "count": 688,
+            "average": 4.758721
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -201,8 +201,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 601,
-            "average": 4.8352747
+            "count": 602,
+            "average": 4.8355484
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -243,8 +243,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 518,
-            "average": 4.7934365
+            "count": 519,
+            "average": 4.793834
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1722,8 +1722,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
       "length": "PT29M",
       "ratings": {
-        "count": 269,
-        "average": 4.684015
+        "count": 270,
+        "average": 4.685185
       },
       "provider": {
         "name": "Microsoft Learn",
