@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
       "length": "PT1H15M",
       "ratings": {
-        "count": 34018,
-        "average": 4.727115
+        "count": 34021,
+        "average": 4.7270803
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -77,8 +77,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3787,
-            "average": 4.7478213
+            "count": 3788,
+            "average": 4.747888
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -660,8 +660,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3787,
-        "average": 4.7478213
+        "count": 3788,
+        "average": 4.747888
       },
       "provider": {
         "name": "Microsoft Learn",
