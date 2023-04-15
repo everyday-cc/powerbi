@@ -161,8 +161,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 359,
-            "average": 4.735376
+            "count": 360,
+            "average": 4.736111
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2228,8 +2228,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 245,
-            "average": 4.6734695
+            "count": 246,
+            "average": 4.6707315
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2855,8 +2855,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1422,
-            "average": 4.742616
+            "count": 1423,
+            "average": 4.742797
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4612,8 +4612,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5839,
-            "average": 4.710738
+            "count": 5840,
+            "average": 4.710788
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4938,8 +4938,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5840,
-            "average": 4.798459
+            "count": 5841,
+            "average": 4.7984934
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5234,7 +5234,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 51,
+          "heat": 131,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/understand-concepts-of-data-analytics-social.png",
@@ -5294,7 +5294,7 @@
         }
       ],
       "size": 3,
-      "heat": 52,
+      "heat": 53,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/explore-azure-data-services-for-modern-analytics-social.png",
