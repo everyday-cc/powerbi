@@ -329,8 +329,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9723,
-            "average": 4.7629333
+            "count": 9724,
+            "average": 4.7629576
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2204,7 +2204,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-intro-social.png",
@@ -4713,7 +4713,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 66,
+          "heat": 69,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -4938,8 +4938,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5839,
-            "average": 4.7984242
+            "count": 5840,
+            "average": 4.798459
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4956,7 +4956,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 137,
+          "heat": 57,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png",
