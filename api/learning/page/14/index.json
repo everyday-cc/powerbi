@@ -188,8 +188,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1900,
-            "average": 4.7436843
+            "count": 1901,
+            "average": 4.743819
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -271,8 +271,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2575,
-            "average": 4.763107
+            "count": 2576,
+            "average": 4.763199
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -373,7 +373,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 57,
+          "heat": 137,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/row-level-security-power-bi-social.png",
@@ -499,8 +499,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
       "length": "PT29M",
       "ratings": {
-        "count": 2575,
-        "average": 4.763107
+        "count": 2576,
+        "average": 4.763199
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -583,8 +583,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 5884,
-        "average": 4.733515
+        "count": 5885,
+        "average": 4.73356
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -625,8 +625,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 1900,
-        "average": 4.7436843
+        "count": 1901,
+        "average": 4.743819
       },
       "provider": {
         "name": "Microsoft Learn",
