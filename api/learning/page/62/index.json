@@ -4,6 +4,82 @@
   "page": 62,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-5-things-you-might-not-know-about-power-bi.md",
+      "title": "5 Things You Might Not Know About Power BI",
+      "excerpt": "We've got 5 things you might not know about Power BI. These are little things that are great for folks just starting out with Power BI, or maybe you've used Power BI for a while and just didn't know about these little things.  Power BI Guided Learning https://docs.microsoft.com/power-bi/guided-learning/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-5-things-you-might-not-know-about-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-5-things-you-might-not-know-about-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=Br7cEG5Ryj0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Br7cEG5Ryj0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M16S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-08T05:49:41-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Br7cEG5Ryj0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-5-tips-on-how-to-find-a-mentor.md",
+      "title": "5 tips on how to find a mentor",
+      "excerpt": "In this video I look at 5 tips on how to find a mentor. Having a mentor is important. It helps to focus us, challenge us and to grow. So, how do you find a mentor?  https://guyinacube.com/2016/06/how-to-find-a-mentor/  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-5-tips-on-how-to-find-a-mentor/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-5-tips-on-how-to-find-a-mentor/",
+      "originalUrl": "https://youtube.com/watch?v=kl02Llelq8w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kl02Llelq8w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M14S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-06-29T08:22:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kl02Llelq8w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-5-tips-to-level-up-your-public-speaking-or-presentation-skills.md",
       "title": "5 tips to LEVEL UP your public speaking or presentation skills",
       "excerpt": "Nervous about public speaking? Want to improve your speaking or presentation skills? Patrick gives you his 5 tips to help capture attention and connect with your audience.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r LET'S CONNECT!\r *******************\r \r -- http://twitter.com/guyinacube",
@@ -1064,82 +1140,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/P40YEi9w1cA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-announcements-whitepapers-and-apis.md",
-      "title": "Announcements, whitepapers, and APIs",
-      "excerpt": "Power BI Premium generally available https://powerbi.microsoft.com/en-us/blog/power-bi-premium-generally-available/   Data Insights Summit Opening Keynote  https://www.youtube.com/watch?v=zaVGt-IbuhU  White Paper On “Planning A Power BI Enterprise Deployment” (@technitrain & @SQLChick) https://blog.crossjoin.co.uk/2017/06/20/white-paper-on-planning-a-power-bi-enterprise-deployment/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-announcements-whitepapers-and-apis/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-announcements-whitepapers-and-apis/",
-      "originalUrl": "https://youtube.com/watch?v=e7PYyAoY36E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/e7PYyAoY36E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M16S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-06-22T08:18:24-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/e7PYyAoY36E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-another-30-day-query-folding-challenge.md",
-      "title": "Another 30-Day Query Folding challenge!!!",
-      "excerpt": "Here is another 30-day Query Folding challenge video for you. Patrick takes on Day 7 and ramps up his Power Query knowledge! Will Power BI Desktop get the best of him???  GitHub Repot: https://github.com/itsnotaboutthecell/powerquerym/tree/master/%2330DQUERY   📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-another-30-day-query-folding-challenge/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-another-30-day-query-folding-challenge/",
-      "originalUrl": "https://youtube.com/watch?v=8M2VIPLdF3A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8M2VIPLdF3A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M56S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-05-18T08:00:05-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8M2VIPLdF3A/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

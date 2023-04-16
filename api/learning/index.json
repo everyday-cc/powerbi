@@ -225,82 +225,6 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-calling-a-stored-procedure-using-incremental-refresh-in-power-bi-we-think-so.md",
-      "title": "Calling a Stored Procedure using Incremental Refresh in Power BI? We think so!",
-      "excerpt": "Have you wanted to use a Stored Procedure with Incremental Refresh? Patrick has a way that you can do just that!   Sandeep's blog: https://pawarbi.github.io/blog/power%20bi/powerquery/queryfolding/m/optimization/2022/01/25/parameter-valuenativequery-query-folding-where-clause-in-powerbi.html  Stored",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-calling-a-stored-procedure-using-incremental-refresh-in-power-bi-we-think-so/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-calling-a-stored-procedure-using-incremental-refresh-in-power-bi-we-think-so/",
-      "originalUrl": "https://youtube.com/watch?v=-KXDpi_wyD4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-KXDpi_wyD4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M49S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-02-01T08:00:00-08:00",
-      "heat": 132,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-KXDpi_wyD4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-provide-data-lake-access-with-azure-synapse-analytics.md",
-      "title": "Provide data lake access with Azure Synapse Analytics",
-      "excerpt": "Using a lake database with Azure Synapse Analytics and struggling to figure out permissions needed for your data readers? Patrick and Adam show you what's missing!  Azure Synapse Access Control https://learn.microsoft.com/azure/synapse-analytics/security/synapse-workspace-access-control-overview  How",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-provide-data-lake-access-with-azure-synapse-analytics/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-provide-data-lake-access-with-azure-synapse-analytics/",
-      "originalUrl": "https://youtube.com/watch?v=6KG-LogdI9g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6KG-LogdI9g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M51S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-02-14T08:00:03-08:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6KG-LogdI9g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/articles/excelerator-bi-sydney-pug-meetup-ask-miguel-myers-anything.md",
       "title": "Sydney PUG Meetup – Ask Miguel Myers Anything",
       "excerpt": "On 12th April 2023, Iman and I hosted Miguel Myers as our special guest at the Sydney Power BI User Group.   Miguel is a visualisation guru from Microsoft and has worked there for many years.  He has recently been assigned as the Product Manager for Visualisations in Power BI, and [...]Read More »",
@@ -327,14 +251,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-continuing-the-t-sql-journey-with-over-and-rank.md",
-      "title": "Continuing the T-SQL journey with OVER and RANK",
-      "excerpt": "Continuing our T-SQL journey, Patrick explores the use of the OVER and RANK functions in combination with common table expressions (CTE) in Azure SQL Database and Azure Synapse Analytics.  RANK (Transact-SQL) https://learn.microsoft.com/sql/t-sql/functions/rank-transact-sql?view=sql-server-ver16  SELECT",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-continuing-the-t-sql-journey-with-over-and-rank/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-continuing-the-t-sql-journey-with-over-and-rank/",
-      "originalUrl": "https://youtube.com/watch?v=ZKvpiOnwAK4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ZKvpiOnwAK4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M53S",
+      "path": "_learning/videos/guy-in-a-cube-dataset-permissions-required-for-app-report-in-power-bi-what-am-i-missing-re-upload.md",
+      "title": "Dataset permissions required for App report in Power BI? What am I missing??? (Re-Upload)",
+      "excerpt": "Struggling with Power BI App permissions when using shared datasets? Adam looks at how this works. Even for PRO users!!!  Composit model permission blog (Older information): https://powerbi.microsoft.com/en-us/blog/update-to-required-permissions-when-using-composite-models-on-a-power-bi-dataset/  📢",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dataset-permissions-required-for-app-report-in-power-bi-what-am-i-missing-re-upload/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dataset-permissions-required-for-app-report-in-power-bi-what-am-i-missing-re-upload/",
+      "originalUrl": "https://youtube.com/watch?v=k-4Oud9jkuw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k-4Oud9jkuw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M16S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -347,11 +271,87 @@
           }
         ]
       },
-      "publishedDateTime": "2023-02-07T08:00:30-08:00",
+      "publishedDateTime": "2023-03-09T08:00:26-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ZKvpiOnwAK4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/k-4Oud9jkuw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-how-do-thin-reports-work-with-power-bi-deployment-pipelines.md",
+      "title": "How do THIN reports work with Power BI Deployment Pipelines?",
+      "excerpt": "Using Power BI Deployment Pipelines and curious what happens when the report and dataset are in different workspaces? How does it work when you promote to another pipeline? Kevin Arnold shows us!  Kevin Arnold: https://twitter.com/kevarnold https://www.linkedin.com/in/kevarnold/  📢 Become a member:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-do-thin-reports-work-with-power-bi-deployment-pipelines/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-do-thin-reports-work-with-power-bi-deployment-pipelines/",
+      "originalUrl": "https://youtube.com/watch?v=zJopprZC-bE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/zJopprZC-bE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M5S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-03-16T08:00:49-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/zJopprZC-bE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-publishmigrate-your-rdl-files-from-power-bi-report-server-to-the-service.md",
+      "title": "Publish/Migrate your RDL files from Power BI Report Server to the service",
+      "excerpt": "Using on-premises Power BI Report Server? You can now migrate your paginated RDL reports to the Power BI service from within the portal. Patrick shows you how!  Plan to migrate .rdl reports to Power BI https://learn.microsoft.com/power-bi/guidance/migrate-ssrs-reports-to-power-bi  Blog Announcement:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-publishmigrate-your-rdl-files-from-power-bi-report-server-to-the-service/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-publishmigrate-your-rdl-files-from-power-bi-report-server-to-the-service/",
+      "originalUrl": "https://youtube.com/watch?v=58rLq8MF2mc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/58rLq8MF2mc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M52S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-02-15T08:00:06-08:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/58rLq8MF2mc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -510,8 +510,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 60128,
-            "average": 4.7948375
+            "count": 60135,
+            "average": 4.794845
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -552,8 +552,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 85477,
-            "average": 4.7776594
+            "count": 85483,
+            "average": 4.777675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -570,7 +570,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 105,
+          "heat": 103,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -612,8 +612,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 60128,
-        "average": 4.7948375
+        "count": 60135,
+        "average": 4.794845
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -644,87 +644,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
-      "title": "Get started building with Power BI",
-      "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
-      "length": "PT40M",
-      "ratings": {
-        "count": 85477,
-        "average": 4.7776594
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 105,
-      "images": [
-        {
-          "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
-          "width": 643,
-          "height": 322,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api.md",
-      "title": "DAX Fridays #190: Year Over Year population change in Europe with Eurostat API",
-      "excerpt": "In todays video we will calculate YOY population in europe and finalize the report we started on this series.   Link to Previous videos: How Eurostat API works: https://www.youtube.com/watch?v=UwXo1OcwbAg  Build a report based on Eurostat data. We will get total population and population growth and map",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api/",
-      "originalUrl": "https://youtube.com/watch?v=rIcs4Mz1umQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rIcs4Mz1umQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M49S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-10-30T04:24:15-07:00",
-      "heat": 105,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rIcs4Mz1umQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
       ]
     },
     {
@@ -806,7 +725,7 @@
             ]
           },
           "publishedDateTime": "2021-01-21T08:00:02-08:00",
-          "heat": 59,
+          "heat": 63,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/B_bAKrXAUh0/maxresdefault.jpg",
@@ -901,7 +820,7 @@
         }
       ],
       "size": 9,
-      "heat": 104,
+      "heat": 105,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Vqz2d7pTOV8/maxresdefault.jpg",
@@ -912,6 +831,87 @@
       ],
       "content": "\r\n",
       "type": "collection",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api.md",
+      "title": "DAX Fridays #190: Year Over Year population change in Europe with Eurostat API",
+      "excerpt": "In todays video we will calculate YOY population in europe and finalize the report we started on this series.   Link to Previous videos: How Eurostat API works: https://www.youtube.com/watch?v=UwXo1OcwbAg  Build a report based on Eurostat data. We will get total population and population growth and map",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api/",
+      "originalUrl": "https://youtube.com/watch?v=rIcs4Mz1umQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rIcs4Mz1umQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M49S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-30T04:24:15-07:00",
+      "heat": 105,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rIcs4Mz1umQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-get-started-with-power-bi.md",
+      "title": "Get started building with Power BI",
+      "excerpt": "Power BI is a collection of software services and applications that let you connect to all sorts of data sources and create compelling visuals and reports. You can benefit from receiving those reports, or you can share them with others inside or outside your organization. Learn the basics of Power BI, how its services and applications work together, and how they can be used to create or experience compelling visuals and analytics based on your data.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-get-started-with-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
+      "length": "PT40M",
+      "ratings": {
+        "count": 85483,
+        "average": 4.777675
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 103,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
+          "width": 643,
+          "height": 322,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
       "topics": [
         "Power BI"
       ]
@@ -986,8 +986,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 18072,
-            "average": 4.7560315
+            "count": 18074,
+            "average": 4.756058
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1028,8 +1028,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11344,
-            "average": 4.6779795
+            "count": 11346,
+            "average": 4.6778603
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1062,8 +1062,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 85477,
-            "average": 4.7776594
+            "count": 85483,
+            "average": 4.777675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1080,7 +1080,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 105,
+          "heat": 103,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -1122,8 +1122,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 18072,
-        "average": 4.7560315
+        "count": 18074,
+        "average": 4.756058
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1263,8 +1263,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 85477,
-            "average": 4.7776594
+            "count": 85483,
+            "average": 4.777675
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1281,7 +1281,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 105,
+          "heat": 103,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",
@@ -1305,8 +1305,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 34029,
-            "average": 4.7269096
+            "count": 34033,
+            "average": 4.726912
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1348,8 +1348,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15768,
-            "average": 4.7208905
+            "count": 15770,
+            "average": 4.7208624
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1390,8 +1390,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7141,
-            "average": 4.762218
+            "count": 7142,
+            "average": 4.7621117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1450,8 +1450,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 27384,
-        "average": 4.724109
+        "count": 27385,
+        "average": 4.7240825
       },
       "provider": {
         "name": "Microsoft Learn",
