@@ -623,8 +623,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3285,
-            "average": 4.720548
+            "count": 3286,
+            "average": 4.720633
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -901,8 +901,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
       "length": "PT37M",
       "ratings": {
-        "count": 993,
-        "average": 4.7834845
+        "count": 994,
+        "average": 4.7837024
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -985,8 +985,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
       "length": "PT41M",
       "ratings": {
-        "count": 1216,
-        "average": 4.7796054
+        "count": 1217,
+        "average": 4.7797866
       },
       "provider": {
         "name": "Microsoft Learn",
