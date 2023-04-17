@@ -1074,8 +1074,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 325,
-            "average": 4.6553845
+            "count": 326,
+            "average": 4.6564417
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1593,8 +1593,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 11348,
-        "average": 4.677917
+        "count": 11350,
+        "average": 4.6779737
       },
       "provider": {
         "name": "Microsoft Learn",
