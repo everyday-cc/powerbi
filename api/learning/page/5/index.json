@@ -1819,8 +1819,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
           "length": "PT12M",
           "ratings": {
-            "count": 178,
-            "average": 4.719101
+            "count": 179,
+            "average": 4.7150836
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1986,8 +1986,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 150,
-            "average": 4.64
+            "count": 151,
+            "average": 4.629139
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2195,8 +2195,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 150,
-            "average": 4.64
+            "count": 151,
+            "average": 4.629139
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2404,8 +2404,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1427,
-            "average": 4.743518
+            "count": 1428,
+            "average": 4.7436976
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3595,8 +3595,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 3952,
-        "average": 4.6629553
+        "count": 3954,
+        "average": 4.663126
       },
       "provider": {
         "name": "Microsoft Learn",
