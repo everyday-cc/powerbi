@@ -2404,8 +2404,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1429,
-            "average": 4.743877
+            "count": 1430,
+            "average": 4.7440557
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2573,8 +2573,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 151,
-            "average": 4.8807945
+            "count": 152,
+            "average": 4.881579
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3427,7 +3427,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",

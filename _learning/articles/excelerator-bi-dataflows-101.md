@@ -4,7 +4,7 @@ excerpt: "Matt here.  I want to do a brief introduction prior to handing over t
 webUrl: https://exceleratorbi.com.au/dataflows-101/
 type: article
 publishedDateTime: 2022-03-28T19:55:00Z
-heat: 50
+heat: 51
 
 provider:
   name: Excelerator BI

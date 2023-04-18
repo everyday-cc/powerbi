@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 271,
-            "average": 4.686347
+            "count": 272,
+            "average": 4.6875
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-power-bi-artifacts-use-microsoft-purview/",
           "length": "PT20M",
           "ratings": {
-            "count": 179,
-            "average": 4.709497
+            "count": 180,
+            "average": 4.711111
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -492,8 +492,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 689,
-            "average": 4.7590714
+            "count": 690,
+            "average": 4.7594204
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -534,8 +534,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 603,
-            "average": 4.8291874
+            "count": 604,
+            "average": 4.82947
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -576,8 +576,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 522,
-            "average": 4.795019
+            "count": 524,
+            "average": 4.7938933
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -994,8 +994,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 273,
-            "average": 4.659341
+            "count": 274,
+            "average": 4.660584
           },
           "provider": {
             "name": "Microsoft Learn",
