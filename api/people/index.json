@@ -17,7 +17,7 @@
       "twitter": {
         "username": "Rad_Reza",
         "url": "https://twitter.com/Rad_Reza",
-        "followers": 10807
+        "followers": 10859
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/rezarad/"
@@ -30,13 +30,154 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 135,
+      "heat": 119,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1102766467173408768/F9EbQENa_400x400.png",
           "width": 400,
           "height": 400,
           "title": "Reza Rad",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/adam-saxton.md",
+      "title": "Adam Saxton",
+      "excerpt": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/adam-saxton/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/adam-saxton/",
+      "type": "profile",
+      "name": "Adam Saxton",
+      "bio": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
+      "location": "Conroe, TX",
+      "website": "https://t.co/sfMHqOSfBC",
+      "twitter": {
+        "username": "awsaxton",
+        "url": "https://twitter.com/awsaxton",
+        "followers": 8076
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/guyinacube/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 96,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Adam Saxton",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/patrick-leblanc.md",
+      "title": "Patrick LeBlanc",
+      "excerpt": "Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/patrick-leblanc/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/patrick-leblanc/",
+      "type": "profile",
+      "name": "Patrick LeBlanc",
+      "bio": "Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events.",
+      "location": "Alpharetta, GA",
+      "website": "https://t.co/F5FuW6Huqh",
+      "twitter": {
+        "username": "patrickdba",
+        "url": "https://twitter.com/patrickdba",
+        "followers": 8218
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/patrickdleblanc/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 87,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1581687405358333954/jauNU1-Y_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Patrick LeBlanc",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/arun-ulag.md",
+      "title": "Arun Ulag",
+      "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/arun-ulag/index.json",
+      "webUrl": "https://everyday.cc/powerbi/people/arun-ulag/",
+      "type": "profile",
+      "name": "Arun Ulag",
+      "bio": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
+      "location": "Seattle, WA",
+      "website": "https://t.co/FklqJqbSAZ",
+      "twitter": {
+        "username": "arunulag",
+        "url": "https://twitter.com/arunulag",
+        "followers": 5055
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/arunulag/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "Power BI"
+      ],
+      "heat": 84,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1622337081463967744/WYn9S1E2_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Arun Ulag",
           "isCached": true
         }
       ],
@@ -56,7 +197,7 @@
       "twitter": {
         "username": "powerbipro",
         "url": "https://twitter.com/powerbipro",
-        "followers": 5689
+        "followers": 5693
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/avichalsingh/"
@@ -69,7 +210,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 64,
+      "heat": 56,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/732049231326806017/m4jUj2Lu_400x400.jpg",
@@ -108,154 +249,13 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 64,
+      "heat": 50,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1109338504268439552/OY_Va867_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Mike Carlo",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/adam-saxton.md",
-      "title": "Adam Saxton",
-      "excerpt": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/adam-saxton/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/adam-saxton/",
-      "type": "profile",
-      "name": "Adam Saxton",
-      "bio": "Principal PM @Microsoft working on #PowerBI, #SSRS and #SSAS. I also go by @GuyInACube",
-      "location": "Conroe, TX",
-      "website": "https://t.co/sfMHqOSfBC",
-      "twitter": {
-        "username": "awsaxton",
-        "url": "https://twitter.com/awsaxton",
-        "followers": 8048
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/guyinacube/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1367134870779101197/1pI9LWWn_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Adam Saxton",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/patrick-leblanc.md",
-      "title": "Patrick LeBlanc",
-      "excerpt": "Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/patrick-leblanc/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/patrick-leblanc/",
-      "type": "profile",
-      "name": "Patrick LeBlanc",
-      "bio": "Patrick LeBlanc is a currently a Principal Program Manager at Microsoft and a contributing partner to Guy in a Cube. Along with his 15+ years’ experience in IT he holds a Masters of Science degree from Louisiana State University. He is the author and co-author of five SQL Server books. Prior to joining Microsoft he was awarded Microsoft MVP award for his contributions to the community. Patrick is a regular speaker at many SQL Server Conferences and Community events.",
-      "location": "Alpharetta, GA",
-      "website": "https://t.co/F5FuW6Huqh",
-      "twitter": {
-        "username": "patrickdba",
-        "url": "https://twitter.com/patrickdba",
-        "followers": 8194
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/patrickdleblanc/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1581687405358333954/jauNU1-Y_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Patrick LeBlanc",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/arun-ulag.md",
-      "title": "Arun Ulag",
-      "excerpt": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/people/arun-ulag/index.json",
-      "webUrl": "https://everyday.cc/powerbi/people/arun-ulag/",
-      "type": "profile",
-      "name": "Arun Ulag",
-      "bio": "Corporate Vice President of Business Intelligence @Microsoft. Power BI, Azure Analysis Services, SQL Server Analysis Services, SQL Server Reporting Services",
-      "location": "Seattle, WA",
-      "website": "https://t.co/FklqJqbSAZ",
-      "twitter": {
-        "username": "arunulag",
-        "url": "https://twitter.com/arunulag",
-        "followers": 5035
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/arunulag/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "Power BI"
-      ],
-      "heat": 42,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1622337081463967744/WYn9S1E2_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Arun Ulag",
           "isCached": true
         }
       ],
@@ -273,7 +273,7 @@
       "twitter": {
         "username": "Seth_C_Bauer",
         "url": "https://twitter.com/Seth_C_Bauer",
-        "followers": 2119
+        "followers": 2118
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/seth-bauer/"
@@ -286,7 +286,7 @@
       "topics": [
         "Power BI"
       ],
-      "heat": 42,
+      "heat": 48,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1176155552587681793/4aUcPKoe_400x400.jpg",
