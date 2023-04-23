@@ -4,7 +4,7 @@ excerpt: "Success with Power BI begins with a great data model. In this module, 
 type: collection
 price: Free
 length: PT5H31M
-heat: 58
+heat: 60
 
 provider:
   name: Microsoft Learn

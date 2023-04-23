@@ -4,7 +4,7 @@ excerpt: "On 12th April 2023, Iman and I hosted Miguel Myers as our special gues
 webUrl: https://exceleratorbi.com.au/ask-miguel-myers-anything/
 type: article
 publishedDateTime: 2023-04-12T23:56:02Z
-heat: 130
+heat: 80
 
 provider:
   name: Excelerator BI
