@@ -2,6 +2,159 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-19-metric-visual-is-now-available-in-preview.md",
+      "title": "Metric visual is now available in preview",
+      "excerpt": "Metrics visual is now available.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-19-metric-visual-is-now-available-in-preview/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/metric-visual-is-now-available-in-preview/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/metric-visual-is-now-available-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-revamped-look-for-power-bi-mobile-is-now-available.md",
+      "title": "Revamped look for Power BI Mobile is now available",
+      "excerpt": "Microsoft's recent improvements to Power BI include URL parameters for paginated reports, changes to summarized data export behavior, and new settings to tackle issues related to capacity.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-19-revamped-look-for-power-bi-mobile-is-now-available/index.json",
+      "webUrl": "https://www.neowin.net/news/revamped-look-for-power-bi-mobile-is-now-available/",
+      "originalUrl": "https://www.neowin.net/news/revamped-look-for-power-bi-mobile-is-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329716_powerbi-3_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/revamped-look-for-power-bi-mobile-is-now-available/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/revamped-look-for-power-bi-mobile-is-now-available/",
+      "publishedDateTime": "2022-07-19T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-executequeries-rest-api-versus-xmla-endpoints-at-scale.md",
+      "title": "ExecuteQueries REST API versus XMLA endpoints at scale",
+      "excerpt": "Power BI APIs can support you at any scale, but there is no one-size-fits-all API. The ExecuteQueries API is a great choice at small scale. For large-scale solutions, switch to XMLA endpoints and host your datasets on Power BI Premium.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-18-executequeries-rest-api-versus-xmla-endpoints-at-scale/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/executequeries-rest-api-versus-xmla-endpoints-at-scale/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/executequeries-rest-api-versus-xmla-endpoints-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T06:27:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-visualizing-views-in-dynamics-365-with-power-bi-is-now-generally-available.md",
       "title": "Visualizing views in Dynamics 365 with Power BI is now generally available",
       "excerpt": "We’re very excited to announce that the Power BI integration in Dynamics 365 and model driven Power Apps, which shipped as a preview last December, is now generally available. Dynamics 365 and model driven Power Apps give organizations the ability to quickly build essential line-of-business apps in a",
@@ -1100,159 +1253,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-24T00:55:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-announcing-public-preview-of-datamart-in-power-bi.md",
-      "title": "Announcing public preview of datamart in Power BI",
-      "excerpt": "Announcing public preview of datamart in Power BI, a new Power BI Premium self-service capability that enables users to uncover actionable insights through their own independent and dependent data sets. For the first time ever, we are empowering everyone with the right-sized ability to build datamarts",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-24-announcing-public-preview-of-datamart-in-power-bi/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-datamart-in-power-bi/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-datamart-in-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T00:30:25-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-whats-new-in-sql-server-2022-analysis-services-ctp-20.md",
-      "title": "What’s new in SQL Server 2022 Analysis Services CTP 2.0",
-      "excerpt": "SQL Server 2022 Analysis Services is now available for public preview! SSAS 2022 tabular models now join forces in Power BI Desktop with other data to create composite models, speed up MDX queries used in Excel PivotTables, allow for more control over resources, and get data back to business users faster",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-24-whats-new-in-sql-server-2022-analysis-services-ctp-20/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-sql-server-2022-analysis-services-ctp-2-0/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/whats-new-in-sql-server-2022-analysis-services-ctp-2-0/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T00:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-tell-a-story-with-your-data-announcing-the-all-new-power-bi-integration-for-powerpoint.md",
-      "title": "Tell a story with your data. Announcing the all-new Power BI integration for PowerPoint.",
-      "excerpt": "We’re thrilled to be shipping Power BI Data storytelling that lets you add Power BI reports and bookmarks to your slides and enjoy the delightful interactive experience of Power BI inside your presentations. With data storytelling, data will always be up to date in your slides, whether you’re building",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-24-tell-a-story-with-your-data-announcing-the-all-new-power-bi-integration-for-powerpoint/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/tell-a-story-with-your-data-announcing-the-all-new-power-bi-integration-for-powerpoint/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/tell-a-story-with-your-data-announcing-the-all-new-power-bi-integration-for-powerpoint/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T23:00:40-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",

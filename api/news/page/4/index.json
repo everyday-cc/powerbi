@@ -2,6 +2,161 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-19-userculture-dax-function-now-supported-in-power-bi-premium.md",
+      "title": "USERCULTURE DAX function now supported in Power BI Premium",
+      "excerpt": "Support for the DAX UserCulture function in Power BI Premium is now available.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-19-userculture-dax-function-now-supported-in-power-bi-premium/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/userculture-dax-function-now-supported-in-power-bi-premium/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/userculture-dax-function-now-supported-in-power-bi-premium/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_news/2022-09-19-announcing-power-bi-report-and-dataset-management-in-power-apps-solutions.md",
+      "title": "Announcing Power BI report and dataset management in Power Apps Solutions",
+      "excerpt": "Announcing public preview on managing Power BI reports and datasets native components in Power Apps Solution ",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-19-announcing-power-bi-report-and-dataset-management-in-power-apps-solutions/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-report-and-dataset-management-in-power-apps-solutions/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-report-and-dataset-management-in-power-apps-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T02:00:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-power-bi-september-2022-feature-summary.md",
+      "title": "Power BI September 2022 Feature Summary",
+      "excerpt": "Welcome to the September 2022 update. We are thrilled to announce a variety of new features such as hierarchical axis by default, translations for composite models, mobile formatting options general availability and cross tenants’ datasets sharing. There is more to explore, please continue to read on.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-13-power-bi-september-2022-feature-summary/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-september-2022-feature-summary/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-september-2022-feature-summary/",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eIrlkeORor0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T05:20:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-introducing-aad-based-filtration-for-power-bi-datamarts.md",
       "title": "Introducing AAD-based filtration for Power BI Datamarts",
       "excerpt": "We are very pleased to announce the introduction of AAD-based filtration to the Power BI Datamarts tenant setting.",
@@ -1105,159 +1260,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-metric-visual-is-now-available-in-preview.md",
-      "title": "Metric visual is now available in preview",
-      "excerpt": "Metrics visual is now available.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-19-metric-visual-is-now-available-in-preview/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/metric-visual-is-now-available-in-preview/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/metric-visual-is-now-available-in-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-revamped-look-for-power-bi-mobile-is-now-available.md",
-      "title": "Revamped look for Power BI Mobile is now available",
-      "excerpt": "Microsoft's recent improvements to Power BI include URL parameters for paginated reports, changes to summarized data export behavior, and new settings to tackle issues related to capacity.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-19-revamped-look-for-power-bi-mobile-is-now-available/index.json",
-      "webUrl": "https://www.neowin.net/news/revamped-look-for-power-bi-mobile-is-now-available/",
-      "originalUrl": "https://www.neowin.net/news/revamped-look-for-power-bi-mobile-is-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2019/09/1567329716_powerbi-3_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/revamped-look-for-power-bi-mobile-is-now-available/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/revamped-look-for-power-bi-mobile-is-now-available/",
-      "publishedDateTime": "2022-07-19T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-executequeries-rest-api-versus-xmla-endpoints-at-scale.md",
-      "title": "ExecuteQueries REST API versus XMLA endpoints at scale",
-      "excerpt": "Power BI APIs can support you at any scale, but there is no one-size-fits-all API. The ExecuteQueries API is a great choice at small scale. For large-scale solutions, switch to XMLA endpoints and host your datasets on Power BI Premium.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-18-executequeries-rest-api-versus-xmla-endpoints-at-scale/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/executequeries-rest-api-versus-xmla-endpoints-at-scale/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/executequeries-rest-api-versus-xmla-endpoints-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T06:27:13-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
