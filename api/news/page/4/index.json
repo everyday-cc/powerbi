@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-19-announcing-horizontal-fusion-a-query-performance-optimization-in-power-bi-and-analysis-services.md",
+      "title": "Announcing “Horizontal Fusion,” a query performance optimization in Power BI and Analysis Services",
+      "excerpt": "We are excited to announce the initial release of a query performance optimization aimed at processing Data Analysis Expressions (DAX) queries more efficiently, known as “Horizontal Fusion”.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-09-19-announcing-horizontal-fusion-a-query-performance-optimization-in-power-bi-and-analysis-services/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-horizontal-fusion-a-query-performance-optimization-in-power-bi-and-analysis-services/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-horizontal-fusion-a-query-performance-optimization-in-power-bi-and-analysis-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-19T07:33:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-09-19-userculture-dax-function-now-supported-in-power-bi-premium.md",
       "title": "USERCULTURE DAX function now supported in Power BI Premium",
       "excerpt": "Support for the DAX UserCulture function in Power BI Premium is now available.",
@@ -1218,48 +1269,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-raise-your-data-visualization-skills-with-this-excel-and-power-bi-bundle.md",
-      "title": "Raise your data visualization skills with this Excel and Power BI bundle",
-      "excerpt": "TL;DR: As of July 19, you can get The 2022 Ultimate Microsoft Excel & Power BI Certification Bundle(opens in a new tab) for just $34.99 instead of $1800 — that's a 98% discount. Excel is an ...",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-20-raise-your-data-visualization-skills-with-this-excel-and-power-bi-bundle/index.json",
-      "webUrl": "https://mashable.com/deals/july-19-excel-and-power-bi-bundle",
-      "originalUrl": "https://mashable.com/deals/july-19-excel-and-power-bi-bundle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/026deNNBEvzZpfe3zChRdP2/hero-image.fill.size_1200x675.v1658158429.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T16:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

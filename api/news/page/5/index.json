@@ -2,6 +2,48 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-20-raise-your-data-visualization-skills-with-this-excel-and-power-bi-bundle.md",
+      "title": "Raise your data visualization skills with this Excel and Power BI bundle",
+      "excerpt": "TL;DR: As of July 19, you can get The 2022 Ultimate Microsoft Excel & Power BI Certification Bundle(opens in a new tab) for just $34.99 instead of $1800 — that's a 98% discount. Excel is an ...",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-07-20-raise-your-data-visualization-skills-with-this-excel-and-power-bi-bundle/index.json",
+      "webUrl": "https://mashable.com/deals/july-19-excel-and-power-bi-bundle",
+      "originalUrl": "https://mashable.com/deals/july-19-excel-and-power-bi-bundle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/026deNNBEvzZpfe3zChRdP2/hero-image.fill.size_1200x675.v1658158429.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T16:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-metric-visual-is-now-available-in-preview.md",
       "title": "Metric visual is now available in preview",
       "excerpt": "Metrics visual is now available.",
@@ -1202,57 +1244,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-05-24T03:05:24-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-democratize-enterprise-analytics-with-microsoft-power-bi.md",
-      "title": "Democratize enterprise analytics with Microsoft Power BI",
-      "excerpt": "Microsoft Build represents the ultimate developer event. A hundred thousand developers from across the world gather for three days with their peers to learn, engage, and collaborate on the latest innovations and tools from Microsoft. ",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2022-05-24-democratize-enterprise-analytics-with-microsoft-power-bi/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/democratize-enterprise-analytics-with-microsoft-power-bi/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/democratize-enterprise-analytics-with-microsoft-power-bi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbiblogscdn.azureedge.net/wp-content/uploads/2022/05/MSC16_slalom_049.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T00:55:08-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
