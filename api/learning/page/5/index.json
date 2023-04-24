@@ -1394,7 +1394,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
@@ -1604,7 +1604,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
@@ -2114,8 +2114,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7028,
-        "average": 4.7552648
+        "count": 7029,
+        "average": 4.755157
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2156,8 +2156,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 15849,
-        "average": 4.7214336
+        "count": 15850,
+        "average": 4.7214513
       },
       "provider": {
         "name": "Microsoft Learn",
