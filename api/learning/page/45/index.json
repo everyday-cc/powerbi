@@ -452,8 +452,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 289,
-            "average": 4.66782
+            "count": 290,
+            "average": 4.6689653
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -536,8 +536,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
           "length": "PT1H12M",
           "ratings": {
-            "count": 131,
-            "average": 4.80916
+            "count": 132,
+            "average": 4.787879
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1166,8 +1166,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-scalable-power-bi-dataflows/",
       "length": "PT1H12M",
       "ratings": {
-        "count": 131,
-        "average": 4.80916
+        "count": 132,
+        "average": 4.787879
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1664,8 +1664,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/intelligent-environments-education-transformation-framework/",
       "length": "PT60M",
       "ratings": {
-        "count": 345,
-        "average": 4.8492756
+        "count": 347,
+        "average": 4.838617
       },
       "provider": {
         "name": "Microsoft Learn",

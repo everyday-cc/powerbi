@@ -588,8 +588,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 355,
-        "average": 4.76338
+        "count": 356,
+        "average": 4.764045
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -630,8 +630,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
       "length": "PT28M",
       "ratings": {
-        "count": 612,
-        "average": 4.8316994
+        "count": 613,
+        "average": 4.831974
       },
       "provider": {
         "name": "Microsoft Learn",
