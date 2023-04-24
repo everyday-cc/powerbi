@@ -516,8 +516,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
       "length": "PT16M",
       "ratings": {
-        "count": 330,
-        "average": 4.6454544
+        "count": 331,
+        "average": 4.646526
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -768,8 +768,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-automate/",
       "length": "PT19M",
       "ratings": {
-        "count": 42,
-        "average": 4.904762
+        "count": 43,
+        "average": 4.9069767
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -936,8 +936,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-permissions-analytics/",
       "length": "PT33M",
       "ratings": {
-        "count": 34,
-        "average": 4.7941175
+        "count": 35,
+        "average": 4.8
       },
       "provider": {
         "name": "Microsoft Learn",
