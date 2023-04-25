@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT7M7S
 publishedDateTime: 2020-11-04T16:00:08Z
-heat: 57
+heat: 59
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fV2ZK4q3FBQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "CSSQDIqzCdmRwrq4FxS5OdD+pJ+Qey2pEHNQIV74z4geHrnl6MfEVAsohj4nlY5H6piMxyXdBdOYy8U+ZLex0Az6XS4zfyaAFazXEwLAgzXMehG/xCjGdhFUieTtd4ERtrWJ06jcjX5ue3JpdIvf++bg2KarDtFnWtjx2G4F4aMeeraDzpCYWo5vZY+kP+hgsdvtoPKATcoxkqaCtKYwh/lKuZXYXA8Cum+aKHk4w37K7W57RL8AOEeBazxnHyxMbtnUQSKKihB2Fd4SWPTUlaX1YMLznYVBZepeMCPGzpI3KTdg3pdneekTmIttuH7DhznKykwuGcs9YJ4h6WuxfS1NeJedfO1aQEGa5ZoId8J7/VtiqyvttJv2gRpDhDNhFUg6pcHJRrbD3VcnNikJkA3+hojQ1aJVwj/DzBH6YgM=;/rlD9F6TQrOLGG8Tz8FQIA=="
+secured: "iSoEMs+pZUxh8L6n5oZnIbG51A+j+Rxbr9eAKoyxyG5NLSYyZoqvcjBfzdjfKdb2cthQDH4ijat45+uyX5zcWRIxl/C7HfZruUzxs8eLgiRIIwzYFxxgs16i0UVLLjLwgro6BWoTQeTL2J2HH/VkqUckPb/ePnhZNoGJjKLbXd8VhkJW5avVZcYNYsZsBqp3kVj4HemhAJwWzsvi4J4uN6E9QfGi9GRXDC9UeO9eeLosfdyPtKMwkbfhyWxspdVnODe9owDnHc+du7TR94wRJB/5crXO+sdbfMlcUljgw2j7u/XupcqKGcGZvGT5d7OvUR7PL0xroYYxthxJ4eRlGL4B5CLBLnVMRK2zeP0PFgaGLHAlOKHhUbBIu3kEA0xrwK0xgmhJ+6zTviV7XFzmKq7HpDR7EHo5lzti9YN1h7c=;HUbwvF4PzcchWapG+k0LfA=="
 ---
 
