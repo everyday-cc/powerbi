@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 616,
-            "average": 4.8327923
+            "count": 617,
+            "average": 4.833063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -911,8 +911,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-power-bi-application-lifecycle-management-strategy/",
           "length": "PT25M",
           "ratings": {
-            "count": 79,
-            "average": 4.772152
+            "count": 80,
+            "average": 4.775
           },
           "provider": {
             "name": "Microsoft Learn",
