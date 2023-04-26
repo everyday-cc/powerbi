@@ -255,14 +255,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-how-to-get-a-clock-in-your-power-bi-report.md",
-      "title": "How to get a CLOCK in your Power BI Report",
-      "excerpt": "We had a question about how to get a clock in Power BI? Is that even possible? Patrick takes advantage of the Deneb visual to make it happen!  Vega Clock Sample https://vega.github.io/vega/examples/clock/  HTML Content Custom Visual Limitations https://www.html-content.com/reference/limitations  Kerry",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-to-get-a-clock-in-your-power-bi-report/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-to-get-a-clock-in-your-power-bi-report/",
-      "originalUrl": "https://youtube.com/watch?v=6RzC1P_1Elg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6RzC1P_1Elg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M23S",
+      "path": "_learning/videos/guy-in-a-cube-the-power-of-microsoft-lists-and-power-bi.md",
+      "title": "The POWER of Microsoft Lists and Power BI",
+      "excerpt": "Learn how Microsoft Lists / SharePoint Lists can take advantage of Power BI! Daniel walks through how easy it is to start using today!  Create a report quickly from a SharePoint list or library https://learn.microsoft.com/power-bi/create-reports/service-quick-create-sharepoint-list  Daniel Glenn: https://twitter.com/DanielGlenn",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-power-of-microsoft-lists-and-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-power-of-microsoft-lists-and-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=YOWxvT5XLoc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YOWxvT5XLoc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M23S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -275,11 +275,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-02-22T08:00:03-08:00",
-      "heat": 134,
+      "publishedDateTime": "2023-03-08T08:00:30-08:00",
+      "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/6RzC1P_1Elg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/YOWxvT5XLoc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -293,15 +293,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-tableau-intro.md",
-      "title": "Introduction to Power BI for Tableau users",
-      "excerpt": "This module explores how Microsoft Power BI and Tableau connect to data and help you build visualizations.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-intro/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
-      "length": "PT19M",
+      "path": "_learning/courses/microsoft-learn-modern-analytics-intro.md",
+      "title": "Introduction to modern analytics using Excel and Power BI",
+      "excerpt": "This module introduces the Microsoft modern analytics core suite of tools, including Office 365/Excel 2016+, Power Query, Data Model, Power BI Desktop, and Power BI service. By using modern analytics technologies, you and your organization can work faster, more efficiently, and smarter by using Excel together with Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-intro/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
+      "length": "PT37M",
       "ratings": {
-        "count": 94,
-        "average": 4.755319
+        "count": 1015,
+        "average": 4.7852216
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -318,11 +318,11 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 131,
+      "heat": 132,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-intro-social.png",
-          "width": 1280,
+          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
+          "width": 1281,
           "height": 641,
           "isCached": true
         }
@@ -335,14 +335,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-checking-out-the-window-clause-in-azure-sql-and-sql-server-2022.md",
-      "title": "Checking out the Window Clause in Azure SQL and SQL Server 2022",
-      "excerpt": "Partitioning is nice in SQL, but how about using the WINDOW clause to make it more efficient? Patrick looks at how to use this function with Azure SQL and SQL Server 2022!  SELECT - WINDOW - (Transact-SQL) https://learn.microsoft.com/sql/t-sql/queries/select-window-transact-sql?view=sql-server-ver16",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-checking-out-the-window-clause-in-azure-sql-and-sql-server-2022/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-checking-out-the-window-clause-in-azure-sql-and-sql-server-2022/",
-      "originalUrl": "https://youtube.com/watch?v=KrsNwegpqlk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KrsNwegpqlk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M3S",
+      "path": "_learning/videos/guy-in-a-cube-ready-to-be-a-kusto-detective-with-azure-data-explorer.md",
+      "title": "Ready to be a Kusto Detective with Azure Data Explorer?",
+      "excerpt": "Your detective journey starts with the Kusto Detective Agency for Azure Data Explorer. This is a really fun way to learn the Kusto Query Languate (KQL)! Patrick gets you started! And, it's FREE!  Kusto Detective Agency: https://detective.kusto.io/  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-ready-to-be-a-kusto-detective-with-azure-data-explorer/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-ready-to-be-a-kusto-detective-with-azure-data-explorer/",
+      "originalUrl": "https://youtube.com/watch?v=ayV1r2vFYnI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ayV1r2vFYnI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M55S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -355,11 +355,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-02-21T08:00:09-08:00",
+      "publishedDateTime": "2023-01-31T08:00:04-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/KrsNwegpqlk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ayV1r2vFYnI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -403,8 +403,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 60932,
-            "average": 4.7954607
+            "count": 60940,
+            "average": 4.7954874
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -445,8 +445,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 86451,
-            "average": 4.777654
+            "count": 86457,
+            "average": 4.7776237
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -505,8 +505,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 86451,
-        "average": 4.777654
+        "count": 86457,
+        "average": 4.7776237
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -774,8 +774,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 60932,
-        "average": 4.7954607
+        "count": 60940,
+        "average": 4.7954874
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -916,8 +916,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 18692,
-            "average": 4.7543335
+            "count": 18696,
+            "average": 4.754386
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -958,8 +958,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11567,
-            "average": 4.6791735
+            "count": 11569,
+            "average": 4.679229
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -992,8 +992,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 86451,
-            "average": 4.777654
+            "count": 86457,
+            "average": 4.7776237
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1052,8 +1052,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 18692,
-        "average": 4.7543335
+        "count": 18696,
+        "average": 4.754386
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1248,8 +1248,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 27780,
-        "average": 4.72293
+        "count": 27781,
+        "average": 4.72294
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1427,8 +1427,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 86451,
-            "average": 4.777654
+            "count": 86457,
+            "average": 4.7776237
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1469,8 +1469,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 34237,
-            "average": 4.7265825
+            "count": 34240,
+            "average": 4.7266064
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1512,8 +1512,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15871,
-            "average": 4.7215676
+            "count": 15872,
+            "average": 4.7215853
           },
           "provider": {
             "name": "Microsoft Learn",

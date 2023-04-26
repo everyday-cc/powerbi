@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 617,
-            "average": 4.833063
+            "count": 618,
+            "average": 4.8333335
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -201,8 +201,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 280,
-            "average": 4.6892858
+            "count": 281,
+            "average": 4.6903915
           },
           "provider": {
             "name": "Microsoft Learn",

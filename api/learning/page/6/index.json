@@ -1676,8 +1676,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1014,
-            "average": 4.78501
+            "count": 1015,
+            "average": 4.7852216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1694,7 +1694,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
@@ -1886,8 +1886,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1014,
-            "average": 4.78501
+            "count": 1015,
+            "average": 4.7852216
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1904,7 +1904,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 52,
+          "heat": 132,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
@@ -2308,8 +2308,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 8644,
-        "average": 4.710782
+        "count": 8645,
+        "average": 4.7108154
       },
       "provider": {
         "name": "Microsoft Learn",
