@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT10M24S
 publishedDateTime: 2021-11-30T11:28:12Z
-heat: 50
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6mmkyaboZ_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -24,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "JWCowmu9agBxllZ30DdaSGtxjOIoRIriaPuFIS5E5LCBTDpf/fYQxeKPesJBS926+gP7HroyCxcSvqm2WiX9wOdEBJ/u4SEyuWX1qZUtZiOI6Zy9TeVEz/bWmTxpoMFx+G4Fp5pzmZsuDREJe40a57rdJ6R7h2virN9PqFrE2hLjaf1f3yCVm+mqu9BfYlhLWivo3yYoZaPdnRiszNvgPY9GUK+HQfLmmEvNpa/hD1dazEOTc4PUpicFEupoLSDMmBlF5RE7bfWRA5pQSDhS6iLuL7tGT5o5fG+tB569W7MAcH0fZ+I3yUJlU+mj4TEL7ofrC6trcOhCWkHLps+svFE+E4EzdqiRf9sQQ5zHkgmUmrVC95vuDTGOh26PMbTGmWRCy48+Tew6V1SwOPbTcER556fVyHBhEcxkDCNJAh0=;SFJlp0pdrWq0mJXGu47wHQ=="
+secured: "DTwewrQxQ5unHIgDf76FB9fOmVx+FyenBelij/dAJHpZLhyizUmA62iAw9fkAknh0WkeyIYogjIH60Tc20M2mprAd69HjI47FUxhShA51c4f3xEEpMH3p3TlUmcynInXwlBHN8GJA4zu/NgKej6udlfvPSsyJUCWoKIofJHnGS00TxpXqSqZt2I8F/vcmnDMjZVPcyifE5G2eKZY08ZAiyPr/A4NUAesylFvaMsq+4s87kWpoofViifLGzkZY7LWTpbSkWov6Y3jnIbUvlUjHpFh6O5q5hkFbK6Il82Mh97wlIgTckSPAzkxK/Mw0h3DdXdTmgVgFKFNwnIHnnJBm+2jEYKRf8bXFkr1Qioy0qWXv4EUP1rPRnVNx/wCtOroIU46x31aTVfkVWjDyhcfG4p4GAVk8HHPf+MoqrYuTwg=;l2GEXPhFW1smWqaaud3Zpg=="
 ---
 

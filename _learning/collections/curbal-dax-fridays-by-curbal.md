@@ -246,6 +246,7 @@ items:
   - videos/curbal-dax-fridays-217-evaluateandlog
   - videos/curbal-dax-fridays-218-window-functions-in-dax-explained-with-example
   - videos/curbal-dax-fridays-219-offset-function
+  - videos/curbal-dax-fridays-220-selectedmeasure-function
 
 topics:
   - Power BI
