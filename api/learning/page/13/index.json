@@ -632,8 +632,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11601,
-            "average": 4.6794243
+            "count": 11602,
+            "average": 4.679452
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -666,8 +666,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11170,
-            "average": 4.7059984
+            "count": 11172,
+            "average": 4.706051
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -708,8 +708,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1970,
-            "average": 4.74467
+            "count": 1972,
+            "average": 4.7434077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -768,8 +768,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
       "length": "PT60M",
       "ratings": {
-        "count": 11170,
-        "average": 4.7059984
+        "count": 11172,
+        "average": 4.706051
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -852,8 +852,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 720,
-        "average": 4.7625
+        "count": 721,
+        "average": 4.7628293
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -894,8 +894,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 1970,
-        "average": 4.74467
+        "count": 1972,
+        "average": 4.7434077
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -936,8 +936,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 2637,
-        "average": 4.7277207
+        "count": 2638,
+        "average": 4.727824
       },
       "provider": {
         "name": "Microsoft Learn",

@@ -725,8 +725,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-optimize-performance/",
       "length": "PT21M",
       "ratings": {
-        "count": 29,
-        "average": 4.7586207
+        "count": 30,
+        "average": 4.766667
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1145,8 +1145,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-advanced-data-visualization-concepts/",
       "length": "PT25M",
       "ratings": {
-        "count": 356,
-        "average": 4.764045
+        "count": 357,
+        "average": 4.7619047
       },
       "provider": {
         "name": "Microsoft Learn",
