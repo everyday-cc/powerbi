@@ -4,7 +4,7 @@ excerpt: "Prepare data for tabular models in Power BI"
 type: collection
 price: Free
 length: PT1H9M
-heat: 50
+heat: 55
 
 provider:
   name: Microsoft Learn
