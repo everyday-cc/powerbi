@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M45S
 publishedDateTime: 2021-12-16T16:00:30Z
-heat: 59
+heat: 57
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/c1S-8rl7t1Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 360
     isCached: true
 
-secured: "SQvxPgEhEmXjRtGWAOFc/uohlvsbcQm/vAdTXBYD+LEg0mPktFwv1zyQ2fCmw6fELCOQOIzr3GVvtzIfRzN4DDWgk1cbxPjNaWKeH5tetJ3ef0gCekbhImql+G6fChqDbiQ3OrDjYrHZ662A0yxWlBEX384ntcG0Q0D4KfN981pj9w68w16Bo+gV/7w959d6d+Xh4TsG4jynapXTiKSj7HcivPsE6RJD0K13Sp6EItH7MpCfRw9IiLF/zl90r2MUxmeKhIGKN/0iWrmEXLnMyh8iqEhtYXqwkwJrku1AnfdAyzV2eHoNjAEsYMP8Pz0ZG/i/mz7am8I1vkUvoAu6TM+AQ4EjUJo8AFu7qPZQl+b7cGZ2Hf9QDlgFH7MXmKcAiDIvFCa0QNjFZFE/icLsq1AdTvB4mR5Qe66yC0WxjWk=;981Zop4NsbXNVP/g++2rTw=="
+secured: "R4GPS+HopVfl6G/dLrp2A6GUWgQE0oqUhu+5Fw6bfQc/5SOe/IaTQK7V4ZrFzvLcYufhSJwa+Zmurm1F5WZctPwlrD9IbNU1s3o1623N0U7e5mNrzYakgqedzS9YHoYTTosyYnT4A1ZeeDbKVlo9LTHu2/o7u7v4nBF9SXx8QVhExSv1FvBvn4spg6cKsH0PUdrgCZh5sUHZu/JIRGEEircYldGWG95cfeTpTBAoGMfuBi9H7x8UH4/hLCyylkwG8+xIm2+cxJLeOobPU1F3pjzeobWy7aJpqtwi88pkVkiZfqNDyDNIwvQHvaOxqHcuSZKs5sY5NFbyJEhhxtd6PqdM1rWix4Ld2obhbilpZOzS7rty0+Nyc0e/OySvxnirDOiwC7JPMQtZ2hGtxEtbA5dOcToY+FELMiKSDkGEmjc=;63yMm6Me0R3OM/+EFNS5Dg=="
 ---
 
