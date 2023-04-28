@@ -820,6 +820,45 @@
       ]
     },
     {
+      "path": "_learning/videos/sqlbi-optimizing-fusion-optimization-for-dax-measures.md",
+      "title": "Optimizing fusion optimization for DAX measures",
+      "excerpt": "How to implement a DAX measure to run faster than what you get from the built-in horizontal fusion optimization.\r \r Article and download: https://sql.bi/792359?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-fusion-optimization-for-dax-measures/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-fusion-optimization-for-dax-measures/",
+      "originalUrl": "https://youtube.com/watch?v=-8j4iYIYXSk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-8j4iYIYXSk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT18M12S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-03-28T03:00:15-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-8j4iYIYXSk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/sqlbi-optimizing-nested-iterators-in-dax.md",
       "title": "Optimizing nested iterators in DAX",
       "excerpt": "Possible optimization approaches to improve the performance of nested iterators in DAX. Article and download: https://sql.bi/70755/?aff=yt  How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
@@ -992,39 +1031,6 @@
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/05/052821_0018_BuildaPLin1.png",
           "width": 800,
           "height": 482,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/articles/excelerator-bi-introduction-to-power-bi-and-dax.md",
-      "title": "Introduction to Power BI and DAX",
-      "excerpt": "Back in 2019 I ran a free webinar introducing Power BI and DAX. Many readers of my blog will already be well ahead of this topic, but then again many of you also probably run into people who would benefits from a simple introduction. I have decided to publish the [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-introduction-to-power-bi-and-dax/index.json",
-      "webUrl": "https://exceleratorbi.com.au/introduction-to-power-bi-and-dax/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2022-08-22T13:55:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2021/09/Demystifying-DAX-Side-Bar-Ad.jpg",
-          "width": 626,
-          "height": 359,
-          "isCached": true
-        },
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/08/FeaturedImage.png",
-          "width": 750,
-          "height": 423,
           "isCached": true
         }
       ],

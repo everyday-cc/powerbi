@@ -3916,7 +3916,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png",
@@ -4594,8 +4594,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4069,
-            "average": 4.6628165
+            "count": 4070,
+            "average": 4.6628995
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4803,8 +4803,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5927,
-            "average": 4.7988863
+            "count": 5928,
+            "average": 4.79892
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5011,8 +5011,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11613,
-            "average": 4.679755
+            "count": 11614,
+            "average": 4.679783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5087,8 +5087,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1975,
-            "average": 4.742785
+            "count": 1976,
+            "average": 4.742915
           },
           "provider": {
             "name": "Microsoft Learn",
