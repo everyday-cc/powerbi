@@ -2976,8 +2976,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 697,
-            "average": 4.7718797
+            "count": 698,
+            "average": 4.7722063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3186,8 +3186,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 697,
-            "average": 4.7718797
+            "count": 698,
+            "average": 4.7722063
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4594,8 +4594,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4066,
-            "average": 4.6625676
+            "count": 4067,
+            "average": 4.6626506
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4636,8 +4636,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6338,
-            "average": 4.696592
+            "count": 6340,
+            "average": 4.69653
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4761,8 +4761,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2277,
-            "average": 4.7031183
+            "count": 2278,
+            "average": 4.7032485
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4803,8 +4803,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5925,
-            "average": 4.7988186
+            "count": 5927,
+            "average": 4.7988863
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4928,8 +4928,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5931,
-            "average": 4.713202
+            "count": 5932,
+            "average": 4.71325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5011,8 +5011,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11609,
-            "average": 4.679645
+            "count": 11611,
+            "average": 4.6797004
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5087,8 +5087,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 1974,
-            "average": 4.743161
+            "count": 1975,
+            "average": 4.742785
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5170,8 +5170,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 722,
-            "average": 4.7617726
+            "count": 723,
+            "average": 4.762102
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5188,7 +5188,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 56,
+          "heat": 136,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/explore-azure-data-services-for-modern-analytics-social.png",
