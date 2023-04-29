@@ -4348,8 +4348,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11186,
-            "average": 4.7061505
+            "count": 11187,
+            "average": 4.7061768
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4515,8 +4515,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 5973,
-            "average": 4.7348065
+            "count": 5974,
+            "average": 4.734851
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4640,8 +4640,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5943,
-            "average": 4.7136126
+            "count": 5944,
+            "average": 4.7136607
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4765,8 +4765,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4079,
-            "average": 4.663643
+            "count": 4080,
+            "average": 4.662745
           },
           "provider": {
             "name": "Microsoft Learn",
