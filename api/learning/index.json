@@ -218,8 +218,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 61270,
-            "average": 4.795724
+            "count": 61274,
+            "average": 4.7957373
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -260,8 +260,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 86893,
-            "average": 4.7777495
+            "count": 86895,
+            "average": 4.777755
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -320,8 +320,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 86893,
-        "average": 4.7777495
+        "count": 86895,
+        "average": 4.777755
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -393,14 +393,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-ready-to-be-a-kusto-detective-with-azure-data-explorer.md",
-      "title": "Ready to be a Kusto Detective with Azure Data Explorer?",
-      "excerpt": "Your detective journey starts with the Kusto Detective Agency for Azure Data Explorer. This is a really fun way to learn the Kusto Query Languate (KQL)! Patrick gets you started! And, it's FREE!  Kusto Detective Agency: https://detective.kusto.io/  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-ready-to-be-a-kusto-detective-with-azure-data-explorer/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-ready-to-be-a-kusto-detective-with-azure-data-explorer/",
-      "originalUrl": "https://youtube.com/watch?v=ayV1r2vFYnI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ayV1r2vFYnI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M55S",
+      "path": "_learning/videos/guy-in-a-cube-the-magic-of-microsoft-teams-power-bi.md",
+      "title": "The MAGIC of Microsoft Teams + Power BI",
+      "excerpt": "Are you using Power BI within Microsoft Teams? Daniel joins us to show the possibility of leveraging Microsoft Teams and the different ways to use Power BI.  Announcing – Embed your Power BI organizational apps in Microsoft Teams Channels and Meetings https://powerbi.microsoft.com/en-us/blog/announcing-embed-your-power-bi-organizational-apps-in-microsoft-teams-channels-and-meetings/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-magic-of-microsoft-teams-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-magic-of-microsoft-teams-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=leT_dkXwE1c",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/leT_dkXwE1c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M3S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -413,11 +413,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-01-31T08:00:04-08:00",
-      "heat": 130,
+      "publishedDateTime": "2023-03-02T08:00:32-08:00",
+      "heat": 134,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ayV1r2vFYnI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/leT_dkXwE1c/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -431,23 +431,23 @@
       ]
     },
     {
-      "path": "_learning/videos/power-bi-tips-build-themes-in-real-time-quick-tip.md",
-      "title": "Build Themes in REAL TIME - Quick Tip",
-      "excerpt": "Theming Power BI files can be a real pain, with this week's update to the worlds best theme generator you can now spend less time guessing and more time building!  visit: https://themes.powerbi.tips  To use this feature you need to be a Tips+ member 3 dollars per month or 2 dollars per month if paid",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-build-themes-in-real-time-quick-tip/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-build-themes-in-real-time-quick-tip/",
-      "originalUrl": "https://youtube.com/watch?v=ywtlV7fbYDs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ywtlV7fbYDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M19S",
+      "path": "_learning/videos/radacad-power-bi-workspace-collaborative-dev-environment.md",
+      "title": "Power BI Workspace   Collaborative DEV Environment",
+      "excerpt": "Workspaces are another way of sharing Power BI content with other people. The benefit of this sharing approach is that you can share content with a group of people and create a collaborative development environment where everyone can access it. In this article and video, I get you through sharing with",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-workspace-collaborative-dev-environment/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-workspace-collaborative-dev-environment/",
+      "originalUrl": "https://youtube.com/watch?v=6ahQKvyRZt8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6ahQKvyRZt8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M52S",
       "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
+        "name": "RADACAD",
+        "domain": "radacad.com"
       },
-      "publishedDateTime": "2023-03-03T10:42:47-08:00",
-      "heat": 130,
+      "publishedDateTime": "2023-02-01T17:06:35-08:00",
+      "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ywtlV7fbYDs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/6ahQKvyRZt8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -544,8 +544,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 61270,
-        "average": 4.795724
+        "count": 61274,
+        "average": 4.7957373
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -648,8 +648,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 18935,
-            "average": 4.7535253
+            "count": 18938,
+            "average": 4.7535114
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -690,8 +690,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11642,
-            "average": 4.67978
+            "count": 11643,
+            "average": 4.6798077
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -724,8 +724,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 86893,
-            "average": 4.7777495
+            "count": 86895,
+            "average": 4.777755
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -784,8 +784,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 18935,
-        "average": 4.7535253
+        "count": 18938,
+        "average": 4.7535114
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1169,8 +1169,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 27947,
-        "average": 4.7227254
+        "count": 27950,
+        "average": 4.722719
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1348,8 +1348,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 18782,
-            "average": 4.7561493
+            "count": 18784,
+            "average": 4.7561755
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1390,8 +1390,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 11513,
-            "average": 4.7686963
+            "count": 11515,
+            "average": 4.7687364
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1473,8 +1473,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 18782,
-            "average": 4.7561493
+            "count": 18784,
+            "average": 4.7561755
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1515,8 +1515,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 11513,
-            "average": 4.7686963
+            "count": 11515,
+            "average": 4.7687364
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1575,8 +1575,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 11513,
-        "average": 4.7686963
+        "count": 11515,
+        "average": 4.7687364
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1640,8 +1640,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 86893,
-            "average": 4.7777495
+            "count": 86895,
+            "average": 4.777755
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1682,8 +1682,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 34332,
-            "average": 4.726902
+            "count": 34335,
+            "average": 4.726897
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1725,8 +1725,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15938,
-            "average": 4.7219853
+            "count": 15940,
+            "average": 4.72202
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1767,8 +1767,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
           "length": "PT1H16M",
           "ratings": {
-            "count": 7253,
-            "average": 4.7640977
+            "count": 7255,
+            "average": 4.7640247
           },
           "provider": {
             "name": "Microsoft Learn",
