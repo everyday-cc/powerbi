@@ -6,8 +6,8 @@ type: course
 price: Free
 length: PT37M
 ratings:
-  count: 1023
-  average: 4.785924
+  count: 1025
+  average: 4.783415
 heat: 51
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 641
     isCached: true
 
-secured: "Fts894ppZZDKfJrQBsbLiNYjnOesy6i4HJ/Ln9/wA8ulIm5t4r3/cxN4C7FcN9DM5ICG13i6c7PDdYUpUktm+ANz1CoOejC9QUW6ifZAHtpECHKHmbSl2XdyKMbznI4AD6QpOJKnYRKUdp3Czkg5SL38dUsyXNODF+9Ok/NoTV4ZGNIaTDm1laDRBRx2S7SFj1IMYtEUb9qsIZyyz5GaoxX0qWHvgeCr9ttaNPv/+qBVVhh2KzsxC/bBmo6uK6nJP28yjd+Dl90bzfxXgGvjPcT71GEnq72ypKT/7KhOeaNyTVQqFu2RgDJWlzGGNLBi8jpAStpTmXNJxQ5HiHJa6MnLxqjTU8ueI6KzDqr0YkIejfjv6JRBhCQ5nT5/JtIpVNPkm9VVVIXaRJfDCT4mVTN7ku50dl6xcoQdpkT2tKA=;Uq6fRKiHw0f0oMc3DbDLwA=="
+secured: "L6XhbDWXJqJTvbtx3f5/L77QIxp3yBb2XX9wE3q/n7hL1wpnbcHc7V6DQUDzEXsHQcNE5gOlnor0nD30BBfRUG9Bkg2so4vD84xsht4uktwT6jYjup8aCorEx+jZPE+5bEZqXo2NlaSB8bJbl8YmeP6CqLPMRxE2xfyvX5wUuGZcf/4F27ladDRBFanp5wNUHrOVntH8rUS/ZdV/BpzuKFQ3oD0QcmOKFx6Xc0FvB2GXrusRdJHTztVAlpFBGn9z/Hbcl/48rW+maO2YZrrzuxrbeWemCLeJlAEhsgawdn5coiBtRmEIOltDrnBEJFxEQ+wORnOZ4PpuViobrzA3dh9hVbABDHmK0pNSSa9ijApnDmNSunoGbsq1AUcht80u3u/LEX2RPFj7A8u3QUeSGmRExwQHKllFtLFvzUGRUFc=;zCG42RrwaAn9dIE/xbzKsg=="
 ---
 
