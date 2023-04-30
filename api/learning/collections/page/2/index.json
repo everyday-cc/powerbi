@@ -4448,8 +4448,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 6851,
-            "average": 4.7261715
+            "count": 6852,
+            "average": 4.726065
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4490,8 +4490,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
           "length": "PT53M",
           "ratings": {
-            "count": 5979,
-            "average": 4.7350726
+            "count": 5980,
+            "average": 4.735117
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4573,8 +4573,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3107,
-            "average": 4.715803
+            "count": 3109,
+            "average": 4.715021
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4865,8 +4865,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2649,
-            "average": 4.7648168
+            "count": 2650,
+            "average": 4.7649055
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4907,8 +4907,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2281,
-            "average": 4.7032003
+            "count": 2282,
+            "average": 4.7033305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4949,8 +4949,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5934,
-            "average": 4.7987866
+            "count": 5936,
+            "average": 4.798686
           },
           "provider": {
             "name": "Microsoft Learn",
