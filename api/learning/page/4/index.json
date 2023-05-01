@@ -371,8 +371,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-filters/",
           "length": "PT45M",
           "ratings": {
-            "count": 611,
-            "average": 4.7315874
+            "count": 612,
+            "average": 4.732026
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3065,8 +3065,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 10733,
-        "average": 4.744899
+        "count": 10734,
+        "average": 4.744643
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -3107,8 +3107,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 7257,
-        "average": 4.7639523
+        "count": 7258,
+        "average": 4.7635713
       },
       "provider": {
         "name": "Microsoft Learn",
