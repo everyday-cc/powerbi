@@ -647,8 +647,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 702,
-            "average": 4.770655
+            "count": 703,
+            "average": 4.7709813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -857,8 +857,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 702,
-            "average": 4.770655
+            "count": 703,
+            "average": 4.7709813
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1195,8 +1195,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 15948,
-        "average": 4.7219086
+        "count": 15949,
+        "average": 4.721926
       },
       "provider": {
         "name": "Microsoft Learn",

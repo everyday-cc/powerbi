@@ -1021,8 +1021,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3109,
-            "average": 4.715021
+            "count": 3111,
+            "average": 4.7152042
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1063,8 +1063,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5951,
-            "average": 4.7134933
+            "count": 5952,
+            "average": 4.7135415
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1291,8 +1291,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 5951,
-        "average": 4.7134933
+        "count": 5952,
+        "average": 4.7135415
       },
       "provider": {
         "name": "Microsoft Learn",
