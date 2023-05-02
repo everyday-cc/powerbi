@@ -4,6 +4,37 @@
   "page": 17,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-so-much-power-145.md",
+      "title": "Power BI Tutorial for Beginners: DAX. So much Power!! (1.4.5)",
+      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-so-much-power-145/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-so-much-power-145/",
+      "originalUrl": "https://youtube.com/watch?v=QiY98dG6bwQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QiY98dG6bwQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M44S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-05-07T05:43:22-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QiY98dG6bwQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-simple-dax-measures-using-variables-with-matt-allington-talk-power-bi-live-subscribe-join.md",
       "title": "Simple DAX Measures Using Variables! With Matt Allington 🔴 Talk Power BI LIVE (Subscribe & Join)",
       "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. ====================== Find more about our guest Matt Allington at https://exceleratorbi.com.au/ Matt's Power BI Training: https://exceleratorbi.com.au/power-bi-online-training/  Matt's Power",
@@ -900,37 +931,6 @@
       "topics": [
         "Power BI",
         "Power Query",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-power-bi-dax-back-to-basics-scalar-vs-tabular-functions.md",
-      "title": "Power BI DAX Back to Basics   Scalar Vs Tabular Functions",
-      "excerpt": "DAX is the analytical language in Power BI. Learning this language, however, comes with some difficulties. Part of that challenge is the way that functions work in DAX. Learning the output of functions is an important element of learning how and where you can use them. In this video, I'll explain two",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-power-bi-dax-back-to-basics-scalar-vs-tabular-functions/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-power-bi-dax-back-to-basics-scalar-vs-tabular-functions/",
-      "originalUrl": "https://youtube.com/watch?v=MI7WIwBFhU0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MI7WIwBFhU0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M26S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-04-15T17:29:54-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MI7WIwBFhU0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
         "DAX"
       ]
     }

@@ -4,6 +4,44 @@
   "page": 2,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live.md",
+      "title": "Power BI Get Data: Import vs. DirectQuery vs. Live",
+      "excerpt": "Import vs. DirectQuery vs. Live connection. Which do you choose and why in Power BI? Adam looks at the three options when creating reports in Power BI Desktop.   DirectQuery in SQL Server 2016 Analysis Services Whitepaper https://blogs.msdn.microsoft.com/analysisservices/2017/04/06/directquery-in-sql-server-2016-analysis-services-whitepaper/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live/",
+      "originalUrl": "https://youtube.com/watch?v=y4S-k34qmnw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y4S-k34qmnw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M52S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-04-14T04:29:55-07:00",
+      "heat": 78,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/y4S-k34qmnw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-vaccination-tracker-part1-get-data-from-github-and-schedule-refresh-it.md",
       "title": "Vaccination Tracker Part1: Get data from github and schedule refresh it",
       "excerpt": "This video is part 1 of the upcoming series: How to create a Vaccine tracker.  In Part 1 we will get the data from Github, publish it to a PPU workspace (we will need that later) and show you how to schedule refresh it and what to do if the option is not available.  To get the files go to Curbal Download",
@@ -111,8 +149,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 87050,
-            "average": 4.7778287
+            "count": 87065,
+            "average": 4.7778325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -153,8 +191,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/",
           "length": "PT1H15M",
           "ratings": {
-            "count": 34363,
-            "average": 4.7268863
+            "count": 34367,
+            "average": 4.726918
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -196,8 +234,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15961,
-            "average": 4.722135
+            "count": 15963,
+            "average": 4.7221074
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -591,8 +629,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 18811,
-            "average": 4.7562594
+            "count": 18812,
+            "average": 4.756273
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -633,8 +671,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 11556,
-            "average": 4.7690377
+            "count": 11559,
+            "average": 4.769011
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -716,8 +754,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
           "length": "PT1H25M",
           "ratings": {
-            "count": 18811,
-            "average": 4.7562594
+            "count": 18812,
+            "average": 4.756273
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -758,8 +796,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 11556,
-            "average": 4.7690377
+            "count": 11559,
+            "average": 4.769011
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -818,8 +856,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
       "length": "PT2H1M",
       "ratings": {
-        "count": 11556,
-        "average": 4.7690377
+        "count": 11559,
+        "average": 4.769011
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1679,8 +1717,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 10760,
-        "average": 4.744238
+        "count": 10761,
+        "average": 4.7441688
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1836,8 +1874,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-data/",
       "length": "PT1H25M",
       "ratings": {
-        "count": 18811,
-        "average": 4.7562594
+        "count": 18812,
+        "average": 4.756273
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1934,44 +1972,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/xy9nmSQeUWg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-powerapps-and-power-bi-can-do-what-its-bananas.md",
-      "title": "POWERAPPS and POWER BI can do what?!? It's bananas!",
-      "excerpt": "Patrick takes a look at how you can integrate PowerApps with Power BI to get a bananas experience. Updating the PowerApp does something special with the Power BI report.  Create a PowerApp: https://docs.microsoft.com/powerapps/maker/  PowerApps custom visual: https://docs.microsoft.com/powerapps/maker/canvas-apps/powerapps-custom-visual",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-powerapps-and-power-bi-can-do-what-its-bananas/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-powerapps-and-power-bi-can-do-what-its-bananas/",
-      "originalUrl": "https://youtube.com/watch?v=us0hPFwQ4Zs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/us0hPFwQ4Zs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M37S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-21T05:26:46-07:00",
-      "heat": 66,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/us0hPFwQ4Zs/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

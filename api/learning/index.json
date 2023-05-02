@@ -179,14 +179,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-visually-see-where-you-broke-the-fold-in-power-query.md",
-      "title": "Visually see where you BROKE the fold in Power Query",
-      "excerpt": "Rule #1 - DON'T BREAK THE FOLD! There is an amazing feature that lets you see where this fold was broken, and I'm guessing you didn't even know it was there!  Adam shows you where to go.  Query plan for Power Query (Preview) https://learn.microsoft.com/power-query/query-plan  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-visually-see-where-you-broke-the-fold-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-visually-see-where-you-broke-the-fold-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=twgsMDuwOuo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/twgsMDuwOuo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M36S",
+      "path": "_learning/videos/guy-in-a-cube-whats-a-junk-dimension-and-when-should-you-use-it.md",
+      "title": "What's a Junk Dimension and when should you use it?",
+      "excerpt": "Maybe you've heard of the concept of a junk dimension but what exactly is it and when should you use it? Patrick breaks down this dimensional modeling concept.   Junk Dimensions https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/junk-dimension/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-whats-a-junk-dimension-and-when-should-you-use-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-whats-a-junk-dimension-and-when-should-you-use-it/",
+      "originalUrl": "https://youtube.com/watch?v=yvV6z6OInEI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yvV6z6OInEI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M27S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -199,42 +199,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-03-23T08:00:39-07:00",
-      "heat": 131,
+      "publishedDateTime": "2023-03-21T08:00:48-07:00",
+      "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/twgsMDuwOuo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/power-bi-tips-error-importing-theme-file-quick-tip.md",
-      "title": "Error Importing Theme File - Quick Tip",
-      "excerpt": "Power BI desktop released a new version in February of 2023, this feature breaks any custom properties observed when uploading a theme file into Power BI desktop.  This video show you how to use the PowerBI.tips theme generator to generate files without any errors.   Use the Theme generator https://themes.powerbi.tips",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-error-importing-theme-file-quick-tip/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-error-importing-theme-file-quick-tip/",
-      "originalUrl": "https://youtube.com/watch?v=lkHxdO3YL-A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lkHxdO3YL-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M6S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2023-02-25T14:58:34-08:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lkHxdO3YL-A/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/yvV6z6OInEI/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -248,15 +217,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-tableau-calculations.md",
-      "title": "Create Power BI calculations for Tableau users",
-      "excerpt": "This module provides guidance on Power BI calculation concepts, and how to create and edit calculations.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-calculations/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-calculations/",
-      "length": "PT57M",
+      "path": "_learning/courses/microsoft-learn-power-bi-effective-structure.md",
+      "title": "Structure analytical report designs in Power BI",
+      "excerpt": "Designing an analytical report involves understanding the requirements and its audience. However, designing a compelling analytical report requires understanding the automatic and unconscious processes that occur when report consumers comprehend what they see. When you have the knowledge of how to structure and apply report design principles, you can raise the level of your report designs to produce relevant, intuitive, and visually pleasing experiences for your report consumers.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-effective-structure/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-structure/",
+      "length": "PT21M",
       "ratings": {
-        "count": 92,
-        "average": 4.369565
+        "count": 1569,
+        "average": 4.7801147
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -271,19 +240,96 @@
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-calculations-social.png",
-          "width": 1280,
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-effective-structure-social.png",
+          "width": 1281,
           "height": 641,
           "isCached": true
         }
       ],
       "content": "\r\n",
       "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-219-index-function.md",
+      "title": "DAX Fridays #219: INDEX function",
+      "excerpt": "A refresher of the difference between INDEX, WINDOW and OFFSET and a deeper dive into INDEX function. Offset functions: https://youtu.be/tSREqpagte4  Window functions: https://youtu.be/2Qa0XEqRzYU  25 days of DAX Fridays challenge: https://curbal.com/25-days-of-dax-fridays-challenge  Join this channel",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-219-index-function/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-219-index-function/",
+      "originalUrl": "https://youtube.com/watch?v=T9kNng75-Mw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T9kNng75-Mw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M38S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-02T03:26:43-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/T9kNng75-Mw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse.md",
+      "title": "Art of the Possible with Power Platform and Azure Synapse",
+      "excerpt": "What happens when you combine Power BI, Power Apps and Azure Synapse Analytics? MAGIC! Join Gaston Cruz as he shows a way to bring the Power Platform together with Azure Synapse!  Gaston Cruz https://twitter.com/GastonFCruz https://www.linkedin.com/in/gastoncruz/  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-art-of-the-possible-with-power-platform-and-azure-synapse/",
+      "originalUrl": "https://youtube.com/watch?v=9wLFlaaPJgk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9wLFlaaPJgk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M42S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-03-15T08:00:06-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/9wLFlaaPJgk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -358,8 +404,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 61397,
-            "average": 4.7956905
+            "count": 61408,
+            "average": 4.7956944
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -400,8 +446,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 87050,
-            "average": 4.7778287
+            "count": 87065,
+            "average": 4.7778325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -460,8 +506,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 87050,
-        "average": 4.7778287
+        "count": 87065,
+        "average": 4.7778325
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -845,8 +891,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 61397,
-        "average": 4.7956905
+        "count": 61408,
+        "average": 4.7956944
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -987,8 +1033,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 19022,
-            "average": 4.753128
+            "count": 19027,
+            "average": 4.753193
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1029,8 +1075,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11661,
-            "average": 4.679787
+            "count": 11664,
+            "average": 4.6798697
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1063,8 +1109,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 87050,
-            "average": 4.7778287
+            "count": 87065,
+            "average": 4.7778325
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1123,8 +1169,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 19022,
-        "average": 4.753128
+        "count": 19027,
+        "average": 4.753193
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1379,8 +1425,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 28010,
-        "average": 4.7229204
+        "count": 28015,
+        "average": 4.72297
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1439,44 +1485,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/-xl-uhgzgEA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live.md",
-      "title": "Power BI Get Data: Import vs. DirectQuery vs. Live",
-      "excerpt": "Import vs. DirectQuery vs. Live connection. Which do you choose and why in Power BI? Adam looks at the three options when creating reports in Power BI Desktop.   DirectQuery in SQL Server 2016 Analysis Services Whitepaper https://blogs.msdn.microsoft.com/analysisservices/2017/04/06/directquery-in-sql-server-2016-analysis-services-whitepaper/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-get-data-import-vs-directquery-vs-live/",
-      "originalUrl": "https://youtube.com/watch?v=y4S-k34qmnw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/y4S-k34qmnw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M52S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-14T04:29:55-07:00",
-      "heat": 78,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/y4S-k34qmnw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

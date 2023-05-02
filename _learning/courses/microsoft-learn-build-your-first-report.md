@@ -7,7 +7,7 @@ price: Free
 length: PT55M
 ratings:
   count: 6536
-  average: 4.7749386
+  average: 4.774786
 heat: 51
 
 provider:

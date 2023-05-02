@@ -4,6 +4,44 @@
   "page": 69,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi.md",
+      "title": "Can you make a two-line dynamic title in Power BI?",
+      "excerpt": "Dynamic titles in Power BI can be really useful. What about a multi-line title? Patrick is answering a commenter's question on how to create a two-line dynamic title!  Dynamic Titles in Power BI Desktop https://www.youtube.com/watch?v=TYLKDPcvgK8  📢 Become a member: https://guyinacu.be/membership",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-make-a-two-line-dynamic-title-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=_n4kG9qpfIs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_n4kG9qpfIs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M8S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-12-07T08:00:16-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_n4kG9qpfIs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-can-you-use-sql-auth-with-azure-synapse-serverless.md",
       "title": "Can you use SQL Auth with Azure Synapse Serverless?",
       "excerpt": "When using Azure Synapse Analytics Serverless Pools, using Azure AD auth is pretty simple. But, what about SQL Auth? How do you get hat working? Patrick shows you how!   Control storage account access for serverless SQL pool in Azure Synapse Analytics https://learn.microsoft.com/azure/synapse-analytics/sql/develop-storage-files-storage-access-control?tabs=managed-identity",
@@ -1104,44 +1142,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/cjf3klLHw2o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-cube-teardown-has-started.md",
-      "title": "Cube teardown has started...",
-      "excerpt": "A big announcement for Guy in a Cube. Also, the tear down of the cube has begun with the Lego Super Star Destroyer.  Music by Panthurr https://soundcloud.com/panthurr  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube -- http://www.facebook.com/guyinacube -- Snapchat",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-cube-teardown-has-started/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-cube-teardown-has-started/",
-      "originalUrl": "https://youtube.com/watch?v=-9m6WFw-dy0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-9m6WFw-dy0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M50S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-07-06T10:58:22-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-9m6WFw-dy0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

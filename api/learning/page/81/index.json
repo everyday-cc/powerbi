@@ -4,6 +4,44 @@
   "page": 81,
   "value": [
     {
+      "path": "_learning/videos/guy-in-a-cube-what-does-power-bi-cost-including-power-bi-report-server.md",
+      "title": "What Does Power BI Cost? (Including Power BI Report Server)",
+      "excerpt": "What does Power BI cost? Adam has a lot of discussions around that. He will break down the Power BI cost and covers licenses, Power BI Premium and including Power BI Report Server and more! If you have ever asked yourself \"What does Power BI cost?\", this video is for you.  Power BI Pricing: https://powerbi.microsoft.com/pricing/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-what-does-power-bi-cost-including-power-bi-report-server/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-what-does-power-bi-cost-including-power-bi-report-server/",
+      "originalUrl": "https://youtube.com/watch?v=miGrO-Rpcms",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/miGrO-Rpcms\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M8S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-07-15T04:51:35-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/miGrO-Rpcms/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-what-happens-when-you-miss-a-refresh-day-with-power-bi-incremental-refresh.md",
       "title": "What happens when you miss a refresh day with Power BI Incremental Refresh?",
       "excerpt": "You've set up Power BI Incremental Refresh and there is a day that is missed because schedule refresh failed or some other reason. What happens? Do you lose that data? Patrick digs in!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to",
@@ -1090,36 +1128,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/5C-xYkZ0Xuc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-3-trends-impacting-power-bi-consulting-in-2021-whats-helping-what-can-go-wrong-.md",
-      "title": "3 Trends 📈 Impacting Power BI Consulting in 2021: What's Helping 👍 & What Can Go Wrong 👎?",
-      "excerpt": "Want to learn the 5-Steps to become a successful Power BI Consultant? 👉 Sign Up for our Free Webinar on Thu Jan 21: https://web.learnpowerbi.com/consultant/  In the new year of 2021, are you thinking about creating a side-income or full-time income as a \"Power BI Consultant\"? Then you must learn the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-3-trends-impacting-power-bi-consulting-in-2021-whats-helping-what-can-go-wrong-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-3-trends-impacting-power-bi-consulting-in-2021-whats-helping-what-can-go-wrong-/",
-      "originalUrl": "https://youtube.com/watch?v=UPQII8NJN7E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UPQII8NJN7E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M56S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2021-01-06T21:44:25-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UPQII8NJN7E/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

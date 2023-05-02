@@ -43,6 +43,45 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-dax-fridays-219-index-function.md",
+      "title": "DAX Fridays #219: INDEX function",
+      "excerpt": "A refresher of the difference between INDEX, WINDOW and OFFSET and a deeper dive into INDEX function. Offset functions: https://youtu.be/tSREqpagte4  Window functions: https://youtu.be/2Qa0XEqRzYU  25 days of DAX Fridays challenge: https://curbal.com/25-days-of-dax-fridays-challenge  Join this channel",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-219-index-function/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-219-index-function/",
+      "originalUrl": "https://youtube.com/watch?v=T9kNng75-Mw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/T9kNng75-Mw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M38S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-05-02T03:26:43-07:00",
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/T9kNng75-Mw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-190-year-over-year-population-change-in-europe-with-eurostat-api.md",
       "title": "DAX Fridays #190: Year Over Year population change in Europe with Eurostat API",
       "excerpt": "In todays video we will calculate YOY population in europe and finalize the report we started on this series.   Link to Previous videos: How Eurostat API works: https://www.youtube.com/watch?v=UwXo1OcwbAg  Build a report based on Eurostat data. We will get total population and population growth and map",
@@ -723,8 +762,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3869,
-            "average": 4.7485137
+            "count": 3870,
+            "average": 4.7483206
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1509,7 +1548,7 @@
           ]
         }
       ],
-      "size": 234,
+      "size": 235,
       "heat": 61,
       "images": [
         {
@@ -2365,8 +2404,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 8713,
-        "average": 4.7108917
+        "count": 8714,
+        "average": 4.7110395
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -2504,45 +2543,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/fV2ZK4q3FBQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-introducing-window-functions-in-dax.md",
-      "title": "Introducing window functions in DAX",
-      "excerpt": "This video introduces the syntax and functionalities of the new DAX window functions: INDEX, OFFSET, and WINDOW.\r Article and download: https://sql.bi/784024?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-introducing-window-functions-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-introducing-window-functions-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=bxSWQNSQ8rQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bxSWQNSQ8rQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT40M58S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-01-31T03:00:16-08:00",
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bxSWQNSQ8rQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
