@@ -1794,8 +1794,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 373,
-            "average": 4.742627
+            "count": 374,
+            "average": 4.7433157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2004,8 +2004,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
           "length": "PT48M",
           "ratings": {
-            "count": 373,
-            "average": 4.742627
+            "count": 374,
+            "average": 4.7433157
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2212,8 +2212,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 15956,
-        "average": 4.7220483
+        "count": 15957,
+        "average": 4.7220654
       },
       "provider": {
         "name": "Microsoft Learn",
