@@ -2714,8 +2714,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2653,
-            "average": 4.7271013
+            "count": 2654,
+            "average": 4.7264504
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2798,8 +2798,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/",
           "length": "PT41M",
           "ratings": {
-            "count": 1235,
-            "average": 4.7813764
+            "count": 1236,
+            "average": 4.7807446
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3861,7 +3861,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4867,8 +4867,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7132,
-        "average": 4.755889
+        "count": 7134,
+        "average": 4.7559576
       },
       "provider": {
         "name": "Microsoft Learn",
