@@ -2106,8 +2106,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-intro/",
           "length": "PT16M",
           "ratings": {
-            "count": 333,
-            "average": 4.6486487
+            "count": 334,
+            "average": 4.6497006
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2148,8 +2148,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-environment/",
           "length": "PT18M",
           "ratings": {
-            "count": 251,
-            "average": 4.677291
+            "count": 252,
+            "average": 4.678571
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2357,8 +2357,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 158,
-            "average": 4.64557
+            "count": 159,
+            "average": 4.6477985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2417,7 +2417,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-reach-social.png",
@@ -2566,8 +2566,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
           "length": "PT25M",
           "ratings": {
-            "count": 158,
-            "average": 4.64557
+            "count": 159,
+            "average": 4.6477985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2626,7 +2626,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-reach-social.png",
@@ -3571,8 +3571,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
           "length": "PT19M",
           "ratings": {
-            "count": 97,
-            "average": 4.731959
+            "count": 98,
+            "average": 4.734694
           },
           "provider": {
             "name": "Microsoft Learn",

@@ -663,8 +663,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
       "length": "PT19M",
       "ratings": {
-        "count": 1841,
-        "average": 4.7186313
+        "count": 1842,
+        "average": 4.718241
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -791,8 +791,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/intelligent-environments-education-transformation-framework/",
       "length": "PT60M",
       "ratings": {
-        "count": 355,
-        "average": 4.8394365
+        "count": 356,
+        "average": 4.8398876
       },
       "provider": {
         "name": "Microsoft Learn",
