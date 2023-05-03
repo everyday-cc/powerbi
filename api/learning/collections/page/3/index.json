@@ -201,8 +201,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 416,
-            "average": 4.704327
+            "count": 417,
+            "average": 4.6978416
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -720,7 +720,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-environment-social.png",
