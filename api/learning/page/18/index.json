@@ -916,8 +916,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3873,
-        "average": 4.748257
+        "count": 3874,
+        "average": 4.748322
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -959,8 +959,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 735,
-        "average": 4.7605443
+        "count": 736,
+        "average": 4.759511
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1043,8 +1043,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
       "length": "PT34M",
       "ratings": {
-        "count": 2661,
-        "average": 4.7260427
+        "count": 2662,
+        "average": 4.7261457
       },
       "provider": {
         "name": "Microsoft Learn",

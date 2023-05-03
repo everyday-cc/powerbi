@@ -150,8 +150,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2661,
-            "average": 4.7260427
+            "count": 2662,
+            "average": 4.7261457
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -192,8 +192,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4101,
-            "average": 4.6639843
+            "count": 4102,
+            "average": 4.6640663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -234,8 +234,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6363,
-            "average": 4.6974697
+            "count": 6364,
+            "average": 4.6975174
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -336,8 +336,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 6363,
-        "average": 4.6974697
+        "count": 6364,
+        "average": 4.6975174
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -378,8 +378,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 7272,
-        "average": 4.764026
+        "count": 7273,
+        "average": 4.764059
       },
       "provider": {
         "name": "Microsoft Learn",
