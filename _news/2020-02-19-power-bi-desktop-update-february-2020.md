@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Power BI Desktop Update - February 2020"
 
-secured: "x0NwL+UBXlSAGovwASPf+CnZuzMJ0ZxaOXhG8OkXqDJu9cxgX2xo+8ocfwlcue2TWs1r4AW2aDHrNJ4hd+2EY+j3YhGcEiBvjGoglTjo5cIhjpZNaGNtgyQUI9LFnxhklUV6YEu5RQSnvx6hmiKHrA7etV1o9Pw+eEdv6q+6oeNubeJ2JuZ9uc8rs6vWk5kKzKrH2+YKB19pLdCojainzww6EoIENv0OkGXbSXE01+k+YWxCeFn+42bHMfqYK+oe3wuM5nkA0BxMtLOqtTPMpEHjOSIFSBiNfy61BIIJG6cBLF/7cwLrV+CL+17KkZHvrmKg8zL/3J3/ixbXsXE04Q+njwj0m2kyyYHGQej1oDhcgi4rW8CFV/+G4lzKICyoxD3zN4/eYCYyT/Yz6UMvXsmE1S+IoJVInm/+DWCSqExTNq12hGAc1T616ro1/nSx;OPyvXCXbf3kBPPVXF8lrBw=="
+secured: "H4sX9lyG52vGNk/2Wo/hQzZqEjyYTe4/ZSDZB4mYIIPdOol+mSp9MOma2mEyLmq1W9/loo73If46AivSGlDdYralMETMv/48p085zxlnyybYHBPWKebfoia8czVCdm6jABUgVfzlckPrkpxJzgvrAYtdc4ij542qYZugiOn/jSFz9ZIOPaslSYKJTqaX9bW8c75DHzs5zEQ20At8CXkR9CxO+2omb1wTuCy0LQYCrAwn3wf6ouL7ujpiB+RSwgU2bIUjq12sVA22RkMu5H6H/DWNK9qOeiIzY2HNug4ri1o/CMuNFaJ+vIOV/RKi2c2LtNByn/1exV48D1f2qgET+ZUjQ0G0Kj93x8eZWokZJFGEWiG0nDUHHocZyHU65qOa9gvDyCoGG18Tp/qdCm2RyqPvcQfVzXfWim+HLPoraPpq4kTKOVL4/ULh7YGow393;A3mWEEMrwgj9xMxZoP5PiQ=="
 ---
 
