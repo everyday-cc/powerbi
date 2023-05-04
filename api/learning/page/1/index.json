@@ -255,84 +255,57 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-220-selectedmeasure-function.md",
-      "title": "DAX Fridays #220: SELECTEDMEASURE function",
-      "excerpt": "Now that calculation groups are making its way into Power BI desktop, it is time to cover SELECTEDMEASURE  Blog post here: https://curbal.com/blog/glossary/selectedmeasure  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-220-selectedmeasure-function/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-220-selectedmeasure-function/",
-      "originalUrl": "https://youtube.com/watch?v=_F4MwolGrmg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_F4MwolGrmg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M34S",
+      "path": "_learning/courses/microsoft-learn-explore-azure-data-services-for-modern-analytics.md",
+      "title": "Explore Azure data services for modern analytics",
+      "excerpt": "Understand analytics solutions in the Azure data ecosystem. Explore the architecture of a scalable analytics solution to meet business needs.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-azure-data-services-for-modern-analytics/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
+      "length": "PT18M",
+      "ratings": {
+        "count": 737,
+        "average": 4.759837
+      },
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2023-04-27T03:47:58-07:00",
-      "heat": 143,
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/_F4MwolGrmg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://learn.microsoft.com/training/achievements/explore-azure-data-services-for-modern-analytics-social.png",
+          "width": 1281,
+          "height": 641,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/power-bi-tips-error-importing-theme-file-quick-tip.md",
-      "title": "Error Importing Theme File - Quick Tip",
-      "excerpt": "Power BI desktop released a new version in February of 2023, this feature breaks any custom properties observed when uploading a theme file into Power BI desktop.  This video show you how to use the PowerBI.tips theme generator to generate files without any errors.   Use the Theme generator https://themes.powerbi.tips",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-error-importing-theme-file-quick-tip/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-error-importing-theme-file-quick-tip/",
-      "originalUrl": "https://youtube.com/watch?v=lkHxdO3YL-A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lkHxdO3YL-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M6S",
-      "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
-      },
-      "publishedDateTime": "2023-02-25T14:58:34-08:00",
-      "heat": 131,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lkHxdO3YL-A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
+      "type": "course",
       "price": "Free",
       "topics": [
         "Power BI"
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-modern-analytics-transition.md",
-      "title": "Transition from Excel to Power BI",
-      "excerpt": "Microsoft's Power BI combines the Power Query's extraction, transformation, and loading capabilities with DAX and a relational data model in a new application with new features.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-modern-analytics-transition/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-transition/",
-      "length": "PT48M",
+      "path": "_learning/courses/microsoft-learn-mapping-learning-to-power-bi.md",
+      "title": "Prepare to teach the module: Map learning to Power BI",
+      "excerpt": "Prepare to teach the module: Map learning to Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-mapping-learning-to-power-bi/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/map-learning-to-power-bi/",
+      "length": "PT1H15M",
       "ratings": {
-        "count": 374,
-        "average": 4.7433157
+        "count": 0,
+        "average": 0.0
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -352,9 +325,9 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/modern-analytics-transition-social.png",
-          "width": 1281,
-          "height": 641,
+          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "width": 640,
+          "height": 320,
           "isCached": true
         }
       ],
@@ -366,14 +339,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-an-ode-to-a-pie-chart-by-chatgpt.md",
-      "title": "An Ode to a Pie Chart by ChatGPT",
-      "excerpt": "",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-an-ode-to-a-pie-chart-by-chatgpt/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-an-ode-to-a-pie-chart-by-chatgpt/",
-      "originalUrl": "https://youtube.com/watch?v=cqqyAy5Cemc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cqqyAy5Cemc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M1S",
+      "path": "_learning/videos/guy-in-a-cube-checking-out-the-window-clause-in-azure-sql-and-sql-server-2022.md",
+      "title": "Checking out the Window Clause in Azure SQL and SQL Server 2022",
+      "excerpt": "Partitioning is nice in SQL, but how about using the WINDOW clause to make it more efficient? Patrick looks at how to use this function with Azure SQL and SQL Server 2022!  SELECT - WINDOW - (Transact-SQL) https://learn.microsoft.com/sql/t-sql/queries/select-window-transact-sql?view=sql-server-ver16",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-checking-out-the-window-clause-in-azure-sql-and-sql-server-2022/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-checking-out-the-window-clause-in-azure-sql-and-sql-server-2022/",
+      "originalUrl": "https://youtube.com/watch?v=KrsNwegpqlk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KrsNwegpqlk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M3S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -386,11 +359,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-02-10T06:48:59-08:00",
+      "publishedDateTime": "2023-02-21T08:00:09-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/cqqyAy5Cemc/maxres2.jpg?sqp=-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYPyBAKH8wDw==&rs=AOn4CLBYmykSsCjFmDBSK3xG9V2q9R22-Q",
+          "url": "https://i.ytimg.com/vi/KrsNwegpqlk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -434,8 +407,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 61565,
-            "average": 4.795777
+            "count": 61569,
+            "average": 4.79579
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -476,8 +449,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 87257,
-            "average": 4.7778287
+            "count": 87261,
+            "average": 4.7778387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -536,8 +509,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 87257,
-        "average": 4.7778287
+        "count": 87261,
+        "average": 4.7778387
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -616,8 +589,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 61565,
-        "average": 4.795777
+        "count": 61569,
+        "average": 4.79579
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1025,8 +998,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 19126,
-            "average": 4.7524834
+            "count": 19129,
+            "average": 4.75247
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1067,8 +1040,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11696,
-            "average": 4.680147
+            "count": 11697,
+            "average": 4.680089
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1101,8 +1074,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 87257,
-            "average": 4.7778287
+            "count": 87261,
+            "average": 4.7778387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1161,8 +1134,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 19126,
-        "average": 4.7524834
+        "count": 19129,
+        "average": 4.75247
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1203,8 +1176,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 28106,
-        "average": 4.722977
+        "count": 28109,
+        "average": 4.7229714
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1235,6 +1208,45 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-220-selectedmeasure-function.md",
+      "title": "DAX Fridays #220: SELECTEDMEASURE function",
+      "excerpt": "Now that calculation groups are making its way into Power BI desktop, it is time to cover SELECTEDMEASURE  Blog post here: https://curbal.com/blog/glossary/selectedmeasure  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-220-selectedmeasure-function/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-220-selectedmeasure-function/",
+      "originalUrl": "https://youtube.com/watch?v=_F4MwolGrmg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_F4MwolGrmg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M34S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-04-27T03:47:58-07:00",
+      "heat": 93,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_F4MwolGrmg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -1382,8 +1394,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 87257,
-            "average": 4.7778287
+            "count": 87261,
+            "average": 4.7778387
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1467,8 +1479,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
           "length": "PT1H7M",
           "ratings": {
-            "count": 15983,
-            "average": 4.7219543
+            "count": 15984,
+            "average": 4.721972
           },
           "provider": {
             "name": "Microsoft Learn",
