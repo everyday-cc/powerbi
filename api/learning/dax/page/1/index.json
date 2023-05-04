@@ -212,7 +212,7 @@
         ]
       },
       "publishedDateTime": "2020-09-03T03:00:12-07:00",
-      "heat": 80,
+      "heat": 78,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/ePPi1LLX0sA/maxresdefault.jpg",
@@ -276,8 +276,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 8747,
-        "average": 4.710872
+        "count": 8748,
+        "average": 4.7109056
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1772,8 +1772,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1845,
-            "average": 4.718699
+            "count": 1846,
+            "average": 4.7188516
           },
           "provider": {
             "name": "Microsoft Learn",
