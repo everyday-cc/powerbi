@@ -512,7 +512,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -1135,8 +1135,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
       "length": "PT1H4M",
       "ratings": {
-        "count": 6892,
-        "average": 4.7266397
+        "count": 6893,
+        "average": 4.7266793
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1177,8 +1177,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
       "length": "PT1H13M",
       "ratings": {
-        "count": 4125,
-        "average": 4.665212
+        "count": 4126,
+        "average": 4.665293
       },
       "provider": {
         "name": "Microsoft Learn",
