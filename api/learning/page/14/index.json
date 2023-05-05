@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11715,
-            "average": 4.680239
+            "count": 11717,
+            "average": 4.6802936
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -110,8 +110,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2003,
-            "average": 4.7443833
+            "count": 2004,
+            "average": 4.744511
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -193,8 +193,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-manage-workspaces-power-bi/",
           "length": "PT29M",
           "ratings": {
-            "count": 2662,
-            "average": 4.7659655
+            "count": 2663,
+            "average": 4.766053
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -421,8 +421,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 2003,
-        "average": 4.7443833
+        "count": 2004,
+        "average": 4.744511
       },
       "provider": {
         "name": "Microsoft Learn",
