@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT12M5S
 publishedDateTime: 2021-04-14T10:14:24Z
-heat: 79
+heat: 72
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xCMqWEvSkAs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -27,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "dL0y3zLvBkClcBaUFT/Ah7dO2+/nQi5dVGJ1Q7LyRDjyyLK7q9txmBnvh7RaYPSf4zgDfNgF98zNq+/zb7hQhoVSOYeotwn4E/dSt5t6HHXHWuvZECcSa65acLHhGHoeNTn9yt3CXj2EWzm6/x83nmFeKYKE5vRwkhXp8Kh8wdJzQtetagWvMJtnCZf29XAj4IQe8ixhOuRKqm03nZ2F4/KR3rIca8PqI8lb4PwqsVW8D8eNSmHsRUu5jEjoLGoX2cGEYF1hMnFKCtrVQ9/MGSw+7q0sn2w133gwjv2Fc5OtOc2ehJzU8XMgxd92jGeSf3tPYFKnaLn1tAUmoyLv0T1S/QyT7ZJ51gGNmcMS7YpLabIzAcrsCrgS+VDrtgdU6XJiGTfZtAMFKx6lCU0mr2gDhwBjaKftge+1tTzIUIeg7+KAIb44+B/vOTsm+hgd;Jufc/GDGh8vRlR5K4IeO+g=="
+secured: "DOORrEEyZVgkES3x7bYh7KiOud9O4maLV74FwLAjCPwB7JSlPXey/clvZ02hA4tIFqmg5dE7HaeodbN+R8D2F/fNQ7tm8nT8cfCDBZBv13j4EN9Gn++CzL+ow6/R34DI22er8eOWNa/qt8fJoEWIwg6km/QcLjjsFC5kvL1AXnMJNyh0jLeraISD1Fuedex9ZNQqmVW/HD5OmhVrARBnkaTPt04jAe0jNBUDPgRaBbEWd73Q7rDJkXbp66R8N+KFus/BZZUl6YSxVgvHXbo1W5iVNKJI2D+eTr8fK17eeOUfYvVFXxAbGCRcZzfFeh10sg8ZUl0Nqp/eF/h0Yczc1mYUhB/yL7DZQnF0EKmNt58K7t6zfq6wWwASkGFqbLFf5V0iilCVNU/clPT6SdSMJHQ9rx3SFsfE0Np0Cp8UiDSGMc4SzIg8PsDJCDEZGvZw;eJK/ZSNAMEk+KeM8n6bWBw=="
 ---
 
