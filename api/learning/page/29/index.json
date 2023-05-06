@@ -468,8 +468,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 641,
-            "average": 4.8315134
+            "count": 642,
+            "average": 4.8317757
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -946,8 +946,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/intelligent-environments-education-transformation-framework/",
       "length": "PT60M",
       "ratings": {
-        "count": 360,
-        "average": 4.8416667
+        "count": 361,
+        "average": 4.8421054
       },
       "provider": {
         "name": "Microsoft Learn",

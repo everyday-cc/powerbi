@@ -4524,8 +4524,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6397,
-            "average": 4.6979833
+            "count": 6398,
+            "average": 4.6978745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4625,7 +4625,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 71,
+          "heat": 69,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -4933,8 +4933,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2307,
-            "average": 4.704378
+            "count": 2308,
+            "average": 4.704506
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4975,8 +4975,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5964,
-            "average": 4.79896
+            "count": 5965,
+            "average": 4.798994
           },
           "provider": {
             "name": "Microsoft Learn",
