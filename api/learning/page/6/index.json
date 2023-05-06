@@ -4,36 +4,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_learning/videos/radacad-one-slicer-to-filter-other-slicers-based-on-items-that-has-value-only-in-power-bi-without-bi-directi.md",
-      "title": "One Slicer to filter other slicers based on Items that has value only in Power BI without BI Directi",
-      "excerpt": "In a star schema design, how you can filter one dimension by another dimension. How you can find all the products that this customer purchased or all customers who have purchased this product using two separate slicers. To learn more about star schema: https://radacad.com/power-bi-basics-of-modeling-star-schema-and-how-to-build-it",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-one-slicer-to-filter-other-slicers-based-on-items-that-has-value-only-in-power-bi-without-bi-directi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-one-slicer-to-filter-other-slicers-based-on-items-that-has-value-only-in-power-bi-without-bi-directi/",
-      "originalUrl": "https://youtube.com/watch?v=cyOquvfhzNM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/cyOquvfhzNM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M52S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-08-19T14:51:19-07:00",
-      "heat": 61,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/cyOquvfhzNM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-the-power-bi-gateway-all-you-need-to-know.md",
       "title": "The Power BI Gateway   All You Need to Know",
       "excerpt": "Power BI is a data analysis tool that connects to many data sources. Suppose the data source for Power BI is located in an on-premises location. In that case, the connection from the cloud-based Power BI Service to the on-premises located data source should be created with an application called Gateway.",
@@ -3454,7 +3424,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 50,
+          "heat": 130,
           "images": [
             {
               "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
@@ -4089,6 +4059,44 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-bringing-paginated-into-power-bi-reports-insane-amazing.md",
+      "title": "Bringing Paginated into Power BI reports - INSANE AMAZING!",
+      "excerpt": "It's here! Have a look at the Power BI Paginated visual for your Power BI Reports! It adds additional flexibility for displaying data as well as providing easy export options if that's your jam.  Blog Announcement: https://powerbi.microsoft.com/en-us/blog/paginated-report-visual-for-power-bi-reports-is-now-available-in-public-preview/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-bringing-paginated-into-power-bi-reports-insane-amazing/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-bringing-paginated-into-power-bi-reports-insane-amazing/",
+      "originalUrl": "https://youtube.com/watch?v=5Fcf8eXRq2E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5Fcf8eXRq2E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M30S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-08-04T08:00:05-07:00",
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5Fcf8eXRq2E/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

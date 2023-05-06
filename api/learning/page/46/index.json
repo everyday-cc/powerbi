@@ -718,6 +718,48 @@
       ]
     },
     {
+      "path": "_learning/courses/microsoft-learn-power-bi-embedded-integrate.md",
+      "title": "Integrate content with Power BI client APIs",
+      "excerpt": "Learn how to use Power BI client APIs to develop solutions that respond to subscribable events and interact with Power BI content.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-embedded-integrate/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-integrate/",
+      "length": "PT28M",
+      "ratings": {
+        "count": 40,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-integrate-social.png",
+          "width": 1280,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/courses/microsoft-learn-power-bi-embedded-intro.md",
       "title": "Introduction to Power BI embedded analytics",
       "excerpt": "Learn how developers can programmatically embed analytics in their apps, and about no-code embedding options for simpler requirements.",
@@ -875,48 +917,6 @@
           "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-select-social.png",
           "width": 1280,
           "height": 641,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-power-bi-excel-better-together.md",
-      "title": "Prepare to teach the module: Power BI & Excel better together",
-      "excerpt": "Prepare to teach the module: Power BI & Excel better together",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-excel-better-together/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/power-bi-excel-better-together/",
-      "length": "PT54M",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
-          "width": 640,
-          "height": 320,
           "isCached": true
         }
       ],
