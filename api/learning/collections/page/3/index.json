@@ -159,8 +159,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
           "length": "PT28M",
           "ratings": {
-            "count": 643,
-            "average": 4.8320374
+            "count": 644,
+            "average": 4.830745
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -618,8 +618,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3382,
-            "average": 4.7244234
+            "count": 3385,
+            "average": 4.7246675
           },
           "provider": {
             "name": "Microsoft Learn",

@@ -144,8 +144,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/work-with-requirements/",
           "length": "PT23M",
           "ratings": {
-            "count": 669,
-            "average": 4.768311
+            "count": 670,
+            "average": 4.7686567
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4607,8 +4607,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11738,
-            "average": 4.680184
+            "count": 11739,
+            "average": 4.680126
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4808,8 +4808,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5974,
-            "average": 4.7144294
+            "count": 5975,
+            "average": 4.714477
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4975,8 +4975,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5965,
-            "average": 4.798994
+            "count": 5966,
+            "average": 4.799028
           },
           "provider": {
             "name": "Microsoft Learn",
