@@ -504,7 +504,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 130,
+          "heat": 50,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -561,8 +561,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 6897,
-            "average": 4.7268376
+            "count": 6898,
+            "average": 4.726877
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4481,8 +4481,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2673,
-            "average": 4.7261505
+            "count": 2674,
+            "average": 4.726253
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4974,8 +4974,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/manage-datasets-power-bi/",
           "length": "PT32M",
           "ratings": {
-            "count": 2304,
-            "average": 4.703993
+            "count": 2305,
+            "average": 4.7041216
           },
           "provider": {
             "name": "Microsoft Learn",
