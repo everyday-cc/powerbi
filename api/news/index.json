@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2023-05-05-microsoft-digital-event-may-24-25.md",
+      "title": "Microsoft Digital Event | May 24-25",
+      "excerpt": "Join us on May 24 at 9 AM Pacific Time for a live simulcast with exciting announcements extending into a two-day digital event.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-05-05-microsoft-digital-event-may-24-25/index.json",
+      "webUrl": "https://powerbi.microsoft.com/en-us/blog/microsoft-digital-event-may-24-25/",
+      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/microsoft-digital-event-may-24-25/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-05-05T09:19:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_news/2023-05-03-announcing-now-you-can-use-item-links-to-configure-power-bi-tabs-in-microsoft-teams.md",
       "title": "Announcing: Now you can use item links to configure Power BI Tabs in Microsoft Teams",
       "excerpt": "You can now use item links to configure the Power BI tab in Microsoft Teams. Read this blog for all the details.",
@@ -10,7 +61,7 @@
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/announcing-now-you-can-use-item-links-to-configure-power-bi-tabs-in-microsoft-teams/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -165,7 +216,7 @@
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/deep-dive-into-the-new-dynamic-format-strings-for-measures/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -781,7 +832,7 @@
       "originalUrl": "https://powerbi.microsoft.com/en-us/blog/power-bi-metrics-hierarchies-performance-tips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1207,57 +1258,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-03-06T01:58:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_news/2023-03-06-power-bi-and-powerpoint-a-powerful-combination-for-data-visualization-is-now-generally-available.md",
-      "title": "Power BI and PowerPoint: A Powerful Combination for Data Visualization is now generally available",
-      "excerpt": "We are happy to announce the general availability of Power BI integration with PowerPoint. This integration makes presentations more engaging and informative by allowing users to create rich, interactive visualizations that can be embedded in PowerPoint slides. The is now available also in national clouds.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/news/2023-03-06-power-bi-and-powerpoint-a-powerful-combination-for-data-visualization-is-now-generally-available/index.json",
-      "webUrl": "https://powerbi.microsoft.com/en-us/blog/storytellingga/",
-      "originalUrl": "https://powerbi.microsoft.com/en-us/blog/storytellingga/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-03-05T22:05:08-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Microsoft",
