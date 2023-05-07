@@ -4,7 +4,7 @@ excerpt: "The December 2020 version of Power BI desktop has just been released, 
 webUrl: https://exceleratorbi.com.au/the-most-important-update-to-power-bi-desktop-ever/
 type: article
 publishedDateTime: 2020-12-17T00:22:08Z
-heat: 50
+heat: 52
 
 provider:
   name: Excelerator BI
