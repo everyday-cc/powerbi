@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT4M41S
 publishedDateTime: 2021-05-06T15:00:11Z
-heat: 56
+heat: 53
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8hjdOCni_ZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "zBHF9GMv80Lwt4pihTNAk2xjKcm8DC2ZrmxxXDQiRSZujPEkybNlrKHOqDhIqE6wh25ERebdfeEczfhk4l0W4uJjHhmwN9zj8vGG7kuQlTZU/EKn3s8vvfeUGS8zi5URnRup4juu869H9bCg0QWApa0cC88kOOte2Ss3cve61BDrZqlWmSditAWCQGvx8d5S6ppRr2JolZ4m2eoZMxjb03lJhpAXfOnM6Y6Hi0+Psl3gOHQIxEPqMkGpxDaJuRB7w2Oco+/zgrpQfxB3edL+pK8AQY6zRJeZ14SA/gr4QFGNQrG3DYQ5xe+MecYQFDZQiIEjrJCA/1xbH7dl8pHtm+BYIDFqjn848ZuKSO0JNa2nSyDCFtMhsP0uVru+GQE4JYVgC8NDgDz0LQnlbjxEwGnJHKovOe4RvQe/96LhPwM=;h2eHxiaAu8U8y9vvE25dwQ=="
+secured: "ORleOilLtdrc3UduQqpflKZPIGztleYzSr/SIXVn6cgW0clEp6oMcT9CiiWhkayAg7EcDMFsO6PRGr+nE+4VxSempCw9aFe5RrIeV8j3r1dz7WcLdh8cC0CAI2W/3KC/y6fKB/m3aaK63ypbBxfps3kMhbAzknM/ecBeszXQKsnmATHAIbOusGJ3YTIuBy+SosxczDuZvZgaLrL6eqCfIfdA3SsJBi67+2AYCvYAynhV2N9Dx3Kg5VvXAISVu2HiVd5yoN3x8pY2y6FVTk8+834ztYjgzToq/yvVqVbBENM5DXy/0pxKfjqudYIHa0NzURlKWzjkIt+EuQnot/bjIL4Z2gvPt5zbJ8k7HFPPR7cP3220KTU/tE0rUWyXkzCUjc+Rpy00HdMOAcetRqkKS7CJlTUR5JyrA/dfr1XYsMU=;WwSnP6NWjjFL/KWJDrvjCQ=="
 ---
 
