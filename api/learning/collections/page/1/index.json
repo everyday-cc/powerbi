@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 61780,
-            "average": 4.7958727
+            "count": 61786,
+            "average": 4.7958922
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -76,8 +76,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 87530,
-            "average": 4.777859
+            "count": 87534,
+            "average": 4.777869
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -159,8 +159,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 19337,
-            "average": 4.7526503
+            "count": 19338,
+            "average": 4.752663
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -235,8 +235,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 87530,
-            "average": 4.777859
+            "count": 87534,
+            "average": 4.777869
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -442,7 +442,7 @@
             ]
           },
           "publishedDateTime": "2018-03-20T08:10:00-07:00",
-          "heat": 53,
+          "heat": 50,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/QiwxT9ndefY/maxresdefault.jpg",
@@ -507,8 +507,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 87530,
-            "average": 4.777859
+            "count": 87534,
+            "average": 4.777869
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -759,8 +759,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 11684,
-            "average": 4.7694283
+            "count": 11685,
+            "average": 4.769448
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -884,8 +884,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/",
           "length": "PT2H1M",
           "ratings": {
-            "count": 11684,
-            "average": 4.7694283
+            "count": 11685,
+            "average": 4.769448
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1160,8 +1160,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4130,
-            "average": 4.6656175
+            "count": 4131,
+            "average": 4.6656985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1202,8 +1202,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6399,
-            "average": 4.6979218
+            "count": 6400,
+            "average": 4.697969
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2217,8 +2217,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/optimize-model-power-bi/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 9938,
-            "average": 4.761622
+            "count": 9939,
+            "average": 4.7616463
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5077,7 +5077,7 @@
             ]
           },
           "publishedDateTime": "2016-02-24T15:04:39-08:00",
-          "heat": 53,
+          "heat": 51,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/sbPS3ZKIt7g/maxresdefault.jpg",

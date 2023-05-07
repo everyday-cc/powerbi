@@ -128,7 +128,7 @@
           "levels": [
             "Advanced"
           ],
-          "heat": 51,
+          "heat": 131,
           "content": "\r\n",
           "type": "course",
           "price": "Free",
@@ -4482,8 +4482,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4130,
-            "average": 4.6656175
+            "count": 4131,
+            "average": 4.6656985
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4524,8 +4524,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6399,
-            "average": 4.6979218
+            "count": 6400,
+            "average": 4.697969
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4641,8 +4641,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11215,
-            "average": 4.706554
+            "count": 11216,
+            "average": 4.7064905
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4683,8 +4683,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2014,
-            "average": 4.7447863
+            "count": 2015,
+            "average": 4.7444167
           },
           "provider": {
             "name": "Microsoft Learn",
