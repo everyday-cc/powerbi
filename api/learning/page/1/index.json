@@ -225,6 +225,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-different-ways-to-work-with-microsoft-excel-in-power-bi-2023.md",
+      "title": "Different ways to work with Microsoft Excel in Power BI (2023)",
+      "excerpt": "Using Excel? Of course, you are! How can you take advantage of Power BI? Adam shows you the different ways you can leverage Excel with Power BI to get the most out of it!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level?",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-different-ways-to-work-with-microsoft-excel-in-power-bi-2023/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-different-ways-to-work-with-microsoft-excel-in-power-bi-2023/",
+      "originalUrl": "https://youtube.com/watch?v=Pdbc_Q7pnD8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Pdbc_Q7pnD8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M51S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-02-23T08:00:15-08:00",
+      "heat": 138,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Pdbc_Q7pnD8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-power-bi-dynamic-format-string-for-measures.md",
       "title": "Power BI: Dynamic Format String for Measures",
       "excerpt": "Recently Microsoft launched new Power BI feature - \"Dynamic Format String for Measures\". With dynamic format strings for measures, you can determine how measures appear in visuals by conditionally applying a format string with a separate DAX expression.  Dynamic format strings overcome an inherent disadvantage",
@@ -255,53 +293,15 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-the-power-of-microsoft-lists-and-power-bi.md",
-      "title": "The POWER of Microsoft Lists and Power BI",
-      "excerpt": "Learn how Microsoft Lists / SharePoint Lists can take advantage of Power BI! Daniel walks through how easy it is to start using today!  Create a report quickly from a SharePoint list or library https://learn.microsoft.com/power-bi/create-reports/service-quick-create-sharepoint-list  Daniel Glenn: https://twitter.com/DanielGlenn",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-the-power-of-microsoft-lists-and-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-the-power-of-microsoft-lists-and-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=YOWxvT5XLoc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YOWxvT5XLoc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M23S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-03-08T08:00:30-08:00",
-      "heat": 133,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YOWxvT5XLoc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-prepare-to-teach-module-retrieve-report-data.md",
-      "title": "Prepare to teach the module: Retrieve report data",
-      "excerpt": "Prepare to teach the module: Retrieve report data",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-prepare-to-teach-module-retrieve-report-data/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/prepare-to-teach-module-retrieve-report-data/",
-      "length": "PT1H44M",
+      "path": "_learning/courses/microsoft-learn-dax-power-bi-calculation-groups.md",
+      "title": "Add DAX calculation groups to Power BI Desktop models",
+      "excerpt": "Learn how you can add many similar measures to your model.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-dax-power-bi-calculation-groups/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
+      "length": "PT40M",
       "ratings": {
-        "count": 0,
-        "average": 0.0
+        "count": 234,
+        "average": 4.713675
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -321,7 +321,7 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://docs.microsoft.com/learn/achievements/generic-badge-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/dax-power-bi-calculation-groups-social.png",
           "width": 640,
           "height": 320,
           "isCached": true
@@ -331,35 +331,37 @@
       "type": "course",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power BI Desktop",
+        "DAX"
       ]
     },
     {
-      "path": "_learning/videos/curbal-valuta-kurser-till-power-bi-fran-riksbanken-rest-api-currency-rates-from-swedish-central-bank-api.md",
-      "title": "Valuta kurser till Power BI från riksbanken REST API | Currency rates from Swedish central bank API",
-      "excerpt": "In this video (in swedish) I am going to show you how to get currency rates from Swedish central bank API  Test rest api: https://developer.api-test.riksbank.se/ SeriesId; https://www.riksbank.se/sv/statistik/sok-rantor--valutakurser/oppet-api/serier-for-webbservices/  Join this channel membership to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-valuta-kurser-till-power-bi-fran-riksbanken-rest-api-currency-rates-from-swedish-central-bank-api/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-valuta-kurser-till-power-bi-fran-riksbanken-rest-api-currency-rates-from-swedish-central-bank-api/",
-      "originalUrl": "https://youtube.com/watch?v=QBVzixsT9p4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QBVzixsT9p4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M47S",
+      "path": "_learning/videos/guy-in-a-cube-guy-in-a-cube-answers-the-webs-most-searched-questions-on-power-bi.md",
+      "title": "Guy in a Cube answers the web's most searched questions on Power BI",
+      "excerpt": "Let's see what the most asked questions are on the web about Power BI! Adam looks at google for the questions and then responds. You heard that right! He went to Google.  Power BI forecasting https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-analytics-pane#apply-forecasting  Describing",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-guy-in-a-cube-answers-the-webs-most-searched-questions-on-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-guy-in-a-cube-answers-the-webs-most-searched-questions-on-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=wd2c1sjTENQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wd2c1sjTENQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M53S",
       "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2023-04-04T04:44:44-07:00",
+      "publishedDateTime": "2023-02-09T08:00:36-08:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/QBVzixsT9p4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/wd2c1sjTENQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -815,8 +817,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 61822,
-            "average": 4.7958817
+            "count": 61832,
+            "average": 4.795882
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -857,8 +859,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 87578,
-            "average": 4.777844
+            "count": 87586,
+            "average": 4.7778525
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -917,8 +919,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 87578,
-        "average": 4.777844
+        "count": 87586,
+        "average": 4.7778525
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -959,8 +961,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 61822,
-        "average": 4.7958817
+        "count": 61832,
+        "average": 4.795882
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1300,8 +1302,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 28265,
-        "average": 4.722413
+        "count": 28268,
+        "average": 4.722407
       },
       "provider": {
         "name": "Microsoft Learn",
