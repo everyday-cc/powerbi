@@ -648,8 +648,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
           "length": "PT29M",
           "ratings": {
-            "count": 299,
-            "average": 4.702341
+            "count": 300,
+            "average": 4.7033334
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -792,8 +792,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
       "length": "PT29M",
       "ratings": {
-        "count": 299,
-        "average": 4.702341
+        "count": 300,
+        "average": 4.7033334
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -834,8 +834,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-power-bi/",
       "length": "PT53M",
       "ratings": {
-        "count": 6023,
-        "average": 4.7355137
+        "count": 6024,
+        "average": 4.7355576
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -876,8 +876,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 5967,
-        "average": 4.7990613
+        "count": 5969,
+        "average": 4.798961
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -960,8 +960,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-in-power-bi/",
       "length": "PT1H16M",
       "ratings": {
-        "count": 7302,
-        "average": 4.7639003
+        "count": 7303,
+        "average": 4.7639327
       },
       "provider": {
         "name": "Microsoft Learn",
