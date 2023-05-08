@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 137,
-            "average": 4.875912
+            "count": 138,
+            "average": 4.8768115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -118,8 +118,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-reach/",
           "length": "PT19M",
           "ratings": {
-            "count": 130,
-            "average": 4.6153846
+            "count": 131,
+            "average": 4.6183205
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -243,8 +243,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 137,
-            "average": 4.875912
+            "count": 138,
+            "average": 4.8768115
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -327,8 +327,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-reach/",
           "length": "PT19M",
           "ratings": {
-            "count": 130,
-            "average": 4.6153846
+            "count": 131,
+            "average": 4.6183205
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -663,8 +663,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2678,
-            "average": 4.725915
+            "count": 2679,
+            "average": 4.726017
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -974,7 +974,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-embedded-permissions-content-social.png",
@@ -1836,8 +1836,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-premium/",
           "length": "PT19M",
           "ratings": {
-            "count": 137,
-            "average": 4.875912
+            "count": 138,
+            "average": 4.8768115
           },
           "provider": {
             "name": "Microsoft Learn",

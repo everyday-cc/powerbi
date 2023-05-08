@@ -410,8 +410,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5976,
-            "average": 4.7143574
+            "count": 5977,
+            "average": 4.714405
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -512,8 +512,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 10834,
-        "average": 4.7443233
+        "count": 10835,
+        "average": 4.744347
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -554,8 +554,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/model-data-power-bi/",
       "length": "PT1H7M",
       "ratings": {
-        "count": 16027,
-        "average": 4.7220316
+        "count": 16028,
+        "average": 4.7220488
       },
       "provider": {
         "name": "Microsoft Learn",
