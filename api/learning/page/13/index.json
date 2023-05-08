@@ -604,8 +604,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/analyze-data-power-bi/",
           "length": "PT60M",
           "ratings": {
-            "count": 11222,
-            "average": 4.7065587
+            "count": 11224,
+            "average": 4.7065215
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -646,8 +646,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
           "length": "PT1H29M",
           "ratings": {
-            "count": 2020,
-            "average": 4.7445545
+            "count": 2022,
+            "average": 4.744313
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -813,8 +813,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 5972,
-            "average": 4.7990623
+            "count": 5973,
+            "average": 4.799096
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1044,8 +1044,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-mobile-apps/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 2020,
-        "average": 4.7445545
+        "count": 2022,
+        "average": 4.744313
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1128,8 +1128,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
       "length": "PT28M",
       "ratings": {
-        "count": 647,
-        "average": 4.83153
+        "count": 649,
+        "average": 4.8289676
       },
       "provider": {
         "name": "Microsoft Learn",
