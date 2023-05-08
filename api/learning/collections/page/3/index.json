@@ -437,8 +437,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visualize-real-time-data-azure-stream-analytics-power-bi/",
           "length": "PT1H8M",
           "ratings": {
-            "count": 130,
-            "average": 4.8076925
+            "count": 131,
+            "average": 4.80916
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -562,8 +562,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
           "length": "PT1H28M",
           "ratings": {
-            "count": 420,
-            "average": 4.7
+            "count": 421,
+            "average": 4.7007127
           },
           "provider": {
             "name": "Microsoft Learn",

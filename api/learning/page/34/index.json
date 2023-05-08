@@ -96,8 +96,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-measures/",
       "length": "PT13M",
       "ratings": {
-        "count": 1555,
-        "average": 4.7279744
+        "count": 1556,
+        "average": 4.728149
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -227,8 +227,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
       "length": "PT19M",
       "ratings": {
-        "count": 1447,
-        "average": 4.745681
+        "count": 1448,
+        "average": 4.7458563
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -271,8 +271,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
       "length": "PT27M",
       "ratings": {
-        "count": 2503,
-        "average": 4.733919
+        "count": 2504,
+        "average": 4.7340255
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -399,8 +399,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/discover-trusted-data-use-azure-purview/",
       "length": "PT29M",
       "ratings": {
-        "count": 300,
-        "average": 4.7033334
+        "count": 302,
+        "average": 4.705298
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -567,8 +567,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 745,
-        "average": 4.759732
+        "count": 746,
+        "average": 4.7600536
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -770,8 +770,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-data-modeling/",
       "length": "PT34M",
       "ratings": {
-        "count": 457,
-        "average": 4.733042
+        "count": 458,
+        "average": 4.7336245
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -897,8 +897,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
       "length": "PT37M",
       "ratings": {
-        "count": 1040,
-        "average": 4.7798076
+        "count": 1041,
+        "average": 4.7800193
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -981,8 +981,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-teams/",
       "length": "PT27M",
       "ratings": {
-        "count": 294,
-        "average": 4.7755103
+        "count": 295,
+        "average": 4.7762713
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1065,8 +1065,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/monitor-data-real-time-power-bi/",
       "length": "PT1H28M",
       "ratings": {
-        "count": 420,
-        "average": 4.7
+        "count": 421,
+        "average": 4.7007127
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1226,15 +1226,15 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-admin-governance.md",
-      "title": "Provide governance in a Power BI environment",
-      "excerpt": "Learn the fundamental rules, regulations, and policies of a BI governance approach.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-governance/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-governance/",
-      "length": "PT12M",
+      "path": "_learning/courses/microsoft-learn-power-bi-admin-infrastructure.md",
+      "title": "Establish a data access infrastructure in Power BI",
+      "excerpt": "Learn how to establish a data access infrastructure for accessing all your data within Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-admin-infrastructure/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-admin-infrastructure/",
+      "length": "PT25M",
       "ratings": {
-        "count": 182,
-        "average": 4.714286
+        "count": 160,
+        "average": 4.65
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1254,7 +1254,7 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-governance-social.png",
+          "url": "https://learn.microsoft.com/training/achievements/power-bi-admin-infrastructure-social.png",
           "width": 641,
           "height": 321,
           "isCached": true
