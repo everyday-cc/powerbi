@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-public-preview-of-the-tabular-model-definition-language-tmdl/"
 type: article
 quality: 71
-heat: 73
+heat: 71
 published: true
 
 provider:
