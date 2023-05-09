@@ -2905,7 +2905,7 @@
           "levels": [
             "Intermediate"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/use-dax-time-intelligence-functions-power-bi-desktop-social.png",
@@ -3265,8 +3265,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-embedded-intro/",
           "length": "PT34M",
           "ratings": {
-            "count": 156,
-            "average": 4.8846154
+            "count": 157,
+            "average": 4.88535
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -3474,8 +3474,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1041,
-            "average": 4.7800193
+            "count": 1042,
+            "average": 4.7802305
           },
           "provider": {
             "name": "Microsoft Learn",

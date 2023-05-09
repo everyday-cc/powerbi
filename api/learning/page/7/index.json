@@ -34,8 +34,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-intro/",
           "length": "PT37M",
           "ratings": {
-            "count": 1041,
-            "average": 4.7800193
+            "count": 1042,
+            "average": 4.7802305
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -806,7 +806,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-organize-fields-social.png",
@@ -1332,8 +1332,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-write-formulas/",
           "length": "PT27M",
           "ratings": {
-            "count": 2505,
-            "average": 4.734132
+            "count": 2506,
+            "average": 4.7338386
           },
           "provider": {
             "name": "Microsoft Learn",
