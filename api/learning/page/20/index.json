@@ -569,8 +569,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 5985,
-        "average": 4.7144527
+        "count": 5986,
+        "average": 4.7143335
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -611,8 +611,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 3401,
-        "average": 4.7227287
+        "count": 3402,
+        "average": 4.7228103
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -653,8 +653,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3901,
-        "average": 4.7462187
+        "count": 3902,
+        "average": 4.7460275
       },
       "provider": {
         "name": "Microsoft Learn",
