@@ -7,7 +7,7 @@ originalUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-now-you-can-us
 webUrl: "https://powerbi.microsoft.com/en-us/blog/announcing-now-you-can-use-item-links-to-configure-power-bi-tabs-in-microsoft-teams/"
 type: article
 quality: 80
-heat: 83
+heat: 80
 published: true
 
 provider:
