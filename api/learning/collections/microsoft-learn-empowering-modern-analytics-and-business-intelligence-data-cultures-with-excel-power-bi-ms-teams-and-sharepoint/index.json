@@ -156,7 +156,7 @@
       "levels": [
         "Intermediate"
       ],
-      "heat": 52,
+      "heat": 50,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/modern-analytics-transition-social.png",
@@ -307,8 +307,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/modern-analytics-teams/",
       "length": "PT27M",
       "ratings": {
-        "count": 295,
-        "average": 4.7762713
+        "count": 296,
+        "average": 4.7702703
       },
       "provider": {
         "name": "Microsoft Learn",
