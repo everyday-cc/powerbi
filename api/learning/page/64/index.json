@@ -4,14 +4,14 @@
   "page": 64,
   "value": [
     {
-      "path": "_learning/videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it.md",
-      "title": "Problems installing the DAX Debugger? Here is how to do it.",
-      "excerpt": "Problems installing the DAX Debugger? Here is how to do it.  Link to Jeffrey's blog: https://pbidax.wordpress.com/2022/08/16/introduce-the-dax-evaluateandlog-function/  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-problems-installing-the-dax-debugger-here-is-how-to-do-it/",
-      "originalUrl": "https://youtube.com/watch?v=hG27iTTZ6tY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hG27iTTZ6tY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1M",
+      "path": "_learning/videos/curbal-query-mastodon-api-with-pagination-and-text-token-in-power-bi.md",
+      "title": "Query Mastodon API with Pagination and text token in Power BI",
+      "excerpt": "In this video I will show you how to query  an API that lists all mastodon instances and users and figure out why it says Mastodon has 2bn users.  How to paginate when you know the number of pages: https://curbal.com/curbal-learning-portal/how-to-do-pagination-on-a-rest-api-in-power-query-part-1  and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-query-mastodon-api-with-pagination-and-text-token-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-query-mastodon-api-with-pagination-and-text-token-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=biQ2XhX4wXY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/biQ2XhX4wXY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M32S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -24,89 +24,11 @@
           }
         ]
       },
-      "publishedDateTime": "2022-12-06T00:42:49-08:00",
+      "publishedDateTime": "2022-11-16T04:39:13-08:00",
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hG27iTTZ6tY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-promote-a-row-to-a-column-part-2-power-query-challenge.md",
-      "title": "Promote a row to a column - Part 2: Power Query Challenge",
-      "excerpt": "Today is part 2 of the challenge. I will show you how I clean the website code to get the session information. The trick I used was to promote the rows to columns.  What is this Power Query Challenge? https://www.youtube.com/watch?v=_R1rSdXkVDw  Source files: https://github.com/ruthpozuelo/PQChallenge",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-promote-a-row-to-a-column-part-2-power-query-challenge/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-promote-a-row-to-a-column-part-2-power-query-challenge/",
-      "originalUrl": "https://youtube.com/watch?v=6Yj09khxr4Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6Yj09khxr4Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M32S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-10-31T10:24:31-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6Yj09khxr4Q/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-publish-your-power-bi-reports-on-the-web-power-bi-tips-tricks-06.md",
-      "title": "Publish your Power BI reports on the web - Power BI Tips & Tricks #06",
-      "excerpt": "Publish, or share or embed your Power BI reports on the web, email or social media.  Really easy!   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-publish-your-power-bi-reports-on-the-web-power-bi-tips-tricks-06/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-publish-your-power-bi-reports-on-the-web-power-bi-tips-tricks-06/",
-      "originalUrl": "https://youtube.com/watch?v=E-5Gyvzpt9I",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/E-5Gyvzpt9I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M48S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-03-03T11:15:48-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/E-5Gyvzpt9I/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/biQ2XhX4wXY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -117,159 +39,6 @@
       "price": "Free",
       "topics": [
         "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-push-the-button-to-find-your-closest-customerbike-share-in-power-bi.md",
-      "title": "Push the button to find your closest customer/bike share.... in Power BI",
-      "excerpt": "Would you like to push a button on your phone and find where your closest customer/supplier/bike is?  Let me show you how here!  Previous video to find closest point: https://youtu.be/5nkPRsD-olM  Here you can download the pbix file number 71 at : https://curbal.com/donwload-center  SUBSCRIBE to learn",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-push-the-button-to-find-your-closest-customerbike-share-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-push-the-button-to-find-your-closest-customerbike-share-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=ebhwGkvG530",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ebhwGkvG530\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M14S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2022-03-09T08:05:54-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ebhwGkvG530/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-pushing-the-power-bi-buttons-.md",
-      "title": "Pushing the Power BI buttons 👆",
-      "excerpt": "You haven't missed the Power Bi April 2018 update right?  My favourite feature is by far the new buttons! With Power Bi buttons you can create all kinds of experiences, like buttons to change charts, as I show in this demo.  What is your favourite Power BI april 2018 update? Let me know in the comment",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-pushing-the-power-bi-buttons-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-pushing-the-power-bi-buttons-/",
-      "originalUrl": "https://youtube.com/watch?v=DuBc_71YIaE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DuBc_71YIaE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M3S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-11T01:41:08-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DuBc_71YIaE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-qa-and-create-power-bi-reports-on-mobile.md",
-      "title": "Q&A and create Power BI reports on Mobile",
-      "excerpt": "Have you ever wondered how to create Power BI reports optimized for mobile? In this video I will show you how to do that and also how Q&A works in Power BI mobile.  EnjoY!  Jump to Q&A part of the video: https://youtu.be/ljYMcDOX8yo?t=294   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-qa-and-create-power-bi-reports-on-mobile/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-qa-and-create-power-bi-reports-on-mobile/",
-      "originalUrl": "https://youtube.com/watch?v=ljYMcDOX8yo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ljYMcDOX8yo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M29S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-02-06T03:08:42-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ljYMcDOX8yo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-query-folding-to-improve-power-bi-performance.md",
-      "title": "Query folding to improve Power BI performance",
-      "excerpt": "Happy New Year!!! I am finally back from my vacation and we have a technical video for you.  Other important links: https://www.mssqltips.com/sqlservertip/3635/query-folding-in-power-query-to-improve-performance/ Chris Webb: https://blog.crossjoin.co.uk/2017/06/11/query-folding-and-writing-your-own-sql-queries-in-power-querypower-biexcel-get-transform/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-query-folding-to-improve-power-bi-performance/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-query-folding-to-improve-power-bi-performance/",
-      "originalUrl": "https://youtube.com/watch?v=nSDbABftUHk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nSDbABftUHk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M39S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-10T02:10:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nSDbABftUHk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     },
     {
@@ -580,6 +349,123 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-remove-duplicates-on-multiple-columns-5-magic-mondays.md",
+      "title": "Remove duplicates on multiple columns -#5 (M)agic (M)ondays",
+      "excerpt": "In today's video I will show you how to remove duplicates from multiple columns in Power Query.  It is very easy to use and it will save you some steps and workarounds.  Link to PowerBI file: http://gofile.me/2kEOD/IQIaYrz8k   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-remove-duplicates-on-multiple-columns-5-magic-mondays/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-remove-duplicates-on-multiple-columns-5-magic-mondays/",
+      "originalUrl": "https://youtube.com/watch?v=IU1ciyGQF3M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IU1ciyGQF3M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M27S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-05-24T05:43:48-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/IU1ciyGQF3M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-reuse-m-code-m-functions-created-by-others-easily.md",
+      "title": "Reuse M code (M functions) created by others easily",
+      "excerpt": "In today's video I am collaborating with Imke Feldmann to bring you the best that M or Power Query has to offer.  We will show you how you can easily re-use M functions in your reports.  Link to the sources: http://www.thebiccountant.com/2017/12/11/date-datesbetween-retrieve-dates-between-2-dates-power-bi-power-query/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-reuse-m-code-m-functions-created-by-others-easily/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-reuse-m-code-m-functions-created-by-others-easily/",
+      "originalUrl": "https://youtube.com/watch?v=6TQN6KPG74Q",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6TQN6KPG74Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M21S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-16T11:13:15-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6TQN6KPG74Q/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-reuse-power-query-steps-to-clean-multiple-excel-sheets-power-bi-tips-tricks-39.md",
+      "title": "Reuse Power Query steps to clean multiple excel sheets - Power BI Tips & Tricks #39",
+      "excerpt": "In today's video I will show you how to reuse Power Query steps to clean multiple excel sheets.   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-reuse-power-query-steps-to-clean-multiple-excel-sheets-power-bi-tips-tricks-39/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-reuse-power-query-steps-to-clean-multiple-excel-sheets-power-bi-tips-tricks-39/",
+      "originalUrl": "https://youtube.com/watch?v=rohXtAlIgqY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rohXtAlIgqY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT26M36S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-04-05T12:20:14-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rohXtAlIgqY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-reverse-cummulative-values-in-power-query.md",
       "title": "Reverse cummulative values in Power Query",
       "excerpt": "I have shown you previously how you can reverse cummulated data using DAX, but I never showed you how to do it in Power Query, so here it is!   Here you can download all the pbix files: https://curbal.com/donwload-center Want the pbix file? Get download number 68 on the community downloads folder.",
@@ -698,6 +584,84 @@
       ]
     },
     {
+      "path": "_learning/videos/curbal-reviewing-the-json-editor-power-bi-desktop-update-december-2019.md",
+      "title": "Reviewing the JSON editor - Power BI desktop update december 2019",
+      "excerpt": "In today's video, I will review the JSON editor launched in the desktop update for december 2019 and   Here you can download all the pbix files: https://curbal.com/donwload-center\r \r SUBSCRIBE to learn more about Power and Excel BI!\r https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-reviewing-the-json-editor-power-bi-desktop-update-december-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-reviewing-the-json-editor-power-bi-desktop-update-december-2019/",
+      "originalUrl": "https://youtube.com/watch?v=TfWGkt5jCUA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TfWGkt5jCUA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M38S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-22T02:47:18-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TfWGkt5jCUA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-round-time-to-nearest-15-min-with-power-query.md",
+      "title": "Round time to nearest 15 min with Power Query",
+      "excerpt": "In today's video I will show you how to round time to the nearest 15 minutes in Power Query, but of course, the same formula can be applied to other time intervals.  Rounding time can be needed if you want to group time in different buckets or bins for better visualization, but also if you have different",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-round-time-to-nearest-15-min-with-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-round-time-to-nearest-15-min-with-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=xjrtutvkhhc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xjrtutvkhhc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M48S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-05-02T02:11:16-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xjrtutvkhhc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-row-level-security-in-power-bi-desktop-power-bi-tips-tricks-27.md",
       "title": "Row Level Security in Power BI desktop - Power BI Tips & Tricks #27",
       "excerpt": "In this video we will see how to add Row Level security to your Power BI data.  Row Level security is used to restrict data access for given users. Filters restrict data at the row level. You can define filters within roles. What is Row Level Security: https://powerbi.microsoft.com/en-us/documentation/powerbi-admin-rls/",
@@ -734,45 +698,6 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-running-totals-in-power-query-yes-you-can-.md",
-      "title": "Running totals in power query??? Yes, you can :)",
-      "excerpt": "In today's video, I am going to show you how you can do running totals or cummulative totals in Power Query, but do this only if you have no way to do it using DAX.  Also, I will show you how List.Range work, really cool function :)  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-running-totals-in-power-query-yes-you-can-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-running-totals-in-power-query-yes-you-can-/",
-      "originalUrl": "https://youtube.com/watch?v=uX3_dnb5on0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uX3_dnb5on0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M6S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-07-01T05:18:35-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/uX3_dnb5on0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
       ]
     },
     {
@@ -1158,6 +1083,84 @@
         "Power BI",
         "Power Query",
         "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-split-multiple-columns-into-rows-without-errors-in-power-query.md",
+      "title": "Split multiple columns into rows without errors in Power Query",
+      "excerpt": "Sometimes when reading PDF files in power query, the tables created with get multiple rows into one on all columns, and the split function in power query does not work to split them.  In todays video, I will show you how to split multiple columns into rows in one step and how to avoid errors depending",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-split-multiple-columns-into-rows-without-errors-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-split-multiple-columns-into-rows-without-errors-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=V5X-wo0wVw0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V5X-wo0wVw0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M55S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-06-22T03:41:02-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/V5X-wo0wVw0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-split-text-by-capital-letters-and-nondigits-power-bi-desktop-february-update-2019.md",
+      "title": "Split text by capital letters and non/digits - Power BI  Desktop February Update 2019",
+      "excerpt": "It took a blog post by Chris Webb for me to see this update, and maybe some of you have also missed this?  There are 4 new split by options in the Power Query User Interface and we will review them here.  Link to Chris blog: https://blog.crossjoin.co.uk/2019/02/12/splitting-text-by-character-transition-power-bi-power-query-excel/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-split-text-by-capital-letters-and-nondigits-power-bi-desktop-february-update-2019/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-split-text-by-capital-letters-and-nondigits-power-bi-desktop-february-update-2019/",
+      "originalUrl": "https://youtube.com/watch?v=le_jXOlN3Ys",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/le_jXOlN3Ys\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M50S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-25T05:33:21-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/le_jXOlN3Ys/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
       ]
     }
   ],

@@ -42,6 +42,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-multiple-sign-ins-using-chrome-with-power-bi-or-office-365.md",
+      "title": "Multiple sign-ins using Chrome with Power BI or Office 365",
+      "excerpt": "In this video, I show you how you can use Chrome to have multiple logins to Power BI, or Office 365, without using incognito, or in-private or anything else.  This was a tip I got from Chris Webb, who found it from James Callaghan.  Chris Webb's Blog: https://blog.crossjoin.co.uk/2017/03/23/quick-tip-working-with-multiple-power-bi-subscriptionsaccounts/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-multiple-sign-ins-using-chrome-with-power-bi-or-office-365/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-multiple-sign-ins-using-chrome-with-power-bi-or-office-365/",
+      "originalUrl": "https://youtube.com/watch?v=gHEFK4ol5XI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gHEFK4ol5XI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M5S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-03-27T15:48:43-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gHEFK4ol5XI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-my-new-workstation-build-2016-video-editing-and-rendering-gaming.md",
       "title": "My new workstation build - 2016 (Video Editing and Rendering + Gaming)",
       "excerpt": "It's time for a new workstation! Since I started my YouTube channel, back in December of 2014, I've been using my work laptop for all of my editing and renderings. I got an upgraded laptop in September of 2015, which helped. However, rendering still takes a while, and editing was painful sometimes. When",
@@ -219,6 +257,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/sd0rrlhnl8M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-one-little-change-to-improve-power-bi-slicer-performance-bananas.md",
+      "title": "One little change to improve Power BI slicer performance (BANANAS!!!)",
+      "excerpt": "Patrick shows how you can make one little change to your Power BI slicers to improve report performance. It's bananas!  Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-one-little-change-to-improve-power-bi-slicer-performance-bananas/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-one-little-change-to-improve-power-bi-slicer-performance-bananas/",
+      "originalUrl": "https://youtube.com/watch?v=Fs9TzNcni-A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Fs9TzNcni-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M25S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-10-22T05:06:16-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Fs9TzNcni-A/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -460,6 +536,44 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-parameterize-your-notebooks-in-azure-synapse.md",
+      "title": "Parameterize your Notebooks in Azure Synapse",
+      "excerpt": "Using notebooks in Azure Synapse Analytics? Do you find yourself wanting to have a dynamic value for use with your pipelines? Patrick shows you how you can accomplish this!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level?",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-parameterize-your-notebooks-in-azure-synapse/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-parameterize-your-notebooks-in-azure-synapse/",
+      "originalUrl": "https://youtube.com/watch?v=rzfmF9wORcQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rzfmF9wORcQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M21S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-10-18T08:00:29-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rzfmF9wORcQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-pass-ba-recap-predictions-and-r-roundup-46.md",
       "title": "PASS BA recap, predictions and R - Roundup #46",
       "excerpt": "Donate:  https://donate.rednoseday.org/ Red Nose Day: http://rednoseday.org/  Paul Turley gives a recap of the PASS BA conference from his perspective mentioning Power BI and Excel. Jen Underwood talks about moving to Predictive Analytics. We have some tips for Dashboard makeovers. Ginger Grant talks",
@@ -675,44 +789,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/kn5VHDNb888/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-and-microsoft-flow-monitoring-your-data.md",
-      "title": "Power BI and Microsoft Flow - Monitoring your data",
-      "excerpt": "In this video, Patrick shows how you can use Microsoft Flow, combined with Power BI, to monitor data and alert you when something is available.  This takes advantage of a streaming dataset and using the schedule recurrence in Microsoft Flow to trigger an action as Patrick wasn't using anything else to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-and-microsoft-flow-monitoring-your-data/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-and-microsoft-flow-monitoring-your-data/",
-      "originalUrl": "https://youtube.com/watch?v=B4dCLtQ53pA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B4dCLtQ53pA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M59S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-06-28T06:23:37-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B4dCLtQ53pA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -955,6 +1031,45 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-power-bi-case-too-many-rows-from-a-dax-statement.md",
+      "title": "Power BI Case: Too many rows from a DAX Statement",
+      "excerpt": "Too many rows? How is that possible? Patrick looks at a case where a customer hit an error of too many rows coming back from a DAX statement in Power BI.   📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-case-too-many-rows-from-a-dax-statement/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-case-too-many-rows-from-a-dax-statement/",
+      "originalUrl": "https://youtube.com/watch?v=3vcKgN8HxjY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/3vcKgN8HxjY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M40S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-11-25T08:00:01-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/3vcKgN8HxjY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-power-bi-colors-data-models-release-notes-and-more-june-4-2018.md",
       "title": "Power BI colors, data models, release notes and more... (June 4, 2018)",
       "excerpt": "Choosing a Color Palette For Your Power BI Report (@mmarie) https://datasavvy.me/2018/05/26/choosing-a-color-palette-for-your-power-bi-report/  DATA MODEL ANTI-PATTERNS (@BrettPowell76) https://insightsquest.com/2018/05/27/data-model-anti-patterns/  On-premises data gateway May update is now available",
@@ -1029,125 +1144,6 @@
       "topics": [
         "Power BI",
         "Dataflows"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-datasets-vs-power-bi-dataflows-what-gets-refreshes.md",
-      "title": "Power BI datasets vs. Power BI dataflows - What gets refreshes?",
-      "excerpt": "Adam looks at what actually happens when you refresh a Power BI dataset and it is referencing a Power BI dataflows.   Guy in a Cube courses: https://guyinacu.be/courses  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton -- http://twitter.com/patrickdba",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-datasets-vs-power-bi-dataflows-what-gets-refreshes/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-datasets-vs-power-bi-dataflows-what-gets-refreshes/",
-      "originalUrl": "https://youtube.com/watch?v=xA6YouSI6kY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xA6YouSI6kY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M58S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-11-03T05:17:12-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xA6YouSI6kY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Dataflows"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-desktop-and-mobile-updates-embedding-and-some-power-query.md",
-      "title": "Power BI Desktop and Mobile updates, embedding and some Power Query",
-      "excerpt": "Roundup video...  Web.Contents(), Caching And The ExcludedFromCacheKey Option In Power BI And Power Query (@technitrain) https://blog.crossjoin.co.uk/2017/01/06/web-contents-caching-and-the-excludedfromcachekey-option-in-power-bi-and-power-query/  Extract Tabular Data From Power BI Service to Excel (@ExceleratorBI)",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-desktop-and-mobile-updates-embedding-and-some-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-desktop-and-mobile-updates-embedding-and-some-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=amJ8D3IWm84",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/amJ8D3IWm84\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M6S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-01-12T12:56:06-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/amJ8D3IWm84/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-power-bi-desktop-gateway-dax-roundup-36.md",
-      "title": "Power BI Desktop, Gateway, DAX - Roundup #36",
-      "excerpt": "In this roundup, we had a bunch of updates for Power BI and Power BI Desktop. This included custom hierarchies, improvements to report design, and a bunch of updates for connectivity. There was an update for the enterprise gateway which included DirectQuery for Oracle and Teradata along with the ability",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-power-bi-desktop-gateway-dax-roundup-36/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-power-bi-desktop-gateway-dax-roundup-36/",
-      "originalUrl": "https://youtube.com/watch?v=fm4Ug0CbcT0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fm4Ug0CbcT0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M4S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-03-03T07:26:25-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fm4Ug0CbcT0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop",
-        "DAX"
       ]
     }
   ],

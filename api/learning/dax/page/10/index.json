@@ -4,6 +4,240 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/videos/curbal-create-elegant-lists-using-dax-and-the-smart-narrative-visual-in-power-bi.md",
+      "title": "Create ✅ELEGANT LISTS using DAX and the smart narrative visual in Power BI",
+      "excerpt": "Sometimes you want to add explanatory text in the form of lists (ex. top 3 sales people) to your visuals to add more context or increase the understanding of your report.  In todays video, I will show you how to do that with the smart narrative visual and some dax.  Here you can download all the pbix",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-elegant-lists-using-dax-and-the-smart-narrative-visual-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-elegant-lists-using-dax-and-the-smart-narrative-visual-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=6L1YmLjmzXA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6L1YmLjmzXA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M26S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-03-07T04:53:12-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6L1YmLjmzXA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-100-one-click-download-and-sponsor-me.md",
+      "title": "DAX Fridays! #100: One click download and sponsor me!",
+      "excerpt": "In today's video we celebrate the 100th DAX Fridays by sharing a link with you to all DAX Fridays download files and more!!  To download all DAX Fridays files, click here: https://goo.gl/a5a9d1  To sponsor the channel and help me keep going, click here: https://curbal.com/product/sponsor-me  Happy Friday!",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-100-one-click-download-and-sponsor-me/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-100-one-click-download-and-sponsor-me/",
+      "originalUrl": "https://youtube.com/watch?v=Y645BM2WyQs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y645BM2WyQs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M42S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-10-04T10:50:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Y645BM2WyQs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-101-poissondist-probability-of-events-happening.md",
+      "title": "DAX Fridays! #101: POISSON.DIST | Probability of events happening",
+      "excerpt": "In today's video we will explain the  DAX function POISSON.DIST and discuss some practical cases.  Here is the link I was talking about:https://www.britannica.com/biography/Simeon-Denis-Poisson   Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-101-poissondist-probability-of-events-happening/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-101-poissondist-probability-of-events-happening/",
+      "originalUrl": "https://youtube.com/watch?v=OONJNyiDhGQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OONJNyiDhGQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M39S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-10-02T14:00:27-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OONJNyiDhGQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-102-more-keyboard-shortcuts-for-dax.md",
+      "title": "DAX Fridays! #102: More Keyboard shortcuts for DAX!",
+      "excerpt": "If you are a Curbaler, your already know most of the shortcuts that the Power BI team released with the new DAX Editor,  but the few that are new, I review them here ;)  Here is Part 1: https://www.youtube.com/watch?v=vkiMu32iwPs  SUBSCRIBE so you don't miss another video! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-102-more-keyboard-shortcuts-for-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-102-more-keyboard-shortcuts-for-dax/",
+      "originalUrl": "https://youtube.com/watch?v=z0Kj_oVmNUA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/z0Kj_oVmNUA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M55S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-10-19T02:13:49-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/z0Kj_oVmNUA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-103-unicode-unichar-len-curbaldidyouknow.md",
+      "title": "DAX Fridays! #103: UNICODE, UNICHAR, LEN | #curbaldidyouknow",
+      "excerpt": "Dont miss the end of the video to know what #curbaldidyouknow is. Happy Friday!  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK    Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-103-unicode-unichar-len-curbaldidyouknow/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-103-unicode-unichar-len-curbaldidyouknow/",
+      "originalUrl": "https://youtube.com/watch?v=LjnWymCh_zE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LjnWymCh_zE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M43S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-10-26T09:40:29-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LjnWymCh_zE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-104-dax-horrors-.md",
+      "title": "DAX Fridays! #104: DAX Horrors 🔪💀",
+      "excerpt": "Never, ever, ever do this in DAX or pay the consequences.... You have been warned!  Happy Halloween!   Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK    Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-104-dax-horrors-/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-104-dax-horrors-/",
+      "originalUrl": "https://youtube.com/watch?v=B3txacK3qds",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B3txacK3qds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M2S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-11-02T07:38:42-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B3txacK3qds/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/curbal-dax-fridays-106-power-query-or-dax.md",
       "title": "DAX Fridays! #106: Power Query or DAX?",
       "excerpt": "If you already know, how about you share your thoughts here? If not, then I will share my thoughts in the topic.  There are no perfect answers, only good questions ;)  Happy Friday!  Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK",
@@ -186,6 +420,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/6t6M_WzYpdY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-111-manual-forecasting-with-dax.md",
+      "title": "DAX Fridays! #111: Manual \"forecasting” with DAX",
+      "excerpt": "Most companies have a sales target for the year and even though Power BI has a forecasting feature, it does not give you the numbers, so how do you know if you will meet your target?  In today's video I will show you how to calculate how much you need to sale per month to achieve your sales target for",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-111-manual-forecasting-with-dax/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-111-manual-forecasting-with-dax/",
+      "originalUrl": "https://youtube.com/watch?v=R_hB2hJv04I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/R_hB2hJv04I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M58S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-18T00:43:16-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/R_hB2hJv04I/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -460,45 +733,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/VDTSZJRw6r0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-121-why-you-should-avoid-bi-directional-relationships.md",
-      "title": "DAX Fridays! #121: Why you should avoid bi-directional relationships",
-      "excerpt": "In this video, I am going to show you a trick on how to avoid bidirectional relationships in your model, even when you are a beginner.   Link to many-to many video: https://www.youtube.com/watch?v=NdrrjkvH2zo Link to how to avoid birectional relationships: https://www.youtube.com/watch?v=VDTSZJRw6r0",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-121-why-you-should-avoid-bi-directional-relationships/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-121-why-you-should-avoid-bi-directional-relationships/",
-      "originalUrl": "https://youtube.com/watch?v=IlxqDCIuarU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IlxqDCIuarU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M59S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-03T06:40:26-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IlxqDCIuarU/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -928,240 +1162,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/QWHE8N3AkT0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-141-how-to-find-all-dax-functions-and-videos-quickly.md",
-      "title": "DAX Fridays! #141: How to find all DAX functions and videos quickly!",
-      "excerpt": "In today's video, I will show you how you can find all DAX functions and tutorials quickly and also how to embed them in teams to get access to them quickly! #curbal #powerbi  Link to mentioned resources: MS ref guide; https://docs.microsoft.com › en-us › dax › dax-function-reference DAX Fridays glossary:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-141-how-to-find-all-dax-functions-and-videos-quickly/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-141-how-to-find-all-dax-functions-and-videos-quickly/",
-      "originalUrl": "https://youtube.com/watch?v=WPTyQkfERlE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WPTyQkfERlE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M39S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-26T02:21:46-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WPTyQkfERlE/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-142-irr-xirr-and-xnpv-in-dax.md",
-      "title": "DAX Fridays! #142: IRR, XIRR and XNPV  in DAX",
-      "excerpt": "In todays video I will show you how to calculate XIRR (straight forward) but also how to calculate IRR (missing function in DAX) #curbal #daxfridays #powerbi  The iRR calculation I have copied from here: https://community.powerbi.com/t5/Desktop/Measure-to-calculate-IRR/td-p/560402 Monthly XIRR: https://www.ablebits.com/office-addins-blog/2019/07/24/excel-xirr-nonperiodic-cash-flows/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-142-irr-xirr-and-xnpv-in-dax/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-142-irr-xirr-and-xnpv-in-dax/",
-      "originalUrl": "https://youtube.com/watch?v=rHZ4hj5eh10",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rHZ4hj5eh10\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M25S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-28T09:20:44-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rHZ4hj5eh10/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-146-ignore-rollupgroup-rollupaddissubtotals.md",
-      "title": "DAX Fridays! #146: IGNORE, ROLLUPGROUP, ROLLUPADDISSUBTOTALS",
-      "excerpt": "Link to resources mentioned in the video: Summarize : https://www.youtube.com/watch?v=-Ola264bKXk Addcolumns+summarize : https://www.youtube.com/watch?v=hoIsIsa6b4M Summarize + rollupgroup: https://www.youtube.com/watch?v=V0lLgLVL1xg Summarizecolumns:  https://www.youtube.com/watch?v=IdMsKbHfyn4  Get",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-146-ignore-rollupgroup-rollupaddissubtotals/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-146-ignore-rollupgroup-rollupaddissubtotals/",
-      "originalUrl": "https://youtube.com/watch?v=ao1o3LeFMPQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ao1o3LeFMPQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M33S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-10-03T06:07:31-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ao1o3LeFMPQ/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-147-isonorafter.md",
-      "title": "DAX Fridays! #147: ISONORAFTER",
-      "excerpt": "In today's video we are going to go through the DAX function called ISONORAFTER.  Happy Friday everybody!!   Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK   Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-147-isonorafter/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-147-isonorafter/",
-      "originalUrl": "https://youtube.com/watch?v=ho0OJNBukUw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ho0OJNBukUw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M21S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-10-03T08:31:38-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/ho0OJNBukUw/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-149-removefilters.md",
-      "title": "DAX Fridays! #149: REMOVEFILTERS",
-      "excerpt": "In today's video, we will go through the new dax function that was introduced on Aug 2019 called REMOVEFILTERS.   Get Northwind Dataset: https://www.youtube.com/watch?v=k3NMIlLffrU  Link to DAX Fridays survey: http://bit.ly/2MMM4KK   Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-149-removefilters/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-149-removefilters/",
-      "originalUrl": "https://youtube.com/watch?v=LdlbddP9C_U",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LdlbddP9C_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M56S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-10-14T05:29:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LdlbddP9C_U/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-dax-fridays-15-switch.md",
-      "title": "DAX Fridays! #15: SWITCH",
-      "excerpt": "Learn how to use the function SWITCH in DAX/ Powerpivot. Switch is the equivalent of IF but it has easier syntax and therefore it is easier to read.  PREVIOUS VIDEO: https://www.youtube.com/watch?v=-Ola264bKXk NEXT VIDEO: -  Looking for the download file? Go to our Download Center: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-15-switch/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-15-switch/",
-      "originalUrl": "https://youtube.com/watch?v=-ykkaAtlCMc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-ykkaAtlCMc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M27S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2016-11-10T13:09:09-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-ykkaAtlCMc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

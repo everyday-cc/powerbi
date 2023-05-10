@@ -6,7 +6,7 @@ type: video
 price: Free
 length: PT5M16S
 publishedDateTime: 2022-07-07T08:17:15Z
-heat: 51
+heat: 50
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JikBsGFfBDA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -28,6 +28,6 @@ images:
     height: 720
     isCached: true
 
-secured: "vuST0QNLaCaiSoBkXht9VWfPjCMcTwJmia1jua4AGbfd17tdYXD13AFDI6ap2B2vFVaup4/+hrUNzcMtHkzdjciJtFQ2sAL50AoRpfWyj0joPi8HWMvy8JfLQHxO0FHdbgfn3zICPV7coYtSICF5pou+FJkN5ZjnpfkyIbKvijmSM13+rKBytL0bj9Iox01qj2UlZej2KajCAw5z+FPUH+nVoeHx8dunGyITU6VELftBOx21yynHCV1EqVAIemSqE78vZeTkaRO8Eadyq53gX9jHqtDNSSDzHmCVHGthoUZ1LFhNhpDoLWBzAiZqys/H3JL6XJtWrOKbeTaH06RPLlWH2+GS8qCcxhpGLLdTb6ZQ9Bn8Lx8ownzPOkdVR4qJFwgNZqFO9WGSV2TqDLja9PgupcYu8VzB6ybONupbbNI=;V7hKWmCBGZQFfSYeAyga4g=="
+secured: "+GwX9nUxHB+w9SD9eXvnT/6IFeyozWyCgWIVerticsHwJlN2NR2X8aUHMRbMQBOFG/WcJrc4AdzAgzmTVbuDtBmYhwzDlUYS2prDIRXHE/6Z5kCSpvbRL39IIartP2h6MwOhGmRX54JdlQWiO3Xmnw1l0Krz8DI7Bgz1nEXHO9xSiQ2Cgq+ELsIPb8XyCRbY5d+r9RA1SVw/LnKLSPzDi0AMHTBtjVtTPxxzPnxVjVzAWdqSDb9PHbdEHy8Do6TFKHt1yoLVD7eZdOkv0Y9YQRp4g7VGLU6gXHNjEBOrAltQA3RyicGxLn9UWIghij+xDTwH70dZI5LVQt3Or+HQuMrVgNsEuJ0ONm7lTEIuFKV9wHgJ3lmlp00mKHIJlQuEmBf7iEnxniyJkc6EoNEAZ9S4kYAN12PJ3tbRAqLVyTQ=;awhmDlP7hyE+IQnJbcqBhw=="
 ---
 

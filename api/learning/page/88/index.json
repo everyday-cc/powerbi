@@ -4,6 +4,186 @@
   "page": 88,
   "value": [
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-challenge-day-4-build-your-first-or-next-dashboard-wed-aug-1.md",
+      "title": "🔴 Power BI Challenge Day 4: Build Your First (or Next) Dashboard, Wed Aug 1",
+      "excerpt": "Multistreaming with https://restream.io/  Join the 5-Day Challenge to build your first (or next) Power BI Dashboard. Accept the challenge at  http://web.learnpowerbi.com/challenge  Sign up for Day 5 Power BI Training: http://www.learnpowerbi.com/webinar  ⚡Power On!⚡ Avi / PowerBIPro / Microsoft MVP",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-challenge-day-4-build-your-first-or-next-dashboard-wed-aug-1/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-challenge-day-4-build-your-first-or-next-dashboard-wed-aug-1/",
+      "originalUrl": "https://youtube.com/watch?v=VKiOtMv4pvM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VKiOtMv4pvM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H40M18S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-07-31T13:16:39-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/VKiOtMv4pvM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-challenge-special-talk-power-bi-live-subscribe-join.md",
+      "title": "Power BI Challenge Special 🔴Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "Join the 5-Day Power Bi Challenge at http://www.PowerBIChallenge.com and join us for this very special episode to support the 5-Day Power BI Challenge participants.  ✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-challenge-special-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-challenge-special-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=1aKO8NC43Hg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1aKO8NC43Hg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H3M44S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-03-28T10:59:06-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/1aKO8NC43Hg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-cumulative-sum-hangout-talk-power-bi-live-subscribe-join.md",
+      "title": "Power BI Cumulative Sum + Hangout 🔴 Talk Power BI LIVE (Subscribe & Join)",
+      "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join https://www.facebook.com/groups/TalkPowerBI to continue the conversation  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power BI. So much so that I",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-cumulative-sum-hangout-talk-power-bi-live-subscribe-join/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-cumulative-sum-hangout-talk-power-bi-live-subscribe-join/",
+      "originalUrl": "https://youtube.com/watch?v=veCw3S7fJLQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/veCw3S7fJLQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H4M51S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-09-21T13:50:00-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/veCw3S7fJLQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-dashboard-challenge-executive-dashboards-that-connect-company-systems-by-poorni-g.md",
+      "title": "Power BI Dashboard Challenge: Executive Dashboards 📊 that Connect Company Systems, by Poorni G.",
+      "excerpt": "What results can a Power BI Beginner get in just 30-Days? Watch Poorni G. show you how she was able to connect various company systems and build executive dashboards for senior management. Giving them a never before seen view of their business.  ➔ What results can you get in just 30-Days? Join our 30-Day",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-dashboard-challenge-executive-dashboards-that-connect-company-systems-by-poorni-g/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-dashboard-challenge-executive-dashboards-that-connect-company-systems-by-poorni-g/",
+      "originalUrl": "https://youtube.com/watch?v=D_8r3Mzdts0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/D_8r3Mzdts0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M46S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2022-05-18T17:09:59-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/D_8r3Mzdts0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-dashboard-employee-benefits-dashboard-by-kyle-m-power-bi-challenge.md",
+      "title": "Power BI Dashboard: Employee Benefits Dashboard 📊 by Kyle M. [Power BI Challenge]",
+      "excerpt": "Watch Kyle M. show you what's possible in Power BI in just 30 days! ➔ What results can *you* get in just 30-Days? Join our 30-Day Power BI Challenge and find out. 👉 https://www.learnpowerbi.com/challenge  ➔ Connect with Kyle McWhinnie on LinkedIn at https://www.linkedin.com/in/kyle-mcwhinnie/  ================================",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-dashboard-employee-benefits-dashboard-by-kyle-m-power-bi-challenge/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-dashboard-employee-benefits-dashboard-by-kyle-m-power-bi-challenge/",
+      "originalUrl": "https://youtube.com/watch?v=kI4O_f7epsE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kI4O_f7epsE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M12S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2022-05-25T09:00:32-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/kI4O_f7epsE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-dashboard-review-makeover-talk-power-bi-live-energy-dashboard.md",
+      "title": "Power BI Dashboard Review & Makeover 🔴Talk Power BI LIVE (Energy Dashboard)",
+      "excerpt": "In Power BI 'Dashboard Makeover'  • We Review Power BI Reports/Dashboards sent in by users  • Provide expert feedback and ideas on how to improve  • Submit Your Screenshots or PBIX file here 👉 https://www.learnpowerbi.com/makeover  ⚠️NOTE⚠️ :  • Do NOT send any sensitive data in your screenshots  •",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-dashboard-review-makeover-talk-power-bi-live-energy-dashboard/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-dashboard-review-makeover-talk-power-bi-live-energy-dashboard/",
+      "originalUrl": "https://youtube.com/watch?v=BHRmxhO0ntU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BHRmxhO0ntU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H47M29S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2019-09-13T04:47:45-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/BHRmxhO0ntU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-dashboard-review-makeover-talk-power-bi-live-subscribe-join.md",
       "title": "Power BI Dashboard Review & Makeover  🔴Talk Power BI LIVE (Subscribe & Join)",
       "excerpt": "In Power BI 'Dashboard Makeover'  • We Review Power BI Reports/Dashboards sent in by users  • Provide expert feedback and ideas on how to improve  • Email Your Screenshots to avi@avising.com with Subject: Dashboard Makeover  ⚠️NOTE⚠️ :  • Do NOT send any sensitive data in your screenshots  • Watch this",
@@ -185,6 +365,37 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-sumx-example-ican-rule-part-1-of-2.md",
+      "title": "Power BI DAX Measures: Understanding Filter Context using SUMX Example (I.C.A.N. Rule) Part 1 of 2",
+      "excerpt": "For Power BI DAX Measures, one of the hardest concepts to grasp is the Filter Context. Or is it? I explain the “Filter Context” with the 4-easy-step approach of the I.C.A.N. Rule; using a SUMX Example. I. Incoming Filters C. CALCULATE does it’s Magic! A. Apply relationships (filters flow Across relationships)",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-sumx-example-ican-rule-part-1-of-2/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-sumx-example-ican-rule-part-1-of-2/",
+      "originalUrl": "https://youtube.com/watch?v=Rcw7wZT8aRs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Rcw7wZT8aRs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M19S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-07-11T08:35:15-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Rcw7wZT8aRs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-dax-measures-understanding-filter-context-using-sumx-example-ican-rule-part-2-of-2.md",
       "title": "Power BI DAX Measures: Understanding Filter Context using SUMX Example (I.C.A.N. Rule) Part 2 of 2",
       "excerpt": "For Power BI DAX Measures, one of the hardest concepts to grasp is the Filter Context. Or is it? I explain the “Filter Context” with the 4-easy-step approach of the I.C.A.N. Rule; using a SUMX Example. I. Incoming Filters C. CALCULATE does it’s Magic! A. Apply relationships (filters flow Across relationships)",
@@ -235,36 +446,6 @@
           "url": "https://i.ytimg.com/vi/3ogSMtymrIs/hqdefault.jpg",
           "width": 480,
           "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-drill-through-5-different-alternatives-that-may-be-better-for-you.md",
-      "title": "Power BI Drill Through: 5 Different Alternatives That May be Better For You!",
-      "excerpt": "Power BI Drill Through isn’t always the best option to show more detail. There are alternatives that may work better for you. We cover the top 5:  1️⃣ Cross Filter 2️⃣️ Tooltips & Report Page Tooltips 3️⃣ Dynamic Link to External Report 4️⃣ Dynamic Link to Power BI Report 5️⃣️ Using Bookmarks 👉 Catch",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-drill-through-5-different-alternatives-that-may-be-better-for-you/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-drill-through-5-different-alternatives-that-may-be-better-for-you/",
-      "originalUrl": "https://youtube.com/watch?v=B7mtd_9UKyU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B7mtd_9UKyU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M19S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-10-09T09:00:02-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/B7mtd_9UKyU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
           "isCached": true
         }
       ],
@@ -713,186 +894,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/qJYRKNPPnHc/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-kpi-indicator-excel-icon-sets-part-3-of-3.md",
-      "title": "Power BI KPI Indicator (Excel Icon Sets) Part 3 of 3",
-      "excerpt": "How can you use KPI Indicators in Power BI, similar to the Excel Conditional Formatting Icon Sets? In this video I show you the third approach - Using Power BI + Excel. And also why this is my favorite approach. **SUBSCRIBE to my channel to be notified as soon as new videos go live https://goo.gl/NdfdVH",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-kpi-indicator-excel-icon-sets-part-3-of-3/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-kpi-indicator-excel-icon-sets-part-3-of-3/",
-      "originalUrl": "https://youtube.com/watch?v=_sfZq1PL6qo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_sfZq1PL6qo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M17S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-08-31T03:07:56-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_sfZq1PL6qo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-latest-update-top-5-new-features-april-may-2019.md",
-      "title": "Power BI Latest Update: Top 5 New Features! April & May 2019",
-      "excerpt": "We cover the highlights of the Power BI April & May 2019 Update.  👉 For Complete Playlist of Power BI Monthly Updates Watch : https://www.youtube.com/playlist?list=PL7GQQXV5Z8ee6n2ZLywS9BaA5eePSrk4R   IDEA: Tooltip for Filter Pane - https://ideas.powerbi.com/forums/265200-power-bi-ideas/suggestions/37759753-tooltip-for-fields-on-the-new-filter-pane",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-latest-update-top-5-new-features-april-may-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-latest-update-top-5-new-features-april-may-2019/",
-      "originalUrl": "https://youtube.com/watch?v=MpEQD-_GH-g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MpEQD-_GH-g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M20S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-05-29T02:47:42-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MpEQD-_GH-g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-latest-update-top-5-new-features-february-2019.md",
-      "title": "Power BI Latest Update: Top 5 New Features! February 2019",
-      "excerpt": "We cover the highlights of the Power BI February 2019 Update.  👉 For Complete Playlist of Power BI Monthly Updates Watch : https://www.youtube.com/playlist?list=PL7GQQXV5Z8ee6n2ZLywS9BaA5eePSrk4R  Power BI February 2019 Highlights: ▪️ Reporting  ▫️ Cross-highlight on a single point in line charts  ▫️",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-latest-update-top-5-new-features-february-2019/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-latest-update-top-5-new-features-february-2019/",
-      "originalUrl": "https://youtube.com/watch?v=IiAAFW45zcE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/IiAAFW45zcE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M21S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2019-03-12T16:54:43-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/IiAAFW45zcE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-model-makeover-send-me-your-ugly-power-bi-models.md",
-      "title": "Power BI Model Makeover: Send Me Your Ugly Power BI Models!",
-      "excerpt": "👉 Submit Your Entry for Model Makeover: https://www.learnpowerbi.com/makeover 👉 Join me for my 5-Day Power BI Challenge https://web.learnpowerbi.com/challenge/ ------------------------------------------------------------------- 👉 FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-model-makeover-send-me-your-ugly-power-bi-models/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-model-makeover-send-me-your-ugly-power-bi-models/",
-      "originalUrl": "https://youtube.com/watch?v=oW3zZ41FfI4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/oW3zZ41FfI4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M33S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-07-17T18:11:19-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/oW3zZ41FfI4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-monthly-updates-how-to-stay-on-top.md",
-      "title": "Power BI Monthly Updates - How to Stay on Top",
-      "excerpt": "Overwhelmed by all the updates and all you need to learn? Follow the 80-20 rule and focus on what truly matters. Learn the Core Power BI Concepts in my complete tutorial https://www.youtube.com/watch?v=1bysgMsPwC4&list=PL7GQQXV5Z8ef2SjkDpLnvsz7TAQjlzlpO ----------------------------------------------------------------------",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-monthly-updates-how-to-stay-on-top/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-monthly-updates-how-to-stay-on-top/",
-      "originalUrl": "https://youtube.com/watch?v=tO106ly0yas",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tO106ly0yas\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M13S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-10-18T12:53:41-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tO106ly0yas/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-november-2018-update-monthly-update-highlights.md",
-      "title": "Power BI November 2018 Update (Monthly Update Highlights!)",
-      "excerpt": "We cover the highlights of the Power BI November 2018 Update.  👉 For Complete Playlist of Power BI Monthly Updates Watch : https://www.youtube.com/watch?v=tO106ly0yas&list=PL7GQQXV5Z8ee6n2ZLywS9BaA5eePSrk4R  Power BI November 2018 Highlights: 1. New Modelling View (preview) 2.  Composite models now",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-november-2018-update-monthly-update-highlights/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-november-2018-update-monthly-update-highlights/",
-      "originalUrl": "https://youtube.com/watch?v=_7-Hojq7Fo8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_7-Hojq7Fo8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M50S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-11-21T02:44:10-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/_7-Hojq7Fo8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
