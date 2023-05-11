@@ -702,8 +702,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/",
           "length": "PT46M",
           "ratings": {
-            "count": 326,
-            "average": 4.671779
+            "count": 327,
+            "average": 4.672783
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1088,8 +1088,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/automate-data-cleaning-power-query/",
       "length": "PT1H29M",
       "ratings": {
-        "count": 714,
-        "average": 4.770308
+        "count": 715,
+        "average": 4.769231
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1594,8 +1594,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-calculation-groups/",
       "length": "PT40M",
       "ratings": {
-        "count": 237,
-        "average": 4.7046413
+        "count": 238,
+        "average": 4.7058825
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1726,8 +1726,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-solve-problems/",
       "length": "PT35M",
       "ratings": {
-        "count": 370,
-        "average": 4.7216215
+        "count": 371,
+        "average": 4.722372
       },
       "provider": {
         "name": "Microsoft Learn",
