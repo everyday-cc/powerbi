@@ -949,8 +949,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
           "length": "PT29M",
           "ratings": {
-            "count": 3911,
-            "average": 4.746612
+            "count": 3912,
+            "average": 4.746677
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2067,8 +2067,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 8818,
-        "average": 4.711159
+        "count": 8820,
+        "average": 4.7112246
       },
       "provider": {
         "name": "Microsoft Learn",
