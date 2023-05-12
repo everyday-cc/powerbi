@@ -2514,8 +2514,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3169,
-            "average": 4.715368
+            "count": 3170,
+            "average": 4.7154574
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4524,8 +4524,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 6954,
-            "average": 4.727207
+            "count": 6957,
+            "average": 4.7270374
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4691,8 +4691,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/visuals-power-bi/",
           "length": "PT1H13M",
           "ratings": {
-            "count": 4191,
-            "average": 4.667144
+            "count": 4193,
+            "average": 4.667064
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5220,8 +5220,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
           "length": "PT29M",
           "ratings": {
-            "count": 577,
-            "average": 4.797227
+            "count": 578,
+            "average": 4.797578
           },
           "provider": {
             "name": "Microsoft Learn",
