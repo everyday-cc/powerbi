@@ -103,7 +103,7 @@
         ]
       },
       "publishedDateTime": "2023-05-02T03:26:43-07:00",
-      "heat": 99,
+      "heat": 94,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/T9kNng75-Mw/maxresdefault.jpg",
@@ -1036,8 +1036,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-add-calculated-tables/",
           "length": "PT19M",
           "ratings": {
-            "count": 1859,
-            "average": 4.719742
+            "count": 1860,
+            "average": 4.7198925
           },
           "provider": {
             "name": "Microsoft Learn",
