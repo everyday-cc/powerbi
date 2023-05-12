@@ -4,83 +4,6 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/videos/guy-in-a-cube-external-tools-in-power-bi-desktop-are-missing.md",
-      "title": "EXTERNAL TOOLS in Power BI Desktop... are MISSING???",
-      "excerpt": "Excited for External Tools in Power BI Desktop and... they are missing? What the heck! Adam breaks down how to get them within the ribbon of the July 2020 Power BI Desktop.  Tools downloads: https://sqlbi.com/tools  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-external-tools-in-power-bi-desktop-are-missing/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-external-tools-in-power-bi-desktop-are-missing/",
-      "originalUrl": "https://youtube.com/watch?v=jScicVBrr0s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jScicVBrr0s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M19S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-07-16T08:00:12-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/jScicVBrr0s/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-how-do-you-use-rls-with-power-bi-embedded.md",
-      "title": "How do you use RLS with Power BI Embedded???",
-      "excerpt": "Are you using Power BI Embedded and not sure how to implement Row-Level Security (RLS)? Adam shows you how!  Power BI Embedded Doc: https://docs.microsoft.com/power-bi/developer/embedded/embedded-row-level-security  Power BI Embedded Playground: https://microsoft.github.io/PowerBI-JavaScript/demo/  GitHub",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-how-do-you-use-rls-with-power-bi-embedded/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-how-do-you-use-rls-with-power-bi-embedded/",
-      "originalUrl": "https://youtube.com/watch?v=yNF-_l2f7w0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yNF-_l2f7w0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M50S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-07-09T08:00:28-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yNF-_l2f7w0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/guy-in-a-cube-let-power-query-write-your-sql-for-you.md",
       "title": "Let Power Query write your SQL for you!",
       "excerpt": "We tell you to push your transformations upstream as much as possible. But you don't know how to write SQL. That's ok, let Power Query do it for you to move your project forward. Patrick shows you how!  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power",
@@ -1064,6 +987,83 @@
       "topics": [
         "Power BI",
         "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-filter-top-3-products-with-a-row-for-others-using-dax-in-power-bi.md",
+      "title": "Filter top 3 products with a row for others using DAX in Power BI",
+      "excerpt": "This video shows an optimized DAX technique to display the first N products for each category in Power BI, adding a row that aggregates the value for all the other products. Article and download: https://sql.bi/695263/?aff=yt  The article includes further insights and optimization solutions, whereas",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-filter-top-3-products-with-a-row-for-others-using-dax-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-filter-top-3-products-with-a-row-for-others-using-dax-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=nVvlEHKr_0o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nVvlEHKr_0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M46S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-01-04T12:30:16-08:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nVvlEHKr_0o/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns.md",
+      "title": "Optimizing SWITCH on slicer selection with Group By Columns",
+      "excerpt": "Optimize the query performance of a SWITCH function in DAX that reads a slicer selection: the Group By Columns property can solve a practical problem.\r \r Article and download: https://sql.bi/792990?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns/",
+      "originalUrl": "https://youtube.com/watch?v=RCEoAvru8rY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RCEoAvru8rY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M1S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-04-11T03:00:15-07:00",
+      "heat": 56,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/RCEoAvru8rY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     }
   ],

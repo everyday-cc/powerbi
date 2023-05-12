@@ -4,83 +4,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_learning/videos/curbal-types-of-joinmerge-available-in-power-bi-excel.md",
-      "title": "Types of join/merge available in Power BI/ Excel",
-      "excerpt": "Confused with all the join/ merge types options available in Power BI Desktop? No  worries, we explain all types in detail here.  If I say: Left Anti, or Full Outer, do you know inmmediately what it is or do you think I am calling you bad names? Smiley Happy  Every time I created a merge in Power BI",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-types-of-joinmerge-available-in-power-bi-excel/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-types-of-joinmerge-available-in-power-bi-excel/",
-      "originalUrl": "https://youtube.com/watch?v=PNdxy0c1Shg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/PNdxy0c1Shg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M55S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-02-06T03:05:43-08:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PNdxy0c1Shg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-version-control-for-power-bi-files.md",
-      "title": "Version control for Power BI files",
-      "excerpt": "In this video I am going to show you how to do version control with Power BI files, or at least, one way to do it.   How do you do it? Let me know in the comments box.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-version-control-for-power-bi-files/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-version-control-for-power-bi-files/",
-      "originalUrl": "https://youtube.com/watch?v=i3s9isKKdDs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i3s9isKKdDs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-10-30T04:35:55-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/i3s9isKKdDs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/dhruvin-shah-add-custom-icons-for-conditional-formatting-in-power-bi-desktop.md",
       "title": "Add Custom Icons for Conditional Formatting in Power BI Desktop",
       "excerpt": "In this vlog. We will talk about how we can easily add the custom icons in Power BI Desktop for conditional formatting.  Sometimes there is a requirement in which we need to add the custom icons in Power BI Desktop. We can achieve this requirement using 4 simple steps.  1.Create or Download the Icons",
@@ -980,6 +903,83 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-are-you-following-best-practices-with-azure-synapse-analytics.md",
+      "title": "Are you following best practices with Azure Synapse Analytics?",
+      "excerpt": "How do you know if you are following best practices for Azure Synapse Analytics? One way is to check out this report that Patrick walks through. It's a great way to get an understanding where your database is at!  Azure Synapse Analyzer Report to monitor and improve Azure Synapse SQL Dedicated Pool performance",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-are-you-following-best-practices-with-azure-synapse-analytics/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-are-you-following-best-practices-with-azure-synapse-analytics/",
+      "originalUrl": "https://youtube.com/watch?v=dRaLicocQuI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dRaLicocQuI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M43S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-05-17T08:00:18-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/dRaLicocQuI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-are-you-using-the-right-dataflows-connector-in-power-bi.md",
+      "title": "Are you using the right Dataflows connector in Power BI???",
+      "excerpt": "Did you know that there are two Dataflows connectors in Power BI? What's the difference? Adam takes a look and explains what is going on.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses available",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-are-you-using-the-right-dataflows-connector-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-are-you-using-the-right-dataflows-connector-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=OONgT-DjmY0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OONgT-DjmY0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M26S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-12-09T08:00:23-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/OONgT-DjmY0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Dataflows"
       ]
     }
   ],

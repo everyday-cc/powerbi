@@ -382,32 +382,6 @@
       ]
     },
     {
-      "path": "_learning/articles/excelerator-bi-incremental-backup-of-pbix-files.md",
-      "title": "Incremental Backup of PBIX Files",
-      "excerpt": "I do a lot of Power BI model and report development; maybe you do too. There&#8217;s nothing worse than spending an hour or so developing your model only to have something go wrong and you lose your work. Things that can go wrong include: Your PC/App crashes. Power BI does [...]Read More »",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-incremental-backup-of-pbix-files/index.json",
-      "webUrl": "https://exceleratorbi.com.au/incremental-backup-of-pbix-files/",
-      "provider": {
-        "name": "Excelerator BI",
-        "domain": "exceleratorbi.com.au"
-      },
-      "publishedDateTime": "2023-03-13T15:44:53-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://exceleratorbi.com.au/wp-content/uploads/2017/05/Power-Query-Academy-Logo-450x216.png",
-          "width": 450,
-          "height": 216,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/articles/excelerator-bi-infection-fatality-rate-for-covid-in-australia.md",
       "title": "Infection Fatality Rate for COVID in Australia",
       "excerpt": "I am writing an off-topic article today but I promise I will circle back later in the week with a follow up article bringing it back on topic. In this article, I am going to share a COVID report I built today, and later in the week I will post [...]Read More »",
@@ -810,6 +784,32 @@
           "url": "https://exceleratorbi.com.au/wp-content/uploads/2020/09/podcast.png",
           "width": 600,
           "height": 337,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/articles/excelerator-bi-real-life-power-bi-demo-what-size-water-tank-do-i-need.md",
+      "title": "Real Life Power BI Demo – What Size Water Tank Do I Need?",
+      "excerpt": "I always tell people in my training classes that the best way to become good at using Power BI is to get plenty of practice. Best case scenario, you would do something at work that will help you succeed in your job and hence you will get paid to learn. [...]Read More »",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/articles/excelerator-bi-real-life-power-bi-demo-what-size-water-tank-do-i-need/index.json",
+      "webUrl": "https://exceleratorbi.com.au/real-life-power-bi-demo-what-size-water-tank-do-i-need/",
+      "provider": {
+        "name": "Excelerator BI",
+        "domain": "exceleratorbi.com.au"
+      },
+      "publishedDateTime": "2022-03-01T14:34:04-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://exceleratorbi.com.au/wp-content/uploads/2022/03/Featured-Image.png",
+          "width": 750,
+          "height": 418,
           "isCached": true
         }
       ],

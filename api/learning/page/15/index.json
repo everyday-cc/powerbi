@@ -4,83 +4,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_learning/videos/sqlbi-filter-top-3-products-with-a-row-for-others-using-dax-in-power-bi.md",
-      "title": "Filter top 3 products with a row for others using DAX in Power BI",
-      "excerpt": "This video shows an optimized DAX technique to display the first N products for each category in Power BI, adding a row that aggregates the value for all the other products. Article and download: https://sql.bi/695263/?aff=yt  The article includes further insights and optimization solutions, whereas",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-filter-top-3-products-with-a-row-for-others-using-dax-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-filter-top-3-products-with-a-row-for-others-using-dax-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=nVvlEHKr_0o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nVvlEHKr_0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M46S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-01-04T12:30:16-08:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nVvlEHKr_0o/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns.md",
-      "title": "Optimizing SWITCH on slicer selection with Group By Columns",
-      "excerpt": "Optimize the query performance of a SWITCH function in DAX that reads a slicer selection: the Group By Columns property can solve a practical problem.\r \r Article and download: https://sql.bi/792990?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-optimizing-switch-on-slicer-selection-with-group-by-columns/",
-      "originalUrl": "https://youtube.com/watch?v=RCEoAvru8rY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RCEoAvru8rY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M1S",
-      "provider": {
-        "name": "SQLBI",
-        "domain": "sqlbi.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-04-11T03:00:15-07:00",
-      "heat": 56,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/RCEoAvru8rY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/sqlbi-using-allexcept-vs-all-values.md",
       "title": "Using ALLEXCEPT vs ALL VALUES",
       "excerpt": "ALLEXCEPT is a handy DAX function to retrieve all the columns of a table except for some. When used as a CALCULATE modifier, its behavior is less intuitive and might result in inaccurate measures. In this video, we elaborate on the most common mistake when using ALLEXCEPT in CALCULATE.\r Article and download:",
@@ -341,8 +264,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/perform-analytics-power-bi/",
           "length": "PT51M",
           "ratings": {
-            "count": 3171,
-            "average": 4.715232
+            "count": 3172,
+            "average": 4.7153215
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -383,8 +306,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 5999,
-            "average": 4.7144523
+            "count": 6000,
+            "average": 4.7145
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -610,8 +533,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 5999,
-        "average": 4.7144523
+        "count": 6000,
+        "average": 4.7145
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -694,8 +617,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 3414,
-        "average": 4.722613
+        "count": 3416,
+        "average": 4.722775
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -736,8 +659,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
       "length": "PT18M",
       "ratings": {
-        "count": 765,
-        "average": 4.7633986
+        "count": 766,
+        "average": 4.7637076
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1468,6 +1391,74 @@
           "url": "https://i.ytimg.com/vi/CqPE6__sulg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/dhruvin-shah-page-and-bookmark-navigator-in-power-bi.md",
+      "title": "Page and Bookmark Navigator in Power BI",
+      "excerpt": "This video demonstrates how we can add Page Navigator and Bookmark navigator in Power BI. This is my favorite feature rolled out from Power BI November 2021 update! With Power BI'Page and Bookmark navigator, we can easily build navigation for our report. Previously, setting up a custom page or bookmark",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-page-and-bookmark-navigator-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-page-and-bookmark-navigator-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=ypdM10yK4uU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ypdM10yK4uU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M54S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2021-11-25T04:12:57-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/ypdM10yK4uU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-add-a-little-info-to-your-sparkline-in-power-bi.md",
+      "title": "Add a little info to your Sparkline in Power BI",
+      "excerpt": "Have you checked out sparklines in Power BI? Patrick explores how to set them up and also how you can be creative with them to add additional context to your reports!  KPI Video: https://www.youtube.com/watch?v=zHzSBNES6jE  📢 Become a member: https://guyinacu.be/membership \r \r *******************",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-add-a-little-info-to-your-sparkline-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-add-a-little-info-to-your-sparkline-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=NkRVaRUVO7s",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NkRVaRUVO7s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M22S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-01-12T08:00:10-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/NkRVaRUVO7s/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
