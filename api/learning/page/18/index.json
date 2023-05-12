@@ -4,14 +4,345 @@
   "page": 18,
   "value": [
     {
-      "path": "_learning/videos/curbal-convert-html-to-formatted-text-in-power-query.md",
-      "title": "Convert HTML to **formatted** text in Power Query",
-      "excerpt": "Let me show you how to convert html on a power query column into formatted text.  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-convert-html-to-formatted-text-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-convert-html-to-formatted-text-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=sPqQuKbyDwM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sPqQuKbyDwM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M18S",
+      "path": "_learning/videos/sqlbi-solving-errors-in-calculate-filter-arguments.md",
+      "title": "Solving errors in CALCULATE filter arguments",
+      "excerpt": "This video explains the more common errors in CALCULATE filter arguments and how to solve them.\r Article and download: https://sql.bi/778253?aff=yt\r \r How to learn DAX: https://www.sqlbi.com/guides/dax/?aff=yt\r The definitive guide to DAX: https://www.sqlbi.com/books/the-definitive-guide-to-dax-2nd-edition/?aff=yt",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/sqlbi-solving-errors-in-calculate-filter-arguments/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/sqlbi-solving-errors-in-calculate-filter-arguments/",
+      "originalUrl": "https://youtube.com/watch?v=jYaSd565GgE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/jYaSd565GgE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT30M55S",
+      "provider": {
+        "name": "SQLBI",
+        "domain": "sqlbi.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/sqlbi.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-12-08T03:00:35-08:00",
+      "heat": 55,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/jYaSd565GgE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/collections/microsoft-learn-introduction-to-data-analytics-on-azure.md",
+      "title": "Introduction to data analytics on Azure",
+      "excerpt": "Introduction to data analytics on Azure",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/collections/microsoft-learn-introduction-to-data-analytics-on-azure/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/collections/microsoft-learn-introduction-to-data-analytics-on-azure/",
+      "length": "PT1H15M",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/microsoft-learn-explore-azure-data-services-for-modern-analytics.md",
+          "title": "Explore Azure data services for modern analytics",
+          "excerpt": "Understand analytics solutions in the Azure data ecosystem. Explore the architecture of a scalable analytics solution to meet business needs.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-azure-data-services-for-modern-analytics/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
+          "length": "PT18M",
+          "ratings": {
+            "count": 765,
+            "average": 4.7633986
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 55,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/explore-azure-data-services-for-modern-analytics-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-understand-concepts-of-data-analytics.md",
+          "title": "Understand concepts of data analytics",
+          "excerpt": "Explore key concepts of data analytics, including types of analytics, data, and storage. Explore the analytics process and tools used to discover insights.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-understand-concepts-of-data-analytics/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/understand-concepts-of-data-analytics/",
+          "length": "PT28M",
+          "ratings": {
+            "count": 659,
+            "average": 4.831563
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 52,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/understand-concepts-of-data-analytics-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        },
+        {
+          "path": "_learning/courses/microsoft-learn-explore-data-analytics-scale.md",
+          "title": "Explore data analytics at scale",
+          "excerpt": "Describe data analytics at scale and understand the roles of a data team. Learn about the responsibilities of an enterprise data analyst and what tools are available to build scalable solutions.",
+          "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-data-analytics-scale/index.json",
+          "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
+          "length": "PT29M",
+          "ratings": {
+            "count": 578,
+            "average": 4.797578
+          },
+          "provider": {
+            "name": "Microsoft Learn",
+            "domain": "microsoft.com",
+            "images": [
+              {
+                "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 54,
+          "images": [
+            {
+              "url": "https://learn.microsoft.com/training/achievements/explore-data-analytics-at-scale-social.png",
+              "width": 1281,
+              "height": 641,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free",
+          "topics": [
+            "Power BI"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/explore-azure-data-services-for-modern-analytics-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-ai-visuals-power-bi.md",
+      "title": "Work with AI visuals in Power BI",
+      "excerpt": "This module describes the AI capabilities of Power BI.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-ai-visuals-power-bi/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
+      "length": "PT1H1M",
+      "ratings": {
+        "count": 5997,
+        "average": 4.714524
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/ai-visuals-power-bi-social.png",
+          "width": 643,
+          "height": 321,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-build-simple-dashboard.md",
+      "title": "How to build a dashboard",
+      "excerpt": "How to build a dashboard",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-build-simple-dashboard/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/build-simple-dashboard/",
+      "length": "PT41M",
+      "ratings": {
+        "count": 4902,
+        "average": 4.711954
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/build-simple-dashboard-social.png",
+          "width": 800,
+          "height": 400,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-explore-data-analytics-scale.md",
+      "title": "Explore data analytics at scale",
+      "excerpt": "Describe data analytics at scale and understand the roles of a data team. Learn about the responsibilities of an enterprise data analyst and what tools are available to build scalable solutions.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-explore-data-analytics-scale/index.json",
+      "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-data-analytics-scale/",
+      "length": "PT29M",
+      "ratings": {
+        "count": 578,
+        "average": 4.797578
+      },
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://learn.microsoft.com/training/achievements/explore-data-analytics-at-scale-social.png",
+          "width": 1281,
+          "height": 641,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-37-easily-create-infographics-in-power-bi-with-infographics-desginer.md",
+      "title": "#37 Easily create infographics in Power BI with infographics desginer",
+      "excerpt": "#37 Easily create infographics in Power BI with infographics desginer  Do you want to create infographics in Power BI? In this video I will show you how to do just that!  Information graphics or infographics are graphic visual representations of information, data or knowledge intended to present information",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-37-easily-create-infographics-in-power-bi-with-infographics-desginer/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-37-easily-create-infographics-in-power-bi-with-infographics-desginer/",
+      "originalUrl": "https://youtube.com/watch?v=XwOIIuRg-EI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XwOIIuRg-EI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M1S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -24,11 +355,49 @@
           }
         ]
       },
-      "publishedDateTime": "2023-03-10T07:15:58-08:00",
+      "publishedDateTime": "2020-02-06T02:25:51-08:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/sPqQuKbyDwM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/XwOIIuRg-EI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-add-kpi-symbols-in-power-bi-based-on-formula-results.md",
+      "title": "Add KPI symbols in Power BI based on formula results",
+      "excerpt": "Add up and down arrows to your calculations based on the results of your formulas in Power BI.  Power BI Natural language: https://www.youtube.com/watch?v=o_Qh0SccyAc   Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-add-kpi-symbols-in-power-bi-based-on-formula-results/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-add-kpi-symbols-in-power-bi-based-on-formula-results/",
+      "originalUrl": "https://youtube.com/watch?v=7oCygwn75tQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7oCygwn75tQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M24S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-04-25T04:32:01-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/7oCygwn75tQ/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -38,8 +407,83 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power Query"
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-conditional-format-the-power-bi-line-chart-with-a-gradient-schema.md",
+      "title": "Conditional format the Power BI line chart with a gradient schema",
+      "excerpt": "If you want the data to do all the talking for you, conditional formatting a line chart with a gradient schema is one way. Let me show you how to do it here.  For other types of conditional formatting: For markers: https://youtu.be/yG5t4XBMVU8 For highlighting: https://youtu.be/cSbLdv6KRxI   Here you",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-conditional-format-the-power-bi-line-chart-with-a-gradient-schema/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-conditional-format-the-power-bi-line-chart-with-a-gradient-schema/",
+      "originalUrl": "https://youtube.com/watch?v=k5c-KtU2k_U",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k5c-KtU2k_U\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M32S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2022-07-05T01:52:44-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/k5c-KtU2k_U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-create-custom-connectors-in-power-bi.md",
+      "title": "Create custom connectors in Power Bi",
+      "excerpt": "In today's video, I will show you how to create a custom connector in Power BI.  Link to Github site:  https://github.com/Microsoft/DataConnectors    Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-create-custom-connectors-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-create-custom-connectors-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=eul2fBbtmEs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eul2fBbtmEs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M57S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2017-08-28T13:40:40-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/eul2fBbtmEs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
       ]
     },
     {
@@ -82,14 +526,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-dax-fridays-185-calculating-max-values-by-category.md",
-      "title": "DAX Fridays! #185: Calculating max values by category",
-      "excerpt": "In todays video we will calculate the Max value by category using allselect function. This video is part of the Fire series below:  This week we are going to visualize the amazon fires data.  Part1 : First we will clean and model the data using Power Query.  (this video) https://www.youtube.com/watch?v=V1kAFbyE7sw",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-185-calculating-max-values-by-category/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-185-calculating-max-values-by-category/",
-      "originalUrl": "https://youtube.com/watch?v=8KaMj2DFpWg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8KaMj2DFpWg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M43S",
+      "path": "_learning/videos/curbal-dax-fridays-12-sum-of-distinct-values.md",
+      "title": "DAX Fridays #12: SUM of distinct values",
+      "excerpt": "PREVIOUS VIDEO: https://www.youtube.com/watch?v=kaPNxB-Hkvw  NEXT VIDEO: -  Have you ever tried to calculate the sum of distinct or unique values in Power BI? Not straight forward right?  A distinct sum is a sum where you specify the values that you want to have included in the totals. W  In this video",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-12-sum-of-distinct-values/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-12-sum-of-distinct-values/",
+      "originalUrl": "https://youtube.com/watch?v=0AeEpjYrwG0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0AeEpjYrwG0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M18S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -102,11 +546,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-09-22T02:53:44-07:00",
+      "publishedDateTime": "2016-10-28T10:24:25-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/8KaMj2DFpWg/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/0AeEpjYrwG0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -121,14 +565,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-download-sample-datasets-and-reports-for-power-bi-and-excel.md",
-      "title": "Download sample datasets and reports for Power BI and Excel",
-      "excerpt": "Sample datasets and reports are great for learning and getting inspiration so in todays video I will share some resources you can download and use right away!  Link to resources: https://docs.microsoft.com/en-us/power-bi/create-reports/sample-datasets#the-power-bi-samples-as-pbix-files and https://github.com/microsoft/powerbi-desktop-samples/tree/master/Sample%20Reports",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-download-sample-datasets-and-reports-for-power-bi-and-excel/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-download-sample-datasets-and-reports-for-power-bi-and-excel/",
-      "originalUrl": "https://youtube.com/watch?v=GsY378jcbqQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GsY378jcbqQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M6S",
+      "path": "_learning/videos/curbal-dax-fridays-132-dynamic-topn-others-in-power-bi.md",
+      "title": "DAX Fridays! #132: Dynamic TopN + Others in Power BI",
+      "excerpt": "I was recently asked to do a TopN + Others for a customer and in this video I will share my solution with you. #curbal #dax #daxfridays #powerbi  Link to RANX video: https://www.youtube.com/watch?v=z2qzJVeYhTY Gerhard post: https://blog.gbrueckl.at/2019/05/power-bi-dynamic-topn-others-with-drill-down/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-132-dynamic-topn-others-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-132-dynamic-topn-others-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=UAnylK9bm1I",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UAnylK9bm1I\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M32S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -141,11 +585,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-10-16T06:43:34-07:00",
+      "publishedDateTime": "2019-07-11T02:51:24-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/GsY378jcbqQ/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/UAnylK9bm1I/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -155,7 +599,164 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-203-examples-of-max-calculations-of-groups-and-subgroups.md",
+      "title": "DAX Fridays #203: Examples of MAX calculations of groups and subgroups",
+      "excerpt": "I publish two DAX Fridays! videos ago a video on how to calculate the MAX of a measure and you had more questions about max calculations, so lets do some more MAX exercises here.  MAX of a measure:  https://www.youtube.com/watch?v=DAvzV-4Li7A&ab_channel=Curbal  Stackoverflow example: https://stackoverflow.com/questions/18247119/powerpivot-dax-identify-max-min-value-per-group",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-203-examples-of-max-calculations-of-groups-and-subgroups/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-203-examples-of-max-calculations-of-groups-and-subgroups/",
+      "originalUrl": "https://youtube.com/watch?v=lYJ4j1SX0QE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lYJ4j1SX0QE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M31S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2021-04-09T01:42:33-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/lYJ4j1SX0QE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-220-selectedmeasure-function.md",
+      "title": "DAX Fridays #220: SELECTEDMEASURE function",
+      "excerpt": "Now that calculation groups are making its way into Power BI desktop, it is time to cover SELECTEDMEASURE  Blog post here: https://curbal.com/blog/glossary/selectedmeasure  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-220-selectedmeasure-function/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-220-selectedmeasure-function/",
+      "originalUrl": "https://youtube.com/watch?v=_F4MwolGrmg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_F4MwolGrmg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M34S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-04-27T03:47:58-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/_F4MwolGrmg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-81-calculatetable.md",
+      "title": "DAX Fridays! #81: CALCULATETABLE",
+      "excerpt": "In todays video we are going to cover the DAX function CALCULATETABLE.  CALCULATETABLE allows you to create virtual tables that you can then filter using multiple conditions and use that table to make further calculations.   What is the difference between CALCULATETABLE and CALCULATE?  The first one",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-81-calculatetable/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-81-calculatetable/",
+      "originalUrl": "https://youtube.com/watch?v=aA8zIJ-qcO8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aA8zIJ-qcO8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M37S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-05-11T03:35:28-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/aA8zIJ-qcO8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-dax-fridays-battle-187-rankx-vs-topn.md",
+      "title": "DAX Fridays Battle #187: RANKX vs TOPN",
+      "excerpt": "You have asked me many times to explain the difference between RANKX and TOPN and it is finally here.  Links to related videos: 00:30 Calculate vs calculatetable https://www.youtube.com/watch?v=P4B9FbzrotM  01:55 Scalar vs table vs other DAX functions https://www.youtube.com/watch?v=oA_GYuoqgsY  05:56",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-dax-fridays-battle-187-rankx-vs-topn/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-dax-fridays-battle-187-rankx-vs-topn/",
+      "originalUrl": "https://youtube.com/watch?v=SQ_IstiM5ME",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SQ_IstiM5ME\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M14S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-09T04:10:47-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/SQ_IstiM5ME/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     },
     {
@@ -237,14 +838,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-export-power-bi-to-ms-word-pdf-paginated-reports-with-power-automate-and-power-bi.md",
-      "title": "Export Power BI to MS Word / PDF | Paginated reports with Power Automate and Power BI",
-      "excerpt": "In today's video I will show you how to export a Power BI file to word or PDF and email it to somebody!!  Chapters: 00:00 Intro 00:35 Pre-requisites / Licenses 01:00 Prepare the word template 05:00 Configure the flow in Power BI  Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-export-power-bi-to-ms-word-pdf-paginated-reports-with-power-automate-and-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-export-power-bi-to-ms-word-pdf-paginated-reports-with-power-automate-and-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=lqlYl3pVL1g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lqlYl3pVL1g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT18M51S",
+      "path": "_learning/videos/curbal-fill-down-and-replace-nullblank-values-in-power-query.md",
+      "title": "Fill down and replace null/blank values in Power Query",
+      "excerpt": "In this video I will show you how to troubleshoot fill down and replace blank values.  If you are trying to fill down blank values or replace null values you might see that power query ignores it completely. In this video I will show you how to fix this issues.    Looking for a download file? Go to our",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-fill-down-and-replace-nullblank-values-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-fill-down-and-replace-nullblank-values-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=-fwKhMot9hw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-fwKhMot9hw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M42S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -257,49 +858,11 @@
           }
         ]
       },
-      "publishedDateTime": "2021-05-03T04:52:25-07:00",
+      "publishedDateTime": "2018-04-25T03:57:20-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/lqlYl3pVL1g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-fill-up-down-with-conditions-in-power-query.md",
-      "title": "Fill up/ down with conditions in Power Query",
-      "excerpt": "In today's video I will show you how to fill up or down based on conditions. I am going to show you two ways to do it, you pick the one need :)  Chapters 00:00 Intro 01:00 First solution using M language 02:50 Second solution using the UI Done!  Here you can download all the pbix files: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-fill-up-down-with-conditions-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-fill-up-down-with-conditions-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=QV98Jndj5Fo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QV98Jndj5Fo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M32S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-03-15T04:55:53-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QV98Jndj5Fo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/-fwKhMot9hw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -314,14 +877,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-introduction-to-data-modeling-in-power-bi.md",
-      "title": "Introduction to data modeling in Power BI",
-      "excerpt": "In today's video we will go through the basics of data modeling in Power BI, to get you started fast and easy!  Links to mentioned resources: Flat tables vs models power bi: https://www.youtube.com/watch?v=QWHE8N3AkT0  Get covid data in power bi: https://www.youtube.com/watch?v=4vfAz7XDuH0 or https://www.youtube.com/watch?v=r9i7CTdOsBo",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-introduction-to-data-modeling-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-introduction-to-data-modeling-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=V2mA40Z-R30",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V2mA40Z-R30\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M39S",
+      "path": "_learning/videos/curbal-get-data-from-zip-files-without-extracting-them-in-power-query.md",
+      "title": "Get data from zip files without extracting them in Power Query",
+      "excerpt": "In today’s video, I will show you how to unzip files in Power BI. You will be able to import multiple zip files in Power Query and unzip them without having to extract them first.  Here is Marks blog, where you can find his function: http://sql10.blogspot.se/2016/06/reading-zip-files-in-powerquery-m.html",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-get-data-from-zip-files-without-extracting-them-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-get-data-from-zip-files-without-extracting-them-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=OzQ44gwi5Kw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OzQ44gwi5Kw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M14S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -334,88 +897,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-17T04:52:20-07:00",
+      "publishedDateTime": "2018-03-12T08:17:34-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/V2mA40Z-R30/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-manage-data-source-credentials-in-power-bi-desktop.md",
-      "title": "Manage data source credentials in Power BI Desktop",
-      "excerpt": "Learn how to manage your data source credentials in Power BI. I will show you how to:  Secure, hide your API key in the store credentials Delete your data source credentials in Power BI Edit your data source credentials in Power BI    Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-manage-data-source-credentials-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-manage-data-source-credentials-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=DG8p6vOuktU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DG8p6vOuktU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M33S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-24T13:56:30-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/DG8p6vOuktU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays.md",
-      "title": "Managing changing column names in Power Query #10: (M)agic (M)ondays",
-      "excerpt": "In today's video, I will show how to manage column headers that changes names so your power bi file does not break when you refresh it.  This tip is from Lars Schreiber and here is the link to his blog post and how to do this in power query: http://power-bi-usergroup.blogspot.se/2015/12/dealing-with-tables-with-changing.html",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-managing-changing-column-names-in-power-query-10-magic-mondays/",
-      "originalUrl": "https://youtube.com/watch?v=yBJr0sAc-m4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/yBJr0sAc-m4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M46S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-07-06T11:40:32-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/yBJr0sAc-m4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/OzQ44gwi5Kw/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -430,14 +916,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-more-dynamic-formatting-awesomeness-annotations-with-dynamic-formatting.md",
-      "title": "More Dynamic formatting AWESOMENESS!! | Annotations with dynamic formatting",
-      "excerpt": "In this video I will show you how to add annotations to your charts using dynamic formatting :)  More formatting tips:https://youtu.be/ROyVkQ9vTjc  With charticulator: https://www.youtube.com/watch?v=3rr-XbbGT9o&t=169s&ab_channel=Curbal  Join this channel membership to get access to all the recorded",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-more-dynamic-formatting-awesomeness-annotations-with-dynamic-formatting/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-more-dynamic-formatting-awesomeness-annotations-with-dynamic-formatting/",
-      "originalUrl": "https://youtube.com/watch?v=aRMZEfcQrdY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aRMZEfcQrdY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M45S",
+      "path": "_learning/videos/curbal-images-wont-load-in-power-bi-here-is-why-and-how-to-fix-it.md",
+      "title": "Images wont load in Power BI? Here is why and how to fix it.",
+      "excerpt": "Make sure you download PowerToys while you are at it! https://www.youtube.com/watch?v=skPTyaEmyws&ab_channel=Curbal  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-images-wont-load-in-power-bi-here-is-why-and-how-to-fix-it/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-images-wont-load-in-power-bi-here-is-why-and-how-to-fix-it/",
+      "originalUrl": "https://youtube.com/watch?v=Jy2GpZuuE_4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Jy2GpZuuE_4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M50S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -450,11 +936,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-04-19T06:31:08-07:00",
+      "publishedDateTime": "2022-03-24T03:08:40-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/aRMZEfcQrdY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Jy2GpZuuE_4/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -468,14 +954,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-override-drillthrough-filters-in-power-bi.md",
-      "title": "Override drillthrough filters in Power BI",
-      "excerpt": "Are you filtering by a cateogry on a drillthrough page but you want to compare against all categories in the same page? Here is how.  Here you can download all the pbix files: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-override-drillthrough-filters-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-override-drillthrough-filters-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=BG51W2lKYIA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/BG51W2lKYIA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M31S",
+      "path": "_learning/videos/curbal-insert-text-anywhere-in-a-cell-without-adding-a-new-column-using-the-power-query-user-interface.md",
+      "title": "Insert text anywhere in a cell without adding a new column using the Power Query User Interface.",
+      "excerpt": "There are no Insert functions ( that I know about) in the power query user interface, so if you dont know M, you probably have to create a new column to insert text in power query.  In today's video, I will show you how you can use power query user interface, to insert text into a column without adding",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-insert-text-anywhere-in-a-cell-without-adding-a-new-column-using-the-power-query-user-interface/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-insert-text-anywhere-in-a-cell-without-adding-a-new-column-using-the-power-query-user-interface/",
+      "originalUrl": "https://youtube.com/watch?v=uVr-VjBWS6M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/uVr-VjBWS6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M9S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -488,11 +974,11 @@
           }
         ]
       },
-      "publishedDateTime": "2022-11-08T05:15:35-08:00",
+      "publishedDateTime": "2020-06-29T04:07:53-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/BG51W2lKYIA/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/uVr-VjBWS6M/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -502,7 +988,8 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -531,6 +1018,44 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/UwXo1OcwbAg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-publish-power-bi-reports-form-other-workspaces-into-your-app.md",
+      "title": "Publish Power BI reports form other workspaces into your app",
+      "excerpt": "In todays video I will show you how to publish power bi reports from different workspaces into an app, and I also ask for your help to test the permissions for me.#curbal #powerbhi  Check my previous video here: https://www.youtube.com/watch?v=3Bo0HHUcuas  Want to publish multiple apps from the same",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-publish-power-bi-reports-form-other-workspaces-into-your-app/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-publish-power-bi-reports-form-other-workspaces-into-your-app/",
+      "originalUrl": "https://youtube.com/watch?v=FRgzLoRfGgE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/FRgzLoRfGgE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M14S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-07-08T04:55:09-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/FRgzLoRfGgE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -582,49 +1107,11 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-share-power-bi-reports-and-apps-with-external-guests-for-free-azure-b2b.md",
-      "title": "Share Power BI reports and apps with external guests for free - Azure B2B",
-      "excerpt": "In todays video, I am going to show you how you can share power bi reports, dashboards, apps with external guests for free. (there are 3 licensing options for this).  Link to Power BI B2B docs: https://docs.microsoft.com/en-us/power-bi/admin/service-admin-azure-ad-b2b  Link to publish to web limitations:",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-share-power-bi-reports-and-apps-with-external-guests-for-free-azure-b2b/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-share-power-bi-reports-and-apps-with-external-guests-for-free-azure-b2b/",
-      "originalUrl": "https://youtube.com/watch?v=Mm-902ry-qU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mm-902ry-qU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M16S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-05-27T01:10:24-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Mm-902ry-qU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-the-best-way-to-combine-files-in-power-bi-so-you-dont-lose-columns.md",
-      "title": "The BEST way to combine files in Power BI so you don’t lose columns",
+      "path": "_learning/videos/curbal-the-best-way-to-combine-files-in-power-bi-so-you-dont-lose-columns-part-2.md",
+      "title": "The BEST way to combine files in Power BI so you don’t lose columns - Part 2",
       "excerpt": "In a previous video ( https://www.youtube.com/watch?v=UY3hIV-THcg ) , I showed you how to combine files without losing columns and you had a ton of questions that I will address in this video:  How to promote headers inside a table How that will prevent columns from combining the wrong way How to add",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-the-best-way-to-combine-files-in-power-bi-so-you-dont-lose-columns/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-the-best-way-to-combine-files-in-power-bi-so-you-dont-lose-columns/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-the-best-way-to-combine-files-in-power-bi-so-you-dont-lose-columns-part-2/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-the-best-way-to-combine-files-in-power-bi-so-you-dont-lose-columns-part-2/",
       "originalUrl": "https://youtube.com/watch?v=hJF2dPfIeaM",
       "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hJF2dPfIeaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
       "length": "PT6M26S",
@@ -659,14 +1146,14 @@
       ]
     },
     {
-      "path": "_learning/videos/curbal-transpose-pivot-or-unpivot-in-power-query.md",
-      "title": "Transpose, pivot or unpivot in Power Query?",
-      "excerpt": "In todays video I am going to show you what Transpose, pivot and unpivot is and examples on when to use each or all at once!  If you want to learn how to import multiple files efficiently using Power Query, check this video: https://www.youtube.com/watch?v=qdcAoZU8B8Q  The file is avialable in the community",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-transpose-pivot-or-unpivot-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-transpose-pivot-or-unpivot-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=hGj2axffxHo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hGj2axffxHo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M13S",
+      "path": "_learning/videos/curbal-the-best-way-to-combine-files-in-power-bi-so-you-dont-lose-columns.md",
+      "title": "The BEST way to combine files in Power BI so you don’t lose columns",
+      "excerpt": "In a previous video ( https://www.youtube.com/watch?v=UY3hIV-THcg ) , I showed you how to combine files without losing columns and you had a ton of questions that I will address in this video:  How to promote headers inside a table How that will prevent columns from combining the wrong way How to add",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-the-best-way-to-combine-files-in-power-bi-so-you-dont-lose-columns/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-the-best-way-to-combine-files-in-power-bi-so-you-dont-lose-columns/",
+      "originalUrl": "https://youtube.com/watch?v=hJF2dPfIeaM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hJF2dPfIeaM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M26S",
       "provider": {
         "name": "Curbal",
         "domain": "curbal.com",
@@ -679,11 +1166,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-01T04:56:57-07:00",
+      "publishedDateTime": "2022-01-21T02:27:39-08:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hGj2axffxHo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/hJF2dPfIeaM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -736,23 +1223,23 @@
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-create-a-comparison-report-in-power-bi.md",
-      "title": "Create a Comparison Report in Power BI",
-      "excerpt": "Sometimes there are situations where we need to compare one category with another and need to create a comparison report in Power BI. Then, how we can build a Power BI report which shows a comparison between categories from the same table? Here, I have explained the entire start to end procedure, for",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-create-a-comparison-report-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-create-a-comparison-report-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=DGRCLcfUHM4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DGRCLcfUHM4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M31S",
+      "path": "_learning/videos/dhruvin-shah-power-apps-visual-for-power-bi-build-live-application-with-power-apps-visual-inside-power-bi.md",
+      "title": "Power Apps Visual for Power BI | Build Live Application with Power Apps Visual inside Power BI",
+      "excerpt": "In this video, we will talk about Power Apps visualization inside the Power BI. We will talk the step by step procedure that you should know about the Power Apps visualization inside the Power BI.  First, we will build a Power BI report with the DirectQuery Mode of SQL Server. We will configure a Gateway",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-power-apps-visual-for-power-bi-build-live-application-with-power-apps-visual-inside-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-power-apps-visual-for-power-bi-build-live-application-with-power-apps-visual-inside-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=ppCwRDV_28o",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ppCwRDV_28o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M56S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2021-03-09T02:14:11-08:00",
+      "publishedDateTime": "2020-04-27T21:50:24-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/DGRCLcfUHM4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/ppCwRDV_28o/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -762,357 +1249,27 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "DAX"
+        "Power BI"
       ]
     },
     {
-      "path": "_learning/videos/dhruvin-shah-develop-power-bi-embedded-solution-using-net-sdk-power-bi-embedded-step-by-step-series-part-7.md",
-      "title": "Develop Power BI Embedded Solution using .NET SDK | Power BI Embedded Step by Step Series | Part 7",
-      "excerpt": "Welcome to Power BI Embedded Step by Step series. Myself Dhruvin Shah. The entire series is dedicated to the Intermediate level of Power BI folks. The series covers step by step guide to embed the Power BI report in any third-party custom application or SaaS application. This is the last video of the",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-develop-power-bi-embedded-solution-using-net-sdk-power-bi-embedded-step-by-step-series-part-7/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-develop-power-bi-embedded-solution-using-net-sdk-power-bi-embedded-step-by-step-series-part-7/",
-      "originalUrl": "https://youtube.com/watch?v=kPHjFyKAB90",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kPHjFyKAB90\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M30S",
+      "path": "_learning/videos/dhruvin-shah-show-multiple-x-axis-value-by-hierarchy-in-power-bi.md",
+      "title": "Show Multiple X Axis Value By Hierarchy in Power BI",
+      "excerpt": "Welcome to Power BI September 2022 Feature Summary. During this video we will learn how we can show multiple X-axis value as hierarchy in Power BI. Most of the time when we use Go to Next Level for multiple X-Axis value, the X-Axis labels are concatenated by category and sub category. Now, with the September",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-show-multiple-x-axis-value-by-hierarchy-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-show-multiple-x-axis-value-by-hierarchy-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=bXqlnNFgilA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bXqlnNFgilA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M25S",
       "provider": {
         "name": "Dhruvin Shah",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2019-03-19T10:12:07-07:00",
+      "publishedDateTime": "2022-09-25T05:47:24-07:00",
       "heat": 54,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/kPHjFyKAB90/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-how-to-call-power-bi-rest-apis-from-power-bi-desktop-register-your-power-bi-application-part-one.md",
-      "title": "How to Call Power BI Rest APIs from Power BI Desktop – Register your Power BI Application – Part One",
-      "excerpt": "During this series, we will explore Rest APIs in Power BI. Sometimes, we need to build the Power BI Admin report by consuming Power BI Admin APIs. During this session, we will learn the same thing.   The first step to call Power BI Rest APIs is to register the Power BI Application in Azure Portal. So,",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-how-to-call-power-bi-rest-apis-from-power-bi-desktop-register-your-power-bi-application-part-one/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-how-to-call-power-bi-rest-apis-from-power-bi-desktop-register-your-power-bi-application-part-one/",
-      "originalUrl": "https://youtube.com/watch?v=fjzmz0BNN_g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fjzmz0BNN_g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M21S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2020-08-10T18:43:04-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/fjzmz0BNN_g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi.md",
-      "title": "Maintain Bar Thickness(Width) in Power BI",
-      "excerpt": "Welcome to one more Short Video of Power BI. In this video, I'm going to explain how you can maintain the thickness of your bar in  Power BI. Most of the time when we add bar chart, column chart, stacked chart in Power BI, the thickness of each bar managed automatically. Sometimes, we need to maintain",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-maintain-bar-thicknesswidth-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=poNpiApNZNs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/poNpiApNZNs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M31S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-06-29T21:08:10-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/poNpiApNZNs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-3-ways-to-try-power-bi.md",
-      "title": "3 ways to try Power BI",
-      "excerpt": "Are you wanting to try Power BI, but not sure where to start? I look at some ways you can get up and running with Power BI quickly. This could be for an individual, or for your organization within Office 365.  LET'S CONNECT!  Guy in a Cube -- https://guyinacube.com -- http://twitter.com/guyinacube --",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-3-ways-to-try-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-3-ways-to-try-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=QiwxT9ndefY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QiwxT9ndefY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M6S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-03-20T08:10:00-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QiwxT9ndefY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "3 ways to try Power BI",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-can-you-refresh-a-single-table-in-power-bi.md",
-      "title": "Can you refresh a single table in Power BI?",
-      "excerpt": "Frustrated that a you can only do a full refresh? Patrick takes it to the next level by showing how you can refresh only a single table in your Power BI dataset. This is a great option for targeted refresh and avoid potential overhead.  Processing Options:  https://docs.microsoft.com/analysis-services/multidimensional-models/processing-options-and-settings-analysis-services?view=asallproducts-allversions",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-can-you-refresh-a-single-table-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-can-you-refresh-a-single-table-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=OYYnoMa-93g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/OYYnoMa-93g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M55S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-08-18T08:00:23-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/OYYnoMa-93g/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-configure-power-bi-aggregations.md",
-      "title": "Configure Power BI Aggregations",
-      "excerpt": "Learn to configure your Power BI Aggregations table to really increase the speed of your DAX queries. This does NOT require Power BI Premium!  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-configure-power-bi-aggregations/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-configure-power-bi-aggregations/",
-      "originalUrl": "https://youtube.com/watch?v=kytYzjTXUHs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/kytYzjTXUHs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M30S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-11T08:00:10-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/kytYzjTXUHs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Configure Power BI Aggregations",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-debugging-a-slow-power-bi-report-with-phil-seamark.md",
-      "title": "Debugging a slow Power BI report with Phil Seamark",
-      "excerpt": "Phil sits down with us to walk through his process in debugging a slow Power BI report. This uses some new features in Power BI Desktop as well as using DAX Studio to get further insights.  Connect with Phil Twitter: https://twitter.com/PhilSeamark Blog: https://dax.tips/   Guy in a Cube courses: https://guyinacu.be/courses",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-debugging-a-slow-power-bi-report-with-phil-seamark/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-debugging-a-slow-power-bi-report-with-phil-seamark/",
-      "originalUrl": "https://youtube.com/watch?v=eABg872TAJU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eABg872TAJU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M1S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-30T03:28:18-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/eABg872TAJU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-digging-into-modern-tooltips-with-power-bi.md",
-      "title": "Digging into Modern Tooltips with Power BI",
-      "excerpt": "Tooltips were updated in a recent Power BI Desktop release. Patrick explores the new modern tooltips to bring you up to speed.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses available to help",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-digging-into-modern-tooltips-with-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-digging-into-modern-tooltips-with-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=aKNVLXSHRNY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/aKNVLXSHRNY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M5S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-06-23T08:00:00-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/aKNVLXSHRNY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-dos-and-dont-with-cascading-slicers-in-power-bi.md",
-      "title": "Do's and Don't with cascading slicers in Power BI",
-      "excerpt": "Trying to get your slicers to filter right in Power BI? Patrick looks at some do's and don'ts with cascading slicers to get you in the right spot.  📢 Become a member: https://guyinacu.be/membership \r \r *******************\r \r Want to take your Power BI skills to the next level? We have training courses",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dos-and-dont-with-cascading-slicers-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dos-and-dont-with-cascading-slicers-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=1yv5srlqgmI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1yv5srlqgmI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M28S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2021-06-09T08:00:02-07:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/1yv5srlqgmI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-dynamically-change-chart-axis-in-power-bi.md",
-      "title": "Dynamically change chart axis in Power BI",
-      "excerpt": "In this video, Patrick builds on a blog post from Scott Senkeresty to dynamically change the axis of your visual within Power BI. This uses a combination of Power Query and DAX.  Chris Cook - @Finalyst89  Scott Senkeresty – @ScottSenkeresty  Dynamically changing chart axis http://tinylizard.com/dynamically-changing-chart-axis/",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-dynamically-change-chart-axis-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-dynamically-change-chart-axis-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=n-OWNaCUU0o",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n-OWNaCUU0o\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-12-13T07:16:19-08:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/n-OWNaCUU0o/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/bXqlnNFgilA/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

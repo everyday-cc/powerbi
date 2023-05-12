@@ -4,126 +4,6 @@
   "page": 89,
   "value": [
     {
-      "path": "_learning/videos/learn-power-bi-power-bi-premium-vs-pro-vs-free-how-to-save-.md",
-      "title": "Power BI Premium vs Pro vs Free + How to save $$$",
-      "excerpt": "Compare Power BI Premium, Pro & Free pricing and help you chose the best option for your team. This is from the perspective of the early adopter/evangelist within their organization.  For more details on Power BI Premium watch: https://youtu.be/QVLK9qvcigs  Please vote to extend the Power BI Pro Trial",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-premium-vs-pro-vs-free-how-to-save-/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-premium-vs-pro-vs-free-how-to-save-/",
-      "originalUrl": "https://youtube.com/watch?v=Nx2JPXk8OTU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Nx2JPXk8OTU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M31S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-06-28T11:01:01-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Nx2JPXk8OTU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-qa-how-to-filter-without-really-filtering-a-tricky-challenge.md",
-      "title": "Power BI Q&A: How to filter without really filtering?! (a tricky challenge)",
-      "excerpt": "Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download In this video I tackle a question sent in by Stef D. from France. I found it more challenging than I expected. Check out my video and add a comment if you come up with a creative way to solve this.  FREE Power BI Step-by-Step Tutorial",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-qa-how-to-filter-without-really-filtering-a-tricky-challenge/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-qa-how-to-filter-without-really-filtering-a-tricky-challenge/",
-      "originalUrl": "https://youtube.com/watch?v=39xlfd1kHlo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/39xlfd1kHlo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M57S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-10-20T05:53:00-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/39xlfd1kHlo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-query-editor-split-text-with-variable-delimiters-qa.md",
-      "title": "Power BI Query Editor: Split Text with Variable Delimiters (Q&A)",
-      "excerpt": "Followup to Mikhail's question in today's Talk Power BI. • Subscribe to join future Live Talk Power BI Sessions https://goo.gl/P79Hcr  FREE Power BI Step-by-Step Tutorial http://www.learnpowerbi.com/bonus 👉 Download Lesson PBIX Files at http://www.learnpowerbi.com/bonus-download ✅ Subscribe to always",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-query-editor-split-text-with-variable-delimiters-qa/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-query-editor-split-text-with-variable-delimiters-qa/",
-      "originalUrl": "https://youtube.com/watch?v=9krfJLv8ENk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/9krfJLv8ENk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M54S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2017-11-03T15:38:05-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/9krfJLv8ENk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-relationships-not-working-how-to-add-missing-values-yourself-part-3.md",
-      "title": "Power BI Relationships Not Working? How to Add Missing Values Yourself 💪 [Part 3]",
-      "excerpt": "Are your Power BI Relationships not working? It can be so frustrating when that happens. In this video we discuss how you can fix Missing or Blank Values when using Power BI Relationship  Part 1 Video: Debug Relationships https://youtu.be/eT2NV2MNaLw  Part 2 Video: Missing and Blank Values https://youtu.be/37kTdyo4OOc",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-relationships-not-working-how-to-add-missing-values-yourself-part-3/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-relationships-not-working-how-to-add-missing-values-yourself-part-3/",
-      "originalUrl": "https://youtube.com/watch?v=LI-mXTtu8PE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LI-mXTtu8PE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M38S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2021-08-25T09:00:10-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/LI-mXTtu8PE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/learn-power-bi-power-bi-relationships-talk-power-bi-live-subscribe-join.md",
       "title": "Power BI Relationships 🔴Talk Power BI LIVE (Subscribe & Join)",
       "excerpt": "✅ Subscribe and click the 🔔 to join me 🔴 LIVE. Discuss the latest in Power BI and ask any Power BI question. 💡 Join the Talk Power BI Insider's Club at http://www.TalkPowerBI.com for special privileges and access  Hello, I am Avi Singh, Microsoft MVP and Power BI Pro! I just love talking about Power",
@@ -276,6 +156,37 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-calculated-column-131.md",
+      "title": "Power BI Tutorial for Beginners: DAX. Calculated Column (1.3.1)",
+      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-calculated-column-131/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-calculated-column-131/",
+      "originalUrl": "https://youtube.com/watch?v=n6GgFAsLXFs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/n6GgFAsLXFs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M31S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-05-07T07:57:09-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/n6GgFAsLXFs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-dax-define-additional-measure-143.md",
       "title": "Power BI Tutorial for Beginners: DAX. Define Additional Measure (1.4.3)",
       "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
@@ -400,6 +311,36 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-get-data-query-editor-continued-113.md",
+      "title": "Power BI Tutorial for Beginners: Get Data. Query Editor Continued... (1.1.3)",
+      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-get-data-query-editor-continued-113/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-get-data-query-editor-continued-113/",
+      "originalUrl": "https://youtube.com/watch?v=G7UI2jI43vw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/G7UI2jI43vw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M51S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-05-08T03:46:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/G7UI2jI43vw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-get-data-self-documenting-awesomeness-114.md",
       "title": "Power BI Tutorial for Beginners: Get Data. Self-Documenting Awesomeness! (1.1.4)",
       "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
@@ -490,6 +431,66 @@
       ]
     },
     {
+      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-relationships-data-and-lookup-tables-121.md",
+      "title": "Power BI Tutorial for Beginners: Relationships. Data and Lookup Tables (1.2.1)",
+      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-relationships-data-and-lookup-tables-121/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-relationships-data-and-lookup-tables-121/",
+      "originalUrl": "https://youtube.com/watch?v=gfOE19x86M0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gfOE19x86M0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M9S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-05-08T03:47:24-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gfOE19x86M0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-relationships-end-of-vlookups-122.md",
+      "title": "Power BI Tutorial for Beginners: Relationships. End of VLOOKUPs! (1.2.2)",
+      "excerpt": "★Access the COMPLETE Power BI Tutorial Playlist here (20+ Videos)★ ☞ https://www.youtube.com/watch?v=1bysg... This Power BI Tutorial for Beginners & Excel Users, walks you through Step-by-Step in creating your first Power BI Dashboard (includes Download Files). This is meant as an introduction to Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-relationships-end-of-vlookups-122/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-tutorial-for-beginners-relationships-end-of-vlookups-122/",
+      "originalUrl": "https://youtube.com/watch?v=vljGbU0rcuc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vljGbU0rcuc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M27S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2017-05-08T03:47:36-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vljGbU0rcuc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/learn-power-bi-power-bi-vs-current-crisis-challenges-opportunities-for-businesses-and-power-bi-professionals.md",
       "title": "Power BI vs. Current Crisis: Challenges & Opportunities for Businesses and Power BI Professionals",
       "excerpt": "Certainly the current crisis has affected businesses all over the world. But how can we reframe the current challenges and focus on opportunities. We would hear from Speakers ➔ Positive examples of what's still working ➔ Clients/Businesses that are still moving forward ➔ What Speakers are doing themselves",
@@ -507,36 +508,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/HkU37TMOpt0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/learn-power-bi-power-bi-vs-tableau-how-to-make-them-work-together.md",
-      "title": "Power BI vs. Tableau: How to make them work together!",
-      "excerpt": "In battle of Power BI vs. Tableau, can we instead make them work together? Find out in the video and let me know if this approach makes sense to you. Also Watch Part 1: Power BI vs Tableau 🔥 5 Factors to Choose a Winner: https://youtu.be/FoqSPCtj7zo Vote for Microsoft Idea: https://goo.gl/LbVHRJ Vote",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-power-bi-vs-tableau-how-to-make-them-work-together/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-power-bi-vs-tableau-how-to-make-them-work-together/",
-      "originalUrl": "https://youtube.com/watch?v=HLRu9N2rGeo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HLRu9N2rGeo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M26S",
-      "provider": {
-        "name": "Learn Power BI",
-        "domain": "learnpowerbi.com"
-      },
-      "publishedDateTime": "2018-06-06T23:47:10-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/HLRu9N2rGeo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -899,6 +870,36 @@
           "url": "https://i.ytimg.com/vi/rxRpXEwASdM/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/learn-power-bi-real-world-power-bi-experience-with-kimberly-marie-realpowerbi-may-23-pre-kickoff.md",
+      "title": "Real World Power BI Experience with Kimberly Marie #RealPowerBI May-23 Pre-Kickoff",
+      "excerpt": "👉 We'll be kicking off the #RealPowerBI experiment tomorrow 10am Pacific in our Learn Power BI Weekly Q&A Call 👉 If you are a paid student in the Learn Power BI program sign up for this adventure here: https://www.surveymonkey.com/r/JCPRXXX 👉Follow me on Facebook http://www.facebook.com/powerbipro",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/learn-power-bi-real-world-power-bi-experience-with-kimberly-marie-realpowerbi-may-23-pre-kickoff/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/learn-power-bi-real-world-power-bi-experience-with-kimberly-marie-realpowerbi-may-23-pre-kickoff/",
+      "originalUrl": "https://youtube.com/watch?v=av5_q7tBe6A",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/av5_q7tBe6A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M4S",
+      "provider": {
+        "name": "Learn Power BI",
+        "domain": "learnpowerbi.com"
+      },
+      "publishedDateTime": "2018-05-23T11:42:53-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/av5_q7tBe6A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],

@@ -4,66 +4,6 @@
   "page": 98,
   "value": [
     {
-      "path": "_learning/videos/radacad-relative-date-slicer-for-your-local-time-zone-in-power-bi.md",
-      "title": "Relative Date Slicer for Your Local Time Zone in Power BI",
-      "excerpt": "If you have used the relative date slicer and you are not living at a timezone close to UTC, then you have seen that the Power BI Date slicer is not much of a use, because you have to still adjust it with your local time zone. I have previously written a couple of articles related to this issue and ways",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-relative-date-slicer-for-your-local-time-zone-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-relative-date-slicer-for-your-local-time-zone-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=lcNIRAh2pg8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lcNIRAh2pg8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M42S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-05-10T23:46:20-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/lcNIRAh2pg8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-report-page-tooltip-revolution-in-visualization-of-power-bi.md",
-      "title": "Report Page Tooltip Revolution in Visualization of Power BI",
-      "excerpt": "Report Page tooltip can be the layer between your mater-detail report design. You can customize the tooltip of your Power BI charts using this feature. Download the dataset and read more about it from here: https://radacad.com/report-page-tooltip-revolution-in-visualization-of-power-bi  Learn more about",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-report-page-tooltip-revolution-in-visualization-of-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-report-page-tooltip-revolution-in-visualization-of-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=6yAl7ZWyEZA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6yAl7ZWyEZA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M10S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2019-09-17T10:38:15-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6yAl7ZWyEZA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-rpowerbi.md",
       "title": "RPowerBI",
       "excerpt": "",
@@ -81,36 +21,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/LZgxOaO-pPA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-say-no-to-export-data-yes-to-analyze-in-excel-power-bi-and-excel-can-talk.md",
-      "title": "Say No to Export Data, Yes to Analyze in Excel   Power BI and Excel Can Talk",
-      "excerpt": "Despite the fact that I have explained about the Analyze in Excel feature in Power BI before, still, I hear and see many users are using the Export data option in Power BI much more. In this video, I am explaining what is the difference and why it is better to use Analyze in Excel rather than exporting",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-say-no-to-export-data-yes-to-analyze-in-excel-power-bi-and-excel-can-talk/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-say-no-to-export-data-yes-to-analyze-in-excel-power-bi-and-excel-can-talk/",
-      "originalUrl": "https://youtube.com/watch?v=TfTmzRMqjz0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TfTmzRMqjz0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M2S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-01-30T15:04:35-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TfTmzRMqjz0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -234,6 +144,36 @@
           "url": "https://i.ytimg.com/vi/ORxgSciSC5M/hqdefault.jpg",
           "width": 480,
           "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-share-different-visual-pages-with-different-security-groups-in-power-bi.md",
+      "title": "Share Different Visual Pages with Different Security Groups in Power BI",
+      "excerpt": "I have written a dozen of blogs and a book about Power BI row-level security and the security on the dataset. However, I always get this question that: \"What if I want some people to see only a few pages of my report, and some others to see other pages?\" or \"How can I put security for different pages",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-share-different-visual-pages-with-different-security-groups-in-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-share-different-visual-pages-with-different-security-groups-in-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=Iy1ZjToy-B8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Iy1ZjToy-B8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT10M28S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-01-15T19:13:46-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Iy1ZjToy-B8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -456,37 +396,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-stop-dax-cumulative-total-calculation-in-power-bi.md",
-      "title": "Stop DAX Cumulative Total Calculation in Power BI",
-      "excerpt": "Did it happen to you that you have calculated a cumulative total (such as running total, or year to date, etc) either using the quick measures or by writing the DAX expression yourself, and then realizing that the calculation happens even for the periods without any real data? For example, you want to",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-stop-dax-cumulative-total-calculation-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-stop-dax-cumulative-total-calculation-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=N14CNliJqKM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N14CNliJqKM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M13S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-09-02T15:28:07-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/N14CNliJqKM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-streamline-power-bi-refresh-refresh-dataset-after-a-successful-refresh-of-dataflow.md",
       "title": "Streamline Power BI Refresh   Refresh dataset after a successful refresh of dataflow",
       "excerpt": "Do you have a Power BI dataset that gets data from a dataflow? have you ever thought; “can I get the dataset refreshed only after the refresh of dataflow completed and was successful?” The answer to this question is yes, you can. One of the recent updates from the data integration team of Power BI made",
@@ -534,37 +443,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/Xf9BDd3llpI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "DAX"
-      ]
-    },
-    {
-      "path": "_learning/videos/radacad-substring-in-dax-how-to-get-part-of-string-field-in-power-bi-using-dax-expression.md",
-      "title": "Substring in DAX   How to get Part of String Field in Power BI Using DAX Expression",
-      "excerpt": "Substring is one of the most common functions in many languages, However, there is no such function in DAX. There is a very simple way of doing it, which I am going to explain in this post. Substring means getting part of a string, for example from \"Reza Rad\", if I want to get the start starting from",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-substring-in-dax-how-to-get-part-of-string-field-in-power-bi-using-dax-expression/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-substring-in-dax-how-to-get-part-of-string-field-in-power-bi-using-dax-expression/",
-      "originalUrl": "https://youtube.com/watch?v=WEelCk04dYw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WEelCk04dYw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M54S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-04-05T14:52:25-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/WEelCk04dYw/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -699,6 +577,36 @@
       ]
     },
     {
+      "path": "_learning/videos/radacad-top-five-mistakes-to-avoid-when-developing-power-bi-reports.md",
+      "title": "Top Five Mistakes to Avoid When Developing Power BI Reports",
+      "excerpt": "Because Power BI is an easy-to-start platform and you don't need an extensive learning curve to get started with Power BI Desktop, we often see some bad practices in the implementation of Power BI reports. In this article and video, I explained the top five mistakes that I see happen a lot in building",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-top-five-mistakes-to-avoid-when-developing-power-bi-reports/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-top-five-mistakes-to-avoid-when-developing-power-bi-reports/",
+      "originalUrl": "https://youtube.com/watch?v=vDs8mUAVNPk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vDs8mUAVNPk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M59S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2022-05-03T12:50:44-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/vDs8mUAVNPk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
       "path": "_learning/videos/radacad-top-five-myth-and-misconceptions-about-power-bi.md",
       "title": "Top Five Myth and Misconceptions about Power BI",
       "excerpt": "Like many other services and tools in the market, when a product passes certain popularity, normally we see some rumors and myths and misconceptions about it spreading around. Power BI also has that kind of myth and misconceptions. In this video, I’ll uncover five of the most common myth and misconceptions",
@@ -820,36 +728,6 @@
       ]
     },
     {
-      "path": "_learning/videos/radacad-what-do-you-need-to-implement-dynamic-row-level-security-in-power-bi.md",
-      "title": "What Do You Need to Implement Dynamic Row Level Security in Power BI",
-      "excerpt": "I have explained in some videos about the RLS topic already. Through my consulting experience, however, I get the feeling that many people can’t easily move from static RLS to dynamic. If you know what are things you need to have the dynamic RLS implemented, it makes the whole process simple. So this",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-do-you-need-to-implement-dynamic-row-level-security-in-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-do-you-need-to-implement-dynamic-row-level-security-in-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=l6hR2Me6Ang",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/l6hR2Me6Ang\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M55S",
-      "provider": {
-        "name": "RADACAD",
-        "domain": "radacad.com"
-      },
-      "publishedDateTime": "2020-06-18T17:07:06-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/l6hR2Me6Ang/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
       "path": "_learning/videos/radacad-what-happens-to-your-job-with-the-revolution-of-power-bi-and-self-service-bi.md",
       "title": "What Happens to Your Job With the Revolution of Power BI and Self Service BI",
       "excerpt": "The job function, market, structure, and role definition in the world of Business Intelligence had big changes throughout the past few years. The big change from traditional BI to self-service BI is not just about tools, but also about roles, and jobs, and organizational structure. In this video, I am",
@@ -907,6 +785,128 @@
       "price": "Free",
       "topics": [
         "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-what-should-be-your-salary-in-2020-if-you-work-with-power-bi.md",
+      "title": "What should be your Salary in 2020 if you work with Power BI",
+      "excerpt": "The Power BI 2020 Salary survey was popular enough to get some interesting results. In this post, I am sharing the result of that survey (which is filled by the public) as a Power BI report. The report gives you an overall idea of how much the minimum, maximum, and average salary should be based on geo-location",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-should-be-your-salary-in-2020-if-you-work-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-should-be-your-salary-in-2020-if-you-work-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=B_Bq2SjNkSE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/B_Bq2SjNkSE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M20S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-01-01T20:48:38-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/B_Bq2SjNkSE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-what-should-be-your-salary-in-2021-if-you-work-with-power-bi.md",
+      "title": "What should be your Salary in 2021 if you work with Power BI",
+      "excerpt": "The Power BI 2021 Salary survey was popular enough to get some interesting results. In this post, I am sharing the result of that survey (which is filled by the public) as a Power BI report. The report gives you an overall idea of how much the minimum, maximum, and average salary should be based on geo-location",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-what-should-be-your-salary-in-2021-if-you-work-with-power-bi/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-what-should-be-your-salary-in-2021-if-you-work-with-power-bi/",
+      "originalUrl": "https://youtube.com/watch?v=xQ_rZxAROjk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/xQ_rZxAROjk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M53S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-01-11T10:15:26-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xQ_rZxAROjk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-working-with-records-lists-and-values-in-power-bi-dataflows.md",
+      "title": "Working with Records, Lists, and Values in Power BI Dataflows",
+      "excerpt": "If you have been using dataflows, and you have the return value of a query as something which is not in the form of a table, such as a record, list, or value. then you have seen that the dataflow automatically converts them all to tables. There is an explanation about it, and a method around it. In this",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-working-with-records-lists-and-values-in-power-bi-dataflows/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-working-with-records-lists-and-values-in-power-bi-dataflows/",
+      "originalUrl": "https://youtube.com/watch?v=M7dkx6uW4u4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/M7dkx6uW4u4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M56S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2020-05-26T23:20:38-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/M7dkx6uW4u4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Dataflows"
+      ]
+    },
+    {
+      "path": "_learning/videos/radacad-writing-calculations-on-a-real-time-streaming-power-bi-dataset-using-dax-measures.md",
+      "title": "Writing calculations on a real time streaming Power BI dataset using DAX measures",
+      "excerpt": "In the previous article and video, I explained a method that you can use to have real-time calculations in a Power BI streaming dataset. The calculations done that way are limited though because it is using the Q&A feature of Power BI. If you are after a complex calculation then DAX can definitely help.",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/radacad-writing-calculations-on-a-real-time-streaming-power-bi-dataset-using-dax-measures/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/radacad-writing-calculations-on-a-real-time-streaming-power-bi-dataset-using-dax-measures/",
+      "originalUrl": "https://youtube.com/watch?v=wZFOanDjTB4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wZFOanDjTB4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M13S",
+      "provider": {
+        "name": "RADACAD",
+        "domain": "radacad.com"
+      },
+      "publishedDateTime": "2021-01-14T13:27:08-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/wZFOanDjTB4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "DAX"
       ]
     }
   ],

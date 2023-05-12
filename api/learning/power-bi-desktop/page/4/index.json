@@ -4,124 +4,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_learning/videos/curbal-import-website-data-into-power-bi-desktop-part-4-power-query-challenge.md",
-      "title": "Import website data into Power BI Desktop- Part 4: Power Query Challenge",
-      "excerpt": "It is time for Power Query Challenge Part Three made by Emin Uzun.  What is this Power Query Challenge? https://www.youtube.com/watch?v=_R1rSdXkVDw  Source files: https://github.com/ruthpozuelo/PQChallenge  Part 1: https://www.youtube.com/watch?v=_LcT5sLwmiw Part 2: https://www.youtube.com/watch?v=6Yj09khxr4Q",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-import-website-data-into-power-bi-desktop-part-4-power-query-challenge/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-import-website-data-into-power-bi-desktop-part-4-power-query-challenge/",
-      "originalUrl": "https://youtube.com/watch?v=dXtCg3TeUdM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dXtCg3TeUdM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M22S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2017-11-06T10:06:14-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/dXtCg3TeUdM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power Query",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-powerapps-in-power-bi-desktop-short-demo.md",
-      "title": "PowerApps in Power BI Desktop short demo",
-      "excerpt": "Looking for a download file? Go to our Download Center: https://curbal.com/donwload-center  SUBSCRIBE to learn more about Power and Excel BI! https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw?sub_confirmation=1  Our PLAYLISTS: - Join our DAX Fridays! Series: https://goo.gl/FtUWUX - Power BI dashboards",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-powerapps-in-power-bi-desktop-short-demo/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-powerapps-in-power-bi-desktop-short-demo/",
-      "originalUrl": "https://youtube.com/watch?v=wDzTIoOJZTo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wDzTIoOJZTo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M42S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-08T08:59:07-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/wDzTIoOJZTo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/curbal-predict-youtube-subscribers-with-power-bi-desktop-part-1.md",
-      "title": "Predict YouTube Subscribers with Power BI Desktop (Part 1)",
-      "excerpt": "In today's video we will try to predict when I will reach 10.000 subscribers in the channel.   I am going to take my crystal ball out for a spin and predict when this channel will get 10,000 subscribers! This is a series of two videos: I part one I will do the prediction manually (This video) and in",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-predict-youtube-subscribers-with-power-bi-desktop-part-1/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-predict-youtube-subscribers-with-power-bi-desktop-part-1/",
-      "originalUrl": "https://youtube.com/watch?v=-0yLiQZu0eM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-0yLiQZu0eM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M38S",
-      "provider": {
-        "name": "Curbal",
-        "domain": "curbal.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-04-12T12:14:22-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-0yLiQZu0eM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
       "path": "_learning/videos/curbal-review-power-query-with-query-diagnostics-tool-power-bi-desktop-update-october-2019.md",
       "title": "Review Power Query with Query Diagnostics tool - Power BI Desktop update October 2019",
       "excerpt": "Powerweek is back!!! and in today's video I will review the Power BI desktop update feature released in october 2019 called Query diagnostics. I will tell you what I like about it and what needs to be improved imo.  Link to MS documentation: https://docs.microsoft.com/en-us/power-query/querydiagnostics",
@@ -237,6 +119,46 @@
       "topics": [
         "Power BI",
         "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/curbal-scrape-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks.md",
+      "title": "Scrape data from multiple pages on a website with Power BI Desktop - Power BI Tips & Tricks",
+      "excerpt": "Have you come across a website that has data you need but it is presented in multiple pages? Downloading page by page can be frustrating and time consuming. In this short video, I will show you how to iterate multiple pages on a website to import the data using Power BI.  LINK to NFL site: http://www.nfl.com/stats/categorystats?tabSeq=2&offensiveStatisticCategory=TEAM_PASSING&conference=ALL&role=TM&season=2015&seasonType=REG",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-scrape-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-scrape-data-from-multiple-pages-on-a-website-with-power-bi-desktop-power-bi-tips-tricks/",
+      "originalUrl": "https://youtube.com/watch?v=6PZSZ53iSos",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6PZSZ53iSos\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M15S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2016-03-17T03:40:26-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/6PZSZ53iSos/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop",
+        "Power Query"
       ]
     },
     {
@@ -429,6 +351,37 @@
       ]
     },
     {
+      "path": "_learning/videos/dhruvin-shah-automatic-page-refresh-apr-in-the-power-bi-desktop-with-sql-server-directquery-mode.md",
+      "title": "Automatic Page Refresh (APR) in the Power BI Desktop with SQL Server DirectQuery Mode",
+      "excerpt": "In this session, we will discuss the new rolled out feature in the Power BI October 2019 update. Make sure before you proceed further, you have the latest version of the Power BI Desktop installed in your machine. Automatic Page Refresh (APR) is a feature which allows us set refresh interval in our Power",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-automatic-page-refresh-apr-in-the-power-bi-desktop-with-sql-server-directquery-mode/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-automatic-page-refresh-apr-in-the-power-bi-desktop-with-sql-server-directquery-mode/",
+      "originalUrl": "https://youtube.com/watch?v=MhK-I2Xksaw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MhK-I2Xksaw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M3S",
+      "provider": {
+        "name": "Dhruvin Shah",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2020-03-25T04:50:52-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/MhK-I2Xksaw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/videos/dhruvin-shah-copy-data-from-power-bi-desktop-dataset-to-ms-excel.md",
       "title": "Copy Data from Power BI Desktop Dataset to MS Excel",
       "excerpt": "In this video we will learn how we can Copy/Import data from Power BI dataset to MS Excel. This is the most common questions arise, when we wish to copy entire Power BI Dataset model to Excel. Normal Copy table and Paste table will not suite best feasible for large set of data. At that time we need to",
@@ -539,37 +492,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/VoEThA60Nq8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "Power BI",
-        "Power BI Desktop"
-      ]
-    },
-    {
-      "path": "_learning/videos/dhruvin-shah-introducing-new-format-pane-in-power-bi-desktop.md",
-      "title": "Introducing New Format Pane in Power BI Desktop",
-      "excerpt": "During this video, we will talk about the new format pane in Power BI Desktop. Now we have consistent and easier formatting experience for our Power BI report. During this video, I will demonstrate all-new enhancements that has been rolled out as New format pane preview. We will also compare the new",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/dhruvin-shah-introducing-new-format-pane-in-power-bi-desktop/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/dhruvin-shah-introducing-new-format-pane-in-power-bi-desktop/",
-      "originalUrl": "https://youtube.com/watch?v=6mmkyaboZ_E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/6mmkyaboZ_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M24S",
-      "provider": {
-        "name": "Dhruvin Shah",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2021-11-30T03:28:12-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/6mmkyaboZ_E/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -910,6 +832,45 @@
       ]
     },
     {
+      "path": "_learning/videos/guy-in-a-cube-5-things-you-didnt-know-about-power-bi-desktop.md",
+      "title": "5 things you didn't know about Power BI Desktop",
+      "excerpt": "Patrick shows you 5 things you didn't know about Power BI Desktop. Some potentially hidden things that may not be obvious and will help you out when creating Power BI reports within Power BI Desktop.  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton --",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-5-things-you-didnt-know-about-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-5-things-you-didnt-know-about-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=82ddX3BuGng",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/82ddX3BuGng\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M1S",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-03-13T14:10:40-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/82ddX3BuGng/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
       "path": "_learning/videos/guy-in-a-cube-6-things-to-get-a-little-more-out-of-your-power-bi-desktop-machine.md",
       "title": "6 things to get a little more out of your Power BI Desktop machine",
       "excerpt": "Machine running slow with Power BI Desktop? One of these 6 things may help you out.  Download PDF: https://guyinacu.be/6perftipspdf  📢 Become a member: https://guyinacu.be/membership   *******************  Want to take your Power BI skills to the next level? We have training courses available to help",
@@ -1052,6 +1013,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/KGOii6_IrNI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power BI Desktop"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-column-profiling-in-power-bi-desktop.md",
+      "title": "Column Profiling in Power BI Desktop",
+      "excerpt": "Adam walks through column profiling within the Power BI Desktop. This includes the latest updates with the general availability (GA) within the April 2019 Power BI Desktop release.  Demo files: https://guyinacu.be/demofiles  ******** LET'S CONNECT! ********  -- http://twitter.com/guyinacube -- http://twitter.com/awsaxton",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-column-profiling-in-power-bi-desktop/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-column-profiling-in-power-bi-desktop/",
+      "originalUrl": "https://youtube.com/watch?v=WN1cvJGutT8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WN1cvJGutT8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M",
+      "provider": {
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-05-07T13:53:07-07:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/WN1cvJGutT8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true

@@ -11,8 +11,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 19658,
-        "average": 4.7533827
+        "count": 19659,
+        "average": 4.7533956
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -53,8 +53,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
       "length": "PT1H9M",
       "ratings": {
-        "count": 11832,
-        "average": 4.681119
+        "count": 11836,
+        "average": 4.681058
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -87,8 +87,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 88155,
-        "average": 4.7778797
+        "count": 88164,
+        "average": 4.7778687
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -105,7 +105,7 @@
       "levels": [
         "Beginner"
       ],
-      "heat": 141,
+      "heat": 138,
       "images": [
         {
           "url": "https://learn.microsoft.com/training/achievements/get-started-power-bi-social.png",

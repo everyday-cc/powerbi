@@ -7,7 +7,7 @@ type: video
 price: Free
 length: PT18M14S
 publishedDateTime: 2021-01-14T11:00:16Z
-heat: 52
+heat: 51
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hqs0lJJq1YA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -29,6 +29,6 @@ images:
     height: 720
     isCached: true
 
-secured: "f9abq/h0UBFRIqb/2CKkINqtUTF6mcrkmgMLA/4vg6pGODRAQ1rut8/YkLfaTheFM93lXN4zqWDyLVBqQSwe2K+z+PG0q0dmvQ6vCCHFU6rYcsI/DNHY0ZTgY4ovUvaFdvozM4Y48p9cU8Ai6bkIVXM7S2o84nVKquZiMk6uEdWWpKNG9ENOaKlCGUn8tw/Cui3ipJzYt/qSs6FNSzPhOcrXa/Dl+iWLwktyEQMtGJncLUz0bxJoSc6ZnTusG8gNeqP73OB4i6PxiaYwSDQoJRkCBQlndBnLHFpvzZOBrsKkpAskGuB5se3+7Pzf5h6exsb7YxMyKCu0S7KYkikKdrsuHkp0iSVgss/UfI5ElE6M74hZAUoo+nqKKCCI4qLYZV3p5MXPCSEL66Qt/0e9vll3YV//NPNW/ZtV5NTj+K0=;sz7ruVpmOo0E5eQU2rveXw=="
+secured: "MfI0OEQl3RoNvC0kCFsiIsuko+IaL5zkrP3BNRD2KUQD6mmS5YCxlU4plPxZks7GvsEyru/w8dmhg/VTok+ICvSz+9ffqyxgZ/MGC0cgGQVCqCr0UZe0vArMbVKwoDbOPIVNG8LUS/bsRih0CpxS7KjG7OF94AeZN45rxtc9dpT5GBFwWFdJ2KUS9WYaCRiSWekOubfzbEiuHYBw/pEvgNtC4PCGvpS/0fEWIAYKz1LvBSUTfJaOKkY3LZlfx6tcNpJJUF8sHKV3EBR5qgQJ2MA7fpfz57NRe2esgjLkSZAC1uNUTY237EGpFMHshMiV9BSnHxntu7UdsVFUCpUMgGloFzT47u6Gb6SqT8aSY3lsG792tbPAy+GgsVG9Nc9y49sYD4SRI5VX37Wz0RjWkZo5mukJuv0doFe+CB+9ezQ=;iWHFq8QY5d6/n3yiD0tkig=="
 ---
 
