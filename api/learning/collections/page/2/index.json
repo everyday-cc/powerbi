@@ -4524,8 +4524,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/",
           "length": "PT1H4M",
           "ratings": {
-            "count": 6953,
-            "average": 4.727168
+            "count": 6954,
+            "average": 4.727207
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -4649,8 +4649,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2699,
-            "average": 4.726936
+            "count": 2701,
+            "average": 4.7263975
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5136,8 +5136,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 763,
-            "average": 4.764089
+            "count": 764,
+            "average": 4.764398
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -5303,8 +5303,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11829,
-            "average": 4.681038
+            "count": 11830,
+            "average": 4.681065
           },
           "provider": {
             "name": "Microsoft Learn",
