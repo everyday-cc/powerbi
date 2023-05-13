@@ -2496,8 +2496,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-time-intelligence/",
           "length": "PT19M",
           "ratings": {
-            "count": 1454,
-            "average": 4.7469053
+            "count": 1455,
+            "average": 4.747079
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -2683,7 +2683,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",
@@ -2893,7 +2893,7 @@
           "levels": [
             "Beginner"
           ],
-          "heat": 130,
+          "heat": 50,
           "images": [
             {
               "url": "https://learn.microsoft.com/training/achievements/modern-analytics-intro-social.png",

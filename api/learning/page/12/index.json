@@ -755,8 +755,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
           "length": "PT1H1M",
           "ratings": {
-            "count": 6002,
-            "average": 4.7145953
+            "count": 6003,
+            "average": 4.7146425
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -838,8 +838,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-azure-data-services-for-modern-analytics/",
           "length": "PT18M",
           "ratings": {
-            "count": 768,
-            "average": 4.7643228
+            "count": 769,
+            "average": 4.7646294
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1149,8 +1149,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/ai-visuals-power-bi/",
       "length": "PT1H1M",
       "ratings": {
-        "count": 6002,
-        "average": 4.7145953
+        "count": 6003,
+        "average": 4.7146425
       },
       "provider": {
         "name": "Microsoft Learn",
