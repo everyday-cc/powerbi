@@ -256,14 +256,53 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-setup-a-reverse-hybrid-table-without-using-tabular-editor-for-power-bi.md",
-      "title": "Setup a Reverse Hybrid Table without using Tabular Editor for Power BI!",
-      "excerpt": "Hybrid Tables can be very useful for mixing archived data with current data. Pat Mahoney joins Patrick to show how to configure a Hybrid Table within a Power BI dataset without using Tabular Editor. Just some straight \"M\"agic.  Hybrid Table Documentation: https://learn.microsoft.com/power-bi/connect-data/service-dataset-modes-understand#hybrid-tables",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-setup-a-reverse-hybrid-table-without-using-tabular-editor-for-power-bi/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-setup-a-reverse-hybrid-table-without-using-tabular-editor-for-power-bi/",
-      "originalUrl": "https://youtube.com/watch?v=Hpx52kOodPc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hpx52kOodPc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M53S",
+      "path": "_learning/videos/curbal-convert-html-to-to-formatted-text-in-power-query.md",
+      "title": "Convert HTML to to **formatted** text in Power Query",
+      "excerpt": "Let me show you how to convert html on a power query column into formatted text.  Join this channel membership to get access to all the recorded bites as they become available: https://www.youtube.com/channel/UCJ7UhloHSA4wAqPzyi6TOkw/join  Here you can download all the pbix files: https://curbal.com/donwload-center",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/curbal-convert-html-to-to-formatted-text-in-power-query/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/curbal-convert-html-to-to-formatted-text-in-power-query/",
+      "originalUrl": "https://youtube.com/watch?v=sPqQuKbyDwM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sPqQuKbyDwM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M18S",
+      "provider": {
+        "name": "Curbal",
+        "domain": "curbal.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/curbal.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2023-03-10T07:15:58-08:00",
+      "heat": 133,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sPqQuKbyDwM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "Power BI",
+        "Power Query"
+      ]
+    },
+    {
+      "path": "_learning/videos/guy-in-a-cube-publishmigrate-your-rdl-files-from-power-bi-report-server-to-the-service.md",
+      "title": "Publish/Migrate your RDL files from Power BI Report Server to the service",
+      "excerpt": "Using on-premises Power BI Report Server? You can now migrate your paginated RDL reports to the Power BI service from within the portal. Patrick shows you how!  Plan to migrate .rdl reports to Power BI https://learn.microsoft.com/power-bi/guidance/migrate-ssrs-reports-to-power-bi  Blog Announcement:",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-publishmigrate-your-rdl-files-from-power-bi-report-server-to-the-service/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-publishmigrate-your-rdl-files-from-power-bi-report-server-to-the-service/",
+      "originalUrl": "https://youtube.com/watch?v=58rLq8MF2mc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/58rLq8MF2mc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M52S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -276,11 +315,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-04-05T08:00:09-07:00",
+      "publishedDateTime": "2023-02-15T08:00:06-08:00",
       "heat": 133,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Hpx52kOodPc/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/58rLq8MF2mc/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -294,14 +333,14 @@
       ]
     },
     {
-      "path": "_learning/videos/guy-in-a-cube-visually-see-where-you-broke-the-fold-in-power-query.md",
-      "title": "Visually see where you BROKE the fold in Power Query",
-      "excerpt": "Rule #1 - DON'T BREAK THE FOLD! There is an amazing feature that lets you see where this fold was broken, and I'm guessing you didn't even know it was there!  Adam shows you where to go.  Query plan for Power Query (Preview) https://learn.microsoft.com/power-query/query-plan  📢 Become a member: https://guyinacu.be/membership",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-visually-see-where-you-broke-the-fold-in-power-query/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-visually-see-where-you-broke-the-fold-in-power-query/",
-      "originalUrl": "https://youtube.com/watch?v=twgsMDuwOuo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/twgsMDuwOuo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M36S",
+      "path": "_learning/videos/guy-in-a-cube-use-azure-sql-managed-instance-link-to-have-a-read-replica-in-the-cloud.md",
+      "title": "Use Azure SQL Managed Instance Link to have a Read Replica in the cloud!",
+      "excerpt": "Want to leverage the power of the cloud with your on-prem SQL Server? Azure SQL Managed Instance may be the answer for you! Dani joins us to talk about why MI Link can help bridge the two.  Azure SQL Managed Instance https://learn.microsoft.com/azure/azure-sql/managed-instance/sql-managed-instance-paas-overview?view=azuresql",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-use-azure-sql-managed-instance-link-to-have-a-read-replica-in-the-cloud/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-use-azure-sql-managed-instance-link-to-have-a-read-replica-in-the-cloud/",
+      "originalUrl": "https://youtube.com/watch?v=Ks4ekJeKjZY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ks4ekJeKjZY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M7S",
       "provider": {
         "name": "Guy in a Cube",
         "domain": "guyinacube.com",
@@ -314,11 +353,11 @@
           }
         ]
       },
-      "publishedDateTime": "2023-03-23T08:00:39-07:00",
-      "heat": 131,
+      "publishedDateTime": "2023-04-11T08:00:21-07:00",
+      "heat": 132,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/twgsMDuwOuo/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/Ks4ekJeKjZY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -328,8 +367,7 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI",
-        "Power Query"
+        "Power BI"
       ]
     },
     {
@@ -363,8 +401,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 62329,
-            "average": 4.7958894
+            "count": 62332,
+            "average": 4.7958994
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -405,8 +443,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 88260,
-            "average": 4.777872
+            "count": 88269,
+            "average": 4.7778835
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -465,8 +503,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 88260,
-        "average": 4.777872
+        "count": 88269,
+        "average": 4.7778835
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -494,44 +532,6 @@
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free",
-      "topics": [
-        "Power BI"
-      ]
-    },
-    {
-      "path": "_learning/videos/guy-in-a-cube-checking-out-the-window-clause-in-azure-sql-and-sql-server-2022.md",
-      "title": "Checking out the Window Clause in Azure SQL and SQL Server 2022",
-      "excerpt": "Partitioning is nice in SQL, but how about using the WINDOW clause to make it more efficient? Patrick looks at how to use this function with Azure SQL and SQL Server 2022!  SELECT - WINDOW - (Transact-SQL) https://learn.microsoft.com/sql/t-sql/queries/select-window-transact-sql?view=sql-server-ver16",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-checking-out-the-window-clause-in-azure-sql-and-sql-server-2022/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-checking-out-the-window-clause-in-azure-sql-and-sql-server-2022/",
-      "originalUrl": "https://youtube.com/watch?v=KrsNwegpqlk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/KrsNwegpqlk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M3S",
-      "provider": {
-        "name": "Guy in a Cube",
-        "domain": "guyinacube.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2023-02-21T08:00:09-08:00",
-      "heat": 130,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/KrsNwegpqlk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
       "price": "Free",
       "topics": [
         "Power BI"
@@ -810,8 +810,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 62329,
-        "average": 4.7958894
+        "count": 62332,
+        "average": 4.7958994
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1022,8 +1022,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 19721,
-            "average": 4.753461
+            "count": 19726,
+            "average": 4.7535233
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1098,8 +1098,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 88260,
-            "average": 4.777872
+            "count": 88269,
+            "average": 4.7778835
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1158,8 +1158,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 19721,
-        "average": 4.753461
+        "count": 19726,
+        "average": 4.7535233
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1430,8 +1430,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-platform/",
       "length": "PT36M",
       "ratings": {
-        "count": 28572,
-        "average": 4.721616
+        "count": 28578,
+        "average": 4.7215343
       },
       "provider": {
         "name": "Microsoft Learn",
