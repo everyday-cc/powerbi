@@ -237,8 +237,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-fundamentals-data-visualization/",
       "length": "PT38M",
       "ratings": {
-        "count": 7274,
-        "average": 4.75598
+        "count": 7277,
+        "average": 4.7560806
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -814,8 +814,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 10908,
-            "average": 4.7442245
+            "count": 10909,
+            "average": 4.744248
           },
           "provider": {
             "name": "Microsoft Learn",
