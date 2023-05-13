@@ -909,8 +909,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2702,
-            "average": 4.7261286
+            "count": 2703,
+            "average": 4.72623
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -993,8 +993,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
           "length": "PT1H44M",
           "ratings": {
-            "count": 6445,
-            "average": 4.698371
+            "count": 6446,
+            "average": 4.6984177
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1095,8 +1095,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-driven-story-power-bi/",
       "length": "PT1H44M",
       "ratings": {
-        "count": 6445,
-        "average": 4.698371
+        "count": 6446,
+        "average": 4.6984177
       },
       "provider": {
         "name": "Microsoft Learn",

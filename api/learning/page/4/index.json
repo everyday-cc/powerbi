@@ -941,8 +941,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-effective-requirements/",
           "length": "PT34M",
           "ratings": {
-            "count": 2702,
-            "average": 4.7261286
+            "count": 2703,
+            "average": 4.72623
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1275,8 +1275,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
           "length": "PT1H23M",
           "ratings": {
-            "count": 10911,
-            "average": 4.7442946
+            "count": 10913,
+            "average": 4.74425
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1317,8 +1317,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
           "length": "PT2H40M",
           "ratings": {
-            "count": 8840,
-            "average": 4.710973
+            "count": 8841,
+            "average": 4.710892
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1636,8 +1636,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-measures-dax-power-bi/",
       "length": "PT2H40M",
       "ratings": {
-        "count": 8840,
-        "average": 4.710973
+        "count": 8841,
+        "average": 4.710892
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1679,8 +1679,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/",
       "length": "PT1H23M",
       "ratings": {
-        "count": 10911,
-        "average": 4.7442946
+        "count": 10913,
+        "average": 4.74425
       },
       "provider": {
         "name": "Microsoft Learn",
