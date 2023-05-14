@@ -881,8 +881,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11852,
-            "average": 4.6810665
+            "count": 11853,
+            "average": 4.681093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1101,8 +1101,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/",
       "length": "PT1H8M",
       "ratings": {
-        "count": 3148,
-        "average": 4.6797967
+        "count": 3149,
+        "average": 4.6798983
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1143,8 +1143,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
       "length": "PT15M",
       "ratings": {
-        "count": 3423,
-        "average": 4.72305
+        "count": 3424,
+        "average": 4.7231307
       },
       "provider": {
         "name": "Microsoft Learn",

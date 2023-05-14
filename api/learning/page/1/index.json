@@ -139,7 +139,7 @@
         ]
       },
       "publishedDateTime": "2023-05-09T03:00:19-07:00",
-      "heat": 162,
+      "heat": 161,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/dUoiyTMZYaE/maxresdefault.jpg",
@@ -226,45 +226,42 @@
       ]
     },
     {
-      "path": "_learning/courses/microsoft-learn-power-bi-tableau-intro.md",
-      "title": "Introduction to Power BI for Tableau users",
-      "excerpt": "This module explores how Microsoft Power BI and Tableau connect to data and help you build visualizations.",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/courses/microsoft-learn-power-bi-tableau-intro/index.json",
-      "webUrl": "https://learn.microsoft.com/en-us/training/modules/power-bi-tableau-intro/",
-      "length": "PT19M",
-      "ratings": {
-        "count": 101,
-        "average": 4.742574
-      },
+      "path": "_learning/videos/guy-in-a-cube-getting-crazy-with-the-power-query-ui.md",
+      "title": "Getting Crazy with the Power Query UI",
+      "excerpt": "Using Merge statements? Alex shows you how that can break the fold in Power Query! He's got you covered though and shows you a different way to approach it to make folding work! Using the UI!  Alex Powers: https://twitter.com/notaboutthecell https://www.linkedin.com/in/alexmpowers/ https://itsnotaboutthecell.com/",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-getting-crazy-with-the-power-query-ui/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-getting-crazy-with-the-power-query-ui/",
+      "originalUrl": "https://youtube.com/watch?v=w_rSlWELBNk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/w_rSlWELBNk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M28S",
       "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 130,
+      "publishedDateTime": "2023-03-01T08:00:39-08:00",
+      "heat": 131,
       "images": [
         {
-          "url": "https://learn.microsoft.com/training/achievements/power-bi-tableau-intro-social.png",
+          "url": "https://i.ytimg.com/vi/w_rSlWELBNk/maxresdefault.jpg",
           "width": 1280,
-          "height": 641,
+          "height": 720,
           "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
+      "type": "video",
       "price": "Free",
       "topics": [
-        "Power BI"
+        "Power BI",
+        "Power Query"
       ]
     },
     {
@@ -306,23 +303,31 @@
       ]
     },
     {
-      "path": "_learning/videos/power-bi-tips-error-importing-theme-file-quick-tip.md",
-      "title": "Error Importing Theme File - Quick Tip",
-      "excerpt": "Power BI desktop released a new version in February of 2023, this feature breaks any custom properties observed when uploading a theme file into Power BI desktop.  This video show you how to use the PowerBI.tips theme generator to generate files without any errors.   Use the Theme generator https://themes.powerbi.tips",
-      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/power-bi-tips-error-importing-theme-file-quick-tip/index.json",
-      "webUrl": "https://everyday.cc/powerbi/learning/videos/power-bi-tips-error-importing-theme-file-quick-tip/",
-      "originalUrl": "https://youtube.com/watch?v=lkHxdO3YL-A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/lkHxdO3YL-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M6S",
+      "path": "_learning/videos/guy-in-a-cube-where-are-the-power-bi-gateway-logs-i-thought-i-knew.md",
+      "title": "Where are the Power BI Gateway logs? I thought I knew...",
+      "excerpt": "Do you know where the Power BI Gateway log files are? I didn't! I'll show you a tool I use to help figure something like this out. And also tell you where they are!  Process Monitor https://learn.microsoft.com/sysinternals/downloads/procmon  Rui Romano's Gateway Monitor Report https://github.com/RuiRomano/pbigtwmonitor",
+      "sourceUrl": "https://everyday-cc.github.io/powerbi/api/learning/videos/guy-in-a-cube-where-are-the-power-bi-gateway-logs-i-thought-i-knew/index.json",
+      "webUrl": "https://everyday.cc/powerbi/learning/videos/guy-in-a-cube-where-are-the-power-bi-gateway-logs-i-thought-i-knew/",
+      "originalUrl": "https://youtube.com/watch?v=H6sLCVanIYE",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/H6sLCVanIYE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT4M49S",
       "provider": {
-        "name": "Power BI Tips",
-        "domain": "powerbi.tips"
+        "name": "Guy in a Cube",
+        "domain": "guyinacube.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/powerbi/assets/images/organizations/guyinacube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2023-02-25T14:58:34-08:00",
+      "publishedDateTime": "2023-04-06T08:00:17-07:00",
       "heat": 130,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/lkHxdO3YL-A/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/H6sLCVanIYE/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -481,8 +486,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
           "length": "PT36M",
           "ratings": {
-            "count": 62369,
-            "average": 4.7959404
+            "count": 62373,
+            "average": 4.7959533
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -523,8 +528,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 88321,
-            "average": 4.7779126
+            "count": 88328,
+            "average": 4.777919
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -583,8 +588,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
       "length": "PT40M",
       "ratings": {
-        "count": 88321,
-        "average": 4.7779126
+        "count": 88328,
+        "average": 4.777919
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -892,8 +897,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/data-analytics-microsoft/",
       "length": "PT36M",
       "ratings": {
-        "count": 62369,
-        "average": 4.7959404
+        "count": 62373,
+        "average": 4.7959533
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1109,8 +1114,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
           "length": "PT46M",
           "ratings": {
-            "count": 19749,
-            "average": 4.753557
+            "count": 19754,
+            "average": 4.7536197
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1151,8 +1156,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/explore-power-bi-service/",
           "length": "PT1H9M",
           "ratings": {
-            "count": 11852,
-            "average": 4.6810665
+            "count": 11853,
+            "average": 4.681093
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1185,8 +1190,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 88321,
-            "average": 4.7779126
+            "count": 88328,
+            "average": 4.777919
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -1245,8 +1250,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/introduction-power-bi/",
       "length": "PT46M",
       "ratings": {
-        "count": 19749,
-        "average": 4.753557
+        "count": 19754,
+        "average": 4.7536197
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -1486,8 +1491,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/",
           "length": "PT40M",
           "ratings": {
-            "count": 88321,
-            "average": 4.7779126
+            "count": 88328,
+            "average": 4.777919
           },
           "provider": {
             "name": "Microsoft Learn",

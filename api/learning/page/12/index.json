@@ -350,8 +350,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/create-paginated-reports-power-bi/",
           "length": "PT15M",
           "ratings": {
-            "count": 3423,
-            "average": 4.72305
+            "count": 3424,
+            "average": 4.7231307
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -517,8 +517,8 @@
           "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
           "length": "PT9M",
           "ratings": {
-            "count": 6011,
-            "average": 4.79837
+            "count": 6012,
+            "average": 4.7984033
           },
           "provider": {
             "name": "Microsoft Learn",
@@ -577,8 +577,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/dax-power-bi-models/",
       "length": "PT29M",
       "ratings": {
-        "count": 3918,
-        "average": 4.7468095
+        "count": 3920,
+        "average": 4.7469387
       },
       "provider": {
         "name": "Microsoft Learn",
@@ -704,8 +704,8 @@
       "webUrl": "https://learn.microsoft.com/en-us/training/modules/row-level-security-power-bi/",
       "length": "PT9M",
       "ratings": {
-        "count": 6011,
-        "average": 4.79837
+        "count": 6012,
+        "average": 4.7984033
       },
       "provider": {
         "name": "Microsoft Learn",
